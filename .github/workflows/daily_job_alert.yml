@@ -9,6 +9,9 @@ jobs:
   job-alert:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write       # Required to push changes back to the repo
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -19,14 +22,24 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
+          pip install openpyxl  # Ensure excel support
 
       - name: Run job alert script
         env:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: python main.py
 
-      - name: Upload Results
+      - name: Commit and Push results
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add job_matches_*.md job_matches_*.xlsx
+          git commit -m "Auto-update job matches [skip ci]" || echo "No changes to commit"
+          git push
+
+      - name: Upload Results as Artifacts
         uses: actions/upload-artifact@v4
         with:
           name: job-matches
