@@ -1,43 +1,52 @@
 import pandas as pd
 from jobspy import scrape_jobs
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+def scrape_single_title(title: str, location: str):
+    """
+    Worker function to scrape a single title.
+    """
+    try:
+        print(f"Scraping for: {title}")
+        jobs: pd.DataFrame = scrape_jobs(
+            site_name=["indeed", "zip_recruiter"],
+            search_term=title,
+            location=location,
+            results_wanted=500,
+            hours_old=24,
+            country_watchlist=["USA"]
+        )
+        return jobs
+    except Exception as e:
+        print(f"Error scraping {title}: {e}")
+        return pd.DataFrame()
 
 def collect_all_jobs(titles: list, location: str = "United States") -> list:
     """
-    Scrapes jobs from Indeed and ZipRecruiter using python-jobspy.
+    Scrapes jobs from Indeed and ZipRecruiter using python-jobspy in parallel.
     Returns a list of dictionaries.
     """
     all_jobs_df = pd.DataFrame()
     
-    # Increased results per title and added ZipRecruiter for more coverage
-    # Added delays between requests to avoid rate limiting
+    print(f"Starting parallel scrape for {len(titles)} titles in {location}...")
     
-    print(f"Starting scrape for {len(titles)} titles in {location}...")
-    
-    for idx, title in enumerate(titles):
-        print(f"Scraping for: {title} ({idx+1}/{len(titles)})")
-        try:
-            jobs: pd.DataFrame = scrape_jobs(
-                site_name=["indeed", "zip_recruiter"],  # Removed LinkedIn/Glassdoor (failing with 400 errors)
-                search_term=title,
-                location=location,
-                results_wanted=500, # Increased from 300 to 500 for more coverage
-                hours_old=24,       # Restrict to last 24 hours
-                country_watchlist=["USA"]
-            )
-            
-            if not jobs.empty:
-                all_jobs_df = pd.concat([all_jobs_df, jobs], ignore_index=True)
-                print(f"Found {len(jobs)} jobs for {title}")
-            else:
-                print(f"No jobs found for {title}")
-                
-            # Add delay between requests to avoid rate limiting (except for last request)
-            if idx < len(titles) - 1:
-                time.sleep(2)
-                
-        except Exception as e:
-            print(f"Error scraping {title}: {e}")
+    # Use ThreadPoolExecutor to scrape titles in parallel
+    # Max workers set to 5 to avoid overwhelming the sites/rate limits while still being fast
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        future_to_title = {executor.submit(scrape_single_title, title, location): title for title in titles}
+        
+        for future in as_completed(future_to_title):
+            title = future_to_title[future]
+            try:
+                jobs = future.result()
+                if not jobs.empty:
+                    all_jobs_df = pd.concat([all_jobs_df, jobs], ignore_index=True)
+                    print(f"✓ Found {len(jobs)} jobs for {title}")
+                else:
+                    print(f"- No jobs found for {title}")
+            except Exception as e:
+                print(f"Exception for {title}: {e}")
 
     if all_jobs_df.empty:
         return []

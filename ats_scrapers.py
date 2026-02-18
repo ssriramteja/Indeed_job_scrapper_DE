@@ -125,42 +125,49 @@ def search_icims_jobs(title: str, location: str = "United States") -> list:
     
     return jobs
 
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
 def collect_ats_jobs(titles: list, location: str = "United States") -> list:
     """
     Main function to collect jobs from ATS platforms (Workday, Greenhouse, iCIMS).
-    Uses free Google search - no API key required!
+    Uses ThreadPoolExecutor for parallelized Google searching.
     """
     print("\n" + "=" * 60)
     print("ATS JOB BOARD SCRAPER (Workday, Greenhouse, iCIMS)")
-    print("Using free Google search - no API key needed!")
+    print("Using parallel Google search for maximum speed!")
     print("=" * 60)
     
     all_jobs = []
     
-    # Limit to first 3 titles to avoid too many requests
-    search_titles = titles[:3]
+    # Limit to first 5 titles for ATS to keep search volume reasonable
+    search_titles = titles[:5]
     
-    for idx, title in enumerate(search_titles):
-        print(f"\n[{idx+1}/{len(search_titles)}] Searching for: {title}")
+    def search_worker(platform_func, title, loc):
+        platform_name = platform_func.__name__.split('_')[1].capitalize()
+        # print(f"  → Searching {platform_name} for {title}...")
+        return platform_func(title, loc)
+
+    # We'll run searches for each platform and each title in parallel
+    search_tasks = []
+    platforms = [search_workday_jobs, search_greenhouse_jobs, search_icims_jobs]
+    
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        future_to_info = {}
+        for title in search_titles:
+            for platform_func in platforms:
+                future = executor.submit(search_worker, platform_func, title, location)
+                future_to_info[future] = (platform_func.__name__, title)
         
-        # Search each platform
-        print("  → Workday...", end=" ")
-        workday_jobs = search_workday_jobs(title, location)
-        print(f"found {len(workday_jobs)}")
-        all_jobs.extend(workday_jobs)
-        time.sleep(2)  # Rate limiting
-        
-        print("  → Greenhouse...", end=" ")
-        greenhouse_jobs = search_greenhouse_jobs(title, location)
-        print(f"found {len(greenhouse_jobs)}")
-        all_jobs.extend(greenhouse_jobs)
-        time.sleep(2)
-        
-        print("  → iCIMS...", end=" ")
-        icims_jobs = search_icims_jobs(title, location)
-        print(f"found {len(icims_jobs)}")
-        all_jobs.extend(icims_jobs)
-        time.sleep(2)
+        for future in as_completed(future_to_info):
+            func_name, title = future_to_info[future]
+            try:
+                jobs = future.result()
+                if jobs:
+                    all_jobs.extend(jobs)
+                    platform = func_name.split('_')[1].capitalize()
+                    print(f"  ✓ {platform}: Found {len(jobs)} jobs for '{title}'")
+            except Exception as e:
+                print(f"  ✗ Error in {func_name} for {title}: {e}")
     
     print(f"\n✅ Total ATS jobs found: {len(all_jobs)}")
     return all_jobs
