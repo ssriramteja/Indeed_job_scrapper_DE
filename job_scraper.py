@@ -22,7 +22,7 @@ def collect_all_jobs(titles: list, location: str = "United States") -> list:
                 search_term=title,
                 location=location,
                 results_wanted=500, # Increased from 300 to 500 for more coverage
-                hours_old=72,       # Increased from 24 to 72 hours for more jobs
+                hours_old=24,       # Restrict to last 24 hours
                 country_watchlist=["USA"]
             )
             
