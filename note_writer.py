@@ -6,7 +6,13 @@ def save_jobs_to_note(jobs: list):
     Writes the ranked jobs to a markdown file.
     """
     today = date.today().strftime("%Y-%m-%d")
-    filename = f"job_matches_{today}.md"
+    output_dir = "results"
+    
+    # Create directory if it doesn't exist
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+        
+    filename = os.path.join(output_dir, f"job_matches_{today}.md")
     
     # Markdown header
     content = f"# 🎯 Daily Job Matches — {today}\n\n"
@@ -46,7 +52,13 @@ def save_jobs_to_excel(jobs: list):
         return None
         
     today = date.today().strftime("%Y-%m-%d")
-    filename = f"job_matches_{today}.xlsx"
+    output_dir = "results"
+    
+    # Create directory if it doesn't exist
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+        
+    filename = os.path.join(output_dir, f"job_matches_{today}.xlsx")
     
     # Prepare data for DataFrame
     df_data = []
