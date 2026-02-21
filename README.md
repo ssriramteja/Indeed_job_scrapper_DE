@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-21 09:22
+Last updated: 2026-02-21 10:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=81eb7d99af38ec58) | 2026-02-21 10:17 |
+| Johnson Controls | Backend Software Engineer (hybrid) | Milwaukee, WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f5227f1e48c9e496) | 2026-02-21 10:17 |
 | Deloitte | Senior Data Engineer | San Jose, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8ed48e228bf802be) | 2026-02-21 09:22 |
-| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=81eb7d99af38ec58) | 2026-02-21 09:22 |
 | Ascension | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11c257b267f7ca14) | 2026-02-21 09:22 |
 | Edwards Lifesciences | Senior Distinguished Architect, Data and AI Integration | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ff1219e8f32a9880) | 2026-02-21 08:21 |
 | AssistRx | Senior Data Engineer - Cloud Data Platform (Snowflake & dbt) | Maitland, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b78039922ffb238e) | 2026-02-21 08:21 |
