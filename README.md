@@ -1,14 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-21 05:06
+Last updated: 2026-02-21 06:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=81eb7d99af38ec58) | 2026-02-21 06:32 |
+| American Academy of Orthopaedic Surgeons | Senior Data Engineer | Rosemont, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c11ce56e07f4ef5b) | 2026-02-21 06:32 |
+| Crackajack Solutions | Data Engineer – Kafka, Snowflake, Google Dataflow | Renton, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4b91cda9ef9060b0) | 2026-02-21 06:32 |
+| MGM Resorts International | AI Commercial & ML Ops Engineer | Las Vegas, NV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d1ac103ab878235) | 2026-02-21 06:32 |
+| AST SpaceMobile | Data Governance Senior | Lanham, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=448a79b744e2442c) | 2026-02-21 06:32 |
+| Oran Inc | Senior Data Engineer- Snowflake - USC/GC (federal client) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c9af366e1c74efef) | 2026-02-21 06:32 |
 | Stitch Consulting Services, Inc. | Technical Architect - Databricks | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d2439e6093084e24) | 2026-02-21 05:06 |
-| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=81eb7d99af38ec58) | 2026-02-21 05:06 |
-| Photon | Agentic AI FDE \| USA \| FTE Only | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a599c138b53329f5) | 2026-02-21 05:06 |
 | Tesla | Sr. Site Reliability Engineer, Observability | Fremont, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e9f51bf904dca976) | 2026-02-21 05:06 |
 | Gentiva | Databricks Data Engineer | Atlanta, GA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=4979b99382efe90b) | 2026-02-21 03:59 |
 | Tata Consultancy Services (TCS) | Senior Engineer -Big Data | Allen, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e579feba72cf8610) | 2026-02-21 03:59 |
