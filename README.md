@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-21 13:37
+Last updated: 2026-02-21 14:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Proactive Logic Consulting Inc | Senior Microsoft Fabric & Power BI Consultant (AI-Forward) — Healthcare Data & Analytics | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c62c91a087c2799) | 2026-02-21 14:19 |
+| Mayo Clinic | Data Engineer | Rochester, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=587df161b94e20e7) | 2026-02-21 14:19 |
 | C.H. Robinson | Software Engineer II | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89cedea96b8947cc) | 2026-02-21 11:16 |
 | Johnson Controls | Backend Software Engineer (hybrid) | Milwaukee, WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f5227f1e48c9e496) | 2026-02-21 10:17 |
 | Deloitte | Senior Data Engineer | San Jose, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8ed48e228bf802be) | 2026-02-21 09:22 |
