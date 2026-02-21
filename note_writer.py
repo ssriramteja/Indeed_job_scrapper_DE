@@ -86,11 +86,13 @@ def update_readme_with_jobs(new_jobs: list):
     """
     Updates the README.md in the root directory with a table of jobs.
     Maintains history for 4 days and avoids duplicates.
+    Sorts by latest arrival (Discovery Timestamp).
     """
     from datetime import datetime, timedelta
     
     today_dt = datetime.now()
-    today_str = today_dt.strftime("%Y-%m-%d")
+    # Use full timestamp for discovery
+    now_str = today_dt.strftime("%Y-%m-%d %H:%M")
     four_days_ago = today_dt - timedelta(days=4)
     
     # README path
@@ -103,14 +105,12 @@ def update_readme_with_jobs(new_jobs: list):
                 lines = f.readlines()
             
             # Find the table rows
-            table_started = False
             for line in lines:
                 if "|" in line and "Company" not in line and ":---" not in line:
                     parts = [p.strip() for p in line.split("|") if p.strip()]
                     if len(parts) >= 6:
                         # Index mapping: 0=Company, 1=Role, 2=Location, 3=Score, 4=Link, 5=Date
                         apply_link_md = parts[4]
-                        # Extract URL from markdown [Apply](url)
                         import re
                         url_match = re.search(r'\[Apply\]\((.*?)\)', apply_link_md)
                         link = url_match.group(1) if url_match else "#"
@@ -132,35 +132,50 @@ def update_readme_with_jobs(new_jobs: list):
     # Add existing jobs (if not too old)
     for job in existing_jobs:
         try:
-            job_date = datetime.strptime(job["date_found"], "%Y-%m-%d")
+            # Parse existing date (could be YYYY-MM-DD or YYYY-MM-DD HH:MM)
+            date_found = job["date_found"]
+            if " " in date_found:
+                job_date = datetime.strptime(date_found, "%Y-%m-%d %H:%M")
+            else:
+                job_date = datetime.strptime(date_found, "%Y-%m-%d")
+                
             if job_date >= four_days_ago:
                 all_jobs_dict[job["apply_link"]] = job
         except (ValueError, KeyError):
-            # If date is invalid, keep it just in case, or skip if strictly enforcing
             continue
 
-    # Add new jobs (overwriting duplicates with fresh data if needed)
+    # Add new jobs
     for job in new_jobs:
         link = job.get('apply_link', '#')
-        all_jobs_dict[link] = {
-            "company": job.get('company', 'N/A'),
-            "title": job.get('title', 'N/A'),
-            "location": job.get('location', 'N/A'),
-            "score": str(job.get('score', 0)),
-            "apply_link": link,
-            "date_found": today_str
-        }
+        # Only add if it's genuinely new OR if we want to refresh the timestamp for a repeat listing
+        # Usually, if it's in the README within 4 days, we consider it "already found".
+        if link not in all_jobs_dict:
+            all_jobs_dict[link] = {
+                "company": job.get('company', 'N/A'),
+                "title": job.get('title', 'N/A'),
+                "location": job.get('location', 'N/A'),
+                "score": str(job.get('score', 0)),
+                "apply_link": link,
+                "date_found": now_str
+            }
 
-    # Sort merged jobs by date (descending) then score (descending)
+    # Sort merged jobs by date_found (descending) then score (descending)
+    # We use a custom key to handle string comparison correctly for timestamps
+    def sort_key(x):
+        d = x["date_found"]
+        # Ensure string comparison works by padding if it's just a date
+        full_d = d if " " in d else f"{d} 00:00"
+        return (full_d, float(x["score"]))
+
     sorted_jobs = sorted(
         all_jobs_dict.values(), 
-        key=lambda x: (x["date_found"], float(x["score"])), 
+        key=sort_key, 
         reverse=True
     )
 
     # Header and Table structure
     content = f"# 🎯 Job Search Alert System\n\n"
-    content += f"Last updated: {today_str}\n\n"
+    content += f"Last updated: {now_str}\n\n"
     content += "### 🚀 Daily Job Matches\n\n"
     content += "| Company | Role | Location | Match Score | Application | Date Found |\n"
     content += "| :--- | :--- | :--- | :--- | :--- | :--- |\n"
