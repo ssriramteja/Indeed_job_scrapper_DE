@@ -1,15 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-21 03:59
+Last updated: 2026-02-21 05:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Stitch Consulting Services, Inc. | Technical Architect - Databricks | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d2439e6093084e24) | 2026-02-21 05:06 |
+| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=81eb7d99af38ec58) | 2026-02-21 05:06 |
+| Photon | Agentic AI FDE \| USA \| FTE Only | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a599c138b53329f5) | 2026-02-21 05:06 |
+| Tesla | Sr. Site Reliability Engineer, Observability | Fremont, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e9f51bf904dca976) | 2026-02-21 05:06 |
 | Gentiva | Databricks Data Engineer | Atlanta, GA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=4979b99382efe90b) | 2026-02-21 03:59 |
 | Tata Consultancy Services (TCS) | Senior Engineer -Big Data | Allen, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e579feba72cf8610) | 2026-02-21 03:59 |
 | Tata Consultancy Services (TCS) | Senior Engineer -Big Data | Costa Mesa, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=faece3b1d96f1a60) | 2026-02-21 03:59 |
-| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=81eb7d99af38ec58) | 2026-02-21 03:59 |
 | Adidev Technologies Inc | Data Scientist / Data Science Specialist | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=91cd87d39ed00187) | 2026-02-21 03:59 |
 | NTT DATA | Software Engineer - Full Stack | MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e06ca5d0cbf6168e) | 2026-02-21 03:59 |
 | Southern New Hampshire University | Senior Software AI Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eaf894cd20490ad2) | 2026-02-21 03:59 |
@@ -17,7 +20,6 @@ Last updated: 2026-02-21 03:59
 | Esri | Sr. Integration Developer | Redlands, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cf85a045c6e50084) | 2026-02-21 03:59 |
 | Southern New Hampshire University | Senior Software AI Engineer - Fullstack | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=04eec46adb7daf9d) | 2026-02-21 03:59 |
 | BlackRock | Dev Ops and Cloud Engineer, Associate | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e73c18f9abaa746c) | 2026-02-21 03:59 |
-| Photon | Agentic AI FDE \| USA \| FTE Only | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a599c138b53329f5) | 2026-02-21 03:59 |
 | Block | Senior Machine Learning Engineer, Risk Modeling | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2749ecb9f8a0dc09) | 2026-02-21 03:59 |
 | Block | Senior Machine Learning Engineer, Risk Modeling | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=43f57fcb65df08a3) | 2026-02-21 03:59 |
 | MetLife | Junior Software Engineer | Whippany, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27a8a2a71007930a) | 2026-02-21 03:59 |
