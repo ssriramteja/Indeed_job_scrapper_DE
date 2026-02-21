@@ -122,6 +122,11 @@ def git_push_changes():
     """
     Adds, commits, and pushes changes to Git.
     """
+    # Skip if running in GitHub Actions to avoid redundant pushes and potential loops
+    if os.getenv('GITHUB_ACTIONS') == 'true':
+        print("\nℹ️ Running in GitHub Actions. Skipping internal git push.")
+        return True
+
     try:
         # Get repo root (where .git is)
         root_dir = os.path.dirname(os.path.abspath(__file__))
