@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-21 06:32
+Last updated: 2026-02-21 07:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=81eb7d99af38ec58) | 2026-02-21 06:32 |
+| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=81eb7d99af38ec58) | 2026-02-21 07:27 |
+| LMG Technology Services LLC | Systems Analyst 2 (529601635) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f5d3ad4cb950114) | 2026-02-21 07:27 |
+| Driven Brands | Data Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=039063e25cce7591) | 2026-02-21 07:27 |
 | American Academy of Orthopaedic Surgeons | Senior Data Engineer | Rosemont, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c11ce56e07f4ef5b) | 2026-02-21 06:32 |
 | Crackajack Solutions | Data Engineer – Kafka, Snowflake, Google Dataflow | Renton, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4b91cda9ef9060b0) | 2026-02-21 06:32 |
 | MGM Resorts International | AI Commercial & ML Ops Engineer | Las Vegas, NV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d1ac103ab878235) | 2026-02-21 06:32 |
