@@ -59,6 +59,12 @@ def main():
         print(f"🏆 Top match: {ranked[0]['title']} at {ranked[0]['company']} — {ranked[0]['score']}%")
         filename = save_jobs_to_note(ranked)
         excel_filename = save_jobs_to_excel(ranked)
+        
+        # New requirements: Table in README and Git push
+        from note_writer import update_readme_with_jobs, git_push_changes
+        update_readme_with_jobs(ranked)
+        git_push_changes()
+        
         print(f"\n📝 Done! Check '{filename}' and '{excel_filename}' for your daily job matches.")
     else:
         print("\n❌ No matching jobs found today after filtering.")

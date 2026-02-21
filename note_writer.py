@@ -1,5 +1,6 @@
 from datetime import date
 import os
+import subprocess
 
 def save_jobs_to_note(jobs: list):
     """
@@ -80,4 +81,77 @@ def save_jobs_to_excel(jobs: list):
     
     print(f"Successfully saved {len(jobs)} jobs to {filename}")
     return filename
+
+def update_readme_with_jobs(jobs: list):
+    """
+    Updates the README.md in the root directory with a table of jobs.
+    """
+    if not jobs:
+        return
+        
+    today = date.today().strftime("%Y-%m-%d")
+    # README should be in the same directory as the script (repo root)
+    readme_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "README.md")
+    
+    # Header and Table structure
+    content = f"# 🎯 Job Search Alert System\n\n"
+    content += f"Last updated: {today}\n\n"
+    content += "### 🚀 Daily Job Matches\n\n"
+    content += "| Company | Role | Location | Match Score | Application | Date Found |\n"
+    content += "| :--- | :--- | :--- | :--- | :--- | :--- |\n"
+    
+    for job in jobs:
+        company = job.get('company', 'N/A').replace("|", "\\|")
+        title = job.get('title', 'N/A').replace("|", "\\|")
+        location = job.get('location', 'N/A').replace("|", "\\|")
+        score = f"{job.get('score', 0)}%"
+        link = job.get('apply_link', '#')
+        date_found = today
+        
+        content += f"| {company} | {title} | {location} | {score} | [Apply]({link}) | {date_found} |\n"
+    
+    content += "\n\n---\n*Automated job search powered by Indeed & ATS Scrapers.*"
+    
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write(content)
+    
+    print(f"✓ Updated README.md with {len(jobs)} jobs")
+    return readme_path
+
+def git_push_changes():
+    """
+    Adds, commits, and pushes changes to Git.
+    """
+    try:
+        # Get repo root (where .git is)
+        root_dir = os.path.dirname(os.path.abspath(__file__))
+        
+        print("\n⚙️ Pushing changes to Git...")
+        
+        # Add changes
+        subprocess.run(["git", "add", "."], cwd=root_dir, check=True)
+        
+        # Commit
+        today = date.today().strftime("%Y-%m-%d")
+        commit_msg = f"Update job matches: {today}"
+        
+        # Check if there are changes to commit
+        status = subprocess.run(["git", "status", "--porcelain"], cwd=root_dir, capture_output=True, text=True)
+        if not status.stdout.strip():
+            print("ℹ️ No changes to commit.")
+            return True
+            
+        subprocess.run(["git", "commit", "-m", commit_msg], cwd=root_dir, check=True)
+        
+        # Push
+        subprocess.run(["git", "push"], cwd=root_dir, check=True)
+        
+        print("🚀 Successfully pushed to Git!")
+        return True
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Git error: {e}")
+        return False
+    except Exception as e:
+        print(f"❌ General error: {e}")
+        return False
 
