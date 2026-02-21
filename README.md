@@ -1,12 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-21 07:27
+Last updated: 2026-02-21 08:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=81eb7d99af38ec58) | 2026-02-21 07:27 |
+| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=81eb7d99af38ec58) | 2026-02-21 08:21 |
+| Edwards Lifesciences | Senior Distinguished Architect, Data and AI Integration | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ff1219e8f32a9880) | 2026-02-21 08:21 |
+| AssistRx | Senior Data Engineer - Cloud Data Platform (Snowflake & dbt) | Maitland, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b78039922ffb238e) | 2026-02-21 08:21 |
+| nan | Full Stack Developer | Fredericksburg, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3acc87aee1bc1fbc) | 2026-02-21 08:21 |
+| nan | Full Stack Developer | Township of Liberty, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=adda1ac27c2224d4) | 2026-02-21 08:21 |
+| nan | Full Stack Developer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67bd98c9d61e607e) | 2026-02-21 08:21 |
+| nan | Full Stack Developer | Miamisburg, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=060b9fc9185471ea) | 2026-02-21 08:21 |
+| nan | Full Stack Developer | Woburn, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d960d787222d1f56) | 2026-02-21 08:21 |
+| SentiLink | Founding Senior Machine Learning Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b480c210788d0b19) | 2026-02-21 08:21 |
 | LMG Technology Services LLC | Systems Analyst 2 (529601635) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f5d3ad4cb950114) | 2026-02-21 07:27 |
 | Driven Brands | Data Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=039063e25cce7591) | 2026-02-21 07:27 |
 | American Academy of Orthopaedic Surgeons | Senior Data Engineer | Rosemont, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c11ce56e07f4ef5b) | 2026-02-21 06:32 |
