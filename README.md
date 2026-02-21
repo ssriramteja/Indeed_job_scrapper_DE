@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-21 22:15
+Last updated: 2026-02-21 23:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3b32f6f53279a94) | 2026-02-21 23:17 |
 | Charles Schwab | Cloud Data Platform Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9aedb77097be25e8) | 2026-02-21 15:17 |
 | Proactive Logic Consulting Inc | Senior Microsoft Fabric & Power BI Consultant (AI-Forward) — Healthcare Data & Analytics | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c62c91a087c2799) | 2026-02-21 14:19 |
 | Mayo Clinic | Data Engineer | Rochester, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=587df161b94e20e7) | 2026-02-21 14:19 |
