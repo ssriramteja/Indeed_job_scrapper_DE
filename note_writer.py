@@ -82,31 +82,96 @@ def save_jobs_to_excel(jobs: list):
     print(f"Successfully saved {len(jobs)} jobs to {filename}")
     return filename
 
-def update_readme_with_jobs(jobs: list):
+def update_readme_with_jobs(new_jobs: list):
     """
     Updates the README.md in the root directory with a table of jobs.
+    Maintains history for 4 days and avoids duplicates.
     """
-    if not jobs:
-        return
-        
-    today = date.today().strftime("%Y-%m-%d")
-    # README should be in the same directory as the script (repo root)
+    from datetime import datetime, timedelta
+    
+    today_dt = datetime.now()
+    today_str = today_dt.strftime("%Y-%m-%d")
+    four_days_ago = today_dt - timedelta(days=4)
+    
+    # README path
     readme_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "README.md")
     
+    existing_jobs = []
+    if os.path.exists(readme_path):
+        try:
+            with open(readme_path, "r", encoding="utf-8") as f:
+                lines = f.readlines()
+            
+            # Find the table rows
+            table_started = False
+            for line in lines:
+                if "|" in line and "Company" not in line and ":---" not in line:
+                    parts = [p.strip() for p in line.split("|") if p.strip()]
+                    if len(parts) >= 6:
+                        # Index mapping: 0=Company, 1=Role, 2=Location, 3=Score, 4=Link, 5=Date
+                        apply_link_md = parts[4]
+                        # Extract URL from markdown [Apply](url)
+                        import re
+                        url_match = re.search(r'\[Apply\]\((.*?)\)', apply_link_md)
+                        link = url_match.group(1) if url_match else "#"
+                        
+                        existing_jobs.append({
+                            "company": parts[0].replace("\\|", "|"),
+                            "title": parts[1].replace("\\|", "|"),
+                            "location": parts[2].replace("\\|", "|"),
+                            "score": parts[3].replace("%", ""),
+                            "apply_link": link,
+                            "date_found": parts[5]
+                        })
+        except Exception as e:
+            print(f"⚠️ Warning: Could not parse existing README: {e}")
+
+    # Merge and Deduplicate by apply link
+    all_jobs_dict = {}
+    
+    # Add existing jobs (if not too old)
+    for job in existing_jobs:
+        try:
+            job_date = datetime.strptime(job["date_found"], "%Y-%m-%d")
+            if job_date >= four_days_ago:
+                all_jobs_dict[job["apply_link"]] = job
+        except (ValueError, KeyError):
+            # If date is invalid, keep it just in case, or skip if strictly enforcing
+            continue
+
+    # Add new jobs (overwriting duplicates with fresh data if needed)
+    for job in new_jobs:
+        link = job.get('apply_link', '#')
+        all_jobs_dict[link] = {
+            "company": job.get('company', 'N/A'),
+            "title": job.get('title', 'N/A'),
+            "location": job.get('location', 'N/A'),
+            "score": str(job.get('score', 0)),
+            "apply_link": link,
+            "date_found": today_str
+        }
+
+    # Sort merged jobs by date (descending) then score (descending)
+    sorted_jobs = sorted(
+        all_jobs_dict.values(), 
+        key=lambda x: (x["date_found"], float(x["score"])), 
+        reverse=True
+    )
+
     # Header and Table structure
     content = f"# 🎯 Job Search Alert System\n\n"
-    content += f"Last updated: {today}\n\n"
+    content += f"Last updated: {today_str}\n\n"
     content += "### 🚀 Daily Job Matches\n\n"
     content += "| Company | Role | Location | Match Score | Application | Date Found |\n"
     content += "| :--- | :--- | :--- | :--- | :--- | :--- |\n"
     
-    for job in jobs:
-        company = job.get('company', 'N/A').replace("|", "\\|")
-        title = job.get('title', 'N/A').replace("|", "\\|")
-        location = job.get('location', 'N/A').replace("|", "\\|")
-        score = f"{job.get('score', 0)}%"
-        link = job.get('apply_link', '#')
-        date_found = today
+    for job in sorted_jobs:
+        company = job['company'].replace("|", "\\|")
+        title = job['title'].replace("|", "\\|")
+        location = job['location'].replace("|", "\\|")
+        score = f"{job['score']}%"
+        link = job['apply_link']
+        date_found = job['date_found']
         
         content += f"| {company} | {title} | {location} | {score} | [Apply]({link}) | {date_found} |\n"
     
@@ -115,7 +180,7 @@ def update_readme_with_jobs(jobs: list):
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(content)
     
-    print(f"✓ Updated README.md with {len(jobs)} jobs")
+    print(f"✓ Updated README.md with {len(sorted_jobs)} jobs (Total from last 4 days)")
     return readme_path
 
 def git_push_changes():
