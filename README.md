@@ -1,13 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-22 22:15
+Last updated: 2026-02-22 23:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e118e0038cca00a8) | 2026-02-22 22:15 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cee995a368e6f967) | 2026-02-22 22:15 |
+| Dell Technologies | Senior Systems Engineer, UDS Data Management - West | CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6bf94c93449dfa3d) | 2026-02-22 23:17 |
+| Dell Technologies | Senior Systems Engineer, UDS Data Management - Central | IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=23fa7ab7f29d61af) | 2026-02-22 23:17 |
+| Dell Technologies | Senior Systems Engineer, UDS Data Management - East | MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ff8fbb8c2cb45e2e) | 2026-02-22 23:17 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e118e0038cca00a8) | 2026-02-22 23:17 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cee995a368e6f967) | 2026-02-22 23:17 |
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6880377961dd34c) | 2026-02-22 08:22 |
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f8d81da2675f09a) | 2026-02-22 08:22 |
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | Jericho, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80ecea7854c84d2f) | 2026-02-22 08:22 |
