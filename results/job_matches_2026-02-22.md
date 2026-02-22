@@ -27,7 +27,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Backend Engineer @ A L P
+## 3. Data Engineer @ BV Teck
+**Match Score:** 15.3%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Redshift, Azure, GCP, BigQuery, Hadoop, Spark, Scala, Kafka, Snowflake
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ddc1e10f9afcac16)
+
+---
+
+## 4. Backend Engineer @ A L P
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Database Architect-Transportation Data Collection-Remote @ Quality Counts
+## 5. Database Architect-Transportation Data Collection-Remote @ Quality Counts
 **Match Score:** 13.2%
 
 📍 **Location:** Tampa, FL, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Backend Software Engineer (hybrid) @ Johnson Controls
+## 6. Backend Software Engineer (hybrid) @ Johnson Controls
 **Match Score:** 13.2%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Engineer @ Mayo Clinic
+## 7. Data Engineer @ Mayo Clinic
 **Match Score:** 11.8%
 
 📍 **Location:** Rochester, MN, US USA
@@ -71,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Data Engineer - Cloud Data Platform (Snowflake & dbt) @ AssistRx
+## 8. Data Engineer - Cloud Data Platform (Snowflake & dbt) @ AssistRx
 **Match Score:** 11.1%
 
 📍 **Location:** Maitland, FL, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Software Engineer @ Ascension
+## 9. Software Engineer @ Ascension
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -90,17 +101,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Google Cloud Platform, GCP, Scala, MongoDB, NoSQL, Data Modeling, CI/CD, Jenkins
 
 [Apply Here](https://www.indeed.com/viewjob?jk=11c257b267f7ca14)
-
----
-
-## 9. Data Engineer @ Driven Brands
-**Match Score:** 10.4%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** AWS, GCP, BigQuery, Scala, Snowflake, SQL Server, MySQL, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=039063e25cce7591)
 
 ---
 

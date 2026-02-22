@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-22 05:45
+Last updated: 2026-02-22 06:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cee995a368e6f967) | 2026-02-22 05:45 |
+| BV Teck | Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ddc1e10f9afcac16) | 2026-02-22 06:37 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cee995a368e6f967) | 2026-02-22 06:37 |
 | A L P | Backend Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b2334484c3690385) | 2026-02-22 04:09 |
 | Quality Counts | Database Architect-Transportation Data Collection-Remote | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=55a65847d8f6c718) | 2026-02-22 04:09 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3b32f6f53279a94) | 2026-02-21 23:17 |
