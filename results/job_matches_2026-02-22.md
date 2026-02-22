@@ -82,18 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Data Engineer - Cloud Data Platform (Snowflake & dbt) @ AssistRx
-**Match Score:** 11.1%
-
-📍 **Location:** Maitland, FL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, Data Modeling, Star Schema, dbt, Power BI, Tableau
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b78039922ffb238e)
-
----
-
-## 9. Software Engineer @ Ascension
+## 8. Software Engineer @ Ascension
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Software Engineer II @ C.H. Robinson
+## 9. Software Engineer II @ C.H. Robinson
 **Match Score:** 10.4%
 
 📍 **Location:** Eden Prairie, MN, US USA
@@ -112,6 +101,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, GCP, Kafka, Oracle, MongoDB, CI/CD, Azure DevOps, Docker, AKS
 
 [Apply Here](https://www.indeed.com/viewjob?jk=89cedea96b8947cc)
+
+---
+
+## 10. Senior Engineer -.NET @ GEICO
+**Match Score:** 10.4%
+
+📍 **Location:** Chevy Chase, MD, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, NoSQL, Azure DevOps, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=613a3090cae4237e)
 
 ---
 
