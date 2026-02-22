@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-02-22
 
-**Total Jobs Found:** 66
+**Total Jobs Found:** 65
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -698,18 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Software Engineer II @ C.H. Robinson
-**Match Score:** 10.4%
-
-📍 **Location:** Eden Prairie, MN, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Kafka, Oracle, MongoDB, CI/CD, Azure DevOps, Docker, AKS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=89cedea96b8947cc)
-
----
-
-## 65. Senior Engineer -.NET @ GEICO
+## 64. Senior Engineer -.NET @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Chevy Chase, MD, US USA
@@ -720,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Senior Software Engineer @ Mercury Insurance Company
+## 65. Senior Software Engineer @ Mercury Insurance Company
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA

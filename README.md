@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-22 09:22
+Last updated: 2026-02-22 10:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cee995a368e6f967) | 2026-02-22 09:22 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cee995a368e6f967) | 2026-02-22 10:16 |
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6880377961dd34c) | 2026-02-22 08:22 |
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f8d81da2675f09a) | 2026-02-22 08:22 |
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | Jericho, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80ecea7854c84d2f) | 2026-02-22 08:22 |
