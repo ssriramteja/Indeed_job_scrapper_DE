@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-22 08:22
+Last updated: 2026-02-22 09:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cee995a368e6f967) | 2026-02-22 09:22 |
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6880377961dd34c) | 2026-02-22 08:22 |
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f8d81da2675f09a) | 2026-02-22 08:22 |
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | Jericho, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80ecea7854c84d2f) | 2026-02-22 08:22 |
@@ -66,7 +67,6 @@ Last updated: 2026-02-22 08:22
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cf997269e2e10bdf) | 2026-02-22 08:22 |
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | New Orleans, LA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c9a413fb586ebb9f) | 2026-02-22 08:22 |
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=77c3f0c49614639e) | 2026-02-22 08:22 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cee995a368e6f967) | 2026-02-22 08:22 |
 | GEICO | Senior Engineer -.NET | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=613a3090cae4237e) | 2026-02-22 07:31 |
 | BV Teck | Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ddc1e10f9afcac16) | 2026-02-22 06:37 |
 | A L P | Backend Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b2334484c3690385) | 2026-02-22 04:09 |
