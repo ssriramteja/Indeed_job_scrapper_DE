@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-02-22
 
-**Total Jobs Found:** 67
+**Total Jobs Found:** 65
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,18 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Database Architect-Transportation Data Collection-Remote @ Quality Counts
-**Match Score:** 13.2%
-
-📍 **Location:** Tampa, FL, US USA
-
-🔑 **Keywords:** AWS, Redshift, Athena, RDS, BigQuery, Scala, Snowflake, SQL Server, PostgreSQL, MySQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=55a65847d8f6c718)
-
----
-
-## 4. Specialist, Data Engineer @ Nationwide Mutual Insurance Company
+## 3. Specialist, Data Engineer @ Nationwide Mutual Insurance Company
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 4. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Seattle, WA, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 5. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 6. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Jericho, NY, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 7. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Salt Lake City, UT, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 8. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 9. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Portland, OR, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 10. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Nashville, TN, US USA
@@ -126,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 11. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Dayton, OH, US USA
@@ -137,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 12. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -148,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 13. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Morristown, NJ, US USA
@@ -159,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 14. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Richmond, VA, US USA
@@ -170,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 15. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -181,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 16. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -192,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 17. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -203,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 18. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Princeton, NJ, US USA
@@ -214,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 19. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -225,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 20. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Austin, TX, US USA
@@ -236,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 21. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** McLean, VA, US USA
@@ -247,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 22. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Rochester, NY, US USA
@@ -258,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 23. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Midland, MI, US USA
@@ -269,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 24. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Omaha, NE, US USA
@@ -280,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 25. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Grand Rapids, MI, US USA
@@ -291,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 26. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -302,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 27. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -313,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 28. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -324,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 29. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Memphis, TN, US USA
@@ -335,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 30. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -346,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 31. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tempe, AZ, US USA
@@ -357,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 32. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -368,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 33. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -379,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 34. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tulsa, OK, US USA
@@ -390,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 35. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -401,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 36. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -412,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 37. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -423,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 38. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Boca Raton, FL, US USA
@@ -434,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 39. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Chicago, IL, US USA
@@ -445,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 40. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Hartford, CT, US USA
@@ -456,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 41. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Baltimore, MD, US USA
@@ -467,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 42. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -478,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 43. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -489,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 44. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -500,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 45. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Honolulu, HI, US USA
@@ -511,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 46. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Birmingham, AL, US USA
@@ -522,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 47. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tampa, FL, US USA
@@ -533,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 48. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Louisville, KY, US USA
@@ -544,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 49. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -555,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 50. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Davenport, IA, US USA
@@ -566,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 51. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -577,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 52. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Stamford, CT, US USA
@@ -588,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 53. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Detroit, MI, US USA
@@ -599,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 54. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Miami, FL, US USA
@@ -610,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 55. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Des Moines, IA, US USA
@@ -621,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 56. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Diego, CA, US USA
@@ -632,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 57. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -643,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 58. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Boise, ID, US USA
@@ -654,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 59. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Jose, CA, US USA
@@ -665,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 60. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Denver, CO, US USA
@@ -676,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 61. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -687,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 62. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** New Orleans, LA, US USA
@@ -698,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Senior Consultant - GenAI Full Stack Developer @ Deloitte
+## 63. Senior Consultant - GenAI Full Stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -709,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Senior Engineer -.NET @ GEICO
+## 64. Senior Engineer -.NET @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Chevy Chase, MD, US USA
@@ -720,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Senior Software Engineer @ Mercury Insurance Company
+## 65. Senior Software Engineer @ Mercury Insurance Company
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -728,17 +717,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, SQS, RDS, Azure, Scala, Kafka, MongoDB, NoSQL, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=cee995a368e6f967)
-
----
-
-## 67. Senior Software Engineer @ St. David's HealthCare
-**Match Score:** 10.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** RDS, Google Cloud Platform, BigQuery, Cloud Storage, Scala, SQL Server, ETL, CI/CD, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c3b32f6f53279a94)
 
 ---
 
