@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-23 18:53
+Last updated: 2026-02-23 19:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| National Retail Systems, Inc | IT Data Platform Engineer | Lyndhurst, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4da5376ea9ed63ff) | 2026-02-23 19:53 |
+| Qode | Senior Data Architect | Cleveland, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1a44f31ac4940b0d) | 2026-02-23 19:53 |
+| Qode | Senior Data Architect | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3e1483610ca5ce64) | 2026-02-23 19:53 |
+| Qode | Senior Data Architect | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5a76068c88e5733f) | 2026-02-23 19:53 |
+| RollKall | Analytics Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=68db2c37ad6b9984) | 2026-02-23 19:53 |
+| Avature | Data Engineer II | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4414e81252a871d7) | 2026-02-23 19:53 |
+| NATIONAL ASSOCIATION OF REALTORS® | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3bd2134994ec718) | 2026-02-23 19:53 |
+| Jarvis Recruitment | Full Stack Magento Developer – Remote (Canada) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e6328c1040c5967) | 2026-02-23 19:53 |
 | Eli Lilly | Associate - Data Engineer - Global Master Data | Indianapolis, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=326b602342da8867) | 2026-02-23 18:53 |
 | Nutrien | Sr Cloud Engineer | Loveland, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19dbe4103504c9e7) | 2026-02-23 18:53 |
 | American Electric Power | Solution Engineer Prin | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f1621e6d7e730c79) | 2026-02-23 17:55 |

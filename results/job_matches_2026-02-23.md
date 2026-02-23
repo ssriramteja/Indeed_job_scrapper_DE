@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-02-23
 
-**Total Jobs Found:** 20
+**Total Jobs Found:** 28
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -60,7 +60,51 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Sr Field Engineer @ Striim
+## 6. IT Data Platform Engineer @ National Retail Systems, Inc
+**Match Score:** 15.3%
+
+📍 **Location:** Lyndhurst, NJ, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, Athena, Step Functions, S3, SNS, IAM, RDS, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4da5376ea9ed63ff)
+
+---
+
+## 7. Senior Data Architect @ Qode
+**Match Score:** 13.9%
+
+📍 **Location:** Cleveland, OH, US USA
+
+🔑 **Keywords:** Glue, Kinesis, RDS, Spark, PySpark, Scala, Kafka, NoSQL, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1a44f31ac4940b0d)
+
+---
+
+## 8. Senior Data Architect @ Qode
+**Match Score:** 13.9%
+
+📍 **Location:** Pittsburgh, PA, US USA
+
+🔑 **Keywords:** Glue, Kinesis, RDS, Spark, PySpark, Scala, Kafka, NoSQL, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3e1483610ca5ce64)
+
+---
+
+## 9. Senior Data Architect @ Qode
+**Match Score:** 13.9%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** Glue, Kinesis, RDS, Spark, PySpark, Scala, Kafka, NoSQL, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5a76068c88e5733f)
+
+---
+
+## 10. Sr Field Engineer @ Striim
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -71,18 +115,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Data Engineer II @ Corteva Agriscience
+## 11. Analytics Engineer @ RollKall
 **Match Score:** 12.5%
 
-📍 **Location:** Indianapolis, IN, US USA
+📍 **Location:** Irving, TX, US USA
 
-🔑 **Keywords:** AWS, S3, ECS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Kafka
+🔑 **Keywords:** RDS, Azure, Dataflow, Scala, SQL Server, Data Modeling, Dimensional Modeling, ETL, ELT, Power BI
 
-[Apply Here](https://www.indeed.com/viewjob?jk=84bbb3c9d11dfa7f)
+[Apply Here](https://www.indeed.com/viewjob?jk=68db2c37ad6b9984)
 
 ---
 
-## 8. Senior Software Engineer @ project44
+## 12. Senior Software Engineer @ project44
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -93,7 +137,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Software Engineer @ project44
+## 13. Data Engineer II @ Corteva Agriscience
+**Match Score:** 12.5%
+
+📍 **Location:** Indianapolis, IN, US USA
+
+🔑 **Keywords:** AWS, S3, ECS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=84bbb3c9d11dfa7f)
+
+---
+
+## 14. Software Engineer @ project44
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -104,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Security Engineer – Cloud & Data Security @ Sigma Computing
+## 15. Senior Security Engineer – Cloud & Data Security @ Sigma Computing
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -115,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Backend Software Engineer - Rust & Serverless (Remote) @ Surt AI
+## 16. Senior Backend Software Engineer - Rust & Serverless (Remote) @ Surt AI
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -126,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Solutions Architect - Revo Health @ Revo Health LLC.
+## 17. Solutions Architect - Revo Health @ Revo Health LLC.
 **Match Score:** 11.8%
 
 📍 **Location:** Bloomington, MN, US USA
@@ -137,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Solutions Architect @ BakerHostetler
+## 18. Solutions Architect @ BakerHostetler
 **Match Score:** 11.8%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -148,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Azure Databricks Senior Developer @ Cognizant Technology Solutions
+## 19. Azure Databricks Senior Developer @ Cognizant Technology Solutions
 **Match Score:** 11.8%
 
 📍 **Location:** Louisville, KY, US USA
@@ -159,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Sr Cloud Engineer @ Nutrien
+## 20. Sr Cloud Engineer @ Nutrien
 **Match Score:** 11.8%
 
 📍 **Location:** Loveland, CO, US USA
@@ -170,7 +225,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. .NET Backend Developer (ERP Experience Preferred) @ Softengine
+## 21. Data Engineer II @ Avature
+**Match Score:** 11.1%
+
+📍 **Location:** Jacksonville, FL, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Scala, Snowflake, Oracle, SQL Server, Data Modeling, ETL, Talend
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4414e81252a871d7)
+
+---
+
+## 22. .NET Backend Developer (ERP Experience Preferred) @ Softengine
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -181,7 +247,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Senior Azure Engineer @ IQZ SYSTEMS
+## 23. Data Engineer @ NATIONAL ASSOCIATION OF REALTORS®
+**Match Score:** 10.4%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Data Lake Storage, Blob Storage, Cloud Storage, Scala, Data Modeling, Dimensional Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d3bd2134994ec718)
+
+---
+
+## 24. Senior Azure Engineer @ IQZ SYSTEMS
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -192,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Technology Architect Azure platform @ IQZ SYSTEMS
+## 25. Technology Architect Azure platform @ IQZ SYSTEMS
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -203,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Senior Data Solutions Architect @ Boeing
+## 26. Senior Data Solutions Architect @ Boeing
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -214,7 +291,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Data Warehouse/BI Developer @ American business solutions inc
+## 27. Full Stack Magento Developer – Remote (Canada) @ Jarvis Recruitment
+**Match Score:** 10.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, MySQL, CI/CD, Jenkins, GitHub Actions, Docker, Jenkins, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5e6328c1040c5967)
+
+---
+
+## 28. Data Warehouse/BI Developer @ American business solutions inc
 **Match Score:** 10.4%
 
 📍 **Location:** Richmond, VA, US USA
