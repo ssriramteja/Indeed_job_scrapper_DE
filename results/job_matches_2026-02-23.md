@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-02-23
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 12
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,18 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Software Engineer New @ Convey
-**Match Score:** 12.5%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** Kinesis, IAM, RDS, Google Cloud Platform, GCP, Spark, Scala, Kafka, MongoDB, DynamoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5a7e1e1ef2ff4bf9)
-
----
-
-## 5. Software Engineer New @ Convey
+## 4. Software Engineer tags.new @ Convey
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -57,6 +46,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** Kinesis, IAM, RDS, Google Cloud Platform, GCP, Spark, Scala, Kafka, MongoDB, DynamoDB
 
 [Apply Here](https://www.indeed.com/viewjob?jk=7f0c38e749fbda51)
+
+---
+
+## 5. Senior Software Engineer tags.new @ Convey
+**Match Score:** 12.5%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** Kinesis, IAM, RDS, Google Cloud Platform, GCP, Spark, Scala, Kafka, MongoDB, DynamoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5a7e1e1ef2ff4bf9)
 
 ---
 
@@ -71,7 +71,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Azure Databricks Senior Developer @ Cognizant Technology Solutions
+## 7. Solutions Architect @ BakerHostetler
+**Match Score:** 11.8%
+
+📍 **Location:** Cleveland, OH, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Data Lake Storage, Scala, ETL, CI/CD, GitHub Actions, Azure DevOps, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2b9840944141fbe6)
+
+---
+
+## 8. Azure Databricks Senior Developer @ Cognizant Technology Solutions
 **Match Score:** 11.8%
 
 📍 **Location:** Louisville, KY, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Business Continuity @ Openkyber
+## 9. Business Continuity @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** TX, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Azure Engineer @ IQZ SYSTEMS
+## 10. Senior Azure Engineer @ IQZ SYSTEMS
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -101,6 +112,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Scala, SQL Server, CI/CD, GitHub Actions, Azure DevOps, Terraform, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=8f9c6210edfe81ce)
+
+---
+
+## 11. Senior Data Solutions Architect @ Boeing
+**Match Score:** 10.4%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, ETL, ELT, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d79996f851036ab7)
+
+---
+
+## 12. Data Warehouse/BI Developer @ American business solutions inc
+**Match Score:** 10.4%
+
+📍 **Location:** Richmond, VA, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Synapse Analytics, Scala, SQL Server, Data Modeling, Dimensional Modeling, ETL, Power BI
+
+[Apply Here](https://www.indeed.com/viewjob?jk=18ade4abca790417)
 
 ---
 

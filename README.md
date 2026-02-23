@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-23 14:03
+Last updated: 2026-02-23 15:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BakerHostetler | Solutions Architect | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2b9840944141fbe6) | 2026-02-23 15:39 |
+| Boeing | Senior Data Solutions Architect | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d79996f851036ab7) | 2026-02-23 15:39 |
+| American business solutions inc | Data Warehouse/BI Developer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=18ade4abca790417) | 2026-02-23 15:39 |
 | Cognizant Technology Solutions | Azure Databricks Senior Developer | Louisville, KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=754f275108d306b4) | 2026-02-23 14:03 |
 | Openkyber | Business Continuity | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de2646ff99b8282b) | 2026-02-23 11:34 |
 | IQZ SYSTEMS | Senior Azure Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f9c6210edfe81ce) | 2026-02-23 11:34 |
