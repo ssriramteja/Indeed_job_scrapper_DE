@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-02-23
 
-**Total Jobs Found:** 24
+**Total Jobs Found:** 43
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -82,7 +82,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Sr Field Engineer @ Striim
+## 8. Architect, Service & Operational Data @ Thomson Reuters
+**Match Score:** 13.2%
+
+📍 **Location:** Eagan, MN, US USA
+
+🔑 **Keywords:** AWS, Kinesis, RDS, Azure, GCP, Scala, Kafka, Data Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c82df1ac5ad3ee0a)
+
+---
+
+## 9. Sr Field Engineer @ Striim
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -93,7 +104,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Big Data Engineer @ Highmark Health
+## 10. Specialist, Data Engineer @ Nationwide Mutual Insurance Company
+**Match Score:** 12.5%
+
+📍 **Location:** Columbus, OH, US USA
+
+🔑 **Keywords:** RDS, Databricks, Spark, Scala, Snowflake, Oracle, ETL, ELT, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f15a9458813e7e74)
+
+---
+
+## 11. Senior Big Data Engineer @ Highmark Health
 **Match Score:** 12.5%
 
 📍 **Location:** PA, US USA
@@ -104,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Analytics Engineer @ RollKall
+## 12. Analytics Engineer @ RollKall
 **Match Score:** 12.5%
 
 📍 **Location:** Irving, TX, US USA
@@ -115,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Data Engineer - ITS4 @ State of Minnesota - Minnesota IT Services
+## 13. Data Engineer - ITS4 @ State of Minnesota - Minnesota IT Services
 **Match Score:** 12.5%
 
 📍 **Location:** Saint Paul, MN, US USA
@@ -126,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Data Engineer II @ Corteva Agriscience
+## 14. Data Engineer II @ Corteva Agriscience
 **Match Score:** 12.5%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -137,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Software Engineer New @ Convey
+## 15. Senior Software Engineer New @ Convey
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -148,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Software Engineer New @ Convey
+## 16. Software Engineer New @ Convey
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -159,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Security Engineer – Cloud & Data Security @ Sigma Computing
+## 17. Senior Security Engineer – Cloud & Data Security @ Sigma Computing
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -170,7 +192,161 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Azure Databricks Senior Developer @ Cognizant Technology Solutions
+## 18. SAP FICO Consultant @ Klaxontech
+**Match Score:** 11.8%
+
+📍 **Location:** Hilliard, FL, US USA
+
+🔑 **Keywords:** AWS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, ETL, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=98bb9f1b5eac151a)
+
+---
+
+## 19. AI/Machine Learning Data Engineer @ Acosta Group
+**Match Score:** 11.8%
+
+📍 **Location:** Chesterfield, MO, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Scala, Data Modeling, Dimensional Modeling, Dimension Tables, MLOps, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=65d238209415bd35)
+
+---
+
+## 20. AI/Machine Learning Data Engineer @ Acosta Group
+**Match Score:** 11.8%
+
+📍 **Location:** Jacksonville, FL, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Scala, Data Modeling, Dimensional Modeling, Dimension Tables, MLOps, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=08527261a275aa62)
+
+---
+
+## 21. AI/Machine Learning Data Engineer @ Acosta Group
+**Match Score:** 11.8%
+
+📍 **Location:** Lewisville, TX, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Scala, Data Modeling, Dimensional Modeling, Dimension Tables, MLOps, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dc66fc514f39b781)
+
+---
+
+## 22. AI/Machine Learning Data Engineer @ Acosta Group
+**Match Score:** 11.8%
+
+📍 **Location:** Boise, ID, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Scala, Data Modeling, Dimensional Modeling, Dimension Tables, MLOps, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=003cc1fe2c6f4d82)
+
+---
+
+## 23. AI/Machine Learning Data Engineer @ Acosta Group
+**Match Score:** 11.8%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Scala, Data Modeling, Dimensional Modeling, Dimension Tables, MLOps, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ceeb3d3f63ddd02b)
+
+---
+
+## 24. AI/Machine Learning Data Engineer @ Acosta Group
+**Match Score:** 11.8%
+
+📍 **Location:** Chesterfield, MO, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Scala, Data Modeling, Dimensional Modeling, Dimension Tables, MLOps, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6394fdb64160187b)
+
+---
+
+## 25. AI/Machine Learning Data Engineer @ Acosta Group
+**Match Score:** 11.8%
+
+📍 **Location:** Lewisville, TX, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Scala, Data Modeling, Dimensional Modeling, Dimension Tables, MLOps, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4bf2ba0a6a2d2ef7)
+
+---
+
+## 26. AI/Machine Learning Data Engineer @ Acosta Group
+**Match Score:** 11.8%
+
+📍 **Location:** Boise, ID, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Scala, Data Modeling, Dimensional Modeling, Dimension Tables, MLOps, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6c579e60e29085a0)
+
+---
+
+## 27. AI/Machine Learning Data Engineer @ Acosta Group
+**Match Score:** 11.8%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Scala, Data Modeling, Dimensional Modeling, Dimension Tables, MLOps, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9566bb3277fc5b3e)
+
+---
+
+## 28. AI/Machine Learning Data Engineer @ Acosta Group
+**Match Score:** 11.8%
+
+📍 **Location:** Rogers, AR, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Scala, Data Modeling, Dimensional Modeling, Dimension Tables, MLOps, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8b988c6d60df206b)
+
+---
+
+## 29. AI/Machine Learning Data Engineer @ Acosta Group
+**Match Score:** 11.8%
+
+📍 **Location:** Jacksonville, FL, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Scala, Data Modeling, Dimensional Modeling, Dimension Tables, MLOps, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=40ae88bd702dcb13)
+
+---
+
+## 30. AI/Machine Learning Data Engineer @ Acosta Group
+**Match Score:** 11.8%
+
+📍 **Location:** Rogers, AR, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Scala, Data Modeling, Dimensional Modeling, Dimension Tables, MLOps, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e490a596b2e349ab)
+
+---
+
+## 31. Power BI Developer @ Klaxontech
+**Match Score:** 11.8%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Hadoop, Hive, Spark, Scala, Oracle, SQL Server, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3338634535b9e4d6)
+
+---
+
+## 32. Azure Databricks Senior Developer @ Cognizant Technology Solutions
 **Match Score:** 11.8%
 
 📍 **Location:** Louisville, KY, US USA
@@ -181,7 +357,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Software Engineer - Full Stack @ kp reddy
+## 33. Enterprise Data Architect @ IvoryCloud
+**Match Score:** 11.1%
+
+📍 **Location:** Rockville, MD, US USA
+
+🔑 **Keywords:** AWS, Redshift, RDS, Azure, Databricks, Scala, Snowflake, Data Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=180dbcd7c9c036ee)
+
+---
+
+## 34. Risk Adjustment Sr. Data Analyst - Remote @ Datavant
+**Match Score:** 11.1%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** RDS, Databricks, Scala, Snowflake, Oracle, SQL Server, Data Modeling, dbt, Power BI, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6d255eff083655ae)
+
+---
+
+## 35. Software Engineer - Full Stack @ kp reddy
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -192,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Software Engineer - Full Stack @ kp reddy
+## 36. Software Engineer - Full Stack @ kp reddy
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -203,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Engineer - Amazon Connect @ Oncourse Home Solutions
+## 37. Engineer - Amazon Connect @ Oncourse Home Solutions
 **Match Score:** 10.4%
 
 📍 **Location:** Naperville, IL, US USA
@@ -214,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Data Engineer @ NATIONAL ASSOCIATION OF REALTORS®
+## 38. Data Engineer @ NATIONAL ASSOCIATION OF REALTORS®
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -225,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior Azure Engineer @ IQZ SYSTEMS
+## 39. Senior Azure Engineer @ IQZ SYSTEMS
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -236,7 +434,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Business Intelligence (BI) Developer @ Radiant Digital
+## 40. Software Engineer II @ Fanatics
+**Match Score:** 10.4%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, Kinesis, Redshift, S3, RDS, Kafka, MongoDB, Tableau, CI/CD, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1be8fdec648472af)
+
+---
+
+## 41. Senior Business Intelligence (BI) Developer @ Radiant Digital
 **Match Score:** 10.4%
 
 📍 **Location:** Chesterfield, VA, US USA
@@ -247,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. S&O Developer @ ExxonMobil
+## 42. S&O Developer @ ExxonMobil
 **Match Score:** 10.4%
 
 📍 **Location:** Spring, TX, US USA
@@ -258,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Data Warehouse/BI Developer @ American business solutions inc
+## 43. Data Warehouse/BI Developer @ American business solutions inc
 **Match Score:** 10.4%
 
 📍 **Location:** Richmond, VA, US USA

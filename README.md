@@ -1,11 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-23 22:32
+Last updated: 2026-02-23 23:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Thomson Reuters | Architect, Service & Operational Data | Eagan, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c82df1ac5ad3ee0a) | 2026-02-23 23:28 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-23 23:28 |
+| Klaxontech | SAP FICO Consultant | Hilliard, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=98bb9f1b5eac151a) | 2026-02-23 23:28 |
+| Acosta Group | AI/Machine Learning Data Engineer | Chesterfield, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=65d238209415bd35) | 2026-02-23 23:28 |
+| Acosta Group | AI/Machine Learning Data Engineer | Jacksonville, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08527261a275aa62) | 2026-02-23 23:28 |
+| Acosta Group | AI/Machine Learning Data Engineer | Lewisville, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dc66fc514f39b781) | 2026-02-23 23:28 |
+| Acosta Group | AI/Machine Learning Data Engineer | Boise, ID, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=003cc1fe2c6f4d82) | 2026-02-23 23:28 |
+| Acosta Group | AI/Machine Learning Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ceeb3d3f63ddd02b) | 2026-02-23 23:28 |
+| Acosta Group | AI/Machine Learning Data Engineer | Chesterfield, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6394fdb64160187b) | 2026-02-23 23:28 |
+| Acosta Group | AI/Machine Learning Data Engineer | Lewisville, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bf2ba0a6a2d2ef7) | 2026-02-23 23:28 |
+| Acosta Group | AI/Machine Learning Data Engineer | Boise, ID, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6c579e60e29085a0) | 2026-02-23 23:28 |
+| Acosta Group | AI/Machine Learning Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9566bb3277fc5b3e) | 2026-02-23 23:28 |
+| Acosta Group | AI/Machine Learning Data Engineer | Rogers, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8b988c6d60df206b) | 2026-02-23 23:28 |
+| Acosta Group | AI/Machine Learning Data Engineer | Jacksonville, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40ae88bd702dcb13) | 2026-02-23 23:28 |
+| Acosta Group | AI/Machine Learning Data Engineer | Rogers, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e490a596b2e349ab) | 2026-02-23 23:28 |
+| Klaxontech | Power BI Developer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3338634535b9e4d6) | 2026-02-23 23:28 |
+| IvoryCloud | Enterprise Data Architect | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=180dbcd7c9c036ee) | 2026-02-23 23:28 |
+| Datavant | Risk Adjustment Sr. Data Analyst - Remote | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d255eff083655ae) | 2026-02-23 23:28 |
+| Fanatics | Software Engineer II | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1be8fdec648472af) | 2026-02-23 23:28 |
 | Mariner Wealth Advisors | Senior Data Engineer | Overland Park, KS, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=074ebeab3093055c) | 2026-02-23 22:32 |
 | Intellibee Inc | Data Analyst | Lansing, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4423f4c3dd145f17) | 2026-02-23 22:32 |
 | Trust Technology Solutions | Sr. Data Engineer | Overland Park, KS, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce96db4f29cbf55a) | 2026-02-23 22:32 |
