@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-23 20:36
+Last updated: 2026-02-23 21:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| City and County of San Francisco | Senior Data Engineer (1043) - DataSF | San Francisco, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=012bacb5fe848397) | 2026-02-23 21:36 |
+| Tata Consultancy Services (TCS) | GenAI Architect | Edison, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e014fe941f1f22ec) | 2026-02-23 21:36 |
+| kp reddy | DevOps Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=31ba26cff0eff16a) | 2026-02-23 21:36 |
+| kp reddy | DevOps Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dce2730f22d939ec) | 2026-02-23 21:36 |
+| State of Minnesota - Minnesota IT Services | Data Engineer - ITS4 | Saint Paul, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=54c8deff754c16fa) | 2026-02-23 21:36 |
+| Convey | Senior Software Engineer New | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f5324f4c6c59141c) | 2026-02-23 21:36 |
+| Convey | Software Engineer New | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=121b212372d04928) | 2026-02-23 21:36 |
+| ValueBase Consulting | Enterprise Azure Data Architect | Trumbull, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bfbd690b76118449) | 2026-02-23 21:36 |
+| kp reddy | Software Engineer - Full Stack | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=15451134c42bdf64) | 2026-02-23 21:36 |
+| kp reddy | Software Engineer - Full Stack | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3288093ad8485f4) | 2026-02-23 21:36 |
+| Oncourse Home Solutions | Engineer - Amazon Connect | Naperville, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afb4d3e843ce82f1) | 2026-02-23 21:36 |
 | First Command Financial Services | Data Architect | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e080e266216f7f2e) | 2026-02-23 20:36 |
 | ExxonMobil | S&O Developer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=329bc88cd35a3445) | 2026-02-23 20:36 |
 | National Retail Systems, Inc | IT Data Platform Engineer | Lyndhurst, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4da5376ea9ed63ff) | 2026-02-23 19:53 |
