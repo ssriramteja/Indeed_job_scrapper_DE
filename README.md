@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-23 16:45
+Last updated: 2026-02-23 17:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| American Electric Power | Solution Engineer Prin | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f1621e6d7e730c79) | 2026-02-23 17:55 |
+| Striim | Sr Field Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9fd06b655c3730ee) | 2026-02-23 17:55 |
+| Corteva Agriscience | Data Engineer II | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=84bbb3c9d11dfa7f) | 2026-02-23 17:55 |
+| project44 | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2ad7acbb70aad17a) | 2026-02-23 17:55 |
+| project44 | Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=166c9d26347adcb3) | 2026-02-23 17:55 |
+| Surt AI | Senior Backend Software Engineer - Rust & Serverless (Remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91b38c28583e38a2) | 2026-02-23 17:55 |
+| Softengine | .NET Backend Developer (ERP Experience Preferred) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0431d35c1c1fb538) | 2026-02-23 17:55 |
 | Revo Health LLC. | Solutions Architect - Revo Health | Bloomington, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=18cfd44c5eb59653) | 2026-02-23 16:45 |
 | IQZ SYSTEMS | Senior Azure Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dce914fdc34a1067) | 2026-02-23 16:45 |
 | IQZ SYSTEMS | Technology Architect Azure platform | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4454ab3187398b4) | 2026-02-23 16:45 |
