@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-23 15:39
+Last updated: 2026-02-23 16:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Revo Health LLC. | Solutions Architect - Revo Health | Bloomington, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=18cfd44c5eb59653) | 2026-02-23 16:45 |
+| IQZ SYSTEMS | Senior Azure Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dce914fdc34a1067) | 2026-02-23 16:45 |
+| IQZ SYSTEMS | Technology Architect Azure platform | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4454ab3187398b4) | 2026-02-23 16:45 |
 | BakerHostetler | Solutions Architect | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2b9840944141fbe6) | 2026-02-23 15:39 |
 | Boeing | Senior Data Solutions Architect | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d79996f851036ab7) | 2026-02-23 15:39 |
 | American business solutions inc | Data Warehouse/BI Developer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=18ade4abca790417) | 2026-02-23 15:39 |

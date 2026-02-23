@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-02-23
 
-**Total Jobs Found:** 12
+**Total Jobs Found:** 13
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -71,7 +71,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Solutions Architect @ BakerHostetler
+## 7. Solutions Architect - Revo Health @ Revo Health LLC.
+**Match Score:** 11.8%
+
+📍 **Location:** Bloomington, MN, US USA
+
+🔑 **Keywords:** AWS, RDS, Medallion Architecture, Scala, SQL Server, PostgreSQL, Data Modeling, Star Schema, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=18cfd44c5eb59653)
+
+---
+
+## 8. Solutions Architect @ BakerHostetler
 **Match Score:** 11.8%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Azure Databricks Senior Developer @ Cognizant Technology Solutions
+## 9. Azure Databricks Senior Developer @ Cognizant Technology Solutions
 **Match Score:** 11.8%
 
 📍 **Location:** Louisville, KY, US USA
@@ -93,17 +104,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Business Continuity @ Openkyber
-**Match Score:** 11.8%
-
-📍 **Location:** TX, US USA
-
-🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Hadoop, HDFS, Hive, MapReduce, YARN, Spark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=de2646ff99b8282b)
-
----
-
 ## 10. Senior Azure Engineer @ IQZ SYSTEMS
 **Match Score:** 10.4%
 
@@ -111,11 +111,22 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 🔑 **Keywords:** RDS, Azure, Scala, SQL Server, CI/CD, GitHub Actions, Azure DevOps, Terraform, Docker, Kubernetes
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8f9c6210edfe81ce)
+[Apply Here](https://www.indeed.com/viewjob?jk=dce914fdc34a1067)
 
 ---
 
-## 11. Senior Data Solutions Architect @ Boeing
+## 11. Technology Architect Azure platform @ IQZ SYSTEMS
+**Match Score:** 10.4%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** RDS, Azure, Scala, CI/CD, GitHub Actions, Azure DevOps, Terraform, Docker, Kubernetes, AKS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c4454ab3187398b4)
+
+---
+
+## 12. Senior Data Solutions Architect @ Boeing
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -126,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Data Warehouse/BI Developer @ American business solutions inc
+## 13. Data Warehouse/BI Developer @ American business solutions inc
 **Match Score:** 10.4%
 
 📍 **Location:** Richmond, VA, US USA
