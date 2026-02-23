@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-02-23
 
-**Total Jobs Found:** 8
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -71,7 +71,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Business Continuity @ Openkyber
+## 7. Azure Databricks Senior Developer @ Cognizant Technology Solutions
+**Match Score:** 11.8%
+
+📍 **Location:** Louisville, KY, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Data Lake Storage, Spark, PySpark, Scala, Kafka, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=754f275108d306b4)
+
+---
+
+## 8. Business Continuity @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** TX, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Azure Engineer @ IQZ SYSTEMS
+## 9. Senior Azure Engineer @ IQZ SYSTEMS
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
