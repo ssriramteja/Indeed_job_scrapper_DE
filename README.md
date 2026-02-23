@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-23 19:53
+Last updated: 2026-02-23 20:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| First Command Financial Services | Data Architect | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e080e266216f7f2e) | 2026-02-23 20:36 |
+| ExxonMobil | S&O Developer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=329bc88cd35a3445) | 2026-02-23 20:36 |
 | National Retail Systems, Inc | IT Data Platform Engineer | Lyndhurst, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4da5376ea9ed63ff) | 2026-02-23 19:53 |
 | Qode | Senior Data Architect | Cleveland, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1a44f31ac4940b0d) | 2026-02-23 19:53 |
 | Qode | Senior Data Architect | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3e1483610ca5ce64) | 2026-02-23 19:53 |

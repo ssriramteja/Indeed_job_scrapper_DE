@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-02-23
 
-**Total Jobs Found:** 28
+**Total Jobs Found:** 30
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -126,7 +126,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Software Engineer @ project44
+## 12. Data Architect @ First Command Financial Services
+**Match Score:** 12.5%
+
+📍 **Location:** Fort Worth, TX, US USA
+
+🔑 **Keywords:** RDS, Data Factory, Scala, Oracle, SQL Server, NoSQL, Data Modeling, ETL, dbt, Power BI
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e080e266216f7f2e)
+
+---
+
+## 13. Senior Software Engineer @ project44
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -137,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Data Engineer II @ Corteva Agriscience
+## 14. Data Engineer II @ Corteva Agriscience
 **Match Score:** 12.5%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -148,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Software Engineer @ project44
+## 15. Software Engineer @ project44
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -159,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Security Engineer – Cloud & Data Security @ Sigma Computing
+## 16. Senior Security Engineer – Cloud & Data Security @ Sigma Computing
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -170,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Senior Backend Software Engineer - Rust & Serverless (Remote) @ Surt AI
+## 17. Senior Backend Software Engineer - Rust & Serverless (Remote) @ Surt AI
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -181,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Solutions Architect - Revo Health @ Revo Health LLC.
+## 18. Solutions Architect - Revo Health @ Revo Health LLC.
 **Match Score:** 11.8%
 
 📍 **Location:** Bloomington, MN, US USA
@@ -192,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Solutions Architect @ BakerHostetler
+## 19. Solutions Architect @ BakerHostetler
 **Match Score:** 11.8%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -203,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Azure Databricks Senior Developer @ Cognizant Technology Solutions
+## 20. Azure Databricks Senior Developer @ Cognizant Technology Solutions
 **Match Score:** 11.8%
 
 📍 **Location:** Louisville, KY, US USA
@@ -214,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Sr Cloud Engineer @ Nutrien
+## 21. Sr Cloud Engineer @ Nutrien
 **Match Score:** 11.8%
 
 📍 **Location:** Loveland, CO, US USA
@@ -225,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Data Engineer II @ Avature
+## 22. Data Engineer II @ Avature
 **Match Score:** 11.1%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -236,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. .NET Backend Developer (ERP Experience Preferred) @ Softengine
+## 23. .NET Backend Developer (ERP Experience Preferred) @ Softengine
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -247,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Data Engineer @ NATIONAL ASSOCIATION OF REALTORS®
+## 24. Data Engineer @ NATIONAL ASSOCIATION OF REALTORS®
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -258,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Senior Azure Engineer @ IQZ SYSTEMS
+## 25. Senior Azure Engineer @ IQZ SYSTEMS
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -269,7 +280,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Technology Architect Azure platform @ IQZ SYSTEMS
+## 26. S&O Developer @ ExxonMobil
+**Match Score:** 10.4%
+
+📍 **Location:** Spring, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Google Cloud Platform, Scala, ETL, ELT, CI/CD, GitHub Actions
+
+[Apply Here](https://www.indeed.com/viewjob?jk=329bc88cd35a3445)
+
+---
+
+## 27. Technology Architect Azure platform @ IQZ SYSTEMS
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -280,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Senior Data Solutions Architect @ Boeing
+## 28. Senior Data Solutions Architect @ Boeing
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -291,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Full Stack Magento Developer – Remote (Canada) @ Jarvis Recruitment
+## 29. Full Stack Magento Developer – Remote (Canada) @ Jarvis Recruitment
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -302,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Data Warehouse/BI Developer @ American business solutions inc
+## 30. Data Warehouse/BI Developer @ American business solutions inc
 **Match Score:** 10.4%
 
 📍 **Location:** Richmond, VA, US USA
