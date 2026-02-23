@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-02-23
 
-**Total Jobs Found:** 18
+**Total Jobs Found:** 20
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -49,7 +49,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Sr Field Engineer @ Striim
+## 5. Associate - Data Engineer - Global Master Data @ Eli Lilly
+**Match Score:** 15.3%
+
+📍 **Location:** Indianapolis, IN, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Redshift, RDS, Azure, Databricks, GCP, Spark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=326b602342da8867)
+
+---
+
+## 6. Sr Field Engineer @ Striim
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Engineer II @ Corteva Agriscience
+## 7. Data Engineer II @ Corteva Agriscience
 **Match Score:** 12.5%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -71,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Software Engineer @ project44
+## 8. Senior Software Engineer @ project44
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Software Engineer @ project44
+## 9. Software Engineer @ project44
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Security Engineer – Cloud & Data Security @ Sigma Computing
+## 10. Senior Security Engineer – Cloud & Data Security @ Sigma Computing
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -104,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Backend Software Engineer - Rust & Serverless (Remote) @ Surt AI
+## 11. Senior Backend Software Engineer - Rust & Serverless (Remote) @ Surt AI
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -115,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Solutions Architect - Revo Health @ Revo Health LLC.
+## 12. Solutions Architect - Revo Health @ Revo Health LLC.
 **Match Score:** 11.8%
 
 📍 **Location:** Bloomington, MN, US USA
@@ -126,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Solutions Architect @ BakerHostetler
+## 13. Solutions Architect @ BakerHostetler
 **Match Score:** 11.8%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -137,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Azure Databricks Senior Developer @ Cognizant Technology Solutions
+## 14. Azure Databricks Senior Developer @ Cognizant Technology Solutions
 **Match Score:** 11.8%
 
 📍 **Location:** Louisville, KY, US USA
@@ -148,7 +159,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. .NET Backend Developer (ERP Experience Preferred) @ Softengine
+## 15. Sr Cloud Engineer @ Nutrien
+**Match Score:** 11.8%
+
+📍 **Location:** Loveland, CO, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Splunk, CI/CD, Jenkins, Azure DevOps, Terraform, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=19dbe4103504c9e7)
+
+---
+
+## 16. .NET Backend Developer (ERP Experience Preferred) @ Softengine
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -159,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Azure Engineer @ IQZ SYSTEMS
+## 17. Senior Azure Engineer @ IQZ SYSTEMS
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -170,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Technology Architect Azure platform @ IQZ SYSTEMS
+## 18. Technology Architect Azure platform @ IQZ SYSTEMS
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -181,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Senior Data Solutions Architect @ Boeing
+## 19. Senior Data Solutions Architect @ Boeing
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -192,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Data Warehouse/BI Developer @ American business solutions inc
+## 20. Data Warehouse/BI Developer @ American business solutions inc
 **Match Score:** 10.4%
 
 📍 **Location:** Richmond, VA, US USA

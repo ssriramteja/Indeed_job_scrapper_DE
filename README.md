@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-23 17:55
+Last updated: 2026-02-23 18:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Eli Lilly | Associate - Data Engineer - Global Master Data | Indianapolis, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=326b602342da8867) | 2026-02-23 18:53 |
+| Nutrien | Sr Cloud Engineer | Loveland, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19dbe4103504c9e7) | 2026-02-23 18:53 |
 | American Electric Power | Solution Engineer Prin | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f1621e6d7e730c79) | 2026-02-23 17:55 |
 | Striim | Sr Field Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9fd06b655c3730ee) | 2026-02-23 17:55 |
 | Corteva Agriscience | Data Engineer II | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=84bbb3c9d11dfa7f) | 2026-02-23 17:55 |
