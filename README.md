@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-23 09:44
+Last updated: 2026-02-23 10:41
 
 ### 🚀 Daily Job Matches
 
@@ -9,7 +9,6 @@ Last updated: 2026-02-23 09:44
 | Convey | Senior Software Engineer New | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a7e1e1ef2ff4bf9) | 2026-02-23 09:44 |
 | Convey | Software Engineer New | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7f0c38e749fbda51) | 2026-02-23 09:44 |
 | Sigma Computing | Senior Security Engineer – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d4ac754da67252d) | 2026-02-23 09:44 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e118e0038cca00a8) | 2026-02-23 09:44 |
 | nan | Sr Software Engineer | Logan, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c8dcb5b8c38b1f3) | 2026-02-23 04:15 |
 | Dell Technologies | Senior Systems Engineer, UDS Data Management - West | CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6bf94c93449dfa3d) | 2026-02-22 23:17 |
 | Dell Technologies | Senior Systems Engineer, UDS Data Management - Central | IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=23fa7ab7f29d61af) | 2026-02-22 23:17 |
