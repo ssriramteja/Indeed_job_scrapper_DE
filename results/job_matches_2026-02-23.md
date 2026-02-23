@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-02-23
 
-**Total Jobs Found:** 65
+**Total Jobs Found:** 64
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -706,17 +706,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Vertex AI, Scala, ETL, Docker, Python
 
 [Apply Here](https://www.indeed.com/viewjob?jk=77c3f0c49614639e)
-
----
-
-## 65. Senior Engineer -.NET @ GEICO
-**Match Score:** 10.4%
-
-📍 **Location:** Chevy Chase, MD, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, NoSQL, Azure DevOps, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=613a3090cae4237e)
 
 ---
 
