@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-23 21:36
+Last updated: 2026-02-23 22:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Mariner Wealth Advisors | Senior Data Engineer | Overland Park, KS, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=074ebeab3093055c) | 2026-02-23 22:32 |
+| Intellibee Inc | Data Analyst | Lansing, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4423f4c3dd145f17) | 2026-02-23 22:32 |
+| Trust Technology Solutions | Sr. Data Engineer | Overland Park, KS, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce96db4f29cbf55a) | 2026-02-23 22:32 |
+| Highmark Health | Senior Big Data Engineer | PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e566377201b9121f) | 2026-02-23 22:32 |
+| Radiant Digital | Senior Business Intelligence (BI) Developer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=776eaa52cad25247) | 2026-02-23 22:32 |
 | City and County of San Francisco | Senior Data Engineer (1043) - DataSF | San Francisco, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=012bacb5fe848397) | 2026-02-23 21:36 |
 | Tata Consultancy Services (TCS) | GenAI Architect | Edison, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e014fe941f1f22ec) | 2026-02-23 21:36 |
 | kp reddy | DevOps Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=31ba26cff0eff16a) | 2026-02-23 21:36 |
