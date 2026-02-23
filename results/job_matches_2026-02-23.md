@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-02-23
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 8
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -68,6 +68,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, IAM, Azure, Databricks, GCP, BigQuery, Spark, Scala, Snowflake, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=5d4ac754da67252d)
+
+---
+
+## 7. Business Continuity @ Openkyber
+**Match Score:** 11.8%
+
+📍 **Location:** TX, US USA
+
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Hadoop, HDFS, Hive, MapReduce, YARN, Spark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=de2646ff99b8282b)
+
+---
+
+## 8. Senior Azure Engineer @ IQZ SYSTEMS
+**Match Score:** 10.4%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** RDS, Azure, Scala, SQL Server, CI/CD, GitHub Actions, Azure DevOps, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8f9c6210edfe81ce)
 
 ---
 

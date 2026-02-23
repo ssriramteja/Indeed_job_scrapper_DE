@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-23 10:41
+Last updated: 2026-02-23 11:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Business Continuity | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de2646ff99b8282b) | 2026-02-23 11:34 |
+| IQZ SYSTEMS | Senior Azure Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f9c6210edfe81ce) | 2026-02-23 11:34 |
 | Convey | Senior Software Engineer New | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a7e1e1ef2ff4bf9) | 2026-02-23 09:44 |
 | Convey | Software Engineer New | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7f0c38e749fbda51) | 2026-02-23 09:44 |
 | Sigma Computing | Senior Security Engineer – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d4ac754da67252d) | 2026-02-23 09:44 |
