@@ -1,15 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-24 21:26
+Last updated: 2026-02-24 22:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ocean Blue Solutions | Data Engineer - Remote | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4d1820f8d0d8314d) | 2026-02-24 22:25 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 22:25 |
+| Klaviyo | Senior Analytics Engineer, Sales Analytics (GTM Data Engineering) | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=721d4b934257a77e) | 2026-02-24 22:25 |
+| GSK | AIML Services- Data Platform Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a25ec63d2a45d72c) | 2026-02-24 22:25 |
+| GSK | AIML Services- Data Platform Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41cbea8637a10d68) | 2026-02-24 22:25 |
+| GSK | AIML Services- Data Platform Engineer | Cambridge, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=94ad64f2466c8d7d) | 2026-02-24 22:25 |
+| Experian | Senior Software Engineer - .NET, AWS (Remote) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=49d97f5a04a74b2d) | 2026-02-24 22:25 |
+| Konrad Group | Senior Data Analyst | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85e5ffc39cf3d166) | 2026-02-24 22:25 |
+| Nearsure | (1357) Senior Reliability Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b3c8f5bbb025388b) | 2026-02-24 22:25 |
+| Airvet | Backend Software Engineer (Mid-Level / Senior) | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e51b2375febffa24) | 2026-02-24 22:25 |
+| Fiserv | Security Analytics Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ca444d34471a5a6) | 2026-02-24 22:25 |
+| Hewlett Packard Enterprise \| HPE | Senior Network Engineer / Architect (Cloud & Private Cloud) | Andover, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=695b20750ce3efc8) | 2026-02-24 22:25 |
+| Hewlett Packard Enterprise \| HPE | Senior Network Engineer / Architect (Cloud & Private Cloud) | Andover, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79844f5abf0ab0c8) | 2026-02-24 22:25 |
+| Konrad Group | Data Analyst | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7de0ea1f90bea9f4) | 2026-02-24 22:25 |
 | Equifax | Software Engineer Sr. | St. Louis, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=694acb45c2cc0b4a) | 2026-02-24 21:26 |
 | Lam Research | Software Engineer Sys 3 | Fremont, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0b87979ce36653f6) | 2026-02-24 21:26 |
-| Tailored Edge Connections  | IT Systems Administrator | North Aurora, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=17621e07d085bab3) | 2026-02-24 21:26 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 21:26 |
+| Tailored Edge Connections | IT Systems Administrator | North Aurora, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=17621e07d085bab3) | 2026-02-24 21:26 |
 | Tata Consultancy Services (TCS) | Java Backend with Databricks experiance | Blue Ash, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b862550824c4cea) | 2026-02-24 21:26 |
 | Blackstone | Platform Engineer, Associate - Physical Security | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5038d894bf6c5b04) | 2026-02-24 21:26 |
 | Optum | Software Engineer - Remote | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=172852e482d4c615) | 2026-02-24 21:26 |
