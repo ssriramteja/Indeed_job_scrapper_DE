@@ -1,13 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-24 09:43
+Last updated: 2026-02-24 10:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fairview Health Services | Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4ef65db0c8cded69) | 2026-02-24 10:40 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 10:40 |
+| Global Partners LP | Data Engineering Intern | Waltham, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b60d9899ce76c629) | 2026-02-24 10:40 |
+| Books-A-Million | Data Engineer | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bb1becaa3bb4909) | 2026-02-24 10:40 |
+| GSK | Senior Cloud Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ed37c67470dc51b) | 2026-02-24 10:40 |
 | Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=595c67b5e42359ba) | 2026-02-24 09:43 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 09:43 |
 | Seismic | Senior Software Engineer II - Backend - AI Search | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9ee26f17ffea2401) | 2026-02-24 09:43 |
 | Seismic | Senior Software Engineer II - AI/ML | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1b9be3c418bc5646) | 2026-02-24 09:43 |
 | Wells Fargo | Senior Software Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da661d8fb0ece801) | 2026-02-24 09:43 |
