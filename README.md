@@ -1,14 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-24 17:53
+Last updated: 2026-02-24 18:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Expedia Group | Software Development Engineer | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f6610ed807a1c6f6) | 2026-02-24 18:50 |
+| Par Pacific Holdings | Data Architect | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0f10d62f4eab770e) | 2026-02-24 18:50 |
+| Network Distribution | AWS AI & DevOps Intern | Schaumburg, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f896c6da0dfabb9a) | 2026-02-24 18:50 |
+| TCC Verizon Authorized Retailer | Information Technology - BI Data Architect | Fishers, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a149a432f720bb1c) | 2026-02-24 18:50 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 18:50 |
+| Optum | Sr Software Engineer - Remote | Basking Ridge, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1aa56bb760b5544) | 2026-02-24 18:50 |
+| Redwood Logistics | Senior Software Engineer (AI Enablement) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f0a71f110d4bcaf) | 2026-02-24 18:50 |
+| NetSPI | Software Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64c43e0c9ccd4fc4) | 2026-02-24 18:50 |
 | Openkyber | AWS Network Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d7b0abfc59f8f9d9) | 2026-02-24 17:53 |
 | Numero Data LLC | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=93fd739375824cc5) | 2026-02-24 17:53 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 17:53 |
 | Openkyber | AWS Network Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f86429bfad3f926) | 2026-02-24 17:53 |
 | Cognizant Technology Solutions | Azure Databricks Senior Developer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4b3a3a619f61b04b) | 2026-02-24 17:53 |
 | Mi-Case | Disaster Recovery Specialist | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6cb5a54ccdddc65e) | 2026-02-24 17:53 |
