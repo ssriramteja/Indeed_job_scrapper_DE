@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-24 10:40
+Last updated: 2026-02-24 11:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 11:35 |
 | Fairview Health Services | Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4ef65db0c8cded69) | 2026-02-24 10:40 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 10:40 |
 | Global Partners LP | Data Engineering Intern | Waltham, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b60d9899ce76c629) | 2026-02-24 10:40 |
 | Books-A-Million | Data Engineer | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bb1becaa3bb4909) | 2026-02-24 10:40 |
 | GSK | Senior Cloud Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ed37c67470dc51b) | 2026-02-24 10:40 |
