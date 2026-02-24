@@ -1,12 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-24 08:37
+Last updated: 2026-02-24 09:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 08:37 |
+| Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=595c67b5e42359ba) | 2026-02-24 09:43 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 09:43 |
+| Seismic | Senior Software Engineer II - Backend - AI Search | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9ee26f17ffea2401) | 2026-02-24 09:43 |
+| Seismic | Senior Software Engineer II - AI/ML | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1b9be3c418bc5646) | 2026-02-24 09:43 |
+| Wells Fargo | Senior Software Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da661d8fb0ece801) | 2026-02-24 09:43 |
+| Wells Fargo | Senior Software Engineer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f03d32c795783e6d) | 2026-02-24 09:43 |
+| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ce987d03cd6c59b) | 2026-02-24 09:43 |
+| SS&C | Senior Software Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=896402c926af3a49) | 2026-02-24 09:43 |
+| Tungsten Automation | IT Integration Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb56bd3754295d02) | 2026-02-24 09:43 |
 | McAfee | Senior Data Engineer | Frisco, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4210181db0262688) | 2026-02-24 07:45 |
 | Priority Dispatch Corp. | Database Engineer | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=961b8ef9a31220a3) | 2026-02-24 07:45 |
 | California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3b1594a1814d7cf8) | 2026-02-24 06:50 |
