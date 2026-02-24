@@ -1,16 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-24 18:50
+Last updated: 2026-02-24 19:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Hitachi Digital Services | ML Ops Engineer | Reading, PA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=5df2e993fb881155) | 2026-02-24 19:45 |
+| Dell Technologies | Senior Systems Engineer, UDS Data Management | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8b555f123481de91) | 2026-02-24 19:45 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 19:45 |
+| Klaviyo | Senior Observability Platform Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6db8b13f873a0ab3) | 2026-02-24 19:45 |
+| Bird Rides | Senior Backend Engineer (Golang/Platform) | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=830d0bff9058d600) | 2026-02-24 19:45 |
 | Expedia Group | Software Development Engineer | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f6610ed807a1c6f6) | 2026-02-24 18:50 |
 | Par Pacific Holdings | Data Architect | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0f10d62f4eab770e) | 2026-02-24 18:50 |
 | Network Distribution | AWS AI & DevOps Intern | Schaumburg, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f896c6da0dfabb9a) | 2026-02-24 18:50 |
 | TCC Verizon Authorized Retailer | Information Technology - BI Data Architect | Fishers, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a149a432f720bb1c) | 2026-02-24 18:50 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 18:50 |
 | Optum | Sr Software Engineer - Remote | Basking Ridge, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1aa56bb760b5544) | 2026-02-24 18:50 |
 | Redwood Logistics | Senior Software Engineer (AI Enablement) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f0a71f110d4bcaf) | 2026-02-24 18:50 |
 | NetSPI | Software Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64c43e0c9ccd4fc4) | 2026-02-24 18:50 |
