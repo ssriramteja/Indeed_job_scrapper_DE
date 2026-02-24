@@ -1,14 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-24 16:57
+Last updated: 2026-02-24 17:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | AWS Network Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d7b0abfc59f8f9d9) | 2026-02-24 17:53 |
+| Numero Data LLC | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=93fd739375824cc5) | 2026-02-24 17:53 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 17:53 |
+| Openkyber | AWS Network Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f86429bfad3f926) | 2026-02-24 17:53 |
+| Cognizant Technology Solutions | Azure Databricks Senior Developer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4b3a3a619f61b04b) | 2026-02-24 17:53 |
+| Mi-Case | Disaster Recovery Specialist | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6cb5a54ccdddc65e) | 2026-02-24 17:53 |
+| nan | Full-Stack Senior Software Engineer | Boulder, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d1ef7cc52780120) | 2026-02-24 17:53 |
+| Konrad Group | Data Analyst | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12c78d6e39fc674e) | 2026-02-24 17:53 |
 | AdventHealth Corporate | Sr Data Engineer | Altamonte Springs, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=49fe852730ed983b) | 2026-02-24 16:57 |
 | Pismo | Senior Software Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9916c3b5d3e4d372) | 2026-02-24 16:57 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 16:57 |
 | TWFG Insurance | Senior QA Automation Engineer (Selenium/Java) – On-site (The Woodlands, TX) | The Woodlands, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1b69a3711f0d9d53) | 2026-02-24 16:57 |
 | KSBJ | Senior DevOps Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6fab7a2259449584) | 2026-02-24 16:57 |
 | S&P Global | Cloud Engineer - Mobility | Columbia, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e3fa3292f16042b) | 2026-02-24 16:57 |
