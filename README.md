@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-24 07:45
+Last updated: 2026-02-24 08:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 08:37 |
 | McAfee | Senior Data Engineer | Frisco, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4210181db0262688) | 2026-02-24 07:45 |
 | Priority Dispatch Corp. | Database Engineer | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=961b8ef9a31220a3) | 2026-02-24 07:45 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 07:45 |
 | California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3b1594a1814d7cf8) | 2026-02-24 06:50 |
 | California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=25313f83b8938e18) | 2026-02-24 06:50 |
 | Miller Cooper | Full Stack Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64dfed33e248e8fb) | 2026-02-24 06:50 |
