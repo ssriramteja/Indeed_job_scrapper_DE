@@ -1,12 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-24 15:48
+Last updated: 2026-02-24 16:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 15:48 |
+| AdventHealth Corporate | Sr Data Engineer | Altamonte Springs, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=49fe852730ed983b) | 2026-02-24 16:57 |
+| Pismo | Senior Software Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9916c3b5d3e4d372) | 2026-02-24 16:57 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 16:57 |
+| TWFG Insurance | Senior QA Automation Engineer (Selenium/Java) – On-site (The Woodlands, TX) | The Woodlands, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1b69a3711f0d9d53) | 2026-02-24 16:57 |
+| KSBJ | Senior DevOps Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6fab7a2259449584) | 2026-02-24 16:57 |
+| S&P Global | Cloud Engineer - Mobility | Columbia, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e3fa3292f16042b) | 2026-02-24 16:57 |
+| S&P Global | Cloud Engineer - Mobility | Southfield, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13cc9d71c38d6760) | 2026-02-24 16:57 |
+| S&P Global | Cloud Engineer - Mobility | Centreville, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0a61acd22258533d) | 2026-02-24 16:57 |
+| S&P Global | Infrastructure Architect | Centreville, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d44bf9d7c469c1b8) | 2026-02-24 16:57 |
+| S&P Global | Infrastructure Architect | Southfield, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfbd76f4dc673f7a) | 2026-02-24 16:57 |
+| Glassbox | Senior Backend Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7eed342df94f18f) | 2026-02-24 16:57 |
+| MeridianLink | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a45ca07d46e3db0a) | 2026-02-24 16:57 |
+| NTT DATA | Full Stack Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d22183246282dc0) | 2026-02-24 16:57 |
 | CNH Industrial | Senior Software Engineer | Oak Brook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0d56bb5a0c74a4a6) | 2026-02-24 15:48 |
 | LTIMindtree | Specialist - Architecture | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef5a7c704ef11e31) | 2026-02-24 15:48 |
 | Stash | Senior Fullstack Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=826bc977d2b8d6c3) | 2026-02-24 15:48 |
