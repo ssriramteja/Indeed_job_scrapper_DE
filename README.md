@@ -1,14 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-24 19:45
+Last updated: 2026-02-24 20:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sam's Club | (USA) Senior, Data Engineer - Senior Software Engineer | Sunnyvale, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6bedd59c754ec609) | 2026-02-24 20:26 |
+| EssilorLuxottica | Data & ML Engineer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=84539e9d32b8f8db) | 2026-02-24 20:26 |
+| Solventum | ML Engineer | Austin, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a3a0ae84f6b87980) | 2026-02-24 20:26 |
+| CADEX | Colombia (only) - Remote | Melville, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fc87d5a21e8908c6) | 2026-02-24 20:26 |
+| Sherwin-Williams | Senior Digital Analytics Customer Experience (CX) Engineer | Cleveland, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=12fcbbc0dd03080c) | 2026-02-24 20:26 |
+| Fox Corporation | Senior Software Engineer, Data Services | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8a2b768ed31bba34) | 2026-02-24 20:26 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 20:26 |
+| Business System Solutions | Systems Engineer - Container Platform (Primary) | Leesburg, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=96abe73e052d5071) | 2026-02-24 20:26 |
+| Alight Solutions | Azure DevOps Engineer | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ccbe5961b0d1ed9) | 2026-02-24 20:26 |
+| Softnice | Power BI Developer | North Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b0583738bd2a761d) | 2026-02-24 20:26 |
 | Hitachi Digital Services | ML Ops Engineer | Reading, PA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=5df2e993fb881155) | 2026-02-24 19:45 |
 | Dell Technologies | Senior Systems Engineer, UDS Data Management | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8b555f123481de91) | 2026-02-24 19:45 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 19:45 |
 | Klaviyo | Senior Observability Platform Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6db8b13f873a0ab3) | 2026-02-24 19:45 |
 | Bird Rides | Senior Backend Engineer (Golang/Platform) | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=830d0bff9058d600) | 2026-02-24 19:45 |
 | Expedia Group | Software Development Engineer | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f6610ed807a1c6f6) | 2026-02-24 18:50 |
@@ -357,7 +366,6 @@ Last updated: 2026-02-24 19:45
 | Openkyber | Data Migration Analyst | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d39a2d32f7b8310) | 2026-02-21 02:01 |
 | EffOne Software | SAP ABAP Developer IS-U | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=280a9a73ca5aee29) | 2026-02-21 02:01 |
 | LatestArrival | Engineer | Remote | 85.0% | [Apply](https://latest.com/2) | 2026-02-20 20:58 |
-| EarlyBird | Developer | SF | 80.0% | [Apply](https://early.com/1) | 2026-02-20 19:58 |
 
 
 ---
