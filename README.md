@@ -1,12 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-24 05:54
+Last updated: 2026-02-24 06:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 05:54 |
+| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3b1594a1814d7cf8) | 2026-02-24 06:50 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 06:50 |
+| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=25313f83b8938e18) | 2026-02-24 06:50 |
+| Miller Cooper | Full Stack Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64dfed33e248e8fb) | 2026-02-24 06:50 |
 | Sixth Street | Software Engineer - Platform (Frameworks, AI, Automation) Sr. Associate New | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba0529d8ff520672) | 2026-02-24 05:54 |
 | Zendesk | Senior Machine Learning Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b808411d8487a58f) | 2026-02-24 05:54 |
 | Shamrock Trading Corporation | Data Engineer | Overland Park, KS, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=d3fc7cad7b621a95) | 2026-02-24 04:10 |
