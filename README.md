@@ -1,13 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-24 22:25
+Last updated: 2026-02-24 23:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Affinity Solutions | Sr. Data Quality Engineer I (37_2026.1) | New York, NY, US USA | 27.1% | [Apply](https://www.indeed.com/viewjob?jk=c7933ce6e87f7544) | 2026-02-24 23:23 |
+| Affinity Solutions | Senior Data and Software Engineer I (API) (32_2026.1) | New York, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6ced5764d3537ea0) | 2026-02-24 23:23 |
+| The University of Michigan | Data Architect Senior | Ann Arbor, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4ccb9adf6566f3d5) | 2026-02-24 23:23 |
+| JPMorganChase | Data Engineer III | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b3e5e0e8fb1f2fdf) | 2026-02-24 23:23 |
+| JPMorganChase | Software Engineer III - Full Stack + AWS + Elastic / Open Search | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9d9fbf9321e91c82) | 2026-02-24 23:23 |
+| Openkyber | Network Automation Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d1544d3d51cf528c) | 2026-02-24 23:23 |
+| Openkyber | Network Automation Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1e2816b3964dd4df) | 2026-02-24 23:23 |
+| Openkyber | Saviynt Integration Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e6ec5a38573c3d9f) | 2026-02-24 23:23 |
+| Copperpoddigital Inc | Power BI Developer | Brentwood, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2dc8180238fd0566) | 2026-02-24 23:23 |
+| Openkyber | Saviynt Integration Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6c064cf7becc7a4) | 2026-02-24 23:23 |
+| Anaplan | Software Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d985dfab97c4672d) | 2026-02-24 23:23 |
+| Openkyber | Network Automation Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a5cf8eb1fd67c9b) | 2026-02-24 23:23 |
+| Openkyber | Network Automation Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9346f3db3d75bbe) | 2026-02-24 23:23 |
+| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=58780039e9e611ca) | 2026-02-24 23:23 |
+| Openkyber | Saviynt Integration Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0bfe8e53848754e) | 2026-02-24 23:23 |
+| University of Maryland Global Campus | Data Engineer | Adelphi, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=635921f4402acdff) | 2026-02-24 23:23 |
 | Ocean Blue Solutions | Data Engineer - Remote | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4d1820f8d0d8314d) | 2026-02-24 22:25 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 22:25 |
 | Klaviyo | Senior Analytics Engineer, Sales Analytics (GTM Data Engineering) | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=721d4b934257a77e) | 2026-02-24 22:25 |
 | GSK | AIML Services- Data Platform Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a25ec63d2a45d72c) | 2026-02-24 22:25 |
 | GSK | AIML Services- Data Platform Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41cbea8637a10d68) | 2026-02-24 22:25 |
@@ -17,8 +32,6 @@ Last updated: 2026-02-24 22:25
 | Nearsure | (1357) Senior Reliability Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b3c8f5bbb025388b) | 2026-02-24 22:25 |
 | Airvet | Backend Software Engineer (Mid-Level / Senior) | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e51b2375febffa24) | 2026-02-24 22:25 |
 | Fiserv | Security Analytics Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ca444d34471a5a6) | 2026-02-24 22:25 |
-| Hewlett Packard Enterprise \| HPE | Senior Network Engineer / Architect (Cloud & Private Cloud) | Andover, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=695b20750ce3efc8) | 2026-02-24 22:25 |
-| Hewlett Packard Enterprise \| HPE | Senior Network Engineer / Architect (Cloud & Private Cloud) | Andover, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79844f5abf0ab0c8) | 2026-02-24 22:25 |
 | Konrad Group | Data Analyst | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7de0ea1f90bea9f4) | 2026-02-24 22:25 |
 | Equifax | Software Engineer Sr. | St. Louis, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=694acb45c2cc0b4a) | 2026-02-24 21:26 |
 | Lam Research | Software Engineer Sys 3 | Fremont, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0b87979ce36653f6) | 2026-02-24 21:26 |
