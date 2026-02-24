@@ -1,13 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-23 23:28
+Last updated: 2026-02-24 01:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Brillio LLC | Data Architect – R01561308 | Chicago, IL, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=b6ab075046d2a5df) | 2026-02-24 01:16 |
+| LTIMindtree | Java Full Stack AI Engineer (Senior Software Engineer) | Tampa, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8915b5aa273f1b5b) | 2026-02-24 01:16 |
+| Realign | Senior Databricks Developer-3 | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=606b77832b864a7a) | 2026-02-24 01:16 |
+| Pindrop | Senior Software Engineer - ML Ops | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7db54c6b588d8f5c) | 2026-02-24 01:16 |
+| NetApp | Sr. Software Engineer- Keystone | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a103161b01705039) | 2026-02-24 01:16 |
+| Teladoc Health | Sr. Site Reliability Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cb16a49ed3afacf1) | 2026-02-24 01:16 |
+| Mulligan Funding, LLC | Data Engineer III | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b83efe663e7f5074) | 2026-02-24 01:16 |
+| CVS Health | Senior Data Engineer | Buffalo Grove, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d9295dd5dd4ae3b5) | 2026-02-24 01:16 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-24 01:16 |
+| RCH Solutions | Senior Software Engineer | Cambridge, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dfac51481516fb7f) | 2026-02-24 01:16 |
+| nan | Managing Architect - Solution Architecture | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19ae70f3036cdeed) | 2026-02-24 01:16 |
+| Filevine | Senior Database Reliability Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a200fed649475457) | 2026-02-24 01:16 |
+| Merz Aesthetics | Data Engineer | Racine, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=958f0954c73ffb6c) | 2026-02-24 01:16 |
+| Realign | Azure Databricks Architect | Mahwah, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2083fa3bb22ffe9f) | 2026-02-24 01:16 |
+| Realign | Teradata Developer-3 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dc7879b97287c803) | 2026-02-24 01:16 |
 | Thomson Reuters | Architect, Service & Operational Data | Eagan, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c82df1ac5ad3ee0a) | 2026-02-23 23:28 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f15a9458813e7e74) | 2026-02-23 23:28 |
 | Klaxontech | SAP FICO Consultant | Hilliard, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=98bb9f1b5eac151a) | 2026-02-23 23:28 |
 | Acosta Group | AI/Machine Learning Data Engineer | Chesterfield, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=65d238209415bd35) | 2026-02-23 23:28 |
 | Acosta Group | AI/Machine Learning Data Engineer | Jacksonville, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08527261a275aa62) | 2026-02-23 23:28 |
