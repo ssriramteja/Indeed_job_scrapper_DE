@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-25 18:00
+Last updated: 2026-02-25 19:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Shamrock Trading Corporation | Data Ops Engineer | Overland Park, KS, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=325e4219bc2f7757) | 2026-02-25 19:12 |
+| CNH Industrial | Senior Software Engineer | Oak Brook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1dad4f5aba9b286) | 2026-02-25 19:12 |
+| Compass Group USA | SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=65b5898fc3882a0c) | 2026-02-25 19:12 |
+| Luxoft | [CoreIgnite] Senior Java Developer (AWS) - Shashank Srivastava | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0866a4d4cc7dec0c) | 2026-02-25 19:12 |
 | Openkyber | Saviynt Integration Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=870984d57341ef57) | 2026-02-25 18:00 |
 | Openkyber | Senior AI Cloud Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af3b68e608e8a0d5) | 2026-02-25 18:00 |
 | Openkyber | ML Support Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4281d96efe6a7c5) | 2026-02-25 18:00 |
