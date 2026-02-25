@@ -1,15 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-25 07:47
+Last updated: 2026-02-25 08:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NVIDIA | AI Analytics and Visualization Engineer | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cb4ad153c4474d3) | 2026-02-25 08:38 |
 | Select Minds LLC | Senior AI / ML Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4fbed1e14e3c66df) | 2026-02-25 07:47 |
 | Foodsmart | Senior Software Engineer - Backend | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=731a813c3cc4a70a) | 2026-02-25 07:47 |
 | Infosys | Azure Data Bricks Developer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=312c6b6c4770004d) | 2026-02-25 07:47 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6af7b3b86256a1d) | 2026-02-25 07:47 |
 | Concentrix | AWS Data Platform Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6e6aa016202f66fe) | 2026-02-25 06:54 |
 | Speridian Technologies | Senior Technical Product Owner - Data Platform | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=829043b08de7d050) | 2026-02-25 06:54 |
 | nan | Sr AWS Data Engineer (Contract) | Parsippany-Troy Hills, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c7808d3f82f3dd3) | 2026-02-25 05:56 |
@@ -357,14 +357,6 @@ Last updated: 2026-02-25 07:47
 | Johnson Controls | Backend Software Engineer (hybrid) | Milwaukee, WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f5227f1e48c9e496) | 2026-02-21 10:17 |
 | Deloitte | Senior Data Engineer | San Jose, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8ed48e228bf802be) | 2026-02-21 09:22 |
 | Ascension | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11c257b267f7ca14) | 2026-02-21 09:22 |
-| Edwards Lifesciences | Senior Distinguished Architect, Data and AI Integration | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ff1219e8f32a9880) | 2026-02-21 08:21 |
-| AssistRx | Senior Data Engineer - Cloud Data Platform (Snowflake & dbt) | Maitland, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b78039922ffb238e) | 2026-02-21 08:21 |
-| nan | Full Stack Developer | Fredericksburg, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3acc87aee1bc1fbc) | 2026-02-21 08:21 |
-| nan | Full Stack Developer | Township of Liberty, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=adda1ac27c2224d4) | 2026-02-21 08:21 |
-| nan | Full Stack Developer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67bd98c9d61e607e) | 2026-02-21 08:21 |
-| nan | Full Stack Developer | Miamisburg, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=060b9fc9185471ea) | 2026-02-21 08:21 |
-| nan | Full Stack Developer | Woburn, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d960d787222d1f56) | 2026-02-21 08:21 |
-| SentiLink | Founding Senior Machine Learning Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b480c210788d0b19) | 2026-02-21 08:21 |
 
 
 ---
