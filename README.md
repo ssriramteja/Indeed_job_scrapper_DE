@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-25 05:56
+Last updated: 2026-02-25 06:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Concentrix | AWS Data Platform Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6e6aa016202f66fe) | 2026-02-25 06:54 |
+| Speridian Technologies | Senior Technical Product Owner - Data Platform | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=829043b08de7d050) | 2026-02-25 06:54 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6af7b3b86256a1d) | 2026-02-25 06:54 |
 | nan | Sr AWS Data Engineer (Contract) | Parsippany-Troy Hills, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c7808d3f82f3dd3) | 2026-02-25 05:56 |
 | Cetera Financial Group | Senior Software Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9c7833a34175870f) | 2026-02-25 05:56 |
 | Ascensus | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a5a47a44d6a3f091) | 2026-02-25 05:56 |
@@ -13,7 +16,6 @@ Last updated: 2026-02-25 05:56
 | Ascensus | Software Engineer | Newton, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d3faf055caa8c357) | 2026-02-25 05:56 |
 | Ascensus | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9944f1992e587dd2) | 2026-02-25 05:56 |
 | HCA Healthcare | Senior Data Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb3b123f509108b3) | 2026-02-25 05:56 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6af7b3b86256a1d) | 2026-02-25 05:56 |
 | Auction Technology Group | Senior Backend Engineer - Platform Enablement | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b5df47aafd3009ff) | 2026-02-25 04:12 |
 | Xylem | Software Engineer | Davis, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dc1dd8e4a22e1c65) | 2026-02-25 04:12 |
 | Ally Financial | Identity Shield & Consumer Fraud - FDP | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5a541a3b49011d60) | 2026-02-25 04:12 |
@@ -362,11 +364,6 @@ Last updated: 2026-02-25 05:56
 | SentiLink | Founding Senior Machine Learning Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b480c210788d0b19) | 2026-02-21 08:21 |
 | LMG Technology Services LLC | Systems Analyst 2 (529601635) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f5d3ad4cb950114) | 2026-02-21 07:27 |
 | Driven Brands | Data Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=039063e25cce7591) | 2026-02-21 07:27 |
-| American Academy of Orthopaedic Surgeons | Senior Data Engineer | Rosemont, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c11ce56e07f4ef5b) | 2026-02-21 06:32 |
-| Crackajack Solutions | Data Engineer – Kafka, Snowflake, Google Dataflow | Renton, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4b91cda9ef9060b0) | 2026-02-21 06:32 |
-| MGM Resorts International | AI Commercial & ML Ops Engineer | Las Vegas, NV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d1ac103ab878235) | 2026-02-21 06:32 |
-| AST SpaceMobile | Data Governance Senior | Lanham, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=448a79b744e2442c) | 2026-02-21 06:32 |
-| Oran Inc | Senior Data Engineer- Snowflake - USC/GC (federal client) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c9af366e1c74efef) | 2026-02-21 06:32 |
 
 
 ---
