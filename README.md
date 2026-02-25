@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-25 17:00
+Last updated: 2026-02-25 18:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Saviynt Integration Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=870984d57341ef57) | 2026-02-25 18:00 |
+| Openkyber | Senior AI Cloud Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af3b68e608e8a0d5) | 2026-02-25 18:00 |
+| Openkyber | ML Support Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4281d96efe6a7c5) | 2026-02-25 18:00 |
 | Boston College | Senior Performance Engineer | Chestnut Hill, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=704b47191373c7ad) | 2026-02-25 17:00 |
 | Crescent Energy | Senior Data Engineer – Upstream Oil & Gas | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=619ee2b50d37daac) | 2026-02-25 17:00 |
 | CVS Health | Machine Learning Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f836fc84892ec33f) | 2026-02-25 17:00 |
