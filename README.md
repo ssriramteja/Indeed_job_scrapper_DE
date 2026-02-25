@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-25 06:54
+Last updated: 2026-02-25 07:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Select Minds LLC | Senior AI / ML Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4fbed1e14e3c66df) | 2026-02-25 07:47 |
+| Foodsmart | Senior Software Engineer - Backend | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=731a813c3cc4a70a) | 2026-02-25 07:47 |
+| Infosys | Azure Data Bricks Developer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=312c6b6c4770004d) | 2026-02-25 07:47 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6af7b3b86256a1d) | 2026-02-25 07:47 |
 | Concentrix | AWS Data Platform Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6e6aa016202f66fe) | 2026-02-25 06:54 |
 | Speridian Technologies | Senior Technical Product Owner - Data Platform | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=829043b08de7d050) | 2026-02-25 06:54 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6af7b3b86256a1d) | 2026-02-25 06:54 |
 | nan | Sr AWS Data Engineer (Contract) | Parsippany-Troy Hills, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c7808d3f82f3dd3) | 2026-02-25 05:56 |
 | Cetera Financial Group | Senior Software Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9c7833a34175870f) | 2026-02-25 05:56 |
 | Ascensus | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a5a47a44d6a3f091) | 2026-02-25 05:56 |
@@ -362,8 +365,6 @@ Last updated: 2026-02-25 06:54
 | nan | Full Stack Developer | Miamisburg, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=060b9fc9185471ea) | 2026-02-21 08:21 |
 | nan | Full Stack Developer | Woburn, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d960d787222d1f56) | 2026-02-21 08:21 |
 | SentiLink | Founding Senior Machine Learning Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b480c210788d0b19) | 2026-02-21 08:21 |
-| LMG Technology Services LLC | Systems Analyst 2 (529601635) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f5d3ad4cb950114) | 2026-02-21 07:27 |
-| Driven Brands | Data Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=039063e25cce7591) | 2026-02-21 07:27 |
 
 
 ---
