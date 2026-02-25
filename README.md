@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-25 08:38
+Last updated: 2026-02-25 09:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Stifel | Sr Data Engineer | St. Louis, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dc1cae88bbe2455c) | 2026-02-25 09:44 |
+| Stifel | Sr Data Engineer | Memphis, TN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3346a397aa58e367) | 2026-02-25 09:44 |
+| CDW | Databricks Managing Consultant Engineer - Digital Velocity | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=91700d9dd67b6cb5) | 2026-02-25 09:44 |
+| Radwell International | Data Engineer | Willingboro, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d0a69e61901c434) | 2026-02-25 09:44 |
+| Qcells | Senior Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79f22cc4bdf57e2f) | 2026-02-25 09:44 |
+| Qcells | Senior Data Engineer | Santa Clara, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47823188919dd6f3) | 2026-02-25 09:44 |
 | NVIDIA | AI Analytics and Visualization Engineer | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cb4ad153c4474d3) | 2026-02-25 08:38 |
 | Select Minds LLC | Senior AI / ML Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4fbed1e14e3c66df) | 2026-02-25 07:47 |
 | Foodsmart | Senior Software Engineer - Backend | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=731a813c3cc4a70a) | 2026-02-25 07:47 |
@@ -355,8 +361,6 @@ Last updated: 2026-02-25 08:38
 | Mayo Clinic | Data Engineer | Rochester, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=587df161b94e20e7) | 2026-02-21 14:19 |
 | C.H. Robinson | Software Engineer II | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89cedea96b8947cc) | 2026-02-21 11:16 |
 | Johnson Controls | Backend Software Engineer (hybrid) | Milwaukee, WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f5227f1e48c9e496) | 2026-02-21 10:17 |
-| Deloitte | Senior Data Engineer | San Jose, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8ed48e228bf802be) | 2026-02-21 09:22 |
-| Ascension | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11c257b267f7ca14) | 2026-02-21 09:22 |
 
 
 ---
