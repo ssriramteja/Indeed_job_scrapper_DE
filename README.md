@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-25 11:35
+Last updated: 2026-02-25 12:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SRS Distribution | Analytics Engineer | McKinney, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=01278285fb17a0ad) | 2026-02-25 12:43 |
+| Airvet | Backend Software Engineer (Mid-Level / Senior) | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87ce4c6973528ac7) | 2026-02-25 12:43 |
 | ACR Technology Inc | Sr. Data Engineer (Only W2) | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8be431de16824436) | 2026-02-25 10:42 |
 | JPMorganChase | Software Engineer III - Fullstack with AWS | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a35418db0adaf400) | 2026-02-25 10:42 |
 | JPMorganChase | Software Engineer III | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2cd32825b07168a6) | 2026-02-25 10:42 |
