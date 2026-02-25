@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-25 15:54
+Last updated: 2026-02-25 17:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Boston College | Senior Performance Engineer | Chestnut Hill, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=704b47191373c7ad) | 2026-02-25 17:00 |
+| Crescent Energy | Senior Data Engineer – Upstream Oil & Gas | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=619ee2b50d37daac) | 2026-02-25 17:00 |
+| CVS Health | Machine Learning Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f836fc84892ec33f) | 2026-02-25 17:00 |
+| CVS Health | Data Scientist - Pricing and Promotions Optimization | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2dd0084730de1d4) | 2026-02-25 17:00 |
+| CVS Health | Data Scientist - Pricing and Promotions Optimization | Wellesley, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ac1b66db18d2c42) | 2026-02-25 17:00 |
+| ThinkMirum, Inc. | Data Warehouse/BI Developer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe28e970e1130d6e) | 2026-02-25 17:00 |
 | Rice University | Data Scientist | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29c39de545706a17) | 2026-02-25 15:54 |
 | nan | Software Engineer - DevOps | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c10fe2dd154808d6) | 2026-02-25 15:54 |
 | Trinetix | Solution Architect/System Architect (US) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=70339cff36501a53) | 2026-02-25 14:04 |
