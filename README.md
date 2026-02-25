@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-25 22:24
+Last updated: 2026-02-25 23:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=88095bf45f8ffd12) | 2026-02-25 23:25 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ed97260c28a913a) | 2026-02-25 23:25 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ff9397037d4364c4) | 2026-02-25 23:25 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=370f84e82c56d5a4) | 2026-02-25 23:25 |
 | Vaarida Technologies | Infrastructure Architect | Culver City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=63d81ec56ed45b4c) | 2026-02-25 22:24 |
 | SavvyMoney | Data Scientist – AI & Machine Learning Systems (Dublin, CA) | Dublin, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e01821abea23411c) | 2026-02-25 22:24 |
 | Phillips 66 | Sr Advisor II, AI Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1b85a978b0b96b10) | 2026-02-25 21:28 |
@@ -390,7 +394,6 @@ Last updated: 2026-02-25 22:24
 | BV Teck | Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ddc1e10f9afcac16) | 2026-02-22 06:37 |
 | A L P | Backend Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b2334484c3690385) | 2026-02-22 04:09 |
 | Quality Counts | Database Architect-Transportation Data Collection-Remote | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=55a65847d8f6c718) | 2026-02-22 04:09 |
-| St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3b32f6f53279a94) | 2026-02-21 23:17 |
 
 
 ---
