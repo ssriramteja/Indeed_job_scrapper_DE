@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-25 20:27
+Last updated: 2026-02-25 21:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Phillips 66 | Sr Advisor II, AI Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1b85a978b0b96b10) | 2026-02-25 21:28 |
+| Trepp | Data Engineer II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbd8df1b20c5849b) | 2026-02-25 21:28 |
 | Inspira Financial | Sr. Software Engineer (Remote) | Oak Brook, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=03f6284daa41bb63) | 2026-02-25 20:27 |
 | Gradient AI | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08f4a08591f4e565) | 2026-02-25 20:27 |
 | Ripple | Software Engineer II | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6988d9d372dc66d3) | 2026-02-25 20:27 |
