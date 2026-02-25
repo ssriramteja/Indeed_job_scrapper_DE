@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-25 19:12
+Last updated: 2026-02-25 20:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Inspira Financial | Sr. Software Engineer (Remote) | Oak Brook, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=03f6284daa41bb63) | 2026-02-25 20:27 |
+| Gradient AI | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08f4a08591f4e565) | 2026-02-25 20:27 |
+| Ripple | Software Engineer II | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6988d9d372dc66d3) | 2026-02-25 20:27 |
+| TruMinds Technology Inc | Data Scientist | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e03879d64f0d66b6) | 2026-02-25 20:27 |
+| Allegiant Air | Data Engineer | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1785b277f2b3b5c) | 2026-02-25 20:27 |
 | Shamrock Trading Corporation | Data Ops Engineer | Overland Park, KS, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=325e4219bc2f7757) | 2026-02-25 19:12 |
 | CNH Industrial | Senior Software Engineer | Oak Brook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1dad4f5aba9b286) | 2026-02-25 19:12 |
 | Compass Group USA | SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=65b5898fc3882a0c) | 2026-02-25 19:12 |
