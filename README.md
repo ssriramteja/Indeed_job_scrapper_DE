@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-25 09:44
+Last updated: 2026-02-25 10:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ACR Technology Inc | Sr. Data Engineer (Only W2) | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8be431de16824436) | 2026-02-25 10:42 |
+| JPMorganChase | Software Engineer III - Fullstack with AWS | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a35418db0adaf400) | 2026-02-25 10:42 |
+| JPMorganChase | Software Engineer III | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2cd32825b07168a6) | 2026-02-25 10:42 |
+| JPMorganChase | Software Engineer III (SWES03) DT_AI/ML | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a073dd45695fc17b) | 2026-02-25 10:42 |
+| JPMorganChase | Software Engineer II_AI/ML | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2a98bbc96397eaf9) | 2026-02-25 10:42 |
+| Tesla | Data Engineer, IT Data & Analytics | Fremont, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=10b03a3fc26187a5) | 2026-02-25 10:42 |
 | Stifel | Sr Data Engineer | St. Louis, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dc1cae88bbe2455c) | 2026-02-25 09:44 |
 | Stifel | Sr Data Engineer | Memphis, TN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3346a397aa58e367) | 2026-02-25 09:44 |
 | CDW | Databricks Managing Consultant Engineer - Digital Velocity | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=91700d9dd67b6cb5) | 2026-02-25 09:44 |
@@ -360,7 +366,6 @@ Last updated: 2026-02-25 09:44
 | Proactive Logic Consulting Inc | Senior Microsoft Fabric & Power BI Consultant (AI-Forward) — Healthcare Data & Analytics | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c62c91a087c2799) | 2026-02-21 14:19 |
 | Mayo Clinic | Data Engineer | Rochester, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=587df161b94e20e7) | 2026-02-21 14:19 |
 | C.H. Robinson | Software Engineer II | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89cedea96b8947cc) | 2026-02-21 11:16 |
-| Johnson Controls | Backend Software Engineer (hybrid) | Milwaukee, WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f5227f1e48c9e496) | 2026-02-21 10:17 |
 
 
 ---
