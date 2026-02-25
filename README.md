@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-25 14:04
+Last updated: 2026-02-25 15:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Rice University | Data Scientist | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29c39de545706a17) | 2026-02-25 15:54 |
+| nan | Software Engineer - DevOps | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c10fe2dd154808d6) | 2026-02-25 15:54 |
 | Trinetix | Solution Architect/System Architect (US) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=70339cff36501a53) | 2026-02-25 14:04 |
 | Rice Engineering | Data Scientist | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4a61e3564cb83914) | 2026-02-25 14:04 |
 | Infoorigin Inc | Senior Technical Architect | Trenton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=29e7697b5567a66e) | 2026-02-25 14:04 |
@@ -367,9 +369,6 @@ Last updated: 2026-02-25 14:04
 | A L P | Backend Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b2334484c3690385) | 2026-02-22 04:09 |
 | Quality Counts | Database Architect-Transportation Data Collection-Remote | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=55a65847d8f6c718) | 2026-02-22 04:09 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3b32f6f53279a94) | 2026-02-21 23:17 |
-| Charles Schwab | Cloud Data Platform Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9aedb77097be25e8) | 2026-02-21 15:17 |
-| Proactive Logic Consulting Inc | Senior Microsoft Fabric & Power BI Consultant (AI-Forward) — Healthcare Data & Analytics | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c62c91a087c2799) | 2026-02-21 14:19 |
-| Mayo Clinic | Data Engineer | Rochester, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=587df161b94e20e7) | 2026-02-21 14:19 |
 
 
 ---
