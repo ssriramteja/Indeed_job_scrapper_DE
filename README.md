@@ -1,19 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-26 15:45
+Last updated: 2026-02-26 16:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 16:48 |
+| The Friedkin Group | Data Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f7ede0f34ce25b71) | 2026-02-26 16:48 |
+| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 16:48 |
+| Matrix Medical Network | DevOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=939ed479d96c418b) | 2026-02-26 16:48 |
 | Disney Entertainment Television | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=06c7525b9f402e34) | 2026-02-26 15:45 |
-| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 15:45 |
 | Capital One | Senior Data Engineer (Python, SQL, AWS) - Navigator Platform | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=38b02b46801c7f10) | 2026-02-26 15:45 |
 | Capital One | Senior Data Engineer | Wilmington, DE, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ef8a3d8ad1cf49b7) | 2026-02-26 15:45 |
 | Fairview Health Services | Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2d7b87445d04d0bb) | 2026-02-26 15:45 |
 | Colgate-Palmolive | Machine Learning Engineer (171679) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b373595b350ec3d) | 2026-02-26 15:45 |
 | IDEMIA | Solutions Architect III | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b223a04c01fe717f) | 2026-02-26 15:45 |
-| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 15:45 |
 | Geotab | Data Operations Developer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9cd3315942275dbc) | 2026-02-26 15:45 |
 | Mayo Clinic | Senior Platform Engineer | Rochester, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b57d55c8e2a74923) | 2026-02-26 14:07 |
 | First American | Senior Data Engineer (Remote in CA) | Santa Ana, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=05ccb57abd2eb2be) | 2026-02-26 12:42 |
