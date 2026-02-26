@@ -1,15 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-26 07:45
+Last updated: 2026-02-26 08:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 07:45 |
-| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 07:45 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ed97260c28a913a) | 2026-02-26 07:45 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ff9397037d4364c4) | 2026-02-26 07:45 |
+| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 08:37 |
+| GEICO | Distinguished Engineer | Chevy Chase, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ab3a4b9f2c783845) | 2026-02-26 08:37 |
+| GEICO | Sr. Software Engineer | Chevy Chase, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4a077c257a4cf0b5) | 2026-02-26 08:37 |
+| GEICO | Senior Software Engineer- Policy Configuration | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1acf3efd34722f19) | 2026-02-26 08:37 |
+| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 08:37 |
+| GEICO | Solutions Engineer II - Networking | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b11bc9d20fc1e2e2) | 2026-02-26 08:37 |
+| GEICO | Solutions Engineer II - Networking | Chevy Chase, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2a6f623279ee6d4) | 2026-02-26 08:37 |
+| GEICO | Solutions Engineer II - Networking | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca3cccca60e879db) | 2026-02-26 08:37 |
+| GEICO | Solutions Engineer II - Networking | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d4f821dc8a5f6559) | 2026-02-26 08:37 |
+| GEICO | Senior Engineer - Java [Hybrid] | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dbeb792ea58b7a87) | 2026-02-26 08:37 |
+| GEICO | Senior Engineer - Java [Hybrid] | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f22565dd904e0808) | 2026-02-26 08:37 |
+| GEICO | Senior Full Stack Engineer - (Java, React, Microservices) - *HYBRID* | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f8fcbfbc5352b0bf) | 2026-02-26 08:37 |
+| GEICO | Senior Engineer - .NET | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1da94812ec374b4) | 2026-02-26 08:37 |
+| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee5cdada52faf29e) | 2026-02-26 08:37 |
+| GEICO | Engineer II | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=503269b060f28151) | 2026-02-26 08:37 |
+| GEICO | Engineer II- .Net | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd899ffea8f1b74c) | 2026-02-26 08:37 |
+| GEICO | Engineer II | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5676e61db2aa81f3) | 2026-02-26 08:37 |
+| GEICO | Engineer II- .Net | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de6aa6e4975245c5) | 2026-02-26 08:37 |
 | Harness | Senior Customer Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=927541bc7fc9c876) | 2026-02-26 06:50 |
 | Genpact | Consultant - Cloud SRE Admin | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3dc8b002eb283aa) | 2026-02-26 06:50 |
 | Harness | Senior Customer Architect - AppSec (Enterprise and Federal) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75750b39b6d9f7e1) | 2026-02-26 06:50 |
@@ -403,66 +417,6 @@ Last updated: 2026-02-26 07:45
 | Dell Technologies | Senior Systems Engineer, UDS Data Management - West | CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6bf94c93449dfa3d) | 2026-02-22 23:17 |
 | Dell Technologies | Senior Systems Engineer, UDS Data Management - Central | IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=23fa7ab7f29d61af) | 2026-02-22 23:17 |
 | Dell Technologies | Senior Systems Engineer, UDS Data Management - East | MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ff8fbb8c2cb45e2e) | 2026-02-22 23:17 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6880377961dd34c) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f8d81da2675f09a) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Jericho, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80ecea7854c84d2f) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eadc8b3152de6edf) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09f0cc3c3e322d55) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Portland, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c6563c9072cece55) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d7a5eb12bfa24145) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Dayton, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cf0d2d6a3f455ebf) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e4d966b7a2dd95df) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Morristown, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4d11ebfcd28367ee) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bbb1511f618cabf) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2db0377bd2033218) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=feb233ed89e926ae) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5732e090675323b9) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Princeton, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d5554c8b262ebca) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=321d41ed26b61c51) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc8dbba670528e7c) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bb2fb6f6ffa31a2e) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Rochester, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87b713e6ebe771c3) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Midland, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80f0d92cfd23c289) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ea0bc8d88a85d44) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Grand Rapids, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=227f56442e77932a) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c330d3407d356dad) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac530f7ffd36eae0) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Milwaukee, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=90a50b063d1b2b89) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Memphis, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d9122b799e128dfc) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2364dd118caf1a52) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6a457603f4b679a) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e3fae432856abbb) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Las Vegas, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=605f88116d6b43b4) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Tulsa, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7dd90302f7439c7e) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d5076d2c13ddf5d3) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14187c0426ae0fa2) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=98da314a69e75f1e) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Boca Raton, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86465adf9c646cb9) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f72ac04a60f4d162) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=141d40bfe20c12e8) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=94375b5d9e7cae99) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=97c2cd5621dd40bb) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=589547b629f51343) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=37caaacce8d7ce07) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Honolulu, HI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a4a13b839782ca75) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96620e34867483df) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d543eb6b3aa6442) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Louisville, KY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a4e6ad85a494486) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7aca591c0990d287) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Davenport, IA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e0db06ec1b0cb8a) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a4a46b57ca5d88d1) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Stamford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1e2524ec035ff2bf) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d05c90daafadf3a) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e5834374e4863cc) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Des Moines, IA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69224637a7d705fa) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=92a2e1a31907db35) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1fdad3de4918ac39) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2dcfff1f54bd57bb) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=678a91e6ce1e590b) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43e82f243cf6d372) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cf997269e2e10bdf) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | New Orleans, LA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c9a413fb586ebb9f) | 2026-02-22 08:22 |
-| Deloitte | Senior Consultant - GenAI Full Stack Developer | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=77c3f0c49614639e) | 2026-02-22 08:22 |
 
 
 ---
