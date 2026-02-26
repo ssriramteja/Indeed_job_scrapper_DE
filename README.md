@@ -1,21 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-26 21:25
+Last updated: 2026-02-26 22:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 22:24 |
+| Hudson Manpower | Data Engineer with AI & Kubernetes | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fe3d2714f39bd085) | 2026-02-26 22:24 |
+| Zonos | DevOps Engineer | Saint George, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3bee8d25021d9111) | 2026-02-26 22:24 |
+| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 22:24 |
+| Nation's Best Sports | Senior Full Stack Software Engineer | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4021abb69b19b3ac) | 2026-02-26 22:24 |
 | Tata Consultancy Services (TCS) | Full Stack Engineer (React + Node.js) | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1d9cf410db691568) | 2026-02-26 21:25 |
 | Tata Consultancy Services (TCS) | Java Engineer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=45366327b45aca00) | 2026-02-26 21:25 |
 | Tata Consultancy Services (TCS) | Blockchain Java Backend Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c48f5c60379802d3) | 2026-02-26 21:25 |
-| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 21:25 |
 | Outfront Media | Senior Software Engineer | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=54fbc1b6f53ddcb1) | 2026-02-26 21:25 |
 | Progressive | Intermediate Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6b465e27586b38fb) | 2026-02-26 21:25 |
 | SS&C | Sr. Software Engineer | Kansas City, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2845c99fbf7bb445) | 2026-02-26 21:25 |
 | Stellar Solutions | Snowflake SME | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ccefe385c15cc707) | 2026-02-26 21:25 |
 | NTT DATA | Senior AI Engineer | MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=74494a10316e7fe4) | 2026-02-26 21:25 |
-| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 21:25 |
 | Finance of America | Data Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f8846493996e830) | 2026-02-26 21:25 |
 | Replit | Product Engineer, Partnerships | Foster City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b40a810716931b39) | 2026-02-26 21:25 |
 | MeridianLink | Full-Stack Software Development Engineer II ( Java and Angular) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=77bef7280137d41c) | 2026-02-26 21:25 |
