@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-26 04:09
+Last updated: 2026-02-26 05:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 05:53 |
+| SolidLine Media | Data Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e8185f66fc8c270) | 2026-02-26 05:53 |
+| American Family Insurance | Senior Data Engineer | Madison, WI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=54c5e79cbd14d908) | 2026-02-26 05:53 |
+| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 05:53 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ed97260c28a913a) | 2026-02-26 05:53 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ff9397037d4364c4) | 2026-02-26 05:53 |
+| Aeroflow Health | Fullstack Software Engineer (Special Projects Team) | Asheville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61e2c56fc5827763) | 2026-02-26 05:53 |
 | Equitable | Software Engineering III | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1753914a33e85905) | 2026-02-26 04:09 |
 | Phillips 66 | Senior Advisor II, Data Architect | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=21bd27b152469170) | 2026-02-26 04:09 |
 | Tata Consultancy Services (TCS) | Databricks Data Engineer | Deerfield, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e89cb44acf96f0ce) | 2026-02-26 04:09 |
@@ -27,10 +34,7 @@ Last updated: 2026-02-26 04:09
 | infinite choice | Senior Software Engineer - API, Services and Backend Systems | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a80d09769e3b9b3d) | 2026-02-26 04:09 |
 | infinite choice | Senior Software Engineer - API, Services and Backend Systems | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d4e3f617e5fa8da5) | 2026-02-26 04:09 |
 | 4P Consulting Inc. | Data Engineer II 4P/554 | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43d963e021c819ac) | 2026-02-26 04:09 |
-| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 04:09 |
 | Tata Consultancy Services (TCS) | Infrastructure Architect | Culver City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f75551378db568f) | 2026-02-26 04:09 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ed97260c28a913a) | 2026-02-26 04:09 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ff9397037d4364c4) | 2026-02-26 04:09 |
 | Corning | Manufacturing Systems Integration Engineer | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d8532be76b040bdb) | 2026-02-26 04:09 |
 | clickhouse | Cloud Platform Engineer - Control Plane | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d85ac5dbf541cd3b) | 2026-02-26 04:09 |
 | Ascendion | MLOps Platform Engineer | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4687b9b235a9a6ce) | 2026-02-26 04:09 |
