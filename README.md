@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-26 12:42
+Last updated: 2026-02-26 14:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 14:07 |
+| Mayo Clinic | Senior Platform Engineer | Rochester, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b57d55c8e2a74923) | 2026-02-26 14:07 |
+| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 14:07 |
 | First American | Senior Data Engineer (Remote in CA) | Santa Ana, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=05ccb57abd2eb2be) | 2026-02-26 12:42 |
-| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 12:42 |
 | Premise Health | Azure Data Engineer I | Brentwood, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=353cdf1ee00c6fd9) | 2026-02-26 12:42 |
-| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 12:42 |
 | JPMorganChase | DevOps Software Engineer III | Plano, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ae9c515199307b36) | 2026-02-26 10:38 |
 | JPMorganChase | Software Engineer III - AI/ML | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=330acb9fbf425d3a) | 2026-02-26 10:38 |
 | The Home Depot | Senior Machine Learning Engineer (Remote) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64eeda5b2dfcfe99) | 2026-02-26 10:38 |
