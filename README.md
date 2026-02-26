@@ -1,16 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-26 17:53
+Last updated: 2026-02-26 18:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 18:40 |
+| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 18:40 |
+| CINC | Data Engineer - II | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32c97e76b6269664) | 2026-02-26 18:40 |
 | Torq | Senior Consultant - Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=5c9f68666dbb80cd) | 2026-02-26 17:53 |
 | Associated Wholesale Grocers | Sr. Solution Engineer | Kansas City, KS, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3d4780af39e79827) | 2026-02-26 17:53 |
-| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 17:53 |
 | Openkyber | SAP AI Business Services Consultant | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fc1052fb6437c3a3) | 2026-02-26 17:53 |
-| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 17:53 |
 | AMD | Senior Backend Software Engineer (HPC/AI & Distributed Systems) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dce54831329652c4) | 2026-02-26 17:53 |
 | MeridianLink | Full-Stack Software Development Engineer II ( Java and Angular) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc8599dc51df5400) | 2026-02-26 17:53 |
 | University of Texas Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6fff225f154716cc) | 2026-02-26 17:53 |
