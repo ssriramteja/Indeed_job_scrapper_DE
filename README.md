@@ -1,16 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-26 08:37
+Last updated: 2026-02-26 09:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 08:37 |
+| Open Insurance | DevOps & Backend Engineer — Mid/Senior | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6691fd82745fd2c9) | 2026-02-26 09:40 |
+| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 09:40 |
+| SRS Distribution | Analytics Engineer | McKinney, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9fcb451d7086751) | 2026-02-26 09:40 |
+| Herbalife | Application Developer III, Platform Engineering | Torrance, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=116acc2ab05b269d) | 2026-02-26 09:40 |
+| Ramsey Solutions | Analytics Engineer | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ba46b1aa50f7279f) | 2026-02-26 09:40 |
+| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 09:40 |
+| State Farm | Software Engineer | Bloomington, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7929c83226ae75b) | 2026-02-26 09:40 |
+| Radwell International | Enterprise AI Architect | Willingboro, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=291c96af0e7cea02) | 2026-02-26 09:40 |
 | GEICO | Distinguished Engineer | Chevy Chase, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ab3a4b9f2c783845) | 2026-02-26 08:37 |
 | GEICO | Sr. Software Engineer | Chevy Chase, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4a077c257a4cf0b5) | 2026-02-26 08:37 |
 | GEICO | Senior Software Engineer- Policy Configuration | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1acf3efd34722f19) | 2026-02-26 08:37 |
-| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 08:37 |
 | GEICO | Solutions Engineer II - Networking | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b11bc9d20fc1e2e2) | 2026-02-26 08:37 |
 | GEICO | Solutions Engineer II - Networking | Chevy Chase, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2a6f623279ee6d4) | 2026-02-26 08:37 |
 | GEICO | Solutions Engineer II - Networking | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca3cccca60e879db) | 2026-02-26 08:37 |
