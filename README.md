@@ -1,13 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-26 18:40
+Last updated: 2026-02-26 19:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 18:40 |
-| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 18:40 |
+| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 19:38 |
+| F5 | Software Development Engineer I | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=79a97f6710d73548) | 2026-02-26 19:38 |
+| Royal Caribbean Group | Data Scientist | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b5df4e674559910e) | 2026-02-26 19:38 |
+| SpyCloud | Senior Software Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1b7f8d62e370d21c) | 2026-02-26 19:38 |
+| Bank of America | Senior Engineer - Wire Payments Platform | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=55c16c38ef65d0c6) | 2026-02-26 19:38 |
+| Box | Senior Machine Learning Engineer, Shield | Redwood City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=88492e295288a867) | 2026-02-26 19:38 |
+| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 19:38 |
+| Fidelity TalentSource | Sr. Full Stack Engineer | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fb9b3b22d6fa4bd) | 2026-02-26 19:38 |
+| VistaCNO | Senior Data Scientist | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa8ab0c91f7227f7) | 2026-02-26 19:38 |
+| Burrell Behavioral Health | Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ff4ba7951fc9c97) | 2026-02-26 19:38 |
+| Tango | Senior DevOps Engineer (Remote) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d66e27cb89a5630) | 2026-02-26 19:38 |
 | CINC | Data Engineer - II | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32c97e76b6269664) | 2026-02-26 18:40 |
 | Torq | Senior Consultant - Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=5c9f68666dbb80cd) | 2026-02-26 17:53 |
 | Associated Wholesale Grocers | Sr. Solution Engineer | Kansas City, KS, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3d4780af39e79827) | 2026-02-26 17:53 |
