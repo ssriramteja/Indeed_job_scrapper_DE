@@ -1,17 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-26 10:38
+Last updated: 2026-02-26 11:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 11:34 |
+| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 11:34 |
 | JPMorganChase | DevOps Software Engineer III | Plano, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ae9c515199307b36) | 2026-02-26 10:38 |
-| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 10:38 |
 | JPMorganChase | Software Engineer III - AI/ML | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=330acb9fbf425d3a) | 2026-02-26 10:38 |
 | The Home Depot | Senior Machine Learning Engineer (Remote) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64eeda5b2dfcfe99) | 2026-02-26 10:38 |
 | JPMorganChase | Software Engineer III - Data Engineering Java/Python | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ec8999487afb4f6) | 2026-02-26 10:38 |
-| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 10:38 |
 | The Home Depot | Machine Learning Engineer II (Remote) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd0ef78a415d3113) | 2026-02-26 10:38 |
 | JPMorganChase | Software Engineer III - DevOps Automation Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58638a1a93a5925c) | 2026-02-26 10:38 |
 | Open Insurance | DevOps & Backend Engineer — Mid/Senior | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6691fd82745fd2c9) | 2026-02-26 09:40 |

@@ -38,18 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Software Engineering III @ Equitable
-**Match Score:** 16.7%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** RDS, Azure, Databricks, Hadoop, HDFS, Hive, Sqoop, HBase, Flume, Zookeeper
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1753914a33e85905)
-
----
-
-## 5. DevOps Software Engineer III @ JPMorganChase
+## 4. DevOps Software Engineer III @ JPMorganChase
 **Match Score:** 16.7%
 
 📍 **Location:** Plano, TX, US USA
@@ -57,6 +46,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, EMR, Lambda, Redshift, Athena, S3, RDS, Oozie, Scala, Oracle
 
 [Apply Here](https://www.indeed.com/viewjob?jk=ae9c515199307b36)
+
+---
+
+## 5. Software Engineering III @ Equitable
+**Match Score:** 16.7%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Hadoop, HDFS, Hive, Sqoop, HBase, Flume, Zookeeper
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1753914a33e85905)
 
 ---
 
@@ -192,18 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Software Engineer III - AI/ML @ JPMorganChase
-**Match Score:** 13.9%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Vertex AI, Spark, Scala, Kafka, MLOps, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=330acb9fbf425d3a)
-
----
-
-## 19. Application Developer III, Platform Engineering @ Herbalife
+## 18. Application Developer III, Platform Engineering @ Herbalife
 **Match Score:** 13.9%
 
 📍 **Location:** Torrance, CA, US USA
@@ -211,6 +200,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, PostgreSQL, MySQL, MongoDB, NoSQL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=116acc2ab05b269d)
+
+---
+
+## 19. Software Engineer III - AI/ML @ JPMorganChase
+**Match Score:** 13.9%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Vertex AI, Spark, Scala, Kafka, MLOps, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=330acb9fbf425d3a)
 
 ---
 
@@ -610,7 +610,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Machine Learning Engineer II (Remote) @ The Home Depot
+## 56. Enterprise AI Architect @ Radwell International
+**Match Score:** 10.4%
+
+📍 **Location:** Willingboro, NJ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Scala, PostgreSQL, MySQL, NoSQL, MLOps, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=291c96af0e7cea02)
+
+---
+
+## 57. Machine Learning Engineer II (Remote) @ The Home Depot
 **Match Score:** 10.4%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -621,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Software Engineer @ State Farm
+## 58. Software Engineer @ State Farm
 **Match Score:** 10.4%
 
 📍 **Location:** Bloomington, IL, US USA
@@ -632,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. ML Support Engineer @ Openkyber
+## 59. ML Support Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -643,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. Backend Software Engineer (Mid-Level / Senior) @ Airvet
+## 60. Backend Software Engineer (Mid-Level / Senior) @ Airvet
 **Match Score:** 10.4%
 
 📍 **Location:** CA, US USA
@@ -654,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. Data Scientist II @ Chewy
+## 61. Data Scientist II @ Chewy
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -665,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Data Scientist II @ Chewy
+## 62. Data Scientist II @ Chewy
 **Match Score:** 10.4%
 
 📍 **Location:** Bellevue, WA, US USA
@@ -673,17 +684,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Glue, Redshift, Athena, RDS, Azure, GCP, Spark, Snowflake, dbt
 
 [Apply Here](https://www.indeed.com/viewjob?jk=26a71508d797185b)
-
----
-
-## 62. Enterprise AI Architect @ Radwell International
-**Match Score:** 10.4%
-
-📍 **Location:** Willingboro, NJ, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Scala, PostgreSQL, MySQL, NoSQL, MLOps, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=291c96af0e7cea02)
 
 ---
 
