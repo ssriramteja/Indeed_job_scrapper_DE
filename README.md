@@ -1,17 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-26 05:53
+Last updated: 2026-02-26 06:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 05:53 |
+| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 06:50 |
+| Harness | Senior Customer Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=927541bc7fc9c876) | 2026-02-26 06:50 |
+| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 06:50 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ed97260c28a913a) | 2026-02-26 06:50 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ff9397037d4364c4) | 2026-02-26 06:50 |
+| Genpact | Consultant - Cloud SRE Admin | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3dc8b002eb283aa) | 2026-02-26 06:50 |
+| Harness | Senior Customer Architect - AppSec (Enterprise and Federal) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75750b39b6d9f7e1) | 2026-02-26 06:50 |
 | SolidLine Media | Data Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e8185f66fc8c270) | 2026-02-26 05:53 |
 | American Family Insurance | Senior Data Engineer | Madison, WI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=54c5e79cbd14d908) | 2026-02-26 05:53 |
-| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 05:53 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ed97260c28a913a) | 2026-02-26 05:53 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ff9397037d4364c4) | 2026-02-26 05:53 |
 | Aeroflow Health | Fullstack Software Engineer (Special Projects Team) | Asheville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61e2c56fc5827763) | 2026-02-26 05:53 |
 | Equitable | Software Engineering III | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1753914a33e85905) | 2026-02-26 04:09 |
 | Phillips 66 | Senior Advisor II, Data Architect | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=21bd27b152469170) | 2026-02-26 04:09 |
@@ -461,7 +464,6 @@ Last updated: 2026-02-26 05:53
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | New Orleans, LA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c9a413fb586ebb9f) | 2026-02-22 08:22 |
 | Deloitte | Senior Consultant - GenAI Full Stack Developer | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=77c3f0c49614639e) | 2026-02-22 08:22 |
 | GEICO | Senior Engineer -.NET | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=613a3090cae4237e) | 2026-02-22 07:31 |
-| BV Teck | Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ddc1e10f9afcac16) | 2026-02-22 06:37 |
 
 
 ---
