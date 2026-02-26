@@ -1,15 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-26 22:24
+Last updated: 2026-02-26 23:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 22:24 |
+| Wellmark Blue Cross and Blue Shield | Sr. Full Stack Digital Services Software Engineer #1741 | Des Moines, IA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ef36d6b0df82b802) | 2026-02-26 23:22 |
+| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 23:22 |
+| Openkyber | SAP Security Consultant | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=99f20f1d8e4ac8db) | 2026-02-26 23:22 |
+| GreatAmerica Financial Services | Data Architect | Cedar Rapids, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a73f224d7e2859e4) | 2026-02-26 23:22 |
+| Early Warning Services | Sr. Business Intelligence Developer | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7ac4966435dab5e0) | 2026-02-26 23:22 |
+| Reef Capital Partners | AI DevOps Engineer | Lehi, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1e695ed23053b341) | 2026-02-26 23:22 |
+| Hightower Advisors | Senior Data Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=73d8a7818486ff2d) | 2026-02-26 23:22 |
+| Openkyber | SAP Application Support Trainee | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71e8e9db0adaeff1) | 2026-02-26 23:22 |
+| Bayer | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=defb7c286d56b171) | 2026-02-26 23:22 |
+| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 23:22 |
+| A. Duie Pyle, INC. | Senior Data Architect | West Chester, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df95271c65edaa7c) | 2026-02-26 23:22 |
+| Beghou Consulting | Consultant, Data Management | Thousand Oaks, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1ad03af6a4ac792) | 2026-02-26 23:22 |
 | Hudson Manpower | Data Engineer with AI & Kubernetes | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fe3d2714f39bd085) | 2026-02-26 22:24 |
 | Zonos | DevOps Engineer | Saint George, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3bee8d25021d9111) | 2026-02-26 22:24 |
-| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 22:24 |
 | Nation's Best Sports | Senior Full Stack Software Engineer | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4021abb69b19b3ac) | 2026-02-26 22:24 |
 | Tata Consultancy Services (TCS) | Full Stack Engineer (React + Node.js) | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1d9cf410db691568) | 2026-02-26 21:25 |
 | Tata Consultancy Services (TCS) | Java Engineer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=45366327b45aca00) | 2026-02-26 21:25 |
@@ -469,9 +479,6 @@ Last updated: 2026-02-26 22:24
 | Convey | Software Engineer New | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7f0c38e749fbda51) | 2026-02-23 09:44 |
 | Sigma Computing | Senior Security Engineer – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d4ac754da67252d) | 2026-02-23 09:44 |
 | nan | Sr Software Engineer | Logan, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c8dcb5b8c38b1f3) | 2026-02-23 04:15 |
-| Dell Technologies | Senior Systems Engineer, UDS Data Management - West | CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6bf94c93449dfa3d) | 2026-02-22 23:17 |
-| Dell Technologies | Senior Systems Engineer, UDS Data Management - Central | IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=23fa7ab7f29d61af) | 2026-02-22 23:17 |
-| Dell Technologies | Senior Systems Engineer, UDS Data Management - East | MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ff8fbb8c2cb45e2e) | 2026-02-22 23:17 |
 
 
 ---
