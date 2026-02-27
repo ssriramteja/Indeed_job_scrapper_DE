@@ -1,14 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 19:28
+Last updated: 2026-02-27 20:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Data Architect | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c8e643c6d74eb444) | 2026-02-27 20:20 |
+| Linde | Sr. Data Engineer | Tonawanda, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f17e8e0a1dc510cf) | 2026-02-27 20:20 |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 20:20 |
+| Neighborhood Health Center | Business Intelligence Developer - Power BI | Tigard, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d17a304efb77ff78) | 2026-02-27 20:20 |
+| Guardian Bikes | Senior Analytics Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78011a5d6c324570) | 2026-02-27 20:20 |
+| ECS | BI Reporting Developer I | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebe4ac8a6ea16a0a) | 2026-02-27 20:20 |
 | Klaviyo | Senior Data Engineer, Business Intelligence | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0f39474e07389a32) | 2026-02-27 19:28 |
 | Expert Technology Services | Microsoft Azure Engineer / Architect | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdc7fa4175844c3b) | 2026-02-27 19:28 |
-| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 19:28 |
 | ProTalent Finders | MLOps Engineer - NO VISA SPONSORSHIP | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7d5540e90f82629) | 2026-02-27 19:28 |
 | Twilio | Software Engineer - Video | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a237a79dc97e081) | 2026-02-27 19:28 |
 | Micron Technology | SR DATA SCIENTIST, SMART MFG & AI | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=12881722cc760412) | 2026-02-27 18:31 |
@@ -553,14 +558,6 @@ Last updated: 2026-02-27 19:28
 | Oncourse Home Solutions | Engineer - Amazon Connect | Naperville, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afb4d3e843ce82f1) | 2026-02-23 21:36 |
 | First Command Financial Services | Data Architect | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e080e266216f7f2e) | 2026-02-23 20:36 |
 | ExxonMobil | S&O Developer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=329bc88cd35a3445) | 2026-02-23 20:36 |
-| National Retail Systems, Inc | IT Data Platform Engineer | Lyndhurst, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4da5376ea9ed63ff) | 2026-02-23 19:53 |
-| Qode | Senior Data Architect | Cleveland, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1a44f31ac4940b0d) | 2026-02-23 19:53 |
-| Qode | Senior Data Architect | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3e1483610ca5ce64) | 2026-02-23 19:53 |
-| Qode | Senior Data Architect | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5a76068c88e5733f) | 2026-02-23 19:53 |
-| RollKall | Analytics Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=68db2c37ad6b9984) | 2026-02-23 19:53 |
-| Avature | Data Engineer II | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4414e81252a871d7) | 2026-02-23 19:53 |
-| NATIONAL ASSOCIATION OF REALTORS® | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3bd2134994ec718) | 2026-02-23 19:53 |
-| Jarvis Recruitment | Full Stack Magento Developer – Remote (Canada) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e6328c1040c5967) | 2026-02-23 19:53 |
 
 
 ---
