@@ -1,13 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 22:16
+Last updated: 2026-02-27 23:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| OZ Digital | Databricks Senior Data Engineer | Boca Raton, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=86a35b352ed2af92) | 2026-02-27 23:17 |
+| Transamerica | Senior Quality Software Engineer | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a424e0d64dae1bfe) | 2026-02-27 23:17 |
+| Cleerly | DevOps Engineer III | Denver, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e56f4ee4c4c94216) | 2026-02-27 23:17 |
+| Availity, LLC. | Software Engineer II | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=21fc3ea476dd4728) | 2026-02-27 23:17 |
+| Apollo Technology Solutions LLC | Senior Back End Engineer (Node / AWS / GraphQL / Angular) | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3a4440da75e00ed3) | 2026-02-27 23:17 |
+| Health-E Commerce | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec27c4fa8782043e) | 2026-02-27 23:17 |
+| SoFi | Data Engineer | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=991ff35a7c2f8bc5) | 2026-02-27 23:17 |
+| SoFi | Senior Data Engineer | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8b899c29e2338bfc) | 2026-02-27 23:17 |
+| Art of Problem Solving Academy | Senior Data Scientist - Product | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60462ec1b41e6c17) | 2026-02-27 23:17 |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 23:17 |
+| Openkyber | Google Cloud Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f9178a4cbcc55572) | 2026-02-27 23:17 |
+| IDEXX Laboratories | AI Enablement Data Engineer | Westbrook, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eed16d28c472ffad) | 2026-02-27 23:17 |
+| SoFi | Senior Software Engineer, Member AI Features | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfffdbe40afac374) | 2026-02-27 23:17 |
 | Intellibee Inc | Sr. Databricks Architect & Developer | Des Moines, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=13cef02d1e7cd394) | 2026-02-27 22:16 |
-| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 22:16 |
 | Tata Consultancy Services (TCS) | Senior AI/ML Developer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=61c8a3c6f4ba6dbe) | 2026-02-27 21:21 |
 | Halvik | Data Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=89d69e074834d3c5) | 2026-02-27 21:21 |
 | National Association of Boards of Pharmacy (NABP) | Senior Data Engineer | Model, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2aa97bcb9debb40e) | 2026-02-27 21:21 |
@@ -546,11 +558,6 @@ Last updated: 2026-02-27 22:16
 | IvoryCloud | Enterprise Data Architect | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=180dbcd7c9c036ee) | 2026-02-23 23:28 |
 | Datavant | Risk Adjustment Sr. Data Analyst - Remote | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d255eff083655ae) | 2026-02-23 23:28 |
 | Fanatics | Software Engineer II | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1be8fdec648472af) | 2026-02-23 23:28 |
-| Mariner Wealth Advisors | Senior Data Engineer | Overland Park, KS, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=074ebeab3093055c) | 2026-02-23 22:32 |
-| Intellibee Inc | Data Analyst | Lansing, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4423f4c3dd145f17) | 2026-02-23 22:32 |
-| Trust Technology Solutions | Sr. Data Engineer | Overland Park, KS, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce96db4f29cbf55a) | 2026-02-23 22:32 |
-| Highmark Health | Senior Big Data Engineer | PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e566377201b9121f) | 2026-02-23 22:32 |
-| Radiant Digital | Senior Business Intelligence (BI) Developer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=776eaa52cad25247) | 2026-02-23 22:32 |
 
 
 ---
