@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 06:42
+Last updated: 2026-02-27 07:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 07:40 |
+| PNC Financial Services Group | Software Engineer Sr - Microservices/Kafka/ETL | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3673ee144fef09b1) | 2026-02-27 07:40 |
 | California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=07cbf3a945c9cfd5) | 2026-02-27 06:42 |
 | California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=661c70c9e0e46642) | 2026-02-27 06:42 |
 | California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST III | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=12162f7263a7c160) | 2026-02-27 06:42 |
@@ -28,7 +30,6 @@ Last updated: 2026-02-27 06:42
 | BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae0a6ecb46a52f03) | 2026-02-27 06:42 |
 | BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9950a2ee957b024c) | 2026-02-27 06:42 |
 | BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7604b05bdd0ea604) | 2026-02-27 06:42 |
-| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 06:42 |
 | TikTok | Senior Data Scientist, Global Data Analytics for Internal Audit Function - AMS | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6b82db82dc8d84bf) | 2026-02-27 05:45 |
 | Carroll Daniel Construction | DATA ARCHITECT | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=0c8b3e0cb0c3863c) | 2026-02-27 04:05 |
 | Information Technology Senior Management Forum | Senior Data Engineer (Python, SQL, AWS) - Navigator Platform | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0a4d5c76dd819896) | 2026-02-27 04:05 |
