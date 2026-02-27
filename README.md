@@ -1,13 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 10:29
+Last updated: 2026-02-27 11:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| H&R Block | Sr Software Engineer C# | MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ec87087b20cbd9b5) | 2026-02-27 11:26 |
+| Acuity Inc. | Senior SRE Cloud Enablement Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=30657c45715f4f96) | 2026-02-27 11:26 |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 11:26 |
+| American Express | Senior Software Engineer , Backend - Dining Technology | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a55027269ae2c13) | 2026-02-27 11:26 |
+| UT Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5234ef7e93d3843b) | 2026-02-27 11:26 |
+| i2c Inc | Sr. Software Engineer - CMG | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14c6d6e2d1865fce) | 2026-02-27 11:26 |
 | JPMorganChase | Software Engineer III - Fullstack with AWS | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d52a4ac4cf61b3b8) | 2026-02-27 10:29 |
-| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 10:29 |
 | Coresphere | Salesforce Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=04680e043ccedae6) | 2026-02-27 10:29 |
 | Colgate-Palmolive | Machine Learning Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8347260a96645aa2) | 2026-02-27 09:32 |
 | Cvent | Database Engineer II | Tysons Corner, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e6a5e86c2af0d5a) | 2026-02-27 09:32 |
