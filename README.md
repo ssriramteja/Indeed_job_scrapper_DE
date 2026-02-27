@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 07:40
+Last updated: 2026-02-27 08:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 07:40 |
+| Radiant Digital | Enterprise Architect | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21b7e73d33f00e62) | 2026-02-27 08:32 |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 08:32 |
+| nan | Senior AI/Python Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6fc817ac4888de29) | 2026-02-27 08:32 |
 | PNC Financial Services Group | Software Engineer Sr - Microservices/Kafka/ETL | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3673ee144fef09b1) | 2026-02-27 07:40 |
 | California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=07cbf3a945c9cfd5) | 2026-02-27 06:42 |
 | California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=661c70c9e0e46642) | 2026-02-27 06:42 |
