@@ -1,13 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 16:31
+Last updated: 2026-02-27 17:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Baldwin Group | Sr. Data Engineer | Tampa, FL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1c1ca4fadb364b85) | 2026-02-27 17:28 |
+| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=68c4aadfa37313dc) | 2026-02-27 17:28 |
+| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ba86e480fe3755cd) | 2026-02-27 17:28 |
+| Openkyber | Senior IAM Integration Engineer | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6b82fbb2e1ad7212) | 2026-02-27 17:28 |
+| Openkyber | Senior IAM Integration Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c5e466f53edec490) | 2026-02-27 17:28 |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=341544bd6730c9ac) | 2026-02-27 17:28 |
+| EisnerAmper | AI Platform Architect | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=573d09f867190b28) | 2026-02-27 17:28 |
+| Triwave Solutions Inc | Enterprise Architect | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=244a4415e537c51d) | 2026-02-27 17:28 |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 17:28 |
+| CloudRay Inc | Mid-Senior BI / Data Engineer – Oracle HCM Analytics | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c341eb25b16ef9ac) | 2026-02-27 17:28 |
+| Openkyber | Google Cloud Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f180565bedb48a) | 2026-02-27 17:28 |
 | Persausive technologies | ERP DEVELOPER | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b6fc1be542dcacf1) | 2026-02-27 16:31 |
-| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 16:31 |
 | Roblox | Senior Software Engineer - Marketplace Foundation | San Mateo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71b8c7a77228590a) | 2026-02-27 16:31 |
 | Eaton | Senior Data Architect - Analytics Platforms | Beachwood, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15d02502aba945ef) | 2026-02-27 16:31 |
 | Eaton | Senior Data Architect - Analytics Platforms | Coraopolis, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4eb52e9c6f43c27d) | 2026-02-27 16:31 |
@@ -546,9 +556,6 @@ Last updated: 2026-02-27 16:31
 | project44 | Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=166c9d26347adcb3) | 2026-02-23 17:55 |
 | Surt AI | Senior Backend Software Engineer - Rust & Serverless (Remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91b38c28583e38a2) | 2026-02-23 17:55 |
 | Softengine | .NET Backend Developer (ERP Experience Preferred) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0431d35c1c1fb538) | 2026-02-23 17:55 |
-| Revo Health LLC. | Solutions Architect - Revo Health | Bloomington, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=18cfd44c5eb59653) | 2026-02-23 16:45 |
-| IQZ SYSTEMS | Senior Azure Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dce914fdc34a1067) | 2026-02-23 16:45 |
-| IQZ SYSTEMS | Technology Architect Azure platform | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4454ab3187398b4) | 2026-02-23 16:45 |
 
 
 ---
