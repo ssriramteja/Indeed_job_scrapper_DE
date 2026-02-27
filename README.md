@@ -1,13 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 01:13
+Last updated: 2026-02-27 04:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Carroll Daniel Construction | DATA ARCHITECT | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=0c8b3e0cb0c3863c) | 2026-02-27 04:05 |
+| Information Technology Senior Management Forum | Senior Data Engineer (Python, SQL, AWS) - Navigator Platform | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0a4d5c76dd819896) | 2026-02-27 04:05 |
+| NTT DATA | Full Stack Programmer | MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e6b01477b638e08) | 2026-02-27 04:05 |
+| South College | Database Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f1783775bd336ccf) | 2026-02-27 04:05 |
+| Extractable | Data Analytics (Web and Advertising Analytics) | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a286e5a815599310) | 2026-02-27 04:05 |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 04:05 |
+| NTT DATA | Senior AI Engineer | MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6accf9a868913e9c) | 2026-02-27 04:05 |
+| Airbyte | Technical Support Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f37da5c13bf79660) | 2026-02-27 04:05 |
+| PENNYMAC | Sr. Application Development | Carrollton, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a26ae619bfe9ea5) | 2026-02-27 04:05 |
+| Cvent | Database Engineer II | Tysons Corner, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1cc1b8c72693e77a) | 2026-02-27 04:05 |
+| TikTok | Senior Data Scientist, Global Data Analytics for Internal Audit Function - AMS | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b570a425db53cdf) | 2026-02-27 04:05 |
+| TikTok | Senior Data Scientist, Global Data Analytics for Internal Audit Function - AMS | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c276ceaec78f13bf) | 2026-02-27 04:05 |
+| Sifted | Product Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ee7df5cbe03d450) | 2026-02-27 04:05 |
+| Morningstar | Associate Software Engineer, Credit Tech | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=91f8471c0b8e5715) | 2026-02-27 04:05 |
 | Realign | Full Stack Engineer (React + Node.js)-1 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=00b0ecbc06d206c1) | 2026-02-27 01:13 |
-| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-27 01:13 |
 | Teladoc Health | Senior Data Engineer (Snowflake & dbt) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=485d715fc100593a) | 2026-02-27 01:13 |
 | LTIMindtree | Java Full Stack – AI Engineer (Senior Software Engineer) | Tampa, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=65acbad9fc6000b8) | 2026-02-27 01:13 |
 | NTT DATA | Full Stack Programmer | MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=14f5c62a0200f541) | 2026-02-27 01:13 |
@@ -17,7 +30,6 @@ Last updated: 2026-02-27 01:13
 | nan | Senior Software Engineer - Machine Learning & Artificial Intelligence (ML & AI) | King of Prussia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8d7c1193c8f42bbf) | 2026-02-27 01:13 |
 | GM Financial | Data Engineer II | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=955a036d4b1cf07e) | 2026-02-27 01:13 |
 | Ripplehire | AI Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d12fb3b1bcde35e2) | 2026-02-27 01:13 |
-| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-27 01:13 |
 | TESSCO | Senior - Software Engineer - NetSuite Reporting/Analytics | Hunt Valley, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=707ae926dfb9261b) | 2026-02-27 01:13 |
 | Realign | Azure Databricks Architect-3 | Mahwah, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aeb9f762b587a290) | 2026-02-27 01:13 |
 | YUM! Brands, Inc. | Data Platform Architect | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4f545aa447f1c2c) | 2026-02-27 01:13 |
