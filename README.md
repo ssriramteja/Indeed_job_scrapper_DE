@@ -1,15 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 15:32
+Last updated: 2026-02-27 16:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Persausive technologies | ERP DEVELOPER | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b6fc1be542dcacf1) | 2026-02-27 16:31 |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 16:31 |
+| Roblox | Senior Software Engineer - Marketplace Foundation | San Mateo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71b8c7a77228590a) | 2026-02-27 16:31 |
+| Eaton | Senior Data Architect - Analytics Platforms | Beachwood, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15d02502aba945ef) | 2026-02-27 16:31 |
+| Eaton | Senior Data Architect - Analytics Platforms | Coraopolis, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4eb52e9c6f43c27d) | 2026-02-27 16:31 |
+| Eaton | Senior Data Architect - Analytics Platforms | Galesburg, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1c7ecb6b8d2b3f93) | 2026-02-27 16:31 |
+| Eaton | Senior Data Architect - Analytics Platforms | Menomonee Falls, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b18883612d9ca325) | 2026-02-27 16:31 |
+| Eaton | Senior Data Architect - Analytics Platforms | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=780d004f45bf8f3f) | 2026-02-27 16:31 |
+| Eaton | Senior Data Architect - Analytics Platforms | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0945c969df98f8e0) | 2026-02-27 16:31 |
+| Los Angeles Apparel | Backend Programmer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba0910a235eb75af) | 2026-02-27 16:31 |
 | NRCCUA | Cloud Security Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5d638d27bd496aac) | 2026-02-27 15:32 |
 | nan | Site Reliability Engineer II | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4420b6c7bc5a59dc) | 2026-02-27 15:32 |
 | nan | Sr Data Engineer | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6f61d4f9e0de29b6) | 2026-02-27 15:32 |
-| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 15:32 |
 | Persausive technologies | ERP DEVELOPER | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4cb5a11d2c71308d) | 2026-02-27 14:34 |
 | Bluelight Consulting | Agentic AI Solutions Architect - Remote, Latin America | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=685a2624d1d330a2) | 2026-02-27 13:54 |
 | OneMain Financial | Senior Platform Engineer (Observability & Telemetry) | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=44433f5b77f36c69) | 2026-02-27 13:54 |
@@ -540,9 +549,6 @@ Last updated: 2026-02-27 15:32
 | Revo Health LLC. | Solutions Architect - Revo Health | Bloomington, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=18cfd44c5eb59653) | 2026-02-23 16:45 |
 | IQZ SYSTEMS | Senior Azure Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dce914fdc34a1067) | 2026-02-23 16:45 |
 | IQZ SYSTEMS | Technology Architect Azure platform | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4454ab3187398b4) | 2026-02-23 16:45 |
-| BakerHostetler | Solutions Architect | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2b9840944141fbe6) | 2026-02-23 15:39 |
-| Boeing | Senior Data Solutions Architect | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d79996f851036ab7) | 2026-02-23 15:39 |
-| American business solutions inc | Data Warehouse/BI Developer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=18ade4abca790417) | 2026-02-23 15:39 |
 
 
 ---
