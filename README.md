@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 11:26
+Last updated: 2026-02-27 12:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Cheesecake Factory | Integrations Analyst | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7f6089961c8465fc) | 2026-02-27 12:38 |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 12:38 |
+| Sakuu Corp | Full-Stack Software Engineer, Manufacturing/R&D Data Platform (NestJS, Next.js, Kafka) | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43351bc15987c6d7) | 2026-02-27 12:38 |
 | H&R Block | Sr Software Engineer C# | MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ec87087b20cbd9b5) | 2026-02-27 11:26 |
 | Acuity Inc. | Senior SRE Cloud Enablement Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=30657c45715f4f96) | 2026-02-27 11:26 |
-| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 11:26 |
 | American Express | Senior Software Engineer , Backend - Dining Technology | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a55027269ae2c13) | 2026-02-27 11:26 |
 | UT Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5234ef7e93d3843b) | 2026-02-27 11:26 |
 | i2c Inc | Sr. Software Engineer - CMG | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14c6d6e2d1865fce) | 2026-02-27 11:26 |
@@ -536,8 +538,6 @@ Last updated: 2026-02-27 11:26
 | Boeing | Senior Data Solutions Architect | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d79996f851036ab7) | 2026-02-23 15:39 |
 | American business solutions inc | Data Warehouse/BI Developer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=18ade4abca790417) | 2026-02-23 15:39 |
 | Cognizant Technology Solutions | Azure Databricks Senior Developer | Louisville, KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=754f275108d306b4) | 2026-02-23 14:03 |
-| Openkyber | Business Continuity | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de2646ff99b8282b) | 2026-02-23 11:34 |
-| IQZ SYSTEMS | Senior Azure Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f9c6210edfe81ce) | 2026-02-23 11:34 |
 
 
 ---
