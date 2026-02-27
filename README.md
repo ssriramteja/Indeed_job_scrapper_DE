@@ -1,14 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 20:20
+Last updated: 2026-02-27 21:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Senior AI/ML Developer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=61c8a3c6f4ba6dbe) | 2026-02-27 21:21 |
+| Halvik | Data Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=89d69e074834d3c5) | 2026-02-27 21:21 |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 21:21 |
+| National Association of Boards of Pharmacy (NABP) | Senior Data Engineer | Model, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2aa97bcb9debb40e) | 2026-02-27 21:21 |
+| Klaviyo | Senior Software Engineer - CICD | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4cd3477fb442eb3) | 2026-02-27 21:21 |
+| Qualcomm | Machine Learning Software Engineer | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=196dc3bc7f2912cf) | 2026-02-27 21:21 |
 | nan | Data Architect | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c8e643c6d74eb444) | 2026-02-27 20:20 |
 | Linde | Sr. Data Engineer | Tonawanda, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f17e8e0a1dc510cf) | 2026-02-27 20:20 |
-| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 20:20 |
 | Neighborhood Health Center | Business Intelligence Developer - Power BI | Tigard, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d17a304efb77ff78) | 2026-02-27 20:20 |
 | Guardian Bikes | Senior Analytics Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78011a5d6c324570) | 2026-02-27 20:20 |
 | ECS | BI Reporting Developer I | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebe4ac8a6ea16a0a) | 2026-02-27 20:20 |
@@ -556,8 +561,6 @@ Last updated: 2026-02-27 20:20
 | kp reddy | Software Engineer - Full Stack | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=15451134c42bdf64) | 2026-02-23 21:36 |
 | kp reddy | Software Engineer - Full Stack | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3288093ad8485f4) | 2026-02-23 21:36 |
 | Oncourse Home Solutions | Engineer - Amazon Connect | Naperville, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afb4d3e843ce82f1) | 2026-02-23 21:36 |
-| First Command Financial Services | Data Architect | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e080e266216f7f2e) | 2026-02-23 20:36 |
-| ExxonMobil | S&O Developer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=329bc88cd35a3445) | 2026-02-23 20:36 |
 
 
 ---
