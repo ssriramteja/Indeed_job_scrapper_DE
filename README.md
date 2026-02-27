@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 13:54
+Last updated: 2026-02-27 14:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Persausive technologies | ERP DEVELOPER | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4cb5a11d2c71308d) | 2026-02-27 14:34 |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 14:34 |
 | Bluelight Consulting | Agentic AI Solutions Architect - Remote, Latin America | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=685a2624d1d330a2) | 2026-02-27 13:54 |
 | OneMain Financial | Senior Platform Engineer (Observability & Telemetry) | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=44433f5b77f36c69) | 2026-02-27 13:54 |
-| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 13:54 |
 | The Cheesecake Factory | Integrations Analyst | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7f6089961c8465fc) | 2026-02-27 12:38 |
 | Sakuu Corp | Full-Stack Software Engineer, Manufacturing/R&D Data Platform (NestJS, Next.js, Kafka) | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43351bc15987c6d7) | 2026-02-27 12:38 |
 | H&R Block | Sr Software Engineer C# | MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ec87087b20cbd9b5) | 2026-02-27 11:26 |
@@ -539,7 +540,6 @@ Last updated: 2026-02-27 13:54
 | BakerHostetler | Solutions Architect | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2b9840944141fbe6) | 2026-02-23 15:39 |
 | Boeing | Senior Data Solutions Architect | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d79996f851036ab7) | 2026-02-23 15:39 |
 | American business solutions inc | Data Warehouse/BI Developer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=18ade4abca790417) | 2026-02-23 15:39 |
-| Cognizant Technology Solutions | Azure Databricks Senior Developer | Louisville, KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=754f275108d306b4) | 2026-02-23 14:03 |
 
 
 ---
