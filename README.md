@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 17:28
+Last updated: 2026-02-27 18:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Micron Technology | SR DATA SCIENTIST, SMART MFG & AI | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=12881722cc760412) | 2026-02-27 18:31 |
+| Micron Technology | Senior Data Scientist | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9088b884cc79245f) | 2026-02-27 18:31 |
+| Infoorigin Inc | Senior Technical Architect | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=663f555c3c3a4323) | 2026-02-27 18:31 |
+| Infoorigin Inc | Senior Technical Architect | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1c9c050714c83922) | 2026-02-27 18:31 |
+| Realign | Data Platform Engineer | Parsippany-Troy Hills, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b1048ac2a929a355) | 2026-02-27 18:31 |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 18:31 |
+| University of Wisconsin-Stout | Software Eng/Developer III | Menomonie, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb4a42fcc433ea24) | 2026-02-27 18:31 |
+| TechnoMile | CloudOps Specialist | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0602f10e5c420065) | 2026-02-27 18:31 |
+| RogueSearch | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b30c7e8de15bdeb) | 2026-02-27 18:31 |
+| Hexaware Technologies | Java Full Stack Engineer - Associate | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=473e4f2e4cfe64c5) | 2026-02-27 18:31 |
+| Twilio | Software Engineer - Video | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e6902022dae079f0) | 2026-02-27 18:31 |
 | The Baldwin Group | Sr. Data Engineer | Tampa, FL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1c1ca4fadb364b85) | 2026-02-27 17:28 |
 | Openkyber | Senior Cloud IAM Engineer | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=68c4aadfa37313dc) | 2026-02-27 17:28 |
 | Openkyber | Senior Cloud IAM Engineer | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ba86e480fe3755cd) | 2026-02-27 17:28 |
@@ -14,7 +25,6 @@ Last updated: 2026-02-27 17:28
 | Openkyber | ML Infrastructure Architect | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=341544bd6730c9ac) | 2026-02-27 17:28 |
 | EisnerAmper | AI Platform Architect | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=573d09f867190b28) | 2026-02-27 17:28 |
 | Triwave Solutions Inc | Enterprise Architect | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=244a4415e537c51d) | 2026-02-27 17:28 |
-| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 17:28 |
 | CloudRay Inc | Mid-Senior BI / Data Engineer – Oracle HCM Analytics | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c341eb25b16ef9ac) | 2026-02-27 17:28 |
 | Openkyber | Google Cloud Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f180565bedb48a) | 2026-02-27 17:28 |
 | Persausive technologies | ERP DEVELOPER | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b6fc1be542dcacf1) | 2026-02-27 16:31 |
@@ -549,13 +559,6 @@ Last updated: 2026-02-27 17:28
 | Jarvis Recruitment | Full Stack Magento Developer – Remote (Canada) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e6328c1040c5967) | 2026-02-23 19:53 |
 | Eli Lilly | Associate - Data Engineer - Global Master Data | Indianapolis, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=326b602342da8867) | 2026-02-23 18:53 |
 | Nutrien | Sr Cloud Engineer | Loveland, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19dbe4103504c9e7) | 2026-02-23 18:53 |
-| American Electric Power | Solution Engineer Prin | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f1621e6d7e730c79) | 2026-02-23 17:55 |
-| Striim | Sr Field Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9fd06b655c3730ee) | 2026-02-23 17:55 |
-| Corteva Agriscience | Data Engineer II | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=84bbb3c9d11dfa7f) | 2026-02-23 17:55 |
-| project44 | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2ad7acbb70aad17a) | 2026-02-23 17:55 |
-| project44 | Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=166c9d26347adcb3) | 2026-02-23 17:55 |
-| Surt AI | Senior Backend Software Engineer - Rust & Serverless (Remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91b38c28583e38a2) | 2026-02-23 17:55 |
-| Softengine | .NET Backend Developer (ERP Experience Preferred) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0431d35c1c1fb538) | 2026-02-23 17:55 |
 
 
 ---
