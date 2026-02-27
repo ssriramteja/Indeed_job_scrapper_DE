@@ -1,13 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-26 23:22
+Last updated: 2026-02-27 01:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Realign | Full Stack Engineer (React + Node.js)-1 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=00b0ecbc06d206c1) | 2026-02-27 01:13 |
+| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-27 01:13 |
+| Teladoc Health | Senior Data Engineer (Snowflake & dbt) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=485d715fc100593a) | 2026-02-27 01:13 |
+| LTIMindtree | Java Full Stack – AI Engineer (Senior Software Engineer) | Tampa, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=65acbad9fc6000b8) | 2026-02-27 01:13 |
+| NTT DATA | Full Stack Programmer | MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=14f5c62a0200f541) | 2026-02-27 01:13 |
+| Velvetech | MLops Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=55830710a153dc5e) | 2026-02-27 01:13 |
+| Brown & Brown Insurance | Senior Data Engineer | Daytona Beach, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=58bf629817888436) | 2026-02-27 01:13 |
+| Renew home | Senior Engineer, Energy Intelligence (Remote, US) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e972715f58cab3b7) | 2026-02-27 01:13 |
+| nan | Senior Software Engineer - Machine Learning & Artificial Intelligence (ML & AI) | King of Prussia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8d7c1193c8f42bbf) | 2026-02-27 01:13 |
+| GM Financial | Data Engineer II | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=955a036d4b1cf07e) | 2026-02-27 01:13 |
+| Ripplehire | AI Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d12fb3b1bcde35e2) | 2026-02-27 01:13 |
+| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-27 01:13 |
+| TESSCO | Senior - Software Engineer - NetSuite Reporting/Analytics | Hunt Valley, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=707ae926dfb9261b) | 2026-02-27 01:13 |
+| Realign | Azure Databricks Architect-3 | Mahwah, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aeb9f762b587a290) | 2026-02-27 01:13 |
+| YUM! Brands, Inc. | Data Platform Architect | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4f545aa447f1c2c) | 2026-02-27 01:13 |
+| SPAN Enterprises, LLC | Software Developer (Go / Backend Engineering) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a80a72289b50e8a) | 2026-02-27 01:13 |
+| Humana | Software Engineer 2 – Full Stack (React.js, Java Spring Boot) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33f233bcd06b05ea) | 2026-02-27 01:13 |
 | Wellmark Blue Cross and Blue Shield | Sr. Full Stack Digital Services Software Engineer #1741 | Des Moines, IA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ef36d6b0df82b802) | 2026-02-26 23:22 |
-| The Walt Disney Company | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15f2e018b3b0d55e) | 2026-02-26 23:22 |
 | Openkyber | SAP Security Consultant | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=99f20f1d8e4ac8db) | 2026-02-26 23:22 |
 | GreatAmerica Financial Services | Data Architect | Cedar Rapids, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a73f224d7e2859e4) | 2026-02-26 23:22 |
 | Early Warning Services | Sr. Business Intelligence Developer | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7ac4966435dab5e0) | 2026-02-26 23:22 |
@@ -15,7 +31,6 @@ Last updated: 2026-02-26 23:22
 | Hightower Advisors | Senior Data Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=73d8a7818486ff2d) | 2026-02-26 23:22 |
 | Openkyber | SAP Application Support Trainee | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71e8e9db0adaeff1) | 2026-02-26 23:22 |
 | Bayer | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=defb7c286d56b171) | 2026-02-26 23:22 |
-| Ford Motor Company | Senior Data Engineer, CRM | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b266df7f25223b6) | 2026-02-26 23:22 |
 | A. Duie Pyle, INC. | Senior Data Architect | West Chester, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df95271c65edaa7c) | 2026-02-26 23:22 |
 | Beghou Consulting | Consultant, Data Management | Thousand Oaks, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1ad03af6a4ac792) | 2026-02-26 23:22 |
 | Hudson Manpower | Data Engineer with AI & Kubernetes | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fe3d2714f39bd085) | 2026-02-26 22:24 |
