@@ -1,17 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 04:05
+Last updated: 2026-02-27 05:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 05:45 |
+| TikTok | Senior Data Scientist, Global Data Analytics for Internal Audit Function - AMS | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6b82db82dc8d84bf) | 2026-02-27 05:45 |
 | Carroll Daniel Construction | DATA ARCHITECT | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=0c8b3e0cb0c3863c) | 2026-02-27 04:05 |
 | Information Technology Senior Management Forum | Senior Data Engineer (Python, SQL, AWS) - Navigator Platform | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0a4d5c76dd819896) | 2026-02-27 04:05 |
 | NTT DATA | Full Stack Programmer | MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e6b01477b638e08) | 2026-02-27 04:05 |
 | South College | Database Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f1783775bd336ccf) | 2026-02-27 04:05 |
 | Extractable | Data Analytics (Web and Advertising Analytics) | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a286e5a815599310) | 2026-02-27 04:05 |
-| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 04:05 |
 | NTT DATA | Senior AI Engineer | MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6accf9a868913e9c) | 2026-02-27 04:05 |
 | Airbyte | Technical Support Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f37da5c13bf79660) | 2026-02-27 04:05 |
 | PENNYMAC | Sr. Application Development | Carrollton, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a26ae619bfe9ea5) | 2026-02-27 04:05 |
@@ -505,7 +506,6 @@ Last updated: 2026-02-27 04:05
 | Convey | Senior Software Engineer New | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a7e1e1ef2ff4bf9) | 2026-02-23 09:44 |
 | Convey | Software Engineer New | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7f0c38e749fbda51) | 2026-02-23 09:44 |
 | Sigma Computing | Senior Security Engineer – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d4ac754da67252d) | 2026-02-23 09:44 |
-| nan | Sr Software Engineer | Logan, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c8dcb5b8c38b1f3) | 2026-02-23 04:15 |
 
 
 ---
