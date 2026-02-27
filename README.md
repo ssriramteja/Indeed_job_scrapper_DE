@@ -1,13 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-27 12:38
+Last updated: 2026-02-27 13:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bluelight Consulting | Agentic AI Solutions Architect - Remote, Latin America | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=685a2624d1d330a2) | 2026-02-27 13:54 |
+| OneMain Financial | Senior Platform Engineer (Observability & Telemetry) | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=44433f5b77f36c69) | 2026-02-27 13:54 |
+| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 13:54 |
 | The Cheesecake Factory | Integrations Analyst | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7f6089961c8465fc) | 2026-02-27 12:38 |
-| Michael Silver & Company | Data Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d034328689acf94) | 2026-02-27 12:38 |
 | Sakuu Corp | Full-Stack Software Engineer, Manufacturing/R&D Data Platform (NestJS, Next.js, Kafka) | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43351bc15987c6d7) | 2026-02-27 12:38 |
 | H&R Block | Sr Software Engineer C# | MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ec87087b20cbd9b5) | 2026-02-27 11:26 |
 | Acuity Inc. | Senior SRE Cloud Enablement Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=30657c45715f4f96) | 2026-02-27 11:26 |
