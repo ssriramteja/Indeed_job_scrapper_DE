@@ -973,18 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Senior Data Scientist - Product @ Art of Problem Solving Academy
-**Match Score:** 11.8%
-
-📍 **Location:** San Diego, CA, US USA
-
-🔑 **Keywords:** Redshift, RDS, BigQuery, Spark, PySpark, Dask, Polars, Snowflake, dbt, Tableau
-
-[Apply Here](https://www.indeed.com/viewjob?jk=60462ec1b41e6c17)
-
----
-
-## 90. Business Intelligence Developer - Power BI @ Neighborhood Health Center
+## 89. Business Intelligence Developer - Power BI @ Neighborhood Health Center
 **Match Score:** 11.8%
 
 📍 **Location:** Tigard, OR, US USA
@@ -992,6 +981,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Scala, Snowflake, SQL Server, Data Modeling, Dimensional Modeling, Snowflake Schema, ETL, ELT
 
 [Apply Here](https://www.indeed.com/viewjob?jk=d17a304efb77ff78)
+
+---
+
+## 90. Senior Data Scientist - Product @ Art of Problem Solving Academy
+**Match Score:** 11.8%
+
+📍 **Location:** San Diego, CA, US USA
+
+🔑 **Keywords:** Redshift, RDS, BigQuery, Spark, PySpark, Dask, Polars, Snowflake, dbt, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=60462ec1b41e6c17)
 
 ---
 
@@ -1237,73 +1237,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 113. Senior Data Architect - Analytics Platforms @ Eaton
-**Match Score:** 10.4%
-
-📍 **Location:** Beachwood, OH, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT, CI/CD, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=15d02502aba945ef)
-
----
-
-## 114. Senior Data Architect - Analytics Platforms @ Eaton
-**Match Score:** 10.4%
-
-📍 **Location:** Coraopolis, PA, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT, CI/CD, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4eb52e9c6f43c27d)
-
----
-
-## 115. Senior Data Architect - Analytics Platforms @ Eaton
-**Match Score:** 10.4%
-
-📍 **Location:** Galesburg, MI, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT, CI/CD, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1c7ecb6b8d2b3f93)
-
----
-
-## 116. Senior Data Architect - Analytics Platforms @ Eaton
-**Match Score:** 10.4%
-
-📍 **Location:** Menomonee Falls, WI, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT, CI/CD, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b18883612d9ca325)
-
----
-
-## 117. Senior Data Architect - Analytics Platforms @ Eaton
-**Match Score:** 10.4%
-
-📍 **Location:** Raleigh, NC, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT, CI/CD, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=780d004f45bf8f3f)
-
----
-
-## 118. Senior Data Architect - Analytics Platforms @ Eaton
-**Match Score:** 10.4%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT, CI/CD, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0945c969df98f8e0)
-
----
-
-## 119. BI Reporting Developer I @ ECS
+## 113. BI Reporting Developer I @ ECS
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1314,7 +1248,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 120. Backend Programmer @ Los Angeles Apparel
+## 114. Backend Programmer @ Los Angeles Apparel
 **Match Score:** 10.4%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -1322,6 +1256,72 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, ETL, ELT, dbt, Power BI, Tableau
 
 [Apply Here](https://www.indeed.com/viewjob?jk=ba0910a235eb75af)
+
+---
+
+## 115. Senior Data Architect - Analytics Platforms @ Eaton
+**Match Score:** 10.4%
+
+📍 **Location:** Beachwood, OH, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT, CI/CD, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=15d02502aba945ef)
+
+---
+
+## 116. Senior Data Architect - Analytics Platforms @ Eaton
+**Match Score:** 10.4%
+
+📍 **Location:** Coraopolis, PA, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT, CI/CD, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4eb52e9c6f43c27d)
+
+---
+
+## 117. Senior Data Architect - Analytics Platforms @ Eaton
+**Match Score:** 10.4%
+
+📍 **Location:** Galesburg, MI, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT, CI/CD, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1c7ecb6b8d2b3f93)
+
+---
+
+## 118. Senior Data Architect - Analytics Platforms @ Eaton
+**Match Score:** 10.4%
+
+📍 **Location:** Menomonee Falls, WI, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT, CI/CD, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b18883612d9ca325)
+
+---
+
+## 119. Senior Data Architect - Analytics Platforms @ Eaton
+**Match Score:** 10.4%
+
+📍 **Location:** Raleigh, NC, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT, CI/CD, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=780d004f45bf8f3f)
+
+---
+
+## 120. Senior Data Architect - Analytics Platforms @ Eaton
+**Match Score:** 10.4%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT, CI/CD, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0945c969df98f8e0)
 
 ---
 
