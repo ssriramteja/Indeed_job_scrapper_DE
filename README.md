@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 09:18
+Last updated: 2026-02-28 10:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 09:18 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 10:15 |
+| The Cadmus Group, Inc. | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c78a1ef66cf949e) | 2026-02-28 10:15 |
+| JPMorganChase | Software Engineer III - DevOps Automation Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f682083d0dc40d6) | 2026-02-28 10:15 |
 | Tata Consultancy Services (TCS) | NoSQL DBA | Hopkins, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=483159feaebbb175) | 2026-02-28 09:18 |
 | Cornerstone OnDemand | Senior Software Engineer | Dublin, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80bd47c732eab56e) | 2026-02-28 08:19 |
 | UniFirst | MuleSoft QA Engineer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0790b5b13b42987f) | 2026-02-28 07:21 |
@@ -595,14 +597,6 @@ Last updated: 2026-02-28 09:18
 | Global Partners LP | Data Engineering Intern | Waltham, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b60d9899ce76c629) | 2026-02-24 10:40 |
 | Books-A-Million | Data Engineer | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bb1becaa3bb4909) | 2026-02-24 10:40 |
 | GSK | Senior Cloud Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ed37c67470dc51b) | 2026-02-24 10:40 |
-| Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=595c67b5e42359ba) | 2026-02-24 09:43 |
-| Seismic | Senior Software Engineer II - Backend - AI Search | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9ee26f17ffea2401) | 2026-02-24 09:43 |
-| Seismic | Senior Software Engineer II - AI/ML | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1b9be3c418bc5646) | 2026-02-24 09:43 |
-| Wells Fargo | Senior Software Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da661d8fb0ece801) | 2026-02-24 09:43 |
-| Wells Fargo | Senior Software Engineer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f03d32c795783e6d) | 2026-02-24 09:43 |
-| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ce987d03cd6c59b) | 2026-02-24 09:43 |
-| SS&C | Senior Software Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=896402c926af3a49) | 2026-02-24 09:43 |
-| Tungsten Automation | IT Integration Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb56bd3754295d02) | 2026-02-24 09:43 |
 
 
 ---
