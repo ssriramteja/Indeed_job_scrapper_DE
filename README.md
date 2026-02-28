@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 03:48
+Last updated: 2026-02-28 04:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| KLA | Software Engineer - Test Automation | Milpitas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=463a562e09f02043) | 2026-02-28 04:49 |
 | General Motors (GM) | AI/ML Data Scientist (GPSSC) | Warren, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=814016ce86a7c72d) | 2026-02-28 03:48 |
 | Scotiabank | Senior Platform Engineer | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=396e79600c7b7785) | 2026-02-28 03:48 |
 | Prudential | Senior Software Engineer | Newark, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b65fc3a984a32f89) | 2026-02-28 03:48 |
@@ -577,27 +578,6 @@ Last updated: 2026-02-28 03:48
 | Miller Cooper | Full Stack Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64dfed33e248e8fb) | 2026-02-24 06:50 |
 | Sixth Street | Software Engineer - Platform (Frameworks, AI, Automation) Sr. Associate New | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba0529d8ff520672) | 2026-02-24 05:54 |
 | Zendesk | Senior Machine Learning Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b808411d8487a58f) | 2026-02-24 05:54 |
-| Shamrock Trading Corporation | Data Engineer | Overland Park, KS, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=d3fc7cad7b621a95) | 2026-02-24 04:10 |
-| Qode | Data Engineer | Pittsburgh, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1c8a49e90b17f1b9) | 2026-02-24 04:10 |
-| Qode | Data Engineer | Township of Jackson, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=59ad45087f0478af) | 2026-02-24 04:10 |
-| Qode | Data Engineer | Fort Mill, SC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=006cef078e473c76) | 2026-02-24 04:10 |
-| Qode | Data Engineer | Cleveland, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ce84cfffa53abdae) | 2026-02-24 04:10 |
-| Qode | Data Engineer | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2ffea329c9e632fe) | 2026-02-24 04:10 |
-| Arbitration Forums Inc. | Senior Cloud Data Engineer | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=07cde8b42f3da231) | 2026-02-24 04:10 |
-| NYC Health + Hospitals | Dir, AI Platform Engineering | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=34c920d00f0a63af) | 2026-02-24 04:10 |
-| State of Washington | Data Engineer (IT Data Management Entry In-Training to Journey) DOH8822 | WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2e85dc13d85ca930) | 2026-02-24 04:10 |
-| JIG-SAW US, Inc. | Senior Backend Engineer, AI/ML-powered IoT Platform | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f03868858d07644) | 2026-02-24 04:10 |
-| Bank of America | AWS Cloud Architect | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dd02303f42368166) | 2026-02-24 04:10 |
-| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce804f8ce3a73549) | 2026-02-24 04:10 |
-| HOPE MEDIA GROUP | Senior DevOps Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=14473c6bb0ab2439) | 2026-02-24 04:10 |
-| Vontier | Full Stack Software Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8fa27cef936c5867) | 2026-02-24 04:10 |
-| Cargomatic | Data Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e4eebde6b6cf3dae) | 2026-02-24 04:10 |
-| Match Made Tech | Data Engineer (Hybrid) | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7496d31cfec6658e) | 2026-02-24 04:10 |
-| Tata Consultancy Services (TCS) | Databricks engineer | Pleasanton, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e75cc0f18e33a178) | 2026-02-24 04:10 |
-| Hyundai Capital America | Site Reliability Engineer (SRE) | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce5160c34d455c60) | 2026-02-24 04:10 |
-| Hyundai Capital America | Site Reliability Engineer (SRE) | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec78a9bc593b0f95) | 2026-02-24 04:10 |
-| Safran Cabin | R&T Software Engineer 3 | Costa Mesa, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d390689f78ce46c9) | 2026-02-24 04:10 |
-| Ethos Veterinary Health | Full Stack Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f06c70b6fcc766c5) | 2026-02-24 04:10 |
 
 
 ---
