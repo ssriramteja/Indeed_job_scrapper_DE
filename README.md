@@ -1,13 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 15:15
+Last updated: 2026-02-28 16:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 16:17 |
+| Eaton | Senior Data Architect | Coraopolis, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a30c08c042046757) | 2026-02-28 16:17 |
+| Eaton | Senior Data Architect | Galesburg, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80435a84c6dcf987) | 2026-02-28 16:17 |
+| Eaton | Senior Data Architect | Menomonee Falls, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b3bbb5a3a4ff3d01) | 2026-02-28 16:17 |
+| Eaton | Senior Data Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4f429cf999244a1a) | 2026-02-28 16:17 |
+| Eaton | Senior Data Architect | Beachwood, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96b26560d478e414) | 2026-02-28 16:17 |
+| Eaton | Senior Data Architect | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d77c13ca89923a3) | 2026-02-28 16:17 |
 | Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e25e29cf79bdd7cd) | 2026-02-28 15:15 |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 15:15 |
 | Allstate Insurance | Cloud Platform Engineer (ML DevOps) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c7f5dba6447d1b44) | 2026-02-28 14:15 |
 | nan | SR SOFTWARE ENGINEER | Blue Ash, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3729be3511fd845) | 2026-02-28 14:15 |
 | American Express | Data Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=424f6b090b8c9279) | 2026-02-28 11:12 |
@@ -592,9 +598,6 @@ Last updated: 2026-02-28 15:15
 | Glassbox | Senior Backend Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7eed342df94f18f) | 2026-02-24 16:57 |
 | MeridianLink | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a45ca07d46e3db0a) | 2026-02-24 16:57 |
 | NTT DATA | Full Stack Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d22183246282dc0) | 2026-02-24 16:57 |
-| CNH Industrial | Senior Software Engineer | Oak Brook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0d56bb5a0c74a4a6) | 2026-02-24 15:48 |
-| LTIMindtree | Specialist - Architecture | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef5a7c704ef11e31) | 2026-02-24 15:48 |
-| Stash | Senior Fullstack Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=826bc977d2b8d6c3) | 2026-02-24 15:48 |
 
 
 ---
