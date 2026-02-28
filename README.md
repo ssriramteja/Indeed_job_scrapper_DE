@@ -1,12 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 05:27
+Last updated: 2026-02-28 06:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 05:27 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 06:27 |
+| Humana | Senior, AI Platform Engineer | Frisco, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c1465abac94aef44) | 2026-02-28 06:27 |
+| Humana | Senior, AI Platform Engineer | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=127d50b68ee25934) | 2026-02-28 06:27 |
+| Humana | Senior, AI Platform Engineer | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=02a62279dd7d6ceb) | 2026-02-28 06:27 |
+| Humana | Senior, AI Platform Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=82271fe81048d340) | 2026-02-28 06:27 |
+| smartbridge, LLC | Power BI Architect Consultant | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1f5a84578fa6353d) | 2026-02-28 06:27 |
+| U.S. Bank | Senior Software Engineer - Full Stack | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7478241a40f20926) | 2026-02-28 06:27 |
+| U.S. Bank | Solutions Architect - Data Solutions (MS SQL Server & Oracle, AWS) | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=226aa9de4680594d) | 2026-02-28 06:27 |
+| U.S. Bank | Solutions Architect - Data Solutions (MS SQL Server & Oracle, AWS) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4680be027f6217fa) | 2026-02-28 06:27 |
+| ioet | Senior Python Backend Engineer | Incline Village, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1bdf76bdee6d63f2) | 2026-02-28 06:27 |
 | Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fed890816f98c21a) | 2026-02-28 05:27 |
 | Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d2929ef2c2fdd0d) | 2026-02-28 05:27 |
 | Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a12df91b6cdc7fa6) | 2026-02-28 05:27 |
@@ -595,8 +604,6 @@ Last updated: 2026-02-28 05:27
 | California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3b1594a1814d7cf8) | 2026-02-24 06:50 |
 | California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=25313f83b8938e18) | 2026-02-24 06:50 |
 | Miller Cooper | Full Stack Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64dfed33e248e8fb) | 2026-02-24 06:50 |
-| Sixth Street | Software Engineer - Platform (Frameworks, AI, Automation) Sr. Associate New | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba0529d8ff520672) | 2026-02-24 05:54 |
-| Zendesk | Senior Machine Learning Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b808411d8487a58f) | 2026-02-24 05:54 |
 
 
 ---
