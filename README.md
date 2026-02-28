@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 20:17
+Last updated: 2026-02-28 21:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 20:17 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 21:14 |
 | SAP | SAP NS2 SuccessFactors Payroll Integration Expert and ABAP Professional | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32b3fe14b4fffbc1) | 2026-02-28 19:15 |
 | Eaton | Senior Data Architect | Coraopolis, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a30c08c042046757) | 2026-02-28 16:17 |
 | Eaton | Senior Data Architect | Galesburg, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80435a84c6dcf987) | 2026-02-28 16:17 |
@@ -560,15 +560,6 @@ Last updated: 2026-02-28 20:17
 | Tata Consultancy Services (TCS) | Java Backend with Databricks experiance | Blue Ash, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b862550824c4cea) | 2026-02-24 21:26 |
 | Blackstone | Platform Engineer, Associate - Physical Security | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5038d894bf6c5b04) | 2026-02-24 21:26 |
 | Optum | Software Engineer - Remote | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=172852e482d4c615) | 2026-02-24 21:26 |
-| Sam's Club | (USA) Senior, Data Engineer - Senior Software Engineer | Sunnyvale, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6bedd59c754ec609) | 2026-02-24 20:26 |
-| EssilorLuxottica | Data & ML Engineer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=84539e9d32b8f8db) | 2026-02-24 20:26 |
-| Solventum | ML Engineer | Austin, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a3a0ae84f6b87980) | 2026-02-24 20:26 |
-| CADEX | Colombia (only) - Remote | Melville, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fc87d5a21e8908c6) | 2026-02-24 20:26 |
-| Sherwin-Williams | Senior Digital Analytics Customer Experience (CX) Engineer | Cleveland, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=12fcbbc0dd03080c) | 2026-02-24 20:26 |
-| Fox Corporation | Senior Software Engineer, Data Services | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8a2b768ed31bba34) | 2026-02-24 20:26 |
-| Business System Solutions | Systems Engineer - Container Platform (Primary) | Leesburg, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=96abe73e052d5071) | 2026-02-24 20:26 |
-| Alight Solutions | Azure DevOps Engineer | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ccbe5961b0d1ed9) | 2026-02-24 20:26 |
-| Softnice | Power BI Developer | North Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b0583738bd2a761d) | 2026-02-24 20:26 |
 
 
 ---
