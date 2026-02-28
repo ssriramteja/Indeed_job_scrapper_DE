@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 13:32
+Last updated: 2026-02-28 14:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 13:32 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 14:15 |
+| Allstate Insurance | Cloud Platform Engineer (ML DevOps) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c7f5dba6447d1b44) | 2026-02-28 14:15 |
+| nan | SR SOFTWARE ENGINEER | Blue Ash, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3729be3511fd845) | 2026-02-28 14:15 |
 | American Express | Data Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=424f6b090b8c9279) | 2026-02-28 11:12 |
 | The Cadmus Group, Inc. | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c78a1ef66cf949e) | 2026-02-28 10:15 |
 | JPMorganChase | Software Engineer III - DevOps Automation Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f682083d0dc40d6) | 2026-02-28 10:15 |
@@ -592,8 +594,6 @@ Last updated: 2026-02-28 13:32
 | CNH Industrial | Senior Software Engineer | Oak Brook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0d56bb5a0c74a4a6) | 2026-02-24 15:48 |
 | LTIMindtree | Specialist - Architecture | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef5a7c704ef11e31) | 2026-02-24 15:48 |
 | Stash | Senior Fullstack Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=826bc977d2b8d6c3) | 2026-02-24 15:48 |
-| CVS Health | Plan Sponsor Reporting Technologist | CT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8cab1d45df63628e) | 2026-02-24 14:06 |
-| Maximus | AI Data Analyst | Tysons, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5908ca8b0f7aacbd) | 2026-02-24 14:06 |
 
 
 ---
