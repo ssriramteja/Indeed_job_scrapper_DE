@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 16:17
+Last updated: 2026-02-28 17:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 16:17 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 17:13 |
 | Eaton | Senior Data Architect | Coraopolis, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a30c08c042046757) | 2026-02-28 16:17 |
 | Eaton | Senior Data Architect | Galesburg, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80435a84c6dcf987) | 2026-02-28 16:17 |
 | Eaton | Senior Data Architect | Menomonee Falls, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b3bbb5a3a4ff3d01) | 2026-02-28 16:17 |
@@ -586,18 +586,6 @@ Last updated: 2026-02-28 16:17
 | Mi-Case | Disaster Recovery Specialist | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6cb5a54ccdddc65e) | 2026-02-24 17:53 |
 | nan | Full-Stack Senior Software Engineer | Boulder, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d1ef7cc52780120) | 2026-02-24 17:53 |
 | Konrad Group | Data Analyst | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12c78d6e39fc674e) | 2026-02-24 17:53 |
-| AdventHealth Corporate | Sr Data Engineer | Altamonte Springs, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=49fe852730ed983b) | 2026-02-24 16:57 |
-| Pismo | Senior Software Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9916c3b5d3e4d372) | 2026-02-24 16:57 |
-| TWFG Insurance | Senior QA Automation Engineer (Selenium/Java) – On-site (The Woodlands, TX) | The Woodlands, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1b69a3711f0d9d53) | 2026-02-24 16:57 |
-| KSBJ | Senior DevOps Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6fab7a2259449584) | 2026-02-24 16:57 |
-| S&P Global | Cloud Engineer - Mobility | Columbia, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e3fa3292f16042b) | 2026-02-24 16:57 |
-| S&P Global | Cloud Engineer - Mobility | Southfield, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13cc9d71c38d6760) | 2026-02-24 16:57 |
-| S&P Global | Cloud Engineer - Mobility | Centreville, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0a61acd22258533d) | 2026-02-24 16:57 |
-| S&P Global | Infrastructure Architect | Centreville, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d44bf9d7c469c1b8) | 2026-02-24 16:57 |
-| S&P Global | Infrastructure Architect | Southfield, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfbd76f4dc673f7a) | 2026-02-24 16:57 |
-| Glassbox | Senior Backend Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7eed342df94f18f) | 2026-02-24 16:57 |
-| MeridianLink | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a45ca07d46e3db0a) | 2026-02-24 16:57 |
-| NTT DATA | Full Stack Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d22183246282dc0) | 2026-02-24 16:57 |
 
 
 ---
