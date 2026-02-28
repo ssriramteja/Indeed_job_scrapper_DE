@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 14:15
+Last updated: 2026-02-28 15:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 14:15 |
+| Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e25e29cf79bdd7cd) | 2026-02-28 15:15 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 15:15 |
 | Allstate Insurance | Cloud Platform Engineer (ML DevOps) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c7f5dba6447d1b44) | 2026-02-28 14:15 |
 | nan | SR SOFTWARE ENGINEER | Blue Ash, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3729be3511fd845) | 2026-02-28 14:15 |
 | American Express | Data Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=424f6b090b8c9279) | 2026-02-28 11:12 |
