@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 06:27
+Last updated: 2026-02-28 07:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 06:27 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 07:21 |
+| UniFirst | MuleSoft QA Engineer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0790b5b13b42987f) | 2026-02-28 07:21 |
+| UniFirst | MuleSoft Developer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6898ec6223252736) | 2026-02-28 07:21 |
 | Humana | Senior, AI Platform Engineer | Frisco, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c1465abac94aef44) | 2026-02-28 06:27 |
 | Humana | Senior, AI Platform Engineer | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=127d50b68ee25934) | 2026-02-28 06:27 |
 | Humana | Senior, AI Platform Engineer | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=02a62279dd7d6ceb) | 2026-02-28 06:27 |
@@ -601,9 +603,6 @@ Last updated: 2026-02-28 06:27
 | Tungsten Automation | IT Integration Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb56bd3754295d02) | 2026-02-24 09:43 |
 | McAfee | Senior Data Engineer | Frisco, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4210181db0262688) | 2026-02-24 07:45 |
 | Priority Dispatch Corp. | Database Engineer | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=961b8ef9a31220a3) | 2026-02-24 07:45 |
-| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3b1594a1814d7cf8) | 2026-02-24 06:50 |
-| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=25313f83b8938e18) | 2026-02-24 06:50 |
-| Miller Cooper | Full Stack Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64dfed33e248e8fb) | 2026-02-24 06:50 |
 
 
 ---
