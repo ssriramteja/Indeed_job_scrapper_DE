@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 21:14
+Last updated: 2026-02-28 22:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 21:14 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 22:15 |
 | SAP | SAP NS2 SuccessFactors Payroll Integration Expert and ABAP Professional | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32b3fe14b4fffbc1) | 2026-02-28 19:15 |
 | Eaton | Senior Data Architect | Coraopolis, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a30c08c042046757) | 2026-02-28 16:17 |
 | Eaton | Senior Data Architect | Galesburg, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80435a84c6dcf987) | 2026-02-28 16:17 |
@@ -554,12 +554,6 @@ Last updated: 2026-02-28 21:14
 | Airvet | Backend Software Engineer (Mid-Level / Senior) | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e51b2375febffa24) | 2026-02-24 22:25 |
 | Fiserv | Security Analytics Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ca444d34471a5a6) | 2026-02-24 22:25 |
 | Konrad Group | Data Analyst | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7de0ea1f90bea9f4) | 2026-02-24 22:25 |
-| Equifax | Software Engineer Sr. | St. Louis, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=694acb45c2cc0b4a) | 2026-02-24 21:26 |
-| Lam Research | Software Engineer Sys 3 | Fremont, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0b87979ce36653f6) | 2026-02-24 21:26 |
-| Tailored Edge Connections | IT Systems Administrator | North Aurora, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=17621e07d085bab3) | 2026-02-24 21:26 |
-| Tata Consultancy Services (TCS) | Java Backend with Databricks experiance | Blue Ash, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b862550824c4cea) | 2026-02-24 21:26 |
-| Blackstone | Platform Engineer, Associate - Physical Security | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5038d894bf6c5b04) | 2026-02-24 21:26 |
-| Optum | Software Engineer - Remote | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=172852e482d4c615) | 2026-02-24 21:26 |
 
 
 ---
