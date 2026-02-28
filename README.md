@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 19:15
+Last updated: 2026-02-28 20:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 19:15 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 20:17 |
 | SAP | SAP NS2 SuccessFactors Payroll Integration Expert and ABAP Professional | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32b3fe14b4fffbc1) | 2026-02-28 19:15 |
 | Eaton | Senior Data Architect | Coraopolis, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a30c08c042046757) | 2026-02-28 16:17 |
 | Eaton | Senior Data Architect | Galesburg, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80435a84c6dcf987) | 2026-02-28 16:17 |
@@ -569,10 +569,6 @@ Last updated: 2026-02-28 19:15
 | Business System Solutions | Systems Engineer - Container Platform (Primary) | Leesburg, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=96abe73e052d5071) | 2026-02-24 20:26 |
 | Alight Solutions | Azure DevOps Engineer | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ccbe5961b0d1ed9) | 2026-02-24 20:26 |
 | Softnice | Power BI Developer | North Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b0583738bd2a761d) | 2026-02-24 20:26 |
-| Hitachi Digital Services | ML Ops Engineer | Reading, PA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=5df2e993fb881155) | 2026-02-24 19:45 |
-| Dell Technologies | Senior Systems Engineer, UDS Data Management | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8b555f123481de91) | 2026-02-24 19:45 |
-| Klaviyo | Senior Observability Platform Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6db8b13f873a0ab3) | 2026-02-24 19:45 |
-| Bird Rides | Senior Backend Engineer (Golang/Platform) | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=830d0bff9058d600) | 2026-02-24 19:45 |
 
 
 ---
