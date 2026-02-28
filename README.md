@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 10:15
+Last updated: 2026-02-28 11:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 10:15 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 11:12 |
+| American Express | Data Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=424f6b090b8c9279) | 2026-02-28 11:12 |
 | The Cadmus Group, Inc. | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c78a1ef66cf949e) | 2026-02-28 10:15 |
 | JPMorganChase | Software Engineer III - DevOps Automation Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f682083d0dc40d6) | 2026-02-28 10:15 |
 | Tata Consultancy Services (TCS) | NoSQL DBA | Hopkins, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=483159feaebbb175) | 2026-02-28 09:18 |
@@ -593,10 +594,6 @@ Last updated: 2026-02-28 10:15
 | Stash | Senior Fullstack Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=826bc977d2b8d6c3) | 2026-02-24 15:48 |
 | CVS Health | Plan Sponsor Reporting Technologist | CT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8cab1d45df63628e) | 2026-02-24 14:06 |
 | Maximus | AI Data Analyst | Tysons, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5908ca8b0f7aacbd) | 2026-02-24 14:06 |
-| Fairview Health Services | Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4ef65db0c8cded69) | 2026-02-24 10:40 |
-| Global Partners LP | Data Engineering Intern | Waltham, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b60d9899ce76c629) | 2026-02-24 10:40 |
-| Books-A-Million | Data Engineer | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bb1becaa3bb4909) | 2026-02-24 10:40 |
-| GSK | Senior Cloud Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ed37c67470dc51b) | 2026-02-24 10:40 |
 
 
 ---
