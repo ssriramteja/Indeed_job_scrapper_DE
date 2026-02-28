@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 22:15
+Last updated: 2026-02-28 23:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 22:15 |
+| Harley-Davidson, Inc. | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4cf195aaa007f2e9) | 2026-02-28 23:15 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 23:15 |
+| PCD Systems | Desarrollador/a Python | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=acc8bd8fffcdf6ca) | 2026-02-28 23:15 |
 | SAP | SAP NS2 SuccessFactors Payroll Integration Expert and ABAP Professional | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32b3fe14b4fffbc1) | 2026-02-28 19:15 |
 | Eaton | Senior Data Architect | Coraopolis, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a30c08c042046757) | 2026-02-28 16:17 |
 | Eaton | Senior Data Architect | Galesburg, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80435a84c6dcf987) | 2026-02-28 16:17 |
@@ -543,17 +545,6 @@ Last updated: 2026-02-28 22:15
 | Openkyber | Senior Cloud IAM Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=58780039e9e611ca) | 2026-02-24 23:23 |
 | Openkyber | Saviynt Integration Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0bfe8e53848754e) | 2026-02-24 23:23 |
 | University of Maryland Global Campus | Data Engineer | Adelphi, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=635921f4402acdff) | 2026-02-24 23:23 |
-| Ocean Blue Solutions | Data Engineer - Remote | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4d1820f8d0d8314d) | 2026-02-24 22:25 |
-| Klaviyo | Senior Analytics Engineer, Sales Analytics (GTM Data Engineering) | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=721d4b934257a77e) | 2026-02-24 22:25 |
-| GSK | AIML Services- Data Platform Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a25ec63d2a45d72c) | 2026-02-24 22:25 |
-| GSK | AIML Services- Data Platform Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41cbea8637a10d68) | 2026-02-24 22:25 |
-| GSK | AIML Services- Data Platform Engineer | Cambridge, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=94ad64f2466c8d7d) | 2026-02-24 22:25 |
-| Experian | Senior Software Engineer - .NET, AWS (Remote) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=49d97f5a04a74b2d) | 2026-02-24 22:25 |
-| Konrad Group | Senior Data Analyst | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85e5ffc39cf3d166) | 2026-02-24 22:25 |
-| Nearsure | (1357) Senior Reliability Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b3c8f5bbb025388b) | 2026-02-24 22:25 |
-| Airvet | Backend Software Engineer (Mid-Level / Senior) | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e51b2375febffa24) | 2026-02-24 22:25 |
-| Fiserv | Security Analytics Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ca444d34471a5a6) | 2026-02-24 22:25 |
-| Konrad Group | Data Analyst | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7de0ea1f90bea9f4) | 2026-02-24 22:25 |
 
 
 ---
