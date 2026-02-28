@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 17:13
+Last updated: 2026-02-28 18:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 17:13 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 18:21 |
 | Eaton | Senior Data Architect | Coraopolis, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a30c08c042046757) | 2026-02-28 16:17 |
 | Eaton | Senior Data Architect | Galesburg, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80435a84c6dcf987) | 2026-02-28 16:17 |
 | Eaton | Senior Data Architect | Menomonee Falls, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b3bbb5a3a4ff3d01) | 2026-02-28 16:17 |
@@ -579,13 +579,6 @@ Last updated: 2026-02-28 17:13
 | Optum | Sr Software Engineer - Remote | Basking Ridge, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1aa56bb760b5544) | 2026-02-24 18:50 |
 | Redwood Logistics | Senior Software Engineer (AI Enablement) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f0a71f110d4bcaf) | 2026-02-24 18:50 |
 | NetSPI | Software Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64c43e0c9ccd4fc4) | 2026-02-24 18:50 |
-| Openkyber | AWS Network Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d7b0abfc59f8f9d9) | 2026-02-24 17:53 |
-| Numero Data LLC | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=93fd739375824cc5) | 2026-02-24 17:53 |
-| Openkyber | AWS Network Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f86429bfad3f926) | 2026-02-24 17:53 |
-| Cognizant Technology Solutions | Azure Databricks Senior Developer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4b3a3a619f61b04b) | 2026-02-24 17:53 |
-| Mi-Case | Disaster Recovery Specialist | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6cb5a54ccdddc65e) | 2026-02-24 17:53 |
-| nan | Full-Stack Senior Software Engineer | Boulder, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d1ef7cc52780120) | 2026-02-24 17:53 |
-| Konrad Group | Data Analyst | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12c78d6e39fc674e) | 2026-02-24 17:53 |
 
 
 ---
