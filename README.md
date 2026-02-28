@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 08:19
+Last updated: 2026-02-28 09:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 08:19 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 09:18 |
+| Tata Consultancy Services (TCS) | NoSQL DBA | Hopkins, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=483159feaebbb175) | 2026-02-28 09:18 |
 | Cornerstone OnDemand | Senior Software Engineer | Dublin, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80bd47c732eab56e) | 2026-02-28 08:19 |
 | UniFirst | MuleSoft QA Engineer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0790b5b13b42987f) | 2026-02-28 07:21 |
 | UniFirst | MuleSoft Developer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6898ec6223252736) | 2026-02-28 07:21 |
