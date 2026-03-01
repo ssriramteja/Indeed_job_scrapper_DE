@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-02-28 23:15
+Last updated: 2026-03-01 01:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-03-01 01:24 |
 | Harley-Davidson, Inc. | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4cf195aaa007f2e9) | 2026-02-28 23:15 |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-02-28 23:15 |
 | PCD Systems | Desarrollador/a Python | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=acc8bd8fffcdf6ca) | 2026-02-28 23:15 |
 | SAP | SAP NS2 SuccessFactors Payroll Integration Expert and ABAP Professional | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32b3fe14b4fffbc1) | 2026-02-28 19:15 |
 | Eaton | Senior Data Architect | Coraopolis, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a30c08c042046757) | 2026-02-28 16:17 |
@@ -474,77 +474,6 @@ Last updated: 2026-02-28 23:15
 | BlueCross BlueShield of Tennessee | Associate MLOps Engineer | Chattanooga, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12aaaa019404f086) | 2026-02-25 04:12 |
 | Tata Consultancy Services (TCS) | Architect | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=17cf508536512d03) | 2026-02-25 04:12 |
 | Salesforce | Product Security Associate (College Grad) | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=689ae505cda9c946) | 2026-02-25 04:12 |
-| Associa | Data Engineer | Richardson, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1fe7366cb944d55d) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=50332f23365d6c8f) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=488784d73124ca5d) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | WY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3a83a03051de71cc) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | VT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4cf9f1be1b3cebb3) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=09088ced465b49f7) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=918a7e3c1ab3b499) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=df850d0800211a6f) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | MS, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=96f6cf05adf06982) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | NM, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=49351622325c642d) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f5cb630284635d10) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | NE, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6a18fe79343696c2) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | WV, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d01fcf56429b22f3) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | SC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=35d3942f25a95dc7) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=179f41f660f48774) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=aa8c99e610dc718a) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | MI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fe48df16882c48ff) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | UT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=48ab104d579f6157) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | RI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9eb69f10163f7e52) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | ND, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ff48f763950a943a) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | OK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=41daa222a6c0eb65) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | NV, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b513eec114560369) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | LA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2f1fc91c2f3af434) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | SD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9dd42a0e9f6369fb) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | MO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e2ce8108c4c6139a) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8bb1399157ed987a) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=aa27179e71f1d215) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | ME, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=487287ab40eadad6) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f6a4b18b4f729cc5) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | KY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5156ae4f3304f436) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a1291f0caedc31ca) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | KS, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6c38f857835e4e55) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | AL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=05bf91f82d524c1b) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | AR, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2f7a7b948aeaf749) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dfa6956cd2874889) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | IA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=57ced1716ea9d344) | 2026-02-25 01:21 |
-| Concentrix | AWS Data Platform Engineer | GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ae6072c3cca7eb88) | 2026-02-25 01:21 |
-| Neubus, Inc. | Senior Software Engineer | Round Rock, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8c9f0c027bd53428) | 2026-02-25 01:21 |
-| Realign | Senior Databricks Developer-4 | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1b9ed7f399638350) | 2026-02-25 01:21 |
-| PPC Partners Inc. | Data Analyst | Tucker, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9f64c130369ad2cf) | 2026-02-25 01:21 |
-| Match Group | Software Engineer III, Backend - Recs Infrastructure | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=123628d5e21a6f89) | 2026-02-25 01:21 |
-| Match Group | Software Engineer III, Backend - Recs Infrastructure | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e64c7b902fd5f682) | 2026-02-25 01:21 |
-| Netsmart Technologies | Senior Platform Engineer- | Overland Park, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a33d86f281463c8f) | 2026-02-25 01:21 |
-| Visa | Senior Analytical Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa8d280f0f8b9b62) | 2026-02-25 01:21 |
-| Western Governors University | Senior Database Administrator-1 | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d609df3b9f61295) | 2026-02-25 01:21 |
-| SK Life Science Inc. | Senior Data Engineer, Business Operations | Paramus, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92ebeb9e75e44d14) | 2026-02-25 01:21 |
-| Merlin Labs | Machine Learning Operations Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5f002df8ebe456c) | 2026-02-25 01:21 |
-| LTIMindtree | Specialist - Architecture | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8d5be230e591e5ca) | 2026-02-25 01:21 |
-| Ellucian | AI and Automation Deployment Intern (Hybrid - Reston, VA Office) | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=89aebc7ded0cfa06) | 2026-02-25 01:21 |
-| SK Life Science Inc. | AI Engineer, Business Operations | Paramus, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=77ea28bb19313647) | 2026-02-25 01:21 |
-| TECHSTRA SOLUTIONS | Senior Data Engineer – AxiomSL Development | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3517357605b9f8e) | 2026-02-25 01:21 |
-| Plaud | Senior DevOps Engineer - San Francisco | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c543d32a8ba8e61f) | 2026-02-25 01:21 |
-| Realign | Azure Databricks Architect-1 | Mahwah, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=70788055152254cf) | 2026-02-25 01:21 |
-| Wayfair | Economist III - Long Term Impact | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=66f28cdebb849a19) | 2026-02-25 01:21 |
-| Realign | Teradata Developer-4 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3ae339b7b464395c) | 2026-02-25 01:21 |
-| Affinity Solutions | Sr. Data Quality Engineer I (37_2026.1) | New York, NY, US USA | 27.1% | [Apply](https://www.indeed.com/viewjob?jk=c7933ce6e87f7544) | 2026-02-24 23:23 |
-| Affinity Solutions | Senior Data and Software Engineer I (API) (32_2026.1) | New York, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6ced5764d3537ea0) | 2026-02-24 23:23 |
-| The University of Michigan | Data Architect Senior | Ann Arbor, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4ccb9adf6566f3d5) | 2026-02-24 23:23 |
-| JPMorganChase | Data Engineer III | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b3e5e0e8fb1f2fdf) | 2026-02-24 23:23 |
-| JPMorganChase | Software Engineer III - Full Stack + AWS + Elastic / Open Search | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9d9fbf9321e91c82) | 2026-02-24 23:23 |
-| Openkyber | Network Automation Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d1544d3d51cf528c) | 2026-02-24 23:23 |
-| Openkyber | Network Automation Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1e2816b3964dd4df) | 2026-02-24 23:23 |
-| Openkyber | Saviynt Integration Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e6ec5a38573c3d9f) | 2026-02-24 23:23 |
-| Copperpoddigital Inc | Power BI Developer | Brentwood, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2dc8180238fd0566) | 2026-02-24 23:23 |
-| Openkyber | Saviynt Integration Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6c064cf7becc7a4) | 2026-02-24 23:23 |
-| Anaplan | Software Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d985dfab97c4672d) | 2026-02-24 23:23 |
-| Openkyber | Network Automation Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a5cf8eb1fd67c9b) | 2026-02-24 23:23 |
-| Openkyber | Network Automation Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9346f3db3d75bbe) | 2026-02-24 23:23 |
-| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=58780039e9e611ca) | 2026-02-24 23:23 |
-| Openkyber | Saviynt Integration Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0bfe8e53848754e) | 2026-02-24 23:23 |
-| University of Maryland Global Campus | Data Engineer | Adelphi, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=635921f4402acdff) | 2026-02-24 23:23 |
 
 
 ---
