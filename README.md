@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-01 10:17
+Last updated: 2026-03-01 11:14
 
 ### 🚀 Daily Job Matches
 
@@ -440,12 +440,6 @@ Last updated: 2026-03-01 10:17
 | Infoorigin Inc | Senior Technical Architect | Trenton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=29e7697b5567a66e) | 2026-02-25 14:04 |
 | SRS Distribution | Analytics Engineer | McKinney, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=01278285fb17a0ad) | 2026-02-25 12:43 |
 | Airvet | Backend Software Engineer (Mid-Level / Senior) | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87ce4c6973528ac7) | 2026-02-25 12:43 |
-| ACR Technology Inc | Sr. Data Engineer (Only W2) | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8be431de16824436) | 2026-02-25 10:42 |
-| JPMorganChase | Software Engineer III - Fullstack with AWS | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a35418db0adaf400) | 2026-02-25 10:42 |
-| JPMorganChase | Software Engineer III | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2cd32825b07168a6) | 2026-02-25 10:42 |
-| JPMorganChase | Software Engineer III (SWES03) DT_AI/ML | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a073dd45695fc17b) | 2026-02-25 10:42 |
-| JPMorganChase | Software Engineer II_AI/ML | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2a98bbc96397eaf9) | 2026-02-25 10:42 |
-| Tesla | Data Engineer, IT Data & Analytics | Fremont, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=10b03a3fc26187a5) | 2026-02-25 10:42 |
 
 
 ---
