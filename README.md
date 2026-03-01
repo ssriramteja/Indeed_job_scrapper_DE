@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-01 09:21
+Last updated: 2026-03-01 10:17
 
 ### 🚀 Daily Job Matches
 
@@ -446,12 +446,6 @@ Last updated: 2026-03-01 09:21
 | JPMorganChase | Software Engineer III (SWES03) DT_AI/ML | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a073dd45695fc17b) | 2026-02-25 10:42 |
 | JPMorganChase | Software Engineer II_AI/ML | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2a98bbc96397eaf9) | 2026-02-25 10:42 |
 | Tesla | Data Engineer, IT Data & Analytics | Fremont, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=10b03a3fc26187a5) | 2026-02-25 10:42 |
-| Stifel | Sr Data Engineer | St. Louis, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dc1cae88bbe2455c) | 2026-02-25 09:44 |
-| Stifel | Sr Data Engineer | Memphis, TN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3346a397aa58e367) | 2026-02-25 09:44 |
-| CDW | Databricks Managing Consultant Engineer - Digital Velocity | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=91700d9dd67b6cb5) | 2026-02-25 09:44 |
-| Radwell International | Data Engineer | Willingboro, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d0a69e61901c434) | 2026-02-25 09:44 |
-| Qcells | Senior Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79f22cc4bdf57e2f) | 2026-02-25 09:44 |
-| Qcells | Senior Data Engineer | Santa Clara, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47823188919dd6f3) | 2026-02-25 09:44 |
 
 
 ---
