@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-01 07:27
+Last updated: 2026-03-01 08:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Deloitte | Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a677917152c7ba4a) | 2026-03-01 08:21 |
 | GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24e1bdbed934be1c) | 2026-03-01 04:15 |
 | GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c61f3a7795625e6) | 2026-03-01 04:15 |
 | Harley-Davidson, Inc. | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4cf195aaa007f2e9) | 2026-02-28 23:15 |
@@ -452,9 +453,6 @@ Last updated: 2026-03-01 07:27
 | Qcells | Senior Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79f22cc4bdf57e2f) | 2026-02-25 09:44 |
 | Qcells | Senior Data Engineer | Santa Clara, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47823188919dd6f3) | 2026-02-25 09:44 |
 | NVIDIA | AI Analytics and Visualization Engineer | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cb4ad153c4474d3) | 2026-02-25 08:38 |
-| Select Minds LLC | Senior AI / ML Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4fbed1e14e3c66df) | 2026-02-25 07:47 |
-| Foodsmart | Senior Software Engineer - Backend | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=731a813c3cc4a70a) | 2026-02-25 07:47 |
-| Infosys | Azure Data Bricks Developer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=312c6b6c4770004d) | 2026-02-25 07:47 |
 
 
 ---

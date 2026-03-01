@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-01
 
-**Total Jobs Found:** 17
+**Total Jobs Found:** 19
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -71,7 +71,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Data Architect @ Eaton
+## 7. SAP NS2 SuccessFactors Payroll Integration Expert and ABAP Professional @ SAP
+**Match Score:** 11.1%
+
+📍 **Location:** Herndon, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Oracle, SQL Server, MySQL, CI/CD, Jenkins, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=32b3fe14b4fffbc1)
+
+---
+
+## 8. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Coraopolis, PA, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Data Architect @ Eaton
+## 9. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Galesburg, MI, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Data Architect @ Eaton
+## 10. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Menomonee Falls, WI, US USA
@@ -104,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Data Architect @ Eaton
+## 11. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -115,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Data Architect @ Eaton
+## 12. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Beachwood, OH, US USA
@@ -126,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Data Architect @ Eaton
+## 13. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -137,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Data Engineer @ The Cadmus Group, Inc.
+## 14. Data Engineer @ The Cadmus Group, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -148,7 +159,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 15. Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Cincinnati, OH, US USA
+
+🔑 **Keywords:** API Gateway, ECS, RDS, Azure, Scala, NoSQL, Data Modeling, CI/CD, Azure DevOps, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a677917152c7ba4a)
+
+---
+
+## 16. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -159,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 17. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Chevy Chase, MD, US USA
@@ -170,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. SR SOFTWARE ENGINEER @ nan
+## 18. SR SOFTWARE ENGINEER @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Blue Ash, OH, US USA
@@ -181,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Software Engineer III - DevOps Automation Engineer @ JPMorganChase
+## 19. Software Engineer III - DevOps Automation Engineer @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
