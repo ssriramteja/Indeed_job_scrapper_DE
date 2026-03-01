@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-01 01:24
+Last updated: 2026-03-01 04:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-03-01 01:24 |
+| Next Gen Software Solutions | Data Engineer (Spark, Hadoop, OzoneCH) \|Berkley Heights, NJ- 5 Days Onsite \| Contract W2 | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a2bce135021c448) | 2026-03-01 04:15 |
+| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24e1bdbed934be1c) | 2026-03-01 04:15 |
+| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c61f3a7795625e6) | 2026-03-01 04:15 |
 | Harley-Davidson, Inc. | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4cf195aaa007f2e9) | 2026-02-28 23:15 |
 | PCD Systems | Desarrollador/a Python | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=acc8bd8fffcdf6ca) | 2026-02-28 23:15 |
 | SAP | SAP NS2 SuccessFactors Payroll Integration Expert and ABAP Professional | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32b3fe14b4fffbc1) | 2026-02-28 19:15 |
@@ -463,17 +465,6 @@ Last updated: 2026-03-01 01:24
 | Ascensus | Software Engineer | Newton, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d3faf055caa8c357) | 2026-02-25 05:56 |
 | Ascensus | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9944f1992e587dd2) | 2026-02-25 05:56 |
 | HCA Healthcare | Senior Data Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb3b123f509108b3) | 2026-02-25 05:56 |
-| Auction Technology Group | Senior Backend Engineer - Platform Enablement | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b5df47aafd3009ff) | 2026-02-25 04:12 |
-| Xylem | Software Engineer | Davis, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dc1dd8e4a22e1c65) | 2026-02-25 04:12 |
-| Ally Financial | Identity Shield & Consumer Fraud - FDP | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5a541a3b49011d60) | 2026-02-25 04:12 |
-| Flywheel Energy | Data Engineer | Oklahoma City, OK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1ff21e0f44745194) | 2026-02-25 04:12 |
-| lululemon | Senior Engineer II - International Marketing Technology | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=28a5ab49999f0089) | 2026-02-25 04:12 |
-| FDM Group | Java Developer | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b784b421e2120a24) | 2026-02-25 04:12 |
-| Freeman | Sr Power BI Developer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=91012cb164e9d48a) | 2026-02-25 04:12 |
-| Heads Up Technologies | DevOps Engineer | Kirkland, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29123aa9e1271d0e) | 2026-02-25 04:12 |
-| BlueCross BlueShield of Tennessee | Associate MLOps Engineer | Chattanooga, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12aaaa019404f086) | 2026-02-25 04:12 |
-| Tata Consultancy Services (TCS) | Architect | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=17cf508536512d03) | 2026-02-25 04:12 |
-| Salesforce | Product Security Associate (College Grad) | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=689ae505cda9c946) | 2026-02-25 04:12 |
 
 
 ---
