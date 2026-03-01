@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-01 13:34
+Last updated: 2026-03-01 14:17
 
 ### 🚀 Daily Job Matches
 
@@ -435,9 +435,6 @@ Last updated: 2026-03-01 13:34
 | ThinkMirum, Inc. | Data Warehouse/BI Developer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe28e970e1130d6e) | 2026-02-25 17:00 |
 | Rice University | Data Scientist | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29c39de545706a17) | 2026-02-25 15:54 |
 | nan | Software Engineer - DevOps | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c10fe2dd154808d6) | 2026-02-25 15:54 |
-| Trinetix | Solution Architect/System Architect (US) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=70339cff36501a53) | 2026-02-25 14:04 |
-| Rice Engineering | Data Scientist | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4a61e3564cb83914) | 2026-02-25 14:04 |
-| Infoorigin Inc | Senior Technical Architect | Trenton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=29e7697b5567a66e) | 2026-02-25 14:04 |
 
 
 ---

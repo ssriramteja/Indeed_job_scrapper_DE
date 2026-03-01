@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-03-01
 
-**Total Jobs Found:** 13
+**Total Jobs Found:** 11
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Data Engineer @ Capital One
-**Match Score:** 15.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** AWS, EMR, Redshift, RDS, Azure, Hadoop, Hive, MapReduce, Spark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e25e29cf79bdd7cd)
-
----
-
-## 2. Senior ML/GenAI Ops Engineer - Milwaukee, WI @ Harley-Davidson, Inc.
+## 1. Senior ML/GenAI Ops Engineer - Milwaukee, WI @ Harley-Davidson, Inc.
 **Match Score:** 14.6%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Desarrollador/a Python @ PCD Systems
+## 2. Desarrollador/a Python @ PCD Systems
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Data Architect @ Eaton
+## 3. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Coraopolis, PA, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Data Architect @ Eaton
+## 4. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Galesburg, MI, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Data Architect @ Eaton
+## 5. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Menomonee Falls, WI, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Data Architect @ Eaton
+## 6. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Data Architect @ Eaton
+## 7. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Beachwood, OH, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Data Architect @ Eaton
+## 8. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote @ Deloitte
+## 9. Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 10. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -126,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 11. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Chevy Chase, MD, US USA
@@ -134,17 +123,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, NoSQL, Azure DevOps, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=3c61f3a7795625e6)
-
----
-
-## 13. SR SOFTWARE ENGINEER @ nan
-**Match Score:** 10.4%
-
-📍 **Location:** Blue Ash, OH, US USA
-
-🔑 **Keywords:** RDS, Azure, Google Cloud Platform, Cloud Storage, Scala, Kafka, Cassandra, CI/CD, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e3729be3511fd845)
 
 ---
 
