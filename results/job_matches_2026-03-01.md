@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-01
 
-**Total Jobs Found:** 18
+**Total Jobs Found:** 17
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -148,18 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. MuleSoft QA Engineer @ UniFirst
-**Match Score:** 10.4%
-
-📍 **Location:** Wilmington, MA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Scala, ETL, CI/CD, Jenkins, GitHub Actions, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0790b5b13b42987f)
-
----
-
-## 15. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 14. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -170,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 15. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Chevy Chase, MD, US USA
@@ -181,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. SR SOFTWARE ENGINEER @ nan
+## 16. SR SOFTWARE ENGINEER @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Blue Ash, OH, US USA
@@ -192,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Software Engineer III - DevOps Automation Engineer @ JPMorganChase
+## 17. Software Engineer III - DevOps Automation Engineer @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
