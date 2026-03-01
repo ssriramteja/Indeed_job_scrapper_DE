@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-01 15:15
+Last updated: 2026-03-01 16:18
 
 ### 🚀 Daily Job Matches
 
@@ -433,8 +433,6 @@ Last updated: 2026-03-01 15:15
 | CVS Health | Data Scientist - Pricing and Promotions Optimization | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2dd0084730de1d4) | 2026-02-25 17:00 |
 | CVS Health | Data Scientist - Pricing and Promotions Optimization | Wellesley, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ac1b66db18d2c42) | 2026-02-25 17:00 |
 | ThinkMirum, Inc. | Data Warehouse/BI Developer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe28e970e1130d6e) | 2026-02-25 17:00 |
-| Rice University | Data Scientist | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29c39de545706a17) | 2026-02-25 15:54 |
-| nan | Software Engineer - DevOps | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c10fe2dd154808d6) | 2026-02-25 15:54 |
 
 
 ---
