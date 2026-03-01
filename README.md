@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-01 21:15
+Last updated: 2026-03-01 22:15
 
 ### 🚀 Daily Job Matches
 
@@ -414,8 +414,6 @@ Last updated: 2026-03-01 21:15
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=370f84e82c56d5a4) | 2026-02-25 23:25 |
 | Vaarida Technologies | Infrastructure Architect | Culver City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=63d81ec56ed45b4c) | 2026-02-25 22:24 |
 | SavvyMoney | Data Scientist – AI & Machine Learning Systems (Dublin, CA) | Dublin, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e01821abea23411c) | 2026-02-25 22:24 |
-| Phillips 66 | Sr Advisor II, AI Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1b85a978b0b96b10) | 2026-02-25 21:28 |
-| Trepp | Data Engineer II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbd8df1b20c5849b) | 2026-02-25 21:28 |
 
 
 ---
