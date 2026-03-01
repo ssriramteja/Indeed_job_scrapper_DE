@@ -16,14 +16,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Senior ML/GenAI Ops Engineer - Milwaukee, WI @ Harley-Davidson, Inc.
-**Match Score:** 14.6%
+## 2. Senior Data Scientist @ Supplied Talent
+**Match Score:** 11.1%
 
-📍 **Location:** Milwaukee, WI, US USA
+📍 **Location:** Richmond, VA, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, dbt, MLOps, MLflow, CI/CD, Jenkins
+🔑 **Keywords:** AWS, Azure, GCP, Hadoop, HDFS, Hive, Sqoop, Spark, Scala, Snowflake
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4cf195aaa007f2e9)
+[Apply Here](https://www.indeed.com/viewjob?jk=5ae7f307250b6639)
 
 ---
 

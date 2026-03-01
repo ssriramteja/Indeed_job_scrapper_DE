@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-01 22:15
+Last updated: 2026-03-01 23:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Supplied Talent | Senior Data Scientist | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ae7f307250b6639) | 2026-03-01 23:16 |
 | Kollasoft Inc | Databricks Architect & Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=961f7719b1e41e9a) | 2026-03-01 18:21 |
 | Deloitte | Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a677917152c7ba4a) | 2026-03-01 08:21 |
 | GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24e1bdbed934be1c) | 2026-03-01 04:15 |
@@ -412,8 +413,6 @@ Last updated: 2026-03-01 22:15
 | Realign | Teradata Developer-5 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f4f91dff933f5cc) | 2026-02-26 01:15 |
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=88095bf45f8ffd12) | 2026-02-25 23:25 |
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=370f84e82c56d5a4) | 2026-02-25 23:25 |
-| Vaarida Technologies | Infrastructure Architect | Culver City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=63d81ec56ed45b4c) | 2026-02-25 22:24 |
-| SavvyMoney | Data Scientist – AI & Machine Learning Systems (Dublin, CA) | Dublin, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e01821abea23411c) | 2026-02-25 22:24 |
 
 
 ---
