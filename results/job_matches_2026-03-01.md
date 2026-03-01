@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-03-01
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior ML/GenAI Ops Engineer - Milwaukee, WI @ Harley-Davidson, Inc.
+## 1. Databricks Architect & Developer @ Kollasoft Inc
+**Match Score:** 15.3%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Redshift, S3, Azure, Databricks, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=961f7719b1e41e9a)
+
+---
+
+## 2. Senior ML/GenAI Ops Engineer - Milwaukee, WI @ Harley-Davidson, Inc.
 **Match Score:** 14.6%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Desarrollador/a Python @ PCD Systems
+## 3. Desarrollador/a Python @ PCD Systems
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote @ Deloitte
+## 4. Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 5. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 6. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Chevy Chase, MD, US USA

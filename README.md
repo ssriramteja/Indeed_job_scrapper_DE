@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-01 17:15
+Last updated: 2026-03-01 18:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Kollasoft Inc | Databricks Architect & Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=961f7719b1e41e9a) | 2026-03-01 18:21 |
 | Deloitte | Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a677917152c7ba4a) | 2026-03-01 08:21 |
 | GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24e1bdbed934be1c) | 2026-03-01 04:15 |
 | GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c61f3a7795625e6) | 2026-03-01 04:15 |
@@ -424,9 +425,6 @@ Last updated: 2026-03-01 17:15
 | CNH Industrial | Senior Software Engineer | Oak Brook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1dad4f5aba9b286) | 2026-02-25 19:12 |
 | Compass Group USA | SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=65b5898fc3882a0c) | 2026-02-25 19:12 |
 | Luxoft | [CoreIgnite] Senior Java Developer (AWS) - Shashank Srivastava | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0866a4d4cc7dec0c) | 2026-02-25 19:12 |
-| Openkyber | Saviynt Integration Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=870984d57341ef57) | 2026-02-25 18:00 |
-| Openkyber | Senior AI Cloud Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af3b68e608e8a0d5) | 2026-02-25 18:00 |
-| Openkyber | ML Support Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4281d96efe6a7c5) | 2026-02-25 18:00 |
 
 
 ---
