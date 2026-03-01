@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-01 12:29
+Last updated: 2026-03-01 13:34
 
 ### 🚀 Daily Job Matches
 
@@ -438,8 +438,6 @@ Last updated: 2026-03-01 12:29
 | Trinetix | Solution Architect/System Architect (US) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=70339cff36501a53) | 2026-02-25 14:04 |
 | Rice Engineering | Data Scientist | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4a61e3564cb83914) | 2026-02-25 14:04 |
 | Infoorigin Inc | Senior Technical Architect | Trenton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=29e7697b5567a66e) | 2026-02-25 14:04 |
-| SRS Distribution | Analytics Engineer | McKinney, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=01278285fb17a0ad) | 2026-02-25 12:43 |
-| Airvet | Backend Software Engineer (Mid-Level / Senior) | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87ce4c6973528ac7) | 2026-02-25 12:43 |
 
 
 ---
