@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-01 08:21
+Last updated: 2026-03-01 09:21
 
 ### 🚀 Daily Job Matches
 
@@ -452,7 +452,6 @@ Last updated: 2026-03-01 08:21
 | Radwell International | Data Engineer | Willingboro, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d0a69e61901c434) | 2026-02-25 09:44 |
 | Qcells | Senior Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79f22cc4bdf57e2f) | 2026-02-25 09:44 |
 | Qcells | Senior Data Engineer | Santa Clara, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47823188919dd6f3) | 2026-02-25 09:44 |
-| NVIDIA | AI Analytics and Visualization Engineer | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cb4ad153c4474d3) | 2026-02-25 08:38 |
 
 
 ---

@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-01
 
-**Total Jobs Found:** 19
+**Total Jobs Found:** 15
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,18 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. NoSQL DBA @ Tata Consultancy Services (TCS)
-**Match Score:** 13.2%
-
-📍 **Location:** Hopkins, MN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, HBase, Scala, MongoDB, Cassandra, NoSQL, Data Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=483159feaebbb175)
-
----
-
-## 5. Desarrollador/a Python @ PCD Systems
+## 4. Desarrollador/a Python @ PCD Systems
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Cloud Platform Engineer (ML DevOps) @ Allstate Insurance
+## 5. Cloud Platform Engineer (ML DevOps) @ Allstate Insurance
 **Match Score:** 11.8%
 
 📍 **Location:** Chicago, IL, US USA
@@ -71,18 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. SAP NS2 SuccessFactors Payroll Integration Expert and ABAP Professional @ SAP
-**Match Score:** 11.1%
-
-📍 **Location:** Herndon, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Oracle, SQL Server, MySQL, CI/CD, Jenkins, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=32b3fe14b4fffbc1)
-
----
-
-## 8. Senior Data Architect @ Eaton
+## 6. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Coraopolis, PA, US USA
@@ -93,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Data Architect @ Eaton
+## 7. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Galesburg, MI, US USA
@@ -104,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Data Architect @ Eaton
+## 8. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Menomonee Falls, WI, US USA
@@ -115,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Data Architect @ Eaton
+## 9. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -126,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Data Architect @ Eaton
+## 10. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Beachwood, OH, US USA
@@ -137,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Data Architect @ Eaton
+## 11. Senior Data Architect @ Eaton
 **Match Score:** 11.1%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -148,18 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Data Engineer @ The Cadmus Group, Inc.
-**Match Score:** 10.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Google Cloud Platform, GCP, BigQuery, Hive, Spark, Scala, ETL, Kubernetes, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8c78a1ef66cf949e)
-
----
-
-## 15. Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote @ Deloitte
+## 12. Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -170,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 13. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -181,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 14. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Chevy Chase, MD, US USA
@@ -192,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. SR SOFTWARE ENGINEER @ nan
+## 15. SR SOFTWARE ENGINEER @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Blue Ash, OH, US USA
@@ -200,17 +167,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Google Cloud Platform, Cloud Storage, Scala, Kafka, Cassandra, CI/CD, Terraform, Docker
 
 [Apply Here](https://www.indeed.com/viewjob?jk=e3729be3511fd845)
-
----
-
-## 19. Software Engineer III - DevOps Automation Engineer @ JPMorganChase
-**Match Score:** 10.4%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** AWS, Lambda, Step Functions, API Gateway, RDS, Databricks, Scala, Splunk, Jenkins, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2f682083d0dc40d6)
 
 ---
 
