@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-01 05:45
+Last updated: 2026-03-01 06:35
 
 ### 🚀 Daily Job Matches
 
@@ -457,13 +457,6 @@ Last updated: 2026-03-01 05:45
 | Infosys | Azure Data Bricks Developer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=312c6b6c4770004d) | 2026-02-25 07:47 |
 | Concentrix | AWS Data Platform Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6e6aa016202f66fe) | 2026-02-25 06:54 |
 | Speridian Technologies | Senior Technical Product Owner - Data Platform | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=829043b08de7d050) | 2026-02-25 06:54 |
-| nan | Sr AWS Data Engineer (Contract) | Parsippany-Troy Hills, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c7808d3f82f3dd3) | 2026-02-25 05:56 |
-| Cetera Financial Group | Senior Software Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9c7833a34175870f) | 2026-02-25 05:56 |
-| Ascensus | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a5a47a44d6a3f091) | 2026-02-25 05:56 |
-| Ascensus | Software Engineer | Dresher, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b29f4a8356c6b860) | 2026-02-25 05:56 |
-| Ascensus | Software Engineer | Newton, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d3faf055caa8c357) | 2026-02-25 05:56 |
-| Ascensus | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9944f1992e587dd2) | 2026-02-25 05:56 |
-| HCA Healthcare | Senior Data Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb3b123f509108b3) | 2026-02-25 05:56 |
 
 
 ---
