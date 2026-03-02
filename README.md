@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 19:32
+Last updated: 2026-03-02 20:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| OmniTrust Technologies | Data Engineer | Alpharetta, GA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=d62af133e60ea749) | 2026-03-02 20:27 |
+| Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | Earth City, MO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=cc2b4e99dfcfee5e) | 2026-03-02 20:27 |
+| Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | Brentwood, TN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=79098e07510f4870) | 2026-03-02 20:27 |
+| reveleer | Senior DevOps Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9f77843ee754ca2e) | 2026-03-02 20:27 |
+| Lyric | Sr. Software Engineer, Machine Learning | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9938efe3610b0fc7) | 2026-03-02 20:27 |
+| VytlOne | Cloud Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fe8313c04ac16547) | 2026-03-02 20:27 |
+| Target | Sr Engineer - Interactive Compute | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48fd0ce1b8d654bd) | 2026-03-02 20:27 |
 | SAP | Senior Data Platform SIEM Engineer | Newtown Square, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f6fef1f451ba88d8) | 2026-03-02 19:32 |
 | A2R Global Private Limited | Sr. Palantir Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d3b46185a95c7ee3) | 2026-03-02 19:32 |
 | Realign | Full Stack Engineer (React + Node.js)-3 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8b7d8b7b5770a45b) | 2026-03-02 18:34 |
@@ -320,16 +327,6 @@ Last updated: 2026-03-02 19:32
 | Finance of America | Data Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f8846493996e830) | 2026-02-26 21:25 |
 | Replit | Product Engineer, Partnerships | Foster City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b40a810716931b39) | 2026-02-26 21:25 |
 | MeridianLink | Full-Stack Software Development Engineer II ( Java and Angular) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=77bef7280137d41c) | 2026-02-26 21:25 |
-| Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ada1c920f207c639) | 2026-02-26 20:27 |
-| F5 | Software Development Engineer I | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=79a97f6710d73548) | 2026-02-26 19:38 |
-| Royal Caribbean Group | Data Scientist | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b5df4e674559910e) | 2026-02-26 19:38 |
-| SpyCloud | Senior Software Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1b7f8d62e370d21c) | 2026-02-26 19:38 |
-| Bank of America | Senior Engineer - Wire Payments Platform | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=55c16c38ef65d0c6) | 2026-02-26 19:38 |
-| Box | Senior Machine Learning Engineer, Shield | Redwood City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=88492e295288a867) | 2026-02-26 19:38 |
-| Fidelity TalentSource | Sr. Full Stack Engineer | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fb9b3b22d6fa4bd) | 2026-02-26 19:38 |
-| VistaCNO | Senior Data Scientist | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa8ab0c91f7227f7) | 2026-02-26 19:38 |
-| Burrell Behavioral Health | Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ff4ba7951fc9c97) | 2026-02-26 19:38 |
-| Tango | Senior DevOps Engineer (Remote) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d66e27cb89a5630) | 2026-02-26 19:38 |
 
 
 ---
