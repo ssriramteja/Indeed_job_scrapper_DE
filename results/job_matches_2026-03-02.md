@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-02
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 3
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Systems Engineering - Senior Engineer @ simple construction
-**Match Score:** 14.6%
-
-📍 **Location:** Flushing, MI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, PostgreSQL, MySQL, NoSQL, Data Modeling, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6722fcc4d5da627b)
-
----
-
-## 3. DevOps Engineer (Linux) @ Quantifind
+## 2. DevOps Engineer (Linux) @ Quantifind
 **Match Score:** 11.1%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Engineer - Java @ GEICO
+## 3. Senior Engineer - Java @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Palo Alto, CA, US USA

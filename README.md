@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 08:34
+Last updated: 2026-03-02 09:39
 
 ### 🚀 Daily Job Matches
 
@@ -327,22 +327,6 @@ Last updated: 2026-03-02 08:34
 | Ramsey Solutions | Analytics Engineer | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ba46b1aa50f7279f) | 2026-02-26 09:40 |
 | State Farm | Software Engineer | Bloomington, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7929c83226ae75b) | 2026-02-26 09:40 |
 | Radwell International | Enterprise AI Architect | Willingboro, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=291c96af0e7cea02) | 2026-02-26 09:40 |
-| GEICO | Distinguished Engineer | Chevy Chase, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ab3a4b9f2c783845) | 2026-02-26 08:37 |
-| GEICO | Sr. Software Engineer | Chevy Chase, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4a077c257a4cf0b5) | 2026-02-26 08:37 |
-| GEICO | Senior Software Engineer- Policy Configuration | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1acf3efd34722f19) | 2026-02-26 08:37 |
-| GEICO | Solutions Engineer II - Networking | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b11bc9d20fc1e2e2) | 2026-02-26 08:37 |
-| GEICO | Solutions Engineer II - Networking | Chevy Chase, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2a6f623279ee6d4) | 2026-02-26 08:37 |
-| GEICO | Solutions Engineer II - Networking | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca3cccca60e879db) | 2026-02-26 08:37 |
-| GEICO | Solutions Engineer II - Networking | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d4f821dc8a5f6559) | 2026-02-26 08:37 |
-| GEICO | Senior Engineer - Java [Hybrid] | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dbeb792ea58b7a87) | 2026-02-26 08:37 |
-| GEICO | Senior Engineer - Java [Hybrid] | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f22565dd904e0808) | 2026-02-26 08:37 |
-| GEICO | Senior Full Stack Engineer - (Java, React, Microservices) - *HYBRID* | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f8fcbfbc5352b0bf) | 2026-02-26 08:37 |
-| GEICO | Senior Engineer - .NET | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1da94812ec374b4) | 2026-02-26 08:37 |
-| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee5cdada52faf29e) | 2026-02-26 08:37 |
-| GEICO | Engineer II | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=503269b060f28151) | 2026-02-26 08:37 |
-| GEICO | Engineer II- .Net | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd899ffea8f1b74c) | 2026-02-26 08:37 |
-| GEICO | Engineer II | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5676e61db2aa81f3) | 2026-02-26 08:37 |
-| GEICO | Engineer II- .Net | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de6aa6e4975245c5) | 2026-02-26 08:37 |
 
 
 ---
