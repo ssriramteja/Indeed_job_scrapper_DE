@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 09:39
+Last updated: 2026-03-02 10:36
 
 ### 🚀 Daily Job Matches
 
@@ -321,12 +321,6 @@ Last updated: 2026-03-02 09:39
 | JPMorganChase | Software Engineer III - Data Engineering Java/Python | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ec8999487afb4f6) | 2026-02-26 10:38 |
 | The Home Depot | Machine Learning Engineer II (Remote) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd0ef78a415d3113) | 2026-02-26 10:38 |
 | JPMorganChase | Software Engineer III - DevOps Automation Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58638a1a93a5925c) | 2026-02-26 10:38 |
-| Open Insurance | DevOps & Backend Engineer — Mid/Senior | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6691fd82745fd2c9) | 2026-02-26 09:40 |
-| SRS Distribution | Analytics Engineer | McKinney, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9fcb451d7086751) | 2026-02-26 09:40 |
-| Herbalife | Application Developer III, Platform Engineering | Torrance, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=116acc2ab05b269d) | 2026-02-26 09:40 |
-| Ramsey Solutions | Analytics Engineer | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ba46b1aa50f7279f) | 2026-02-26 09:40 |
-| State Farm | Software Engineer | Bloomington, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7929c83226ae75b) | 2026-02-26 09:40 |
-| Radwell International | Enterprise AI Architect | Willingboro, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=291c96af0e7cea02) | 2026-02-26 09:40 |
 
 
 ---
