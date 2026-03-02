@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 17:38
+Last updated: 2026-03-02 18:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Realign | Full Stack Engineer (React + Node.js)-3 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8b7d8b7b5770a45b) | 2026-03-02 18:34 |
+| Brillio LLC | Node JS Architect – R01560914 | St. Louis, MO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=cfa80a7ee6afe55d) | 2026-03-02 18:34 |
+| The Cigna Group | Software Engineering Senior Advisors- Hybrid | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b9948a6eb09905fb) | 2026-03-02 18:34 |
+| Fairview Health Services | Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=61410e9fc055bb62) | 2026-03-02 18:34 |
+| Building Service 32BJ Benefit Funds | Python Developer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3f42ee3004396e21) | 2026-03-02 18:34 |
+| Nuve Controls LLC | AWS Cloud Infrastructure Engineer – Large-Scale IoT (1M+ Devices) | Tustin, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f5a72eee9e983c45) | 2026-03-02 18:34 |
+| Robots & Pencils | Solutions Architect - AI | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e9e0f4d3981383ee) | 2026-03-02 18:34 |
+| nan | Sr. SQL Developer | Walton Hills, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a53840554b54acf8) | 2026-03-02 18:34 |
+| OmniTrust Technologies | Software Engineer | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=861d98ce8ccd9dd9) | 2026-03-02 18:34 |
+| GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9c635f2175e2d81b) | 2026-03-02 18:34 |
+| Fusion Risk Management | Senior Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bcd62f4513b7126c) | 2026-03-02 18:34 |
+| Realign | Azure Databricks Architect-5 | Mahwah, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ddae10e310d8abb2) | 2026-03-02 18:34 |
 | Machinery Marketing Inter | Data Analyst Intern (Advanced SQL / Python / Data Engineering Focus) | Chicago, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4f2663b45d759cf1) | 2026-03-02 17:38 |
 | Openkyber | Kafka Schema Registry Engineer | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=8385283e2d310884) | 2026-03-02 17:38 |
 | Openkyber | Kafka Streaming Analyst | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a9d30813f5ba8de3) | 2026-03-02 17:38 |
@@ -317,12 +329,6 @@ Last updated: 2026-03-02 17:38
 | Burrell Behavioral Health | Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ff4ba7951fc9c97) | 2026-02-26 19:38 |
 | Tango | Senior DevOps Engineer (Remote) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d66e27cb89a5630) | 2026-02-26 19:38 |
 | CINC | Data Engineer - II | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32c97e76b6269664) | 2026-02-26 18:40 |
-| Torq | Senior Consultant - Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=5c9f68666dbb80cd) | 2026-02-26 17:53 |
-| Associated Wholesale Grocers | Sr. Solution Engineer | Kansas City, KS, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3d4780af39e79827) | 2026-02-26 17:53 |
-| Openkyber | SAP AI Business Services Consultant | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fc1052fb6437c3a3) | 2026-02-26 17:53 |
-| AMD | Senior Backend Software Engineer (HPC/AI & Distributed Systems) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dce54831329652c4) | 2026-02-26 17:53 |
-| MeridianLink | Full-Stack Software Development Engineer II ( Java and Angular) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc8599dc51df5400) | 2026-02-26 17:53 |
-| University of Texas Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6fff225f154716cc) | 2026-02-26 17:53 |
 
 
 ---
