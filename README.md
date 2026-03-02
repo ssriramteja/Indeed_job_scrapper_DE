@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 14:38
+Last updated: 2026-03-02 15:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ISHIR | Forward Deployed Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cc6b92ec89fa5a3) | 2026-03-02 15:34 |
 | simple construction | Systems Engineering - Senior Engineer | Flushing, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6722fcc4d5da627b) | 2026-03-02 07:43 |
 | Quantifind | DevOps Engineer (Linux) | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87617613276c990f) | 2026-03-02 04:06 |
 | GEICO | Senior Engineer - Java | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5096db1f348c8e4b) | 2026-03-02 01:16 |
