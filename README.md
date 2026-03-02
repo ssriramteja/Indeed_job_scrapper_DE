@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-01 23:16
+Last updated: 2026-03-02 01:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| GEICO | Senior Engineer - Java | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5096db1f348c8e4b) | 2026-03-02 01:16 |
 | Supplied Talent | Senior Data Scientist | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ae7f307250b6639) | 2026-03-01 23:16 |
 | Kollasoft Inc | Databricks Architect & Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=961f7719b1e41e9a) | 2026-03-01 18:21 |
 | Deloitte | Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a677917152c7ba4a) | 2026-03-01 08:21 |
@@ -380,39 +381,6 @@ Last updated: 2026-03-01 23:16
 | brightwheel | Sr. Engineer, Go To Market AI | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=92aac63fae4e53fd) | 2026-02-26 04:09 |
 | Tata Consultancy Services (TCS) | Architect | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=948ed5bfb3c6e050) | 2026-02-26 04:09 |
 | NiyamIT | Full Stack Developer | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a1802cfcb8371e8) | 2026-02-26 04:09 |
-| Realign | Full Stack Engineer (React + Node.js) | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=35decd7954b0dd0a) | 2026-02-26 01:15 |
-| Realign | Senior Databricks Developer-5 | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=656bcb1553978517) | 2026-02-26 01:15 |
-| Associated Wholesale Grocers | Solution Engineer I | Kansas City, KS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5e5985bee213bf40) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f601a32273482463) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=49947d743d3056f4) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de9ca192b1459954) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9b716973859a778f) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=399ec8bc372b2857) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=80249c993d37b8a1) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Hagerstown, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ee8db07c7d3c455) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Detroit, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=febb3f19f40246d8) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Fairlawn, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=34111dd75fb61db0) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=82d12b481045d0c9) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05f13ce82a3f97f6) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7e1b0e113ab0a2ae) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb0219967e4aa5c7) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2009ecd614434266) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f9050b1d95de595b) | 2026-02-26 01:15 |
-| Huntington Bank | Google Data Architect | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7a306bdff16c308c) | 2026-02-26 01:15 |
-| Eurest | SENIOR POWER BI DEVELOPER (HYBRID - REDMOND, WA) | Redmond, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4699f552f08a017) | 2026-02-26 01:15 |
-| Gradient | Full Stack Software Engineer | Renton, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b485146fc9fd8af2) | 2026-02-26 01:15 |
-| Blue Shield of California | Application Developer, Consultant | Oakland, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1e6f7f78ae5d82f3) | 2026-02-26 01:15 |
-| Ascensus | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e3763de2ff690fcf) | 2026-02-26 01:15 |
-| Ascensus | Senior Software Engineer | Newton, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3583ff1e8ab8b831) | 2026-02-26 01:15 |
-| Ascensus | Software Engineer | Dresher, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a764bcc9a479a693) | 2026-02-26 01:15 |
-| Ascensus | Software Engineer | Newton, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d8b0a891a5da57c1) | 2026-02-26 01:15 |
-| Ascensus | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fdde135d701446e) | 2026-02-26 01:15 |
-| Ascensus | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=68e8fc35af3fc28f) | 2026-02-26 01:15 |
-| HealthMark Group | Senior Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=abd869bd281c90f0) | 2026-02-26 01:15 |
-| Realign | Azure Databricks Architect-2 | Mahwah, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ddf45c77d6d98b2) | 2026-02-26 01:15 |
-| Realign | Teradata Developer-5 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f4f91dff933f5cc) | 2026-02-26 01:15 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=88095bf45f8ffd12) | 2026-02-25 23:25 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=370f84e82c56d5a4) | 2026-02-25 23:25 |
 
 
 ---
