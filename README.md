@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 13:54
+Last updated: 2026-03-02 14:38
 
 ### 🚀 Daily Job Matches
 
@@ -312,7 +312,6 @@ Last updated: 2026-03-02 13:54
 | Colgate-Palmolive | Machine Learning Engineer (171679) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b373595b350ec3d) | 2026-02-26 15:45 |
 | IDEMIA | Solutions Architect III | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b223a04c01fe717f) | 2026-02-26 15:45 |
 | Geotab | Data Operations Developer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9cd3315942275dbc) | 2026-02-26 15:45 |
-| Mayo Clinic | Senior Platform Engineer | Rochester, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b57d55c8e2a74923) | 2026-02-26 14:07 |
 
 
 ---
