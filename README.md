@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 12:37
+Last updated: 2026-03-02 13:54
 
 ### 🚀 Daily Job Matches
 
@@ -313,8 +313,6 @@ Last updated: 2026-03-02 12:37
 | IDEMIA | Solutions Architect III | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b223a04c01fe717f) | 2026-02-26 15:45 |
 | Geotab | Data Operations Developer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9cd3315942275dbc) | 2026-02-26 15:45 |
 | Mayo Clinic | Senior Platform Engineer | Rochester, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b57d55c8e2a74923) | 2026-02-26 14:07 |
-| First American | Senior Data Engineer (Remote in CA) | Santa Ana, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=05ccb57abd2eb2be) | 2026-02-26 12:42 |
-| Premise Health | Azure Data Engineer I | Brentwood, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=353cdf1ee00c6fd9) | 2026-02-26 12:42 |
 
 
 ---
