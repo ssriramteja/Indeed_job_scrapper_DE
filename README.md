@@ -1,13 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 21:26
+Last updated: 2026-03-02 22:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Thales | FinOps Engineer | Austin, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=53b079e799b7b598) | 2026-03-02 22:20 |
+| RedCloud Consulting | Sr. Data Engineer - Monetization & Experimentation | Seattle, WA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=25c4ec5f1d13bace) | 2026-03-02 22:20 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-02 22:20 |
+| Intellibee Inc | Child Support -Senior Full Stack AI/Java Developer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=052ff8fd2f21f73c) | 2026-03-02 22:20 |
 | Michael Baker International | Senior Cloud DevOps Engineer (Azure & AWS) | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=30ad4f76b32130ff) | 2026-03-02 21:26 |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-02 21:26 |
 | XomegaIT Inc | Sr. ServiceNOW (DPR) Developer | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3a18d71c9677d86f) | 2026-03-02 21:26 |
 | Honeywell | Software Engineer II - AI/ML OPS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=09190487663b43a8) | 2026-03-02 21:26 |
 | Welltower, Inc | Senior Software Engineer - onsite Dallas or NYC | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1973f445d0cd1f85) | 2026-03-02 21:26 |
