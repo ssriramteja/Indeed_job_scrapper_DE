@@ -16,7 +16,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. DevOps Engineer (Linux) @ Quantifind
+## 2. Systems Engineering - Senior Engineer @ simple construction
+**Match Score:** 14.6%
+
+📍 **Location:** Flushing, MI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, PostgreSQL, MySQL, NoSQL, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6722fcc4d5da627b)
+
+---
+
+## 3. DevOps Engineer (Linux) @ Quantifind
 **Match Score:** 11.1%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Engineer - Java @ GEICO
+## 4. Senior Engineer - Java @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -35,17 +46,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, Scala, Kafka, PostgreSQL, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=5096db1f348c8e4b)
-
----
-
-## 4. Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Cincinnati, OH, US USA
-
-🔑 **Keywords:** API Gateway, ECS, RDS, Azure, Scala, NoSQL, Data Modeling, CI/CD, Azure DevOps, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a677917152c7ba4a)
 
 ---
 

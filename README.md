@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 06:45
+Last updated: 2026-03-02 07:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| simple construction | Systems Engineering - Senior Engineer | Flushing, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6722fcc4d5da627b) | 2026-03-02 07:43 |
 | Quantifind | DevOps Engineer (Linux) | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87617613276c990f) | 2026-03-02 04:06 |
 | GEICO | Senior Engineer - Java | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5096db1f348c8e4b) | 2026-03-02 01:16 |
 | Supplied Talent | Senior Data Scientist | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ae7f307250b6639) | 2026-03-01 23:16 |
@@ -342,9 +343,6 @@ Last updated: 2026-03-02 06:45
 | GEICO | Engineer II- .Net | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd899ffea8f1b74c) | 2026-02-26 08:37 |
 | GEICO | Engineer II | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5676e61db2aa81f3) | 2026-02-26 08:37 |
 | GEICO | Engineer II- .Net | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de6aa6e4975245c5) | 2026-02-26 08:37 |
-| Harness | Senior Customer Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=927541bc7fc9c876) | 2026-02-26 06:50 |
-| Genpact | Consultant - Cloud SRE Admin | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3dc8b002eb283aa) | 2026-02-26 06:50 |
-| Harness | Senior Customer Architect - AppSec (Enterprise and Federal) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75750b39b6d9f7e1) | 2026-02-26 06:50 |
 
 
 ---
