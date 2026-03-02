@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 15:34
+Last updated: 2026-03-02 16:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Digital Dhara LLC | Data Architect – Health Care Payer Domain | Philadelphia, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bb9633621ca2925b) | 2026-03-02 16:34 |
+| Visa | Data Engineer | Foster City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e1534e35cf264fdf) | 2026-03-02 16:34 |
+| Credify Services | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5b23147f1037240) | 2026-03-02 16:34 |
 | ISHIR | Forward Deployed Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cc6b92ec89fa5a3) | 2026-03-02 15:34 |
 | simple construction | Systems Engineering - Senior Engineer | Flushing, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6722fcc4d5da627b) | 2026-03-02 07:43 |
 | Quantifind | DevOps Engineer (Linux) | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87617613276c990f) | 2026-03-02 04:06 |
@@ -306,13 +309,6 @@ Last updated: 2026-03-02 15:34
 | University of Texas Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6fff225f154716cc) | 2026-02-26 17:53 |
 | The Friedkin Group | Data Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f7ede0f34ce25b71) | 2026-02-26 16:48 |
 | Matrix Medical Network | DevOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=939ed479d96c418b) | 2026-02-26 16:48 |
-| Disney Entertainment Television | Sr Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=06c7525b9f402e34) | 2026-02-26 15:45 |
-| Capital One | Senior Data Engineer (Python, SQL, AWS) - Navigator Platform | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=38b02b46801c7f10) | 2026-02-26 15:45 |
-| Capital One | Senior Data Engineer | Wilmington, DE, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ef8a3d8ad1cf49b7) | 2026-02-26 15:45 |
-| Fairview Health Services | Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2d7b87445d04d0bb) | 2026-02-26 15:45 |
-| Colgate-Palmolive | Machine Learning Engineer (171679) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b373595b350ec3d) | 2026-02-26 15:45 |
-| IDEMIA | Solutions Architect III | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b223a04c01fe717f) | 2026-02-26 15:45 |
-| Geotab | Data Operations Developer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9cd3315942275dbc) | 2026-02-26 15:45 |
 
 
 ---
