@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 22:20
+Last updated: 2026-03-02 23:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ACV Auctions | Senior Data Engineer, ACVMax | Buffalo, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a05a21e755f84f81) | 2026-03-02 23:18 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-02 23:18 |
+| DoorDash | Senior Software Engineer, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=34d768a204f4d158) | 2026-03-02 23:18 |
+| athenahealth | Senior Software Engineer, Integration Platform | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b248613383f89a61) | 2026-03-02 23:18 |
 | Thales | FinOps Engineer | Austin, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=53b079e799b7b598) | 2026-03-02 22:20 |
 | RedCloud Consulting | Sr. Data Engineer - Monetization & Experimentation | Seattle, WA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=25c4ec5f1d13bace) | 2026-03-02 22:20 |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-02 22:20 |
 | Intellibee Inc | Child Support -Senior Full Stack AI/Java Developer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=052ff8fd2f21f73c) | 2026-03-02 22:20 |
 | Michael Baker International | Senior Cloud DevOps Engineer (Azure & AWS) | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=30ad4f76b32130ff) | 2026-03-02 21:26 |
 | XomegaIT Inc | Sr. ServiceNOW (DPR) Developer | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3a18d71c9677d86f) | 2026-03-02 21:26 |
@@ -330,9 +333,6 @@ Last updated: 2026-03-02 22:20
 | Bayer | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=defb7c286d56b171) | 2026-02-26 23:22 |
 | A. Duie Pyle, INC. | Senior Data Architect | West Chester, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df95271c65edaa7c) | 2026-02-26 23:22 |
 | Beghou Consulting | Consultant, Data Management | Thousand Oaks, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1ad03af6a4ac792) | 2026-02-26 23:22 |
-| Hudson Manpower | Data Engineer with AI & Kubernetes | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fe3d2714f39bd085) | 2026-02-26 22:24 |
-| Zonos | DevOps Engineer | Saint George, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3bee8d25021d9111) | 2026-02-26 22:24 |
-| Nation's Best Sports | Senior Full Stack Software Engineer | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4021abb69b19b3ac) | 2026-02-26 22:24 |
 
 
 ---
