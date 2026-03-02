@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 05:46
+Last updated: 2026-03-02 06:45
 
 ### 🚀 Daily Job Matches
 
@@ -345,9 +345,6 @@ Last updated: 2026-03-02 05:46
 | Harness | Senior Customer Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=927541bc7fc9c876) | 2026-02-26 06:50 |
 | Genpact | Consultant - Cloud SRE Admin | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3dc8b002eb283aa) | 2026-02-26 06:50 |
 | Harness | Senior Customer Architect - AppSec (Enterprise and Federal) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75750b39b6d9f7e1) | 2026-02-26 06:50 |
-| SolidLine Media | Data Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e8185f66fc8c270) | 2026-02-26 05:53 |
-| American Family Insurance | Senior Data Engineer | Madison, WI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=54c5e79cbd14d908) | 2026-02-26 05:53 |
-| Aeroflow Health | Fullstack Software Engineer (Special Projects Team) | Asheville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61e2c56fc5827763) | 2026-02-26 05:53 |
 
 
 ---
