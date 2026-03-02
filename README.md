@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 10:36
+Last updated: 2026-03-02 11:27
 
 ### 🚀 Daily Job Matches
 
@@ -315,12 +315,6 @@ Last updated: 2026-03-02 10:36
 | Mayo Clinic | Senior Platform Engineer | Rochester, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b57d55c8e2a74923) | 2026-02-26 14:07 |
 | First American | Senior Data Engineer (Remote in CA) | Santa Ana, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=05ccb57abd2eb2be) | 2026-02-26 12:42 |
 | Premise Health | Azure Data Engineer I | Brentwood, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=353cdf1ee00c6fd9) | 2026-02-26 12:42 |
-| JPMorganChase | DevOps Software Engineer III | Plano, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ae9c515199307b36) | 2026-02-26 10:38 |
-| JPMorganChase | Software Engineer III - AI/ML | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=330acb9fbf425d3a) | 2026-02-26 10:38 |
-| The Home Depot | Senior Machine Learning Engineer (Remote) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64eeda5b2dfcfe99) | 2026-02-26 10:38 |
-| JPMorganChase | Software Engineer III - Data Engineering Java/Python | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ec8999487afb4f6) | 2026-02-26 10:38 |
-| The Home Depot | Machine Learning Engineer II (Remote) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd0ef78a415d3113) | 2026-02-26 10:38 |
-| JPMorganChase | Software Engineer III - DevOps Automation Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58638a1a93a5925c) | 2026-02-26 10:38 |
 
 
 ---
