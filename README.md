@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 18:34
+Last updated: 2026-03-02 19:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SAP | Senior Data Platform SIEM Engineer | Newtown Square, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f6fef1f451ba88d8) | 2026-03-02 19:32 |
+| A2R Global Private Limited | Sr. Palantir Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d3b46185a95c7ee3) | 2026-03-02 19:32 |
 | Realign | Full Stack Engineer (React + Node.js)-3 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8b7d8b7b5770a45b) | 2026-03-02 18:34 |
 | Brillio LLC | Node JS Architect – R01560914 | St. Louis, MO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=cfa80a7ee6afe55d) | 2026-03-02 18:34 |
 | The Cigna Group | Software Engineering Senior Advisors- Hybrid | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b9948a6eb09905fb) | 2026-03-02 18:34 |
@@ -328,7 +330,6 @@ Last updated: 2026-03-02 18:34
 | VistaCNO | Senior Data Scientist | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa8ab0c91f7227f7) | 2026-02-26 19:38 |
 | Burrell Behavioral Health | Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ff4ba7951fc9c97) | 2026-02-26 19:38 |
 | Tango | Senior DevOps Engineer (Remote) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d66e27cb89a5630) | 2026-02-26 19:38 |
-| CINC | Data Engineer - II | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32c97e76b6269664) | 2026-02-26 18:40 |
 
 
 ---
