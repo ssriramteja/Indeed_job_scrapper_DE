@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 20:27
+Last updated: 2026-03-02 21:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Michael Baker International | Senior Cloud DevOps Engineer (Azure & AWS) | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=30ad4f76b32130ff) | 2026-03-02 21:26 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-02 21:26 |
+| XomegaIT Inc | Sr. ServiceNOW (DPR) Developer | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3a18d71c9677d86f) | 2026-03-02 21:26 |
+| Honeywell | Software Engineer II - AI/ML OPS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=09190487663b43a8) | 2026-03-02 21:26 |
+| Welltower, Inc | Senior Software Engineer - onsite Dallas or NYC | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1973f445d0cd1f85) | 2026-03-02 21:26 |
+| Field Tech Services LTD | Backend Engineer | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=66ccf1b5ae0c7999) | 2026-03-02 21:26 |
+| Ossium Health | Full Stack Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d316352de1f1e22) | 2026-03-02 21:26 |
+| Pantherx Specialty Llc | Data Engineer | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa566c97f625b888) | 2026-03-02 21:26 |
+| Qualcomm | MLOps Engineer - ML Platform | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c8c93cdb4a040410) | 2026-03-02 21:26 |
+| Qualcomm | Airflow Infrastructure & Automation Engineer – Silicon Design | Santa Clara, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a4082f94b884828) | 2026-03-02 21:26 |
+| Qualcomm | Airflow Infrastructure & Automation Engineer – Silicon Design | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b0da910ded33358) | 2026-03-02 21:26 |
+| Credit Karma | Senior Machine Learning Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2cd459594d11eb54) | 2026-03-02 21:26 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=467b235085e3e3c0) | 2026-03-02 21:26 |
+| Qualcomm | Machine Learning Software Engineer | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48d779cadb2f27d6) | 2026-03-02 21:26 |
 | OmniTrust Technologies | Data Engineer | Alpharetta, GA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=d62af133e60ea749) | 2026-03-02 20:27 |
 | Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | Earth City, MO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=cc2b4e99dfcfee5e) | 2026-03-02 20:27 |
 | Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | Brentwood, TN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=79098e07510f4870) | 2026-03-02 20:27 |
@@ -316,17 +330,6 @@ Last updated: 2026-03-02 20:27
 | Hudson Manpower | Data Engineer with AI & Kubernetes | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fe3d2714f39bd085) | 2026-02-26 22:24 |
 | Zonos | DevOps Engineer | Saint George, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3bee8d25021d9111) | 2026-02-26 22:24 |
 | Nation's Best Sports | Senior Full Stack Software Engineer | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4021abb69b19b3ac) | 2026-02-26 22:24 |
-| Tata Consultancy Services (TCS) | Full Stack Engineer (React + Node.js) | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1d9cf410db691568) | 2026-02-26 21:25 |
-| Tata Consultancy Services (TCS) | Java Engineer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=45366327b45aca00) | 2026-02-26 21:25 |
-| Tata Consultancy Services (TCS) | Blockchain Java Backend Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c48f5c60379802d3) | 2026-02-26 21:25 |
-| Outfront Media | Senior Software Engineer | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=54fbc1b6f53ddcb1) | 2026-02-26 21:25 |
-| Progressive | Intermediate Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6b465e27586b38fb) | 2026-02-26 21:25 |
-| SS&C | Sr. Software Engineer | Kansas City, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2845c99fbf7bb445) | 2026-02-26 21:25 |
-| Stellar Solutions | Snowflake SME | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ccefe385c15cc707) | 2026-02-26 21:25 |
-| NTT DATA | Senior AI Engineer | MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=74494a10316e7fe4) | 2026-02-26 21:25 |
-| Finance of America | Data Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f8846493996e830) | 2026-02-26 21:25 |
-| Replit | Product Engineer, Partnerships | Foster City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b40a810716931b39) | 2026-02-26 21:25 |
-| MeridianLink | Full-Stack Software Development Engineer II ( Java and Angular) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=77bef7280137d41c) | 2026-02-26 21:25 |
 
 
 ---
