@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 09:33
+Last updated: 2026-03-03 10:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 09:33 |
+| JPMorganChase | Backend Software Engineer III - API Platform | Palo Alto, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=fd1c3ba542522bad) | 2026-03-03 10:31 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 10:31 |
 | APi Group, Inc. | Senior Systems Engineer - Oracle Cloud Infrastructure (OCI) | New Brighton, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6450f77aa7cdc7c1) | 2026-03-03 08:31 |
 | Smile Digital Health | Cloud Engineer- Remote US | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f25625460182eb8e) | 2026-03-03 07:37 |
 | CVS Health | Senior Software Development Engineer | AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6006f51c65e9f139) | 2026-03-03 07:37 |
@@ -424,8 +425,6 @@ Last updated: 2026-03-03 09:33
 | American Express | Senior Software Engineer , Backend - Dining Technology | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a55027269ae2c13) | 2026-02-27 11:26 |
 | UT Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5234ef7e93d3843b) | 2026-02-27 11:26 |
 | i2c Inc | Sr. Software Engineer - CMG | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14c6d6e2d1865fce) | 2026-02-27 11:26 |
-| JPMorganChase | Software Engineer III - Fullstack with AWS | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d52a4ac4cf61b3b8) | 2026-02-27 10:29 |
-| Coresphere | Salesforce Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=04680e043ccedae6) | 2026-02-27 10:29 |
 
 
 ---
