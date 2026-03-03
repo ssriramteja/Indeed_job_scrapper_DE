@@ -1,13 +1,87 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-02 23:18
+Last updated: 2026-03-03 01:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Kafka Testing Engineer | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=cf9878976e87f63b) | 2026-03-03 01:18 |
+| Openkyber | Streaming Data | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8753556282d7d43c) | 2026-03-03 01:18 |
+| Openkyber | Kafka Pre Sales Engineer | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=97773a93c62e6c6d) | 2026-03-03 01:18 |
+| D&G Support Services, LLC | Data Engineer | Fort Belvoir, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=14e360184b3be6da) | 2026-03-03 01:18 |
+| Openkyber | Streaming Data | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f923b35d6b28f9fa) | 2026-03-03 01:18 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 01:18 |
+| Openkyber | Kafka Spark Streaming Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d55fe2f4c3849aee) | 2026-03-03 01:18 |
+| Eli Lilly | Engineer – Drug Delivery Device Development | Indianapolis, IN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=67c397d8c90a9884) | 2026-03-03 01:18 |
+| AssetMark | Associate Data Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=351825ec13a4ff81) | 2026-03-03 01:18 |
+| Openkyber | Kafka Support Analyst | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ee1a55e3e9d2956f) | 2026-03-03 01:18 |
+| Openkyber | Streaming Data | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9baafabe84b28d4a) | 2026-03-03 01:18 |
+| W. L. Gore & Associates | Senior Data Engineer | Newark, DE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c8b965fc898d308c) | 2026-03-03 01:18 |
+| Openkyber | Streaming Data | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=70943ce5f887ca8b) | 2026-03-03 01:18 |
+| Micron Technology | Senior Machine Learning Engineer | Boise, ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dc67f182252edbf6) | 2026-03-03 01:18 |
+| Microchip Technology | Engineer I-Software | Chandler, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=137f20c09a8e5c3f) | 2026-03-03 01:18 |
+| Realign | Data Platform Engineer-1 | Parsippany-Troy Hills, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e40302b3b533bf4) | 2026-03-03 01:18 |
+| Openkyber | Kafka Support Analyst | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=780638094f78620b) | 2026-03-03 01:18 |
+| Openkyber | Streaming Data | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb05780e87aea394) | 2026-03-03 01:18 |
+| LMG Technology Services LLC | Enterprise Architect 3 (529501460R) | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e395e8c2af5189f) | 2026-03-03 01:18 |
+| Openkyber | Kafka Cluster Support Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b13758862656b4b) | 2026-03-03 01:18 |
+| Worth AI | Senior Software Engineer | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=491fbc29551dfb6b) | 2026-03-03 01:18 |
+| Worth AI | Senior Software Engineer | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b0ff15918eb570db) | 2026-03-03 01:18 |
+| Worth AI | Senior Software Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=89695ca4c4735314) | 2026-03-03 01:18 |
+| Worth AI | Senior Software Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=482d33a526b72871) | 2026-03-03 01:18 |
+| T. Rowe Price | Senior Data Scientist | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=72e55ba38c1cf2b9) | 2026-03-03 01:18 |
+| Openkyber | Kafka Support Analyst | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2abcf8ec50a625bb) | 2026-03-03 01:18 |
+| Ensono | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39c1542c9d68f0b8) | 2026-03-03 01:18 |
+| Openkyber | Kafka Azure Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34ee2712fc0c8c6b) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Fargo, ND, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e7568ad4f68a794) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Tyler, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d52238de5d8e31e0) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Marion, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ae9a9a37ab0d96f6) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Liberty, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f136125e04b66c73) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Provo, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4918daca312f2244) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=779fab7c29fa86f8) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Portland, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=82696b1123770e7c) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Parlin, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=784cdfc19af10bef) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Annapolis, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=478b67e11e517a6a) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Tulsa, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6dd2f8883c7c2c58) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=196b31dc98641b88) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Rehoboth Beach, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57eefa4ab67cd697) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32c44b4cc154e674) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Dayton, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa0b9517a01a6afc) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=973b964a0f591ec6) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Derby, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec51f8f969e14cf1) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Newmarket, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5652ebc9bf49bf2) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=56132a79b8e257a8) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Stafford, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4c29d898862048a4) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7fcf87f4ae954a87) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Baton Rouge, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c8956a3adf5ea0c) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Frankfort, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0fcf4f0bd1ef1d34) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Clinton, MS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0468b99fb72fd82f) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0cdcab207377fb1f) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2930761b280e653e) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a421856a8539fed6) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Medway, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=782f328c04380066) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=352c07120666e5c1) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Portland, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42baffc4c7805e28) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Missoula, MT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=46833a029042b4bc) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Watson, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=17c5fd0139ae8bc7) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Newport, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61cc35ec9058fa3e) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cfb102c7ccf172b) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Hudson, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d85a679038244e3) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Barrington, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1aea8ceb4ec114a0) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Boulder, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=90340400c0a73eb9) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Albuquerque, NM, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dbad1c85611a5fa9) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3b4e01b96f96859) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Greenville, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7abf686b4b05726) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Monrovia, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b09b6d139d7d5dc4) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Richland, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=31b7be7f3829a65a) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Birmingham, AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d7da40b1f46a195) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Caldwell, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d796774718fde3c9) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Pierre, SD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be750e2f0e29fd59) | 2026-03-03 01:18 |
+| Ensora Health | Software Development Engineer in Test (SDET) | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=843cb19e01616170) | 2026-03-03 01:18 |
+| Openkyber | Streaming Data | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ac8b8935c84e2b1) | 2026-03-03 01:18 |
+| Openkyber | API Security IAM Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=080dd790549ca45e) | 2026-03-03 01:18 |
 | ACV Auctions | Senior Data Engineer, ACVMax | Buffalo, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a05a21e755f84f81) | 2026-03-02 23:18 |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-02 23:18 |
 | DoorDash | Senior Software Engineer, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=34d768a204f4d158) | 2026-03-02 23:18 |
 | athenahealth | Senior Software Engineer, Integration Platform | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b248613383f89a61) | 2026-03-02 23:18 |
 | Thales | FinOps Engineer | Austin, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=53b079e799b7b598) | 2026-03-02 22:20 |
@@ -308,31 +382,6 @@ Last updated: 2026-03-02 23:18
 | TikTok | Senior Data Scientist, Global Data Analytics for Internal Audit Function - AMS | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c276ceaec78f13bf) | 2026-02-27 04:05 |
 | Sifted | Product Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ee7df5cbe03d450) | 2026-02-27 04:05 |
 | Morningstar | Associate Software Engineer, Credit Tech | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=91f8471c0b8e5715) | 2026-02-27 04:05 |
-| Realign | Full Stack Engineer (React + Node.js)-1 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=00b0ecbc06d206c1) | 2026-02-27 01:13 |
-| Teladoc Health | Senior Data Engineer (Snowflake & dbt) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=485d715fc100593a) | 2026-02-27 01:13 |
-| LTIMindtree | Java Full Stack – AI Engineer (Senior Software Engineer) | Tampa, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=65acbad9fc6000b8) | 2026-02-27 01:13 |
-| NTT DATA | Full Stack Programmer | MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=14f5c62a0200f541) | 2026-02-27 01:13 |
-| Velvetech | MLops Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=55830710a153dc5e) | 2026-02-27 01:13 |
-| Brown & Brown Insurance | Senior Data Engineer | Daytona Beach, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=58bf629817888436) | 2026-02-27 01:13 |
-| Renew home | Senior Engineer, Energy Intelligence (Remote, US) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e972715f58cab3b7) | 2026-02-27 01:13 |
-| nan | Senior Software Engineer - Machine Learning & Artificial Intelligence (ML & AI) | King of Prussia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8d7c1193c8f42bbf) | 2026-02-27 01:13 |
-| GM Financial | Data Engineer II | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=955a036d4b1cf07e) | 2026-02-27 01:13 |
-| Ripplehire | AI Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d12fb3b1bcde35e2) | 2026-02-27 01:13 |
-| TESSCO | Senior - Software Engineer - NetSuite Reporting/Analytics | Hunt Valley, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=707ae926dfb9261b) | 2026-02-27 01:13 |
-| Realign | Azure Databricks Architect-3 | Mahwah, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aeb9f762b587a290) | 2026-02-27 01:13 |
-| YUM! Brands, Inc. | Data Platform Architect | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4f545aa447f1c2c) | 2026-02-27 01:13 |
-| SPAN Enterprises, LLC | Software Developer (Go / Backend Engineering) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a80a72289b50e8a) | 2026-02-27 01:13 |
-| Humana | Software Engineer 2 – Full Stack (React.js, Java Spring Boot) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33f233bcd06b05ea) | 2026-02-27 01:13 |
-| Wellmark Blue Cross and Blue Shield | Sr. Full Stack Digital Services Software Engineer #1741 | Des Moines, IA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ef36d6b0df82b802) | 2026-02-26 23:22 |
-| Openkyber | SAP Security Consultant | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=99f20f1d8e4ac8db) | 2026-02-26 23:22 |
-| GreatAmerica Financial Services | Data Architect | Cedar Rapids, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a73f224d7e2859e4) | 2026-02-26 23:22 |
-| Early Warning Services | Sr. Business Intelligence Developer | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7ac4966435dab5e0) | 2026-02-26 23:22 |
-| Reef Capital Partners | AI DevOps Engineer | Lehi, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1e695ed23053b341) | 2026-02-26 23:22 |
-| Hightower Advisors | Senior Data Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=73d8a7818486ff2d) | 2026-02-26 23:22 |
-| Openkyber | SAP Application Support Trainee | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71e8e9db0adaeff1) | 2026-02-26 23:22 |
-| Bayer | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=defb7c286d56b171) | 2026-02-26 23:22 |
-| A. Duie Pyle, INC. | Senior Data Architect | West Chester, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df95271c65edaa7c) | 2026-02-26 23:22 |
-| Beghou Consulting | Consultant, Data Management | Thousand Oaks, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1ad03af6a4ac792) | 2026-02-26 23:22 |
 
 
 ---
