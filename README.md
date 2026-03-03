@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 07:37
+Last updated: 2026-03-03 08:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 08:31 |
+| APi Group, Inc. | Senior Systems Engineer - Oracle Cloud Infrastructure (OCI) | New Brighton, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6450f77aa7cdc7c1) | 2026-03-03 08:31 |
 | Smile Digital Health | Cloud Engineer- Remote US | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f25625460182eb8e) | 2026-03-03 07:37 |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 07:37 |
 | CVS Health | Senior Software Development Engineer | AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6006f51c65e9f139) | 2026-03-03 07:37 |
 | CVS Health | Senior Software Development Engineer | OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=205804a055fd2049) | 2026-03-03 07:37 |
 | CVS Health | Senior Software Development Engineer | VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5c5706918e358a0) | 2026-03-03 07:37 |
@@ -430,7 +431,6 @@ Last updated: 2026-03-03 07:37
 | Cvent | Database Engineer II | Tysons Corner, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=131e73fa50f53df2) | 2026-02-27 09:32 |
 | Radiant Digital | Enterprise Architect | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21b7e73d33f00e62) | 2026-02-27 08:32 |
 | nan | Senior AI/Python Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6fc817ac4888de29) | 2026-02-27 08:32 |
-| PNC Financial Services Group | Software Engineer Sr - Microservices/Kafka/ETL | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3673ee144fef09b1) | 2026-02-27 07:40 |
 
 
 ---
