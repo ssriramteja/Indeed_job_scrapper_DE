@@ -1,13 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 17:36
+Last updated: 2026-03-03 18:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Altak Group | Ab Initio Developer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=afe6c49fa2525821) | 2026-03-03 18:37 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 18:37 |
+| Rancho BioSciences | Associate/Consultant Engineer - Remote | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cd467efc7d909226) | 2026-03-03 18:37 |
+| Digital Dhara LLC | ETL Testing with Azure Databricks in Healthcare | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9af37a4075a8760f) | 2026-03-03 18:37 |
+| Lodging by Liberty DBA Charter Furniture | Full Stack Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bfc18b55e9187d3f) | 2026-03-03 18:37 |
+| CrowdStrike | Sr. Software Engineer - Risk Platform (Hybrid) | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=151fe9868f44f2f1) | 2026-03-03 18:37 |
 | Quorum Business Solutions | Data Engineer II (Hybrid Work Schedule) | Houston, TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=5f1e509811f28e16) | 2026-03-03 17:36 |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 17:36 |
 | CloudRay Inc | Data Engineer - Kafka Connect | IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d5df3111682f7946) | 2026-03-03 17:36 |
 | Hitachi Digital Services | Sr. Data Engineer | Reading, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=09ad7ca6161e3e9e) | 2026-03-03 17:36 |
 | Openkyber | Google Cloud Network Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c97eb9417ef8ebcf) | 2026-03-03 17:36 |
@@ -401,16 +406,6 @@ Last updated: 2026-03-03 17:36
 | Expert Technology Services | Microsoft Azure Engineer / Architect | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdc7fa4175844c3b) | 2026-02-27 19:28 |
 | ProTalent Finders | MLOps Engineer - NO VISA SPONSORSHIP | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7d5540e90f82629) | 2026-02-27 19:28 |
 | Twilio | Software Engineer - Video | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a237a79dc97e081) | 2026-02-27 19:28 |
-| Micron Technology | SR DATA SCIENTIST, SMART MFG & AI | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=12881722cc760412) | 2026-02-27 18:31 |
-| Micron Technology | Senior Data Scientist | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9088b884cc79245f) | 2026-02-27 18:31 |
-| Infoorigin Inc | Senior Technical Architect | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=663f555c3c3a4323) | 2026-02-27 18:31 |
-| Infoorigin Inc | Senior Technical Architect | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1c9c050714c83922) | 2026-02-27 18:31 |
-| Realign | Data Platform Engineer | Parsippany-Troy Hills, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b1048ac2a929a355) | 2026-02-27 18:31 |
-| University of Wisconsin-Stout | Software Eng/Developer III | Menomonie, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb4a42fcc433ea24) | 2026-02-27 18:31 |
-| TechnoMile | CloudOps Specialist | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0602f10e5c420065) | 2026-02-27 18:31 |
-| RogueSearch | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b30c7e8de15bdeb) | 2026-02-27 18:31 |
-| Hexaware Technologies | Java Full Stack Engineer - Associate | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=473e4f2e4cfe64c5) | 2026-02-27 18:31 |
-| Twilio | Software Engineer - Video | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e6902022dae079f0) | 2026-02-27 18:31 |
 
 
 ---
