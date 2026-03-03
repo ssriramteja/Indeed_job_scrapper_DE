@@ -1567,7 +1567,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 143. Senior Machine Learning Engineer @ Credit Karma
+## 143. Azure Stack Data Engineer @ AAON
+**Match Score:** 10.4%
+
+📍 **Location:** Tulsa, OK, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Synapse Analytics, Scala, Data Modeling, ETL, Power BI, CI/CD, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=20dcbc83d5643838)
+
+---
+
+## 144. Senior Machine Learning Engineer @ Credit Karma
 **Match Score:** 10.4%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -1575,17 +1586,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Databricks, Dataflow, Vertex AI, Spark, Scala, Dask, MLOps, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=2cd459594d11eb54)
-
----
-
-## 144. Forward Deployed Engineer @ ISHIR
-**Match Score:** 10.4%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Scala, Data Modeling, ETL, CI/CD, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6cc6b92ec89fa5a3)
 
 ---
 

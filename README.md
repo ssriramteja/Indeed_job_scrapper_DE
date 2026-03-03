@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 13:54
+Last updated: 2026-03-03 14:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 13:54 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 14:38 |
+| AAON | Azure Stack Data Engineer | Tulsa, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20dcbc83d5643838) | 2026-03-03 14:38 |
 | HCA Healthcare | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a53eba2ddb1389c4) | 2026-03-03 11:26 |
 | HCA Healthcare | Senior Solution Architect | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a7c80e2086f0d108) | 2026-03-03 11:26 |
 | Ai Vantage | Data Architect | Vienna, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87747bfcd30cdbc2) | 2026-03-03 11:26 |
@@ -418,7 +419,6 @@ Last updated: 2026-03-03 13:54
 | NRCCUA | Cloud Security Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5d638d27bd496aac) | 2026-02-27 15:32 |
 | nan | Site Reliability Engineer II | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4420b6c7bc5a59dc) | 2026-02-27 15:32 |
 | nan | Sr Data Engineer | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6f61d4f9e0de29b6) | 2026-02-27 15:32 |
-| Persausive technologies | ERP DEVELOPER | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4cb5a11d2c71308d) | 2026-02-27 14:34 |
 
 
 ---
