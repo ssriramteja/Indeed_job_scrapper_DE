@@ -1,13 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 18:37
+Last updated: 2026-03-03 19:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ALTRUIST | Senior Software Engineer, Cloud Infrastructure | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=cc6ad57eba624292) | 2026-03-03 19:34 |
+| ALTRUIST | Senior Software Engineer, Cloud Infrastructure | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=15325ad687b27337) | 2026-03-03 19:34 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 19:34 |
+| Rancho BioSciences | Associate/Consultant Engineer - Remote | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=72630d316687619c) | 2026-03-03 19:34 |
+| Acrisure LLC | Software Engineer, Data | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2b12dfc8a5459a4f) | 2026-03-03 19:34 |
+| Celestica | Senior AI Engineer, IT Solutions 1 | NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ee982b6d11792f00) | 2026-03-03 19:34 |
+| Sumitomo Group | Senior Risk Developer (Python/Azure) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7762d03304071b69) | 2026-03-03 19:34 |
+| hatch IT | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b260e746e7b9c233) | 2026-03-03 19:34 |
+| hatch IT | Site Reliability Engineer (SRE) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c08c735142c13e1b) | 2026-03-03 19:34 |
+| Kapitus | DevSecOps Engineer III | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=31099f3a1c434171) | 2026-03-03 19:34 |
 | Altak Group | Ab Initio Developer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=afe6c49fa2525821) | 2026-03-03 18:37 |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 18:37 |
 | Rancho BioSciences | Associate/Consultant Engineer - Remote | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cd467efc7d909226) | 2026-03-03 18:37 |
 | Digital Dhara LLC | ETL Testing with Azure Databricks in Healthcare | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9af37a4075a8760f) | 2026-03-03 18:37 |
 | Lodging by Liberty DBA Charter Furniture | Full Stack Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bfc18b55e9187d3f) | 2026-03-03 18:37 |
@@ -402,10 +411,6 @@ Last updated: 2026-03-03 18:37
 | Neighborhood Health Center | Business Intelligence Developer - Power BI | Tigard, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d17a304efb77ff78) | 2026-02-27 20:20 |
 | Guardian Bikes | Senior Analytics Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78011a5d6c324570) | 2026-02-27 20:20 |
 | ECS | BI Reporting Developer I | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebe4ac8a6ea16a0a) | 2026-02-27 20:20 |
-| Klaviyo | Senior Data Engineer, Business Intelligence | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0f39474e07389a32) | 2026-02-27 19:28 |
-| Expert Technology Services | Microsoft Azure Engineer / Architect | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdc7fa4175844c3b) | 2026-02-27 19:28 |
-| ProTalent Finders | MLOps Engineer - NO VISA SPONSORSHIP | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7d5540e90f82629) | 2026-02-27 19:28 |
-| Twilio | Software Engineer - Video | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a237a79dc97e081) | 2026-02-27 19:28 |
 
 
 ---
