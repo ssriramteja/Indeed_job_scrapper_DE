@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 05:43
+Last updated: 2026-03-03 06:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 06:40 |
 | Dematic | Senior Data Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f9bde3d8a51e4f79) | 2026-03-03 05:43 |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 05:43 |
 | Hilti Group | Senior Data Architect | Plano, TX, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=9998eca1dfe5af6d) | 2026-03-03 04:07 |
 | PENNYMAC | Senior Application Developer | Carrollton, TX, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=cc189598639baae0) | 2026-03-03 04:07 |
 | Cognizant | AWS/Python Engineer | Seattle, WA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=188fa78b94de887a) | 2026-03-03 04:07 |
@@ -400,7 +400,6 @@ Last updated: 2026-03-03 05:43
 | BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae0a6ecb46a52f03) | 2026-02-27 06:42 |
 | BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9950a2ee957b024c) | 2026-02-27 06:42 |
 | BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7604b05bdd0ea604) | 2026-02-27 06:42 |
-| TikTok | Senior Data Scientist, Global Data Analytics for Internal Audit Function - AMS | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6b82db82dc8d84bf) | 2026-02-27 05:45 |
 
 
 ---
