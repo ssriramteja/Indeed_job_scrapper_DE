@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 04:07
+Last updated: 2026-03-03 05:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Dematic | Senior Data Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f9bde3d8a51e4f79) | 2026-03-03 05:43 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 05:43 |
 | Hilti Group | Senior Data Architect | Plano, TX, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=9998eca1dfe5af6d) | 2026-03-03 04:07 |
 | PENNYMAC | Senior Application Developer | Carrollton, TX, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=cc189598639baae0) | 2026-03-03 04:07 |
 | Cognizant | AWS/Python Engineer | Seattle, WA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=188fa78b94de887a) | 2026-03-03 04:07 |
@@ -13,7 +15,6 @@ Last updated: 2026-03-03 04:07
 | Amentum | Software Engineer | Huntsville, AL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7f6b50f861d0e9c5) | 2026-03-03 04:07 |
 | Lincoln Financial Group | Sr Analyst, Risk Data Engineering | Radnor, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=52bc5a9a6e784515) | 2026-03-03 04:07 |
 | Delta Air Lines | Senior Data Engineer – Engineering Analytics | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b32e7d55317e214e) | 2026-03-03 04:07 |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 04:07 |
 | Information Technology Senior Management Forum | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=27df93d33bb1e254) | 2026-03-03 04:07 |
 | Fairview Health Services | Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c7d093becf8bff38) | 2026-03-03 04:07 |
 | Toyota North America | Production Engineer (Oracle/Snowflake/Python) | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7435b55b7adadc42) | 2026-03-03 04:07 |
