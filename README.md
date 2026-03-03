@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 08:31
+Last updated: 2026-03-03 09:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 08:31 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 09:33 |
 | APi Group, Inc. | Senior Systems Engineer - Oracle Cloud Infrastructure (OCI) | New Brighton, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6450f77aa7cdc7c1) | 2026-03-03 08:31 |
 | Smile Digital Health | Cloud Engineer- Remote US | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f25625460182eb8e) | 2026-03-03 07:37 |
 | CVS Health | Senior Software Development Engineer | AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6006f51c65e9f139) | 2026-03-03 07:37 |
@@ -426,11 +426,6 @@ Last updated: 2026-03-03 08:31
 | i2c Inc | Sr. Software Engineer - CMG | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14c6d6e2d1865fce) | 2026-02-27 11:26 |
 | JPMorganChase | Software Engineer III - Fullstack with AWS | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d52a4ac4cf61b3b8) | 2026-02-27 10:29 |
 | Coresphere | Salesforce Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=04680e043ccedae6) | 2026-02-27 10:29 |
-| Colgate-Palmolive | Machine Learning Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8347260a96645aa2) | 2026-02-27 09:32 |
-| Cvent | Database Engineer II | Tysons Corner, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e6a5e86c2af0d5a) | 2026-02-27 09:32 |
-| Cvent | Database Engineer II | Tysons Corner, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=131e73fa50f53df2) | 2026-02-27 09:32 |
-| Radiant Digital | Enterprise Architect | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21b7e73d33f00e62) | 2026-02-27 08:32 |
-| nan | Senior AI/Python Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6fc817ac4888de29) | 2026-02-27 08:32 |
 
 
 ---
