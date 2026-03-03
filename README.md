@@ -1,12 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 16:37
+Last updated: 2026-03-03 17:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 16:37 |
+| Quorum Business Solutions | Data Engineer II (Hybrid Work Schedule) | Houston, TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=5f1e509811f28e16) | 2026-03-03 17:36 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 17:36 |
+| CloudRay Inc | Data Engineer - Kafka Connect | IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d5df3111682f7946) | 2026-03-03 17:36 |
+| Hitachi Digital Services | Sr. Data Engineer | Reading, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=09ad7ca6161e3e9e) | 2026-03-03 17:36 |
+| Openkyber | Google Cloud Network Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c97eb9417ef8ebcf) | 2026-03-03 17:36 |
+| Openkyber | Azure Network Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=662840de4364e997) | 2026-03-03 17:36 |
+| Openkyber | Azure Network Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7fc978b16714d0d2) | 2026-03-03 17:36 |
+| Openkyber | AWS Network Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=571ca52ff80cfc56) | 2026-03-03 17:36 |
+| Openkyber | Azure Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29fd50cad36943ce) | 2026-03-03 17:36 |
+| New York Post | Software Engineering Intern | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97d6781b2e7b9433) | 2026-03-03 17:36 |
 | LTIMindtree | Senior Data Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9649d08cb62a9ac0) | 2026-03-03 16:37 |
 | nan | Software Engineer II - Scala | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d148fa8c6ae39fd8) | 2026-03-03 15:40 |
 | NXLog | Platform-DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e7328772f0c8abe) | 2026-03-03 15:40 |
@@ -402,16 +411,6 @@ Last updated: 2026-03-03 16:37
 | RogueSearch | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b30c7e8de15bdeb) | 2026-02-27 18:31 |
 | Hexaware Technologies | Java Full Stack Engineer - Associate | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=473e4f2e4cfe64c5) | 2026-02-27 18:31 |
 | Twilio | Software Engineer - Video | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e6902022dae079f0) | 2026-02-27 18:31 |
-| The Baldwin Group | Sr. Data Engineer | Tampa, FL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1c1ca4fadb364b85) | 2026-02-27 17:28 |
-| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=68c4aadfa37313dc) | 2026-02-27 17:28 |
-| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ba86e480fe3755cd) | 2026-02-27 17:28 |
-| Openkyber | Senior IAM Integration Engineer | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6b82fbb2e1ad7212) | 2026-02-27 17:28 |
-| Openkyber | Senior IAM Integration Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c5e466f53edec490) | 2026-02-27 17:28 |
-| Openkyber | ML Infrastructure Architect | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=341544bd6730c9ac) | 2026-02-27 17:28 |
-| EisnerAmper | AI Platform Architect | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=573d09f867190b28) | 2026-02-27 17:28 |
-| Triwave Solutions Inc | Enterprise Architect | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=244a4415e537c51d) | 2026-02-27 17:28 |
-| CloudRay Inc | Mid-Senior BI / Data Engineer – Oracle HCM Analytics | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c341eb25b16ef9ac) | 2026-02-27 17:28 |
-| Openkyber | Google Cloud Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f180565bedb48a) | 2026-02-27 17:28 |
 
 
 ---
