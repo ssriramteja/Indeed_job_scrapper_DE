@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 12:36
+Last updated: 2026-03-03 13:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 12:36 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 13:54 |
 | HCA Healthcare | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a53eba2ddb1389c4) | 2026-03-03 11:26 |
 | HCA Healthcare | Senior Solution Architect | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a7c80e2086f0d108) | 2026-03-03 11:26 |
 | Ai Vantage | Data Architect | Vienna, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87747bfcd30cdbc2) | 2026-03-03 11:26 |
@@ -419,10 +419,6 @@ Last updated: 2026-03-03 12:36
 | nan | Site Reliability Engineer II | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4420b6c7bc5a59dc) | 2026-02-27 15:32 |
 | nan | Sr Data Engineer | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6f61d4f9e0de29b6) | 2026-02-27 15:32 |
 | Persausive technologies | ERP DEVELOPER | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4cb5a11d2c71308d) | 2026-02-27 14:34 |
-| Bluelight Consulting | Agentic AI Solutions Architect - Remote, Latin America | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=685a2624d1d330a2) | 2026-02-27 13:54 |
-| OneMain Financial | Senior Platform Engineer (Observability & Telemetry) | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=44433f5b77f36c69) | 2026-02-27 13:54 |
-| The Cheesecake Factory | Integrations Analyst | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7f6089961c8465fc) | 2026-02-27 12:38 |
-| Sakuu Corp | Full-Stack Software Engineer, Manufacturing/R&D Data Platform (NestJS, Next.js, Kafka) | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43351bc15987c6d7) | 2026-02-27 12:38 |
 
 
 ---

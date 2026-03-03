@@ -1427,22 +1427,22 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 ## 130. Software Engineer @ Ascensus
 **Match Score:** 11.1%
 
-📍 **Location:** Dresher, PA, US USA
+📍 **Location:** Remote, US USA
 
 🔑 **Keywords:** AWS, RDS, Azure, Scala, MongoDB, DynamoDB, Cassandra, NoSQL, CI/CD, Docker
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2a3b73f36e3384d3)
+[Apply Here](https://www.indeed.com/viewjob?jk=21dda777f28ecb1c)
 
 ---
 
 ## 131. Software Engineer @ Ascensus
 **Match Score:** 11.1%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Newton, MA, US USA
 
 🔑 **Keywords:** AWS, RDS, Azure, Scala, MongoDB, DynamoDB, Cassandra, NoSQL, CI/CD, Docker
 
-[Apply Here](https://www.indeed.com/viewjob?jk=21dda777f28ecb1c)
+[Apply Here](https://www.indeed.com/viewjob?jk=691b9789f526ed3f)
 
 ---
 
