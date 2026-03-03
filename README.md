@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 20:24
+Last updated: 2026-03-03 21:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BGIT India Private Limited | System Integration Test Engineer | Hudson, NH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=426d1d0d6a93918c) | 2026-03-03 21:26 |
+| Tata Consultancy Services (TCS) | Sr DevOPS Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9886d247b0ec7a02) | 2026-03-03 21:26 |
+| PEARLY | Senior Software Engineer - Data Platform | Santa Barbara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=52fbd92226aade92) | 2026-03-03 21:26 |
+| PEARLY | Senior Software Engineer - Data Platform | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e77317858ff838d) | 2026-03-03 21:26 |
+| PEARLY | Senior Software Engineer - Data Platform | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9737f288d965528f) | 2026-03-03 21:26 |
+| MetLife | Full Stack Software Engineer - Observability | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=08caee1edcf07e86) | 2026-03-03 21:26 |
 | Quorum Software | Data Engineer II (Hybrid Work Schedule) | Houston, TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=76a633e7c45d5fa0) | 2026-03-03 20:24 |
 | Popular, Inc. | Sr. Data Modeler | San Juan, PR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6d86b9bb645724e6) | 2026-03-03 20:24 |
 | nan | POS and Systems Integration Administrator | Silver Creek, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=eeab26e4dddac1a9) | 2026-03-03 20:24 |
@@ -406,11 +412,6 @@ Last updated: 2026-03-03 20:24
 | IDEXX Laboratories | AI Enablement Data Engineer | Westbrook, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eed16d28c472ffad) | 2026-02-27 23:17 |
 | SoFi | Senior Software Engineer, Member AI Features | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfffdbe40afac374) | 2026-02-27 23:17 |
 | Intellibee Inc | Sr. Databricks Architect & Developer | Des Moines, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=13cef02d1e7cd394) | 2026-02-27 22:16 |
-| Tata Consultancy Services (TCS) | Senior AI/ML Developer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=61c8a3c6f4ba6dbe) | 2026-02-27 21:21 |
-| Halvik | Data Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=89d69e074834d3c5) | 2026-02-27 21:21 |
-| National Association of Boards of Pharmacy (NABP) | Senior Data Engineer | Model, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2aa97bcb9debb40e) | 2026-02-27 21:21 |
-| Klaviyo | Senior Software Engineer - CICD | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4cd3477fb442eb3) | 2026-02-27 21:21 |
-| Qualcomm | Machine Learning Software Engineer | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=196dc3bc7f2912cf) | 2026-02-27 21:21 |
 
 
 ---
