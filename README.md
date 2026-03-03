@@ -1,12 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 14:38
+Last updated: 2026-03-03 15:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 14:38 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 15:40 |
+| nan | Software Engineer II - Scala | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d148fa8c6ae39fd8) | 2026-03-03 15:40 |
+| NXLog | Platform-DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e7328772f0c8abe) | 2026-03-03 15:40 |
+| Halvik | Junior Full Stack Developer | Alexandria, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=373084662062e4b3) | 2026-03-03 15:40 |
+| Vytwo Technologies | Senior Data Engineer(61249-1) | Prosper, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5fdd13d31dd0aa1) | 2026-03-03 15:40 |
 | AAON | Azure Stack Data Engineer | Tulsa, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20dcbc83d5643838) | 2026-03-03 14:38 |
 | HCA Healthcare | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a53eba2ddb1389c4) | 2026-03-03 11:26 |
 | HCA Healthcare | Senior Solution Architect | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a7c80e2086f0d108) | 2026-03-03 11:26 |
@@ -416,9 +420,6 @@ Last updated: 2026-03-03 14:38
 | Eaton | Senior Data Architect - Analytics Platforms | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=780d004f45bf8f3f) | 2026-02-27 16:31 |
 | Eaton | Senior Data Architect - Analytics Platforms | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0945c969df98f8e0) | 2026-02-27 16:31 |
 | Los Angeles Apparel | Backend Programmer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba0910a235eb75af) | 2026-02-27 16:31 |
-| NRCCUA | Cloud Security Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5d638d27bd496aac) | 2026-02-27 15:32 |
-| nan | Site Reliability Engineer II | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4420b6c7bc5a59dc) | 2026-02-27 15:32 |
-| nan | Sr Data Engineer | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6f61d4f9e0de29b6) | 2026-02-27 15:32 |
 
 
 ---
