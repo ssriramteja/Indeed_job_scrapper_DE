@@ -1,14 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 19:34
+Last updated: 2026-03-03 20:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Quorum Software | Data Engineer II (Hybrid Work Schedule) | Houston, TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=76a633e7c45d5fa0) | 2026-03-03 20:24 |
+| Popular, Inc. | Sr. Data Modeler | San Juan, PR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6d86b9bb645724e6) | 2026-03-03 20:24 |
+| nan | POS and Systems Integration Administrator | Silver Creek, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=eeab26e4dddac1a9) | 2026-03-03 20:24 |
+| Prospect Infosys Inc | Child Support - Senior Full Stack AI/Java Developer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f9d82ce6deb44503) | 2026-03-03 20:24 |
+| nan | AI Engineer | Orlando, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=096d9e696ae3fadd) | 2026-03-03 20:24 |
+| ISHIR | Forward Deployed Engineer (FDE) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15ecc0cd2b5a2111) | 2026-03-03 20:24 |
 | ALTRUIST | Senior Software Engineer, Cloud Infrastructure | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=cc6ad57eba624292) | 2026-03-03 19:34 |
 | ALTRUIST | Senior Software Engineer, Cloud Infrastructure | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=15325ad687b27337) | 2026-03-03 19:34 |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 19:34 |
 | Rancho BioSciences | Associate/Consultant Engineer - Remote | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=72630d316687619c) | 2026-03-03 19:34 |
 | Acrisure LLC | Software Engineer, Data | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2b12dfc8a5459a4f) | 2026-03-03 19:34 |
 | Celestica | Senior AI Engineer, IT Solutions 1 | NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ee982b6d11792f00) | 2026-03-03 19:34 |
@@ -406,11 +411,6 @@ Last updated: 2026-03-03 19:34
 | National Association of Boards of Pharmacy (NABP) | Senior Data Engineer | Model, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2aa97bcb9debb40e) | 2026-02-27 21:21 |
 | Klaviyo | Senior Software Engineer - CICD | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4cd3477fb442eb3) | 2026-02-27 21:21 |
 | Qualcomm | Machine Learning Software Engineer | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=196dc3bc7f2912cf) | 2026-02-27 21:21 |
-| nan | Data Architect | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c8e643c6d74eb444) | 2026-02-27 20:20 |
-| Linde | Sr. Data Engineer | Tonawanda, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f17e8e0a1dc510cf) | 2026-02-27 20:20 |
-| Neighborhood Health Center | Business Intelligence Developer - Power BI | Tigard, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d17a304efb77ff78) | 2026-02-27 20:20 |
-| Guardian Bikes | Senior Analytics Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78011a5d6c324570) | 2026-02-27 20:20 |
-| ECS | BI Reporting Developer I | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebe4ac8a6ea16a0a) | 2026-02-27 20:20 |
 
 
 ---
