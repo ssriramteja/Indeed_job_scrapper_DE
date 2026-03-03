@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 21:26
+Last updated: 2026-03-03 22:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Surgery Partners | Data Engineer | Nashville, TN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=17c87f0de0ddb952) | 2026-03-03 22:20 |
+| ELLKAY, LLC | Sr. Cloud Software Engineer | Elmwood Park, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=28b63f4ef510667a) | 2026-03-03 22:20 |
+| Palomar College | Web Developer | San Marcos, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6dfe8d5c4946b355) | 2026-03-03 22:20 |
+| CapTech Consulting | Data Architect (AWS, Azure, GCP) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3fdaab0a9b0d0cc5) | 2026-03-03 22:20 |
+| Infoorigin Inc | EXECUTIVE - Senior Full Stack AI/Java Developer - Raleigh, NC | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6954fce33a80b920) | 2026-03-03 22:20 |
+| Regions Financial | Infrastructure Architect | Hoover, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0fe0f50a558682d2) | 2026-03-03 22:20 |
+| ELLKAY, LLC | Data Architect | Elmwood Park, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c7bfd917914d4728) | 2026-03-03 22:20 |
+| ABCorp NA Inc. | Sr. Analytics Engineer, Financial & Card Issuance | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d8f6d93b707b783) | 2026-03-03 22:20 |
+| FullPath | Full-Stack Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43ff07c409bb7f44) | 2026-03-03 22:20 |
+| Surgery Partners | Reporting Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=739e08afe4ba1176) | 2026-03-03 22:20 |
 | BGIT India Private Limited | System Integration Test Engineer | Hudson, NH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=426d1d0d6a93918c) | 2026-03-03 21:26 |
 | Tata Consultancy Services (TCS) | Sr DevOPS Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9886d247b0ec7a02) | 2026-03-03 21:26 |
 | PEARLY | Senior Software Engineer - Data Platform | Santa Barbara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=52fbd92226aade92) | 2026-03-03 21:26 |
@@ -411,7 +421,6 @@ Last updated: 2026-03-03 21:26
 | Openkyber | Google Cloud Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f9178a4cbcc55572) | 2026-02-27 23:17 |
 | IDEXX Laboratories | AI Enablement Data Engineer | Westbrook, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eed16d28c472ffad) | 2026-02-27 23:17 |
 | SoFi | Senior Software Engineer, Member AI Features | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfffdbe40afac374) | 2026-02-27 23:17 |
-| Intellibee Inc | Sr. Databricks Architect & Developer | Des Moines, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=13cef02d1e7cd394) | 2026-02-27 22:16 |
 
 
 ---
