@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-03 15:40
+Last updated: 2026-03-03 16:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 15:40 |
+| IPolarity LLC | Data Engineer (Spark \| Hadoop \| Apache Ozone), Berkeley Heights, NJ | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1241769a525bbecb) | 2026-03-03 16:37 |
+| LTIMindtree | Senior Data Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9649d08cb62a9ac0) | 2026-03-03 16:37 |
 | nan | Software Engineer II - Scala | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d148fa8c6ae39fd8) | 2026-03-03 15:40 |
 | NXLog | Platform-DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e7328772f0c8abe) | 2026-03-03 15:40 |
 | Halvik | Junior Full Stack Developer | Alexandria, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=373084662062e4b3) | 2026-03-03 15:40 |
@@ -411,15 +412,6 @@ Last updated: 2026-03-03 15:40
 | Triwave Solutions Inc | Enterprise Architect | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=244a4415e537c51d) | 2026-02-27 17:28 |
 | CloudRay Inc | Mid-Senior BI / Data Engineer – Oracle HCM Analytics | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c341eb25b16ef9ac) | 2026-02-27 17:28 |
 | Openkyber | Google Cloud Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f180565bedb48a) | 2026-02-27 17:28 |
-| Persausive technologies | ERP DEVELOPER | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b6fc1be542dcacf1) | 2026-02-27 16:31 |
-| Roblox | Senior Software Engineer - Marketplace Foundation | San Mateo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71b8c7a77228590a) | 2026-02-27 16:31 |
-| Eaton | Senior Data Architect - Analytics Platforms | Beachwood, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15d02502aba945ef) | 2026-02-27 16:31 |
-| Eaton | Senior Data Architect - Analytics Platforms | Coraopolis, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4eb52e9c6f43c27d) | 2026-02-27 16:31 |
-| Eaton | Senior Data Architect - Analytics Platforms | Galesburg, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1c7ecb6b8d2b3f93) | 2026-02-27 16:31 |
-| Eaton | Senior Data Architect - Analytics Platforms | Menomonee Falls, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b18883612d9ca325) | 2026-02-27 16:31 |
-| Eaton | Senior Data Architect - Analytics Platforms | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=780d004f45bf8f3f) | 2026-02-27 16:31 |
-| Eaton | Senior Data Architect - Analytics Platforms | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0945c969df98f8e0) | 2026-02-27 16:31 |
-| Los Angeles Apparel | Backend Programmer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba0910a235eb75af) | 2026-02-27 16:31 |
 
 
 ---
