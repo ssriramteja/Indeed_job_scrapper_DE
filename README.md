@@ -1,12 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 16:33
+Last updated: 2026-03-04 17:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 16:33 |
+| Openkyber | Junior Oracle Apps Developer | AK, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=0adde35786282b2b) | 2026-03-04 17:33 |
+| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 17:33 |
+| IDBNY | SQL Server Database Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=15c2f3c4f1ddf6ac) | 2026-03-04 17:33 |
+| UP Management LLC | Full Stack Web Developer | Bedford, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2e000e4c87bc0a4b) | 2026-03-04 17:33 |
+| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=be47bff9f1c0f69d) | 2026-03-04 17:33 |
+| Nightwing | Software Engineer (Hybrid) | Sterling, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e65cdb592eb57da5) | 2026-03-04 17:33 |
+| Nightwing | Software Engineer (Hybrid) | Clarksville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e1a1d694cac30055) | 2026-03-04 17:33 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=176afb0ac80a4191) | 2026-03-04 17:33 |
+| Openkyber | Microsoft Entra | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f61688604ed96074) | 2026-03-04 17:33 |
+| Openkyber | Identity AI / ML Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df69083a5f5407d8) | 2026-03-04 17:33 |
 | PlanHub | Senior Software Engineer (Backend) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b63efe5dfc4a026c) | 2026-03-04 16:33 |
 | Charles Schwab | Senior Data Engineer, Client Authentication | Southlake, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a908b362cb914674) | 2026-03-04 15:36 |
 | FICO | Senior Engineer - DevOps/ DataOps | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e1ed15cfc823b0b7) | 2026-03-04 15:36 |
