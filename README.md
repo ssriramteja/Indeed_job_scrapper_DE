@@ -1,11 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 01:14
+Last updated: 2026-03-04 04:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Zifo | Data Engineer/Python Developer | Boston, MA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3419a1d7b4acb559) | 2026-03-04 04:01 |
+| Quilt | Senior Data Engineer | Provo, UT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=27d883fd388e687a) | 2026-03-04 04:01 |
+| Surgery Partners | Data Engineer | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a6c4839e7fe64d8e) | 2026-03-04 04:01 |
+| Tata Consultancy Services (TCS) | Blockchain Java Backend Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e49019e3e57d794c) | 2026-03-04 04:01 |
+| Information Technology Senior Management Forum | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4cc63cdd2328277c) | 2026-03-04 04:01 |
+| Residex, LLC | Software Engineer, AI Analytics | Greenwood Village, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3b994e1736909aed) | 2026-03-04 04:01 |
+| ROLLER | Data Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=afb709659d664135) | 2026-03-04 04:01 |
+| Regions Financial | Cloud Data Engineer + Snowflake (On-Site) | Hoover, AL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=58e9f31119d31013) | 2026-03-04 04:01 |
+| ivo | Software Engineer, Backend | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8bc5aaef611937ad) | 2026-03-04 04:01 |
+| SoFi | Risk Data AI/ML Engineer | Frisco, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=979402388d34b409) | 2026-03-04 04:01 |
+| Powerplan | Senior Databricks AI Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b5753d39b44c782) | 2026-03-04 04:01 |
+| Infosys | GCP Data Engineer | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=503c92a0918e2779) | 2026-03-04 04:01 |
+| MKS2 Technologies | API Developer Jr. | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=976d4320b891418b) | 2026-03-04 04:01 |
+| MKS2 Technologies | API Developer, Mid | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=982682f617c5fe52) | 2026-03-04 04:01 |
+| Surgery Partners | Reporting Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=57ca41478bb936cd) | 2026-03-04 04:01 |
+| General Motors (GM) | Entry-Level Data Engineer | Warren, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd80dc2e6636141e) | 2026-03-04 04:01 |
+| Lyric | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b5cdc524b199967) | 2026-03-04 04:01 |
 | Realign | Full Stack Engineer (React + Node.js)-4 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e082e26fc29250a3) | 2026-03-04 01:14 |
 | LTIMindtree | Senior Software Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0997a11d6aaf4e73) | 2026-03-04 01:14 |
 | Chewy | Software Engineer II, | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b4edb591674d441f) | 2026-03-04 01:14 |
@@ -385,21 +402,6 @@ Last updated: 2026-03-04 01:14
 | Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1af3ad4538a91c4a) | 2026-02-28 05:27 |
 | Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6a11ef26223f8a95) | 2026-02-28 05:27 |
 | KLA | Software Engineer - Test Automation | Milpitas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=463a562e09f02043) | 2026-02-28 04:49 |
-| General Motors (GM) | AI/ML Data Scientist (GPSSC) | Warren, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=814016ce86a7c72d) | 2026-02-28 03:48 |
-| Scotiabank | Senior Platform Engineer | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=396e79600c7b7785) | 2026-02-28 03:48 |
-| Prudential | Senior Software Engineer | Newark, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b65fc3a984a32f89) | 2026-02-28 03:48 |
-| Tata Consultancy Services (TCS) | Databricks Data Engineer | Deerfield, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=43abcc36eb8446d5) | 2026-02-28 03:48 |
-| ABI Document Support Services | Data Engineer | Loma Linda, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=50896f9c545c8e6b) | 2026-02-28 03:48 |
-| Accenture | Cloud Platform Architect 6184507 | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b93cf16a3466a8f1) | 2026-02-28 03:48 |
-| F5 | Enterprise Architect | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7cee24ab74b8d09) | 2026-02-28 03:48 |
-| Sifted | Software Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=18bfc6e6a18ce553) | 2026-02-28 03:48 |
-| Cornerstone OnDemand | Senior AI Architect | Dublin, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8d95a5ce61d1bd23) | 2026-02-28 03:48 |
-| CARVANA | Software Engineer, LLM Platform | Tempe, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b9642207c5b2cc59) | 2026-02-28 03:48 |
-| Regions Financial | ETL Developer - On-Site | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2c192fc13269c775) | 2026-02-28 03:48 |
-| Fiserv | Senior Data Engineer/Analyst | Berkeley Heights, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c24add604f0e3d4c) | 2026-02-28 03:48 |
-| Scotiabank | Data Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1a19fc16385452e) | 2026-02-28 03:48 |
-| Symmetry Lending | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef450d5d3b12f873) | 2026-02-28 03:48 |
-| Equifax | Software Engineer - Intermediate | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee15734bdb43fdbc) | 2026-02-28 03:48 |
 
 
 ---
