@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 05:38
+Last updated: 2026-03-04 06:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ncontracts | Analytics Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=da52963e4860aaaa) | 2026-03-04 06:36 |
+| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 06:36 |
 | Snowflake | Senior Data Cloud Architect - SI Partners | MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba51b24a2f032664) | 2026-03-04 05:38 |
-| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 05:38 |
 | Velvetech | AI Solution Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6435ac5193c56de) | 2026-03-04 05:38 |
 | American Express | Software Engineer (Backend) - Global Dining | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8f71d52efce43e2) | 2026-03-04 05:38 |
 | Skechers | Data Scientist | Hermosa Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bf4b62fe049b84e) | 2026-03-04 05:38 |
@@ -379,15 +380,6 @@ Last updated: 2026-03-04 05:38
 | Cornerstone OnDemand | Senior Software Engineer | Dublin, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80bd47c732eab56e) | 2026-02-28 08:19 |
 | UniFirst | MuleSoft QA Engineer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0790b5b13b42987f) | 2026-02-28 07:21 |
 | UniFirst | MuleSoft Developer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6898ec6223252736) | 2026-02-28 07:21 |
-| Humana | Senior, AI Platform Engineer | Frisco, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c1465abac94aef44) | 2026-02-28 06:27 |
-| Humana | Senior, AI Platform Engineer | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=127d50b68ee25934) | 2026-02-28 06:27 |
-| Humana | Senior, AI Platform Engineer | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=02a62279dd7d6ceb) | 2026-02-28 06:27 |
-| Humana | Senior, AI Platform Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=82271fe81048d340) | 2026-02-28 06:27 |
-| smartbridge, LLC | Power BI Architect Consultant | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1f5a84578fa6353d) | 2026-02-28 06:27 |
-| U.S. Bank | Senior Software Engineer - Full Stack | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7478241a40f20926) | 2026-02-28 06:27 |
-| U.S. Bank | Solutions Architect - Data Solutions (MS SQL Server & Oracle, AWS) | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=226aa9de4680594d) | 2026-02-28 06:27 |
-| U.S. Bank | Solutions Architect - Data Solutions (MS SQL Server & Oracle, AWS) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4680be027f6217fa) | 2026-02-28 06:27 |
-| ioet | Senior Python Backend Engineer | Incline Village, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1bdf76bdee6d63f2) | 2026-02-28 06:27 |
 
 
 ---
