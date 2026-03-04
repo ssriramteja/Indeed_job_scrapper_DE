@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 11:24
+Last updated: 2026-03-04 12:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Cheesecake Factory | Senior Data Engineer | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bf6f08ab2860bc5c) | 2026-03-04 12:36 |
+| Blue Wing Technical | LMS Administrator | Decatur, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6ea5eba4ba63388f) | 2026-03-04 12:36 |
+| Barclays | Incremental CRM - Data Developer 1 | Whippany, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c7931e975a12585) | 2026-03-04 12:36 |
+| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 12:36 |
 | ALTRUIST | Senior Software Engineer, Cloud Infrastructure | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b2b2e3b90367f3b4) | 2026-03-04 11:24 |
 | ALTRUIST | Senior Software Engineer, Cloud Infrastructure | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=15721c69bc524693) | 2026-03-04 11:24 |
-| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 11:24 |
 | JPMorganChase | Software Engineer III: DevOps | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bc952e4224a3aa24) | 2026-03-04 10:28 |
 | Waters | Sr Data Engineer | Milford, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1975adb5bfc7de33) | 2026-03-04 10:28 |
 | Seismic | Senior Software Engineer II - AI/ML | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d0bc9a390582054) | 2026-03-04 09:32 |
