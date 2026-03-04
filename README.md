@@ -1,18 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 20:24
+Last updated: 2026-03-04 21:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Real Time Medical Systems | Sr. Data Platform Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=415686b53cfda723) | 2026-03-04 21:26 |
+| Real Time Medical Systems | Sr. Data Platform Engineer | Columbia, MD, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=41a92f9802d4f918) | 2026-03-04 21:26 |
+| NMI | Google Cloud Data Engineer | Schaumburg, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e7cac4b03aa7cfe7) | 2026-03-04 21:26 |
+| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 21:26 |
+| SRR Consultants | Data Engineer | Piscataway, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=88619a1e983eef30) | 2026-03-04 21:26 |
+| TRM Labs | Senior Data Engineer, Data Lakehouse Infrastructure | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e899ea40640da235) | 2026-03-04 21:26 |
+| TRM Labs | Senior Data Engineer, Data Product | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=351b720407fa6f6d) | 2026-03-04 21:26 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a8b55e090bbab627) | 2026-03-04 21:26 |
+| TRM Labs | Senior Software Engineer, Data Platform | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a517be0e10b2a44) | 2026-03-04 21:26 |
+| TRM Labs | Senior Data Engineer, Data Platform | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=60f6c2aecd2d1bdf) | 2026-03-04 21:26 |
+| Appex Innovation | AWS Data Engineer | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f3534222ab81e17) | 2026-03-04 21:26 |
+| Ford Motor Company | Cloud Infrastructure Architect | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=518fd46821df25d8) | 2026-03-04 21:26 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6304fa25b90dcc51) | 2026-03-04 21:26 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9a4e15b6a0305b12) | 2026-03-04 21:26 |
+| Equifax | Software Engineer - Master | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fb1207979169793) | 2026-03-04 21:26 |
+| TRM Labs | Senior Analytics Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dcb7ea8003fbc5dc) | 2026-03-04 21:26 |
+| TRM Labs | Senior Data Engineer, Attribution Expansion | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=539a18aebac4ef5f) | 2026-03-04 21:26 |
+| TRM Labs | Senior Data Engineer, Attribution Expansion | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=26436308d22e947d) | 2026-03-04 21:26 |
 | Jersey Mikes Corporate | Data Engineer | Tinton Falls, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=31cf41e0387f0b72) | 2026-03-04 20:24 |
-| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 20:24 |
 | Seqster PDM, Inc | AWS DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=191c0857581cffe3) | 2026-03-04 20:24 |
 | Hunter Industries | Software Engineer - Backend/Cloud Services | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ab5afc3cedfad680) | 2026-03-04 20:24 |
-| Ford Motor Company | Cloud Infrastructure Architect | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=518fd46821df25d8) | 2026-03-04 20:24 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6304fa25b90dcc51) | 2026-03-04 20:24 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9a4e15b6a0305b12) | 2026-03-04 20:24 |
 | Vytwo Technologies | AI/ML Architect with Databricks , AWS | Prosper, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=29c402e4a2f5220b) | 2026-03-04 19:33 |
 | SCAN Health Plan | Analytics, Full-Stack Engineer | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c24274a4aa989f95) | 2026-03-04 19:33 |
 | EoS Fitness | Senior Data Engineer - Microsoft Fabric | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7bd7f3590528db3c) | 2026-03-04 19:33 |
