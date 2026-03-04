@@ -1,17 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 19:33
+Last updated: 2026-03-04 20:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Jersey Mikes Corporate | Data Engineer | Tinton Falls, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=31cf41e0387f0b72) | 2026-03-04 20:24 |
+| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 20:24 |
+| Seqster PDM, Inc | AWS DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=191c0857581cffe3) | 2026-03-04 20:24 |
+| Hunter Industries | Software Engineer - Backend/Cloud Services | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ab5afc3cedfad680) | 2026-03-04 20:24 |
+| Ford Motor Company | Cloud Infrastructure Architect | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=518fd46821df25d8) | 2026-03-04 20:24 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6304fa25b90dcc51) | 2026-03-04 20:24 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9a4e15b6a0305b12) | 2026-03-04 20:24 |
 | Vytwo Technologies | AI/ML Architect with Databricks , AWS | Prosper, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=29c402e4a2f5220b) | 2026-03-04 19:33 |
-| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 19:33 |
 | SCAN Health Plan | Analytics, Full-Stack Engineer | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c24274a4aa989f95) | 2026-03-04 19:33 |
 | EoS Fitness | Senior Data Engineer - Microsoft Fabric | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7bd7f3590528db3c) | 2026-03-04 19:33 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6304fa25b90dcc51) | 2026-03-04 19:33 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9a4e15b6a0305b12) | 2026-03-04 19:33 |
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=40b321afc8939ff9) | 2026-03-04 19:33 |
 | ACV Auctions | Senior Data Engineer, ACVMax | Buffalo, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6c28dd5d00192a5b) | 2026-03-04 18:36 |
 | SRS Distribution | Analytics Engineer | McKinney, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4cde050af8749e53) | 2026-03-04 18:36 |
