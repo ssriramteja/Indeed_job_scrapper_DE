@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 08:29
+Last updated: 2026-03-04 09:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 09:32 |
+| Seismic | Senior Software Engineer II - AI/ML | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d0bc9a390582054) | 2026-03-04 09:32 |
+| GEI Consultants | Sr. Software Developer/Programmer | Davis, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ce420e446403a9d) | 2026-03-04 09:32 |
+| Rivian | Sr. Software Engineer, Data, Autonomy | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a3560765ed8e488) | 2026-03-04 09:32 |
+| Rivian | Sr. Data Engineer, Enterprise Data & Analytics | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b74ac1e46b3dfa89) | 2026-03-04 09:32 |
 | Deloitte | Databricks Data Engineer - Consultant | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7167050c109be2d4) | 2026-03-04 08:29 |
 | Deloitte | Databricks Data Engineer - Consultant | Tempe, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=862a4a8989448fa0) | 2026-03-04 08:29 |
 | Deloitte | Databricks Data Engineer - Consultant | McLean, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=07e542bb4713fad0) | 2026-03-04 08:29 |
@@ -40,7 +45,6 @@ Last updated: 2026-03-04 08:29
 | Deloitte | Databricks Data Engineer - Consultant | Sacramento, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2a56481df82d7aa6) | 2026-03-04 08:29 |
 | Deloitte | Databricks Data Engineer - Consultant | Denver, CO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=fb00c80fb9cb9b65) | 2026-03-04 08:29 |
 | Deloitte | Databricks Data Engineer - Consultant | Miami, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3fd1863254c88e5d) | 2026-03-04 08:29 |
-| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 08:29 |
 | Deloitte | Azure Data Engineer | Gilbert, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=110f275787ec7bdb) | 2026-03-04 08:29 |
 | Alter Domus | Senior Data Engineer - Data Governance | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3d83b504ed46b0c) | 2026-03-04 08:29 |
 | BILL | Senior Database Reliability Engineer (Oracle & Automation Focus) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=104eb630cab2bc86) | 2026-03-04 07:33 |
@@ -413,7 +417,6 @@ Last updated: 2026-03-04 08:29
 | American Express | Data Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=424f6b090b8c9279) | 2026-02-28 11:12 |
 | The Cadmus Group, Inc. | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c78a1ef66cf949e) | 2026-02-28 10:15 |
 | JPMorganChase | Software Engineer III - DevOps Automation Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f682083d0dc40d6) | 2026-02-28 10:15 |
-| Tata Consultancy Services (TCS) | NoSQL DBA | Hopkins, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=483159feaebbb175) | 2026-02-28 09:18 |
 
 
 ---
