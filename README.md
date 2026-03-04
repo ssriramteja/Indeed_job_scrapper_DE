@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 09:32
+Last updated: 2026-03-04 10:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 09:32 |
+| JPMorganChase | Software Engineer III: DevOps | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bc952e4224a3aa24) | 2026-03-04 10:28 |
+| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 10:28 |
+| Waters | Sr Data Engineer | Milford, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1975adb5bfc7de33) | 2026-03-04 10:28 |
 | Seismic | Senior Software Engineer II - AI/ML | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d0bc9a390582054) | 2026-03-04 09:32 |
 | GEI Consultants | Sr. Software Developer/Programmer | Davis, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ce420e446403a9d) | 2026-03-04 09:32 |
 | Rivian | Sr. Software Engineer, Data, Autonomy | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a3560765ed8e488) | 2026-03-04 09:32 |
@@ -415,8 +417,6 @@ Last updated: 2026-03-04 09:32
 | Allstate Insurance | Cloud Platform Engineer (ML DevOps) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c7f5dba6447d1b44) | 2026-02-28 14:15 |
 | nan | SR SOFTWARE ENGINEER | Blue Ash, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3729be3511fd845) | 2026-02-28 14:15 |
 | American Express | Data Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=424f6b090b8c9279) | 2026-02-28 11:12 |
-| The Cadmus Group, Inc. | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c78a1ef66cf949e) | 2026-02-28 10:15 |
-| JPMorganChase | Software Engineer III - DevOps Automation Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f682083d0dc40d6) | 2026-02-28 10:15 |
 
 
 ---
