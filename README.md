@@ -1,13 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 14:33
+Last updated: 2026-03-04 15:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charles Schwab | Senior Data Engineer, Client Authentication | Southlake, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a908b362cb914674) | 2026-03-04 15:36 |
+| FICO | Senior Engineer - DevOps/ DataOps | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e1ed15cfc823b0b7) | 2026-03-04 15:36 |
+| nan | Software Engineer II | Glendale, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a021dbda97cc3405) | 2026-03-04 15:36 |
+| Hitachi Digital Services | Senior Data Engineer | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=33510d4bb406c6e2) | 2026-03-04 15:36 |
+| Disney Experiences | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0a7ddc3760328a54) | 2026-03-04 15:36 |
+| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 15:36 |
+| Halo Creative & Media LLP | Senior Data Engineer | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=371d6385735b0f59) | 2026-03-04 15:36 |
 | Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9188fd233f524c42) | 2026-03-04 14:33 |
-| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 14:33 |
 | Capital One | Senior Software Engineer, Back End (Java, Go, AWS) | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e1b9bbef981d9232) | 2026-03-04 14:33 |
 | Rogue Community College | Database Administrator | OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f9335cc41b5edf2) | 2026-03-04 13:52 |
 | The Cheesecake Factory | Senior Data Engineer | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bf6f08ab2860bc5c) | 2026-03-04 12:36 |
@@ -421,7 +427,6 @@ Last updated: 2026-03-04 14:33
 | Eaton | Senior Data Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4f429cf999244a1a) | 2026-02-28 16:17 |
 | Eaton | Senior Data Architect | Beachwood, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96b26560d478e414) | 2026-02-28 16:17 |
 | Eaton | Senior Data Architect | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d77c13ca89923a3) | 2026-02-28 16:17 |
-| Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e25e29cf79bdd7cd) | 2026-02-28 15:15 |
 
 
 ---
