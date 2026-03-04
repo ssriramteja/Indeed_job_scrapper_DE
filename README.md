@@ -1,19 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 22:23
+Last updated: 2026-03-04 23:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Creative Information Technology India | Enterprise Data Platform Engineer – Washington, DC | Falls Church, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0a74e373b48da5fc) | 2026-03-04 23:22 |
+| Cloudious | Google Cloud Data Architect | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=73dc517b82db140b) | 2026-03-04 23:22 |
+| NavitasPartners | Cloud Data Platform Administrator - 26-02191 | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3695a4ce423ac8e5) | 2026-03-04 23:22 |
+| NavitasPartners | Cloud Data Platform Administrator - 26-02191 | Alexandria, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=67be12c15c92c4c5) | 2026-03-04 23:22 |
+| NavitasPartners | Cloud Data Platform Administrator - 26-02191 | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=861fabb5acea2ca4) | 2026-03-04 23:22 |
+| NavitasPartners | Cloud Data Platform Administrator - 26-02191 | Baltimore, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6235a9d4364b9757) | 2026-03-04 23:22 |
+| Openkyber | SSO Administrator | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a9064a81c91aa262) | 2026-03-04 23:22 |
+| JPMorganChase | Software Engineer III - Java/Spark/AWS | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c95674c932d41fb6) | 2026-03-04 23:22 |
+| Michael Kors | Tableau Developer | East Rutherford, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=904e084e965a45c4) | 2026-03-04 23:22 |
+| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f9637232a826c3ad) | 2026-03-04 23:22 |
+| Astronomer | Customer Reliability Engineer, Airflow | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6ac244565083c1d9) | 2026-03-04 23:22 |
+| American Express | Data Engineer - GRC Technology | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8842e67bf37c518a) | 2026-03-04 23:22 |
+| NBCUniversal | Sr. Data Engineer, Engineering & Ops | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df536a2594fa5881) | 2026-03-04 23:22 |
 | nan | AI/ML Architect with Databricks , AWS | Prosper, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5774b4765e1a54ce) | 2026-03-04 22:23 |
 | Cloudious | aws Databricks architect | Los Angeles, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=03a1eccc5605f732) | 2026-03-04 22:23 |
 | Pantherx Specialty Llc | SQL Developer - Enterprise Data & Analytics | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=41d495363374161e) | 2026-03-04 22:23 |
 | Recursion Technologies, Inc | Systems Engineer | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6138105d361c110c) | 2026-03-04 22:23 |
 | CNH Industrial | Senior Software Engineer | Oak Brook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5b3837921976566) | 2026-03-04 22:23 |
-| Ford Motor Company | Cloud Infrastructure Architect | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=518fd46821df25d8) | 2026-03-04 22:23 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6304fa25b90dcc51) | 2026-03-04 22:23 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9a4e15b6a0305b12) | 2026-03-04 22:23 |
 | Fiserv | Cyber Architecture - Sr Advisor II | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6692a3fd9db94db) | 2026-03-04 22:23 |
 | Proxet | Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2c123eaea5e60741) | 2026-03-04 22:23 |
 | Real Time Medical Systems | Sr. Data Platform Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=415686b53cfda723) | 2026-03-04 21:26 |
@@ -464,8 +474,6 @@ Last updated: 2026-03-04 22:23
 | Deloitte | Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a677917152c7ba4a) | 2026-03-01 08:21 |
 | GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24e1bdbed934be1c) | 2026-03-01 04:15 |
 | GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c61f3a7795625e6) | 2026-03-01 04:15 |
-| Harley-Davidson, Inc. | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4cf195aaa007f2e9) | 2026-02-28 23:15 |
-| PCD Systems | Desarrollador/a Python | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=acc8bd8fffcdf6ca) | 2026-02-28 23:15 |
 
 
 ---
