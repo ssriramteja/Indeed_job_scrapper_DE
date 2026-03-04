@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 13:52
+Last updated: 2026-03-04 14:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 13:52 |
+| Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9188fd233f524c42) | 2026-03-04 14:33 |
+| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 14:33 |
+| Capital One | Senior Software Engineer, Back End (Java, Go, AWS) | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e1b9bbef981d9232) | 2026-03-04 14:33 |
 | Rogue Community College | Database Administrator | OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f9335cc41b5edf2) | 2026-03-04 13:52 |
 | The Cheesecake Factory | Senior Data Engineer | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bf6f08ab2860bc5c) | 2026-03-04 12:36 |
 | Blue Wing Technical | LMS Administrator | Decatur, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6ea5eba4ba63388f) | 2026-03-04 12:36 |
@@ -420,8 +422,6 @@ Last updated: 2026-03-04 13:52
 | Eaton | Senior Data Architect | Beachwood, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96b26560d478e414) | 2026-02-28 16:17 |
 | Eaton | Senior Data Architect | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d77c13ca89923a3) | 2026-02-28 16:17 |
 | Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e25e29cf79bdd7cd) | 2026-02-28 15:15 |
-| Allstate Insurance | Cloud Platform Engineer (ML DevOps) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c7f5dba6447d1b44) | 2026-02-28 14:15 |
-| nan | SR SOFTWARE ENGINEER | Blue Ash, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3729be3511fd845) | 2026-02-28 14:15 |
 
 
 ---
