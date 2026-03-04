@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 04:01
+Last updated: 2026-03-04 05:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Snowflake | Senior Data Cloud Architect - SI Partners | MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba51b24a2f032664) | 2026-03-04 05:38 |
+| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 05:38 |
+| Velvetech | AI Solution Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6435ac5193c56de) | 2026-03-04 05:38 |
+| American Express | Software Engineer (Backend) - Global Dining | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8f71d52efce43e2) | 2026-03-04 05:38 |
+| Skechers | Data Scientist | Hermosa Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bf4b62fe049b84e) | 2026-03-04 05:38 |
 | Zifo | Data Engineer/Python Developer | Boston, MA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3419a1d7b4acb559) | 2026-03-04 04:01 |
 | Quilt | Senior Data Engineer | Provo, UT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=27d883fd388e687a) | 2026-03-04 04:01 |
 | Surgery Partners | Data Engineer | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a6c4839e7fe64d8e) | 2026-03-04 04:01 |
@@ -383,25 +388,6 @@ Last updated: 2026-03-04 04:01
 | U.S. Bank | Solutions Architect - Data Solutions (MS SQL Server & Oracle, AWS) | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=226aa9de4680594d) | 2026-02-28 06:27 |
 | U.S. Bank | Solutions Architect - Data Solutions (MS SQL Server & Oracle, AWS) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4680be027f6217fa) | 2026-02-28 06:27 |
 | ioet | Senior Python Backend Engineer | Incline Village, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1bdf76bdee6d63f2) | 2026-02-28 06:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fed890816f98c21a) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d2929ef2c2fdd0d) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a12df91b6cdc7fa6) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Sacramento, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=796c61e06a65c276) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=39347208d21394c6) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Knoxville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e1b9627aebac5d14) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5261cc1a75e4d83d) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=decc7b3883a9daaa) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06028d30fc6be51b) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fe64a55728ceb6d6) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=94f07af49dfee5a1) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8070145be149f2e3) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da0046da80953ecb) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=38490842631d2458) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d19c1c5238e77c52) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3ae2fd505156bc28) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1af3ad4538a91c4a) | 2026-02-28 05:27 |
-| Crowe LLP | Data Solutions Senior Architect - Financial Data, Compliance & Business Intelligence | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6a11ef26223f8a95) | 2026-02-28 05:27 |
-| KLA | Software Engineer - Test Automation | Milpitas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=463a562e09f02043) | 2026-02-28 04:49 |
 
 
 ---
