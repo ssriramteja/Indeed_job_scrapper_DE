@@ -1,14 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 18:36
+Last updated: 2026-03-04 19:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Vytwo Technologies | AI/ML Architect with Databricks , AWS | Prosper, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=29c402e4a2f5220b) | 2026-03-04 19:33 |
+| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 19:33 |
+| SCAN Health Plan | Analytics, Full-Stack Engineer | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c24274a4aa989f95) | 2026-03-04 19:33 |
+| EoS Fitness | Senior Data Engineer - Microsoft Fabric | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7bd7f3590528db3c) | 2026-03-04 19:33 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6304fa25b90dcc51) | 2026-03-04 19:33 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9a4e15b6a0305b12) | 2026-03-04 19:33 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=40b321afc8939ff9) | 2026-03-04 19:33 |
 | ACV Auctions | Senior Data Engineer, ACVMax | Buffalo, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6c28dd5d00192a5b) | 2026-03-04 18:36 |
 | SRS Distribution | Analytics Engineer | McKinney, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4cde050af8749e53) | 2026-03-04 18:36 |
-| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 18:36 |
 | PGA TOUR Superstore | Senior Data Engineer | Roswell, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73bdb2d180484ce2) | 2026-03-04 18:36 |
 | CommunityForce Inc. | Salesforce Architect - Senior | Ashburn, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7d236cba8a6e8ae3) | 2026-03-04 18:36 |
 | Callaway Golf | Sr Data Engineer | Carlsbad, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2cf949704a694c55) | 2026-03-04 18:36 |
@@ -436,7 +442,6 @@ Last updated: 2026-03-04 18:36
 | GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c61f3a7795625e6) | 2026-03-01 04:15 |
 | Harley-Davidson, Inc. | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4cf195aaa007f2e9) | 2026-02-28 23:15 |
 | PCD Systems | Desarrollador/a Python | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=acc8bd8fffcdf6ca) | 2026-02-28 23:15 |
-| SAP | SAP NS2 SuccessFactors Payroll Integration Expert and ABAP Professional | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32b3fe14b4fffbc1) | 2026-02-28 19:15 |
 
 
 ---
