@@ -1,13 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 17:33
+Last updated: 2026-03-04 18:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ACV Auctions | Senior Data Engineer, ACVMax | Buffalo, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6c28dd5d00192a5b) | 2026-03-04 18:36 |
+| SRS Distribution | Analytics Engineer | McKinney, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4cde050af8749e53) | 2026-03-04 18:36 |
+| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 18:36 |
+| PGA TOUR Superstore | Senior Data Engineer | Roswell, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73bdb2d180484ce2) | 2026-03-04 18:36 |
+| CommunityForce Inc. | Salesforce Architect - Senior | Ashburn, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7d236cba8a6e8ae3) | 2026-03-04 18:36 |
+| Callaway Golf | Sr Data Engineer | Carlsbad, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2cf949704a694c55) | 2026-03-04 18:36 |
+| Westchester Medical Center Health Network | Analytics Engineer | Valhalla, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d807a7856ebe08db) | 2026-03-04 18:36 |
 | Openkyber | Junior Oracle Apps Developer | AK, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=0adde35786282b2b) | 2026-03-04 17:33 |
-| The Walt Disney Company | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39a6c4ab9efc012e) | 2026-03-04 17:33 |
 | IDBNY | SQL Server Database Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=15c2f3c4f1ddf6ac) | 2026-03-04 17:33 |
 | UP Management LLC | Full Stack Web Developer | Bedford, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2e000e4c87bc0a4b) | 2026-03-04 17:33 |
 | Openkyber | Senior Cloud IAM Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=be47bff9f1c0f69d) | 2026-03-04 17:33 |
