@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 08:31
+Last updated: 2026-03-05 09:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Novolex | IT Data Engineer | Lake Forest, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=024a63ca708c8a8f) | 2026-03-05 09:34 |
 | Inspira Financial | Sr. Software Engineer (Remote) | Oak Brook, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1733261c550fa238) | 2026-03-05 08:31 |
 | Inspira Financial | Sr. Software Engineer (Remote) | Oak Brook, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5d0e899d198425eb) | 2026-03-05 08:31 |
 | NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f85f1e8c0778adba) | 2026-03-05 08:31 |
