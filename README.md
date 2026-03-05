@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 19:10
+Last updated: 2026-03-05 20:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| eGrove Systems Corporation | Data Engineer – DE20260503002 | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6093ead5fe385f5d) | 2026-03-05 20:30 |
+| nan | Senior Data Engineer - INDIA | Prosper, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f8eebff65cda31d0) | 2026-03-05 20:30 |
+| nan | Senior Systems Administrator, Cloud (GTA) | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=094fcc384185954f) | 2026-03-05 20:30 |
+| Alight Solutions | Cloud Platform Engineer - Virtual | IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a286c7ca862c4e1a) | 2026-03-05 20:30 |
+| HJ Staffing | Advisor Application Designer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a988f0c0aeaa0fa5) | 2026-03-05 20:30 |
+| LERETA, LLC | Senior Data Engineer | Pomona, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad5d067156fc62f1) | 2026-03-05 20:30 |
+| Allstate Insurance | Applied Machine Learning Engineer (All Levels) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1910fa4b9572adb) | 2026-03-05 20:30 |
+| Capgemini Government Solutions | Sr. ETL/SQL Engineer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=724ffe7f1d3da135) | 2026-03-05 20:30 |
+| WesBanco Bank, Inc. | Senior Data Engineer - Data & Analytics | Bowie, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3a02cdb2b181be3) | 2026-03-05 20:30 |
+| WesBanco Bank, Inc. | Senior Data Engineer - Data & Analytics | Wheeling, WV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb6ee55d393e301c) | 2026-03-05 20:30 |
+| HJ Staffing | Advisor Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20d4ea50920ad807) | 2026-03-05 20:30 |
 | Systems Engineering Solutions Corporation | System Architect | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=634fcd15ef04d7bf) | 2026-03-05 19:10 |
 | Accenture | Senior Application Platform Architect - 6163848 | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ea7fc0fae83610a) | 2026-03-05 19:10 |
 | KNIT | Senior Full Stack Engineer (NYC) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f0457dc96d28b81f) | 2026-03-05 19:10 |
