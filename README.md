@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 14:41
+Last updated: 2026-03-05 15:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capital One | Senior Data Engineer | Cambridge, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=32d044bc27a4af8a) | 2026-03-05 15:42 |
+| Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=aed60e56cae31294) | 2026-03-05 15:42 |
+| Capital One | Senior Data Engineer | Richmond, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=44f958ba0cbc0f43) | 2026-03-05 15:42 |
+| Koch | Data Architect | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e83bd0fd320bb829) | 2026-03-05 15:42 |
+| Koch | Data Architect | Tulsa, OK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=105f562c4b87c831) | 2026-03-05 15:42 |
+| Koch | Data Architect | Wichita, KS, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56a2fccd9b09c654) | 2026-03-05 15:42 |
+| Charles Schwab | Full Stack Developer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=022d9e279d3ddb80) | 2026-03-05 15:42 |
+| Capital One | Senior Software Engineer, Back End (Python) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f65ac6c3f1cf1646) | 2026-03-05 15:42 |
+| Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aedcadc853d15f82) | 2026-03-05 15:42 |
 | Visa | Software Engineer, Intern - Summer 2026, Austin | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dd858b6050894467) | 2026-03-05 14:41 |
 | ADNET Systems, Inc | GD162 Senior Software Systems Engineer & Architect | Greenbelt, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef183b27f01923fb) | 2026-03-05 13:57 |
 | Hard Rock International | Database Administrator | Hollywood, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=169d4a00d377fdae) | 2026-03-05 13:57 |
