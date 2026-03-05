@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 15:42
+Last updated: 2026-03-05 17:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Realign | Full Stack Engineer (React + Node.js)-5 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=01d5f2b9fa96100b) | 2026-03-05 17:55 |
+| AmeriLife | Data Engineer | Philadelphia, PA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=857bb2d652273e9a) | 2026-03-05 17:55 |
+| GRAY MEDIA | CLOUD ENGINEER (AWS) (REMOTE/USA) - GDM (GRAY MEDIA GROUP) | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0beb94e2f1648144) | 2026-03-05 17:55 |
+| Upstart | Senior Analytics Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3dab96c17b78fc32) | 2026-03-05 17:55 |
+| nan | SENIOR DATA ENGINEER | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bee5a340a7f65e61) | 2026-03-05 17:55 |
+| Realign | Data Platform Engineer-3 | Parsippany-Troy Hills, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f753e538739bd670) | 2026-03-05 17:55 |
+| Space Telescope Science Institute | Senior Data Platform Engineer | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6055970eb603df79) | 2026-03-05 17:55 |
+| CareSource | AI Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=640c68fe3716b1e6) | 2026-03-05 17:55 |
+| Centene | Senior Site Reliability Engineer | MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11d92da9c37770a7) | 2026-03-05 17:55 |
+| RAMSOFT | Software Developer - Database Engineer | CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ce0ac7d0a937f32) | 2026-03-05 17:55 |
 | Capital One | Senior Data Engineer | Cambridge, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=32d044bc27a4af8a) | 2026-03-05 15:42 |
 | Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=aed60e56cae31294) | 2026-03-05 15:42 |
 | Capital One | Senior Data Engineer | Richmond, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=44f958ba0cbc0f43) | 2026-03-05 15:42 |
