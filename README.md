@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 05:42
+Last updated: 2026-03-05 06:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Valvoline Global Operations | Senior Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ab16510fd1c2841d) | 2026-03-05 06:40 |
+| TD Bank | Java Software Engineer II (US) | Mount Laurel, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8ee89e940b02cc06) | 2026-03-05 06:40 |
+| Adobe | Sr. Data Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd1518c4c02c12ef) | 2026-03-05 06:40 |
 | Munich Re | Application Developer | Amelia, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1c8f07e938168692) | 2026-03-05 05:42 |
 | Appex Innovation | AWS Data Engineer | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3886cb86a753634c) | 2026-03-05 05:42 |
 | Truist | Data Platform Engineer - Alteryx Platform Management | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a738d45466c580a9) | 2026-03-05 05:42 |
