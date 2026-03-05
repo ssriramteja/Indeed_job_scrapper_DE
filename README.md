@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 21:26
+Last updated: 2026-03-05 22:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tenable | Senior Software Engineer | Columbia, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b05ba9e572547c57) | 2026-03-05 22:23 |
+| Tata Consultancy Services (TCS) | Sr Data Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=afa51ac883fa48a6) | 2026-03-05 22:23 |
+| NTT DATA | Azure CI/CD Developer (FTE / Hybrid) | Oaks, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ffe5d7e4f5833213) | 2026-03-05 22:23 |
+| Clearwater Analytics (CWAN) | Sr Software Development Engineer | Boise, ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6efe960a7ab141ac) | 2026-03-05 22:23 |
+| Yusen Logistics | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7f92de33105c0bad) | 2026-03-05 22:23 |
+| Yusen Logistics | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=772460af87c5b60c) | 2026-03-05 22:23 |
+| AllCloud | Machine Learning Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=49fcd1d4ac195cdf) | 2026-03-05 22:23 |
+| Tata Consultancy Services (TCS) | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc0fe4c47cda2838) | 2026-03-05 22:23 |
+| Zoom Communications | DevOps Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d44e3274520e56d6) | 2026-03-05 22:23 |
+| Vizient, Inc. | Software Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e60ff8bc1e60898) | 2026-03-05 22:23 |
+| Fiserv | Senior Java Integration Consultant | Springfield, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7439985744d87583) | 2026-03-05 22:23 |
+| Cornerstone Defense | DevOps Engineer (Must have Kubernetes) | Chantilly, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7329904e6957c2e7) | 2026-03-05 22:23 |
 | JBS Dev | Senior Data Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=49f6c2df00dd6e11) | 2026-03-05 21:26 |
 | JBS Dev | Senior Data Engineer (Costa Rica) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=05c819aa2a88511d) | 2026-03-05 21:26 |
 | SpotOn | Senior Data Engineer | Royal Oak, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6bb3681c5da818f2) | 2026-03-05 21:26 |
