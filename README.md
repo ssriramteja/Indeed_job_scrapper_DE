@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 04:05
+Last updated: 2026-03-05 05:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Munich Re | Application Developer | Amelia, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1c8f07e938168692) | 2026-03-05 05:42 |
+| Appex Innovation | AWS Data Engineer | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3886cb86a753634c) | 2026-03-05 05:42 |
+| Truist | Data Platform Engineer - Alteryx Platform Management | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a738d45466c580a9) | 2026-03-05 05:42 |
+| Guidewire Software, Inc. | Senior Full Stack Engineer | San Mateo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b5e082bd1857b0f) | 2026-03-05 05:42 |
 | Carnegie Mellon University | Sr. Database Administrator - Computing Services | Pittsburgh, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=506f6b3eeea1e8bf) | 2026-03-05 04:05 |
 | Information Technology Senior Management Forum | Senior Data Engineer | Richmond, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9e8500146d476812) | 2026-03-05 04:05 |
 | Information Technology Senior Management Forum | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2ad2838bd8f61427) | 2026-03-05 04:05 |
@@ -504,8 +508,6 @@ Last updated: 2026-03-05 04:05
 | Supplied Talent | Senior Data Scientist | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ae7f307250b6639) | 2026-03-01 23:16 |
 | Kollasoft Inc | Databricks Architect & Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=961f7719b1e41e9a) | 2026-03-01 18:21 |
 | Deloitte | Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a677917152c7ba4a) | 2026-03-01 08:21 |
-| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24e1bdbed934be1c) | 2026-03-01 04:15 |
-| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c61f3a7795625e6) | 2026-03-01 04:15 |
 
 
 ---
