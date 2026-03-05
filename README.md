@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 12:40
+Last updated: 2026-03-05 13:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ADNET Systems, Inc | GD162 Senior Software Systems Engineer & Architect | Greenbelt, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef183b27f01923fb) | 2026-03-05 13:57 |
+| Hard Rock International | Database Administrator | Hollywood, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=169d4a00d377fdae) | 2026-03-05 13:57 |
+| Xpedient Technologies | Informatica MDM and Databricks Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4cb9515aa944d7a5) | 2026-03-05 13:57 |
+| Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=447d4d5607b3f3c6) | 2026-03-05 13:57 |
 | Advance Auto Parts | Sr. Data Engineer | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e2d8bc5a4c9174d) | 2026-03-05 11:28 |
 | nan | Data Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=38b673fd36dffa19) | 2026-03-05 10:31 |
 | Novolex | IT Data Engineer | Lake Forest, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=024a63ca708c8a8f) | 2026-03-05 09:34 |
