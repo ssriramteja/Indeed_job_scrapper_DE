@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 10:31
+Last updated: 2026-03-05 11:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Advance Auto Parts | Sr. Data Engineer | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e2d8bc5a4c9174d) | 2026-03-05 11:28 |
 | nan | Data Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=38b673fd36dffa19) | 2026-03-05 10:31 |
 | Novolex | IT Data Engineer | Lake Forest, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=024a63ca708c8a8f) | 2026-03-05 09:34 |
 | Inspira Financial | Sr. Software Engineer (Remote) | Oak Brook, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1733261c550fa238) | 2026-03-05 08:31 |
