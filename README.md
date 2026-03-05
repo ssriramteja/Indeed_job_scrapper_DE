@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 07:37
+Last updated: 2026-03-05 08:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Inspira Financial | Sr. Software Engineer (Remote) | Oak Brook, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1733261c550fa238) | 2026-03-05 08:31 |
+| Inspira Financial | Sr. Software Engineer (Remote) | Oak Brook, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5d0e899d198425eb) | 2026-03-05 08:31 |
+| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f85f1e8c0778adba) | 2026-03-05 08:31 |
+| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e2da1f14c27a331) | 2026-03-05 08:31 |
+| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=140d02e1f58501f6) | 2026-03-05 08:31 |
+| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eff547fec829449a) | 2026-03-05 08:31 |
+| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29d22d712d7958f0) | 2026-03-05 08:31 |
 | Pindrop | Software Engineer - Authentication | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6513fcf97bbfd044) | 2026-03-05 07:37 |
 | Daniels Health | Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3486f1249174e37a) | 2026-03-05 07:37 |
 | Valvoline Global Operations | Senior Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ab16510fd1c2841d) | 2026-03-05 06:40 |
@@ -512,7 +519,6 @@ Last updated: 2026-03-05 07:37
 | GEICO | Senior Engineer - Java | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5096db1f348c8e4b) | 2026-03-02 01:16 |
 | Supplied Talent | Senior Data Scientist | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ae7f307250b6639) | 2026-03-01 23:16 |
 | Kollasoft Inc | Databricks Architect & Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=961f7719b1e41e9a) | 2026-03-01 18:21 |
-| Deloitte | Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a677917152c7ba4a) | 2026-03-01 08:21 |
 
 
 ---
