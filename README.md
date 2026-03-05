@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 17:55
+Last updated: 2026-03-05 19:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Systems Engineering Solutions Corporation | System Architect | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=634fcd15ef04d7bf) | 2026-03-05 19:10 |
+| Accenture | Senior Application Platform Architect - 6163848 | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ea7fc0fae83610a) | 2026-03-05 19:10 |
+| KNIT | Senior Full Stack Engineer (NYC) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f0457dc96d28b81f) | 2026-03-05 19:10 |
+| CrowdStrike | Sr. Software Engineer - Risk Platform (Hybrid) | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1593d7242ad3914) | 2026-03-05 19:10 |
 | Realign | Full Stack Engineer (React + Node.js)-5 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=01d5f2b9fa96100b) | 2026-03-05 17:55 |
 | AmeriLife | Data Engineer | Philadelphia, PA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=857bb2d652273e9a) | 2026-03-05 17:55 |
 | GRAY MEDIA | CLOUD ENGINEER (AWS) (REMOTE/USA) - GDM (GRAY MEDIA GROUP) | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0beb94e2f1648144) | 2026-03-05 17:55 |
@@ -545,7 +549,6 @@ Last updated: 2026-03-05 17:55
 | Quantifind | DevOps Engineer (Linux) | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87617613276c990f) | 2026-03-02 04:06 |
 | GEICO | Senior Engineer - Java | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5096db1f348c8e4b) | 2026-03-02 01:16 |
 | Supplied Talent | Senior Data Scientist | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ae7f307250b6639) | 2026-03-01 23:16 |
-| Kollasoft Inc | Databricks Architect & Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=961f7719b1e41e9a) | 2026-03-01 18:21 |
 
 
 ---
