@@ -1,11 +1,49 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 22:23
+Last updated: 2026-03-05 23:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=60711b668acbd0b3) | 2026-03-05 23:45 |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=db8a35e2b334dacc) | 2026-03-05 23:45 |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=fd9f71c3bc119fac) | 2026-03-05 23:45 |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7bc520629d7c84b2) | 2026-03-05 23:45 |
+| JPMorganChase | Quant Analytics Associate Senior - Management Information System | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3c4dd2cc48a2f29b) | 2026-03-05 23:45 |
+| Optum | Senior Software Engineer - Typescript and AWS services | Schaumburg, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=021dcffcbccd49c9) | 2026-03-05 23:45 |
+| Acrisure LLC | Senior Software Engineer, Data | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c7869ee373ec84ed) | 2026-03-05 23:45 |
+| Acrisure LLC | Software Engineer, Data | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=459162c660bc8082) | 2026-03-05 23:45 |
+| JPMorganChase | Software Engineer III- Python/PySpark | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=82b1dd2ce5d3671a) | 2026-03-05 23:45 |
+| Openkyber | AI Support Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=625bf5ef0b332ad3) | 2026-03-05 23:45 |
+| Openkyber | AI Support Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dd39a203b7587e31) | 2026-03-05 23:45 |
+| Openkyber | AI Intern | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0c4618ffec69d30a) | 2026-03-05 23:45 |
+| TWG Global AI | Site Reliability Engineer | Jacksonville, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=edb6a72ac37333e2) | 2026-03-05 23:45 |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=76cb3bc7e109c2ac) | 2026-03-05 23:45 |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c8547c2271ca5aef) | 2026-03-05 23:45 |
+| Genentech | Senior Machine Learning Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d20f4b9e6a3cbb70) | 2026-03-05 23:45 |
+| Genentech | Senior Machine Learning Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c89d6a7d2041de38) | 2026-03-05 23:45 |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c6fa42304d7e851) | 2026-03-05 23:45 |
+| Openkyber | Senior LLM Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=109c9c4a6595ba95) | 2026-03-05 23:45 |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dfd0ac225b61c5b4) | 2026-03-05 23:45 |
+| Openkyber | Senior LLM Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8723fa94634ae387) | 2026-03-05 23:45 |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=22b3d9d74319cb4d) | 2026-03-05 23:45 |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cdf51adf8a1f9c98) | 2026-03-05 23:45 |
+| Stanley Martin Homes | Machine Learning Engineer | Reston, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f934b2c21443f198) | 2026-03-05 23:45 |
+| Openkyber | Data Scientist | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aaf9596bf4159924) | 2026-03-05 23:45 |
+| Openkyber | Data Scientist | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab90611f6b141379) | 2026-03-05 23:45 |
+| LTIMindtree | Specialist - Software Engineering | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3c595f778e26600) | 2026-03-05 23:45 |
+| LTIMindtree | Specialist - Software Engineering | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=678f6a09a0ac0c26) | 2026-03-05 23:45 |
+| LTIMindtree | Specialist - Software Engineering | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c6e8b8be5cf1c082) | 2026-03-05 23:45 |
+| Reston Hospital Center - Reston | Product Architect Big Data Google Cloud Platform | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cc86aeda9d2a8bcb) | 2026-03-05 23:45 |
+| St. David's HealthCare | Product Architect Big Data Google Cloud Platform | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=613cb57ccf3485d6) | 2026-03-05 23:45 |
+| HCA Florida West Tampa Hospital | Product Architect Big Data Google Cloud Platform | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ee6462dda08d180) | 2026-03-05 23:45 |
+| Medical City Healthcare | Product Architect Big Data Google Cloud Platform | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ae11beaa0be9d78e) | 2026-03-05 23:45 |
+| Openkyber | LLM Application Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5633278896c16c3b) | 2026-03-05 23:45 |
+| Openkyber | LLM Application Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e56614bfb72e3b3) | 2026-03-05 23:45 |
+| AT&T | Senior Advanced Analytics | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=92f0640d212f7db6) | 2026-03-05 23:45 |
+| GEICO | Engineer II- Java | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c70cf8723aeaf7eb) | 2026-03-05 23:45 |
+| GEICO | Engineer II- Java | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f106012aaf32c49) | 2026-03-05 23:45 |
 | Tenable | Senior Software Engineer | Columbia, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b05ba9e572547c57) | 2026-03-05 22:23 |
 | Tata Consultancy Services (TCS) | Sr Data Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=afa51ac883fa48a6) | 2026-03-05 22:23 |
 | NTT DATA | Azure CI/CD Developer (FTE / Hybrid) | Oaks, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ffe5d7e4f5833213) | 2026-03-05 22:23 |
@@ -577,7 +615,6 @@ Last updated: 2026-03-05 22:23
 | simple construction | Systems Engineering - Senior Engineer | Flushing, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6722fcc4d5da627b) | 2026-03-02 07:43 |
 | Quantifind | DevOps Engineer (Linux) | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87617613276c990f) | 2026-03-02 04:06 |
 | GEICO | Senior Engineer - Java | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5096db1f348c8e4b) | 2026-03-02 01:16 |
-| Supplied Talent | Senior Data Scientist | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ae7f307250b6639) | 2026-03-01 23:16 |
 
 
 ---
