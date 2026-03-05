@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-04 23:22
+Last updated: 2026-03-05 01:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| LTIMindtree | Senior Specialist - System Management | Glen Allen, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=293f842904007fda) | 2026-03-05 01:16 |
+| Cognizant | Sr. Java Developer | Bentonville, AR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=29bb162ca9316c93) | 2026-03-05 01:16 |
+| Nightwing | Software Engineer (Hybrid) | Clarksville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=887221a715d1ff03) | 2026-03-05 01:16 |
+| Nightwing | Software Engineer (Hybrid) | Sterling, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3322d87953168bdc) | 2026-03-05 01:16 |
+| WSSC Water | Advanced Metering Infrastructure (AMI) Engineer | Laurel, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5b2aa36ee050b9b) | 2026-03-05 01:16 |
+| Amplify | Analytics Engineer | Brooklyn, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b4d16d721d2057f3) | 2026-03-05 01:16 |
+| Pfizer | AI Data Engineer-LLMs / Agentic Systems | Cambridge, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=92b5658394aee4e3) | 2026-03-05 01:16 |
+| Callaway Golf | Sr Data Engineer | Carlsbad, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab2d181891cc2eee) | 2026-03-05 01:16 |
+| Emed | Senior Software Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1e29e1c3d36f0e7c) | 2026-03-05 01:16 |
+| LTIMindtree | Senior Software Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af8d363b230dfbc2) | 2026-03-05 01:16 |
 | Creative Information Technology India | Enterprise Data Platform Engineer – Washington, DC | Falls Church, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0a74e373b48da5fc) | 2026-03-04 23:22 |
 | Cloudious | Google Cloud Data Architect | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=73dc517b82db140b) | 2026-03-04 23:22 |
 | NavitasPartners | Cloud Data Platform Administrator - 26-02191 | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3695a4ce423ac8e5) | 2026-03-04 23:22 |
