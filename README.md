@@ -1,11 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 01:16
+Last updated: 2026-03-05 04:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Carnegie Mellon University | Sr. Database Administrator - Computing Services | Pittsburgh, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=506f6b3eeea1e8bf) | 2026-03-05 04:05 |
+| Information Technology Senior Management Forum | Senior Data Engineer | Richmond, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9e8500146d476812) | 2026-03-05 04:05 |
+| Information Technology Senior Management Forum | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2ad2838bd8f61427) | 2026-03-05 04:05 |
+| Alight Solutions | Cloud Platform Engineer | IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=398f35933211332f) | 2026-03-05 04:05 |
+| Infosys | Specialist Programmer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9772b3b8d4167ecc) | 2026-03-05 04:05 |
+| General Motors (GM) | Senior Software Engineer - Commercial Software | Warren, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5f3de39cf73c3663) | 2026-03-05 04:05 |
+| Information Technology Senior Management Forum | Senior Software Engineer, Back End (Java, Go, AWS) | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e716b4195b2da30b) | 2026-03-05 04:05 |
+| Daniels Health | Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1df7caac86af2291) | 2026-03-05 04:05 |
+| Accenture | ATC - AI & Data Analyst - NAELFY26 | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1ce7a50a4bbe9ef2) | 2026-03-05 04:05 |
+| Weyerhaeuser | MLOps Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d9f82346c5ff2d3) | 2026-03-05 04:05 |
+| Prudential | Senior Software Engineer - MDM / RDM & API Development | Newark, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d75a6cef6409e12b) | 2026-03-05 04:05 |
+| General Motors (GM) | Software Systems Engineer, Release Reliability & Automation (Autonomous Vehicles) | Sunnyvale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=864266ab5f8e3aac) | 2026-03-05 04:05 |
+| TORCH.AI | Software Engineer (Junior) | Leawood, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=28e432d03da8db08) | 2026-03-05 04:05 |
+| Information Technology Senior Management Forum | Senior Software Engineer, Back End (Python) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3864c05dc9b353f8) | 2026-03-05 04:05 |
+| BLOC Resources, LLC | Data Engineer 2 | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c51290628ce41b82) | 2026-03-05 04:05 |
+| Axon | Sr. Software Engineer I, Applied AI | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e858c83fc09cd77d) | 2026-03-05 04:05 |
+| Stanford University | AI Applications Engineer | Redwood City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0dc1867fdcc5324) | 2026-03-05 04:05 |
+| RapidFire Safety & Security | Power BI Developer | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8afc73df8ef8f40e) | 2026-03-05 04:05 |
+| Caterpillar | .NET Developer | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4afc3e61f8ae8b7b) | 2026-03-05 04:05 |
+| GEICO | Senior Software Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1315e6e62a7714e8) | 2026-03-05 04:05 |
+| RBC | Sr. Informatica IDMC MDM Software Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5346f4c5e2b5352a) | 2026-03-05 04:05 |
+| Truist | Data Platform Engineer - Alteryx Platform Management | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bde05d459024e776) | 2026-03-05 04:05 |
 | LTIMindtree | Senior Specialist - System Management | Glen Allen, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=293f842904007fda) | 2026-03-05 01:16 |
 | Cognizant | Sr. Java Developer | Bentonville, AR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=29bb162ca9316c93) | 2026-03-05 01:16 |
 | Nightwing | Software Engineer (Hybrid) | Clarksville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=887221a715d1ff03) | 2026-03-05 01:16 |
