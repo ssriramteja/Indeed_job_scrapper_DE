@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 20:30
+Last updated: 2026-03-05 21:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JBS Dev | Senior Data Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=49f6c2df00dd6e11) | 2026-03-05 21:26 |
+| JBS Dev | Senior Data Engineer (Costa Rica) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=05c819aa2a88511d) | 2026-03-05 21:26 |
+| SpotOn | Senior Data Engineer | Royal Oak, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6bb3681c5da818f2) | 2026-03-05 21:26 |
+| SpotOn | Senior Data Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=343b07159d1b6928) | 2026-03-05 21:26 |
+| nan | Data Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=83c604950fd47a32) | 2026-03-05 21:26 |
+| TALENThire | Senior Backend Engineer - Startup | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f9f397d4f8fa7f1) | 2026-03-05 21:26 |
 | eGrove Systems Corporation | Data Engineer – DE20260503002 | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6093ead5fe385f5d) | 2026-03-05 20:30 |
 | nan | Senior Data Engineer - INDIA | Prosper, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f8eebff65cda31d0) | 2026-03-05 20:30 |
 | nan | Senior Systems Administrator, Cloud (GTA) | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=094fcc384185954f) | 2026-03-05 20:30 |
