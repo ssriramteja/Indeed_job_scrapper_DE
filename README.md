@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 04:02
+Last updated: 2026-03-06 05:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BOULDER SCIENTIFIC CO | Data Engineer | Longmont, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9486135c47b58364) | 2026-03-06 05:40 |
+| U.S. Bank | Senior BI Developer - Investment Services | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6861136ad5c92fec) | 2026-03-06 05:40 |
+| U.S. Bank | Senior BI Developer - Investment Services | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0459e004fd012bc) | 2026-03-06 05:40 |
+| U.S. Bank | Senior BI Developer - Investment Services | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00bd0c85ee5af1cc) | 2026-03-06 05:40 |
+| U.S. Bank | Senior BI Developer - Investment Services | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9a227aff44c18bd) | 2026-03-06 05:40 |
+| U.S. Bank | Senior BI Developer - Investment Services | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f36e77b3ab4b1808) | 2026-03-06 05:40 |
+| U.S. Bank | Senior BI Developer - Investment Services | Hopkins, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b03b046a7e4b4373) | 2026-03-06 05:40 |
 | Visa | Software Engineer - Sr. Consultant level - DevOps | Austin, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=28ca6064f69a534e) | 2026-03-06 04:02 |
 | Lincoln Financial Group | Senior Analyst, Risk Data Engineering | Radnor, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4c054d24fbe757c5) | 2026-03-06 04:02 |
 | Information Technology Senior Management Forum | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3c46cd564ba01b6c) | 2026-03-06 04:02 |
@@ -754,7 +761,6 @@ Last updated: 2026-03-06 04:02
 | Credify Services | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5b23147f1037240) | 2026-03-02 16:34 |
 | ISHIR | Forward Deployed Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cc6b92ec89fa5a3) | 2026-03-02 15:34 |
 | simple construction | Systems Engineering - Senior Engineer | Flushing, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6722fcc4d5da627b) | 2026-03-02 07:43 |
-| Quantifind | DevOps Engineer (Linux) | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87617613276c990f) | 2026-03-02 04:06 |
 
 
 ---
