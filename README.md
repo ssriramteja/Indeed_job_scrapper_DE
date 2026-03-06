@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 12:35
+Last updated: 2026-03-06 13:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| PetSmart | Cloud Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0c8a098e9a2c0e1a) | 2026-03-06 13:48 |
+| NetApp | Software Engineer Intern | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c65c6376729ba486) | 2026-03-06 13:48 |
 | rockITdata | AWS Developer/Integration Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4a60d7d509fbceed) | 2026-03-06 12:35 |
 | rockITdata | AWS Cloud Administrator | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e0a98e5951373b4) | 2026-03-06 12:35 |
 | PetSmart | Cloud Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=157ddcd0636f7c11) | 2026-03-06 11:22 |
