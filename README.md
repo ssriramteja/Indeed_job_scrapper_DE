@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 14:31
+Last updated: 2026-03-06 15:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capital One | Senior Data Engineer (Python, PySpark, Lambda) | Richmond, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=59f97860142550fe) | 2026-03-06 15:29 |
+| Capital One | Senior Data Engineer (Python, Spark, AWS) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bac9e3177a7c184b) | 2026-03-06 15:29 |
+| Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=72f18d450d1d99d9) | 2026-03-06 15:29 |
+| Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b45360d720d413c7) | 2026-03-06 15:29 |
+| Capital One | Senior Software Engineer (Python, PySpark, Lambda) | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c588b2aa81b85891) | 2026-03-06 15:29 |
+| Union Bank & Trust Co. | Data Modeler | Lincoln, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3cbc74799dc9ea0) | 2026-03-06 15:29 |
 | PetSmart | Cloud Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0c8a098e9a2c0e1a) | 2026-03-06 13:48 |
 | NetApp | Software Engineer Intern | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c65c6376729ba486) | 2026-03-06 13:48 |
 | rockITdata | AWS Developer/Integration Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4a60d7d509fbceed) | 2026-03-06 12:35 |
