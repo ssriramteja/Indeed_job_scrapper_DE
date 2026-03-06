@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 05:40
+Last updated: 2026-03-06 06:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JLL | Senior BI Analyst | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ad414f3a9ab0a2bc) | 2026-03-06 06:37 |
+| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=50c61f5469ce333f) | 2026-03-06 06:37 |
+| GEICO | Senior Engineer | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4303ceb5e8c627c4) | 2026-03-06 06:37 |
+| GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0c4db6d385ae6ea3) | 2026-03-06 06:37 |
+| Realign | Teradata Developer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7fddb4ec439f1237) | 2026-03-06 06:37 |
 | BOULDER SCIENTIFIC CO | Data Engineer | Longmont, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9486135c47b58364) | 2026-03-06 05:40 |
 | U.S. Bank | Senior BI Developer - Investment Services | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6861136ad5c92fec) | 2026-03-06 05:40 |
 | U.S. Bank | Senior BI Developer - Investment Services | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0459e004fd012bc) | 2026-03-06 05:40 |
