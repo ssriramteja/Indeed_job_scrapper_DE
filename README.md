@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 21:22
+Last updated: 2026-03-06 22:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Docuphase | DevOps Engineer | Clearwater, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d858dceda163f311) | 2026-03-06 22:20 |
+| Docuphase | DevOps Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c845115326a561bc) | 2026-03-06 22:20 |
+| Hudson Manpower | Data Engineer with AI & Kubernetes (USC/GC/OPT) W2 | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7356480f3cd54878) | 2026-03-06 22:20 |
+| SUPPLIER.IO | Senior Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c52112fe5f20617f) | 2026-03-06 22:20 |
+| Legion | SaaS Platform Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d99f47b2f659f2fb) | 2026-03-06 22:20 |
+| Fidelity Investments | Senior Python Full Stack Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57d547726eb0c06b) | 2026-03-06 22:20 |
+| Magnet Forensics | Data Architect (Distributed Systems Engineering) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f0bad59177479f3b) | 2026-03-06 22:20 |
+| The Friedkin Group | Business Intelligence Developer II | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a54459f220be02d) | 2026-03-06 22:20 |
 | Tata Consultancy Services (TCS) | Data Architect | Framingham, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ee673d162f6b2ce0) | 2026-03-06 21:22 |
 | nan | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6934f303063d3f6d) | 2026-03-06 21:22 |
 | Herzing University | Fabric Data Engineer | Milwaukee, WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ff7fa69e7ec031f5) | 2026-03-06 21:22 |
@@ -775,22 +783,6 @@ Last updated: 2026-03-06 21:22
 | ACV Auctions | Senior Data Engineer, ACVMax | Buffalo, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a05a21e755f84f81) | 2026-03-02 23:18 |
 | DoorDash | Senior Software Engineer, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=34d768a204f4d158) | 2026-03-02 23:18 |
 | athenahealth | Senior Software Engineer, Integration Platform | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b248613383f89a61) | 2026-03-02 23:18 |
-| Thales | FinOps Engineer | Austin, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=53b079e799b7b598) | 2026-03-02 22:20 |
-| RedCloud Consulting | Sr. Data Engineer - Monetization & Experimentation | Seattle, WA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=25c4ec5f1d13bace) | 2026-03-02 22:20 |
-| Intellibee Inc | Child Support -Senior Full Stack AI/Java Developer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=052ff8fd2f21f73c) | 2026-03-02 22:20 |
-| Michael Baker International | Senior Cloud DevOps Engineer (Azure & AWS) | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=30ad4f76b32130ff) | 2026-03-02 21:26 |
-| XomegaIT Inc | Sr. ServiceNOW (DPR) Developer | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3a18d71c9677d86f) | 2026-03-02 21:26 |
-| Honeywell | Software Engineer II - AI/ML OPS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=09190487663b43a8) | 2026-03-02 21:26 |
-| Welltower, Inc | Senior Software Engineer - onsite Dallas or NYC | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1973f445d0cd1f85) | 2026-03-02 21:26 |
-| Field Tech Services LTD | Backend Engineer | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=66ccf1b5ae0c7999) | 2026-03-02 21:26 |
-| Ossium Health | Full Stack Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d316352de1f1e22) | 2026-03-02 21:26 |
-| Pantherx Specialty Llc | Data Engineer | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa566c97f625b888) | 2026-03-02 21:26 |
-| Qualcomm | MLOps Engineer - ML Platform | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c8c93cdb4a040410) | 2026-03-02 21:26 |
-| Qualcomm | Airflow Infrastructure & Automation Engineer – Silicon Design | Santa Clara, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a4082f94b884828) | 2026-03-02 21:26 |
-| Qualcomm | Airflow Infrastructure & Automation Engineer – Silicon Design | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b0da910ded33358) | 2026-03-02 21:26 |
-| Credit Karma | Senior Machine Learning Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2cd459594d11eb54) | 2026-03-02 21:26 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=467b235085e3e3c0) | 2026-03-02 21:26 |
-| Qualcomm | Machine Learning Software Engineer | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48d779cadb2f27d6) | 2026-03-02 21:26 |
 
 
 ---

@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-06
 
-**Total Jobs Found:** 170
+**Total Jobs Found:** 175
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -324,7 +324,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Cloud Data Platform Administrator – Remote @ Creative Information Technology India
+## 30. DevOps Engineer @ Docuphase
+**Match Score:** 13.9%
+
+📍 **Location:** Clearwater, FL, US USA
+
+🔑 **Keywords:** AWS, S3, IAM, RDS, Azure, Scala, SQL Server, CI/CD, Jenkins, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d858dceda163f311)
+
+---
+
+## 31. DevOps Engineer @ Docuphase
+**Match Score:** 13.9%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, S3, IAM, RDS, Azure, Scala, SQL Server, CI/CD, Jenkins, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c845115326a561bc)
+
+---
+
+## 32. Cloud Data Platform Administrator – Remote @ Creative Information Technology India
 **Match Score:** 13.9%
 
 📍 **Location:** Falls Church, VA, US USA
@@ -335,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Senior Data Engineer @ Humana
+## 33. Senior Data Engineer @ Humana
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -346,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Software Engineer III- Python/PySpark @ JPMorganChase
+## 34. Software Engineer III- Python/PySpark @ JPMorganChase
 **Match Score:** 13.2%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -357,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Senior Data Engineer @ nan
+## 35. Senior Data Engineer @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** US USA
@@ -368,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Fabric Data Engineer @ Herzing University
+## 36. Fabric Data Engineer @ Herzing University
 **Match Score:** 13.2%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -379,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Cloud Engineer @ PetSmart
+## 37. Cloud Engineer @ PetSmart
 **Match Score:** 13.2%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -390,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Cloud Engineer @ PetSmart
+## 38. Cloud Engineer @ PetSmart
 **Match Score:** 13.2%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -401,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Data Engineer @ BOULDER SCIENTIFIC CO
+## 39. Data Engineer @ BOULDER SCIENTIFIC CO
 **Match Score:** 13.2%
 
 📍 **Location:** Longmont, CO, US USA
@@ -412,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Senior Software Engineer @ General Motors (GM)
+## 40. Senior Software Engineer @ General Motors (GM)
 **Match Score:** 13.2%
 
 📍 **Location:** Austin, TX, US USA
@@ -423,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. AI Support Engineer @ Openkyber
+## 41. AI Support Engineer @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** AK, US USA
@@ -434,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. AI Support Engineer @ Openkyber
+## 42. AI Support Engineer @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** AK, US USA
@@ -445,18 +467,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Site Reliability Engineer @ TWG Global AI
+## 43. Data Engineer with AI & Kubernetes (USC/GC/OPT) W2 @ Hudson Manpower
 **Match Score:** 13.2%
 
-📍 **Location:** Jacksonville, FL, US USA
+📍 **Location:** Columbus, OH, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, MLOps, MLflow, CI/CD, GitHub Actions, Terraform
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, Spark, PySpark
 
-[Apply Here](https://www.indeed.com/viewjob?jk=edb6a72ac37333e2)
+[Apply Here](https://www.indeed.com/viewjob?jk=7356480f3cd54878)
 
 ---
 
-## 42. Data Engineer (Only local to California, W2, GC and USC ) @ ACR Technology Inc
+## 44. Senior Data Engineer @ SUPPLIER.IO
+**Match Score:** 12.5%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, Scala, Snowflake, Data Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c52112fe5f20617f)
+
+---
+
+## 45. Data Engineer (Only local to California, W2, GC and USC ) @ ACR Technology Inc
 **Match Score:** 12.5%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -467,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Senior Software Engineer (Python, PySpark, Lambda) @ Capital One
+## 46. Senior Software Engineer (Python, PySpark, Lambda) @ Capital One
 **Match Score:** 12.5%
 
 📍 **Location:** Richmond, VA, US USA
@@ -478,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Site Reliability Engineer II @ Innovaccer
+## 47. Site Reliability Engineer II @ Innovaccer
 **Match Score:** 12.5%
 
 📍 **Location:** US USA
@@ -489,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. IT BI Solutions Engineer, ES @ Terex Corporation
+## 48. IT BI Solutions Engineer, ES @ Terex Corporation
 **Match Score:** 12.5%
 
 📍 **Location:** Chattanooga, TN, US USA
@@ -500,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) @ State of Ohio
+## 49. Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) @ State of Ohio
 **Match Score:** 12.5%
 
 📍 **Location:** Columbus, OH, US USA
@@ -511,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Senior Software Engineer, Developer Experience (DevEx) @ MarketAxess Holdings
+## 50. Senior Software Engineer, Developer Experience (DevEx) @ MarketAxess Holdings
 **Match Score:** 12.5%
 
 📍 **Location:** New York, NY, US USA
@@ -522,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Senior Machine Learning Engineer @ Scribd, Inc.
+## 51. Senior Machine Learning Engineer @ Scribd, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -533,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Senior Machine Learning Engineer @ Scribd, Inc.
+## 52. Senior Machine Learning Engineer @ Scribd, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -544,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Senior Machine Learning Engineer @ Scribd, Inc.
+## 53. Senior Machine Learning Engineer @ Scribd, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -555,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Machine Learning Engineer @ Scribd, Inc.
+## 54. Machine Learning Engineer @ Scribd, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** Salt Lake City, UT, US USA
@@ -566,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Senior Machine Learning Engineer @ Scribd, Inc.
+## 55. Senior Machine Learning Engineer @ Scribd, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** Austin, TX, US USA
@@ -577,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Senior Machine Learning Engineer @ Scribd, Inc.
+## 56. Senior Machine Learning Engineer @ Scribd, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** Boston, MA, US USA
@@ -588,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Machine Learning Engineer @ Scribd, Inc.
+## 57. Machine Learning Engineer @ Scribd, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** Houston, TX, US USA
@@ -599,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Senior Machine Learning Engineer @ Scribd, Inc.
+## 58. Senior Machine Learning Engineer @ Scribd, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** Miami, FL, US USA
@@ -610,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Senior Machine Learning Engineer @ Scribd, Inc.
+## 59. Senior Machine Learning Engineer @ Scribd, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -621,7 +654,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Senior Big Data Software Engineer Remote @ Optum
+## 60. Senior Machine Learning Engineer @ Scribd, Inc.
+**Match Score:** 12.5%
+
+📍 **Location:** San Diego, CA, US USA
+
+🔑 **Keywords:** AWS, Lambda, SQS, ECS, IAM, Azure, Databricks, GCP, Spark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f5d14ef4e88a3e5a)
+
+---
+
+## 61. Senior Big Data Software Engineer Remote @ Optum
 **Match Score:** 11.8%
 
 📍 **Location:** Eden Prairie, MN, US USA
@@ -632,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. Sr. Data Scientist @ nan
+## 62. Sr. Data Scientist @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Orlando, FL, US USA
@@ -643,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. Senior Machine Learning Engineer @ Genentech
+## 63. Senior Machine Learning Engineer @ Genentech
 **Match Score:** 11.8%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -654,18 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. Senior Machine Learning Engineer @ Genentech
-**Match Score:** 11.8%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** AWS, Step Functions, Hadoop, Spark, Scala, MLOps, MLflow, CI/CD, Kubernetes, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c89d6a7d2041de38)
-
----
-
-## 61. Senior Software Engineer @ Teradata
+## 64. Senior Software Engineer @ Teradata
 **Match Score:** 11.8%
 
 📍 **Location:** CA, US USA
@@ -676,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. Senior Site Reliability Developer @ Oracle
+## 65. Senior Site Reliability Developer @ Oracle
 **Match Score:** 11.8%
 
 📍 **Location:** Austin, TX, US USA
@@ -687,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 66. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -698,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 67. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Boston, MA, US USA
@@ -709,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 68. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -720,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 69. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -731,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 70. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -742,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 71. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Chicago, IL, US USA
@@ -753,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 72. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Seattle, WA, US USA
@@ -764,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 73. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Miami, FL, US USA
@@ -775,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 74. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Washington, DC, US USA
@@ -786,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 75. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Austin, TX, US USA
@@ -797,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 76. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Portland, OR, US USA
@@ -808,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 77. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Houston, TX, US USA
@@ -819,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 78. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Salt Lake City, UT, US USA
@@ -830,7 +863,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 79. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Dallas, TX, US USA
@@ -841,7 +874,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 80. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Denver, CO, US USA
@@ -852,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 81. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -863,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 82. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -874,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 83. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -885,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
+## 84. Software Engineer II (Backend + Data pipelines) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** San Diego, CA, US USA
@@ -896,7 +929,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Selenium Automation tester @ Tata Consultancy Services (TCS)
+## 85. SaaS Platform Architect @ Legion
+**Match Score:** 11.8%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, SQS, RDS, Scala, Kafka, MySQL, Data Modeling, CI/CD, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d99f47b2f659f2fb)
+
+---
+
+## 86. Selenium Automation tester @ Tata Consultancy Services (TCS)
 **Match Score:** 11.8%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -907,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Data Architect @ Fleetpride
+## 87. Data Architect @ Fleetpride
 **Match Score:** 11.8%
 
 📍 **Location:** Irving, TX, US USA
@@ -918,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Regulatory Compliance Engineer @ Openkyber
+## 88. Regulatory Compliance Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -929,29 +973,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Senior LLM Engineer @ Openkyber
+## 89. Senior Python Full Stack Engineer @ Fidelity Investments
 **Match Score:** 11.8%
 
-📍 **Location:** AK, US USA
+📍 **Location:** Boston, MA, US USA
 
-🔑 **Keywords:** AWS, Azure, Vertex AI, Scala, Oracle, PostgreSQL, MySQL, MongoDB, NoSQL, MLOps
+🔑 **Keywords:** AWS, Lambda, S3, SQS, Spark, Scala, Kafka, Oracle, CI/CD, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=109c9c4a6595ba95)
+[Apply Here](https://www.indeed.com/viewjob?jk=57d547726eb0c06b)
 
 ---
 
-## 86. Senior LLM Engineer @ Openkyber
-**Match Score:** 11.8%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** AWS, Azure, Vertex AI, Scala, Oracle, PostgreSQL, MySQL, MongoDB, NoSQL, MLOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8723fa94634ae387)
-
----
-
-## 87. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 90. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Washington, DC, US USA
@@ -962,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 91. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Austin, TX, US USA
@@ -973,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 92. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Dallas, TX, US USA
@@ -984,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 93. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** San Diego, CA, US USA
@@ -995,7 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 94. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Miami, FL, US USA
@@ -1006,7 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 95. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Boston, MA, US USA
@@ -1017,7 +1050,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 96. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -1028,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 97. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1039,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 98. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -1050,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 99. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -1061,7 +1094,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 100. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Chicago, IL, US USA
@@ -1072,7 +1105,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 101. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -1083,7 +1116,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 102. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1094,7 +1127,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 103. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Houston, TX, US USA
@@ -1105,7 +1138,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 104. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -1116,7 +1149,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 105. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Portland, OR, US USA
@@ -1127,7 +1160,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 106. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Salt Lake City, UT, US USA
@@ -1138,7 +1171,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 104. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 107. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -1149,7 +1182,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 105. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
+## 108. Senior Machine Learning Engineer (Search) @ Scribd, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Denver, CO, US USA
@@ -1160,7 +1193,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 106. Software Engineer @ The Wyanoke Group
+## 109. Software Engineer @ The Wyanoke Group
 **Match Score:** 11.8%
 
 📍 **Location:** Thorofare, NJ, US USA
@@ -1171,7 +1204,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 107. Software Engineering Intern – Data Engineering (Cloud & Streaming) @ NextPower
+## 110. Software Engineering Intern – Data Engineering (Cloud & Streaming) @ NextPower
 **Match Score:** 11.1%
 
 📍 **Location:** Fremont, CA, US USA
@@ -1182,7 +1215,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 108. Data Scientist @ Openkyber
+## 111. Data Scientist @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** AK, US USA
@@ -1193,7 +1226,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 109. Data Scientist @ Openkyber
+## 112. Data Scientist @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** AK, US USA
@@ -1204,7 +1237,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 110. Azure Security Engineer @ Openkyber
+## 113. Azure Security Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** AK, US USA
@@ -1215,7 +1248,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 111. Senior Cloud Systems Engineer (Databricks Administrator) @ Providge Consulting
+## 114. Senior Cloud Systems Engineer (Databricks Administrator) @ Providge Consulting
 **Match Score:** 11.1%
 
 📍 **Location:** Washington, DC, US USA
@@ -1226,7 +1259,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 112. DevOps Engineer II (CI/CD) @ jamf
+## 115. Data Architect (Distributed Systems Engineering) @ Magnet Forensics
+**Match Score:** 11.1%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PostgreSQL, MySQL, MongoDB, DynamoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f0bad59177479f3b)
+
+---
+
+## 116. DevOps Engineer II (CI/CD) @ jamf
 **Match Score:** 11.1%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -1237,7 +1281,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 113. Software Engineer II @ TransCore
+## 117. Software Engineer II @ TransCore
 **Match Score:** 11.1%
 
 📍 **Location:** Round Rock, TX, US USA
@@ -1248,7 +1292,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 114. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 118. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Austin, TX, US USA
@@ -1259,7 +1303,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 115. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 119. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Washington, DC, US USA
@@ -1270,7 +1314,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 116. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 120. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -1281,7 +1325,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 117. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 121. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -1292,7 +1336,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 118. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 122. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** San Diego, CA, US USA
@@ -1303,7 +1347,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 119. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 123. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -1314,7 +1358,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 120. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 124. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -1325,7 +1369,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 121. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 125. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -1336,7 +1380,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 122. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 126. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -1347,7 +1391,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 123. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 127. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1358,7 +1402,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 124. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 128. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Portland, OR, US USA
@@ -1369,7 +1413,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 125. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 129. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Salt Lake City, UT, US USA
@@ -1380,7 +1424,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 126. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 130. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -1391,7 +1435,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 127. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 131. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1402,7 +1446,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 128. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 132. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Miami, FL, US USA
@@ -1413,7 +1457,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 129. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 133. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -1424,7 +1468,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 130. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 134. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Denver, CO, US USA
@@ -1435,7 +1479,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 131. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 135. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Chicago, IL, US USA
@@ -1446,7 +1490,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 132. Software Engineer - Backend (Python) @ Scribd, Inc.
+## 136. Software Engineer - Backend (Python) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -1457,7 +1501,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 133. Senior Software Engineer (Python + Distributed systems) @ Scribd, Inc.
+## 137. Senior Software Engineer (Python + Distributed systems) @ Scribd, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Miami, FL, US USA
@@ -1468,7 +1512,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 134. Solutions Architect @ H2O.ai
+## 138. Solutions Architect @ H2O.ai
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -1479,7 +1523,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 135. Solutions Architect @ H2O.ai
+## 139. Solutions Architect @ H2O.ai
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -1490,7 +1534,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 136. AV Safety Engineering Analytics Simulation Engineer (GPSSC) @ General Motors (GM)
+## 140. AV Safety Engineering Analytics Simulation Engineer (GPSSC) @ General Motors (GM)
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1501,7 +1545,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 137. Data Engineer @ DLA Piper
+## 141. Data Engineer @ DLA Piper
 **Match Score:** 10.4%
 
 📍 **Location:** Reston, VA, US USA
@@ -1512,7 +1556,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 138. Kubernetes Security Engineer @ Openkyber
+## 142. Kubernetes Security Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -1523,7 +1567,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 139. AWS Cloud Administrator @ rockITdata
+## 143. AWS Cloud Administrator @ rockITdata
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1534,7 +1578,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 140. Data Engineer-Remote @ Mutual of Omaha
+## 144. Data Engineer-Remote @ Mutual of Omaha
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1545,7 +1589,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 141. Senior Software Engineer @ DocuSign
+## 145. Senior Software Engineer @ DocuSign
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1556,7 +1600,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 142. SAP NS2 Senior HANA Cloud DevOps Engineer @ SAP
+## 146. SAP NS2 Senior HANA Cloud DevOps Engineer @ SAP
 **Match Score:** 10.4%
 
 📍 **Location:** Newtown Square, PA, US USA
@@ -1567,7 +1611,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 143. Sr Data Engineer @ Callaway Golf
+## 147. Sr Data Engineer @ Callaway Golf
 **Match Score:** 10.4%
 
 📍 **Location:** Carlsbad, CA, US USA
@@ -1578,7 +1622,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 144. Visualization Engineer @ Heartland Veterinary Partners
+## 148. Visualization Engineer @ Heartland Veterinary Partners
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -1589,7 +1633,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 145. Expert Cloud Security Architect @ Openkyber
+## 149. Expert Cloud Security Architect @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -1600,7 +1644,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 146. Senior Software Engineer @ Optum
+## 150. Senior Software Engineer @ Optum
 **Match Score:** 10.4%
 
 📍 **Location:** Richardson, TX, US USA
@@ -1611,7 +1655,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 147. Senior Software Engineer (Full stack) @ People People
+## 151. Senior Software Engineer (Full stack) @ People People
 **Match Score:** 10.4%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -1622,7 +1666,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 148. SENIOR JAVA DEVELOPER @ United States Cold Storage
+## 152. SENIOR JAVA DEVELOPER @ United States Cold Storage
 **Match Score:** 10.4%
 
 📍 **Location:** Camden, NJ, US USA
@@ -1633,7 +1677,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 149. Sr Software Engineer @ TransCore
+## 153. Sr Software Engineer @ TransCore
 **Match Score:** 10.4%
 
 📍 **Location:** Round Rock, TX, US USA
@@ -1644,7 +1688,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 150. SENIOR DATA ENGINEER (REMOTE) @ Morrison Healthcare
+## 154. SENIOR DATA ENGINEER (REMOTE) @ Morrison Healthcare
 **Match Score:** 10.4%
 
 📍 **Location:** IL, US USA
@@ -1655,7 +1699,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 151. Senior Applications Programmer/Analyst (Hybrid) @ The University of Michigan
+## 155. Business Intelligence Developer II @ The Friedkin Group
+**Match Score:** 10.4%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Data Modeling, ETL, ELT, Power BI, Tableau, Tableau Server
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0a54459f220be02d)
+
+---
+
+## 156. Senior Applications Programmer/Analyst (Hybrid) @ The University of Michigan
 **Match Score:** 10.4%
 
 📍 **Location:** Ann Arbor, MI, US USA
@@ -1666,7 +1721,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 152. Teradata Developer @ Realign
+## 157. Teradata Developer @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** Plano, TX, US USA
@@ -1677,7 +1732,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 153. Senior BI Developer - Investment Services @ U.S. Bank
+## 158. Senior BI Developer - Investment Services @ U.S. Bank
 **Match Score:** 10.4%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -1688,7 +1743,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 154. Senior BI Developer - Investment Services @ U.S. Bank
+## 159. Senior BI Developer - Investment Services @ U.S. Bank
 **Match Score:** 10.4%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -1699,7 +1754,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 155. Senior BI Developer - Investment Services @ U.S. Bank
+## 160. Senior BI Developer - Investment Services @ U.S. Bank
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -1710,7 +1765,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 156. Senior BI Developer - Investment Services @ U.S. Bank
+## 161. Senior BI Developer - Investment Services @ U.S. Bank
 **Match Score:** 10.4%
 
 📍 **Location:** Saint Paul, MN, US USA
@@ -1721,7 +1776,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 157. Senior BI Developer - Investment Services @ U.S. Bank
+## 162. Senior BI Developer - Investment Services @ U.S. Bank
 **Match Score:** 10.4%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -1732,7 +1787,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 158. Senior BI Developer - Investment Services @ U.S. Bank
+## 163. Senior BI Developer - Investment Services @ U.S. Bank
 **Match Score:** 10.4%
 
 📍 **Location:** Hopkins, MN, US USA
@@ -1743,7 +1798,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 159. Data Modeler @ Union Bank & Trust Co.
+## 164. Data Modeler @ Union Bank & Trust Co.
 **Match Score:** 10.4%
 
 📍 **Location:** Lincoln, NE, US USA
@@ -1754,7 +1809,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 160. Software Engineer Intern @ NetApp
+## 165. Software Engineer Intern @ NetApp
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
@@ -1765,7 +1820,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 161. Senior Engineer @ GEICO
+## 166. Senior Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -1776,7 +1831,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 162. Senior Engineer @ GEICO
+## 167. Senior Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Chevy Chase, MD, US USA
@@ -1787,7 +1842,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 163. Senior Engineer @ GEICO
+## 168. Senior Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1798,7 +1853,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 164. Sr. Full Stack Software Engineer (Onsite - San Diego) @ Carlsmed
+## 169. Sr. Full Stack Software Engineer (Onsite - San Diego) @ Carlsmed
 **Match Score:** 10.4%
 
 📍 **Location:** Carlsbad, CA, US USA
@@ -1809,7 +1864,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 165. Engineer II- Java @ GEICO
+## 170. Engineer II- Java @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1820,7 +1875,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 166. Engineer II- Java @ GEICO
+## 171. Engineer II- Java @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -1831,7 +1886,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 167. Senior AI/ML Scientist @ General Motors (GM)
+## 172. Senior AI/ML Scientist @ General Motors (GM)
 **Match Score:** 10.4%
 
 📍 **Location:** Milford, MI, US USA
@@ -1842,7 +1897,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 168. Snowflake Administrator @ Tata Consultancy Services (TCS)
+## 173. Snowflake Administrator @ Tata Consultancy Services (TCS)
 **Match Score:** 10.4%
 
 📍 **Location:** Plano, TX, US USA
@@ -1853,7 +1908,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 169. LLM Application Engineer @ Openkyber
+## 174. LLM Application Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -1864,7 +1919,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 170. LLM Application Engineer @ Openkyber
+## 175. LLM Application Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
