@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 15:29
+Last updated: 2026-03-06 16:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Texas Department of Motor Vehicles | TxDMV - Systems Analyst - Data Engineer (Remote in TX) | TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=934456836d756b7d) | 2026-03-06 16:30 |
+| Texas Department of Motor Vehicles | TxDMV - Data Analyst - Senior BI Developer (Remote in Texas) | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4fb5c05e83aa7c0e) | 2026-03-06 16:30 |
+| Creative Information Technology India | Cloud Data Platform Administrator – Remote | Falls Church, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9dc4962750543485) | 2026-03-06 16:30 |
+| nan | DevOps Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cdf704f3d9c632a6) | 2026-03-06 16:30 |
+| TransCore | Software Engineer II | Round Rock, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=931daa2509e88e14) | 2026-03-06 16:30 |
 | Capital One | Senior Data Engineer (Python, PySpark, Lambda) | Richmond, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=59f97860142550fe) | 2026-03-06 15:29 |
 | Capital One | Senior Data Engineer (Python, Spark, AWS) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bac9e3177a7c184b) | 2026-03-06 15:29 |
 | Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=72f18d450d1d99d9) | 2026-03-06 15:29 |
@@ -791,7 +796,6 @@ Last updated: 2026-03-06 15:29
 | Digital Dhara LLC | Data Architect – Health Care Payer Domain | Philadelphia, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bb9633621ca2925b) | 2026-03-02 16:34 |
 | Visa | Data Engineer | Foster City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e1534e35cf264fdf) | 2026-03-02 16:34 |
 | Credify Services | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5b23147f1037240) | 2026-03-02 16:34 |
-| ISHIR | Forward Deployed Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cc6b92ec89fa5a3) | 2026-03-02 15:34 |
 
 
 ---
