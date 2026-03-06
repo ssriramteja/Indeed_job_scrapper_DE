@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 19:29
+Last updated: 2026-03-06 20:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Quorum Software | Data Engineer I (Base Camp) | Houston, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=69d0977bad9433e9) | 2026-03-06 20:23 |
+| Quorum Software | Data Engineer I (Base Camp) | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=4a5eb975a37e3115) | 2026-03-06 20:23 |
+| Heyer Expectations | Data Engineer | Texas City, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e3d70b12a632c896) | 2026-03-06 20:23 |
+| Acrisure LLC | Senior Software Engineer, Data | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=197006d2fc58f4b4) | 2026-03-06 20:23 |
+| State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=adb094f55a98987f) | 2026-03-06 20:23 |
+| United States Cold Storage | SENIOR JAVA DEVELOPER | Camden, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29cd522088ef96d7) | 2026-03-06 20:23 |
+| TransCore | Sr Software Engineer | Round Rock, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c50af91cfa81599) | 2026-03-06 20:23 |
 | Castleton Commodities International | Senior Site Reliability Engineer | Stamford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=81d647606f8497de) | 2026-03-06 19:29 |
 | ACR Technology Inc | Data Engineer (Only local to California, W2, GC and USC ) | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c24670d848e01b14) | 2026-03-06 19:29 |
 | Fleetpride | Data Architect | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ef083ba2e516b91) | 2026-03-06 19:29 |
@@ -784,8 +791,6 @@ Last updated: 2026-03-06 19:29
 | Lyric | Sr. Software Engineer, Machine Learning | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9938efe3610b0fc7) | 2026-03-02 20:27 |
 | VytlOne | Cloud Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fe8313c04ac16547) | 2026-03-02 20:27 |
 | Target | Sr Engineer - Interactive Compute | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48fd0ce1b8d654bd) | 2026-03-02 20:27 |
-| SAP | Senior Data Platform SIEM Engineer | Newtown Square, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f6fef1f451ba88d8) | 2026-03-02 19:32 |
-| A2R Global Private Limited | Sr. Palantir Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d3b46185a95c7ee3) | 2026-03-02 19:32 |
 
 
 ---
