@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 20:23
+Last updated: 2026-03-06 21:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Data Architect | Framingham, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ee673d162f6b2ce0) | 2026-03-06 21:22 |
+| nan | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6934f303063d3f6d) | 2026-03-06 21:22 |
+| Herzing University | Fabric Data Engineer | Milwaukee, WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ff7fa69e7ec031f5) | 2026-03-06 21:22 |
+| MarketAxess Holdings | Senior Software Engineer, Developer Experience (DevEx) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4d246408cc27ef6) | 2026-03-06 21:22 |
+| Tata Consultancy Services (TCS) | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=30c536ee1ba37c5d) | 2026-03-06 21:22 |
+| Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9df4c6b01ffaefd3) | 2026-03-06 21:22 |
+| People People | Senior Software Engineer (Full stack) | Kansas City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00add8b99f84f1db) | 2026-03-06 21:22 |
 | Quorum Software | Data Engineer I (Base Camp) | Houston, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=69d0977bad9433e9) | 2026-03-06 20:23 |
 | Quorum Software | Data Engineer I (Base Camp) | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=4a5eb975a37e3115) | 2026-03-06 20:23 |
 | Heyer Expectations | Data Engineer | Texas City, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e3d70b12a632c896) | 2026-03-06 20:23 |
@@ -784,13 +791,6 @@ Last updated: 2026-03-06 20:23
 | Credit Karma | Senior Machine Learning Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2cd459594d11eb54) | 2026-03-02 21:26 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=467b235085e3e3c0) | 2026-03-02 21:26 |
 | Qualcomm | Machine Learning Software Engineer | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48d779cadb2f27d6) | 2026-03-02 21:26 |
-| OmniTrust Technologies | Data Engineer | Alpharetta, GA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=d62af133e60ea749) | 2026-03-02 20:27 |
-| Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | Earth City, MO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=cc2b4e99dfcfee5e) | 2026-03-02 20:27 |
-| Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | Brentwood, TN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=79098e07510f4870) | 2026-03-02 20:27 |
-| reveleer | Senior DevOps Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9f77843ee754ca2e) | 2026-03-02 20:27 |
-| Lyric | Sr. Software Engineer, Machine Learning | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9938efe3610b0fc7) | 2026-03-02 20:27 |
-| VytlOne | Cloud Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fe8313c04ac16547) | 2026-03-02 20:27 |
-| Target | Sr Engineer - Interactive Compute | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48fd0ce1b8d654bd) | 2026-03-02 20:27 |
 
 
 ---
