@@ -1,11 +1,37 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 22:20
+Last updated: 2026-03-06 23:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Metropolitan Transportation Authority | Senior Software Engineer - Backend (Cloud Architecture, Workflow Automation & Systems Integration) | New York, NY, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=924e4d3af2c44fbe) | 2026-03-06 23:20 |
+| Openkyber | AWS Network Engineer | AK, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=9178b9a80d2d5100) | 2026-03-06 23:20 |
+| Stitch Consulting Services, Inc. | Technical Architect - Databricks | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0fc456e58c1064f0) | 2026-03-06 23:20 |
+| HealthPartners | Data Engineer | Bloomington, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3b238886767794dc) | 2026-03-06 23:20 |
+| Optum | Senior Software Engineer | Raleigh, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3c098dfb66b8f459) | 2026-03-06 23:20 |
+| Openkyber | Microsoft Entra | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f0fd8d51c031cacc) | 2026-03-06 23:20 |
+| Openkyber | IAM Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=08cc966194f3535f) | 2026-03-06 23:20 |
+| Openkyber | API Security Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=13bf4803b99637b9) | 2026-03-06 23:20 |
+| U.S. Bank | Software Engineer 2- PostgreSQL and Oracle | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=084df75f91ec6d79) | 2026-03-06 23:20 |
+| U.S. Bank | Software Engineer 2- PostgreSQL and Oracle | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a86ab352d5623702) | 2026-03-06 23:20 |
+| U.S. Bank | Software Engineer 2- PostgreSQL and Oracle | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d11b446ceb41e959) | 2026-03-06 23:20 |
+| Openkyber | Kubernetes Security Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7a4eab1ccb5d6492) | 2026-03-06 23:20 |
+| Openkyber | Kubernetes Security Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=10b675cae8e307cb) | 2026-03-06 23:20 |
+| NTT DATA | Senior GCP Cloud Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9fd49668a3407ae) | 2026-03-06 23:20 |
+| Openkyber | Kubernetes Security Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cb44ee7cdf82d78f) | 2026-03-06 23:20 |
+| Shelter Insurance | Senior Enterprise Data Engineer | Columbia, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9d75f91a30326a4d) | 2026-03-06 23:20 |
+| GSK | Compute Platform Engineer II | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=975599ca2add18c6) | 2026-03-06 23:20 |
+| GSK | Compute Platform Engineer II | Collegeville, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=37eab012690da57c) | 2026-03-06 23:20 |
+| GSK | Compute Platform Engineer II | Cambridge, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24b371e6b9aabd95) | 2026-03-06 23:20 |
+| GSK | Compute Platform Engineer II | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4f770f71be84a3d7) | 2026-03-06 23:20 |
+| Tyndale Company | Machine Learning Engineer | Pipersville, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e10d417269b254f) | 2026-03-06 23:20 |
+| Openkyber | Associate Cloud Security Analyst | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c2ff466153d7e538) | 2026-03-06 23:20 |
+| Openkyber | API Security Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c5cdefea95134fef) | 2026-03-06 23:20 |
+| Openkyber | API Security Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eab8b2d540dc7593) | 2026-03-06 23:20 |
+| The University of Chicago | Infrastructure Platform Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=40b90009cba8c2c9) | 2026-03-06 23:20 |
+| The Walt Disney Company | Sr. Software Engineer | Celebration, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ece4794b980b0cdd) | 2026-03-06 23:20 |
 | Docuphase | DevOps Engineer | Clearwater, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d858dceda163f311) | 2026-03-06 22:20 |
 | Docuphase | DevOps Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c845115326a561bc) | 2026-03-06 22:20 |
 | Hudson Manpower | Data Engineer with AI & Kubernetes (USC/GC/OPT) W2 | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7356480f3cd54878) | 2026-03-06 22:20 |
@@ -780,9 +806,6 @@ Last updated: 2026-03-06 22:20
 | Ensora Health | Software Development Engineer in Test (SDET) | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=843cb19e01616170) | 2026-03-03 01:18 |
 | Openkyber | Streaming Data | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ac8b8935c84e2b1) | 2026-03-03 01:18 |
 | Openkyber | API Security IAM Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=080dd790549ca45e) | 2026-03-03 01:18 |
-| ACV Auctions | Senior Data Engineer, ACVMax | Buffalo, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a05a21e755f84f81) | 2026-03-02 23:18 |
-| DoorDash | Senior Software Engineer, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=34d768a204f4d158) | 2026-03-02 23:18 |
-| athenahealth | Senior Software Engineer, Integration Platform | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b248613383f89a61) | 2026-03-02 23:18 |
 
 
 ---
