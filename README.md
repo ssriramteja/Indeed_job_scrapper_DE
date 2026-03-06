@@ -1,11 +1,132 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-05 23:45
+Last updated: 2026-03-06 01:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| University of Utah | Data Engineer III | Salt Lake City, UT, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=ef71ae9d0c429cf8) | 2026-03-06 01:20 |
+| Spire Energy | Data Engineer III | Birmingham, AL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=df7314eb6a45de22) | 2026-03-06 01:20 |
+| Micron Technology | Machine Learning Engineer | Boise, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fc1fd3766a845e85) | 2026-03-06 01:20 |
+| Terex Corporation | IT BI Solutions Engineer, ES | Chattanooga, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e8376f8e501b07a8) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=90d33ae33b62c3a0) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec56a8fbf5328856) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d4834b7dd63e5a3) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec0d14ba7f6cc782) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cd9783225b203a0f) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=154ab74a68ca6406) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=31f45e1ed037bd50) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f5d14ef4e88a3e5a) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5f6ccf05e64c984b) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Salt Lake City, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7b4b4f98c48563cd) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9fbafb89e71fb39e) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0c433c70839583dc) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Sacramento, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=35e828bfc556b676) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3058b24332d31ded) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=17b7c64ee8dc67e0) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Portland, OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a75982d2aedba052) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4b3d8d96e19fcbe6) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a58d376929282400) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=559d1352317c1f33) | 2026-03-06 01:20 |
+| Infinitive Inc | Junior AI/MLOps Engineer | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fe34817d3b1a40dc) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Salt Lake City, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=314cd9d2f824e302) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5fcdb3a443f803a9) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c6c2c604bb89e64b) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e02fe4d607063c1) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Portland, OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e8ac438ef838975b) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=74bd0f0f93d9a1a5) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4c53e85e359970d4) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=10e23f958e9e8b09) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=357547d890623cb5) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3884844e18945dee) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a60a56d62d329dea) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=93902824d8ac4d0c) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=088398b8f22d3683) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Sacramento, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=60f8a4d4b303056b) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=459cc0fec55fdc6f) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=521ae718282fb788) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=361e87b55f4161f4) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=32e0b2833cebefe3) | 2026-03-06 01:20 |
+| Scribd, Inc. | Machine Learning Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f5df27af3031e62) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d4fca4ad337ae6c) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1ae76b185563f91b) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Jacksonville, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef2a73b324528506) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92aaafaf1efb9ec4) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c9981aefe519f0cd) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fce2095df8206466) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ee34633b7838a9b3) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cc57f588c654f1cd) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5aaeb4c54cdfa77e) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb06d74f6367bb04) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Portland, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=49799e02e3e0a925) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=52ff9083bc8990ce) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=66f89817131cfa0d) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cdb757efdefad0ca) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57fc4e97a319b123) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Sacramento, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f6fcc67143e3ff8a) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5dad4bf1e950e1c9) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0f9ed5d278a8086d) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer II (Backend + Data pipelines) | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8809421834292084) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cff2f5a9dcacb28f) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3216b4c3b2c151f8) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a0fc0424a2f74ea8) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c0ff98f788ff107b) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0442372baf83ee82) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fe6ea91421159ece) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Jacksonville, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aecbf4d450f1441b) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=31056dc236b5ce67) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Sacramento, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eca84bb19e700f2b) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7401294591da0c90) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5eed535b1fcfea26) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b29243583190aa6a) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1c0d7ebd3a2ee36f) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=28e3397c0e70024e) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=35f50cc085f1bbd9) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Portland, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=72be3b8aba169a59) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b61af8e418fcf231) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=552a8172dcf24a7a) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Machine Learning Engineer (Search) | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4fa51ea3c52768d7) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4af4ef5dfeb0026) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c116b8acf805f138) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f996f9a35281bba7) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca3982c4f2be4e49) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f2a3e577d5623a4) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=629b89e40e1e1bb5) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Portland, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=db6cf98112c1bc9f) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80b26c4d48449b15) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83ba9763cad5f2f8) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=05460d1c364a2974) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b01dc956f073aaf8) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=807aad5f4045241d) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=655ea21e25dbce1e) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c46ceb995e304d69) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f29df76fe446a26) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6574f30d9366e40) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8536b186707d6516) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a4c9600c5ead18d) | 2026-03-06 01:20 |
+| Scribd, Inc. | Senior Software Engineer (Python + Distributed systems) | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78388f22c8e1c7cc) | 2026-03-06 01:20 |
+| H2O.ai | Solutions Architect | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fe52f92aedddcda4) | 2026-03-06 01:20 |
+| H2O.ai | Solutions Architect | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0d2b8979a3b5f81b) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e2b622ee37d8f63f) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ba10ede755adc88) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=035e833a0affea06) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=34ea65634bf231fc) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=db2fffa7ab4fc3c6) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=726fca60377106fb) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae1bbd4c5bfc6dc1) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7d44fb63e0c3570e) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac1d3f6a217585b1) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=594c2209c74b60f3) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Portland, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=300951fa8a03d9ab) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=224f85378fe66226) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=609ed15647075bf2) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7da2bae9861dfa9) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f44f95326fb5d8b) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7f6777f3346c150) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99001099f8e56675) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d562fde2d3ab4ec) | 2026-03-06 01:20 |
+| Scribd, Inc. | Software Engineer - Backend (Python) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=49363af061447f75) | 2026-03-06 01:20 |
 | Openkyber | ML Infrastructure Architect | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=60711b668acbd0b3) | 2026-03-05 23:45 |
 | Openkyber | ML Infrastructure Architect | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=db8a35e2b334dacc) | 2026-03-05 23:45 |
 | Openkyber | ML Infrastructure Architect | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=fd9f71c3bc119fac) | 2026-03-05 23:45 |
@@ -614,7 +735,6 @@ Last updated: 2026-03-05 23:45
 | ISHIR | Forward Deployed Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cc6b92ec89fa5a3) | 2026-03-02 15:34 |
 | simple construction | Systems Engineering - Senior Engineer | Flushing, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6722fcc4d5da627b) | 2026-03-02 07:43 |
 | Quantifind | DevOps Engineer (Linux) | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87617613276c990f) | 2026-03-02 04:06 |
-| GEICO | Senior Engineer - Java | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5096db1f348c8e4b) | 2026-03-02 01:16 |
 
 
 ---
