@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 17:29
+Last updated: 2026-03-06 18:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SiriusPoint | Sr. Integration Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a476b32ebbd3f63e) | 2026-03-06 18:33 |
+| Heartland Veterinary Partners | Visualization Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ae96e01998eff74) | 2026-03-06 18:33 |
 | Quorum Business Solutions | Data Engineer I (Base Camp) | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=59a4bbdbdd64fe68) | 2026-03-06 17:29 |
 | Quorum Business Solutions | Data Engineer I (Base Camp) | Houston, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ba37e62a9a87f91a) | 2026-03-06 17:29 |
 | Texas Comptroller of Public Accounts | TxDMV - Data Analyst - Senior BI Developer (Remote in Texas) | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5b98eb455b4295de) | 2026-03-06 17:29 |
@@ -791,22 +793,6 @@ Last updated: 2026-03-06 17:29
 | GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9c635f2175e2d81b) | 2026-03-02 18:34 |
 | Fusion Risk Management | Senior Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bcd62f4513b7126c) | 2026-03-02 18:34 |
 | Realign | Azure Databricks Architect-5 | Mahwah, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ddae10e310d8abb2) | 2026-03-02 18:34 |
-| Machinery Marketing Inter | Data Analyst Intern (Advanced SQL / Python / Data Engineering Focus) | Chicago, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4f2663b45d759cf1) | 2026-03-02 17:38 |
-| Openkyber | Kafka Schema Registry Engineer | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=8385283e2d310884) | 2026-03-02 17:38 |
-| Openkyber | Kafka Streaming Analyst | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a9d30813f5ba8de3) | 2026-03-02 17:38 |
-| Openkyber | Senior Kafka Migration Specialist | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=10bf1f673e41ef2e) | 2026-03-02 17:38 |
-| Openkyber | Kafka Schema Registry Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e4308f77f38286dd) | 2026-03-02 17:38 |
-| Hexaware Technologies | Java Full Stack Engineer - Professional | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=75a593062a046b0c) | 2026-03-02 17:38 |
-| Openkyber | Kafka Microservices Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9657082031b8f8cf) | 2026-03-02 17:38 |
-| Domino's | MLOps Specialist | Ann Arbor, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2068eadbf0fe8b4e) | 2026-03-02 17:38 |
-| Openkyber | Senior Kafka Migration Specialist | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=30c54747d746ae84) | 2026-03-02 17:38 |
-| Openkyber | Kafka API Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2bdf305a59e5377a) | 2026-03-02 17:38 |
-| Openkyber | Senior Kafka Integration Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d1ca422cd843ef14) | 2026-03-02 17:38 |
-| Openkyber | Senior Kafka DevOps Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6bf8d41742bde160) | 2026-03-02 17:38 |
-| Openkyber | Streaming Data | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fec62477c9e8f1ed) | 2026-03-02 17:38 |
-| Openkyber | Kafka Schema Registry Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3bde666c6b8715b) | 2026-03-02 17:38 |
-| Openkyber | Kafka Implementation Consultant | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e2d881962d3b864) | 2026-03-02 17:38 |
-| Openkyber | Kafka API Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03dfa487d865ac88) | 2026-03-02 17:38 |
 
 
 ---
