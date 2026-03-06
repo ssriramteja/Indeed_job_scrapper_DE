@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 09:30
+Last updated: 2026-03-06 10:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Cloud ETL Software Engineer III | Columbus, OH, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=c8ae806cfdce5e5c) | 2026-03-06 10:27 |
+| JPMorganChase | Software Engineer III - AI/ML | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fcd181016bc08a7a) | 2026-03-06 10:27 |
+| nan | Sr. Data Scientist | Orlando, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb77847b7cd88f45) | 2026-03-06 10:27 |
 | General Motors (GM) | AV Safety Engineering Analytics AI/ML Engineer (GPSSC) | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1b0a8c3e1d955c79) | 2026-03-06 09:30 |
 | Boeing | Senior Digital Engineer – Full Stack & Systems Architecture | Berkeley, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5360d83db3589d68) | 2026-03-06 09:30 |
 | Boeing | Senior Digital Engineer – Full Stack & Systems Architecture | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=12a4a8cde3354706) | 2026-03-06 09:30 |
