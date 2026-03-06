@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 16:30
+Last updated: 2026-03-06 17:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Quorum Business Solutions | Data Engineer I (Base Camp) | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=59a4bbdbdd64fe68) | 2026-03-06 17:29 |
+| Quorum Business Solutions | Data Engineer I (Base Camp) | Houston, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ba37e62a9a87f91a) | 2026-03-06 17:29 |
+| Texas Comptroller of Public Accounts | TxDMV - Data Analyst - Senior BI Developer (Remote in Texas) | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5b98eb455b4295de) | 2026-03-06 17:29 |
+| Texas Comptroller of Public Accounts | TxDMV - Systems Analyst - Data Engineer (Remote in TX) | TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=73e61a163308157a) | 2026-03-06 17:29 |
+| Openkyber | AI Agent Developer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5a2ad11ba93593c4) | 2026-03-06 17:29 |
+| Openkyber | AI Agent Developer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=351ba96e7e08391a) | 2026-03-06 17:29 |
+| Innovaccer | Site Reliability Engineer II | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=20b59922ac0a0969) | 2026-03-06 17:29 |
+| Optum | Senior Big Data Software Engineer Remote | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a41f510e2e081307) | 2026-03-06 17:29 |
+| Openkyber | Regulatory Compliance Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c43803189a7eb93f) | 2026-03-06 17:29 |
+| Openkyber | Azure Security Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f579d8b45d3c5251) | 2026-03-06 17:29 |
+| jamf | DevOps Engineer II (CI/CD) | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=79e35d1cd7a86f17) | 2026-03-06 17:29 |
+| Openkyber | Kubernetes Security Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41718eb34508c965) | 2026-03-06 17:29 |
+| Openkyber | Expert Cloud Security Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b8b47326f23edff) | 2026-03-06 17:29 |
+| The University of Michigan | Senior Applications Programmer/Analyst (Hybrid) | Ann Arbor, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c8b685dab351e4a) | 2026-03-06 17:29 |
 | Texas Department of Motor Vehicles | TxDMV - Systems Analyst - Data Engineer (Remote in TX) | TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=934456836d756b7d) | 2026-03-06 16:30 |
 | Texas Department of Motor Vehicles | TxDMV - Data Analyst - Senior BI Developer (Remote in Texas) | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4fb5c05e83aa7c0e) | 2026-03-06 16:30 |
 | Creative Information Technology India | Cloud Data Platform Administrator – Remote | Falls Church, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9dc4962750543485) | 2026-03-06 16:30 |
@@ -793,9 +807,6 @@ Last updated: 2026-03-06 16:30
 | Openkyber | Kafka Schema Registry Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3bde666c6b8715b) | 2026-03-02 17:38 |
 | Openkyber | Kafka Implementation Consultant | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e2d881962d3b864) | 2026-03-02 17:38 |
 | Openkyber | Kafka API Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03dfa487d865ac88) | 2026-03-02 17:38 |
-| Digital Dhara LLC | Data Architect – Health Care Payer Domain | Philadelphia, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bb9633621ca2925b) | 2026-03-02 16:34 |
-| Visa | Data Engineer | Foster City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e1534e35cf264fdf) | 2026-03-02 16:34 |
-| Credify Services | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5b23147f1037240) | 2026-03-02 16:34 |
 
 
 ---
