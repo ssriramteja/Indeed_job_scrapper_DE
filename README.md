@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 08:28
+Last updated: 2026-03-06 09:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| General Motors (GM) | AV Safety Engineering Analytics AI/ML Engineer (GPSSC) | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1b0a8c3e1d955c79) | 2026-03-06 09:30 |
+| Boeing | Senior Digital Engineer – Full Stack & Systems Architecture | Berkeley, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5360d83db3589d68) | 2026-03-06 09:30 |
+| Boeing | Senior Digital Engineer – Full Stack & Systems Architecture | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=12a4a8cde3354706) | 2026-03-06 09:30 |
+| nan | Sr Software Engineer (Site Reliability Engineering) (2026-10114) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b5ab755eddd54b18) | 2026-03-06 09:30 |
+| General Motors (GM) | AV Safety Engineering Analytics Simulation Engineer (GPSSC) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4b9eec46bbab109b) | 2026-03-06 09:30 |
+| Mutual of Omaha | Data Engineer-Remote | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cc1efbee94e32a9) | 2026-03-06 09:30 |
+| General Motors (GM) | Senior AI/ML Scientist | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=300d4ca14be662c3) | 2026-03-06 09:30 |
+| General Motors (GM) | AV Safety Engineering Analytics Engineer (GPSSC) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60da6f50aaadfe48) | 2026-03-06 09:30 |
+| nan | Visualization Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b28a6ad6f45c5471) | 2026-03-06 09:30 |
+| ALTIMATE | Product Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=95f4b6534ba4c3cd) | 2026-03-06 09:30 |
 | Morrison Healthcare | SENIOR DATA ENGINEER (REMOTE) | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d530073f998c3698) | 2026-03-06 07:34 |
 | Walkme | DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00aac4a1caed5c4b) | 2026-03-06 07:34 |
 | JLL | Senior BI Analyst | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ad414f3a9ab0a2bc) | 2026-03-06 06:37 |
