@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 18:33
+Last updated: 2026-03-06 19:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Castleton Commodities International | Senior Site Reliability Engineer | Stamford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=81d647606f8497de) | 2026-03-06 19:29 |
+| ACR Technology Inc | Data Engineer (Only local to California, W2, GC and USC ) | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c24670d848e01b14) | 2026-03-06 19:29 |
+| Fleetpride | Data Architect | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ef083ba2e516b91) | 2026-03-06 19:29 |
+| The Wyanoke Group | Software Engineer | Thorofare, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6982bb757f23e348) | 2026-03-06 19:29 |
+| DLA Piper | Data Engineer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8ec2f40b7c71d98) | 2026-03-06 19:29 |
 | SiriusPoint | Sr. Integration Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a476b32ebbd3f63e) | 2026-03-06 18:33 |
 | Heartland Veterinary Partners | Visualization Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ae96e01998eff74) | 2026-03-06 18:33 |
 | Quorum Business Solutions | Data Engineer I (Base Camp) | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=59a4bbdbdd64fe68) | 2026-03-06 17:29 |
@@ -781,18 +786,6 @@ Last updated: 2026-03-06 18:33
 | Target | Sr Engineer - Interactive Compute | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48fd0ce1b8d654bd) | 2026-03-02 20:27 |
 | SAP | Senior Data Platform SIEM Engineer | Newtown Square, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f6fef1f451ba88d8) | 2026-03-02 19:32 |
 | A2R Global Private Limited | Sr. Palantir Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d3b46185a95c7ee3) | 2026-03-02 19:32 |
-| Realign | Full Stack Engineer (React + Node.js)-3 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8b7d8b7b5770a45b) | 2026-03-02 18:34 |
-| Brillio LLC | Node JS Architect – R01560914 | St. Louis, MO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=cfa80a7ee6afe55d) | 2026-03-02 18:34 |
-| The Cigna Group | Software Engineering Senior Advisors- Hybrid | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b9948a6eb09905fb) | 2026-03-02 18:34 |
-| Fairview Health Services | Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=61410e9fc055bb62) | 2026-03-02 18:34 |
-| Building Service 32BJ Benefit Funds | Python Developer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3f42ee3004396e21) | 2026-03-02 18:34 |
-| Nuve Controls LLC | AWS Cloud Infrastructure Engineer – Large-Scale IoT (1M+ Devices) | Tustin, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f5a72eee9e983c45) | 2026-03-02 18:34 |
-| Robots & Pencils | Solutions Architect - AI | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e9e0f4d3981383ee) | 2026-03-02 18:34 |
-| nan | Sr. SQL Developer | Walton Hills, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a53840554b54acf8) | 2026-03-02 18:34 |
-| OmniTrust Technologies | Software Engineer | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=861d98ce8ccd9dd9) | 2026-03-02 18:34 |
-| GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9c635f2175e2d81b) | 2026-03-02 18:34 |
-| Fusion Risk Management | Senior Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bcd62f4513b7126c) | 2026-03-02 18:34 |
-| Realign | Azure Databricks Architect-5 | Mahwah, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ddae10e310d8abb2) | 2026-03-02 18:34 |
 
 
 ---
