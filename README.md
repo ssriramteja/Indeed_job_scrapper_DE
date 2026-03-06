@@ -1,11 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 01:20
+Last updated: 2026-03-06 04:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Visa | Software Engineer - Sr. Consultant level - DevOps | Austin, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=28ca6064f69a534e) | 2026-03-06 04:02 |
+| Lincoln Financial Group | Senior Analyst, Risk Data Engineering | Radnor, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4c054d24fbe757c5) | 2026-03-06 04:02 |
+| Information Technology Senior Management Forum | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3c46cd564ba01b6c) | 2026-03-06 04:02 |
+| Information Technology Senior Management Forum | Senior Data Engineer (Python, Spark, AWS) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6d52dce08f82e688) | 2026-03-06 04:02 |
+| Information Technology Senior Management Forum | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=175b82022b025c3d) | 2026-03-06 04:02 |
+| Caris Life Sciences | Senior Software Engineer - Clinical Systems (Lab Ops) | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb8de235a110895a) | 2026-03-06 04:02 |
+| North Carolina State University | REFRAME Platform Architect | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=22e67d3b77565a62) | 2026-03-06 04:02 |
+| The Evolvers Group | Cloud Data Platform Administartor | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3909667b0ea7e00b) | 2026-03-06 04:02 |
+| Humana | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f059a12d002721db) | 2026-03-06 04:02 |
+| General Motors (GM) | Senior Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ba5a22f3941b5b26) | 2026-03-06 04:02 |
+| Oracle | Senior Site Reliability Developer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3fedd79bbbee99bb) | 2026-03-06 04:02 |
+| Palo Alto Networks | Sr. Business Development Consultant | Santa Clara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1da3fc8da87b47c9) | 2026-03-06 04:02 |
+| NextPower | Software Engineering Intern – Data Engineering (Cloud & Streaming) | Fremont, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=28e588be3c533008) | 2026-03-06 04:02 |
+| Providge Consulting | Senior Cloud Systems Engineer (Databricks Administrator) | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e094ab218ebab2ed) | 2026-03-06 04:02 |
+| DocuSign | Senior Software Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed1b9b0328def6aa) | 2026-03-06 04:02 |
+| SAP | SAP NS2 Senior HANA Cloud DevOps Engineer | Newtown Square, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8999a6d9da6831ef) | 2026-03-06 04:02 |
+| Callaway Golf | Sr Data Engineer | Carlsbad, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ae59fccd3421dc5) | 2026-03-06 04:02 |
+| Tata Consultancy Services (TCS) | Snowflake Administrator | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=085de5867e567658) | 2026-03-06 04:02 |
+| Carlsmed | Sr. Full Stack Software Engineer (Onsite - San Diego) | Carlsbad, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47ffb86f604e14df) | 2026-03-06 04:02 |
+| Walkme | DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=36669407e627b585) | 2026-03-06 04:02 |
 | University of Utah | Data Engineer III | Salt Lake City, UT, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=ef71ae9d0c429cf8) | 2026-03-06 01:20 |
 | Spire Energy | Data Engineer III | Birmingham, AL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=df7314eb6a45de22) | 2026-03-06 01:20 |
 | Micron Technology | Machine Learning Engineer | Boise, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fc1fd3766a845e85) | 2026-03-06 01:20 |
