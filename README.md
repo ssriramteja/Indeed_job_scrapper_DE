@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 07:34
+Last updated: 2026-03-06 08:28
 
 ### 🚀 Daily Job Matches
 
@@ -767,7 +767,6 @@ Last updated: 2026-03-06 07:34
 | Visa | Data Engineer | Foster City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e1534e35cf264fdf) | 2026-03-02 16:34 |
 | Credify Services | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5b23147f1037240) | 2026-03-02 16:34 |
 | ISHIR | Forward Deployed Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cc6b92ec89fa5a3) | 2026-03-02 15:34 |
-| simple construction | Systems Engineering - Senior Engineer | Flushing, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6722fcc4d5da627b) | 2026-03-02 07:43 |
 
 
 ---
