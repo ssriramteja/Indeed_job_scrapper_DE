@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 10:16
+Last updated: 2026-03-07 11:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 11:13 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 11:13 |
 | JPMorganChase | Software Engineer III- DevOps | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f1b9b4aa91a59247) | 2026-03-07 10:16 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 10:16 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 10:16 |
 | GEICO | Senior Full Stack Engineer (HYBRID) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53fd7ffe892187b7) | 2026-03-07 10:16 |
 | Metropolitan Transportation Authority | Senior Software Engineer - Backend (Cloud Architecture, Workflow Automation & Systems Integration) | New York, NY, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=8cf8c642c375c95b) | 2026-03-07 09:21 |
 | Hilton | Senior Analyst, Project Support - Strategic Data Operations | Addison, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=54227ad96f5d5d38) | 2026-03-07 09:21 |
@@ -702,7 +702,6 @@ Last updated: 2026-03-07 10:16
 | HCA Healthcare | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a53eba2ddb1389c4) | 2026-03-03 11:26 |
 | HCA Healthcare | Senior Solution Architect | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a7c80e2086f0d108) | 2026-03-03 11:26 |
 | Ai Vantage | Data Architect | Vienna, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87747bfcd30cdbc2) | 2026-03-03 11:26 |
-| JPMorganChase | Backend Software Engineer III - API Platform | Palo Alto, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=fd1c3ba542522bad) | 2026-03-03 10:31 |
 
 
 ---
