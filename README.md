@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 19:16
+Last updated: 2026-03-07 20:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 19:16 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 19:16 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 20:16 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 20:16 |
 | PROJITT LLC | Senior Backend Engineer - Startup | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7e4e2ae841a0e1cc) | 2026-03-07 17:15 |
 | Capital One | Senior Data Engineer (Intelligent Foundations and Experiences) | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=de1c1e8c1f767d2c) | 2026-03-07 15:15 |
 | Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b5f4d600520d0e96) | 2026-03-07 15:15 |
@@ -676,15 +676,6 @@ Last updated: 2026-03-07 19:16
 | Prospect Infosys Inc | Child Support - Senior Full Stack AI/Java Developer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f9d82ce6deb44503) | 2026-03-03 20:24 |
 | nan | AI Engineer | Orlando, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=096d9e696ae3fadd) | 2026-03-03 20:24 |
 | ISHIR | Forward Deployed Engineer (FDE) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15ecc0cd2b5a2111) | 2026-03-03 20:24 |
-| ALTRUIST | Senior Software Engineer, Cloud Infrastructure | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=cc6ad57eba624292) | 2026-03-03 19:34 |
-| ALTRUIST | Senior Software Engineer, Cloud Infrastructure | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=15325ad687b27337) | 2026-03-03 19:34 |
-| Rancho BioSciences | Associate/Consultant Engineer - Remote | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=72630d316687619c) | 2026-03-03 19:34 |
-| Acrisure LLC | Software Engineer, Data | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2b12dfc8a5459a4f) | 2026-03-03 19:34 |
-| Celestica | Senior AI Engineer, IT Solutions 1 | NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ee982b6d11792f00) | 2026-03-03 19:34 |
-| Sumitomo Group | Senior Risk Developer (Python/Azure) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7762d03304071b69) | 2026-03-03 19:34 |
-| hatch IT | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b260e746e7b9c233) | 2026-03-03 19:34 |
-| hatch IT | Site Reliability Engineer (SRE) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c08c735142c13e1b) | 2026-03-03 19:34 |
-| Kapitus | DevSecOps Engineer III | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=31099f3a1c434171) | 2026-03-03 19:34 |
 
 
 ---
