@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 04:56
+Last updated: 2026-03-07 05:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 05:34 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 05:34 |
+| Conduent | Data Warehouse ETL Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39ddce11ca45a41a) | 2026-03-07 05:34 |
 | Tata Consultancy Services (TCS) | Data Engineer | Irving, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0a5b8a36a5afef54) | 2026-03-07 04:56 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 04:56 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 04:56 |
 | Fiserv | Senior QA Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d8f4b98e26bdff3) | 2026-03-07 04:56 |
 | GE Aerospace | Sr. Data Engineer | OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=029a23ee4433cc18) | 2026-03-07 03:53 |
 | Sedgwick | Senior Data Engineer- Data Science & AI | TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=80e5dda0d2bba57a) | 2026-03-07 03:53 |
