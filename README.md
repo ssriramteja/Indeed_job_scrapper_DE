@@ -1,17 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 08:20
+Last updated: 2026-03-07 09:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Metropolitan Transportation Authority | Senior Software Engineer - Backend (Cloud Architecture, Workflow Automation & Systems Integration) | New York, NY, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=8cf8c642c375c95b) | 2026-03-07 09:21 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 09:21 |
+| Hilton | Senior Analyst, Project Support - Strategic Data Operations | Addison, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=54227ad96f5d5d38) | 2026-03-07 09:21 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 09:21 |
+| Rivian and Volkswagen Group Technologies | Senior DevOps Software Engineer, Firmware & CI/CD | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f1de60ecf2851e5) | 2026-03-07 09:21 |
+| Paychex, Inc. | Data Engineer | Rochester, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e69293272ecf929) | 2026-03-07 09:21 |
+| Concord Music Group, Inc. | Senior Software Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a02820021c063a20) | 2026-03-07 09:21 |
 | Alter Domus | Senior Data Engineer | Salt Lake City, UT, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=61076be5c1091dff) | 2026-03-07 08:20 |
 | Washon MedData Inc | EDP Cloud Data Platform Administrator - US Citizen or Green Card | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=217b9f59d954e67c) | 2026-03-07 08:20 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 08:20 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 08:20 |
 | NTT DATA | Senior GCP Cloud Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9259990ef107da39) | 2026-03-07 08:20 |
-| The Walt Disney Company | Sr. Software Engineer | Celebration, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ece4794b980b0cdd) | 2026-03-07 08:20 |
 | Daniels Health | Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=77cecd23c45b016d) | 2026-03-07 07:23 |
 | Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=40494b4ecc16d393) | 2026-03-07 07:23 |
 | BV Teck | Spark Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b946e93ff6faed4) | 2026-03-07 06:29 |
@@ -697,7 +701,6 @@ Last updated: 2026-03-07 08:20
 | HCA Healthcare | Senior Solution Architect | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a7c80e2086f0d108) | 2026-03-03 11:26 |
 | Ai Vantage | Data Architect | Vienna, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87747bfcd30cdbc2) | 2026-03-03 11:26 |
 | JPMorganChase | Backend Software Engineer III - API Platform | Palo Alto, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=fd1c3ba542522bad) | 2026-03-03 10:31 |
-| APi Group, Inc. | Senior Systems Engineer - Oracle Cloud Infrastructure (OCI) | New Brighton, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6450f77aa7cdc7c1) | 2026-03-03 08:31 |
 
 
 ---
