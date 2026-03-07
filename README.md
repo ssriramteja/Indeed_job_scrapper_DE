@@ -1,13 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 07:23
+Last updated: 2026-03-07 08:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 07:23 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 07:23 |
+| Alter Domus | Senior Data Engineer | Salt Lake City, UT, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=61076be5c1091dff) | 2026-03-07 08:20 |
+| Washon MedData Inc | EDP Cloud Data Platform Administrator - US Citizen or Green Card | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=217b9f59d954e67c) | 2026-03-07 08:20 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 08:20 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 08:20 |
+| NTT DATA | Senior GCP Cloud Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9259990ef107da39) | 2026-03-07 08:20 |
+| The Walt Disney Company | Sr. Software Engineer | Celebration, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ece4794b980b0cdd) | 2026-03-07 08:20 |
 | Daniels Health | Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=77cecd23c45b016d) | 2026-03-07 07:23 |
 | Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=40494b4ecc16d393) | 2026-03-07 07:23 |
 | BV Teck | Spark Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b946e93ff6faed4) | 2026-03-07 06:29 |
@@ -694,59 +698,6 @@ Last updated: 2026-03-07 07:23
 | Ai Vantage | Data Architect | Vienna, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87747bfcd30cdbc2) | 2026-03-03 11:26 |
 | JPMorganChase | Backend Software Engineer III - API Platform | Palo Alto, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=fd1c3ba542522bad) | 2026-03-03 10:31 |
 | APi Group, Inc. | Senior Systems Engineer - Oracle Cloud Infrastructure (OCI) | New Brighton, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6450f77aa7cdc7c1) | 2026-03-03 08:31 |
-| Smile Digital Health | Cloud Engineer- Remote US | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f25625460182eb8e) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6006f51c65e9f139) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=205804a055fd2049) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5c5706918e358a0) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=10a398f9aeeb6c7d) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c8977f5b4ab10d23) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e93b71ab143505ef) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=640d49c55b368f21) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d37ce07d5d4393f3) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | MS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e10aa5fc172c0cf9) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=58a1d20202a2aef8) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a8185d403faf25e2) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6a014ab60dbd75f0) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | WV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f103c6f8f1eabe61) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3ae886d34419a9a7) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7cfd83638c49b733) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=592db9bfc62c64e2) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=83814a502692afe0) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1a7005ca8416f01f) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | ME, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=616e989c777fcd64) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4a46aa375a4da0e2) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6904e697ef07baaf) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dc64b2070c5c6f8) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3ee7574e666ce713) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e99bc4057502816b) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8810eb13c55de856) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | MT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7372945ed1cbee22) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e06b4f714255d00b) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | ID, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c81cd4c9bce9e715) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8cec639e703e1f70) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c7628f7ec7ab09a9) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | DE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d764f5358afc422f) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | NV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95628c711a619430) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b4e67862f3b9941) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2963649fc0f492cf) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=745b60449ed066d9) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | SD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8c80024050212c2d) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | ND, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4b032019de44f8fc) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9a0ff3586081cca1) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c2a1744462634cc8) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=49f69babc93629c9) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d8ca948db3aefbff) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=61326d67184dc890) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c4f0c70aeab55966) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | WY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=84f5e91eebbc9f06) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2f2b8dad0cc443b9) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d7e348dae6016f17) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c0cf9334f4d71f83) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9c6c1388c411eb4) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19d19e0ea73bf12c) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f611a382e3aa720) | 2026-03-03 07:37 |
-| Ascensus | Software Engineer | Dresher, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a3b73f36e3384d3) | 2026-03-03 07:37 |
-| CVS Health | Senior Software Development Engineer | Woonsocket, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98652de9480b1951) | 2026-03-03 07:37 |
 
 
 ---
