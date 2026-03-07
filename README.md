@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 20:16
+Last updated: 2026-03-07 21:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 20:16 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 20:16 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 21:14 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 21:14 |
+| Tata Consultancy Services (TCS) | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=51a019ac629e7fd8) | 2026-03-07 21:14 |
 | PROJITT LLC | Senior Backend Engineer - Startup | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7e4e2ae841a0e1cc) | 2026-03-07 17:15 |
 | Capital One | Senior Data Engineer (Intelligent Foundations and Experiences) | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=de1c1e8c1f767d2c) | 2026-03-07 15:15 |
 | Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b5f4d600520d0e96) | 2026-03-07 15:15 |
@@ -670,12 +671,6 @@ Last updated: 2026-03-07 20:16
 | PEARLY | Senior Software Engineer - Data Platform | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e77317858ff838d) | 2026-03-03 21:26 |
 | PEARLY | Senior Software Engineer - Data Platform | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9737f288d965528f) | 2026-03-03 21:26 |
 | MetLife | Full Stack Software Engineer - Observability | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=08caee1edcf07e86) | 2026-03-03 21:26 |
-| Quorum Software | Data Engineer II (Hybrid Work Schedule) | Houston, TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=76a633e7c45d5fa0) | 2026-03-03 20:24 |
-| Popular, Inc. | Sr. Data Modeler | San Juan, PR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6d86b9bb645724e6) | 2026-03-03 20:24 |
-| nan | POS and Systems Integration Administrator | Silver Creek, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=eeab26e4dddac1a9) | 2026-03-03 20:24 |
-| Prospect Infosys Inc | Child Support - Senior Full Stack AI/Java Developer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f9d82ce6deb44503) | 2026-03-03 20:24 |
-| nan | AI Engineer | Orlando, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=096d9e696ae3fadd) | 2026-03-03 20:24 |
-| ISHIR | Forward Deployed Engineer (FDE) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15ecc0cd2b5a2111) | 2026-03-03 20:24 |
 
 
 ---
