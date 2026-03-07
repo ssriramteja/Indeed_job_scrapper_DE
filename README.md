@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 16:18
+Last updated: 2026-03-07 17:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 16:18 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 16:18 |
+| PROJITT LLC | Senior Backend Engineer - Startup | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7e4e2ae841a0e1cc) | 2026-03-07 17:15 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 17:15 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 17:15 |
 | Capital One | Senior Data Engineer (Intelligent Foundations and Experiences) | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=de1c1e8c1f767d2c) | 2026-03-07 15:15 |
 | Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b5f4d600520d0e96) | 2026-03-07 15:15 |
 | Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=418b09b41502f7df) | 2026-03-07 15:15 |
@@ -698,7 +699,6 @@ Last updated: 2026-03-07 16:18
 | Openkyber | AWS Network Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=571ca52ff80cfc56) | 2026-03-03 17:36 |
 | Openkyber | Azure Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29fd50cad36943ce) | 2026-03-03 17:36 |
 | New York Post | Software Engineering Intern | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97d6781b2e7b9433) | 2026-03-03 17:36 |
-| LTIMindtree | Senior Data Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9649d08cb62a9ac0) | 2026-03-03 16:37 |
 
 
 ---
