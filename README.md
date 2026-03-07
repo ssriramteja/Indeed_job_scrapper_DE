@@ -1,15 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 09:21
+Last updated: 2026-03-07 10:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III- DevOps | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f1b9b4aa91a59247) | 2026-03-07 10:16 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 10:16 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 10:16 |
+| GEICO | Senior Full Stack Engineer (HYBRID) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53fd7ffe892187b7) | 2026-03-07 10:16 |
 | Metropolitan Transportation Authority | Senior Software Engineer - Backend (Cloud Architecture, Workflow Automation & Systems Integration) | New York, NY, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=8cf8c642c375c95b) | 2026-03-07 09:21 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 09:21 |
 | Hilton | Senior Analyst, Project Support - Strategic Data Operations | Addison, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=54227ad96f5d5d38) | 2026-03-07 09:21 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 09:21 |
 | Rivian and Volkswagen Group Technologies | Senior DevOps Software Engineer, Firmware & CI/CD | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f1de60ecf2851e5) | 2026-03-07 09:21 |
 | Paychex, Inc. | Data Engineer | Rochester, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e69293272ecf929) | 2026-03-07 09:21 |
 | Concord Music Group, Inc. | Senior Software Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a02820021c063a20) | 2026-03-07 09:21 |
