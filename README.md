@@ -1,13 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 05:34
+Last updated: 2026-03-07 06:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 05:34 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 05:34 |
+| BV Teck | Spark Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b946e93ff6faed4) | 2026-03-07 06:29 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 06:29 |
+| Realign | Data Platform Engineer-4 | Parsippany-Troy Hills, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d9ed45f65d56706e) | 2026-03-07 06:29 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 06:29 |
+| Expedia Group | Senior Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5ffeae73f778fcd8) | 2026-03-07 06:29 |
+| Realign | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=70fa931bf1e55748) | 2026-03-07 06:29 |
+| Expedia Group | Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4aa67c824506bfe6) | 2026-03-07 06:29 |
+| BV Teck | Databricks Platform Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4acce1067bbdaf41) | 2026-03-07 06:29 |
+| Henderson Brothers Inc. | Data Analyst | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e42057f538af783d) | 2026-03-07 06:29 |
+| Global Partners LP | Analytics Engineer | Waltham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a42bdfce459e149d) | 2026-03-07 06:29 |
+| Humana | API Developer - Sr Software Engineer | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c28bf17a880cb1a7) | 2026-03-07 06:29 |
+| Realign | Teradata Developer-1 | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1f1dca4a550ee320) | 2026-03-07 06:29 |
 | Conduent | Data Warehouse ETL Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39ddce11ca45a41a) | 2026-03-07 05:34 |
 | Tata Consultancy Services (TCS) | Data Engineer | Irving, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0a5b8a36a5afef54) | 2026-03-07 04:56 |
 | Fiserv | Senior QA Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d8f4b98e26bdff3) | 2026-03-07 04:56 |
@@ -735,7 +745,6 @@ Last updated: 2026-03-07 05:34
 | CVS Health | Senior Software Development Engineer | NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f611a382e3aa720) | 2026-03-03 07:37 |
 | Ascensus | Software Engineer | Dresher, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a3b73f36e3384d3) | 2026-03-03 07:37 |
 | CVS Health | Senior Software Development Engineer | Woonsocket, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98652de9480b1951) | 2026-03-03 07:37 |
-| Dematic | Senior Data Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f9bde3d8a51e4f79) | 2026-03-03 05:43 |
 
 
 ---
