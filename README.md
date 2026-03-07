@@ -1,16 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 15:15
+Last updated: 2026-03-07 16:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 16:18 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 16:18 |
 | Capital One | Senior Data Engineer (Intelligent Foundations and Experiences) | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=de1c1e8c1f767d2c) | 2026-03-07 15:15 |
 | Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b5f4d600520d0e96) | 2026-03-07 15:15 |
 | Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=418b09b41502f7df) | 2026-03-07 15:15 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 15:15 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 15:15 |
 | Disney Experiences | Sr. Software Engineer | Celebration, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d14bdf995edae51e) | 2026-03-07 15:15 |
 | Comcast | Machine Learning Engineer 1 | Philadelphia, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d9f4cd1d239989a5) | 2026-03-07 13:34 |
 | JPMorganChase | Software Engineer III- DevOps | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f1b9b4aa91a59247) | 2026-03-07 10:16 |
@@ -699,10 +699,6 @@ Last updated: 2026-03-07 15:15
 | Openkyber | Azure Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29fd50cad36943ce) | 2026-03-03 17:36 |
 | New York Post | Software Engineering Intern | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97d6781b2e7b9433) | 2026-03-03 17:36 |
 | LTIMindtree | Senior Data Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9649d08cb62a9ac0) | 2026-03-03 16:37 |
-| nan | Software Engineer II - Scala | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d148fa8c6ae39fd8) | 2026-03-03 15:40 |
-| NXLog | Platform-DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e7328772f0c8abe) | 2026-03-03 15:40 |
-| Halvik | Junior Full Stack Developer | Alexandria, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=373084662062e4b3) | 2026-03-03 15:40 |
-| Vytwo Technologies | Senior Data Engineer(61249-1) | Prosper, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5fdd13d31dd0aa1) | 2026-03-03 15:40 |
 
 
 ---
