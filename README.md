@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-06 23:20
+Last updated: 2026-03-07 01:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| PartnerCo | Senior Software Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0545991ebbdd6454) | 2026-03-07 01:12 |
+| PartnerCo | Senior Software Engineer | Lehi, UT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f130792df2134b12) | 2026-03-07 01:12 |
+| FINGERPRINT | Senior Backend Engineer, Core APIsNew | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=648c5fd6afaad69e) | 2026-03-07 01:12 |
+| Tyler Technologies | CloudOps Engineer – Platform Engineering (EKS) | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=526767881c72befd) | 2026-03-07 01:12 |
+| Tyler Technologies | CloudOps Engineer – Platform Engineering (EKS) | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=896e1523c301ce2f) | 2026-03-07 01:12 |
+| Tyler Technologies | CloudOps Engineer – Platform Engineering (EKS) | Lakewood, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=88577baa482b8f47) | 2026-03-07 01:12 |
+| Tyler Technologies | CloudOps Engineer – Platform Engineering (EKS) | Yarmouth, ME, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8c68f9b0d2e63a71) | 2026-03-07 01:12 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 01:12 |
+| Paramount | Sr Data Engineer | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9eaec25ac9a4eccb) | 2026-03-07 01:12 |
+| American Medical Association (AMA) | Sr. Data Engineer (Hybrid) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=58b8869ff6d42582) | 2026-03-07 01:12 |
+| Western Union | Software Engineering Architect | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1812a5b73a77a5b) | 2026-03-07 01:12 |
+| Vector Resources, Inc. | Machine Learning / Software Engineer | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91496c96bd53f770) | 2026-03-07 01:12 |
+| Tyndale Company | Machine Learning Engineer | Pipersville, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e10d417269b254f) | 2026-03-07 01:12 |
+| The Wyanoke Group | AI Engineer | Thorofare, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d4c14d111aa82140) | 2026-03-07 01:12 |
+| Crisis Text Line | Senior Site Reliability Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=921045e38c294529) | 2026-03-07 01:12 |
+| BlueVoyant | Junior Dev Ops Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c61d3171a69dbbf1) | 2026-03-07 01:12 |
 | Metropolitan Transportation Authority | Senior Software Engineer - Backend (Cloud Architecture, Workflow Automation & Systems Integration) | New York, NY, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=924e4d3af2c44fbe) | 2026-03-06 23:20 |
 | Openkyber | AWS Network Engineer | AK, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=9178b9a80d2d5100) | 2026-03-06 23:20 |
 | Stitch Consulting Services, Inc. | Technical Architect - Databricks | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0fc456e58c1064f0) | 2026-03-06 23:20 |
@@ -26,12 +42,10 @@ Last updated: 2026-03-06 23:20
 | GSK | Compute Platform Engineer II | Collegeville, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=37eab012690da57c) | 2026-03-06 23:20 |
 | GSK | Compute Platform Engineer II | Cambridge, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24b371e6b9aabd95) | 2026-03-06 23:20 |
 | GSK | Compute Platform Engineer II | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4f770f71be84a3d7) | 2026-03-06 23:20 |
-| Tyndale Company | Machine Learning Engineer | Pipersville, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e10d417269b254f) | 2026-03-06 23:20 |
 | Openkyber | Associate Cloud Security Analyst | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c2ff466153d7e538) | 2026-03-06 23:20 |
 | Openkyber | API Security Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c5cdefea95134fef) | 2026-03-06 23:20 |
 | Openkyber | API Security Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eab8b2d540dc7593) | 2026-03-06 23:20 |
 | The University of Chicago | Infrastructure Platform Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=40b90009cba8c2c9) | 2026-03-06 23:20 |
-| The Walt Disney Company | Sr. Software Engineer | Celebration, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ece4794b980b0cdd) | 2026-03-06 23:20 |
 | Docuphase | DevOps Engineer | Clearwater, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d858dceda163f311) | 2026-03-06 22:20 |
 | Docuphase | DevOps Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c845115326a561bc) | 2026-03-06 22:20 |
 | Hudson Manpower | Data Engineer with AI & Kubernetes (USC/GC/OPT) W2 | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7356480f3cd54878) | 2026-03-06 22:20 |
