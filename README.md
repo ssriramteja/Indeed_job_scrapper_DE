@@ -1,13 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 22:15
+Last updated: 2026-03-07 23:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 22:15 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 22:15 |
+| Openkyber | API Threat Intelligence Analyst | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f5e73b6b4f92a343) | 2026-03-07 23:15 |
+| Openkyber | Microsoft Threat Intelligence Analyst | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6eed21330f07799b) | 2026-03-07 23:15 |
+| Openkyber | CrowdStrike Charlotte AI Engineer | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d2a426fbf9b09b9a) | 2026-03-07 23:15 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 23:15 |
+| Openkyber | CrowdStrike GenAI Security Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07730b1f5d6d529d) | 2026-03-07 23:15 |
+| Openkyber | CrowdStrike | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2680cd4cb9c331ec) | 2026-03-07 23:15 |
+| Openkyber | Falcon Fusion Automation Engineer | MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=72174a3cd5d64195) | 2026-03-07 23:15 |
+| Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af4ddd4ed5ac47a5) | 2026-03-07 23:15 |
+| St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4bbc3103892741b1) | 2026-03-07 23:15 |
+| Openkyber | CrowdStrike GenAI Security Engineer | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8710c024486747ff) | 2026-03-07 23:15 |
+| Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c27bc0cbf92e5826) | 2026-03-07 23:15 |
 | Tata Consultancy Services (TCS) | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=51a019ac629e7fd8) | 2026-03-07 21:14 |
 | PROJITT LLC | Senior Backend Engineer - Startup | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7e4e2ae841a0e1cc) | 2026-03-07 17:15 |
 | Capital One | Senior Data Engineer (Intelligent Foundations and Experiences) | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=de1c1e8c1f767d2c) | 2026-03-07 15:15 |
@@ -655,16 +664,6 @@ Last updated: 2026-03-07 22:15
 | Openkyber | SSO Administrator | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b109c86f55c8c21f) | 2026-03-03 23:18 |
 | Openkyber | DOCSIS Testing Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e134c7566cf151c) | 2026-03-03 23:18 |
 | American Bureau of Shipping (ABS) | Senior Data Scientist - AI Practice Team | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=540f72e9dcda8dc2) | 2026-03-03 23:18 |
-| Surgery Partners | Data Engineer | Nashville, TN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=17c87f0de0ddb952) | 2026-03-03 22:20 |
-| ELLKAY, LLC | Sr. Cloud Software Engineer | Elmwood Park, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=28b63f4ef510667a) | 2026-03-03 22:20 |
-| Palomar College | Web Developer | San Marcos, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6dfe8d5c4946b355) | 2026-03-03 22:20 |
-| CapTech Consulting | Data Architect (AWS, Azure, GCP) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3fdaab0a9b0d0cc5) | 2026-03-03 22:20 |
-| Infoorigin Inc | EXECUTIVE - Senior Full Stack AI/Java Developer - Raleigh, NC | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6954fce33a80b920) | 2026-03-03 22:20 |
-| Regions Financial | Infrastructure Architect | Hoover, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0fe0f50a558682d2) | 2026-03-03 22:20 |
-| ELLKAY, LLC | Data Architect | Elmwood Park, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c7bfd917914d4728) | 2026-03-03 22:20 |
-| ABCorp NA Inc. | Sr. Analytics Engineer, Financial & Card Issuance | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d8f6d93b707b783) | 2026-03-03 22:20 |
-| FullPath | Full-Stack Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43ff07c409bb7f44) | 2026-03-03 22:20 |
-| Surgery Partners | Reporting Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=739e08afe4ba1176) | 2026-03-03 22:20 |
 
 
 ---
