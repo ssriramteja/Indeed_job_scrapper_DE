@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 17:15
+Last updated: 2026-03-07 18:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 18:22 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 18:22 |
 | PROJITT LLC | Senior Backend Engineer - Startup | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7e4e2ae841a0e1cc) | 2026-03-07 17:15 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 17:15 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 17:15 |
 | Capital One | Senior Data Engineer (Intelligent Foundations and Experiences) | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=de1c1e8c1f767d2c) | 2026-03-07 15:15 |
 | Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b5f4d600520d0e96) | 2026-03-07 15:15 |
 | Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=418b09b41502f7df) | 2026-03-07 15:15 |
@@ -690,15 +690,6 @@ Last updated: 2026-03-07 17:15
 | Digital Dhara LLC | ETL Testing with Azure Databricks in Healthcare | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9af37a4075a8760f) | 2026-03-03 18:37 |
 | Lodging by Liberty DBA Charter Furniture | Full Stack Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bfc18b55e9187d3f) | 2026-03-03 18:37 |
 | CrowdStrike | Sr. Software Engineer - Risk Platform (Hybrid) | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=151fe9868f44f2f1) | 2026-03-03 18:37 |
-| Quorum Business Solutions | Data Engineer II (Hybrid Work Schedule) | Houston, TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=5f1e509811f28e16) | 2026-03-03 17:36 |
-| CloudRay Inc | Data Engineer - Kafka Connect | IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d5df3111682f7946) | 2026-03-03 17:36 |
-| Hitachi Digital Services | Sr. Data Engineer | Reading, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=09ad7ca6161e3e9e) | 2026-03-03 17:36 |
-| Openkyber | Google Cloud Network Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c97eb9417ef8ebcf) | 2026-03-03 17:36 |
-| Openkyber | Azure Network Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=662840de4364e997) | 2026-03-03 17:36 |
-| Openkyber | Azure Network Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7fc978b16714d0d2) | 2026-03-03 17:36 |
-| Openkyber | AWS Network Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=571ca52ff80cfc56) | 2026-03-03 17:36 |
-| Openkyber | Azure Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29fd50cad36943ce) | 2026-03-03 17:36 |
-| New York Post | Software Engineering Intern | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97d6781b2e7b9433) | 2026-03-03 17:36 |
 
 
 ---
