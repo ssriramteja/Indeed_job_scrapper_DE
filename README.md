@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 21:14
+Last updated: 2026-03-07 22:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 21:14 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 21:14 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62476f1563149) | 2026-03-07 22:15 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 22:15 |
 | Tata Consultancy Services (TCS) | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=51a019ac629e7fd8) | 2026-03-07 21:14 |
 | PROJITT LLC | Senior Backend Engineer - Startup | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7e4e2ae841a0e1cc) | 2026-03-07 17:15 |
 | Capital One | Senior Data Engineer (Intelligent Foundations and Experiences) | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=de1c1e8c1f767d2c) | 2026-03-07 15:15 |
@@ -665,12 +665,6 @@ Last updated: 2026-03-07 21:14
 | ABCorp NA Inc. | Sr. Analytics Engineer, Financial & Card Issuance | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d8f6d93b707b783) | 2026-03-03 22:20 |
 | FullPath | Full-Stack Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43ff07c409bb7f44) | 2026-03-03 22:20 |
 | Surgery Partners | Reporting Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=739e08afe4ba1176) | 2026-03-03 22:20 |
-| BGIT India Private Limited | System Integration Test Engineer | Hudson, NH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=426d1d0d6a93918c) | 2026-03-03 21:26 |
-| Tata Consultancy Services (TCS) | Sr DevOPS Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9886d247b0ec7a02) | 2026-03-03 21:26 |
-| PEARLY | Senior Software Engineer - Data Platform | Santa Barbara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=52fbd92226aade92) | 2026-03-03 21:26 |
-| PEARLY | Senior Software Engineer - Data Platform | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e77317858ff838d) | 2026-03-03 21:26 |
-| PEARLY | Senior Software Engineer - Data Platform | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9737f288d965528f) | 2026-03-03 21:26 |
-| MetLife | Full Stack Software Engineer - Observability | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=08caee1edcf07e86) | 2026-03-03 21:26 |
 
 
 ---
