@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 12:30
+Last updated: 2026-03-08 13:35
 
 ### 🚀 Daily Job Matches
 
@@ -568,9 +568,6 @@ Last updated: 2026-03-08 12:30
 | Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9188fd233f524c42) | 2026-03-04 14:33 |
 | Capital One | Senior Software Engineer, Back End (Java, Go, AWS) | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e1b9bbef981d9232) | 2026-03-04 14:33 |
 | Rogue Community College | Database Administrator | OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f9335cc41b5edf2) | 2026-03-04 13:52 |
-| The Cheesecake Factory | Senior Data Engineer | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bf6f08ab2860bc5c) | 2026-03-04 12:36 |
-| Blue Wing Technical | LMS Administrator | Decatur, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6ea5eba4ba63388f) | 2026-03-04 12:36 |
-| Barclays | Incremental CRM - Data Developer 1 | Whippany, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c7931e975a12585) | 2026-03-04 12:36 |
 
 
 ---
