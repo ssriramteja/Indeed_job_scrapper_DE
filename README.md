@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 01:17
+Last updated: 2026-03-08 04:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Rivian and Volkswagen Group Technologies | Sr. Software Systems & Data Engineer | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5f045bd52323b67) | 2026-03-08 04:03 |
 | EV Design | Senior Full Stack Web Developer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=104dfb98c80f44fd) | 2026-03-08 01:17 |
 | Audacy, Inc. | Solutions Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=31813beeef70938d) | 2026-03-08 01:17 |
 | Openkyber | API Threat Intelligence Analyst | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f5e73b6b4f92a343) | 2026-03-07 23:15 |
@@ -599,23 +600,6 @@ Last updated: 2026-03-08 01:17
 | Velvetech | AI Solution Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6435ac5193c56de) | 2026-03-04 05:38 |
 | American Express | Software Engineer (Backend) - Global Dining | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8f71d52efce43e2) | 2026-03-04 05:38 |
 | Skechers | Data Scientist | Hermosa Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bf4b62fe049b84e) | 2026-03-04 05:38 |
-| Zifo | Data Engineer/Python Developer | Boston, MA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3419a1d7b4acb559) | 2026-03-04 04:01 |
-| Quilt | Senior Data Engineer | Provo, UT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=27d883fd388e687a) | 2026-03-04 04:01 |
-| Surgery Partners | Data Engineer | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a6c4839e7fe64d8e) | 2026-03-04 04:01 |
-| Tata Consultancy Services (TCS) | Blockchain Java Backend Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e49019e3e57d794c) | 2026-03-04 04:01 |
-| Information Technology Senior Management Forum | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4cc63cdd2328277c) | 2026-03-04 04:01 |
-| Residex, LLC | Software Engineer, AI Analytics | Greenwood Village, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3b994e1736909aed) | 2026-03-04 04:01 |
-| ROLLER | Data Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=afb709659d664135) | 2026-03-04 04:01 |
-| Regions Financial | Cloud Data Engineer + Snowflake (On-Site) | Hoover, AL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=58e9f31119d31013) | 2026-03-04 04:01 |
-| ivo | Software Engineer, Backend | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8bc5aaef611937ad) | 2026-03-04 04:01 |
-| SoFi | Risk Data AI/ML Engineer | Frisco, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=979402388d34b409) | 2026-03-04 04:01 |
-| Powerplan | Senior Databricks AI Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b5753d39b44c782) | 2026-03-04 04:01 |
-| Infosys | GCP Data Engineer | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=503c92a0918e2779) | 2026-03-04 04:01 |
-| MKS2 Technologies | API Developer Jr. | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=976d4320b891418b) | 2026-03-04 04:01 |
-| MKS2 Technologies | API Developer, Mid | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=982682f617c5fe52) | 2026-03-04 04:01 |
-| Surgery Partners | Reporting Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=57ca41478bb936cd) | 2026-03-04 04:01 |
-| General Motors (GM) | Entry-Level Data Engineer | Warren, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd80dc2e6636141e) | 2026-03-04 04:01 |
-| Lyric | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b5cdc524b199967) | 2026-03-04 04:01 |
 
 
 ---
