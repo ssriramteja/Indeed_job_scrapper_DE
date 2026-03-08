@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 09:21
+Last updated: 2026-03-08 10:17
 
 ### 🚀 Daily Job Matches
 
@@ -566,10 +566,6 @@ Last updated: 2026-03-08 09:21
 | ALTRUIST | Senior Software Engineer, Cloud Infrastructure | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=15721c69bc524693) | 2026-03-04 11:24 |
 | JPMorganChase | Software Engineer III: DevOps | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bc952e4224a3aa24) | 2026-03-04 10:28 |
 | Waters | Sr Data Engineer | Milford, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1975adb5bfc7de33) | 2026-03-04 10:28 |
-| Seismic | Senior Software Engineer II - AI/ML | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d0bc9a390582054) | 2026-03-04 09:32 |
-| GEI Consultants | Sr. Software Developer/Programmer | Davis, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ce420e446403a9d) | 2026-03-04 09:32 |
-| Rivian | Sr. Software Engineer, Data, Autonomy | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a3560765ed8e488) | 2026-03-04 09:32 |
-| Rivian | Sr. Data Engineer, Enterprise Data & Analytics | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b74ac1e46b3dfa89) | 2026-03-04 09:32 |
 
 
 ---
