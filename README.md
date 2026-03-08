@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 10:17
+Last updated: 2026-03-08 11:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Java Trainer / Mentor / Educator | VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f225ad27d76e606c) | 2026-03-08 11:14 |
+| Openkyber | Cloud AI Application Administrator | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9f1461d722d5f55c) | 2026-03-08 11:14 |
+| Openkyber | Cloud AI Application Administrator | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b7cf1948628d7ab7) | 2026-03-08 11:14 |
+| Openkyber | Java Production Support Engineer | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1523381740d92013) | 2026-03-08 11:14 |
+| Openkyber | Java Consultant | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=67700eaac27ee1cf) | 2026-03-08 11:14 |
+| Openkyber | Java Software Engineer | HI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e96f791ed6e1185) | 2026-03-08 11:14 |
+| Openkyber | Cloud AI Application Administrator | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=474ce0b5b42f1022) | 2026-03-08 11:14 |
+| Memorial Sloan Kettering Cancer Center | Bioinformatics Software Engineer III, Pathology and Lab Medicine | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a671a473550229c6) | 2026-03-08 11:14 |
+| Openkyber | Cloud AI Consultant | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e830061c496f86e) | 2026-03-08 11:14 |
 | GEICO | Senior Engineer – (Systems Engineering, Enterprise Infra & Platform Support) *HYBRID* | Chevy Chase, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=23c197bc54e43635) | 2026-03-08 06:32 |
 | GEICO | Senior Engineer | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0cbcbfd38f811d9a) | 2026-03-08 06:32 |
 | GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16ccbca862f6e0b3) | 2026-03-08 06:32 |
@@ -564,8 +573,6 @@ Last updated: 2026-03-08 10:17
 | Barclays | Incremental CRM - Data Developer 1 | Whippany, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c7931e975a12585) | 2026-03-04 12:36 |
 | ALTRUIST | Senior Software Engineer, Cloud Infrastructure | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b2b2e3b90367f3b4) | 2026-03-04 11:24 |
 | ALTRUIST | Senior Software Engineer, Cloud Infrastructure | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=15721c69bc524693) | 2026-03-04 11:24 |
-| JPMorganChase | Software Engineer III: DevOps | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bc952e4224a3aa24) | 2026-03-04 10:28 |
-| Waters | Sr Data Engineer | Milford, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1975adb5bfc7de33) | 2026-03-04 10:28 |
 
 
 ---
