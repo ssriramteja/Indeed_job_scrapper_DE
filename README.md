@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 16:18
+Last updated: 2026-03-08 17:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | AI Application Architect | IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=db40aa076d14f9d0) | 2026-03-08 17:16 |
+| Openkyber | AI Application Architect | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=28e4d6385751ba88) | 2026-03-08 17:16 |
+| Openkyber | AI Application Architect | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9d9a21d31f3763d7) | 2026-03-08 17:16 |
+| Openkyber | AI Integration Engineer (Java + AI) | IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d390ec06d924f3da) | 2026-03-08 17:16 |
+| Openkyber | AI Integration Engineer (Java + AI) | NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=49d374e751f307ea) | 2026-03-08 17:16 |
+| Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=25850899276cb6d0) | 2026-03-08 17:16 |
+| Openkyber | Java AI / ML Integration Engineer | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=306efe4a26e0706c) | 2026-03-08 17:16 |
+| Openkyber | AI Application Architect | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a3902181000a2737) | 2026-03-08 17:16 |
+| Openkyber | AI Application Architect | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c15fc57fa4877545) | 2026-03-08 17:16 |
+| Openkyber | AI Application Architect | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9cb8af80af373eb9) | 2026-03-08 17:16 |
+| Openkyber | AI Integration Engineer (Java + AI) | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=713151b0e6387311) | 2026-03-08 17:16 |
+| Openkyber | AI Application Architect | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=972ecca486e8cd7e) | 2026-03-08 17:16 |
 | Openkyber | Java Trainer / Mentor / Educator | VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f225ad27d76e606c) | 2026-03-08 11:14 |
 | Openkyber | Cloud AI Application Administrator | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9f1461d722d5f55c) | 2026-03-08 11:14 |
 | Openkyber | Cloud AI Application Administrator | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b7cf1948628d7ab7) | 2026-03-08 11:14 |
@@ -558,7 +570,6 @@ Last updated: 2026-03-08 16:18
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=176afb0ac80a4191) | 2026-03-04 17:33 |
 | Openkyber | Microsoft Entra | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f61688604ed96074) | 2026-03-04 17:33 |
 | Openkyber | Identity AI / ML Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df69083a5f5407d8) | 2026-03-04 17:33 |
-| PlanHub | Senior Software Engineer (Backend) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b63efe5dfc4a026c) | 2026-03-04 16:33 |
 
 
 ---
