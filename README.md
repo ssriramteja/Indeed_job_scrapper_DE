@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 05:37
+Last updated: 2026-03-08 06:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| GEICO | Senior Engineer – (Systems Engineering, Enterprise Infra & Platform Support) *HYBRID* | Chevy Chase, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=23c197bc54e43635) | 2026-03-08 06:32 |
+| GEICO | Senior Engineer | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0cbcbfd38f811d9a) | 2026-03-08 06:32 |
+| GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16ccbca862f6e0b3) | 2026-03-08 06:32 |
+| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98cdc967317969d8) | 2026-03-08 06:32 |
 | Openkyber | AI-Driven Threat Intelligence Analyst | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f0eb14a985ec302b) | 2026-03-08 05:37 |
 | Openkyber | CrowdStrike Charlotte AI Engineer | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dd36b3af081d974a) | 2026-03-08 05:37 |
 | Openkyber | Microsoft Threat Intelligence Analyst | IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e58d7fa4052fcb61) | 2026-03-08 05:37 |
@@ -604,10 +608,6 @@ Last updated: 2026-03-08 05:37
 | Alter Domus | Senior Data Engineer - Data Governance | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3d83b504ed46b0c) | 2026-03-04 08:29 |
 | BILL | Senior Database Reliability Engineer (Oracle & Automation Focus) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=104eb630cab2bc86) | 2026-03-04 07:33 |
 | Ncontracts | Analytics Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=da52963e4860aaaa) | 2026-03-04 06:36 |
-| Snowflake | Senior Data Cloud Architect - SI Partners | MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba51b24a2f032664) | 2026-03-04 05:38 |
-| Velvetech | AI Solution Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6435ac5193c56de) | 2026-03-04 05:38 |
-| American Express | Software Engineer (Backend) - Global Dining | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8f71d52efce43e2) | 2026-03-04 05:38 |
-| Skechers | Data Scientist | Hermosa Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bf4b62fe049b84e) | 2026-03-04 05:38 |
 
 
 ---
