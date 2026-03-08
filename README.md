@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 11:14
+Last updated: 2026-03-08 12:30
 
 ### 🚀 Daily Job Matches
 
@@ -571,8 +571,6 @@ Last updated: 2026-03-08 11:14
 | The Cheesecake Factory | Senior Data Engineer | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bf6f08ab2860bc5c) | 2026-03-04 12:36 |
 | Blue Wing Technical | LMS Administrator | Decatur, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6ea5eba4ba63388f) | 2026-03-04 12:36 |
 | Barclays | Incremental CRM - Data Developer 1 | Whippany, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c7931e975a12585) | 2026-03-04 12:36 |
-| ALTRUIST | Senior Software Engineer, Cloud Infrastructure | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b2b2e3b90367f3b4) | 2026-03-04 11:24 |
-| ALTRUIST | Senior Software Engineer, Cloud Infrastructure | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=15721c69bc524693) | 2026-03-04 11:24 |
 
 
 ---
