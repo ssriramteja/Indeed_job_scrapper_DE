@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 21:15
+Last updated: 2026-03-08 22:15
 
 ### 🚀 Daily Job Matches
 
@@ -534,20 +534,6 @@ Last updated: 2026-03-08 21:15
 | CNH Industrial | Senior Software Engineer | Oak Brook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5b3837921976566) | 2026-03-04 22:23 |
 | Fiserv | Cyber Architecture - Sr Advisor II | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6692a3fd9db94db) | 2026-03-04 22:23 |
 | Proxet | Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2c123eaea5e60741) | 2026-03-04 22:23 |
-| Real Time Medical Systems | Sr. Data Platform Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=415686b53cfda723) | 2026-03-04 21:26 |
-| Real Time Medical Systems | Sr. Data Platform Engineer | Columbia, MD, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=41a92f9802d4f918) | 2026-03-04 21:26 |
-| NMI | Google Cloud Data Engineer | Schaumburg, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e7cac4b03aa7cfe7) | 2026-03-04 21:26 |
-| SRR Consultants | Data Engineer | Piscataway, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=88619a1e983eef30) | 2026-03-04 21:26 |
-| TRM Labs | Senior Data Engineer, Data Lakehouse Infrastructure | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e899ea40640da235) | 2026-03-04 21:26 |
-| TRM Labs | Senior Data Engineer, Data Product | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=351b720407fa6f6d) | 2026-03-04 21:26 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a8b55e090bbab627) | 2026-03-04 21:26 |
-| TRM Labs | Senior Software Engineer, Data Platform | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a517be0e10b2a44) | 2026-03-04 21:26 |
-| TRM Labs | Senior Data Engineer, Data Platform | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=60f6c2aecd2d1bdf) | 2026-03-04 21:26 |
-| Appex Innovation | AWS Data Engineer | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f3534222ab81e17) | 2026-03-04 21:26 |
-| Equifax | Software Engineer - Master | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fb1207979169793) | 2026-03-04 21:26 |
-| TRM Labs | Senior Analytics Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dcb7ea8003fbc5dc) | 2026-03-04 21:26 |
-| TRM Labs | Senior Data Engineer, Attribution Expansion | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=539a18aebac4ef5f) | 2026-03-04 21:26 |
-| TRM Labs | Senior Data Engineer, Attribution Expansion | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=26436308d22e947d) | 2026-03-04 21:26 |
 
 
 ---
