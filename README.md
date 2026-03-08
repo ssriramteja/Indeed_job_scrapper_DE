@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 20:16
+Last updated: 2026-03-08 21:15
 
 ### 🚀 Daily Job Matches
 
@@ -548,9 +548,6 @@ Last updated: 2026-03-08 20:16
 | TRM Labs | Senior Analytics Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dcb7ea8003fbc5dc) | 2026-03-04 21:26 |
 | TRM Labs | Senior Data Engineer, Attribution Expansion | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=539a18aebac4ef5f) | 2026-03-04 21:26 |
 | TRM Labs | Senior Data Engineer, Attribution Expansion | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=26436308d22e947d) | 2026-03-04 21:26 |
-| Jersey Mikes Corporate | Data Engineer | Tinton Falls, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=31cf41e0387f0b72) | 2026-03-04 20:24 |
-| Seqster PDM, Inc | AWS DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=191c0857581cffe3) | 2026-03-04 20:24 |
-| Hunter Industries | Software Engineer - Backend/Cloud Services | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ab5afc3cedfad680) | 2026-03-04 20:24 |
 
 
 ---
