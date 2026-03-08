@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 04:03
+Last updated: 2026-03-08 05:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | AI-Driven Threat Intelligence Analyst | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f0eb14a985ec302b) | 2026-03-08 05:37 |
+| Openkyber | CrowdStrike Charlotte AI Engineer | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dd36b3af081d974a) | 2026-03-08 05:37 |
+| Openkyber | Microsoft Threat Intelligence Analyst | IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e58d7fa4052fcb61) | 2026-03-08 05:37 |
+| Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29da198aaee83e0a) | 2026-03-08 05:37 |
+| Openkyber | Senior API Engineer (Python) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c2844c76b7de91d2) | 2026-03-08 05:37 |
+| Openkyber | CrowdStrike Charlotte AI Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa431a0f71f59764) | 2026-03-08 05:37 |
+| Openkyber | AI-Driven Threat Intelligence Analyst | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad7cadb668678f16) | 2026-03-08 05:37 |
+| Openkyber | API Threat Intelligence Analyst | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78e22e0760c3febd) | 2026-03-08 05:37 |
 | Rivian and Volkswagen Group Technologies | Sr. Software Systems & Data Engineer | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5f045bd52323b67) | 2026-03-08 04:03 |
 | EV Design | Senior Full Stack Web Developer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=104dfb98c80f44fd) | 2026-03-08 01:17 |
 | Audacy, Inc. | Solutions Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=31813beeef70938d) | 2026-03-08 01:17 |
