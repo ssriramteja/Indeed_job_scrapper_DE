@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-07 23:15
+Last updated: 2026-03-08 01:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EV Design | Senior Full Stack Web Developer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=104dfb98c80f44fd) | 2026-03-08 01:17 |
+| Audacy, Inc. | Solutions Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=31813beeef70938d) | 2026-03-08 01:17 |
 | Openkyber | API Threat Intelligence Analyst | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f5e73b6b4f92a343) | 2026-03-07 23:15 |
 | Openkyber | Microsoft Threat Intelligence Analyst | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6eed21330f07799b) | 2026-03-07 23:15 |
 | Openkyber | CrowdStrike Charlotte AI Engineer | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d2a426fbf9b09b9a) | 2026-03-07 23:15 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=439edd18837f2621) | 2026-03-07 23:15 |
 | Openkyber | CrowdStrike GenAI Security Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07730b1f5d6d529d) | 2026-03-07 23:15 |
 | Openkyber | CrowdStrike | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2680cd4cb9c331ec) | 2026-03-07 23:15 |
 | Openkyber | Falcon Fusion Automation Engineer | MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=72174a3cd5d64195) | 2026-03-07 23:15 |
@@ -615,55 +616,6 @@ Last updated: 2026-03-07 23:15
 | Surgery Partners | Reporting Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=57ca41478bb936cd) | 2026-03-04 04:01 |
 | General Motors (GM) | Entry-Level Data Engineer | Warren, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd80dc2e6636141e) | 2026-03-04 04:01 |
 | Lyric | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b5cdc524b199967) | 2026-03-04 04:01 |
-| Realign | Full Stack Engineer (React + Node.js)-4 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e082e26fc29250a3) | 2026-03-04 01:14 |
-| LTIMindtree | Senior Software Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0997a11d6aaf4e73) | 2026-03-04 01:14 |
-| Chewy | Software Engineer II, | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b4edb591674d441f) | 2026-03-04 01:14 |
-| NetApp | Sr. Software Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b08c3dc1b325be49) | 2026-03-04 01:14 |
-| DRT Strategies, Inc. | Data Engineer, CDC | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a223a368864e5d1b) | 2026-03-04 01:14 |
-| TECHSTRA SOLUTIONS | Senior DevOps Engineer | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cbd0439895496e24) | 2026-03-04 01:14 |
-| TECHSTRA SOLUTIONS | Senior Java / IBM ACE Developer | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=70a91ea32c4e2e98) | 2026-03-04 01:14 |
-| Realign | Data Platform Engineer-2 | Parsippany-Troy Hills, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f1f9103ddd4f544e) | 2026-03-04 01:14 |
-| Nightwing | Software Engineer (Hybrid) | Sterling, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b7dfde3b442bd5c7) | 2026-03-04 01:14 |
-| Nightwing | Software Engineer (Hybrid) | Clarksville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=503ceed67966f48a) | 2026-03-04 01:14 |
-| Middesk | Software Engineer, Data Platform | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=514717df8eb087ca) | 2026-03-04 01:14 |
-| Skechers | Data Scientist | Hermosa Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d0cf03fccf9f1cb) | 2026-03-04 01:14 |
-| nan | .NET Angular Reporting Developer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f21a948f0ac42414) | 2026-03-04 01:14 |
-| GEICO | Senior Engineer - .NET | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=843b039e4e75f61f) | 2026-03-04 01:14 |
-| GEICO | Senior Engineer - .NET | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5c91aac0db662ae) | 2026-03-04 01:14 |
-| GEICO | Software Engineer II | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1ead7f0da7c5db1) | 2026-03-04 01:14 |
-| GEICO | Software Engineer II | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ae8a17a1c6f39e3) | 2026-03-04 01:14 |
-| City of Houston, TX | IT PROFESSIONAL-APPLICATIONS (Database Administrator) (HEC) | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1c369e1e8241c9f) | 2026-03-04 01:14 |
-| Emburse | Software Engineer in Test III - Data Analytics | Dallas, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=450782bf82b6fc2f) | 2026-03-03 23:18 |
-| Openkyber | Network IoT Engineer | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=4725509304854f9e) | 2026-03-03 23:18 |
-| American Bureau of Shipping (ABS) | Data Engineer - AI Practice Team | Houston, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=98e9bc7cd1938bfd) | 2026-03-03 23:18 |
-| Chewy | Software Engineer II, | Bellevue, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=28ab3491bb9f5589) | 2026-03-03 23:18 |
-| Pittsburgh Pirates | DevOps Engineer | Pittsburgh, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7d49d017dead0cec) | 2026-03-03 23:18 |
-| Optum | Software Engineer - Remote | Minnetonka, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=80460d4e824e28cc) | 2026-03-03 23:18 |
-| Rockwell Automation | AI Engineer/Architect-IFS Cloud | Milwaukee, WI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0c154c59806de726) | 2026-03-03 23:18 |
-| Availity, LLC. | PDM Implementation Data Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3576de9e88dd4c5c) | 2026-03-03 23:18 |
-| Openkyber | Cloud Identity Architect | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdd1e41d5949d150) | 2026-03-03 23:18 |
-| U.S. Bank | Software Engineer 2 - Analytics & AI | Brookfield, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=75d602908669423e) | 2026-03-03 23:18 |
-| U.S. Bank | Software Engineer 2 - Analytics & AI | Englewood, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=10de5f0ca2f7673d) | 2026-03-03 23:18 |
-| U.S. Bank | Software Engineer 2 - Analytics & AI | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e6750fd9ad4e72e) | 2026-03-03 23:18 |
-| U.S. Bank | Software Engineer 2 - Analytics & AI | Cupertino, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c45db6ac50eb5587) | 2026-03-03 23:18 |
-| U.S. Bank | Software Engineer 2 - Analytics & AI | Gresham, OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d1c0f7e27e90a87e) | 2026-03-03 23:18 |
-| U.S. Bank | Software Engineer 2 - Analytics & AI | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a4dc81e5cd9b6b72) | 2026-03-03 23:18 |
-| U.S. Bank | Software Engineer 2 - Analytics & AI | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=14fea47c1dbfabac) | 2026-03-03 23:18 |
-| U.S. Bank | Software Engineer 2 - Analytics & AI | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=02d7bcc2bd0697b0) | 2026-03-03 23:18 |
-| U.S. Bank | Software Engineer 2 - Analytics & AI | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50e0ff85e5f89851) | 2026-03-03 23:18 |
-| Openkyber | Network IoT Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0da29d3af250447a) | 2026-03-03 23:18 |
-| DatamanUSA | Data Architect | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9672d81f2806d2a2) | 2026-03-03 23:18 |
-| Openkyber | Cloud Identity Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5b1a799d8b14436a) | 2026-03-03 23:18 |
-| JPMorganChase | Software Engineer III - Data Engineering Java/Python | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6dfc1c1ddf5b07e8) | 2026-03-03 23:18 |
-| Openkyber | Multi-Cloud Networking Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cab7b07d708701fa) | 2026-03-03 23:18 |
-| NavitasPartners | ETL Developer / Data Warehouse Architect - 26-02123 | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2698e1f59bd5def7) | 2026-03-03 23:18 |
-| NavitasPartners | ETL Developer / Data Warehouse Architect - 26-02123 | Long Island City, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4d0bc94cbe8822db) | 2026-03-03 23:18 |
-| NavitasPartners | ETL Developer / Data Warehouse Architect - 26-02123 | Paterson, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=75f6d90e6b234f60) | 2026-03-03 23:18 |
-| NavitasPartners | ETL Developer / Data Warehouse Architect - 26-02123 | Yonkers, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e53f9ddcb5f4c2b9) | 2026-03-03 23:18 |
-| NavitasPartners | ETL Developer / Data Warehouse Architect - 26-02123 | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=44fb3987d11d1123) | 2026-03-03 23:18 |
-| Openkyber | SSO Administrator | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b109c86f55c8c21f) | 2026-03-03 23:18 |
-| Openkyber | DOCSIS Testing Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e134c7566cf151c) | 2026-03-03 23:18 |
-| American Bureau of Shipping (ABS) | Senior Data Scientist - AI Practice Team | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=540f72e9dcda8dc2) | 2026-03-03 23:18 |
 
 
 ---
