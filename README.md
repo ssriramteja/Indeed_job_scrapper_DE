@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 15:16
+Last updated: 2026-03-08 16:18
 
 ### 🚀 Daily Job Matches
 
@@ -559,12 +559,6 @@ Last updated: 2026-03-08 15:16
 | Openkyber | Microsoft Entra | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f61688604ed96074) | 2026-03-04 17:33 |
 | Openkyber | Identity AI / ML Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df69083a5f5407d8) | 2026-03-04 17:33 |
 | PlanHub | Senior Software Engineer (Backend) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b63efe5dfc4a026c) | 2026-03-04 16:33 |
-| Charles Schwab | Senior Data Engineer, Client Authentication | Southlake, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a908b362cb914674) | 2026-03-04 15:36 |
-| FICO | Senior Engineer - DevOps/ DataOps | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e1ed15cfc823b0b7) | 2026-03-04 15:36 |
-| nan | Software Engineer II | Glendale, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a021dbda97cc3405) | 2026-03-04 15:36 |
-| Hitachi Digital Services | Senior Data Engineer | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=33510d4bb406c6e2) | 2026-03-04 15:36 |
-| Disney Experiences | Data Engineer II | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0a7ddc3760328a54) | 2026-03-04 15:36 |
-| Halo Creative & Media LLP | Senior Data Engineer | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=371d6385735b0f59) | 2026-03-04 15:36 |
 
 
 ---
