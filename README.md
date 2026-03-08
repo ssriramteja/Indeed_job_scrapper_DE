@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 13:35
+Last updated: 2026-03-08 14:18
 
 ### 🚀 Daily Job Matches
 
@@ -567,7 +567,6 @@ Last updated: 2026-03-08 13:35
 | Halo Creative & Media LLP | Senior Data Engineer | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=371d6385735b0f59) | 2026-03-04 15:36 |
 | Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9188fd233f524c42) | 2026-03-04 14:33 |
 | Capital One | Senior Software Engineer, Back End (Java, Go, AWS) | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e1b9bbef981d9232) | 2026-03-04 14:33 |
-| Rogue Community College | Database Administrator | OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f9335cc41b5edf2) | 2026-03-04 13:52 |
 
 
 ---
