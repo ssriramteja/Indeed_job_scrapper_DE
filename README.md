@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 18:22
+Last updated: 2026-03-08 19:18
 
 ### 🚀 Daily Job Matches
 
@@ -555,12 +555,6 @@ Last updated: 2026-03-08 18:22
 | SCAN Health Plan | Analytics, Full-Stack Engineer | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c24274a4aa989f95) | 2026-03-04 19:33 |
 | EoS Fitness | Senior Data Engineer - Microsoft Fabric | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7bd7f3590528db3c) | 2026-03-04 19:33 |
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=40b321afc8939ff9) | 2026-03-04 19:33 |
-| ACV Auctions | Senior Data Engineer, ACVMax | Buffalo, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6c28dd5d00192a5b) | 2026-03-04 18:36 |
-| SRS Distribution | Analytics Engineer | McKinney, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4cde050af8749e53) | 2026-03-04 18:36 |
-| PGA TOUR Superstore | Senior Data Engineer | Roswell, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73bdb2d180484ce2) | 2026-03-04 18:36 |
-| CommunityForce Inc. | Salesforce Architect - Senior | Ashburn, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7d236cba8a6e8ae3) | 2026-03-04 18:36 |
-| Callaway Golf | Sr Data Engineer | Carlsbad, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2cf949704a694c55) | 2026-03-04 18:36 |
-| Westchester Medical Center Health Network | Analytics Engineer | Valhalla, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d807a7856ebe08db) | 2026-03-04 18:36 |
 
 
 ---
