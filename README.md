@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 08:21
+Last updated: 2026-03-08 09:21
 
 ### 🚀 Daily Job Matches
 
@@ -570,42 +570,6 @@ Last updated: 2026-03-08 08:21
 | GEI Consultants | Sr. Software Developer/Programmer | Davis, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ce420e446403a9d) | 2026-03-04 09:32 |
 | Rivian | Sr. Software Engineer, Data, Autonomy | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a3560765ed8e488) | 2026-03-04 09:32 |
 | Rivian | Sr. Data Engineer, Enterprise Data & Analytics | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b74ac1e46b3dfa89) | 2026-03-04 09:32 |
-| Deloitte | Databricks Data Engineer - Consultant | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7167050c109be2d4) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Tempe, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=862a4a8989448fa0) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | McLean, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=07e542bb4713fad0) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Cleveland, OH, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2c88dff775194e30) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c8ced45fe117deb8) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Philadelphia, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2dc8e0c810b3e7cd) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Morristown, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7791942c877daada) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Charlotte, NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b6b39b9b56abc0bd) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Arlington, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=648774ee33ca3b76) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | St. Louis, MO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a93ca1ad887e17f0) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Austin, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d963e90dfb3fa4d6) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Seattle, WA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=783ac47e6d62e414) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e511c7108cd6e82d) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Indianapolis, IN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2a6a2ad30fc1236d) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Stamford, CT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e2d42f6d55a07b48) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c423f392a018bf22) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Boston, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=cb49af32ea451f63) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1e7468c4fe6bdb23) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Atlanta, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3a3485c3c6153843) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Cincinnati, OH, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ef4166ba4aa9b5a3) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Columbus, OH, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=91d6e4beb774dd25) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Pittsburgh, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=adcf2824745a050e) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Kansas City, MO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=64b296145590b995) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Minneapolis, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8c4169879098b22b) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Detroit, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=44e1222f0eb14744) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | San Diego, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=37bd1a8719f0aafc) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e151b2c0a32e2723) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c07dcca1b609463e) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | San Jose, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c721bd4ca7bdffe1) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e8e182c6058fd2a4) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Costa Mesa, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4997f8f92f05b9d2) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Sacramento, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2a56481df82d7aa6) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Denver, CO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=fb00c80fb9cb9b65) | 2026-03-04 08:29 |
-| Deloitte | Databricks Data Engineer - Consultant | Miami, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3fd1863254c88e5d) | 2026-03-04 08:29 |
-| Deloitte | Azure Data Engineer | Gilbert, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=110f275787ec7bdb) | 2026-03-04 08:29 |
-| Alter Domus | Senior Data Engineer - Data Governance | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3d83b504ed46b0c) | 2026-03-04 08:29 |
 
 
 ---
