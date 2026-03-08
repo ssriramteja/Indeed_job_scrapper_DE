@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 19:18
+Last updated: 2026-03-08 20:16
 
 ### 🚀 Daily Job Matches
 
@@ -551,10 +551,6 @@ Last updated: 2026-03-08 19:18
 | Jersey Mikes Corporate | Data Engineer | Tinton Falls, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=31cf41e0387f0b72) | 2026-03-04 20:24 |
 | Seqster PDM, Inc | AWS DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=191c0857581cffe3) | 2026-03-04 20:24 |
 | Hunter Industries | Software Engineer - Backend/Cloud Services | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ab5afc3cedfad680) | 2026-03-04 20:24 |
-| Vytwo Technologies | AI/ML Architect with Databricks , AWS | Prosper, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=29c402e4a2f5220b) | 2026-03-04 19:33 |
-| SCAN Health Plan | Analytics, Full-Stack Engineer | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c24274a4aa989f95) | 2026-03-04 19:33 |
-| EoS Fitness | Senior Data Engineer - Microsoft Fabric | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7bd7f3590528db3c) | 2026-03-04 19:33 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=40b321afc8939ff9) | 2026-03-04 19:33 |
 
 
 ---
