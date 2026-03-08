@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 22:15
+Last updated: 2026-03-08 23:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | CrowdStrike Charlotte AI Engineer | GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9a9ca0178ffbff15) | 2026-03-08 23:16 |
+| Openkyber | DevOps Architect - Mainframe | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9b82583635e22429) | 2026-03-08 23:16 |
+| Openkyber | CrowdStrike Cloud Security Engineer | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=07501398d0e8a4d9) | 2026-03-08 23:16 |
+| Openkyber | Machine Learning Threat Intelligence Engineer | NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4c0ff64c20efd0c3) | 2026-03-08 23:16 |
+| Openkyber | DevOps Architect - Mainframe | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8b77b0819d9ee2a7) | 2026-03-08 23:16 |
+| Openkyber | Mainframe Cloud Integration Specialist | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b2adadaa402ce34) | 2026-03-08 23:16 |
+| Openkyber | Python | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17ddf4daef31642b) | 2026-03-08 23:16 |
+| Openkyber | CrowdStrike Security Engineer | AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=966c6a4905b91bdc) | 2026-03-08 23:16 |
+| Openkyber | Cloud-Native MLOps Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=119f9ca723edb406) | 2026-03-08 23:16 |
+| Openkyber | API Enablement Specialist | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e92ce3f72178fa2b) | 2026-03-08 23:16 |
+| Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2391611035d932e3) | 2026-03-08 23:16 |
+| Openkyber | Java Technical Architect | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7747f31dfec5b3b2) | 2026-03-08 23:16 |
 | Openkyber | AI Application Architect | IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=db40aa076d14f9d0) | 2026-03-08 17:16 |
 | Openkyber | AI Application Architect | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=28e4d6385751ba88) | 2026-03-08 17:16 |
 | Openkyber | AI Application Architect | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9d9a21d31f3763d7) | 2026-03-08 17:16 |
@@ -527,13 +539,6 @@ Last updated: 2026-03-08 22:15
 | Astronomer | Customer Reliability Engineer, Airflow | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6ac244565083c1d9) | 2026-03-04 23:22 |
 | American Express | Data Engineer - GRC Technology | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8842e67bf37c518a) | 2026-03-04 23:22 |
 | NBCUniversal | Sr. Data Engineer, Engineering & Ops | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df536a2594fa5881) | 2026-03-04 23:22 |
-| nan | AI/ML Architect with Databricks , AWS | Prosper, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5774b4765e1a54ce) | 2026-03-04 22:23 |
-| Cloudious | aws Databricks architect | Los Angeles, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=03a1eccc5605f732) | 2026-03-04 22:23 |
-| Pantherx Specialty Llc | SQL Developer - Enterprise Data & Analytics | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=41d495363374161e) | 2026-03-04 22:23 |
-| Recursion Technologies, Inc | Systems Engineer | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6138105d361c110c) | 2026-03-04 22:23 |
-| CNH Industrial | Senior Software Engineer | Oak Brook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5b3837921976566) | 2026-03-04 22:23 |
-| Fiserv | Cyber Architecture - Sr Advisor II | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6692a3fd9db94db) | 2026-03-04 22:23 |
-| Proxet | Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2c123eaea5e60741) | 2026-03-04 22:23 |
 
 
 ---
