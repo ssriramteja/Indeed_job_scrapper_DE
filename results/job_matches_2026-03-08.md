@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-08
 
-**Total Jobs Found:** 36
+**Total Jobs Found:** 35
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -71,18 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. CrowdStrike Charlotte AI Engineer @ Openkyber
-**Match Score:** 14.6%
-
-📍 **Location:** CA, US USA
-
-🔑 **Keywords:** AWS, Glue, S3, IAM, Databricks, Unity Catalog, Spark, PySpark, Scala, Databricks Lakehouse
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d2a426fbf9b09b9a)
-
----
-
-## 8. AI-Driven Threat Intelligence Analyst @ Openkyber
+## 7. AI-Driven Threat Intelligence Analyst @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** TX, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. CrowdStrike Charlotte AI Engineer @ Openkyber
+## 8. CrowdStrike Charlotte AI Engineer @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** TX, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Microsoft Threat Intelligence Analyst @ Openkyber
+## 9. Microsoft Threat Intelligence Analyst @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** IL, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Microsoft Threat Intelligence Analyst @ Openkyber
+## 10. Microsoft Threat Intelligence Analyst @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** NJ, US USA
@@ -123,6 +112,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Data Factory, Spark, PySpark, Scala, Snowflake, Data Modeling, Star Schema, Snowflake Schema
 
 [Apply Here](https://www.indeed.com/viewjob?jk=6eed21330f07799b)
+
+---
+
+## 11. CrowdStrike Charlotte AI Engineer @ Openkyber
+**Match Score:** 14.6%
+
+📍 **Location:** CA, US USA
+
+🔑 **Keywords:** AWS, Glue, S3, IAM, Databricks, Unity Catalog, Spark, PySpark, Scala, Databricks Lakehouse
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d2a426fbf9b09b9a)
 
 ---
 
@@ -137,14 +137,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Machine Learning Threat Intelligence Engineer @ Openkyber
+## 13. Senior Engineer – (Systems Engineering, Enterprise Infra & Platform Support) *HYBRID* @ GEICO
 **Match Score:** 12.5%
 
-📍 **Location:** GA, US USA
+📍 **Location:** Chevy Chase, MD, US USA
 
-🔑 **Keywords:** IAM, Google Cloud Platform, BigQuery, Dataflow, Cloud Storage, Vertex AI, Spark, Scala, Kafka, Power BI
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Oracle, SQL Server, PostgreSQL, MySQL, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=29da198aaee83e0a)
+[Apply Here](https://www.indeed.com/viewjob?jk=23c197bc54e43635)
 
 ---
 
@@ -159,14 +159,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Engineer – (Systems Engineering, Enterprise Infra & Platform Support) *HYBRID* @ GEICO
+## 15. Machine Learning Threat Intelligence Engineer @ Openkyber
 **Match Score:** 12.5%
 
-📍 **Location:** Chevy Chase, MD, US USA
+📍 **Location:** GA, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Oracle, SQL Server, PostgreSQL, MySQL, CI/CD
+🔑 **Keywords:** IAM, Google Cloud Platform, BigQuery, Dataflow, Cloud Storage, Vertex AI, Spark, Scala, Kafka, Power BI
 
-[Apply Here](https://www.indeed.com/viewjob?jk=23c197bc54e43635)
+[Apply Here](https://www.indeed.com/viewjob?jk=29da198aaee83e0a)
 
 ---
 
@@ -181,18 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Senior GCP Cloud Engineer @ NTT DATA
-**Match Score:** 11.8%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, ECS, IAM, RDS, GCP, CI/CD, AWS CodePipeline, CodeBuild
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9259990ef107da39)
-
----
-
-## 18. CrowdStrike Charlotte AI Engineer @ Openkyber
+## 17. CrowdStrike Charlotte AI Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** GA, US USA
@@ -203,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. AI-Driven Threat Intelligence Analyst @ Openkyber
+## 18. AI-Driven Threat Intelligence Analyst @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** GA, US USA
@@ -214,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. CrowdStrike GenAI Security Engineer @ Openkyber
+## 19. CrowdStrike GenAI Security Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** TX, US USA
@@ -225,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior DevOps Software Engineer, Firmware & CI/CD @ Rivian and Volkswagen Group Technologies
+## 20. Senior DevOps Software Engineer, Firmware & CI/CD @ Rivian and Volkswagen Group Technologies
 **Match Score:** 11.8%
 
 📍 **Location:** Irvine, CA, US USA
@@ -236,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Sr. Software Systems & Data Engineer @ Rivian and Volkswagen Group Technologies
+## 21. Sr. Software Systems & Data Engineer @ Rivian and Volkswagen Group Technologies
 **Match Score:** 11.1%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -247,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Solutions Engineer @ Audacy, Inc.
+## 22. Solutions Engineer @ Audacy, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -258,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. CrowdStrike @ Openkyber
+## 23. CrowdStrike @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -269,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Data Engineer @ Paychex, Inc.
+## 24. Data Engineer @ Paychex, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Rochester, NY, US USA
@@ -280,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Senior Software Engineer @ Concord Music Group, Inc.
+## 25. Senior Software Engineer @ Concord Music Group, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -291,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Senior Engineer @ GEICO
+## 26. Senior Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Chevy Chase, MD, US USA
@@ -302,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Senior Engineer @ GEICO
+## 27. Senior Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -313,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Senior Engineer @ GEICO
+## 28. Senior Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -324,18 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. CrowdStrike GenAI Security Engineer @ Openkyber
-**Match Score:** 10.4%
-
-📍 **Location:** CA, US USA
-
-🔑 **Keywords:** AWS, Redshift, RDS, Databricks, Google Cloud Platform, BigQuery, Vertex AI, Scala, Snowflake, MLOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8710c024486747ff)
-
----
-
-## 31. API Threat Intelligence Analyst @ Openkyber
+## 29. API Threat Intelligence Analyst @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** VA, US USA
@@ -346,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Falcon Fusion Automation Engineer @ Openkyber
+## 30. Falcon Fusion Automation Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** MA, US USA
@@ -357,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Machine Learning Threat Intelligence Engineer @ Openkyber
+## 31. Machine Learning Threat Intelligence Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** GA, US USA
@@ -368,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Senior Software Engineer @ St. David's HealthCare
+## 32. Senior Software Engineer @ St. David's HealthCare
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -379,7 +357,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Machine Learning Threat Intelligence Engineer @ Openkyber
+## 33. CrowdStrike GenAI Security Engineer @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** CA, US USA
+
+🔑 **Keywords:** AWS, Redshift, RDS, Databricks, Google Cloud Platform, BigQuery, Vertex AI, Scala, Snowflake, MLOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8710c024486747ff)
+
+---
+
+## 34. Machine Learning Threat Intelligence Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** GA, US USA
@@ -390,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Senior Full Stack Engineer (HYBRID) @ GEICO
+## 35. Senior Full Stack Engineer (HYBRID) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA

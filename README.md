@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 06:32
+Last updated: 2026-03-08 07:26
 
 ### 🚀 Daily Job Matches
 
@@ -607,7 +607,6 @@ Last updated: 2026-03-08 06:32
 | Deloitte | Azure Data Engineer | Gilbert, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=110f275787ec7bdb) | 2026-03-04 08:29 |
 | Alter Domus | Senior Data Engineer - Data Governance | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3d83b504ed46b0c) | 2026-03-04 08:29 |
 | BILL | Senior Database Reliability Engineer (Oracle & Automation Focus) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=104eb630cab2bc86) | 2026-03-04 07:33 |
-| Ncontracts | Analytics Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=da52963e4860aaaa) | 2026-03-04 06:36 |
 
 
 ---
