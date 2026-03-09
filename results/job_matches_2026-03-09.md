@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-09
 
-**Total Jobs Found:** 55
+**Total Jobs Found:** 81
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. CrowdStrike Charlotte AI Engineer @ Openkyber
+## 2. DevOps Engineer @ FusionStak LLC
+**Match Score:** 18.8%
+
+📍 **Location:** Baton Rouge, LA, US USA
+
+🔑 **Keywords:** AWS, Lambda, Redshift, S3, IAM, RDS, Azure, Scala, SQL Server, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3092577afd5b3438)
+
+---
+
+## 3. Sr Data Engineer @ Topgolf
+**Match Score:** 18.8%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, Kinesis, Redshift, S3, IAM, RDS, Azure, Databricks
+
+[Apply Here](https://www.indeed.com/viewjob?jk=48a3d37ec6e3c854)
+
+---
+
+## 4. CrowdStrike Charlotte AI Engineer @ Openkyber
 **Match Score:** 18.1%
 
 📍 **Location:** AK, US USA
@@ -27,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Software Engineer @ Optum
+## 5. Software Engineer @ Optum
 **Match Score:** 15.3%
 
 📍 **Location:** Minnetonka, MN, US USA
@@ -38,7 +60,216 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Terraform MLOps Engineer @ Openkyber
+## 6. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8b28a5e5f471429b)
+
+---
+
+## 7. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fa0174c36940aa83)
+
+---
+
+## 8. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f105011f4f992e1c)
+
+---
+
+## 9. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=458abf73283f2111)
+
+---
+
+## 10. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bf45dfb6778c0fdc)
+
+---
+
+## 11. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=86e2ec9b122daeb5)
+
+---
+
+## 12. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eb9733f64d96e7aa)
+
+---
+
+## 13. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a02052c69a3c492c)
+
+---
+
+## 14. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=94ec53f54f9c7088)
+
+---
+
+## 15. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bcd4bc382e9c7b62)
+
+---
+
+## 16. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0888715b72dfc054)
+
+---
+
+## 17. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=509c8ac8509a5876)
+
+---
+
+## 18. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5ac494b36ae187df)
+
+---
+
+## 19. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0f3909b266a9e56c)
+
+---
+
+## 20. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2d5765fb327aec80)
+
+---
+
+## 21. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eb0446823f314c2a)
+
+---
+
+## 22. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=53455cd5c2762916)
+
+---
+
+## 23. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1a722531933fefd7)
+
+---
+
+## 24. Big Data Developer / Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, GCP, Hadoop, HDFS, Hive, HBase, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ff174cdafd94cad6)
+
+---
+
+## 25. Terraform MLOps Engineer @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** AK, US USA
@@ -49,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. MLOps @ Openkyber
+## 26. MLOps @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** AK, US USA
@@ -60,7 +291,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Data Engineer - CETS @ American Express
+## 27. Senior Software Engineer @ Optum
+**Match Score:** 14.6%
+
+📍 **Location:** Basking Ridge, NJ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Oracle, PostgreSQL, MySQL, MongoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=20ebbd1659adab31)
+
+---
+
+## 28. Enterprise Data Architect (Hybrid - Austin, TX) @ Togetherwork
+**Match Score:** 14.6%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, S3, IAM, RDS, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=772798db531882c8)
+
+---
+
+## 29. Senior Data Engineer - CETS @ American Express
 **Match Score:** 13.9%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -71,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. MLOps @ Openkyber
+## 30. MLOps @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** AK, US USA
@@ -82,7 +335,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. DevOps Architect - Mainframe @ Openkyber
+## 31. Software Engineer II @ Wheels Up
+**Match Score:** 13.9%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, MySQL, MongoDB, NoSQL, ELT, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3e4cb81ca830b19a)
+
+---
+
+## 32. DevOps Architect - Mainframe @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** AK, US USA
@@ -93,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Data Engineer @ SpotOn
+## 33. Senior Data Engineer @ SpotOn
 **Match Score:** 13.2%
 
 📍 **Location:** New York, NY, US USA
@@ -104,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. CrowdStrike Cloud Security Engineer @ Openkyber
+## 34. CrowdStrike Cloud Security Engineer @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** AK, US USA
@@ -115,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Machine Learning Threat Intelligence Engineer @ Openkyber
+## 35. Machine Learning Threat Intelligence Engineer @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** AK, US USA
@@ -126,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Docker MLOps Engineer @ Openkyber
+## 36. Docker MLOps Engineer @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** AK, US USA
@@ -137,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Oracle APEX Developer @ Softnice
+## 37. Oracle APEX Developer @ Softnice
 **Match Score:** 13.2%
 
 📍 **Location:** Richmond, VA, US USA
@@ -148,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Specialist, Data Engineer @ Nationwide Mutual Insurance Company
+## 38. Specialist, Data Engineer @ Nationwide Mutual Insurance Company
 **Match Score:** 12.5%
 
 📍 **Location:** Columbus, OH, US USA
@@ -159,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Data Engineer @ datAvail
+## 39. Senior Data Engineer @ datAvail
 **Match Score:** 12.5%
 
 📍 **Location:** US USA
@@ -170,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Data Engineer - Remote, USA @ Bluelight Consulting
+## 40. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Louisville, KY, US USA
@@ -181,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Data Engineer - Remote, USA @ Bluelight Consulting
+## 41. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Austin, TX, US USA
@@ -192,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Data Engineer - Remote, USA @ Bluelight Consulting
+## 42. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** El Paso, TX, US USA
@@ -203,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Data Engineer - Remote, USA @ Bluelight Consulting
+## 43. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -214,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Data Engineer - Remote, USA @ Bluelight Consulting
+## 44. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -225,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Data Engineer - Remote, USA @ Bluelight Consulting
+## 45. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -236,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Data Engineer - Remote, USA @ Bluelight Consulting
+## 46. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -247,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Data Engineer - Remote, USA @ Bluelight Consulting
+## 47. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Albuquerque, NM, US USA
@@ -258,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Data Engineer - Remote, USA @ Bluelight Consulting
+## 48. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Houston, TX, US USA
@@ -269,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Data Engineer - Remote, USA @ Bluelight Consulting
+## 49. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Baltimore, MD, US USA
@@ -280,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Data Engineer - Remote, USA @ Bluelight Consulting
+## 50. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Oklahoma City, OK, US USA
@@ -291,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Data Engineer - Remote, USA @ Bluelight Consulting
+## 51. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Columbus, OH, US USA
@@ -302,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Data Engineer - Remote, USA @ Bluelight Consulting
+## 52. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -313,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Data Engineer - Remote, USA @ Bluelight Consulting
+## 53. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Memphis, TN, US USA
@@ -324,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Data Engineer - Remote, USA @ Bluelight Consulting
+## 54. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -335,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Data Engineer - Remote, USA @ Bluelight Consulting
+## 55. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -346,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Data Engineer - Remote, USA @ Bluelight Consulting
+## 56. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Charleston, SC, US USA
@@ -357,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Data Engineer - Remote, USA @ Bluelight Consulting
+## 57. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Billings, MT, US USA
@@ -368,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Data Engineer - Remote, USA @ Bluelight Consulting
+## 58. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -379,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Data Engineer - Remote, USA @ Bluelight Consulting
+## 59. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -390,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Data Engineer - Remote, USA @ Bluelight Consulting
+## 60. Data Engineer - Remote, USA @ Bluelight Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -401,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Mainframe Cloud Integration Specialist @ Openkyber
+## 61. Mainframe Cloud Integration Specialist @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** AK, US USA
@@ -412,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Senior Analytics Engineer @ SALOMON
+## 62. Senior Analytics Engineer @ SALOMON
 **Match Score:** 12.5%
 
 📍 **Location:** New York, NY, US USA
@@ -423,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Kubernetes ML Engineer @ Openkyber
+## 63. Kubernetes ML Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -434,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Back-End AI Engineer @ RightRev
+## 64. Back-End AI Engineer @ RightRev
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -445,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Senior Security Engineer II – Cloud & Data Security @ Sigma Computing
+## 65. Senior Security Engineer II – Cloud & Data Security @ Sigma Computing
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -456,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Kubernetes MLOps Engineer @ Openkyber
+## 66. Kubernetes MLOps Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -467,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Associate ML Infrastructure Engineer @ Openkyber
+## 67. Associate ML Infrastructure Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -478,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Associate ML Infrastructure Engineer @ Openkyber
+## 68. Associate ML Infrastructure Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -489,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Engineer/Sr Engineer, IT Software @ American Airlines
+## 69. Engineer/Sr Engineer, IT Software @ American Airlines
 **Match Score:** 11.8%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -500,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. CrowdStrike Security Engineer @ Openkyber
+## 70. CrowdStrike Security Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -511,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Cloud-Native MLOps Engineer @ Openkyber
+## 71. Cloud-Native MLOps Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** AK, US USA
@@ -522,7 +786,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Data Scientist / Senior Data Scientist (Risk Modeling Focus) @ Berkshire Hathaway Specialty Insurance
+## 72. Senior MuleSoft Engineer @ Green Irony
+**Match Score:** 11.1%
+
+📍 **Location:** Raleigh, NC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=902ef08f4a0d7d10)
+
+---
+
+## 73. Big Data Engineer | USA (Remote) | Virtual Interview | 10+ Years Experience @ Tech-assist
+**Match Score:** 10.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, GCP, Hadoop, Hive, Oozie, Spark, Scala, Kafka, Data Modeling, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75)
+
+---
+
+## 74. Data Scientist / Senior Data Scientist (Risk Modeling Focus) @ Berkshire Hathaway Specialty Insurance
 **Match Score:** 10.4%
 
 📍 **Location:** San Ramon, CA, US USA
@@ -533,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Data Scientist / Senior Data Scientist (Risk Modeling Focus) @ Berkshire Hathaway Specialty Insurance
+## 75. Data Scientist / Senior Data Scientist (Risk Modeling Focus) @ Berkshire Hathaway Specialty Insurance
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -544,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Senior Software Engineer, Infrastructure @ Okta
+## 76. Senior Software Engineer, Infrastructure @ Okta
 **Match Score:** 10.4%
 
 📍 **Location:** Bellevue, WA, US USA
@@ -555,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Full Stack Engineer @ The Nehr Agency
+## 77. Full Stack Engineer @ The Nehr Agency
 **Match Score:** 10.4%
 
 📍 **Location:** Reston, VA, US USA
@@ -566,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. API Enablement Specialist @ Openkyber
+## 78. API Enablement Specialist @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -577,7 +863,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. GenAI Threat Intelligence Analyst @ Openkyber
+## 79. GenAI Threat Intelligence Analyst @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -588,7 +874,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Generative AI Operations Engineer @ Openkyber
+## 80. Generative AI Operations Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -599,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. JCL Developer @ Openkyber
+## 81. JCL Developer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA

@@ -1,15 +1,41 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 17:41
+Last updated: 2026-03-09 18:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| FusionStak LLC | DevOps Engineer | Baton Rouge, LA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=3092577afd5b3438) | 2026-03-09 18:40 |
+| Topgolf | Sr Data Engineer | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=48a3d37ec6e3c854) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8b28a5e5f471429b) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fa0174c36940aa83) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f105011f4f992e1c) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=458abf73283f2111) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bf45dfb6778c0fdc) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=86e2ec9b122daeb5) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eb9733f64d96e7aa) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a02052c69a3c492c) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=94ec53f54f9c7088) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bcd4bc382e9c7b62) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0888715b72dfc054) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=509c8ac8509a5876) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5ac494b36ae187df) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0f3909b266a9e56c) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2d5765fb327aec80) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eb0446823f314c2a) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=53455cd5c2762916) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1a722531933fefd7) | 2026-03-09 18:40 |
+| BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ff174cdafd94cad6) | 2026-03-09 18:40 |
+| Optum | Senior Software Engineer | Basking Ridge, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=20ebbd1659adab31) | 2026-03-09 18:40 |
+| Togetherwork | Enterprise Data Architect (Hybrid - Austin, TX) | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=772798db531882c8) | 2026-03-09 18:40 |
+| Wheels Up | Software Engineer II | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3e4cb81ca830b19a) | 2026-03-09 18:40 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-09 18:40 |
+| Green Irony | Senior MuleSoft Engineer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=902ef08f4a0d7d10) | 2026-03-09 18:40 |
+| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-09 18:40 |
 | Stellix | Senior Data Engineer III | Foxborough, MA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=23da0426139b73c0) | 2026-03-09 17:41 |
 | American Express | Senior Data Engineer - CETS | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9de3e03dd9f36515) | 2026-03-09 17:41 |
 | SpotOn | Senior Data Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3fb184a441994d14) | 2026-03-09 17:41 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-09 17:41 |
 | Openkyber | GenAI Threat Intelligence Analyst | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57347e70ea0f51d0) | 2026-03-09 17:41 |
 | Nearsure | (1363) Senior DevOps Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f7b52733c5b93b90) | 2026-03-09 16:49 |
 | Softnice | Oracle APEX Developer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f99ee94588d96c51) | 2026-03-09 16:49 |
@@ -520,16 +546,6 @@ Last updated: 2026-03-09 17:41
 | Accenture | Senior Application Platform Architect - 6163848 | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ea7fc0fae83610a) | 2026-03-05 19:10 |
 | KNIT | Senior Full Stack Engineer (NYC) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f0457dc96d28b81f) | 2026-03-05 19:10 |
 | CrowdStrike | Sr. Software Engineer - Risk Platform (Hybrid) | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1593d7242ad3914) | 2026-03-05 19:10 |
-| Realign | Full Stack Engineer (React + Node.js)-5 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=01d5f2b9fa96100b) | 2026-03-05 17:55 |
-| AmeriLife | Data Engineer | Philadelphia, PA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=857bb2d652273e9a) | 2026-03-05 17:55 |
-| GRAY MEDIA | CLOUD ENGINEER (AWS) (REMOTE/USA) - GDM (GRAY MEDIA GROUP) | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0beb94e2f1648144) | 2026-03-05 17:55 |
-| Upstart | Senior Analytics Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3dab96c17b78fc32) | 2026-03-05 17:55 |
-| nan | SENIOR DATA ENGINEER | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bee5a340a7f65e61) | 2026-03-05 17:55 |
-| Realign | Data Platform Engineer-3 | Parsippany-Troy Hills, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f753e538739bd670) | 2026-03-05 17:55 |
-| Space Telescope Science Institute | Senior Data Platform Engineer | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6055970eb603df79) | 2026-03-05 17:55 |
-| CareSource | AI Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=640c68fe3716b1e6) | 2026-03-05 17:55 |
-| Centene | Senior Site Reliability Engineer | MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11d92da9c37770a7) | 2026-03-05 17:55 |
-| RAMSOFT | Software Developer - Database Engineer | CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ce0ac7d0a937f32) | 2026-03-05 17:55 |
 
 
 ---
