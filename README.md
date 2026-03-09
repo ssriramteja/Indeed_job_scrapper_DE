@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 12:40
+Last updated: 2026-03-09 14:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Corza Medical | Azure Data Architect – Fabric \| Synapse \| Lakehouse \| Enterprise Platform | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50cc99cfa1b160e1) | 2026-03-09 12:40 |
+| Optum | Software Engineer | Minnetonka, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e082ad2ab8b61482) | 2026-03-09 14:00 |
+| natumatic inc | Cloud Data Platform Administrator | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=53c6decd13829199) | 2026-03-09 14:00 |
+| Progressive Technology Solutions | Senior Backend Engineer | Merrifield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a853e0ae22d5c66) | 2026-03-09 14:00 |
 | RightRev | Back-End AI Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da1213278b93e6bd) | 2026-03-09 12:40 |
 | Openkyber | Kubernetes ML Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=127254c89307645a) | 2026-03-09 11:29 |
 | Openkyber | Generative AI Operations Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5233eb09f014a08a) | 2026-03-09 11:29 |
@@ -526,10 +528,6 @@ Last updated: 2026-03-09 12:40
 | Capital One | Senior Software Engineer, Back End (Python) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f65ac6c3f1cf1646) | 2026-03-05 15:42 |
 | Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aedcadc853d15f82) | 2026-03-05 15:42 |
 | Visa | Software Engineer, Intern - Summer 2026, Austin | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dd858b6050894467) | 2026-03-05 14:41 |
-| ADNET Systems, Inc | GD162 Senior Software Systems Engineer & Architect | Greenbelt, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef183b27f01923fb) | 2026-03-05 13:57 |
-| Hard Rock International | Database Administrator | Hollywood, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=169d4a00d377fdae) | 2026-03-05 13:57 |
-| Xpedient Technologies | Informatica MDM and Databricks Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4cb9515aa944d7a5) | 2026-03-05 13:57 |
-| Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=447d4d5607b3f3c6) | 2026-03-05 13:57 |
 
 
 ---
