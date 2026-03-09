@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 16:49
+Last updated: 2026-03-09 17:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Stellix | Senior Data Engineer III | Foxborough, MA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=23da0426139b73c0) | 2026-03-09 17:41 |
+| American Express | Senior Data Engineer - CETS | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9de3e03dd9f36515) | 2026-03-09 17:41 |
+| SpotOn | Senior Data Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3fb184a441994d14) | 2026-03-09 17:41 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-09 17:41 |
+| Openkyber | GenAI Threat Intelligence Analyst | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57347e70ea0f51d0) | 2026-03-09 17:41 |
 | Nearsure | (1363) Senior DevOps Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f7b52733c5b93b90) | 2026-03-09 16:49 |
 | Softnice | Oracle APEX Developer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f99ee94588d96c51) | 2026-03-09 16:49 |
 | datAvail | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6fd6ddbd121342d5) | 2026-03-09 16:49 |
