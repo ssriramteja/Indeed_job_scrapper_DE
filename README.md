@@ -1,11 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 01:17
+Last updated: 2026-03-09 04:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bluelight Consulting | Data Engineer - Remote, USA | Louisville, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=47565bba5f358319) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=67847e8511f65c7d) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | El Paso, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e58a2dfa4262a025) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Sacramento, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bc646fda2eb85619) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1aedb8b8aec3e159) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b9c7d8b9629dc69f) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6084426de3e80dd2) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Albuquerque, NM, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e96f433128edfd7d) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fa10ecda14dd22ca) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Baltimore, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=24f30709341ff2a4) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Oklahoma City, OK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d0d5bd814d339eaf) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=47a58e6f90fd69fc) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | San Antonio, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=526d2298d07834e7) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Memphis, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e4955b1f3fc7acab) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=94a1e695d6167042) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fdf14ce4e3b4d297) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Charleston, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b07ea23f99e54254) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Billings, MT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9c4855052460f6e5) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Las Vegas, NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d0a3a892faea7852) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dbbd9b8557c4ec4) | 2026-03-09 04:09 |
+| Bluelight Consulting | Data Engineer - Remote, USA | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9db3d7325c656bcd) | 2026-03-09 04:09 |
 | Openkyber | CrowdStrike Charlotte AI Engineer | GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9a9ca0178ffbff15) | 2026-03-08 23:16 |
 | Openkyber | DevOps Architect - Mainframe | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9b82583635e22429) | 2026-03-08 23:16 |
 | Openkyber | CrowdStrike Cloud Security Engineer | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=07501398d0e8a4d9) | 2026-03-08 23:16 |
@@ -494,28 +515,6 @@ Last updated: 2026-03-09 01:17
 | Appex Innovation | AWS Data Engineer | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3886cb86a753634c) | 2026-03-05 05:42 |
 | Truist | Data Platform Engineer - Alteryx Platform Management | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a738d45466c580a9) | 2026-03-05 05:42 |
 | Guidewire Software, Inc. | Senior Full Stack Engineer | San Mateo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b5e082bd1857b0f) | 2026-03-05 05:42 |
-| Carnegie Mellon University | Sr. Database Administrator - Computing Services | Pittsburgh, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=506f6b3eeea1e8bf) | 2026-03-05 04:05 |
-| Information Technology Senior Management Forum | Senior Data Engineer | Richmond, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9e8500146d476812) | 2026-03-05 04:05 |
-| Information Technology Senior Management Forum | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2ad2838bd8f61427) | 2026-03-05 04:05 |
-| Alight Solutions | Cloud Platform Engineer | IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=398f35933211332f) | 2026-03-05 04:05 |
-| Infosys | Specialist Programmer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9772b3b8d4167ecc) | 2026-03-05 04:05 |
-| General Motors (GM) | Senior Software Engineer - Commercial Software | Warren, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5f3de39cf73c3663) | 2026-03-05 04:05 |
-| Information Technology Senior Management Forum | Senior Software Engineer, Back End (Java, Go, AWS) | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e716b4195b2da30b) | 2026-03-05 04:05 |
-| Daniels Health | Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1df7caac86af2291) | 2026-03-05 04:05 |
-| Accenture | ATC - AI & Data Analyst - NAELFY26 | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1ce7a50a4bbe9ef2) | 2026-03-05 04:05 |
-| Weyerhaeuser | MLOps Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d9f82346c5ff2d3) | 2026-03-05 04:05 |
-| Prudential | Senior Software Engineer - MDM / RDM & API Development | Newark, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d75a6cef6409e12b) | 2026-03-05 04:05 |
-| General Motors (GM) | Software Systems Engineer, Release Reliability & Automation (Autonomous Vehicles) | Sunnyvale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=864266ab5f8e3aac) | 2026-03-05 04:05 |
-| TORCH.AI | Software Engineer (Junior) | Leawood, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=28e432d03da8db08) | 2026-03-05 04:05 |
-| Information Technology Senior Management Forum | Senior Software Engineer, Back End (Python) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3864c05dc9b353f8) | 2026-03-05 04:05 |
-| BLOC Resources, LLC | Data Engineer 2 | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c51290628ce41b82) | 2026-03-05 04:05 |
-| Axon | Sr. Software Engineer I, Applied AI | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e858c83fc09cd77d) | 2026-03-05 04:05 |
-| Stanford University | AI Applications Engineer | Redwood City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0dc1867fdcc5324) | 2026-03-05 04:05 |
-| RapidFire Safety & Security | Power BI Developer | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8afc73df8ef8f40e) | 2026-03-05 04:05 |
-| Caterpillar | .NET Developer | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4afc3e61f8ae8b7b) | 2026-03-05 04:05 |
-| GEICO | Senior Software Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1315e6e62a7714e8) | 2026-03-05 04:05 |
-| RBC | Sr. Informatica IDMC MDM Software Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5346f4c5e2b5352a) | 2026-03-05 04:05 |
-| Truist | Data Platform Engineer - Alteryx Platform Management | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bde05d459024e776) | 2026-03-05 04:05 |
 
 
 ---
