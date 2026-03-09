@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 14:00
+Last updated: 2026-03-09 15:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Noblesoft Technologies Inc. | Mainframe System Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cdfd9ffe1f4bab35) | 2026-03-09 15:09 |
+| BITS, Inc. | AI/ML Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7a0685b33151974) | 2026-03-09 15:09 |
+| The Nehr Agency | Full Stack Engineer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f3f3ed6f9ca8e1f) | 2026-03-09 15:09 |
 | Optum | Software Engineer | Minnetonka, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e082ad2ab8b61482) | 2026-03-09 14:00 |
 | natumatic inc | Cloud Data Platform Administrator | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=53c6decd13829199) | 2026-03-09 14:00 |
 | Progressive Technology Solutions | Senior Backend Engineer | Merrifield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a853e0ae22d5c66) | 2026-03-09 14:00 |
@@ -527,7 +530,6 @@ Last updated: 2026-03-09 14:00
 | Charles Schwab | Full Stack Developer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=022d9e279d3ddb80) | 2026-03-05 15:42 |
 | Capital One | Senior Software Engineer, Back End (Python) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f65ac6c3f1cf1646) | 2026-03-05 15:42 |
 | Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aedcadc853d15f82) | 2026-03-05 15:42 |
-| Visa | Software Engineer, Intern - Summer 2026, Austin | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dd858b6050894467) | 2026-03-05 14:41 |
 
 
 ---
