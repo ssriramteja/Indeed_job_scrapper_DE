@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 08:34
+Last updated: 2026-03-09 09:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SALOMON | Senior Analytics Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=591cf05ec928c921) | 2026-03-09 09:39 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1ffba260a42149a) | 2026-03-09 09:39 |
+| GEICO | Senior Enterprise Ontologist | Richardson, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2658676db3cb0781) | 2026-03-09 09:39 |
+| GEICO | Senior Enterprise Ontologist | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=526fd8654b3fe27a) | 2026-03-09 09:39 |
+| GEICO | Senior Enterprise Ontologist | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa04dfb29f5bfb80) | 2026-03-09 09:39 |
+| GEICO | Senior Enterprise Ontologist | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea4d72b7fb4fe3c9) | 2026-03-09 09:39 |
+| GEICO | Senior Enterprise Ontologist | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2486e9292dfc22af) | 2026-03-09 09:39 |
+| GEICO | Senior Enterprise Ontologist | Chevy Chase, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9a64862baf27c704) | 2026-03-09 09:39 |
+| GEICO | Senior Taxonomist | Chevy Chase, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5097254ffda8aa23) | 2026-03-09 09:39 |
+| GEICO | Senior Taxonomist | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ba1788435dbf136) | 2026-03-09 09:39 |
+| GEICO | Senior Taxonomist | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=179cc696ce6a3a5a) | 2026-03-09 09:39 |
+| GEICO | Senior Taxonomist | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a49578296052b0f) | 2026-03-09 09:39 |
+| GEICO | Senior Taxonomist | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ea6c9de4c26d6a0) | 2026-03-09 09:39 |
+| GEICO | Senior Taxonomist | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=68fc2220156f231f) | 2026-03-09 09:39 |
 | Sigma Computing | Senior Security Engineer II – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9f71b276dda5b6c4) | 2026-03-09 07:45 |
 | Openkyber | Terraform MLOps Engineer | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=14ef9a02e63046b1) | 2026-03-09 05:52 |
 | Openkyber | MLOps | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f80931732d91d4a6) | 2026-03-09 05:52 |
@@ -514,7 +528,6 @@ Last updated: 2026-03-09 08:34
 | Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=447d4d5607b3f3c6) | 2026-03-05 13:57 |
 | Advance Auto Parts | Sr. Data Engineer | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e2d8bc5a4c9174d) | 2026-03-05 11:28 |
 | nan | Data Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=38b673fd36dffa19) | 2026-03-05 10:31 |
-| Novolex | IT Data Engineer | Lake Forest, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=024a63ca708c8a8f) | 2026-03-05 09:34 |
 
 
 ---
