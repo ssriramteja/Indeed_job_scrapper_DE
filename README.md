@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 15:09
+Last updated: 2026-03-09 15:52
 
 ### 🚀 Daily Job Matches
 
@@ -521,15 +521,6 @@ Last updated: 2026-03-09 15:09
 | CareSource | AI Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=640c68fe3716b1e6) | 2026-03-05 17:55 |
 | Centene | Senior Site Reliability Engineer | MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11d92da9c37770a7) | 2026-03-05 17:55 |
 | RAMSOFT | Software Developer - Database Engineer | CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ce0ac7d0a937f32) | 2026-03-05 17:55 |
-| Capital One | Senior Data Engineer | Cambridge, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=32d044bc27a4af8a) | 2026-03-05 15:42 |
-| Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=aed60e56cae31294) | 2026-03-05 15:42 |
-| Capital One | Senior Data Engineer | Richmond, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=44f958ba0cbc0f43) | 2026-03-05 15:42 |
-| Koch | Data Architect | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e83bd0fd320bb829) | 2026-03-05 15:42 |
-| Koch | Data Architect | Tulsa, OK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=105f562c4b87c831) | 2026-03-05 15:42 |
-| Koch | Data Architect | Wichita, KS, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56a2fccd9b09c654) | 2026-03-05 15:42 |
-| Charles Schwab | Full Stack Developer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=022d9e279d3ddb80) | 2026-03-05 15:42 |
-| Capital One | Senior Software Engineer, Back End (Python) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f65ac6c3f1cf1646) | 2026-03-05 15:42 |
-| Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aedcadc853d15f82) | 2026-03-05 15:42 |
 
 
 ---
