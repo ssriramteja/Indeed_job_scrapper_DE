@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 06:51
+Last updated: 2026-03-09 07:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sigma Computing | Senior Security Engineer II – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9f71b276dda5b6c4) | 2026-03-09 07:45 |
 | Openkyber | Terraform MLOps Engineer | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=14ef9a02e63046b1) | 2026-03-09 05:52 |
 | Openkyber | MLOps | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f80931732d91d4a6) | 2026-03-09 05:52 |
 | Openkyber | MLOps | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f9a961034c94203e) | 2026-03-09 05:52 |
@@ -521,8 +522,6 @@ Last updated: 2026-03-09 06:51
 | NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=140d02e1f58501f6) | 2026-03-05 08:31 |
 | NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eff547fec829449a) | 2026-03-05 08:31 |
 | NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29d22d712d7958f0) | 2026-03-05 08:31 |
-| Pindrop | Software Engineer - Authentication | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6513fcf97bbfd044) | 2026-03-05 07:37 |
-| Daniels Health | Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3486f1249174e37a) | 2026-03-05 07:37 |
 
 
 ---
