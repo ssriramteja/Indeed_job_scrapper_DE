@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 18:40
+Last updated: 2026-03-09 19:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior Data Engineer | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=332e9fb32e0415f5) | 2026-03-09 19:35 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-09 19:35 |
+| Grayson College | Software Developer (Backend / Systems) | Denison, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c61070e2529052c) | 2026-03-09 19:35 |
+| Suvida Healthcare | Senior Engineer – Software Development | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99f78e35d3201dd7) | 2026-03-09 19:35 |
+| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-09 19:35 |
+| Fueled | Cloud Solutions Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3847663034b7777f) | 2026-03-09 19:35 |
 | FusionStak LLC | DevOps Engineer | Baton Rouge, LA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=3092577afd5b3438) | 2026-03-09 18:40 |
 | Topgolf | Sr Data Engineer | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=48a3d37ec6e3c854) | 2026-03-09 18:40 |
 | BV Teck | Big Data Developer / Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8b28a5e5f471429b) | 2026-03-09 18:40 |
@@ -30,9 +36,7 @@ Last updated: 2026-03-09 18:40
 | Optum | Senior Software Engineer | Basking Ridge, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=20ebbd1659adab31) | 2026-03-09 18:40 |
 | Togetherwork | Enterprise Data Architect (Hybrid - Austin, TX) | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=772798db531882c8) | 2026-03-09 18:40 |
 | Wheels Up | Software Engineer II | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3e4cb81ca830b19a) | 2026-03-09 18:40 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-09 18:40 |
 | Green Irony | Senior MuleSoft Engineer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=902ef08f4a0d7d10) | 2026-03-09 18:40 |
-| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-09 18:40 |
 | Stellix | Senior Data Engineer III | Foxborough, MA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=23da0426139b73c0) | 2026-03-09 17:41 |
 | American Express | Senior Data Engineer - CETS | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9de3e03dd9f36515) | 2026-03-09 17:41 |
 | SpotOn | Senior Data Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3fb184a441994d14) | 2026-03-09 17:41 |
@@ -542,10 +546,6 @@ Last updated: 2026-03-09 18:40
 | WesBanco Bank, Inc. | Senior Data Engineer - Data & Analytics | Bowie, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3a02cdb2b181be3) | 2026-03-05 20:30 |
 | WesBanco Bank, Inc. | Senior Data Engineer - Data & Analytics | Wheeling, WV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb6ee55d393e301c) | 2026-03-05 20:30 |
 | HJ Staffing | Advisor Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20d4ea50920ad807) | 2026-03-05 20:30 |
-| Systems Engineering Solutions Corporation | System Architect | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=634fcd15ef04d7bf) | 2026-03-05 19:10 |
-| Accenture | Senior Application Platform Architect - 6163848 | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ea7fc0fae83610a) | 2026-03-05 19:10 |
-| KNIT | Senior Full Stack Engineer (NYC) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f0457dc96d28b81f) | 2026-03-05 19:10 |
-| CrowdStrike | Sr. Software Engineer - Risk Platform (Hybrid) | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1593d7242ad3914) | 2026-03-05 19:10 |
 
 
 ---
