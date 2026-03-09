@@ -1,11 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 04:09
+Last updated: 2026-03-09 05:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Terraform MLOps Engineer | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=14ef9a02e63046b1) | 2026-03-09 05:52 |
+| Openkyber | MLOps | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f80931732d91d4a6) | 2026-03-09 05:52 |
+| Openkyber | MLOps | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f9a961034c94203e) | 2026-03-09 05:52 |
+| Openkyber | MLOps | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5360f2e4e078cc82) | 2026-03-09 05:52 |
+| Openkyber | MLOps | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=09a09d113d12e316) | 2026-03-09 05:52 |
+| Openkyber | Docker MLOps Engineer | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ddc72cf3e9f4cacd) | 2026-03-09 05:52 |
+| Openkyber | Senior DB2 DBA | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=30310d1133432e87) | 2026-03-09 05:52 |
+| Openkyber | Kubernetes MLOps Engineer | NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ed6327e72675e4d0) | 2026-03-09 05:52 |
+| Openkyber | Associate ML Infrastructure Engineer | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f73fcdf60543dc29) | 2026-03-09 05:52 |
+| Openkyber | Associate ML Infrastructure Engineer | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=714ec340c93e2f35) | 2026-03-09 05:52 |
+| Openkyber | MLOps | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41247af670cd7077) | 2026-03-09 05:52 |
+| Openkyber | MLOps | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f0e8b67569d1abd) | 2026-03-09 05:52 |
+| Berkshire Hathaway Specialty Insurance | Data Scientist / Senior Data Scientist (Risk Modeling Focus) | San Ramon, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=612df1868af9d54f) | 2026-03-09 05:52 |
+| Berkshire Hathaway Specialty Insurance | Data Scientist / Senior Data Scientist (Risk Modeling Focus) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=724dcb545f058b93) | 2026-03-09 05:52 |
+| Openkyber | JCL Developer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b79a0aab80d0133) | 2026-03-09 05:52 |
 | Bluelight Consulting | Data Engineer - Remote, USA | Louisville, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=47565bba5f358319) | 2026-03-09 04:09 |
 | Bluelight Consulting | Data Engineer - Remote, USA | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=67847e8511f65c7d) | 2026-03-09 04:09 |
 | Bluelight Consulting | Data Engineer - Remote, USA | El Paso, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e58a2dfa4262a025) | 2026-03-09 04:09 |
@@ -511,10 +526,6 @@ Last updated: 2026-03-09 04:09
 | Valvoline Global Operations | Senior Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ab16510fd1c2841d) | 2026-03-05 06:40 |
 | TD Bank | Java Software Engineer II (US) | Mount Laurel, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8ee89e940b02cc06) | 2026-03-05 06:40 |
 | Adobe | Sr. Data Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd1518c4c02c12ef) | 2026-03-05 06:40 |
-| Munich Re | Application Developer | Amelia, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1c8f07e938168692) | 2026-03-05 05:42 |
-| Appex Innovation | AWS Data Engineer | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3886cb86a753634c) | 2026-03-05 05:42 |
-| Truist | Data Platform Engineer - Alteryx Platform Management | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a738d45466c580a9) | 2026-03-05 05:42 |
-| Guidewire Software, Inc. | Senior Full Stack Engineer | San Mateo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b5e082bd1857b0f) | 2026-03-05 05:42 |
 
 
 ---
