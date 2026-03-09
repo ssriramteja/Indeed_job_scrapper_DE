@@ -1,16 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 19:35
+Last updated: 2026-03-09 20:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| InformAI | Full Stack Engineer | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=86fc1393dcf5eb4a) | 2026-03-09 20:24 |
+| Point Digital Finance | Senior Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e88c572a3f85eb53) | 2026-03-09 20:24 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-09 20:24 |
+| Verve for Advertisers | Platform Engineer (Remote / Contract) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0cc3eada72d656f7) | 2026-03-09 20:24 |
+| eOne Infotech | Quality Engineer – BDD Implementation (Data Ingestion & Pipeline) | Fort Mill, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb8cfcc24a34054e) | 2026-03-09 20:24 |
+| Spark Business Works | Data Analyst - Custom Software | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e4874398fdff6c74) | 2026-03-09 20:24 |
+| Spark Business Works | Data Analyst - Custom Software | Kalamazoo, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=78ddc0a0e690c6c5) | 2026-03-09 20:24 |
+| eOne Infotech | Sr. Data Engineer (Mid–Senior Level) – AWS & Streaming | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6aaee4d4db3b4f0b) | 2026-03-09 20:24 |
+| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-09 20:24 |
+| Syracuse University | Advancement Technical Systems Developer | Syracuse, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=079fe1b4f4ba9f8f) | 2026-03-09 20:24 |
+| Verisign | Junior Software Engineer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3b1f0870e48cb0f) | 2026-03-09 20:24 |
 | nan | Senior Data Engineer | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=332e9fb32e0415f5) | 2026-03-09 19:35 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-09 19:35 |
 | Grayson College | Software Developer (Backend / Systems) | Denison, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c61070e2529052c) | 2026-03-09 19:35 |
 | Suvida Healthcare | Senior Engineer – Software Development | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99f78e35d3201dd7) | 2026-03-09 19:35 |
-| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-09 19:35 |
 | Fueled | Cloud Solutions Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3847663034b7777f) | 2026-03-09 19:35 |
 | FusionStak LLC | DevOps Engineer | Baton Rouge, LA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=3092577afd5b3438) | 2026-03-09 18:40 |
 | Topgolf | Sr Data Engineer | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=48a3d37ec6e3c854) | 2026-03-09 18:40 |
