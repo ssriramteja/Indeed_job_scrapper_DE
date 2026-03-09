@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 15:52
+Last updated: 2026-03-09 16:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nearsure | (1363) Senior DevOps Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f7b52733c5b93b90) | 2026-03-09 16:49 |
+| Softnice | Oracle APEX Developer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f99ee94588d96c51) | 2026-03-09 16:49 |
+| datAvail | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6fd6ddbd121342d5) | 2026-03-09 16:49 |
+| Okta | Senior Software Engineer, Infrastructure | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eee844d3954d72d1) | 2026-03-09 16:49 |
 | Noblesoft Technologies Inc. | Mainframe System Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cdfd9ffe1f4bab35) | 2026-03-09 15:09 |
 | BITS, Inc. | AI/ML Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7a0685b33151974) | 2026-03-09 15:09 |
 | The Nehr Agency | Full Stack Engineer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f3f3ed6f9ca8e1f) | 2026-03-09 15:09 |
