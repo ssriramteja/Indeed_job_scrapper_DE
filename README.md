@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 05:52
+Last updated: 2026-03-09 06:51
 
 ### 🚀 Daily Job Matches
 
@@ -523,9 +523,6 @@ Last updated: 2026-03-09 05:52
 | NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29d22d712d7958f0) | 2026-03-05 08:31 |
 | Pindrop | Software Engineer - Authentication | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6513fcf97bbfd044) | 2026-03-05 07:37 |
 | Daniels Health | Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3486f1249174e37a) | 2026-03-05 07:37 |
-| Valvoline Global Operations | Senior Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ab16510fd1c2841d) | 2026-03-05 06:40 |
-| TD Bank | Java Software Engineer II (US) | Mount Laurel, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8ee89e940b02cc06) | 2026-03-05 06:40 |
-| Adobe | Sr. Data Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd1518c4c02c12ef) | 2026-03-05 06:40 |
 
 
 ---
