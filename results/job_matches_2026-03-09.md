@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-09
 
-**Total Jobs Found:** 61
+**Total Jobs Found:** 63
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -379,7 +379,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Senior Security Engineer II – Cloud & Data Security @ Sigma Computing
+## 35. Kubernetes ML Engineer @ Openkyber
+**Match Score:** 11.8%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Hadoop, Spark, Scala, Kafka, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=127254c89307645a)
+
+---
+
+## 36. Senior Security Engineer II – Cloud & Data Security @ Sigma Computing
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -390,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Kubernetes MLOps Engineer @ Openkyber
+## 37. Kubernetes MLOps Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** NH, US USA
@@ -401,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Associate ML Infrastructure Engineer @ Openkyber
+## 38. Associate ML Infrastructure Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -412,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Associate ML Infrastructure Engineer @ Openkyber
+## 39. Associate ML Infrastructure Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** OH, US USA
@@ -423,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Engineer/Sr Engineer, IT Software @ American Airlines
+## 40. Engineer/Sr Engineer, IT Software @ American Airlines
 **Match Score:** 11.8%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -434,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Senior Enterprise Ontologist @ GEICO
+## 41. Senior Enterprise Ontologist @ GEICO
 **Match Score:** 11.8%
 
 📍 **Location:** Richardson, TX, US USA
@@ -445,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Senior Enterprise Ontologist @ GEICO
+## 42. Senior Enterprise Ontologist @ GEICO
 **Match Score:** 11.8%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -456,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Senior Enterprise Ontologist @ GEICO
+## 43. Senior Enterprise Ontologist @ GEICO
 **Match Score:** 11.8%
 
 📍 **Location:** Dallas, TX, US USA
@@ -467,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Senior Enterprise Ontologist @ GEICO
+## 44. Senior Enterprise Ontologist @ GEICO
 **Match Score:** 11.8%
 
 📍 **Location:** Seattle, WA, US USA
@@ -478,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Senior Enterprise Ontologist @ GEICO
+## 45. Senior Enterprise Ontologist @ GEICO
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -489,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Senior Enterprise Ontologist @ GEICO
+## 46. Senior Enterprise Ontologist @ GEICO
 **Match Score:** 11.8%
 
 📍 **Location:** Chevy Chase, MD, US USA
@@ -500,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. CrowdStrike Security Engineer @ Openkyber
+## 47. CrowdStrike Security Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AZ, US USA
@@ -511,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. MLOps @ Openkyber
+## 48. MLOps @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -522,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. MLOps @ Openkyber
+## 49. MLOps @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** GA, US USA
@@ -533,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Cloud-Native MLOps Engineer @ Openkyber
+## 50. Cloud-Native MLOps Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -544,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Senior Taxonomist @ GEICO
+## 51. Senior Taxonomist @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Chevy Chase, MD, US USA
@@ -555,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Senior Taxonomist @ GEICO
+## 52. Senior Taxonomist @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -566,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Senior Taxonomist @ GEICO
+## 53. Senior Taxonomist @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -577,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Senior Taxonomist @ GEICO
+## 54. Senior Taxonomist @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -588,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Senior Taxonomist @ GEICO
+## 55. Senior Taxonomist @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Seattle, WA, US USA
@@ -599,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Senior Taxonomist @ GEICO
+## 56. Senior Taxonomist @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Richardson, TX, US USA
@@ -610,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Data Scientist / Senior Data Scientist (Risk Modeling Focus) @ Berkshire Hathaway Specialty Insurance
+## 57. Data Scientist / Senior Data Scientist (Risk Modeling Focus) @ Berkshire Hathaway Specialty Insurance
 **Match Score:** 10.4%
 
 📍 **Location:** San Ramon, CA, US USA
@@ -621,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Data Scientist / Senior Data Scientist (Risk Modeling Focus) @ Berkshire Hathaway Specialty Insurance
+## 58. Data Scientist / Senior Data Scientist (Risk Modeling Focus) @ Berkshire Hathaway Specialty Insurance
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -632,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. API Enablement Specialist @ Openkyber
+## 59. API Enablement Specialist @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** VA, US USA
@@ -643,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. AI Integration Engineer (Java + AI) @ Openkyber
+## 60. AI Integration Engineer (Java + AI) @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** VA, US USA
@@ -654,7 +665,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. AI Application Architect @ Openkyber
+## 61. Generative AI Operations Engineer @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Spark, PySpark, Oracle, Power BI, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5233eb09f014a08a)
+
+---
+
+## 62. AI Application Architect @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** IL, US USA
@@ -665,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. JCL Developer @ Openkyber
+## 63. JCL Developer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA

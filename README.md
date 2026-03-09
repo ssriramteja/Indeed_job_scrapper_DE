@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 10:37
+Last updated: 2026-03-09 11:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Kubernetes ML Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=127254c89307645a) | 2026-03-09 11:29 |
+| Openkyber | Generative AI Operations Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5233eb09f014a08a) | 2026-03-09 11:29 |
 | SALOMON | Senior Analytics Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=591cf05ec928c921) | 2026-03-09 09:39 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1ffba260a42149a) | 2026-03-09 09:39 |
 | GEICO | Senior Enterprise Ontologist | Richardson, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2658676db3cb0781) | 2026-03-09 09:39 |
@@ -526,7 +528,6 @@ Last updated: 2026-03-09 10:37
 | Hard Rock International | Database Administrator | Hollywood, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=169d4a00d377fdae) | 2026-03-05 13:57 |
 | Xpedient Technologies | Informatica MDM and Databricks Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4cb9515aa944d7a5) | 2026-03-05 13:57 |
 | Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=447d4d5607b3f3c6) | 2026-03-05 13:57 |
-| Advance Auto Parts | Sr. Data Engineer | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e2d8bc5a4c9174d) | 2026-03-05 11:28 |
 
 
 ---
