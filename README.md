@@ -1,23 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-09 22:20
+Last updated: 2026-03-09 23:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Mastercard | Software Engineer II | O'Fallon, MO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bbd2619eccd90c81) | 2026-03-09 23:20 |
+| Humana | Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=340a535ec0c84cac) | 2026-03-09 23:20 |
+| WeVision LLC | Sr. Data Engineer-Audience Data Platform | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1f586df953aed9dc) | 2026-03-09 23:20 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-09 23:20 |
+| Neuberger Berman | Quantitative Developer / Analytics & Dashboard Engineer | Redwood, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7f5a8a12eb26d2e) | 2026-03-09 23:20 |
+| Anheuser-Busch | Senior Software Engineer, DataOps & Platform Services | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3726b62a784e7a79) | 2026-03-09 23:20 |
+| WeVision LLC | Sr. Data Quality Engineer | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84c60c23da97c691) | 2026-03-09 23:20 |
+| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-09 23:20 |
+| Distinctive Staffing Solutions | AI/ML Engineer | Edina, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88f7a8640bb1fab0) | 2026-03-09 23:20 |
+| GEICO | Engineer II - (C#/Microservices/Azure) | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6998f845af080a70) | 2026-03-09 23:20 |
 | Pratt Miller | Software Engineer Sr Level - Connected Systems | Huntersville, NC, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0e51e277a7646929) | 2026-03-09 22:20 |
 | Optum | Senior Software Engineer - Remote | Eden Prairie, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=24bf71f6d124c7ba) | 2026-03-09 22:20 |
 | ConocoPhillips | Senior Data Engineer | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4c4bead3a549cf5d) | 2026-03-09 22:20 |
 | Musco Sports Lighting | Software Development Engineer | Urbandale, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8b4d2d88b717b0b6) | 2026-03-09 22:20 |
 | Palomar College | Web Developer | San Marcos, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1896fbf8cbc6af76) | 2026-03-09 22:20 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-09 22:20 |
 | datAvail | Senior Data Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=49c55bb99b922dcc) | 2026-03-09 22:20 |
 | ASTRELUX IT INC | Selenium Automation Tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3299fc75914979c2) | 2026-03-09 22:20 |
 | Clearwater Analytics (CWAN) | Software Development Intern | Boise, ID, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ee7bab82316f7860) | 2026-03-09 22:20 |
 | nan | Senior Infrastructure & Security Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7691aaaa57c20cab) | 2026-03-09 22:20 |
 | Sedgwick | Senior Backend Developer | TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e334b20b2a1ff39) | 2026-03-09 22:20 |
-| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-09 22:20 |
 | Ibotta | Senior Analytics Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=815abb92a33544f1) | 2026-03-09 22:20 |
 | Dorman Products | Sr. Cloud Engineer | Colmar, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad4a65f5253bb1f7) | 2026-03-09 22:20 |
 | Okta | Senior Software Engineer, Infrastructure (Federal) | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83b8886c05003079) | 2026-03-09 22:20 |
@@ -547,18 +555,6 @@ Last updated: 2026-03-09 22:20
 | AT&T | Senior Advanced Analytics | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=92f0640d212f7db6) | 2026-03-05 23:45 |
 | GEICO | Engineer II- Java | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c70cf8723aeaf7eb) | 2026-03-05 23:45 |
 | GEICO | Engineer II- Java | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f106012aaf32c49) | 2026-03-05 23:45 |
-| Tenable | Senior Software Engineer | Columbia, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b05ba9e572547c57) | 2026-03-05 22:23 |
-| Tata Consultancy Services (TCS) | Sr Data Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=afa51ac883fa48a6) | 2026-03-05 22:23 |
-| NTT DATA | Azure CI/CD Developer (FTE / Hybrid) | Oaks, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ffe5d7e4f5833213) | 2026-03-05 22:23 |
-| Clearwater Analytics (CWAN) | Sr Software Development Engineer | Boise, ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6efe960a7ab141ac) | 2026-03-05 22:23 |
-| Yusen Logistics | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7f92de33105c0bad) | 2026-03-05 22:23 |
-| Yusen Logistics | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=772460af87c5b60c) | 2026-03-05 22:23 |
-| AllCloud | Machine Learning Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=49fcd1d4ac195cdf) | 2026-03-05 22:23 |
-| Tata Consultancy Services (TCS) | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc0fe4c47cda2838) | 2026-03-05 22:23 |
-| Zoom Communications | DevOps Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d44e3274520e56d6) | 2026-03-05 22:23 |
-| Vizient, Inc. | Software Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e60ff8bc1e60898) | 2026-03-05 22:23 |
-| Fiserv | Senior Java Integration Consultant | Springfield, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7439985744d87583) | 2026-03-05 22:23 |
-| Cornerstone Defense | DevOps Engineer (Must have Kubernetes) | Chantilly, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7329904e6957c2e7) | 2026-03-05 22:23 |
 
 
 ---
