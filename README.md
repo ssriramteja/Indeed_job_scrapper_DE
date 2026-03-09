@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-08 23:16
+Last updated: 2026-03-09 01:17
 
 ### 🚀 Daily Job Matches
 
@@ -516,29 +516,6 @@ Last updated: 2026-03-08 23:16
 | GEICO | Senior Software Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1315e6e62a7714e8) | 2026-03-05 04:05 |
 | RBC | Sr. Informatica IDMC MDM Software Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5346f4c5e2b5352a) | 2026-03-05 04:05 |
 | Truist | Data Platform Engineer - Alteryx Platform Management | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bde05d459024e776) | 2026-03-05 04:05 |
-| LTIMindtree | Senior Specialist - System Management | Glen Allen, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=293f842904007fda) | 2026-03-05 01:16 |
-| Cognizant | Sr. Java Developer | Bentonville, AR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=29bb162ca9316c93) | 2026-03-05 01:16 |
-| Nightwing | Software Engineer (Hybrid) | Clarksville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=887221a715d1ff03) | 2026-03-05 01:16 |
-| Nightwing | Software Engineer (Hybrid) | Sterling, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3322d87953168bdc) | 2026-03-05 01:16 |
-| WSSC Water | Advanced Metering Infrastructure (AMI) Engineer | Laurel, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5b2aa36ee050b9b) | 2026-03-05 01:16 |
-| Amplify | Analytics Engineer | Brooklyn, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b4d16d721d2057f3) | 2026-03-05 01:16 |
-| Pfizer | AI Data Engineer-LLMs / Agentic Systems | Cambridge, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=92b5658394aee4e3) | 2026-03-05 01:16 |
-| Callaway Golf | Sr Data Engineer | Carlsbad, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab2d181891cc2eee) | 2026-03-05 01:16 |
-| Emed | Senior Software Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1e29e1c3d36f0e7c) | 2026-03-05 01:16 |
-| LTIMindtree | Senior Software Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af8d363b230dfbc2) | 2026-03-05 01:16 |
-| Creative Information Technology India | Enterprise Data Platform Engineer – Washington, DC | Falls Church, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0a74e373b48da5fc) | 2026-03-04 23:22 |
-| Cloudious | Google Cloud Data Architect | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=73dc517b82db140b) | 2026-03-04 23:22 |
-| NavitasPartners | Cloud Data Platform Administrator - 26-02191 | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3695a4ce423ac8e5) | 2026-03-04 23:22 |
-| NavitasPartners | Cloud Data Platform Administrator - 26-02191 | Alexandria, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=67be12c15c92c4c5) | 2026-03-04 23:22 |
-| NavitasPartners | Cloud Data Platform Administrator - 26-02191 | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=861fabb5acea2ca4) | 2026-03-04 23:22 |
-| NavitasPartners | Cloud Data Platform Administrator - 26-02191 | Baltimore, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6235a9d4364b9757) | 2026-03-04 23:22 |
-| Openkyber | SSO Administrator | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a9064a81c91aa262) | 2026-03-04 23:22 |
-| JPMorganChase | Software Engineer III - Java/Spark/AWS | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c95674c932d41fb6) | 2026-03-04 23:22 |
-| Michael Kors | Tableau Developer | East Rutherford, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=904e084e965a45c4) | 2026-03-04 23:22 |
-| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f9637232a826c3ad) | 2026-03-04 23:22 |
-| Astronomer | Customer Reliability Engineer, Airflow | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6ac244565083c1d9) | 2026-03-04 23:22 |
-| American Express | Data Engineer - GRC Technology | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8842e67bf37c518a) | 2026-03-04 23:22 |
-| NBCUniversal | Sr. Data Engineer, Engineering & Ops | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df536a2594fa5881) | 2026-03-04 23:22 |
 
 
 ---
