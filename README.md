@@ -1,13 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 05:40
+Last updated: 2026-03-10 06:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 06:38 |
+| Wayfair | Software Engineer II, Search & Recs | Mountain View, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b1325be40d902ff) | 2026-03-10 06:38 |
+| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d93e330f569c8606) | 2026-03-10 06:38 |
+| GEICO | Senior Engineer | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b8115e661d8a325c) | 2026-03-10 06:38 |
 | U.S. Bank | Sr. Software Engineer (Full Stack - Java/Spring Boot, Cassandra) | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2d529213cb7c025f) | 2026-03-10 05:40 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 05:40 |
 | CAMP Facility Services | Data Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eee233f823233f90) | 2026-03-10 05:40 |
 | Capgemini | Associate Data Scientist | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6c349face95a4a45) | 2026-03-10 04:01 |
 | Information Technology Senior Management Forum | Senior Data Engineer (Intelligent Foundations and Experiences) | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0dabbaca4ff73277) | 2026-03-10 04:01 |
@@ -393,11 +396,6 @@ Last updated: 2026-03-10 05:40
 | ALTIMATE | Product Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=95f4b6534ba4c3cd) | 2026-03-06 09:30 |
 | Morrison Healthcare | SENIOR DATA ENGINEER (REMOTE) | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d530073f998c3698) | 2026-03-06 07:34 |
 | Walkme | DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00aac4a1caed5c4b) | 2026-03-06 07:34 |
-| JLL | Senior BI Analyst | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ad414f3a9ab0a2bc) | 2026-03-06 06:37 |
-| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=50c61f5469ce333f) | 2026-03-06 06:37 |
-| GEICO | Senior Engineer | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4303ceb5e8c627c4) | 2026-03-06 06:37 |
-| GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0c4db6d385ae6ea3) | 2026-03-06 06:37 |
-| Realign | Teradata Developer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7fddb4ec439f1237) | 2026-03-06 06:37 |
 
 
 ---
