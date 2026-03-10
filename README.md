@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 06:38
+Last updated: 2026-03-10 07:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 06:38 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 07:36 |
+| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-10 07:36 |
+| C.H. Robinson | Software Engineer II | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3cc16dd8a70e8cc) | 2026-03-10 07:36 |
 | Wayfair | Software Engineer II, Search & Recs | Mountain View, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b1325be40d902ff) | 2026-03-10 06:38 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d93e330f569c8606) | 2026-03-10 06:38 |
 | GEICO | Senior Engineer | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b8115e661d8a325c) | 2026-03-10 06:38 |
@@ -394,8 +396,6 @@ Last updated: 2026-03-10 06:38
 | General Motors (GM) | AV Safety Engineering Analytics Engineer (GPSSC) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60da6f50aaadfe48) | 2026-03-06 09:30 |
 | nan | Visualization Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b28a6ad6f45c5471) | 2026-03-06 09:30 |
 | ALTIMATE | Product Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=95f4b6534ba4c3cd) | 2026-03-06 09:30 |
-| Morrison Healthcare | SENIOR DATA ENGINEER (REMOTE) | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d530073f998c3698) | 2026-03-06 07:34 |
-| Walkme | DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00aac4a1caed5c4b) | 2026-03-06 07:34 |
 
 
 ---
