@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 18:40
+Last updated: 2026-03-10 19:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NeoGenomics | Senior DevOps Engineer | Ramsey, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=761c2dcb68dd2dfc) | 2026-03-10 19:33 |
+| NeoGenomics | Senior DevOps Engineer | Fort Myers, FL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7940d8c5c6d10af4) | 2026-03-10 19:33 |
+| Edward Jones | Solutions Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=086c7dc6031c17cf) | 2026-03-10 19:33 |
+| Infosys | Data Architect | Richardson, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=67c855b740d44093) | 2026-03-10 19:33 |
+| McAfee | Software Developer in Test - SDET | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ff2074ca8a90ba86) | 2026-03-10 19:33 |
+| Newpage Digital Healthcare solutions | FDE-Priniciple Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b726ef965a254459) | 2026-03-10 19:33 |
 | Qode | Snowflake Data Architect | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=64cbf6b052467d10) | 2026-03-10 18:40 |
 | Qode | Snowflake Data Architect | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=375102c1b498bb65) | 2026-03-10 18:40 |
 | Blue Origin | Business Analyst III | FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8973cf57e35678fd) | 2026-03-10 18:40 |
@@ -408,11 +414,6 @@ Last updated: 2026-03-10 18:40
 | State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=adb094f55a98987f) | 2026-03-06 20:23 |
 | United States Cold Storage | SENIOR JAVA DEVELOPER | Camden, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29cd522088ef96d7) | 2026-03-06 20:23 |
 | TransCore | Sr Software Engineer | Round Rock, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c50af91cfa81599) | 2026-03-06 20:23 |
-| Castleton Commodities International | Senior Site Reliability Engineer | Stamford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=81d647606f8497de) | 2026-03-06 19:29 |
-| ACR Technology Inc | Data Engineer (Only local to California, W2, GC and USC ) | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c24670d848e01b14) | 2026-03-06 19:29 |
-| Fleetpride | Data Architect | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ef083ba2e516b91) | 2026-03-06 19:29 |
-| The Wyanoke Group | Software Engineer | Thorofare, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6982bb757f23e348) | 2026-03-06 19:29 |
-| DLA Piper | Data Engineer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8ec2f40b7c71d98) | 2026-03-06 19:29 |
 
 
 ---
