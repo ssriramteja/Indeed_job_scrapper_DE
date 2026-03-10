@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 20:24
+Last updated: 2026-03-10 21:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Northwestern Mutual | Senior Engineer - Software Engineering | Milwaukee, WI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b4d4b89b3a60512a) | 2026-03-10 21:23 |
+| CleanSlate Technology Group | Data Engineer | Carmel, IN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=464d15de6f80cd60) | 2026-03-10 21:23 |
+| 27Global | Cloud Engineer III | Leawood, KS, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=38a5d873cb84d03f) | 2026-03-10 21:23 |
+| nan | Senior DevSecOps Engineer - Vilnius, Lithuania | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=30f293139b417c7f) | 2026-03-10 21:23 |
+| 27Global | Cloud Engineer II | Leawood, KS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=393333a43b4ec747) | 2026-03-10 21:23 |
+| FujiFilm | Senior Data Engineer, Alteryx/Tableau | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=88fd5d251644693f) | 2026-03-10 21:23 |
+| Stirista | Data Engineer I | San Antonio, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f8c2a3575b03f57d) | 2026-03-10 21:23 |
+| Fuse Engineering | Senior Software Engineer | Gambrills, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f39136a88bf098e3) | 2026-03-10 21:23 |
+| Fuse Engineering | Software Engineer | Gambrills, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=39bc34020d288c37) | 2026-03-10 21:23 |
+| Qode | Data Architect | Pittsburgh, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dfaa8ce7652f89e0) | 2026-03-10 21:23 |
+| Qode | Data Architect | Cleveland, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a6c7bc8bfe481d5f) | 2026-03-10 21:23 |
+| Qode | Data Architect | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=07e7dfcc20e69935) | 2026-03-10 21:23 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=011b908a044140ed) | 2026-03-10 21:23 |
+| American Innovations Ltd | Sr. Software Engineer Platform | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5dda3a0a022ad659) | 2026-03-10 21:23 |
+| giftHEALTH | Cloud Infrastructure Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f8b9aa0dc8710174) | 2026-03-10 21:23 |
+| Sam's Club | (USA) Senior, Data Scientist | Bentonville, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76bbb3d91cd5fb8b) | 2026-03-10 21:23 |
 | Clearwater | BI Engineer | Nashville, TN, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6b33992f847413ae) | 2026-03-10 20:24 |
 | Fidelity TalentSource | Full Stack Engineer | Westlake, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0cb95b007fc606bd) | 2026-03-10 20:24 |
 | Turaho Business Solutions Private Limited | Senior Data Engineer | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5a21232624e7753b) | 2026-03-10 20:24 |
@@ -406,13 +422,6 @@ Last updated: 2026-03-10 20:24
 | Fidelity Investments | Senior Python Full Stack Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57d547726eb0c06b) | 2026-03-06 22:20 |
 | Magnet Forensics | Data Architect (Distributed Systems Engineering) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f0bad59177479f3b) | 2026-03-06 22:20 |
 | The Friedkin Group | Business Intelligence Developer II | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a54459f220be02d) | 2026-03-06 22:20 |
-| Tata Consultancy Services (TCS) | Data Architect | Framingham, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ee673d162f6b2ce0) | 2026-03-06 21:22 |
-| nan | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6934f303063d3f6d) | 2026-03-06 21:22 |
-| Herzing University | Fabric Data Engineer | Milwaukee, WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ff7fa69e7ec031f5) | 2026-03-06 21:22 |
-| MarketAxess Holdings | Senior Software Engineer, Developer Experience (DevEx) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4d246408cc27ef6) | 2026-03-06 21:22 |
-| Tata Consultancy Services (TCS) | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=30c536ee1ba37c5d) | 2026-03-06 21:22 |
-| Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9df4c6b01ffaefd3) | 2026-03-06 21:22 |
-| People People | Senior Software Engineer (Full stack) | Kansas City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00add8b99f84f1db) | 2026-03-06 21:22 |
 
 
 ---
