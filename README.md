@@ -1,15 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 12:39
+Last updated: 2026-03-10 13:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| American Electric Power | Solution Engineer Prin | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e894e9507fed28a1) | 2026-03-10 13:56 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 13:56 |
+| PlayStation | Sr. Software Engineer | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=35a2d800fdf55a09) | 2026-03-10 13:56 |
+| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-10 13:56 |
 | SoundThinking | Sr. Software Engineer | Tucson, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=704d552d624fa562) | 2026-03-10 12:39 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 12:39 |
 | TomorrowNow | Senior Software Engineer, Platform & Agentic Systems | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3b91ce245792f05e) | 2026-03-10 12:39 |
-| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-10 12:39 |
 | Comcast | Software Engineer (Java) | Englewood, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a683bae04b939136) | 2026-03-10 12:39 |
 | Openkyber | Network IoT Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b31ef1251547b795) | 2026-03-10 11:27 |
 | Openkyber | Microsoft Threat Intelligence Analyst | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ee1e4288d005d527) | 2026-03-10 11:27 |
@@ -393,8 +395,6 @@ Last updated: 2026-03-10 12:39
 | Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b45360d720d413c7) | 2026-03-06 15:29 |
 | Capital One | Senior Software Engineer (Python, PySpark, Lambda) | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c588b2aa81b85891) | 2026-03-06 15:29 |
 | Union Bank & Trust Co. | Data Modeler | Lincoln, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3cbc74799dc9ea0) | 2026-03-06 15:29 |
-| PetSmart | Cloud Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0c8a098e9a2c0e1a) | 2026-03-06 13:48 |
-| NetApp | Software Engineer Intern | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c65c6376729ba486) | 2026-03-06 13:48 |
 
 
 ---
