@@ -1,17 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 15:53
+Last updated: 2026-03-10 16:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Data Engineer Mid-Senior | Lake, MS, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ea838393bd67f5a2) | 2026-03-10 16:48 |
+| PA Consulting | Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e00868aa50e72df5) | 2026-03-10 16:48 |
+| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-10 16:48 |
+| Capgemini | Data Engineer | Lake, MS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=31401d66cdf3de8c) | 2026-03-10 16:48 |
+| Missouri State University | ERP & Database Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83e2028b144ba779) | 2026-03-10 16:48 |
 | Qode | Senior Data Engineer | Fort Mill, SC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9886af86e7b8bb37) | 2026-03-10 15:53 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 15:53 |
 | PNC Financial Services Group | Business Architect - Analytics Engineer | Pittsburgh, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1dfef7aface75172) | 2026-03-10 15:53 |
 | Frontline Education | Senior Data Engineer | Naperville, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=224ec9c15578245b) | 2026-03-10 15:53 |
 | Penn Mutual | Sr. Software Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d5bbaf07c7108a53) | 2026-03-10 15:53 |
-| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-10 15:53 |
 | Emerson | Senior AI Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34496d8f0b690b06) | 2026-03-10 15:53 |
 | Risepoint | Senior Data Engineer- Databricks | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c7807840cf148c6f) | 2026-03-10 14:43 |
 | Capital One | Senior Software Engineer, Back End (Java, Python, Spark, Kafka, Scala, Pandas) | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d788a607fee36887) | 2026-03-10 14:43 |
@@ -392,11 +395,6 @@ Last updated: 2026-03-10 15:53
 | Openkyber | Kubernetes Security Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41718eb34508c965) | 2026-03-06 17:29 |
 | Openkyber | Expert Cloud Security Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b8b47326f23edff) | 2026-03-06 17:29 |
 | The University of Michigan | Senior Applications Programmer/Analyst (Hybrid) | Ann Arbor, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c8b685dab351e4a) | 2026-03-06 17:29 |
-| Texas Department of Motor Vehicles | TxDMV - Systems Analyst - Data Engineer (Remote in TX) | TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=934456836d756b7d) | 2026-03-06 16:30 |
-| Texas Department of Motor Vehicles | TxDMV - Data Analyst - Senior BI Developer (Remote in Texas) | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4fb5c05e83aa7c0e) | 2026-03-06 16:30 |
-| Creative Information Technology India | Cloud Data Platform Administrator – Remote | Falls Church, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9dc4962750543485) | 2026-03-06 16:30 |
-| nan | DevOps Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cdf704f3d9c632a6) | 2026-03-06 16:30 |
-| TransCore | Software Engineer II | Round Rock, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=931daa2509e88e14) | 2026-03-06 16:30 |
 
 
 ---
