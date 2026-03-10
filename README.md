@@ -1,14 +1,40 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 16:48
+Last updated: 2026-03-10 17:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | AWS Network Engineer | AK, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=27398865f051a625) | 2026-03-10 17:40 |
+| Excel Global Solutions | GCP Architect | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=91b4973510591f22) | 2026-03-10 17:40 |
+| Openkyber | AI Application Architect | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b27a9b186a474fcc) | 2026-03-10 17:40 |
+| Openkyber | AWS Network Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d0baa9cae1d61c25) | 2026-03-10 17:40 |
+| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6e03ac8cd61ea5ac) | 2026-03-10 17:40 |
+| Openkyber | AWS Network Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6fbd5a3a9b84ea86) | 2026-03-10 17:40 |
+| Openkyber | AWS Network Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=30f7a74cbba4893f) | 2026-03-10 17:40 |
+| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5e1d41e152f0e716) | 2026-03-10 17:40 |
+| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5d79bb43a0b28a6f) | 2026-03-10 17:40 |
+| Openkyber | Cloud AI Application Administrator | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e981dee8a8957f52) | 2026-03-10 17:40 |
+| Openkyber | Java Trainer / Mentor / Educator | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4f72ebd3e533588c) | 2026-03-10 17:40 |
+| Openkyber | Saviynt Integration Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=259d2046a13c7da4) | 2026-03-10 17:40 |
+| Digital Charter, Inc | Site Reliability Engineer (SRE) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=28562b84d193894f) | 2026-03-10 17:40 |
+| Openkyber | AWS Network Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b1f065861ef9891) | 2026-03-10 17:40 |
+| Openkyber | Identity AI / ML Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ed03160ce6390bf) | 2026-03-10 17:40 |
+| Openkyber | Identity AI / ML Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4835794258ba535e) | 2026-03-10 17:40 |
+| Openkyber | Identity AI / ML Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6463453c55c50555) | 2026-03-10 17:40 |
+| PA Consulting | Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f402e50653896a9) | 2026-03-10 17:40 |
+| Openkyber | AWS Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f8759818959e2321) | 2026-03-10 17:40 |
+| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5672dfd6efc5a529) | 2026-03-10 17:40 |
+| Openkyber | Java AI / ML Integration Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=255e0389c228b0d3) | 2026-03-10 17:40 |
+| Openkyber | AI Integration Consultant | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fd73e974849ca1de) | 2026-03-10 17:40 |
+| Nexus Cognitive Technologies | Senior Technical Architect | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e3634d9eb507b99) | 2026-03-10 17:40 |
+| Openkyber | AI Application Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e93f0784efda3b0) | 2026-03-10 17:40 |
+| Hitachi Digital Services | AWS Full Stack Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a4f447ae01cd88d) | 2026-03-10 17:40 |
+| Hitachi Digital Services | AWS Full Stack Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=237a7b0a4e379a69) | 2026-03-10 17:40 |
+| Openkyber | Java CI/CD Automation Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49d0e12bb989e139) | 2026-03-10 17:40 |
 | Capgemini | Data Engineer Mid-Senior | Lake, MS, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ea838393bd67f5a2) | 2026-03-10 16:48 |
 | PA Consulting | Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e00868aa50e72df5) | 2026-03-10 16:48 |
-| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-10 16:48 |
 | Capgemini | Data Engineer | Lake, MS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=31401d66cdf3de8c) | 2026-03-10 16:48 |
 | Missouri State University | ERP & Database Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83e2028b144ba779) | 2026-03-10 16:48 |
 | Qode | Senior Data Engineer | Fort Mill, SC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9886af86e7b8bb37) | 2026-03-10 15:53 |
@@ -381,20 +407,6 @@ Last updated: 2026-03-10 16:48
 | DLA Piper | Data Engineer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8ec2f40b7c71d98) | 2026-03-06 19:29 |
 | SiriusPoint | Sr. Integration Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a476b32ebbd3f63e) | 2026-03-06 18:33 |
 | Heartland Veterinary Partners | Visualization Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ae96e01998eff74) | 2026-03-06 18:33 |
-| Quorum Business Solutions | Data Engineer I (Base Camp) | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=59a4bbdbdd64fe68) | 2026-03-06 17:29 |
-| Quorum Business Solutions | Data Engineer I (Base Camp) | Houston, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ba37e62a9a87f91a) | 2026-03-06 17:29 |
-| Texas Comptroller of Public Accounts | TxDMV - Data Analyst - Senior BI Developer (Remote in Texas) | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5b98eb455b4295de) | 2026-03-06 17:29 |
-| Texas Comptroller of Public Accounts | TxDMV - Systems Analyst - Data Engineer (Remote in TX) | TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=73e61a163308157a) | 2026-03-06 17:29 |
-| Openkyber | AI Agent Developer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5a2ad11ba93593c4) | 2026-03-06 17:29 |
-| Openkyber | AI Agent Developer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=351ba96e7e08391a) | 2026-03-06 17:29 |
-| Innovaccer | Site Reliability Engineer II | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=20b59922ac0a0969) | 2026-03-06 17:29 |
-| Optum | Senior Big Data Software Engineer Remote | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a41f510e2e081307) | 2026-03-06 17:29 |
-| Openkyber | Regulatory Compliance Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c43803189a7eb93f) | 2026-03-06 17:29 |
-| Openkyber | Azure Security Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f579d8b45d3c5251) | 2026-03-06 17:29 |
-| jamf | DevOps Engineer II (CI/CD) | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=79e35d1cd7a86f17) | 2026-03-06 17:29 |
-| Openkyber | Kubernetes Security Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41718eb34508c965) | 2026-03-06 17:29 |
-| Openkyber | Expert Cloud Security Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b8b47326f23edff) | 2026-03-06 17:29 |
-| The University of Michigan | Senior Applications Programmer/Analyst (Hybrid) | Ann Arbor, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c8b685dab351e4a) | 2026-03-06 17:29 |
 
 
 ---
