@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 17:40
+Last updated: 2026-03-10 18:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Qode | Snowflake Data Architect | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=64cbf6b052467d10) | 2026-03-10 18:40 |
+| Qode | Snowflake Data Architect | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=375102c1b498bb65) | 2026-03-10 18:40 |
+| Blue Origin | Business Analyst III | FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8973cf57e35678fd) | 2026-03-10 18:40 |
+| Viaplus By VINCI Highways | DevOps Engineer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a9d5abffe915dc59) | 2026-03-10 18:40 |
+| Tidal Financial Group | Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f82bf7ea7a30e187) | 2026-03-10 18:40 |
+| Fusable | Sr, Dev Ops Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=642c677020ee17d9) | 2026-03-10 18:40 |
+| Optum | Sr. Software Engineer, Java/SpringBoot - Remote | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1bd81d8c7e68747d) | 2026-03-10 18:40 |
+| DLRdmv | SQL Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fb8998a9e422195b) | 2026-03-10 18:40 |
 | Openkyber | AWS Network Engineer | AK, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=27398865f051a625) | 2026-03-10 17:40 |
 | Excel Global Solutions | GCP Architect | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=91b4973510591f22) | 2026-03-10 17:40 |
 | Openkyber | AI Application Architect | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b27a9b186a474fcc) | 2026-03-10 17:40 |
@@ -405,8 +413,6 @@ Last updated: 2026-03-10 17:40
 | Fleetpride | Data Architect | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ef083ba2e516b91) | 2026-03-06 19:29 |
 | The Wyanoke Group | Software Engineer | Thorofare, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6982bb757f23e348) | 2026-03-06 19:29 |
 | DLA Piper | Data Engineer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8ec2f40b7c71d98) | 2026-03-06 19:29 |
-| SiriusPoint | Sr. Integration Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a476b32ebbd3f63e) | 2026-03-06 18:33 |
-| Heartland Veterinary Partners | Visualization Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ae96e01998eff74) | 2026-03-06 18:33 |
 
 
 ---
