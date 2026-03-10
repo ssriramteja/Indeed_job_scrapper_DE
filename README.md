@@ -1,11 +1,34 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 21:23
+Last updated: 2026-03-10 22:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TowneBank | Data Engineer | Norfolk, VA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=9ae768345f66d696) | 2026-03-10 22:19 |
+| Tanaq Support Services LLC | Senior Cloud Software Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fa41759ea503cef4) | 2026-03-10 22:19 |
+| NEP GROUP | DevOps Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a7aaae7263eeb006) | 2026-03-10 22:19 |
+| HUB International | Data Platform Developer | San Antonio, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=da9912d9da4bc3f6) | 2026-03-10 22:19 |
+| HUB International | Data Platform Developer | Raleigh, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=15de236d284aa16a) | 2026-03-10 22:19 |
+| HUB International | Data Platform Developer | St. Louis, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b620cd8d63ddbf75) | 2026-03-10 22:19 |
+| HUB International | Data Platform Developer | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a85a9f5505253398) | 2026-03-10 22:19 |
+| HUB International | Data Platform Developer | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4eda4e4897a5adf7) | 2026-03-10 22:19 |
+| HUB International | Data Platform Developer | New Orleans, LA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=18838be1c99cbb40) | 2026-03-10 22:19 |
+| HUB International | Data Platform Developer | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e9971a10c736a11) | 2026-03-10 22:19 |
+| HUB International | Data Platform Developer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=12494d85ae71b59c) | 2026-03-10 22:19 |
+| HUB International | Data Platform Developer | Charleston, SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d711ce03afe5a4fa) | 2026-03-10 22:19 |
+| HUB International | Data Platform Developer | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=da07496d01e9d590) | 2026-03-10 22:19 |
+| HUB International | Data Platform Developer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=431102bf2a9e0130) | 2026-03-10 22:19 |
+| HUB International | Data Platform Developer | Kansas City, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b176f8ae41728e09) | 2026-03-10 22:19 |
+| HUB International | Data Platform Developer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=55a968a6102e9765) | 2026-03-10 22:19 |
+| Tiger Analytics | Data Engineer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3513e36673430c38) | 2026-03-10 22:19 |
+| Okta | Associate Software Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=aa4527f3f16e08b7) | 2026-03-10 22:19 |
+| Optum | Senior Software Engineer - Remote Nationwide or Hybrid in MN or DC | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af4b17154c636f2d) | 2026-03-10 22:19 |
+| Optum | Senior AI ML Engineer - Remote | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=94702e41333d36e2) | 2026-03-10 22:19 |
+| Qualcomm | Tools and Automation Engineer – Qualcomm Custom CPU Post-Silicon Team | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9c5ff0af449554b0) | 2026-03-10 22:19 |
+| M&T Bank | Enterprise Data Consultant II | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5199791c8fddbb8e) | 2026-03-10 22:19 |
+| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ffe5f038b0ab7a88) | 2026-03-10 22:19 |
 | Northwestern Mutual | Senior Engineer - Software Engineering | Milwaukee, WI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b4d4b89b3a60512a) | 2026-03-10 21:23 |
 | CleanSlate Technology Group | Data Engineer | Carmel, IN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=464d15de6f80cd60) | 2026-03-10 21:23 |
 | 27Global | Cloud Engineer III | Leawood, KS, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=38a5d873cb84d03f) | 2026-03-10 21:23 |
