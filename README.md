@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 09:36
+Last updated: 2026-03-10 10:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 10:31 |
+| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-10 10:31 |
 | JPMorganChase | Software Engineer III - Databricks / IAM | Plano, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=43ad258f03ca42af) | 2026-03-10 09:36 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 09:36 |
-| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-10 09:36 |
 | Casey's | Insights Analyst | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de4de58fc1657eaa) | 2026-03-10 08:31 |
 | Boeing | Associate Data Solutions Architect | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43f6a37b9cf1857f) | 2026-03-10 08:31 |
 | C.H. Robinson | Software Engineer II | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3cc16dd8a70e8cc) | 2026-03-10 07:36 |
@@ -386,9 +386,6 @@ Last updated: 2026-03-10 09:36
 | rockITdata | AWS Cloud Administrator | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e0a98e5951373b4) | 2026-03-06 12:35 |
 | PetSmart | Cloud Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=157ddcd0636f7c11) | 2026-03-06 11:22 |
 | Teradata | Senior Software Engineer | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=806bff32d1d719ff) | 2026-03-06 11:22 |
-| JPMorganChase | Cloud ETL Software Engineer III | Columbus, OH, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=c8ae806cfdce5e5c) | 2026-03-06 10:27 |
-| JPMorganChase | Software Engineer III - AI/ML | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fcd181016bc08a7a) | 2026-03-06 10:27 |
-| nan | Sr. Data Scientist | Orlando, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb77847b7cd88f45) | 2026-03-06 10:27 |
 
 
 ---

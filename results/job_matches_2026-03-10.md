@@ -478,7 +478,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Quantitative Developer / Analytics & Dashboard Engineer @ Neuberger Berman
+## 44. Insights Analyst @ Casey's
+**Match Score:** 11.8%
+
+📍 **Location:** Ankeny, IA, US USA
+
+🔑 **Keywords:** Azure, Databricks, BigQuery, Spark, PySpark, Snowflake, Data Modeling, Dimensional Modeling, Star Schema, Power BI
+
+[Apply Here](https://www.indeed.com/viewjob?jk=de4de58fc1657eaa)
+
+---
+
+## 45. Quantitative Developer / Analytics & Dashboard Engineer @ Neuberger Berman
 **Match Score:** 11.8%
 
 📍 **Location:** Redwood, CA, US USA
@@ -489,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Software Developer (Backend / Systems) @ Grayson College
+## 46. Software Developer (Backend / Systems) @ Grayson College
 **Match Score:** 11.8%
 
 📍 **Location:** Denison, TX, US USA
@@ -497,17 +508,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, NoSQL, CI/CD, GitHub Actions
 
 [Apply Here](https://www.indeed.com/viewjob?jk=0c61070e2529052c)
-
----
-
-## 46. Insights Analyst @ Casey's
-**Match Score:** 11.8%
-
-📍 **Location:** Ankeny, IA, US USA
-
-🔑 **Keywords:** Azure, Databricks, BigQuery, Spark, PySpark, Snowflake, Data Modeling, Dimensional Modeling, Star Schema, Power BI
-
-[Apply Here](https://www.indeed.com/viewjob?jk=de4de58fc1657eaa)
 
 ---
 
@@ -599,18 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Data Architect @ CAMP Facility Services
-**Match Score:** 11.1%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Scala, SQL Server, MongoDB, NoSQL, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=eee233f823233f90)
-
----
-
-## 56. Sr. Data Quality Engineer @ WeVision LLC
+## 55. Sr. Data Quality Engineer @ WeVision LLC
 **Match Score:** 11.1%
 
 📍 **Location:** Irvine, CA, US USA
@@ -621,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Senior Engineer – Software Development @ Suvida Healthcare
+## 56. Senior Engineer – Software Development @ Suvida Healthcare
 **Match Score:** 11.1%
 
 📍 **Location:** CA, US USA
@@ -629,6 +618,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, PostgreSQL, MongoDB, NoSQL, Azure DevOps, Terraform
 
 [Apply Here](https://www.indeed.com/viewjob?jk=99f78e35d3201dd7)
+
+---
+
+## 57. Data Architect @ CAMP Facility Services
+**Match Score:** 11.1%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Scala, SQL Server, MongoDB, NoSQL, Data Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eee233f823233f90)
 
 ---
 
