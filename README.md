@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 08:31
+Last updated: 2026-03-10 09:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 08:31 |
+| JPMorganChase | Software Engineer III - Databricks / IAM | Plano, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=43ad258f03ca42af) | 2026-03-10 09:36 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 09:36 |
+| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-10 09:36 |
 | Casey's | Insights Analyst | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de4de58fc1657eaa) | 2026-03-10 08:31 |
-| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-10 08:31 |
 | Boeing | Associate Data Solutions Architect | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43f6a37b9cf1857f) | 2026-03-10 08:31 |
 | C.H. Robinson | Software Engineer II | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3cc16dd8a70e8cc) | 2026-03-10 07:36 |
 | Wayfair | Software Engineer II, Search & Recs | Mountain View, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b1325be40d902ff) | 2026-03-10 06:38 |
@@ -388,16 +389,6 @@ Last updated: 2026-03-10 08:31
 | JPMorganChase | Cloud ETL Software Engineer III | Columbus, OH, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=c8ae806cfdce5e5c) | 2026-03-06 10:27 |
 | JPMorganChase | Software Engineer III - AI/ML | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fcd181016bc08a7a) | 2026-03-06 10:27 |
 | nan | Sr. Data Scientist | Orlando, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb77847b7cd88f45) | 2026-03-06 10:27 |
-| General Motors (GM) | AV Safety Engineering Analytics AI/ML Engineer (GPSSC) | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1b0a8c3e1d955c79) | 2026-03-06 09:30 |
-| Boeing | Senior Digital Engineer – Full Stack & Systems Architecture | Berkeley, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5360d83db3589d68) | 2026-03-06 09:30 |
-| Boeing | Senior Digital Engineer – Full Stack & Systems Architecture | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=12a4a8cde3354706) | 2026-03-06 09:30 |
-| nan | Sr Software Engineer (Site Reliability Engineering) (2026-10114) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b5ab755eddd54b18) | 2026-03-06 09:30 |
-| General Motors (GM) | AV Safety Engineering Analytics Simulation Engineer (GPSSC) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4b9eec46bbab109b) | 2026-03-06 09:30 |
-| Mutual of Omaha | Data Engineer-Remote | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cc1efbee94e32a9) | 2026-03-06 09:30 |
-| General Motors (GM) | Senior AI/ML Scientist | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=300d4ca14be662c3) | 2026-03-06 09:30 |
-| General Motors (GM) | AV Safety Engineering Analytics Engineer (GPSSC) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60da6f50aaadfe48) | 2026-03-06 09:30 |
-| nan | Visualization Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b28a6ad6f45c5471) | 2026-03-06 09:30 |
-| ALTIMATE | Product Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=95f4b6534ba4c3cd) | 2026-03-06 09:30 |
 
 
 ---
