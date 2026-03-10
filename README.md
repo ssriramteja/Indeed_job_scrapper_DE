@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 04:01
+Last updated: 2026-03-10 05:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| U.S. Bank | Sr. Software Engineer (Full Stack - Java/Spring Boot, Cassandra) | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2d529213cb7c025f) | 2026-03-10 05:40 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 05:40 |
+| CAMP Facility Services | Data Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eee233f823233f90) | 2026-03-10 05:40 |
 | Capgemini | Associate Data Scientist | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6c349face95a4a45) | 2026-03-10 04:01 |
 | Information Technology Senior Management Forum | Senior Data Engineer (Intelligent Foundations and Experiences) | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0dabbaca4ff73277) | 2026-03-10 04:01 |
 | Servco Pacific Inc. | Data Engineer II | Honolulu, HI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e9c606ecdec1b48) | 2026-03-10 04:01 |
@@ -15,7 +18,6 @@ Last updated: 2026-03-10 04:01
 | Rhombus Power | Data Engineer, Palo Alto | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ac94ef503754abe1) | 2026-03-10 04:01 |
 | Tata Consultancy Services (TCS) | Snowflake Developer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28affa5b8f92c154) | 2026-03-10 04:01 |
 | EchoStar | Data Engineer | Englewood, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2ae8f1c950d3e284) | 2026-03-10 04:01 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 04:01 |
 | Honeywell | Sr Advanced Software Engineer - (DevOps, SRE & AI) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f865de25337be196) | 2026-03-10 04:01 |
 | Information Technology Senior Management Forum | Senior Software Engineer, Back End (Java, Python, Spark, Kafka, Scala, Pandas) | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e93e214d4dad1148) | 2026-03-10 04:01 |
 | Honeywell | Sr IT Analyst - ETL | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9483aa3bee625163) | 2026-03-10 04:01 |
@@ -396,33 +398,6 @@ Last updated: 2026-03-10 04:01
 | GEICO | Senior Engineer | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4303ceb5e8c627c4) | 2026-03-06 06:37 |
 | GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0c4db6d385ae6ea3) | 2026-03-06 06:37 |
 | Realign | Teradata Developer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7fddb4ec439f1237) | 2026-03-06 06:37 |
-| BOULDER SCIENTIFIC CO | Data Engineer | Longmont, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9486135c47b58364) | 2026-03-06 05:40 |
-| U.S. Bank | Senior BI Developer - Investment Services | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6861136ad5c92fec) | 2026-03-06 05:40 |
-| U.S. Bank | Senior BI Developer - Investment Services | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0459e004fd012bc) | 2026-03-06 05:40 |
-| U.S. Bank | Senior BI Developer - Investment Services | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00bd0c85ee5af1cc) | 2026-03-06 05:40 |
-| U.S. Bank | Senior BI Developer - Investment Services | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9a227aff44c18bd) | 2026-03-06 05:40 |
-| U.S. Bank | Senior BI Developer - Investment Services | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f36e77b3ab4b1808) | 2026-03-06 05:40 |
-| U.S. Bank | Senior BI Developer - Investment Services | Hopkins, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b03b046a7e4b4373) | 2026-03-06 05:40 |
-| Visa | Software Engineer - Sr. Consultant level - DevOps | Austin, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=28ca6064f69a534e) | 2026-03-06 04:02 |
-| Lincoln Financial Group | Senior Analyst, Risk Data Engineering | Radnor, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4c054d24fbe757c5) | 2026-03-06 04:02 |
-| Information Technology Senior Management Forum | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3c46cd564ba01b6c) | 2026-03-06 04:02 |
-| Information Technology Senior Management Forum | Senior Data Engineer (Python, Spark, AWS) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6d52dce08f82e688) | 2026-03-06 04:02 |
-| Information Technology Senior Management Forum | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=175b82022b025c3d) | 2026-03-06 04:02 |
-| Caris Life Sciences | Senior Software Engineer - Clinical Systems (Lab Ops) | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb8de235a110895a) | 2026-03-06 04:02 |
-| North Carolina State University | REFRAME Platform Architect | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=22e67d3b77565a62) | 2026-03-06 04:02 |
-| The Evolvers Group | Cloud Data Platform Administartor | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3909667b0ea7e00b) | 2026-03-06 04:02 |
-| Humana | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f059a12d002721db) | 2026-03-06 04:02 |
-| General Motors (GM) | Senior Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ba5a22f3941b5b26) | 2026-03-06 04:02 |
-| Oracle | Senior Site Reliability Developer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3fedd79bbbee99bb) | 2026-03-06 04:02 |
-| Palo Alto Networks | Sr. Business Development Consultant | Santa Clara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1da3fc8da87b47c9) | 2026-03-06 04:02 |
-| NextPower | Software Engineering Intern – Data Engineering (Cloud & Streaming) | Fremont, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=28e588be3c533008) | 2026-03-06 04:02 |
-| Providge Consulting | Senior Cloud Systems Engineer (Databricks Administrator) | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e094ab218ebab2ed) | 2026-03-06 04:02 |
-| DocuSign | Senior Software Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed1b9b0328def6aa) | 2026-03-06 04:02 |
-| SAP | SAP NS2 Senior HANA Cloud DevOps Engineer | Newtown Square, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8999a6d9da6831ef) | 2026-03-06 04:02 |
-| Callaway Golf | Sr Data Engineer | Carlsbad, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ae59fccd3421dc5) | 2026-03-06 04:02 |
-| Tata Consultancy Services (TCS) | Snowflake Administrator | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=085de5867e567658) | 2026-03-06 04:02 |
-| Carlsmed | Sr. Full Stack Software Engineer (Onsite - San Diego) | Carlsbad, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47ffb86f604e14df) | 2026-03-06 04:02 |
-| Walkme | DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=36669407e627b585) | 2026-03-06 04:02 |
 
 
 ---
