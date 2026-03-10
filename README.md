@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 19:33
+Last updated: 2026-03-10 20:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Clearwater | BI Engineer | Nashville, TN, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6b33992f847413ae) | 2026-03-10 20:24 |
+| Fidelity TalentSource | Full Stack Engineer | Westlake, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0cb95b007fc606bd) | 2026-03-10 20:24 |
+| Turaho Business Solutions Private Limited | Senior Data Engineer | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5a21232624e7753b) | 2026-03-10 20:24 |
+| nan | Sr. AI Engineer | Saint Petersburg, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5b74bfc1321d7cb) | 2026-03-10 20:24 |
+| Fountain House | Senior Data Systems Analyst | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bd3787de0a39dc88) | 2026-03-10 20:24 |
+| Colgate-Palmolive | Commercial Operations BI Analyst (171972) | Piscataway, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84435ef31a96cb32) | 2026-03-10 20:24 |
 | NeoGenomics | Senior DevOps Engineer | Ramsey, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=761c2dcb68dd2dfc) | 2026-03-10 19:33 |
 | NeoGenomics | Senior DevOps Engineer | Fort Myers, FL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7940d8c5c6d10af4) | 2026-03-10 19:33 |
 | Edward Jones | Solutions Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=086c7dc6031c17cf) | 2026-03-10 19:33 |
@@ -407,13 +413,6 @@ Last updated: 2026-03-10 19:33
 | Tata Consultancy Services (TCS) | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=30c536ee1ba37c5d) | 2026-03-06 21:22 |
 | Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9df4c6b01ffaefd3) | 2026-03-06 21:22 |
 | People People | Senior Software Engineer (Full stack) | Kansas City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00add8b99f84f1db) | 2026-03-06 21:22 |
-| Quorum Software | Data Engineer I (Base Camp) | Houston, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=69d0977bad9433e9) | 2026-03-06 20:23 |
-| Quorum Software | Data Engineer I (Base Camp) | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=4a5eb975a37e3115) | 2026-03-06 20:23 |
-| Heyer Expectations | Data Engineer | Texas City, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e3d70b12a632c896) | 2026-03-06 20:23 |
-| Acrisure LLC | Senior Software Engineer, Data | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=197006d2fc58f4b4) | 2026-03-06 20:23 |
-| State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=adb094f55a98987f) | 2026-03-06 20:23 |
-| United States Cold Storage | SENIOR JAVA DEVELOPER | Camden, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29cd522088ef96d7) | 2026-03-06 20:23 |
-| TransCore | Sr Software Engineer | Round Rock, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c50af91cfa81599) | 2026-03-06 20:23 |
 
 
 ---
