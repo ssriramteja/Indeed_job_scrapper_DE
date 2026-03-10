@@ -1,15 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 13:56
+Last updated: 2026-03-10 14:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Risepoint | Senior Data Engineer- Databricks | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c7807840cf148c6f) | 2026-03-10 14:43 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 14:43 |
+| Capital One | Senior Software Engineer, Back End (Java, Python, Spark, Kafka, Scala, Pandas) | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d788a607fee36887) | 2026-03-10 14:43 |
+| Thermo Fisher Scientific | Senior Data Scientist/Engineer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6c30c612381f20d8) | 2026-03-10 14:43 |
+| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-10 14:43 |
 | American Electric Power | Solution Engineer Prin | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e894e9507fed28a1) | 2026-03-10 13:56 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c8452bdf60974b) | 2026-03-10 13:56 |
 | PlayStation | Sr. Software Engineer | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=35a2d800fdf55a09) | 2026-03-10 13:56 |
-| Tech-assist | Big Data Engineer \| USA (Remote) \| Virtual Interview \| 10+ Years Experience | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba36279cfaab4a75) | 2026-03-10 13:56 |
 | SoundThinking | Sr. Software Engineer | Tucson, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=704d552d624fa562) | 2026-03-10 12:39 |
 | TomorrowNow | Senior Software Engineer, Platform & Agentic Systems | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3b91ce245792f05e) | 2026-03-10 12:39 |
 | Comcast | Software Engineer (Java) | Englewood, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a683bae04b939136) | 2026-03-10 12:39 |
