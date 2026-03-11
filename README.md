@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 15:40
+Last updated: 2026-03-11 16:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Data Engineer with Databricks and GCP | Nashville, TN, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=1abee21eb63a4b65) | 2026-03-11 16:42 |
+| Capgemini | Associate Data Engineer - Databricks & GCP | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=bafb0baf34406e6c) | 2026-03-11 16:42 |
+| Capgemini | Data Engineer | Atlanta, GA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=a17f9a800db9e079) | 2026-03-11 16:42 |
+| Capgemini | Senior GCP Data Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e1c4fb2066401756) | 2026-03-11 16:42 |
+| Capgemini | Data Scientist | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4789de154dff59e1) | 2026-03-11 16:42 |
+| Capgemini | GCP Cloud Architect | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e86a9395e17960c1) | 2026-03-11 16:42 |
+| Capgemini | Senior Cloud Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=613074391bd5ccad) | 2026-03-11 16:42 |
+| Nutrien | Sr Cloud Engineer | Deerfield, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=555204ef177ab237) | 2026-03-11 16:42 |
+| Capgemini | GCP Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=03e1c10adddc53fb) | 2026-03-11 16:42 |
+| Capgemini | GCP Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f3f59481e80476f) | 2026-03-11 16:42 |
+| Capgemini | Senior Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7936fd607153e13) | 2026-03-11 16:42 |
+| Capgemini | Data Engineer (Teradata /ETL informatica/Snowflake) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e091ae9d7f7379a8) | 2026-03-11 16:42 |
+| All American Poly | Industrial Applications Developer | Piscataway, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7a1080b879ebef05) | 2026-03-11 16:42 |
+| Capgemini | Data Scientist | Berwyn, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7e37ba368e6b8a1) | 2026-03-11 16:42 |
 | nan | Senior DevOps Cloud Engineer | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=212b9ffd779d7d3a) | 2026-03-11 15:40 |
 | 3Bstaffing | Database Management Specialist | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea99aacea583d180) | 2026-03-11 15:40 |
 | Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ea17e136a8a1893e) | 2026-03-11 14:51 |
