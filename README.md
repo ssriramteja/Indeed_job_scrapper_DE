@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 12:39
+Last updated: 2026-03-11 14:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nobl Q | Quality Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2b30760f90abab6c) | 2026-03-11 14:00 |
+| Sumitomo Group | Senior Data Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=785566154ce81c8a) | 2026-03-11 14:00 |
+| Intelitek Solutions | Business & Quality Systems Analyst | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e113dbede4e687a) | 2026-03-11 14:00 |
 | nan | Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8078d1ebfe9d1942) | 2026-03-11 12:39 |
 | Pacific Gas and Electric | Operations Data Analyst, Senior | Dublin, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=602f4d7955daed21) | 2026-03-11 12:39 |
 | Openkyber | Cloud AI Consultant | AK, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=fb4f88eed34169f4) | 2026-03-11 11:27 |
@@ -428,7 +431,6 @@ Last updated: 2026-03-11 12:39
 | Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b5f4d600520d0e96) | 2026-03-07 15:15 |
 | Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=418b09b41502f7df) | 2026-03-07 15:15 |
 | Disney Experiences | Sr. Software Engineer | Celebration, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d14bdf995edae51e) | 2026-03-07 15:15 |
-| Comcast | Machine Learning Engineer 1 | Philadelphia, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d9f4cd1d239989a5) | 2026-03-07 13:34 |
 
 
 ---
