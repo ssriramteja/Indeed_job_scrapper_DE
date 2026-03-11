@@ -1,12 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 22:20
+Last updated: 2026-03-11 23:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-11 22:20 |
+| Credera | Architect, Data | Denver, CO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=5f8f5d1958986efa) | 2026-03-11 23:18 |
+| Credera | Architect, Data | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4c0eb1930f6c3830) | 2026-03-11 23:18 |
+| Credera | Architect, Data | Houston, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=0a6b4c094d34de4c) | 2026-03-11 23:18 |
+| Credera | Architect, Data | Chicago, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=ae79c8e8bf869344) | 2026-03-11 23:18 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-11 23:18 |
+| AllianceBernstein | Senior Data Engineer | Nashville, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2d2e68f1134803e9) | 2026-03-11 23:18 |
+| Allstate Insurance | Product Engineer – Java Spring Boot w/ Full Stack Option | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=242ca0eca96622a8) | 2026-03-11 23:18 |
+| Credera | Architect, Software Engineering | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a748882073b3e83f) | 2026-03-11 23:18 |
+| Credera | Architect, Software Engineering | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b0f73817f5130d34) | 2026-03-11 23:18 |
+| Credera | Architect, Software Engineering | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9c95be70644e7fea) | 2026-03-11 23:18 |
+| Credera | Architect, Software Engineering | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=871870387466171e) | 2026-03-11 23:18 |
+| Openkyber | Senior Cloud Data Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8fc9f9684c6f3b43) | 2026-03-11 23:18 |
+| Chewy | Senior Software Engineer | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0e859cc33a40024c) | 2026-03-11 23:18 |
+| Radost Solutions LLC | Senior Analytics/Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b51b41b3f39ad8c8) | 2026-03-11 23:18 |
+| Neuberger Berman | Senior Developer II - Data Science & Enterprise Data Platform Development | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c9cd0f856172e7cf) | 2026-03-11 23:18 |
+| Revelyst | Sr. Data Engineer | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2dd84103264f7db0) | 2026-03-11 23:18 |
+| Carnival Cruise Line | Senior Engineer, Cloud | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d07ad7e085e29db9) | 2026-03-11 23:18 |
+| Integral Ad Science | Senior DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=92690f9d0aceed22) | 2026-03-11 23:18 |
+| Integral Ad Science | Senior DevOps Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79dfc76ed4b00f60) | 2026-03-11 23:18 |
 | Openkyber | AWS API Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=51b0c228ba35d8c5) | 2026-03-11 22:20 |
 | Fidelity Investments | Senior Data Engineer | Durham, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=94b83b776a063f69) | 2026-03-11 22:20 |
 | Fidelity Investments | Senior Data Engineer | Westlake, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5c86878a4a53e1f2) | 2026-03-11 22:20 |
@@ -521,16 +539,6 @@ Last updated: 2026-03-11 22:20
 | Rivian and Volkswagen Group Technologies | Sr. Software Systems & Data Engineer | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5f045bd52323b67) | 2026-03-08 04:03 |
 | EV Design | Senior Full Stack Web Developer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=104dfb98c80f44fd) | 2026-03-08 01:17 |
 | Audacy, Inc. | Solutions Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=31813beeef70938d) | 2026-03-08 01:17 |
-| Openkyber | API Threat Intelligence Analyst | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f5e73b6b4f92a343) | 2026-03-07 23:15 |
-| Openkyber | Microsoft Threat Intelligence Analyst | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6eed21330f07799b) | 2026-03-07 23:15 |
-| Openkyber | CrowdStrike Charlotte AI Engineer | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d2a426fbf9b09b9a) | 2026-03-07 23:15 |
-| Openkyber | CrowdStrike GenAI Security Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07730b1f5d6d529d) | 2026-03-07 23:15 |
-| Openkyber | CrowdStrike | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2680cd4cb9c331ec) | 2026-03-07 23:15 |
-| Openkyber | Falcon Fusion Automation Engineer | MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=72174a3cd5d64195) | 2026-03-07 23:15 |
-| Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af4ddd4ed5ac47a5) | 2026-03-07 23:15 |
-| St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4bbc3103892741b1) | 2026-03-07 23:15 |
-| Openkyber | CrowdStrike GenAI Security Engineer | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8710c024486747ff) | 2026-03-07 23:15 |
-| Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c27bc0cbf92e5826) | 2026-03-07 23:15 |
 
 
 ---
