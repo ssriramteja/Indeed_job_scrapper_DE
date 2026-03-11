@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 08:31
+Last updated: 2026-03-11 09:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Data Engineer III | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=843894356ab92a82) | 2026-03-11 09:35 |
+| JPMorganChase | Software Engineer II | Palo Alto, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d1e97823f26b6cfd) | 2026-03-11 09:35 |
+| Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a8f467cbd6c1fe6e) | 2026-03-11 09:35 |
+| CVS Health | Data Engineer | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b17294d4d78b3548) | 2026-03-11 09:35 |
 | Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e3bc1599edcc63d6) | 2026-03-11 07:38 |
 | BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=819cd5adcc2e0b09) | 2026-03-11 06:41 |
 | BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0e84e96929c83510) | 2026-03-11 06:41 |
@@ -410,11 +414,6 @@ Last updated: 2026-03-11 08:31
 | Comcast | Machine Learning Engineer 1 | Philadelphia, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d9f4cd1d239989a5) | 2026-03-07 13:34 |
 | JPMorganChase | Software Engineer III- DevOps | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f1b9b4aa91a59247) | 2026-03-07 10:16 |
 | GEICO | Senior Full Stack Engineer (HYBRID) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53fd7ffe892187b7) | 2026-03-07 10:16 |
-| Metropolitan Transportation Authority | Senior Software Engineer - Backend (Cloud Architecture, Workflow Automation & Systems Integration) | New York, NY, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=8cf8c642c375c95b) | 2026-03-07 09:21 |
-| Hilton | Senior Analyst, Project Support - Strategic Data Operations | Addison, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=54227ad96f5d5d38) | 2026-03-07 09:21 |
-| Rivian and Volkswagen Group Technologies | Senior DevOps Software Engineer, Firmware & CI/CD | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f1de60ecf2851e5) | 2026-03-07 09:21 |
-| Paychex, Inc. | Data Engineer | Rochester, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e69293272ecf929) | 2026-03-07 09:21 |
-| Concord Music Group, Inc. | Senior Software Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a02820021c063a20) | 2026-03-07 09:21 |
 
 
 ---
