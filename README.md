@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 14:00
+Last updated: 2026-03-11 14:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ea17e136a8a1893e) | 2026-03-11 14:51 |
 | Nobl Q | Quality Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2b30760f90abab6c) | 2026-03-11 14:00 |
 | Sumitomo Group | Senior Data Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=785566154ce81c8a) | 2026-03-11 14:00 |
 | Intelitek Solutions | Business & Quality Systems Analyst | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e113dbede4e687a) | 2026-03-11 14:00 |
