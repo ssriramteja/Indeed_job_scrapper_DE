@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 19:37
+Last updated: 2026-03-11 20:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Prudential | Senior Data Engineer | Newark, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=692655d58e016632) | 2026-03-11 20:26 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-11 20:26 |
+| AbbVie | Senior Site Reliability Engineer (Remote) | Mettawa, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5930fa925ff77f76) | 2026-03-11 20:26 |
+| Optum | Data Engineer with AI/ML | Minnetonka, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5769c4ee7b54a55d) | 2026-03-11 20:26 |
+| Acrisure LLC | Software Engineer, Data (L2) | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6140e3faf3473879) | 2026-03-11 20:26 |
+| Xylem | Senior AI Solutions and Platform Engineer | Morrisville, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2dea4b70a8571f2e) | 2026-03-11 20:26 |
+| Kimball Midwest | Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=13618fb171dcc5ea) | 2026-03-11 20:26 |
+| Prudential | Senior ML Ops Engineer | Newark, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b32a96d3a148568b) | 2026-03-11 20:26 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71d009d7cafef710) | 2026-03-11 20:26 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5eb7d6f981c89a53) | 2026-03-11 20:26 |
+| Medefy Health | Business Intelligence Engineer | Tulsa, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2b017509b0a14a7) | 2026-03-11 20:26 |
+| LG Ad Solutions | Software Engineer II, Data Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4f0a13fefa0a3f7) | 2026-03-11 20:26 |
+| LG Ad Solutions | Senior Software Engineer I, Fullstack (AI) | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=67d1ebdfb86d5d03) | 2026-03-11 20:26 |
 | ARTDAI | DevOps Engineer | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=3d6c6fc6970faee1) | 2026-03-11 19:37 |
 | ZoomInfo | DevOps Engineer III | Waltham, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c6675fa52faee21a) | 2026-03-11 19:37 |
 | Ithaka | Senior Software Engineer (full-stack) | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7c56a9ffac444186) | 2026-03-11 19:37 |
@@ -17,8 +30,6 @@ Last updated: 2026-03-11 19:37
 | Pryon | Senior Engineer, Infrastructure (DevOps) | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e02142bb3f3c154) | 2026-03-11 19:37 |
 | Pryon | Senior Engineer, Infrastructure (DevOps) | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f6ea9221725ce7d3) | 2026-03-11 19:37 |
 | Pryon | Senior Engineer, Infrastructure (DevOps) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c9c99178b88020f5) | 2026-03-11 19:37 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71d009d7cafef710) | 2026-03-11 19:37 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5eb7d6f981c89a53) | 2026-03-11 19:37 |
 | Activate Care | Software Engineer - Full Stack | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f8cd994bee806d3) | 2026-03-11 19:37 |
 | Lumistry | DevOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=606dcec420e3ba3d) | 2026-03-11 19:37 |
 | Oran Inc | Cloud Data Engineer-(SAS-to-Snowflake Migration)-USC/GC*** | Herndon, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5a545b8dcc319311) | 2026-03-11 18:43 |
