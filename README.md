@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 14:51
+Last updated: 2026-03-11 15:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior DevOps Cloud Engineer | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=212b9ffd779d7d3a) | 2026-03-11 15:40 |
+| 3Bstaffing | Database Management Specialist | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea99aacea583d180) | 2026-03-11 15:40 |
 | Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ea17e136a8a1893e) | 2026-03-11 14:51 |
 | Nobl Q | Quality Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2b30760f90abab6c) | 2026-03-11 14:00 |
 | Sumitomo Group | Senior Data Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=785566154ce81c8a) | 2026-03-11 14:00 |
@@ -428,10 +430,6 @@ Last updated: 2026-03-11 14:51
 | Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c27bc0cbf92e5826) | 2026-03-07 23:15 |
 | Tata Consultancy Services (TCS) | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=51a019ac629e7fd8) | 2026-03-07 21:14 |
 | PROJITT LLC | Senior Backend Engineer - Startup | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7e4e2ae841a0e1cc) | 2026-03-07 17:15 |
-| Capital One | Senior Data Engineer (Intelligent Foundations and Experiences) | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=de1c1e8c1f767d2c) | 2026-03-07 15:15 |
-| Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b5f4d600520d0e96) | 2026-03-07 15:15 |
-| Capital One | Senior Data Engineer (AWS, Spark, Python, SQL) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=418b09b41502f7df) | 2026-03-07 15:15 |
-| Disney Experiences | Sr. Software Engineer | Celebration, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d14bdf995edae51e) | 2026-03-07 15:15 |
 
 
 ---
