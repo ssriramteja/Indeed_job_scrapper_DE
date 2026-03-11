@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 07:38
+Last updated: 2026-03-11 08:31
 
 ### 🚀 Daily Job Matches
 
@@ -415,9 +415,6 @@ Last updated: 2026-03-11 07:38
 | Rivian and Volkswagen Group Technologies | Senior DevOps Software Engineer, Firmware & CI/CD | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f1de60ecf2851e5) | 2026-03-07 09:21 |
 | Paychex, Inc. | Data Engineer | Rochester, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e69293272ecf929) | 2026-03-07 09:21 |
 | Concord Music Group, Inc. | Senior Software Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a02820021c063a20) | 2026-03-07 09:21 |
-| Alter Domus | Senior Data Engineer | Salt Lake City, UT, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=61076be5c1091dff) | 2026-03-07 08:20 |
-| Washon MedData Inc | EDP Cloud Data Platform Administrator - US Citizen or Green Card | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=217b9f59d954e67c) | 2026-03-07 08:20 |
-| NTT DATA | Senior GCP Cloud Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9259990ef107da39) | 2026-03-07 08:20 |
 
 
 ---
