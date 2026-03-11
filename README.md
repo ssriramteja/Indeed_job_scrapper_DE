@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-10 23:20
+Last updated: 2026-03-11 01:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Morrison Healthcare | SENIOR DATA ENGINEER (HYBRID-CHARLOTTE, NC) | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=abe6c8c4b0190d8d) | 2026-03-11 01:12 |
+| LTIMindtree | Senior Specialist - Software Engineering | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3553f5857948933c) | 2026-03-11 01:12 |
+| El Paso Electric | APPLICATION ARCHITECT- ASSOC -SR | El Paso, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4b19aee7bc7fb14a) | 2026-03-11 01:12 |
+| Tata Consultancy Services (TCS) | Senior Engineer Technology | Allen, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf9c277b4c81cb4b) | 2026-03-11 01:12 |
+| Blue Shield of California | Full Stack Engineer, Experienced | Oakland, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=59dd03c7be722425) | 2026-03-11 01:12 |
+| nan | Data Engineer - Intern | Stockbridge, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdee89b0e47d15e1) | 2026-03-11 01:12 |
+| Fivetran | Software Engineer II, Databases | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=481e36909591dfe8) | 2026-03-11 01:12 |
 | Capgemini | AWS Java Architect | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a24b1c6ccb2c07f0) | 2026-03-10 23:20 |
 | Gates Foundation | Senior Officer, Data Engineering | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c2bda2dde8a58928) | 2026-03-10 23:20 |
 | Electronic Arts | Security Software Engineer II | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86f57988374a8d78) | 2026-03-10 23:20 |
@@ -402,20 +409,6 @@ Last updated: 2026-03-10 23:20
 | Edward Jones | Ops Solution Developer II | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a843f2e572d01441) | 2026-03-07 03:53 |
 | BRMi | Back-End Java Engineer | Vienna, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbe04a589c275aec) | 2026-03-07 03:53 |
 | OneBlood | AI & Machine Learning Engineer | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=481be343fdc2f8fc) | 2026-03-07 03:53 |
-| PartnerCo | Senior Software Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0545991ebbdd6454) | 2026-03-07 01:12 |
-| PartnerCo | Senior Software Engineer | Lehi, UT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f130792df2134b12) | 2026-03-07 01:12 |
-| FINGERPRINT | Senior Backend Engineer, Core APIsNew | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=648c5fd6afaad69e) | 2026-03-07 01:12 |
-| Tyler Technologies | CloudOps Engineer – Platform Engineering (EKS) | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=526767881c72befd) | 2026-03-07 01:12 |
-| Tyler Technologies | CloudOps Engineer – Platform Engineering (EKS) | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=896e1523c301ce2f) | 2026-03-07 01:12 |
-| Tyler Technologies | CloudOps Engineer – Platform Engineering (EKS) | Lakewood, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=88577baa482b8f47) | 2026-03-07 01:12 |
-| Tyler Technologies | CloudOps Engineer – Platform Engineering (EKS) | Yarmouth, ME, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8c68f9b0d2e63a71) | 2026-03-07 01:12 |
-| Paramount | Sr Data Engineer | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9eaec25ac9a4eccb) | 2026-03-07 01:12 |
-| American Medical Association (AMA) | Sr. Data Engineer (Hybrid) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=58b8869ff6d42582) | 2026-03-07 01:12 |
-| Western Union | Software Engineering Architect | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1812a5b73a77a5b) | 2026-03-07 01:12 |
-| Vector Resources, Inc. | Machine Learning / Software Engineer | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91496c96bd53f770) | 2026-03-07 01:12 |
-| The Wyanoke Group | AI Engineer | Thorofare, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d4c14d111aa82140) | 2026-03-07 01:12 |
-| Crisis Text Line | Senior Site Reliability Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=921045e38c294529) | 2026-03-07 01:12 |
-| BlueVoyant | Junior Dev Ops Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c61d3171a69dbbf1) | 2026-03-07 01:12 |
 
 
 ---
