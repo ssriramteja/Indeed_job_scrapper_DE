@@ -1,12 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 21:25
+Last updated: 2026-03-11 22:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-11 21:25 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-11 22:20 |
+| Openkyber | AWS API Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=51b0c228ba35d8c5) | 2026-03-11 22:20 |
+| Fidelity Investments | Senior Data Engineer | Durham, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=94b83b776a063f69) | 2026-03-11 22:20 |
+| Fidelity Investments | Senior Data Engineer | Westlake, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5c86878a4a53e1f2) | 2026-03-11 22:20 |
+| Fidelity Investments | Senior Data Engineer | Merrimack, NH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5519eeb85983ba64) | 2026-03-11 22:20 |
+| Openkyber | OCI API Gateway Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d4b84fd7269e4e8d) | 2026-03-11 22:20 |
+| Openkyber | AWS API Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=68da0b82e0c0971f) | 2026-03-11 22:20 |
+| Warner Bros. Discovery | Software Engineer II | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d60c34cb21ad1a04) | 2026-03-11 22:20 |
+| Warner Bros. Discovery | Software Engineer II | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2ac3016e7e21ad71) | 2026-03-11 22:20 |
+| Warner Bros. Discovery | Software Engineer II | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3ee7c1d439d2be4c) | 2026-03-11 22:20 |
+| Warner Bros. Discovery | Software Engineer II | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bdab2a9da3b1d40a) | 2026-03-11 22:20 |
+| Warner Bros. Discovery | Software Engineer II | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=360b105c51b4b18d) | 2026-03-11 22:20 |
+| Man Group | Senior Software Engineer | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b8f95c86a9a4e627) | 2026-03-11 22:20 |
+| Palmetto Tech | AWS Developer / Administrator only GC,Citizens or H4 EAD | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c93c9f49194a0430) | 2026-03-11 22:20 |
+| Vimly Benefit Solutions | Sr. Software Engineer | WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9ca24307b6c2a4b) | 2026-03-11 22:20 |
+| RapidFire Safety & Security | Power BI Developer | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc9e1ad94a35fefc) | 2026-03-11 22:20 |
+| LTIMindtree | Specialist - Architecture | Bloomington, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=02a73519f4deb64d) | 2026-03-11 22:20 |
+| Black & Veatch | Senior Consultant - Data Engineering & Business Intelligence | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3c1aa86a59e2c6c) | 2026-03-11 22:20 |
+| Openkyber | Senior Cloud Disaster Recovery Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5fe6313bc377228) | 2026-03-11 22:20 |
+| Missouri State University | ERP & Database Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9813268f71a7390) | 2026-03-11 22:20 |
+| Mid-Hudson Valley Federal Credit Union | Software Engineer | Kingston, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b11459048a088be) | 2026-03-11 22:20 |
 | Diverse Lynx | Senior Salesforce Developer | Alpharetta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2c2abed7066b82ae) | 2026-03-11 21:25 |
 | NTT DATA | Sr. Data Analyst | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=61d0cacdc93f0a17) | 2026-03-11 21:25 |
 | Tata Consultancy Services (TCS) | NoSQL DBA | Hopkins, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=18938060c32c52cd) | 2026-03-11 21:25 |
