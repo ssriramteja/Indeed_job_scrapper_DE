@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 06:41
+Last updated: 2026-03-11 07:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e3bc1599edcc63d6) | 2026-03-11 07:38 |
 | BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=819cd5adcc2e0b09) | 2026-03-11 06:41 |
 | BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0e84e96929c83510) | 2026-03-11 06:41 |
 | BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d998781e3cf3685f) | 2026-03-11 06:41 |
@@ -417,8 +418,6 @@ Last updated: 2026-03-11 06:41
 | Alter Domus | Senior Data Engineer | Salt Lake City, UT, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=61076be5c1091dff) | 2026-03-07 08:20 |
 | Washon MedData Inc | EDP Cloud Data Platform Administrator - US Citizen or Green Card | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=217b9f59d954e67c) | 2026-03-07 08:20 |
 | NTT DATA | Senior GCP Cloud Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9259990ef107da39) | 2026-03-07 08:20 |
-| Daniels Health | Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=77cecd23c45b016d) | 2026-03-07 07:23 |
-| Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=40494b4ecc16d393) | 2026-03-07 07:23 |
 
 
 ---
