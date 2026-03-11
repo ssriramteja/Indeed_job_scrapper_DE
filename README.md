@@ -1,11 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 05:42
+Last updated: 2026-03-11 06:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=819cd5adcc2e0b09) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0e84e96929c83510) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d998781e3cf3685f) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ac64f3f2364b393c) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d57732575beb7281) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=71c3367f7265b4b1) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=92e8596280ccc1b4) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=77bf277781b84f2f) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cecc27559ccd2adb) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ec353d7c4d811e7c) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e5b94def02b01e20) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a20a868ac55bf7b5) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=92e0b50eaa73d1db) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2d96dc2696b88bbb) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c3538c2508a18a51) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=17d3094fab7028db) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1a4272756cee81a) | 2026-03-11 06:41 |
+| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=96f91ac51871dc56) | 2026-03-11 06:41 |
 | Tata Consultancy Services (TCS) | Data Engineer | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f158725620104e0c) | 2026-03-11 04:02 |
 | BOK Financial | Software Engineer III - Java Backend | Tulsa, OK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=69f26e792b98c94c) | 2026-03-11 04:02 |
 | Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=57d00084c72cc397) | 2026-03-11 04:02 |
@@ -401,16 +419,6 @@ Last updated: 2026-03-11 05:42
 | NTT DATA | Senior GCP Cloud Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9259990ef107da39) | 2026-03-07 08:20 |
 | Daniels Health | Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=77cecd23c45b016d) | 2026-03-07 07:23 |
 | Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=40494b4ecc16d393) | 2026-03-07 07:23 |
-| BV Teck | Spark Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b946e93ff6faed4) | 2026-03-07 06:29 |
-| Realign | Data Platform Engineer-4 | Parsippany-Troy Hills, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d9ed45f65d56706e) | 2026-03-07 06:29 |
-| Expedia Group | Senior Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5ffeae73f778fcd8) | 2026-03-07 06:29 |
-| Realign | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=70fa931bf1e55748) | 2026-03-07 06:29 |
-| Expedia Group | Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4aa67c824506bfe6) | 2026-03-07 06:29 |
-| BV Teck | Databricks Platform Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4acce1067bbdaf41) | 2026-03-07 06:29 |
-| Henderson Brothers Inc. | Data Analyst | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e42057f538af783d) | 2026-03-07 06:29 |
-| Global Partners LP | Analytics Engineer | Waltham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a42bdfce459e149d) | 2026-03-07 06:29 |
-| Humana | API Developer - Sr Software Engineer | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c28bf17a880cb1a7) | 2026-03-07 06:29 |
-| Realign | Teradata Developer-1 | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1f1dca4a550ee320) | 2026-03-07 06:29 |
 
 
 ---
