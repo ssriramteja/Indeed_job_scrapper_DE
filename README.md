@@ -1,21 +1,35 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 20:26
+Last updated: 2026-03-11 21:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-11 21:25 |
+| Diverse Lynx | Senior Salesforce Developer | Alpharetta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2c2abed7066b82ae) | 2026-03-11 21:25 |
+| NTT DATA | Sr. Data Analyst | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=61d0cacdc93f0a17) | 2026-03-11 21:25 |
+| Tata Consultancy Services (TCS) | NoSQL DBA | Hopkins, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=18938060c32c52cd) | 2026-03-11 21:25 |
+| RadCube | Data Engineer | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d5e1d27693a96f5) | 2026-03-11 21:25 |
+| Qode | Senior Quality Engineer | Fort Mill, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4acfd53eefe4f1b9) | 2026-03-11 21:25 |
+| Cherokee Federal | DevOps Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=377676b1c3880e52) | 2026-03-11 21:25 |
+| EV Design | Data Analyst | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b7b188a1549b300) | 2026-03-11 21:25 |
+| Authority Brands | Data Analytics & Power BI Developer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8c37835f550ddf38) | 2026-03-11 21:25 |
+| NTT DATA | Senior Full Stack Developer in Merrimack, NH | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=91f0f1ff47e67993) | 2026-03-11 21:25 |
+| ABOUT Healthcare | Reporting & Business Intelligence Developer | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82bc310c78840492) | 2026-03-11 21:25 |
+| Merck | Sr. Spclst , Software Engineering | North Wales, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=463eb478d5ff85bb) | 2026-03-11 21:25 |
+| LangChain | Solutions Architect | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9eb22e24231f22b) | 2026-03-11 21:25 |
+| LangChain | Solutions Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=469d8b6a01022163) | 2026-03-11 21:25 |
+| LangChain | Solutions Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eced1a3a797949e2) | 2026-03-11 21:25 |
+| LangChain | Solutions Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c07382ba85bed2a4) | 2026-03-11 21:25 |
+| Texas Capital Bank | Business Analytics Product Owner | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce00115bdc991072) | 2026-03-11 21:25 |
 | Prudential | Senior Data Engineer | Newark, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=692655d58e016632) | 2026-03-11 20:26 |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-11 20:26 |
 | AbbVie | Senior Site Reliability Engineer (Remote) | Mettawa, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5930fa925ff77f76) | 2026-03-11 20:26 |
 | Optum | Data Engineer with AI/ML | Minnetonka, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5769c4ee7b54a55d) | 2026-03-11 20:26 |
 | Acrisure LLC | Software Engineer, Data (L2) | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6140e3faf3473879) | 2026-03-11 20:26 |
 | Xylem | Senior AI Solutions and Platform Engineer | Morrisville, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2dea4b70a8571f2e) | 2026-03-11 20:26 |
 | Kimball Midwest | Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=13618fb171dcc5ea) | 2026-03-11 20:26 |
 | Prudential | Senior ML Ops Engineer | Newark, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b32a96d3a148568b) | 2026-03-11 20:26 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71d009d7cafef710) | 2026-03-11 20:26 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5eb7d6f981c89a53) | 2026-03-11 20:26 |
 | Medefy Health | Business Intelligence Engineer | Tulsa, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2b017509b0a14a7) | 2026-03-11 20:26 |
 | LG Ad Solutions | Software Engineer II, Data Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4f0a13fefa0a3f7) | 2026-03-11 20:26 |
 | LG Ad Solutions | Senior Software Engineer I, Fullstack (AI) | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=67d1ebdfb86d5d03) | 2026-03-11 20:26 |
@@ -497,7 +511,6 @@ Last updated: 2026-03-11 20:26
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4bbc3103892741b1) | 2026-03-07 23:15 |
 | Openkyber | CrowdStrike GenAI Security Engineer | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8710c024486747ff) | 2026-03-07 23:15 |
 | Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c27bc0cbf92e5826) | 2026-03-07 23:15 |
-| Tata Consultancy Services (TCS) | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=51a019ac629e7fd8) | 2026-03-07 21:14 |
 
 
 ---
