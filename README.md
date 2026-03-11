@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 04:02
+Last updated: 2026-03-11 05:42
 
 ### 🚀 Daily Job Matches
 
@@ -411,9 +411,6 @@ Last updated: 2026-03-11 04:02
 | Global Partners LP | Analytics Engineer | Waltham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a42bdfce459e149d) | 2026-03-07 06:29 |
 | Humana | API Developer - Sr Software Engineer | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c28bf17a880cb1a7) | 2026-03-07 06:29 |
 | Realign | Teradata Developer-1 | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1f1dca4a550ee320) | 2026-03-07 06:29 |
-| Conduent | Data Warehouse ETL Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39ddce11ca45a41a) | 2026-03-07 05:34 |
-| Tata Consultancy Services (TCS) | Data Engineer | Irving, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0a5b8a36a5afef54) | 2026-03-07 04:56 |
-| Fiserv | Senior QA Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d8f4b98e26bdff3) | 2026-03-07 04:56 |
 
 
 ---
