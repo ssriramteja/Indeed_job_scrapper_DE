@@ -1,11 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 18:43
+Last updated: 2026-03-11 19:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ARTDAI | DevOps Engineer | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=3d6c6fc6970faee1) | 2026-03-11 19:37 |
+| ZoomInfo | DevOps Engineer III | Waltham, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c6675fa52faee21a) | 2026-03-11 19:37 |
+| Ithaka | Senior Software Engineer (full-stack) | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7c56a9ffac444186) | 2026-03-11 19:37 |
+| Arizona State University | Senior Data Warehouse Developer | Tempe, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c29c4e157289a567) | 2026-03-11 19:37 |
+| Luxoft | JavaFull Stack / DevOps / Cloud Deployment | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e1cf1102bd9b8ee) | 2026-03-11 19:37 |
+| Pryon | Senior Engineer, Infrastructure (DevOps) | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=326a2430fd4eabc1) | 2026-03-11 19:37 |
+| Pryon | Senior Engineer, Infrastructure (DevOps) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e5027e62d0c9af16) | 2026-03-11 19:37 |
+| Pryon | Senior Engineer, Infrastructure (DevOps) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9d18b9991a355d07) | 2026-03-11 19:37 |
+| Pryon | Senior Engineer, Infrastructure (DevOps) | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e02142bb3f3c154) | 2026-03-11 19:37 |
+| Pryon | Senior Engineer, Infrastructure (DevOps) | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f6ea9221725ce7d3) | 2026-03-11 19:37 |
+| Pryon | Senior Engineer, Infrastructure (DevOps) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c9c99178b88020f5) | 2026-03-11 19:37 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71d009d7cafef710) | 2026-03-11 19:37 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5eb7d6f981c89a53) | 2026-03-11 19:37 |
+| Activate Care | Software Engineer - Full Stack | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f8cd994bee806d3) | 2026-03-11 19:37 |
+| Lumistry | DevOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=606dcec420e3ba3d) | 2026-03-11 19:37 |
 | Oran Inc | Cloud Data Engineer-(SAS-to-Snowflake Migration)-USC/GC*** | Herndon, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5a545b8dcc319311) | 2026-03-11 18:43 |
 | Optum | Data Architect - Minneapolis, MN | Minnetonka, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b7feba864f904f24) | 2026-03-11 18:43 |
 | Quartech | FULL-STACK DEVELOPER | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9c717e9173db492f) | 2026-03-11 18:43 |
