@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 20:26
+Last updated: 2026-03-12 21:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Shopko Optical | Data Engineer II | Green Bay, WI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ab5b4ffc7f2a589f) | 2026-03-12 21:25 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=234fd2801a1e56d5) | 2026-03-12 21:25 |
+| North Carolina State University | REFRAME Platform Architect | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5f6ecb9f752d7e5c) | 2026-03-12 21:25 |
+| Velosys | Architect - Python | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c23106e5c23ff68d) | 2026-03-12 21:25 |
+| GreenStone Farm Credit Services | Data Engineer | East Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a31b1d4cb43adaa5) | 2026-03-12 21:25 |
+| Shopko Optical | Data Engineer I | Green Bay, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53ba3cad7c42a3af) | 2026-03-12 21:25 |
+| BMO Financial Group | Software Developer I | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89ef6144b41540db) | 2026-03-12 21:25 |
+| Hayden AI | Senior Software Engineer, Infrastructure | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6ca54fa35f4880f) | 2026-03-12 21:25 |
+| Mission Produce | AI/Machine Learning Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb0af3bdc55914e6) | 2026-03-12 21:25 |
 | Salesforce | BI Data Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f2543168971c5287) | 2026-03-12 20:26 |
 | Apollo Technology Solutions LLC | SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bb48de65765dd65b) | 2026-03-12 20:26 |
 | OneMagnify | Analytics Migration Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f8c5a900c2b1c6c) | 2026-03-12 20:26 |
