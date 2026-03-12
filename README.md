@@ -1,12 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 13:58
+Last updated: 2026-03-12 14:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 13:58 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 14:45 |
+| Research Foundation CUNY | Application Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9d3a83e2c695668c) | 2026-03-12 14:45 |
+| nan | Software Engineer II - Scala | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f27f10d00e06f337) | 2026-03-12 14:45 |
+| Placer.ai | Production Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5481df28409f336) | 2026-03-12 14:45 |
 | Luxoft | Senior Java Developer (AWS) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61573c8f16db4391) | 2026-03-12 13:58 |
 | Publix | Senior Data Engineer - Labor Management | Lakeland, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9834656ac2bda8ee) | 2026-03-12 12:38 |
 | nan | Senior Software Engineer (Backend) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33b656f77d8ee725) | 2026-03-12 12:38 |
