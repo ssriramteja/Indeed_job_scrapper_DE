@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 14:45
+Last updated: 2026-03-12 15:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 14:45 |
+| Green Gas USA | Data Engineer - Intern | Houston, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5a49e9369fa229a4) | 2026-03-12 15:50 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 15:50 |
 | Research Foundation CUNY | Application Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9d3a83e2c695668c) | 2026-03-12 14:45 |
 | nan | Software Engineer II - Scala | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f27f10d00e06f337) | 2026-03-12 14:45 |
 | Placer.ai | Production Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5481df28409f336) | 2026-03-12 14:45 |
