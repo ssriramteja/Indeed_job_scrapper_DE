@@ -1,12 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 08:33
+Last updated: 2026-03-12 09:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 08:33 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 09:35 |
+| National Kidney Foundation of Michigan | Data Architect | Ann Arbor, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c7c9a61c1f4f4962) | 2026-03-12 09:35 |
+| JPMorganChase | Software Engineer III - LLM | Wilmington, DE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3dce5307329a37fd) | 2026-03-12 09:35 |
+| JPMorganChase | Backend Java Software Engineer III | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fba67a631e791b80) | 2026-03-12 09:35 |
+| Navat Technologies Pvt Ltd | AWS Engineer - Remote - Contract | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20ff1920a00572de) | 2026-03-12 09:35 |
+| General Motors (GM) | Senior Data Analytics Engineer - Vehicle Chassis Systems | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=edec9672be03e5f7) | 2026-03-12 09:35 |
 | DS Technologies Inc | Test Automation Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=890d646a91ef01b8) | 2026-03-12 07:41 |
 | Vanguard | Application Engineer - III | Malvern, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=781024c719b3e436) | 2026-03-12 07:41 |
 | CVS Health | Senior Software Development Engineer Microservices | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9a3527869070a089) | 2026-03-12 07:41 |
