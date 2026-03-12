@@ -1,12 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 16:52
+Last updated: 2026-03-12 17:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 16:52 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 17:43 |
+| Openkyber | IAM DevSecOps Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=882db95cb994b7c6) | 2026-03-12 17:43 |
+| Openkyber | Senior SOX Automation Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f705e2f549ccf63) | 2026-03-12 17:43 |
+| Openkyber | Security Compliance Specialist | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f276a316b4b1e560) | 2026-03-12 17:43 |
+| Openkyber | IT Compliance Consultant | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7a3fde3ef9f67a33) | 2026-03-12 17:43 |
+| REN | Senior Data Architect | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2bde7942b264b382) | 2026-03-12 17:43 |
+| Openkyber | Senior Compliance Automation Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbbb3064921ed9dc) | 2026-03-12 17:43 |
+| Openkyber | IAM DevSecOps Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff2f3126ab0313df) | 2026-03-12 17:43 |
 | Qode | Senior .Net Developer | Fort Mill, SC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a27509362b1441a6) | 2026-03-12 16:52 |
 | Qode | Senior .Net Developer | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f3769548913d0b45) | 2026-03-12 16:52 |
 | Sabio Infotech | Quality Engineer - BDD Implementation (Data Ingestion & Pipeline) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ecc14345bea80d80) | 2026-03-12 16:52 |
@@ -621,18 +628,6 @@ Last updated: 2026-03-12 16:52
 | Openkyber | API Enablement Specialist | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e92ce3f72178fa2b) | 2026-03-08 23:16 |
 | Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2391611035d932e3) | 2026-03-08 23:16 |
 | Openkyber | Java Technical Architect | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7747f31dfec5b3b2) | 2026-03-08 23:16 |
-| Openkyber | AI Application Architect | IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=db40aa076d14f9d0) | 2026-03-08 17:16 |
-| Openkyber | AI Application Architect | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=28e4d6385751ba88) | 2026-03-08 17:16 |
-| Openkyber | AI Application Architect | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9d9a21d31f3763d7) | 2026-03-08 17:16 |
-| Openkyber | AI Integration Engineer (Java + AI) | IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d390ec06d924f3da) | 2026-03-08 17:16 |
-| Openkyber | AI Integration Engineer (Java + AI) | NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=49d374e751f307ea) | 2026-03-08 17:16 |
-| Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=25850899276cb6d0) | 2026-03-08 17:16 |
-| Openkyber | Java AI / ML Integration Engineer | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=306efe4a26e0706c) | 2026-03-08 17:16 |
-| Openkyber | AI Application Architect | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a3902181000a2737) | 2026-03-08 17:16 |
-| Openkyber | AI Application Architect | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c15fc57fa4877545) | 2026-03-08 17:16 |
-| Openkyber | AI Application Architect | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9cb8af80af373eb9) | 2026-03-08 17:16 |
-| Openkyber | AI Integration Engineer (Java + AI) | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=713151b0e6387311) | 2026-03-08 17:16 |
-| Openkyber | AI Application Architect | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=972ecca486e8cd7e) | 2026-03-08 17:16 |
 
 
 ---
