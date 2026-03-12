@@ -1,12 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 06:43
+Last updated: 2026-03-12 07:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 06:43 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 07:41 |
+| DS Technologies Inc | Test Automation Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=890d646a91ef01b8) | 2026-03-12 07:41 |
+| Vanguard | Application Engineer - III | Malvern, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=781024c719b3e436) | 2026-03-12 07:41 |
+| CVS Health | Senior Software Development Engineer Microservices | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9a3527869070a089) | 2026-03-12 07:41 |
 | BECU | Sr Database Engineer (DBE) | WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=abd7e06c5d782973) | 2026-03-12 06:43 |
 | Sagis, PLLC | Data Engineer II- Onsite (77092) | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2ac0edc7f1332750) | 2026-03-12 05:44 |
 | Tata Consultancy Services (TCS) | Full Stack Engineer (React + Node.js) | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8c85f868b397f933) | 2026-03-12 04:06 |
