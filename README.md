@@ -1,11 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 21:25
+Last updated: 2026-03-12 22:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Full Stack Engineer (React + Node.js) | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=176be754bb6a10a9) | 2026-03-12 22:17 |
+| Legence | Power BI Data Engineer | Minneapolis, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f42170db9ad527f6) | 2026-03-12 22:17 |
+| Legence | Power BI Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=879e206372c893dd) | 2026-03-12 22:17 |
+| JET Infrastructure Holding IA LLC | Business Intelligence Analyst | Highlands Ranch, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=aec57a01407f829f) | 2026-03-12 22:17 |
+| Otsuka | Engineer IV, Field Sales Reporting, Commercial IT | Princeton, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=aa82edf7b00984b3) | 2026-03-12 22:17 |
+| Tata Consultancy Services (TCS) | MLOps Engineer | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cb29970206c5f72d) | 2026-03-12 22:17 |
+| JPMorganChase | Software Engineer III - Fullstack, Python, AWS, AI/ML | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1d3cb1179f1dc88c) | 2026-03-12 22:17 |
+| Optum | Senior Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a6f3c2041c813633) | 2026-03-12 22:17 |
+| Optum | Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a35fd804f9b76dd) | 2026-03-12 22:17 |
+| Fidelity Investments | DevOps Engineer / Platform Engineer- Kubernetes / AWS / EKS / AKS | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=edef1dab7d1ad9f6) | 2026-03-12 22:17 |
+| Fidelity Investments | DevOps Engineer / Platform Engineer- Kubernetes / AWS / EKS / AKS | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c5b6d7d9bef7e9a5) | 2026-03-12 22:17 |
+| Sbt Global | AWS CloudOps Engineer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=49f68ec3b863323c) | 2026-03-12 22:17 |
+| Fiserv | Infrastructure Engineer | Berkeley Heights, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c3f169e508b6cc4) | 2026-03-12 22:17 |
+| Tata Consultancy Services (TCS) | Senior Engineer Technology | Allen, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4f0465395bb17dd0) | 2026-03-12 22:17 |
+| NATIONMIND LLC | Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be3efe04557b32b2) | 2026-03-12 22:17 |
+| Tata Consultancy Services (TCS) | Data Architect | Milford, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f873725db34d611) | 2026-03-12 22:17 |
+| jamf | Platform Engineer II (Terraform & Kubernetes) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb44cfe22f2062c3) | 2026-03-12 22:17 |
 | Shopko Optical | Data Engineer II | Green Bay, WI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ab5b4ffc7f2a589f) | 2026-03-12 21:25 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=234fd2801a1e56d5) | 2026-03-12 21:25 |
 | North Carolina State University | REFRAME Platform Architect | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5f6ecb9f752d7e5c) | 2026-03-12 21:25 |
