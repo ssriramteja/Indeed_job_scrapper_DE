@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 11:27
+Last updated: 2026-03-12 12:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 12:38 |
+| Publix | Senior Data Engineer - Labor Management | Lakeland, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9834656ac2bda8ee) | 2026-03-12 12:38 |
+| nan | Senior Software Engineer (Backend) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33b656f77d8ee725) | 2026-03-12 12:38 |
 | Capgemini | Associate Data Engineer | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=1215d222f0829a74) | 2026-03-12 11:27 |
 | Openkyber | IT Compliance Consultant | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3b1b261dd4077731) | 2026-03-12 11:27 |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 11:27 |
 | Capgemini | Associate Data Scientist | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bcdbba492c2f4bb4) | 2026-03-12 11:27 |
 | Logic, Inc. | Cloud Platform Architect 6184507 | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6e9c6db3ce25d4ca) | 2026-03-12 11:27 |
 | Capgemini | Managing Data Architect - Azure Databricks Architect | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c1be5d66c0b6da3c) | 2026-03-12 11:27 |
