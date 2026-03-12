@@ -1,12 +1,34 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 17:43
+Last updated: 2026-03-12 18:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 17:43 |
+| Realign | Sr. Qlik Data Engineer-6 | Raleigh, NC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a44311f290c68fcb) | 2026-03-12 18:41 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 18:41 |
+| Realign | Data Engineer-6 | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cd54000b5e0224f2) | 2026-03-12 18:41 |
+| Realign | Data Engineer-6 | Raleigh, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2517e65f484b1492) | 2026-03-12 18:41 |
+| Realign | Data Engineer-6 | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8cee90a5b725d3ee) | 2026-03-12 18:41 |
+| Realign | Senior Databricks Developer-6 | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4f87b2affa9c6fa4) | 2026-03-12 18:41 |
+| CentralReach | Sr. DevOps Engineer, Cloud Security | Holmdel, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=97cce3f409dc593c) | 2026-03-12 18:41 |
+| Realign | PythonPySpark Engineer-6 | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5b7bc848d1912566) | 2026-03-12 18:41 |
+| Grid Dynamics | Power BI Developer | Annandale, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d832009392223d37) | 2026-03-12 18:41 |
+| Realign | Test Automation Engineer with Payments-6 | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2e317823b6bba5c) | 2026-03-12 18:41 |
+| Realign | Sr DevOPS Engineer-6 | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a4397b190052ca4) | 2026-03-12 18:41 |
+| Realign | Snowflake Admin-7 | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a17d97b1317addaf) | 2026-03-12 18:41 |
+| Realign | Data Ops Engineer-6 | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=adcfd603f19d5dec) | 2026-03-12 18:41 |
+| Realign | Python / Linux-6 | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d649efeb0eab93e6) | 2026-03-12 18:41 |
+| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db0ec20af150bf35) | 2026-03-12 18:41 |
+| Realign | Snowflake Architect-6 | Minnesota City, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4e9660980ec8a8c) | 2026-03-12 18:41 |
+| Realign | Azure Databricks Architect-6 | Mahwah, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45a02b9b0db8bbb2) | 2026-03-12 18:41 |
+| Realign | Adobe Cloud Architect-6 | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57de77eeafd2c392) | 2026-03-12 18:41 |
+| Realign | Snowflake Architect-6 | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6186e5dd2c86d2eb) | 2026-03-12 18:41 |
+| Realign | Databricks Data Engineer(Azure + Python) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3083d09f76d381ed) | 2026-03-12 18:41 |
+| Realign | OIPA Engineer-6 | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1c3f58aa04eb2d6d) | 2026-03-12 18:41 |
+| Realign | Data Analyst_EDM-7 | West Des Moines, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=327d2a62ab181652) | 2026-03-12 18:41 |
+| Realign | Teradata Developer-6 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94f4b8e609b40433) | 2026-03-12 18:41 |
 | Openkyber | IAM DevSecOps Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=882db95cb994b7c6) | 2026-03-12 17:43 |
 | Openkyber | Senior SOX Automation Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f705e2f549ccf63) | 2026-03-12 17:43 |
 | Openkyber | Security Compliance Specialist | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f276a316b4b1e560) | 2026-03-12 17:43 |
