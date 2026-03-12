@@ -1,12 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 10:31
+Last updated: 2026-03-12 11:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 10:31 |
+| Capgemini | Associate Data Engineer | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=1215d222f0829a74) | 2026-03-12 11:27 |
+| Openkyber | IT Compliance Consultant | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3b1b261dd4077731) | 2026-03-12 11:27 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 11:27 |
+| Capgemini | Associate Data Scientist | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bcdbba492c2f4bb4) | 2026-03-12 11:27 |
+| Logic, Inc. | Cloud Platform Architect 6184507 | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6e9c6db3ce25d4ca) | 2026-03-12 11:27 |
+| Capgemini | Managing Data Architect - Azure Databricks Architect | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c1be5d66c0b6da3c) | 2026-03-12 11:27 |
+| Capgemini | Data Engineer - Sr. Databricks Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cc2eab297cb5f7ef) | 2026-03-12 11:27 |
+| Logic, Inc. | ATC - AI & Data Analyst - NAELFY26 | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=346934ccf1363e50) | 2026-03-12 11:27 |
+| Logic, Inc. | Senior Application Platform Architect - 6163848 | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f23620eb37b83f) | 2026-03-12 11:27 |
+| Capgemini | Cloud Data Engineer | Bridgewater, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c815831b07a9f2fa) | 2026-03-12 11:27 |
+| Openkyber | Senior AWS FinOps Specialist | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=68fa6a156ca0e34f) | 2026-03-12 11:27 |
 | Inframark | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3de4a0fc38ba3e2b) | 2026-03-12 10:31 |
 | Inframark | DevOps Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f701cd607ccab481) | 2026-03-12 10:31 |
 | Inframark | DevOps Engineer | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bc5eefd4bc93ea8e) | 2026-03-12 10:31 |
@@ -548,15 +558,6 @@ Last updated: 2026-03-12 10:31
 | Openkyber | AI Application Architect | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9cb8af80af373eb9) | 2026-03-08 17:16 |
 | Openkyber | AI Integration Engineer (Java + AI) | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=713151b0e6387311) | 2026-03-08 17:16 |
 | Openkyber | AI Application Architect | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=972ecca486e8cd7e) | 2026-03-08 17:16 |
-| Openkyber | Java Trainer / Mentor / Educator | VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f225ad27d76e606c) | 2026-03-08 11:14 |
-| Openkyber | Cloud AI Application Administrator | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9f1461d722d5f55c) | 2026-03-08 11:14 |
-| Openkyber | Cloud AI Application Administrator | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b7cf1948628d7ab7) | 2026-03-08 11:14 |
-| Openkyber | Java Production Support Engineer | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1523381740d92013) | 2026-03-08 11:14 |
-| Openkyber | Java Consultant | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=67700eaac27ee1cf) | 2026-03-08 11:14 |
-| Openkyber | Java Software Engineer | HI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e96f791ed6e1185) | 2026-03-08 11:14 |
-| Openkyber | Cloud AI Application Administrator | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=474ce0b5b42f1022) | 2026-03-08 11:14 |
-| Memorial Sloan Kettering Cancer Center | Bioinformatics Software Engineer III, Pathology and Lab Medicine | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a671a473550229c6) | 2026-03-08 11:14 |
-| Openkyber | Cloud AI Consultant | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e830061c496f86e) | 2026-03-08 11:14 |
 
 
 ---
