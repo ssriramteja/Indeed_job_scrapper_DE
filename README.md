@@ -1,11 +1,36 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 22:17
+Last updated: 2026-03-12 23:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Insight | Software Engineer Sr | Chandler, AZ, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=bb2de7e18b2b69e7) | 2026-03-12 23:20 |
+| Capgemini | Data Engineer - AWS Engineer | Chicago, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ada71137ca1084e0) | 2026-03-12 23:20 |
+| HealthEZ | Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cdf448bcd373bda6) | 2026-03-12 23:20 |
+| Nomad Temporary Housing | DevOps / API Engineer — Mid-Level | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6ea8e333bf7a2127) | 2026-03-12 23:20 |
+| Capgemini | GCP Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=882043ad70945702) | 2026-03-12 23:20 |
+| Openkyber | Google Cloud Network Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e5ae1ac54f4758f5) | 2026-03-12 23:20 |
+| Openkyber | Network Monitoring Analyst | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=85fdde3e56987d98) | 2026-03-12 23:20 |
+| Capgemini | Databricks Platform Architect | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1bd63ec5f3e76f37) | 2026-03-12 23:20 |
+| Oishii Farm Corporation | Senior Data Engineer | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0837c0e67ad3e024) | 2026-03-12 23:20 |
+| Oishii Farm Corporation | Senior Data Engineer | Phillipsburg, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c579ce0ad79d93a) | 2026-03-12 23:20 |
+| Akumin | Senior Data Engineer | Ashland, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=062e6ece054461e0) | 2026-03-12 23:20 |
+| Akumin | Senior Data Engineer | Daytona Beach, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af645fa575dd9b23) | 2026-03-12 23:20 |
+| Akumin | Senior Data Engineer | Crown Point, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ecd6a3ff190637c) | 2026-03-12 23:20 |
+| Akumin | Senior Data Engineer | Charleston, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d44012d3da71eb94) | 2026-03-12 23:20 |
+| Akumin | Senior Data Engineer | Hazleton, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d887e344ed3131e4) | 2026-03-12 23:20 |
+| Akumin | Senior Data Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=965cd30d3d468a22) | 2026-03-12 23:20 |
+| Akumin | Senior Data Engineer | Owosso, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f34b1810aee62ca6) | 2026-03-12 23:20 |
+| Akumin | Senior Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fd4476dd51ee8a68) | 2026-03-12 23:20 |
+| Akumin | Senior Data Engineer | Pinehurst, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb691cc9ed5438c8) | 2026-03-12 23:20 |
+| Akumin | Senior Data Engineer | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b346f287e64bf41) | 2026-03-12 23:20 |
+| GOAL Academy | Senior Data Engineer (DEANG) Closing 3/22/2026 | Pueblo, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9899bc3a76c29241) | 2026-03-12 23:20 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-12 23:20 |
+| Capgemini | Associate Data Scientist | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=331501b10e21bc6f) | 2026-03-12 23:20 |
+| Capgemini | Test Engineer - AI/LLM | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea5ad635b4410c94) | 2026-03-12 23:20 |
+| Transamerica | Intermediate Software Engineer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=007797d3a89d473c) | 2026-03-12 23:20 |
 | Tata Consultancy Services (TCS) | Full Stack Engineer (React + Node.js) | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=176be754bb6a10a9) | 2026-03-12 22:17 |
 | Legence | Power BI Data Engineer | Minneapolis, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f42170db9ad527f6) | 2026-03-12 22:17 |
 | Legence | Power BI Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=879e206372c893dd) | 2026-03-12 22:17 |
@@ -685,18 +710,6 @@ Last updated: 2026-03-12 22:17
 | Bluelight Consulting | Data Engineer - Remote, USA | Las Vegas, NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d0a3a892faea7852) | 2026-03-09 04:09 |
 | Bluelight Consulting | Data Engineer - Remote, USA | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dbbd9b8557c4ec4) | 2026-03-09 04:09 |
 | Bluelight Consulting | Data Engineer - Remote, USA | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9db3d7325c656bcd) | 2026-03-09 04:09 |
-| Openkyber | CrowdStrike Charlotte AI Engineer | GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9a9ca0178ffbff15) | 2026-03-08 23:16 |
-| Openkyber | DevOps Architect - Mainframe | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9b82583635e22429) | 2026-03-08 23:16 |
-| Openkyber | CrowdStrike Cloud Security Engineer | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=07501398d0e8a4d9) | 2026-03-08 23:16 |
-| Openkyber | Machine Learning Threat Intelligence Engineer | NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4c0ff64c20efd0c3) | 2026-03-08 23:16 |
-| Openkyber | DevOps Architect - Mainframe | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8b77b0819d9ee2a7) | 2026-03-08 23:16 |
-| Openkyber | Mainframe Cloud Integration Specialist | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b2adadaa402ce34) | 2026-03-08 23:16 |
-| Openkyber | Python | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17ddf4daef31642b) | 2026-03-08 23:16 |
-| Openkyber | CrowdStrike Security Engineer | AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=966c6a4905b91bdc) | 2026-03-08 23:16 |
-| Openkyber | Cloud-Native MLOps Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=119f9ca723edb406) | 2026-03-08 23:16 |
-| Openkyber | API Enablement Specialist | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e92ce3f72178fa2b) | 2026-03-08 23:16 |
-| Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2391611035d932e3) | 2026-03-08 23:16 |
-| Openkyber | Java Technical Architect | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7747f31dfec5b3b2) | 2026-03-08 23:16 |
 
 
 ---
