@@ -1,16 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-11 23:18
+Last updated: 2026-03-12 01:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | AI Engineer - AI/ML | Minnetonka, MN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=01e1e9aee623c595) | 2026-03-12 01:09 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 01:09 |
+| Motorola Solutions | Sr. Data Engineer | NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85b88823e484c1da) | 2026-03-12 01:09 |
+| CrowdStrike | Sr. Engineer - Data Analytics (Hybrid) | NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2b07814ed4c1025b) | 2026-03-12 01:09 |
+| Ursa Space Systems | Sr. Full Stack Software Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3aadd87cb24ca793) | 2026-03-12 01:09 |
+| Minted | Systems and SaaS Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=58558f0623f5281d) | 2026-03-12 01:09 |
+| nan | Enterprise Architect - Data | Englewood, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0492824849a588e) | 2026-03-12 01:09 |
+| Changeis, Inc. | Junior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=accb0ee41fababc7) | 2026-03-12 01:09 |
 | Credera | Architect, Data | Denver, CO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=5f8f5d1958986efa) | 2026-03-11 23:18 |
 | Credera | Architect, Data | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4c0eb1930f6c3830) | 2026-03-11 23:18 |
 | Credera | Architect, Data | Houston, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=0a6b4c094d34de4c) | 2026-03-11 23:18 |
 | Credera | Architect, Data | Chicago, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=ae79c8e8bf869344) | 2026-03-11 23:18 |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-11 23:18 |
 | AllianceBernstein | Senior Data Engineer | Nashville, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2d2e68f1134803e9) | 2026-03-11 23:18 |
 | Allstate Insurance | Product Engineer – Java Spring Boot w/ Full Stack Option | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=242ca0eca96622a8) | 2026-03-11 23:18 |
 | Credera | Architect, Software Engineering | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a748882073b3e83f) | 2026-03-11 23:18 |
