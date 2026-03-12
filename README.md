@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 04:06
+Last updated: 2026-03-12 05:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 05:44 |
+| Sagis, PLLC | Data Engineer II- Onsite (77092) | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2ac0edc7f1332750) | 2026-03-12 05:44 |
 | Tata Consultancy Services (TCS) | Full Stack Engineer (React + Node.js) | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8c85f868b397f933) | 2026-03-12 04:06 |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 04:06 |
 | National Renewable Energy Laboratory | Researcher II - Data Scientist | Golden, CO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=040a0e21b7819ed9) | 2026-03-12 04:06 |
 | Suffolk Construction | AI Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bdf01d968e498d3c) | 2026-03-12 04:06 |
 | Prodapt Solutions | API Developer | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=81aef2a88bea4b42) | 2026-03-12 04:06 |
@@ -548,14 +549,6 @@ Last updated: 2026-03-12 04:06
 | GEICO | Senior Engineer | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0cbcbfd38f811d9a) | 2026-03-08 06:32 |
 | GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16ccbca862f6e0b3) | 2026-03-08 06:32 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98cdc967317969d8) | 2026-03-08 06:32 |
-| Openkyber | AI-Driven Threat Intelligence Analyst | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f0eb14a985ec302b) | 2026-03-08 05:37 |
-| Openkyber | CrowdStrike Charlotte AI Engineer | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dd36b3af081d974a) | 2026-03-08 05:37 |
-| Openkyber | Microsoft Threat Intelligence Analyst | IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e58d7fa4052fcb61) | 2026-03-08 05:37 |
-| Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29da198aaee83e0a) | 2026-03-08 05:37 |
-| Openkyber | Senior API Engineer (Python) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c2844c76b7de91d2) | 2026-03-08 05:37 |
-| Openkyber | CrowdStrike Charlotte AI Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa431a0f71f59764) | 2026-03-08 05:37 |
-| Openkyber | AI-Driven Threat Intelligence Analyst | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad7cadb668678f16) | 2026-03-08 05:37 |
-| Openkyber | API Threat Intelligence Analyst | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78e22e0760c3febd) | 2026-03-08 05:37 |
 
 
 ---
