@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 12:38
+Last updated: 2026-03-12 13:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 12:38 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 13:58 |
+| Luxoft | Senior Java Developer (AWS) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61573c8f16db4391) | 2026-03-12 13:58 |
 | Publix | Senior Data Engineer - Labor Management | Lakeland, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9834656ac2bda8ee) | 2026-03-12 12:38 |
 | nan | Senior Software Engineer (Backend) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33b656f77d8ee725) | 2026-03-12 12:38 |
 | Capgemini | Associate Data Engineer | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=1215d222f0829a74) | 2026-03-12 11:27 |
