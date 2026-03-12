@@ -1,13 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 01:09
+Last updated: 2026-03-12 04:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Full Stack Engineer (React + Node.js) | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8c85f868b397f933) | 2026-03-12 04:06 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 04:06 |
+| National Renewable Energy Laboratory | Researcher II - Data Scientist | Golden, CO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=040a0e21b7819ed9) | 2026-03-12 04:06 |
+| Suffolk Construction | AI Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bdf01d968e498d3c) | 2026-03-12 04:06 |
+| Prodapt Solutions | API Developer | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=81aef2a88bea4b42) | 2026-03-12 04:06 |
+| Mayer Brown LLP | Architect: Risk, Marketing and Admin Systems | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3af1079eba06f3e4) | 2026-03-12 04:06 |
+| Stanford Health Care | Senior Enterprise Info Mgmt Platform Admin | Palo Alto, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=128cc03b9e23fea5) | 2026-03-12 04:06 |
+| Solid Power | Scientific Software Engineer | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=401153734bd96b6d) | 2026-03-12 04:06 |
+| Numerica Credit Union | Data Architect and Data Engineer | Spokane Valley, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fdd757a00dd02d2f) | 2026-03-12 04:06 |
+| Elevance Health | Senior Cloud Platform Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c89c64503f57120f) | 2026-03-12 04:06 |
+| Chewy | Senior Software Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cc956ee1692fe630) | 2026-03-12 04:06 |
+| Foot Locker | Senior Engineer, Store Efficiency | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a63f900fc43c207) | 2026-03-12 04:06 |
+| Premera Blue Cross | AI/Data Scientist II | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ea032120825aad4) | 2026-03-12 04:06 |
+| PDI | Senior Digital Engineer | Woodcliff Lake, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=911bb6b38a29babb) | 2026-03-12 04:06 |
 | Optum | AI Engineer - AI/ML | Minnetonka, MN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=01e1e9aee623c595) | 2026-03-12 01:09 |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 01:09 |
 | Motorola Solutions | Sr. Data Engineer | NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85b88823e484c1da) | 2026-03-12 01:09 |
 | CrowdStrike | Sr. Engineer - Data Analytics (Hybrid) | NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2b07814ed4c1025b) | 2026-03-12 01:09 |
 | Ursa Space Systems | Sr. Full Stack Software Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3aadd87cb24ca793) | 2026-03-12 01:09 |
@@ -543,9 +556,6 @@ Last updated: 2026-03-12 01:09
 | Openkyber | CrowdStrike Charlotte AI Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa431a0f71f59764) | 2026-03-08 05:37 |
 | Openkyber | AI-Driven Threat Intelligence Analyst | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad7cadb668678f16) | 2026-03-08 05:37 |
 | Openkyber | API Threat Intelligence Analyst | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78e22e0760c3febd) | 2026-03-08 05:37 |
-| Rivian and Volkswagen Group Technologies | Sr. Software Systems & Data Engineer | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5f045bd52323b67) | 2026-03-08 04:03 |
-| EV Design | Senior Full Stack Web Developer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=104dfb98c80f44fd) | 2026-03-08 01:17 |
-| Audacy, Inc. | Solutions Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=31813beeef70938d) | 2026-03-08 01:17 |
 
 
 ---
