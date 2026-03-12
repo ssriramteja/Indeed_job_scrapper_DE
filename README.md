@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-12 05:44
+Last updated: 2026-03-12 06:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 05:44 |
+| Ford Motor Company | Telematics Data Engineer | Chanhassen, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3602426cadbf5f73) | 2026-03-12 06:43 |
+| BECU | Sr Database Engineer (DBE) | WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=abd7e06c5d782973) | 2026-03-12 06:43 |
 | Sagis, PLLC | Data Engineer II- Onsite (77092) | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2ac0edc7f1332750) | 2026-03-12 05:44 |
 | Tata Consultancy Services (TCS) | Full Stack Engineer (React + Node.js) | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8c85f868b397f933) | 2026-03-12 04:06 |
 | National Renewable Energy Laboratory | Researcher II - Data Scientist | Golden, CO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=040a0e21b7819ed9) | 2026-03-12 04:06 |
@@ -545,10 +546,6 @@ Last updated: 2026-03-12 05:44
 | Openkyber | Cloud AI Application Administrator | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=474ce0b5b42f1022) | 2026-03-08 11:14 |
 | Memorial Sloan Kettering Cancer Center | Bioinformatics Software Engineer III, Pathology and Lab Medicine | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a671a473550229c6) | 2026-03-08 11:14 |
 | Openkyber | Cloud AI Consultant | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e830061c496f86e) | 2026-03-08 11:14 |
-| GEICO | Senior Engineer – (Systems Engineering, Enterprise Infra & Platform Support) *HYBRID* | Chevy Chase, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=23c197bc54e43635) | 2026-03-08 06:32 |
-| GEICO | Senior Engineer | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0cbcbfd38f811d9a) | 2026-03-08 06:32 |
-| GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16ccbca862f6e0b3) | 2026-03-08 06:32 |
-| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98cdc967317969d8) | 2026-03-08 06:32 |
 
 
 ---
