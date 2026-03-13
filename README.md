@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 04:05
+Last updated: 2026-03-13 05:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Citi | Senior Java Developer - Big Data Platform | Jersey City, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=afd16380a8a7beef) | 2026-03-13 05:42 |
+| GE HealthCare | AI Analytics Engineer, AVS Digital Transformation | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f0cc5503eaba49f) | 2026-03-13 05:42 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 05:42 |
+| DIAMONDBACK ENERGY | Data Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8bfe495858ee758f) | 2026-03-13 05:42 |
 | Cengage | AI  ML Engineer R&D | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=93f6b234465478ea) | 2026-03-13 04:05 |
 | Man Group | Associate Software Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f28f85e84927f726) | 2026-03-13 04:05 |
 | CareFirst BlueCross BlueShield | Systems Engineer Associate (Hybrid) | Reston, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ccb7385f8eabf223) | 2026-03-13 04:05 |
@@ -45,7 +49,6 @@ Last updated: 2026-03-13 04:05
 | Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=26c1d57f3476a801) | 2026-03-13 04:05 |
 | Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Stamford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0237c9617e55c87f) | 2026-03-13 04:05 |
 | Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7997ac4818bd5a5) | 2026-03-13 04:05 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 04:05 |
 | Realign | Hadoop Developer | Jersey City, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6e6e16e21814bb29) | 2026-03-13 01:15 |
 | Realign | Hadoop Developer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=78a7f2ead1511ad9) | 2026-03-13 01:15 |
 | MAI | Data Engineer | Mountain View, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=805ad2157784d69d) | 2026-03-13 01:15 |
@@ -776,27 +779,6 @@ Last updated: 2026-03-13 04:05
 | Berkshire Hathaway Specialty Insurance | Data Scientist / Senior Data Scientist (Risk Modeling Focus) | San Ramon, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=612df1868af9d54f) | 2026-03-09 05:52 |
 | Berkshire Hathaway Specialty Insurance | Data Scientist / Senior Data Scientist (Risk Modeling Focus) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=724dcb545f058b93) | 2026-03-09 05:52 |
 | Openkyber | JCL Developer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b79a0aab80d0133) | 2026-03-09 05:52 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Louisville, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=47565bba5f358319) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=67847e8511f65c7d) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | El Paso, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e58a2dfa4262a025) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Sacramento, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bc646fda2eb85619) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1aedb8b8aec3e159) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b9c7d8b9629dc69f) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6084426de3e80dd2) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Albuquerque, NM, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e96f433128edfd7d) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fa10ecda14dd22ca) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Baltimore, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=24f30709341ff2a4) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Oklahoma City, OK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d0d5bd814d339eaf) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=47a58e6f90fd69fc) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | San Antonio, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=526d2298d07834e7) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Memphis, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e4955b1f3fc7acab) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=94a1e695d6167042) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fdf14ce4e3b4d297) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Charleston, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b07ea23f99e54254) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Billings, MT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9c4855052460f6e5) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Las Vegas, NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d0a3a892faea7852) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dbbd9b8557c4ec4) | 2026-03-09 04:09 |
-| Bluelight Consulting | Data Engineer - Remote, USA | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9db3d7325c656bcd) | 2026-03-09 04:09 |
 
 
 ---
