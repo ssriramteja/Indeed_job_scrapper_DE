@@ -1,16 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 22:21
+Last updated: 2026-03-13 23:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Associate Data Scientist | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=52f111d99c03d0f9) | 2026-03-13 23:20 |
+| Cummins | Data Engineer - Senior | Columbus, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b6bee0d4a42c16ed) | 2026-03-13 23:20 |
+| Momentive Software | Senior ML Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c2662d7bd818f7f6) | 2026-03-13 23:20 |
+| United Concordia Dental | Senior Data Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9218ff5eb1a7d2c2) | 2026-03-13 23:20 |
+| SCAN Health Plan | Analytics, Full-Stack Engineer | Long Beach, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=381b905fbb17a824) | 2026-03-13 23:20 |
+| Capgemini | Cloud Migration Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=74a47a5fd7f767fe) | 2026-03-13 23:20 |
+| Momentive Software | AI Agent Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f59c40422f4d27b8) | 2026-03-13 23:20 |
+| Hydrafacial | Senior Data Engineer | Lakewood, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0bf5e2df2b8b26e0) | 2026-03-13 23:20 |
+| University of Central Florida | Enterprise Data & BI Architect II | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d088a133aaee12a5) | 2026-03-13 23:20 |
 | Truliant Federal Credit Union | Database Engineer Specialist | Winston-Salem, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dde10a97ad4e1bf9) | 2026-03-13 22:21 |
 | Providge Consulting | Cloud Data Platform Administrator | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3f91397b311581fc) | 2026-03-13 22:21 |
 | WTW | Junior Data Engineer | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0a179fc6f0cf1e66) | 2026-03-13 22:21 |
 | NielsenIQ | Data Architect - T7 | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2f81821b15c92cc4) | 2026-03-13 22:21 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 22:21 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4273480495ae1f7a) | 2026-03-13 21:26 |
 | AAA Central Penn | Business Intelligence Developer | Harrisburg, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca9e0fb095260347) | 2026-03-13 21:26 |
 | Wells Fargo | Senior Software Engineer | Chandler, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=61994c624b012a49) | 2026-03-13 21:26 |
@@ -727,14 +735,6 @@ Last updated: 2026-03-13 22:21
 | Adobe | Software Development Engineer | Lehi, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=303b1186f91903b0) | 2026-03-10 01:11 |
 | Availity, LLC. | Software Engineer III | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb91c6ddf5dcc6bd) | 2026-03-10 01:11 |
 | Realign | Teradata Developer-2 | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a5babd5b8f9d05b) | 2026-03-10 01:11 |
-| Mastercard | Software Engineer II | O'Fallon, MO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bbd2619eccd90c81) | 2026-03-09 23:20 |
-| Humana | Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=340a535ec0c84cac) | 2026-03-09 23:20 |
-| WeVision LLC | Sr. Data Engineer-Audience Data Platform | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1f586df953aed9dc) | 2026-03-09 23:20 |
-| Neuberger Berman | Quantitative Developer / Analytics & Dashboard Engineer | Redwood, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7f5a8a12eb26d2e) | 2026-03-09 23:20 |
-| Anheuser-Busch | Senior Software Engineer, DataOps & Platform Services | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3726b62a784e7a79) | 2026-03-09 23:20 |
-| WeVision LLC | Sr. Data Quality Engineer | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84c60c23da97c691) | 2026-03-09 23:20 |
-| Distinctive Staffing Solutions | AI/ML Engineer | Edina, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88f7a8640bb1fab0) | 2026-03-09 23:20 |
-| GEICO | Engineer II - (C#/Microservices/Azure) | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6998f845af080a70) | 2026-03-09 23:20 |
 
 
 ---
