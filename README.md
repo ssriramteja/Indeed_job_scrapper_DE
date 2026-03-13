@@ -1,15 +1,38 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 16:30
+Last updated: 2026-03-13 17:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | IAM Consultant | AK, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=7ec47adf429b46ec) | 2026-03-13 17:28 |
+| Openkyber | Cloud AI Application Administrator | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c2dc87db6d4b2806) | 2026-03-13 17:28 |
+| Openkyber | SOC Administrator | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=15df68fbec62ef76) | 2026-03-13 17:28 |
+| Openkyber | Network IoT Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1cfa9aa04ecc1a9a) | 2026-03-13 17:28 |
+| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6cd41d8c9a875361) | 2026-03-13 17:28 |
+| Openkyber | Cloud AI Application Administrator | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ee0a10bbf774a786) | 2026-03-13 17:28 |
+| Openkyber | AI Application Architect | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=db4bcb18171633d3) | 2026-03-13 17:28 |
+| Karoo Health | Senior DevOps Engineer | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=858648bbc8cd1e33) | 2026-03-13 17:28 |
+| Redfin | Data Engineer II | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b43b502fbfeeaf45) | 2026-03-13 17:28 |
+| Openkyber | AWS Network Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=151fd4e643ac3572) | 2026-03-13 17:28 |
+| Openkyber | AWS Network Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=53eb89fc9a689b98) | 2026-03-13 17:28 |
+| Openkyber | Cloud AI Application Administrator | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4d8830321bc21598) | 2026-03-13 17:28 |
+| Openkyber | Associate Network Security Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=336e36d6061a7526) | 2026-03-13 17:28 |
+| Openkyber | Identity Security Fundamentals Analyst | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8000855936bcf0a2) | 2026-03-13 17:28 |
+| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a5bae6f3bdfd08c8) | 2026-03-13 17:28 |
+| Openkyber | AWS Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73cda5c026939521) | 2026-03-13 17:28 |
+| Openkyber | AWS Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5725689c49c519a) | 2026-03-13 17:28 |
+| Aires | Senior Software Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=93069cfd49e3bf96) | 2026-03-13 17:28 |
+| Wahl Clipper Corporation | Data Scientist | Sterling, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d850942c416047a) | 2026-03-13 17:28 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 17:28 |
+| Openkyber | Azure Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=705a4dba3e7e2af4) | 2026-03-13 17:28 |
+| Openkyber | AI Application Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53ce4aa52de74c4b) | 2026-03-13 17:28 |
+| Mission Pet Health | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4d64ad500888319) | 2026-03-13 17:28 |
+| Infoorigin Inc | SQL Database Administrator-Richmond, VA-Hybrid | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0a6462421d5ba59) | 2026-03-13 17:28 |
 | Cooperative Benefits Group | Data Engineer - Senior (Must be in UT, FL, or GA) | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=33af3f3ce9d604c3) | 2026-03-13 16:30 |
 | Karoo Health | Senior DevOps Engineer | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7eda2999554662e7) | 2026-03-13 16:30 |
 | Karoo Health | Senior DevOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=18cf8e2c155436b7) | 2026-03-13 16:30 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 16:30 |
 | The Cadmus Group, Inc. | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6fbbf4f8d1bef0bc) | 2026-03-13 16:30 |
 | Visa | NGC – Senior Software Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d745706dd7f0bfc) | 2026-03-13 16:30 |
 | Brillius | Software Dev Engineer (Python, AWS) | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=71529c637e66b97e) | 2026-03-13 16:30 |
@@ -756,10 +779,6 @@ Last updated: 2026-03-13 16:30
 | American Express | Senior Data Engineer - CETS | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9de3e03dd9f36515) | 2026-03-09 17:41 |
 | SpotOn | Senior Data Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3fb184a441994d14) | 2026-03-09 17:41 |
 | Openkyber | GenAI Threat Intelligence Analyst | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57347e70ea0f51d0) | 2026-03-09 17:41 |
-| Nearsure | (1363) Senior DevOps Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f7b52733c5b93b90) | 2026-03-09 16:49 |
-| Softnice | Oracle APEX Developer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f99ee94588d96c51) | 2026-03-09 16:49 |
-| datAvail | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6fd6ddbd121342d5) | 2026-03-09 16:49 |
-| Okta | Senior Software Engineer, Infrastructure | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eee844d3954d72d1) | 2026-03-09 16:49 |
 
 
 ---
