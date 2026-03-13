@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 09:32
+Last updated: 2026-03-13 10:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 09:32 |
+| datAvail | Contractor - Senior Python Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a8909dbc39a2e3e5) | 2026-03-13 10:28 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 10:28 |
 | Concentrix | Senior Databricks Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c836fa214ed2bd2) | 2026-03-13 06:41 |
 | DS Technologies Inc | Engineer II – Big Data / Apptio / ETL | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7c7e21b0243e5dfb) | 2026-03-13 06:41 |
 | DS Technologies Inc | Senior Platform Engineer | Sunrise, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6477669f0e5f126) | 2026-03-13 06:41 |
@@ -754,20 +755,6 @@ Last updated: 2026-03-13 09:32
 | RightRev | Back-End AI Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da1213278b93e6bd) | 2026-03-09 12:40 |
 | Openkyber | Kubernetes ML Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=127254c89307645a) | 2026-03-09 11:29 |
 | Openkyber | Generative AI Operations Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5233eb09f014a08a) | 2026-03-09 11:29 |
-| SALOMON | Senior Analytics Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=591cf05ec928c921) | 2026-03-09 09:39 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1ffba260a42149a) | 2026-03-09 09:39 |
-| GEICO | Senior Enterprise Ontologist | Richardson, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2658676db3cb0781) | 2026-03-09 09:39 |
-| GEICO | Senior Enterprise Ontologist | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=526fd8654b3fe27a) | 2026-03-09 09:39 |
-| GEICO | Senior Enterprise Ontologist | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa04dfb29f5bfb80) | 2026-03-09 09:39 |
-| GEICO | Senior Enterprise Ontologist | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea4d72b7fb4fe3c9) | 2026-03-09 09:39 |
-| GEICO | Senior Enterprise Ontologist | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2486e9292dfc22af) | 2026-03-09 09:39 |
-| GEICO | Senior Enterprise Ontologist | Chevy Chase, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9a64862baf27c704) | 2026-03-09 09:39 |
-| GEICO | Senior Taxonomist | Chevy Chase, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5097254ffda8aa23) | 2026-03-09 09:39 |
-| GEICO | Senior Taxonomist | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ba1788435dbf136) | 2026-03-09 09:39 |
-| GEICO | Senior Taxonomist | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=179cc696ce6a3a5a) | 2026-03-09 09:39 |
-| GEICO | Senior Taxonomist | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a49578296052b0f) | 2026-03-09 09:39 |
-| GEICO | Senior Taxonomist | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ea6c9de4c26d6a0) | 2026-03-09 09:39 |
-| GEICO | Senior Taxonomist | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=68fc2220156f231f) | 2026-03-09 09:39 |
 
 
 ---
