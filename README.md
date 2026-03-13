@@ -1,16 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 06:41
+Last updated: 2026-03-13 07:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 07:39 |
 | Concentrix | Senior Databricks Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c836fa214ed2bd2) | 2026-03-13 06:41 |
 | DS Technologies Inc | Engineer II – Big Data / Apptio / ETL | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7c7e21b0243e5dfb) | 2026-03-13 06:41 |
 | DS Technologies Inc | Senior Platform Engineer | Sunrise, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6477669f0e5f126) | 2026-03-13 06:41 |
 | DS Technologies Inc | Engineer II – Java / Node.js / Python | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b275c248953625e5) | 2026-03-13 06:41 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 06:41 |
 | Career Mentors | Oracle PL/SQL Developer | Addison, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d90e5af987e92f78) | 2026-03-13 06:41 |
 | Citi | Senior Java Developer - Big Data Platform | Jersey City, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=afd16380a8a7beef) | 2026-03-13 05:42 |
 | GE HealthCare | AI Analytics Engineer, AVS Digital Transformation | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f0cc5503eaba49f) | 2026-03-13 05:42 |
