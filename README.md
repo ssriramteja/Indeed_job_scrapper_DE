@@ -1,14 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 05:42
+Last updated: 2026-03-13 06:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Concentrix | Senior Databricks Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c836fa214ed2bd2) | 2026-03-13 06:41 |
+| DS Technologies Inc | Engineer II – Big Data / Apptio / ETL | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7c7e21b0243e5dfb) | 2026-03-13 06:41 |
+| DS Technologies Inc | Senior Platform Engineer | Sunrise, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6477669f0e5f126) | 2026-03-13 06:41 |
+| DS Technologies Inc | Engineer II – Java / Node.js / Python | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b275c248953625e5) | 2026-03-13 06:41 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 06:41 |
+| Career Mentors | Oracle PL/SQL Developer | Addison, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d90e5af987e92f78) | 2026-03-13 06:41 |
 | Citi | Senior Java Developer - Big Data Platform | Jersey City, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=afd16380a8a7beef) | 2026-03-13 05:42 |
 | GE HealthCare | AI Analytics Engineer, AVS Digital Transformation | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f0cc5503eaba49f) | 2026-03-13 05:42 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 05:42 |
 | DIAMONDBACK ENERGY | Data Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8bfe495858ee758f) | 2026-03-13 05:42 |
 | Cengage | AI  ML Engineer R&D | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=93f6b234465478ea) | 2026-03-13 04:05 |
 | Man Group | Associate Software Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f28f85e84927f726) | 2026-03-13 04:05 |
@@ -764,21 +769,6 @@ Last updated: 2026-03-13 05:42
 | GEICO | Senior Taxonomist | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ea6c9de4c26d6a0) | 2026-03-09 09:39 |
 | GEICO | Senior Taxonomist | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=68fc2220156f231f) | 2026-03-09 09:39 |
 | Sigma Computing | Senior Security Engineer II – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9f71b276dda5b6c4) | 2026-03-09 07:45 |
-| Openkyber | Terraform MLOps Engineer | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=14ef9a02e63046b1) | 2026-03-09 05:52 |
-| Openkyber | MLOps | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f80931732d91d4a6) | 2026-03-09 05:52 |
-| Openkyber | MLOps | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f9a961034c94203e) | 2026-03-09 05:52 |
-| Openkyber | MLOps | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5360f2e4e078cc82) | 2026-03-09 05:52 |
-| Openkyber | MLOps | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=09a09d113d12e316) | 2026-03-09 05:52 |
-| Openkyber | Docker MLOps Engineer | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ddc72cf3e9f4cacd) | 2026-03-09 05:52 |
-| Openkyber | Senior DB2 DBA | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=30310d1133432e87) | 2026-03-09 05:52 |
-| Openkyber | Kubernetes MLOps Engineer | NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ed6327e72675e4d0) | 2026-03-09 05:52 |
-| Openkyber | Associate ML Infrastructure Engineer | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f73fcdf60543dc29) | 2026-03-09 05:52 |
-| Openkyber | Associate ML Infrastructure Engineer | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=714ec340c93e2f35) | 2026-03-09 05:52 |
-| Openkyber | MLOps | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41247af670cd7077) | 2026-03-09 05:52 |
-| Openkyber | MLOps | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f0e8b67569d1abd) | 2026-03-09 05:52 |
-| Berkshire Hathaway Specialty Insurance | Data Scientist / Senior Data Scientist (Risk Modeling Focus) | San Ramon, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=612df1868af9d54f) | 2026-03-09 05:52 |
-| Berkshire Hathaway Specialty Insurance | Data Scientist / Senior Data Scientist (Risk Modeling Focus) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=724dcb545f058b93) | 2026-03-09 05:52 |
-| Openkyber | JCL Developer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b79a0aab80d0133) | 2026-03-09 05:52 |
 
 
 ---
