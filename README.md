@@ -1,13 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 10:28
+Last updated: 2026-03-13 11:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Thermo Fisher Scientific | Senior Developer | NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eca70a174fda1627) | 2026-03-13 11:25 |
+| TikTok | Senior Host Security Validation & Operations Engineer - Global Security Organization | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=563ec55e69d8d3c1) | 2026-03-13 11:25 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 11:25 |
+| Guidewire | Senior Software Engineer - Cloud Platform | San Mateo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=652600a703d693c0) | 2026-03-13 11:25 |
 | datAvail | Contractor - Senior Python Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a8909dbc39a2e3e5) | 2026-03-13 10:28 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 10:28 |
 | Concentrix | Senior Databricks Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c836fa214ed2bd2) | 2026-03-13 06:41 |
 | DS Technologies Inc | Engineer II – Big Data / Apptio / ETL | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7c7e21b0243e5dfb) | 2026-03-13 06:41 |
 | DS Technologies Inc | Senior Platform Engineer | Sunrise, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6477669f0e5f126) | 2026-03-13 06:41 |
