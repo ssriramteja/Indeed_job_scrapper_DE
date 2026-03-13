@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 07:39
+Last updated: 2026-03-13 08:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 07:39 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 08:31 |
 | Concentrix | Senior Databricks Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c836fa214ed2bd2) | 2026-03-13 06:41 |
 | DS Technologies Inc | Engineer II – Big Data / Apptio / ETL | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7c7e21b0243e5dfb) | 2026-03-13 06:41 |
 | DS Technologies Inc | Senior Platform Engineer | Sunrise, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6477669f0e5f126) | 2026-03-13 06:41 |
@@ -768,7 +768,6 @@ Last updated: 2026-03-13 07:39
 | GEICO | Senior Taxonomist | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a49578296052b0f) | 2026-03-09 09:39 |
 | GEICO | Senior Taxonomist | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ea6c9de4c26d6a0) | 2026-03-09 09:39 |
 | GEICO | Senior Taxonomist | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=68fc2220156f231f) | 2026-03-09 09:39 |
-| Sigma Computing | Senior Security Engineer II – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9f71b276dda5b6c4) | 2026-03-09 07:45 |
 
 
 ---
