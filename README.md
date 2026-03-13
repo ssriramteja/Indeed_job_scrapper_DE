@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 11:25
+Last updated: 2026-03-13 12:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=500303562c165609) | 2026-03-13 12:37 |
+| MicroStrategy | Senior Sales Engineer | Tysons Corner, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63f6b81d553d195c) | 2026-03-13 12:37 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 12:37 |
 | Thermo Fisher Scientific | Senior Developer | NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eca70a174fda1627) | 2026-03-13 11:25 |
 | TikTok | Senior Host Security Validation & Operations Engineer - Global Security Organization | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=563ec55e69d8d3c1) | 2026-03-13 11:25 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 11:25 |
 | Guidewire | Senior Software Engineer - Cloud Platform | San Mateo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=652600a703d693c0) | 2026-03-13 11:25 |
 | datAvail | Contractor - Senior Python Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a8909dbc39a2e3e5) | 2026-03-13 10:28 |
 | Concentrix | Senior Databricks Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c836fa214ed2bd2) | 2026-03-13 06:41 |
@@ -756,8 +758,6 @@ Last updated: 2026-03-13 11:25
 | natumatic inc | Cloud Data Platform Administrator | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=53c6decd13829199) | 2026-03-09 14:00 |
 | Progressive Technology Solutions | Senior Backend Engineer | Merrifield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a853e0ae22d5c66) | 2026-03-09 14:00 |
 | RightRev | Back-End AI Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da1213278b93e6bd) | 2026-03-09 12:40 |
-| Openkyber | Kubernetes ML Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=127254c89307645a) | 2026-03-09 11:29 |
-| Openkyber | Generative AI Operations Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5233eb09f014a08a) | 2026-03-09 11:29 |
 
 
 ---
