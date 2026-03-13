@@ -1,13 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 20:25
+Last updated: 2026-03-13 21:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4273480495ae1f7a) | 2026-03-13 21:26 |
+| AAA Central Penn | Business Intelligence Developer | Harrisburg, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca9e0fb095260347) | 2026-03-13 21:26 |
+| Wells Fargo | Senior Software Engineer | Chandler, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=61994c624b012a49) | 2026-03-13 21:26 |
+| AAA Central Penn | Business Intelligence Analyst | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0c2d9ec8a239efae) | 2026-03-13 21:26 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 21:26 |
 | Texplorers Inc. | Senior BI Engineer | Lewisville, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2663b281c03f3187) | 2026-03-13 20:25 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 20:25 |
 | Geopaq Logic | AWS Cloud Engineer (W2) | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e67a47f043009099) | 2026-03-13 20:25 |
 | Aspire Global Tech | SAP SuccessFactors with Public Sector experience- 30% travel to Maryland | Maryland Heights, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=30597264efd3ea16) | 2026-03-13 19:26 |
 | AssetMark | Platform Software Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2ac521d9c6c3e17c) | 2026-03-13 19:26 |
@@ -741,13 +745,6 @@ Last updated: 2026-03-13 20:25
 | Dorman Products | Sr. Cloud Engineer | Colmar, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad4a65f5253bb1f7) | 2026-03-09 22:20 |
 | Okta | Senior Software Engineer, Infrastructure (Federal) | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83b8886c05003079) | 2026-03-09 22:20 |
 | Missouri State University | ERP & Database Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15642f633949cc32) | 2026-03-09 22:20 |
-| The Brite Group | Junior Data Engineer | Reston, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=97fe4fefddbc3bf0) | 2026-03-09 21:25 |
-| Visa | Data Engineer - Sr. Consultant level | Foster City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d1adbd6944b89ed) | 2026-03-09 21:25 |
-| KOTRA | SPIGEN Inc. Multi-Position | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3cf57e231909db50) | 2026-03-09 21:25 |
-| University of Maryland University College | IT Platform Engineer Senior | College Park, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c1b2de67639d71f) | 2026-03-09 21:25 |
-| Preferred Travel Group | Data QA Engineer III | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=587fd1c533e6509d) | 2026-03-09 21:25 |
-| Detroit Labs | Senior Cloud Architect | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=91754b3495fa2534) | 2026-03-09 21:25 |
-| Salient | Data Warehouse Applications Technician | Corning, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9664037f99ce3959) | 2026-03-09 21:25 |
 
 
 ---
