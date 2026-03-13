@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 14:37
+Last updated: 2026-03-13 15:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 15:35 |
+| Second Round, LP | Data Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7b463ca1eaf373d) | 2026-03-13 15:35 |
 | Capital One | Distinguished Engineer - Enterprise Data Storage and Consumption | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c7c2046eb45f5f85) | 2026-03-13 14:37 |
 | Capital One | Senior Data Engineer (Apache Flink, Java, Snowflake, AWS) | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0c1124c41db4d8a1) | 2026-03-13 14:37 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 14:37 |
 | RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=500303562c165609) | 2026-03-13 12:37 |
 | MicroStrategy | Senior Sales Engineer | Tysons Corner, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63f6b81d553d195c) | 2026-03-13 12:37 |
 | Thermo Fisher Scientific | Senior Developer | NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eca70a174fda1627) | 2026-03-13 11:25 |
@@ -753,9 +754,6 @@ Last updated: 2026-03-13 14:37
 | Softnice | Oracle APEX Developer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f99ee94588d96c51) | 2026-03-09 16:49 |
 | datAvail | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6fd6ddbd121342d5) | 2026-03-09 16:49 |
 | Okta | Senior Software Engineer, Infrastructure | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eee844d3954d72d1) | 2026-03-09 16:49 |
-| Noblesoft Technologies Inc. | Mainframe System Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cdfd9ffe1f4bab35) | 2026-03-09 15:09 |
-| BITS, Inc. | AI/ML Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7a0685b33151974) | 2026-03-09 15:09 |
-| The Nehr Agency | Full Stack Engineer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f3f3ed6f9ca8e1f) | 2026-03-09 15:09 |
 
 
 ---
