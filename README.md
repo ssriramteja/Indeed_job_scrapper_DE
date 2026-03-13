@@ -1,12 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 15:35
+Last updated: 2026-03-13 16:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 15:35 |
+| Cooperative Benefits Group | Data Engineer - Senior (Must be in UT, FL, or GA) | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=33af3f3ce9d604c3) | 2026-03-13 16:30 |
+| Karoo Health | Senior DevOps Engineer | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7eda2999554662e7) | 2026-03-13 16:30 |
+| Karoo Health | Senior DevOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=18cf8e2c155436b7) | 2026-03-13 16:30 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 16:30 |
+| The Cadmus Group, Inc. | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6fbbf4f8d1bef0bc) | 2026-03-13 16:30 |
+| Visa | NGC – Senior Software Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d745706dd7f0bfc) | 2026-03-13 16:30 |
+| Brillius | Software Dev Engineer (Python, AWS) | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=71529c637e66b97e) | 2026-03-13 16:30 |
 | Second Round, LP | Data Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7b463ca1eaf373d) | 2026-03-13 15:35 |
 | Capital One | Distinguished Engineer - Enterprise Data Storage and Consumption | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c7c2046eb45f5f85) | 2026-03-13 14:37 |
 | Capital One | Senior Data Engineer (Apache Flink, Java, Snowflake, AWS) | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0c1124c41db4d8a1) | 2026-03-13 14:37 |
