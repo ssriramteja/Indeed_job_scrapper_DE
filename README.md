@@ -1,11 +1,51 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 01:15
+Last updated: 2026-03-13 04:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cengage | AI  ML Engineer R&D | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=93f6b234465478ea) | 2026-03-13 04:05 |
+| Man Group | Associate Software Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f28f85e84927f726) | 2026-03-13 04:05 |
+| CareFirst BlueCross BlueShield | Systems Engineer Associate (Hybrid) | Reston, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ccb7385f8eabf223) | 2026-03-13 04:05 |
+| Salesforce | Sr. Frontend Software Engineer, SMTS | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c082bebcc2942a42) | 2026-03-13 04:05 |
+| Tata Consultancy Services (TCS) | Sr Data Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=16091735f67f165f) | 2026-03-13 04:05 |
+| 6 points | Inventory and POS Revenue Engineer | Bloomington, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7ab4e250f767fcd7) | 2026-03-13 04:05 |
+| RELX Group | Senior Software Engineer - LexisNexis | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f60f755c35383fa1) | 2026-03-13 04:05 |
+| LexisNexis Legal & Professional | Senior Software Engineer - LexisNexis | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2a67ac5f9356155e) | 2026-03-13 04:05 |
+| BranCore Technologies | SQL Database Administrator – Contract Position | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa7e8d0261fb47d1) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e7e2e568d26a7474) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=05320397bd7ad11d) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cfdd0456f944935c) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5420dd834c766a13) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d9f966fab31401d8) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bbbd6f491febc357) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b5433979dcc94205) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6fb2f35550709548) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9d61c2f35115432a) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d2ee244ec33d3bb) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=003d2872a367f7fc) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=75bc2289938f4405) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=74208cf6d199690c) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e46fbb4dae64e6b5) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1fc2c5dd276794f4) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ce52e0c830627747) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43794edb406b30a7) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da866dadfc398bf7) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13f94e35b00dfef7) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4de3319f80362e8a) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb2e925594caa302) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e845a4455074218) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e17a6d6d120fd53) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=628959077feac569) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f4148085200fe3df) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86534d2a234ccfdc) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80e095783be6be66) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=26c1d57f3476a801) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Stamford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0237c9617e55c87f) | 2026-03-13 04:05 |
+| Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7997ac4818bd5a5) | 2026-03-13 04:05 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 04:05 |
 | Realign | Hadoop Developer | Jersey City, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6e6e16e21814bb29) | 2026-03-13 01:15 |
 | Realign | Hadoop Developer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=78a7f2ead1511ad9) | 2026-03-13 01:15 |
 | MAI | Data Engineer | Mountain View, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=805ad2157784d69d) | 2026-03-13 01:15 |
@@ -51,7 +91,6 @@ Last updated: 2026-03-13 01:15
 | Ulta | Software Architect - AI | Bolingbrook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c6e9f1e59377606) | 2026-03-13 01:15 |
 | Imprint | Senior Software Engineer, Infrastructure | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55b79f7343d5683d) | 2026-03-13 01:15 |
 | Imprint | Senior Software Engineer, Infrastructure | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1fed4744aae6b26a) | 2026-03-13 01:15 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 01:15 |
 | LangChain | Solutions Architect (NYC) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fcf63b16ef347e97) | 2026-03-13 01:15 |
 | LangChain | Solutions Architect (Dallas) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cc56922d5df7f41c) | 2026-03-13 01:15 |
 | LangChain | Solutions Architect (Austin) | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a43fce5427236395) | 2026-03-13 01:15 |
