@@ -1,17 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 19:26
+Last updated: 2026-03-13 20:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Texplorers Inc. | Senior BI Engineer | Lewisville, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2663b281c03f3187) | 2026-03-13 20:25 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 20:25 |
+| Geopaq Logic | AWS Cloud Engineer (W2) | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e67a47f043009099) | 2026-03-13 20:25 |
 | Aspire Global Tech | SAP SuccessFactors with Public Sector experience- 30% travel to Maryland | Maryland Heights, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=30597264efd3ea16) | 2026-03-13 19:26 |
 | AssetMark | Platform Software Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2ac521d9c6c3e17c) | 2026-03-13 19:26 |
 | SAP | SAP NS2 Sr. DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d01cf9363cb3a286) | 2026-03-13 19:26 |
 | SCAN Health Plan | IT Solutions Architect | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0a7803539b5e31ca) | 2026-03-13 19:26 |
 | Dataflix | Senior Data Governance Consultant (Databricks & Unity Catalog) | Hayward, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a115a9d1c46f9873) | 2026-03-13 19:26 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - NF | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7921cb7720ce5e14) | 2026-03-13 19:26 |
 | VNS Health | Senior Engineer, Data Analytics Warehousing | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8bea83e1a957a4de) | 2026-03-13 18:30 |
 | Optum | Senior AI/ML Engineer - 2349738 | Eden Prairie, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d97556800e692e01) | 2026-03-13 18:30 |
 | Optum | Senior Software Engineer - 2349742 | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=47a5ec5630dae169) | 2026-03-13 18:30 |
@@ -746,19 +748,6 @@ Last updated: 2026-03-13 19:26
 | Preferred Travel Group | Data QA Engineer III | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=587fd1c533e6509d) | 2026-03-09 21:25 |
 | Detroit Labs | Senior Cloud Architect | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=91754b3495fa2534) | 2026-03-09 21:25 |
 | Salient | Data Warehouse Applications Technician | Corning, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9664037f99ce3959) | 2026-03-09 21:25 |
-| InformAI | Full Stack Engineer | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=86fc1393dcf5eb4a) | 2026-03-09 20:24 |
-| Point Digital Finance | Senior Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e88c572a3f85eb53) | 2026-03-09 20:24 |
-| Verve for Advertisers | Platform Engineer (Remote / Contract) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0cc3eada72d656f7) | 2026-03-09 20:24 |
-| eOne Infotech | Quality Engineer – BDD Implementation (Data Ingestion & Pipeline) | Fort Mill, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb8cfcc24a34054e) | 2026-03-09 20:24 |
-| Spark Business Works | Data Analyst - Custom Software | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e4874398fdff6c74) | 2026-03-09 20:24 |
-| Spark Business Works | Data Analyst - Custom Software | Kalamazoo, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=78ddc0a0e690c6c5) | 2026-03-09 20:24 |
-| eOne Infotech | Sr. Data Engineer (Mid–Senior Level) – AWS & Streaming | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6aaee4d4db3b4f0b) | 2026-03-09 20:24 |
-| Syracuse University | Advancement Technical Systems Developer | Syracuse, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=079fe1b4f4ba9f8f) | 2026-03-09 20:24 |
-| Verisign | Junior Software Engineer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3b1f0870e48cb0f) | 2026-03-09 20:24 |
-| nan | Senior Data Engineer | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=332e9fb32e0415f5) | 2026-03-09 19:35 |
-| Grayson College | Software Developer (Backend / Systems) | Denison, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c61070e2529052c) | 2026-03-09 19:35 |
-| Suvida Healthcare | Senior Engineer – Software Development | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99f78e35d3201dd7) | 2026-03-09 19:35 |
-| Fueled | Cloud Solutions Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3847663034b7777f) | 2026-03-09 19:35 |
 
 
 ---
