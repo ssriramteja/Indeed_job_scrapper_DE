@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-14 04:03
+Last updated: 2026-03-14 05:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Associate Data Scientist | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=eda6c680f40e7a46) | 2026-03-14 05:40 |
+| Los Angeles Capital Management | Data Engineer II | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=895c9e3526ed7090) | 2026-03-14 05:40 |
+| Los Angeles Capital Management | Software Engineer III | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e11f08f7bc087c2) | 2026-03-14 05:40 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 05:40 |
 | WorldPac | Sr. Software Developer | Oak Brook, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=19c5c77bab43780c) | 2026-03-14 04:03 |
 | Express | Senior DevOps Engineer | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=543aa65a317360b9) | 2026-03-14 04:03 |
 | Express | Senior DevOps Engineer | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=330e1f6bd510ff4c) | 2026-03-14 04:03 |
@@ -46,7 +50,6 @@ Last updated: 2026-03-14 04:03
 | nan | Senior Data Engineer | Anchorage, AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=93dd48e233a7087c) | 2026-03-14 04:03 |
 | Information Technology Senior Management Forum | Senior Software Engineer, Back End | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5013ef8bbacceb1b) | 2026-03-14 04:03 |
 | Purpose Financial | Sr. Data Engineer | Greenville, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=824071e80e8483d8) | 2026-03-14 04:03 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 04:03 |
 | Deloitte | Senior Product Architect | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2b0dd859ab8bea9) | 2026-03-14 04:03 |
 | Deloitte | Senior Product Architect | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b269236fe5dd590d) | 2026-03-14 04:03 |
 | Deloitte | Senior Product Architect | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6928439d127dae90) | 2026-03-14 04:03 |
@@ -813,8 +816,6 @@ Last updated: 2026-03-14 04:03
 | Wayfair | Software Engineer II, Search & Recs | Mountain View, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b1325be40d902ff) | 2026-03-10 06:38 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d93e330f569c8606) | 2026-03-10 06:38 |
 | GEICO | Senior Engineer | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b8115e661d8a325c) | 2026-03-10 06:38 |
-| U.S. Bank | Sr. Software Engineer (Full Stack - Java/Spring Boot, Cassandra) | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2d529213cb7c025f) | 2026-03-10 05:40 |
-| CAMP Facility Services | Data Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eee233f823233f90) | 2026-03-10 05:40 |
 
 
 ---
