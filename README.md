@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-14 09:24
+Last updated: 2026-03-14 10:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 09:24 |
-| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 09:24 |
+| ELCOR Tax & Accounting | Senior Cloud Engineer | Cincinnati, OH, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1916e0848359ede0) | 2026-03-14 10:19 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 10:19 |
+| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 10:19 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 10:19 |
 | JPMorganChase | Software Engineer III - LLM | Wilmington, DE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=24c421e2dcdbd2c1) | 2026-03-14 09:24 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 09:24 |
 | JPMorganChase | Software Engineer III - PySpark/Databricks/Python/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff38445088e6dc7f) | 2026-03-14 09:24 |
 | Activision | Data Analytics Engineer | Santa Monica, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15ff807fd0f137bc) | 2026-03-14 06:36 |
 | Capgemini | Associate Data Scientist | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=eda6c680f40e7a46) | 2026-03-14 05:40 |
@@ -814,7 +815,6 @@ Last updated: 2026-03-14 09:24
 | Collibra | Software Development Engineer in Test II | Alabama, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4fb45c1718469a28) | 2026-03-10 11:27 |
 | HCA Healthcare | Solution Architect | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22287aabfece036a) | 2026-03-10 11:27 |
 | Openkyber | Java CI/CD Automation Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9dc5391680bb152) | 2026-03-10 11:27 |
-| JPMorganChase | Software Engineer III - Databricks / IAM | Plano, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=43ad258f03ca42af) | 2026-03-10 09:36 |
 
 
 ---
