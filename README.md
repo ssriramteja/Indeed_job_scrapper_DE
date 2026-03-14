@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-14 21:19
+Last updated: 2026-03-14 22:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 21:19 |
-| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 21:19 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 21:19 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 22:17 |
+| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 22:17 |
+| Tata Consultancy Services (TCS) | Snowflake Developer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e72ec30486808c7) | 2026-03-14 22:17 |
+| Tata Consultancy Services (TCS) | Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a93392d862334858) | 2026-03-14 22:17 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 22:17 |
 | UniFirst | DevOps Engineer – Azure Platform | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d27eb7b013426664) | 2026-03-14 20:18 |
 | Skyworks Solutions | Data Scientist | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be89e65f4dd09bb7) | 2026-03-14 19:21 |
 | Aptiv | Distributed Storage Software Developer Engineer | Troy, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c54ab545ff541cbe) | 2026-03-14 16:21 |
@@ -731,22 +733,6 @@ Last updated: 2026-03-14 21:19
 | Optum | Senior AI ML Engineer - Remote | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=94702e41333d36e2) | 2026-03-10 22:19 |
 | Qualcomm | Tools and Automation Engineer – Qualcomm Custom CPU Post-Silicon Team | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9c5ff0af449554b0) | 2026-03-10 22:19 |
 | M&T Bank | Enterprise Data Consultant II | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5199791c8fddbb8e) | 2026-03-10 22:19 |
-| Northwestern Mutual | Senior Engineer - Software Engineering | Milwaukee, WI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b4d4b89b3a60512a) | 2026-03-10 21:23 |
-| CleanSlate Technology Group | Data Engineer | Carmel, IN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=464d15de6f80cd60) | 2026-03-10 21:23 |
-| 27Global | Cloud Engineer III | Leawood, KS, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=38a5d873cb84d03f) | 2026-03-10 21:23 |
-| nan | Senior DevSecOps Engineer - Vilnius, Lithuania | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=30f293139b417c7f) | 2026-03-10 21:23 |
-| 27Global | Cloud Engineer II | Leawood, KS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=393333a43b4ec747) | 2026-03-10 21:23 |
-| FujiFilm | Senior Data Engineer, Alteryx/Tableau | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=88fd5d251644693f) | 2026-03-10 21:23 |
-| Stirista | Data Engineer I | San Antonio, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f8c2a3575b03f57d) | 2026-03-10 21:23 |
-| Fuse Engineering | Senior Software Engineer | Gambrills, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f39136a88bf098e3) | 2026-03-10 21:23 |
-| Fuse Engineering | Software Engineer | Gambrills, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=39bc34020d288c37) | 2026-03-10 21:23 |
-| Qode | Data Architect | Pittsburgh, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dfaa8ce7652f89e0) | 2026-03-10 21:23 |
-| Qode | Data Architect | Cleveland, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a6c7bc8bfe481d5f) | 2026-03-10 21:23 |
-| Qode | Data Architect | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=07e7dfcc20e69935) | 2026-03-10 21:23 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=011b908a044140ed) | 2026-03-10 21:23 |
-| American Innovations Ltd | Sr. Software Engineer Platform | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5dda3a0a022ad659) | 2026-03-10 21:23 |
-| giftHEALTH | Cloud Infrastructure Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f8b9aa0dc8710174) | 2026-03-10 21:23 |
-| Sam's Club | (USA) Senior, Data Scientist | Bentonville, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76bbb3d91cd5fb8b) | 2026-03-10 21:23 |
 
 
 ---
