@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-14 07:30
+Last updated: 2026-03-14 08:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 07:30 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 07:30 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 08:25 |
+| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 08:25 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 08:25 |
 | Activision | Data Analytics Engineer | Santa Monica, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15ff807fd0f137bc) | 2026-03-14 06:36 |
 | Capgemini | Associate Data Scientist | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=eda6c680f40e7a46) | 2026-03-14 05:40 |
 | Los Angeles Capital Management | Data Engineer II | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=895c9e3526ed7090) | 2026-03-14 05:40 |
@@ -814,7 +815,6 @@ Last updated: 2026-03-14 07:30
 | JPMorganChase | Software Engineer III - Databricks / IAM | Plano, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=43ad258f03ca42af) | 2026-03-10 09:36 |
 | Casey's | Insights Analyst | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de4de58fc1657eaa) | 2026-03-10 08:31 |
 | Boeing | Associate Data Solutions Architect | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43f6a37b9cf1857f) | 2026-03-10 08:31 |
-| C.H. Robinson | Software Engineer II | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3cc16dd8a70e8cc) | 2026-03-10 07:36 |
 
 
 ---
