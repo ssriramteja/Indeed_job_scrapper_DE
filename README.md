@@ -1,15 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-14 05:40
+Last updated: 2026-03-14 06:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 06:36 |
+| Activision | Data Analytics Engineer | Santa Monica, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15ff807fd0f137bc) | 2026-03-14 06:36 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 06:36 |
 | Capgemini | Associate Data Scientist | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=eda6c680f40e7a46) | 2026-03-14 05:40 |
 | Los Angeles Capital Management | Data Engineer II | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=895c9e3526ed7090) | 2026-03-14 05:40 |
 | Los Angeles Capital Management | Software Engineer III | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e11f08f7bc087c2) | 2026-03-14 05:40 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 05:40 |
 | WorldPac | Sr. Software Developer | Oak Brook, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=19c5c77bab43780c) | 2026-03-14 04:03 |
 | Express | Senior DevOps Engineer | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=543aa65a317360b9) | 2026-03-14 04:03 |
 | Express | Senior DevOps Engineer | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=330e1f6bd510ff4c) | 2026-03-14 04:03 |
