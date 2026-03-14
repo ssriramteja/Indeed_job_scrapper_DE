@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-13 23:20
+Last updated: 2026-03-14 01:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| University of Utah | Data Engineer III | Salt Lake City, UT, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=89a9927f99af6704) | 2026-03-14 01:14 |
+| ActioNet | Cloud Architect SME – Cloud-Native Platforms & Data Systems | Vienna, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c60e45ca869fa9d5) | 2026-03-14 01:14 |
+| nan | DevOps Engineer | O'Fallon, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=14604263ad5baf02) | 2026-03-14 01:14 |
+| Bestow | AI Automation Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eeca1d29efb08280) | 2026-03-14 01:14 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 01:14 |
+| University of the Incarnate Word | Senior Enterprise Developer | San Antonio, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=53620e4f5fd667ec) | 2026-03-14 01:14 |
+| GEICO | Full‑Stack Developer (React, Python, Java, Go) *Hybrid* | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c300b87ee62d92b0) | 2026-03-14 01:14 |
+| GEICO | Full‑Stack Developer (React, Python, Java, Go) *Hybrid* | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c2d9536747a0284) | 2026-03-14 01:14 |
+| GEICO | Full‑Stack Developer (React, Python, Java, Go) *Hybrid* | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=823ad43221d82d70) | 2026-03-14 01:14 |
+| VeeRteq Solutions Inc. | Python + AI + AWS Engineer | Houston, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f65c08b46236d9db) | 2026-03-14 01:14 |
+| GEICO | Senior Engineer - Java [Hybrid] | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e55835033d967ab0) | 2026-03-14 01:14 |
+| GEICO | Senior Engineer - Java [Hybrid] | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6345d3ebbb19b2e5) | 2026-03-14 01:14 |
+| GEICO | Senior Engineer - Java [Hybrid] | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8651b85653d1da21) | 2026-03-14 01:14 |
 | Capgemini | Associate Data Scientist | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=52f111d99c03d0f9) | 2026-03-13 23:20 |
 | Cummins | Data Engineer - Senior | Columbus, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b6bee0d4a42c16ed) | 2026-03-13 23:20 |
 | Momentive Software | Senior ML Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c2662d7bd818f7f6) | 2026-03-13 23:20 |
@@ -722,19 +735,6 @@ Last updated: 2026-03-13 23:20
 | Capgemini | GCP Solution Architect | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=606fbcf8c540193f) | 2026-03-10 04:01 |
 | Capgemini | AI/LLM Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fd5db90dd63e1bc) | 2026-03-10 04:01 |
 | Sumitomo Group | Data Support Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6adbe5f42d96cfbf) | 2026-03-10 04:01 |
-| AmaWaterways | Senior Data Engineer | Calabasas, CA, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=823936f9f9443c87) | 2026-03-10 01:11 |
-| AmaWaterways | Data Analytics Engineer | Calabasas, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0ec6050907c5aa7a) | 2026-03-10 01:11 |
-| HHAeXchange | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7dd040a8fece5606) | 2026-03-10 01:11 |
-| Aledade, Inc. | Senior Data Platform Engineer II (Databricks) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=db005e0c4338e51a) | 2026-03-10 01:11 |
-| Grainger | Software Engineer III | Lake Forest, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2bd6a62456b6b177) | 2026-03-10 01:11 |
-| Baker Tilly | Associate Data Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0b8ced2557d40f2d) | 2026-03-10 01:11 |
-| Baker Tilly | Associate Data Engineer | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19d862a43f9b80b8) | 2026-03-10 01:11 |
-| Baker Tilly | Associate Data Engineer | Madison, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=69f12a7013ee53a2) | 2026-03-10 01:11 |
-| Baker Tilly | Associate Data Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=071c7a2aa93a8607) | 2026-03-10 01:11 |
-| Baker Tilly | Associate Data Engineer | Milwaukee, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ee4fe83c271e5bb6) | 2026-03-10 01:11 |
-| Adobe | Software Development Engineer | Lehi, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=303b1186f91903b0) | 2026-03-10 01:11 |
-| Availity, LLC. | Software Engineer III | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb91c6ddf5dcc6bd) | 2026-03-10 01:11 |
-| Realign | Teradata Developer-2 | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a5babd5b8f9d05b) | 2026-03-10 01:11 |
 
 
 ---
