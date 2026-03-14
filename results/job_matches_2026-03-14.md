@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-14
 
-**Total Jobs Found:** 80
+**Total Jobs Found:** 75
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -82,14 +82,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Database Engineer Specialist @ Truliant Federal Credit Union
-**Match Score:** 16.7%
+## 8. Data Engineer @ OneBlood
+**Match Score:** 15.3%
 
-📍 **Location:** Winston-Salem, NC, US USA
+📍 **Location:** Orlando, FL, US USA
 
-🔑 **Keywords:** AWS, Redshift, RDS, Azure, Spark, Scala, Kafka, Snowflake, Oracle, SQL Server
+🔑 **Keywords:** AWS, Kinesis, Redshift, RDS, Azure, GCP, BigQuery, Scala, Kafka, Snowflake
 
-[Apply Here](https://www.indeed.com/viewjob?jk=dde10a97ad4e1bf9)
+[Apply Here](https://www.indeed.com/viewjob?jk=aad1de821a93e0b1)
 
 ---
 
@@ -126,18 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Data Engineer @ OneBlood
-**Match Score:** 15.3%
-
-📍 **Location:** Orlando, FL, US USA
-
-🔑 **Keywords:** AWS, Kinesis, Redshift, RDS, Azure, GCP, BigQuery, Scala, Kafka, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=aad1de821a93e0b1)
-
----
-
-## 13. Sr Data Engineer @ McLane Company
+## 12. Sr Data Engineer @ McLane Company
 **Match Score:** 14.6%
 
 📍 **Location:** Austin, TX, US USA
@@ -148,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Senior ML Engineer @ Momentive Software
+## 13. Senior ML Engineer @ Momentive Software
 **Match Score:** 14.6%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -159,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 14. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -170,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 15. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Houston, TX, US USA
@@ -181,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 16. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** McLean, VA, US USA
@@ -192,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 17. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -203,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 18. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Seattle, WA, US USA
@@ -214,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 19. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -225,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 20. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Richmond, VA, US USA
@@ -236,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 21. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -247,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 22. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -258,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 23. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Boston, MA, US USA
@@ -269,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 24. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -280,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 25. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Denver, CO, US USA
@@ -291,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 26. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -302,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 27. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -313,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 28. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** New York, NY, US USA
@@ -324,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 29. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -335,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 30. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -346,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 31. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -357,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 32. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** San Jose, CA, US USA
@@ -368,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 33. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Nashville, TN, US USA
@@ -379,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 34. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Columbus, OH, US USA
@@ -390,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 35. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Hartford, CT, US USA
@@ -401,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 36. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Dallas, TX, US USA
@@ -412,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 37. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Stamford, CT, US USA
@@ -423,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 38. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Detroit, MI, US USA
@@ -434,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 39. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -445,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 40. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -456,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 41. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Miami, FL, US USA
@@ -467,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 42. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Chicago, IL, US USA
@@ -478,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
+## 43. Engineering Foundry - Software Engineering - Full-stack Developer - Senior Consultant @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Tampa, FL, US USA
@@ -489,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Senior Data Engineer @ United Concordia Dental
+## 44. Senior Data Engineer @ United Concordia Dental
 **Match Score:** 13.9%
 
 📍 **Location:** GA, US USA
@@ -500,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Sr. Data Engineer - Analytics @ The Scoular Company
+## 45. Sr. Data Engineer - Analytics @ The Scoular Company
 **Match Score:** 13.9%
 
 📍 **Location:** Omaha, NE, US USA
@@ -511,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. DevOps Engineer @ nan
+## 46. DevOps Engineer @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** O'Fallon, MO, US USA
@@ -522,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Analytics, Full-Stack Engineer @ SCAN Health Plan
+## 47. Analytics, Full-Stack Engineer @ SCAN Health Plan
 **Match Score:** 13.2%
 
 📍 **Location:** Long Beach, CA, US USA
@@ -533,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Cloud Migration Engineer @ Capgemini
+## 48. Cloud Migration Engineer @ Capgemini
 **Match Score:** 13.2%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -544,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Data Engineer @ WorldPac
+## 49. Data Engineer @ WorldPac
 **Match Score:** 13.2%
 
 📍 **Location:** Oak Brook, IL, US USA
@@ -555,40 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Senior Software Engineer, Back End @ Capital One
-**Match Score:** 12.5%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Snowflake, NoSQL, CI/CD, Jenkins, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=54d7b40c19de92ce)
-
----
-
-## 52. Senior Software Engineer, Back End @ Information Technology Senior Management Forum
-**Match Score:** 12.5%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Snowflake, NoSQL, CI/CD, Jenkins, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5013ef8bbacceb1b)
-
----
-
-## 53. AI Agent Engineer @ Momentive Software
-**Match Score:** 12.5%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** AWS, Lambda, Athena, SQS, SNS, API Gateway, ECS, RDS, Azure, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f59c40422f4d27b8)
-
----
-
-## 54. Data Analytics Engineer @ Activision
+## 50. Data Analytics Engineer @ Activision
 **Match Score:** 12.5%
 
 📍 **Location:** Santa Monica, CA, US USA
@@ -599,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Senior Data Engineer @ nan
+## 51. Senior Data Engineer @ nan
 **Match Score:** 12.5%
 
 📍 **Location:** Anchorage, AK, US USA
@@ -610,7 +566,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Software Engineer III @ Los Angeles Capital Management
+## 52. Senior Software Engineer, Back End @ Capital One
+**Match Score:** 12.5%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Snowflake, NoSQL, CI/CD, Jenkins, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=54d7b40c19de92ce)
+
+---
+
+## 53. Senior Software Engineer, Back End @ Information Technology Senior Management Forum
+**Match Score:** 12.5%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Snowflake, NoSQL, CI/CD, Jenkins, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5013ef8bbacceb1b)
+
+---
+
+## 54. AI Agent Engineer @ Momentive Software
+**Match Score:** 12.5%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, Lambda, Athena, SQS, SNS, API Gateway, ECS, RDS, Azure, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f59c40422f4d27b8)
+
+---
+
+## 55. Software Engineer III @ Los Angeles Capital Management
 **Match Score:** 12.5%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -621,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Software Engineer III - LLM @ JPMorganChase
+## 56. Software Engineer III - LLM @ JPMorganChase
 **Match Score:** 12.5%
 
 📍 **Location:** Wilmington, DE, US USA
@@ -632,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. AI Automation Engineer @ Bestow
+## 57. AI Automation Engineer @ Bestow
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -643,18 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. Junior Data Engineer @ WTW
-**Match Score:** 11.8%
-
-📍 **Location:** CA, US USA
-
-🔑 **Keywords:** AWS, Glue, Redshift, Athena, RDS, Azure, Spark, PySpark, Scala, Data Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0a179fc6f0cf1e66)
-
----
-
-## 60. Data Engineer @ Cargill
+## 58. Data Engineer @ Cargill
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -665,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Sr. Data Engineer @ Purpose Financial
+## 59. Sr. Data Engineer @ Purpose Financial
 **Match Score:** 11.8%
 
 📍 **Location:** Greenville, SC, US USA
@@ -676,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. Data Platform Engineer | Digital Operations @ Beta Technologies
+## 60. Data Platform Engineer | Digital Operations @ Beta Technologies
 **Match Score:** 11.8%
 
 📍 **Location:** South Burlington, VT, US USA
@@ -687,7 +665,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Senior Enterprise Developer @ University of the Incarnate Word
+## 61. Junior Data Engineer @ WTW
+**Match Score:** 11.8%
+
+📍 **Location:** CA, US USA
+
+🔑 **Keywords:** AWS, Glue, Redshift, Athena, RDS, Azure, Spark, PySpark, Scala, Data Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0a179fc6f0cf1e66)
+
+---
+
+## 62. Senior Enterprise Developer @ University of the Incarnate Word
 **Match Score:** 11.8%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -698,29 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Business Intelligence Developer @ AAA Central Penn
-**Match Score:** 11.8%
-
-📍 **Location:** Harrisburg, PA, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Synapse Analytics, Databricks, SQL Server, Data Modeling, Dimensional Modeling, Star Schema, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ca9e0fb095260347)
-
----
-
-## 65. Senior Software Engineer @ Wells Fargo
-**Match Score:** 11.1%
-
-📍 **Location:** Chandler, AZ, US USA
-
-🔑 **Keywords:** IAM, Azure, Data Factory, Databricks, Google Cloud Platform, GCP, Scala, CI/CD, Jenkins, GitHub Actions
-
-[Apply Here](https://www.indeed.com/viewjob?jk=61994c624b012a49)
-
----
-
-## 66. Distributed Storage Software Developer Engineer @ Aptiv
+## 63. Distributed Storage Software Developer Engineer @ Aptiv
 **Match Score:** 11.1%
 
 📍 **Location:** Troy, MI, US USA
@@ -731,18 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Data Architect - T7 @ NielsenIQ
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, Azure, Databricks, Medallion Architecture, Spark, PySpark, Scala, Snowflake, Data Modeling, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2f81821b15c92cc4)
-
----
-
-## 68. Full‑Stack Developer (React, Python, Java, Go) *Hybrid* @ GEICO
+## 64. Full‑Stack Developer (React, Python, Java, Go) *Hybrid* @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Richardson, TX, US USA
@@ -753,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Full‑Stack Developer (React, Python, Java, Go) *Hybrid* @ GEICO
+## 65. Full‑Stack Developer (React, Python, Java, Go) *Hybrid* @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Seattle, WA, US USA
@@ -764,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Full‑Stack Developer (React, Python, Java, Go) *Hybrid* @ GEICO
+## 66. Full‑Stack Developer (React, Python, Java, Go) *Hybrid* @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -775,29 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Business Intelligence Analyst @ AAA Central Penn
-**Match Score:** 11.1%
-
-📍 **Location:** Harrisburg, PA, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Scala, Snowflake, Data Modeling, Dimensional Modeling, Kimball, Snowflake Schema, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0c2d9ec8a239efae)
-
----
-
-## 72. Senior Data Engineer @ Hydrafacial
-**Match Score:** 10.4%
-
-📍 **Location:** Lakewood, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, Data Modeling, Star Schema, Power BI, CI/CD, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0bf5e2df2b8b26e0)
-
----
-
-## 73. Software Engineer III - PySpark/Databricks/Python/SQL @ JPMorganChase
+## 67. Software Engineer III - PySpark/Databricks/Python/SQL @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -808,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Python + AI + AWS Engineer @ VeeRteq Solutions Inc.
+## 68. Python + AI + AWS Engineer @ VeeRteq Solutions Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, IL, US USA
@@ -819,7 +753,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Senior Engineer - Java [Hybrid] @ GEICO
+## 69. Senior Data Engineer @ Hydrafacial
+**Match Score:** 10.4%
+
+📍 **Location:** Lakewood, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, Data Modeling, Star Schema, Power BI, CI/CD, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0bf5e2df2b8b26e0)
+
+---
+
+## 70. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -830,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Senior Engineer - Java [Hybrid] @ GEICO
+## 71. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -841,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Senior Engineer - Java [Hybrid] @ GEICO
+## 72. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Chevy Chase, MD, US USA
@@ -852,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Enterprise Data & BI Architect II @ University of Central Florida
+## 73. Enterprise Data & BI Architect II @ University of Central Florida
 **Match Score:** 10.4%
 
 📍 **Location:** Orlando, FL, US USA
@@ -863,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. DevOps Engineer – Azure Platform @ UniFirst
+## 74. DevOps Engineer – Azure Platform @ UniFirst
 **Match Score:** 10.4%
 
 📍 **Location:** Wilmington, MA, US USA
@@ -874,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Data Scientist @ Skyworks Solutions
+## 75. Data Scientist @ Skyworks Solutions
 **Match Score:** 10.4%
 
 📍 **Location:** Irvine, CA, US USA
