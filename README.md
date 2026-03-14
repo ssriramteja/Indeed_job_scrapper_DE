@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-14 12:31
+Last updated: 2026-03-14 13:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 12:31 |
-| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 12:31 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 12:31 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 13:40 |
+| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 13:40 |
+| Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e2b77b3591be602) | 2026-03-14 13:40 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 13:40 |
 | Ochsner Health | Data Engineer | New Orleans, LA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4d3a7fa88191eb9b) | 2026-03-14 11:17 |
 | ELCOR Tax & Accounting | Senior Cloud Engineer | Cincinnati, OH, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1916e0848359ede0) | 2026-03-14 10:19 |
 | JPMorganChase | Software Engineer III - LLM | Wilmington, DE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=24c421e2dcdbd2c1) | 2026-03-14 09:24 |
@@ -803,9 +804,6 @@ Last updated: 2026-03-14 12:31
 | Thermo Fisher Scientific | Senior Data Scientist/Engineer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6c30c612381f20d8) | 2026-03-10 14:43 |
 | American Electric Power | Solution Engineer Prin | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e894e9507fed28a1) | 2026-03-10 13:56 |
 | PlayStation | Sr. Software Engineer | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=35a2d800fdf55a09) | 2026-03-10 13:56 |
-| SoundThinking | Sr. Software Engineer | Tucson, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=704d552d624fa562) | 2026-03-10 12:39 |
-| TomorrowNow | Senior Software Engineer, Platform & Agentic Systems | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3b91ce245792f05e) | 2026-03-10 12:39 |
-| Comcast | Software Engineer (Java) | Englewood, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a683bae04b939136) | 2026-03-10 12:39 |
 
 
 ---
