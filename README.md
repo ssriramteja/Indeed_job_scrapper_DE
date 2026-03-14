@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-14 16:21
+Last updated: 2026-03-14 17:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 16:21 |
-| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 16:21 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 16:21 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 17:20 |
+| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 17:20 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 17:20 |
 | Aptiv | Distributed Storage Software Developer Engineer | Troy, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c54ab545ff541cbe) | 2026-03-14 16:21 |
 | Capital One | Senior Software Engineer, Back End | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=54d7b40c19de92ce) | 2026-03-14 15:20 |
 | Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e2b77b3591be602) | 2026-03-14 13:40 |
@@ -792,10 +792,6 @@ Last updated: 2026-03-14 16:21
 | Hitachi Digital Services | AWS Full Stack Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a4f447ae01cd88d) | 2026-03-10 17:40 |
 | Hitachi Digital Services | AWS Full Stack Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=237a7b0a4e379a69) | 2026-03-10 17:40 |
 | Openkyber | Java CI/CD Automation Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49d0e12bb989e139) | 2026-03-10 17:40 |
-| Capgemini | Data Engineer Mid-Senior | Lake, MS, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ea838393bd67f5a2) | 2026-03-10 16:48 |
-| PA Consulting | Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e00868aa50e72df5) | 2026-03-10 16:48 |
-| Capgemini | Data Engineer | Lake, MS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=31401d66cdf3de8c) | 2026-03-10 16:48 |
-| Missouri State University | ERP & Database Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83e2028b144ba779) | 2026-03-10 16:48 |
 
 
 ---
