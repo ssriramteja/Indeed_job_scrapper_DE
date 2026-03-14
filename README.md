@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-14 15:20
+Last updated: 2026-03-14 16:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 15:20 |
-| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 15:20 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 16:21 |
+| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 16:21 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 16:21 |
+| Aptiv | Distributed Storage Software Developer Engineer | Troy, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c54ab545ff541cbe) | 2026-03-14 16:21 |
 | Capital One | Senior Software Engineer, Back End | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=54d7b40c19de92ce) | 2026-03-14 15:20 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 15:20 |
 | Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e2b77b3591be602) | 2026-03-14 13:40 |
 | Ochsner Health | Data Engineer | New Orleans, LA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4d3a7fa88191eb9b) | 2026-03-14 11:17 |
 | ELCOR Tax & Accounting | Senior Cloud Engineer | Cincinnati, OH, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1916e0848359ede0) | 2026-03-14 10:19 |
@@ -795,11 +796,6 @@ Last updated: 2026-03-14 15:20
 | PA Consulting | Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e00868aa50e72df5) | 2026-03-10 16:48 |
 | Capgemini | Data Engineer | Lake, MS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=31401d66cdf3de8c) | 2026-03-10 16:48 |
 | Missouri State University | ERP & Database Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83e2028b144ba779) | 2026-03-10 16:48 |
-| Qode | Senior Data Engineer | Fort Mill, SC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9886af86e7b8bb37) | 2026-03-10 15:53 |
-| PNC Financial Services Group | Business Architect - Analytics Engineer | Pittsburgh, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1dfef7aface75172) | 2026-03-10 15:53 |
-| Frontline Education | Senior Data Engineer | Naperville, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=224ec9c15578245b) | 2026-03-10 15:53 |
-| Penn Mutual | Sr. Software Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d5bbaf07c7108a53) | 2026-03-10 15:53 |
-| Emerson | Senior AI Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34496d8f0b690b06) | 2026-03-10 15:53 |
 
 
 ---
