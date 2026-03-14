@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-14 19:21
+Last updated: 2026-03-14 20:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 19:21 |
-| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 19:21 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 19:21 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 20:18 |
+| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 20:18 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 20:18 |
+| UniFirst | DevOps Engineer – Azure Platform | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d27eb7b013426664) | 2026-03-14 20:18 |
 | Skyworks Solutions | Data Scientist | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be89e65f4dd09bb7) | 2026-03-14 19:21 |
 | Aptiv | Distributed Storage Software Developer Engineer | Troy, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c54ab545ff541cbe) | 2026-03-14 16:21 |
 | Capital One | Senior Software Engineer, Back End | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=54d7b40c19de92ce) | 2026-03-14 15:20 |
@@ -752,12 +753,6 @@ Last updated: 2026-03-14 19:21
 | nan | Sr. AI Engineer | Saint Petersburg, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5b74bfc1321d7cb) | 2026-03-10 20:24 |
 | Fountain House | Senior Data Systems Analyst | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bd3787de0a39dc88) | 2026-03-10 20:24 |
 | Colgate-Palmolive | Commercial Operations BI Analyst (171972) | Piscataway, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84435ef31a96cb32) | 2026-03-10 20:24 |
-| NeoGenomics | Senior DevOps Engineer | Ramsey, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=761c2dcb68dd2dfc) | 2026-03-10 19:33 |
-| NeoGenomics | Senior DevOps Engineer | Fort Myers, FL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7940d8c5c6d10af4) | 2026-03-10 19:33 |
-| Edward Jones | Solutions Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=086c7dc6031c17cf) | 2026-03-10 19:33 |
-| Infosys | Data Architect | Richardson, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=67c855b740d44093) | 2026-03-10 19:33 |
-| McAfee | Software Developer in Test - SDET | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ff2074ca8a90ba86) | 2026-03-10 19:33 |
-| Newpage Digital Healthcare solutions | FDE-Priniciple Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b726ef965a254459) | 2026-03-10 19:33 |
 
 
 ---
