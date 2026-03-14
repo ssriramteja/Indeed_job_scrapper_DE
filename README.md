@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-14 10:19
+Last updated: 2026-03-14 11:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ochsner Health | Data Engineer | New Orleans, LA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4d3a7fa88191eb9b) | 2026-03-14 11:17 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 11:17 |
+| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 11:17 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 11:17 |
 | ELCOR Tax & Accounting | Senior Cloud Engineer | Cincinnati, OH, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1916e0848359ede0) | 2026-03-14 10:19 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 10:19 |
-| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 10:19 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 10:19 |
 | JPMorganChase | Software Engineer III - LLM | Wilmington, DE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=24c421e2dcdbd2c1) | 2026-03-14 09:24 |
 | JPMorganChase | Software Engineer III - PySpark/Databricks/Python/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff38445088e6dc7f) | 2026-03-14 09:24 |
 | Activision | Data Analytics Engineer | Santa Monica, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15ff807fd0f137bc) | 2026-03-14 06:36 |
