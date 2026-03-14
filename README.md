@@ -1,15 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-14 11:17
+Last updated: 2026-03-14 12:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 12:31 |
+| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 12:31 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 12:31 |
 | Ochsner Health | Data Engineer | New Orleans, LA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4d3a7fa88191eb9b) | 2026-03-14 11:17 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 11:17 |
-| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 11:17 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 11:17 |
 | ELCOR Tax & Accounting | Senior Cloud Engineer | Cincinnati, OH, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1916e0848359ede0) | 2026-03-14 10:19 |
 | JPMorganChase | Software Engineer III - LLM | Wilmington, DE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=24c421e2dcdbd2c1) | 2026-03-14 09:24 |
 | JPMorganChase | Software Engineer III - PySpark/Databricks/Python/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff38445088e6dc7f) | 2026-03-14 09:24 |
@@ -806,16 +806,6 @@ Last updated: 2026-03-14 11:17
 | SoundThinking | Sr. Software Engineer | Tucson, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=704d552d624fa562) | 2026-03-10 12:39 |
 | TomorrowNow | Senior Software Engineer, Platform & Agentic Systems | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3b91ce245792f05e) | 2026-03-10 12:39 |
 | Comcast | Software Engineer (Java) | Englewood, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a683bae04b939136) | 2026-03-10 12:39 |
-| Openkyber | Network IoT Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b31ef1251547b795) | 2026-03-10 11:27 |
-| Openkyber | Microsoft Threat Intelligence Analyst | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ee1e4288d005d527) | 2026-03-10 11:27 |
-| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=93ca4121053801b5) | 2026-03-10 11:27 |
-| Openkyber | Cloud AI Application Administrator | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=71b07c377b250f81) | 2026-03-10 11:27 |
-| Barclays | Senior Cloud Data Engineer | Whippany, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b21501cda3830ee4) | 2026-03-10 11:27 |
-| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39c4848a645662a2) | 2026-03-10 11:27 |
-| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=40a603c9f816d1fa) | 2026-03-10 11:27 |
-| Collibra | Software Development Engineer in Test II | Alabama, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4fb45c1718469a28) | 2026-03-10 11:27 |
-| HCA Healthcare | Solution Architect | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22287aabfece036a) | 2026-03-10 11:27 |
-| Openkyber | Java CI/CD Automation Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9dc5391680bb152) | 2026-03-10 11:27 |
 
 
 ---
