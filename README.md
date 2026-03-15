@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-15 12:33
+Last updated: 2026-03-15 13:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SportsBiz Group Inc | Senior DevOps Engineer - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=11d5b4bae86c5d93) | 2026-03-15 13:41 |
+| SportsBiz Group Inc | Senior DevOps Engineer - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c8be363a36eab12f) | 2026-03-15 13:41 |
 | Plymouth Rock Assurance | Senior AWS Cloud Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d13983e0e25e706c) | 2026-03-15 08:27 |
 | Deloitte | Data Foundations Engineer | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=05bc7b696fdd2052) | 2026-03-15 04:26 |
 | Deloitte | Data Operations Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f93244101a55d1cf) | 2026-03-15 04:26 |
@@ -639,8 +641,6 @@ Last updated: 2026-03-15 12:33
 | Nobl Q | Quality Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2b30760f90abab6c) | 2026-03-11 14:00 |
 | Sumitomo Group | Senior Data Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=785566154ce81c8a) | 2026-03-11 14:00 |
 | Intelitek Solutions | Business & Quality Systems Analyst | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e113dbede4e687a) | 2026-03-11 14:00 |
-| nan | Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8078d1ebfe9d1942) | 2026-03-11 12:39 |
-| Pacific Gas and Electric | Operations Data Analyst, Senior | Dublin, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=602f4d7955daed21) | 2026-03-11 12:39 |
 
 
 ---
