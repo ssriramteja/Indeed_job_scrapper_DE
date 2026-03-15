@@ -60,7 +60,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Data Engineer @ Crate and Barrel
+## 6. Data Engineer @ Tata Consultancy Services (TCS)
+**Match Score:** 13.2%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Athena, S3, Hadoop, HDFS, Hive, Spark, PySpark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a93392d862334858)
+
+---
+
+## 7. Senior Data Engineer @ Crate and Barrel
 **Match Score:** 11.8%
 
 📍 **Location:** Northbrook, IL, US USA
@@ -71,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Data Engineer @ Pluto TV
+## 8. Senior Data Engineer @ Pluto TV
 **Match Score:** 11.1%
 
 📍 **Location:** West Hollywood, CA, US USA
@@ -79,17 +90,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, GCP, BigQuery, Hadoop, Spark, Kafka, Data Modeling, ETL, ELT, Docker
 
 [Apply Here](https://www.indeed.com/viewjob?jk=fae9461b0cd0dc68)
-
----
-
-## 8. Distributed Storage Software Developer Engineer @ Aptiv
-**Match Score:** 11.1%
-
-📍 **Location:** Troy, MI, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Cloud Storage, HDFS, Scala, CI/CD, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c54ab545ff541cbe)
 
 ---
 

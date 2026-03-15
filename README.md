@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-15 15:20
+Last updated: 2026-03-15 16:22
 
 ### 🚀 Daily Job Matches
 
@@ -635,8 +635,6 @@ Last updated: 2026-03-15 15:20
 | Capgemini | Data Engineer (Teradata /ETL informatica/Snowflake) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e091ae9d7f7379a8) | 2026-03-11 16:42 |
 | All American Poly | Industrial Applications Developer | Piscataway, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7a1080b879ebef05) | 2026-03-11 16:42 |
 | Capgemini | Data Scientist | Berwyn, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7e37ba368e6b8a1) | 2026-03-11 16:42 |
-| nan | Senior DevOps Cloud Engineer | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=212b9ffd779d7d3a) | 2026-03-11 15:40 |
-| 3Bstaffing | Database Management Specialist | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea99aacea583d180) | 2026-03-11 15:40 |
 
 
 ---
