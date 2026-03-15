@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-15 11:19
+Last updated: 2026-03-15 12:33
 
 ### 🚀 Daily Job Matches
 
@@ -641,19 +641,6 @@ Last updated: 2026-03-15 11:19
 | Intelitek Solutions | Business & Quality Systems Analyst | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e113dbede4e687a) | 2026-03-11 14:00 |
 | nan | Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8078d1ebfe9d1942) | 2026-03-11 12:39 |
 | Pacific Gas and Electric | Operations Data Analyst, Senior | Dublin, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=602f4d7955daed21) | 2026-03-11 12:39 |
-| Openkyber | Cloud AI Consultant | AK, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=fb4f88eed34169f4) | 2026-03-11 11:27 |
-| Openkyber | AWS Network Engineer | AK, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=db1741abb6e46be8) | 2026-03-11 11:27 |
-| National Alliance on Mental Illness | Senior Data Engineer | Arlington, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2ed711fef7ac0518) | 2026-03-11 11:27 |
-| Openkyber | Cloud Platform Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45938ccd60a0506b) | 2026-03-11 11:27 |
-| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5c8687d4f949f812) | 2026-03-11 11:27 |
-| Openkyber | Saviynt Integration Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af8987d00ce94ac1) | 2026-03-11 11:27 |
-| Openkyber | Saviynt Integration Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5cf2c43159b0243f) | 2026-03-11 11:27 |
-| Dhara Consulting Group | Senior Full Stack AI/ML Engineer (#9BCTLJP00003238) | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4fb5fe208cf7f4e4) | 2026-03-11 11:27 |
-| Openkyber | OCI Terraform Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=786a6033717c7e3b) | 2026-03-11 11:27 |
-| Openkyber | AWS Network Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6614e385cde53c67) | 2026-03-11 11:27 |
-| Openkyber | UKG Workforce Analytics Consultant | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01924ffd1d906ee5) | 2026-03-11 11:27 |
-| Openkyber | UKG AI Scheduling Consultant | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa7707ece5dbc064) | 2026-03-11 11:27 |
-| Openkyber | Java Software Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9e3e5ad47ba3b415) | 2026-03-11 11:27 |
 
 
 ---
