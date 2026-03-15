@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-15 21:20
+Last updated: 2026-03-15 22:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Lodging by Liberty DBA Charter Furniture | Full Stack Developer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=134952c8e2b4c531) | 2026-03-15 22:19 |
 | SportsBiz Group Inc | Senior DevOps Engineer - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=11d5b4bae86c5d93) | 2026-03-15 13:41 |
 | SportsBiz Group Inc | Senior DevOps Engineer - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c8be363a36eab12f) | 2026-03-15 13:41 |
 | Plymouth Rock Assurance | Senior AWS Cloud Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d13983e0e25e706c) | 2026-03-15 08:27 |
@@ -553,22 +554,6 @@ Last updated: 2026-03-15 21:20
 | Openkyber | Senior Cloud Disaster Recovery Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5fe6313bc377228) | 2026-03-11 22:20 |
 | Missouri State University | ERP & Database Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9813268f71a7390) | 2026-03-11 22:20 |
 | Mid-Hudson Valley Federal Credit Union | Software Engineer | Kingston, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b11459048a088be) | 2026-03-11 22:20 |
-| Diverse Lynx | Senior Salesforce Developer | Alpharetta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2c2abed7066b82ae) | 2026-03-11 21:25 |
-| NTT DATA | Sr. Data Analyst | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=61d0cacdc93f0a17) | 2026-03-11 21:25 |
-| Tata Consultancy Services (TCS) | NoSQL DBA | Hopkins, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=18938060c32c52cd) | 2026-03-11 21:25 |
-| RadCube | Data Engineer | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d5e1d27693a96f5) | 2026-03-11 21:25 |
-| Qode | Senior Quality Engineer | Fort Mill, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4acfd53eefe4f1b9) | 2026-03-11 21:25 |
-| Cherokee Federal | DevOps Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=377676b1c3880e52) | 2026-03-11 21:25 |
-| EV Design | Data Analyst | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b7b188a1549b300) | 2026-03-11 21:25 |
-| Authority Brands | Data Analytics & Power BI Developer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8c37835f550ddf38) | 2026-03-11 21:25 |
-| NTT DATA | Senior Full Stack Developer in Merrimack, NH | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=91f0f1ff47e67993) | 2026-03-11 21:25 |
-| ABOUT Healthcare | Reporting & Business Intelligence Developer | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82bc310c78840492) | 2026-03-11 21:25 |
-| Merck | Sr. Spclst , Software Engineering | North Wales, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=463eb478d5ff85bb) | 2026-03-11 21:25 |
-| LangChain | Solutions Architect | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9eb22e24231f22b) | 2026-03-11 21:25 |
-| LangChain | Solutions Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=469d8b6a01022163) | 2026-03-11 21:25 |
-| LangChain | Solutions Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eced1a3a797949e2) | 2026-03-11 21:25 |
-| LangChain | Solutions Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c07382ba85bed2a4) | 2026-03-11 21:25 |
-| Texas Capital Bank | Business Analytics Product Owner | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce00115bdc991072) | 2026-03-11 21:25 |
 
 
 ---
