@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-15 20:19
+Last updated: 2026-03-15 21:20
 
 ### 🚀 Daily Job Matches
 
@@ -569,16 +569,6 @@ Last updated: 2026-03-15 20:19
 | LangChain | Solutions Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eced1a3a797949e2) | 2026-03-11 21:25 |
 | LangChain | Solutions Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c07382ba85bed2a4) | 2026-03-11 21:25 |
 | Texas Capital Bank | Business Analytics Product Owner | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce00115bdc991072) | 2026-03-11 21:25 |
-| Prudential | Senior Data Engineer | Newark, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=692655d58e016632) | 2026-03-11 20:26 |
-| AbbVie | Senior Site Reliability Engineer (Remote) | Mettawa, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5930fa925ff77f76) | 2026-03-11 20:26 |
-| Optum | Data Engineer with AI/ML | Minnetonka, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5769c4ee7b54a55d) | 2026-03-11 20:26 |
-| Acrisure LLC | Software Engineer, Data (L2) | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6140e3faf3473879) | 2026-03-11 20:26 |
-| Xylem | Senior AI Solutions and Platform Engineer | Morrisville, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2dea4b70a8571f2e) | 2026-03-11 20:26 |
-| Kimball Midwest | Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=13618fb171dcc5ea) | 2026-03-11 20:26 |
-| Prudential | Senior ML Ops Engineer | Newark, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b32a96d3a148568b) | 2026-03-11 20:26 |
-| Medefy Health | Business Intelligence Engineer | Tulsa, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2b017509b0a14a7) | 2026-03-11 20:26 |
-| LG Ad Solutions | Software Engineer II, Data Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4f0a13fefa0a3f7) | 2026-03-11 20:26 |
-| LG Ad Solutions | Senior Software Engineer I, Fullstack (AI) | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=67d1ebdfb86d5d03) | 2026-03-11 20:26 |
 
 
 ---
