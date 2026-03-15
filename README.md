@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-15 14:22
+Last updated: 2026-03-15 15:20
 
 ### 🚀 Daily Job Matches
 
@@ -637,7 +637,6 @@ Last updated: 2026-03-15 14:22
 | Capgemini | Data Scientist | Berwyn, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7e37ba368e6b8a1) | 2026-03-11 16:42 |
 | nan | Senior DevOps Cloud Engineer | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=212b9ffd779d7d3a) | 2026-03-11 15:40 |
 | 3Bstaffing | Database Management Specialist | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea99aacea583d180) | 2026-03-11 15:40 |
-| Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ea17e136a8a1893e) | 2026-03-11 14:51 |
 
 
 ---
