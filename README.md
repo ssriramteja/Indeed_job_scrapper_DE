@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-15 09:25
+Last updated: 2026-03-15 10:21
 
 ### 🚀 Daily Job Matches
 
@@ -656,10 +656,6 @@ Last updated: 2026-03-15 09:25
 | Openkyber | Java Software Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9e3e5ad47ba3b415) | 2026-03-11 11:27 |
 | Qode | Sr. Data Engineer | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed775e5478fbbc8a) | 2026-03-11 10:31 |
 | Andersen | SRE Engineer with Spanish/Portuguese | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bd93501e0d644195) | 2026-03-11 10:31 |
-| JPMorganChase | Data Engineer III | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=843894356ab92a82) | 2026-03-11 09:35 |
-| JPMorganChase | Software Engineer II | Palo Alto, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d1e97823f26b6cfd) | 2026-03-11 09:35 |
-| Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a8f467cbd6c1fe6e) | 2026-03-11 09:35 |
-| CVS Health | Data Engineer | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b17294d4d78b3548) | 2026-03-11 09:35 |
 
 
 ---
