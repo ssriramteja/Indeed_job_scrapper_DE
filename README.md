@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-14 23:19
+Last updated: 2026-03-15 01:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-14 23:19 |
-| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-14 23:19 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95119289bfecd34e) | 2026-03-14 23:19 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f7e914015d23a8) | 2026-03-15 01:26 |
+| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-15 01:26 |
+| Pluto TV | Senior Data Engineer | West Hollywood, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fae9461b0cd0dc68) | 2026-03-15 01:26 |
 | Tata Consultancy Services (TCS) | Snowflake Developer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e72ec30486808c7) | 2026-03-14 22:17 |
 | Tata Consultancy Services (TCS) | Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a93392d862334858) | 2026-03-14 22:17 |
 | UniFirst | DevOps Engineer – Azure Platform | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d27eb7b013426664) | 2026-03-14 20:18 |
@@ -700,17 +700,6 @@ Last updated: 2026-03-14 23:19
 | Wells Fargo | DevOps Senior Software Engineer | Concord, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9d0a8985ab173bcc) | 2026-03-11 04:02 |
 | GEICO | Engineer II- Java | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c801e823db82192) | 2026-03-11 04:02 |
 | GEICO | Engineer II- Java | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef5ca1e5454ee8d0) | 2026-03-11 04:02 |
-| Morrison Healthcare | SENIOR DATA ENGINEER (HYBRID-CHARLOTTE, NC) | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=abe6c8c4b0190d8d) | 2026-03-11 01:12 |
-| LTIMindtree | Senior Specialist - Software Engineering | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3553f5857948933c) | 2026-03-11 01:12 |
-| El Paso Electric | APPLICATION ARCHITECT- ASSOC -SR | El Paso, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4b19aee7bc7fb14a) | 2026-03-11 01:12 |
-| Tata Consultancy Services (TCS) | Senior Engineer Technology | Allen, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf9c277b4c81cb4b) | 2026-03-11 01:12 |
-| Blue Shield of California | Full Stack Engineer, Experienced | Oakland, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=59dd03c7be722425) | 2026-03-11 01:12 |
-| nan | Data Engineer - Intern | Stockbridge, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdee89b0e47d15e1) | 2026-03-11 01:12 |
-| Fivetran | Software Engineer II, Databases | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=481e36909591dfe8) | 2026-03-11 01:12 |
-| Capgemini | AWS Java Architect | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a24b1c6ccb2c07f0) | 2026-03-10 23:20 |
-| Gates Foundation | Senior Officer, Data Engineering | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c2bda2dde8a58928) | 2026-03-10 23:20 |
-| Electronic Arts | Security Software Engineer II | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86f57988374a8d78) | 2026-03-10 23:20 |
-| CHS Corporate | Enterprise Data Scientist – Human Capital | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4bbf4b674bc99f7c) | 2026-03-10 23:20 |
 
 
 ---
