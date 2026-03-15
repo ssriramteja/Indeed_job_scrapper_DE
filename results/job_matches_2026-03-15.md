@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-15
 
-**Total Jobs Found:** 14
+**Total Jobs Found:** 13
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -82,18 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Software Engineer III - LLM @ JPMorganChase
-**Match Score:** 12.5%
-
-📍 **Location:** Wilmington, DE, US USA
-
-🔑 **Keywords:** AWS, EMR, Lambda, Kinesis, SQS, SNS, ECS, RDS, Azure, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=24c421e2dcdbd2c1)
-
----
-
-## 9. Senior Data Engineer @ Crate and Barrel
+## 8. Senior Data Engineer @ Crate and Barrel
 **Match Score:** 11.8%
 
 📍 **Location:** Northbrook, IL, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Data Engineer @ Pluto TV
+## 9. Senior Data Engineer @ Pluto TV
 **Match Score:** 11.1%
 
 📍 **Location:** West Hollywood, CA, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Distributed Storage Software Developer Engineer @ Aptiv
+## 10. Distributed Storage Software Developer Engineer @ Aptiv
 **Match Score:** 11.1%
 
 📍 **Location:** Troy, MI, US USA
@@ -126,18 +115,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Software Engineer III - PySpark/Databricks/Python/SQL @ JPMorganChase
+## 11. Senior AWS Cloud Engineer @ Plymouth Rock Assurance
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
 
-🔑 **Keywords:** AWS, RDS, Databricks, Spark, PySpark, Scala, Kafka, Data Modeling, ETL, CI/CD
+🔑 **Keywords:** AWS, Lambda, S3, IAM, RDS, Jenkins, Terraform, Docker, Kubernetes, Jenkins
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ff38445088e6dc7f)
+[Apply Here](https://www.indeed.com/viewjob?jk=d13983e0e25e706c)
 
 ---
 
-## 13. DevOps Engineer – Azure Platform @ UniFirst
+## 12. DevOps Engineer – Azure Platform @ UniFirst
 **Match Score:** 10.4%
 
 📍 **Location:** Wilmington, MA, US USA
@@ -148,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Data Scientist @ Skyworks Solutions
+## 13. Data Scientist @ Skyworks Solutions
 **Match Score:** 10.4%
 
 📍 **Location:** Irvine, CA, US USA

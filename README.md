@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-15 07:39
+Last updated: 2026-03-15 08:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plymouth Rock Assurance | Senior AWS Cloud Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d13983e0e25e706c) | 2026-03-15 08:27 |
 | Deloitte | Data Foundations Engineer | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=05bc7b696fdd2052) | 2026-03-15 04:26 |
 | Deloitte | Data Operations Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f93244101a55d1cf) | 2026-03-15 04:26 |
 | Crate and Barrel | Senior Data Engineer | Northbrook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=595247e429160094) | 2026-03-15 04:26 |
