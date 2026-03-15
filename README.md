@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-15 17:20
+Last updated: 2026-03-15 18:26
 
 ### 🚀 Daily Job Matches
 
@@ -597,30 +597,6 @@ Last updated: 2026-03-15 17:20
 | Quartech | FULL-STACK DEVELOPER | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9c717e9173db492f) | 2026-03-11 18:43 |
 | Nutrien | Sr Cloud Engineer | Deerfield, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=802074095bbf141a) | 2026-03-11 18:43 |
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f54039560a6f8280) | 2026-03-11 18:43 |
-| Openkyber | AWS Data Engineer | AK, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=6ce1ac0502e490cd) | 2026-03-11 17:43 |
-| Openkyber | AWS Technical Apprentice / Trainee | AK, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=869e1075742399ef) | 2026-03-11 17:43 |
-| Openkyber | UKG Workforce Analytics Consultant | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=fc50b92edc01612c) | 2026-03-11 17:43 |
-| Valvoline Global Operations | Senior Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=16d38624bd76610a) | 2026-03-11 17:43 |
-| Openkyber | AI-Driven OSINT Analyst | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c162c855a415e0aa) | 2026-03-11 17:43 |
-| Openkyber | OCI Storage Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bb5335ce208760e5) | 2026-03-11 17:43 |
-| Openkyber | AWS Platform Architect | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f789c8560e252850) | 2026-03-11 17:43 |
-| Openkyber | AI-Driven OSINT Analyst | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6f314aef4baf3f7c) | 2026-03-11 17:43 |
-| Openkyber | Kubernetes Cloud Engineer (EKS) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6a98d3ffe57a6ab3) | 2026-03-11 17:43 |
-| Track 25 LLC | Cloud Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ec2a775f522cf48c) | 2026-03-11 17:43 |
-| NTT DATA | Sr. Data Analyst | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b86de1c1f4587879) | 2026-03-11 17:43 |
-| Openkyber | Kubernetes Cloud Engineer (EKS) | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fac3b58d4d246597) | 2026-03-11 17:43 |
-| Openkyber | OCI MySQL HeatWave Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=30e7be674cd49261) | 2026-03-11 17:43 |
-| Mohawk Industries | Sr. Cloud Engineer | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fb1ff454e07b8ed6) | 2026-03-11 17:43 |
-| Openkyber | OCI API Gateway Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bf4d365388991b60) | 2026-03-11 17:43 |
-| Openkyber | AWS Technical Apprentice / Trainee | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea849db988856cb4) | 2026-03-11 17:43 |
-| Logz.io | Senior Full Stack Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e4abe540963c8be) | 2026-03-11 17:43 |
-| Openkyber | AI-Driven OSINT Analyst | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85e1a600a644295d) | 2026-03-11 17:43 |
-| Openkyber | OCI AI Services Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e10a3388fdc5d76b) | 2026-03-11 17:43 |
-| Openkyber | AWS API Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c05d70602a2cc6ae) | 2026-03-11 17:43 |
-| Openkyber | Senior SRE | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ae5b1bbe9c75404) | 2026-03-11 17:43 |
-| Openkyber | OCI Infrastructure Operations Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c83f36c42f90974a) | 2026-03-11 17:43 |
-| Vacatia, Inc. | Senior Software Engineer (PHP) | Portland, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d99ca2e5dd772a4) | 2026-03-11 17:43 |
-| NELSON Worldwide | Data Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9c00f169f86ba3f) | 2026-03-11 17:43 |
 
 
 ---

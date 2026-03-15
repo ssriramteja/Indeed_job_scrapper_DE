@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-15
 
-**Total Jobs Found:** 11
+**Total Jobs Found:** 10
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -112,17 +112,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Scala, MLOps, CI/CD, Azure DevOps, Terraform, Kubernetes, AKS
 
 [Apply Here](https://www.indeed.com/viewjob?jk=d27eb7b013426664)
-
----
-
-## 11. Data Scientist @ Skyworks Solutions
-**Match Score:** 10.4%
-
-📍 **Location:** Irvine, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, MLflow, CI/CD, Docker, Airflow, Git, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=be89e65f4dd09bb7)
 
 ---
 
