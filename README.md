@@ -1,12 +1,11 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-15 06:01
+Last updated: 2026-03-15 07:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Scoular Company | Sr. Data Engineer - Analytics | Omaha, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8af94693dec12b68) | 2026-03-15 06:01 |
 | Deloitte | Data Foundations Engineer | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=05bc7b696fdd2052) | 2026-03-15 04:26 |
 | Deloitte | Data Operations Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f93244101a55d1cf) | 2026-03-15 04:26 |
 | Crate and Barrel | Senior Data Engineer | Northbrook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=595247e429160094) | 2026-03-15 04:26 |
@@ -660,25 +659,6 @@ Last updated: 2026-03-15 06:01
 | JPMorganChase | Software Engineer II | Palo Alto, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d1e97823f26b6cfd) | 2026-03-11 09:35 |
 | Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a8f467cbd6c1fe6e) | 2026-03-11 09:35 |
 | CVS Health | Data Engineer | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b17294d4d78b3548) | 2026-03-11 09:35 |
-| Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e3bc1599edcc63d6) | 2026-03-11 07:38 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=819cd5adcc2e0b09) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0e84e96929c83510) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d998781e3cf3685f) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ac64f3f2364b393c) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d57732575beb7281) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=71c3367f7265b4b1) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=92e8596280ccc1b4) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=77bf277781b84f2f) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cecc27559ccd2adb) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ec353d7c4d811e7c) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e5b94def02b01e20) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a20a868ac55bf7b5) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=92e0b50eaa73d1db) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2d96dc2696b88bbb) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c3538c2508a18a51) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=17d3094fab7028db) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1a4272756cee81a) | 2026-03-11 06:41 |
-| BV Teck | Python Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=96f91ac51871dc56) | 2026-03-11 06:41 |
 
 
 ---
