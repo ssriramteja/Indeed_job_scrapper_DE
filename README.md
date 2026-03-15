@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-15 18:26
+Last updated: 2026-03-15 19:22
 
 ### 🚀 Daily Job Matches
 
@@ -592,11 +592,6 @@ Last updated: 2026-03-15 18:26
 | Pryon | Senior Engineer, Infrastructure (DevOps) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c9c99178b88020f5) | 2026-03-11 19:37 |
 | Activate Care | Software Engineer - Full Stack | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f8cd994bee806d3) | 2026-03-11 19:37 |
 | Lumistry | DevOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=606dcec420e3ba3d) | 2026-03-11 19:37 |
-| Oran Inc | Cloud Data Engineer-(SAS-to-Snowflake Migration)-USC/GC*** | Herndon, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5a545b8dcc319311) | 2026-03-11 18:43 |
-| Optum | Data Architect - Minneapolis, MN | Minnetonka, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b7feba864f904f24) | 2026-03-11 18:43 |
-| Quartech | FULL-STACK DEVELOPER | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9c717e9173db492f) | 2026-03-11 18:43 |
-| Nutrien | Sr Cloud Engineer | Deerfield, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=802074095bbf141a) | 2026-03-11 18:43 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f54039560a6f8280) | 2026-03-11 18:43 |
 
 
 ---
