@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-03-15
 
-**Total Jobs Found:** 8
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Foundations Engineer @ Deloitte
+## 1. Forward Deployed Engineer @ Cayuse Holdings
+**Match Score:** 25.0%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, Glue, Kinesis, Redshift, RDS, Azure, Data Factory, Synapse Analytics, Databricks, Event Hubs
+
+[Apply Here](https://www.indeed.com/viewjob?jk=92a6b6e514fcadd1)
+
+---
+
+## 2. Data Foundations Engineer @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** San Jose, CA, US USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
+## 3. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
+## 4. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Data Operations Engineer @ Deloitte
+## 5. Data Operations Engineer @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** San Jose, CA, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Data Engineer @ Crate and Barrel
+## 6. Senior Data Engineer @ Crate and Barrel
 **Match Score:** 11.8%
 
 📍 **Location:** Northbrook, IL, US USA
@@ -60,29 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Full Stack Developer @ Lodging by Liberty DBA Charter Furniture
-**Match Score:** 11.8%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, MySQL, MongoDB, DynamoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=134952c8e2b4c531)
-
----
-
-## 7. Senior Data Engineer @ Pluto TV
-**Match Score:** 11.1%
-
-📍 **Location:** West Hollywood, CA, US USA
-
-🔑 **Keywords:** RDS, GCP, BigQuery, Hadoop, Spark, Kafka, Data Modeling, ETL, ELT, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fae9461b0cd0dc68)
-
----
-
-## 8. Senior AWS Cloud Engineer @ Plymouth Rock Assurance
+## 7. Senior AWS Cloud Engineer @ Plymouth Rock Assurance
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
