@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-15 10:21
+Last updated: 2026-03-15 11:19
 
 ### 🚀 Daily Job Matches
 
@@ -654,8 +654,6 @@ Last updated: 2026-03-15 10:21
 | Openkyber | UKG Workforce Analytics Consultant | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01924ffd1d906ee5) | 2026-03-11 11:27 |
 | Openkyber | UKG AI Scheduling Consultant | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa7707ece5dbc064) | 2026-03-11 11:27 |
 | Openkyber | Java Software Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9e3e5ad47ba3b415) | 2026-03-11 11:27 |
-| Qode | Sr. Data Engineer | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed775e5478fbbc8a) | 2026-03-11 10:31 |
-| Andersen | SRE Engineer with Spanish/Portuguese | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bd93501e0d644195) | 2026-03-11 10:31 |
 
 
 ---
