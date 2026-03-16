@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-16 10:49
+Last updated: 2026-03-16 11:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| RELQ TECHNOLOGIES | AWS Cloud Architect- US Remote | Tallahassee, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a515f277b1dc9889) | 2026-03-16 11:40 |
+| Openkyber | IAM Helpdesk Analyst | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4e5dd84afd435111) | 2026-03-16 11:40 |
+| Openkyber | Cloud AI Application Administrator | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=00aacc39137daaf7) | 2026-03-16 11:40 |
+| Openkyber | Network Operations Trainee | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=88bda3516bc06812) | 2026-03-16 11:40 |
+| Openkyber | Java Trainer / Mentor / Educator | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f452a32fedc556a0) | 2026-03-16 11:40 |
+| EY | Data Scientist-Tech Con-AI and Data-AI and Quan Modelling-Azure Data Scientist-Mgr-Mult Pos-1680332 | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b613410a2f36e193) | 2026-03-16 11:40 |
+| Openkyber | Identity AI / ML Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b2285059f147509) | 2026-03-16 11:40 |
 | JPMorganChase | Software Engineer II - Data / ETL | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ec636208e5ebd53d) | 2026-03-16 09:56 |
 | Sun Group | Senior Backend Engineer | VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e1e43a65f53e347c) | 2026-03-16 09:56 |
 | GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Falls Church, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1811a5e61116c3b5) | 2026-03-16 09:56 |
@@ -489,16 +496,6 @@ Last updated: 2026-03-16 10:49
 | Luxoft | Senior Java Developer (AWS) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61573c8f16db4391) | 2026-03-12 13:58 |
 | Publix | Senior Data Engineer - Labor Management | Lakeland, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9834656ac2bda8ee) | 2026-03-12 12:38 |
 | nan | Senior Software Engineer (Backend) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33b656f77d8ee725) | 2026-03-12 12:38 |
-| Capgemini | Associate Data Engineer | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=1215d222f0829a74) | 2026-03-12 11:27 |
-| Openkyber | IT Compliance Consultant | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3b1b261dd4077731) | 2026-03-12 11:27 |
-| Capgemini | Associate Data Scientist | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bcdbba492c2f4bb4) | 2026-03-12 11:27 |
-| Logic, Inc. | Cloud Platform Architect 6184507 | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6e9c6db3ce25d4ca) | 2026-03-12 11:27 |
-| Capgemini | Managing Data Architect - Azure Databricks Architect | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c1be5d66c0b6da3c) | 2026-03-12 11:27 |
-| Capgemini | Data Engineer - Sr. Databricks Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cc2eab297cb5f7ef) | 2026-03-12 11:27 |
-| Logic, Inc. | ATC - AI & Data Analyst - NAELFY26 | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=346934ccf1363e50) | 2026-03-12 11:27 |
-| Logic, Inc. | Senior Application Platform Architect - 6163848 | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f23620eb37b83f) | 2026-03-12 11:27 |
-| Capgemini | Cloud Data Engineer | Bridgewater, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c815831b07a9f2fa) | 2026-03-12 11:27 |
-| Openkyber | Senior AWS FinOps Specialist | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=68fa6a156ca0e34f) | 2026-03-12 11:27 |
 
 
 ---
