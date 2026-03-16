@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-16
 
-**Total Jobs Found:** 23
+**Total Jobs Found:** 24
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -49,7 +49,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. IAM Helpdesk Analyst @ Openkyber
+## 5. Senior Big Data Engineer - AWS @ Purple Austyn Technologies
+**Match Score:** 13.9%
+
+📍 **Location:** Rockville, MD, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Athena, S3, Hadoop, HDFS, Hive, Spark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=943257051095e0f6)
+
+---
+
+## 6. IAM Helpdesk Analyst @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** AK, US USA
@@ -60,29 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
-**Match Score:** 13.9%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, ECS, IAM, RDS, Databricks, Scala, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=11d5b4bae86c5d93)
-
----
-
-## 7. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
-**Match Score:** 13.9%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, ECS, IAM, RDS, Databricks, Scala, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c8be363a36eab12f)
-
----
-
-## 8. Data Engineer @ nan
+## 7. Data Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Alpharetta, GA, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Backend Engineer @ Sun Group
+## 8. Senior Backend Engineer @ Sun Group
 **Match Score:** 13.9%
 
 📍 **Location:** VA, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Cloud AI Application Administrator @ Openkyber
+## 9. Cloud AI Application Administrator @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** AK, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Network Operations Trainee @ Openkyber
+## 10. Network Operations Trainee @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** AK, US USA
@@ -126,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 11. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Falls Church, VA, US USA
@@ -137,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 12. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Chevy Chase, MD, US USA
@@ -148,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 13. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Baltimore, MD, US USA
@@ -159,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 14. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -170,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 15. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -178,6 +167,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Spark, PySpark, Scala, NoSQL, Data Modeling, ETL, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=f6027f8f887b28cc)
+
+---
+
+## 16. Sr. Data Engineer – Ontology & Semantic Modeling @ SoundThinking
+**Match Score:** 11.8%
+
+📍 **Location:** Fremont, CA, US USA
+
+🔑 **Keywords:** AWS, S3, IAM, RDS, Databricks, Unity Catalog, Spark, Scala, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=02d5fa75dac6e177)
 
 ---
 
@@ -203,7 +203,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. EverCommerce - Sr. BI Engineer @ Evercommerce
+## 19. SQL Database Administrator @ American business solutions inc
+**Match Score:** 11.1%
+
+📍 **Location:** Richmond, VA, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, S3, API Gateway, RDS, Snowflake, SQL Server, PostgreSQL, DynamoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5a3b76cb2a8af4e3)
+
+---
+
+## 20. EverCommerce - Sr. BI Engineer @ Evercommerce
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -214,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting @ EY
+## 21. AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting @ EY
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -225,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. CT_NITRO Experimental AI Engineer @ EY
+## 22. CT_NITRO Experimental AI Engineer @ EY
 **Match Score:** 10.4%
 
 📍 **Location:** Alpharetta, GA, US USA
@@ -236,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Data Scientist-Tech Con-AI and Data-AI and Quan Modelling-Azure Data Scientist-Mgr-Mult Pos-1680332 @ EY
+## 23. Data Scientist-Tech Con-AI and Data-AI and Quan Modelling-Azure Data Scientist-Mgr-Mult Pos-1680332 @ EY
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
@@ -247,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Identity AI / ML Engineer @ Openkyber
+## 24. Identity AI / ML Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
