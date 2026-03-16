@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-16 16:01
+Last updated: 2026-03-16 16:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tex-Care Pharmacy | Systems Administrator | Sugar Land, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1d01469f91a410bc) | 2026-03-16 16:58 |
+| IDEXX Laboratories | Application Developer Sr I | Portland, ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bf035a827f29347) | 2026-03-16 16:58 |
 | JPMorganChase | Software Engineer III - Backend/Java | Palo Alto, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=6c1fd07d72b779f4) | 2026-03-16 16:01 |
 | JPMorganChase | Software Engineer III - SDET | Palo Alto, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=95c7d23da1d85f79) | 2026-03-16 16:01 |
 | Nearsure | (1383) Senior SRE/DevOps Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8598ff2a82d03277) | 2026-03-16 16:01 |
@@ -436,74 +438,6 @@ Last updated: 2026-03-16 16:01
 | REN | Senior Data Architect | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2bde7942b264b382) | 2026-03-12 17:43 |
 | Openkyber | Senior Compliance Automation Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbbb3064921ed9dc) | 2026-03-12 17:43 |
 | Openkyber | IAM DevSecOps Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff2f3126ab0313df) | 2026-03-12 17:43 |
-| Qode | Senior .Net Developer | Fort Mill, SC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a27509362b1441a6) | 2026-03-12 16:52 |
-| Qode | Senior .Net Developer | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f3769548913d0b45) | 2026-03-12 16:52 |
-| Sabio Infotech | Quality Engineer - BDD Implementation (Data Ingestion & Pipeline) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ecc14345bea80d80) | 2026-03-12 16:52 |
-| Intellibee Inc | AWS Developer / Administrator | Columbia, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e375c96c31b3003e) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d28d4f20bd8062e3) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Winston-Salem, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1578ead101425079) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1336c3579934080a) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Virginia Beach, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=445bf5e93a44c3ef) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95de2bf62e20c061) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6697755b0713d9b5) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | St. Louis, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df3cb04e6738d9dc) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Stamford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d12857fefc5ca8d) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Tempe, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=783e17a455f64671) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Oklahoma City, OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=abfd260d745b1bd4) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Omaha, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f96aa16f84c8967a) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc814adf2cdb3703) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Shreveport, LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dd55b20019947651) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | San Antonio, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=46eaedd7e80727d1) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Providence, RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dea65d8868acba12) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d5b807619e45bc3b) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8b9c91959eafed53) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Orlando, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c0b2bce2c9812940) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Short Hills, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bf1e64518676fcac) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4393b985d2091210) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e5d816788d42ab2) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d09eb55d5c694197) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | New Orleans, LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=631840140778c660) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5886ee97e5f002d4) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Memphis, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=acaaf90a86de8eb2) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64fe3c438d66d7a8) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Milwaukee, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cac8b7fa4a60c853) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1a0ff4431a3d1a5) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Montvale, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8c53a4c9216e0995) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Greenville, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5bcfd986b1ebbe2a) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=584f79c7f2b01348) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d0305cc19643f428) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Harrisburg, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cb50b37bbb6f5cb8) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Knoxville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2432621208aa332e) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9d870d6d5195df52) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Fort Lauderdale, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3bb6a5818834898d) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Detroit, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b2846128e67de823) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=87916fa1f771e67e) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Kansas City, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=81477799a9456664) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Louisville, KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5992b4722580c6a) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Jackson, MS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4150f2b94976f855) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Des Moines, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fcadc314310ac96c) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7693ddf4365b5c14) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c94868ef0548a0d1) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=15fdbbee67370fc0) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=98cab344a26045e7) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9e42a60f169e1ca1) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Jacksonville, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce62334528abae7d) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a6bb4e3917249201) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=835ab226fc2be0d2) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Bentonville, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d706a31f41da183c) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Boulder, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f90b441a665b697a) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=becbafc58a80cab7) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b5860430964f8245) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8a733eecb81cf439) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Ashburn, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2f1a9285cbef027f) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc89b76198ab3891) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Baton Rouge, LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bf136aa9e069500) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Boise, ID, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60d16a55a13e2024) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5931f82f1594e136) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5580988f550d45f8) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8ca3c0822f1dea66) | 2026-03-12 16:52 |
-| KPMG | Senior Associate, Data Engineering | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=700343f94239c4cb) | 2026-03-12 16:52 |
-| HARBIN CLINIC | IT Data Solutions Developer Senior | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=281770c5a69e8a32) | 2026-03-12 16:52 |
 
 
 ---
