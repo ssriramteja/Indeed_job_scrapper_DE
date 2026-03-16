@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-16 04:33
+Last updated: 2026-03-16 06:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Evercommerce | EverCommerce - Sr. BI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96fcb774adfa1d8f) | 2026-03-16 06:15 |
 | Dental Technology Solutions | IT Support Specialist / Server Administrator | Cherry Hill, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=af8efbf975313df8) | 2026-03-16 04:33 |
 | EY | Cons - TC - AI and Data - Enterp Data - Data Eng and Arch - Data Eng - Mgr - MP - 1688246 | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=493b62850523f4e7) | 2026-03-16 01:25 |
 | nan | Data Engineer | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba6d16d92a70fded) | 2026-03-16 01:25 |
@@ -501,7 +502,6 @@ Last updated: 2026-03-16 04:33
 | Vanguard | Application Engineer - III | Malvern, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=781024c719b3e436) | 2026-03-12 07:41 |
 | CVS Health | Senior Software Development Engineer Microservices | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9a3527869070a089) | 2026-03-12 07:41 |
 | BECU | Sr Database Engineer (DBE) | WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=abd7e06c5d782973) | 2026-03-12 06:43 |
-| Sagis, PLLC | Data Engineer II- Onsite (77092) | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2ac0edc7f1332750) | 2026-03-12 05:44 |
 
 
 ---

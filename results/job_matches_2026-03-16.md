@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-16
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 10
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -82,7 +82,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting @ EY
+## 8. EverCommerce - Sr. BI Engineer @ Evercommerce
+**Match Score:** 10.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RDS, Hadoop, Spark, Scala, Data Modeling, Dimensional Modeling, Star Schema, ETL, Power BI, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=96fcb774adfa1d8f)
+
+---
+
+## 9. AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting @ EY
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. CT_NITRO Experimental AI Engineer @ EY
+## 10. CT_NITRO Experimental AI Engineer @ EY
 **Match Score:** 10.4%
 
 📍 **Location:** Alpharetta, GA, US USA
