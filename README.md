@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-16 08:03
+Last updated: 2026-03-16 09:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer II - Data / ETL | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ec636208e5ebd53d) | 2026-03-16 09:56 |
+| Sun Group | Senior Backend Engineer | VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e1e43a65f53e347c) | 2026-03-16 09:56 |
+| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Falls Church, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1811a5e61116c3b5) | 2026-03-16 09:56 |
+| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Chevy Chase, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d4f37aff04bbbf14) | 2026-03-16 09:56 |
+| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Baltimore, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e8b6861263b7736a) | 2026-03-16 09:56 |
+| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4a0e777ff5549418) | 2026-03-16 09:56 |
+| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f6027f8f887b28cc) | 2026-03-16 09:56 |
+| Skywalk Global | SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1c074eb3bed74ad) | 2026-03-16 09:56 |
 | Adobe | Senior Data Engineer & Architect | San Jose, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6fd769b82cca737f) | 2026-03-16 08:03 |
 | Evercommerce | EverCommerce - Sr. BI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96fcb774adfa1d8f) | 2026-03-16 06:15 |
 | Dental Technology Solutions | IT Support Specialist / Server Administrator | Cherry Hill, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=af8efbf975313df8) | 2026-03-16 04:33 |
@@ -494,11 +502,6 @@ Last updated: 2026-03-16 08:03
 | Inframark | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3de4a0fc38ba3e2b) | 2026-03-12 10:31 |
 | Inframark | DevOps Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f701cd607ccab481) | 2026-03-12 10:31 |
 | Inframark | DevOps Engineer | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bc5eefd4bc93ea8e) | 2026-03-12 10:31 |
-| National Kidney Foundation of Michigan | Data Architect | Ann Arbor, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c7c9a61c1f4f4962) | 2026-03-12 09:35 |
-| JPMorganChase | Software Engineer III - LLM | Wilmington, DE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3dce5307329a37fd) | 2026-03-12 09:35 |
-| JPMorganChase | Backend Java Software Engineer III | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fba67a631e791b80) | 2026-03-12 09:35 |
-| Navat Technologies Pvt Ltd | AWS Engineer - Remote - Contract | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20ff1920a00572de) | 2026-03-12 09:35 |
-| General Motors (GM) | Senior Data Analytics Engineer - Vehicle Chassis Systems | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=edec9672be03e5f7) | 2026-03-12 09:35 |
 
 
 ---

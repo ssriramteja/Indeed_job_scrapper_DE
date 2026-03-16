@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-16
 
-**Total Jobs Found:** 11
+**Total Jobs Found:** 16
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Cons - TC - AI and Data - Enterp Data - Data Eng and Arch - Data Eng - Mgr - MP - 1688246 @ EY
-**Match Score:** 18.1%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** AWS, Glue, RDS, Azure, Data Factory, Google Cloud Platform, GCP, Hadoop, HDFS, Oracle
-
-[Apply Here](https://www.indeed.com/viewjob?jk=493b62850523f4e7)
-
----
-
-## 3. Senior Data Engineer & Architect @ Adobe
+## 2. Senior Data Engineer & Architect @ Adobe
 **Match Score:** 17.4%
 
 📍 **Location:** San Jose, CA, US USA
@@ -38,18 +27,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. IT Support Specialist / Server Administrator @ Dental Technology Solutions
-**Match Score:** 15.3%
+## 3. Software Engineer II - Data / ETL @ JPMorganChase
+**Match Score:** 14.6%
 
-📍 **Location:** Cherry Hill, NJ, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, Cassandra
+🔑 **Keywords:** AWS, Lambda, API Gateway, ECS, RDS, Databricks, Spark, Scala, Snowflake, NoSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=af8efbf975313df8)
+[Apply Here](https://www.indeed.com/viewjob?jk=ec636208e5ebd53d)
 
 ---
 
-## 5. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
+## 4. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
+## 5. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Data Engineer @ nan
+## 6. Data Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Alpharetta, GA, US USA
@@ -82,18 +71,84 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Full Stack Developer @ Lodging by Liberty DBA Charter Furniture
-**Match Score:** 11.8%
+## 7. Senior Backend Engineer @ Sun Group
+**Match Score:** 13.9%
 
-📍 **Location:** Chicago, IL, US USA
+📍 **Location:** VA, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, MySQL, MongoDB, DynamoDB
+🔑 **Keywords:** AWS, API Gateway, Azure, GCP, Scala, Kafka, SQL Server, PostgreSQL, MySQL, MongoDB
 
-[Apply Here](https://www.indeed.com/viewjob?jk=134952c8e2b4c531)
+[Apply Here](https://www.indeed.com/viewjob?jk=e1e43a65f53e347c)
 
 ---
 
-## 9. EverCommerce - Sr. BI Engineer @ Evercommerce
+## 8. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+**Match Score:** 12.5%
+
+📍 **Location:** Falls Church, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Spark, PySpark, Scala, NoSQL, Data Modeling, ETL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1811a5e61116c3b5)
+
+---
+
+## 9. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+**Match Score:** 12.5%
+
+📍 **Location:** Chevy Chase, MD, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Spark, PySpark, Scala, NoSQL, Data Modeling, ETL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d4f37aff04bbbf14)
+
+---
+
+## 10. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+**Match Score:** 12.5%
+
+📍 **Location:** Baltimore, MD, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Spark, PySpark, Scala, NoSQL, Data Modeling, ETL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e8b6861263b7736a)
+
+---
+
+## 11. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+**Match Score:** 12.5%
+
+📍 **Location:** Washington, DC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Spark, PySpark, Scala, NoSQL, Data Modeling, ETL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4a0e777ff5549418)
+
+---
+
+## 12. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+**Match Score:** 12.5%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Spark, PySpark, Scala, NoSQL, Data Modeling, ETL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f6027f8f887b28cc)
+
+---
+
+## 13. SQL Database Administrator @ Skywalk Global
+**Match Score:** 11.1%
+
+📍 **Location:** Richmond, VA, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, S3, API Gateway, RDS, Snowflake, SQL Server, PostgreSQL, DynamoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e1c074eb3bed74ad)
+
+---
+
+## 14. EverCommerce - Sr. BI Engineer @ Evercommerce
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -104,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting @ EY
+## 15. AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting @ EY
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -115,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. CT_NITRO Experimental AI Engineer @ EY
+## 16. CT_NITRO Experimental AI Engineer @ EY
 **Match Score:** 10.4%
 
 📍 **Location:** Alpharetta, GA, US USA
