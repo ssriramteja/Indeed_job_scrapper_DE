@@ -1,11 +1,44 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-16 16:58
+Last updated: 2026-03-16 18:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Azure Network Engineer | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4d6dc4080863d025) | 2026-03-16 18:00 |
+| Openkyber | Azure Network Engineer | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9486e542e0314630) | 2026-03-16 18:00 |
+| Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f3d1545b725cacf9) | 2026-03-16 18:00 |
+| Openkyber | Kafka Schema Registry Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6e62fa620ec25df7) | 2026-03-16 18:00 |
+| Realign | Data Engineer with Python | Malvern, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c0b74cae84f6befa) | 2026-03-16 18:00 |
+| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9727641069e970c0) | 2026-03-16 18:00 |
+| Openkyber | Kubernetes MLOps Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8674e111f05b66a1) | 2026-03-16 18:00 |
+| Openkyber | Kafka Data Streaming Consultant | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=24db9c74d80b856c) | 2026-03-16 18:00 |
+| Openkyber | AWS Network Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4dd06ecb9103a776) | 2026-03-16 18:00 |
+| Realign | Hadoop Developer-2 | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3e23b4dd74e039ea) | 2026-03-16 18:00 |
+| Realign | Hadoop Developer-2 | Jersey City, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2beea0b07c0483b5) | 2026-03-16 18:00 |
+| Openkyber | Kafka Real Time Analytics Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c52c30ca213c085f) | 2026-03-16 18:00 |
+| Openkyber | Kafka | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=02bd3db44eac42a0) | 2026-03-16 18:00 |
+| Openkyber | Senior Kafka Streaming Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b9a0681a75be4c3b) | 2026-03-16 18:00 |
+| Legion | Senior Production Engineer | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8bdd4694bf19ea44) | 2026-03-16 18:00 |
+| Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f1527cf38b699a4d) | 2026-03-16 18:00 |
+| Openkyber | Network Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1e7aa69b55de4760) | 2026-03-16 18:00 |
+| Openkyber | MLOps | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4181653d522a2852) | 2026-03-16 18:00 |
+| Openkyber | Senior Kafka Streaming Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4379abeabd8c87ca) | 2026-03-16 18:00 |
+| Openkyber | Kafka Data Replication Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4c99b3c52b9b8bc7) | 2026-03-16 18:00 |
+| RH | Data Analyst, Customer Experience | West Jefferson, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=67099b1137583cca) | 2026-03-16 18:00 |
+| Openkyber | AWS Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=016f2662bb776d79) | 2026-03-16 18:00 |
+| Options Clearing Corporation | Associate, Software Engineering: Java | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84fa61fcf21b8414) | 2026-03-16 18:00 |
+| Openkyber | Kafka Administrator | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b37f08f8afa136e1) | 2026-03-16 18:00 |
+| Openkyber | MLOps | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d4ec3a15ea80839) | 2026-03-16 18:00 |
+| Openkyber | Kafka Cluster Support Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35509e20006036e4) | 2026-03-16 18:00 |
+| Openkyber | Azure Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=276783735764b1c2) | 2026-03-16 18:00 |
+| Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4f18a97d1887b5ea) | 2026-03-16 18:00 |
+| Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80d0b043bab9a938) | 2026-03-16 18:00 |
+| Openkyber | Networking Trainee | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4dd68d8034b98c3a) | 2026-03-16 18:00 |
+| Realign | Databricks Data Engineer(Azure + Python)-2 | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ab4ff45664c5ad4) | 2026-03-16 18:00 |
+| Openkyber | Kafka Production Support Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94e5c794f9af11e6) | 2026-03-16 18:00 |
+| Openkyber | Kafka | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57504132804a2fda) | 2026-03-16 18:00 |
 | Tex-Care Pharmacy | Systems Administrator | Sugar Land, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1d01469f91a410bc) | 2026-03-16 16:58 |
 | IDEXX Laboratories | Application Developer Sr I | Portland, ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bf035a827f29347) | 2026-03-16 16:58 |
 | JPMorganChase | Software Engineer III - Backend/Java | Palo Alto, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=6c1fd07d72b779f4) | 2026-03-16 16:01 |
@@ -431,13 +464,6 @@ Last updated: 2026-03-16 16:58
 | Realign | OIPA Engineer-6 | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1c3f58aa04eb2d6d) | 2026-03-12 18:41 |
 | Realign | Data Analyst_EDM-7 | West Des Moines, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=327d2a62ab181652) | 2026-03-12 18:41 |
 | Realign | Teradata Developer-6 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94f4b8e609b40433) | 2026-03-12 18:41 |
-| Openkyber | IAM DevSecOps Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=882db95cb994b7c6) | 2026-03-12 17:43 |
-| Openkyber | Senior SOX Automation Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f705e2f549ccf63) | 2026-03-12 17:43 |
-| Openkyber | Security Compliance Specialist | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f276a316b4b1e560) | 2026-03-12 17:43 |
-| Openkyber | IT Compliance Consultant | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7a3fde3ef9f67a33) | 2026-03-12 17:43 |
-| REN | Senior Data Architect | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2bde7942b264b382) | 2026-03-12 17:43 |
-| Openkyber | Senior Compliance Automation Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbbb3064921ed9dc) | 2026-03-12 17:43 |
-| Openkyber | IAM DevSecOps Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff2f3126ab0313df) | 2026-03-12 17:43 |
 
 
 ---
