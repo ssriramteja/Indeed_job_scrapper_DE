@@ -1,11 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-16 18:00
+Last updated: 2026-03-16 19:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Waystar | Sr. Site Reliability Engineer | Lehi, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=05145faabaee2e3b) | 2026-03-16 19:06 |
+| Energyby5 | Senior Software Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f5016f77a0e9f421) | 2026-03-16 19:06 |
+| Energyby5 | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4a5059671136ac6d) | 2026-03-16 19:06 |
+| FundMate LLC | Salesforce Developer | Brooklyn, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d833bbf779bc5e9f) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0883cd1c95d9570) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2c6c7bd2fc0dd832) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71b613f5fa6f42f2) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=87f9ef2374336f8c) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=233c238f31f0b2df) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e3f1b7576de21e5d) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8817cb3ef7265196) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e563fec6aa7f64cb) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=061fd6d944b77a95) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5568b0fcf2e4b1cb) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6519f8163576c987) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de0c61e17e14420b) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0ec3c8b71c700b53) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2907e4fc31b0b397) | 2026-03-16 19:06 |
+| nan | Sr Azure DevOps Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e8328caf9bb28e8d) | 2026-03-16 19:06 |
+| JMA Wireless | IT Systems Engineer - Linux/Platform Operations | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c45683c60eeacd5) | 2026-03-16 19:06 |
+| OnMed | Senior Data Engineer | White Plains, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b300a114f1bb0c85) | 2026-03-16 19:06 |
 | Openkyber | Azure Network Engineer | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4d6dc4080863d025) | 2026-03-16 18:00 |
 | Openkyber | Azure Network Engineer | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9486e542e0314630) | 2026-03-16 18:00 |
 | Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f3d1545b725cacf9) | 2026-03-16 18:00 |
@@ -442,28 +463,6 @@ Last updated: 2026-03-16 18:00
 | Watts Water Technologies | Senior Data Engineer | Andover, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e23e88beb9094727) | 2026-03-12 19:37 |
 | StockX | Software Engineering Intern - DRC Team | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c2b144a0f72c9e40) | 2026-03-12 19:37 |
 | GHX | Senior Technical Data Analyst | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b94c4bc25bde3f7) | 2026-03-12 19:37 |
-| Realign | Sr. Qlik Data Engineer-6 | Raleigh, NC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a44311f290c68fcb) | 2026-03-12 18:41 |
-| Realign | Data Engineer-6 | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cd54000b5e0224f2) | 2026-03-12 18:41 |
-| Realign | Data Engineer-6 | Raleigh, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2517e65f484b1492) | 2026-03-12 18:41 |
-| Realign | Data Engineer-6 | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8cee90a5b725d3ee) | 2026-03-12 18:41 |
-| Realign | Senior Databricks Developer-6 | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4f87b2affa9c6fa4) | 2026-03-12 18:41 |
-| CentralReach | Sr. DevOps Engineer, Cloud Security | Holmdel, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=97cce3f409dc593c) | 2026-03-12 18:41 |
-| Realign | PythonPySpark Engineer-6 | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5b7bc848d1912566) | 2026-03-12 18:41 |
-| Grid Dynamics | Power BI Developer | Annandale, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d832009392223d37) | 2026-03-12 18:41 |
-| Realign | Test Automation Engineer with Payments-6 | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2e317823b6bba5c) | 2026-03-12 18:41 |
-| Realign | Sr DevOPS Engineer-6 | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a4397b190052ca4) | 2026-03-12 18:41 |
-| Realign | Snowflake Admin-7 | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a17d97b1317addaf) | 2026-03-12 18:41 |
-| Realign | Data Ops Engineer-6 | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=adcfd603f19d5dec) | 2026-03-12 18:41 |
-| Realign | Python / Linux-6 | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d649efeb0eab93e6) | 2026-03-12 18:41 |
-| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db0ec20af150bf35) | 2026-03-12 18:41 |
-| Realign | Snowflake Architect-6 | Minnesota City, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4e9660980ec8a8c) | 2026-03-12 18:41 |
-| Realign | Azure Databricks Architect-6 | Mahwah, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45a02b9b0db8bbb2) | 2026-03-12 18:41 |
-| Realign | Adobe Cloud Architect-6 | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57de77eeafd2c392) | 2026-03-12 18:41 |
-| Realign | Snowflake Architect-6 | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6186e5dd2c86d2eb) | 2026-03-12 18:41 |
-| Realign | Databricks Data Engineer(Azure + Python) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3083d09f76d381ed) | 2026-03-12 18:41 |
-| Realign | OIPA Engineer-6 | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1c3f58aa04eb2d6d) | 2026-03-12 18:41 |
-| Realign | Data Analyst_EDM-7 | West Des Moines, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=327d2a62ab181652) | 2026-03-12 18:41 |
-| Realign | Teradata Developer-6 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94f4b8e609b40433) | 2026-03-12 18:41 |
 
 
 ---
