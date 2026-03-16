@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-16
 
-**Total Jobs Found:** 10
+**Total Jobs Found:** 11
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,7 +27,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. IT Support Specialist / Server Administrator @ Dental Technology Solutions
+## 3. Senior Data Engineer & Architect @ Adobe
+**Match Score:** 17.4%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** AWS, Kinesis, Redshift, RDS, Azure, GCP, BigQuery, Spark, Scala, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6fd769b82cca737f)
+
+---
+
+## 4. IT Support Specialist / Server Administrator @ Dental Technology Solutions
 **Match Score:** 15.3%
 
 📍 **Location:** Cherry Hill, NJ, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
+## 5. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
+## 6. Senior DevOps Engineer - Remote @ SportsBiz Group Inc
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Engineer @ nan
+## 7. Data Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Alpharetta, GA, US USA
@@ -71,18 +82,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior AWS Cloud Engineer @ Plymouth Rock Assurance
-**Match Score:** 10.4%
+## 8. Full Stack Developer @ Lodging by Liberty DBA Charter Furniture
+**Match Score:** 11.8%
 
-📍 **Location:** Boston, MA, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** AWS, Lambda, S3, IAM, RDS, Jenkins, Terraform, Docker, Kubernetes, Jenkins
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, MySQL, MongoDB, DynamoDB
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d13983e0e25e706c)
+[Apply Here](https://www.indeed.com/viewjob?jk=134952c8e2b4c531)
 
 ---
 
-## 8. EverCommerce - Sr. BI Engineer @ Evercommerce
+## 9. EverCommerce - Sr. BI Engineer @ Evercommerce
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting @ EY
+## 10. AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting @ EY
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -104,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. CT_NITRO Experimental AI Engineer @ EY
+## 11. CT_NITRO Experimental AI Engineer @ EY
 **Match Score:** 10.4%
 
 📍 **Location:** Alpharetta, GA, US USA
