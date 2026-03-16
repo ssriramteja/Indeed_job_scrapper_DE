@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-16 14:16
+Last updated: 2026-03-16 16:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III - Backend/Java | Palo Alto, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=6c1fd07d72b779f4) | 2026-03-16 16:01 |
+| JPMorganChase | Software Engineer III - SDET | Palo Alto, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=95c7d23da1d85f79) | 2026-03-16 16:01 |
+| Nearsure | (1383) Senior SRE/DevOps Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8598ff2a82d03277) | 2026-03-16 16:01 |
+| Metrixit | Java AWS Developer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1f7d16ccefe95913) | 2026-03-16 16:01 |
+| Intellibee Inc | SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=211072bc9ba0394d) | 2026-03-16 16:01 |
+| Welltower, Inc | AWS Cloud Engineer - onsite Dallas, TX | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=966b58a59ad0b785) | 2026-03-16 16:01 |
+| Excelsior University | Database Engineer | Albany, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85fa6c830bb1cd62) | 2026-03-16 16:01 |
 | UnyBrands | Senior Data Engineer Solution Design Focused | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d83c96f81842df2) | 2026-03-16 14:16 |
 | nan | Senior Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ccd49d302b2f7b3) | 2026-03-16 14:16 |
 | nan | Sr Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=508cf5fa2697a154) | 2026-03-16 14:16 |
@@ -497,10 +504,6 @@ Last updated: 2026-03-16 14:16
 | KPMG | Senior Associate, Data Engineering | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8ca3c0822f1dea66) | 2026-03-12 16:52 |
 | KPMG | Senior Associate, Data Engineering | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=700343f94239c4cb) | 2026-03-12 16:52 |
 | HARBIN CLINIC | IT Data Solutions Developer Senior | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=281770c5a69e8a32) | 2026-03-12 16:52 |
-| Green Gas USA | Data Engineer - Intern | Houston, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5a49e9369fa229a4) | 2026-03-12 15:50 |
-| Research Foundation CUNY | Application Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9d3a83e2c695668c) | 2026-03-12 14:45 |
-| nan | Software Engineer II - Scala | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f27f10d00e06f337) | 2026-03-12 14:45 |
-| Placer.ai | Production Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5481df28409f336) | 2026-03-12 14:45 |
 
 
 ---
