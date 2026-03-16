@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-15 23:21
+Last updated: 2026-03-16 01:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EY | Cons - TC - AI and Data - Enterp Data - Data Eng and Arch - Data Eng - Mgr - MP - 1688246 | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=493b62850523f4e7) | 2026-03-16 01:25 |
+| nan | Data Engineer | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba6d16d92a70fded) | 2026-03-16 01:25 |
+| EY | AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=230bad3331a7b81d) | 2026-03-16 01:25 |
+| EY | CT_NITRO Experimental AI Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fecf1fa5246a7b8) | 2026-03-16 01:25 |
 | Cayuse Holdings | Forward Deployed Engineer | US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=92a6b6e514fcadd1) | 2026-03-15 23:21 |
 | Lodging by Liberty DBA Charter Furniture | Full Stack Developer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=134952c8e2b4c531) | 2026-03-15 22:19 |
 | SportsBiz Group Inc | Senior DevOps Engineer - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=11d5b4bae86c5d93) | 2026-03-15 13:41 |
@@ -510,13 +514,6 @@ Last updated: 2026-03-15 23:21
 | Foot Locker | Senior Engineer, Store Efficiency | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a63f900fc43c207) | 2026-03-12 04:06 |
 | Premera Blue Cross | AI/Data Scientist II | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ea032120825aad4) | 2026-03-12 04:06 |
 | PDI | Senior Digital Engineer | Woodcliff Lake, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=911bb6b38a29babb) | 2026-03-12 04:06 |
-| Optum | AI Engineer - AI/ML | Minnetonka, MN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=01e1e9aee623c595) | 2026-03-12 01:09 |
-| Motorola Solutions | Sr. Data Engineer | NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85b88823e484c1da) | 2026-03-12 01:09 |
-| CrowdStrike | Sr. Engineer - Data Analytics (Hybrid) | NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2b07814ed4c1025b) | 2026-03-12 01:09 |
-| Ursa Space Systems | Sr. Full Stack Software Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3aadd87cb24ca793) | 2026-03-12 01:09 |
-| Minted | Systems and SaaS Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=58558f0623f5281d) | 2026-03-12 01:09 |
-| nan | Enterprise Architect - Data | Englewood, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0492824849a588e) | 2026-03-12 01:09 |
-| Changeis, Inc. | Junior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=accb0ee41fababc7) | 2026-03-12 01:09 |
 
 
 ---
