@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-16 01:25
+Last updated: 2026-03-16 04:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Dental Technology Solutions | IT Support Specialist / Server Administrator | Cherry Hill, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=af8efbf975313df8) | 2026-03-16 04:33 |
 | EY | Cons - TC - AI and Data - Enterp Data - Data Eng and Arch - Data Eng - Mgr - MP - 1688246 | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=493b62850523f4e7) | 2026-03-16 01:25 |
 | nan | Data Engineer | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba6d16d92a70fded) | 2026-03-16 01:25 |
 | EY | AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=230bad3331a7b81d) | 2026-03-16 01:25 |
@@ -501,19 +502,6 @@ Last updated: 2026-03-16 01:25
 | CVS Health | Senior Software Development Engineer Microservices | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9a3527869070a089) | 2026-03-12 07:41 |
 | BECU | Sr Database Engineer (DBE) | WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=abd7e06c5d782973) | 2026-03-12 06:43 |
 | Sagis, PLLC | Data Engineer II- Onsite (77092) | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2ac0edc7f1332750) | 2026-03-12 05:44 |
-| Tata Consultancy Services (TCS) | Full Stack Engineer (React + Node.js) | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8c85f868b397f933) | 2026-03-12 04:06 |
-| National Renewable Energy Laboratory | Researcher II - Data Scientist | Golden, CO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=040a0e21b7819ed9) | 2026-03-12 04:06 |
-| Suffolk Construction | AI Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bdf01d968e498d3c) | 2026-03-12 04:06 |
-| Prodapt Solutions | API Developer | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=81aef2a88bea4b42) | 2026-03-12 04:06 |
-| Mayer Brown LLP | Architect: Risk, Marketing and Admin Systems | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3af1079eba06f3e4) | 2026-03-12 04:06 |
-| Stanford Health Care | Senior Enterprise Info Mgmt Platform Admin | Palo Alto, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=128cc03b9e23fea5) | 2026-03-12 04:06 |
-| Solid Power | Scientific Software Engineer | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=401153734bd96b6d) | 2026-03-12 04:06 |
-| Numerica Credit Union | Data Architect and Data Engineer | Spokane Valley, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fdd757a00dd02d2f) | 2026-03-12 04:06 |
-| Elevance Health | Senior Cloud Platform Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c89c64503f57120f) | 2026-03-12 04:06 |
-| Chewy | Senior Software Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cc956ee1692fe630) | 2026-03-12 04:06 |
-| Foot Locker | Senior Engineer, Store Efficiency | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a63f900fc43c207) | 2026-03-12 04:06 |
-| Premera Blue Cross | AI/Data Scientist II | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ea032120825aad4) | 2026-03-12 04:06 |
-| PDI | Senior Digital Engineer | Woodcliff Lake, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=911bb6b38a29babb) | 2026-03-12 04:06 |
 
 
 ---
