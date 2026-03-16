@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-16 20:29
+Last updated: 2026-03-16 21:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SLK America | Technical Architect (Node.js & React.js) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f4cf29a03b04d30c) | 2026-03-16 21:31 |
+| New England Life Care | Data Warehouse Developer | Concord, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=239b1046f06d3d2f) | 2026-03-16 21:31 |
+| New England Life Care | Data Warehouse Developer | Woburn, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a7f6dab575a97ad) | 2026-03-16 21:31 |
+| New England Life Care | Data Warehouse Developer | Canton, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d02a598ce56d257c) | 2026-03-16 21:31 |
+| New England Life Care | Data Warehouse Developer | Scarborough, ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b64bf3747c350d3) | 2026-03-16 21:31 |
+| AMH | Site Reliability Engineer | Draper, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6de9642d876b3baf) | 2026-03-16 21:31 |
+| CyberArk | Senior SDET - Performance Test Engineer | Santa Clara, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64e75a054f0e88a5) | 2026-03-16 21:31 |
+| American Airlines | Sr Associate Engineer/Engineer, IT Software | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f090126c2e636f7f) | 2026-03-16 21:31 |
+| Colgate-Palmolive | Commercial Operations BI Analyst | Piscataway, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8f866ceafbf4452) | 2026-03-16 21:31 |
 | Fractal Analytics | AWS Data Engineer | RI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5861e377dbf3fbc8) | 2026-03-16 20:29 |
 | General Dynamics Information Technology | Software Engineer - TS/SCI with Polygraph | McLean, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e85a55bb1da096e6) | 2026-03-16 20:29 |
 | Tebra | Security Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca3f0014b8bc7264) | 2026-03-16 20:29 |
@@ -437,15 +446,6 @@ Last updated: 2026-03-16 20:29
 | NATIONMIND LLC | Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be3efe04557b32b2) | 2026-03-12 22:17 |
 | Tata Consultancy Services (TCS) | Data Architect | Milford, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f873725db34d611) | 2026-03-12 22:17 |
 | jamf | Platform Engineer II (Terraform & Kubernetes) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb44cfe22f2062c3) | 2026-03-12 22:17 |
-| Shopko Optical | Data Engineer II | Green Bay, WI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ab5b4ffc7f2a589f) | 2026-03-12 21:25 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=234fd2801a1e56d5) | 2026-03-12 21:25 |
-| North Carolina State University | REFRAME Platform Architect | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5f6ecb9f752d7e5c) | 2026-03-12 21:25 |
-| Velosys | Architect - Python | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c23106e5c23ff68d) | 2026-03-12 21:25 |
-| GreenStone Farm Credit Services | Data Engineer | East Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a31b1d4cb43adaa5) | 2026-03-12 21:25 |
-| Shopko Optical | Data Engineer I | Green Bay, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53ba3cad7c42a3af) | 2026-03-12 21:25 |
-| BMO Financial Group | Software Developer I | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89ef6144b41540db) | 2026-03-12 21:25 |
-| Hayden AI | Senior Software Engineer, Infrastructure | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6ca54fa35f4880f) | 2026-03-12 21:25 |
-| Mission Produce | AI/Machine Learning Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb0af3bdc55914e6) | 2026-03-12 21:25 |
 
 
 ---
