@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-16 09:56
+Last updated: 2026-03-16 10:49
 
 ### 🚀 Daily Job Matches
 
@@ -499,9 +499,6 @@ Last updated: 2026-03-16 09:56
 | Logic, Inc. | Senior Application Platform Architect - 6163848 | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f23620eb37b83f) | 2026-03-12 11:27 |
 | Capgemini | Cloud Data Engineer | Bridgewater, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c815831b07a9f2fa) | 2026-03-12 11:27 |
 | Openkyber | Senior AWS FinOps Specialist | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=68fa6a156ca0e34f) | 2026-03-12 11:27 |
-| Inframark | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3de4a0fc38ba3e2b) | 2026-03-12 10:31 |
-| Inframark | DevOps Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f701cd607ccab481) | 2026-03-12 10:31 |
-| Inframark | DevOps Engineer | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bc5eefd4bc93ea8e) | 2026-03-12 10:31 |
 
 
 ---
