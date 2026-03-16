@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-16 12:51
+Last updated: 2026-03-16 14:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| UnyBrands | Senior Data Engineer Solution Design Focused | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d83c96f81842df2) | 2026-03-16 14:16 |
+| nan | Senior Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ccd49d302b2f7b3) | 2026-03-16 14:16 |
+| nan | Sr Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=508cf5fa2697a154) | 2026-03-16 14:16 |
+| nan | Sr Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=641aca644ab6b5a8) | 2026-03-16 14:16 |
+| nan | Sr Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e78876821e7b218f) | 2026-03-16 14:16 |
 | Purple Austyn Technologies | Senior Big Data Engineer - AWS | Rockville, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=943257051095e0f6) | 2026-03-16 12:51 |
 | SoundThinking | Sr. Data Engineer – Ontology & Semantic Modeling | Fremont, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02d5fa75dac6e177) | 2026-03-16 12:51 |
 | American business solutions inc | SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a3b76cb2a8af4e3) | 2026-03-16 12:51 |
@@ -496,7 +501,6 @@ Last updated: 2026-03-16 12:51
 | Research Foundation CUNY | Application Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9d3a83e2c695668c) | 2026-03-12 14:45 |
 | nan | Software Engineer II - Scala | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f27f10d00e06f337) | 2026-03-12 14:45 |
 | Placer.ai | Production Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5481df28409f336) | 2026-03-12 14:45 |
-| Luxoft | Senior Java Developer (AWS) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61573c8f16db4391) | 2026-03-12 13:58 |
 
 
 ---
