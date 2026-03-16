@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-16 19:06
+Last updated: 2026-03-16 20:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fractal Analytics | AWS Data Engineer | RI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5861e377dbf3fbc8) | 2026-03-16 20:29 |
+| General Dynamics Information Technology | Software Engineer - TS/SCI with Polygraph | McLean, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e85a55bb1da096e6) | 2026-03-16 20:29 |
+| Tebra | Security Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca3f0014b8bc7264) | 2026-03-16 20:29 |
+| Evolent | BI Engineer , BI Center of Excellence | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ecdd9a09c5fe384) | 2026-03-16 20:29 |
+| Bank of America | Senior Engineer â€“ SIEM Platform Engineering & Operations | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd8574275eb972b1) | 2026-03-16 20:29 |
 | Waystar | Sr. Site Reliability Engineer | Lehi, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=05145faabaee2e3b) | 2026-03-16 19:06 |
 | Energyby5 | Senior Software Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f5016f77a0e9f421) | 2026-03-16 19:06 |
 | Energyby5 | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4a5059671136ac6d) | 2026-03-16 19:06 |
@@ -441,28 +446,6 @@ Last updated: 2026-03-16 19:06
 | BMO Financial Group | Software Developer I | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89ef6144b41540db) | 2026-03-12 21:25 |
 | Hayden AI | Senior Software Engineer, Infrastructure | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6ca54fa35f4880f) | 2026-03-12 21:25 |
 | Mission Produce | AI/Machine Learning Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb0af3bdc55914e6) | 2026-03-12 21:25 |
-| Salesforce | BI Data Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f2543168971c5287) | 2026-03-12 20:26 |
-| Apollo Technology Solutions LLC | SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bb48de65765dd65b) | 2026-03-12 20:26 |
-| OneMagnify | Analytics Migration Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f8c5a900c2b1c6c) | 2026-03-12 20:26 |
-| GEICO | Claims Data Analytics Engineer | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a41e5fd8d4039af6) | 2026-03-12 20:26 |
-| Akumin | Development Engineer | Hazleton, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0615dac006ebd6dd) | 2026-03-12 19:37 |
-| Akumin | Development Engineer | Crown Point, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e890f897231a1e5f) | 2026-03-12 19:37 |
-| Akumin | Development Engineer | Pinehurst, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=edecc428ad4e52e1) | 2026-03-12 19:37 |
-| Akumin | Development Engineer | Kansas City, KS, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a28480a9e54addee) | 2026-03-12 19:37 |
-| Akumin | Development Engineer | Daytona Beach, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f2f2413f04206c9d) | 2026-03-12 19:37 |
-| Akumin | Development Engineer | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1453b4d57f424698) | 2026-03-12 19:37 |
-| Akumin | Development Engineer | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=eb2b91e43799078b) | 2026-03-12 19:37 |
-| Akumin | Development Engineer | Charleston, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9d8c6c1522b73f43) | 2026-03-12 19:37 |
-| Akumin | Development Engineer | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4f4fe4f9da167926) | 2026-03-12 19:37 |
-| Akumin | Development Engineer | Ashland, NE, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7fdf2977d8bc9710) | 2026-03-12 19:37 |
-| Akumin | Development Engineer | Owosso, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=46d445a33b21a896) | 2026-03-12 19:37 |
-| Allstate Insurance | Product Engineer – Java Spring Boot - Full Stack | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0e50f142a88c764d) | 2026-03-12 19:37 |
-| Vantage Data Centers | Senior Data Engineer, Global | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2d104ab38a81dc87) | 2026-03-12 19:37 |
-| Allstate Insurance | Service Consultant, Automation Enablement Security Engineer Expert | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ff94dfe3f61f8ecd) | 2026-03-12 19:37 |
-| Skechers | AI Engineer, Design Innovation | Manhattan Beach, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=93163132c02c54e2) | 2026-03-12 19:37 |
-| Watts Water Technologies | Senior Data Engineer | Andover, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e23e88beb9094727) | 2026-03-12 19:37 |
-| StockX | Software Engineering Intern - DRC Team | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c2b144a0f72c9e40) | 2026-03-12 19:37 |
-| GHX | Senior Technical Data Analyst | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b94c4bc25bde3f7) | 2026-03-12 19:37 |
 
 
 ---
