@@ -1,12 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 20:30
+Last updated: 2026-03-17 21:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| HH Brown Shoe Company | Systems Administrator | Martinsburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0bca63db22516c1c) | 2026-03-17 20:30 |
+| Creative Global Consulting | Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=839384e124811ed2) | 2026-03-17 21:29 |
+| Deltasoft Solutions LLC | Snowflake Architect Needed --- Local to Bay Area California | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=db48c42eace691bd) | 2026-03-17 21:29 |
+| SpotOn | Senior Data Engineer (Clickhouse) | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9b7364dc6344381a) | 2026-03-17 21:29 |
+| SpotOn | Senior Data Engineer (Clickhouse) | Royal Oak, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=40e5ace322ab3dae) | 2026-03-17 21:29 |
+| SpotOn | Senior Data Engineer (Clickhouse) | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=101461b42f2929c7) | 2026-03-17 21:29 |
+| HH Brown Shoe Company | Systems Administrator | Martinsburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0bca63db22516c1c) | 2026-03-17 21:29 |
+| Tata Consultancy Services (TCS) | Cloud Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50effdd5410c6590) | 2026-03-17 21:29 |
+| Blue Sky Technology Solutions LLC | Senior Data Engineer (Snowflake/dbt/Healthcare) - 100% Remote | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e0e6e4a15258683) | 2026-03-17 21:29 |
+| Northwestern Mutual | Software Engineer III | Milwaukee, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12eceb4f7778f690) | 2026-03-17 21:29 |
+| Tata Consultancy Services (TCS) | Data Ops Engineer | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2ad5647756056444) | 2026-03-17 21:29 |
+| Tata Consultancy Services (TCS) | Data Analytics & BI with Tableau | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=74e8e4b6ccf822c4) | 2026-03-17 21:29 |
+| AMH | Site Reliability Engineer | Draper, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b27aedc78511ea81) | 2026-03-17 21:29 |
+| Avaya | Site Reliability Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=93cc248964e1485d) | 2026-03-17 21:29 |
 | WEX Inc. | Junior Software Development Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f2fe164c21da5777) | 2026-03-17 20:30 |
 | RevSpring, Inc | Senior Data Engineer - Analytics | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5b286e8aab1c0d5) | 2026-03-17 19:56 |
 | RevSpring, Inc | Senior Data Engineer - Analytics | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3ecf529675b29a2e) | 2026-03-17 19:56 |
@@ -383,10 +395,6 @@ Last updated: 2026-03-17 20:30
 | Providge Consulting | Cloud Data Platform Administrator | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3f91397b311581fc) | 2026-03-13 22:21 |
 | WTW | Junior Data Engineer | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0a179fc6f0cf1e66) | 2026-03-13 22:21 |
 | NielsenIQ | Data Architect - T7 | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2f81821b15c92cc4) | 2026-03-13 22:21 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4273480495ae1f7a) | 2026-03-13 21:26 |
-| AAA Central Penn | Business Intelligence Developer | Harrisburg, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca9e0fb095260347) | 2026-03-13 21:26 |
-| Wells Fargo | Senior Software Engineer | Chandler, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=61994c624b012a49) | 2026-03-13 21:26 |
-| AAA Central Penn | Business Intelligence Analyst | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0c2d9ec8a239efae) | 2026-03-13 21:26 |
 
 
 ---
