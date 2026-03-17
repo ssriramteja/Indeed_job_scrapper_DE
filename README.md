@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 15:56
+Last updated: 2026-03-17 16:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CapTech Consulting | Senior Data Architect (AWS, Azure, GCP) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=29610b7eba9cc4cb) | 2026-03-17 16:59 |
+| CapTech Consulting | Senior Data Architect (AWS, Azure, GCP) | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=693bc93cfe95e968) | 2026-03-17 16:59 |
+| CapTech Consulting | Senior Data Architect (AWS, Azure, GCP) | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fafa6085d07ec220) | 2026-03-17 16:59 |
+| CapTech Consulting | Senior Data Architect (AWS, Azure, GCP) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=71120e321dbd18c4) | 2026-03-17 16:59 |
+| CapTech Consulting | Senior Data Architect (AWS, Azure, GCP) | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=be687a9701ed10cb) | 2026-03-17 16:59 |
+| HH Brown Shoe Company | Systems Administrator | Martinsburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0bca63db22516c1c) | 2026-03-17 16:59 |
+| Healthix | Data Analyst | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b51729f31816ec17) | 2026-03-17 16:59 |
+| Lennar | Sr Data Engineer | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4efec6d9008a5b85) | 2026-03-17 16:59 |
+| Evercommerce | EverCommerce - Data Engineering Internship (Remote, US) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1c2c847575eb45e) | 2026-03-17 16:59 |
+| Optum | Data Scientist | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd7a43792394b59b) | 2026-03-17 16:59 |
 | ARCHKEY SOLUTIONS | Senior Python Developer | Fenton, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ecdbaaed7feccfa0) | 2026-03-17 15:56 |
 | Reignmarkcs | Smart Factory Data Engineering Architect (AWS/manufacturing) | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7331096c97ad5651) | 2026-03-17 15:56 |
 | Tata Consultancy Services (TCS) | Cloud Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ec8d51cca35c142a) | 2026-03-17 15:56 |
@@ -365,12 +375,6 @@ Last updated: 2026-03-17 15:56
 | Openkyber | AI Application Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53ce4aa52de74c4b) | 2026-03-13 17:28 |
 | Mission Pet Health | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4d64ad500888319) | 2026-03-13 17:28 |
 | Infoorigin Inc | SQL Database Administrator-Richmond, VA-Hybrid | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0a6462421d5ba59) | 2026-03-13 17:28 |
-| Cooperative Benefits Group | Data Engineer - Senior (Must be in UT, FL, or GA) | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=33af3f3ce9d604c3) | 2026-03-13 16:30 |
-| Karoo Health | Senior DevOps Engineer | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7eda2999554662e7) | 2026-03-13 16:30 |
-| Karoo Health | Senior DevOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=18cf8e2c155436b7) | 2026-03-13 16:30 |
-| The Cadmus Group, Inc. | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6fbbf4f8d1bef0bc) | 2026-03-13 16:30 |
-| Visa | NGC – Senior Software Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d745706dd7f0bfc) | 2026-03-13 16:30 |
-| Brillius | Software Dev Engineer (Python, AWS) | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=71529c637e66b97e) | 2026-03-13 16:30 |
 
 
 ---
