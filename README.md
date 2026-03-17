@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 10:42
+Last updated: 2026-03-17 11:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tapouts | Senior Data Engineer | Venice, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bcb6f48928a08bed) | 2026-03-17 11:38 |
+| HCA Healthcare | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee3c21dbe995c8b9) | 2026-03-17 11:38 |
+| HCA Healthcare | Senior Solution Architect | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bfb76bfe53b97698) | 2026-03-17 11:38 |
+| Openkyber | Cloud Identity Architect | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f892a7ff9f3b3673) | 2026-03-17 11:38 |
+| Openkyber | Vector Database Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bc525900a1b67460) | 2026-03-17 11:38 |
+| Openkyber | AWS Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d78a7ea53a7fb5c5) | 2026-03-17 11:38 |
+| Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b9a5c0072e4a559) | 2026-03-17 11:38 |
+| Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=703ef93955ad68ff) | 2026-03-17 11:38 |
+| Openkyber | Networking Trainee | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=852483a8d2e6f7e3) | 2026-03-17 11:38 |
 | Seismic | Senior Software Engineer II - Backend - AI Search | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=16388829699da902) | 2026-03-17 10:42 |
 | JPMorganChase | Software Engineer III - AWS Glue | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a9c8436cd0c6787a) | 2026-03-17 09:46 |
 | JPMorganChase | Software Engineer III: Machine Learning Platform | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34e86f2f2a315595) | 2026-03-17 09:46 |
@@ -358,9 +367,6 @@ Last updated: 2026-03-17 10:42
 | Capital One | Senior Data Engineer (Apache Flink, Java, Snowflake, AWS) | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0c1124c41db4d8a1) | 2026-03-13 14:37 |
 | RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=500303562c165609) | 2026-03-13 12:37 |
 | MicroStrategy | Senior Sales Engineer | Tysons Corner, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63f6b81d553d195c) | 2026-03-13 12:37 |
-| Thermo Fisher Scientific | Senior Developer | NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eca70a174fda1627) | 2026-03-13 11:25 |
-| TikTok | Senior Host Security Validation & Operations Engineer - Global Security Organization | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=563ec55e69d8d3c1) | 2026-03-13 11:25 |
-| Guidewire | Senior Software Engineer - Cloud Platform | San Mateo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=652600a703d693c0) | 2026-03-13 11:25 |
 
 
 ---
