@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 05:54
+Last updated: 2026-03-17 06:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Lyzr AI | Solutions Architect | Jersey City, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8a23265f32b23de3) | 2026-03-17 06:54 |
 | Westerra Credit Union | Business Intelligence Developer (Hybrid) | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff473c63d82167e1) | 2026-03-17 05:54 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=342faa6b5c9756a2) | 2026-03-17 04:10 |
 | Alight Solutions | Participant Communication Services (PCS) Platform Architect - Virtual | IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c5ed89084b43969d) | 2026-03-17 04:10 |
@@ -355,11 +356,6 @@ Last updated: 2026-03-17 05:54
 | TikTok | Senior Host Security Validation & Operations Engineer - Global Security Organization | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=563ec55e69d8d3c1) | 2026-03-13 11:25 |
 | Guidewire | Senior Software Engineer - Cloud Platform | San Mateo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=652600a703d693c0) | 2026-03-13 11:25 |
 | datAvail | Contractor - Senior Python Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a8909dbc39a2e3e5) | 2026-03-13 10:28 |
-| Concentrix | Senior Databricks Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c836fa214ed2bd2) | 2026-03-13 06:41 |
-| DS Technologies Inc | Engineer II – Big Data / Apptio / ETL | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7c7e21b0243e5dfb) | 2026-03-13 06:41 |
-| DS Technologies Inc | Senior Platform Engineer | Sunrise, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6477669f0e5f126) | 2026-03-13 06:41 |
-| DS Technologies Inc | Engineer II – Java / Node.js / Python | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b275c248953625e5) | 2026-03-13 06:41 |
-| Career Mentors | Oracle PL/SQL Developer | Addison, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d90e5af987e92f78) | 2026-03-13 06:41 |
 
 
 ---
