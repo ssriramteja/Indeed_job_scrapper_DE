@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 19:56
+Last updated: 2026-03-17 20:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| HH Brown Shoe Company | Systems Administrator | Martinsburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0bca63db22516c1c) | 2026-03-17 19:56 |
+| HH Brown Shoe Company | Systems Administrator | Martinsburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0bca63db22516c1c) | 2026-03-17 20:30 |
+| WEX Inc. | Junior Software Development Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f2fe164c21da5777) | 2026-03-17 20:30 |
 | RevSpring, Inc | Senior Data Engineer - Analytics | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5b286e8aab1c0d5) | 2026-03-17 19:56 |
 | RevSpring, Inc | Senior Data Engineer - Analytics | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3ecf529675b29a2e) | 2026-03-17 19:56 |
 | AnswerNet | Mgr Software Development- REMOTE | El Paso, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3a865f04fb8b0cdc) | 2026-03-17 19:56 |
@@ -386,8 +387,6 @@ Last updated: 2026-03-17 19:56
 | AAA Central Penn | Business Intelligence Developer | Harrisburg, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca9e0fb095260347) | 2026-03-13 21:26 |
 | Wells Fargo | Senior Software Engineer | Chandler, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=61994c624b012a49) | 2026-03-13 21:26 |
 | AAA Central Penn | Business Intelligence Analyst | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0c2d9ec8a239efae) | 2026-03-13 21:26 |
-| Texplorers Inc. | Senior BI Engineer | Lewisville, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2663b281c03f3187) | 2026-03-13 20:25 |
-| Geopaq Logic | AWS Cloud Engineer (W2) | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e67a47f043009099) | 2026-03-13 20:25 |
 
 
 ---
