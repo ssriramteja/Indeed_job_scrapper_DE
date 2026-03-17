@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 07:49
+Last updated: 2026-03-17 08:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Hays | ETL Data Engineer | Carolina, PR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=233a1a341ad0aa38) | 2026-03-17 08:41 |
 | Lyzr AI | Solutions Architect | Jersey City, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8a23265f32b23de3) | 2026-03-17 06:54 |
 | Westerra Credit Union | Business Intelligence Developer (Hybrid) | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff473c63d82167e1) | 2026-03-17 05:54 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=342faa6b5c9756a2) | 2026-03-17 04:10 |
