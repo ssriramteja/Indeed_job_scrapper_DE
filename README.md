@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 14:18
+Last updated: 2026-03-17 15:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ARCHKEY SOLUTIONS | Senior Python Developer | Fenton, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ecdbaaed7feccfa0) | 2026-03-17 15:56 |
+| Reignmarkcs | Smart Factory Data Engineering Architect (AWS/manufacturing) | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7331096c97ad5651) | 2026-03-17 15:56 |
+| Tata Consultancy Services (TCS) | Cloud Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ec8d51cca35c142a) | 2026-03-17 15:56 |
+| SS&C | Senior AI Platform Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9a3d5dba9944f59) | 2026-03-17 15:56 |
 | National Rural Water Association | Senior Data Engineer | Duncan, OK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=bcf4aa616b7efc0f) | 2026-03-17 14:18 |
 | Radiant Digital | AWS Data Engineer | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=72e4768c31a35e7d) | 2026-03-17 14:18 |
 | Optum | Senior Software Engineer | Bridgeton, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef17b59d1b779ca6) | 2026-03-17 14:18 |
@@ -367,9 +371,6 @@ Last updated: 2026-03-17 14:18
 | The Cadmus Group, Inc. | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6fbbf4f8d1bef0bc) | 2026-03-13 16:30 |
 | Visa | NGC – Senior Software Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d745706dd7f0bfc) | 2026-03-13 16:30 |
 | Brillius | Software Dev Engineer (Python, AWS) | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=71529c637e66b97e) | 2026-03-13 16:30 |
-| Second Round, LP | Data Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7b463ca1eaf373d) | 2026-03-13 15:35 |
-| Capital One | Distinguished Engineer - Enterprise Data Storage and Consumption | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c7c2046eb45f5f85) | 2026-03-13 14:37 |
-| Capital One | Senior Data Engineer (Apache Flink, Java, Snowflake, AWS) | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0c1124c41db4d8a1) | 2026-03-13 14:37 |
 
 
 ---
