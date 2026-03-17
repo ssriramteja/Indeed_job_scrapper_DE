@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 11:38
+Last updated: 2026-03-17 12:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SoundThinking | Sr. Data Engineer – Ontology & Semantic Modeling | Fremont, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e92d0315202204b9) | 2026-03-17 12:48 |
 | Tapouts | Senior Data Engineer | Venice, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bcb6f48928a08bed) | 2026-03-17 11:38 |
 | HCA Healthcare | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee3c21dbe995c8b9) | 2026-03-17 11:38 |
 | HCA Healthcare | Senior Solution Architect | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bfb76bfe53b97698) | 2026-03-17 11:38 |
@@ -365,8 +366,6 @@ Last updated: 2026-03-17 11:38
 | Second Round, LP | Data Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7b463ca1eaf373d) | 2026-03-13 15:35 |
 | Capital One | Distinguished Engineer - Enterprise Data Storage and Consumption | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c7c2046eb45f5f85) | 2026-03-13 14:37 |
 | Capital One | Senior Data Engineer (Apache Flink, Java, Snowflake, AWS) | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0c1124c41db4d8a1) | 2026-03-13 14:37 |
-| RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=500303562c165609) | 2026-03-13 12:37 |
-| MicroStrategy | Senior Sales Engineer | Tysons Corner, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63f6b81d553d195c) | 2026-03-13 12:37 |
 
 
 ---
