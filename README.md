@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 22:25
+Last updated: 2026-03-17 23:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HealthPartners | Data Engineer Senior | Bloomington, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e53c61ac50aad63e) | 2026-03-17 23:24 |
+| JPMorganChase | Software Engineer III - AWS, Python, Spark | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17e1b01be240c764) | 2026-03-17 23:24 |
+| Allstate Insurance | AI & Cloud Platform Consultant Expert | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03afdcd6cea2e3b1) | 2026-03-17 23:24 |
+| Tesla | Data Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3abd3ae71d8f87b6) | 2026-03-17 23:24 |
+| athenahealth | Associate Software Engineer, Platform – COCore | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99ed0d4d942ded9c) | 2026-03-17 23:24 |
+| athenahealth | Senior Software Engineer - API Solutions | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7bcf2915fd9bd1ef) | 2026-03-17 23:24 |
+| Fanatics | Senior Software Engineer – Client Service | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da07f3cfe8d1d836) | 2026-03-17 23:24 |
 | Hotwire Communications | Senior Software Engineer (ServiceNow) | Fort Lauderdale, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8a28cfe9183e3c37) | 2026-03-17 22:25 |
 | Arrow International | Senior Database Engineer | Chicago, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=25c3c576bdca9fea) | 2026-03-17 22:25 |
 | ConcertAI | Senior Data Engineer | Plymouth Meeting, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=46a6962bac387525) | 2026-03-17 22:25 |
@@ -13,7 +20,6 @@ Last updated: 2026-03-17 22:25
 | FanDuel | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d916292cc6da2afe) | 2026-03-17 22:25 |
 | Satlantis | SENIOR COMPUTER VISION ENGINEER – REMOTE SENSING | Gainesville, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=74994cef74235bca) | 2026-03-17 22:25 |
 | Morgan Stanley | AI Platform Engineer - Associate | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2567cddf71e8f0fa) | 2026-03-17 22:25 |
-| HH Brown Shoe Company | Systems Administrator | Martinsburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0bca63db22516c1c) | 2026-03-17 22:25 |
 | CX Data Labs | Azure Data Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64b708c3e0be0da7) | 2026-03-17 22:25 |
 | TruStartIT LLC | Senior Databricks Developer / Data Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ecfe4e0f23d35bf4) | 2026-03-17 22:25 |
 | Hanger | Data Engineer III | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7a7763cc6047d702) | 2026-03-17 22:25 |
@@ -402,15 +408,6 @@ Last updated: 2026-03-17 22:25
 | GEICO | Senior Engineer - Java [Hybrid] | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e55835033d967ab0) | 2026-03-14 01:14 |
 | GEICO | Senior Engineer - Java [Hybrid] | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6345d3ebbb19b2e5) | 2026-03-14 01:14 |
 | GEICO | Senior Engineer - Java [Hybrid] | Chevy Chase, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8651b85653d1da21) | 2026-03-14 01:14 |
-| Capgemini | Associate Data Scientist | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=52f111d99c03d0f9) | 2026-03-13 23:20 |
-| Cummins | Data Engineer - Senior | Columbus, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b6bee0d4a42c16ed) | 2026-03-13 23:20 |
-| Momentive Software | Senior ML Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c2662d7bd818f7f6) | 2026-03-13 23:20 |
-| United Concordia Dental | Senior Data Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9218ff5eb1a7d2c2) | 2026-03-13 23:20 |
-| SCAN Health Plan | Analytics, Full-Stack Engineer | Long Beach, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=381b905fbb17a824) | 2026-03-13 23:20 |
-| Capgemini | Cloud Migration Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=74a47a5fd7f767fe) | 2026-03-13 23:20 |
-| Momentive Software | AI Agent Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f59c40422f4d27b8) | 2026-03-13 23:20 |
-| Hydrafacial | Senior Data Engineer | Lakewood, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0bf5e2df2b8b26e0) | 2026-03-13 23:20 |
-| University of Central Florida | Enterprise Data & BI Architect II | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d088a133aaee12a5) | 2026-03-13 23:20 |
 
 
 ---
