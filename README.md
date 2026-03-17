@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 08:41
+Last updated: 2026-03-17 09:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III - AWS Glue | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a9c8436cd0c6787a) | 2026-03-17 09:46 |
+| JPMorganChase | Software Engineer III: Machine Learning Platform | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34e86f2f2a315595) | 2026-03-17 09:46 |
+| SiriusXM | Data Engineer III | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0fc6292598e8305) | 2026-03-17 09:46 |
+| HealthEdge Software, Inc. | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cc60e837a5ce034) | 2026-03-17 09:46 |
 | Hays | ETL Data Engineer | Carolina, PR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=233a1a341ad0aa38) | 2026-03-17 08:41 |
 | Lyzr AI | Solutions Architect | Jersey City, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8a23265f32b23de3) | 2026-03-17 06:54 |
 | Westerra Credit Union | Business Intelligence Developer (Hybrid) | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff473c63d82167e1) | 2026-03-17 05:54 |
