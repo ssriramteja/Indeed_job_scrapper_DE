@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-17
 
-**Total Jobs Found:** 92
+**Total Jobs Found:** 100
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Senior Data Engineer & Architect @ Adobe
+## 2. Engineer/Sr Engineer, IT Software @ American Airlines
+**Match Score:** 18.8%
+
+📍 **Location:** Fort Worth, TX, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Unity Catalog, Spark, PySpark, Scala, Kafka, SQL Server
+
+[Apply Here](https://www.indeed.com/viewjob?jk=342faa6b5c9756a2)
+
+---
+
+## 3. Senior Data Engineer & Architect @ Adobe
 **Match Score:** 17.4%
 
 📍 **Location:** San Jose, CA, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Azure Network Engineer @ Openkyber
+## 4. Azure Network Engineer @ Openkyber
 **Match Score:** 17.4%
 
 📍 **Location:** AK, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Azure Network Engineer @ Openkyber
+## 5. Azure Network Engineer @ Openkyber
 **Match Score:** 17.4%
 
 📍 **Location:** AK, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Kafka Schema Registry Engineer @ Openkyber
+## 6. Kafka Schema Registry Engineer @ Openkyber
 **Match Score:** 16.7%
 
 📍 **Location:** AK, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Associate ML Infrastructure Engineer @ Openkyber
+## 7. Associate ML Infrastructure Engineer @ Openkyber
 **Match Score:** 16.7%
 
 📍 **Location:** AK, US USA
@@ -71,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Kafka Schema Registry Engineer @ Openkyber
+## 8. Kafka Schema Registry Engineer @ Openkyber
 **Match Score:** 16.7%
 
 📍 **Location:** AK, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Data Engineer with Python @ Realign
+## 9. Data Engineer with Python @ Realign
 **Match Score:** 16.0%
 
 📍 **Location:** Malvern, PA, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Cloud IAM Engineer @ Openkyber
+## 10. Senior Cloud IAM Engineer @ Openkyber
 **Match Score:** 16.0%
 
 📍 **Location:** AK, US USA
@@ -104,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Kubernetes MLOps Engineer @ Openkyber
+## 11. Kubernetes MLOps Engineer @ Openkyber
 **Match Score:** 16.0%
 
 📍 **Location:** AK, US USA
@@ -115,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Data Engineer @ CPI Security
+## 12. Data Engineer @ CPI Security
 **Match Score:** 15.3%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -126,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Kafka Data Streaming Consultant @ Openkyber
+## 13. Kafka Data Streaming Consultant @ Openkyber
 **Match Score:** 15.3%
 
 📍 **Location:** AK, US USA
@@ -137,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Software Development Engineer @ Philips
+## 14. Software Development Engineer @ Philips
 **Match Score:** 14.6%
 
 📍 **Location:** Cambridge, MA, US USA
@@ -148,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. AWS Data Engineer @ Fractal Analytics
+## 15. AWS Data Engineer @ Fractal Analytics
 **Match Score:** 14.6%
 
 📍 **Location:** RI, US USA
@@ -159,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. AWS Network Engineer @ Openkyber
+## 16. AWS Network Engineer @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** AK, US USA
@@ -170,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Kafka Real Time Analytics Engineer @ Openkyber
+## 17. Kafka Real Time Analytics Engineer @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** AK, US USA
@@ -181,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Azure Cloud Engineer @ Five Guys
+## 18. Azure Cloud Engineer @ Five Guys
 **Match Score:** 13.9%
 
 📍 **Location:** Alexandria, VA, US USA
@@ -192,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. (1383) Senior SRE/DevOps Engineer @ Nearsure
+## 19. (1383) Senior SRE/DevOps Engineer @ Nearsure
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -203,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. IAM Helpdesk Analyst @ Openkyber
+## 20. IAM Helpdesk Analyst @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** AK, US USA
@@ -214,7 +225,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Senior Backend Engineer @ Sun Group
+## 21. Participant Communication Services (PCS) Platform Architect - Virtual @ Alight Solutions
+**Match Score:** 13.9%
+
+📍 **Location:** IL, US USA
+
+🔑 **Keywords:** AWS, ECS, RDS, Scala, SQL Server, PostgreSQL, MongoDB, NoSQL, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c5ed89084b43969d)
+
+---
+
+## 22. Senior Backend Engineer @ Sun Group
 **Match Score:** 13.9%
 
 📍 **Location:** VA, US USA
@@ -225,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Kafka @ Openkyber
+## 23. Kafka @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** AK, US USA
@@ -236,7 +258,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Software Engineer @ DocuSign
+## 24. Full Stack Developer @ Tata Consultancy Services (TCS)
+**Match Score:** 13.2%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, SQS, API Gateway, ECS, IAM, RDS, Scala, DynamoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=407c52d9f78d8a4a)
+
+---
+
+## 25. Senior Software Engineer @ DocuSign
 **Match Score:** 13.2%
 
 📍 **Location:** Seattle, WA, US USA
@@ -247,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Software Engineer - TS/SCI with Polygraph @ General Dynamics Information Technology
+## 26. Software Engineer - TS/SCI with Polygraph @ General Dynamics Information Technology
 **Match Score:** 13.2%
 
 📍 **Location:** McLean, VA, US USA
@@ -258,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Senior Kafka Streaming Engineer @ Openkyber
+## 27. Senior Kafka Streaming Engineer @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** AK, US USA
@@ -269,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Senior Production Engineer @ Legion
+## 28. Senior Production Engineer @ Legion
 **Match Score:** 12.5%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -280,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Associate ML Infrastructure Engineer @ Openkyber
+## 29. Associate ML Infrastructure Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** AK, US USA
@@ -291,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Network Engineer @ Openkyber
+## 30. Network Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** AK, US USA
@@ -302,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Network Operations Trainee @ Openkyber
+## 31. Network Operations Trainee @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** AK, US USA
@@ -313,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 32. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Falls Church, VA, US USA
@@ -324,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 33. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Chevy Chase, MD, US USA
@@ -335,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 34. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Baltimore, MD, US USA
@@ -346,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 35. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -357,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 36. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -368,7 +401,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Java Consultant @ Openkyber
+## 37. Senior Full Stack Software Engineer @ SS&C
+**Match Score:** 12.5%
+
+📍 **Location:** Waltham, MA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, PostgreSQL, MySQL, MongoDB, Cassandra, NoSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=df7e33c6678441d2)
+
+---
+
+## 38. Kafka Operations Administrator @ Tata Consultancy Services (TCS)
+**Match Score:** 12.5%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Scala, Kafka, Kafka Connect, Splunk, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f208993ee2fdbe1c)
+
+---
+
+## 39. Java Consultant @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** AK, US USA
@@ -376,61 +431,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, Kafka, NoSQL, CI/CD, Jenkins, GitHub Actions
 
 [Apply Here](https://www.indeed.com/viewjob?jk=032bac0300438f5c)
-
----
-
-## 35. Data Warehouse Developer @ New England Life Care
-**Match Score:** 12.5%
-
-📍 **Location:** Concord, NH, US USA
-
-🔑 **Keywords:** AWS, Azure, Data Factory, Scala, Snowflake, SQL Server, Dimensional Modeling, Snowflake Schema, Fact Tables, Dimension Tables
-
-[Apply Here](https://www.indeed.com/viewjob?jk=239b1046f06d3d2f)
-
----
-
-## 36. Data Warehouse Developer @ New England Life Care
-**Match Score:** 12.5%
-
-📍 **Location:** Woburn, MA, US USA
-
-🔑 **Keywords:** AWS, Azure, Data Factory, Scala, Snowflake, SQL Server, Dimensional Modeling, Snowflake Schema, Fact Tables, Dimension Tables
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3a7f6dab575a97ad)
-
----
-
-## 37. Data Warehouse Developer @ New England Life Care
-**Match Score:** 12.5%
-
-📍 **Location:** Canton, MA, US USA
-
-🔑 **Keywords:** AWS, Azure, Data Factory, Scala, Snowflake, SQL Server, Dimensional Modeling, Snowflake Schema, Fact Tables, Dimension Tables
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d02a598ce56d257c)
-
----
-
-## 38. Data Warehouse Developer @ New England Life Care
-**Match Score:** 12.5%
-
-📍 **Location:** Scarborough, ME, US USA
-
-🔑 **Keywords:** AWS, Azure, Data Factory, Scala, Snowflake, SQL Server, Dimensional Modeling, Snowflake Schema, Fact Tables, Dimension Tables
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0b64bf3747c350d3)
-
----
-
-## 39. Salesforce Developer @ FundMate LLC
-**Match Score:** 12.5%
-
-📍 **Location:** Brooklyn, NY, US USA
-
-🔑 **Keywords:** AWS, GCP, Scala, PostgreSQL, MongoDB, NoSQL, ETL, CI/CD, Jenkins, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d833bbf779bc5e9f)
 
 ---
 
@@ -489,7 +489,73 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Sr Azure DevOps Engineer @ nan
+## 45. Data Warehouse Developer @ New England Life Care
+**Match Score:** 12.5%
+
+📍 **Location:** Concord, NH, US USA
+
+🔑 **Keywords:** AWS, Azure, Data Factory, Scala, Snowflake, SQL Server, Dimensional Modeling, Snowflake Schema, Fact Tables, Dimension Tables
+
+[Apply Here](https://www.indeed.com/viewjob?jk=239b1046f06d3d2f)
+
+---
+
+## 46. Data Warehouse Developer @ New England Life Care
+**Match Score:** 12.5%
+
+📍 **Location:** Woburn, MA, US USA
+
+🔑 **Keywords:** AWS, Azure, Data Factory, Scala, Snowflake, SQL Server, Dimensional Modeling, Snowflake Schema, Fact Tables, Dimension Tables
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3a7f6dab575a97ad)
+
+---
+
+## 47. Data Warehouse Developer @ New England Life Care
+**Match Score:** 12.5%
+
+📍 **Location:** Canton, MA, US USA
+
+🔑 **Keywords:** AWS, Azure, Data Factory, Scala, Snowflake, SQL Server, Dimensional Modeling, Snowflake Schema, Fact Tables, Dimension Tables
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d02a598ce56d257c)
+
+---
+
+## 48. Data Warehouse Developer @ New England Life Care
+**Match Score:** 12.5%
+
+📍 **Location:** Scarborough, ME, US USA
+
+🔑 **Keywords:** AWS, Azure, Data Factory, Scala, Snowflake, SQL Server, Dimensional Modeling, Snowflake Schema, Fact Tables, Dimension Tables
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0b64bf3747c350d3)
+
+---
+
+## 49. Salesforce Developer @ FundMate LLC
+**Match Score:** 12.5%
+
+📍 **Location:** Brooklyn, NY, US USA
+
+🔑 **Keywords:** AWS, GCP, Scala, PostgreSQL, MongoDB, NoSQL, ETL, CI/CD, Jenkins, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d833bbf779bc5e9f)
+
+---
+
+## 50. Senior Software Engineer @ SS&C
+**Match Score:** 11.8%
+
+📍 **Location:** Waltham, MA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, Scala, MongoDB, Cassandra, NoSQL, Data Modeling, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9ab66e7fa68e90c6)
+
+---
+
+## 51. Sr Azure DevOps Engineer @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Austin, TX, US USA
@@ -500,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Sr Azure DevOps Engineer @ nan
+## 52. Sr Azure DevOps Engineer @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -511,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Senior Data Engineer Solution Design Focused @ UnyBrands
+## 53. Senior Data Engineer Solution Design Focused @ UnyBrands
 **Match Score:** 11.8%
 
 📍 **Location:** Miami, FL, US USA
@@ -522,29 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Sr. Data Engineer – Ontology & Semantic Modeling @ SoundThinking
-**Match Score:** 11.8%
-
-📍 **Location:** Fremont, CA, US USA
-
-🔑 **Keywords:** AWS, S3, IAM, RDS, Databricks, Unity Catalog, Spark, Scala, Data Modeling, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=02d5fa75dac6e177)
-
----
-
-## 49. Consultant, Data Management @ Beghou Consulting
-**Match Score:** 11.8%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** Azure, Data Factory, Databricks, Spark, PySpark, Snowflake, Oracle, PostgreSQL, MySQL, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1564012a6ce57a97)
-
----
-
-## 50. Full Stack Engineer @ Knightscope, Inc.
+## 54. Full Stack Engineer @ Knightscope, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Sunnyvale, CA, US USA
@@ -555,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Java Trainer / Mentor / Educator @ Openkyber
+## 55. Java Trainer / Mentor / Educator @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -566,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Operations Analytics Data Scientist @ RadNet
+## 56. Operations Analytics Data Scientist @ RadNet
 **Match Score:** 11.1%
 
 📍 **Location:** MD, US USA
@@ -577,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Kafka Administrator @ Openkyber
+## 57. Kafka Administrator @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** AK, US USA
@@ -588,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. DBHDS - SQL Database Administrator @ Betis Group, Inc.
+## 58. DBHDS - SQL Database Administrator @ Betis Group, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Richmond, VA, US USA
@@ -599,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Data Engineer @ Kimco Realty Corporation
+## 59. Data Engineer @ Kimco Realty Corporation
 **Match Score:** 11.1%
 
 📍 **Location:** Jericho, NY, US USA
@@ -610,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Application Developer Sr II @ IDEXX Laboratories
+## 60. Application Developer Sr II @ IDEXX Laboratories
 **Match Score:** 11.1%
 
 📍 **Location:** Portland, ME, US USA
@@ -621,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Application Developer Sr I @ IDEXX Laboratories
+## 61. Application Developer Sr I @ IDEXX Laboratories
 **Match Score:** 11.1%
 
 📍 **Location:** Portland, ME, US USA
@@ -632,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. AWS Network Engineer @ Openkyber
+## 62. AWS Network Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** AK, US USA
@@ -643,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. SQL DBA/ Data Engineer- AWS Migration @ Intellibee Inc
+## 63. SQL DBA/ Data Engineer- AWS Migration @ Intellibee Inc
 **Match Score:** 11.1%
 
 📍 **Location:** Richmond, VA, US USA
@@ -654,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. AWS Cloud Engineer - onsite Dallas, TX @ Welltower, Inc
+## 64. AWS Cloud Engineer - onsite Dallas, TX @ Welltower, Inc
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -665,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. SQL Database Administrator @ Skywalk Global
+## 65. SQL Database Administrator @ Skywalk Global
 **Match Score:** 11.1%
 
 📍 **Location:** Richmond, VA, US USA
@@ -676,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. SQL Database Administrator @ American business solutions inc
+## 66. SQL Database Administrator @ American business solutions inc
 **Match Score:** 11.1%
 
 📍 **Location:** Richmond, VA, US USA
@@ -687,18 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Database Engineer @ Excelsior University
-**Match Score:** 11.1%
-
-📍 **Location:** Albany, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Oracle, SQL Server, PostgreSQL, MySQL, ETL, Pentaho, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=85fa6c830bb1cd62)
-
----
-
-## 64. Software Engineer III (Java/SpringBoot/Kafka/Cloud) @ JPMorganChase
+## 67. Software Engineer III (Java/SpringBoot/Kafka/Cloud) @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -709,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. MLOps @ Openkyber
+## 68. MLOps @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** AK, US USA
@@ -720,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Senior Software Engineer @ nan
+## 69. Senior Software Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -731,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Sr Software Engineer @ nan
+## 70. Sr Software Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -742,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. Sr Software Engineer @ nan
+## 71. Sr Software Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -753,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Sr Software Engineer @ nan
+## 72. Sr Software Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -764,7 +797,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. AI Industry 5.0 Engineer @ Bloom Energy
+## 73. Data Analytics & BI with Tableau @ Tata Consultancy Services (TCS)
+**Match Score:** 11.1%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** AWS, Glue, Redshift, Athena, RDS, Databricks, Scala, Oracle, SQL Server, Data Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=aeacb1d14bcd4d4c)
+
+---
+
+## 74. Database Engineer @ Excelsior University
+**Match Score:** 11.1%
+
+📍 **Location:** Albany, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Oracle, SQL Server, PostgreSQL, MySQL, ETL, Pentaho, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=85fa6c830bb1cd62)
+
+---
+
+## 75. AI Industry 5.0 Engineer @ Bloom Energy
 **Match Score:** 11.1%
 
 📍 **Location:** Newark, DE, US USA
@@ -775,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Data Engineer III @ adswizz
+## 76. Data Engineer III @ adswizz
 **Match Score:** 10.4%
 
 📍 **Location:** Irving, TX, US USA
@@ -786,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Senior Engineer @ Tata Consultancy Services (TCS)
+## 77. Senior Engineer @ Tata Consultancy Services (TCS)
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -797,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. EverCommerce - Sr. BI Engineer @ Evercommerce
+## 78. EverCommerce - Sr. BI Engineer @ Evercommerce
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -808,7 +863,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Data Scientist-Tech Con-AI and Data-AI and Quan Modelling-Azure Data Scientist-Mgr-Mult Pos-1680332 @ EY
+## 79. Data Scientist-Tech Con-AI and Data-AI and Quan Modelling-Azure Data Scientist-Mgr-Mult Pos-1680332 @ EY
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
@@ -819,7 +874,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Senior DevOps Engineer @ TeraWatt Infrastructure
+## 80. Senior DevOps Engineer @ TeraWatt Infrastructure
 **Match Score:** 10.4%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -830,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Data Engineer @ VeeRteq Solutions Inc.
+## 81. Data Engineer @ VeeRteq Solutions Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Portland, OR, US USA
@@ -841,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. AWS Network Engineer @ Openkyber
+## 82. AWS Network Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -852,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Site Reliability Engineer @ AMH
+## 83. Site Reliability Engineer @ AMH
 **Match Score:** 10.4%
 
 📍 **Location:** Draper, UT, US USA
@@ -863,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. BI Engineer , BI Center of Excellence @ Evolent
+## 84. BI Engineer , BI Center of Excellence @ Evolent
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -874,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Kafka Cluster Support Engineer @ Openkyber
+## 85. Kafka Cluster Support Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -885,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Azure Network Engineer @ Openkyber
+## 86. Azure Network Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -896,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. AWS Network Engineer @ Openkyber
+## 87. AWS Network Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -907,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. AWS Network Engineer @ Openkyber
+## 88. AWS Network Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -918,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Networking Trainee @ Openkyber
+## 89. Networking Trainee @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -929,7 +984,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Azure Databricks with IDMC experience @ Infosys
+## 90. Senior Software Engineer, (.NET) @ Foundation Source
+**Match Score:** 10.4%
+
+📍 **Location:** Lehi, UT, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Scala, MySQL, CI/CD, Jenkins, Docker, Jenkins, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8d566d00eb2e403d)
+
+---
+
+## 91. DATA SCIENTIST @ Dollar General
+**Match Score:** 10.4%
+
+📍 **Location:** Goodlettsville, TN, US USA
+
+🔑 **Keywords:** RDS, Databricks, Spark, PySpark, Scala, Tableau, Git, Python, SQL, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c81ccc2c8f052915)
+
+---
+
+## 92. Azure Databricks with IDMC experience @ Infosys
 **Match Score:** 10.4%
 
 📍 **Location:** San Ramon, CA, US USA
@@ -940,18 +1017,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Senior Consultant, Data Management @ Beghou Consulting
+## 93. Senior Software Engineer I @ RELX Group
 **Match Score:** 10.4%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Raleigh, NC, US USA
 
-🔑 **Keywords:** Databricks, Spark, PySpark, Snowflake, Oracle, PostgreSQL, MySQL, ETL, Power BI, Tableau
+🔑 **Keywords:** RDS, Scala, PostgreSQL, DynamoDB, Splunk, CI/CD, Jenkins, Jenkins, SonarQube, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=eb1560a6c29ae4e3)
+[Apply Here](https://www.indeed.com/viewjob?jk=12e386150a46a2a5)
 
 ---
 
-## 87. Sr Associate Engineer/Engineer, IT Software @ American Airlines
+## 94. Sr Associate Engineer/Engineer, IT Software @ American Airlines
 **Match Score:** 10.4%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -962,7 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Kafka Production Support Engineer @ Openkyber
+## 95. Kafka Production Support Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -973,7 +1050,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Senior Engineer â€“ SIEM Platform Engineering & Operations @ Bank of America
+## 96. Senior Engineer â€“ SIEM Platform Engineering & Operations @ Bank of America
 **Match Score:** 10.4%
 
 📍 **Location:** Denver, CO, US USA
@@ -984,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Kafka @ Openkyber
+## 97. Kafka @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -995,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Commercial Operations BI Analyst @ Colgate-Palmolive
+## 98. Commercial Operations BI Analyst @ Colgate-Palmolive
 **Match Score:** 10.4%
 
 📍 **Location:** Piscataway, NJ, US USA
@@ -1006,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Security Consultant @ Realign
+## 99. Security Consultant @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** IL, US USA
@@ -1014,6 +1091,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** Azure, GCP, Scala, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Terraform, Kubernetes, AKS
 
 [Apply Here](https://www.indeed.com/viewjob?jk=aa7381f71e38e6eb)
+
+---
+
+## 100. Software Developer @ SAS
+**Match Score:** 10.4%
+
+📍 **Location:** Cary, NC, US USA
+
+🔑 **Keywords:** AWS, Lambda, Scala, NoSQL, CI/CD, Jenkins, Docker, Kubernetes, Jenkins, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=38b2be41415df8a0)
 
 ---
 
