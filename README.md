@@ -1,14 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 19:01
+Last updated: 2026-03-17 19:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HH Brown Shoe Company | Systems Administrator | Martinsburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0bca63db22516c1c) | 2026-03-17 19:56 |
+| RevSpring, Inc | Senior Data Engineer - Analytics | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5b286e8aab1c0d5) | 2026-03-17 19:56 |
+| RevSpring, Inc | Senior Data Engineer - Analytics | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3ecf529675b29a2e) | 2026-03-17 19:56 |
+| AnswerNet | Mgr Software Development- REMOTE | El Paso, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3a865f04fb8b0cdc) | 2026-03-17 19:56 |
+| Goodwill Industries of Ky., Inc. | Data Engineer | Louisville, KY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6c96bce5537ab08e) | 2026-03-17 19:56 |
+| Open Lending | Senior Data Scientist | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=980979d9074d5784) | 2026-03-17 19:56 |
+| Open Lending | Senior Data Scientist | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46dca6f38ea157d1) | 2026-03-17 19:56 |
+| nan | Machine Learning Engineer | Chantilly, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ede5f0e821359409) | 2026-03-17 19:56 |
 | Deltek | Sr Data Engineer | Remote, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=31ac562fdbccfcbb) | 2026-03-17 19:01 |
 | Heritage Construction + Materials | Data Engineer (No Sponsorship Available) | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8313f5120d5c6237) | 2026-03-17 19:01 |
-| HH Brown Shoe Company | Systems Administrator | Martinsburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0bca63db22516c1c) | 2026-03-17 19:01 |
 | VTekis Consulting LLP | Data Architect (Databricks) | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e81f0056e0c1281) | 2026-03-17 19:01 |
 | ServiceTitan | Senior Cloud Security Engineer | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=03ea3f0ee7726aea) | 2026-03-17 19:01 |
 | Blue Shield of California | Full Stack Engineer, Senior | Oakland, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c00e725f72169245) | 2026-03-17 19:01 |
@@ -381,11 +388,6 @@ Last updated: 2026-03-17 19:01
 | AAA Central Penn | Business Intelligence Analyst | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0c2d9ec8a239efae) | 2026-03-13 21:26 |
 | Texplorers Inc. | Senior BI Engineer | Lewisville, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2663b281c03f3187) | 2026-03-13 20:25 |
 | Geopaq Logic | AWS Cloud Engineer (W2) | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e67a47f043009099) | 2026-03-13 20:25 |
-| Aspire Global Tech | SAP SuccessFactors with Public Sector experience- 30% travel to Maryland | Maryland Heights, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=30597264efd3ea16) | 2026-03-13 19:26 |
-| AssetMark | Platform Software Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2ac521d9c6c3e17c) | 2026-03-13 19:26 |
-| SAP | SAP NS2 Sr. DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d01cf9363cb3a286) | 2026-03-13 19:26 |
-| SCAN Health Plan | IT Solutions Architect | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0a7803539b5e31ca) | 2026-03-13 19:26 |
-| Dataflix | Senior Data Governance Consultant (Databricks & Unity Catalog) | Hayward, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a115a9d1c46f9873) | 2026-03-13 19:26 |
 
 
 ---
