@@ -1,17 +1,37 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 21:29
+Last updated: 2026-03-17 22:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Hotwire Communications | Senior Software Engineer (ServiceNow) | Fort Lauderdale, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8a28cfe9183e3c37) | 2026-03-17 22:25 |
+| Arrow International | Senior Database Engineer | Chicago, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=25c3c576bdca9fea) | 2026-03-17 22:25 |
+| ConcertAI | Senior Data Engineer | Plymouth Meeting, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=46a6962bac387525) | 2026-03-17 22:25 |
+| Tata Consultancy Services (TCS) | Databricks Data Engineer | Deerfield, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=025286b55c821347) | 2026-03-17 22:25 |
+| FanDuel | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d916292cc6da2afe) | 2026-03-17 22:25 |
+| Satlantis | SENIOR COMPUTER VISION ENGINEER – REMOTE SENSING | Gainesville, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=74994cef74235bca) | 2026-03-17 22:25 |
+| Morgan Stanley | AI Platform Engineer - Associate | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2567cddf71e8f0fa) | 2026-03-17 22:25 |
+| HH Brown Shoe Company | Systems Administrator | Martinsburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0bca63db22516c1c) | 2026-03-17 22:25 |
+| CX Data Labs | Azure Data Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64b708c3e0be0da7) | 2026-03-17 22:25 |
+| TruStartIT LLC | Senior Databricks Developer / Data Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ecfe4e0f23d35bf4) | 2026-03-17 22:25 |
+| Hanger | Data Engineer III | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7a7763cc6047d702) | 2026-03-17 22:25 |
+| West Monroe | Senior Architect, Data Engineering | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ff9e78b6f0cfc04d) | 2026-03-17 22:25 |
+| EXL Service | Data Engineer Palantir | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d50de78a56f1445) | 2026-03-17 22:25 |
+| Charles River Laboratories | Senior Data Engineer | Wilmington, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfbc6125913efbc5) | 2026-03-17 22:25 |
+| CVS Health | Senior Data Scientist - ML/AI Digital Workplace Experience | CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ed87bc5ed02384b) | 2026-03-17 22:25 |
+| CVS Health | Senior Data Scientist - ML/AI Digital Workplace Experience | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6adae79f36f3017c) | 2026-03-17 22:25 |
+| CVS Health | Senior Data Scientist - ML/AI Digital Workplace Experience | IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bad711dba26cd79) | 2026-03-17 22:25 |
+| CVS Health | Senior Data Scientist - ML/AI Digital Workplace Experience | MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13da579f2549d25f) | 2026-03-17 22:25 |
+| Tata Consultancy Services (TCS) | Senior Engineer Technology | Allen, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fb8d0b3951037c5) | 2026-03-17 22:25 |
+| United States Cold Storage | DATA WAREHOUSE BUSINESS ANALYST | Camden, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c96a3166ccc3279a) | 2026-03-17 22:25 |
+| Tata Consultancy Services (TCS) | Data Engineer - Developer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd500612ef29562e) | 2026-03-17 22:25 |
 | Creative Global Consulting | Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=839384e124811ed2) | 2026-03-17 21:29 |
 | Deltasoft Solutions LLC | Snowflake Architect Needed --- Local to Bay Area California | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=db48c42eace691bd) | 2026-03-17 21:29 |
 | SpotOn | Senior Data Engineer (Clickhouse) | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9b7364dc6344381a) | 2026-03-17 21:29 |
 | SpotOn | Senior Data Engineer (Clickhouse) | Royal Oak, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=40e5ace322ab3dae) | 2026-03-17 21:29 |
 | SpotOn | Senior Data Engineer (Clickhouse) | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=101461b42f2929c7) | 2026-03-17 21:29 |
-| HH Brown Shoe Company | Systems Administrator | Martinsburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0bca63db22516c1c) | 2026-03-17 21:29 |
 | Tata Consultancy Services (TCS) | Cloud Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50effdd5410c6590) | 2026-03-17 21:29 |
 | Blue Sky Technology Solutions LLC | Senior Data Engineer (Snowflake/dbt/Healthcare) - 100% Remote | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e0e6e4a15258683) | 2026-03-17 21:29 |
 | Northwestern Mutual | Software Engineer III | Milwaukee, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12eceb4f7778f690) | 2026-03-17 21:29 |
@@ -391,10 +411,6 @@ Last updated: 2026-03-17 21:29
 | Momentive Software | AI Agent Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f59c40422f4d27b8) | 2026-03-13 23:20 |
 | Hydrafacial | Senior Data Engineer | Lakewood, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0bf5e2df2b8b26e0) | 2026-03-13 23:20 |
 | University of Central Florida | Enterprise Data & BI Architect II | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d088a133aaee12a5) | 2026-03-13 23:20 |
-| Truliant Federal Credit Union | Database Engineer Specialist | Winston-Salem, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dde10a97ad4e1bf9) | 2026-03-13 22:21 |
-| Providge Consulting | Cloud Data Platform Administrator | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3f91397b311581fc) | 2026-03-13 22:21 |
-| WTW | Junior Data Engineer | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0a179fc6f0cf1e66) | 2026-03-13 22:21 |
-| NielsenIQ | Data Architect - T7 | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2f81821b15c92cc4) | 2026-03-13 22:21 |
 
 
 ---
