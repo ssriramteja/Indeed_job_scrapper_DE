@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 09:46
+Last updated: 2026-03-17 10:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Seismic | Senior Software Engineer II - Backend - AI Search | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=16388829699da902) | 2026-03-17 10:42 |
 | JPMorganChase | Software Engineer III - AWS Glue | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a9c8436cd0c6787a) | 2026-03-17 09:46 |
 | JPMorganChase | Software Engineer III: Machine Learning Platform | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34e86f2f2a315595) | 2026-03-17 09:46 |
 | SiriusXM | Data Engineer III | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0fc6292598e8305) | 2026-03-17 09:46 |
@@ -360,7 +361,6 @@ Last updated: 2026-03-17 09:46
 | Thermo Fisher Scientific | Senior Developer | NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eca70a174fda1627) | 2026-03-13 11:25 |
 | TikTok | Senior Host Security Validation & Operations Engineer - Global Security Organization | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=563ec55e69d8d3c1) | 2026-03-13 11:25 |
 | Guidewire | Senior Software Engineer - Cloud Platform | San Mateo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=652600a703d693c0) | 2026-03-13 11:25 |
-| datAvail | Contractor - Senior Python Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a8909dbc39a2e3e5) | 2026-03-13 10:28 |
 
 
 ---
