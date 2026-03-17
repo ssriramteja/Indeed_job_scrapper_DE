@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 17:58
+Last updated: 2026-03-17 19:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Deltek | Sr Data Engineer | Remote, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=31ac562fdbccfcbb) | 2026-03-17 19:01 |
+| Heritage Construction + Materials | Data Engineer (No Sponsorship Available) | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8313f5120d5c6237) | 2026-03-17 19:01 |
+| HH Brown Shoe Company | Systems Administrator | Martinsburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0bca63db22516c1c) | 2026-03-17 19:01 |
+| VTekis Consulting LLP | Data Architect (Databricks) | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e81f0056e0c1281) | 2026-03-17 19:01 |
+| ServiceTitan | Senior Cloud Security Engineer | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=03ea3f0ee7726aea) | 2026-03-17 19:01 |
+| Blue Shield of California | Full Stack Engineer, Senior | Oakland, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c00e725f72169245) | 2026-03-17 19:01 |
 | Openkyber | Streaming Data | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5be2803455ebf096) | 2026-03-17 17:58 |
 | Huntington Bank | Sr Agile Developer - Datamart | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8b0a1eacc51b9571) | 2026-03-17 17:58 |
 | Huntington Bank | Sr Agile Developer - Datamart | Farmers Branch, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=15708f0e06d200c6) | 2026-03-17 17:58 |
@@ -26,7 +32,6 @@ Last updated: 2026-03-17 17:58
 | Openkyber | Kafka Real Time Analytics Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=435cfd216c0dbc26) | 2026-03-17 17:58 |
 | CapTech Consulting | Senior Data Architect (AWS, Azure, GCP) | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6a56c54d2027c92d) | 2026-03-17 17:58 |
 | CapTech Consulting | Senior Data Architect (AWS, Azure, GCP) | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=11dd4db7d11a9ebd) | 2026-03-17 17:58 |
-| HH Brown Shoe Company | Systems Administrator | Martinsburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0bca63db22516c1c) | 2026-03-17 17:58 |
 | Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=954fc9353b3c1ac7) | 2026-03-17 17:58 |
 | Openkyber | Java Architect | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e34601ff78d0fbb8) | 2026-03-17 17:58 |
 | Openkyber | Spring/Spring Boot Architect | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fe5d1444b8c11690) | 2026-03-17 17:58 |
@@ -381,10 +386,6 @@ Last updated: 2026-03-17 17:58
 | SAP | SAP NS2 Sr. DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d01cf9363cb3a286) | 2026-03-13 19:26 |
 | SCAN Health Plan | IT Solutions Architect | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0a7803539b5e31ca) | 2026-03-13 19:26 |
 | Dataflix | Senior Data Governance Consultant (Databricks & Unity Catalog) | Hayward, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a115a9d1c46f9873) | 2026-03-13 19:26 |
-| VNS Health | Senior Engineer, Data Analytics Warehousing | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8bea83e1a957a4de) | 2026-03-13 18:30 |
-| Optum | Senior AI/ML Engineer - 2349738 | Eden Prairie, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d97556800e692e01) | 2026-03-13 18:30 |
-| Optum | Senior Software Engineer - 2349742 | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=47a5ec5630dae169) | 2026-03-13 18:30 |
-| Deltek | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f1e28a487903057) | 2026-03-13 18:30 |
 
 
 ---
