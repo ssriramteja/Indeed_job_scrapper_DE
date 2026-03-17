@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-17 12:48
+Last updated: 2026-03-17 14:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| National Rural Water Association | Senior Data Engineer | Duncan, OK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=bcf4aa616b7efc0f) | 2026-03-17 14:18 |
+| Radiant Digital | AWS Data Engineer | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=72e4768c31a35e7d) | 2026-03-17 14:18 |
+| Optum | Senior Software Engineer | Bridgeton, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef17b59d1b779ca6) | 2026-03-17 14:18 |
+| nan | Senior Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ba2a4b5e0580ed9) | 2026-03-17 14:18 |
 | SoundThinking | Sr. Data Engineer – Ontology & Semantic Modeling | Fremont, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e92d0315202204b9) | 2026-03-17 12:48 |
 | Tapouts | Senior Data Engineer | Venice, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bcb6f48928a08bed) | 2026-03-17 11:38 |
 | HCA Healthcare | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee3c21dbe995c8b9) | 2026-03-17 11:38 |
