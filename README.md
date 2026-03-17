@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-16 23:23
+Last updated: 2026-03-17 01:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Kafka Schema Registry Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b271d311d5d546b6) | 2026-03-17 01:17 |
+| CPI Security | Data Engineer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c8e81977d38af04d) | 2026-03-17 01:17 |
+| Openkyber | Java Consultant | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=032bac0300438f5c) | 2026-03-17 01:17 |
+| Beghou Consulting | Consultant, Data Management | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1564012a6ce57a97) | 2026-03-17 01:17 |
+| RadNet | Operations Analytics Data Scientist | MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=075a941875340eb6) | 2026-03-17 01:17 |
+| Betis Group, Inc. | DBHDS - SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b671e1c355c84c5) | 2026-03-17 01:17 |
+| adswizz | Data Engineer III | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfcb96820a6677d7) | 2026-03-17 01:17 |
+| TeraWatt Infrastructure | Senior DevOps Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3ac8657750172713) | 2026-03-17 01:17 |
+| VeeRteq Solutions Inc. | Data Engineer | Portland, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=586205a43fbcfd00) | 2026-03-17 01:17 |
+| Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85726105f14e77de) | 2026-03-17 01:17 |
+| Infosys | Azure Databricks with IDMC experience | San Ramon, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78d268eef1366883) | 2026-03-17 01:17 |
+| Beghou Consulting | Senior Consultant, Data Management | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb1560a6c29ae4e3) | 2026-03-17 01:17 |
+| Realign | Security Consultant | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa7381f71e38e6eb) | 2026-03-17 01:17 |
 | Philips | Software Development Engineer | Cambridge, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=33e7128e441d147a) | 2026-03-16 23:23 |
 | Kimco Realty Corporation | Data Engineer | Jericho, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1af2172268615fcb) | 2026-03-16 23:23 |
 | IDEXX Laboratories | Application Developer Sr II | Portland, ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c032bd6bc3e68c33) | 2026-03-16 23:23 |
@@ -377,54 +390,6 @@ Last updated: 2026-03-16 23:23
 | Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=26c1d57f3476a801) | 2026-03-13 04:05 |
 | Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Stamford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0237c9617e55c87f) | 2026-03-13 04:05 |
 | Deloitte | Engineering Foundry - Software Engineering Full-stack Developer- Consultant | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7997ac4818bd5a5) | 2026-03-13 04:05 |
-| Realign | Hadoop Developer | Jersey City, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6e6e16e21814bb29) | 2026-03-13 01:15 |
-| Realign | Hadoop Developer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=78a7f2ead1511ad9) | 2026-03-13 01:15 |
-| MAI | Data Engineer | Mountain View, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=805ad2157784d69d) | 2026-03-13 01:15 |
-| Ulta | Sr IT Engineer Cloud Security | Bolingbrook, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8c1df9c34d78ae7c) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=98876225aee54bf1) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=605cc27cc00cb3e9) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | RI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b732fc3d99e007ab) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=636f6bd7a4607297) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9deee4f1264d19f5) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1d4447644330c531) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=674c0df416c0f9a3) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=baa745d9934d5ee3) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=52f197073864a5f2) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | ND, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b4a9c179b77c53dd) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=47c296ff828a1757) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | ME, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b27d47a89d27eeaf) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=faaa33b96a2a9074) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f70441bf7321d135) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | WV, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=022dcf5407531b8a) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=14594d1c6db250ab) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | NV, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03df6a37ea9a8fff) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | AR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3adb4f41f16b1ea5) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | VT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ece2db47da40faab) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | WY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0a7cef803349f3b3) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b62e88fad67b974c) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | SD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6a3f24c798655ae4) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b476b86502e2a822) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae1aad8b0796577a) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=61e858694a70eeb0) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | OK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0672f8329652f552) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | AL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8e86b68d4a20cd6c) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03ab670e6a63f534) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | MS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2511a9302b47cb7f) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8eb735394fbf355e) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | LA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee5da33156d406c0) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | NM, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0ac4a2fd73951024) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e6a8d1f4903e04e9) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=45f285b3d6851ca5) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | KS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e7817547c738ce84) | 2026-03-13 01:15 |
-| Concentrix | Senior Databricks Architect | IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=93e092dd02464c6c) | 2026-03-13 01:15 |
-| Marriott International | Solution Architect – Revenue Management | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e8ad481ff92fde3) | 2026-03-13 01:15 |
-| RCH Solutions | Senior Cloud & Container Infrastructure Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a00cd1a3981b69d3) | 2026-03-13 01:15 |
-| Ulta | Software Architect - AI | Bolingbrook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c6e9f1e59377606) | 2026-03-13 01:15 |
-| Imprint | Senior Software Engineer, Infrastructure | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55b79f7343d5683d) | 2026-03-13 01:15 |
-| Imprint | Senior Software Engineer, Infrastructure | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1fed4744aae6b26a) | 2026-03-13 01:15 |
-| LangChain | Solutions Architect (NYC) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fcf63b16ef347e97) | 2026-03-13 01:15 |
-| LangChain | Solutions Architect (Dallas) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cc56922d5df7f41c) | 2026-03-13 01:15 |
-| LangChain | Solutions Architect (Austin) | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a43fce5427236395) | 2026-03-13 01:15 |
 
 
 ---
