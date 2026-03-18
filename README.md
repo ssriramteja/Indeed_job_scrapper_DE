@@ -1,13 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-18 07:55
+Last updated: 2026-03-18 08:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 07:55 |
-| Ford Motor Company | GCP Cloud Infrastructure Architect | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fae4f5e0a1b671f8) | 2026-03-18 07:55 |
+| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 08:38 |
+| CooperCompanies | Full Stack Developer | Henrietta, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5402734548997ed0) | 2026-03-18 08:38 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 08:38 |
+| Ford Motor Company | GCP Cloud Infrastructure Architect | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fae4f5e0a1b671f8) | 2026-03-18 08:38 |
+| The Walt Disney Company | Senior Data Scientist | Kissimmee, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e3d8c3773cd2c8c) | 2026-03-18 08:38 |
 | LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7b5075132839604a) | 2026-03-18 07:00 |
 | Marriott International | Solution Architect – Revenue Management | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c53773d34b99af77) | 2026-03-18 07:00 |
 | Visa | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41aec199d60a57ab) | 2026-03-18 07:00 |
