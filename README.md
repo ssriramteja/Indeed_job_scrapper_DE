@@ -1,13 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-18 04:16
+Last updated: 2026-03-18 05:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ncontracts | Senior Cloud Engineer | US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=4c5ffe3e0696e29a) | 2026-03-18 05:58 |
+| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 05:58 |
+| Ncontracts | Analytics Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b4fc9074f486fdc) | 2026-03-18 05:58 |
+| Evercommerce | Everhealth – Senior Data Engineer (Remote, US) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1494c02a420f7168) | 2026-03-18 05:58 |
+| Citi | DevOps Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d74a8c2e0b3bc97) | 2026-03-18 05:58 |
+| Ford Motor Company | GCP Cloud Infrastructure Architect | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fae4f5e0a1b671f8) | 2026-03-18 05:58 |
 | State Street | AI Engineer / Senior Platform Support Officer | Quincy, MA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=2833779a05dd416c) | 2026-03-18 04:16 |
-| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 04:16 |
 | Toyota North America | Software Engineer, Senior | Plano, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4c8f77340c6b511f) | 2026-03-18 04:16 |
 | Toyota North America | Software Engineer, Senior | Plano, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a1b0c81573d731c6) | 2026-03-18 04:16 |
 | Inland Empire Health Plan | Data Engineer II | Rancho Cucamonga, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=02e266ae50f70115) | 2026-03-18 04:16 |
@@ -27,7 +32,6 @@ Last updated: 2026-03-18 04:16
 | Gatik | Senior Cloud Infrastructure Engineer | Mountain View, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=327d9bc4d5f884e5) | 2026-03-18 04:16 |
 | Kore.ai | Cloud Support & DevOPS Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=518e23ecee84280c) | 2026-03-18 04:16 |
 | LiveKit | Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=491dbd627fcfc1ec) | 2026-03-18 04:16 |
-| Ford Motor Company | GCP Cloud Infrastructure Architect | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fae4f5e0a1b671f8) | 2026-03-18 04:16 |
 | Hyve Solutions | Senior Platform Engineer (Multi-Cloud & AI Adoption) | Fremont, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61cdbfe08b450503) | 2026-03-18 04:16 |
 | Eli Lilly | Data Architect, Data Foundry | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8f6aeed34698c13e) | 2026-03-18 01:21 |
 | Traackr | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fdf23ba78f8d81b1) | 2026-03-18 01:21 |
@@ -331,9 +335,6 @@ Last updated: 2026-03-18 04:16
 | JPMorganChase | Software Engineer III - LLM | Wilmington, DE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=24c421e2dcdbd2c1) | 2026-03-14 09:24 |
 | JPMorganChase | Software Engineer III - PySpark/Databricks/Python/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff38445088e6dc7f) | 2026-03-14 09:24 |
 | Activision | Data Analytics Engineer | Santa Monica, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15ff807fd0f137bc) | 2026-03-14 06:36 |
-| Capgemini | Associate Data Scientist | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=eda6c680f40e7a46) | 2026-03-14 05:40 |
-| Los Angeles Capital Management | Data Engineer II | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=895c9e3526ed7090) | 2026-03-14 05:40 |
-| Los Angeles Capital Management | Software Engineer III | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e11f08f7bc087c2) | 2026-03-14 05:40 |
 
 
 ---
