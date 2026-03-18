@@ -1,18 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-18 14:17
+Last updated: 2026-03-18 16:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 14:17 |
+| NTT DATA | Multi-Cloud SQL/Oracle Database Administrator (DBA) | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c2c1b2c3f27c3043) | 2026-03-18 16:02 |
+| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 16:02 |
+| Panacea Direct Inc | Test Analyst - ETL QA Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=31e33833632ced64) | 2026-03-18 16:02 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 16:02 |
+| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b24d134a2f8c41f7) | 2026-03-18 16:02 |
 | Techmorgonite Software Solutions LLC | Mainframe Developer | Frisco, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=82ad00171a071d4c) | 2026-03-18 14:17 |
 | Capital One | Senior Data Engineer | Wilmington, DE, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=52a3cc4b9e4c96e4) | 2026-03-18 14:17 |
 | Millennium Management | Cloud DevOps Engineer | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=41da8b7d34b4e71d) | 2026-03-18 14:17 |
 | CVS Health | Senior Software Engineer | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2ffa64b4854cbdc5) | 2026-03-18 14:17 |
 | IXIS | Data Analytics Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b5e1124148b1b77) | 2026-03-18 14:17 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 14:17 |
 | nan | Sr Product Mgr II - Content Viewership Data | Santa Monica, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a0de1bf162fb5345) | 2026-03-18 14:17 |
 | Disney Experiences | Senior Data Scientist | Kissimmee, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48f4891dd9237660) | 2026-03-18 14:17 |
 | nan | Integration Services Developer | Brooklyn, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=947ca7824810f0d9) | 2026-03-18 14:17 |
@@ -347,7 +350,6 @@ Last updated: 2026-03-18 14:17
 | UniFirst | DevOps Engineer – Azure Platform | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d27eb7b013426664) | 2026-03-14 20:18 |
 | Skyworks Solutions | Data Scientist | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be89e65f4dd09bb7) | 2026-03-14 19:21 |
 | Aptiv | Distributed Storage Software Developer Engineer | Troy, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c54ab545ff541cbe) | 2026-03-14 16:21 |
-| Capital One | Senior Software Engineer, Back End | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=54d7b40c19de92ce) | 2026-03-14 15:20 |
 
 
 ---
