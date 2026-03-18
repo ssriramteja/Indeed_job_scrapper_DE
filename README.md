@@ -1,13 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-18 12:49
+Last updated: 2026-03-18 14:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 12:49 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 12:49 |
+| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 14:17 |
+| Techmorgonite Software Solutions LLC | Mainframe Developer | Frisco, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=82ad00171a071d4c) | 2026-03-18 14:17 |
+| Capital One | Senior Data Engineer | Wilmington, DE, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=52a3cc4b9e4c96e4) | 2026-03-18 14:17 |
+| Millennium Management | Cloud DevOps Engineer | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=41da8b7d34b4e71d) | 2026-03-18 14:17 |
+| CVS Health | Senior Software Engineer | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2ffa64b4854cbdc5) | 2026-03-18 14:17 |
+| IXIS | Data Analytics Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b5e1124148b1b77) | 2026-03-18 14:17 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 14:17 |
+| nan | Sr Product Mgr II - Content Viewership Data | Santa Monica, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a0de1bf162fb5345) | 2026-03-18 14:17 |
+| Disney Experiences | Senior Data Scientist | Kissimmee, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48f4891dd9237660) | 2026-03-18 14:17 |
+| nan | Integration Services Developer | Brooklyn, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=947ca7824810f0d9) | 2026-03-18 14:17 |
+| Texas Health and Human Services Commission | Data Analyst IV - Advanced Analytics & Reporting - 100% remote | Plainview, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=90e3ab65ff267d9e) | 2026-03-18 14:17 |
 | Openkyber | Senior Kafka Streaming Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fe1be1c6c3f58391) | 2026-03-18 11:39 |
 | Openkyber | Kubernetes MLOps Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55f5b2c9d63429a6) | 2026-03-18 11:39 |
 | Gartner | Senior Data Engineer (Python, ETL) - Master Data Management (MDM) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ceeabf66fcba285d) | 2026-03-18 10:43 |
@@ -339,7 +348,6 @@ Last updated: 2026-03-18 12:49
 | Skyworks Solutions | Data Scientist | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be89e65f4dd09bb7) | 2026-03-14 19:21 |
 | Aptiv | Distributed Storage Software Developer Engineer | Troy, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c54ab545ff541cbe) | 2026-03-14 16:21 |
 | Capital One | Senior Software Engineer, Back End | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=54d7b40c19de92ce) | 2026-03-14 15:20 |
-| Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e2b77b3591be602) | 2026-03-14 13:40 |
 
 
 ---
