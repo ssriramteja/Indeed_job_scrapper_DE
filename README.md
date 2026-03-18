@@ -1,20 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-18 20:28
+Last updated: 2026-03-18 21:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 20:28 |
-| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-18 20:28 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 20:28 |
+| University of Texas at Austin | Data Engineer I | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=52ebd75b55c0b878) | 2026-03-18 21:28 |
+| NTT DATA | Multi-Cloud SQL/Oracle Database Administrator (DBA) | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=83cf0ba40f1b8d7f) | 2026-03-18 21:28 |
+| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 21:28 |
+| Toyota North America | Senior Software Engineer - Fullstack | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8c87fe3f873334f0) | 2026-03-18 21:28 |
+| MetLife | IAM Database Intelligence Engineer | Cary, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=db8161b23e8c863c) | 2026-03-18 21:28 |
+| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-18 21:28 |
+| University of Texas at Austin | Senior Data Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c974247907065262) | 2026-03-18 21:28 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 21:28 |
+| archer | Enterprise Cloud Security Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1347a0b8d7916085) | 2026-03-18 21:28 |
+| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7828253d03dda8c3) | 2026-03-18 21:28 |
+| Tata Consultancy Services (TCS) | AliCloud DevOps Senior Engineer | Cupertino, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6be416b224d94d78) | 2026-03-18 21:28 |
+| Medrio | Automation Engineer (Mid level SDET) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3b2f89f6db54cefa) | 2026-03-18 21:28 |
+| WEX Inc. | Software Development Engineer 2 - Front-End | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9e5b6a2b2181861f) | 2026-03-18 21:28 |
+| BlackRock | Artificial Intelligence & Machine Learning Engineer, Associate | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8f0e9eb9da3b6fb) | 2026-03-18 21:28 |
+| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-18 21:28 |
+| Invu Technology | Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a735e4ae41782f65) | 2026-03-18 21:28 |
 | CRB | Senior Data Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1547f58f63e5ddbf) | 2026-03-18 20:28 |
 | CRB | Senior Data Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd0623688c68382c) | 2026-03-18 20:28 |
 | Truist | Application Architect- Amazon Connect SME | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3103510c5fb6dd9) | 2026-03-18 20:28 |
 | Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=edff3222d9dfb35c) | 2026-03-18 20:28 |
 | Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83800f9abb3449f6) | 2026-03-18 20:28 |
-| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-18 20:28 |
 | ISPOT | Sr. Site Reliability Engineer (Database focused) | Bellevue, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=75c426f94a2eb5de) | 2026-03-18 19:43 |
 | Photon | Full Stack Developer - Irving,TX | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bd87b9fe8763cff2) | 2026-03-18 19:43 |
 | SolarWinds | Senior Security Architect | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=632d492ceb3b18b2) | 2026-03-18 19:43 |
