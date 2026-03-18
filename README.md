@@ -1,23 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-18 19:43
+Last updated: 2026-03-18 20:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 19:43 |
+| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 20:28 |
+| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-18 20:28 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 20:28 |
+| CRB | Senior Data Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1547f58f63e5ddbf) | 2026-03-18 20:28 |
+| CRB | Senior Data Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd0623688c68382c) | 2026-03-18 20:28 |
+| Truist | Application Architect- Amazon Connect SME | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3103510c5fb6dd9) | 2026-03-18 20:28 |
+| Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=edff3222d9dfb35c) | 2026-03-18 20:28 |
+| Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83800f9abb3449f6) | 2026-03-18 20:28 |
+| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-18 20:28 |
 | ISPOT | Sr. Site Reliability Engineer (Database focused) | Bellevue, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=75c426f94a2eb5de) | 2026-03-18 19:43 |
 | Photon | Full Stack Developer - Irving,TX | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bd87b9fe8763cff2) | 2026-03-18 19:43 |
 | SolarWinds | Senior Security Architect | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=632d492ceb3b18b2) | 2026-03-18 19:43 |
 | Penske Truck Leasing | Integration Architect | Reading, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f2388b8f06d12916) | 2026-03-18 19:43 |
-| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-18 19:43 |
 | Radial | Software Engineer (ETL) | King of Prussia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d0a9c4efd739d4e) | 2026-03-18 19:43 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 19:43 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0dca0a83288d9224) | 2026-03-18 19:43 |
 | GSK Solutions | SQL Database Architect | Township of Hamilton, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86692750669aac55) | 2026-03-18 19:43 |
 | AMH | Site Reliability Engineer | Draper, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27acae47fa052436) | 2026-03-18 19:43 |
-| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-18 19:43 |
 | Desmata Inc | Oracle Fusion Technical Architect – Financials, Procurement & HCM | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=147edea2571f3c4a) | 2026-03-18 18:47 |
 | Eli Lilly | Advisor - Data Architect, Data Foundry | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b7bed78bd5d257f) | 2026-03-18 18:47 |
 | Ketjen | Enterprise Data, Analytics & AI | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8269b2aa63279467) | 2026-03-18 18:47 |
@@ -379,7 +384,6 @@ Last updated: 2026-03-18 19:43
 | Pluto TV | Senior Data Engineer | West Hollywood, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fae9461b0cd0dc68) | 2026-03-15 01:26 |
 | Tata Consultancy Services (TCS) | Snowflake Developer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e72ec30486808c7) | 2026-03-14 22:17 |
 | Tata Consultancy Services (TCS) | Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a93392d862334858) | 2026-03-14 22:17 |
-| UniFirst | DevOps Engineer – Azure Platform | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d27eb7b013426664) | 2026-03-14 20:18 |
 
 
 ---
