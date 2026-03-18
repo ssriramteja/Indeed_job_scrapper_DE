@@ -1,12 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-18 17:54
+Last updated: 2026-03-18 18:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 17:54 |
+| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 18:47 |
+| Desmata Inc | Oracle Fusion Technical Architect – Financials, Procurement & HCM | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=147edea2571f3c4a) | 2026-03-18 18:47 |
+| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-18 18:47 |
+| Eli Lilly | Advisor - Data Architect, Data Foundry | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b7bed78bd5d257f) | 2026-03-18 18:47 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 18:47 |
+| Ketjen | Enterprise Data, Analytics & AI | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8269b2aa63279467) | 2026-03-18 18:47 |
 | Openkyber | Azure Network Engineer | GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9e0411e0606d3713) | 2026-03-18 17:54 |
 | Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bc64b79d3e9d2292) | 2026-03-18 17:54 |
 | Openkyber | AWS Network Engineer | SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3c672c58481ff2d5) | 2026-03-18 17:54 |
@@ -19,7 +24,6 @@ Last updated: 2026-03-18 17:54
 | Openkyber | AWS Network Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eaa2def71f96f681) | 2026-03-18 17:54 |
 | Openkyber | MLOps | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a9ac8b2469720423) | 2026-03-18 17:54 |
 | Optum | Senior Software Engineer | Naperville, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1446a6003c62f5b1) | 2026-03-18 17:54 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 17:54 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba0e71df61def4d9) | 2026-03-18 17:54 |
 | Tutor Perini Corporation | Data Engineer - Onsite - Sylmar, CA | Sylmar, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=911f179152aa22b0) | 2026-03-18 17:54 |
 | Openkyber | MLOps | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1b75a7809930220b) | 2026-03-18 17:54 |
