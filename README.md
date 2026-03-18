@@ -1,15 +1,34 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-18 16:02
+Last updated: 2026-03-18 17:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 17:54 |
+| Openkyber | Azure Network Engineer | GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9e0411e0606d3713) | 2026-03-18 17:54 |
+| Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bc64b79d3e9d2292) | 2026-03-18 17:54 |
+| Openkyber | AWS Network Engineer | SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3c672c58481ff2d5) | 2026-03-18 17:54 |
+| Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d8d18c7217c63ba8) | 2026-03-18 17:54 |
+| Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eabc7140a8b5adbf) | 2026-03-18 17:54 |
+| Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d3dc757eeb50099) | 2026-03-18 17:54 |
+| Openkyber | Network Operations Trainee | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cb7c112e2eb3d06e) | 2026-03-18 17:54 |
+| Openkyber | Network Operations Trainee | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ecf9acecdd49f852) | 2026-03-18 17:54 |
+| Optum | Site Reliability Engineer | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3de9c257b395e1c9) | 2026-03-18 17:54 |
+| Openkyber | AWS Network Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eaa2def71f96f681) | 2026-03-18 17:54 |
+| Openkyber | MLOps | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a9ac8b2469720423) | 2026-03-18 17:54 |
+| Optum | Senior Software Engineer | Naperville, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1446a6003c62f5b1) | 2026-03-18 17:54 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 17:54 |
+| Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba0e71df61def4d9) | 2026-03-18 17:54 |
+| Tutor Perini Corporation | Data Engineer - Onsite - Sylmar, CA | Sylmar, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=911f179152aa22b0) | 2026-03-18 17:54 |
+| Openkyber | MLOps | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1b75a7809930220b) | 2026-03-18 17:54 |
+| Openkyber | AWS Network Engineer | VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=436d97d6edae9756) | 2026-03-18 17:54 |
+| Bird Rides | Analytics Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d3aa60883fb8d23) | 2026-03-18 17:54 |
+| Optum | Senior AI/ML Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aec14b3c9bfc49d5) | 2026-03-18 17:54 |
+| Openkyber | SAP Security Administrator | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=744aa8787fc16632) | 2026-03-18 17:54 |
 | NTT DATA | Multi-Cloud SQL/Oracle Database Administrator (DBA) | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c2c1b2c3f27c3043) | 2026-03-18 16:02 |
-| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 16:02 |
 | Panacea Direct Inc | Test Analyst - ETL QA Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=31e33833632ced64) | 2026-03-18 16:02 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 16:02 |
 | NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b24d134a2f8c41f7) | 2026-03-18 16:02 |
 | Techmorgonite Software Solutions LLC | Mainframe Developer | Frisco, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=82ad00171a071d4c) | 2026-03-18 14:17 |
 | Capital One | Senior Data Engineer | Wilmington, DE, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=52a3cc4b9e4c96e4) | 2026-03-18 14:17 |
@@ -349,7 +368,6 @@ Last updated: 2026-03-18 16:02
 | Tata Consultancy Services (TCS) | Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a93392d862334858) | 2026-03-14 22:17 |
 | UniFirst | DevOps Engineer – Azure Platform | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d27eb7b013426664) | 2026-03-14 20:18 |
 | Skyworks Solutions | Data Scientist | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be89e65f4dd09bb7) | 2026-03-14 19:21 |
-| Aptiv | Distributed Storage Software Developer Engineer | Troy, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c54ab545ff541cbe) | 2026-03-14 16:21 |
 
 
 ---
