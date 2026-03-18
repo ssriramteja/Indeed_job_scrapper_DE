@@ -1,17 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-18 07:00
+Last updated: 2026-03-18 07:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 07:00 |
+| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 07:55 |
+| Ford Motor Company | GCP Cloud Infrastructure Architect | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fae4f5e0a1b671f8) | 2026-03-18 07:55 |
 | LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7b5075132839604a) | 2026-03-18 07:00 |
 | Marriott International | Solution Architect – Revenue Management | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c53773d34b99af77) | 2026-03-18 07:00 |
 | Visa | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41aec199d60a57ab) | 2026-03-18 07:00 |
 | West Monroe | Senior Architect, Data Engineering | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=688b84fca2804c71) | 2026-03-18 07:00 |
-| Ford Motor Company | GCP Cloud Infrastructure Architect | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fae4f5e0a1b671f8) | 2026-03-18 07:00 |
 | FIS | Senior API Test Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=443bfd5538b7629d) | 2026-03-18 07:00 |
 | Ncontracts | Senior Cloud Engineer | US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=4c5ffe3e0696e29a) | 2026-03-18 05:58 |
 | Ncontracts | Analytics Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b4fc9074f486fdc) | 2026-03-18 05:58 |
