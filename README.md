@@ -1,13 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-18 10:43
+Last updated: 2026-03-18 11:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 10:43 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 10:43 |
+| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 11:39 |
+| Openkyber | Senior Kafka Streaming Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fe1be1c6c3f58391) | 2026-03-18 11:39 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 11:39 |
+| Openkyber | Kubernetes MLOps Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55f5b2c9d63429a6) | 2026-03-18 11:39 |
 | Gartner | Senior Data Engineer (Python, ETL) - Master Data Management (MDM) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ceeabf66fcba285d) | 2026-03-18 10:43 |
 | Tata Consultancy Services (TCS) | Python/PySpark Engineer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dc6f909cb7ec3483) | 2026-03-18 09:44 |
 | CooperCompanies | Full Stack Developer | Henrietta, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5402734548997ed0) | 2026-03-18 08:38 |
@@ -338,7 +340,6 @@ Last updated: 2026-03-18 10:43
 | Aptiv | Distributed Storage Software Developer Engineer | Troy, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c54ab545ff541cbe) | 2026-03-14 16:21 |
 | Capital One | Senior Software Engineer, Back End | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=54d7b40c19de92ce) | 2026-03-14 15:20 |
 | Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e2b77b3591be602) | 2026-03-14 13:40 |
-| Ochsner Health | Data Engineer | New Orleans, LA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4d3a7fa88191eb9b) | 2026-03-14 11:17 |
 
 
 ---
