@@ -1,16 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-18 08:38
+Last updated: 2026-03-18 09:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 08:38 |
+| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 09:44 |
+| Tata Consultancy Services (TCS) | Python/PySpark Engineer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dc6f909cb7ec3483) | 2026-03-18 09:44 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 09:44 |
 | CooperCompanies | Full Stack Developer | Henrietta, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5402734548997ed0) | 2026-03-18 08:38 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-18 08:38 |
-| Ford Motor Company | GCP Cloud Infrastructure Architect | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fae4f5e0a1b671f8) | 2026-03-18 08:38 |
-| The Walt Disney Company | Senior Data Scientist | Kissimmee, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e3d8c3773cd2c8c) | 2026-03-18 08:38 |
 | LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7b5075132839604a) | 2026-03-18 07:00 |
 | Marriott International | Solution Architect – Revenue Management | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c53773d34b99af77) | 2026-03-18 07:00 |
 | Visa | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41aec199d60a57ab) | 2026-03-18 07:00 |
@@ -340,8 +339,6 @@ Last updated: 2026-03-18 08:38
 | Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e2b77b3591be602) | 2026-03-14 13:40 |
 | Ochsner Health | Data Engineer | New Orleans, LA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4d3a7fa88191eb9b) | 2026-03-14 11:17 |
 | ELCOR Tax & Accounting | Senior Cloud Engineer | Cincinnati, OH, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1916e0848359ede0) | 2026-03-14 10:19 |
-| JPMorganChase | Software Engineer III - LLM | Wilmington, DE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=24c421e2dcdbd2c1) | 2026-03-14 09:24 |
-| JPMorganChase | Software Engineer III - PySpark/Databricks/Python/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff38445088e6dc7f) | 2026-03-14 09:24 |
 
 
 ---
