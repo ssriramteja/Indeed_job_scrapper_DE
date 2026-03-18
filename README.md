@@ -1,17 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-18 05:58
+Last updated: 2026-03-18 07:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 07:00 |
+| LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7b5075132839604a) | 2026-03-18 07:00 |
+| Marriott International | Solution Architect – Revenue Management | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c53773d34b99af77) | 2026-03-18 07:00 |
+| Visa | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41aec199d60a57ab) | 2026-03-18 07:00 |
+| West Monroe | Senior Architect, Data Engineering | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=688b84fca2804c71) | 2026-03-18 07:00 |
+| Ford Motor Company | GCP Cloud Infrastructure Architect | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fae4f5e0a1b671f8) | 2026-03-18 07:00 |
+| FIS | Senior API Test Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=443bfd5538b7629d) | 2026-03-18 07:00 |
 | Ncontracts | Senior Cloud Engineer | US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=4c5ffe3e0696e29a) | 2026-03-18 05:58 |
-| Tampa Electric Company | Data Engineer (Tampa) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a3ce6fbd8495a1) | 2026-03-18 05:58 |
 | Ncontracts | Analytics Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b4fc9074f486fdc) | 2026-03-18 05:58 |
 | Evercommerce | Everhealth – Senior Data Engineer (Remote, US) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1494c02a420f7168) | 2026-03-18 05:58 |
 | Citi | DevOps Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d74a8c2e0b3bc97) | 2026-03-18 05:58 |
-| Ford Motor Company | GCP Cloud Infrastructure Architect | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fae4f5e0a1b671f8) | 2026-03-18 05:58 |
 | State Street | AI Engineer / Senior Platform Support Officer | Quincy, MA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=2833779a05dd416c) | 2026-03-18 04:16 |
 | Toyota North America | Software Engineer, Senior | Plano, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4c8f77340c6b511f) | 2026-03-18 04:16 |
 | Toyota North America | Software Engineer, Senior | Plano, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a1b0c81573d731c6) | 2026-03-18 04:16 |
@@ -334,7 +339,6 @@ Last updated: 2026-03-18 05:58
 | ELCOR Tax & Accounting | Senior Cloud Engineer | Cincinnati, OH, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1916e0848359ede0) | 2026-03-14 10:19 |
 | JPMorganChase | Software Engineer III - LLM | Wilmington, DE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=24c421e2dcdbd2c1) | 2026-03-14 09:24 |
 | JPMorganChase | Software Engineer III - PySpark/Databricks/Python/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff38445088e6dc7f) | 2026-03-14 09:24 |
-| Activision | Data Analytics Engineer | Santa Monica, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15ff807fd0f137bc) | 2026-03-14 06:36 |
 
 
 ---
