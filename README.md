@@ -1,18 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 18:44
+Last updated: 2026-03-19 19:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CareOregon | IS Data Engineer | Salem, OR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=125db3e6bdb4e943) | 2026-03-19 19:41 |
+| Lantern | Data Engineer - Governance and QA | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ac32a158d5ead3ae) | 2026-03-19 19:41 |
+| Sam's Club | Senior, Software Engineer - Fullstack | Bentonville, AR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eb36340453827bd0) | 2026-03-19 19:41 |
+| Luxoft | Senior Backend Engineer - Java | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5ad728c60f5ddf1d) | 2026-03-19 19:41 |
+| Togetherwork | Senior Data Migration Architect (Microsoft Dynamics 365) | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3f58b7b1afbeec48) | 2026-03-19 19:41 |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 19:41 |
+| Basis Technologies | Sr Software Engineer, Applications | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d626797e376230a8) | 2026-03-19 19:41 |
+| Piermont Bank | Applications Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c910ffc54c4ad833) | 2026-03-19 19:41 |
 | GM Financial | Data Engineer III - Data & AI Enablement | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d761d2ecf33cf983) | 2026-03-19 18:44 |
 | Synergy BIS | Operations Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50742e69706ff73d) | 2026-03-19 18:44 |
 | GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a1bfb8b0bbcb095a) | 2026-03-19 18:44 |
 | GM Financial | Software Development Engineer II | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e30a8b267fbd675e) | 2026-03-19 18:44 |
 | AHOLD Delhaize | Software Engineer- Martech | Salisbury, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fce7027a3a18e114) | 2026-03-19 18:44 |
 | AHOLD Delhaize | Software Engineer- Martech | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=baa39bb5af60e2a2) | 2026-03-19 18:44 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 18:44 |
 | GM Financial | Software Development Engineer III | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=663cf689cd0cf520) | 2026-03-19 18:44 |
 | Qode | Python Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=088655e3e3b8844d) | 2026-03-19 17:49 |
 | SpotOn | Senior Data Engineer (Clickhouse) | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1d35f74fc9491129) | 2026-03-19 17:49 |
