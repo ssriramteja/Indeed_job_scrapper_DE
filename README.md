@@ -1,14 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 12:41
+Last updated: 2026-03-19 14:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charles Schwab | Data Engineer | Southlake, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7e72c1940ea5774f) | 2026-03-19 14:04 |
+| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 14:04 |
+| nan | Sr Software Engineer - Live and Linear Tooling | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3813402781f4a5a6) | 2026-03-19 14:04 |
+| Molina Healthcare | Senior Engineer, Cloud - IT Resiliency Solutions - Remote | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f531126ad868d253) | 2026-03-19 14:04 |
+| Charles Schwab | Java Development Engineer | Southlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=044788dae086d6fb) | 2026-03-19 14:04 |
+| Charles Schwab | Senior Database Administrator | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75d9a983054dd1ae) | 2026-03-19 14:04 |
+| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 14:04 |
 | CrowdStrike | Snowflake Data Architect (Remote) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50af2306075e0747) | 2026-03-19 12:41 |
-| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 12:41 |
-| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 12:41 |
 | nan | HRIS Solution Architect | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=087b0e02bfb3bda8) | 2026-03-19 11:29 |
 | Truist | Application Architect- Amazon Connect SME | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f52900a5482cbc6) | 2026-03-19 11:29 |
 | Machinify | Senior Software Engineer (Data Platform) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b19f30d9595225fc) | 2026-03-19 10:32 |
@@ -516,8 +521,6 @@ Last updated: 2026-03-19 12:41
 | EY | CT_NITRO Experimental AI Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fecf1fa5246a7b8) | 2026-03-16 01:25 |
 | Cayuse Holdings | Forward Deployed Engineer | US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=92a6b6e514fcadd1) | 2026-03-15 23:21 |
 | Lodging by Liberty DBA Charter Furniture | Full Stack Developer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=134952c8e2b4c531) | 2026-03-15 22:19 |
-| SportsBiz Group Inc | Senior DevOps Engineer - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=11d5b4bae86c5d93) | 2026-03-15 13:41 |
-| SportsBiz Group Inc | Senior DevOps Engineer - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c8be363a36eab12f) | 2026-03-15 13:41 |
 
 
 ---
