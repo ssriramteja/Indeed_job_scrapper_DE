@@ -1,14 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 22:19
+Last updated: 2026-03-19 23:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Associate Data Engineer- Hyperscale- Cloud | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=eee1c6c65c9ef5f7) | 2026-03-19 23:22 |
+| Allstate Insurance | Senior Data Engineer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=f2d4408cceed11d6) | 2026-03-19 23:22 |
+| The Hartford | Sr Applied AI Machine Learning Engineer - Claims Data Science | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1a207649ab0be82e) | 2026-03-19 23:22 |
+| The Hartford | Sr Applied AI Machine Learning Engineer - Claims Data Science | Hartford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6ba6b6774e660f43) | 2026-03-19 23:22 |
+| The Hartford | Sr Applied AI Machine Learning Engineer - Claims Data Science | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0a2499db08cd7189) | 2026-03-19 23:22 |
+| The Hartford | Sr Applied AI Machine Learning Engineer - Claims Data Science | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ebe6442929dd09f9) | 2026-03-19 23:22 |
+| Mount Sinai Health System | DevOps Engineer (Technology Specialist I) - Digital and Technology Partners - Onsite/Hybrid | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=67bd18e00ac68d8b) | 2026-03-19 23:22 |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 23:22 |
+| MVP Health Care | Professional, Data Analyst | Schenectady, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0aebe8f122a069d) | 2026-03-19 23:22 |
+| NavitasPartners | Senior BI Consultant (Power BI) - 26-02719 | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c98eb4ba04c2bce) | 2026-03-19 23:22 |
+| NavitasPartners | Senior BI Consultant (Power BI) - 26-02719 | Springfield, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a186a80a6e332546) | 2026-03-19 23:22 |
+| NavitasPartners | Senior BI Consultant (Power BI) - 26-02719 | Worcester, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa9313b15df56fe4) | 2026-03-19 23:22 |
+| NavitasPartners | Senior BI Consultant (Power BI) - 26-02719 | Everett, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2998be2c78d17cd6) | 2026-03-19 23:22 |
+| NavitasPartners | Senior BI Consultant (Power BI) - 26-02719 | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2775cd0a4ba358b4) | 2026-03-19 23:22 |
 | LTIMindtree | Senior Specialist - Data Engineering | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f764dc94faa7a206) | 2026-03-19 22:19 |
 | Cache Creek Casino Resort | Senior Data Engineer-Information Technology | Brooks, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07adf7cbff63a0bd) | 2026-03-19 22:19 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 22:19 |
 | SOLUTION INNOVATORS | Senior Web Developer (with DevOps/SRE Experience) | South Windsor, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7af5fd68caec2af9) | 2026-03-19 22:19 |
 | Conagra Brands | Sr. Cloud/Software Engineer | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf8cdbdda0b386a7) | 2026-03-19 22:19 |
 | WEX Inc. | Senior AI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99977a748ac9e602) | 2026-03-19 22:19 |
@@ -568,7 +581,6 @@ Last updated: 2026-03-19 22:19
 | nan | Data Engineer | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba6d16d92a70fded) | 2026-03-16 01:25 |
 | EY | AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=230bad3331a7b81d) | 2026-03-16 01:25 |
 | EY | CT_NITRO Experimental AI Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fecf1fa5246a7b8) | 2026-03-16 01:25 |
-| Cayuse Holdings | Forward Deployed Engineer | US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=92a6b6e514fcadd1) | 2026-03-15 23:21 |
 
 
 ---
