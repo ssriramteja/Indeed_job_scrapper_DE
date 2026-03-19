@@ -1,17 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 08:32
+Last updated: 2026-03-19 09:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III - Admin Center | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c4f33f4a77a6827e) | 2026-03-19 09:35 |
+| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 09:35 |
+| CVS Health | Software Development Engineer | MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dddbc0db8e0ab6dc) | 2026-03-19 09:35 |
+| CVS Health | Software Development Engineer | RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae67cbf3ff6a6b12) | 2026-03-19 09:35 |
+| CVS Health | Software Development Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d656f4be308d712a) | 2026-03-19 09:35 |
+| CVS Health | Software Development Engineer | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=807cc7dc8b72ea8d) | 2026-03-19 09:35 |
+| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 09:35 |
 | Premier Inc. | Senior Software Engineer - Full Stack | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2728e69028426d36) | 2026-03-19 08:32 |
 | Customertimes | AWS Data Engineer | Poland, ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b92e49b2282be9b0) | 2026-03-19 08:32 |
-| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 08:32 |
 | WesBanco Bank, Inc. | Senior Data Engineer - Data & Analytics | Wheeling, WV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3a2879bbf581653) | 2026-03-19 08:32 |
 | ECS | Senior Developer | Fairfax, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba52e4c7be1b38da) | 2026-03-19 08:32 |
-| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 08:32 |
 | Conduent | App Dev & Support Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=545fbf2f702616bd) | 2026-03-19 08:32 |
 | Conduent | App Dev & Support Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d52c6f68144e455b) | 2026-03-19 08:32 |
 | Capio Group | API/Integration Developer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6bc0dacaf9a9f3d3) | 2026-03-19 06:47 |
