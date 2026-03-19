@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 11:29
+Last updated: 2026-03-19 12:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CrowdStrike | Snowflake Data Architect (Remote) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50af2306075e0747) | 2026-03-19 12:41 |
+| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 12:41 |
+| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 12:41 |
 | nan | HRIS Solution Architect | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=087b0e02bfb3bda8) | 2026-03-19 11:29 |
-| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 11:29 |
 | Truist | Application Architect- Amazon Connect SME | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f52900a5482cbc6) | 2026-03-19 11:29 |
-| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 11:29 |
 | Machinify | Senior Software Engineer (Data Platform) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b19f30d9595225fc) | 2026-03-19 10:32 |
 | United Nations Federal Credit Union | ETL Developer | Long Island City, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b2c5f7604ecdfb50) | 2026-03-19 10:32 |
 | JPMorganChase | Software Engineer III - Admin Center | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c4f33f4a77a6827e) | 2026-03-19 09:35 |
