@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 17:49
+Last updated: 2026-03-19 18:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| GM Financial | Data Engineer III - Data & AI Enablement | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d761d2ecf33cf983) | 2026-03-19 18:44 |
+| Synergy BIS | Operations Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50742e69706ff73d) | 2026-03-19 18:44 |
+| GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a1bfb8b0bbcb095a) | 2026-03-19 18:44 |
+| GM Financial | Software Development Engineer II | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e30a8b267fbd675e) | 2026-03-19 18:44 |
+| AHOLD Delhaize | Software Engineer- Martech | Salisbury, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fce7027a3a18e114) | 2026-03-19 18:44 |
+| AHOLD Delhaize | Software Engineer- Martech | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=baa39bb5af60e2a2) | 2026-03-19 18:44 |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 18:44 |
+| GM Financial | Software Development Engineer III | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=663cf689cd0cf520) | 2026-03-19 18:44 |
 | Qode | Python Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=088655e3e3b8844d) | 2026-03-19 17:49 |
 | SpotOn | Senior Data Engineer (Clickhouse) | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1d35f74fc9491129) | 2026-03-19 17:49 |
 | nan | Senior Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c7608ed5bf8f408b) | 2026-03-19 17:49 |
@@ -14,8 +22,6 @@ Last updated: 2026-03-19 17:49
 | nan | Senior Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b8021ad4fe6bcc63) | 2026-03-19 17:49 |
 | nan | Senior Data Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2111c5e7eab910a6) | 2026-03-19 17:49 |
 | nan | Senior Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ec83795e8e9d3a1) | 2026-03-19 17:49 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 17:49 |
-| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 17:49 |
 | Qode | Python Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9bb7e7177646b9e8) | 2026-03-19 16:48 |
 | Doran Jones | Databricks / PySpark Data Engineer | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f9ee957e5ec3e951) | 2026-03-19 16:48 |
 | Kash Tech | Solution Architect – Data, Analytics & Microsoft Platform (Power BI, Power Apps, Fabric, Databricks) | Lake Mary, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db3760b4023c14b) | 2026-03-19 16:48 |
