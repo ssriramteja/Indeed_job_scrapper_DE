@@ -1,17 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 20:28
+Last updated: 2026-03-19 21:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Cloud Data Architect | Westlake Village, CA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=5af157c666d12c35) | 2026-03-19 21:28 |
+| California State University | Senior Data Analytics Solutions Architect | Northridge, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1f09549d52039954) | 2026-03-19 21:28 |
+| University of Texas at Austin | Data Engineer II | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=27af40b4286641bb) | 2026-03-19 21:28 |
+| Per Scholas | Data Engineering Instructor | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dc8cc5c5ed045642) | 2026-03-19 21:28 |
+| MetLife | Senior Data & AI Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2c0289d31e08c4fd) | 2026-03-19 21:28 |
+| Tata Consultancy Services (TCS) | Splunk Engineer | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3781603622dffbfd) | 2026-03-19 21:28 |
+| Tata Consultancy Services (TCS) | AI/ML Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b80993c7486f0a43) | 2026-03-19 21:28 |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 21:28 |
+| Tata Consultancy Services (TCS) | Senior Engineer | Lebanon, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=102d918cc41c8445) | 2026-03-19 21:28 |
+| South Florida Community Care Network | Sr. Business Intelligence Developer | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4d748d1785eb240) | 2026-03-19 21:28 |
 | Fidelity TalentSource | Full Stack Engineer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8a556c0c0b65e6c6) | 2026-03-19 20:28 |
 | Texas Instruments | Senior Data Engineer | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d7d7e089523b996) | 2026-03-19 20:28 |
 | Hasbro, Inc. | Sr Software Development Engineer - Hasbro Direct | Renton, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=59aa493bfb3826f0) | 2026-03-19 20:28 |
 | Optum | Python Software Engineer - Schaumburg, IL | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9e48f7514f4285fb) | 2026-03-19 20:28 |
 | Covered Insurance Solutions | Data Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=439864a586cda933) | 2026-03-19 20:28 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 20:28 |
 | Suntex Marina Investors, LLC | Senior Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=edce04084d1da5d6) | 2026-03-19 20:28 |
 | Truist | Application Architect - Amazon Connect SME | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65acf5a8c014e9c7) | 2026-03-19 20:28 |
 | ASPCA | Microsoft Dynamics 365 Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59479444c6517572) | 2026-03-19 20:28 |
