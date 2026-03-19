@@ -1,17 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 19:41
+Last updated: 2026-03-19 20:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fidelity TalentSource | Full Stack Engineer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8a556c0c0b65e6c6) | 2026-03-19 20:28 |
+| Texas Instruments | Senior Data Engineer | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d7d7e089523b996) | 2026-03-19 20:28 |
+| Hasbro, Inc. | Sr Software Development Engineer - Hasbro Direct | Renton, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=59aa493bfb3826f0) | 2026-03-19 20:28 |
+| Optum | Python Software Engineer - Schaumburg, IL | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9e48f7514f4285fb) | 2026-03-19 20:28 |
+| Covered Insurance Solutions | Data Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=439864a586cda933) | 2026-03-19 20:28 |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 20:28 |
+| Suntex Marina Investors, LLC | Senior Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=edce04084d1da5d6) | 2026-03-19 20:28 |
+| Truist | Application Architect - Amazon Connect SME | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65acf5a8c014e9c7) | 2026-03-19 20:28 |
+| ASPCA | Microsoft Dynamics 365 Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59479444c6517572) | 2026-03-19 20:28 |
 | CareOregon | IS Data Engineer | Salem, OR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=125db3e6bdb4e943) | 2026-03-19 19:41 |
 | Lantern | Data Engineer - Governance and QA | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ac32a158d5ead3ae) | 2026-03-19 19:41 |
 | Sam's Club | Senior, Software Engineer - Fullstack | Bentonville, AR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eb36340453827bd0) | 2026-03-19 19:41 |
 | Luxoft | Senior Backend Engineer - Java | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5ad728c60f5ddf1d) | 2026-03-19 19:41 |
 | Togetherwork | Senior Data Migration Architect (Microsoft Dynamics 365) | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3f58b7b1afbeec48) | 2026-03-19 19:41 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 19:41 |
 | Basis Technologies | Sr Software Engineer, Applications | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d626797e376230a8) | 2026-03-19 19:41 |
 | Piermont Bank | Applications Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c910ffc54c4ad833) | 2026-03-19 19:41 |
 | GM Financial | Data Engineer III - Data & AI Enablement | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d761d2ecf33cf983) | 2026-03-19 18:44 |
