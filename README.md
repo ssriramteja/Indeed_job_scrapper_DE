@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 21:28
+Last updated: 2026-03-19 22:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| LTIMindtree | Senior Specialist - Data Engineering | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f764dc94faa7a206) | 2026-03-19 22:19 |
+| Cache Creek Casino Resort | Senior Data Engineer-Information Technology | Brooks, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07adf7cbff63a0bd) | 2026-03-19 22:19 |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 22:19 |
+| SOLUTION INNOVATORS | Senior Web Developer (with DevOps/SRE Experience) | South Windsor, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7af5fd68caec2af9) | 2026-03-19 22:19 |
+| Conagra Brands | Sr. Cloud/Software Engineer | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf8cdbdda0b386a7) | 2026-03-19 22:19 |
+| WEX Inc. | Senior AI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99977a748ac9e602) | 2026-03-19 22:19 |
 | Tata Consultancy Services (TCS) | Cloud Data Architect | Westlake Village, CA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=5af157c666d12c35) | 2026-03-19 21:28 |
 | California State University | Senior Data Analytics Solutions Architect | Northridge, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1f09549d52039954) | 2026-03-19 21:28 |
 | University of Texas at Austin | Data Engineer II | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=27af40b4286641bb) | 2026-03-19 21:28 |
@@ -13,7 +19,6 @@ Last updated: 2026-03-19 21:28
 | MetLife | Senior Data & AI Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2c0289d31e08c4fd) | 2026-03-19 21:28 |
 | Tata Consultancy Services (TCS) | Splunk Engineer | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3781603622dffbfd) | 2026-03-19 21:28 |
 | Tata Consultancy Services (TCS) | AI/ML Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b80993c7486f0a43) | 2026-03-19 21:28 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 21:28 |
 | Tata Consultancy Services (TCS) | Senior Engineer | Lebanon, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=102d918cc41c8445) | 2026-03-19 21:28 |
 | South Florida Community Care Network | Sr. Business Intelligence Developer | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4d748d1785eb240) | 2026-03-19 21:28 |
 | Fidelity TalentSource | Full Stack Engineer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8a556c0c0b65e6c6) | 2026-03-19 20:28 |
@@ -564,7 +569,6 @@ Last updated: 2026-03-19 21:28
 | EY | AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=230bad3331a7b81d) | 2026-03-16 01:25 |
 | EY | CT_NITRO Experimental AI Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fecf1fa5246a7b8) | 2026-03-16 01:25 |
 | Cayuse Holdings | Forward Deployed Engineer | US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=92a6b6e514fcadd1) | 2026-03-15 23:21 |
-| Lodging by Liberty DBA Charter Furniture | Full Stack Developer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=134952c8e2b4c531) | 2026-03-15 22:19 |
 
 
 ---
