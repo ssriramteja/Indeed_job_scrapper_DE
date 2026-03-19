@@ -1,13 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 07:41
+Last updated: 2026-03-19 08:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 07:41 |
-| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 07:41 |
+| Premier Inc. | Senior Software Engineer - Full Stack | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2728e69028426d36) | 2026-03-19 08:32 |
+| Customertimes | AWS Data Engineer | Poland, ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b92e49b2282be9b0) | 2026-03-19 08:32 |
+| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 08:32 |
+| WesBanco Bank, Inc. | Senior Data Engineer - Data & Analytics | Wheeling, WV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3a2879bbf581653) | 2026-03-19 08:32 |
+| ECS | Senior Developer | Fairfax, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba52e4c7be1b38da) | 2026-03-19 08:32 |
+| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 08:32 |
+| Conduent | App Dev & Support Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=545fbf2f702616bd) | 2026-03-19 08:32 |
+| Conduent | App Dev & Support Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d52c6f68144e455b) | 2026-03-19 08:32 |
 | Capio Group | API/Integration Developer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6bc0dacaf9a9f3d3) | 2026-03-19 06:47 |
 | uShip | Software Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=831952137ebf7901) | 2026-03-19 06:47 |
 | nan | Marketing Automation Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9311cdc9cc020263) | 2026-03-19 06:47 |
@@ -502,7 +508,6 @@ Last updated: 2026-03-19 07:41
 | Lodging by Liberty DBA Charter Furniture | Full Stack Developer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=134952c8e2b4c531) | 2026-03-15 22:19 |
 | SportsBiz Group Inc | Senior DevOps Engineer - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=11d5b4bae86c5d93) | 2026-03-15 13:41 |
 | SportsBiz Group Inc | Senior DevOps Engineer - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c8be363a36eab12f) | 2026-03-15 13:41 |
-| Plymouth Rock Assurance | Senior AWS Cloud Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d13983e0e25e706c) | 2026-03-15 08:27 |
 
 
 ---
