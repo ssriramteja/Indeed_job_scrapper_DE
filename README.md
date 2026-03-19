@@ -1,16 +1,81 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 01:21
+Last updated: 2026-03-19 04:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ConocoPhillips | Commercial IT Sr. Data Solution Developer | Houston, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=7a99d5e0e955f545) | 2026-03-19 04:14 |
+| The Hartford | Senior Software Engineer - Hybrid | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7eca245ea2227b61) | 2026-03-19 04:14 |
+| The Hartford | Senior Software Engineer - Hybrid | Hartford, CT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ffd611d279ec668f) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=99004f0ccb75bff8) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | McLean, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b800e1dd513c62b0) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Bellevue, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=67db4676545517dc) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Jericho, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=465e4cfb02687a43) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Richmond, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=86bf9595c61e4e9b) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=172ac3f4d79041c0) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Midland, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=24d19bd6c4e70f90) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Cincinnati, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5f8c07b3c7931842) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Baltimore, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=958277eca165b7b0) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d4bb652fefd41a30) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5fec5ae34e47340c) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Kansas City, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d917504603bf084e) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=39e24f6a7ce5748f) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Fort Worth, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5524c8ba85bcff30) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Philadelphia, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c50acddb7517f2d4) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Las Vegas, NV, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=82e9fffb45114190) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fdb7b8041bb03853) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Lansing, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f6c2e5757b692357) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | St. Louis, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4f14f3bff02b38d0) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Rochester, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=150a62779e64cf28) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Cleveland, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d491b10b83c519d4) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3e9b3b6bd775a2d2) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Memphis, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b74d7177a759a3cb) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Des Moines, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c0185fa4b3994bde) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Louisville, KY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fdaa4bd12cb8e36e) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Morristown, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f7162a38c502a046) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Raleigh, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f4d4bc09ac9bd67f) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Hermitage, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37f27536cfc96c94) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Grand Rapids, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=095644e54329e701) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Princeton, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1c94558aafefd5ef) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Tempe, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5b89c32a876770ee) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Miami, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2db2dd7c1e8f6377) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Hartford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3c9ee617abae433) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Davenport, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=be1719cac82392e0) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Boise, ID, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=43ee942f932f912d) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Sacramento, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=95181713ad4ed52c) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d79ea68b4c4f16f8) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Costa Mesa, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0e908cc2565c6ad0) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d87a925620ad7f49) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f1660cec9806eccb) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d20789ddb9670a91) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Stamford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4c4670a44a18b5d0) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f9fbe0040faa9f86) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Birmingham, AL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6b2b5a1a6ff87359) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | Fresno, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8022de7456a51615) | 2026-03-19 04:14 |
+| Deloitte | Data Engineer - Project Delivery Analyst | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ee89a75146fdc182) | 2026-03-19 04:14 |
+| American Airlines | Engineer/ Sr Engineer, IT AI | Fort Worth, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e5dca82b8d363fd2) | 2026-03-19 04:14 |
+| College Board | Senior Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65534676e608624f) | 2026-03-19 04:14 |
+| General Motors (GM) | Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b92ef16eb7915a5a) | 2026-03-19 04:14 |
+| Epsilon | Senior Network Cloud Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d82f40ea9ef1670c) | 2026-03-19 04:14 |
+| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 04:14 |
+| Information Technology Senior Management Forum | Data Architect, Data Foundry | Louisville, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21c76512f619110f) | 2026-03-19 04:14 |
+| Information Technology Senior Management Forum | Data Architect, Data Foundry | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=995099ed2a56911e) | 2026-03-19 04:14 |
+| Information Technology Senior Management Forum | Data Architect, Data Foundry | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7e8c4071e8f4f773) | 2026-03-19 04:14 |
+| Information Technology Senior Management Forum | Data Architect, Data Foundry | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f0b9e607fd2d0d2e) | 2026-03-19 04:14 |
+| Information Technology Senior Management Forum | Data Architect, Data Foundry | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eae8e657cbba2095) | 2026-03-19 04:14 |
+| MarketDial | Senior Software Engineer | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=acc892ea3db24915) | 2026-03-19 04:14 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-19 04:14 |
+| ProVation | Security and IT Systems Analyst | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b47e577ffd7e5fa) | 2026-03-19 04:14 |
+| Navteca | Business Intelligence Architect / Developer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e9da75f20591aeee) | 2026-03-19 04:14 |
+| PAR Technology | AI Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de950818ae0f1c11) | 2026-03-19 04:14 |
+| Dollar General | SR SOFTWARE ENGINEER | Goodlettsville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87178150b06d3f51) | 2026-03-19 04:14 |
+| Liminal | Cloud DevOps Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad05bfbb65cf4fe0) | 2026-03-19 04:14 |
+| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 04:14 |
 | Adobe | Data Science Engineer | Lehi, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7c97b89e39037ee8) | 2026-03-19 01:21 |
-| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 01:21 |
 | Barnes & Thornburg LLP | Data Engineer | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02f399460ba9c2fc) | 2026-03-19 01:21 |
 | Mike Albert Leasing, Inc | Sr. Data Engineer | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5b7173086c8af5c) | 2026-03-19 01:21 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-19 01:21 |
 | Radial | Software Engineer (ETL) | King of Prussia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1c9a7cc0e0aaef8e) | 2026-03-19 01:21 |
 | nan | People Systems Engineer | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f31b2374dfd81d8) | 2026-03-19 01:21 |
 | nan | Tech - Data Base Administrator | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e3fa1c25dd9c540) | 2026-03-19 01:21 |
@@ -19,7 +84,6 @@ Last updated: 2026-03-19 01:21
 | Eli Lilly | Engineer - MLOps & Scientific Platforms - Data Foundry | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=90490552a1c9fe28) | 2026-03-19 01:21 |
 | Realtime Clinical Trial Management Systems | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1511699a4fb38068) | 2026-03-19 01:21 |
 | Xsolis | Agentic and Generative Data Scientist II | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98906d283f683359) | 2026-03-19 01:21 |
-| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 01:21 |
 | Quest Diagnostics | Senior Cloud Engineer | Tampa, FL, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=008b82df0092f214) | 2026-03-18 23:24 |
 | Openkyber | SAP Data Migration Consultant | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c6ffedc59232b1e6) | 2026-03-18 23:24 |
 | Openkyber | SAP AI Business Services Consultant | CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a7230c31a417de52) | 2026-03-18 23:24 |
@@ -426,7 +490,6 @@ Last updated: 2026-03-19 01:21
 | Deloitte | Data Foundations Engineer | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=05bc7b696fdd2052) | 2026-03-15 04:26 |
 | Deloitte | Data Operations Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f93244101a55d1cf) | 2026-03-15 04:26 |
 | Crate and Barrel | Senior Data Engineer | Northbrook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=595247e429160094) | 2026-03-15 04:26 |
-| Pluto TV | Senior Data Engineer | West Hollywood, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fae9461b0cd0dc68) | 2026-03-15 01:26 |
 
 
 ---
