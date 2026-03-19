@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 04:14
+Last updated: 2026-03-19 05:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Angeion Group, LLC | Senior Cloud Infrastructure Engineer | Philadelphia, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=33e99b8f9b3b2740) | 2026-03-19 05:53 |
+| Studio McGee | Senior Data Engineer | Draper, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1fce98418ec68193) | 2026-03-19 05:53 |
+| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 05:53 |
+| Tesla | Forward Deployed Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9c10613312eae7d7) | 2026-03-19 05:53 |
+| U.S. Bank | Sr. Data Governance Platform Engineer | Cupertino, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=794676769f713195) | 2026-03-19 05:53 |
+| U.S. Bank | Sr. Data Governance Platform Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=83874b4efc59bfe1) | 2026-03-19 05:53 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-19 05:53 |
+| U.S. Bank | Data Governance Platform Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=84ec5aac03a88bd4) | 2026-03-19 05:53 |
+| U.S. Bank | Data Governance Platform Engineer | Cupertino, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8a5d1a6525d2d2bc) | 2026-03-19 05:53 |
+| Openkyber | Data Scientist | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b3267f4ddbfd71ec) | 2026-03-19 05:53 |
+| Openkyber | AI Application Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81dac51ac780b98f) | 2026-03-19 05:53 |
+| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 05:53 |
 | ConocoPhillips | Commercial IT Sr. Data Solution Developer | Houston, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=7a99d5e0e955f545) | 2026-03-19 04:14 |
 | The Hartford | Senior Software Engineer - Hybrid | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7eca245ea2227b61) | 2026-03-19 04:14 |
 | The Hartford | Senior Software Engineer - Hybrid | Hartford, CT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ffd611d279ec668f) | 2026-03-19 04:14 |
@@ -59,20 +71,17 @@ Last updated: 2026-03-19 04:14
 | College Board | Senior Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65534676e608624f) | 2026-03-19 04:14 |
 | General Motors (GM) | Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b92ef16eb7915a5a) | 2026-03-19 04:14 |
 | Epsilon | Senior Network Cloud Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d82f40ea9ef1670c) | 2026-03-19 04:14 |
-| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 04:14 |
 | Information Technology Senior Management Forum | Data Architect, Data Foundry | Louisville, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21c76512f619110f) | 2026-03-19 04:14 |
 | Information Technology Senior Management Forum | Data Architect, Data Foundry | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=995099ed2a56911e) | 2026-03-19 04:14 |
 | Information Technology Senior Management Forum | Data Architect, Data Foundry | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7e8c4071e8f4f773) | 2026-03-19 04:14 |
 | Information Technology Senior Management Forum | Data Architect, Data Foundry | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f0b9e607fd2d0d2e) | 2026-03-19 04:14 |
 | Information Technology Senior Management Forum | Data Architect, Data Foundry | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eae8e657cbba2095) | 2026-03-19 04:14 |
 | MarketDial | Senior Software Engineer | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=acc892ea3db24915) | 2026-03-19 04:14 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-19 04:14 |
 | ProVation | Security and IT Systems Analyst | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b47e577ffd7e5fa) | 2026-03-19 04:14 |
 | Navteca | Business Intelligence Architect / Developer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e9da75f20591aeee) | 2026-03-19 04:14 |
 | PAR Technology | AI Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de950818ae0f1c11) | 2026-03-19 04:14 |
 | Dollar General | SR SOFTWARE ENGINEER | Goodlettsville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87178150b06d3f51) | 2026-03-19 04:14 |
 | Liminal | Cloud DevOps Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad05bfbb65cf4fe0) | 2026-03-19 04:14 |
-| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 04:14 |
 | Adobe | Data Science Engineer | Lehi, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7c97b89e39037ee8) | 2026-03-19 01:21 |
 | Barnes & Thornburg LLP | Data Engineer | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02f399460ba9c2fc) | 2026-03-19 01:21 |
 | Mike Albert Leasing, Inc | Sr. Data Engineer | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5b7173086c8af5c) | 2026-03-19 01:21 |
@@ -487,9 +496,6 @@ Last updated: 2026-03-19 04:14
 | SportsBiz Group Inc | Senior DevOps Engineer - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=11d5b4bae86c5d93) | 2026-03-15 13:41 |
 | SportsBiz Group Inc | Senior DevOps Engineer - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c8be363a36eab12f) | 2026-03-15 13:41 |
 | Plymouth Rock Assurance | Senior AWS Cloud Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d13983e0e25e706c) | 2026-03-15 08:27 |
-| Deloitte | Data Foundations Engineer | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=05bc7b696fdd2052) | 2026-03-15 04:26 |
-| Deloitte | Data Operations Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f93244101a55d1cf) | 2026-03-15 04:26 |
-| Crate and Barrel | Senior Data Engineer | Northbrook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=595247e429160094) | 2026-03-15 04:26 |
 
 
 ---
