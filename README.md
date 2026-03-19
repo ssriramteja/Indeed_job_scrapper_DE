@@ -1,23 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 05:53
+Last updated: 2026-03-19 06:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capio Group | API/Integration Developer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6bc0dacaf9a9f3d3) | 2026-03-19 06:47 |
+| uShip | Software Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=831952137ebf7901) | 2026-03-19 06:47 |
+| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 06:47 |
+| nan | Marketing Automation Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9311cdc9cc020263) | 2026-03-19 06:47 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-19 06:47 |
+| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 06:47 |
+| Humana | Software Engineer | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c0c3678726f7cd8) | 2026-03-19 06:47 |
+| Humana | Software Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bcf2bd60b7775522) | 2026-03-19 06:47 |
+| Humana | Software Engineer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e199cfaab686fcd) | 2026-03-19 06:47 |
+| Humana | Software Engineer | TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cdaf29b51d053945) | 2026-03-19 06:47 |
+| Humana | Software Engineer | KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e0581c78c0e903b) | 2026-03-19 06:47 |
 | Angeion Group, LLC | Senior Cloud Infrastructure Engineer | Philadelphia, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=33e99b8f9b3b2740) | 2026-03-19 05:53 |
 | Studio McGee | Senior Data Engineer | Draper, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1fce98418ec68193) | 2026-03-19 05:53 |
-| Activision | Senior Data Engineer \| Xbox Advertising | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cfb862649ecf3ff) | 2026-03-19 05:53 |
 | Tesla | Forward Deployed Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9c10613312eae7d7) | 2026-03-19 05:53 |
 | U.S. Bank | Sr. Data Governance Platform Engineer | Cupertino, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=794676769f713195) | 2026-03-19 05:53 |
 | U.S. Bank | Sr. Data Governance Platform Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=83874b4efc59bfe1) | 2026-03-19 05:53 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6821b6da5b7382e0) | 2026-03-19 05:53 |
 | U.S. Bank | Data Governance Platform Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=84ec5aac03a88bd4) | 2026-03-19 05:53 |
 | U.S. Bank | Data Governance Platform Engineer | Cupertino, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8a5d1a6525d2d2bc) | 2026-03-19 05:53 |
 | Openkyber | Data Scientist | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b3267f4ddbfd71ec) | 2026-03-19 05:53 |
 | Openkyber | AI Application Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81dac51ac780b98f) | 2026-03-19 05:53 |
-| Great Gray Trust Company | Full Stack Senior Engineer (.NET/React) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61df1a30908c512a) | 2026-03-19 05:53 |
 | ConocoPhillips | Commercial IT Sr. Data Solution Developer | Houston, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=7a99d5e0e955f545) | 2026-03-19 04:14 |
 | The Hartford | Senior Software Engineer - Hybrid | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7eca245ea2227b61) | 2026-03-19 04:14 |
 | The Hartford | Senior Software Engineer - Hybrid | Hartford, CT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ffd611d279ec668f) | 2026-03-19 04:14 |
