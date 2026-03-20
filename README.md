@@ -1,18 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 18:36
+Last updated: 2026-03-20 19:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Caterpillar | Senior Software Engineer | Peoria, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e13bcfee6252358d) | 2026-03-20 19:32 |
+| Purpose Financial | Data Operations Engineer | Greenville, SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f09e481bc1c9794c) | 2026-03-20 19:32 |
+| STAND TOGETHER | Senior Software Engineer - Middleware/Integration | Arlington, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c38431e7f505eb9d) | 2026-03-20 19:32 |
+| Purpose Financial | Sr. Software Engineer - Full Stack | Greenville, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=596c7d5d53fe3536) | 2026-03-20 19:32 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-20 19:32 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-20 19:32 |
+| Caterpillar | Sr. Software Engineer, Java Full Stack | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cdca05a9ea0e87f) | 2026-03-20 19:32 |
 | Twilio | Machine Learning Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1fecb0cbc521360f) | 2026-03-20 18:36 |
 | Qode | Python Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=22f6f7ba57d40c2f) | 2026-03-20 18:36 |
 | Optum | Senior Database Reliability Engineer | Concord, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f1820c003bebe5f2) | 2026-03-20 18:36 |
 | nan | Full Stack Developer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c929b0d5d0c4abe8) | 2026-03-20 18:36 |
 | Huntington Bank | QA Testing Analyst - Senior | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8585f1f5e291af52) | 2026-03-20 18:36 |
 | Sbt Global | AWS CloudOps Engineer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c213979016f2c1b9) | 2026-03-20 18:36 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-20 18:36 |
 | Murmuration | Senior QA Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=565e1aaf33c31830) | 2026-03-20 18:36 |
 | nan | DevOps/Platform Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad34594ef5800a70) | 2026-03-20 18:36 |
 | ICF | Business Intelligence Developer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da46c3c1cee63028) | 2026-03-20 18:36 |
@@ -550,27 +556,6 @@ Last updated: 2026-03-20 18:36
 | Tebra | Security Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca3f0014b8bc7264) | 2026-03-16 20:29 |
 | Evolent | BI Engineer , BI Center of Excellence | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ecdd9a09c5fe384) | 2026-03-16 20:29 |
 | Bank of America | Senior Engineer â€“ SIEM Platform Engineering & Operations | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd8574275eb972b1) | 2026-03-16 20:29 |
-| Waystar | Sr. Site Reliability Engineer | Lehi, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=05145faabaee2e3b) | 2026-03-16 19:06 |
-| Energyby5 | Senior Software Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f5016f77a0e9f421) | 2026-03-16 19:06 |
-| Energyby5 | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4a5059671136ac6d) | 2026-03-16 19:06 |
-| FundMate LLC | Salesforce Developer | Brooklyn, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d833bbf779bc5e9f) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0883cd1c95d9570) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2c6c7bd2fc0dd832) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71b613f5fa6f42f2) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=87f9ef2374336f8c) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=233c238f31f0b2df) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e3f1b7576de21e5d) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8817cb3ef7265196) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e563fec6aa7f64cb) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=061fd6d944b77a95) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5568b0fcf2e4b1cb) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6519f8163576c987) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de0c61e17e14420b) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0ec3c8b71c700b53) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2907e4fc31b0b397) | 2026-03-16 19:06 |
-| nan | Sr Azure DevOps Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e8328caf9bb28e8d) | 2026-03-16 19:06 |
-| JMA Wireless | IT Systems Engineer - Linux/Platform Operations | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c45683c60eeacd5) | 2026-03-16 19:06 |
-| OnMed | Senior Data Engineer | White Plains, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b300a114f1bb0c85) | 2026-03-16 19:06 |
 
 
 ---
