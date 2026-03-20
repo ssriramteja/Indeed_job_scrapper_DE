@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 11:25
+Last updated: 2026-03-20 12:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Navat Technologies Pvt Ltd | AWS Architecture - Contract | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9be7783619e1bc9c) | 2026-03-20 12:38 |
+| Navat Technologies Pvt Ltd | AWS Engineer - Contract | Riverwoods, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=13f06a9a34997131) | 2026-03-20 12:38 |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 12:38 |
 | Openkyber | SAP AI Business Services Consultant | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5f3bab5f2ccae161) | 2026-03-20 11:25 |
 | Barclays | Cloud Data Engineer | Whippany, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf20edf4b871568c) | 2026-03-20 11:25 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 11:25 |
 | Openkyber | SAP AI Business Services Consultant | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f69b370f0270ee30) | 2026-03-20 11:25 |
 | MidAmerican Energy | Sr Data Engineer | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e463fc88ac4ddcb3) | 2026-03-20 10:30 |
 | Gartner | Associate Software Engineer - Agentic AI Framework (Python, AWS) | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0f067cb08ee5b102) | 2026-03-20 10:30 |
@@ -593,13 +595,6 @@ Last updated: 2026-03-20 11:25
 | Purple Austyn Technologies | Senior Big Data Engineer - AWS | Rockville, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=943257051095e0f6) | 2026-03-16 12:51 |
 | SoundThinking | Sr. Data Engineer – Ontology & Semantic Modeling | Fremont, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02d5fa75dac6e177) | 2026-03-16 12:51 |
 | American business solutions inc | SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a3b76cb2a8af4e3) | 2026-03-16 12:51 |
-| RELQ TECHNOLOGIES | AWS Cloud Architect- US Remote | Tallahassee, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a515f277b1dc9889) | 2026-03-16 11:40 |
-| Openkyber | IAM Helpdesk Analyst | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4e5dd84afd435111) | 2026-03-16 11:40 |
-| Openkyber | Cloud AI Application Administrator | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=00aacc39137daaf7) | 2026-03-16 11:40 |
-| Openkyber | Network Operations Trainee | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=88bda3516bc06812) | 2026-03-16 11:40 |
-| Openkyber | Java Trainer / Mentor / Educator | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f452a32fedc556a0) | 2026-03-16 11:40 |
-| EY | Data Scientist-Tech Con-AI and Data-AI and Quan Modelling-Azure Data Scientist-Mgr-Mult Pos-1680332 | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b613410a2f36e193) | 2026-03-16 11:40 |
-| Openkyber | Identity AI / ML Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b2285059f147509) | 2026-03-16 11:40 |
 
 
 ---
