@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 12:38
+Last updated: 2026-03-20 13:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Gen II Fund Services | Cloud DevOps Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=38a5ed1c6ce89902) | 2026-03-20 13:56 |
+| Chevron | Data Architect - Data Lake & Data Engineering | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2dd3db330a009de) | 2026-03-20 13:56 |
 | Navat Technologies Pvt Ltd | AWS Architecture - Contract | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9be7783619e1bc9c) | 2026-03-20 12:38 |
 | Navat Technologies Pvt Ltd | AWS Engineer - Contract | Riverwoods, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=13f06a9a34997131) | 2026-03-20 12:38 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 12:38 |
 | Openkyber | SAP AI Business Services Consultant | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5f3bab5f2ccae161) | 2026-03-20 11:25 |
 | Barclays | Cloud Data Engineer | Whippany, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf20edf4b871568c) | 2026-03-20 11:25 |
 | Openkyber | SAP AI Business Services Consultant | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f69b370f0270ee30) | 2026-03-20 11:25 |
@@ -592,9 +593,6 @@ Last updated: 2026-03-20 12:38
 | nan | Sr Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=508cf5fa2697a154) | 2026-03-16 14:16 |
 | nan | Sr Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=641aca644ab6b5a8) | 2026-03-16 14:16 |
 | nan | Sr Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e78876821e7b218f) | 2026-03-16 14:16 |
-| Purple Austyn Technologies | Senior Big Data Engineer - AWS | Rockville, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=943257051095e0f6) | 2026-03-16 12:51 |
-| SoundThinking | Sr. Data Engineer – Ontology & Semantic Modeling | Fremont, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02d5fa75dac6e177) | 2026-03-16 12:51 |
-| American business solutions inc | SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a3b76cb2a8af4e3) | 2026-03-16 12:51 |
 
 
 ---
