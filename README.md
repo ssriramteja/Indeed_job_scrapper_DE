@@ -1,16 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 21:23
+Last updated: 2026-03-20 22:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Python and PySpark, No SQL Developer | Mount Laurel, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d64ff1548d48cfe8) | 2026-03-20 22:19 |
+| Hyatt | SENIOR PRODUCT ARCHITECT (HYBRID) | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aab12c8c52c7821a) | 2026-03-20 22:19 |
+| Travelers | Software Engineer II - Enterprise AI Products | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=67984d7d68bde23e) | 2026-03-20 22:19 |
+| Hyatt | SENIOR PRODUCT ENGINEER (REMOTE OPPORTUNITY) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2bed15d2d90e0d1d) | 2026-03-20 22:19 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-20 22:19 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-20 22:19 |
+| CHRISTUS Health | Data Analytics Engineer II - IM Enterprise Data | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec58fdfb7ee3a019) | 2026-03-20 22:19 |
 | Cloud and Things | Java Developer | Albany, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6f9bb650178f491a) | 2026-03-20 21:23 |
 | Snap Inc. | Senior Business Intelligence Engineer, Level 4 (Fixed-Term) | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae16c738518a578a) | 2026-03-20 21:23 |
 | Sigma Computing | Senior Security Engineer II – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fe3338ab667344c2) | 2026-03-20 21:23 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-20 21:23 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-20 21:23 |
 | Cambia Health Solutions | Senior Data Platform Engineer / SDE | Portland, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b53bfdd24da28f8e) | 2026-03-20 21:23 |
 | HealthMark Group | Senior Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0a28e9f2e97b7a9) | 2026-03-20 21:23 |
 | Tata Consultancy Services (TCS) | AWS Solution Engineer | Chandler, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9ebb6287ea5ed18b) | 2026-03-20 21:23 |
@@ -555,15 +560,6 @@ Last updated: 2026-03-20 21:23
 | DatamanUSA | Information Systems Architect - Consultant | Columbia, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b4a2963fd5a1441) | 2026-03-16 22:24 |
 | Mastercard | Senior Analyst - Technical (Data Quality Analyst)-2 | O'Fallon, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85e98320b32b1c20) | 2026-03-16 22:24 |
 | Tata Consultancy Services (TCS) | Senior Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c56aa2c78fe94ad7) | 2026-03-16 22:24 |
-| SLK America | Technical Architect (Node.js & React.js) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f4cf29a03b04d30c) | 2026-03-16 21:31 |
-| New England Life Care | Data Warehouse Developer | Concord, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=239b1046f06d3d2f) | 2026-03-16 21:31 |
-| New England Life Care | Data Warehouse Developer | Woburn, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a7f6dab575a97ad) | 2026-03-16 21:31 |
-| New England Life Care | Data Warehouse Developer | Canton, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d02a598ce56d257c) | 2026-03-16 21:31 |
-| New England Life Care | Data Warehouse Developer | Scarborough, ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b64bf3747c350d3) | 2026-03-16 21:31 |
-| AMH | Site Reliability Engineer | Draper, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6de9642d876b3baf) | 2026-03-16 21:31 |
-| CyberArk | Senior SDET - Performance Test Engineer | Santa Clara, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64e75a054f0e88a5) | 2026-03-16 21:31 |
-| American Airlines | Sr Associate Engineer/Engineer, IT Software | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f090126c2e636f7f) | 2026-03-16 21:31 |
-| Colgate-Palmolive | Commercial Operations BI Analyst | Piscataway, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8f866ceafbf4452) | 2026-03-16 21:31 |
 
 
 ---
