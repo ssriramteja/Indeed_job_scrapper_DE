@@ -1,22 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 01:16
+Last updated: 2026-03-20 04:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Credera | Senior Architect, Data | Chicago, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7cb38e105921042f) | 2026-03-20 04:06 |
+| Credera | Senior Architect, Data | Houston, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=55b10352d281c7c1) | 2026-03-20 04:06 |
+| Credera | Senior Architect, Data | Denver, CO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=91b0087050e37f4d) | 2026-03-20 04:06 |
+| Credera | Senior Architect, Data | Addison, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=747c891edb77428f) | 2026-03-20 04:06 |
+| Technology Ventures | Senior Full Stack Engineer (Python \| AWS \| Scalable Systems) | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8677066c2054bfc1) | 2026-03-20 04:06 |
+| Mastercard | Senior Software Engineer | O'Fallon, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=10432e8c7b264b93) | 2026-03-20 04:06 |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 04:06 |
+| Fidelity Investments | Senior Data Engineer - Oracle DBA - OCI | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e599db25edc63644) | 2026-03-20 04:06 |
+| Fidelity Investments | Senior Data Engineer - Oracle DBA - OCI | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d75b05ba4615bbc0) | 2026-03-20 04:06 |
+| Fidelity Investments | Senior Data Engineer - Oracle DBA - OCI | Smithfield, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=03ea7797a2adda23) | 2026-03-20 04:06 |
+| American Airlines | Engineer/Sr Engineer, IT Software - Quality Assurance | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b6151531a1a35f8) | 2026-03-20 04:06 |
+| Nymbus, Inc. | Senior Engineer, Core Banking | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aba5c8bfff271f8c) | 2026-03-20 04:06 |
 | Tradeweb | Data Platform Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=86ccecd9ed22acdf) | 2026-03-20 01:16 |
 | Gopuff | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c2ba2751255ad70) | 2026-03-20 01:16 |
 | GHD | Senior Data Scientist | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6a5213bf0e2059fe) | 2026-03-20 01:16 |
-| Technology Ventures | Senior Full Stack Engineer (Python \| AWS \| Scalable Systems) | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8677066c2054bfc1) | 2026-03-20 01:16 |
 | Future Modern | Data Science Professional | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dad277abfee814e4) | 2026-03-20 01:16 |
 | Morningstar | Senior Snowflake Data Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=18891b949c49ef4c) | 2026-03-20 01:16 |
 | Simpson Thacher & Bartlett LLP | Senior Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=379280223ae3ae57) | 2026-03-20 01:16 |
 | Mulligan Funding, LLC | Software Engineer III, Data Pipelines | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=696e0be3bf788527) | 2026-03-20 01:16 |
 | BAM Technologies, LLC | Full Stack Developer III | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce4d99e2fdf6b3ec) | 2026-03-20 01:16 |
 | Brillio LLC | Senior Data Engineer – R01560920 | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5d2465c192818aee) | 2026-03-20 01:16 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 01:16 |
 | Simpson Thacher & Bartlett LLP | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81a1f176546a9ca6) | 2026-03-20 01:16 |
 | Capgemini | Associate Data Engineer- Hyperscale- Cloud | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=eee1c6c65c9ef5f7) | 2026-03-19 23:22 |
 | Allstate Insurance | Senior Data Engineer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=f2d4408cceed11d6) | 2026-03-19 23:22 |
@@ -588,10 +598,6 @@ Last updated: 2026-03-20 01:16
 | Adobe | Senior Data Engineer & Architect | San Jose, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6fd769b82cca737f) | 2026-03-16 08:03 |
 | Evercommerce | EverCommerce - Sr. BI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96fcb774adfa1d8f) | 2026-03-16 06:15 |
 | Dental Technology Solutions | IT Support Specialist / Server Administrator | Cherry Hill, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=af8efbf975313df8) | 2026-03-16 04:33 |
-| EY | Cons - TC - AI and Data - Enterp Data - Data Eng and Arch - Data Eng - Mgr - MP - 1688246 | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=493b62850523f4e7) | 2026-03-16 01:25 |
-| nan | Data Engineer | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba6d16d92a70fded) | 2026-03-16 01:25 |
-| EY | AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=230bad3331a7b81d) | 2026-03-16 01:25 |
-| EY | CT_NITRO Experimental AI Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fecf1fa5246a7b8) | 2026-03-16 01:25 |
 
 
 ---
