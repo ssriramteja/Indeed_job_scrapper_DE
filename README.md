@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 15:36
+Last updated: 2026-03-20 16:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior Data Engineer – CDO / Data & AI Engineering | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c03da34050d1fb85) | 2026-03-20 16:33 |
+| Micron Technology | Machine Learning Engineer | Boise, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9d2163f01dd05b34) | 2026-03-20 16:33 |
+| Optum | Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=74fd1f39f284ae52) | 2026-03-20 16:33 |
 | Northcross Group | AWS Kubernetes Engineer | Marquette, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=15f734c7c5315c58) | 2026-03-20 15:36 |
 | Northcross Group | AWS Kubernetes Engineer | Portland, ME, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3b0cc109a6bef88b) | 2026-03-20 15:36 |
 | State of South Carolina | Data Engineer-60009025 | SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=730fc0393aed5ee7) | 2026-03-20 14:39 |
@@ -585,13 +588,6 @@ Last updated: 2026-03-20 15:36
 | Openkyber | Kafka | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57504132804a2fda) | 2026-03-16 18:00 |
 | Tex-Care Pharmacy | Systems Administrator | Sugar Land, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1d01469f91a410bc) | 2026-03-16 16:58 |
 | IDEXX Laboratories | Application Developer Sr I | Portland, ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bf035a827f29347) | 2026-03-16 16:58 |
-| JPMorganChase | Software Engineer III - Backend/Java | Palo Alto, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=6c1fd07d72b779f4) | 2026-03-16 16:01 |
-| JPMorganChase | Software Engineer III - SDET | Palo Alto, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=95c7d23da1d85f79) | 2026-03-16 16:01 |
-| Nearsure | (1383) Senior SRE/DevOps Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8598ff2a82d03277) | 2026-03-16 16:01 |
-| Metrixit | Java AWS Developer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1f7d16ccefe95913) | 2026-03-16 16:01 |
-| Intellibee Inc | SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=211072bc9ba0394d) | 2026-03-16 16:01 |
-| Welltower, Inc | AWS Cloud Engineer - onsite Dallas, TX | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=966b58a59ad0b785) | 2026-03-16 16:01 |
-| Excelsior University | Database Engineer | Albany, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85fa6c830bb1cd62) | 2026-03-16 16:01 |
 
 
 ---
