@@ -1,12 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 09:33
+Last updated: 2026-03-20 10:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 09:33 |
+| MidAmerican Energy | Sr Data Engineer | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e463fc88ac4ddcb3) | 2026-03-20 10:30 |
+| Gartner | Associate Software Engineer - Agentic AI Framework (Python, AWS) | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0f067cb08ee5b102) | 2026-03-20 10:30 |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 10:30 |
+| Innocito Technologies Pvt Ltd | .Net Solution Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02b9ac763b0be67c) | 2026-03-20 10:30 |
 | Siemens Healthineers | System Architect – Database Focus | Walpole, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a3463b2ed33bb410) | 2026-03-20 08:31 |
 | Boeing | Full Stack Software Engineer (Mid-Level or Senior) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f974df4cb0027d13) | 2026-03-20 08:31 |
 | Fidelity TalentSource | Data Engineer | Merrimack, NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08899fe7be35149e) | 2026-03-20 08:31 |
@@ -594,14 +597,6 @@ Last updated: 2026-03-20 09:33
 | Openkyber | Java Trainer / Mentor / Educator | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f452a32fedc556a0) | 2026-03-16 11:40 |
 | EY | Data Scientist-Tech Con-AI and Data-AI and Quan Modelling-Azure Data Scientist-Mgr-Mult Pos-1680332 | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b613410a2f36e193) | 2026-03-16 11:40 |
 | Openkyber | Identity AI / ML Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b2285059f147509) | 2026-03-16 11:40 |
-| JPMorganChase | Software Engineer II - Data / ETL | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ec636208e5ebd53d) | 2026-03-16 09:56 |
-| Sun Group | Senior Backend Engineer | VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e1e43a65f53e347c) | 2026-03-16 09:56 |
-| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Falls Church, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1811a5e61116c3b5) | 2026-03-16 09:56 |
-| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Chevy Chase, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d4f37aff04bbbf14) | 2026-03-16 09:56 |
-| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Baltimore, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e8b6861263b7736a) | 2026-03-16 09:56 |
-| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4a0e777ff5549418) | 2026-03-16 09:56 |
-| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f6027f8f887b28cc) | 2026-03-16 09:56 |
-| Skywalk Global | SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1c074eb3bed74ad) | 2026-03-16 09:56 |
 
 
 ---
