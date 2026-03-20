@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 13:56
+Last updated: 2026-03-20 14:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| State of South Carolina | Data Engineer-60009025 | SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=730fc0393aed5ee7) | 2026-03-20 14:39 |
+| Curana Health | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b2c9907ac74f3bf) | 2026-03-20 14:39 |
 | Gen II Fund Services | Cloud DevOps Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=38a5ed1c6ce89902) | 2026-03-20 13:56 |
 | Chevron | Data Architect - Data Lake & Data Engineering | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2dd3db330a009de) | 2026-03-20 13:56 |
 | Navat Technologies Pvt Ltd | AWS Architecture - Contract | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9be7783619e1bc9c) | 2026-03-20 12:38 |
@@ -588,11 +590,6 @@ Last updated: 2026-03-20 13:56
 | Intellibee Inc | SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=211072bc9ba0394d) | 2026-03-16 16:01 |
 | Welltower, Inc | AWS Cloud Engineer - onsite Dallas, TX | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=966b58a59ad0b785) | 2026-03-16 16:01 |
 | Excelsior University | Database Engineer | Albany, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85fa6c830bb1cd62) | 2026-03-16 16:01 |
-| UnyBrands | Senior Data Engineer Solution Design Focused | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d83c96f81842df2) | 2026-03-16 14:16 |
-| nan | Senior Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ccd49d302b2f7b3) | 2026-03-16 14:16 |
-| nan | Sr Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=508cf5fa2697a154) | 2026-03-16 14:16 |
-| nan | Sr Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=641aca644ab6b5a8) | 2026-03-16 14:16 |
-| nan | Sr Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e78876821e7b218f) | 2026-03-16 14:16 |
 
 
 ---
