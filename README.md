@@ -1,16 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 08:31
+Last updated: 2026-03-20 09:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 09:33 |
 | Siemens Healthineers | System Architect – Database Focus | Walpole, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a3463b2ed33bb410) | 2026-03-20 08:31 |
 | Boeing | Full Stack Software Engineer (Mid-Level or Senior) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f974df4cb0027d13) | 2026-03-20 08:31 |
 | Fidelity TalentSource | Data Engineer | Merrimack, NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08899fe7be35149e) | 2026-03-20 08:31 |
 | Boeing | Senior Data & AI Platform Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86f8075b573654a6) | 2026-03-20 08:31 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 08:31 |
 | nan | Software Engineer | Mexico, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47bebf82409e7078) | 2026-03-20 07:40 |
 | AMETEK | Cloud Platform and Data Engineer | Berwyn, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7257366c07155d6a) | 2026-03-20 06:43 |
 | Realign | FiveTran Administrator / Data Integration Engineer | Lebanon, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0628279e3946a66e) | 2026-03-20 06:43 |
