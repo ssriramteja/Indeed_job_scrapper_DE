@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 06:43
+Last updated: 2026-03-20 07:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 07:40 |
+| nan | Software Engineer | Mexico, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47bebf82409e7078) | 2026-03-20 07:40 |
 | AMETEK | Cloud Platform and Data Engineer | Berwyn, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7257366c07155d6a) | 2026-03-20 06:43 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 06:43 |
 | Realign | FiveTran Administrator / Data Integration Engineer | Lebanon, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0628279e3946a66e) | 2026-03-20 06:43 |
 | CVS Health | Senior Software Development Engineer | Woonsocket, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2390c3a5f71283bc) | 2026-03-20 06:43 |
 | Credera | Senior Architect, Data | Chicago, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7cb38e105921042f) | 2026-03-20 04:06 |
