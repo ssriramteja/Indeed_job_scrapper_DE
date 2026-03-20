@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 16:33
+Last updated: 2026-03-20 17:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Mod Op | Junior AI/ML Engineer (Data & Cloud Platforms) | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d1204728c106ec46) | 2026-03-20 17:30 |
+| Openly | Senior Data Engineer (Remote, US) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4d18e2b948851633) | 2026-03-20 17:30 |
+| Delsys Technologies | IBM MQ System Engineer V | Chandler, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac770314ea034618) | 2026-03-20 17:30 |
+| CNC Software | Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7ead6759ac7d0a47) | 2026-03-20 17:30 |
+| Coastal Credit Union | Data Engineer Sr | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f96bcd9b2b20e586) | 2026-03-20 17:30 |
+| Fivetran | Senior Sales Engineer, Commercial Expansion | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d2a965c884f4afb0) | 2026-03-20 17:30 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-20 17:30 |
+| IonQ | Senior Infrastructure Software Engineer - Hardware Test | Bothell, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb417231462092a5) | 2026-03-20 17:30 |
 | nan | Senior Data Engineer – CDO / Data & AI Engineering | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c03da34050d1fb85) | 2026-03-20 16:33 |
 | Micron Technology | Machine Learning Engineer | Boise, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9d2163f01dd05b34) | 2026-03-20 16:33 |
 | Optum | Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=74fd1f39f284ae52) | 2026-03-20 16:33 |
@@ -586,8 +594,6 @@ Last updated: 2026-03-20 16:33
 | Realign | Databricks Data Engineer(Azure + Python)-2 | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ab4ff45664c5ad4) | 2026-03-16 18:00 |
 | Openkyber | Kafka Production Support Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94e5c794f9af11e6) | 2026-03-16 18:00 |
 | Openkyber | Kafka | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57504132804a2fda) | 2026-03-16 18:00 |
-| Tex-Care Pharmacy | Systems Administrator | Sugar Land, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1d01469f91a410bc) | 2026-03-16 16:58 |
-| IDEXX Laboratories | Application Developer Sr I | Portland, ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bf035a827f29347) | 2026-03-16 16:58 |
 
 
 ---
