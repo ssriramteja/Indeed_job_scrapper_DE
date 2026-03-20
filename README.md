@@ -1,12 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 05:45
+Last updated: 2026-03-20 06:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 05:45 |
+| AMETEK | Cloud Platform and Data Engineer | Berwyn, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7257366c07155d6a) | 2026-03-20 06:43 |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 06:43 |
+| Realign | FiveTran Administrator / Data Integration Engineer | Lebanon, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0628279e3946a66e) | 2026-03-20 06:43 |
+| CVS Health | Senior Software Development Engineer | Woonsocket, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2390c3a5f71283bc) | 2026-03-20 06:43 |
 | Credera | Senior Architect, Data | Chicago, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7cb38e105921042f) | 2026-03-20 04:06 |
 | Credera | Senior Architect, Data | Houston, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=55b10352d281c7c1) | 2026-03-20 04:06 |
 | Credera | Senior Architect, Data | Denver, CO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=91b0087050e37f4d) | 2026-03-20 04:06 |
@@ -595,7 +598,6 @@ Last updated: 2026-03-20 05:45
 | GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f6027f8f887b28cc) | 2026-03-16 09:56 |
 | Skywalk Global | SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1c074eb3bed74ad) | 2026-03-16 09:56 |
 | Adobe | Senior Data Engineer & Architect | San Jose, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6fd769b82cca737f) | 2026-03-16 08:03 |
-| Evercommerce | EverCommerce - Sr. BI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96fcb774adfa1d8f) | 2026-03-16 06:15 |
 
 
 ---
