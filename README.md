@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-19 23:22
+Last updated: 2026-03-20 01:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tradeweb | Data Platform Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=86ccecd9ed22acdf) | 2026-03-20 01:16 |
+| Gopuff | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c2ba2751255ad70) | 2026-03-20 01:16 |
+| GHD | Senior Data Scientist | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6a5213bf0e2059fe) | 2026-03-20 01:16 |
+| Technology Ventures | Senior Full Stack Engineer (Python \| AWS \| Scalable Systems) | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8677066c2054bfc1) | 2026-03-20 01:16 |
+| Future Modern | Data Science Professional | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dad277abfee814e4) | 2026-03-20 01:16 |
+| Morningstar | Senior Snowflake Data Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=18891b949c49ef4c) | 2026-03-20 01:16 |
+| Simpson Thacher & Bartlett LLP | Senior Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=379280223ae3ae57) | 2026-03-20 01:16 |
+| Mulligan Funding, LLC | Software Engineer III, Data Pipelines | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=696e0be3bf788527) | 2026-03-20 01:16 |
+| BAM Technologies, LLC | Full Stack Developer III | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce4d99e2fdf6b3ec) | 2026-03-20 01:16 |
+| Brillio LLC | Senior Data Engineer – R01560920 | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5d2465c192818aee) | 2026-03-20 01:16 |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 01:16 |
+| Simpson Thacher & Bartlett LLP | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81a1f176546a9ca6) | 2026-03-20 01:16 |
 | Capgemini | Associate Data Engineer- Hyperscale- Cloud | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=eee1c6c65c9ef5f7) | 2026-03-19 23:22 |
 | Allstate Insurance | Senior Data Engineer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=f2d4408cceed11d6) | 2026-03-19 23:22 |
 | The Hartford | Sr Applied AI Machine Learning Engineer - Claims Data Science | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1a207649ab0be82e) | 2026-03-19 23:22 |
@@ -13,7 +25,6 @@ Last updated: 2026-03-19 23:22
 | The Hartford | Sr Applied AI Machine Learning Engineer - Claims Data Science | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0a2499db08cd7189) | 2026-03-19 23:22 |
 | The Hartford | Sr Applied AI Machine Learning Engineer - Claims Data Science | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ebe6442929dd09f9) | 2026-03-19 23:22 |
 | Mount Sinai Health System | DevOps Engineer (Technology Specialist I) - Digital and Technology Partners - Onsite/Hybrid | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=67bd18e00ac68d8b) | 2026-03-19 23:22 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 23:22 |
 | MVP Health Care | Professional, Data Analyst | Schenectady, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0aebe8f122a069d) | 2026-03-19 23:22 |
 | NavitasPartners | Senior BI Consultant (Power BI) - 26-02719 | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c98eb4ba04c2bce) | 2026-03-19 23:22 |
 | NavitasPartners | Senior BI Consultant (Power BI) - 26-02719 | Springfield, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a186a80a6e332546) | 2026-03-19 23:22 |
