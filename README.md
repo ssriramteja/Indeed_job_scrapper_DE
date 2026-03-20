@@ -1,18 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 17:30
+Last updated: 2026-03-20 18:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Twilio | Machine Learning Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1fecb0cbc521360f) | 2026-03-20 18:36 |
+| Qode | Python Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=22f6f7ba57d40c2f) | 2026-03-20 18:36 |
+| Optum | Senior Database Reliability Engineer | Concord, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f1820c003bebe5f2) | 2026-03-20 18:36 |
+| nan | Full Stack Developer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c929b0d5d0c4abe8) | 2026-03-20 18:36 |
+| Huntington Bank | QA Testing Analyst - Senior | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8585f1f5e291af52) | 2026-03-20 18:36 |
+| Sbt Global | AWS CloudOps Engineer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c213979016f2c1b9) | 2026-03-20 18:36 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-20 18:36 |
+| Murmuration | Senior QA Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=565e1aaf33c31830) | 2026-03-20 18:36 |
+| nan | DevOps/Platform Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad34594ef5800a70) | 2026-03-20 18:36 |
+| ICF | Business Intelligence Developer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da46c3c1cee63028) | 2026-03-20 18:36 |
+| ICF | Business Intelligence Developer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2b1378a08eea421) | 2026-03-20 18:36 |
 | Mod Op | Junior AI/ML Engineer (Data & Cloud Platforms) | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d1204728c106ec46) | 2026-03-20 17:30 |
 | Openly | Senior Data Engineer (Remote, US) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4d18e2b948851633) | 2026-03-20 17:30 |
 | Delsys Technologies | IBM MQ System Engineer V | Chandler, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac770314ea034618) | 2026-03-20 17:30 |
 | CNC Software | Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7ead6759ac7d0a47) | 2026-03-20 17:30 |
 | Coastal Credit Union | Data Engineer Sr | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f96bcd9b2b20e586) | 2026-03-20 17:30 |
 | Fivetran | Senior Sales Engineer, Commercial Expansion | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d2a965c884f4afb0) | 2026-03-20 17:30 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-20 17:30 |
 | IonQ | Senior Infrastructure Software Engineer - Hardware Test | Bothell, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb417231462092a5) | 2026-03-20 17:30 |
 | nan | Senior Data Engineer – CDO / Data & AI Engineering | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c03da34050d1fb85) | 2026-03-20 16:33 |
 | Micron Technology | Machine Learning Engineer | Boise, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9d2163f01dd05b34) | 2026-03-20 16:33 |
@@ -561,39 +571,6 @@ Last updated: 2026-03-20 17:30
 | nan | Sr Azure DevOps Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e8328caf9bb28e8d) | 2026-03-16 19:06 |
 | JMA Wireless | IT Systems Engineer - Linux/Platform Operations | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c45683c60eeacd5) | 2026-03-16 19:06 |
 | OnMed | Senior Data Engineer | White Plains, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b300a114f1bb0c85) | 2026-03-16 19:06 |
-| Openkyber | Azure Network Engineer | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4d6dc4080863d025) | 2026-03-16 18:00 |
-| Openkyber | Azure Network Engineer | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9486e542e0314630) | 2026-03-16 18:00 |
-| Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f3d1545b725cacf9) | 2026-03-16 18:00 |
-| Openkyber | Kafka Schema Registry Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6e62fa620ec25df7) | 2026-03-16 18:00 |
-| Realign | Data Engineer with Python | Malvern, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c0b74cae84f6befa) | 2026-03-16 18:00 |
-| Openkyber | Senior Cloud IAM Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9727641069e970c0) | 2026-03-16 18:00 |
-| Openkyber | Kubernetes MLOps Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8674e111f05b66a1) | 2026-03-16 18:00 |
-| Openkyber | Kafka Data Streaming Consultant | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=24db9c74d80b856c) | 2026-03-16 18:00 |
-| Openkyber | AWS Network Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4dd06ecb9103a776) | 2026-03-16 18:00 |
-| Realign | Hadoop Developer-2 | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3e23b4dd74e039ea) | 2026-03-16 18:00 |
-| Realign | Hadoop Developer-2 | Jersey City, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2beea0b07c0483b5) | 2026-03-16 18:00 |
-| Openkyber | Kafka Real Time Analytics Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c52c30ca213c085f) | 2026-03-16 18:00 |
-| Openkyber | Kafka | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=02bd3db44eac42a0) | 2026-03-16 18:00 |
-| Openkyber | Senior Kafka Streaming Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b9a0681a75be4c3b) | 2026-03-16 18:00 |
-| Legion | Senior Production Engineer | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8bdd4694bf19ea44) | 2026-03-16 18:00 |
-| Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f1527cf38b699a4d) | 2026-03-16 18:00 |
-| Openkyber | Network Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1e7aa69b55de4760) | 2026-03-16 18:00 |
-| Openkyber | MLOps | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4181653d522a2852) | 2026-03-16 18:00 |
-| Openkyber | Senior Kafka Streaming Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4379abeabd8c87ca) | 2026-03-16 18:00 |
-| Openkyber | Kafka Data Replication Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4c99b3c52b9b8bc7) | 2026-03-16 18:00 |
-| RH | Data Analyst, Customer Experience | West Jefferson, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=67099b1137583cca) | 2026-03-16 18:00 |
-| Openkyber | AWS Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=016f2662bb776d79) | 2026-03-16 18:00 |
-| Options Clearing Corporation | Associate, Software Engineering: Java | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84fa61fcf21b8414) | 2026-03-16 18:00 |
-| Openkyber | Kafka Administrator | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b37f08f8afa136e1) | 2026-03-16 18:00 |
-| Openkyber | MLOps | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d4ec3a15ea80839) | 2026-03-16 18:00 |
-| Openkyber | Kafka Cluster Support Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35509e20006036e4) | 2026-03-16 18:00 |
-| Openkyber | Azure Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=276783735764b1c2) | 2026-03-16 18:00 |
-| Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4f18a97d1887b5ea) | 2026-03-16 18:00 |
-| Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80d0b043bab9a938) | 2026-03-16 18:00 |
-| Openkyber | Networking Trainee | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4dd68d8034b98c3a) | 2026-03-16 18:00 |
-| Realign | Databricks Data Engineer(Azure + Python)-2 | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ab4ff45664c5ad4) | 2026-03-16 18:00 |
-| Openkyber | Kafka Production Support Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94e5c794f9af11e6) | 2026-03-16 18:00 |
-| Openkyber | Kafka | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57504132804a2fda) | 2026-03-16 18:00 |
 
 
 ---
