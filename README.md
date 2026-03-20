@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 10:30
+Last updated: 2026-03-20 11:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | SAP AI Business Services Consultant | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5f3bab5f2ccae161) | 2026-03-20 11:25 |
+| Barclays | Cloud Data Engineer | Whippany, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf20edf4b871568c) | 2026-03-20 11:25 |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 11:25 |
+| Openkyber | SAP AI Business Services Consultant | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f69b370f0270ee30) | 2026-03-20 11:25 |
 | MidAmerican Energy | Sr Data Engineer | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e463fc88ac4ddcb3) | 2026-03-20 10:30 |
 | Gartner | Associate Software Engineer - Agentic AI Framework (Python, AWS) | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0f067cb08ee5b102) | 2026-03-20 10:30 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 10:30 |
 | Innocito Technologies Pvt Ltd | .Net Solution Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02b9ac763b0be67c) | 2026-03-20 10:30 |
 | Siemens Healthineers | System Architect – Database Focus | Walpole, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a3463b2ed33bb410) | 2026-03-20 08:31 |
 | Boeing | Full Stack Software Engineer (Mid-Level or Senior) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f974df4cb0027d13) | 2026-03-20 08:31 |
