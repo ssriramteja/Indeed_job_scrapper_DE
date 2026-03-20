@@ -1,18 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 04:06
+Last updated: 2026-03-20 05:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 05:45 |
 | Credera | Senior Architect, Data | Chicago, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7cb38e105921042f) | 2026-03-20 04:06 |
 | Credera | Senior Architect, Data | Houston, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=55b10352d281c7c1) | 2026-03-20 04:06 |
 | Credera | Senior Architect, Data | Denver, CO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=91b0087050e37f4d) | 2026-03-20 04:06 |
 | Credera | Senior Architect, Data | Addison, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=747c891edb77428f) | 2026-03-20 04:06 |
-| Technology Ventures | Senior Full Stack Engineer (Python \| AWS \| Scalable Systems) | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8677066c2054bfc1) | 2026-03-20 04:06 |
 | Mastercard | Senior Software Engineer | O'Fallon, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=10432e8c7b264b93) | 2026-03-20 04:06 |
-| Jackson National Life Insurance Company | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-20 04:06 |
 | Fidelity Investments | Senior Data Engineer - Oracle DBA - OCI | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e599db25edc63644) | 2026-03-20 04:06 |
 | Fidelity Investments | Senior Data Engineer - Oracle DBA - OCI | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d75b05ba4615bbc0) | 2026-03-20 04:06 |
 | Fidelity Investments | Senior Data Engineer - Oracle DBA - OCI | Smithfield, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=03ea7797a2adda23) | 2026-03-20 04:06 |
@@ -597,7 +596,6 @@ Last updated: 2026-03-20 04:06
 | Skywalk Global | SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1c074eb3bed74ad) | 2026-03-16 09:56 |
 | Adobe | Senior Data Engineer & Architect | San Jose, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6fd769b82cca737f) | 2026-03-16 08:03 |
 | Evercommerce | EverCommerce - Sr. BI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96fcb774adfa1d8f) | 2026-03-16 06:15 |
-| Dental Technology Solutions | IT Support Specialist / Server Administrator | Cherry Hill, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=af8efbf975313df8) | 2026-03-16 04:33 |
 
 
 ---
