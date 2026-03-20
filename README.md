@@ -1,17 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 19:32
+Last updated: 2026-03-20 20:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-20 20:22 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-20 20:22 |
+| Lyric | Senior Support Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b994683fa99a00f) | 2026-03-20 20:22 |
+| Optum | Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa146328f582d2ee) | 2026-03-20 20:22 |
+| Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2c4352fc1dbe16d) | 2026-03-20 20:22 |
+| NTT DATA | APIGEE Development Engineer | Morris Plains, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0f865d350c566772) | 2026-03-20 20:22 |
+| nan | AI Machine Learning Engineer | Doral, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb98bc0da3b1f6fd) | 2026-03-20 20:22 |
 | Caterpillar | Senior Software Engineer | Peoria, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e13bcfee6252358d) | 2026-03-20 19:32 |
 | Purpose Financial | Data Operations Engineer | Greenville, SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f09e481bc1c9794c) | 2026-03-20 19:32 |
 | STAND TOGETHER | Senior Software Engineer - Middleware/Integration | Arlington, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c38431e7f505eb9d) | 2026-03-20 19:32 |
 | Purpose Financial | Sr. Software Engineer - Full Stack | Greenville, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=596c7d5d53fe3536) | 2026-03-20 19:32 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-20 19:32 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-20 19:32 |
 | Caterpillar | Sr. Software Engineer, Java Full Stack | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cdca05a9ea0e87f) | 2026-03-20 19:32 |
 | Twilio | Machine Learning Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1fecb0cbc521360f) | 2026-03-20 18:36 |
 | Qode | Python Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=22f6f7ba57d40c2f) | 2026-03-20 18:36 |
