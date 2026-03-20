@@ -1,13 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 20:22
+Last updated: 2026-03-20 21:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-20 20:22 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-20 20:22 |
+| Cloud and Things | Java Developer | Albany, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6f9bb650178f491a) | 2026-03-20 21:23 |
+| Snap Inc. | Senior Business Intelligence Engineer, Level 4 (Fixed-Term) | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae16c738518a578a) | 2026-03-20 21:23 |
+| Sigma Computing | Senior Security Engineer II – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fe3338ab667344c2) | 2026-03-20 21:23 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-20 21:23 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-20 21:23 |
+| Cambia Health Solutions | Senior Data Platform Engineer / SDE | Portland, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b53bfdd24da28f8e) | 2026-03-20 21:23 |
+| HealthMark Group | Senior Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0a28e9f2e97b7a9) | 2026-03-20 21:23 |
+| Tata Consultancy Services (TCS) | AWS Solution Engineer | Chandler, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9ebb6287ea5ed18b) | 2026-03-20 21:23 |
+| Texas Capital Bank | AI Engineer Senior | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9e394b0856792b66) | 2026-03-20 21:23 |
+| Teza Technologies | DevOps Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29a27ecd79c8bc44) | 2026-03-20 21:23 |
 | Lyric | Senior Support Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b994683fa99a00f) | 2026-03-20 20:22 |
 | Optum | Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa146328f582d2ee) | 2026-03-20 20:22 |
 | Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2c4352fc1dbe16d) | 2026-03-20 20:22 |
@@ -556,11 +564,6 @@ Last updated: 2026-03-20 20:22
 | CyberArk | Senior SDET - Performance Test Engineer | Santa Clara, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64e75a054f0e88a5) | 2026-03-16 21:31 |
 | American Airlines | Sr Associate Engineer/Engineer, IT Software | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f090126c2e636f7f) | 2026-03-16 21:31 |
 | Colgate-Palmolive | Commercial Operations BI Analyst | Piscataway, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8f866ceafbf4452) | 2026-03-16 21:31 |
-| Fractal Analytics | AWS Data Engineer | RI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5861e377dbf3fbc8) | 2026-03-16 20:29 |
-| General Dynamics Information Technology | Software Engineer - TS/SCI with Polygraph | McLean, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e85a55bb1da096e6) | 2026-03-16 20:29 |
-| Tebra | Security Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca3f0014b8bc7264) | 2026-03-16 20:29 |
-| Evolent | BI Engineer , BI Center of Excellence | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ecdd9a09c5fe384) | 2026-03-16 20:29 |
-| Bank of America | Senior Engineer â€“ SIEM Platform Engineering & Operations | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd8574275eb972b1) | 2026-03-16 20:29 |
 
 
 ---
