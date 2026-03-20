@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 14:39
+Last updated: 2026-03-20 15:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Northcross Group | AWS Kubernetes Engineer | Marquette, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=15f734c7c5315c58) | 2026-03-20 15:36 |
+| Northcross Group | AWS Kubernetes Engineer | Portland, ME, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3b0cc109a6bef88b) | 2026-03-20 15:36 |
 | State of South Carolina | Data Engineer-60009025 | SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=730fc0393aed5ee7) | 2026-03-20 14:39 |
 | Curana Health | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b2c9907ac74f3bf) | 2026-03-20 14:39 |
 | Gen II Fund Services | Cloud DevOps Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=38a5ed1c6ce89902) | 2026-03-20 13:56 |
