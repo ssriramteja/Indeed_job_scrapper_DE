@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-21 11:17
+Last updated: 2026-03-21 12:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 11:17 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 11:17 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 12:29 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 12:29 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a12794620257c6fd) | 2026-03-21 11:17 |
 | Hyatt | SENIOR PRODUCT ENGINEER (HYBRID CHICAGO) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=db7fd563fd960a2d) | 2026-03-21 10:18 |
 | JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0673331b89873626) | 2026-03-21 09:24 |
@@ -653,15 +653,6 @@ Last updated: 2026-03-21 11:17
 | Optum | Senior Software Engineer | Bridgeton, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef17b59d1b779ca6) | 2026-03-17 14:18 |
 | nan | Senior Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ba2a4b5e0580ed9) | 2026-03-17 14:18 |
 | SoundThinking | Sr. Data Engineer – Ontology & Semantic Modeling | Fremont, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e92d0315202204b9) | 2026-03-17 12:48 |
-| Tapouts | Senior Data Engineer | Venice, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bcb6f48928a08bed) | 2026-03-17 11:38 |
-| HCA Healthcare | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee3c21dbe995c8b9) | 2026-03-17 11:38 |
-| HCA Healthcare | Senior Solution Architect | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bfb76bfe53b97698) | 2026-03-17 11:38 |
-| Openkyber | Cloud Identity Architect | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f892a7ff9f3b3673) | 2026-03-17 11:38 |
-| Openkyber | Vector Database Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bc525900a1b67460) | 2026-03-17 11:38 |
-| Openkyber | AWS Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d78a7ea53a7fb5c5) | 2026-03-17 11:38 |
-| Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b9a5c0072e4a559) | 2026-03-17 11:38 |
-| Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=703ef93955ad68ff) | 2026-03-17 11:38 |
-| Openkyber | Networking Trainee | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=852483a8d2e6f7e3) | 2026-03-17 11:38 |
 
 
 ---
