@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-21 12:29
+Last updated: 2026-03-21 13:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 12:29 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 12:29 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 13:37 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 13:37 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a12794620257c6fd) | 2026-03-21 11:17 |
 | Hyatt | SENIOR PRODUCT ENGINEER (HYBRID CHICAGO) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=db7fd563fd960a2d) | 2026-03-21 10:18 |
 | JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0673331b89873626) | 2026-03-21 09:24 |
@@ -652,7 +652,6 @@ Last updated: 2026-03-21 12:29
 | Radiant Digital | AWS Data Engineer | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=72e4768c31a35e7d) | 2026-03-17 14:18 |
 | Optum | Senior Software Engineer | Bridgeton, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef17b59d1b779ca6) | 2026-03-17 14:18 |
 | nan | Senior Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ba2a4b5e0580ed9) | 2026-03-17 14:18 |
-| SoundThinking | Sr. Data Engineer – Ontology & Semantic Modeling | Fremont, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e92d0315202204b9) | 2026-03-17 12:48 |
 
 
 ---
