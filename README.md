@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-21 22:16
+Last updated: 2026-03-21 23:17
 
 ### 🚀 Daily Job Matches
 
@@ -560,26 +560,6 @@ Last updated: 2026-03-21 22:16
 | athenahealth | Associate Software Engineer, Platform – COCore | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99ed0d4d942ded9c) | 2026-03-17 23:24 |
 | athenahealth | Senior Software Engineer - API Solutions | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7bcf2915fd9bd1ef) | 2026-03-17 23:24 |
 | Fanatics | Senior Software Engineer – Client Service | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da07f3cfe8d1d836) | 2026-03-17 23:24 |
-| Hotwire Communications | Senior Software Engineer (ServiceNow) | Fort Lauderdale, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8a28cfe9183e3c37) | 2026-03-17 22:25 |
-| Arrow International | Senior Database Engineer | Chicago, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=25c3c576bdca9fea) | 2026-03-17 22:25 |
-| ConcertAI | Senior Data Engineer | Plymouth Meeting, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=46a6962bac387525) | 2026-03-17 22:25 |
-| Tata Consultancy Services (TCS) | Databricks Data Engineer | Deerfield, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=025286b55c821347) | 2026-03-17 22:25 |
-| FanDuel | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d916292cc6da2afe) | 2026-03-17 22:25 |
-| Satlantis | SENIOR COMPUTER VISION ENGINEER – REMOTE SENSING | Gainesville, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=74994cef74235bca) | 2026-03-17 22:25 |
-| Morgan Stanley | AI Platform Engineer - Associate | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2567cddf71e8f0fa) | 2026-03-17 22:25 |
-| CX Data Labs | Azure Data Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64b708c3e0be0da7) | 2026-03-17 22:25 |
-| TruStartIT LLC | Senior Databricks Developer / Data Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ecfe4e0f23d35bf4) | 2026-03-17 22:25 |
-| Hanger | Data Engineer III | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7a7763cc6047d702) | 2026-03-17 22:25 |
-| West Monroe | Senior Architect, Data Engineering | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ff9e78b6f0cfc04d) | 2026-03-17 22:25 |
-| EXL Service | Data Engineer Palantir | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d50de78a56f1445) | 2026-03-17 22:25 |
-| Charles River Laboratories | Senior Data Engineer | Wilmington, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfbc6125913efbc5) | 2026-03-17 22:25 |
-| CVS Health | Senior Data Scientist - ML/AI Digital Workplace Experience | CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ed87bc5ed02384b) | 2026-03-17 22:25 |
-| CVS Health | Senior Data Scientist - ML/AI Digital Workplace Experience | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6adae79f36f3017c) | 2026-03-17 22:25 |
-| CVS Health | Senior Data Scientist - ML/AI Digital Workplace Experience | IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bad711dba26cd79) | 2026-03-17 22:25 |
-| CVS Health | Senior Data Scientist - ML/AI Digital Workplace Experience | MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13da579f2549d25f) | 2026-03-17 22:25 |
-| Tata Consultancy Services (TCS) | Senior Engineer Technology | Allen, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fb8d0b3951037c5) | 2026-03-17 22:25 |
-| United States Cold Storage | DATA WAREHOUSE BUSINESS ANALYST | Camden, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c96a3166ccc3279a) | 2026-03-17 22:25 |
-| Tata Consultancy Services (TCS) | Data Engineer - Developer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd500612ef29562e) | 2026-03-17 22:25 |
 
 
 ---
