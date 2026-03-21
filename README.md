@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-21 16:19
+Last updated: 2026-03-21 17:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 17:19 |
 | PNC Financial Services Group | Software Engineer Sr - Check Modernization and Adjustment Team | Pittsburgh, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b695d5219c5f3d42) | 2026-03-21 16:19 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 16:19 |
 | New York City Department of Housing Preservation & Development | Solutions Developer for the Office of HPD TECH | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ab98ea9cc28ff7b) | 2026-03-21 14:19 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a12794620257c6fd) | 2026-03-21 11:17 |
 | Hyatt | SENIOR PRODUCT ENGINEER (HYBRID CHICAGO) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=db7fd563fd960a2d) | 2026-03-21 10:18 |
@@ -636,15 +636,6 @@ Last updated: 2026-03-21 16:19
 | Openkyber | ML Platform Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a246f2fce8506457) | 2026-03-17 17:58 |
 | Openkyber | ML Platform Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=838425ec33e5fff1) | 2026-03-17 17:58 |
 | Openkyber | ML Platform Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fbf17f38d746779a) | 2026-03-17 17:58 |
-| CapTech Consulting | Senior Data Architect (AWS, Azure, GCP) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=29610b7eba9cc4cb) | 2026-03-17 16:59 |
-| CapTech Consulting | Senior Data Architect (AWS, Azure, GCP) | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=693bc93cfe95e968) | 2026-03-17 16:59 |
-| CapTech Consulting | Senior Data Architect (AWS, Azure, GCP) | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fafa6085d07ec220) | 2026-03-17 16:59 |
-| CapTech Consulting | Senior Data Architect (AWS, Azure, GCP) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=71120e321dbd18c4) | 2026-03-17 16:59 |
-| CapTech Consulting | Senior Data Architect (AWS, Azure, GCP) | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=be687a9701ed10cb) | 2026-03-17 16:59 |
-| Healthix | Data Analyst | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b51729f31816ec17) | 2026-03-17 16:59 |
-| Lennar | Sr Data Engineer | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4efec6d9008a5b85) | 2026-03-17 16:59 |
-| Evercommerce | EverCommerce - Data Engineering Internship (Remote, US) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1c2c847575eb45e) | 2026-03-17 16:59 |
-| Optum | Data Scientist | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd7a43792394b59b) | 2026-03-17 16:59 |
 
 
 ---
