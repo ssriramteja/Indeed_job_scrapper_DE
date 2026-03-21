@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-20 23:21
+Last updated: 2026-03-21 01:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BECU | Sr Software Developer | WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=132ca3b242a8a6d5) | 2026-03-21 01:12 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 01:12 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 01:12 |
+| M-TECH SYSTEMS | Sr Python Developer - Onsite | Dunwoody, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f35541065e194ff3) | 2026-03-21 01:12 |
+| Hydrafacial | Senior Data Engineer - California | Lakewood, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b36f86f8a126e87b) | 2026-03-21 01:12 |
 | CareSource | Data Solutions Engineer II | OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e6e5351d1c126599) | 2026-03-20 23:21 |
 | nan | Analytics Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=12dfd239bdcb806d) | 2026-03-20 23:21 |
 | nan | Analytics Engineer | West Hollywood, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f3b2dd7ad979c250) | 2026-03-20 23:21 |
@@ -14,8 +19,6 @@ Last updated: 2026-03-20 23:21
 | Skechers | Sr. GenAI Engineer | Manhattan Beach, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5f37a180376834e2) | 2026-03-20 23:21 |
 | JPMorganChase | Software Engineer II_AI/ML | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e5f638e48249099e) | 2026-03-20 23:21 |
 | Moody's | Data Engineer-Data Platform & Analytics | Boca Raton, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=177880cf8dc57acd) | 2026-03-20 23:21 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-20 23:21 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-20 23:21 |
 | La Mesa RV Center | Solution Architect | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e48f0e2e494934e) | 2026-03-20 23:21 |
 | BAE Systems USA | Data Engineer | Rockville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f215a50593a8ff4) | 2026-03-20 23:21 |
 | Capgemini | Senior Java Python Full Stack Developer -Software Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=688358c2a9b02664) | 2026-03-20 23:21 |
@@ -554,11 +557,6 @@ Last updated: 2026-03-20 23:21
 | Infosys | Azure Databricks with IDMC experience | San Ramon, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78d268eef1366883) | 2026-03-17 01:17 |
 | Beghou Consulting | Senior Consultant, Data Management | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb1560a6c29ae4e3) | 2026-03-17 01:17 |
 | Realign | Security Consultant | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa7381f71e38e6eb) | 2026-03-17 01:17 |
-| Philips | Software Development Engineer | Cambridge, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=33e7128e441d147a) | 2026-03-16 23:23 |
-| Kimco Realty Corporation | Data Engineer | Jericho, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1af2172268615fcb) | 2026-03-16 23:23 |
-| IDEXX Laboratories | Application Developer Sr II | Portland, ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c032bd6bc3e68c33) | 2026-03-16 23:23 |
-| IDEXX Laboratories | Application Developer Sr I | Portland, ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=89582c128a65ea29) | 2026-03-16 23:23 |
-| Bloom Energy | AI Industry 5.0 Engineer | Newark, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1dd1a549fc1388c4) | 2026-03-16 23:23 |
 
 
 ---
