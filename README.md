@@ -1,12 +1,11 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-21 18:24
+Last updated: 2026-03-21 19:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 18:24 |
 | PNC Financial Services Group | Software Engineer Sr - Check Modernization and Adjustment Team | Pittsburgh, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b695d5219c5f3d42) | 2026-03-21 16:19 |
 | New York City Department of Housing Preservation & Development | Solutions Developer for the Office of HPD TECH | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ab98ea9cc28ff7b) | 2026-03-21 14:19 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a12794620257c6fd) | 2026-03-21 11:17 |
@@ -598,11 +597,6 @@ Last updated: 2026-03-21 18:24
 | Open Lending | Senior Data Scientist | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=980979d9074d5784) | 2026-03-17 19:56 |
 | Open Lending | Senior Data Scientist | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46dca6f38ea157d1) | 2026-03-17 19:56 |
 | nan | Machine Learning Engineer | Chantilly, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ede5f0e821359409) | 2026-03-17 19:56 |
-| Deltek | Sr Data Engineer | Remote, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=31ac562fdbccfcbb) | 2026-03-17 19:01 |
-| Heritage Construction + Materials | Data Engineer (No Sponsorship Available) | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8313f5120d5c6237) | 2026-03-17 19:01 |
-| VTekis Consulting LLP | Data Architect (Databricks) | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e81f0056e0c1281) | 2026-03-17 19:01 |
-| ServiceTitan | Senior Cloud Security Engineer | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=03ea3f0ee7726aea) | 2026-03-17 19:01 |
-| Blue Shield of California | Full Stack Engineer, Senior | Oakland, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c00e725f72169245) | 2026-03-17 19:01 |
 
 
 ---
