@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-21 19:18
+Last updated: 2026-03-21 20:17
 
 ### 🚀 Daily Job Matches
 
@@ -590,13 +590,6 @@ Last updated: 2026-03-21 19:18
 | AMH | Site Reliability Engineer | Draper, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b27aedc78511ea81) | 2026-03-17 21:29 |
 | Avaya | Site Reliability Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=93cc248964e1485d) | 2026-03-17 21:29 |
 | WEX Inc. | Junior Software Development Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f2fe164c21da5777) | 2026-03-17 20:30 |
-| RevSpring, Inc | Senior Data Engineer - Analytics | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5b286e8aab1c0d5) | 2026-03-17 19:56 |
-| RevSpring, Inc | Senior Data Engineer - Analytics | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3ecf529675b29a2e) | 2026-03-17 19:56 |
-| AnswerNet | Mgr Software Development- REMOTE | El Paso, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3a865f04fb8b0cdc) | 2026-03-17 19:56 |
-| Goodwill Industries of Ky., Inc. | Data Engineer | Louisville, KY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6c96bce5537ab08e) | 2026-03-17 19:56 |
-| Open Lending | Senior Data Scientist | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=980979d9074d5784) | 2026-03-17 19:56 |
-| Open Lending | Senior Data Scientist | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46dca6f38ea157d1) | 2026-03-17 19:56 |
-| nan | Machine Learning Engineer | Chantilly, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ede5f0e821359409) | 2026-03-17 19:56 |
 
 
 ---

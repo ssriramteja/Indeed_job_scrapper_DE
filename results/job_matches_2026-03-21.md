@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-21
 
-**Total Jobs Found:** 100
+**Total Jobs Found:** 95
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -951,29 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Senior Software Engineer @ HealthMark Group
-**Match Score:** 11.1%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Lambda, SQS, SNS, ECS, RDS, Azure, Scala, SQL Server, Data Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d0a28e9f2e97b7a9)
-
----
-
-## 88. Software Engineer @ Optum
-**Match Score:** 11.1%
-
-📍 **Location:** Eden Prairie, MN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Scala, Oracle, SQL Server, MySQL, NoSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fa146328f582d2ee)
-
----
-
-## 89. Solution Architect @ La Mesa RV Center
+## 87. Solution Architect @ La Mesa RV Center
 **Match Score:** 11.1%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -984,29 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Senior Support Engineer @ Lyric
-**Match Score:** 11.1%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, SQL Server, PostgreSQL, CI/CD, Azure DevOps, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4b994683fa99a00f)
-
----
-
-## 91. Senior Data Platform Engineer / SDE @ Cambia Health Solutions
-**Match Score:** 11.1%
-
-📍 **Location:** Portland, OR, US USA
-
-🔑 **Keywords:** RDS, Scala, Snowflake, Data Modeling, ETL, ELT, dbt, DataOps, CI/CD, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b53bfdd24da28f8e)
-
----
-
-## 92. Data Engineer @ BAE Systems USA
+## 88. Data Engineer @ BAE Systems USA
 **Match Score:** 10.4%
 
 📍 **Location:** Rockville, MD, US USA
@@ -1017,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Data Analytics Engineer II - IM Enterprise Data @ CHRISTUS Health
+## 89. Data Analytics Engineer II - IM Enterprise Data @ CHRISTUS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Irving, TX, US USA
@@ -1028,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Senior Data Engineer @ Redwood Trust
+## 90. Senior Data Engineer @ Redwood Trust
 **Match Score:** 10.4%
 
 📍 **Location:** Englewood, CO, US USA
@@ -1039,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Senior Java Python Full Stack Developer -Software Engineer @ Capgemini
+## 91. Senior Java Python Full Stack Developer -Software Engineer @ Capgemini
 **Match Score:** 10.4%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1050,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Java Python Full Stack Developer Associate Software Engineer @ Capgemini
+## 92. Java Python Full Stack Developer Associate Software Engineer @ Capgemini
 **Match Score:** 10.4%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1061,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Java Python Full Stack Developer - Associate Software Engineer @ Capgemini
+## 93. Java Python Full Stack Developer - Associate Software Engineer @ Capgemini
 **Match Score:** 10.4%
 
 📍 **Location:** Nashville, TN, US USA
@@ -1072,7 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Senior Engineer - .NET @ GEICO
+## 94. Senior Engineer - .NET @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -1083,7 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. DevOps Engineer @ Teza Technologies
+## 95. DevOps Engineer @ Teza Technologies
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -1091,17 +1047,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Hadoop, CI/CD, GitHub Actions, Terraform, Docker
 
 [Apply Here](https://www.indeed.com/viewjob?jk=29a27ecd79c8bc44)
-
----
-
-## 100. AI Machine Learning Engineer @ nan
-**Match Score:** 10.4%
-
-📍 **Location:** Doral, FL, US USA
-
-🔑 **Keywords:** RDS, Azure, Databricks, Scala, Azure Cosmos DB, CI/CD, GitHub Actions, Azure DevOps, Kubernetes, AKS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bb98bc0da3b1f6fd)
 
 ---
 
