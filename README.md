@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-21 08:22
+Last updated: 2026-03-21 09:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 08:22 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 08:22 |
+| JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0673331b89873626) | 2026-03-21 09:24 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 09:24 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 09:24 |
 | U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3b81ca9e34e5e9f1) | 2026-03-21 06:33 |
 | U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=520c71629e4ae31f) | 2026-03-21 06:33 |
 | U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Minneapolis, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=96b820a060e96568) | 2026-03-21 06:33 |
@@ -664,7 +665,6 @@ Last updated: 2026-03-21 08:22
 | JPMorganChase | Software Engineer III: Machine Learning Platform | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34e86f2f2a315595) | 2026-03-17 09:46 |
 | SiriusXM | Data Engineer III | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0fc6292598e8305) | 2026-03-17 09:46 |
 | HealthEdge Software, Inc. | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cc60e837a5ce034) | 2026-03-17 09:46 |
-| Hays | ETL Data Engineer | Carolina, PR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=233a1a341ad0aa38) | 2026-03-17 08:41 |
 
 
 ---
