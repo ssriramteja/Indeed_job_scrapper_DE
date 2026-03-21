@@ -1,18 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-21 06:33
+Last updated: 2026-03-21 07:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 07:28 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 07:28 |
 | U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3b81ca9e34e5e9f1) | 2026-03-21 06:33 |
 | U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=520c71629e4ae31f) | 2026-03-21 06:33 |
 | U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Minneapolis, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=96b820a060e96568) | 2026-03-21 06:33 |
 | U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3ce993d8d61236e3) | 2026-03-21 06:33 |
 | ADP | Software Engineers | Roseland, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bb04b36537a2b802) | 2026-03-21 06:33 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 06:33 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 06:33 |
 | Capgemini | Associate Data Engineer | Nashville, TN, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=1a791d73f0d13a4b) | 2026-03-21 05:05 |
 | Capgemini | Associate Data Engineer | Nashville, TN, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=036c0aeccda18107) | 2026-03-21 05:05 |
 | Independence Pet Holdings | Senior Data Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d8a6d5ce748599c6) | 2026-03-21 05:05 |
@@ -665,7 +665,6 @@ Last updated: 2026-03-21 06:33
 | SiriusXM | Data Engineer III | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0fc6292598e8305) | 2026-03-17 09:46 |
 | HealthEdge Software, Inc. | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cc60e837a5ce034) | 2026-03-17 09:46 |
 | Hays | ETL Data Engineer | Carolina, PR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=233a1a341ad0aa38) | 2026-03-17 08:41 |
-| Lyzr AI | Solutions Architect | Jersey City, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8a23265f32b23de3) | 2026-03-17 06:54 |
 
 
 ---
