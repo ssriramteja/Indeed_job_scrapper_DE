@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-21 10:18
+Last updated: 2026-03-21 11:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 11:17 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 11:17 |
+| St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a12794620257c6fd) | 2026-03-21 11:17 |
 | Hyatt | SENIOR PRODUCT ENGINEER (HYBRID CHICAGO) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=db7fd563fd960a2d) | 2026-03-21 10:18 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 10:18 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 10:18 |
 | JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0673331b89873626) | 2026-03-21 09:24 |
 | U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3b81ca9e34e5e9f1) | 2026-03-21 06:33 |
 | U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=520c71629e4ae31f) | 2026-03-21 06:33 |
@@ -661,7 +662,6 @@ Last updated: 2026-03-21 10:18
 | Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b9a5c0072e4a559) | 2026-03-17 11:38 |
 | Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=703ef93955ad68ff) | 2026-03-17 11:38 |
 | Openkyber | Networking Trainee | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=852483a8d2e6f7e3) | 2026-03-17 11:38 |
-| Seismic | Senior Software Engineer II - Backend - AI Search | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=16388829699da902) | 2026-03-17 10:42 |
 
 
 ---
