@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-21 15:18
+Last updated: 2026-03-21 16:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 15:18 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 15:18 |
+| PNC Financial Services Group | Software Engineer Sr - Check Modernization and Adjustment Team | Pittsburgh, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b695d5219c5f3d42) | 2026-03-21 16:19 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 16:19 |
 | New York City Department of Housing Preservation & Development | Solutions Developer for the Office of HPD TECH | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ab98ea9cc28ff7b) | 2026-03-21 14:19 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a12794620257c6fd) | 2026-03-21 11:17 |
 | Hyatt | SENIOR PRODUCT ENGINEER (HYBRID CHICAGO) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=db7fd563fd960a2d) | 2026-03-21 10:18 |
@@ -645,10 +645,6 @@ Last updated: 2026-03-21 15:18
 | Lennar | Sr Data Engineer | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4efec6d9008a5b85) | 2026-03-17 16:59 |
 | Evercommerce | EverCommerce - Data Engineering Internship (Remote, US) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1c2c847575eb45e) | 2026-03-17 16:59 |
 | Optum | Data Scientist | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd7a43792394b59b) | 2026-03-17 16:59 |
-| ARCHKEY SOLUTIONS | Senior Python Developer | Fenton, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ecdbaaed7feccfa0) | 2026-03-17 15:56 |
-| Reignmarkcs | Smart Factory Data Engineering Architect (AWS/manufacturing) | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7331096c97ad5651) | 2026-03-17 15:56 |
-| Tata Consultancy Services (TCS) | Cloud Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ec8d51cca35c142a) | 2026-03-17 15:56 |
-| SS&C | Senior AI Platform Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9a3d5dba9944f59) | 2026-03-17 15:56 |
 
 
 ---
