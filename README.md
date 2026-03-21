@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-21 21:17
+Last updated: 2026-03-21 22:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Mojo | Full Stack Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a0f1d3e8504a06a7) | 2026-03-21 22:16 |
 | nan | Senior Cloud and DevOps Engineer | Bastrop, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fcf59ea125bfa7ff) | 2026-03-21 21:17 |
 | Verinext | Cloud Engineer | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=160c7358320627f2) | 2026-03-21 21:17 |
 | PNC Financial Services Group | Software Engineer Sr - Check Modernization and Adjustment Team | Pittsburgh, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b695d5219c5f3d42) | 2026-03-21 16:19 |
@@ -579,18 +580,6 @@ Last updated: 2026-03-21 21:17
 | Tata Consultancy Services (TCS) | Senior Engineer Technology | Allen, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fb8d0b3951037c5) | 2026-03-17 22:25 |
 | United States Cold Storage | DATA WAREHOUSE BUSINESS ANALYST | Camden, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c96a3166ccc3279a) | 2026-03-17 22:25 |
 | Tata Consultancy Services (TCS) | Data Engineer - Developer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd500612ef29562e) | 2026-03-17 22:25 |
-| Creative Global Consulting | Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=839384e124811ed2) | 2026-03-17 21:29 |
-| Deltasoft Solutions LLC | Snowflake Architect Needed --- Local to Bay Area California | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=db48c42eace691bd) | 2026-03-17 21:29 |
-| SpotOn | Senior Data Engineer (Clickhouse) | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9b7364dc6344381a) | 2026-03-17 21:29 |
-| SpotOn | Senior Data Engineer (Clickhouse) | Royal Oak, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=40e5ace322ab3dae) | 2026-03-17 21:29 |
-| SpotOn | Senior Data Engineer (Clickhouse) | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=101461b42f2929c7) | 2026-03-17 21:29 |
-| Tata Consultancy Services (TCS) | Cloud Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50effdd5410c6590) | 2026-03-17 21:29 |
-| Blue Sky Technology Solutions LLC | Senior Data Engineer (Snowflake/dbt/Healthcare) - 100% Remote | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e0e6e4a15258683) | 2026-03-17 21:29 |
-| Northwestern Mutual | Software Engineer III | Milwaukee, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12eceb4f7778f690) | 2026-03-17 21:29 |
-| Tata Consultancy Services (TCS) | Data Ops Engineer | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2ad5647756056444) | 2026-03-17 21:29 |
-| Tata Consultancy Services (TCS) | Data Analytics & BI with Tableau | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=74e8e4b6ccf822c4) | 2026-03-17 21:29 |
-| AMH | Site Reliability Engineer | Draper, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b27aedc78511ea81) | 2026-03-17 21:29 |
-| Avaya | Site Reliability Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=93cc248964e1485d) | 2026-03-17 21:29 |
 
 
 ---
