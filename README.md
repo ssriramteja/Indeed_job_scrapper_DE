@@ -1,16 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-21 03:58
+Last updated: 2026-03-21 05:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Associate Data Engineer | Nashville, TN, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=1a791d73f0d13a4b) | 2026-03-21 05:05 |
+| Capgemini | Associate Data Engineer | Nashville, TN, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=036c0aeccda18107) | 2026-03-21 05:05 |
+| Independence Pet Holdings | Senior Data Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d8a6d5ce748599c6) | 2026-03-21 05:05 |
+| Capgemini | Site Reliability Engineer (SRE) / DevOps Engineer -Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab6608f255a410f4) | 2026-03-21 05:05 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 05:05 |
+| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 05:05 |
+| DevCo Management | Data Engineer | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d90e57e425c8b3d) | 2026-03-21 05:05 |
+| NTT DATA | APIGEE Development Engineer | Morris Plains, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fce9a26ec94275c2) | 2026-03-21 05:05 |
+| Redwood Trust | Senior Data Engineer | Englewood, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e662d0094b7e784) | 2026-03-21 05:05 |
 | Cambium Learning Group | AI Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c674b29c5cebe1e7) | 2026-03-21 03:58 |
 | Digital Public Library of America | Part-Time Data Ingest Engineer (contractor) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aadfffb92b106481) | 2026-03-21 03:58 |
 | Harvestaff | Mid Level Software Engineer | Chesterfield, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dd1d0f6da2bd63b9) | 2026-03-21 03:58 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20bcf9c2d03f083c) | 2026-03-21 03:58 |
-| Bain & Company | Senior Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfa0447b668a6f99) | 2026-03-21 03:58 |
 | nan | Cybersecurity Data Engineer | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0e2c628062408c8) | 2026-03-21 03:58 |
 | Deloitte | AI Data Engineer - Consultant | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=59af645ce25d5089) | 2026-03-21 03:58 |
 | Deloitte | AI Data Engineer - Consultant | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b06368bb906bdf11) | 2026-03-21 03:58 |
@@ -655,17 +662,6 @@ Last updated: 2026-03-21 03:58
 | Hays | ETL Data Engineer | Carolina, PR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=233a1a341ad0aa38) | 2026-03-17 08:41 |
 | Lyzr AI | Solutions Architect | Jersey City, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8a23265f32b23de3) | 2026-03-17 06:54 |
 | Westerra Credit Union | Business Intelligence Developer (Hybrid) | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff473c63d82167e1) | 2026-03-17 05:54 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=342faa6b5c9756a2) | 2026-03-17 04:10 |
-| Alight Solutions | Participant Communication Services (PCS) Platform Architect - Virtual | IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c5ed89084b43969d) | 2026-03-17 04:10 |
-| Tata Consultancy Services (TCS) | Full Stack Developer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=407c52d9f78d8a4a) | 2026-03-17 04:10 |
-| SS&C | Senior Full Stack Software Engineer | Waltham, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7e33c6678441d2) | 2026-03-17 04:10 |
-| Tata Consultancy Services (TCS) | Kafka Operations Administrator | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f208993ee2fdbe1c) | 2026-03-17 04:10 |
-| SS&C | Senior Software Engineer | Waltham, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ab66e7fa68e90c6) | 2026-03-17 04:10 |
-| Tata Consultancy Services (TCS) | Data Analytics & BI with Tableau | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aeacb1d14bcd4d4c) | 2026-03-17 04:10 |
-| Foundation Source | Senior Software Engineer, (.NET) | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d566d00eb2e403d) | 2026-03-17 04:10 |
-| Dollar General | DATA SCIENTIST | Goodlettsville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c81ccc2c8f052915) | 2026-03-17 04:10 |
-| RELX Group | Senior Software Engineer I | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12e386150a46a2a5) | 2026-03-17 04:10 |
-| SAS | Software Developer | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=38b2be41415df8a0) | 2026-03-17 04:10 |
 
 
 ---
