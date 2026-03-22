@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-22 06:40
+Last updated: 2026-03-22 07:33
 
 ### 🚀 Daily Job Matches
 
@@ -563,11 +563,6 @@ Last updated: 2026-03-22 06:40
 | Gartner | Senior Data Engineer (Python, ETL) - Master Data Management (MDM) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ceeabf66fcba285d) | 2026-03-18 10:43 |
 | Tata Consultancy Services (TCS) | Python/PySpark Engineer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dc6f909cb7ec3483) | 2026-03-18 09:44 |
 | CooperCompanies | Full Stack Developer | Henrietta, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5402734548997ed0) | 2026-03-18 08:38 |
-| LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7b5075132839604a) | 2026-03-18 07:00 |
-| Marriott International | Solution Architect – Revenue Management | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c53773d34b99af77) | 2026-03-18 07:00 |
-| Visa | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41aec199d60a57ab) | 2026-03-18 07:00 |
-| West Monroe | Senior Architect, Data Engineering | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=688b84fca2804c71) | 2026-03-18 07:00 |
-| FIS | Senior API Test Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=443bfd5538b7629d) | 2026-03-18 07:00 |
 
 
 ---
