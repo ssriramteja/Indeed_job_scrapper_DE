@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-22 18:25
+Last updated: 2026-03-22 19:19
 
 ### 🚀 Daily Job Matches
 
@@ -525,9 +525,6 @@ Last updated: 2026-03-22 18:25
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0dca0a83288d9224) | 2026-03-18 19:43 |
 | GSK Solutions | SQL Database Architect | Township of Hamilton, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86692750669aac55) | 2026-03-18 19:43 |
 | AMH | Site Reliability Engineer | Draper, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27acae47fa052436) | 2026-03-18 19:43 |
-| Desmata Inc | Oracle Fusion Technical Architect – Financials, Procurement & HCM | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=147edea2571f3c4a) | 2026-03-18 18:47 |
-| Eli Lilly | Advisor - Data Architect, Data Foundry | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b7bed78bd5d257f) | 2026-03-18 18:47 |
-| Ketjen | Enterprise Data, Analytics & AI | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8269b2aa63279467) | 2026-03-18 18:47 |
 
 
 ---
