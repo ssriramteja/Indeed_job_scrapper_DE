@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-22 22:17
+Last updated: 2026-03-22 23:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| IT Search Corp | Onsite Data Engineer Miami | Cypress, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=463e08c3f11e43d4) | 2026-03-22 23:19 |
+| Capgemini | Associate Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ccb008b8926e48b) | 2026-03-22 23:19 |
 | Qogen, LLC | Senior .NET Developer (Oracle Platform Integration) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ed942c19be14c9a) | 2026-03-22 21:18 |
 | Vanderbilt University Medical Center | Data Engineer (Remote Available) | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ccf4de38a56032d9) | 2026-03-22 08:24 |
 | CVS Health | Senior Software Development Engineer | NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b1bf9814b26294f) | 2026-03-22 05:47 |
@@ -496,11 +498,6 @@ Last updated: 2026-03-22 22:17
 | DoorDash | Applications Engineer, Full Stack - People | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=558f0e9f3952caf0) | 2026-03-18 23:24 |
 | Capgemini | Guidewire Architect | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6691046f35802016) | 2026-03-18 23:24 |
 | Capgemini | Guidewire Architect | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0bc489e180f6f4e8) | 2026-03-18 23:24 |
-| Snowflake | Sr. PS Sales Solutions Architect | CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d0f58c5c3f56232c) | 2026-03-18 22:25 |
-| nan | Senior Data Analyst | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8d9d157dc8fc2762) | 2026-03-18 22:25 |
-| World IT Center | Hadoop Developer | Strongsville, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=229e0051fc5c425c) | 2026-03-18 22:25 |
-| Westfield Insurance | Senior Software Development Engineer of Test (SDET) | Westfield Center, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f60d99cbbb8719ad) | 2026-03-18 22:25 |
-| ATG Entertainment | Marketing Automation Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b060fca7c8f1c27c) | 2026-03-18 22:25 |
 
 
 ---
