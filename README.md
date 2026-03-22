@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-21 23:17
+Last updated: 2026-03-22 01:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ESFM | ANALYTICS ENGINEER-REMOTE | TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=38159760e31a6501) | 2026-03-22 01:20 |
 | Mojo | Full Stack Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a0f1d3e8504a06a7) | 2026-03-21 22:16 |
 | nan | Senior Cloud and DevOps Engineer | Bastrop, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fcf59ea125bfa7ff) | 2026-03-21 21:17 |
 | Verinext | Cloud Engineer | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=160c7358320627f2) | 2026-03-21 21:17 |
@@ -553,13 +554,6 @@ Last updated: 2026-03-21 23:17
 | Aerospike | Senior Software Engineer, Control Plane | Mountain View, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=23d6e1a2ca383519) | 2026-03-18 01:21 |
 | Railroad19 | AWS DevOps Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3cadb7ee4495d97) | 2026-03-18 01:21 |
 | Broadridge | Data Architect / Cloud Architect (Architecture Review & Advisory) CONTRACT - REMOTE | Newark, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f088c401f3aecdf0) | 2026-03-18 01:21 |
-| HealthPartners | Data Engineer Senior | Bloomington, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e53c61ac50aad63e) | 2026-03-17 23:24 |
-| JPMorganChase | Software Engineer III - AWS, Python, Spark | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17e1b01be240c764) | 2026-03-17 23:24 |
-| Allstate Insurance | AI & Cloud Platform Consultant Expert | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03afdcd6cea2e3b1) | 2026-03-17 23:24 |
-| Tesla | Data Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3abd3ae71d8f87b6) | 2026-03-17 23:24 |
-| athenahealth | Associate Software Engineer, Platform – COCore | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99ed0d4d942ded9c) | 2026-03-17 23:24 |
-| athenahealth | Senior Software Engineer - API Solutions | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7bcf2915fd9bd1ef) | 2026-03-17 23:24 |
-| Fanatics | Senior Software Engineer – Client Service | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da07f3cfe8d1d836) | 2026-03-17 23:24 |
 
 
 ---
