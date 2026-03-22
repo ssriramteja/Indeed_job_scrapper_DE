@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-22 20:17
+Last updated: 2026-03-22 21:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Qogen, LLC | Senior .NET Developer (Oracle Platform Integration) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ed942c19be14c9a) | 2026-03-22 21:18 |
 | Vanderbilt University Medical Center | Data Engineer (Remote Available) | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ccf4de38a56032d9) | 2026-03-22 08:24 |
 | CVS Health | Senior Software Development Engineer | NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b1bf9814b26294f) | 2026-03-22 05:47 |
 | CVS Health | Senior Software Development Engineer | LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d6f7f69e6323aac3) | 2026-03-22 05:47 |
@@ -512,11 +513,6 @@ Last updated: 2026-03-22 20:17
 | WEX Inc. | Software Development Engineer 2 - Front-End | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9e5b6a2b2181861f) | 2026-03-18 21:28 |
 | BlackRock | Artificial Intelligence & Machine Learning Engineer, Associate | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8f0e9eb9da3b6fb) | 2026-03-18 21:28 |
 | Invu Technology | Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a735e4ae41782f65) | 2026-03-18 21:28 |
-| CRB | Senior Data Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1547f58f63e5ddbf) | 2026-03-18 20:28 |
-| CRB | Senior Data Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd0623688c68382c) | 2026-03-18 20:28 |
-| Truist | Application Architect- Amazon Connect SME | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3103510c5fb6dd9) | 2026-03-18 20:28 |
-| Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=edff3222d9dfb35c) | 2026-03-18 20:28 |
-| Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83800f9abb3449f6) | 2026-03-18 20:28 |
 
 
 ---
