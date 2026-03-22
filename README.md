@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-22 15:18
+Last updated: 2026-03-22 16:20
 
 ### 🚀 Daily Job Matches
 
@@ -547,9 +547,6 @@ Last updated: 2026-03-22 15:18
 | Bird Rides | Analytics Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d3aa60883fb8d23) | 2026-03-18 17:54 |
 | Optum | Senior AI/ML Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aec14b3c9bfc49d5) | 2026-03-18 17:54 |
 | Openkyber | SAP Security Administrator | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=744aa8787fc16632) | 2026-03-18 17:54 |
-| NTT DATA | Multi-Cloud SQL/Oracle Database Administrator (DBA) | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c2c1b2c3f27c3043) | 2026-03-18 16:02 |
-| Panacea Direct Inc | Test Analyst - ETL QA Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=31e33833632ced64) | 2026-03-18 16:02 |
-| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b24d134a2f8c41f7) | 2026-03-18 16:02 |
 
 
 ---
