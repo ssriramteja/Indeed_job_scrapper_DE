@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-22 08:24
+Last updated: 2026-03-22 09:24
 
 ### 🚀 Daily Job Matches
 
@@ -563,7 +563,6 @@ Last updated: 2026-03-22 08:24
 | Openkyber | Kubernetes MLOps Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55f5b2c9d63429a6) | 2026-03-18 11:39 |
 | Gartner | Senior Data Engineer (Python, ETL) - Master Data Management (MDM) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ceeabf66fcba285d) | 2026-03-18 10:43 |
 | Tata Consultancy Services (TCS) | Python/PySpark Engineer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dc6f909cb7ec3483) | 2026-03-18 09:44 |
-| CooperCompanies | Full Stack Developer | Henrietta, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5402734548997ed0) | 2026-03-18 08:38 |
 
 
 ---
