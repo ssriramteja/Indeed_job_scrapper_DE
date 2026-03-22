@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-22 17:18
+Last updated: 2026-03-22 18:25
 
 ### 🚀 Daily Job Matches
 
@@ -528,25 +528,6 @@ Last updated: 2026-03-22 17:18
 | Desmata Inc | Oracle Fusion Technical Architect – Financials, Procurement & HCM | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=147edea2571f3c4a) | 2026-03-18 18:47 |
 | Eli Lilly | Advisor - Data Architect, Data Foundry | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b7bed78bd5d257f) | 2026-03-18 18:47 |
 | Ketjen | Enterprise Data, Analytics & AI | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8269b2aa63279467) | 2026-03-18 18:47 |
-| Openkyber | Azure Network Engineer | GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9e0411e0606d3713) | 2026-03-18 17:54 |
-| Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bc64b79d3e9d2292) | 2026-03-18 17:54 |
-| Openkyber | AWS Network Engineer | SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3c672c58481ff2d5) | 2026-03-18 17:54 |
-| Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d8d18c7217c63ba8) | 2026-03-18 17:54 |
-| Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eabc7140a8b5adbf) | 2026-03-18 17:54 |
-| Openkyber | Associate ML Infrastructure Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d3dc757eeb50099) | 2026-03-18 17:54 |
-| Openkyber | Network Operations Trainee | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cb7c112e2eb3d06e) | 2026-03-18 17:54 |
-| Openkyber | Network Operations Trainee | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ecf9acecdd49f852) | 2026-03-18 17:54 |
-| Optum | Site Reliability Engineer | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3de9c257b395e1c9) | 2026-03-18 17:54 |
-| Openkyber | AWS Network Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eaa2def71f96f681) | 2026-03-18 17:54 |
-| Openkyber | MLOps | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a9ac8b2469720423) | 2026-03-18 17:54 |
-| Optum | Senior Software Engineer | Naperville, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1446a6003c62f5b1) | 2026-03-18 17:54 |
-| Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba0e71df61def4d9) | 2026-03-18 17:54 |
-| Tutor Perini Corporation | Data Engineer - Onsite - Sylmar, CA | Sylmar, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=911f179152aa22b0) | 2026-03-18 17:54 |
-| Openkyber | MLOps | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1b75a7809930220b) | 2026-03-18 17:54 |
-| Openkyber | AWS Network Engineer | VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=436d97d6edae9756) | 2026-03-18 17:54 |
-| Bird Rides | Analytics Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d3aa60883fb8d23) | 2026-03-18 17:54 |
-| Optum | Senior AI/ML Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aec14b3c9bfc49d5) | 2026-03-18 17:54 |
-| Openkyber | SAP Security Administrator | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=744aa8787fc16632) | 2026-03-18 17:54 |
 
 
 ---
