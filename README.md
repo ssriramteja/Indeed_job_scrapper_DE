@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-22 21:18
+Last updated: 2026-03-22 22:17
 
 ### 🚀 Daily Job Matches
 
@@ -501,18 +501,6 @@ Last updated: 2026-03-22 21:18
 | World IT Center | Hadoop Developer | Strongsville, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=229e0051fc5c425c) | 2026-03-18 22:25 |
 | Westfield Insurance | Senior Software Development Engineer of Test (SDET) | Westfield Center, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f60d99cbbb8719ad) | 2026-03-18 22:25 |
 | ATG Entertainment | Marketing Automation Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b060fca7c8f1c27c) | 2026-03-18 22:25 |
-| University of Texas at Austin | Data Engineer I | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=52ebd75b55c0b878) | 2026-03-18 21:28 |
-| NTT DATA | Multi-Cloud SQL/Oracle Database Administrator (DBA) | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=83cf0ba40f1b8d7f) | 2026-03-18 21:28 |
-| Toyota North America | Senior Software Engineer - Fullstack | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8c87fe3f873334f0) | 2026-03-18 21:28 |
-| MetLife | IAM Database Intelligence Engineer | Cary, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=db8161b23e8c863c) | 2026-03-18 21:28 |
-| University of Texas at Austin | Senior Data Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c974247907065262) | 2026-03-18 21:28 |
-| archer | Enterprise Cloud Security Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1347a0b8d7916085) | 2026-03-18 21:28 |
-| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7828253d03dda8c3) | 2026-03-18 21:28 |
-| Tata Consultancy Services (TCS) | AliCloud DevOps Senior Engineer | Cupertino, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6be416b224d94d78) | 2026-03-18 21:28 |
-| Medrio | Automation Engineer (Mid level SDET) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3b2f89f6db54cefa) | 2026-03-18 21:28 |
-| WEX Inc. | Software Development Engineer 2 - Front-End | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9e5b6a2b2181861f) | 2026-03-18 21:28 |
-| BlackRock | Artificial Intelligence & Machine Learning Engineer, Associate | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8f0e9eb9da3b6fb) | 2026-03-18 21:28 |
-| Invu Technology | Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a735e4ae41782f65) | 2026-03-18 21:28 |
 
 
 ---
