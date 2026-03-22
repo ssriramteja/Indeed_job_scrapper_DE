@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-22 05:47
+Last updated: 2026-03-22 06:40
 
 ### 🚀 Daily Job Matches
 
@@ -568,10 +568,6 @@ Last updated: 2026-03-22 05:47
 | Visa | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41aec199d60a57ab) | 2026-03-18 07:00 |
 | West Monroe | Senior Architect, Data Engineering | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=688b84fca2804c71) | 2026-03-18 07:00 |
 | FIS | Senior API Test Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=443bfd5538b7629d) | 2026-03-18 07:00 |
-| Ncontracts | Senior Cloud Engineer | US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=4c5ffe3e0696e29a) | 2026-03-18 05:58 |
-| Ncontracts | Analytics Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b4fc9074f486fdc) | 2026-03-18 05:58 |
-| Evercommerce | Everhealth – Senior Data Engineer (Remote, US) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1494c02a420f7168) | 2026-03-18 05:58 |
-| Citi | DevOps Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d74a8c2e0b3bc97) | 2026-03-18 05:58 |
 
 
 ---
