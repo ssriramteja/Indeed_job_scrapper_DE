@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-22 19:19
+Last updated: 2026-03-22 20:17
 
 ### 🚀 Daily Job Matches
 
@@ -517,14 +517,6 @@ Last updated: 2026-03-22 19:19
 | Truist | Application Architect- Amazon Connect SME | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3103510c5fb6dd9) | 2026-03-18 20:28 |
 | Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=edff3222d9dfb35c) | 2026-03-18 20:28 |
 | Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83800f9abb3449f6) | 2026-03-18 20:28 |
-| ISPOT | Sr. Site Reliability Engineer (Database focused) | Bellevue, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=75c426f94a2eb5de) | 2026-03-18 19:43 |
-| Photon | Full Stack Developer - Irving,TX | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bd87b9fe8763cff2) | 2026-03-18 19:43 |
-| SolarWinds | Senior Security Architect | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=632d492ceb3b18b2) | 2026-03-18 19:43 |
-| Penske Truck Leasing | Integration Architect | Reading, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f2388b8f06d12916) | 2026-03-18 19:43 |
-| Radial | Software Engineer (ETL) | King of Prussia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d0a9c4efd739d4e) | 2026-03-18 19:43 |
-| Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0dca0a83288d9224) | 2026-03-18 19:43 |
-| GSK Solutions | SQL Database Architect | Township of Hamilton, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86692750669aac55) | 2026-03-18 19:43 |
-| AMH | Site Reliability Engineer | Draper, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27acae47fa052436) | 2026-03-18 19:43 |
 
 
 ---

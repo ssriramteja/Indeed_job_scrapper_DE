@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-22
 
-**Total Jobs Found:** 53
+**Total Jobs Found:** 52
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -574,17 +574,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, SQL Server, PostgreSQL, CI/CD, Terraform
 
 [Apply Here](https://www.indeed.com/viewjob?jk=e7aef75cb3b0824f)
-
----
-
-## 53. Cloud Engineer @ Verinext
-**Match Score:** 10.4%
-
-📍 **Location:** Louisville, KY, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, S3, RDS, Snowflake, PostgreSQL, DynamoDB, NoSQL, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=160c7358320627f2)
 
 ---
 
