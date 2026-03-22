@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-22 01:20
+Last updated: 2026-03-22 04:12
 
 ### 🚀 Daily Job Matches
 
@@ -544,16 +544,6 @@ Last updated: 2026-03-22 01:20
 | Kore.ai | Cloud Support & DevOPS Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=518e23ecee84280c) | 2026-03-18 04:16 |
 | LiveKit | Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=491dbd627fcfc1ec) | 2026-03-18 04:16 |
 | Hyve Solutions | Senior Platform Engineer (Multi-Cloud & AI Adoption) | Fremont, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61cdbfe08b450503) | 2026-03-18 04:16 |
-| Eli Lilly | Data Architect, Data Foundry | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8f6aeed34698c13e) | 2026-03-18 01:21 |
-| Traackr | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fdf23ba78f8d81b1) | 2026-03-18 01:21 |
-| Traackr | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=958ccdd251b4e97b) | 2026-03-18 01:21 |
-| TMA SYSTEMS | Senior Business Intelligence Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=49da61e6b6b0755f) | 2026-03-18 01:21 |
-| TMA SYSTEMS | Senior Business Intelligence Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=965b34c898c4918a) | 2026-03-18 01:21 |
-| AGDATA LP | Architect I | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cd6670494253881e) | 2026-03-18 01:21 |
-| Roku | Senior Software Engineer, Cloud Services | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a4893fd8b3665a3) | 2026-03-18 01:21 |
-| Aerospike | Senior Software Engineer, Control Plane | Mountain View, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=23d6e1a2ca383519) | 2026-03-18 01:21 |
-| Railroad19 | AWS DevOps Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3cadb7ee4495d97) | 2026-03-18 01:21 |
-| Broadridge | Data Architect / Cloud Architect (Architecture Review & Advisory) CONTRACT - REMOTE | Newark, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f088c401f3aecdf0) | 2026-03-18 01:21 |
 
 
 ---
