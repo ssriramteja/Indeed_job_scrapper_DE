@@ -1,15 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 19:42
+Last updated: 2026-03-23 20:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Kennesaw State University | Data Infrastructure Engineer | Kennesaw, GA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=e0ab4ea66cd88f5a) | 2026-03-23 20:30 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-23 20:30 |
+| Optum | Senior AI/ML Engineer - MLOps & Production AI Systems - Remote or Hybrid in MN/DC | Eden Prairie, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8efb3901b9a2f678) | 2026-03-23 20:30 |
+| Fidelity TalentSource | Sr. Java Full Stack Engineer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a2bf76acfd2510ec) | 2026-03-23 20:30 |
+| Premier Inc. | Software Engineer - Full Stack | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7caafc9fc9ff0d6a) | 2026-03-23 20:30 |
+| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-23 20:30 |
+| Esri | Sr. DevOps Engineer AWS | Redlands, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47bbf34a2d6b1efb) | 2026-03-23 20:30 |
+| Amentum | Entry Level Software Engineer | Huntsville, AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f3a3a650f5c651d) | 2026-03-23 20:30 |
 | SAP | SAP NS2 Sr. Cloud DevOps Engineer | Newtown Square, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8158e5b52e0208bc) | 2026-03-23 19:42 |
 | New York Life | Senior Associate - AWS Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=66effda273eb3723) | 2026-03-23 19:42 |
 | Alkami Technology | SDET | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0117a3b871784ee4) | 2026-03-23 19:42 |
-| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-23 19:42 |
 | GEICO | Senior Enterprise Ontologist | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=89ff6f25f9a6803e) | 2026-03-23 19:42 |
 | EquipmentShare | Analytics Engineer, People Analytics | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b55dc8877ac2f74) | 2026-03-23 19:42 |
 | Coalfire | Junior Site Reliability Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=849f18264b0353d8) | 2026-03-23 19:42 |
@@ -400,14 +407,6 @@ Last updated: 2026-03-23 19:42
 | Tata Consultancy Services (TCS) | AI/ML Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b80993c7486f0a43) | 2026-03-19 21:28 |
 | Tata Consultancy Services (TCS) | Senior Engineer | Lebanon, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=102d918cc41c8445) | 2026-03-19 21:28 |
 | South Florida Community Care Network | Sr. Business Intelligence Developer | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4d748d1785eb240) | 2026-03-19 21:28 |
-| Fidelity TalentSource | Full Stack Engineer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8a556c0c0b65e6c6) | 2026-03-19 20:28 |
-| Texas Instruments | Senior Data Engineer | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d7d7e089523b996) | 2026-03-19 20:28 |
-| Hasbro, Inc. | Sr Software Development Engineer - Hasbro Direct | Renton, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=59aa493bfb3826f0) | 2026-03-19 20:28 |
-| Optum | Python Software Engineer - Schaumburg, IL | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9e48f7514f4285fb) | 2026-03-19 20:28 |
-| Covered Insurance Solutions | Data Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=439864a586cda933) | 2026-03-19 20:28 |
-| Suntex Marina Investors, LLC | Senior Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=edce04084d1da5d6) | 2026-03-19 20:28 |
-| Truist | Application Architect - Amazon Connect SME | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65acf5a8c014e9c7) | 2026-03-19 20:28 |
-| ASPCA | Microsoft Dynamics 365 Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59479444c6517572) | 2026-03-19 20:28 |
 
 
 ---
