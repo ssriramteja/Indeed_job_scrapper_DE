@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 17:44
+Last updated: 2026-03-23 18:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-23 18:41 |
+| Innovative Systems | Azure Site Reliability & Automation Engineer | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=abfdcefe625a5d98) | 2026-03-23 18:41 |
+| American Express | Software Engineer III - Frontend (Global Dining) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22085e4edc6fdc63) | 2026-03-23 18:41 |
 | Realign | Cloud Data Architect | TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=7ed0702643990e72) | 2026-03-23 17:44 |
 | Realign | Cloud Data Architect | West Lake, LA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=51d2af5d54195fff) | 2026-03-23 17:44 |
 | Realign | Full Stack Engineer (React + Node.js)-4 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=83f72088600a0d11) | 2026-03-23 17:44 |
@@ -19,7 +22,6 @@ Last updated: 2026-03-23 17:44
 | Qode | Enterprise Data Architect | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=298206a805e9200a) | 2026-03-23 17:44 |
 | Openkyber | API Security Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e20032bf66a0bbc) | 2026-03-23 17:44 |
 | Openkyber | Kubernetes Security Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6b13e7f95cc76df1) | 2026-03-23 17:44 |
-| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-23 17:44 |
 | Realign | FiveTran Administrator / Data Integration Engineer-2 | Lebanon, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8049ed1c967550ad) | 2026-03-23 17:44 |
 | Openkyber | Azure Security Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b03aa36a9575000b) | 2026-03-23 17:44 |
 | Openkyber | Azure Security Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35c0de1886689777) | 2026-03-23 17:44 |
@@ -410,14 +412,6 @@ Last updated: 2026-03-23 17:44
 | AHOLD Delhaize | Software Engineer- Martech | Salisbury, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fce7027a3a18e114) | 2026-03-19 18:44 |
 | AHOLD Delhaize | Software Engineer- Martech | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=baa39bb5af60e2a2) | 2026-03-19 18:44 |
 | GM Financial | Software Development Engineer III | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=663cf689cd0cf520) | 2026-03-19 18:44 |
-| Qode | Python Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=088655e3e3b8844d) | 2026-03-19 17:49 |
-| SpotOn | Senior Data Engineer (Clickhouse) | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1d35f74fc9491129) | 2026-03-19 17:49 |
-| nan | Senior Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c7608ed5bf8f408b) | 2026-03-19 17:49 |
-| nan | Senior Data Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=048f60b12aa9a7c6) | 2026-03-19 17:49 |
-| nan | Senior Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc4b686f19aac3f7) | 2026-03-19 17:49 |
-| nan | Senior Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b8021ad4fe6bcc63) | 2026-03-19 17:49 |
-| nan | Senior Data Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2111c5e7eab910a6) | 2026-03-19 17:49 |
-| nan | Senior Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ec83795e8e9d3a1) | 2026-03-19 17:49 |
 
 
 ---
