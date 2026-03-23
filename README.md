@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 14:09
+Last updated: 2026-03-23 15:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-23 15:53 |
+| Regions Financial | Cloud DevSecOps Engineer | Hoover, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce221f86292702dd) | 2026-03-23 15:53 |
 | Bentley Systems | AI Software Engineer | Exton, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8766b681045861f3) | 2026-03-23 14:09 |
 | Openkyber | Kubernetes Security Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a7be29572b27f0f) | 2026-03-23 11:38 |
 | Openkyber | .NET Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19e37e48078f59f2) | 2026-03-23 11:38 |
@@ -401,8 +403,6 @@ Last updated: 2026-03-23 14:09
 | Doran Jones | Databricks / PySpark Data Engineer | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f9ee957e5ec3e951) | 2026-03-19 16:48 |
 | Kash Tech | Solution Architect – Data, Analytics & Microsoft Platform (Power BI, Power Apps, Fabric, Databricks) | Lake Mary, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db3760b4023c14b) | 2026-03-19 16:48 |
 | Nokia | Full Stack Engineer – SaaS Platform | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a2bee0c494f3ad24) | 2026-03-19 16:48 |
-| Department of City Planning | Senior Data Engineer | Manhattan, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=439f5cb6a23d1919) | 2026-03-19 15:44 |
-| Slip Robotics | Full-Stack Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=235773020d8ae10f) | 2026-03-19 15:44 |
 
 
 ---
