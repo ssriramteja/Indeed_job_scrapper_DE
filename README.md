@@ -1,12 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 18:41
+Last updated: 2026-03-23 19:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-23 18:41 |
+| SAP | SAP NS2 Sr. Cloud DevOps Engineer | Newtown Square, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8158e5b52e0208bc) | 2026-03-23 19:42 |
+| New York Life | Senior Associate - AWS Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=66effda273eb3723) | 2026-03-23 19:42 |
+| Alkami Technology | SDET | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0117a3b871784ee4) | 2026-03-23 19:42 |
+| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-23 19:42 |
+| GEICO | Senior Enterprise Ontologist | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=89ff6f25f9a6803e) | 2026-03-23 19:42 |
+| EquipmentShare | Analytics Engineer, People Analytics | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b55dc8877ac2f74) | 2026-03-23 19:42 |
+| Coalfire | Junior Site Reliability Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=849f18264b0353d8) | 2026-03-23 19:42 |
+| GEICO | Senior Taxonomist | Bethesda, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e14a2c939b76bd2f) | 2026-03-23 19:42 |
+| GEICO | Solutions Engineer II - Networking | Bethesda, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=65264a65d2d0171c) | 2026-03-23 19:42 |
+| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e3a6f36401116ae) | 2026-03-23 19:42 |
+| Computershare | Software Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2dce722905ce4a98) | 2026-03-23 19:42 |
 | Innovative Systems | Azure Site Reliability & Automation Engineer | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=abfdcefe625a5d98) | 2026-03-23 18:41 |
 | American Express | Software Engineer III - Frontend (Global Dining) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22085e4edc6fdc63) | 2026-03-23 18:41 |
 | Realign | Cloud Data Architect | TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=7ed0702643990e72) | 2026-03-23 17:44 |
@@ -398,20 +408,6 @@ Last updated: 2026-03-23 18:41
 | Suntex Marina Investors, LLC | Senior Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=edce04084d1da5d6) | 2026-03-19 20:28 |
 | Truist | Application Architect - Amazon Connect SME | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65acf5a8c014e9c7) | 2026-03-19 20:28 |
 | ASPCA | Microsoft Dynamics 365 Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59479444c6517572) | 2026-03-19 20:28 |
-| CareOregon | IS Data Engineer | Salem, OR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=125db3e6bdb4e943) | 2026-03-19 19:41 |
-| Lantern | Data Engineer - Governance and QA | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ac32a158d5ead3ae) | 2026-03-19 19:41 |
-| Sam's Club | Senior, Software Engineer - Fullstack | Bentonville, AR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eb36340453827bd0) | 2026-03-19 19:41 |
-| Luxoft | Senior Backend Engineer - Java | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5ad728c60f5ddf1d) | 2026-03-19 19:41 |
-| Togetherwork | Senior Data Migration Architect (Microsoft Dynamics 365) | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3f58b7b1afbeec48) | 2026-03-19 19:41 |
-| Basis Technologies | Sr Software Engineer, Applications | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d626797e376230a8) | 2026-03-19 19:41 |
-| Piermont Bank | Applications Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c910ffc54c4ad833) | 2026-03-19 19:41 |
-| GM Financial | Data Engineer III - Data & AI Enablement | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d761d2ecf33cf983) | 2026-03-19 18:44 |
-| Synergy BIS | Operations Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50742e69706ff73d) | 2026-03-19 18:44 |
-| GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a1bfb8b0bbcb095a) | 2026-03-19 18:44 |
-| GM Financial | Software Development Engineer II | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e30a8b267fbd675e) | 2026-03-19 18:44 |
-| AHOLD Delhaize | Software Engineer- Martech | Salisbury, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fce7027a3a18e114) | 2026-03-19 18:44 |
-| AHOLD Delhaize | Software Engineer- Martech | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=baa39bb5af60e2a2) | 2026-03-19 18:44 |
-| GM Financial | Software Development Engineer III | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=663cf689cd0cf520) | 2026-03-19 18:44 |
 
 
 ---
