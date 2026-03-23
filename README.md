@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 08:50
+Last updated: 2026-03-23 09:55
 
 ### 🚀 Daily Job Matches
 
@@ -384,11 +384,6 @@ Last updated: 2026-03-23 08:50
 | Truist | Application Architect- Amazon Connect SME | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f52900a5482cbc6) | 2026-03-19 11:29 |
 | Machinify | Senior Software Engineer (Data Platform) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b19f30d9595225fc) | 2026-03-19 10:32 |
 | United Nations Federal Credit Union | ETL Developer | Long Island City, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b2c5f7604ecdfb50) | 2026-03-19 10:32 |
-| JPMorganChase | Software Engineer III - Admin Center | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c4f33f4a77a6827e) | 2026-03-19 09:35 |
-| CVS Health | Software Development Engineer | MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dddbc0db8e0ab6dc) | 2026-03-19 09:35 |
-| CVS Health | Software Development Engineer | RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae67cbf3ff6a6b12) | 2026-03-19 09:35 |
-| CVS Health | Software Development Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d656f4be308d712a) | 2026-03-19 09:35 |
-| CVS Health | Software Development Engineer | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=807cc7dc8b72ea8d) | 2026-03-19 09:35 |
 
 
 ---
