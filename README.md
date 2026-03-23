@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 12:44
+Last updated: 2026-03-23 14:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bentley Systems | AI Software Engineer | Exton, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8766b681045861f3) | 2026-03-23 14:09 |
 | Openkyber | Kubernetes Security Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a7be29572b27f0f) | 2026-03-23 11:38 |
 | Openkyber | .NET Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19e37e48078f59f2) | 2026-03-23 11:38 |
 | DNV | Senior Machine Learning Engineer - Energy | Portland, OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=568d6169d76666f1) | 2026-03-23 10:44 |
@@ -402,11 +403,6 @@ Last updated: 2026-03-23 12:44
 | Nokia | Full Stack Engineer – SaaS Platform | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a2bee0c494f3ad24) | 2026-03-19 16:48 |
 | Department of City Planning | Senior Data Engineer | Manhattan, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=439f5cb6a23d1919) | 2026-03-19 15:44 |
 | Slip Robotics | Full-Stack Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=235773020d8ae10f) | 2026-03-19 15:44 |
-| Charles Schwab | Data Engineer | Southlake, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7e72c1940ea5774f) | 2026-03-19 14:04 |
-| nan | Sr Software Engineer - Live and Linear Tooling | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3813402781f4a5a6) | 2026-03-19 14:04 |
-| Molina Healthcare | Senior Engineer, Cloud - IT Resiliency Solutions - Remote | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f531126ad868d253) | 2026-03-19 14:04 |
-| Charles Schwab | Java Development Engineer | Southlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=044788dae086d6fb) | 2026-03-19 14:04 |
-| Charles Schwab | Senior Database Administrator | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75d9a983054dd1ae) | 2026-03-19 14:04 |
 
 
 ---

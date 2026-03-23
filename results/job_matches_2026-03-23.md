@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-23
 
-**Total Jobs Found:** 36
+**Total Jobs Found:** 37
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -357,7 +357,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Associate Software Engineer @ Capgemini
+## 33. AI Software Engineer @ Bentley Systems
+**Match Score:** 11.8%
+
+📍 **Location:** Exton, PA, US USA
+
+🔑 **Keywords:** AWS, Lambda, Azure, GCP, Scala, MLOps, CI/CD, Jenkins, GitHub Actions, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8766b681045861f3)
+
+---
+
+## 34. Associate Software Engineer @ Capgemini
 **Match Score:** 11.8%
 
 📍 **Location:** Chicago, IL, US USA
@@ -368,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Kubernetes Security Engineer @ Openkyber
+## 35. Kubernetes Security Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** AK, US USA
@@ -379,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Senior .NET Developer (Oracle Platform Integration) @ Qogen, LLC
+## 36. Senior .NET Developer (Oracle Platform Integration) @ Qogen, LLC
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -390,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. .NET Architect @ Openkyber
+## 37. .NET Architect @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
