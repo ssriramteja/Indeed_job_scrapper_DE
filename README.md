@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 10:44
+Last updated: 2026-03-23 11:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Kubernetes Security Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a7be29572b27f0f) | 2026-03-23 11:38 |
+| Openkyber | .NET Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19e37e48078f59f2) | 2026-03-23 11:38 |
 | DNV | Senior Machine Learning Engineer - Energy | Portland, OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=568d6169d76666f1) | 2026-03-23 10:44 |
 | DNV | Senior Machine Learning Engineer - Energy | Jersey City, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b05b3b46caa4257a) | 2026-03-23 10:44 |
 | DNV | Senior Machine Learning Engineer - Energy | Albuquerque, NM, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=79fac182fa25939d) | 2026-03-23 10:44 |
@@ -406,8 +408,6 @@ Last updated: 2026-03-23 10:44
 | Charles Schwab | Java Development Engineer | Southlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=044788dae086d6fb) | 2026-03-19 14:04 |
 | Charles Schwab | Senior Database Administrator | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75d9a983054dd1ae) | 2026-03-19 14:04 |
 | CrowdStrike | Snowflake Data Architect (Remote) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50af2306075e0747) | 2026-03-19 12:41 |
-| nan | HRIS Solution Architect | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=087b0e02bfb3bda8) | 2026-03-19 11:29 |
-| Truist | Application Architect- Amazon Connect SME | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f52900a5482cbc6) | 2026-03-19 11:29 |
 
 
 ---
