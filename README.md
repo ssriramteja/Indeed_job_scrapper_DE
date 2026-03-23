@@ -1,11 +1,37 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 09:55
+Last updated: 2026-03-23 10:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| DNV | Senior Machine Learning Engineer - Energy | Portland, OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=568d6169d76666f1) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Jersey City, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b05b3b46caa4257a) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Albuquerque, NM, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=79fac182fa25939d) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Helena, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b5d55da591824b1) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Madison, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b65be6be8460bd78) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=17e6aac4359b9fd3) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | North Andover, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c59949bd00d83e90) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b8ef170ca8fbcbe) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=373d8c47a07bc6b1) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a84b0a6dbbfaaa46) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Las Vegas, NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f8368adff4982153) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Arlington, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=66f77cbc8591aaa1) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Medford, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bb419979ad314a75) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Troy, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9322c1d0c3fbb74d) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=079310cd3af87092) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Irvine, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=40c0504d51145ec2) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Santa Clara, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=307370dbe3caf012) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=becb707558951aa7) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e4aff12f1bcf2fce) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e88e9dd515938e3) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Des Moines, IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f9314a3f9b0e1d8) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Oak Brook, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d66efbee602a7577) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Middletown, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=de57038afd5f7ffa) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4173afb3af02e847) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dc0e5eb74e1013b2) | 2026-03-23 10:44 |
+| DNV | Senior Machine Learning Engineer - Energy | Portland, ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8be0210ffb983e8f) | 2026-03-23 10:44 |
 | Humana | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=77d3c7c8412ad1ee) | 2026-03-23 07:57 |
 | Capgemini | Data Engineer | Nashville, TN, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=20c3803f586deedc) | 2026-03-23 06:05 |
 | DNV KEMA Energy & Sustainability | Senior Machine Learning Engineer - Energy | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ea8d61e353dcf3fe) | 2026-03-23 06:05 |
@@ -382,8 +408,6 @@ Last updated: 2026-03-23 09:55
 | CrowdStrike | Snowflake Data Architect (Remote) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50af2306075e0747) | 2026-03-19 12:41 |
 | nan | HRIS Solution Architect | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=087b0e02bfb3bda8) | 2026-03-19 11:29 |
 | Truist | Application Architect- Amazon Connect SME | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f52900a5482cbc6) | 2026-03-19 11:29 |
-| Machinify | Senior Software Engineer (Data Platform) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b19f30d9595225fc) | 2026-03-19 10:32 |
-| United Nations Federal Credit Union | ETL Developer | Long Island City, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b2c5f7604ecdfb50) | 2026-03-19 10:32 |
 
 
 ---
