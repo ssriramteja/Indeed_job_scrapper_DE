@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 06:05
+Last updated: 2026-03-23 07:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Humana | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=77d3c7c8412ad1ee) | 2026-03-23 07:57 |
 | Capgemini | Data Engineer | Nashville, TN, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=20c3803f586deedc) | 2026-03-23 06:05 |
 | DNV KEMA Energy & Sustainability | Senior Machine Learning Engineer - Energy | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ea8d61e353dcf3fe) | 2026-03-23 06:05 |
 | Trimble | Site Reliability Engineer - Machine Learning | Westminster, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4fa376cb1aac719) | 2026-03-23 06:05 |
@@ -394,14 +395,6 @@ Last updated: 2026-03-23 06:05
 | ECS | Senior Developer | Fairfax, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba52e4c7be1b38da) | 2026-03-19 08:32 |
 | Conduent | App Dev & Support Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=545fbf2f702616bd) | 2026-03-19 08:32 |
 | Conduent | App Dev & Support Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d52c6f68144e455b) | 2026-03-19 08:32 |
-| Capio Group | API/Integration Developer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6bc0dacaf9a9f3d3) | 2026-03-19 06:47 |
-| uShip | Software Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=831952137ebf7901) | 2026-03-19 06:47 |
-| nan | Marketing Automation Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9311cdc9cc020263) | 2026-03-19 06:47 |
-| Humana | Software Engineer | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c0c3678726f7cd8) | 2026-03-19 06:47 |
-| Humana | Software Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bcf2bd60b7775522) | 2026-03-19 06:47 |
-| Humana | Software Engineer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e199cfaab686fcd) | 2026-03-19 06:47 |
-| Humana | Software Engineer | TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cdaf29b51d053945) | 2026-03-19 06:47 |
-| Humana | Software Engineer | KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e0581c78c0e903b) | 2026-03-19 06:47 |
 
 
 ---

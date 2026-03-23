@@ -38,7 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior DevSecOps Engineer @ Humana
+## 4. Senior Software Engineer @ Humana
+**Match Score:** 13.2%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, GCP, Spark, PySpark, Kafka, Snowflake, PostgreSQL, Power BI
+
+[Apply Here](https://www.indeed.com/viewjob?jk=77d3c7c8412ad1ee)
+
+---
+
+## 5. Senior DevSecOps Engineer @ Humana
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Onsite Data Engineer Miami @ IT Search Corp
+## 6. Onsite Data Engineer Miami @ IT Search Corp
 **Match Score:** 12.5%
 
 📍 **Location:** Cypress, TX, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Machine Learning Engineer - Energy @ DNV KEMA Energy & Sustainability
+## 7. Senior Machine Learning Engineer - Energy @ DNV KEMA Energy & Sustainability
 **Match Score:** 12.5%
 
 📍 **Location:** Oakland, CA, US USA
@@ -68,17 +79,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** IAM, RDS, Azure, Databricks, Spark, PySpark, Scala, MLflow, CI/CD, Azure DevOps
 
 [Apply Here](https://www.indeed.com/viewjob?jk=ea8d61e353dcf3fe)
-
----
-
-## 7. Data Engineer (Remote Available) @ Vanderbilt University Medical Center
-**Match Score:** 11.8%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, Scala, MS Excel, CI/CD, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ccf4de38a56032d9)
 
 ---
 
