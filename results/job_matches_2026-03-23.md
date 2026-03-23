@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-23
 
-**Total Jobs Found:** 10
+**Total Jobs Found:** 8
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. SAP S/4 Solution Architect @ nan
-**Match Score:** 16.7%
-
-📍 **Location:** Richardson, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f609856527b5e2b8)
-
----
-
-## 3. Senior Salesforce Developer @ Lexington Capital Holdings
+## 2. Senior Salesforce Developer @ Lexington Capital Holdings
 **Match Score:** 15.3%
 
 📍 **Location:** Port Jefferson Station, NY, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Software Engineer @ Humana
+## 3. Senior Software Engineer @ Humana
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior DevSecOps Engineer @ Humana
+## 4. Senior DevSecOps Engineer @ Humana
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Onsite Data Engineer Miami @ IT Search Corp
+## 5. Onsite Data Engineer Miami @ IT Search Corp
 **Match Score:** 12.5%
 
 📍 **Location:** Cypress, TX, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Machine Learning Engineer - Energy @ DNV KEMA Energy & Sustainability
+## 6. Senior Machine Learning Engineer - Energy @ DNV KEMA Energy & Sustainability
 **Match Score:** 12.5%
 
 📍 **Location:** Oakland, CA, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Associate Software Engineer @ Capgemini
+## 7. Associate Software Engineer @ Capgemini
 **Match Score:** 11.8%
 
 📍 **Location:** Chicago, IL, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior .NET Developer (Oracle Platform Integration) @ Qogen, LLC
+## 8. Senior .NET Developer (Oracle Platform Integration) @ Qogen, LLC
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -101,17 +90,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Scala, Kafka, Oracle, CI/CD, GitHub Actions, Azure DevOps, Terraform, Docker
 
 [Apply Here](https://www.indeed.com/viewjob?jk=4ed942c19be14c9a)
-
----
-
-## 10. Site Reliability Engineer - Machine Learning @ Trimble
-**Match Score:** 10.4%
-
-📍 **Location:** Westminster, CO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Hadoop, Spark, Scala, MLOps, Azure DevOps, Git, Azure Monitor
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e4fa376cb1aac719)
 
 ---
 

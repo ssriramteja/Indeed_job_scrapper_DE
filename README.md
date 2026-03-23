@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 07:57
+Last updated: 2026-03-23 08:50
 
 ### 🚀 Daily Job Matches
 
@@ -389,12 +389,6 @@ Last updated: 2026-03-23 07:57
 | CVS Health | Software Development Engineer | RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae67cbf3ff6a6b12) | 2026-03-19 09:35 |
 | CVS Health | Software Development Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d656f4be308d712a) | 2026-03-19 09:35 |
 | CVS Health | Software Development Engineer | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=807cc7dc8b72ea8d) | 2026-03-19 09:35 |
-| Premier Inc. | Senior Software Engineer - Full Stack | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2728e69028426d36) | 2026-03-19 08:32 |
-| Customertimes | AWS Data Engineer | Poland, ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b92e49b2282be9b0) | 2026-03-19 08:32 |
-| WesBanco Bank, Inc. | Senior Data Engineer - Data & Analytics | Wheeling, WV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3a2879bbf581653) | 2026-03-19 08:32 |
-| ECS | Senior Developer | Fairfax, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba52e4c7be1b38da) | 2026-03-19 08:32 |
-| Conduent | App Dev & Support Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=545fbf2f702616bd) | 2026-03-19 08:32 |
-| Conduent | App Dev & Support Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d52c6f68144e455b) | 2026-03-19 08:32 |
 
 
 ---
