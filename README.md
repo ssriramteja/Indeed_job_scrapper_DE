@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 04:20
+Last updated: 2026-03-23 06:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Data Engineer | Nashville, TN, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=20c3803f586deedc) | 2026-03-23 06:05 |
+| DNV KEMA Energy & Sustainability | Senior Machine Learning Engineer - Energy | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ea8d61e353dcf3fe) | 2026-03-23 06:05 |
+| Trimble | Site Reliability Engineer - Machine Learning | Westminster, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4fa376cb1aac719) | 2026-03-23 06:05 |
 | nan | SAP S/4 Solution Architect | Richardson, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f609856527b5e2b8) | 2026-03-23 04:20 |
 | Lexington Capital Holdings | Senior Salesforce Developer | Port Jefferson Station, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=eb6c8151bb3d9891) | 2026-03-23 01:21 |
 | Humana | Senior DevSecOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e31ad70ec2232102) | 2026-03-23 01:21 |
@@ -399,15 +402,6 @@ Last updated: 2026-03-23 04:20
 | Humana | Software Engineer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e199cfaab686fcd) | 2026-03-19 06:47 |
 | Humana | Software Engineer | TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cdaf29b51d053945) | 2026-03-19 06:47 |
 | Humana | Software Engineer | KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e0581c78c0e903b) | 2026-03-19 06:47 |
-| Angeion Group, LLC | Senior Cloud Infrastructure Engineer | Philadelphia, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=33e99b8f9b3b2740) | 2026-03-19 05:53 |
-| Studio McGee | Senior Data Engineer | Draper, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1fce98418ec68193) | 2026-03-19 05:53 |
-| Tesla | Forward Deployed Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9c10613312eae7d7) | 2026-03-19 05:53 |
-| U.S. Bank | Sr. Data Governance Platform Engineer | Cupertino, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=794676769f713195) | 2026-03-19 05:53 |
-| U.S. Bank | Sr. Data Governance Platform Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=83874b4efc59bfe1) | 2026-03-19 05:53 |
-| U.S. Bank | Data Governance Platform Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=84ec5aac03a88bd4) | 2026-03-19 05:53 |
-| U.S. Bank | Data Governance Platform Engineer | Cupertino, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8a5d1a6525d2d2bc) | 2026-03-19 05:53 |
-| Openkyber | Data Scientist | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b3267f4ddbfd71ec) | 2026-03-19 05:53 |
-| Openkyber | AI Application Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81dac51ac780b98f) | 2026-03-19 05:53 |
 
 
 ---
