@@ -1,12 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 22:23
+Last updated: 2026-03-23 23:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-23 22:23 |
+| Transamerica | Senior Software Engineer - Onsite Interviews (Denver) | Denver, CO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=cb173fd010bc37d5) | 2026-03-23 23:24 |
+| Transamerica | Specialist Software Engineering - Onsite Interviews (Denver) | Denver, CO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3ec5847773fc77b8) | 2026-03-23 23:24 |
+| Transamerica | Intermediate Software Engineer - Onsite Interviews (Denver) | Denver, CO, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=4fb35aa20ed18f4d) | 2026-03-23 23:24 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-23 23:24 |
+| RELQ TECHNOLOGIES | AWS Cloud Architect- US Remote | Tallahassee, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=92aa07dcc1c5fe6d) | 2026-03-23 23:24 |
+| Openkyber | Okta IAM Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4da96d1220654c8a) | 2026-03-23 23:24 |
+| GAP Solutions, Inc. | Cloud Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ea56e4fa623ef1db) | 2026-03-23 23:24 |
+| U.S. Bank | Data Engineer, Data Innovation and Tools Rationalization | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3e4f860abba1b64) | 2026-03-23 23:24 |
+| U.S. Bank | Data Engineer, Data Innovation and Tools Rationalization | Minneapolis, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0f32c0a302cd469c) | 2026-03-23 23:24 |
+| U.S. Bank | Data Engineer, Data Innovation and Tools Rationalization | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ec49aaf6d851f31a) | 2026-03-23 23:24 |
+| U.S. Bank | Data Engineer, Data Innovation and Tools Rationalization | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e963a76a96f6ee7d) | 2026-03-23 23:24 |
+| National Basketball Association | Senior GenAI Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fa8ba25f9a038e12) | 2026-03-23 23:24 |
+| Tesla | Forward Deployed Engineer | Fremont, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c14d8d29c2cadb59) | 2026-03-23 23:24 |
+| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-23 23:24 |
+| Sundt | Data Analyst II | Tempe, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bbd92abd04640aa) | 2026-03-23 23:24 |
+| KIZEN Technologies, Inc. | Data Engineer, Integrations and Implementation | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9645dfcd9784cb33) | 2026-03-23 23:24 |
+| CliftonLarsonAllen | Senior Software Engineer (Full Stack – Python, React, Azure) | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96ebd296c9a36070) | 2026-03-23 23:24 |
 | Openkyber | API Threat Intelligence Analyst | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c86c7409f7392c29) | 2026-03-23 22:23 |
 | J&B Medical | DevOps Engineer - Wixom, MI | Wixom, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f2872b9dd886ce17) | 2026-03-23 22:23 |
 | Openkyber | API Security Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4cb574f0ac8cc392) | 2026-03-23 22:23 |
@@ -19,7 +35,6 @@ Last updated: 2026-03-23 22:23
 | Protiviti | Microsoft Analytics Data Engineer Senior Consultant | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=abeea819f2acfdd3) | 2026-03-23 22:23 |
 | Protiviti | Microsoft Analytics Data Engineer Senior Consultant | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1566055ee1ec333e) | 2026-03-23 22:23 |
 | Protiviti | Microsoft Analytics Data Engineer Senior Consultant | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a70eb247460f670c) | 2026-03-23 22:23 |
-| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-23 22:23 |
 | Liberty Mutual Insurance | Data Engineer | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8e22a108bf442eae) | 2026-03-23 22:23 |
 | Liberty Mutual Insurance | Data Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bdecd7c928d93b5f) | 2026-03-23 22:23 |
 | Liberty Mutual Insurance | Data Engineer | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cc65fbd4cd51c459) | 2026-03-23 22:23 |
@@ -413,19 +428,6 @@ Last updated: 2026-03-23 22:23
 | BAM Technologies, LLC | Full Stack Developer III | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce4d99e2fdf6b3ec) | 2026-03-20 01:16 |
 | Brillio LLC | Senior Data Engineer – R01560920 | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5d2465c192818aee) | 2026-03-20 01:16 |
 | Simpson Thacher & Bartlett LLP | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81a1f176546a9ca6) | 2026-03-20 01:16 |
-| Capgemini | Associate Data Engineer- Hyperscale- Cloud | Nashville, TN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=eee1c6c65c9ef5f7) | 2026-03-19 23:22 |
-| Allstate Insurance | Senior Data Engineer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=f2d4408cceed11d6) | 2026-03-19 23:22 |
-| The Hartford | Sr Applied AI Machine Learning Engineer - Claims Data Science | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1a207649ab0be82e) | 2026-03-19 23:22 |
-| The Hartford | Sr Applied AI Machine Learning Engineer - Claims Data Science | Hartford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6ba6b6774e660f43) | 2026-03-19 23:22 |
-| The Hartford | Sr Applied AI Machine Learning Engineer - Claims Data Science | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0a2499db08cd7189) | 2026-03-19 23:22 |
-| The Hartford | Sr Applied AI Machine Learning Engineer - Claims Data Science | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ebe6442929dd09f9) | 2026-03-19 23:22 |
-| Mount Sinai Health System | DevOps Engineer (Technology Specialist I) - Digital and Technology Partners - Onsite/Hybrid | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=67bd18e00ac68d8b) | 2026-03-19 23:22 |
-| MVP Health Care | Professional, Data Analyst | Schenectady, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0aebe8f122a069d) | 2026-03-19 23:22 |
-| NavitasPartners | Senior BI Consultant (Power BI) - 26-02719 | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c98eb4ba04c2bce) | 2026-03-19 23:22 |
-| NavitasPartners | Senior BI Consultant (Power BI) - 26-02719 | Springfield, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a186a80a6e332546) | 2026-03-19 23:22 |
-| NavitasPartners | Senior BI Consultant (Power BI) - 26-02719 | Worcester, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa9313b15df56fe4) | 2026-03-19 23:22 |
-| NavitasPartners | Senior BI Consultant (Power BI) - 26-02719 | Everett, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2998be2c78d17cd6) | 2026-03-19 23:22 |
-| NavitasPartners | Senior BI Consultant (Power BI) - 26-02719 | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2775cd0a4ba358b4) | 2026-03-19 23:22 |
 
 
 ---
