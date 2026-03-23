@@ -1,11 +1,33 @@
 # 🎯 Daily Job Matches — 2026-03-23
 
-**Total Jobs Found:** 42
+**Total Jobs Found:** 57
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer @ Capgemini
+## 1. Cloud Data Architect @ Realign
+**Match Score:** 22.9%
+
+📍 **Location:** TX, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Kinesis, Redshift, Athena, S3, IAM, RDS, Azure
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7ed0702643990e72)
+
+---
+
+## 2. Cloud Data Architect @ Realign
+**Match Score:** 22.9%
+
+📍 **Location:** West Lake, LA, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Kinesis, Redshift, Athena, S3, IAM, RDS, Azure
+
+[Apply Here](https://www.indeed.com/viewjob?jk=51d2af5d54195fff)
+
+---
+
+## 3. Data Engineer @ Capgemini
 **Match Score:** 22.2%
 
 📍 **Location:** Nashville, TN, US USA
@@ -16,18 +38,62 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Enterprise Data Architect @ Villanova University
-**Match Score:** 16.7%
+## 4. Full Stack Engineer (React + Node.js)-4 @ Realign
+**Match Score:** 20.1%
 
-📍 **Location:** Villanova, PA, US USA
+📍 **Location:** Irving, TX, US USA
 
-🔑 **Keywords:** AWS, Kinesis, RDS, Azure, GCP, Scala, Kafka, Snowflake, Data Modeling, ETL
+🔑 **Keywords:** AWS, SQS, SNS, RDS, Azure, GCP, Scala, Kafka, PostgreSQL, MySQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f0033abf803ced42)
+[Apply Here](https://www.indeed.com/viewjob?jk=83f72088600a0d11)
 
 ---
 
-## 3. Senior Salesforce Developer @ Lexington Capital Holdings
+## 5. API Security Engineer @ Openkyber
+**Match Score:** 17.4%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** AWS, Azure, Scala, Kafka, Oracle, SQL Server, NoSQL, CI/CD, Jenkins, GitHub Actions
+
+[Apply Here](https://www.indeed.com/viewjob?jk=95627fd021d5b3c1)
+
+---
+
+## 6. Python and PySpark, No SQL Developer @ Realign
+**Match Score:** 16.7%
+
+📍 **Location:** Mount Laurel, NJ, US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, Spark, PySpark, Scala, MongoDB, NoSQL, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=25df4c9eb71eaf8a)
+
+---
+
+## 7. AI Integration Engineer (Java + AI) @ Openkyber
+**Match Score:** 16.7%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** AWS, Lambda, Kinesis, S3, SQS, SNS, ECS, IAM, RDS, Azure
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a41dc227e9577793)
+
+---
+
+## 8. Data Engineer with Python-5 @ Realign
+**Match Score:** 16.0%
+
+📍 **Location:** Malvern, PA, US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, Hadoop, Spark, PySpark, Scala, Kafka, SQL Server, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d7fd6b3a45530d9c)
+
+---
+
+## 9. Senior Salesforce Developer @ Lexington Capital Holdings
 **Match Score:** 15.3%
 
 📍 **Location:** Port Jefferson Station, NY, US USA
@@ -38,7 +104,51 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Software Engineer @ Humana
+## 10. AI Data Engineer @ Netwrix
+**Match Score:** 13.9%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Scala, ETL, ELT, MLOps, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=03eb3e0fbf0cc806)
+
+---
+
+## 11. Enterprise Data Architect @ Qode
+**Match Score:** 13.9%
+
+📍 **Location:** Cleveland, OH, US USA
+
+🔑 **Keywords:** AWS, RDS, Hadoop, HDFS, Hive, Sqoop, MapReduce, HBase, Flume, Spark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ad3b67afc52d547a)
+
+---
+
+## 12. Enterprise Data Architect @ Qode
+**Match Score:** 13.9%
+
+📍 **Location:** Pittsburgh, PA, US USA
+
+🔑 **Keywords:** AWS, RDS, Hadoop, HDFS, Hive, Sqoop, MapReduce, HBase, Flume, Spark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=16aa76cee6df9592)
+
+---
+
+## 13. Enterprise Data Architect @ Qode
+**Match Score:** 13.9%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Hadoop, HDFS, Hive, Sqoop, MapReduce, HBase, Flume, Spark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=298206a805e9200a)
+
+---
+
+## 14. Senior Software Engineer @ Humana
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior DevSecOps Engineer @ Humana
+## 15. Senior DevSecOps Engineer @ Humana
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Onsite Data Engineer Miami @ IT Search Corp
+## 16. Onsite Data Engineer Miami @ IT Search Corp
 **Match Score:** 12.5%
 
 📍 **Location:** Cypress, TX, US USA
@@ -71,7 +181,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. A.I. Developer @ Mindset Care, Inc.
+## 17. API Security Engineer @ Openkyber
+**Match Score:** 12.5%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** RDS, Azure, Google Cloud Platform, Zookeeper, Scala, Kafka, PostgreSQL, Splunk, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8e20032bf66a0bbc)
+
+---
+
+## 18. Kubernetes Security Engineer @ Openkyber
+**Match Score:** 12.5%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Scala, Snowflake, SQL Server, PostgreSQL, CI/CD, Jenkins, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6b13e7f95cc76df1)
+
+---
+
+## 19. A.I. Developer @ Mindset Care, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -82,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Machine Learning Engineer - Energy @ DNV
+## 20. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Portland, OR, US USA
@@ -93,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Machine Learning Engineer - Energy @ DNV
+## 21. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -104,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Machine Learning Engineer - Energy @ DNV
+## 22. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Albuquerque, NM, US USA
@@ -115,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Machine Learning Engineer - Energy @ DNV
+## 23. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Helena, MO, US USA
@@ -126,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Machine Learning Engineer - Energy @ DNV
+## 24. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Madison, WI, US USA
@@ -137,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Machine Learning Engineer - Energy @ DNV
+## 25. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Austin, TX, US USA
@@ -148,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Senior Machine Learning Engineer - Energy @ DNV
+## 26. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** North Andover, MA, US USA
@@ -159,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Machine Learning Engineer - Energy @ DNV
+## 27. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** San Diego, CA, US USA
@@ -170,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Senior Machine Learning Engineer - Energy @ DNV
+## 28. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -181,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Senior Machine Learning Engineer - Energy @ DNV
+## 29. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -192,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Senior Machine Learning Engineer - Energy @ DNV
+## 30. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -203,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Senior Machine Learning Engineer - Energy @ DNV
+## 31. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Arlington, VA, US USA
@@ -214,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Senior Machine Learning Engineer - Energy @ DNV
+## 32. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Medford, MA, US USA
@@ -225,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior Machine Learning Engineer - Energy @ DNV
+## 33. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Troy, NY, US USA
@@ -236,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Machine Learning Engineer - Energy @ DNV
+## 34. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Oakland, CA, US USA
@@ -247,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Senior Machine Learning Engineer - Energy @ DNV
+## 35. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Irvine, CA, US USA
@@ -258,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Senior Machine Learning Engineer - Energy @ DNV
+## 36. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Santa Clara, CA, US USA
@@ -269,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Senior Machine Learning Engineer - Energy @ DNV
+## 37. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Houston, TX, US USA
@@ -280,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Senior Machine Learning Engineer - Energy @ DNV
+## 38. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** New York, NY, US USA
@@ -291,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Senior Machine Learning Engineer - Energy @ DNV
+## 39. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Columbus, OH, US USA
@@ -302,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Senior Machine Learning Engineer - Energy @ DNV
+## 40. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Des Moines, IA, US USA
@@ -313,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Senior Machine Learning Engineer - Energy @ DNV
+## 41. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Oak Brook, IL, US USA
@@ -324,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Senior Machine Learning Engineer - Energy @ DNV
+## 42. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Middletown, CT, US USA
@@ -335,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Senior Machine Learning Engineer - Energy @ DNV
+## 43. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Seattle, WA, US USA
@@ -346,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Senior Machine Learning Engineer - Energy @ DNV
+## 44. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Miami, FL, US USA
@@ -357,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Senior Machine Learning Engineer - Energy @ DNV
+## 45. Senior Machine Learning Engineer - Energy @ DNV
 **Match Score:** 12.5%
 
 📍 **Location:** Portland, ME, US USA
@@ -368,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Senior Machine Learning Engineer - Energy @ DNV KEMA Energy & Sustainability
+## 46. Senior Machine Learning Engineer - Energy @ DNV KEMA Energy & Sustainability
 **Match Score:** 12.5%
 
 📍 **Location:** Oakland, CA, US USA
@@ -379,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Data Engineer III @ Medica Services Company LLC
+## 47. Data Engineer III @ Medica Services Company LLC
 **Match Score:** 11.8%
 
 📍 **Location:** Minnetonka, MN, US USA
@@ -390,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Cloud DevSecOps Engineer @ Regions Financial
+## 48. Cloud DevSecOps Engineer @ Regions Financial
 **Match Score:** 11.8%
 
 📍 **Location:** Hoover, AL, US USA
@@ -401,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. AI Software Engineer @ Bentley Systems
+## 49. AI Software Engineer @ Bentley Systems
 **Match Score:** 11.8%
 
 📍 **Location:** Exton, PA, US USA
@@ -412,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Associate Software Engineer @ Capgemini
+## 50. Associate Software Engineer @ Capgemini
 **Match Score:** 11.8%
 
 📍 **Location:** Chicago, IL, US USA
@@ -423,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Kubernetes Security Engineer @ Openkyber
+## 51. Kubernetes Security Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** AK, US USA
@@ -434,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. AI Engineer II @ Lennar
+## 52. AI Engineer II @ Lennar
 **Match Score:** 11.1%
 
 📍 **Location:** Miami, FL, US USA
@@ -445,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Senior .NET Developer (Oracle Platform Integration) @ Qogen, LLC
+## 53. Senior .NET Developer (Oracle Platform Integration) @ Qogen, LLC
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -456,7 +588,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. .NET Architect @ Openkyber
+## 54. FiveTran Administrator / Data Integration Engineer-2 @ Realign
+**Match Score:** 10.4%
+
+📍 **Location:** Lebanon, NJ, US USA
+
+🔑 **Keywords:** AWS, Redshift, RDS, Azure, Databricks, GCP, Spark, Scala, Data Modeling, dbt
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8049ed1c967550ad)
+
+---
+
+## 55. Azure Security Engineer @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** API Gateway, RDS, Azure, Data Factory, Databricks, NoSQL, ETL, ELT, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b03aa36a9575000b)
+
+---
+
+## 56. Azure Security Engineer @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** Azure, Cloud Storage, Scala, Snowflake, Data Modeling, Star Schema, Snowflake Schema, Fact Tables, ELT, dbt
+
+[Apply Here](https://www.indeed.com/viewjob?jk=35c0de1886689777)
+
+---
+
+## 57. .NET Architect @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
