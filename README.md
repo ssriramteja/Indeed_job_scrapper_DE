@@ -1,12 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 15:53
+Last updated: 2026-03-23 16:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-23 15:53 |
+| Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f0033abf803ced42) | 2026-03-23 16:48 |
+| Mindset Care, Inc. | A.I. Developer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=19124af0add103c3) | 2026-03-23 16:48 |
+| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-23 16:48 |
+| Lennar | AI Engineer II | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e3ac54f02015073) | 2026-03-23 16:48 |
 | Regions Financial | Cloud DevSecOps Engineer | Hoover, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce221f86292702dd) | 2026-03-23 15:53 |
 | Bentley Systems | AI Software Engineer | Exton, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8766b681045861f3) | 2026-03-23 14:09 |
 | Openkyber | Kubernetes Security Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a7be29572b27f0f) | 2026-03-23 11:38 |
@@ -399,10 +402,6 @@ Last updated: 2026-03-23 15:53
 | nan | Senior Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b8021ad4fe6bcc63) | 2026-03-19 17:49 |
 | nan | Senior Data Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2111c5e7eab910a6) | 2026-03-19 17:49 |
 | nan | Senior Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ec83795e8e9d3a1) | 2026-03-19 17:49 |
-| Qode | Python Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9bb7e7177646b9e8) | 2026-03-19 16:48 |
-| Doran Jones | Databricks / PySpark Data Engineer | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f9ee957e5ec3e951) | 2026-03-19 16:48 |
-| Kash Tech | Solution Architect – Data, Analytics & Microsoft Platform (Power BI, Power Apps, Fabric, Databricks) | Lake Mary, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db3760b4023c14b) | 2026-03-19 16:48 |
-| Nokia | Full Stack Engineer – SaaS Platform | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a2bee0c494f3ad24) | 2026-03-19 16:48 |
 
 
 ---
