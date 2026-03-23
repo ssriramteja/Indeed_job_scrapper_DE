@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 11:38
+Last updated: 2026-03-23 12:44
 
 ### 🚀 Daily Job Matches
 
@@ -407,7 +407,6 @@ Last updated: 2026-03-23 11:38
 | Molina Healthcare | Senior Engineer, Cloud - IT Resiliency Solutions - Remote | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f531126ad868d253) | 2026-03-19 14:04 |
 | Charles Schwab | Java Development Engineer | Southlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=044788dae086d6fb) | 2026-03-19 14:04 |
 | Charles Schwab | Senior Database Administrator | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75d9a983054dd1ae) | 2026-03-19 14:04 |
-| CrowdStrike | Snowflake Data Architect (Remote) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50af2306075e0747) | 2026-03-19 12:41 |
 
 
 ---
