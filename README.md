@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-22 23:19
+Last updated: 2026-03-23 01:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Lexington Capital Holdings | Senior Salesforce Developer | Port Jefferson Station, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=eb6c8151bb3d9891) | 2026-03-23 01:21 |
+| Humana | Senior DevSecOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e31ad70ec2232102) | 2026-03-23 01:21 |
 | IT Search Corp | Onsite Data Engineer Miami | Cypress, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=463e08c3f11e43d4) | 2026-03-22 23:19 |
 | Capgemini | Associate Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ccb008b8926e48b) | 2026-03-22 23:19 |
 | Qogen, LLC | Senior .NET Developer (Oracle Platform Integration) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ed942c19be14c9a) | 2026-03-22 21:18 |
@@ -469,35 +471,6 @@ Last updated: 2026-03-22 23:19
 | PAR Technology | AI Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de950818ae0f1c11) | 2026-03-19 04:14 |
 | Dollar General | SR SOFTWARE ENGINEER | Goodlettsville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87178150b06d3f51) | 2026-03-19 04:14 |
 | Liminal | Cloud DevOps Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad05bfbb65cf4fe0) | 2026-03-19 04:14 |
-| Adobe | Data Science Engineer | Lehi, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7c97b89e39037ee8) | 2026-03-19 01:21 |
-| Barnes & Thornburg LLP | Data Engineer | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02f399460ba9c2fc) | 2026-03-19 01:21 |
-| Mike Albert Leasing, Inc | Sr. Data Engineer | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5b7173086c8af5c) | 2026-03-19 01:21 |
-| Radial | Software Engineer (ETL) | King of Prussia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1c9a7cc0e0aaef8e) | 2026-03-19 01:21 |
-| nan | People Systems Engineer | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f31b2374dfd81d8) | 2026-03-19 01:21 |
-| nan | Tech - Data Base Administrator | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e3fa1c25dd9c540) | 2026-03-19 01:21 |
-| Huntington Bank | Sr Automation developer-2 | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d46e8f60dd86848) | 2026-03-19 01:21 |
-| Infosys | Azure Databricks Developer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1830746155036d2f) | 2026-03-19 01:21 |
-| Eli Lilly | Engineer - MLOps & Scientific Platforms - Data Foundry | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=90490552a1c9fe28) | 2026-03-19 01:21 |
-| Realtime Clinical Trial Management Systems | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1511699a4fb38068) | 2026-03-19 01:21 |
-| Xsolis | Agentic and Generative Data Scientist II | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98906d283f683359) | 2026-03-19 01:21 |
-| Quest Diagnostics | Senior Cloud Engineer | Tampa, FL, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=008b82df0092f214) | 2026-03-18 23:24 |
-| Openkyber | SAP Data Migration Consultant | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c6ffedc59232b1e6) | 2026-03-18 23:24 |
-| Openkyber | SAP AI Business Services Consultant | CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a7230c31a417de52) | 2026-03-18 23:24 |
-| Capgemini | Associate Data Scientist | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3972759b3173959f) | 2026-03-18 23:24 |
-| Capgemini | Data Scientist | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c2c1885d139b3f38) | 2026-03-18 23:24 |
-| Capgemini | Associate Data Scientist | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c70566192b1dea40) | 2026-03-18 23:24 |
-| IDEXX Laboratories | Software Development Engineer in Test (SDET) | Westbrook, ME, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b652d7f75551953a) | 2026-03-18 23:24 |
-| Openkyber | LLM Application Engineer | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6d2f9e5ffecfd57f) | 2026-03-18 23:24 |
-| Mastercard | Senior Bizops Engineer-2 | O'Fallon, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07739c1bad763116) | 2026-03-18 23:24 |
-| Allstate Insurance | Senior Product Engineer (Software/Java) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=13ad51a285cdcb71) | 2026-03-18 23:24 |
-| Openkyber | Senior AI Cloud Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df6a52b151ef3475) | 2026-03-18 23:24 |
-| Claritas Rx | Senior Full Stack Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f338463dc36bfb7) | 2026-03-18 23:24 |
-| Openkyber | MLOps Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bf88dd29a168239) | 2026-03-18 23:24 |
-| Capgemini | AWS SageMaker Data Scientist | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8020b3571a5d8bac) | 2026-03-18 23:24 |
-| ESYSTEMS, INC | AWS Developer / Administrator | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d8e2e16286c1be5) | 2026-03-18 23:24 |
-| DoorDash | Applications Engineer, Full Stack - People | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=558f0e9f3952caf0) | 2026-03-18 23:24 |
-| Capgemini | Guidewire Architect | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6691046f35802016) | 2026-03-18 23:24 |
-| Capgemini | Guidewire Architect | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0bc489e180f6f4e8) | 2026-03-18 23:24 |
 
 
 ---
