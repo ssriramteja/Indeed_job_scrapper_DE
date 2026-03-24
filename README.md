@@ -1,12 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-24 18:51
+Last updated: 2026-03-24 19:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 18:51 |
+| FedEx | Data Scientist I & II | Memphis, TN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cc7cdb95523374c3) | 2026-03-24 19:49 |
+| Kiely Family of Companies | Data Analytics Engineer | Tinton Falls, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e0b2ba9ffb9a799d) | 2026-03-24 19:49 |
+| Emcube Technlogy | SAP APME Architect (Agent Performance Management) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a1dc9a778272d57a) | 2026-03-24 19:49 |
+| Computer Magic, Inc. | Entry-Level Systems Administrator | Monona, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=69ebbeeceb66ec13) | 2026-03-24 19:49 |
+| Optum | AI Solution Architect - Remote | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7a2a58090f4bb497) | 2026-03-24 19:49 |
+| Wipro | DEVELOPER L3 | North Quincy, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=72c2c42a5838eae6) | 2026-03-24 19:49 |
+| McAfee | Senior AI Engineer, MarTech | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1daebb30fd5fc85c) | 2026-03-24 19:49 |
+| The Shade Store | Analytics Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c80c249f67538f2f) | 2026-03-24 19:49 |
+| Amplify | Senior Analytics Engineer | Brooklyn, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=65fa1c79d7085ebe) | 2026-03-24 19:49 |
+| The Consortium Inc. | JavaScript (ES6), Node.js, React, AWS, Lambda Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=41ccf0c820aa8964) | 2026-03-24 19:49 |
+| nan | AI/ML - Applied AI Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0106965447754c2) | 2026-03-24 19:49 |
 | Cintas | IT Data Engineer - Level 3 | Mason, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2550c832064daf74) | 2026-03-24 18:51 |
 | Cintas | IT Data Engineer - Level 3 | Mason, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=35633737b3f1427c) | 2026-03-24 18:51 |
 | Openkyber | GenAI Threat Intelligence Analyst | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1cec5fe386ea9e81) | 2026-03-24 17:56 |
@@ -433,11 +443,6 @@ Last updated: 2026-03-24 18:51
 | Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2c4352fc1dbe16d) | 2026-03-20 20:22 |
 | NTT DATA | APIGEE Development Engineer | Morris Plains, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0f865d350c566772) | 2026-03-20 20:22 |
 | nan | AI Machine Learning Engineer | Doral, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb98bc0da3b1f6fd) | 2026-03-20 20:22 |
-| Caterpillar | Senior Software Engineer | Peoria, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e13bcfee6252358d) | 2026-03-20 19:32 |
-| Purpose Financial | Data Operations Engineer | Greenville, SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f09e481bc1c9794c) | 2026-03-20 19:32 |
-| STAND TOGETHER | Senior Software Engineer - Middleware/Integration | Arlington, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c38431e7f505eb9d) | 2026-03-20 19:32 |
-| Purpose Financial | Sr. Software Engineer - Full Stack | Greenville, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=596c7d5d53fe3536) | 2026-03-20 19:32 |
-| Caterpillar | Sr. Software Engineer, Java Full Stack | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cdca05a9ea0e87f) | 2026-03-20 19:32 |
 
 
 ---
