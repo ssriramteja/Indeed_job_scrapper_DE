@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-24 09:46
+Last updated: 2026-03-24 10:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 10:42 |
+| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-24 10:42 |
 | JPMorganChase | Software Engineer III: DevOps | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=eed96ac951faf1fe) | 2026-03-24 09:46 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 09:46 |
-| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-24 09:46 |
 | JPMorganChase | Software Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f7e36064fcccf83f) | 2026-03-24 09:46 |
 | Conduent | Senior Java Developer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f423abaf086a5787) | 2026-03-24 09:46 |
 | TraXtion | .NET Software Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24f809df752b708e) | 2026-03-24 08:41 |
@@ -436,9 +436,6 @@ Last updated: 2026-03-24 09:46
 | Openkyber | SAP AI Business Services Consultant | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5f3bab5f2ccae161) | 2026-03-20 11:25 |
 | Barclays | Cloud Data Engineer | Whippany, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf20edf4b871568c) | 2026-03-20 11:25 |
 | Openkyber | SAP AI Business Services Consultant | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f69b370f0270ee30) | 2026-03-20 11:25 |
-| MidAmerican Energy | Sr Data Engineer | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e463fc88ac4ddcb3) | 2026-03-20 10:30 |
-| Gartner | Associate Software Engineer - Agentic AI Framework (Python, AWS) | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0f067cb08ee5b102) | 2026-03-20 10:30 |
-| Innocito Technologies Pvt Ltd | .Net Solution Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02b9ac763b0be67c) | 2026-03-20 10:30 |
 
 
 ---
