@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-24 07:50
+Last updated: 2026-03-24 08:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 07:50 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 08:41 |
+| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-24 08:41 |
+| TraXtion | .NET Software Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24f809df752b708e) | 2026-03-24 08:41 |
+| RJW Logistics | Senior DevSecOps Engineer | Bolingbrook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=00950f1140481fca) | 2026-03-24 08:41 |
+| General Motors (GM) | Senior Data Engineer - GM Motorsports | Concord, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e18d9eef9566cc88) | 2026-03-24 08:41 |
 | GLIDER.ai | Senior DevOps Cloud Engineer | Cupertino, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5d674d73add7909a) | 2026-03-24 07:50 |
-| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-24 07:50 |
 | Talent Kloud | DevOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d77e5d93503e970) | 2026-03-24 07:50 |
 | Autodesk | Sr. Software Engineer, Data Products | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c9e0e8ee32af5e56) | 2026-03-24 06:54 |
 | The RealReal | Senior Data Engineer - Remote USA (*eligible states) | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9240be517a54d28f) | 2026-03-24 06:54 |
@@ -433,10 +436,6 @@ Last updated: 2026-03-24 07:50
 | MidAmerican Energy | Sr Data Engineer | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e463fc88ac4ddcb3) | 2026-03-20 10:30 |
 | Gartner | Associate Software Engineer - Agentic AI Framework (Python, AWS) | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0f067cb08ee5b102) | 2026-03-20 10:30 |
 | Innocito Technologies Pvt Ltd | .Net Solution Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02b9ac763b0be67c) | 2026-03-20 10:30 |
-| Siemens Healthineers | System Architect – Database Focus | Walpole, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a3463b2ed33bb410) | 2026-03-20 08:31 |
-| Boeing | Full Stack Software Engineer (Mid-Level or Senior) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f974df4cb0027d13) | 2026-03-20 08:31 |
-| Fidelity TalentSource | Data Engineer | Merrimack, NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08899fe7be35149e) | 2026-03-20 08:31 |
-| Boeing | Senior Data & AI Platform Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86f8075b573654a6) | 2026-03-20 08:31 |
 
 
 ---
