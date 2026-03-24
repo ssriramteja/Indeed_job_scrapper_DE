@@ -1,12 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-24 15:58
+Last updated: 2026-03-24 16:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 15:58 |
+| Brillius | Devops - Embedded Engineer - IOT | San Francisco, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7e14322c45e210aa) | 2026-03-24 16:58 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 16:58 |
+| Inland Empire Health Plan | Data Engineer II | Rancho Cucamonga, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cec7ac1f3411b653) | 2026-03-24 16:58 |
+| Serco | Cloud/Software Architect - 100% Remote Opportunity | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eba4f0e576986052) | 2026-03-24 16:58 |
+| Inland Empire Health Plan | Data Engineer III | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=103595c75d73a7c1) | 2026-03-24 16:58 |
+| Inland Empire Health Plan | Developer III - Application Development | Rancho Cucamonga, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f3984b03cd26c72) | 2026-03-24 16:58 |
+| Inland Empire Health Plan | Developer III - Application Development (Data Integration) | Rancho Cucamonga, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee815ea22a573add) | 2026-03-24 16:58 |
 | Qode | Senior Databricks Architect | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=40465efa7f1818bc) | 2026-03-24 15:58 |
 | Oxford Economics | Analytics Engineer / Sr. Business Intelligence Engineer - Tourism Economics - Philadelphia | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b0d76d14c5568ea6) | 2026-03-24 15:58 |
 | Tata Consultancy Services (TCS) | Java Full Stack Developer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1074f4222424a549) | 2026-03-24 15:58 |
@@ -435,9 +441,6 @@ Last updated: 2026-03-24 15:58
 | Coastal Credit Union | Data Engineer Sr | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f96bcd9b2b20e586) | 2026-03-20 17:30 |
 | Fivetran | Senior Sales Engineer, Commercial Expansion | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d2a965c884f4afb0) | 2026-03-20 17:30 |
 | IonQ | Senior Infrastructure Software Engineer - Hardware Test | Bothell, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb417231462092a5) | 2026-03-20 17:30 |
-| nan | Senior Data Engineer – CDO / Data & AI Engineering | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c03da34050d1fb85) | 2026-03-20 16:33 |
-| Micron Technology | Machine Learning Engineer | Boise, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9d2163f01dd05b34) | 2026-03-20 16:33 |
-| Optum | Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=74fd1f39f284ae52) | 2026-03-20 16:33 |
 
 
 ---
