@@ -1,15 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-24 06:54
+Last updated: 2026-03-24 07:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 06:54 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 07:50 |
+| GLIDER.ai | Senior DevOps Cloud Engineer | Cupertino, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5d674d73add7909a) | 2026-03-24 07:50 |
+| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-24 07:50 |
+| Talent Kloud | DevOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d77e5d93503e970) | 2026-03-24 07:50 |
 | Autodesk | Sr. Software Engineer, Data Products | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c9e0e8ee32af5e56) | 2026-03-24 06:54 |
 | The RealReal | Senior Data Engineer - Remote USA (*eligible states) | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9240be517a54d28f) | 2026-03-24 06:54 |
-| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-24 06:54 |
 | Raptive | Software Engineer II, Ads Delivery | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e82c7cbfd626d992) | 2026-03-24 05:55 |
 | Bitdeer Technologies Group | Senior Software Engineer - Cloud | CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3d17ff767cfe6de4) | 2026-03-24 04:10 |
 | Anywhere Real Estate | Senior Data Engineer | Madison, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6dfe24311f764a8a) | 2026-03-24 04:10 |
@@ -435,7 +437,6 @@ Last updated: 2026-03-24 06:54
 | Boeing | Full Stack Software Engineer (Mid-Level or Senior) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f974df4cb0027d13) | 2026-03-20 08:31 |
 | Fidelity TalentSource | Data Engineer | Merrimack, NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08899fe7be35149e) | 2026-03-20 08:31 |
 | Boeing | Senior Data & AI Platform Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86f8075b573654a6) | 2026-03-20 08:31 |
-| nan | Software Engineer | Mexico, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47bebf82409e7078) | 2026-03-20 07:40 |
 
 
 ---
