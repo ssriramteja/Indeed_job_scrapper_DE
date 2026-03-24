@@ -1,13 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-24 16:58
+Last updated: 2026-03-24 17:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 17:56 |
+| Openkyber | GenAI Threat Intelligence Analyst | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1cec5fe386ea9e81) | 2026-03-24 17:56 |
+| Openkyber | Salesforce Service Cloud Specialist | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8c63d8ea7f769e54) | 2026-03-24 17:56 |
+| Openkyber | Senior AI Security Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d83c4d4db97873d5) | 2026-03-24 17:56 |
+| Openkyber | Falcon Fusion Automation Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e5ed7b4a07ec36ef) | 2026-03-24 17:56 |
+| Also | Senior Data Engineer - Analytics and Visualization | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cbe62c0aa52bf9aa) | 2026-03-24 17:56 |
+| Openkyber | PingOne Cloud Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=77901b3684582750) | 2026-03-24 17:56 |
+| Intellias | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c59056599f6669cd) | 2026-03-24 17:56 |
+| Openkyber | Salesforce Financial Services Cloud Consultant | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=49aab47ecac4bb84) | 2026-03-24 17:56 |
+| Intellias | Data Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5fc90240b32e9d4a) | 2026-03-24 17:56 |
+| Plante Moran | AI Data Engineer | Southfield, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39cd370d20d11526) | 2026-03-24 17:56 |
+| Openkyber | Salesforce AI / Einstein Developer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e26b8f2a42544e0) | 2026-03-24 17:56 |
+| Truist | Application Architect - Amazon Connect SME | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16ff12a5782403e3) | 2026-03-24 17:56 |
 | Brillius | Devops - Embedded Engineer - IOT | San Francisco, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7e14322c45e210aa) | 2026-03-24 16:58 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 16:58 |
 | Inland Empire Health Plan | Data Engineer II | Rancho Cucamonga, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cec7ac1f3411b653) | 2026-03-24 16:58 |
 | Serco | Cloud/Software Architect - 100% Remote Opportunity | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eba4f0e576986052) | 2026-03-24 16:58 |
 | Inland Empire Health Plan | Data Engineer III | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=103595c75d73a7c1) | 2026-03-24 16:58 |
@@ -434,13 +446,6 @@ Last updated: 2026-03-24 16:58
 | nan | DevOps/Platform Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad34594ef5800a70) | 2026-03-20 18:36 |
 | ICF | Business Intelligence Developer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da46c3c1cee63028) | 2026-03-20 18:36 |
 | ICF | Business Intelligence Developer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2b1378a08eea421) | 2026-03-20 18:36 |
-| Mod Op | Junior AI/ML Engineer (Data & Cloud Platforms) | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d1204728c106ec46) | 2026-03-20 17:30 |
-| Openly | Senior Data Engineer (Remote, US) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4d18e2b948851633) | 2026-03-20 17:30 |
-| Delsys Technologies | IBM MQ System Engineer V | Chandler, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac770314ea034618) | 2026-03-20 17:30 |
-| CNC Software | Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7ead6759ac7d0a47) | 2026-03-20 17:30 |
-| Coastal Credit Union | Data Engineer Sr | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f96bcd9b2b20e586) | 2026-03-20 17:30 |
-| Fivetran | Senior Sales Engineer, Commercial Expansion | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d2a965c884f4afb0) | 2026-03-20 17:30 |
-| IonQ | Senior Infrastructure Software Engineer - Hardware Test | Bothell, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb417231462092a5) | 2026-03-20 17:30 |
 
 
 ---
