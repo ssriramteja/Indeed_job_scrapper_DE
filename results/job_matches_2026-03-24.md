@@ -423,18 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Senior Software Engineer @ Humana
-**Match Score:** 13.2%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RDS, Azure, Databricks, GCP, Spark, PySpark, Kafka, Snowflake, PostgreSQL, Power BI
-
-[Apply Here](https://www.indeed.com/viewjob?jk=77d3c7c8412ad1ee)
-
----
-
-## 40. Microsoft Analytics Data Engineer Senior Consultant @ Protiviti
+## 39. Microsoft Analytics Data Engineer Senior Consultant @ Protiviti
 **Match Score:** 12.5%
 
 📍 **Location:** New York, NY, US USA
@@ -445,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Microsoft Analytics Data Engineer Senior Consultant @ Protiviti
+## 40. Microsoft Analytics Data Engineer Senior Consultant @ Protiviti
 **Match Score:** 12.5%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -456,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Microsoft Analytics Data Engineer Senior Consultant @ Protiviti
+## 41. Microsoft Analytics Data Engineer Senior Consultant @ Protiviti
 **Match Score:** 12.5%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -467,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Microsoft Analytics Data Engineer Senior Consultant @ Protiviti
+## 42. Microsoft Analytics Data Engineer Senior Consultant @ Protiviti
 **Match Score:** 12.5%
 
 📍 **Location:** New York, NY, US USA
@@ -478,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Platform Integration Engineer @ Huron Consulting Group
+## 43. Platform Integration Engineer @ Huron Consulting Group
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -489,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Senior GenAI Engineer @ National Basketball Association
+## 44. Senior GenAI Engineer @ National Basketball Association
 **Match Score:** 12.5%
 
 📍 **Location:** New York, NY, US USA
@@ -500,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Senior Full Stack Developer @ Technology Ventures
+## 45. Senior Full Stack Developer @ Technology Ventures
 **Match Score:** 12.5%
 
 📍 **Location:** McLean, VA, US USA
@@ -511,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. API Security Engineer @ Openkyber
+## 46. API Security Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** AK, US USA
@@ -522,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Kubernetes Security Engineer @ Openkyber
+## 47. Kubernetes Security Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** AK, US USA
@@ -533,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. A.I. Developer @ Mindset Care, Inc.
+## 48. A.I. Developer @ Mindset Care, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -541,6 +530,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, IAM, Databricks, Scala, Kafka, SQL Server, DynamoDB, ETL, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=19124af0add103c3)
+
+---
+
+## 49. Software Engineer II, Ads Delivery @ Raptive
+**Match Score:** 12.5%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, API Gateway, IAM, RDS, DynamoDB, ETL, CI/CD, GitHub Actions
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e82c7cbfd626d992)
 
 ---
 
@@ -973,18 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Senior Full Stack Engineer @ NTT DATA
-**Match Score:** 10.4%
-
-📍 **Location:** MO, US USA
-
-🔑 **Keywords:** RDS, Google Cloud Platform, GCP, Scala, MongoDB, NoSQL, CI/CD, Jenkins, Maven, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=af7b83e4a56167a0)
-
----
-
-## 90. Platform Engineer II @ Envestnet
+## 89. Platform Engineer II @ Envestnet
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -992,6 +981,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, GCP, Scala, Splunk, CI/CD, Jenkins, Terraform, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=c3ebbef85373bda7)
+
+---
+
+## 90. Senior Full Stack Engineer @ NTT DATA
+**Match Score:** 10.4%
+
+📍 **Location:** MO, US USA
+
+🔑 **Keywords:** RDS, Google Cloud Platform, GCP, Scala, MongoDB, NoSQL, CI/CD, Jenkins, Maven, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=af7b83e4a56167a0)
 
 ---
 
