@@ -1,13 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-24 12:50
+Last updated: 2026-03-24 14:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 12:50 |
-| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-24 12:50 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 14:15 |
+| DocMe360 | Full Stack Developer | Arlington, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b261e4efaa78a896) | 2026-03-24 14:15 |
+| DocMe360 | Full Stack Developer | Arlington, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b324a9abb3a15c5b) | 2026-03-24 14:15 |
+| 3Pillar Global | Senior Data Engineer (Python & Snowflake) | MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bff80065b4fd4799) | 2026-03-24 14:15 |
+| Unilever | CD Excellence Data Engineering Associate | Englewood Cliffs, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c49b3555427c9f7a) | 2026-03-24 14:15 |
+| Tyler Technologies | Software Engineer — Public Safety Cloud Integrations | Troy, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2ca08f99f806234c) | 2026-03-24 14:15 |
 | Clarivate | Technical Architect | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8c2a638eb5531d44) | 2026-03-24 12:50 |
 | Clarivate | Technical Architect | Ann Arbor, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6322cffeb20c3419) | 2026-03-24 12:50 |
 | Clarivate | Technical Architect | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=051ff6a58134edd8) | 2026-03-24 12:50 |
@@ -435,8 +439,6 @@ Last updated: 2026-03-24 12:50
 | Northcross Group | AWS Kubernetes Engineer | Portland, ME, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3b0cc109a6bef88b) | 2026-03-20 15:36 |
 | State of South Carolina | Data Engineer-60009025 | SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=730fc0393aed5ee7) | 2026-03-20 14:39 |
 | Curana Health | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b2c9907ac74f3bf) | 2026-03-20 14:39 |
-| Gen II Fund Services | Cloud DevOps Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=38a5ed1c6ce89902) | 2026-03-20 13:56 |
-| Chevron | Data Architect - Data Lake & Data Engineering | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2dd3db330a009de) | 2026-03-20 13:56 |
 
 
 ---
