@@ -1,19 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-24 21:30
+Last updated: 2026-03-24 22:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EBG | PHP Web Application Developer (Modernization) | Austin, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f42f3c1cc306e46b) | 2026-03-24 22:22 |
+| EBG | PHP Web Application Developer (Modernization) | Miami, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f8d17ef03868a4db) | 2026-03-24 22:22 |
+| EBG | PHP Web Application Developer (Modernization) | Orlando, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c4c2f5b1a7f332d1) | 2026-03-24 22:22 |
+| Optum | Senior Software Engineer | Eden Prairie, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d2fd5678c94e0e11) | 2026-03-24 22:22 |
+| KPIT Technologies | Data Scientist | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2653ae0372ac3e8) | 2026-03-24 22:22 |
+| SOCOTEC Group | IT AI&S Senior Data Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9dd7ea95be40f976) | 2026-03-24 22:22 |
+| ClickBank | Senior Cloud Engineer | Boise, ID, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=412f3333e8a582ca) | 2026-03-24 22:22 |
+| LightEdge | AI Engineer | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d903df923be7974b) | 2026-03-24 22:22 |
+| Thales | Site Reliability Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6767c0e89ecdbcae) | 2026-03-24 22:22 |
+| Visa | Senior Database Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c10749649c748ef) | 2026-03-24 22:22 |
+| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-24 22:22 |
+| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-24 22:22 |
+| Gong | Senior DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cb90cff4906f695) | 2026-03-24 22:22 |
+| Circle.so | Senior Quality Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=235baa8877534de1) | 2026-03-24 22:22 |
+| GreenBox Capital | Senior Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83d3f50fcc4de14e) | 2026-03-24 22:22 |
 | Coinbase | Senior Analytics Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0d2d9cf01e65cfd8) | 2026-03-24 21:30 |
 | Equifax | Software Engineer | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=70b82e4ad32cd227) | 2026-03-24 21:30 |
 | SOCOTEC Group | IT AI&S Senior Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e29bb5eef54aab18) | 2026-03-24 21:30 |
 | Tata Consultancy Services (TCS) | SDET | Township of Hamilton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc49399df060bfe1) | 2026-03-24 21:30 |
 | Mercari | Software Engineer, Data | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=69b773db1c488113) | 2026-03-24 21:30 |
 | Coinbase | Software Engineer - Full Stack (EAA - Compliance) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4577a3ce998c3da0) | 2026-03-24 21:30 |
-| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-24 21:30 |
-| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-24 21:30 |
 | The New IEM, LLC | Senior MuleSoft Developer - Austin, TX ONLY | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07073f5e67bf6929) | 2026-03-24 21:30 |
 | Nexxen | Senior Software Engineer | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e1c6fb0f0eba666) | 2026-03-24 21:30 |
 | Tata Consultancy Services (TCS) | Engineer | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d37428d214fe7e4f) | 2026-03-24 21:30 |
@@ -436,11 +449,6 @@ Last updated: 2026-03-24 21:30
 | GEICO | Senior Engineer - .NET | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dba827c3940dc301) | 2026-03-20 23:21 |
 | Capgemini | Java Python Full Stack Developer Associate Software Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80c25592f9425b10) | 2026-03-20 23:21 |
 | Capgemini | Java Python Full Stack Developer - Associate Software Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b6bab89238cc7fe) | 2026-03-20 23:21 |
-| Tata Consultancy Services (TCS) | Python and PySpark, No SQL Developer | Mount Laurel, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d64ff1548d48cfe8) | 2026-03-20 22:19 |
-| Hyatt | SENIOR PRODUCT ARCHITECT (HYBRID) | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aab12c8c52c7821a) | 2026-03-20 22:19 |
-| Travelers | Software Engineer II - Enterprise AI Products | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=67984d7d68bde23e) | 2026-03-20 22:19 |
-| Hyatt | SENIOR PRODUCT ENGINEER (REMOTE OPPORTUNITY) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2bed15d2d90e0d1d) | 2026-03-20 22:19 |
-| CHRISTUS Health | Data Analytics Engineer II - IM Enterprise Data | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec58fdfb7ee3a019) | 2026-03-20 22:19 |
 
 
 ---
