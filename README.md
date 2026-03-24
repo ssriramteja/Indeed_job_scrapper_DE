@@ -1,13 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-24 08:41
+Last updated: 2026-03-24 09:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 08:41 |
-| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-24 08:41 |
+| JPMorganChase | Software Engineer III: DevOps | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=eed96ac951faf1fe) | 2026-03-24 09:46 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 09:46 |
+| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-24 09:46 |
+| JPMorganChase | Software Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f7e36064fcccf83f) | 2026-03-24 09:46 |
+| Conduent | Senior Java Developer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f423abaf086a5787) | 2026-03-24 09:46 |
 | TraXtion | .NET Software Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24f809df752b708e) | 2026-03-24 08:41 |
 | RJW Logistics | Senior DevSecOps Engineer | Bolingbrook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=00950f1140481fca) | 2026-03-24 08:41 |
 | General Motors (GM) | Senior Data Engineer - GM Motorsports | Concord, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e18d9eef9566cc88) | 2026-03-24 08:41 |
