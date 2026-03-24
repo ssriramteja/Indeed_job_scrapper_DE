@@ -1,15 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-23 23:24
+Last updated: 2026-03-24 01:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| GM Financial | Data Engineer | Fort Worth, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6cdd88a05bdf3bdd) | 2026-03-24 01:14 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 01:14 |
+| Technology Ventures | Senior Full Stack Developer | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a97d5c07dca33568) | 2026-03-24 01:14 |
+| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-24 01:14 |
+| CrowdStrike | Data Engineer, Sales Data Domain (Remote) | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a4b788ca36aaa4f5) | 2026-03-24 01:14 |
+| M-TECH SYSTEMS | Sr Python Developer - Onsite - Atlanta GA | Dunwoody, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6b195bf8b57adc4) | 2026-03-24 01:14 |
+| Wells Fargo | Java Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=feaca1c6c853922d) | 2026-03-24 01:14 |
+| Collaboration.Ai | DevOps Engineer — AWS, Observability & Security | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=04c23fa1db266892) | 2026-03-24 01:14 |
+| Fiduciary Tech | Business Intelligence Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af06d71fd9191f34) | 2026-03-24 01:14 |
+| Citco | Senior Enterprise Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b6a22f4af2bc60f1) | 2026-03-24 01:14 |
 | Transamerica | Senior Software Engineer - Onsite Interviews (Denver) | Denver, CO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=cb173fd010bc37d5) | 2026-03-23 23:24 |
 | Transamerica | Specialist Software Engineering - Onsite Interviews (Denver) | Denver, CO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3ec5847773fc77b8) | 2026-03-23 23:24 |
 | Transamerica | Intermediate Software Engineer - Onsite Interviews (Denver) | Denver, CO, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=4fb35aa20ed18f4d) | 2026-03-23 23:24 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-23 23:24 |
 | RELQ TECHNOLOGIES | AWS Cloud Architect- US Remote | Tallahassee, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=92aa07dcc1c5fe6d) | 2026-03-23 23:24 |
 | Openkyber | Okta IAM Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4da96d1220654c8a) | 2026-03-23 23:24 |
 | GAP Solutions, Inc. | Cloud Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ea56e4fa623ef1db) | 2026-03-23 23:24 |
@@ -19,7 +28,6 @@ Last updated: 2026-03-23 23:24
 | U.S. Bank | Data Engineer, Data Innovation and Tools Rationalization | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e963a76a96f6ee7d) | 2026-03-23 23:24 |
 | National Basketball Association | Senior GenAI Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fa8ba25f9a038e12) | 2026-03-23 23:24 |
 | Tesla | Forward Deployed Engineer | Fremont, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c14d8d29c2cadb59) | 2026-03-23 23:24 |
-| Medica Services Company LLC | Data Engineer III | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-23 23:24 |
 | Sundt | Data Analyst II | Tempe, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bbd92abd04640aa) | 2026-03-23 23:24 |
 | KIZEN Technologies, Inc. | Data Engineer, Integrations and Implementation | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9645dfcd9784cb33) | 2026-03-23 23:24 |
 | CliftonLarsonAllen | Senior Software Engineer (Full Stack – Python, React, Azure) | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96ebd296c9a36070) | 2026-03-23 23:24 |
