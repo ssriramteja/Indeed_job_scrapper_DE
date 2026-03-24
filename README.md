@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-24 17:56
+Last updated: 2026-03-24 18:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 17:56 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=99039fae76a8a71c) | 2026-03-24 18:51 |
+| Cintas | IT Data Engineer - Level 3 | Mason, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2550c832064daf74) | 2026-03-24 18:51 |
+| Cintas | IT Data Engineer - Level 3 | Mason, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=35633737b3f1427c) | 2026-03-24 18:51 |
 | Openkyber | GenAI Threat Intelligence Analyst | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1cec5fe386ea9e81) | 2026-03-24 17:56 |
 | Openkyber | Salesforce Service Cloud Specialist | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8c63d8ea7f769e54) | 2026-03-24 17:56 |
 | Openkyber | Senior AI Security Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d83c4d4db97873d5) | 2026-03-24 17:56 |
@@ -436,16 +438,6 @@ Last updated: 2026-03-24 17:56
 | STAND TOGETHER | Senior Software Engineer - Middleware/Integration | Arlington, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c38431e7f505eb9d) | 2026-03-20 19:32 |
 | Purpose Financial | Sr. Software Engineer - Full Stack | Greenville, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=596c7d5d53fe3536) | 2026-03-20 19:32 |
 | Caterpillar | Sr. Software Engineer, Java Full Stack | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cdca05a9ea0e87f) | 2026-03-20 19:32 |
-| Twilio | Machine Learning Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1fecb0cbc521360f) | 2026-03-20 18:36 |
-| Qode | Python Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=22f6f7ba57d40c2f) | 2026-03-20 18:36 |
-| Optum | Senior Database Reliability Engineer | Concord, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f1820c003bebe5f2) | 2026-03-20 18:36 |
-| nan | Full Stack Developer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c929b0d5d0c4abe8) | 2026-03-20 18:36 |
-| Huntington Bank | QA Testing Analyst - Senior | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8585f1f5e291af52) | 2026-03-20 18:36 |
-| Sbt Global | AWS CloudOps Engineer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c213979016f2c1b9) | 2026-03-20 18:36 |
-| Murmuration | Senior QA Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=565e1aaf33c31830) | 2026-03-20 18:36 |
-| nan | DevOps/Platform Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad34594ef5800a70) | 2026-03-20 18:36 |
-| ICF | Business Intelligence Developer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da46c3c1cee63028) | 2026-03-20 18:36 |
-| ICF | Business Intelligence Developer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2b1378a08eea421) | 2026-03-20 18:36 |
 
 
 ---
