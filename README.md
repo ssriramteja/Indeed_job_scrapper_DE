@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-25 07:48
+Last updated: 2026-03-25 08:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Travelers | AI Product Engineer | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4ef1d9dc4f2a3c77) | 2026-03-25 08:40 |
+| MOHELA | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=00ea21484fff4c0b) | 2026-03-25 08:40 |
+| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 08:40 |
+| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 08:40 |
 | Thermo Fisher Scientific | Data Engineer | Pittsburgh, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=933ad44aa47970a9) | 2026-03-25 07:48 |
-| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 07:48 |
-| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 07:48 |
 | BECU | Sr Data Scientist | Tukwila, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8ad58dde8c86078b) | 2026-03-25 06:53 |
 | GEICO | Senior Engineer -.NET | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a13dd69a11dd2a2a) | 2026-03-25 06:53 |
 | Live Nation | Senior Cloud Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d2d1e17a962b5fca) | 2026-03-25 05:56 |
