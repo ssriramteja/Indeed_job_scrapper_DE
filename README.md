@@ -1,16 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-25 16:01
+Last updated: 2026-03-25 17:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | PingOne Cloud Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4b7a6f9f89825521) | 2026-03-25 17:51 |
+| Openkyber | Endpoint Privilege Management Specialist | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=68341534918cf2bf) | 2026-03-25 17:51 |
+| Realign | Databricks Data Engineer | Deerfield, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=22742d685387c57f) | 2026-03-25 17:51 |
+| Truist | ETL Developer - AML & Financial Crimes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cdaeb1a615542767) | 2026-03-25 17:51 |
+| Core specialty | Insurance Integration Engineer | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f7effb39eab56def) | 2026-03-25 17:51 |
+| Qode | GCP Data Engineer | Basking Ridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c2384362c47d6ba) | 2026-03-25 17:51 |
+| Alderwood of North Carolina | Senior Full Stack Software Engineer | Las Vegas, NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d9f6b4e41cc2869d) | 2026-03-25 17:51 |
+| HCM | Senior Data Engineer - Data Integration & Analytics Platforms | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3154ef15f06177d4) | 2026-03-25 17:51 |
+| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 17:51 |
+| Openkyber | OpenAM | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b375c5df5a63eee) | 2026-03-25 17:51 |
+| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 17:51 |
 | Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=8ae0639bcc380726) | 2026-03-25 16:01 |
 | Clearwater Analytics (CWAN) | Software Development Engineer | Boise, ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1b263e0344e64430) | 2026-03-25 16:01 |
 | Optum | Senior Quality Engineer | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ffbe5145410f18d2) | 2026-03-25 16:01 |
-| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 16:01 |
-| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 16:01 |
 | Optum | Senior Data Scientist | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=648587140f4c8181) | 2026-03-25 16:01 |
 | Relias | Data Engineer I | Morrisville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3a059dfc3b3900d0) | 2026-03-25 16:01 |
 | Optum | Data Scientist | Minnetonka, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=073969ba933b74ce) | 2026-03-25 14:13 |
@@ -351,7 +360,6 @@ Last updated: 2026-03-25 16:01
 | Mojo | Full Stack Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a0f1d3e8504a06a7) | 2026-03-21 22:16 |
 | nan | Senior Cloud and DevOps Engineer | Bastrop, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fcf59ea125bfa7ff) | 2026-03-21 21:17 |
 | Verinext | Cloud Engineer | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=160c7358320627f2) | 2026-03-21 21:17 |
-| PNC Financial Services Group | Software Engineer Sr - Check Modernization and Adjustment Team | Pittsburgh, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b695d5219c5f3d42) | 2026-03-21 16:19 |
 
 
 ---
