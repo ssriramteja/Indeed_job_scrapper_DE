@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-25 04:12
+Last updated: 2026-03-25 05:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Live Nation | Senior Cloud Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d2d1e17a962b5fca) | 2026-03-25 05:56 |
+| CloudZero | Distinguished Architect, Data Platform | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd1095da2d18982) | 2026-03-25 05:56 |
+| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 05:56 |
+| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 05:56 |
 | Equinix | Data Engineer (GCP) | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1224b5cebc9ca8bb) | 2026-03-25 04:12 |
 | Equinix | Data Engineer (GCP) | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4bc3a06012f008f3) | 2026-03-25 04:12 |
 | Millennium Management | Cloud Platform Engineer | New York, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=69b516454f937a66) | 2026-03-25 04:12 |
@@ -24,9 +28,7 @@ Last updated: 2026-03-25 04:12
 | McKesson | Sr Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=983aa41d463e2b8e) | 2026-03-25 04:12 |
 | Tata Consultancy Services (TCS) | Database Engineer with Java MS | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=25b94269754a9820) | 2026-03-25 04:12 |
 | LightEdge | AI Engineer | Kansas City, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bb7334f3f2d66e8) | 2026-03-25 04:12 |
-| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 04:12 |
 | Expedia Group | Software Development Engineer II - ML Platform | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6f38667e23fc2e6a) | 2026-03-25 04:12 |
-| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 04:12 |
 | Dudek | Enterprise Data Analytics and AI Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d343da250ebc576a) | 2026-03-25 04:12 |
 | Realign | Python and PySpark, No SQL Developer-1 | Mount Laurel, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=934a100fa2f03442) | 2026-03-25 01:20 |
 | Simplain Software Solutions LLC | Senior Full Stack Developer - Java | Walnut, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0eff7247decd592d) | 2026-03-25 01:20 |
@@ -338,13 +340,6 @@ Last updated: 2026-03-25 04:12
 | U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Minneapolis, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=96b820a060e96568) | 2026-03-21 06:33 |
 | U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3ce993d8d61236e3) | 2026-03-21 06:33 |
 | ADP | Software Engineers | Roseland, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bb04b36537a2b802) | 2026-03-21 06:33 |
-| Capgemini | Associate Data Engineer | Nashville, TN, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=1a791d73f0d13a4b) | 2026-03-21 05:05 |
-| Capgemini | Associate Data Engineer | Nashville, TN, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=036c0aeccda18107) | 2026-03-21 05:05 |
-| Independence Pet Holdings | Senior Data Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d8a6d5ce748599c6) | 2026-03-21 05:05 |
-| Capgemini | Site Reliability Engineer (SRE) / DevOps Engineer -Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab6608f255a410f4) | 2026-03-21 05:05 |
-| DevCo Management | Data Engineer | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d90e57e425c8b3d) | 2026-03-21 05:05 |
-| NTT DATA | APIGEE Development Engineer | Morris Plains, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fce9a26ec94275c2) | 2026-03-21 05:05 |
-| Redwood Trust | Senior Data Engineer | Englewood, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e662d0094b7e784) | 2026-03-21 05:05 |
 
 
 ---
