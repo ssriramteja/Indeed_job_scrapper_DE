@@ -1,14 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-25 22:27
+Last updated: 2026-03-25 23:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | API Security Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dd6782d769bbb10c) | 2026-03-25 23:26 |
+| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b2ac379ca55b9cb0) | 2026-03-25 23:26 |
+| Insight | Data Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b8c469fe05779639) | 2026-03-25 23:26 |
+| Integral Ad Science | Senior Software Engineer- Java- Big Data | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aaac56b41d3197f1) | 2026-03-25 23:26 |
+| Integral Ad Science | Senior Software Engineer- Java- Big Data | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2beb81df979d35f8) | 2026-03-25 23:26 |
+| Openkyber | API Security Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7540039fe27c9ab2) | 2026-03-25 23:26 |
+| Core specialty | QA Automation Engineer | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8a8c0b028e6bca22) | 2026-03-25 23:26 |
+| Crowe LLP | AI DevOps and Cloud Infrastructure Engineer | Sarasota, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2828050f215fd3ad) | 2026-03-25 23:26 |
+| Openkyber | Associate Network Security Engineer | NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1cf26dea742dfb68) | 2026-03-25 23:26 |
+| Openkyber | Data Engineering & Integration | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1fa666427f4129e) | 2026-03-25 23:26 |
+| Openkyber | Data Engineering & Integration | IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c750325324ef95ac) | 2026-03-25 23:26 |
+| Openkyber | Cognos Optimization Specialist | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6958a876172ec730) | 2026-03-25 23:26 |
+| Openkyber | Cognos Optimization Specialist | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39930f1669a9c233) | 2026-03-25 23:26 |
+| Openkyber | Administration & Infrastructure | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fea1ea320a3da1b7) | 2026-03-25 23:26 |
+| Openkyber | Cognos Business Intelligence Analyst | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5f0f39ab230c0b9) | 2026-03-25 23:26 |
+| Openkyber | Cognos Business Intelligence Analyst | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6124d6f05994ef55) | 2026-03-25 23:26 |
+| Openkyber | Administration & Infrastructure | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6596f101bae22a82) | 2026-03-25 23:26 |
+| Crowe LLP | Senior AI Engineer | Sarasota, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bd5bde56b916bab) | 2026-03-25 23:26 |
+| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-25 23:26 |
+| nan | Senior Business Intelligence Developer | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d53ca27d22c29c3) | 2026-03-25 23:26 |
 | University of Southern California | Associate Data Scientist | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f21680e47d80ce2) | 2026-03-25 22:27 |
 | Travelers | Data Engineer I (Snowflake) | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4860f5d8874039e2) | 2026-03-25 22:27 |
-| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-25 22:27 |
 | EY | Data Architecture & Engineering - Senior - Financial Services - Consulting - NYC | New York, NY, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=aca442e9dcbe994a) | 2026-03-25 21:30 |
 | Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=154e5228cf0e30aa) | 2026-03-25 21:30 |
 | WellRithms | Senior Data Engineer | Portland, OR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=683e3c3b168935d6) | 2026-03-25 21:30 |
