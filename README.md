@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-25 11:36
+Last updated: 2026-03-25 12:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CVS Health | Senior BackEnd Engineer | Scottsdale, AZ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b5da0b19b9bea7fb) | 2026-03-25 12:46 |
+| RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6a60f5615bdba859) | 2026-03-25 12:46 |
+| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 12:46 |
+| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 12:46 |
+| Polaris I/O | Senior Full Stack Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f266e67ee961e84e) | 2026-03-25 12:46 |
 | Expertshub | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=74923e4619f29cbd) | 2026-03-25 11:36 |
-| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 11:36 |
-| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 11:36 |
 | Intercontinental Exchange | Engineer, Storage Engineering | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f47fe1b011621142) | 2026-03-25 09:44 |
 | Tata Consultancy Services (TCS) | Engineer | Midvale, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=799dc2ba53bfb669) | 2026-03-25 09:44 |
 | Fusion Academy | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c239fde5950cdb3c) | 2026-03-25 09:44 |
