@@ -1,17 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-24 23:23
+Last updated: 2026-03-25 01:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Realign | Python and PySpark, No SQL Developer-1 | Mount Laurel, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=934a100fa2f03442) | 2026-03-25 01:20 |
+| Simplain Software Solutions LLC | Senior Full Stack Developer - Java | Walnut, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0eff7247decd592d) | 2026-03-25 01:20 |
+| CrowdStrike | Sr. Software Engineer, Cloud - Platform Test | Redmond, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ad4d5281c97057bc) | 2026-03-25 01:20 |
+| Cotiviti | Intern - Cloud Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f194b7e973e71ef2) | 2026-03-25 01:20 |
+| Beghou Consulting | Consultant, Data Management | Rockville, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=be506a2e3bc5ee78) | 2026-03-25 01:20 |
+| Blue Shield of California | Application Developer, Consultant | El Dorado Hills, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c873a7854b5a7a4a) | 2026-03-25 01:20 |
+| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 01:20 |
+| Burlington Stores | Senior Data Engineer | Edgewater Park, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d93e23fa17175252) | 2026-03-25 01:20 |
+| Boeing | Experienced Data & AI Platform Cloud DevOps / DataOps Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1cbeb2be8c0c0a59) | 2026-03-25 01:20 |
+| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 01:20 |
+| Omnicell | Engineer IV, Data Engineering | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=46ffdeefe4f68e9e) | 2026-03-25 01:20 |
+| CrowdStrike | Sr. Engineer, Cloud - Test Platform | Redmond, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=089cf1934f4cd6a4) | 2026-03-25 01:20 |
 | Kiely Family of Companies | Data Analytics Engineer | Tinton Falls, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a8ac6e29a223b095) | 2026-03-24 23:23 |
 | Augment Professional Services | Machine Learning Operations Engineer | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4e76e474f9e2efb6) | 2026-03-24 23:23 |
 | T. Rowe Price | AI Data Engineer | Owings Mills, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b8eb10a2720f342) | 2026-03-24 23:23 |
-| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-24 23:23 |
 | Fanatics | Software Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5daf9a09c12e8d35) | 2026-03-24 23:23 |
-| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-24 23:23 |
 | HCA Healthcare | Solution Architect | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7da3735857b8f1b1) | 2026-03-24 23:23 |
 | EBG | PHP Web Application Developer (Modernization) | Austin, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f42f3c1cc306e46b) | 2026-03-24 22:22 |
 | EBG | PHP Web Application Developer (Modernization) | Miami, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f8d17ef03868a4db) | 2026-03-24 22:22 |
@@ -437,9 +447,6 @@ Last updated: 2026-03-24 23:23
 | Deloitte | AI Data Engineer - Senior Consultant | Huntsville, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b9fddf6b4dcba23) | 2026-03-21 03:58 |
 | Deloitte | Application Architect | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b06cd6e272dc273) | 2026-03-21 03:58 |
 | Makpar Corporation | DevOps Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=644ffd1ada2946fd) | 2026-03-21 03:58 |
-| BECU | Sr Software Developer | WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=132ca3b242a8a6d5) | 2026-03-21 01:12 |
-| M-TECH SYSTEMS | Sr Python Developer - Onsite | Dunwoody, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f35541065e194ff3) | 2026-03-21 01:12 |
-| Hydrafacial | Senior Data Engineer - California | Lakewood, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b36f86f8a126e87b) | 2026-03-21 01:12 |
 
 
 ---
