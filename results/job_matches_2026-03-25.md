@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-25
 
-**Total Jobs Found:** 84
+**Total Jobs Found:** 83
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -698,18 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Software Engineer III @ Waséyabek Development Company
-**Match Score:** 11.1%
-
-📍 **Location:** Otsego, MI, US USA
-
-🔑 **Keywords:** Azure, Kafka, SQL Server, PostgreSQL, Data Modeling, ETL, ELT, CI/CD, GitHub Actions, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=467fe0059b658cf7)
-
----
-
-## 65. Software Development Engineer II - ML Platform @ Expedia Group
+## 64. Software Development Engineer II - ML Platform @ Expedia Group
 **Match Score:** 11.1%
 
 📍 **Location:** Austin, TX, US USA
@@ -720,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Application Developer, Consultant @ Blue Shield of California
+## 65. Application Developer, Consultant @ Blue Shield of California
 **Match Score:** 11.1%
 
 📍 **Location:** El Dorado Hills, CA, US USA
@@ -728,6 +717,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, CI/CD, GitHub Actions, Docker, Git, Bitbucket
 
 [Apply Here](https://www.indeed.com/viewjob?jk=c873a7854b5a7a4a)
+
+---
+
+## 66. Software Engineer III @ Waséyabek Development Company
+**Match Score:** 11.1%
+
+📍 **Location:** Otsego, MI, US USA
+
+🔑 **Keywords:** Azure, Kafka, SQL Server, PostgreSQL, Data Modeling, ETL, ELT, CI/CD, GitHub Actions, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=467fe0059b658cf7)
 
 ---
 
@@ -775,14 +775,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Full Stack Developer Intern @ nan
-**Match Score:** 11.1%
+## 71. Senior DevOps Engineer @ Gong
+**Match Score:** 10.4%
 
-📍 **Location:** Westford, MA, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** AWS, Azure, GCP, Scala, NoSQL, Data Modeling, ETL, CI/CD, Terraform, Docker
+🔑 **Keywords:** AWS, IAM, Scala, CI/CD, Jenkins, GitHub Actions, Terraform, Kubernetes, Jenkins, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e6d07eb218f7af80)
+[Apply Here](https://www.indeed.com/viewjob?jk=5cb90cff4906f695)
 
 ---
 
@@ -885,14 +885,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Senior Software Development Engineer @ CVS Health
+## 81. Engineer @ Tata Consultancy Services (TCS)
 **Match Score:** 10.4%
 
-📍 **Location:** TX, US USA
+📍 **Location:** Morristown, NJ, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, CI/CD, Terraform, Docker
+🔑 **Keywords:** Kinesis, RDS, Scala, Kafka, Snowflake, Data Modeling, ELT, Power BI, MLflow, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2d27208e71b125f4)
+[Apply Here](https://www.indeed.com/viewjob?jk=d37428d214fe7e4f)
 
 ---
 
@@ -907,18 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Engineer @ Tata Consultancy Services (TCS)
-**Match Score:** 10.4%
-
-📍 **Location:** Morristown, NJ, US USA
-
-🔑 **Keywords:** Kinesis, RDS, Scala, Kafka, Snowflake, Data Modeling, ELT, Power BI, MLflow, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d37428d214fe7e4f)
-
----
-
-## 84. Developer III - Application Development (Data Integration) @ Inland Empire Health Plan
+## 83. Developer III - Application Development (Data Integration) @ Inland Empire Health Plan
 **Match Score:** 10.4%
 
 📍 **Location:** Rancho Cucamonga, CA, US USA

@@ -1,16 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-25 09:44
+Last updated: 2026-03-25 10:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 10:40 |
+| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 10:40 |
 | Intercontinental Exchange | Engineer, Storage Engineering | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f47fe1b011621142) | 2026-03-25 09:44 |
 | Tata Consultancy Services (TCS) | Engineer | Midvale, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=799dc2ba53bfb669) | 2026-03-25 09:44 |
 | Fusion Academy | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c239fde5950cdb3c) | 2026-03-25 09:44 |
-| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 09:44 |
-| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 09:44 |
 | Travelers | AI Product Engineer | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4ef1d9dc4f2a3c77) | 2026-03-25 08:40 |
 | MOHELA | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=00ea21484fff4c0b) | 2026-03-25 08:40 |
 | Thermo Fisher Scientific | Data Engineer | Pittsburgh, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=933ad44aa47970a9) | 2026-03-25 07:48 |
@@ -341,7 +341,6 @@ Last updated: 2026-03-25 09:44
 | PNC Financial Services Group | Software Engineer Sr - Check Modernization and Adjustment Team | Pittsburgh, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b695d5219c5f3d42) | 2026-03-21 16:19 |
 | New York City Department of Housing Preservation & Development | Solutions Developer for the Office of HPD TECH | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ab98ea9cc28ff7b) | 2026-03-21 14:19 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a12794620257c6fd) | 2026-03-21 11:17 |
-| Hyatt | SENIOR PRODUCT ENGINEER (HYBRID CHICAGO) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=db7fd563fd960a2d) | 2026-03-21 10:18 |
 
 
 ---
