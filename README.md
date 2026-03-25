@@ -1,15 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-25 18:44
+Last updated: 2026-03-25 19:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=131b0feaf824cce9) | 2026-03-25 19:41 |
+| Archdiocese of Chicago | Senior Full Stack Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b260063a1f060a0c) | 2026-03-25 19:41 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b5503ca5f60f1076) | 2026-03-25 19:41 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd4f51cd9252cb65) | 2026-03-25 19:41 |
+| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 19:41 |
+| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 19:41 |
 | Vivint | Data Engineer II | Lehi, UT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9a55821b896b85e9) | 2026-03-25 18:44 |
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5677557f087cb138) | 2026-03-25 18:44 |
-| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 18:44 |
-| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 18:44 |
 | Brillio LLC | Senior BI Specialist – R01562930 | Virginia Beach, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5053e60f58006ba) | 2026-03-25 18:44 |
 | Openkyber | PingOne Cloud Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4b7a6f9f89825521) | 2026-03-25 17:51 |
 | Openkyber | Endpoint Privilege Management Specialist | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=68341534918cf2bf) | 2026-03-25 17:51 |
