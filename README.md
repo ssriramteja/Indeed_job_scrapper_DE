@@ -1,15 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-25 05:56
+Last updated: 2026-03-25 06:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BECU | Sr Data Scientist | Tukwila, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8ad58dde8c86078b) | 2026-03-25 06:53 |
+| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 06:53 |
+| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 06:53 |
+| GEICO | Senior Engineer -.NET | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a13dd69a11dd2a2a) | 2026-03-25 06:53 |
 | Live Nation | Senior Cloud Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d2d1e17a962b5fca) | 2026-03-25 05:56 |
 | CloudZero | Distinguished Architect, Data Platform | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd1095da2d18982) | 2026-03-25 05:56 |
-| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 05:56 |
-| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 05:56 |
 | Equinix | Data Engineer (GCP) | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1224b5cebc9ca8bb) | 2026-03-25 04:12 |
 | Equinix | Data Engineer (GCP) | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4bc3a06012f008f3) | 2026-03-25 04:12 |
 | Millennium Management | Cloud Platform Engineer | New York, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=69b516454f937a66) | 2026-03-25 04:12 |
@@ -335,11 +337,6 @@ Last updated: 2026-03-25 05:56
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a12794620257c6fd) | 2026-03-21 11:17 |
 | Hyatt | SENIOR PRODUCT ENGINEER (HYBRID CHICAGO) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=db7fd563fd960a2d) | 2026-03-21 10:18 |
 | JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0673331b89873626) | 2026-03-21 09:24 |
-| U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3b81ca9e34e5e9f1) | 2026-03-21 06:33 |
-| U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=520c71629e4ae31f) | 2026-03-21 06:33 |
-| U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Minneapolis, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=96b820a060e96568) | 2026-03-21 06:33 |
-| U.S. Bank | Sr. Data Engineer, Data Innovation and Tools Rationalization | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3ce993d8d61236e3) | 2026-03-21 06:33 |
-| ADP | Software Engineers | Roseland, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bb04b36537a2b802) | 2026-03-21 06:33 |
 
 
 ---
