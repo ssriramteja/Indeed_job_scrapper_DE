@@ -1,17 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-25 19:41
+Last updated: 2026-03-25 20:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Truist | ETL Developer - AML & Financial Crimes | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b4f8ec969f3563e7) | 2026-03-25 20:31 |
+| K2 Space | Senior Application Software Engineer | Los Angeles, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=91ae67c62e9e932e) | 2026-03-25 20:31 |
+| The Carlyle Group | Data Engineer, Global Credit Technology | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=178bc04a819dbf0f) | 2026-03-25 20:31 |
+| K2 Space | Application Software Engineer | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eef074d74f0c7a0b) | 2026-03-25 20:31 |
+| LiveRamp | Senior Software Engineer - Big Data | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=365b2385af6a0f99) | 2026-03-25 20:31 |
+| LERETA, LLC | Senior Data Engineer | Pomona, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d07e49add1736e55) | 2026-03-25 20:31 |
+| Digital Dynamics | Software & Electronics Development Engineer II | Scotts Valley, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e6afce3c14c5e32) | 2026-03-25 20:31 |
+| Digital Dynamics | Software & Electronics Development Engineer II | Scotts Valley, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=174e2731cd487355) | 2026-03-25 20:31 |
+| K2 Space | Senior Application Data Engineer | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca736b058903f7a7) | 2026-03-25 20:31 |
+| EquipmentShare | Intern: Financial Systems Engineer | Columbia, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c682a9d6efe9dcdf) | 2026-03-25 20:31 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b5503ca5f60f1076) | 2026-03-25 20:31 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd4f51cd9252cb65) | 2026-03-25 20:31 |
+| EDB | Solutions Engineer(Python/Airflow) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2e5544787ac4ad7) | 2026-03-25 20:31 |
+| Super Micro Computer, Inc. | Software Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94129ba3e4c3efdc) | 2026-03-25 20:31 |
+| ExxonMobil | S&O Developer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd099c12f1c683af) | 2026-03-25 20:31 |
+| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-25 20:31 |
+| Centurion Health | Software Application Developer, IT | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22cae783634b6fb3) | 2026-03-25 20:31 |
+| Centurion Health | Software Application Developer, IT | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21b9a649df292057) | 2026-03-25 20:31 |
 | Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=131b0feaf824cce9) | 2026-03-25 19:41 |
 | Archdiocese of Chicago | Senior Full Stack Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b260063a1f060a0c) | 2026-03-25 19:41 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b5503ca5f60f1076) | 2026-03-25 19:41 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd4f51cd9252cb65) | 2026-03-25 19:41 |
-| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 19:41 |
-| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 19:41 |
 | Vivint | Data Engineer II | Lehi, UT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9a55821b896b85e9) | 2026-03-25 18:44 |
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5677557f087cb138) | 2026-03-25 18:44 |
 | Brillio LLC | Senior BI Specialist – R01562930 | Virginia Beach, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5053e60f58006ba) | 2026-03-25 18:44 |
