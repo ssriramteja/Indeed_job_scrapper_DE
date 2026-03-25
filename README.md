@@ -1,17 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-25 14:13
+Last updated: 2026-03-25 16:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=8ae0639bcc380726) | 2026-03-25 16:01 |
+| Clearwater Analytics (CWAN) | Software Development Engineer | Boise, ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1b263e0344e64430) | 2026-03-25 16:01 |
+| Optum | Senior Quality Engineer | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ffbe5145410f18d2) | 2026-03-25 16:01 |
+| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 16:01 |
+| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 16:01 |
+| Optum | Senior Data Scientist | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=648587140f4c8181) | 2026-03-25 16:01 |
+| Relias | Data Engineer I | Morrisville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3a059dfc3b3900d0) | 2026-03-25 16:01 |
 | Optum | Data Scientist | Minnetonka, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=073969ba933b74ce) | 2026-03-25 14:13 |
 | Bloomberg | Senior Software Engineer - Hadoop Infrastructure | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57aca64828ae44c2) | 2026-03-25 14:13 |
 | Futrend Technology, Inc | Sr Java Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=66e658594e26e266) | 2026-03-25 14:13 |
 | Clear Channel Outdoor | Database Administrator / Data Engineer | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1e24a399eaddada3) | 2026-03-25 14:13 |
-| Waséyabek Development Company | Software Engineer III | Otsego, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=467fe0059b658cf7) | 2026-03-25 14:13 |
-| The Clearing House Payments Company | Data Engineer | Liberty, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beb95949bff9aca2) | 2026-03-25 14:13 |
 | CVS Health | Senior BackEnd Engineer | Scottsdale, AZ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b5da0b19b9bea7fb) | 2026-03-25 12:46 |
 | RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6a60f5615bdba859) | 2026-03-25 12:46 |
 | Polaris I/O | Senior Full Stack Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f266e67ee961e84e) | 2026-03-25 12:46 |
@@ -347,7 +352,6 @@ Last updated: 2026-03-25 14:13
 | nan | Senior Cloud and DevOps Engineer | Bastrop, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fcf59ea125bfa7ff) | 2026-03-21 21:17 |
 | Verinext | Cloud Engineer | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=160c7358320627f2) | 2026-03-21 21:17 |
 | PNC Financial Services Group | Software Engineer Sr - Check Modernization and Adjustment Team | Pittsburgh, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b695d5219c5f3d42) | 2026-03-21 16:19 |
-| New York City Department of Housing Preservation & Development | Solutions Developer for the Office of HPD TECH | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ab98ea9cc28ff7b) | 2026-03-21 14:19 |
 
 
 ---
