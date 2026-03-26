@@ -1,18 +1,37 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-26 06:07
+Last updated: 2026-03-26 07:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Brillio LLC | Snowflake Engineer (Datastage, SSIS, DB2, ETL) – R01562352 | Edison, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ec5818d3536fb861) | 2026-03-26 07:57 |
+| Brillio LLC | Snowflake Architect (Datastage, DBT, ETL, SSIS) – R01562351 | Edison, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=518471bf55b68ee3) | 2026-03-26 07:57 |
+| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab1065855ef14eca) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71636389aa78efd5) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1fef5e8073cb383) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9501ebd5923f67aa) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=388ad3c9fba9271c) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d322c261386f56e2) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5a0764074fe0317) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae8bb13382eba565) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df0d7a279864544b) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06051094e158c2ec) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1cdb70fd9c89334) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8ed9fd91845c56f2) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c84ed7edd2463130) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa5ce47ffa4f81f6) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=549bc9397ed63a24) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bbf07a1b9a86669) | 2026-03-26 07:57 |
+| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af98402106d5d501) | 2026-03-26 07:57 |
+| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 07:57 |
+| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-26 07:57 |
 | Robert E. Mason & Associates | Senior Data Engineer | Wando, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=734589cead82347f) | 2026-03-26 06:07 |
-| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 06:07 |
 | Cache Creek Casino Resort | Senior Data Engineer - Information Technology | Brooks, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8ca3b7bd8d76f7e1) | 2026-03-26 06:07 |
 | TikTok | Senior Endpoint Security Engineer - Global Security Organization | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d47d7a74b3089448) | 2026-03-26 06:07 |
-| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 06:07 |
 | Venatore | Data Scientist | Fort Belvoir, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff27edbece16f3be) | 2026-03-26 06:07 |
-| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-26 06:07 |
 | Berkley | Databricks Data Engineer | Manassas, VA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=88146716ceed528b) | 2026-03-26 04:26 |
 | Inter Miami CF | Data Platform Engineer | Fort Lauderdale, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4c4ec2058b64c4b8) | 2026-03-26 04:26 |
 | BlackRock | Forward Deploy Data Engineer-Associate | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=34525f4e47bd513d) | 2026-03-26 04:26 |
