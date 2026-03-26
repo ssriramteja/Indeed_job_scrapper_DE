@@ -1,17 +1,40 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-26 01:25
+Last updated: 2026-03-26 04:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Berkley | Databricks Data Engineer | Manassas, VA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=88146716ceed528b) | 2026-03-26 04:26 |
+| Inter Miami CF | Data Platform Engineer | Fort Lauderdale, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4c4ec2058b64c4b8) | 2026-03-26 04:26 |
+| BlackRock | Forward Deploy Data Engineer-Associate | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=34525f4e47bd513d) | 2026-03-26 04:26 |
+| Veritone | Site Reliability Engineer II | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=42442aa4f1f05e8b) | 2026-03-26 04:26 |
+| Blueprint Technologies | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cf248a552a2b9944) | 2026-03-26 04:26 |
+| Tiger Analytics | AI Tech Partner (USA) | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9fc2a5a288d17425) | 2026-03-26 04:26 |
+| Tiger Analytics | AI Tech Partner (USA) | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=72ff85dd600047b4) | 2026-03-26 04:26 |
+| Tiger Analytics | AI Tech Partner (USA) | Jersey City, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0eccc725fef05e64) | 2026-03-26 04:26 |
+| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 04:26 |
+| Oracle | Software Developer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0e90b52e3a1a17a2) | 2026-03-26 04:26 |
+| CBRE | Software Engineer Sr Analyst | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f27e271eca1a4159) | 2026-03-26 04:26 |
+| CBRE | Software Engineer Sr Analyst | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b502ed0e95608acf) | 2026-03-26 04:26 |
+| Brook Inc. | Software Engineer - Hybrid/Bellevue, WA | Bellevue, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=442324d7b318c1db) | 2026-03-26 04:26 |
+| Zoom Communications | Data Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04361f4ee433abc8) | 2026-03-26 04:26 |
+| Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f902a4bcfd6f0dc) | 2026-03-26 04:26 |
+| ARIES SOLUTIONS | Cloud Engineer | Westerville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=545ade558773e3d3) | 2026-03-26 04:26 |
+| ExtraMile | Data and BI Solutions Developer | AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf05ce0c2fca8aa4) | 2026-03-26 04:26 |
+| ExtraMile | Data and BI Solutions Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=763e204d324d6943) | 2026-03-26 04:26 |
+| ExtraMile | Data and BI Solutions Developer | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09de6be18461fa65) | 2026-03-26 04:26 |
+| ExtraMile | Data and BI Solutions Developer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd71d5dc3f6911a8) | 2026-03-26 04:26 |
+| ExtraMile | Data and BI Solutions Developer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c5810d2049fbe45) | 2026-03-26 04:26 |
+| Cloudera | Senior Software Engineer - Cloudera Context Search Team | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3cc5ba5bc4131e8d) | 2026-03-26 04:26 |
+| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 04:26 |
+| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-26 04:26 |
 | Fanatics | Software Engineer III | San Mateo, CA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d61a741a9a865097) | 2026-03-26 01:25 |
 | Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4f3d707966b2b604) | 2026-03-26 01:25 |
 | Realign | Python and PySpark, No SQL Developer-2 | Mount Laurel, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7a5ca26ba048f780) | 2026-03-26 01:25 |
 | Univerus | Product Support & Platform Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1812ab21ac264af8) | 2026-03-26 01:25 |
 | McKesson | Specialist, Data Engineer | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a19064215d6504dc) | 2026-03-26 01:25 |
-| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 01:25 |
 | Centric Consulting | Site Reliability Engineer | Cleveland, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=158d4d251d7cfe41) | 2026-03-26 01:25 |
 | D.A. Davidson Companies | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f829d868d8f7d81e) | 2026-03-26 01:25 |
 | McKesson | Sr Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=816e3ba22947d18d) | 2026-03-26 01:25 |
@@ -21,10 +44,8 @@ Last updated: 2026-03-26 01:25
 | Akira Technologies | Senior DevSecOps and Infrastructure Engineer | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c475c8fe9ed280d) | 2026-03-26 01:25 |
 | Wahoo Fitness | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04c17cf51303d69c) | 2026-03-26 01:25 |
 | Lockton Companies | Sr Analytics Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c80a21add211681e) | 2026-03-26 01:25 |
-| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 01:25 |
 | Microchip Technology | Engineer II-Software Development | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1b9464571ec4a13) | 2026-03-26 01:25 |
 | INTRAFI | Technical Architect | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aab0d4e5d8dae5bb) | 2026-03-26 01:25 |
-| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-26 01:25 |
 | Openkyber | API Security Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dd6782d769bbb10c) | 2026-03-25 23:26 |
 | Openkyber | DevOps/AI Ops Administrator | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b2ac379ca55b9cb0) | 2026-03-25 23:26 |
 | Insight | Data Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b8c469fe05779639) | 2026-03-25 23:26 |
