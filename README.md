@@ -1,23 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-26 17:54
+Last updated: 2026-03-26 18:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 18:54 |
+| AstraZeneca | CloudOps Engineer - Evinova | Gaithersburg, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c7fe2318ed9385f4) | 2026-03-26 18:54 |
+| BridgeNexus Technologies Inc | Senior Java Developer | Mountain View, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a41cd00b4d0c37b4) | 2026-03-26 18:54 |
+| VASS Inc | AI/ML Engineer | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a7ebd826073989c) | 2026-03-26 18:54 |
+| Oran Inc | Senior Data Engineer – Snowflake Migration | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94f36c91f8b842d0) | 2026-03-26 18:54 |
+| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 18:54 |
+| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-26 18:54 |
 | Realign | Java Developer | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0ad28ed59ecf58e5) | 2026-03-26 17:54 |
 | Realign | Java Developer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5d882b1b6e861b73) | 2026-03-26 17:54 |
-| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 17:54 |
 | Bandwidth | Sr. Data Scientist | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=218e42d5335a326d) | 2026-03-26 17:54 |
 | Pavion | Data Engineer | Chantilly, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b65884a2def3e0b6) | 2026-03-26 17:54 |
 | Ingram Content Group | Solutions Architect | La Vergne, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1f85867189225f16) | 2026-03-26 17:54 |
 | Cloud and Things | Senior Full Stack Developer | Albany, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d6e610dde5567f71) | 2026-03-26 17:54 |
 | Expressable | AI Data Analyst / Data Engineer - 100% Remote | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b43a6238c24521c5) | 2026-03-26 17:54 |
 | CLASP | Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9063dc15527a3f25) | 2026-03-26 17:54 |
-| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 17:54 |
 | Clipbook | Founding Backend Engineer – AI & Data | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22ee1aa79e315b8e) | 2026-03-26 17:54 |
-| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-26 17:54 |
 | Indev | Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=beb67bf43c44dfc7) | 2026-03-26 16:04 |
 | Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=11a620b68dc800c0) | 2026-03-26 16:04 |
 | Ann & Robert H. Lurie Children's Hospital of Chicago | Data Engineer (*Grant Funded) | River, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0be4284919556a7f) | 2026-03-26 16:04 |
