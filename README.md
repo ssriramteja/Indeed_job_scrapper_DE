@@ -1,14 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-26 07:57
+Last updated: 2026-03-26 08:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 08:46 |
+| Humana | Senior Data Engineer | KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=61a7b790a520c25c) | 2026-03-26 08:46 |
+| General Motors (GM) | PPCO Data Analytics – Systems & Data Analytics | Warren, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3577fd017ba1e45) | 2026-03-26 08:46 |
+| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 08:46 |
+| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-26 08:46 |
 | Brillio LLC | Snowflake Engineer (Datastage, SSIS, DB2, ETL) – R01562352 | Edison, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ec5818d3536fb861) | 2026-03-26 07:57 |
 | Brillio LLC | Snowflake Architect (Datastage, DBT, ETL, SSIS) – R01562351 | Edison, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=518471bf55b68ee3) | 2026-03-26 07:57 |
-| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 07:57 |
 | NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab1065855ef14eca) | 2026-03-26 07:57 |
 | NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71636389aa78efd5) | 2026-03-26 07:57 |
 | NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1fef5e8073cb383) | 2026-03-26 07:57 |
@@ -26,8 +30,6 @@ Last updated: 2026-03-26 07:57
 | NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=549bc9397ed63a24) | 2026-03-26 07:57 |
 | NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bbf07a1b9a86669) | 2026-03-26 07:57 |
 | NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af98402106d5d501) | 2026-03-26 07:57 |
-| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 07:57 |
-| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-26 07:57 |
 | Robert E. Mason & Associates | Senior Data Engineer | Wando, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=734589cead82347f) | 2026-03-26 06:07 |
 | Cache Creek Casino Resort | Senior Data Engineer - Information Technology | Brooks, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8ca3b7bd8d76f7e1) | 2026-03-26 06:07 |
 | TikTok | Senior Endpoint Security Engineer - Global Security Organization | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d47d7a74b3089448) | 2026-03-26 06:07 |
@@ -424,7 +426,6 @@ Last updated: 2026-03-26 07:57
 | IT Search Corp | Onsite Data Engineer Miami | Cypress, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=463e08c3f11e43d4) | 2026-03-22 23:19 |
 | Capgemini | Associate Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ccb008b8926e48b) | 2026-03-22 23:19 |
 | Qogen, LLC | Senior .NET Developer (Oracle Platform Integration) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ed942c19be14c9a) | 2026-03-22 21:18 |
-| Vanderbilt University Medical Center | Data Engineer (Remote Available) | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ccf4de38a56032d9) | 2026-03-22 08:24 |
 
 
 ---
