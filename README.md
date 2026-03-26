@@ -1,18 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-26 22:20
+Last updated: 2026-03-26 23:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 22:20 |
+| Stryker | Senior Back-end Software Engineer | San Diego, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4cb212e78f495655) | 2026-03-26 23:23 |
+| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 23:23 |
+| Guggenheim Partners | Database Administrator (Microsoft SQL, Azure SQL, Snowflake, Microsoft Fabric, Azure DevOps | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=242a3be422a3c7a1) | 2026-03-26 23:23 |
+| Create Music Group | Full Stack AI Engineer | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0eb5560c25882ca2) | 2026-03-26 23:23 |
+| Create Music Group | Full Stack AI Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=758c67189c730321) | 2026-03-26 23:23 |
 | NiCE | Senior Software Architect | Sandy, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c458ab00e0053aa) | 2026-03-26 22:20 |
 | NiCE | Senior Full-Stack Engineer | Sandy, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6d2d78dceeadfde) | 2026-03-26 22:20 |
 | Asahi Kasei | Sr. Data Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64935dc6687cef43) | 2026-03-26 22:20 |
 | aPriori Technologies Inc | Senior Data Engineer | Concord, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=daac76271abc94d6) | 2026-03-26 22:20 |
 | Tata Consultancy Services (TCS) | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da47b75bd94fdaab) | 2026-03-26 22:20 |
-| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 22:20 |
 | Cinch Home Services | Senior Business Intelligence Analyst | Boca Raton, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=688419cc363c7dc5) | 2026-03-26 22:20 |
 | Tata Consultancy Services (TCS) | Data & AI Engineer | New York, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=ee6b2c708f3ef80c) | 2026-03-26 21:24 |
 | Tata Consultancy Services (TCS) | Data Engineer (AWS, Snowflake, Pyspark, SQL) | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f2a094400a036939) | 2026-03-26 21:24 |
@@ -475,8 +478,6 @@ Last updated: 2026-03-26 22:20
 | nan | SAP S/4 Solution Architect | Richardson, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f609856527b5e2b8) | 2026-03-23 04:20 |
 | Lexington Capital Holdings | Senior Salesforce Developer | Port Jefferson Station, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=eb6c8151bb3d9891) | 2026-03-23 01:21 |
 | Humana | Senior DevSecOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e31ad70ec2232102) | 2026-03-23 01:21 |
-| IT Search Corp | Onsite Data Engineer Miami | Cypress, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=463e08c3f11e43d4) | 2026-03-22 23:19 |
-| Capgemini | Associate Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ccb008b8926e48b) | 2026-03-22 23:19 |
 
 
 ---
