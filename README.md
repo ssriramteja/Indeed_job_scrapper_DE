@@ -1,15 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-26 20:28
+Last updated: 2026-03-26 21:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Data & AI Engineer | New York, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=ee6b2c708f3ef80c) | 2026-03-26 21:24 |
+| Tata Consultancy Services (TCS) | Data Engineer (AWS, Snowflake, Pyspark, SQL) | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f2a094400a036939) | 2026-03-26 21:24 |
+| CareOregon | IS Data Engineer | Salem, OR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a92d3aa09f2f357e) | 2026-03-26 21:24 |
+| Ronin Consulting | Software Engineer | Franklin, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=00d9114936398c43) | 2026-03-26 21:24 |
+| Equifax | Senior Software Engineer | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=305629713c8cf97d) | 2026-03-26 21:24 |
+| Equifax | Senior Software Engineer | St. Louis, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=054e907298f72492) | 2026-03-26 21:24 |
+| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 21:24 |
+| Blue Cross and Blue Shield of Kansas | Solutions Architect | Topeka, KS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fedbff1fa3c408c5) | 2026-03-26 21:24 |
+| nan | Data Science/MLOps Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2bc0880e6a383b9e) | 2026-03-26 21:24 |
+| Huron Consulting Group | Senior Data Platform Integration Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e7f4676b6700d720) | 2026-03-26 21:24 |
+| Nimbus Cloud Solutions | Salesforce Developer | Plymouth, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bf60a25aee7ba1a) | 2026-03-26 21:24 |
+| Xbow | Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e013910d7dfe6dce) | 2026-03-26 21:24 |
+| COGNWIZ SOLUTIONS LLC | Data Engineer | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9f79c9da6376568) | 2026-03-26 21:24 |
+| nan | Senior MuleSoft Developer - Austin, TX ONLY | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd2d6ac7747d0244) | 2026-03-26 21:24 |
+| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 21:24 |
 | Great value staffing and technologies.inc | Senior Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fcd57aeb1d54c26e) | 2026-03-26 20:28 |
-| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 20:28 |
 | American Food & Vending | Data and BI Engineer | NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=715e9e79d209ba09) | 2026-03-26 20:28 |
-| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 20:28 |
 | nan | Sr AWS Data Engineer - Export Control (only Citizen and GC) | Parsippany-Troy Hills, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cad185c5c326ba55) | 2026-03-26 19:51 |
 | NiCE | Senior Software Architect | Sandy, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=43f56bdac321f08c) | 2026-03-26 19:51 |
 | NiCE | Senior Full-Stack Engineer | Sandy, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ad5132b666e5ec7b) | 2026-03-26 19:51 |
@@ -458,7 +471,6 @@ Last updated: 2026-03-26 20:28
 | Humana | Senior DevSecOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e31ad70ec2232102) | 2026-03-23 01:21 |
 | IT Search Corp | Onsite Data Engineer Miami | Cypress, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=463e08c3f11e43d4) | 2026-03-22 23:19 |
 | Capgemini | Associate Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ccb008b8926e48b) | 2026-03-22 23:19 |
-| Qogen, LLC | Senior .NET Developer (Oracle Platform Integration) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ed942c19be14c9a) | 2026-03-22 21:18 |
 
 
 ---
