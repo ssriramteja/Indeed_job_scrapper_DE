@@ -1,12 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-26 19:51
+Last updated: 2026-03-26 20:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 19:51 |
+| Great value staffing and technologies.inc | Senior Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fcd57aeb1d54c26e) | 2026-03-26 20:28 |
+| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 20:28 |
+| American Food & Vending | Data and BI Engineer | NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=715e9e79d209ba09) | 2026-03-26 20:28 |
+| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 20:28 |
 | nan | Sr AWS Data Engineer - Export Control (only Citizen and GC) | Parsippany-Troy Hills, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cad185c5c326ba55) | 2026-03-26 19:51 |
 | NiCE | Senior Software Architect | Sandy, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=43f56bdac321f08c) | 2026-03-26 19:51 |
 | NiCE | Senior Full-Stack Engineer | Sandy, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ad5132b666e5ec7b) | 2026-03-26 19:51 |
@@ -16,7 +19,6 @@ Last updated: 2026-03-26 19:51
 | Celsius Network | Cloud Systems Architect - Cloud ERP | Boca Raton, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7563ac0384623a7) | 2026-03-26 19:51 |
 | Datadog | Senior Developer Advocate - Data Observability | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc015d21fb039200) | 2026-03-26 19:51 |
 | Peloton | AI Enterprise Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=337e4082664be656) | 2026-03-26 19:51 |
-| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 19:51 |
 | Proactive Logic Consulting Inc | Senior Fractional SQL Server & PostgreSQL DBA Consultant (AI-Forward) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1fb428f27c27f9ed) | 2026-03-26 19:51 |
 | AstraZeneca | CloudOps Engineer - Evinova | Gaithersburg, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c7fe2318ed9385f4) | 2026-03-26 18:54 |
 | BridgeNexus Technologies Inc | Senior Java Developer | Mountain View, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a41cd00b4d0c37b4) | 2026-03-26 18:54 |
