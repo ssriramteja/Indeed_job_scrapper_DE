@@ -1,16 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-26 08:46
+Last updated: 2026-03-26 09:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 08:46 |
+| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 09:54 |
+| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 09:54 |
+| Embedding VC | Founding Data Engineer (Core Data Platform) | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ad745848a72d300) | 2026-03-26 09:54 |
+| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-26 09:54 |
 | Humana | Senior Data Engineer | KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=61a7b790a520c25c) | 2026-03-26 08:46 |
 | General Motors (GM) | PPCO Data Analytics – Systems & Data Analytics | Warren, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3577fd017ba1e45) | 2026-03-26 08:46 |
-| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 08:46 |
-| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-26 08:46 |
 | Brillio LLC | Snowflake Engineer (Datastage, SSIS, DB2, ETL) – R01562352 | Edison, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ec5818d3536fb861) | 2026-03-26 07:57 |
 | Brillio LLC | Snowflake Architect (Datastage, DBT, ETL, SSIS) – R01562351 | Edison, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=518471bf55b68ee3) | 2026-03-26 07:57 |
 | NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab1065855ef14eca) | 2026-03-26 07:57 |
