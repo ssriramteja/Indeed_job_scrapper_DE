@@ -1,16 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-26 14:22
+Last updated: 2026-03-26 16:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 14:22 |
+| Indev | Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=beb67bf43c44dfc7) | 2026-03-26 16:04 |
+| Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=11a620b68dc800c0) | 2026-03-26 16:04 |
+| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 16:04 |
+| Ann & Robert H. Lurie Children's Hospital of Chicago | Data Engineer (*Grant Funded) | River, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0be4284919556a7f) | 2026-03-26 16:04 |
+| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 16:04 |
+| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-26 16:04 |
 | Grata | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=631f60bd15f1b3d1) | 2026-03-26 14:22 |
 | Prudential | Senior Software Engineer | Newark, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7f151ec7568ba313) | 2026-03-26 14:22 |
-| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 14:22 |
-| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-26 14:22 |
 | Blue Cross of Idaho | Snowflake Engineer II or III | Meridian, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=18c5c99f1f2788d8) | 2026-03-26 12:54 |
 | Air Methods | Sr Data Engineer | Greenwood Village, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ad5d2aa11942c20e) | 2026-03-26 12:54 |
 | Blue Cross of Idaho | dbt Engineer II or III | Meridian, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af151db159b7fdc0) | 2026-03-26 12:54 |
