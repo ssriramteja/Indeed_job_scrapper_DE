@@ -1,11 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-25 23:26
+Last updated: 2026-03-26 01:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fanatics | Software Engineer III | San Mateo, CA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d61a741a9a865097) | 2026-03-26 01:25 |
+| Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4f3d707966b2b604) | 2026-03-26 01:25 |
+| Realign | Python and PySpark, No SQL Developer-2 | Mount Laurel, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7a5ca26ba048f780) | 2026-03-26 01:25 |
+| Univerus | Product Support & Platform Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1812ab21ac264af8) | 2026-03-26 01:25 |
+| McKesson | Specialist, Data Engineer | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a19064215d6504dc) | 2026-03-26 01:25 |
+| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 01:25 |
+| Centric Consulting | Site Reliability Engineer | Cleveland, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=158d4d251d7cfe41) | 2026-03-26 01:25 |
+| D.A. Davidson Companies | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f829d868d8f7d81e) | 2026-03-26 01:25 |
+| McKesson | Sr Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=816e3ba22947d18d) | 2026-03-26 01:25 |
+| JENSEN HUGHES | Data Scientist | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=609352d6a96dfbb8) | 2026-03-26 01:25 |
+| Vista Higher Learning | Software Integrations Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2bb4373ad110466f) | 2026-03-26 01:25 |
+| Vista Higher Learning | Software Integrations Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d3c4f04946a604d3) | 2026-03-26 01:25 |
+| Akira Technologies | Senior DevSecOps and Infrastructure Engineer | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c475c8fe9ed280d) | 2026-03-26 01:25 |
+| Wahoo Fitness | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04c17cf51303d69c) | 2026-03-26 01:25 |
+| Lockton Companies | Sr Analytics Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c80a21add211681e) | 2026-03-26 01:25 |
+| Hilcorp Energy Company | Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5ce13aca6e978cc) | 2026-03-26 01:25 |
+| Microchip Technology | Engineer II-Software Development | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1b9464571ec4a13) | 2026-03-26 01:25 |
+| INTRAFI | Technical Architect | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aab0d4e5d8dae5bb) | 2026-03-26 01:25 |
+| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-26 01:25 |
 | Openkyber | API Security Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dd6782d769bbb10c) | 2026-03-25 23:26 |
 | Openkyber | DevOps/AI Ops Administrator | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b2ac379ca55b9cb0) | 2026-03-25 23:26 |
 | Insight | Data Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b8c469fe05779639) | 2026-03-25 23:26 |
@@ -24,7 +43,6 @@ Last updated: 2026-03-25 23:26
 | Openkyber | Cognos Business Intelligence Analyst | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6124d6f05994ef55) | 2026-03-25 23:26 |
 | Openkyber | Administration & Infrastructure | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6596f101bae22a82) | 2026-03-25 23:26 |
 | Crowe LLP | Senior AI Engineer | Sarasota, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bd5bde56b916bab) | 2026-03-25 23:26 |
-| Tampa Electric Company | Data Analytics Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84060e304bd5181b) | 2026-03-25 23:26 |
 | nan | Senior Business Intelligence Developer | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d53ca27d22c29c3) | 2026-03-25 23:26 |
 | University of Southern California | Associate Data Scientist | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f21680e47d80ce2) | 2026-03-25 22:27 |
 | Travelers | Data Engineer I (Snowflake) | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4860f5d8874039e2) | 2026-03-25 22:27 |
@@ -412,7 +430,6 @@ Last updated: 2026-03-25 23:26
 | CVS Health | Senior Software Development Engineer | ID, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=059fcfa73410416c) | 2026-03-22 05:47 |
 | CVS Health | Senior Software Development Engineer | KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=494bb252de8bb0cb) | 2026-03-22 05:47 |
 | CVS Health | Senior Software Development Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7aef75cb3b0824f) | 2026-03-22 05:47 |
-| ESFM | ANALYTICS ENGINEER-REMOTE | TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=38159760e31a6501) | 2026-03-22 01:20 |
 
 
 ---
