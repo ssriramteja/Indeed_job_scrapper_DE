@@ -1,11 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 22:23
+Last updated: 2026-03-27 23:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| U.S. Pharmacopeia | Senior Data Engineer | Rockville, MD, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=0a8ca3a4199bd053) | 2026-03-27 23:24 |
+| Openkyber | Java Cloud-Native Developer | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e0dab06dbe191608) | 2026-03-27 23:24 |
+| Openkyber | PingOne Cloud Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=418e15f1daab1c02) | 2026-03-27 23:24 |
+| ICW Group | AI Architect | San Diego, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cab1a7566b504833) | 2026-03-27 23:24 |
+| Navitus Health Solutions / Lumicera Health Services | Engineer, Development Operations - Archimedes | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1a508ab92f1823a0) | 2026-03-27 23:24 |
+| Openkyber | Falcon Fusion Automation Engineer | NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=413a6f7ee51cdacf) | 2026-03-27 23:24 |
+| Openkyber | GCP ML Architect | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0898e60057ca64e0) | 2026-03-27 23:24 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-27 23:24 |
+| Openkyber | CrowdStrike Charlotte AI Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1a8e3179e23b63c6) | 2026-03-27 23:24 |
+| Openkyber | CrowdStrike Cloud Security Engineer | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=086171f47946e79e) | 2026-03-27 23:24 |
+| Openkyber | PingOne Cloud Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=682f023dd604d549) | 2026-03-27 23:24 |
+| Openkyber | PingOne Cloud Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=024ca767522f03ad) | 2026-03-27 23:24 |
+| Openkyber | CrowdStrike Automation Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=700838b5ae6d65cf) | 2026-03-27 23:24 |
+| Openkyber | PingOne Cloud Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0e3a9a9d9c081ae) | 2026-03-27 23:24 |
+| Openkyber | Java Security Testing Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4de18db0abdbbc63) | 2026-03-27 23:24 |
+| nan | Cloud Engineer | NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fff42a068bdbef04) | 2026-03-27 23:24 |
+| Capgemini | Senior Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=65b9e64510577fb6) | 2026-03-27 23:24 |
+| Capgemini | Google Cloud Solution Architect | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=34b99631b1e6f2b1) | 2026-03-27 23:24 |
+| Milwaukee Tool | Sr Firmware DevOps Engineer | Brookfield, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6171331838e8d021) | 2026-03-27 23:24 |
+| Openkyber | Generative AI Architect | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c985542971e6d41d) | 2026-03-27 23:24 |
+| Openkyber | GCP ML Architect | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce109653891dcb6c) | 2026-03-27 23:24 |
 | Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2d85aff20341b2f5) | 2026-03-27 22:23 |
 | mPulse Mobile | Cloud Operations Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c7dc31395c5cbccb) | 2026-03-27 22:23 |
 | Interclypse, Inc. | Software Engineer (HPC) Linux & Scripting Emphasis | Annapolis Junction, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=94b575aa256e1ed7) | 2026-03-27 22:23 |
@@ -14,7 +35,6 @@ Last updated: 2026-03-27 22:23
 | DocuSign | Sr. Software Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ff01e0919e5668ba) | 2026-03-27 22:23 |
 | LanTech Consulting services | SAP Basis Architect | Alpharetta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4f8787f954512098) | 2026-03-27 22:23 |
 | Trine IT, Inc | SAP Basis Consultant | Alpharetta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2242b24c3c15865d) | 2026-03-27 22:23 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-27 22:23 |
 | DuBois Chemicals | Senior Data Engineer | Sharonville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f9383d85a0eb4828) | 2026-03-27 22:23 |
 | Interclypse, Inc. | Software Integration Engineer (HPC) | Annapolis Junction, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f14b3b0fbcbb487d) | 2026-03-27 22:23 |
 | Interclypse, Inc. | Software Integration Engineer (HPC) | Annapolis Junction, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a27a9238a01ecbc4) | 2026-03-27 22:23 |
@@ -457,21 +477,6 @@ Last updated: 2026-03-27 22:23
 | Collaboration.Ai | DevOps Engineer — AWS, Observability & Security | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=04c23fa1db266892) | 2026-03-24 01:14 |
 | Fiduciary Tech | Business Intelligence Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af06d71fd9191f34) | 2026-03-24 01:14 |
 | Citco | Senior Enterprise Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b6a22f4af2bc60f1) | 2026-03-24 01:14 |
-| Transamerica | Senior Software Engineer - Onsite Interviews (Denver) | Denver, CO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=cb173fd010bc37d5) | 2026-03-23 23:24 |
-| Transamerica | Specialist Software Engineering - Onsite Interviews (Denver) | Denver, CO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3ec5847773fc77b8) | 2026-03-23 23:24 |
-| Transamerica | Intermediate Software Engineer - Onsite Interviews (Denver) | Denver, CO, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=4fb35aa20ed18f4d) | 2026-03-23 23:24 |
-| RELQ TECHNOLOGIES | AWS Cloud Architect- US Remote | Tallahassee, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=92aa07dcc1c5fe6d) | 2026-03-23 23:24 |
-| Openkyber | Okta IAM Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4da96d1220654c8a) | 2026-03-23 23:24 |
-| GAP Solutions, Inc. | Cloud Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ea56e4fa623ef1db) | 2026-03-23 23:24 |
-| U.S. Bank | Data Engineer, Data Innovation and Tools Rationalization | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3e4f860abba1b64) | 2026-03-23 23:24 |
-| U.S. Bank | Data Engineer, Data Innovation and Tools Rationalization | Minneapolis, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0f32c0a302cd469c) | 2026-03-23 23:24 |
-| U.S. Bank | Data Engineer, Data Innovation and Tools Rationalization | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ec49aaf6d851f31a) | 2026-03-23 23:24 |
-| U.S. Bank | Data Engineer, Data Innovation and Tools Rationalization | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e963a76a96f6ee7d) | 2026-03-23 23:24 |
-| National Basketball Association | Senior GenAI Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fa8ba25f9a038e12) | 2026-03-23 23:24 |
-| Tesla | Forward Deployed Engineer | Fremont, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c14d8d29c2cadb59) | 2026-03-23 23:24 |
-| Sundt | Data Analyst II | Tempe, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bbd92abd04640aa) | 2026-03-23 23:24 |
-| KIZEN Technologies, Inc. | Data Engineer, Integrations and Implementation | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9645dfcd9784cb33) | 2026-03-23 23:24 |
-| CliftonLarsonAllen | Senior Software Engineer (Full Stack – Python, React, Azure) | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96ebd296c9a36070) | 2026-03-23 23:24 |
 
 
 ---
