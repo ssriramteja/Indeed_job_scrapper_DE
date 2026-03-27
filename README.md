@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 15:43
+Last updated: 2026-03-27 16:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bessemer Trust | Senior Software Engineer | Woodbridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=85eb97f83d561310) | 2026-03-27 16:44 |
+| Verisk | Data Developer - L2 | Holmdel, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a6f9f9b97c543b71) | 2026-03-27 16:44 |
+| athenahealth | Product Analytics, Senior Associate | Belfast, ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13e9aeecafcd087e) | 2026-03-27 16:44 |
+| Pismo | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f47454da8e4e4715) | 2026-03-27 16:44 |
+| athenahealth | Product Analytics, Associate | Belfast, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21f8191c9528fa3a) | 2026-03-27 16:44 |
 | nan | Senior Software Engineer - Database | Bristol, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=172b25f4f1200ed3) | 2026-03-27 14:06 |
 | nan | Data Engineer II | Santa Monica, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1305647d227e74d0) | 2026-03-27 14:06 |
 | University of Southern California | Associate Data Scientist | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3a58275a555dc05c) | 2026-03-27 12:43 |
@@ -480,7 +485,6 @@ Last updated: 2026-03-27 15:43
 | Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f0033abf803ced42) | 2026-03-23 16:48 |
 | Mindset Care, Inc. | A.I. Developer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=19124af0add103c3) | 2026-03-23 16:48 |
 | Lennar | AI Engineer II | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e3ac54f02015073) | 2026-03-23 16:48 |
-| Regions Financial | Cloud DevSecOps Engineer | Hoover, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce221f86292702dd) | 2026-03-23 15:53 |
 
 
 ---
