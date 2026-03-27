@@ -1,13 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-26 23:23
+Last updated: 2026-03-27 01:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Public Partnerships LLC | Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=32b14cab00de850b) | 2026-03-27 01:25 |
+| Realign | Java Full Stack Developer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d6d6c1cc52916e8a) | 2026-03-27 01:25 |
+| Anika Systems | Data Analyst | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=54663b10957e30b4) | 2026-03-27 01:25 |
+| Socure | Senior Data Engineer | Carson City, NV, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9fedcaf91c6ec848) | 2026-03-27 01:25 |
+| nan | Full Stack Developer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6bc1cc450f30679d) | 2026-03-27 01:25 |
+| Capstone Integrated Solutions | Full-Stack Developer (AWS, TS, React) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6621054fbdb19cc2) | 2026-03-27 01:25 |
+| McCarthy Holdings | Sr. AI Engineer | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=10c1c898197e57c0) | 2026-03-27 01:25 |
+| Power Systems MFG., LLC | Development Engineer | Jupiter, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=505a4d22308f90a3) | 2026-03-27 01:25 |
+| Burrell Behavioral Health | Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15e1ce3fb4d0cd17) | 2026-03-27 01:25 |
+| Slalom Consulting | Slalom Flex (Project Based) - Data Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=17cd55492f23a2fa) | 2026-03-27 01:25 |
+| Clever Devices | DevOps Engineer | Woodbury, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=324e434a7481d1e8) | 2026-03-27 01:25 |
+| Clever Devices | DevOps Engineer | Apex, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0eb339539f4f40c) | 2026-03-27 01:25 |
 | Stryker | Senior Back-end Software Engineer | San Diego, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4cb212e78f495655) | 2026-03-26 23:23 |
-| The Clorox Company | Senior Data Engineer | Durham, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b00f8471e050b5f9) | 2026-03-26 23:23 |
 | Guggenheim Partners | Database Administrator (Microsoft SQL, Azure SQL, Snowflake, Microsoft Fabric, Azure DevOps | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=242a3be422a3c7a1) | 2026-03-26 23:23 |
 | Create Music Group | Full Stack AI Engineer | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0eb5560c25882ca2) | 2026-03-26 23:23 |
 | Create Music Group | Full Stack AI Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=758c67189c730321) | 2026-03-26 23:23 |
@@ -476,8 +487,6 @@ Last updated: 2026-03-26 23:23
 | DNV KEMA Energy & Sustainability | Senior Machine Learning Engineer - Energy | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ea8d61e353dcf3fe) | 2026-03-23 06:05 |
 | Trimble | Site Reliability Engineer - Machine Learning | Westminster, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4fa376cb1aac719) | 2026-03-23 06:05 |
 | nan | SAP S/4 Solution Architect | Richardson, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f609856527b5e2b8) | 2026-03-23 04:20 |
-| Lexington Capital Holdings | Senior Salesforce Developer | Port Jefferson Station, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=eb6c8151bb3d9891) | 2026-03-23 01:21 |
-| Humana | Senior DevSecOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e31ad70ec2232102) | 2026-03-23 01:21 |
 
 
 ---
