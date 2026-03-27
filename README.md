@@ -1,11 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 16:44
+Last updated: 2026-03-27 17:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | AWS Network Engineer | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=fd934ff3fd857de0) | 2026-03-27 17:43 |
+| Openkyber | TypeScript Architect | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=44ba37f68be27f24) | 2026-03-27 17:43 |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4804b1882f2c2b9d) | 2026-03-27 17:43 |
+| Openkyber | GCP Trainee / Apprentice Engineer | GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=be354de203125f15) | 2026-03-27 17:43 |
+| Openkyber | AI Infrastructure Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=90ae4f8d8427460d) | 2026-03-27 17:43 |
+| Gainwell Technologies LLC | Senior Data Engineer | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9c9630e433b0cdaa) | 2026-03-27 17:43 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-27 17:43 |
+| Openkyber | PingOne Cloud Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f0e10e7c5992d07e) | 2026-03-27 17:43 |
+| Openkyber | MLOps | TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c542148e5993d901) | 2026-03-27 17:43 |
+| Openkyber | PingOne Cloud Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bd27eb8dc1015d2f) | 2026-03-27 17:43 |
+| Openkyber | AWS Network Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df4583485c6fe585) | 2026-03-27 17:43 |
+| Milwaukee Tool | Analytics Engineer II-Operations | Milwaukee, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a67e9e9d00aefc4e) | 2026-03-27 17:43 |
+| Welfare Research Inc. d/b/a WRI Solutions | Behavioral Health Data Engineer (BH-DE) | Long Island City, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=72092efa1ab514ab) | 2026-03-27 17:43 |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3a69de16b0a90c6c) | 2026-03-27 17:43 |
+| Openkyber | ML Infrastructure Architect | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb559ab77acb7f90) | 2026-03-27 17:43 |
+| Openkyber | Python Architect | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9213a181d4a91817) | 2026-03-27 17:43 |
+| Summit Utilities, Inc. | AI Data Scientist | Fort Smith, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2fec50f02a5ef6aa) | 2026-03-27 17:43 |
+| Summit Utilities, Inc. | AI Data Scientist | Fayetteville, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=faa9dfb3a4929603) | 2026-03-27 17:43 |
+| Summit Utilities, Inc. | AI Data Scientist | Little Rock, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba51b0aca980bb32) | 2026-03-27 17:43 |
 | Bessemer Trust | Senior Software Engineer | Woodbridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=85eb97f83d561310) | 2026-03-27 16:44 |
 | Verisk | Data Developer - L2 | Holmdel, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a6f9f9b97c543b71) | 2026-03-27 16:44 |
 | athenahealth | Product Analytics, Senior Associate | Belfast, ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13e9aeecafcd087e) | 2026-03-27 16:44 |
@@ -482,9 +501,6 @@ Last updated: 2026-03-27 16:44
 | Realign | FiveTran Administrator / Data Integration Engineer-2 | Lebanon, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8049ed1c967550ad) | 2026-03-23 17:44 |
 | Openkyber | Azure Security Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b03aa36a9575000b) | 2026-03-23 17:44 |
 | Openkyber | Azure Security Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35c0de1886689777) | 2026-03-23 17:44 |
-| Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f0033abf803ced42) | 2026-03-23 16:48 |
-| Mindset Care, Inc. | A.I. Developer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=19124af0add103c3) | 2026-03-23 16:48 |
-| Lennar | AI Engineer II | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e3ac54f02015073) | 2026-03-23 16:48 |
 
 
 ---
