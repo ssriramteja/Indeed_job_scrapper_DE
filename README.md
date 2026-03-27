@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 07:55
+Last updated: 2026-03-27 08:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Wells Fargo | Engineering Associate - Cloud Enablement & Automation | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=69ab89045d08ef18) | 2026-03-27 08:41 |
+| Expedia Group | Machine Learning Engineer III | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3b0859d9457f7e5) | 2026-03-27 08:41 |
 | GEICO | Senior Engineer - Data | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a76b23bc92692fef) | 2026-03-27 06:07 |
 | MID-WEST WHOLESALE HARDWARE INC | PowerBI Visualization Analyst | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e3f42318646cf38) | 2026-03-27 06:07 |
 | Priority Management | Data Analyst/Data Engineer (Healthcare) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b8d1d17b6d68057) | 2026-03-27 06:07 |
@@ -493,7 +495,6 @@ Last updated: 2026-03-27 07:55
 | DNV | Senior Machine Learning Engineer - Energy | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4173afb3af02e847) | 2026-03-23 10:44 |
 | DNV | Senior Machine Learning Engineer - Energy | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dc0e5eb74e1013b2) | 2026-03-23 10:44 |
 | DNV | Senior Machine Learning Engineer - Energy | Portland, ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8be0210ffb983e8f) | 2026-03-23 10:44 |
-| Humana | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=77d3c7c8412ad1ee) | 2026-03-23 07:57 |
 
 
 ---
