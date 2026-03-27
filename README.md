@@ -1,18 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 17:43
+Last updated: 2026-03-27 18:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-27 18:44 |
+| Twilio | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4a087bbfc74bb05) | 2026-03-27 18:44 |
+| Twilio | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b283ba99e10e1ba) | 2026-03-27 18:44 |
 | Openkyber | AWS Network Engineer | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=fd934ff3fd857de0) | 2026-03-27 17:43 |
 | Openkyber | TypeScript Architect | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=44ba37f68be27f24) | 2026-03-27 17:43 |
 | Openkyber | ML Infrastructure Architect | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4804b1882f2c2b9d) | 2026-03-27 17:43 |
 | Openkyber | GCP Trainee / Apprentice Engineer | GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=be354de203125f15) | 2026-03-27 17:43 |
 | Openkyber | AI Infrastructure Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=90ae4f8d8427460d) | 2026-03-27 17:43 |
 | Gainwell Technologies LLC | Senior Data Engineer | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9c9630e433b0cdaa) | 2026-03-27 17:43 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-27 17:43 |
 | Openkyber | PingOne Cloud Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f0e10e7c5992d07e) | 2026-03-27 17:43 |
 | Openkyber | MLOps | TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c542148e5993d901) | 2026-03-27 17:43 |
 | Openkyber | PingOne Cloud Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bd27eb8dc1015d2f) | 2026-03-27 17:43 |
@@ -483,24 +485,6 @@ Last updated: 2026-03-27 17:43
 | GEICO | Solutions Engineer II - Networking | Bethesda, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=65264a65d2d0171c) | 2026-03-23 19:42 |
 | GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e3a6f36401116ae) | 2026-03-23 19:42 |
 | Computershare | Software Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2dce722905ce4a98) | 2026-03-23 19:42 |
-| Innovative Systems | Azure Site Reliability & Automation Engineer | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=abfdcefe625a5d98) | 2026-03-23 18:41 |
-| American Express | Software Engineer III - Frontend (Global Dining) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22085e4edc6fdc63) | 2026-03-23 18:41 |
-| Realign | Cloud Data Architect | TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=7ed0702643990e72) | 2026-03-23 17:44 |
-| Realign | Cloud Data Architect | West Lake, LA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=51d2af5d54195fff) | 2026-03-23 17:44 |
-| Realign | Full Stack Engineer (React + Node.js)-4 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=83f72088600a0d11) | 2026-03-23 17:44 |
-| Openkyber | API Security Engineer | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=95627fd021d5b3c1) | 2026-03-23 17:44 |
-| Realign | Python and PySpark, No SQL Developer | Mount Laurel, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=25df4c9eb71eaf8a) | 2026-03-23 17:44 |
-| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a41dc227e9577793) | 2026-03-23 17:44 |
-| Realign | Data Engineer with Python-5 | Malvern, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d7fd6b3a45530d9c) | 2026-03-23 17:44 |
-| Netwrix | AI Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=03eb3e0fbf0cc806) | 2026-03-23 17:44 |
-| Qode | Enterprise Data Architect | Cleveland, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ad3b67afc52d547a) | 2026-03-23 17:44 |
-| Qode | Enterprise Data Architect | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=16aa76cee6df9592) | 2026-03-23 17:44 |
-| Qode | Enterprise Data Architect | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=298206a805e9200a) | 2026-03-23 17:44 |
-| Openkyber | API Security Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e20032bf66a0bbc) | 2026-03-23 17:44 |
-| Openkyber | Kubernetes Security Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6b13e7f95cc76df1) | 2026-03-23 17:44 |
-| Realign | FiveTran Administrator / Data Integration Engineer-2 | Lebanon, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8049ed1c967550ad) | 2026-03-23 17:44 |
-| Openkyber | Azure Security Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b03aa36a9575000b) | 2026-03-23 17:44 |
-| Openkyber | Azure Security Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35c0de1886689777) | 2026-03-23 17:44 |
 
 
 ---
