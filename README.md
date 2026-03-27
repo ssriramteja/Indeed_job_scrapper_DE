@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 09:45
+Last updated: 2026-03-27 10:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Infrastructure Engineer (Backend) | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9275dfa105600f9f) | 2026-03-27 10:39 |
+| nan | Infrastructure Engineer (Backend) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fbda2b1be4a20921) | 2026-03-27 10:39 |
+| nan | Infrastructure Engineer (Backend) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0be821cc97d69bf4) | 2026-03-27 10:39 |
+| JPMorganChase | Software Engineer III (Java/SpringBoot/Kafka/Cloud) | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e37f813b5cb175d0) | 2026-03-27 10:39 |
+| Ulta | Sr AI ML Engineer | Bolingbrook, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c97a6763a721f8de) | 2026-03-27 10:39 |
 | Wells Fargo | Engineering Associate - Cloud Enablement & Automation | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=69ab89045d08ef18) | 2026-03-27 08:41 |
 | Expedia Group | Machine Learning Engineer III | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3b0859d9457f7e5) | 2026-03-27 08:41 |
 | GEICO | Senior Engineer - Data | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a76b23bc92692fef) | 2026-03-27 06:07 |
