@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 14:06
+Last updated: 2026-03-27 15:43
 
 ### 🚀 Daily Job Matches
 
@@ -481,7 +481,6 @@ Last updated: 2026-03-27 14:06
 | Mindset Care, Inc. | A.I. Developer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=19124af0add103c3) | 2026-03-23 16:48 |
 | Lennar | AI Engineer II | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e3ac54f02015073) | 2026-03-23 16:48 |
 | Regions Financial | Cloud DevSecOps Engineer | Hoover, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce221f86292702dd) | 2026-03-23 15:53 |
-| Bentley Systems | AI Software Engineer | Exton, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8766b681045861f3) | 2026-03-23 14:09 |
 
 
 ---
