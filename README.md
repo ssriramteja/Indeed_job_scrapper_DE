@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 04:27
+Last updated: 2026-03-27 06:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| GEICO | Senior Engineer - Data | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a76b23bc92692fef) | 2026-03-27 06:07 |
+| MID-WEST WHOLESALE HARDWARE INC | PowerBI Visualization Analyst | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e3f42318646cf38) | 2026-03-27 06:07 |
+| Priority Management | Data Analyst/Data Engineer (Healthcare) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b8d1d17b6d68057) | 2026-03-27 06:07 |
+| GEICO | Senior Full Stack Engineer (HYBRID) | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86c5820060bccb38) | 2026-03-27 06:07 |
+| GEICO | Senior Full Stack Engineer (HYBRID) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=90453733877516a5) | 2026-03-27 06:07 |
+| CVS Health | Senior Data Engineer | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83c9f173ec884749) | 2026-03-27 06:07 |
 | Qode | AWS Solutions Architect | Minneapolis, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e1b3890dd7317bec) | 2026-03-27 04:27 |
 | Shamrock Trading Corporation | Data Ops Engineer II | Overland Park, KS, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=aa1b84a97d114dd0) | 2026-03-27 04:27 |
 | NuView | Data Engineer Remote | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9aa3e227f230a38e) | 2026-03-27 04:27 |
@@ -488,9 +494,6 @@ Last updated: 2026-03-27 04:27
 | DNV | Senior Machine Learning Engineer - Energy | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dc0e5eb74e1013b2) | 2026-03-23 10:44 |
 | DNV | Senior Machine Learning Engineer - Energy | Portland, ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8be0210ffb983e8f) | 2026-03-23 10:44 |
 | Humana | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=77d3c7c8412ad1ee) | 2026-03-23 07:57 |
-| Capgemini | Data Engineer | Nashville, TN, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=20c3803f586deedc) | 2026-03-23 06:05 |
-| DNV KEMA Energy & Sustainability | Senior Machine Learning Engineer - Energy | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ea8d61e353dcf3fe) | 2026-03-23 06:05 |
-| Trimble | Site Reliability Engineer - Machine Learning | Westminster, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4fa376cb1aac719) | 2026-03-23 06:05 |
 
 
 ---
