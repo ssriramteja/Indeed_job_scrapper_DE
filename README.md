@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 11:36
+Last updated: 2026-03-27 12:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| University of Southern California | Associate Data Scientist | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3a58275a555dc05c) | 2026-03-27 12:43 |
+| smartbridge, LLC | Contract - Senior Azure Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f4f4206c880498f) | 2026-03-27 12:43 |
 | Capgemini | Python Developer | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2634d65872a274a7) | 2026-03-27 11:36 |
 | Capgemini | GCP AI Engineer | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=90a4bbd6dc8ae1d0) | 2026-03-27 11:36 |
 | Capgemini | AI/ML Engineer with AWS SageMaker | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3717cba2b9262b6d) | 2026-03-27 11:36 |
@@ -478,8 +480,6 @@ Last updated: 2026-03-27 11:36
 | Lennar | AI Engineer II | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e3ac54f02015073) | 2026-03-23 16:48 |
 | Regions Financial | Cloud DevSecOps Engineer | Hoover, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce221f86292702dd) | 2026-03-23 15:53 |
 | Bentley Systems | AI Software Engineer | Exton, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8766b681045861f3) | 2026-03-23 14:09 |
-| Openkyber | Kubernetes Security Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a7be29572b27f0f) | 2026-03-23 11:38 |
-| Openkyber | .NET Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19e37e48078f59f2) | 2026-03-23 11:38 |
 
 
 ---
