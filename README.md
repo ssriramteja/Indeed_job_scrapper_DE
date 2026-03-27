@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 01:25
+Last updated: 2026-03-27 04:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Qode | AWS Solutions Architect | Minneapolis, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e1b3890dd7317bec) | 2026-03-27 04:27 |
+| Shamrock Trading Corporation | Data Ops Engineer II | Overland Park, KS, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=aa1b84a97d114dd0) | 2026-03-27 04:27 |
+| NuView | Data Engineer Remote | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9aa3e227f230a38e) | 2026-03-27 04:27 |
+| nan | Snowflake Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=73f9cbcb57b8893b) | 2026-03-27 04:27 |
+| Skidmore, Owings & Merrill | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f30cc04c7a5b1640) | 2026-03-27 04:27 |
 | Public Partnerships LLC | Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=32b14cab00de850b) | 2026-03-27 01:25 |
 | Realign | Java Full Stack Developer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d6d6c1cc52916e8a) | 2026-03-27 01:25 |
 | Anika Systems | Data Analyst | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=54663b10957e30b4) | 2026-03-27 01:25 |
@@ -486,7 +491,6 @@ Last updated: 2026-03-27 01:25
 | Capgemini | Data Engineer | Nashville, TN, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=20c3803f586deedc) | 2026-03-23 06:05 |
 | DNV KEMA Energy & Sustainability | Senior Machine Learning Engineer - Energy | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ea8d61e353dcf3fe) | 2026-03-23 06:05 |
 | Trimble | Site Reliability Engineer - Machine Learning | Westminster, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4fa376cb1aac719) | 2026-03-23 06:05 |
-| nan | SAP S/4 Solution Architect | Richardson, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f609856527b5e2b8) | 2026-03-23 04:20 |
 
 
 ---
