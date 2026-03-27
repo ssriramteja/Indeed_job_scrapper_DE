@@ -1,13 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 20:29
+Last updated: 2026-03-27 21:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Engineer | Erie, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=659e6db932cf230f) | 2026-03-27 21:27 |
+| General Motors (GM) | OnStar Vehicle Data System Engineer | Warren, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a391c3e6f726ee71) | 2026-03-27 21:27 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-27 21:27 |
+| Informatica | Data Engineer | Mexico, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eabefa51e4976b97) | 2026-03-27 21:27 |
+| CFS Brands, LLC | Data Engineer - Oklahoma City, OK | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfb492a67fde6480) | 2026-03-27 21:27 |
+| Ideacrew | Junior Data Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe9de487ccd11ade) | 2026-03-27 21:27 |
+| Informatica | Performance Engineer | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2299267620bf729) | 2026-03-27 21:27 |
 | Addepto | Data Engineer (GCP, Snowflake) | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=171e4e9a5f95f349) | 2026-03-27 20:29 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-27 20:29 |
 | North Carolina State University | REFRAME Platform Architect | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f51272f2fb3899cf) | 2026-03-27 20:29 |
 | innoVet Health, LLC | Azure Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f77a2037f942c65a) | 2026-03-27 20:29 |
 | Ignite Insurance Systems | Data Developer - L2 | Holmdel, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c72f53b3836fad3b) | 2026-03-27 20:29 |
@@ -487,12 +493,6 @@ Last updated: 2026-03-27 20:29
 | UPS | Senior Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e31b9336087ca67) | 2026-03-23 21:28 |
 | Illumio | Site Reliability Engineer II | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a7425dae5000454) | 2026-03-23 21:28 |
 | Nexxen | Senior Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=900fcf3171128995) | 2026-03-23 21:28 |
-| Kennesaw State University | Data Infrastructure Engineer | Kennesaw, GA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=e0ab4ea66cd88f5a) | 2026-03-23 20:30 |
-| Optum | Senior AI/ML Engineer - MLOps & Production AI Systems - Remote or Hybrid in MN/DC | Eden Prairie, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8efb3901b9a2f678) | 2026-03-23 20:30 |
-| Fidelity TalentSource | Sr. Java Full Stack Engineer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a2bf76acfd2510ec) | 2026-03-23 20:30 |
-| Premier Inc. | Software Engineer - Full Stack | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7caafc9fc9ff0d6a) | 2026-03-23 20:30 |
-| Esri | Sr. DevOps Engineer AWS | Redlands, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47bbf34a2d6b1efb) | 2026-03-23 20:30 |
-| Amentum | Entry Level Software Engineer | Huntsville, AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f3a3a650f5c651d) | 2026-03-23 20:30 |
 
 
 ---
