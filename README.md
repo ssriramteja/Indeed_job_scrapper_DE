@@ -1,12 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 18:44
+Last updated: 2026-03-27 19:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-27 18:44 |
+| Chirpn | Tech Architect - Contentstack or Optimizely | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=69dd67d35069ecf2) | 2026-03-27 19:36 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-27 19:36 |
+| Magna International | Senior Business Intelligence Engineer | Lowell, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0ffcdaf2a52019fa) | 2026-03-27 19:36 |
+| Acosta Group | AI/Machine Learning Data Engineer | Issaquah, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=81d0fe049db3a5c5) | 2026-03-27 19:36 |
+| Acosta Group | AI/Machine Learning Data Engineer | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4966d5bf8d7c4665) | 2026-03-27 19:36 |
+| Acosta Group | AI/Machine Learning Data Engineer | Issaquah, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da5500cd01d24e3b) | 2026-03-27 19:36 |
+| Acosta Group | AI/Machine Learning Data Engineer | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=116d2aae5d42caac) | 2026-03-27 19:36 |
+| Sumitomo Group | Data Engineer - DataBricks | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=031d8aae1cb04c4f) | 2026-03-27 19:36 |
+| Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6fea0898e998e85) | 2026-03-27 19:36 |
+| Vessco Water | Analytics & AI Architect | Chanhassen, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c5a01cb73725f2f) | 2026-03-27 19:36 |
+| Sam's Club | Senior, Data Scientist | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1e347cfbf683cf04) | 2026-03-27 19:36 |
+| SimilarWeb | Data Solution Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57dda46ad6b7a646) | 2026-03-27 19:36 |
 | Twilio | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4a087bbfc74bb05) | 2026-03-27 18:44 |
 | Twilio | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b283ba99e10e1ba) | 2026-03-27 18:44 |
 | Openkyber | AWS Network Engineer | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=fd934ff3fd857de0) | 2026-03-27 17:43 |
