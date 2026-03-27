@@ -1,13 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 19:36
+Last updated: 2026-03-27 20:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Addepto | Data Engineer (GCP, Snowflake) | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=171e4e9a5f95f349) | 2026-03-27 20:29 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-27 20:29 |
+| North Carolina State University | REFRAME Platform Architect | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f51272f2fb3899cf) | 2026-03-27 20:29 |
+| innoVet Health, LLC | Azure Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f77a2037f942c65a) | 2026-03-27 20:29 |
+| Ignite Insurance Systems | Data Developer - L2 | Holmdel, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c72f53b3836fad3b) | 2026-03-27 20:29 |
+| Addepto | Data Architect (GCP, Snowflake) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=13a9ab76e83e7683) | 2026-03-27 20:29 |
+| Sherwin-Williams | Senior Data Engineer | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b255fff754cbea82) | 2026-03-27 20:29 |
+| Xylem | Software Developer | Morrisville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d90c7cd56437b3f) | 2026-03-27 20:29 |
 | Chirpn | Tech Architect - Contentstack or Optimizely | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=69dd67d35069ecf2) | 2026-03-27 19:36 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-27 19:36 |
 | Magna International | Senior Business Intelligence Engineer | Lowell, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0ffcdaf2a52019fa) | 2026-03-27 19:36 |
 | Acosta Group | AI/Machine Learning Data Engineer | Issaquah, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=81d0fe049db3a5c5) | 2026-03-27 19:36 |
 | Acosta Group | AI/Machine Learning Data Engineer | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4966d5bf8d7c4665) | 2026-03-27 19:36 |
@@ -486,16 +493,6 @@ Last updated: 2026-03-27 19:36
 | Premier Inc. | Software Engineer - Full Stack | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7caafc9fc9ff0d6a) | 2026-03-23 20:30 |
 | Esri | Sr. DevOps Engineer AWS | Redlands, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47bbf34a2d6b1efb) | 2026-03-23 20:30 |
 | Amentum | Entry Level Software Engineer | Huntsville, AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f3a3a650f5c651d) | 2026-03-23 20:30 |
-| SAP | SAP NS2 Sr. Cloud DevOps Engineer | Newtown Square, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8158e5b52e0208bc) | 2026-03-23 19:42 |
-| New York Life | Senior Associate - AWS Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=66effda273eb3723) | 2026-03-23 19:42 |
-| Alkami Technology | SDET | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0117a3b871784ee4) | 2026-03-23 19:42 |
-| GEICO | Senior Enterprise Ontologist | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=89ff6f25f9a6803e) | 2026-03-23 19:42 |
-| EquipmentShare | Analytics Engineer, People Analytics | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b55dc8877ac2f74) | 2026-03-23 19:42 |
-| Coalfire | Junior Site Reliability Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=849f18264b0353d8) | 2026-03-23 19:42 |
-| GEICO | Senior Taxonomist | Bethesda, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e14a2c939b76bd2f) | 2026-03-23 19:42 |
-| GEICO | Solutions Engineer II - Networking | Bethesda, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=65264a65d2d0171c) | 2026-03-23 19:42 |
-| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e3a6f36401116ae) | 2026-03-23 19:42 |
-| Computershare | Software Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2dce722905ce4a98) | 2026-03-23 19:42 |
 
 
 ---
