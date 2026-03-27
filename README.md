@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 12:43
+Last updated: 2026-03-27 14:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior Software Engineer - Database | Bristol, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=172b25f4f1200ed3) | 2026-03-27 14:06 |
+| nan | Data Engineer II | Santa Monica, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1305647d227e74d0) | 2026-03-27 14:06 |
 | University of Southern California | Associate Data Scientist | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3a58275a555dc05c) | 2026-03-27 12:43 |
 | smartbridge, LLC | Contract - Senior Azure Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f4f4206c880498f) | 2026-03-27 12:43 |
 | Capgemini | Python Developer | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2634d65872a274a7) | 2026-03-27 11:36 |
