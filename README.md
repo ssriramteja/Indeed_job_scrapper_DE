@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 11:21
+Last updated: 2026-03-28 12:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 11:21 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 12:34 |
 | The Bunton Real Estate Co. | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9911da7c780080ec) | 2026-03-28 11:21 |
 | Openkyber | CrowdStrike Container Security Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3051d76e04b9f7d5) | 2026-03-28 11:21 |
 | JPMorganChase | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c95a1853e484041c) | 2026-03-28 09:29 |
@@ -519,9 +519,6 @@ Last updated: 2026-03-28 11:21
 | Clarivate | Technical Architect | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8c2a638eb5531d44) | 2026-03-24 12:50 |
 | Clarivate | Technical Architect | Ann Arbor, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6322cffeb20c3419) | 2026-03-24 12:50 |
 | Clarivate | Technical Architect | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=051ff6a58134edd8) | 2026-03-24 12:50 |
-| Oxford Economics | Analytics Engineer / Sr. Business Intelligence Engineer - Tourism Economics - Philadelphia | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ed1782e281cbd34a) | 2026-03-24 11:39 |
-| nan | Full Stack Developer Intern | Westford, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6d07eb218f7af80) | 2026-03-24 11:39 |
-| CVS Health | Senior Software Development Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d27208e71b125f4) | 2026-03-24 11:39 |
 
 
 ---
