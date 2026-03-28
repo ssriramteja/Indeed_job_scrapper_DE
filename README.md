@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 21:22
+Last updated: 2026-03-28 22:20
 
 ### 🚀 Daily Job Matches
 
@@ -477,15 +477,6 @@ Last updated: 2026-03-28 21:22
 | Gong | Senior DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cb90cff4906f695) | 2026-03-24 22:22 |
 | Circle.so | Senior Quality Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=235baa8877534de1) | 2026-03-24 22:22 |
 | GreenBox Capital | Senior Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83d3f50fcc4de14e) | 2026-03-24 22:22 |
-| Coinbase | Senior Analytics Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0d2d9cf01e65cfd8) | 2026-03-24 21:30 |
-| Equifax | Software Engineer | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=70b82e4ad32cd227) | 2026-03-24 21:30 |
-| SOCOTEC Group | IT AI&S Senior Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e29bb5eef54aab18) | 2026-03-24 21:30 |
-| Tata Consultancy Services (TCS) | SDET | Township of Hamilton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc49399df060bfe1) | 2026-03-24 21:30 |
-| Mercari | Software Engineer, Data | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=69b773db1c488113) | 2026-03-24 21:30 |
-| Coinbase | Software Engineer - Full Stack (EAA - Compliance) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4577a3ce998c3da0) | 2026-03-24 21:30 |
-| The New IEM, LLC | Senior MuleSoft Developer - Austin, TX ONLY | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07073f5e67bf6929) | 2026-03-24 21:30 |
-| Nexxen | Senior Software Engineer | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e1c6fb0f0eba666) | 2026-03-24 21:30 |
-| Tata Consultancy Services (TCS) | Engineer | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d37428d214fe7e4f) | 2026-03-24 21:30 |
 
 
 ---
