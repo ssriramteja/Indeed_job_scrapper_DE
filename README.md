@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 19:24
+Last updated: 2026-03-28 20:20
 
 ### 🚀 Daily Job Matches
 
@@ -486,17 +486,6 @@ Last updated: 2026-03-28 19:24
 | The New IEM, LLC | Senior MuleSoft Developer - Austin, TX ONLY | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07073f5e67bf6929) | 2026-03-24 21:30 |
 | Nexxen | Senior Software Engineer | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e1c6fb0f0eba666) | 2026-03-24 21:30 |
 | Tata Consultancy Services (TCS) | Engineer | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d37428d214fe7e4f) | 2026-03-24 21:30 |
-| FedEx | Data Scientist I & II | Memphis, TN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cc7cdb95523374c3) | 2026-03-24 19:49 |
-| Kiely Family of Companies | Data Analytics Engineer | Tinton Falls, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e0b2ba9ffb9a799d) | 2026-03-24 19:49 |
-| Emcube Technlogy | SAP APME Architect (Agent Performance Management) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a1dc9a778272d57a) | 2026-03-24 19:49 |
-| Computer Magic, Inc. | Entry-Level Systems Administrator | Monona, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=69ebbeeceb66ec13) | 2026-03-24 19:49 |
-| Optum | AI Solution Architect - Remote | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7a2a58090f4bb497) | 2026-03-24 19:49 |
-| Wipro | DEVELOPER L3 | North Quincy, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=72c2c42a5838eae6) | 2026-03-24 19:49 |
-| McAfee | Senior AI Engineer, MarTech | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1daebb30fd5fc85c) | 2026-03-24 19:49 |
-| The Shade Store | Analytics Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c80c249f67538f2f) | 2026-03-24 19:49 |
-| Amplify | Senior Analytics Engineer | Brooklyn, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=65fa1c79d7085ebe) | 2026-03-24 19:49 |
-| The Consortium Inc. | JavaScript (ES6), Node.js, React, AWS, Lambda Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=41ccf0c820aa8964) | 2026-03-24 19:49 |
-| nan | AI/ML - Applied AI Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0106965447754c2) | 2026-03-24 19:49 |
 
 
 ---
