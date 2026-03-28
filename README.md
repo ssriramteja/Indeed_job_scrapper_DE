@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 04:12
+Last updated: 2026-03-28 05:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 05:51 |
 | Alight Solutions | Senior Full Stack AWS Engineer- Virtual | IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e2ab4655f4008598) | 2026-03-28 04:12 |
 | Diversify | Sr. Data & Integrations Engineer | Sandy, UT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=685f900cfcc4db8d) | 2026-03-28 04:12 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 04:12 |
 | Peraton | FULL-STACK PLATFORM ENGINEER - AGENTIC AI | Annapolis Junction, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a008472239406dc5) | 2026-03-28 04:12 |
 | General Motors (GM) | Senior Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=958d4a0fb09fa9ae) | 2026-03-28 04:12 |
 | Diversified | Senior Microsoft Fabric Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15f9878e43fea763) | 2026-03-28 04:12 |
