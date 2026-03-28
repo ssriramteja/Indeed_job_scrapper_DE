@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-28
 
-**Total Jobs Found:** 136
+**Total Jobs Found:** 135
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -338,7 +338,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 ## 31. Analytics Data Modeler @ Genworth
 **Match Score:** 12.5%
 
-📍 **Location:** Richmond, VA, US USA
+📍 **Location:** Lynchburg, VA, US USA
 
 🔑 **Keywords:** AWS, RDS, Azure, Databricks, Medallion Architecture, Spark, Scala, Data Modeling, Star Schema, ETL
 
@@ -1193,29 +1193,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 109. Senior API Engineer (Python / AWS) @ LPL Financial
+## 109. Software Test Engineer @ Caterpillar
 **Match Score:** 11.1%
 
-📍 **Location:** Fort Mill, SC, US USA
+📍 **Location:** Peoria, IL, US USA
 
-🔑 **Keywords:** AWS, Lambda, SQS, SNS, API Gateway, IAM, RDS, Scala, CI/CD, Terraform
+🔑 **Keywords:** AWS, Lambda, Kinesis, S3, SQS, SNS, ECS, Snowflake, DynamoDB, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c681622c90cd160b)
+[Apply Here](https://www.indeed.com/viewjob?jk=f7de7c68f8d61272)
 
 ---
 
-## 110. Senior, Data Scientist @ Sam's Club
-**Match Score:** 11.1%
-
-📍 **Location:** Sunnyvale, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Vertex AI, Spark, Scala, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1e347cfbf683cf04)
-
----
-
-## 111. Product Analytics, Senior Associate @ athenahealth
+## 110. Product Analytics, Senior Associate @ athenahealth
 **Match Score:** 11.1%
 
 📍 **Location:** Belfast, ME, US USA
@@ -1226,14 +1215,25 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 112. Data Engineer @ Informatica
-**Match Score:** 10.4%
+## 111. Senior API Engineer (Python / AWS) @ LPL Financial
+**Match Score:** 11.1%
 
-📍 **Location:** Mexico, MO, US USA
+📍 **Location:** Fort Mill, SC, US USA
 
-🔑 **Keywords:** AWS, EMR, S3, ECS, IAM, Spark, Scala, Kafka, Snowflake, Data Modeling
+🔑 **Keywords:** AWS, Lambda, SQS, SNS, API Gateway, IAM, RDS, Scala, CI/CD, Terraform
 
-[Apply Here](https://www.indeed.com/viewjob?jk=eabefa51e4976b97)
+[Apply Here](https://www.indeed.com/viewjob?jk=c681622c90cd160b)
+
+---
+
+## 112. Senior, Data Scientist @ Sam's Club
+**Match Score:** 11.1%
+
+📍 **Location:** Sunnyvale, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Vertex AI, Spark, Scala, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1e347cfbf683cf04)
 
 ---
 
@@ -1468,18 +1468,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 134. Data Engineer II @ nan
-**Match Score:** 10.4%
-
-📍 **Location:** Santa Monica, CA, US USA
-
-🔑 **Keywords:** EMR, Redshift, Databricks, Spark, Scala, Snowflake, Data Modeling, Dimensional Modeling, ETL, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1305647d227e74d0)
-
----
-
-## 135. Product Analytics, Associate @ athenahealth
+## 134. Product Analytics, Associate @ athenahealth
 **Match Score:** 10.4%
 
 📍 **Location:** Belfast, ME, US USA
@@ -1490,7 +1479,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 136. GCP ML Architect @ Openkyber
+## 135. GCP ML Architect @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** CA, US USA

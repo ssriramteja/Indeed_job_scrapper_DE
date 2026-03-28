@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 12:34
+Last updated: 2026-03-28 13:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 12:34 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 13:44 |
+| Caterpillar | Software Test Engineer | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7de7c68f8d61272) | 2026-03-28 13:44 |
 | The Bunton Real Estate Co. | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9911da7c780080ec) | 2026-03-28 11:21 |
 | Openkyber | CrowdStrike Container Security Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3051d76e04b9f7d5) | 2026-03-28 11:21 |
 | JPMorganChase | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c95a1853e484041c) | 2026-03-28 09:29 |
@@ -516,9 +517,6 @@ Last updated: 2026-03-28 12:34
 | 3Pillar Global | Senior Data Engineer (Python & Snowflake) | MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bff80065b4fd4799) | 2026-03-24 14:15 |
 | Unilever | CD Excellence Data Engineering Associate | Englewood Cliffs, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c49b3555427c9f7a) | 2026-03-24 14:15 |
 | Tyler Technologies | Software Engineer — Public Safety Cloud Integrations | Troy, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2ca08f99f806234c) | 2026-03-24 14:15 |
-| Clarivate | Technical Architect | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8c2a638eb5531d44) | 2026-03-24 12:50 |
-| Clarivate | Technical Architect | Ann Arbor, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6322cffeb20c3419) | 2026-03-24 12:50 |
-| Clarivate | Technical Architect | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=051ff6a58134edd8) | 2026-03-24 12:50 |
 
 
 ---
