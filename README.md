@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 09:29
+Last updated: 2026-03-28 10:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 10:23 |
 | JPMorganChase | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c95a1853e484041c) | 2026-03-28 09:29 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 09:29 |
 | BayOne Solutions | AI SW Developer | PR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=000259e18029be16) | 2026-03-28 09:29 |
 | JPMorganChase | Software Engineer III- AWS/Python/PySpark | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c48a092ef1e42df2) | 2026-03-28 09:29 |
 | JPMorganChase | Software Engineer III- AWS/Python/PySpark | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08b8b745d8fa7fac) | 2026-03-28 09:29 |
@@ -520,9 +520,6 @@ Last updated: 2026-03-28 09:29
 | Oxford Economics | Analytics Engineer / Sr. Business Intelligence Engineer - Tourism Economics - Philadelphia | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ed1782e281cbd34a) | 2026-03-24 11:39 |
 | nan | Full Stack Developer Intern | Westford, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6d07eb218f7af80) | 2026-03-24 11:39 |
 | CVS Health | Senior Software Development Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d27208e71b125f4) | 2026-03-24 11:39 |
-| JPMorganChase | Software Engineer III: DevOps | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=eed96ac951faf1fe) | 2026-03-24 09:46 |
-| JPMorganChase | Software Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f7e36064fcccf83f) | 2026-03-24 09:46 |
-| Conduent | Senior Java Developer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f423abaf086a5787) | 2026-03-24 09:46 |
 
 
 ---
