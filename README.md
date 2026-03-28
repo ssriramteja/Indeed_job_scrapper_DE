@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 06:47
+Last updated: 2026-03-28 07:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 06:47 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 07:39 |
+| PNC Financial Services Group | Senior Technology Engineer - Java, Angular, React | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebadb315e19ee162) | 2026-03-28 07:39 |
 | Quantiphi | Associate Technical Architect - DE - Databricks | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4b314c9efdb4188c) | 2026-03-28 06:47 |
 | Alight Solutions | Senior Full Stack AWS Engineer- Virtual | IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e2ab4655f4008598) | 2026-03-28 04:12 |
 | Diversify | Sr. Data & Integrations Engineer | Sandy, UT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=685f900cfcc4db8d) | 2026-03-28 04:12 |
@@ -519,8 +520,6 @@ Last updated: 2026-03-28 06:47
 | General Motors (GM) | Senior Data Engineer - GM Motorsports | Concord, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e18d9eef9566cc88) | 2026-03-24 08:41 |
 | GLIDER.ai | Senior DevOps Cloud Engineer | Cupertino, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5d674d73add7909a) | 2026-03-24 07:50 |
 | Talent Kloud | DevOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d77e5d93503e970) | 2026-03-24 07:50 |
-| Autodesk | Sr. Software Engineer, Data Products | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c9e0e8ee32af5e56) | 2026-03-24 06:54 |
-| The RealReal | Senior Data Engineer - Remote USA (*eligible states) | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9240be517a54d28f) | 2026-03-24 06:54 |
 
 
 ---
