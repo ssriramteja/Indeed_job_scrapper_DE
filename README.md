@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 22:20
+Last updated: 2026-03-28 23:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | GCP ML Architect | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f760910209d307d5) | 2026-03-28 23:22 |
+| Openkyber | GCP ETL Engineer | DE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f6fbda0b80cc8b17) | 2026-03-28 23:22 |
+| Openkyber | SAP AI Business Services Consultant | TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=40c91983bc2eae41) | 2026-03-28 23:22 |
+| Acuity Inc. | Senior SRE Cloud Enablement Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4536dd4ecaee73e9) | 2026-03-28 23:22 |
+| Openkyber | CrowdStrike Security Trainee | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5acfaf4bd1f75434) | 2026-03-28 23:22 |
+| Openkyber | GCP Support Associate | MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99da7d209a64961d) | 2026-03-28 23:22 |
 | NTT DATA | Python Snowflake Data Engineer - ONSITE | Buffalo, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c0bc93046858fc0) | 2026-03-28 18:28 |
 | Openkyber | Falcon Fusion Automation Engineer | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eced97189d3f1514) | 2026-03-28 17:22 |
 | Openkyber | CrowdStrike Cloud Security Engineer | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=75c455c9d7ebf2ab) | 2026-03-28 17:22 |
@@ -464,19 +470,6 @@ Last updated: 2026-03-28 22:20
 | T. Rowe Price | AI Data Engineer | Owings Mills, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b8eb10a2720f342) | 2026-03-24 23:23 |
 | Fanatics | Software Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5daf9a09c12e8d35) | 2026-03-24 23:23 |
 | HCA Healthcare | Solution Architect | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7da3735857b8f1b1) | 2026-03-24 23:23 |
-| EBG | PHP Web Application Developer (Modernization) | Austin, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f42f3c1cc306e46b) | 2026-03-24 22:22 |
-| EBG | PHP Web Application Developer (Modernization) | Miami, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f8d17ef03868a4db) | 2026-03-24 22:22 |
-| EBG | PHP Web Application Developer (Modernization) | Orlando, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c4c2f5b1a7f332d1) | 2026-03-24 22:22 |
-| Optum | Senior Software Engineer | Eden Prairie, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d2fd5678c94e0e11) | 2026-03-24 22:22 |
-| KPIT Technologies | Data Scientist | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2653ae0372ac3e8) | 2026-03-24 22:22 |
-| SOCOTEC Group | IT AI&S Senior Data Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9dd7ea95be40f976) | 2026-03-24 22:22 |
-| ClickBank | Senior Cloud Engineer | Boise, ID, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=412f3333e8a582ca) | 2026-03-24 22:22 |
-| LightEdge | AI Engineer | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d903df923be7974b) | 2026-03-24 22:22 |
-| Thales | Site Reliability Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6767c0e89ecdbcae) | 2026-03-24 22:22 |
-| Visa | Senior Database Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c10749649c748ef) | 2026-03-24 22:22 |
-| Gong | Senior DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cb90cff4906f695) | 2026-03-24 22:22 |
-| Circle.so | Senior Quality Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=235baa8877534de1) | 2026-03-24 22:22 |
-| GreenBox Capital | Senior Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83d3f50fcc4de14e) | 2026-03-24 22:22 |
 
 
 ---
