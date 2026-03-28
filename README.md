@@ -1,11 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-27 23:24
+Last updated: 2026-03-28 01:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Slalom Consulting | Snowflake Architect | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=62d75692293d003a) | 2026-03-28 01:19 |
+| Realign | Python and PySpark, No SQL Developer-4 | Mount Laurel, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=23d20f4c9bc6ff98) | 2026-03-28 01:19 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 01:19 |
+| nan | IES ETL Developer (Project Assistant) ref# 10992 | Albany, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b99d4dcee343631) | 2026-03-28 01:19 |
+| Blue Shield of California | Application Developer, Senior | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3718b32eb6f37d75) | 2026-03-28 01:19 |
+| Blue Shield of California | Application Developer, Consultant | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=94c803dbf4827b26) | 2026-03-28 01:19 |
+| Blue Shield of California | Application Developer, Experienced | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=78c18363aa2c52f5) | 2026-03-28 01:19 |
+| Humana | Senior Data Engineer | Louisville, KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2b3170bd3f141b51) | 2026-03-28 01:19 |
+| Humana | Senior Data Engineer | Fort Lauderdale, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=909d897f2ba2cb33) | 2026-03-28 01:19 |
+| Humana | Senior Data Engineer | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc2e1aa6fd844906) | 2026-03-28 01:19 |
+| GigaTech | AWS Cloud Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=624af1ebb09380d1) | 2026-03-28 01:19 |
+| Constitution Surgery Alliance | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0a48717f3aef28ac) | 2026-03-28 01:19 |
+| LPL Financial | Senior API Engineer (Python / AWS) | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c681622c90cd160b) | 2026-03-28 01:19 |
+| SAP | Sr DevOps Engineer | San Ramon, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b3970815943cac3) | 2026-03-28 01:19 |
+| Broadridge | Sr. Site Reliability Engineer (Hybrid) | Newark, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4b0489f31a0619b5) | 2026-03-28 01:19 |
+| NTT DATA | Python Snowflake Data Engineer - ONSITE | Buffalo, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e88e8db10ef6f01) | 2026-03-28 01:19 |
+| Financial Independence Group | Sr. Machine Learning/AI Engineer | Cornelius, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=639c100c6cc2a73a) | 2026-03-28 01:19 |
 | U.S. Pharmacopeia | Senior Data Engineer | Rockville, MD, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=0a8ca3a4199bd053) | 2026-03-27 23:24 |
 | Openkyber | Java Cloud-Native Developer | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e0dab06dbe191608) | 2026-03-27 23:24 |
 | Openkyber | PingOne Cloud Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=418e15f1daab1c02) | 2026-03-27 23:24 |
@@ -13,7 +30,6 @@ Last updated: 2026-03-27 23:24
 | Navitus Health Solutions / Lumicera Health Services | Engineer, Development Operations - Archimedes | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1a508ab92f1823a0) | 2026-03-27 23:24 |
 | Openkyber | Falcon Fusion Automation Engineer | NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=413a6f7ee51cdacf) | 2026-03-27 23:24 |
 | Openkyber | GCP ML Architect | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0898e60057ca64e0) | 2026-03-27 23:24 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-27 23:24 |
 | Openkyber | CrowdStrike Charlotte AI Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1a8e3179e23b63c6) | 2026-03-27 23:24 |
 | Openkyber | CrowdStrike Cloud Security Engineer | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=086171f47946e79e) | 2026-03-27 23:24 |
 | Openkyber | PingOne Cloud Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=682f023dd604d549) | 2026-03-27 23:24 |
@@ -469,14 +485,6 @@ Last updated: 2026-03-27 23:24
 | NTT DATA | Senior Full Stack Engineer | MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af7b83e4a56167a0) | 2026-03-24 04:10 |
 | Envestnet | Platform Engineer II | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3ebbef85373bda7) | 2026-03-24 04:10 |
 | Charles Schwab | Full Stack Java Developer | Southlake, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58ddcb632ed49aa5) | 2026-03-24 04:10 |
-| GM Financial | Data Engineer | Fort Worth, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6cdd88a05bdf3bdd) | 2026-03-24 01:14 |
-| Technology Ventures | Senior Full Stack Developer | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a97d5c07dca33568) | 2026-03-24 01:14 |
-| CrowdStrike | Data Engineer, Sales Data Domain (Remote) | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a4b788ca36aaa4f5) | 2026-03-24 01:14 |
-| M-TECH SYSTEMS | Sr Python Developer - Onsite - Atlanta GA | Dunwoody, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6b195bf8b57adc4) | 2026-03-24 01:14 |
-| Wells Fargo | Java Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=feaca1c6c853922d) | 2026-03-24 01:14 |
-| Collaboration.Ai | DevOps Engineer — AWS, Observability & Security | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=04c23fa1db266892) | 2026-03-24 01:14 |
-| Fiduciary Tech | Business Intelligence Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af06d71fd9191f34) | 2026-03-24 01:14 |
-| Citco | Senior Enterprise Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b6a22f4af2bc60f1) | 2026-03-24 01:14 |
 
 
 ---
