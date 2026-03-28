@@ -1,14 +1,70 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 01:19
+Last updated: 2026-03-28 04:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Alight Solutions | Senior Full Stack AWS Engineer- Virtual | IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e2ab4655f4008598) | 2026-03-28 04:12 |
+| Diversify | Sr. Data & Integrations Engineer | Sandy, UT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=685f900cfcc4db8d) | 2026-03-28 04:12 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 04:12 |
+| Peraton | FULL-STACK PLATFORM ENGINEER - AGENTIC AI | Annapolis Junction, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a008472239406dc5) | 2026-03-28 04:12 |
+| General Motors (GM) | Senior Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=958d4a0fb09fa9ae) | 2026-03-28 04:12 |
+| Diversified | Senior Microsoft Fabric Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15f9878e43fea763) | 2026-03-28 04:12 |
+| Diversified | Senior Microsoft Fabric Data Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c05cb80d44bbb04c) | 2026-03-28 04:12 |
+| Diversified | Senior Microsoft Fabric Data Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7586f5a67c700591) | 2026-03-28 04:12 |
+| Diversified | Senior Microsoft Fabric Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=db3afa4eaeaaefb8) | 2026-03-28 04:12 |
+| Genworth | Analytics Data Modeler | Glen Allen, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=14f536a48f4fdc34) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64fef73349a43ba5) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3eb4db52397ef20c) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3fa954902b46c5d4) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=333ae404dd34cbfd) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Dayton, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ded58bcf667d917) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b46e98c69893ca89) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dd40b868a72be114) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=55fe46eb30bf558d) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Huntsville, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=be51ca09a12133f6) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06f62f1d27d9bcc7) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Hermitage, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1620f3048487508d) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Morristown, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7c7060ab605a6da6) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ed5f9dd6726dfa1) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Mechanicsburg, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cd881f9a9d80b357) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Memphis, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=baf33ed75098ddba) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=35cd794e31e1371b) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c4b87e67f633a413) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08c63000378ccab9) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dc983dd47b6b4903) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=254fe941714812ef) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Rochester, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b5e714598120506) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e569e5fed71aaa85) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=58e0c148a8771ca1) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | San Antonio, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=083af3bb92fb47e1) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5bb07f515311c26f) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=372ba56cb0f4713e) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b5352ddc6938b45b) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | New Orleans, LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=139d084c4035272f) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Detroit, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3fb231ade4797f72) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dee78dcb4ebbee99) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9fc6fce23c5b4ed8) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Louisville, KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92c5bde39d3c6eb3) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6c2464a99a3e0000) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b8ca5e9ed10ce680) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19342b302bc8ed18) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d5329cf0676570e) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c004ba57051a5fb9) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Jacksonville, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=32e84d65b2b8cba0) | 2026-03-28 04:12 |
+| Deloitte | Software Product Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92e8f04946c3d5f2) | 2026-03-28 04:12 |
+| Tata Consultancy Services (TCS) | Data Architect | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=33c5155b5ac41196) | 2026-03-28 04:12 |
+| TruStage | Senior Data Architect - Hybrid | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e5afd28e9bafa56) | 2026-03-28 04:12 |
+| Caterpillar | Senior Software Engineer (Full Stack) | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cc2794850e208d3) | 2026-03-28 04:12 |
+| BNY | Senior Java Full Stack Developer (contract) | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a196cc7b3dc6132) | 2026-03-28 04:12 |
+| Salesforce | Senior Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfd6703d1d75ffcd) | 2026-03-28 04:12 |
+| Informatica | Senior Data Engineer | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cdf5fcb52918d331) | 2026-03-28 04:12 |
+| Crimson Phoenix | Data Engineer - Mid | Springfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3206404a7cafe75) | 2026-03-28 04:12 |
+| Woven Health Collective | Senior Software Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d0fb7c97aeebb8b) | 2026-03-28 04:12 |
 | Slalom Consulting | Snowflake Architect | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=62d75692293d003a) | 2026-03-28 01:19 |
 | Realign | Python and PySpark, No SQL Developer-4 | Mount Laurel, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=23d20f4c9bc6ff98) | 2026-03-28 01:19 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 01:19 |
 | nan | IES ETL Developer (Project Assistant) ref# 10992 | Albany, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b99d4dcee343631) | 2026-03-28 01:19 |
 | Blue Shield of California | Application Developer, Senior | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3718b32eb6f37d75) | 2026-03-28 01:19 |
 | Blue Shield of California | Application Developer, Consultant | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=94c803dbf4827b26) | 2026-03-28 01:19 |
@@ -465,26 +521,6 @@ Last updated: 2026-03-28 01:19
 | Autodesk | Sr. Software Engineer, Data Products | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c9e0e8ee32af5e56) | 2026-03-24 06:54 |
 | The RealReal | Senior Data Engineer - Remote USA (*eligible states) | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9240be517a54d28f) | 2026-03-24 06:54 |
 | Raptive | Software Engineer II, Ads Delivery | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e82c7cbfd626d992) | 2026-03-24 05:55 |
-| Bitdeer Technologies Group | Senior Software Engineer - Cloud | CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3d17ff767cfe6de4) | 2026-03-24 04:10 |
-| Anywhere Real Estate | Senior Data Engineer | Madison, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6dfe24311f764a8a) | 2026-03-24 04:10 |
-| Johnson & Johnson | Senior IT Analyst - Data Engineering | Irvine, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=57867842740dcc59) | 2026-03-24 04:10 |
-| SAP | Cyber Security Design Sr Specialist | Newtown Square, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=464717bcd30ad3a6) | 2026-03-24 04:10 |
-| Redzara LLC | ServiceNow Consultant | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8edc3ae2890245d3) | 2026-03-24 04:10 |
-| Popular, Inc. | Sr Data Modeler | Rosemont, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c0d552643e7eedb) | 2026-03-24 04:10 |
-| Elixir Technologies | Senior DevOps Engineer | Ojai, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a724ee3a9b6bd5bb) | 2026-03-24 04:10 |
-| Smart IMS | Senior DevOps Engineer (Azure DevOps) | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=40e14868fa1c6b9b) | 2026-03-24 04:10 |
-| Stanford University | Enterprise Cloud Infrastructure Engineer | Redwood City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c76f242258bad842) | 2026-03-24 04:10 |
-| Delaware North | Engineer, Enterprise Data Management | Buffalo, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0f4b0fb16ab29222) | 2026-03-24 04:10 |
-| Herc Rentals | Senior BI Data Scientist | Bonita Springs, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ada483ee6dc6f16f) | 2026-03-24 04:10 |
-| McKesson | Sr Business Data Analyst | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ffc24446fe258028) | 2026-03-24 04:10 |
-| GEICO | Machine Learning Engineer II - AI Research | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3ef7e9e1ea58ee1) | 2026-03-24 04:10 |
-| GEICO | Machine Learning Engineer II - AI Research | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07b8d90194afa03f) | 2026-03-24 04:10 |
-| GEICO | Machine Learning Engineer II - AI Research | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1d172d2add04f64) | 2026-03-24 04:10 |
-| General Motors (GM) | Senior Software Engineer - GM Motorsports | Concord, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1d06ec90d0b551f) | 2026-03-24 04:10 |
-| Advanced Systems Design | Data Quality Analyst - 5821 | Montgomery, AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f705802002c673cd) | 2026-03-24 04:10 |
-| NTT DATA | Senior Full Stack Engineer | MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af7b83e4a56167a0) | 2026-03-24 04:10 |
-| Envestnet | Platform Engineer II | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3ebbef85373bda7) | 2026-03-24 04:10 |
-| Charles Schwab | Full Stack Java Developer | Southlake, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58ddcb632ed49aa5) | 2026-03-24 04:10 |
 
 
 ---
