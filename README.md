@@ -1,12 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 16:23
+Last updated: 2026-03-28 17:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 16:23 |
+| Openkyber | Falcon Fusion Automation Engineer | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eced97189d3f1514) | 2026-03-28 17:22 |
+| Openkyber | CrowdStrike Cloud Security Engineer | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=75c455c9d7ebf2ab) | 2026-03-28 17:22 |
+| Openkyber | CrowdStrike GenAI Security Engineer | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=90098a812a3f2e4e) | 2026-03-28 17:22 |
+| Openkyber | CrowdStrike AI Security Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa2c542b1c6936ce) | 2026-03-28 17:22 |
+| Openkyber | CrowdStrike AI Security Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0d17925590b6bc95) | 2026-03-28 17:22 |
+| Openkyber | CrowdStrike GenAI Security Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=404bcc6e4c24eef4) | 2026-03-28 17:22 |
+| Openkyber | CrowdStrike GenAI Security Engineer | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f335fe8313e7021) | 2026-03-28 17:22 |
 | Carrier | AI & Data Solution Architect | Atlanta, GA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=0e27010d95a9e3bd) | 2026-03-28 15:23 |
 | Caterpillar | Software Test Engineer | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7de7c68f8d61272) | 2026-03-28 13:44 |
 | The Bunton Real Estate Co. | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9911da7c780080ec) | 2026-03-28 11:21 |
@@ -504,12 +510,6 @@ Last updated: 2026-03-28 16:23
 | Plante Moran | AI Data Engineer | Southfield, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39cd370d20d11526) | 2026-03-24 17:56 |
 | Openkyber | Salesforce AI / Einstein Developer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e26b8f2a42544e0) | 2026-03-24 17:56 |
 | Truist | Application Architect - Amazon Connect SME | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16ff12a5782403e3) | 2026-03-24 17:56 |
-| Brillius | Devops - Embedded Engineer - IOT | San Francisco, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7e14322c45e210aa) | 2026-03-24 16:58 |
-| Inland Empire Health Plan | Data Engineer II | Rancho Cucamonga, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cec7ac1f3411b653) | 2026-03-24 16:58 |
-| Serco | Cloud/Software Architect - 100% Remote Opportunity | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eba4f0e576986052) | 2026-03-24 16:58 |
-| Inland Empire Health Plan | Data Engineer III | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=103595c75d73a7c1) | 2026-03-24 16:58 |
-| Inland Empire Health Plan | Developer III - Application Development | Rancho Cucamonga, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f3984b03cd26c72) | 2026-03-24 16:58 |
-| Inland Empire Health Plan | Developer III - Application Development (Data Integration) | Rancho Cucamonga, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee815ea22a573add) | 2026-03-24 16:58 |
 
 
 ---
