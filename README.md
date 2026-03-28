@@ -1,12 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 08:29
+Last updated: 2026-03-28 09:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 08:29 |
+| JPMorganChase | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c95a1853e484041c) | 2026-03-28 09:29 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 09:29 |
+| BayOne Solutions | AI SW Developer | PR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=000259e18029be16) | 2026-03-28 09:29 |
+| JPMorganChase | Software Engineer III- AWS/Python/PySpark | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c48a092ef1e42df2) | 2026-03-28 09:29 |
+| JPMorganChase | Software Engineer III- AWS/Python/PySpark | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08b8b745d8fa7fac) | 2026-03-28 09:29 |
+| JPMorganChase | Software Engineer III - AI/ML Deep Learning & GPU ML Serving | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=65af32e7dacb8cde) | 2026-03-28 09:29 |
+| PepperPointe Partnerships | Data Engineer l | Lexington, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a16dfe0847dba18) | 2026-03-28 09:29 |
+| JPMorganChase | Software Engineer III - Data Protection & Recovery | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3a3ede6c693f79ff) | 2026-03-28 09:29 |
 | Texas Oncology | Remote Senior Healthcare Data Engineer - Precision Medicine Informatics - Dallas, Tx | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa8179ba2a6e67fe) | 2026-03-28 08:29 |
 | PNC Financial Services Group | Senior Technology Engineer - Java, Angular, React | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebadb315e19ee162) | 2026-03-28 07:39 |
 | Quantiphi | Associate Technical Architect - DE - Databricks | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4b314c9efdb4188c) | 2026-03-28 06:47 |
@@ -516,9 +523,6 @@ Last updated: 2026-03-28 08:29
 | JPMorganChase | Software Engineer III: DevOps | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=eed96ac951faf1fe) | 2026-03-24 09:46 |
 | JPMorganChase | Software Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f7e36064fcccf83f) | 2026-03-24 09:46 |
 | Conduent | Senior Java Developer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f423abaf086a5787) | 2026-03-24 09:46 |
-| TraXtion | .NET Software Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24f809df752b708e) | 2026-03-24 08:41 |
-| RJW Logistics | Senior DevSecOps Engineer | Bolingbrook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=00950f1140481fca) | 2026-03-24 08:41 |
-| General Motors (GM) | Senior Data Engineer - GM Motorsports | Concord, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e18d9eef9566cc88) | 2026-03-24 08:41 |
 
 
 ---
