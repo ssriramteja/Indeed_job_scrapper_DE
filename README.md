@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 17:22
+Last updated: 2026-03-28 18:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | Python Snowflake Data Engineer - ONSITE | Buffalo, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c0bc93046858fc0) | 2026-03-28 18:28 |
 | Openkyber | Falcon Fusion Automation Engineer | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eced97189d3f1514) | 2026-03-28 17:22 |
 | Openkyber | CrowdStrike Cloud Security Engineer | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=75c455c9d7ebf2ab) | 2026-03-28 17:22 |
 | Openkyber | CrowdStrike GenAI Security Engineer | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=90098a812a3f2e4e) | 2026-03-28 17:22 |
@@ -498,18 +499,6 @@ Last updated: 2026-03-28 17:22
 | nan | AI/ML - Applied AI Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0106965447754c2) | 2026-03-24 19:49 |
 | Cintas | IT Data Engineer - Level 3 | Mason, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2550c832064daf74) | 2026-03-24 18:51 |
 | Cintas | IT Data Engineer - Level 3 | Mason, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=35633737b3f1427c) | 2026-03-24 18:51 |
-| Openkyber | GenAI Threat Intelligence Analyst | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1cec5fe386ea9e81) | 2026-03-24 17:56 |
-| Openkyber | Salesforce Service Cloud Specialist | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8c63d8ea7f769e54) | 2026-03-24 17:56 |
-| Openkyber | Senior AI Security Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d83c4d4db97873d5) | 2026-03-24 17:56 |
-| Openkyber | Falcon Fusion Automation Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e5ed7b4a07ec36ef) | 2026-03-24 17:56 |
-| Also | Senior Data Engineer - Analytics and Visualization | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cbe62c0aa52bf9aa) | 2026-03-24 17:56 |
-| Openkyber | PingOne Cloud Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=77901b3684582750) | 2026-03-24 17:56 |
-| Intellias | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c59056599f6669cd) | 2026-03-24 17:56 |
-| Openkyber | Salesforce Financial Services Cloud Consultant | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=49aab47ecac4bb84) | 2026-03-24 17:56 |
-| Intellias | Data Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5fc90240b32e9d4a) | 2026-03-24 17:56 |
-| Plante Moran | AI Data Engineer | Southfield, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39cd370d20d11526) | 2026-03-24 17:56 |
-| Openkyber | Salesforce AI / Einstein Developer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e26b8f2a42544e0) | 2026-03-24 17:56 |
-| Truist | Application Architect - Amazon Connect SME | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16ff12a5782403e3) | 2026-03-24 17:56 |
 
 
 ---
