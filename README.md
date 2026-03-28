@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 10:23
+Last updated: 2026-03-28 11:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 10:23 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 11:21 |
+| The Bunton Real Estate Co. | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9911da7c780080ec) | 2026-03-28 11:21 |
+| Openkyber | CrowdStrike Container Security Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3051d76e04b9f7d5) | 2026-03-28 11:21 |
 | JPMorganChase | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c95a1853e484041c) | 2026-03-28 09:29 |
 | BayOne Solutions | AI SW Developer | PR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=000259e18029be16) | 2026-03-28 09:29 |
 | JPMorganChase | Software Engineer III- AWS/Python/PySpark | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c48a092ef1e42df2) | 2026-03-28 09:29 |
