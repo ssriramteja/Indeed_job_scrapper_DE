@@ -148,18 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Engineer, Development Operations - Archimedes @ Navitus Health Solutions / Lumicera Health Services
-**Match Score:** 14.6%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** IAM, RDS, Azure, Data Factory, Databricks, Scala, ETL, CI/CD, GitHub Actions, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1a508ab92f1823a0)
-
----
-
-## 15. AI Architect @ ICW Group
+## 14. AI Architect @ ICW Group
 **Match Score:** 14.6%
 
 📍 **Location:** San Diego, CA, US USA
@@ -170,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Falcon Fusion Automation Engineer @ Openkyber
+## 15. Falcon Fusion Automation Engineer @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** NY, US USA
@@ -178,6 +167,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Dataflow, Scala, Snowflake, Oracle, SQL Server, Data Modeling, Dimensional Modeling, Snowflake Schema
 
 [Apply Here](https://www.indeed.com/viewjob?jk=413a6f7ee51cdacf)
+
+---
+
+## 16. Engineer, Development Operations - Archimedes @ Navitus Health Solutions / Lumicera Health Services
+**Match Score:** 14.6%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** IAM, RDS, Azure, Data Factory, Databricks, Scala, ETL, CI/CD, GitHub Actions, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1a508ab92f1823a0)
 
 ---
 
@@ -423,7 +423,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Application Developer, Consultant @ Blue Shield of California
+## 39. Senior Business Intelligence Engineer @ Magna International
+**Match Score:** 12.5%
+
+📍 **Location:** Lowell, MA, US USA
+
+🔑 **Keywords:** AWS, Redshift, RDS, Databricks, BigQuery, Scala, Snowflake, ETL, ELT, dbt
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0ffcdaf2a52019fa)
+
+---
+
+## 40. Application Developer, Consultant @ Blue Shield of California
 **Match Score:** 12.5%
 
 📍 **Location:** Oakland, CA, US USA
@@ -434,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Application Developer, Senior @ Blue Shield of California
+## 41. Application Developer, Senior @ Blue Shield of California
 **Match Score:** 12.5%
 
 📍 **Location:** Oakland, CA, US USA
@@ -445,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Application Developer, Experienced @ Blue Shield of California
+## 42. Application Developer, Experienced @ Blue Shield of California
 **Match Score:** 12.5%
 
 📍 **Location:** Oakland, CA, US USA
@@ -453,17 +464,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Oracle, SQL Server, NoSQL, CI/CD, Terraform
 
 [Apply Here](https://www.indeed.com/viewjob?jk=78c18363aa2c52f5)
-
----
-
-## 42. Senior Business Intelligence Engineer @ Magna International
-**Match Score:** 12.5%
-
-📍 **Location:** Lowell, MA, US USA
-
-🔑 **Keywords:** AWS, Redshift, RDS, Databricks, BigQuery, Scala, Snowflake, ETL, ELT, dbt
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0ffcdaf2a52019fa)
 
 ---
 
@@ -1127,18 +1127,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. CrowdStrike Container Security Engineer @ Openkyber
-**Match Score:** 11.1%
-
-📍 **Location:** TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, CI/CD, Jenkins, Terraform, Docker, Kubernetes, Jenkins, SonarQube
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3051d76e04b9f7d5)
-
----
-
-## 104. Software Engineer III - AI/ML Deep Learning & GPU ML Serving @ JPMorganChase
+## 103. Software Engineer III - AI/ML Deep Learning & GPU ML Serving @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -1149,7 +1138,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 105. Senior Data Architect - Hybrid @ TruStage
+## 104. CrowdStrike Container Security Engineer @ Openkyber
+**Match Score:** 11.1%
+
+📍 **Location:** TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, CI/CD, Jenkins, Terraform, Docker, Kubernetes, Jenkins, SonarQube
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3051d76e04b9f7d5)
+
+---
+
+## 105. Software Test Engineer @ Caterpillar
+**Match Score:** 11.1%
+
+📍 **Location:** Peoria, IL, US USA
+
+🔑 **Keywords:** AWS, Lambda, Kinesis, S3, SQS, SNS, ECS, Snowflake, DynamoDB, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f7de7c68f8d61272)
+
+---
+
+## 106. Senior Data Architect - Hybrid @ TruStage
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -1157,17 +1168,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, GCP, Scala, Snowflake, NoSQL, Data Modeling
 
 [Apply Here](https://www.indeed.com/viewjob?jk=7e5afd28e9bafa56)
-
----
-
-## 106. Senior Software Engineer (Full Stack) @ Caterpillar
-**Match Score:** 11.1%
-
-📍 **Location:** Peoria, IL, US USA
-
-🔑 **Keywords:** AWS, Lambda, Kinesis, SNS, ECS, RDS, Azure, Scala, DynamoDB, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8cc2794850e208d3)
 
 ---
 
@@ -1193,18 +1193,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 109. Software Test Engineer @ Caterpillar
-**Match Score:** 11.1%
-
-📍 **Location:** Peoria, IL, US USA
-
-🔑 **Keywords:** AWS, Lambda, Kinesis, S3, SQS, SNS, ECS, Snowflake, DynamoDB, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f7de7c68f8d61272)
-
----
-
-## 110. Product Analytics, Senior Associate @ athenahealth
+## 109. Product Analytics, Senior Associate @ athenahealth
 **Match Score:** 11.1%
 
 📍 **Location:** Belfast, ME, US USA
@@ -1215,7 +1204,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 111. Senior API Engineer (Python / AWS) @ LPL Financial
+## 110. Senior API Engineer (Python / AWS) @ LPL Financial
 **Match Score:** 11.1%
 
 📍 **Location:** Fort Mill, SC, US USA
@@ -1223,6 +1212,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, SQS, SNS, API Gateway, IAM, RDS, Scala, CI/CD, Terraform
 
 [Apply Here](https://www.indeed.com/viewjob?jk=c681622c90cd160b)
+
+---
+
+## 111. Senior Software Engineer (Full Stack) @ Caterpillar
+**Match Score:** 11.1%
+
+📍 **Location:** Peoria, IL, US USA
+
+🔑 **Keywords:** AWS, Lambda, Kinesis, SNS, ECS, RDS, Azure, Scala, DynamoDB, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8cc2794850e208d3)
 
 ---
 
@@ -1402,29 +1402,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 128. Sr Firmware DevOps Engineer @ Milwaukee Tool
-**Match Score:** 10.4%
-
-📍 **Location:** Brookfield, WI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, CI/CD, GitHub Actions, Terraform, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6171331838e8d021)
-
----
-
-## 129. Senior Software Developer @ Woven Health Collective
-**Match Score:** 10.4%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Oracle, SQL Server, PostgreSQL, CI/CD, Jenkins, AKS, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3d0fb7c97aeebb8b)
-
----
-
-## 130. Sr. Machine Learning/AI Engineer @ Financial Independence Group
+## 128. Sr. Machine Learning/AI Engineer @ Financial Independence Group
 **Match Score:** 10.4%
 
 📍 **Location:** Cornelius, NC, US USA
@@ -1435,7 +1413,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 131. AI Data Scientist @ Summit Utilities, Inc.
+## 129. AI Data Scientist @ Summit Utilities, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Fort Smith, AR, US USA
@@ -1446,7 +1424,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 132. AI Data Scientist @ Summit Utilities, Inc.
+## 130. AI Data Scientist @ Summit Utilities, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Fayetteville, AR, US USA
@@ -1457,7 +1435,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 133. AI Data Scientist @ Summit Utilities, Inc.
+## 131. AI Data Scientist @ Summit Utilities, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Little Rock, AR, US USA
@@ -1468,7 +1446,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 134. Product Analytics, Associate @ athenahealth
+## 132. Product Analytics, Associate @ athenahealth
 **Match Score:** 10.4%
 
 📍 **Location:** Belfast, ME, US USA
@@ -1476,6 +1454,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** Athena, RDS, Spark, Scala, Snowflake, Data Modeling, Power BI, Tableau, CI/CD, AKS
 
 [Apply Here](https://www.indeed.com/viewjob?jk=21f8191c9528fa3a)
+
+---
+
+## 133. Sr Firmware DevOps Engineer @ Milwaukee Tool
+**Match Score:** 10.4%
+
+📍 **Location:** Brookfield, WI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, CI/CD, GitHub Actions, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6171331838e8d021)
+
+---
+
+## 134. Senior Software Developer @ Woven Health Collective
+**Match Score:** 10.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Azure, Scala, Oracle, SQL Server, PostgreSQL, CI/CD, Jenkins, AKS, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3d0fb7c97aeebb8b)
 
 ---
 

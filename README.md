@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 13:44
+Last updated: 2026-03-28 14:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 13:44 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 14:25 |
 | Caterpillar | Software Test Engineer | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7de7c68f8d61272) | 2026-03-28 13:44 |
 | The Bunton Real Estate Co. | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9911da7c780080ec) | 2026-03-28 11:21 |
 | Openkyber | CrowdStrike Container Security Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3051d76e04b9f7d5) | 2026-03-28 11:21 |
@@ -512,11 +512,6 @@ Last updated: 2026-03-28 13:44
 | Qode | Senior Databricks Architect | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=40465efa7f1818bc) | 2026-03-24 15:58 |
 | Oxford Economics | Analytics Engineer / Sr. Business Intelligence Engineer - Tourism Economics - Philadelphia | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b0d76d14c5568ea6) | 2026-03-24 15:58 |
 | Tata Consultancy Services (TCS) | Java Full Stack Developer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1074f4222424a549) | 2026-03-24 15:58 |
-| DocMe360 | Full Stack Developer | Arlington, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b261e4efaa78a896) | 2026-03-24 14:15 |
-| DocMe360 | Full Stack Developer | Arlington, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b324a9abb3a15c5b) | 2026-03-24 14:15 |
-| 3Pillar Global | Senior Data Engineer (Python & Snowflake) | MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bff80065b4fd4799) | 2026-03-24 14:15 |
-| Unilever | CD Excellence Data Engineering Associate | Englewood Cliffs, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c49b3555427c9f7a) | 2026-03-24 14:15 |
-| Tyler Technologies | Software Engineer — Public Safety Cloud Integrations | Troy, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2ca08f99f806234c) | 2026-03-24 14:15 |
 
 
 ---
