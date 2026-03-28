@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 18:28
+Last updated: 2026-03-28 19:24
 
 ### 🚀 Daily Job Matches
 
@@ -497,8 +497,6 @@ Last updated: 2026-03-28 18:28
 | Amplify | Senior Analytics Engineer | Brooklyn, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=65fa1c79d7085ebe) | 2026-03-24 19:49 |
 | The Consortium Inc. | JavaScript (ES6), Node.js, React, AWS, Lambda Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=41ccf0c820aa8964) | 2026-03-24 19:49 |
 | nan | AI/ML - Applied AI Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0106965447754c2) | 2026-03-24 19:49 |
-| Cintas | IT Data Engineer - Level 3 | Mason, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2550c832064daf74) | 2026-03-24 18:51 |
-| Cintas | IT Data Engineer - Level 3 | Mason, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=35633737b3f1427c) | 2026-03-24 18:51 |
 
 
 ---
