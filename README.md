@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 15:23
+Last updated: 2026-03-28 16:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 16:23 |
 | Carrier | AI & Data Solution Architect | Atlanta, GA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=0e27010d95a9e3bd) | 2026-03-28 15:23 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3c263a3534085da2) | 2026-03-28 15:23 |
 | Caterpillar | Software Test Engineer | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7de7c68f8d61272) | 2026-03-28 13:44 |
 | The Bunton Real Estate Co. | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9911da7c780080ec) | 2026-03-28 11:21 |
 | Openkyber | CrowdStrike Container Security Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3051d76e04b9f7d5) | 2026-03-28 11:21 |
@@ -510,9 +510,6 @@ Last updated: 2026-03-28 15:23
 | Inland Empire Health Plan | Data Engineer III | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=103595c75d73a7c1) | 2026-03-24 16:58 |
 | Inland Empire Health Plan | Developer III - Application Development | Rancho Cucamonga, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f3984b03cd26c72) | 2026-03-24 16:58 |
 | Inland Empire Health Plan | Developer III - Application Development (Data Integration) | Rancho Cucamonga, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee815ea22a573add) | 2026-03-24 16:58 |
-| Qode | Senior Databricks Architect | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=40465efa7f1818bc) | 2026-03-24 15:58 |
-| Oxford Economics | Analytics Engineer / Sr. Business Intelligence Engineer - Tourism Economics - Philadelphia | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b0d76d14c5568ea6) | 2026-03-24 15:58 |
-| Tata Consultancy Services (TCS) | Java Full Stack Developer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1074f4222424a549) | 2026-03-24 15:58 |
 
 
 ---
