@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-29
 
-**Total Jobs Found:** 38
+**Total Jobs Found:** 37
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -247,18 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Software Test Engineer @ Caterpillar
-**Match Score:** 11.1%
-
-📍 **Location:** Peoria, IL, US USA
-
-🔑 **Keywords:** AWS, Lambda, Kinesis, S3, SQS, SNS, ECS, Snowflake, DynamoDB, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f7de7c68f8d61272)
-
----
-
-## 24. Okta IAM Engineer @ Openkyber
+## 23. Okta IAM Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -269,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. GCP Support Associate @ Openkyber
+## 24. GCP Support Associate @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** MI, US USA
@@ -280,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Python Snowflake Data Engineer - ONSITE @ NTT DATA
+## 25. Python Snowflake Data Engineer - ONSITE @ NTT DATA
 **Match Score:** 10.4%
 
 📍 **Location:** Buffalo, NY, US USA
@@ -291,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 26. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -302,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Senior Engineer - .NET @ GEICO
+## 27. Senior Engineer - .NET @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -313,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Senior Full Stack Engineer - (Java, React, Data Lake, Microservices) - *HYBRID* @ GEICO
+## 28. Senior Full Stack Engineer - (Java, React, Data Lake, Microservices) - *HYBRID* @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -324,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Senior Engineer - Java [Hybrid] @ GEICO
+## 29. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -335,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Senior Engineer - .NET @ GEICO
+## 30. Senior Engineer - .NET @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -346,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Senior Engineer - Java [Hybrid] @ GEICO
+## 31. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -357,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Engineer II- .Net @ GEICO
+## 32. Engineer II- .Net @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -368,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Engineer II- .Net @ GEICO
+## 33. Engineer II- .Net @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -379,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Engineer II @ GEICO
+## 34. Engineer II @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -390,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Engineer II @ GEICO
+## 35. Engineer II @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -401,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
+## 36. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -412,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
+## 37. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA

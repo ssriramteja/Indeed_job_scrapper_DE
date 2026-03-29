@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 12:35
+Last updated: 2026-03-29 13:46
 
 ### 🚀 Daily Job Matches
 
@@ -449,9 +449,6 @@ Last updated: 2026-03-29 12:35
 | Bloomberg | Senior Software Engineer - Hadoop Infrastructure | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57aca64828ae44c2) | 2026-03-25 14:13 |
 | Futrend Technology, Inc | Sr Java Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=66e658594e26e266) | 2026-03-25 14:13 |
 | Clear Channel Outdoor | Database Administrator / Data Engineer | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1e24a399eaddada3) | 2026-03-25 14:13 |
-| CVS Health | Senior BackEnd Engineer | Scottsdale, AZ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b5da0b19b9bea7fb) | 2026-03-25 12:46 |
-| RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6a60f5615bdba859) | 2026-03-25 12:46 |
-| Polaris I/O | Senior Full Stack Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f266e67ee961e84e) | 2026-03-25 12:46 |
 
 
 ---
