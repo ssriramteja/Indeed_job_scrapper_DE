@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 22:21
+Last updated: 2026-03-29 23:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Terraform MLOps Engineer | GA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=955ac0b1ad8a879b) | 2026-03-29 23:24 |
+| Openkyber | GCP ML Architect | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce062c1221d36aca) | 2026-03-29 23:24 |
+| Openkyber | Terraform MLOps Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=20a8124f877384e7) | 2026-03-29 23:24 |
+| Openkyber | GCP AI Platform Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=037a88873ec44a68) | 2026-03-29 23:24 |
+| Openkyber | SAP AI Business Services Consultant | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6eea039facef1d5) | 2026-03-29 23:24 |
 | Realign | Cloud Data Architect-5 | TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=d6408ada685f1f82) | 2026-03-29 18:29 |
 | Realign | Java Developer-2 | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=58ab9ef429e9dd15) | 2026-03-29 18:29 |
 | Realign | Java Developer-2 | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=52ca61e6deb7ad68) | 2026-03-29 18:29 |
@@ -408,8 +413,6 @@ Last updated: 2026-03-29 22:21
 | Openkyber | Administration & Infrastructure | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6596f101bae22a82) | 2026-03-25 23:26 |
 | Crowe LLP | Senior AI Engineer | Sarasota, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bd5bde56b916bab) | 2026-03-25 23:26 |
 | nan | Senior Business Intelligence Developer | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d53ca27d22c29c3) | 2026-03-25 23:26 |
-| University of Southern California | Associate Data Scientist | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f21680e47d80ce2) | 2026-03-25 22:27 |
-| Travelers | Data Engineer I (Snowflake) | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4860f5d8874039e2) | 2026-03-25 22:27 |
 
 
 ---
