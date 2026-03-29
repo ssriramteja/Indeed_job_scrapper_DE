@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 18:29
+Last updated: 2026-03-29 19:26
 
 ### 🚀 Daily Job Matches
 
@@ -443,9 +443,6 @@ Last updated: 2026-03-29 18:29
 | Centurion Health | Software Application Developer, IT | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21b9a649df292057) | 2026-03-25 20:31 |
 | Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=131b0feaf824cce9) | 2026-03-25 19:41 |
 | Archdiocese of Chicago | Senior Full Stack Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b260063a1f060a0c) | 2026-03-25 19:41 |
-| Vivint | Data Engineer II | Lehi, UT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9a55821b896b85e9) | 2026-03-25 18:44 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5677557f087cb138) | 2026-03-25 18:44 |
-| Brillio LLC | Senior BI Specialist – R01562930 | Virginia Beach, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5053e60f58006ba) | 2026-03-25 18:44 |
 
 
 ---
