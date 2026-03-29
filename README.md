@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 01:28
+Last updated: 2026-03-29 04:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| GEICO | Senior Full Stack Engineer - .NET (HYBRID) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0abc5e7ae8fc4129) | 2026-03-29 04:30 |
+| GEICO | Senior Full Stack Engineer - .NET (HYBRID) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a38818212ef4e3d) | 2026-03-29 04:30 |
 | Openkyber | GCP ML Architect | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f760910209d307d5) | 2026-03-28 23:22 |
 | Openkyber | GCP ETL Engineer | DE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f6fbda0b80cc8b17) | 2026-03-28 23:22 |
 | Openkyber | SAP AI Business Services Consultant | TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=40c91983bc2eae41) | 2026-03-28 23:22 |
@@ -435,26 +437,6 @@ Last updated: 2026-03-29 01:28
 | GEICO | Senior Engineer -.NET | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a13dd69a11dd2a2a) | 2026-03-25 06:53 |
 | Live Nation | Senior Cloud Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d2d1e17a962b5fca) | 2026-03-25 05:56 |
 | CloudZero | Distinguished Architect, Data Platform | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd1095da2d18982) | 2026-03-25 05:56 |
-| Equinix | Data Engineer (GCP) | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1224b5cebc9ca8bb) | 2026-03-25 04:12 |
-| Equinix | Data Engineer (GCP) | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4bc3a06012f008f3) | 2026-03-25 04:12 |
-| Millennium Management | Cloud Platform Engineer | New York, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=69b516454f937a66) | 2026-03-25 04:12 |
-| Charles Schwab | Cloud Data Platform Engineer | Southlake, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=815d21355bca9afb) | 2026-03-25 04:12 |
-| McKesson | Specialist, Data Engineer | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d15957719609ec59) | 2026-03-25 04:12 |
-| Deloitte | Data Foundations Engineer | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=73966b170bd92bef) | 2026-03-25 04:12 |
-| Deloitte | Data Foundations Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f328d78d7b80a9bf) | 2026-03-25 04:12 |
-| Deloitte | Data Foundations Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=19cd66b829b5339a) | 2026-03-25 04:12 |
-| Deloitte | Data Foundations Engineer | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a15946806730eb5d) | 2026-03-25 04:12 |
-| Old National Bank | Data Engineer III | Lake Elmo, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f1ae7b8f4932aea6) | 2026-03-25 04:12 |
-| hr@brxio.com | Data Warehouse Architect + Security Czar | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a9cfc8c1e5c32169) | 2026-03-25 04:12 |
-| Deloitte | Data Operations Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d21a5637c26aeee6) | 2026-03-25 04:12 |
-| Deloitte | Data Operations Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=18d46da9a88bc799) | 2026-03-25 04:12 |
-| Deloitte | Data Operations Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28ea1b73fd02e910) | 2026-03-25 04:12 |
-| Deloitte | Data Operations Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=520267b51ab833b5) | 2026-03-25 04:12 |
-| McKesson | Sr Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=983aa41d463e2b8e) | 2026-03-25 04:12 |
-| Tata Consultancy Services (TCS) | Database Engineer with Java MS | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=25b94269754a9820) | 2026-03-25 04:12 |
-| LightEdge | AI Engineer | Kansas City, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bb7334f3f2d66e8) | 2026-03-25 04:12 |
-| Expedia Group | Software Development Engineer II - ML Platform | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6f38667e23fc2e6a) | 2026-03-25 04:12 |
-| Dudek | Enterprise Data Analytics and AI Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d343da250ebc576a) | 2026-03-25 04:12 |
 
 
 ---
