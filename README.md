@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 19:26
+Last updated: 2026-03-29 20:22
 
 ### 🚀 Daily Job Matches
 
@@ -441,8 +441,6 @@ Last updated: 2026-03-29 19:26
 | ExxonMobil | S&O Developer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd099c12f1c683af) | 2026-03-25 20:31 |
 | Centurion Health | Software Application Developer, IT | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22cae783634b6fb3) | 2026-03-25 20:31 |
 | Centurion Health | Software Application Developer, IT | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21b9a649df292057) | 2026-03-25 20:31 |
-| Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=131b0feaf824cce9) | 2026-03-25 19:41 |
-| Archdiocese of Chicago | Senior Full Stack Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b260063a1f060a0c) | 2026-03-25 19:41 |
 
 
 ---
