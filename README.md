@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 07:47
+Last updated: 2026-03-29 08:30
 
 ### 🚀 Daily Job Matches
 
@@ -436,7 +436,6 @@ Last updated: 2026-03-29 07:47
 | Fusion Academy | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c239fde5950cdb3c) | 2026-03-25 09:44 |
 | Travelers | AI Product Engineer | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4ef1d9dc4f2a3c77) | 2026-03-25 08:40 |
 | MOHELA | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=00ea21484fff4c0b) | 2026-03-25 08:40 |
-| Thermo Fisher Scientific | Data Engineer | Pittsburgh, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=933ad44aa47970a9) | 2026-03-25 07:48 |
 
 
 ---

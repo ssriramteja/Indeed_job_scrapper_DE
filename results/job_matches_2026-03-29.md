@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-29
 
-**Total Jobs Found:** 26
+**Total Jobs Found:** 25
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Software Engineer III - Big Data Pyspark, Java And AWS @ JPMorganChase
-**Match Score:** 16.7%
-
-📍 **Location:** Wilmington, DE, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Athena, Step Functions, S3, IAM, RDS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c95a1853e484041c)
-
----
-
-## 3. CrowdStrike Container Security Engineer @ Openkyber
+## 2. CrowdStrike Container Security Engineer @ Openkyber
 **Match Score:** 16.0%
 
 📍 **Location:** MD, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. CrowdStrike Container Security Engineer @ Openkyber
+## 3. CrowdStrike Container Security Engineer @ Openkyber
 **Match Score:** 15.3%
 
 📍 **Location:** MD, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. GCP ML Architect @ Openkyber
+## 4. GCP ML Architect @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** GA, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Falcon Fusion Automation Engineer @ Openkyber
+## 5. Falcon Fusion Automation Engineer @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** NJ, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. GCP ETL Engineer @ Openkyber
+## 6. GCP ETL Engineer @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** DE, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. SAP AI Business Services Consultant @ Openkyber
+## 7. SAP AI Business Services Consultant @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** TX, US USA
@@ -93,18 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. AI SW Developer @ BayOne Solutions
-**Match Score:** 13.2%
-
-📍 **Location:** PR, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, MySQL, NoSQL, CI/CD, GitHub Actions
-
-[Apply Here](https://www.indeed.com/viewjob?jk=000259e18029be16)
-
----
-
-## 10. CrowdStrike Cloud Security Engineer @ Openkyber
+## 8. CrowdStrike Cloud Security Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** IL, US USA
@@ -115,18 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior SRE Cloud Enablement Engineer @ Acuity Inc.
-**Match Score:** 11.8%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** RDS, Azure, Scala, CI/CD, Jenkins, Azure DevOps, Terraform, Kubernetes, AKS, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4536dd4ecaee73e9)
-
----
-
-## 12. Data Engineer @ The Bunton Real Estate Co.
+## 9. Data Engineer @ The Bunton Real Estate Co.
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -137,7 +104,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. CrowdStrike Container Security Engineer @ Openkyber
+## 10. Senior SRE Cloud Enablement Engineer @ Acuity Inc.
+**Match Score:** 11.8%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** RDS, Azure, Scala, CI/CD, Jenkins, Azure DevOps, Terraform, Kubernetes, AKS, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4536dd4ecaee73e9)
+
+---
+
+## 11. CrowdStrike Container Security Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** GA, US USA
@@ -148,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. CrowdStrike Security Trainee @ Openkyber
+## 12. CrowdStrike Security Trainee @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** NJ, US USA
@@ -159,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. CrowdStrike GenAI Security Engineer @ Openkyber
+## 13. CrowdStrike GenAI Security Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** IL, US USA
@@ -170,29 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Software Engineer III- AWS/Python/PySpark @ JPMorganChase
-**Match Score:** 11.1%
-
-📍 **Location:** Columbus, OH, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, PySpark, Scala, Data Modeling, Star Schema, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c48a092ef1e42df2)
-
----
-
-## 17. Software Engineer III- AWS/Python/PySpark @ JPMorganChase
-**Match Score:** 11.1%
-
-📍 **Location:** Columbus, OH, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, PySpark, Scala, Data Modeling, Star Schema, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=08b8b745d8fa7fac)
-
----
-
-## 18. CrowdStrike AI Security Engineer @ Openkyber
+## 14. CrowdStrike AI Security Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -203,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. CrowdStrike AI Security Engineer @ Openkyber
+## 15. CrowdStrike AI Security Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -214,7 +170,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Senior GCP ML Engineer @ Openkyber
+## 16. CrowdStrike Container Security Engineer @ Openkyber
+**Match Score:** 11.1%
+
+📍 **Location:** TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, CI/CD, Jenkins, Terraform, Docker, Kubernetes, Jenkins, SonarQube
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3051d76e04b9f7d5)
+
+---
+
+## 17. Senior GCP ML Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** TX, US USA
@@ -225,7 +192,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Software Test Engineer @ Caterpillar
+## 18. CrowdStrike GenAI Security Engineer @ Openkyber
+**Match Score:** 11.1%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, S3, API Gateway, ECS, Scala, PostgreSQL, DynamoDB, CI/CD, Jenkins, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=404bcc6e4c24eef4)
+
+---
+
+## 19. Software Test Engineer @ Caterpillar
 **Match Score:** 11.1%
 
 📍 **Location:** Peoria, IL, US USA
@@ -236,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. GCP Support Associate @ Openkyber
+## 20. GCP Support Associate @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** MI, US USA
@@ -247,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Python Snowflake Data Engineer - ONSITE @ NTT DATA
+## 21. Python Snowflake Data Engineer - ONSITE @ NTT DATA
 **Match Score:** 10.4%
 
 📍 **Location:** Buffalo, NY, US USA
@@ -258,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Data Engineer l @ PepperPointe Partnerships
+## 22. Data Engineer l @ PepperPointe Partnerships
 **Match Score:** 10.4%
 
 📍 **Location:** Lexington, KY, US USA
@@ -269,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
+## 23. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -280,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
+## 24. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
@@ -288,6 +266,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=0a38818212ef4e3d)
+
+---
+
+## 25. CrowdStrike GenAI Security Engineer @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Spark, Scala, Kafka, MLOps, CI/CD, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3f335fe8313e7021)
 
 ---
 
