@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 16:26
+Last updated: 2026-03-29 17:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Endpoint Privilege Management Specialist | IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e8cab942be0127b) | 2026-03-29 17:22 |
+| Openkyber | AI Agent Operations Engineer | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2dd5fe5ca4da283b) | 2026-03-29 17:22 |
+| Openkyber | Kubernetes MLOps Engineer | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e369b21b51e562d) | 2026-03-29 17:22 |
+| Openkyber | Senior SRE (GCP) | PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9ff36ecb3e92993) | 2026-03-29 17:22 |
+| Openkyber | Senior SRE (GCP) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e8ded6a35597c773) | 2026-03-29 17:22 |
+| Openkyber | Senior GCP Kubernetes Engineer | MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96cd6cc30dd40084) | 2026-03-29 17:22 |
+| Openkyber | Airflow ML Engineer | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d1c715f07cfc17f) | 2026-03-29 17:22 |
 | The Cheesecake Factory | Integrations Analyst | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba075cb0dad311d7) | 2026-03-29 12:35 |
 | Openkyber | Data Validation Engineer (ML) | NJ, US USA | 35.4% | [Apply](https://www.indeed.com/viewjob?jk=0aa9d1342b93a57e) | 2026-03-29 11:21 |
 | Openkyber | CrowdStrike Charlotte AI Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=085882623e9376f9) | 2026-03-29 11:21 |
