@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 11:21
+Last updated: 2026-03-29 12:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Cheesecake Factory | Integrations Analyst | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba075cb0dad311d7) | 2026-03-29 12:35 |
 | Openkyber | Data Validation Engineer (ML) | NJ, US USA | 35.4% | [Apply](https://www.indeed.com/viewjob?jk=0aa9d1342b93a57e) | 2026-03-29 11:21 |
 | Openkyber | CrowdStrike Charlotte AI Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=085882623e9376f9) | 2026-03-29 11:21 |
 | Openkyber | LLM Deployment Engineer | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1fcc848e376ba98b) | 2026-03-29 11:21 |
@@ -451,7 +452,6 @@ Last updated: 2026-03-29 11:21
 | CVS Health | Senior BackEnd Engineer | Scottsdale, AZ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b5da0b19b9bea7fb) | 2026-03-25 12:46 |
 | RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6a60f5615bdba859) | 2026-03-25 12:46 |
 | Polaris I/O | Senior Full Stack Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f266e67ee961e84e) | 2026-03-25 12:46 |
-| Expertshub | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=74923e4619f29cbd) | 2026-03-25 11:36 |
 
 
 ---
