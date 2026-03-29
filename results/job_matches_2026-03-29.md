@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-29
 
-**Total Jobs Found:** 22
+**Total Jobs Found:** 26
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,7 +27,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. GCP ML Architect @ Openkyber
+## 3. CrowdStrike Container Security Engineer @ Openkyber
+**Match Score:** 16.0%
+
+📍 **Location:** MD, US USA
+
+🔑 **Keywords:** AWS, Lambda, SQS, SNS, ECS, RDS, Kafka, PostgreSQL, NoSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=afb300209d5a9cc9)
+
+---
+
+## 4. CrowdStrike Container Security Engineer @ Openkyber
+**Match Score:** 15.3%
+
+📍 **Location:** MD, US USA
+
+🔑 **Keywords:** AWS, Lambda, SQS, SNS, ECS, RDS, Kafka, PostgreSQL, NoSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dd16761f5f52ad01)
+
+---
+
+## 5. GCP ML Architect @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** GA, US USA
@@ -38,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Falcon Fusion Automation Engineer @ Openkyber
+## 6. Falcon Fusion Automation Engineer @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** NJ, US USA
@@ -49,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. GCP ETL Engineer @ Openkyber
+## 7. GCP ETL Engineer @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** DE, US USA
@@ -60,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. SAP AI Business Services Consultant @ Openkyber
+## 8. SAP AI Business Services Consultant @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** TX, US USA
@@ -71,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. AI SW Developer @ BayOne Solutions
+## 9. AI SW Developer @ BayOne Solutions
 **Match Score:** 13.2%
 
 📍 **Location:** PR, US USA
@@ -82,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. CrowdStrike Cloud Security Engineer @ Openkyber
+## 10. CrowdStrike Cloud Security Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** IL, US USA
@@ -93,18 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Data Engineer @ The Bunton Real Estate Co.
-**Match Score:** 11.8%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Hadoop, Hive, Spark, Scala, Oracle, SQL Server, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9911da7c780080ec)
-
----
-
-## 10. Senior SRE Cloud Enablement Engineer @ Acuity Inc.
+## 11. Senior SRE Cloud Enablement Engineer @ Acuity Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -115,7 +126,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. CrowdStrike Security Trainee @ Openkyber
+## 12. Data Engineer @ The Bunton Real Estate Co.
+**Match Score:** 11.8%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Hadoop, Hive, Spark, Scala, Oracle, SQL Server, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9911da7c780080ec)
+
+---
+
+## 13. CrowdStrike Container Security Engineer @ Openkyber
+**Match Score:** 11.8%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, RDS, Azure, Blob Storage, Google Cloud Platform, Scala, Oracle, SQL Server
+
+[Apply Here](https://www.indeed.com/viewjob?jk=da369ed0415378f8)
+
+---
+
+## 14. CrowdStrike Security Trainee @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** NJ, US USA
@@ -126,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. CrowdStrike GenAI Security Engineer @ Openkyber
+## 15. CrowdStrike GenAI Security Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** IL, US USA
@@ -137,29 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. CrowdStrike AI Security Engineer @ Openkyber
-**Match Score:** 11.1%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Hadoop, Spark, Scala, MLOps, CI/CD, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=aa2c542b1c6936ce)
-
----
-
-## 14. CrowdStrike AI Security Engineer @ Openkyber
-**Match Score:** 11.1%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Hadoop, Spark, Scala, MLOps, MLflow, CI/CD, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0d17925590b6bc95)
-
----
-
-## 15. Software Engineer III- AWS/Python/PySpark @ JPMorganChase
+## 16. Software Engineer III- AWS/Python/PySpark @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -170,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Software Engineer III- AWS/Python/PySpark @ JPMorganChase
+## 17. Software Engineer III- AWS/Python/PySpark @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -181,7 +192,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Software Test Engineer @ Caterpillar
+## 18. CrowdStrike AI Security Engineer @ Openkyber
+**Match Score:** 11.1%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Hadoop, Spark, Scala, MLOps, CI/CD, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=aa2c542b1c6936ce)
+
+---
+
+## 19. CrowdStrike AI Security Engineer @ Openkyber
+**Match Score:** 11.1%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Hadoop, Spark, Scala, MLOps, MLflow, CI/CD, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0d17925590b6bc95)
+
+---
+
+## 20. Senior GCP ML Engineer @ Openkyber
+**Match Score:** 11.1%
+
+📍 **Location:** TX, US USA
+
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, GCP, Cloud Storage, ETL, MLOps, CI/CD, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1de5b143abbaf230)
+
+---
+
+## 21. Software Test Engineer @ Caterpillar
 **Match Score:** 11.1%
 
 📍 **Location:** Peoria, IL, US USA
@@ -192,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. GCP Support Associate @ Openkyber
+## 22. GCP Support Associate @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** MI, US USA
@@ -203,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Python Snowflake Data Engineer - ONSITE @ NTT DATA
+## 23. Python Snowflake Data Engineer - ONSITE @ NTT DATA
 **Match Score:** 10.4%
 
 📍 **Location:** Buffalo, NY, US USA
@@ -214,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Data Engineer l @ PepperPointe Partnerships
+## 24. Data Engineer l @ PepperPointe Partnerships
 **Match Score:** 10.4%
 
 📍 **Location:** Lexington, KY, US USA
@@ -225,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
+## 25. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -236,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
+## 26. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA

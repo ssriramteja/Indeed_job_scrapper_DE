@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 04:30
+Last updated: 2026-03-29 06:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | CrowdStrike Container Security Engineer | MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=afb300209d5a9cc9) | 2026-03-29 06:07 |
+| Openkyber | CrowdStrike Container Security Engineer | MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dd16761f5f52ad01) | 2026-03-29 06:07 |
+| Openkyber | CrowdStrike Container Security Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da369ed0415378f8) | 2026-03-29 06:07 |
+| Openkyber | Senior GCP ML Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1de5b143abbaf230) | 2026-03-29 06:07 |
 | GEICO | Senior Full Stack Engineer - .NET (HYBRID) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0abc5e7ae8fc4129) | 2026-03-29 04:30 |
 | GEICO | Senior Full Stack Engineer - .NET (HYBRID) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a38818212ef4e3d) | 2026-03-29 04:30 |
 | Openkyber | GCP ML Architect | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f760910209d307d5) | 2026-03-28 23:22 |
@@ -435,8 +439,6 @@ Last updated: 2026-03-29 04:30
 | Thermo Fisher Scientific | Data Engineer | Pittsburgh, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=933ad44aa47970a9) | 2026-03-25 07:48 |
 | BECU | Sr Data Scientist | Tukwila, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8ad58dde8c86078b) | 2026-03-25 06:53 |
 | GEICO | Senior Engineer -.NET | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a13dd69a11dd2a2a) | 2026-03-25 06:53 |
-| Live Nation | Senior Cloud Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d2d1e17a962b5fca) | 2026-03-25 05:56 |
-| CloudZero | Distinguished Architect, Data Platform | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd1095da2d18982) | 2026-03-25 05:56 |
 
 
 ---
