@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 06:07
+Last updated: 2026-03-29 07:47
 
 ### 🚀 Daily Job Matches
 
@@ -437,8 +437,6 @@ Last updated: 2026-03-29 06:07
 | Travelers | AI Product Engineer | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4ef1d9dc4f2a3c77) | 2026-03-25 08:40 |
 | MOHELA | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=00ea21484fff4c0b) | 2026-03-25 08:40 |
 | Thermo Fisher Scientific | Data Engineer | Pittsburgh, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=933ad44aa47970a9) | 2026-03-25 07:48 |
-| BECU | Sr Data Scientist | Tukwila, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8ad58dde8c86078b) | 2026-03-25 06:53 |
-| GEICO | Senior Engineer -.NET | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a13dd69a11dd2a2a) | 2026-03-25 06:53 |
 
 
 ---
