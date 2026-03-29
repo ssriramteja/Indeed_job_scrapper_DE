@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 17:22
+Last updated: 2026-03-29 18:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Realign | Cloud Data Architect-5 | TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=d6408ada685f1f82) | 2026-03-29 18:29 |
+| Realign | Java Developer-2 | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=58ab9ef429e9dd15) | 2026-03-29 18:29 |
+| Realign | Java Developer-2 | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=52ca61e6deb7ad68) | 2026-03-29 18:29 |
+| Realign | Hadoop Developer-6 | Jersey City, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3afabcdb51ae0d33) | 2026-03-29 18:29 |
+| Realign | Hadoop Developer-6 | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=808ff57e896a509d) | 2026-03-29 18:29 |
+| Realign | Selenium Automation tester-6 | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7d1e820641acb1c) | 2026-03-29 18:29 |
+| Realign | Databricks Data Engineer(Azure + Python)-6 | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09c37b249c5a57dd) | 2026-03-29 18:29 |
+| Realign | OIPA Engineer-7 | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33c3d63dc6cec641) | 2026-03-29 18:29 |
 | Openkyber | Endpoint Privilege Management Specialist | IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e8cab942be0127b) | 2026-03-29 17:22 |
 | Openkyber | AI Agent Operations Engineer | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2dd5fe5ca4da283b) | 2026-03-29 17:22 |
 | Openkyber | Kubernetes MLOps Engineer | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e369b21b51e562d) | 2026-03-29 17:22 |
@@ -438,15 +446,6 @@ Last updated: 2026-03-29 17:22
 | Vivint | Data Engineer II | Lehi, UT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9a55821b896b85e9) | 2026-03-25 18:44 |
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5677557f087cb138) | 2026-03-25 18:44 |
 | Brillio LLC | Senior BI Specialist – R01562930 | Virginia Beach, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5053e60f58006ba) | 2026-03-25 18:44 |
-| Openkyber | PingOne Cloud Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4b7a6f9f89825521) | 2026-03-25 17:51 |
-| Openkyber | Endpoint Privilege Management Specialist | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=68341534918cf2bf) | 2026-03-25 17:51 |
-| Realign | Databricks Data Engineer | Deerfield, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=22742d685387c57f) | 2026-03-25 17:51 |
-| Truist | ETL Developer - AML & Financial Crimes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cdaeb1a615542767) | 2026-03-25 17:51 |
-| Core specialty | Insurance Integration Engineer | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f7effb39eab56def) | 2026-03-25 17:51 |
-| Qode | GCP Data Engineer | Basking Ridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c2384362c47d6ba) | 2026-03-25 17:51 |
-| Alderwood of North Carolina | Senior Full Stack Software Engineer | Las Vegas, NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d9f6b4e41cc2869d) | 2026-03-25 17:51 |
-| HCM | Senior Data Engineer - Data Integration & Analytics Platforms | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3154ef15f06177d4) | 2026-03-25 17:51 |
-| Openkyber | OpenAM | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b375c5df5a63eee) | 2026-03-25 17:51 |
 
 
 ---
