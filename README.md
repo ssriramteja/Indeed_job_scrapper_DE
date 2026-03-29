@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 10:24
+Last updated: 2026-03-29 11:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Data Validation Engineer (ML) | NJ, US USA | 35.4% | [Apply](https://www.indeed.com/viewjob?jk=0aa9d1342b93a57e) | 2026-03-29 11:21 |
+| Openkyber | CrowdStrike Charlotte AI Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=085882623e9376f9) | 2026-03-29 11:21 |
+| Openkyber | LLM Deployment Engineer | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1fcc848e376ba98b) | 2026-03-29 11:21 |
+| Openkyber | SAP Certified Associate – SAP Cloud | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eff9128969c03a5d) | 2026-03-29 11:21 |
+| Openkyber | Okta IAM Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=49485783185c2a0b) | 2026-03-29 11:21 |
 | GEICO | Sr. Software Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=01ec6455a3649dd1) | 2026-03-29 10:24 |
 | GEICO | Senior Software Engineer- Policy Configuration | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e80b3d6f63774f05) | 2026-03-29 10:24 |
 | GEICO | Solutions Engineer II - Networking | Bethesda, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4835a9e46d2da0aa) | 2026-03-29 10:24 |

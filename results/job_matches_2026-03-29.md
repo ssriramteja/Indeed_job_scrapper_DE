@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-03-29
 
-**Total Jobs Found:** 32
+**Total Jobs Found:** 37
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. AI & Data Solution Architect @ Carrier
+## 1. Data Validation Engineer (ML) @ Openkyber
+**Match Score:** 35.4%
+
+📍 **Location:** NJ, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, RDS, Azure
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0aa9d1342b93a57e)
+
+---
+
+## 2. AI & Data Solution Architect @ Carrier
 **Match Score:** 22.2%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. CrowdStrike Container Security Engineer @ Openkyber
+## 3. CrowdStrike Container Security Engineer @ Openkyber
 **Match Score:** 16.0%
 
 📍 **Location:** MD, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. CrowdStrike Container Security Engineer @ Openkyber
+## 4. CrowdStrike Container Security Engineer @ Openkyber
 **Match Score:** 15.3%
 
 📍 **Location:** MD, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Falcon Fusion Automation Engineer @ Openkyber
+## 5. Falcon Fusion Automation Engineer @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** NJ, US USA
@@ -49,7 +60,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. GCP ETL Engineer @ Openkyber
+## 6. CrowdStrike Charlotte AI Engineer @ Openkyber
+**Match Score:** 13.9%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, Step Functions, S3, ECS, IAM, RDS, MLOps, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=085882623e9376f9)
+
+---
+
+## 7. GCP ETL Engineer @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** DE, US USA
@@ -60,7 +82,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. CrowdStrike Cloud Security Engineer @ Openkyber
+## 8. LLM Deployment Engineer @ Openkyber
+**Match Score:** 12.5%
+
+📍 **Location:** NJ, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, Redshift, Athena, S3, API Gateway, ECS, RDS, Hive
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1fcc848e376ba98b)
+
+---
+
+## 9. CrowdStrike Cloud Security Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** IL, US USA
@@ -71,7 +104,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior SRE Cloud Enablement Engineer @ Acuity Inc.
+## 10. SAP Certified Associate – SAP Cloud @ Openkyber
+**Match Score:** 11.8%
+
+📍 **Location:** IN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, Oracle, Data Modeling, ETL, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eff9128969c03a5d)
+
+---
+
+## 11. Senior SRE Cloud Enablement Engineer @ Acuity Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -82,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Sr. Software Engineer @ GEICO
+## 12. Sr. Software Engineer @ GEICO
 **Match Score:** 11.8%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -93,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Software Engineer- Policy Configuration @ GEICO
+## 13. Senior Software Engineer- Policy Configuration @ GEICO
 **Match Score:** 11.8%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -104,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. CrowdStrike GenAI Security Engineer @ Openkyber
+## 14. CrowdStrike GenAI Security Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** IL, US USA
@@ -115,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. CrowdStrike Security Trainee @ Openkyber
+## 15. CrowdStrike Security Trainee @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** NJ, US USA
@@ -126,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. CrowdStrike AI Security Engineer @ Openkyber
+## 16. CrowdStrike AI Security Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -137,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. CrowdStrike AI Security Engineer @ Openkyber
+## 17. CrowdStrike AI Security Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -148,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Solutions Engineer II - Networking @ GEICO
+## 18. Solutions Engineer II - Networking @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -159,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Solutions Engineer II - Networking @ GEICO
+## 19. Solutions Engineer II - Networking @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Richardson, TX, US USA
@@ -170,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Solutions Engineer II - Networking @ GEICO
+## 20. Solutions Engineer II - Networking @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -181,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Solutions Engineer II - Networking @ GEICO
+## 21. Solutions Engineer II - Networking @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Seattle, WA, US USA
@@ -192,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Software Test Engineer @ Caterpillar
+## 22. Software Test Engineer @ Caterpillar
 **Match Score:** 11.1%
 
 📍 **Location:** Peoria, IL, US USA
@@ -203,7 +247,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. GCP Support Associate @ Openkyber
+## 23. Okta IAM Engineer @ Openkyber
+**Match Score:** 11.1%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Google Cloud Platform, PostgreSQL, MySQL, CI/CD, Jenkins, Maven, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=49485783185c2a0b)
+
+---
+
+## 24. GCP Support Associate @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** MI, US USA
@@ -214,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Python Snowflake Data Engineer - ONSITE @ NTT DATA
+## 25. Python Snowflake Data Engineer - ONSITE @ NTT DATA
 **Match Score:** 10.4%
 
 📍 **Location:** Buffalo, NY, US USA
@@ -225,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 26. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -236,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Engineer - .NET @ GEICO
+## 27. Senior Engineer - .NET @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -247,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Senior Full Stack Engineer - (Java, React, Data Lake, Microservices) - *HYBRID* @ GEICO
+## 28. Senior Full Stack Engineer - (Java, React, Data Lake, Microservices) - *HYBRID* @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -258,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Senior Engineer - Java [Hybrid] @ GEICO
+## 29. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -269,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Senior Engineer - .NET @ GEICO
+## 30. Senior Engineer - .NET @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -280,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Senior Engineer - Java [Hybrid] @ GEICO
+## 31. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -291,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Engineer II- .Net @ GEICO
+## 32. Engineer II- .Net @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -302,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Engineer II- .Net @ GEICO
+## 33. Engineer II- .Net @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -313,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Engineer II @ GEICO
+## 34. Engineer II @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -324,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Engineer II @ GEICO
+## 35. Engineer II @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -335,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
+## 36. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -346,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
+## 37. Senior Full Stack Engineer - .NET (HYBRID) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
