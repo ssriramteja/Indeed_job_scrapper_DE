@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 15:23
+Last updated: 2026-03-29 16:26
 
 ### 🚀 Daily Job Matches
 
@@ -440,11 +440,6 @@ Last updated: 2026-03-29 15:23
 | Alderwood of North Carolina | Senior Full Stack Software Engineer | Las Vegas, NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d9f6b4e41cc2869d) | 2026-03-25 17:51 |
 | HCM | Senior Data Engineer - Data Integration & Analytics Platforms | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3154ef15f06177d4) | 2026-03-25 17:51 |
 | Openkyber | OpenAM | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b375c5df5a63eee) | 2026-03-25 17:51 |
-| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=8ae0639bcc380726) | 2026-03-25 16:01 |
-| Clearwater Analytics (CWAN) | Software Development Engineer | Boise, ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1b263e0344e64430) | 2026-03-25 16:01 |
-| Optum | Senior Quality Engineer | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ffbe5145410f18d2) | 2026-03-25 16:01 |
-| Optum | Senior Data Scientist | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=648587140f4c8181) | 2026-03-25 16:01 |
-| Relias | Data Engineer I | Morrisville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3a059dfc3b3900d0) | 2026-03-25 16:01 |
 
 
 ---
