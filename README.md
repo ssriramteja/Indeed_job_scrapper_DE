@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 21:24
+Last updated: 2026-03-29 22:21
 
 ### 🚀 Daily Job Matches
 
@@ -410,22 +410,6 @@ Last updated: 2026-03-29 21:24
 | nan | Senior Business Intelligence Developer | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d53ca27d22c29c3) | 2026-03-25 23:26 |
 | University of Southern California | Associate Data Scientist | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f21680e47d80ce2) | 2026-03-25 22:27 |
 | Travelers | Data Engineer I (Snowflake) | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4860f5d8874039e2) | 2026-03-25 22:27 |
-| EY | Data Architecture & Engineering - Senior - Financial Services - Consulting - NYC | New York, NY, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=aca442e9dcbe994a) | 2026-03-25 21:30 |
-| Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=154e5228cf0e30aa) | 2026-03-25 21:30 |
-| WellRithms | Senior Data Engineer | Portland, OR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=683e3c3b168935d6) | 2026-03-25 21:30 |
-| Vantage Data Centers | Senior Data Engineer, Global | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ad178c68fd591147) | 2026-03-25 21:30 |
-| Air Methods | Sr Data Engineer | Greenwood Village, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f9578bd5325c490c) | 2026-03-25 21:30 |
-| EY | Service Delivery Center, AI & Data, Machine Learning Engineer (MLE) - Senior - Jacksonville | Jacksonville, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e82e10477b4aafab) | 2026-03-25 21:30 |
-| Tata Consultancy Services (TCS) | IBM Solution Architect | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=278169ab4c4f0734) | 2026-03-25 21:30 |
-| Worldpay | Payments Engineer Specialist – DataStage Cloud Technologies | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3fa8c98195ac4096) | 2026-03-25 21:30 |
-| Intone Networks | Data Architect with Health Care Payer Domain MUST HAVE | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8e410146d35e333a) | 2026-03-25 21:30 |
-| Tata Consultancy Services (TCS) | Databricks Automation Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7c263ee15c9d7ff4) | 2026-03-25 21:30 |
-| ASSA ABLOY Group | Senior Backend Engineer | CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e403e88df231471e) | 2026-03-25 21:30 |
-| iSynergy IT | Senior Cybersecurity Analyst | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55b3fd338a301ef7) | 2026-03-25 21:30 |
-| Tata Consultancy Services (TCS) | Application Security Architect | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=683a60e19be4c93b) | 2026-03-25 21:30 |
-| Tata Consultancy Services (TCS) | BI Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba1b325ba28e7e98) | 2026-03-25 21:30 |
-| WellRithms | Senior Backend Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb1e4c91a109f193) | 2026-03-25 21:30 |
-| Kevel | Senior Technical Support Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cea1ef2d8d9fcfbc) | 2026-03-25 21:30 |
 
 
 ---
