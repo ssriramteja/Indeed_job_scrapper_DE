@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 20:22
+Last updated: 2026-03-29 21:24
 
 ### 🚀 Daily Job Matches
 
@@ -426,21 +426,6 @@ Last updated: 2026-03-29 20:22
 | Tata Consultancy Services (TCS) | BI Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba1b325ba28e7e98) | 2026-03-25 21:30 |
 | WellRithms | Senior Backend Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb1e4c91a109f193) | 2026-03-25 21:30 |
 | Kevel | Senior Technical Support Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cea1ef2d8d9fcfbc) | 2026-03-25 21:30 |
-| Truist | ETL Developer - AML & Financial Crimes | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b4f8ec969f3563e7) | 2026-03-25 20:31 |
-| K2 Space | Senior Application Software Engineer | Los Angeles, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=91ae67c62e9e932e) | 2026-03-25 20:31 |
-| The Carlyle Group | Data Engineer, Global Credit Technology | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=178bc04a819dbf0f) | 2026-03-25 20:31 |
-| K2 Space | Application Software Engineer | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eef074d74f0c7a0b) | 2026-03-25 20:31 |
-| LiveRamp | Senior Software Engineer - Big Data | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=365b2385af6a0f99) | 2026-03-25 20:31 |
-| LERETA, LLC | Senior Data Engineer | Pomona, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d07e49add1736e55) | 2026-03-25 20:31 |
-| Digital Dynamics | Software & Electronics Development Engineer II | Scotts Valley, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e6afce3c14c5e32) | 2026-03-25 20:31 |
-| Digital Dynamics | Software & Electronics Development Engineer II | Scotts Valley, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=174e2731cd487355) | 2026-03-25 20:31 |
-| K2 Space | Senior Application Data Engineer | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca736b058903f7a7) | 2026-03-25 20:31 |
-| EquipmentShare | Intern: Financial Systems Engineer | Columbia, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c682a9d6efe9dcdf) | 2026-03-25 20:31 |
-| EDB | Solutions Engineer(Python/Airflow) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2e5544787ac4ad7) | 2026-03-25 20:31 |
-| Super Micro Computer, Inc. | Software Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94129ba3e4c3efdc) | 2026-03-25 20:31 |
-| ExxonMobil | S&O Developer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd099c12f1c683af) | 2026-03-25 20:31 |
-| Centurion Health | Software Application Developer, IT | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22cae783634b6fb3) | 2026-03-25 20:31 |
-| Centurion Health | Software Application Developer, IT | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21b9a649df292057) | 2026-03-25 20:31 |
 
 
 ---

@@ -280,40 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Kubernetes MLOps Engineer @ Openkyber
-**Match Score:** 10.4%
-
-📍 **Location:** IL, US USA
-
-🔑 **Keywords:** RDS, Azure, Scala, Kafka, MLOps, CI/CD, Terraform, Docker, Kubernetes, AKS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3e369b21b51e562d)
-
----
-
-## 27. Senior SRE (GCP) @ Openkyber
-**Match Score:** 10.4%
-
-📍 **Location:** PA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, Kafka, CI/CD, Azure DevOps, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a9ff36ecb3e92993)
-
----
-
-## 28. Senior SRE (GCP) @ Openkyber
-**Match Score:** 10.4%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, Kafka, CI/CD, Azure DevOps, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e8ded6a35597c773)
-
----
-
-## 29. Databricks Data Engineer(Azure + Python)-6 @ Realign
+## 26. Databricks Data Engineer(Azure + Python)-6 @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -324,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. OIPA Engineer-7 @ Realign
+## 27. OIPA Engineer-7 @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -335,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Senior GCP Kubernetes Engineer @ Openkyber
+## 28. Senior GCP Kubernetes Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** MI, US USA
@@ -343,6 +310,39 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, GCP, CI/CD, Azure DevOps, Docker, Kubernetes, pytest, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=96cd6cc30dd40084)
+
+---
+
+## 29. Kubernetes MLOps Engineer @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** IL, US USA
+
+🔑 **Keywords:** RDS, Azure, Scala, Kafka, MLOps, CI/CD, Terraform, Docker, Kubernetes, AKS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3e369b21b51e562d)
+
+---
+
+## 30. Senior SRE (GCP) @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** PA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, Kafka, CI/CD, Azure DevOps, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a9ff36ecb3e92993)
+
+---
+
+## 31. Senior SRE (GCP) @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, Kafka, CI/CD, Azure DevOps, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e8ded6a35597c773)
 
 ---
 
