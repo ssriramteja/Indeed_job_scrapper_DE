@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-28 23:22
+Last updated: 2026-03-29 01:28
 
 ### 🚀 Daily Job Matches
 
@@ -455,21 +455,6 @@ Last updated: 2026-03-28 23:22
 | LightEdge | AI Engineer | Kansas City, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bb7334f3f2d66e8) | 2026-03-25 04:12 |
 | Expedia Group | Software Development Engineer II - ML Platform | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6f38667e23fc2e6a) | 2026-03-25 04:12 |
 | Dudek | Enterprise Data Analytics and AI Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d343da250ebc576a) | 2026-03-25 04:12 |
-| Realign | Python and PySpark, No SQL Developer-1 | Mount Laurel, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=934a100fa2f03442) | 2026-03-25 01:20 |
-| Simplain Software Solutions LLC | Senior Full Stack Developer - Java | Walnut, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0eff7247decd592d) | 2026-03-25 01:20 |
-| CrowdStrike | Sr. Software Engineer, Cloud - Platform Test | Redmond, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ad4d5281c97057bc) | 2026-03-25 01:20 |
-| Cotiviti | Intern - Cloud Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f194b7e973e71ef2) | 2026-03-25 01:20 |
-| Beghou Consulting | Consultant, Data Management | Rockville, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=be506a2e3bc5ee78) | 2026-03-25 01:20 |
-| Blue Shield of California | Application Developer, Consultant | El Dorado Hills, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c873a7854b5a7a4a) | 2026-03-25 01:20 |
-| Burlington Stores | Senior Data Engineer | Edgewater Park, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d93e23fa17175252) | 2026-03-25 01:20 |
-| Boeing | Experienced Data & AI Platform Cloud DevOps / DataOps Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1cbeb2be8c0c0a59) | 2026-03-25 01:20 |
-| Omnicell | Engineer IV, Data Engineering | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=46ffdeefe4f68e9e) | 2026-03-25 01:20 |
-| CrowdStrike | Sr. Engineer, Cloud - Test Platform | Redmond, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=089cf1934f4cd6a4) | 2026-03-25 01:20 |
-| Kiely Family of Companies | Data Analytics Engineer | Tinton Falls, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a8ac6e29a223b095) | 2026-03-24 23:23 |
-| Augment Professional Services | Machine Learning Operations Engineer | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4e76e474f9e2efb6) | 2026-03-24 23:23 |
-| T. Rowe Price | AI Data Engineer | Owings Mills, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b8eb10a2720f342) | 2026-03-24 23:23 |
-| Fanatics | Software Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5daf9a09c12e8d35) | 2026-03-24 23:23 |
-| HCA Healthcare | Solution Architect | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7da3735857b8f1b1) | 2026-03-24 23:23 |
 
 
 ---
