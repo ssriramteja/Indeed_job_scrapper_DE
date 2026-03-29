@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 13:46
+Last updated: 2026-03-29 14:27
 
 ### 🚀 Daily Job Matches
 
@@ -445,10 +445,6 @@ Last updated: 2026-03-29 13:46
 | Optum | Senior Quality Engineer | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ffbe5145410f18d2) | 2026-03-25 16:01 |
 | Optum | Senior Data Scientist | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=648587140f4c8181) | 2026-03-25 16:01 |
 | Relias | Data Engineer I | Morrisville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3a059dfc3b3900d0) | 2026-03-25 16:01 |
-| Optum | Data Scientist | Minnetonka, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=073969ba933b74ce) | 2026-03-25 14:13 |
-| Bloomberg | Senior Software Engineer - Hadoop Infrastructure | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57aca64828ae44c2) | 2026-03-25 14:13 |
-| Futrend Technology, Inc | Sr Java Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=66e658594e26e266) | 2026-03-25 14:13 |
-| Clear Channel Outdoor | Database Administrator / Data Engineer | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1e24a399eaddada3) | 2026-03-25 14:13 |
 
 
 ---
