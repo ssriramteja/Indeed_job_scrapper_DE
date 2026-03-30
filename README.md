@@ -1,15 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 20:37
+Last updated: 2026-03-30 21:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| GHX | Data Engineer III | Denver, CO, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=441872d9ed02e03f) | 2026-03-30 21:34 |
+| Vibrant Emotional Health | Cloud Engineer II | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c340175ff6347ecd) | 2026-03-30 21:34 |
+| Tata Consultancy Services (TCS) | Data Engineer (AWS, Snowflake, Pyspark, SQL) | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1309e7e5905e9f12) | 2026-03-30 21:34 |
+| Renew home | Senior Engineer, Data (Remote, US) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=690427c84612c68c) | 2026-03-30 21:34 |
+| Fiserv | Platform Engineer - CDE | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=75b680abba58aa07) | 2026-03-30 21:34 |
+| JENSEN HUGHES | Full Stack Software Developer | Columbia, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a794a4fad5ad9bde) | 2026-03-30 21:34 |
+| Tata Consultancy Services (TCS) | Senior Full Stack Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c9781423ded3fa2b) | 2026-03-30 21:34 |
+| Tata Consultancy Services (TCS) | Data Architect | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2dc4b4a6a2ce3590) | 2026-03-30 21:34 |
+| Lexi Global | IT System Administrator | Upland, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3ebb702aee91dee) | 2026-03-30 21:34 |
+| StockX | Senior Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4a52d3ff88f626ae) | 2026-03-30 21:34 |
+| Alliant Insurance Services | Senior Salesforce Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01307abdca065f19) | 2026-03-30 21:34 |
+| Alliant Insurance Services | Senior Salesforce Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09d7442a9096d240) | 2026-03-30 21:34 |
 | MindCare Solutions Group | Senior Data Platform & Healthcare AI Analytics Engineer | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7d5e6c69e5dcc101) | 2026-03-30 20:37 |
 | MindCare Solutions Group | Senior Data Platform & Healthcare AI Analytics Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=008f37aa6430130f) | 2026-03-30 20:37 |
 | Klaxontech | Data Engineer | Robstown, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9c444110ccacb047) | 2026-03-30 20:37 |
-| Red Ventures | Senior Data Engineer \| The Points Guy | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=483258c9c4ba7328) | 2026-03-30 20:37 |
 | Wells Fargo | Senior Data Ops Engineer (contract) | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=856a0021ec6b2858) | 2026-03-30 20:37 |
 | Fidelity TalentSource | Data Engineer/Cloud Engineer | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa5c015dba2edf2f) | 2026-03-30 20:37 |
 | ECS | Senior Python Developer | Fairfax, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f27e4c248823f3cb) | 2026-03-30 20:37 |
@@ -549,19 +560,6 @@ Last updated: 2026-03-30 20:37
 | aPriori Technologies Inc | Senior Data Engineer | Concord, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=daac76271abc94d6) | 2026-03-26 22:20 |
 | Tata Consultancy Services (TCS) | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da47b75bd94fdaab) | 2026-03-26 22:20 |
 | Cinch Home Services | Senior Business Intelligence Analyst | Boca Raton, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=688419cc363c7dc5) | 2026-03-26 22:20 |
-| Tata Consultancy Services (TCS) | Data & AI Engineer | New York, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=ee6b2c708f3ef80c) | 2026-03-26 21:24 |
-| Tata Consultancy Services (TCS) | Data Engineer (AWS, Snowflake, Pyspark, SQL) | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f2a094400a036939) | 2026-03-26 21:24 |
-| CareOregon | IS Data Engineer | Salem, OR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a92d3aa09f2f357e) | 2026-03-26 21:24 |
-| Ronin Consulting | Software Engineer | Franklin, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=00d9114936398c43) | 2026-03-26 21:24 |
-| Equifax | Senior Software Engineer | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=305629713c8cf97d) | 2026-03-26 21:24 |
-| Equifax | Senior Software Engineer | St. Louis, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=054e907298f72492) | 2026-03-26 21:24 |
-| Blue Cross and Blue Shield of Kansas | Solutions Architect | Topeka, KS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fedbff1fa3c408c5) | 2026-03-26 21:24 |
-| nan | Data Science/MLOps Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2bc0880e6a383b9e) | 2026-03-26 21:24 |
-| Huron Consulting Group | Senior Data Platform Integration Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e7f4676b6700d720) | 2026-03-26 21:24 |
-| Nimbus Cloud Solutions | Salesforce Developer | Plymouth, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bf60a25aee7ba1a) | 2026-03-26 21:24 |
-| Xbow | Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e013910d7dfe6dce) | 2026-03-26 21:24 |
-| COGNWIZ SOLUTIONS LLC | Data Engineer | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9f79c9da6376568) | 2026-03-26 21:24 |
-| nan | Senior MuleSoft Developer - Austin, TX ONLY | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd2d6ac7747d0244) | 2026-03-26 21:24 |
 
 
 ---
