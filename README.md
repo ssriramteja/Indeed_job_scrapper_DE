@@ -1,11 +1,85 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 16:01
+Last updated: 2026-03-30 17:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Credera | Senior Architect, Data | Addison, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8e490bc759502c67) | 2026-03-30 17:44 |
+| Credera | Senior Architect, Data | Houston, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=6d00686588a7f2f7) | 2026-03-30 17:44 |
+| Credera | Senior Architect, Data | Denver, CO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=29bc94ef9fa6d728) | 2026-03-30 17:44 |
+| Credera | Senior Architect, Data | Chicago, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=c334a7201b918676) | 2026-03-30 17:44 |
+| Credera | Architect, Data | Denver, CO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=ab2c2352d8a6b2e5) | 2026-03-30 17:44 |
+| Credera | Architect, Data | Houston, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8254910b2e0a9ccf) | 2026-03-30 17:44 |
+| Credera | Architect, Data | Chicago, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=774ed20e20da648c) | 2026-03-30 17:44 |
+| Credera | Architect, Data | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b3aecc3f0c2918bd) | 2026-03-30 17:44 |
+| LendingTree | Senior Software Engineer | Denver, CO, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=a52c3f44e5a3ffad) | 2026-03-30 17:44 |
+| Constant Contact | Senior Data Engineer | Waltham, MA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a176b1d110af7c59) | 2026-03-30 17:44 |
+| Coinbase | Senior Analytics Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bdc1bee1da622032) | 2026-03-30 17:44 |
+| Beyond Finance | Sr. Data Engineer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5d644470785695c9) | 2026-03-30 17:44 |
+| FanDuel | Senior Machine Learning Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a7b0630815d9f1ee) | 2026-03-30 17:44 |
+| FanDuel | Senior Machine Learning Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=04f21ddd72acad2d) | 2026-03-30 17:44 |
+| RAPP | Data Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=322259901e919b33) | 2026-03-30 17:44 |
+| RAPP | Senior Data Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1b59271e2e7306a1) | 2026-03-30 17:44 |
+| FanDuel | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=758e31bc763ea430) | 2026-03-30 17:44 |
+| FanDuel | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=515da2564d1d2849) | 2026-03-30 17:44 |
+| Bandwidth | Sr. Data Scientist | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f22e811beee03bab) | 2026-03-30 17:44 |
+| Red Ventures | Senior Data Engineer \| The Points Guy | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=483258c9c4ba7328) | 2026-03-30 17:44 |
+| JUUL Labs | Data Scientist | OR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b49523fc43db3539) | 2026-03-30 17:44 |
+| HackerRank Careers | Senior Backend Engineer | Santa Clara, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7cb53b2278767490) | 2026-03-30 17:44 |
+| Baker Hill Solutions | DevOps Engineer | Carmel, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d05e81347a9f3ed) | 2026-03-30 17:44 |
+| nan | Data Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c791c3f73dcee4ed) | 2026-03-30 17:44 |
+| PandaDoc | Senior Analytics Engineer | Saint Petersburg, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=329171b36cb94b8a) | 2026-03-30 17:44 |
+| Credera | Architect, Software Engineering | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bebeee11b3071962) | 2026-03-30 17:44 |
+| Credera | Architect, Software Engineering | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=485d2e6de1e8a086) | 2026-03-30 17:44 |
+| Credera | Architect, Software Engineering | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bfe3e20a463eab6) | 2026-03-30 17:44 |
+| Credera | Architect, Software Engineering | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=44e55eaa7ba6dddd) | 2026-03-30 17:44 |
+| Flexport | Senior Software Engineer, Backend | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=441c085efd50fec8) | 2026-03-30 17:44 |
+| Latitude AI | Software Engineer II - Data Platform | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=31d0a022197dd7b9) | 2026-03-30 17:44 |
+| LendingTree | Snowflake & Data Platform Operations Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dff6531dd274cbf5) | 2026-03-30 17:44 |
+| Vectra AI | Senior Software Engineer - Data-Driven Applications | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bde81135b1d2415c) | 2026-03-30 17:44 |
+| CLEAR | Senior Data Scientist (ML Engineering) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27775c7b5198786e) | 2026-03-30 17:44 |
+| EquipmentShare | Analytics Engineer, People Analytics | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc1447f0d619c40b) | 2026-03-30 17:44 |
+| EquipmentShare | Analytics Engineer, People Analytics | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a369ab2eae275c5b) | 2026-03-30 17:44 |
+| EquipmentShare | Analytics Engineer, People Analytics | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e447be457217f98) | 2026-03-30 17:44 |
+| EquipmentShare | Analytics Engineer, People Analytics | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6ccefe6b4cf39fcb) | 2026-03-30 17:44 |
+| EquipmentShare | Analytics Engineer, People Analytics | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=17dbbfe7334c8ce4) | 2026-03-30 17:44 |
+| EquipmentShare | Analytics Engineer, People Analytics | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6915a31a656eea7e) | 2026-03-30 17:44 |
+| EquipmentShare | Analytics Engineer, People Analytics | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7217e6f4e824dd90) | 2026-03-30 17:44 |
+| CNH Industrial | Senior Software Engineer | Oak Brook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9ddc1d55011d65dd) | 2026-03-30 17:44 |
+| Ripple | Software Engineer II, Data & AI | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fd25c09387615839) | 2026-03-30 17:44 |
+| Charles River Associates | Senior Associate/Programmatic AdTech Engineer (Forensic Services practice) | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be13ca4a9a8cc28d) | 2026-03-30 17:44 |
+| Quantifind | DevOps Engineer (Linux) | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c97b7d55357997ed) | 2026-03-30 17:44 |
+| Roblox | Senior Software Engineer - Marketplace Foundation | San Mateo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=37fe7aa557db1f8b) | 2026-03-30 17:44 |
+| EquipmentShare | Intern: Financial Systems Engineer | Columbia, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=148277e432f8a247) | 2026-03-30 17:44 |
+| Coinbase | Software Engineer - Full Stack (EAA - Compliance) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b756426841c0b5e4) | 2026-03-30 17:44 |
+| RAPP | Senior DevOps Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45b88ac0d6454a8b) | 2026-03-30 17:44 |
+| Okta | Senior Software Engineer, Infrastructure (Federal) | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e9482dc007d5f456) | 2026-03-30 17:44 |
+| Rithum | Senior Infrastructure Engineer - Hybrid | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09e319f44bbefcf4) | 2026-03-30 17:44 |
+| 6sense | Sr. Software Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b1d1937310481ac7) | 2026-03-30 17:44 |
+| First Quality | Solutions Architect – Cloud Platforms | PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3775b7c2910e4187) | 2026-03-30 17:44 |
+| Okta | Enterprise Architect, Finance & Legal Systems | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=041435b48d6f6f8f) | 2026-03-30 17:44 |
+| SecurityScorecard | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cc8b92a08f94ce52) | 2026-03-30 17:44 |
+| DigitalOcean | Senior Solutions Architect (Database Migrations Specialist) | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=788d6cc73ba81698) | 2026-03-30 17:44 |
+| Navan | Senior AI Operations (AI Ops) Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6c986c8da176b02) | 2026-03-30 17:44 |
+| Vestmark | Java Software Engineer | Wakefield, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=205593dc85af0e57) | 2026-03-30 17:44 |
+| DigitalOcean | Senior Solutions Architect (Database Migrations Specialist) | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab40b456a5ed1302) | 2026-03-30 17:44 |
+| DigitalOcean | Senior Solutions Architect (Database Migrations Specialist) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ada0e4ff27142e0) | 2026-03-30 17:44 |
+| DigitalOcean | Senior Solutions Architect (Database Migrations Specialist) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ac52f1c6b3389ec) | 2026-03-30 17:44 |
+| DigitalOcean | Senior Solutions Architect (Database Migrations Specialist) | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ae192cb5db2c1ca) | 2026-03-30 17:44 |
+| FanDuel | Senior Software Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d54db8a56bcc0ca9) | 2026-03-30 17:44 |
+| Braze | Senior Site Reliability Engineer, Currents | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57676c626db37b70) | 2026-03-30 17:44 |
+| Braze | Senior Site Reliability Engineer, Currents | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa498de985d99c6f) | 2026-03-30 17:44 |
+| Braze | Senior Site Reliability Engineer, Currents | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a04534d00c6c5fc) | 2026-03-30 17:44 |
+| Missouri State University | ERP & Database Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41b6cb8dfc375ac7) | 2026-03-30 17:44 |
+| MongoDB | Software Engineer, Code Generation | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c31a324a7fdd053b) | 2026-03-30 17:44 |
+| Intellibee Inc | SQL/Power BI Developer | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=295bf747ca0fd10d) | 2026-03-30 17:44 |
+| Taskrabbit | Senior Machine Learning Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=955f461b0fdcc829) | 2026-03-30 17:44 |
+| MongoDB | Technical Services Engineer, Infrastructure - Weekend | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2649842ffc3e9b0b) | 2026-03-30 17:44 |
+| FanDuel | Software Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=809cf2b07d76fc6b) | 2026-03-30 17:44 |
+| Red Ventures | Fullstack Engineer \| Growth & Transformation | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78b69a4f32a0c224) | 2026-03-30 17:44 |
+| LendingTree | Sr. Network Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=172d803032cd9cf3) | 2026-03-30 17:44 |
 | Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a1223c9ae7d10ef4) | 2026-03-30 16:01 |
 | Jade Global | Enterprise Architecture | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6e941d3599cccbbd) | 2026-03-30 16:01 |
 | Fidelity Investments | Senior Software Engineer | Merrimack, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6129a30842f97a0c) | 2026-03-30 16:01 |
@@ -343,9 +417,6 @@ Last updated: 2026-03-30 16:01
 | Expressable | AI Data Analyst / Data Engineer - 100% Remote | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b43a6238c24521c5) | 2026-03-26 17:54 |
 | CLASP | Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9063dc15527a3f25) | 2026-03-26 17:54 |
 | Clipbook | Founding Backend Engineer – AI & Data | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22ee1aa79e315b8e) | 2026-03-26 17:54 |
-| Indev | Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=beb67bf43c44dfc7) | 2026-03-26 16:04 |
-| Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=11a620b68dc800c0) | 2026-03-26 16:04 |
-| Ann & Robert H. Lurie Children's Hospital of Chicago | Data Engineer (*Grant Funded) | River, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0be4284919556a7f) | 2026-03-26 16:04 |
 
 
 ---
