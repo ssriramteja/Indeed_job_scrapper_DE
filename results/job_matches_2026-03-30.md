@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-03-30
 
-**Total Jobs Found:** 21
+**Total Jobs Found:** 16
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Validation Engineer (ML) @ Openkyber
-**Match Score:** 35.4%
-
-📍 **Location:** NJ, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, RDS, Azure
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0aa9d1342b93a57e)
-
----
-
-## 2. Terraform MLOps Engineer @ Openkyber
+## 1. Terraform MLOps Engineer @ Openkyber
 **Match Score:** 22.9%
 
 📍 **Location:** GA, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Platform Engineer @ Scotiabank
+## 2. Senior Platform Engineer @ Scotiabank
 **Match Score:** 16.0%
 
 📍 **Location:** Dallas, TX, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Data Engineer I @ Manus
+## 3. Data Engineer I @ Manus
 **Match Score:** 14.6%
 
 📍 **Location:** Augusta, GA, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Endpoint Privilege Management Specialist @ Openkyber
+## 4. Endpoint Privilege Management Specialist @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** IL, US USA
@@ -60,29 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Integrations Analyst @ The Cheesecake Factory
-**Match Score:** 13.9%
-
-📍 **Location:** Calabasas Hills, CA, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Blob Storage, BigQuery, Scala, Kafka, Snowflake, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ba075cb0dad311d7)
-
----
-
-## 7. CrowdStrike Charlotte AI Engineer @ Openkyber
-**Match Score:** 13.9%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, Step Functions, S3, ECS, IAM, RDS, MLOps, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=085882623e9376f9)
-
----
-
-## 8. Data Platform Engineer-7 @ Realign
+## 5. Data Platform Engineer-7 @ Realign
 **Match Score:** 12.5%
 
 📍 **Location:** Parsippany-Troy Hills, NJ, US USA
@@ -93,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Terraform MLOps Engineer @ Openkyber
+## 6. Terraform MLOps Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** GA, US USA
@@ -104,18 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. LLM Deployment Engineer @ Openkyber
-**Match Score:** 12.5%
-
-📍 **Location:** NJ, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, Redshift, Athena, S3, API Gateway, ECS, RDS, Hive
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1fcc848e376ba98b)
-
----
-
-## 11. Software Engineer III - Fullstack, Python, AWS, AI/ML @ JPMorganChase
+## 7. Software Engineer III - Fullstack, Python, AWS, AI/ML @ JPMorganChase
 **Match Score:** 12.5%
 
 📍 **Location:** Plano, TX, US USA
@@ -126,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. AI Agent Operations Engineer @ Openkyber
+## 8. AI Agent Operations Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** CA, US USA
@@ -137,18 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. SAP Certified Associate – SAP Cloud @ Openkyber
-**Match Score:** 11.8%
-
-📍 **Location:** IN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, Oracle, Data Modeling, ETL, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=eff9128969c03a5d)
-
----
-
-## 14. GCP AI Platform Engineer @ Openkyber
+## 9. GCP AI Platform Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** GA, US USA
@@ -159,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Platform Engineer @ Scotiabank
+## 10. Platform Engineer @ Scotiabank
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -170,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. SAP AI Business Services Consultant @ Openkyber
+## 11. SAP AI Business Services Consultant @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -181,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Python / Linux-7 @ Realign
+## 12. Python / Linux-7 @ Realign
 **Match Score:** 11.1%
 
 📍 **Location:** Plano, TX, US USA
@@ -192,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Snowflake Admin-8 @ Realign
+## 13. Snowflake Admin-8 @ Realign
 **Match Score:** 11.1%
 
 📍 **Location:** Irving, TX, US USA
@@ -203,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Teradata Developer-5 @ Realign
+## 14. Teradata Developer-5 @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** Plano, TX, US USA
@@ -214,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Airflow ML Engineer @ Openkyber
+## 15. Airflow ML Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** CA, US USA
@@ -225,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. DevOps Engineer - Remote (Blockchain) @ HT Archery
+## 16. DevOps Engineer - Remote (Blockchain) @ HT Archery
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
