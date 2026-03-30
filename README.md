@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 22:26
+Last updated: 2026-03-30 23:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Harley-Davidson, Inc. | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2cd8c53893a5ad46) | 2026-03-30 23:28 |
+| The University of Michigan | Data Engineer Senior | Ann Arbor, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=911af4a079b795bc) | 2026-03-30 23:28 |
+| Recutify Inc. | AWS CLOUD DATA / SOLUTION ARCHITECHT | Ridgefield, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dabf2b647f36e98c) | 2026-03-30 23:28 |
+| Sinclair Broadcast Group | Contract Associate Development Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1c556a8e96adfe0e) | 2026-03-30 23:28 |
 | Dimensional Fund Advisors | Senior Database Platform Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=385c9a79fc872802) | 2026-03-30 22:26 |
 | Steel Warehouse | Data Engineer | South Bend, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=71eb13352e5c1a32) | 2026-03-30 22:26 |
 | Fidelity Investments | Senior Data Engineer | Westlake, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6da4932fc26ff43a) | 2026-03-30 22:26 |
@@ -620,10 +624,6 @@ Last updated: 2026-03-30 22:26
 | Slalom Consulting | Slalom Flex (Project Based) - Data Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=17cd55492f23a2fa) | 2026-03-27 01:25 |
 | Clever Devices | DevOps Engineer | Woodbury, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=324e434a7481d1e8) | 2026-03-27 01:25 |
 | Clever Devices | DevOps Engineer | Apex, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0eb339539f4f40c) | 2026-03-27 01:25 |
-| Stryker | Senior Back-end Software Engineer | San Diego, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4cb212e78f495655) | 2026-03-26 23:23 |
-| Guggenheim Partners | Database Administrator (Microsoft SQL, Azure SQL, Snowflake, Microsoft Fabric, Azure DevOps | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=242a3be422a3c7a1) | 2026-03-26 23:23 |
-| Create Music Group | Full Stack AI Engineer | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0eb5560c25882ca2) | 2026-03-26 23:23 |
-| Create Music Group | Full Stack AI Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=758c67189c730321) | 2026-03-26 23:23 |
 
 
 ---
