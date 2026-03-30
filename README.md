@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 08:17
+Last updated: 2026-03-30 10:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III - Fullstack, Python, AWS, AI/ML | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8c336e57cb127fed) | 2026-03-30 10:08 |
+| HT Archery | DevOps Engineer - Remote (Blockchain) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=74f0c78139f81162) | 2026-03-30 10:08 |
 | Manus | Data Engineer I | Augusta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d7422317da3cb8cf) | 2026-03-30 06:25 |
 | Scotiabank | Senior Platform Engineer | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cc80464c8d3d0b3c) | 2026-03-30 04:38 |
 | Scotiabank | Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96718ce206105693) | 2026-03-30 04:38 |
@@ -339,9 +341,6 @@ Last updated: 2026-03-30 08:17
 | Blue Cross of Idaho | Snowflake Engineer II or III | Meridian, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=18c5c99f1f2788d8) | 2026-03-26 12:54 |
 | Air Methods | Sr Data Engineer | Greenwood Village, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ad5d2aa11942c20e) | 2026-03-26 12:54 |
 | Blue Cross of Idaho | dbt Engineer II or III | Meridian, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af151db159b7fdc0) | 2026-03-26 12:54 |
-| Embedding VC | Founding Data Engineer (Core Data Platform) | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ad745848a72d300) | 2026-03-26 09:54 |
-| Humana | Senior Data Engineer | KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=61a7b790a520c25c) | 2026-03-26 08:46 |
-| General Motors (GM) | PPCO Data Analytics – Systems & Data Analytics | Warren, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3577fd017ba1e45) | 2026-03-26 08:46 |
 
 
 ---
