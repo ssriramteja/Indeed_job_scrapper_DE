@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 04:38
+Last updated: 2026-03-30 06:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Manus | Data Engineer I | Augusta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d7422317da3cb8cf) | 2026-03-30 06:25 |
 | Scotiabank | Senior Platform Engineer | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cc80464c8d3d0b3c) | 2026-03-30 04:38 |
 | Scotiabank | Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96718ce206105693) | 2026-03-30 04:38 |
 | Paramount | Software Engineer | Burbank, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c8d96d2facf0c62b) | 2026-03-30 01:29 |
@@ -360,10 +361,6 @@ Last updated: 2026-03-30 04:38
 | NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=549bc9397ed63a24) | 2026-03-26 07:57 |
 | NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bbf07a1b9a86669) | 2026-03-26 07:57 |
 | NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af98402106d5d501) | 2026-03-26 07:57 |
-| Robert E. Mason & Associates | Senior Data Engineer | Wando, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=734589cead82347f) | 2026-03-26 06:07 |
-| Cache Creek Casino Resort | Senior Data Engineer - Information Technology | Brooks, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8ca3b7bd8d76f7e1) | 2026-03-26 06:07 |
-| TikTok | Senior Endpoint Security Engineer - Global Security Organization | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d47d7a74b3089448) | 2026-03-26 06:07 |
-| Venatore | Data Scientist | Fort Belvoir, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff27edbece16f3be) | 2026-03-26 06:07 |
 
 
 ---

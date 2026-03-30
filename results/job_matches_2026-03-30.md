@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-30
 
-**Total Jobs Found:** 40
+**Total Jobs Found:** 37
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Cloud Data Architect-5 @ Realign
-**Match Score:** 22.9%
-
-📍 **Location:** TX, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Kinesis, Redshift, Athena, S3, IAM, RDS, Azure
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d6408ada685f1f82)
-
----
-
-## 3. Terraform MLOps Engineer @ Openkyber
+## 2. Terraform MLOps Engineer @ Openkyber
 **Match Score:** 22.9%
 
 📍 **Location:** GA, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Platform Engineer @ Scotiabank
+## 3. Senior Platform Engineer @ Scotiabank
 **Match Score:** 16.0%
 
 📍 **Location:** Dallas, TX, US USA
@@ -46,6 +35,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** IAM, RDS, Azure, Databricks, Event Hubs, Unity Catalog, Scala, Databricks Lakehouse, ELT, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=cc80464c8d3d0b3c)
+
+---
+
+## 4. Data Engineer I @ Manus
+**Match Score:** 14.6%
+
+📍 **Location:** Augusta, GA, US USA
+
+🔑 **Keywords:** Azure, Data Factory, Databricks, Event Hubs, Medallion Architecture, Spark, PySpark, Kafka, Kafka Connect, Data Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d7422317da3cb8cf)
 
 ---
 
@@ -71,29 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Hadoop Developer-6 @ Realign
-**Match Score:** 13.9%
-
-📍 **Location:** Jersey City, NJ, US USA
-
-🔑 **Keywords:** AWS, Azure, Hadoop, HDFS, Hive, Sqoop, MapReduce, Oozie, Spark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3afabcdb51ae0d33)
-
----
-
-## 8. Hadoop Developer-6 @ Realign
-**Match Score:** 13.9%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** AWS, Azure, Hadoop, HDFS, Hive, Sqoop, MapReduce, Oozie, Spark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=808ff57e896a509d)
-
----
-
-## 9. Integrations Analyst @ The Cheesecake Factory
+## 7. Integrations Analyst @ The Cheesecake Factory
 **Match Score:** 13.9%
 
 📍 **Location:** Calabasas Hills, CA, US USA
@@ -104,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. CrowdStrike Charlotte AI Engineer @ Openkyber
+## 8. CrowdStrike Charlotte AI Engineer @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** GA, US USA
@@ -115,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Software Engineer @ Paramount
+## 9. Software Engineer @ Paramount
 **Match Score:** 13.2%
 
 📍 **Location:** Burbank, CA, US USA
@@ -126,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Data Platform Engineer-7 @ Realign
+## 10. Data Platform Engineer-7 @ Realign
 **Match Score:** 12.5%
 
 📍 **Location:** Parsippany-Troy Hills, NJ, US USA
@@ -137,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Terraform MLOps Engineer @ Openkyber
+## 11. Terraform MLOps Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** GA, US USA
@@ -148,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. LLM Deployment Engineer @ Openkyber
+## 12. LLM Deployment Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** NJ, US USA
@@ -159,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. AI Agent Operations Engineer @ Openkyber
+## 13. AI Agent Operations Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** CA, US USA
@@ -170,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. SAP Certified Associate – SAP Cloud @ Openkyber
+## 14. SAP Certified Associate – SAP Cloud @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** IN, US USA
@@ -181,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. GCP AI Platform Engineer @ Openkyber
+## 15. GCP AI Platform Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** GA, US USA
@@ -192,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Sr. Software Engineer @ GEICO
+## 16. Sr. Software Engineer @ GEICO
 **Match Score:** 11.8%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -203,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Senior Software Engineer- Policy Configuration @ GEICO
+## 17. Senior Software Engineer- Policy Configuration @ GEICO
 **Match Score:** 11.8%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -214,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Platform Engineer @ Scotiabank
+## 18. Platform Engineer @ Scotiabank
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -225,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. SAP AI Business Services Consultant @ Openkyber
+## 19. SAP AI Business Services Consultant @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -236,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Snowflake Admin-8 @ Realign
+## 20. Snowflake Admin-8 @ Realign
 **Match Score:** 11.1%
 
 📍 **Location:** Irving, TX, US USA
@@ -247,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Python / Linux-7 @ Realign
+## 21. Python / Linux-7 @ Realign
 **Match Score:** 11.1%
 
 📍 **Location:** Plano, TX, US USA
@@ -258,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Solutions Engineer II - Networking @ GEICO
+## 22. Solutions Engineer II - Networking @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -269,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Solutions Engineer II - Networking @ GEICO
+## 23. Solutions Engineer II - Networking @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Richardson, TX, US USA
@@ -280,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Solutions Engineer II - Networking @ GEICO
+## 24. Solutions Engineer II - Networking @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -291,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Solutions Engineer II - Networking @ GEICO
+## 25. Solutions Engineer II - Networking @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Seattle, WA, US USA
@@ -302,18 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Databricks Data Engineer(Azure + Python)-6 @ Realign
-**Match Score:** 10.4%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, ECS, Azure, Databricks, Spark, Scala, CI/CD, Jenkins, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=09c37b249c5a57dd)
-
----
-
-## 29. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 26. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -324,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Engineer II- .Net @ GEICO
+## 27. Engineer II- .Net @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -335,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Senior Engineer - .NET @ GEICO
+## 28. Senior Engineer - .NET @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -346,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Engineer II- .Net @ GEICO
+## 29. Engineer II- .Net @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -357,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Engineer II @ GEICO
+## 30. Engineer II @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -368,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Engineer II @ GEICO
+## 31. Engineer II @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -379,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Senior Full Stack Engineer - (Java, React, Data Lake, Microservices) - *HYBRID* @ GEICO
+## 32. Senior Full Stack Engineer - (Java, React, Data Lake, Microservices) - *HYBRID* @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -390,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Senior Engineer - Java [Hybrid] @ GEICO
+## 33. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -401,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Senior Engineer - .NET @ GEICO
+## 34. Senior Engineer - .NET @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -412,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Senior Engineer - Java [Hybrid] @ GEICO
+## 35. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -423,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Teradata Developer-5 @ Realign
+## 36. Teradata Developer-5 @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** Plano, TX, US USA
@@ -434,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Airflow ML Engineer @ Openkyber
+## 37. Airflow ML Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** CA, US USA
