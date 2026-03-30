@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-29 23:24
+Last updated: 2026-03-30 01:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Paramount | Software Engineer | Burbank, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c8d96d2facf0c62b) | 2026-03-30 01:29 |
+| Realign | Data Platform Engineer-7 | Parsippany-Troy Hills, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=885a5728afb95e2e) | 2026-03-30 01:29 |
+| Realign | Snowflake Admin-8 | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=18f9277083b689a0) | 2026-03-30 01:29 |
+| Realign | Python / Linux-7 | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=acb205a4f0a2f4ac) | 2026-03-30 01:29 |
+| Realign | Teradata Developer-5 | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1daae7faefdba0a) | 2026-03-30 01:29 |
 | Openkyber | Terraform MLOps Engineer | GA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=955ac0b1ad8a879b) | 2026-03-29 23:24 |
 | Openkyber | GCP ML Architect | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce062c1221d36aca) | 2026-03-29 23:24 |
 | Openkyber | Terraform MLOps Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=20a8124f877384e7) | 2026-03-29 23:24 |
@@ -378,41 +383,6 @@ Last updated: 2026-03-29 23:24
 | ExtraMile | Data and BI Solutions Developer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd71d5dc3f6911a8) | 2026-03-26 04:26 |
 | ExtraMile | Data and BI Solutions Developer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c5810d2049fbe45) | 2026-03-26 04:26 |
 | Cloudera | Senior Software Engineer - Cloudera Context Search Team | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3cc5ba5bc4131e8d) | 2026-03-26 04:26 |
-| Fanatics | Software Engineer III | San Mateo, CA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d61a741a9a865097) | 2026-03-26 01:25 |
-| Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4f3d707966b2b604) | 2026-03-26 01:25 |
-| Realign | Python and PySpark, No SQL Developer-2 | Mount Laurel, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7a5ca26ba048f780) | 2026-03-26 01:25 |
-| Univerus | Product Support & Platform Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1812ab21ac264af8) | 2026-03-26 01:25 |
-| McKesson | Specialist, Data Engineer | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a19064215d6504dc) | 2026-03-26 01:25 |
-| Centric Consulting | Site Reliability Engineer | Cleveland, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=158d4d251d7cfe41) | 2026-03-26 01:25 |
-| D.A. Davidson Companies | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f829d868d8f7d81e) | 2026-03-26 01:25 |
-| McKesson | Sr Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=816e3ba22947d18d) | 2026-03-26 01:25 |
-| JENSEN HUGHES | Data Scientist | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=609352d6a96dfbb8) | 2026-03-26 01:25 |
-| Vista Higher Learning | Software Integrations Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2bb4373ad110466f) | 2026-03-26 01:25 |
-| Vista Higher Learning | Software Integrations Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d3c4f04946a604d3) | 2026-03-26 01:25 |
-| Akira Technologies | Senior DevSecOps and Infrastructure Engineer | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c475c8fe9ed280d) | 2026-03-26 01:25 |
-| Wahoo Fitness | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04c17cf51303d69c) | 2026-03-26 01:25 |
-| Lockton Companies | Sr Analytics Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c80a21add211681e) | 2026-03-26 01:25 |
-| Microchip Technology | Engineer II-Software Development | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1b9464571ec4a13) | 2026-03-26 01:25 |
-| INTRAFI | Technical Architect | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aab0d4e5d8dae5bb) | 2026-03-26 01:25 |
-| Openkyber | API Security Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dd6782d769bbb10c) | 2026-03-25 23:26 |
-| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b2ac379ca55b9cb0) | 2026-03-25 23:26 |
-| Insight | Data Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b8c469fe05779639) | 2026-03-25 23:26 |
-| Integral Ad Science | Senior Software Engineer- Java- Big Data | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aaac56b41d3197f1) | 2026-03-25 23:26 |
-| Integral Ad Science | Senior Software Engineer- Java- Big Data | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2beb81df979d35f8) | 2026-03-25 23:26 |
-| Openkyber | API Security Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7540039fe27c9ab2) | 2026-03-25 23:26 |
-| Core specialty | QA Automation Engineer | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8a8c0b028e6bca22) | 2026-03-25 23:26 |
-| Crowe LLP | AI DevOps and Cloud Infrastructure Engineer | Sarasota, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2828050f215fd3ad) | 2026-03-25 23:26 |
-| Openkyber | Associate Network Security Engineer | NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1cf26dea742dfb68) | 2026-03-25 23:26 |
-| Openkyber | Data Engineering & Integration | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1fa666427f4129e) | 2026-03-25 23:26 |
-| Openkyber | Data Engineering & Integration | IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c750325324ef95ac) | 2026-03-25 23:26 |
-| Openkyber | Cognos Optimization Specialist | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6958a876172ec730) | 2026-03-25 23:26 |
-| Openkyber | Cognos Optimization Specialist | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39930f1669a9c233) | 2026-03-25 23:26 |
-| Openkyber | Administration & Infrastructure | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fea1ea320a3da1b7) | 2026-03-25 23:26 |
-| Openkyber | Cognos Business Intelligence Analyst | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5f0f39ab230c0b9) | 2026-03-25 23:26 |
-| Openkyber | Cognos Business Intelligence Analyst | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6124d6f05994ef55) | 2026-03-25 23:26 |
-| Openkyber | Administration & Infrastructure | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6596f101bae22a82) | 2026-03-25 23:26 |
-| Crowe LLP | Senior AI Engineer | Sarasota, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bd5bde56b916bab) | 2026-03-25 23:26 |
-| nan | Senior Business Intelligence Developer | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d53ca27d22c29c3) | 2026-03-25 23:26 |
 
 
 ---
