@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-30
 
-**Total Jobs Found:** 17
+**Total Jobs Found:** 23
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Senior Platform Engineer @ Scotiabank
+## 2. Enterprise Data Architect @ Villanova University
+**Match Score:** 16.7%
+
+📍 **Location:** Villanova, PA, US USA
+
+🔑 **Keywords:** AWS, Kinesis, RDS, Azure, GCP, Scala, Kafka, Snowflake, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a1223c9ae7d10ef4)
+
+---
+
+## 3. Senior Platform Engineer @ Scotiabank
 **Match Score:** 16.0%
 
 📍 **Location:** Dallas, TX, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Data Engineer I @ Manus
+## 4. Data Engineer I @ Manus
 **Match Score:** 14.6%
 
 📍 **Location:** Augusta, GA, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Endpoint Privilege Management Specialist @ Openkyber
+## 5. Endpoint Privilege Management Specialist @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** IL, US USA
@@ -49,7 +60,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Data Platform Engineer-7 @ Realign
+## 6. Enterprise Architecture @ Jade Global
+**Match Score:** 13.9%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** AWS, Kinesis, RDS, Azure, Databricks, GCP, Vertex AI, Scala, Kafka, Snowflake
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6e941d3599cccbbd)
+
+---
+
+## 7. Data Platform Engineer-7 @ Realign
 **Match Score:** 12.5%
 
 📍 **Location:** Parsippany-Troy Hills, NJ, US USA
@@ -60,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Terraform MLOps Engineer @ Openkyber
+## 8. Terraform MLOps Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** GA, US USA
@@ -71,18 +93,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. DevOps Engineer @ Vitol
+## 9. Senior Software Engineer @ Fidelity Investments
 **Match Score:** 12.5%
 
-📍 **Location:** Houston, TX, US USA
+📍 **Location:** Merrimack, NH, US USA
 
-🔑 **Keywords:** AWS, Lambda, S3, ECS, RDS, Kafka, MLOps, MLflow, CI/CD, Jenkins
+🔑 **Keywords:** AWS, Lambda, S3, RDS, Scala, Oracle, MySQL, ETL, CI/CD, Jenkins
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b912b59e0b8d6118)
+[Apply Here](https://www.indeed.com/viewjob?jk=6129a30842f97a0c)
 
 ---
 
-## 8. Software Engineer III - Fullstack, Python, AWS, AI/ML @ JPMorganChase
+## 10. Senior Software Engineer @ Fidelity Investments
+**Match Score:** 12.5%
+
+📍 **Location:** Westlake, TX, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, RDS, Scala, Oracle, MySQL, ETL, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=866c80a990582061)
+
+---
+
+## 11. Software Engineer III - Fullstack, Python, AWS, AI/ML @ JPMorganChase
 **Match Score:** 12.5%
 
 📍 **Location:** Plano, TX, US USA
@@ -93,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. GCP AI Platform Engineer @ Openkyber
+## 12. GCP AI Platform Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** GA, US USA
@@ -104,7 +137,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. AI Agent Operations Engineer @ Openkyber
+## 13. Cloud Engineer, Contract To Hire @ 66degrees
+**Match Score:** 11.8%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** IAM, Google Cloud Platform, GCP, BigQuery, Dataflow, Cloud Storage, Spark, Scala, CI/CD, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=329c33a2110e2ffd)
+
+---
+
+## 14. AI Agent Operations Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** CA, US USA
@@ -115,7 +159,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Software Engineer @ Global KTech
+## 15. Quality Systems Specialist @ Boeing
+**Match Score:** 11.8%
+
+📍 **Location:** North Charleston, SC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Oracle, SQL Server, PostgreSQL, MySQL, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=de68c165b26c648e)
+
+---
+
+## 16. Software Engineer @ Global KTech
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -126,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. SAP AI Business Services Consultant @ Openkyber
+## 17. SAP AI Business Services Consultant @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -137,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Platform Engineer @ Scotiabank
+## 18. Platform Engineer @ Scotiabank
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -148,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Python / Linux-7 @ Realign
+## 19. Python / Linux-7 @ Realign
 **Match Score:** 11.1%
 
 📍 **Location:** Plano, TX, US USA
@@ -159,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Snowflake Admin-8 @ Realign
+## 20. Snowflake Admin-8 @ Realign
 **Match Score:** 11.1%
 
 📍 **Location:** Irving, TX, US USA
@@ -170,7 +225,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Teradata Developer-5 @ Realign
+## 21. Full Stack Developer Contractor @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Westford, MA, US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, Scala, NoSQL, Data Modeling, ETL, CI/CD, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f9a3da1ae20db072)
+
+---
+
+## 22. Teradata Developer-5 @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** Plano, TX, US USA
@@ -181,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Airflow ML Engineer @ Openkyber
+## 23. Airflow ML Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** CA, US USA

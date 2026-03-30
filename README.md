@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 14:25
+Last updated: 2026-03-30 16:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a1223c9ae7d10ef4) | 2026-03-30 16:01 |
+| Jade Global | Enterprise Architecture | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6e941d3599cccbbd) | 2026-03-30 16:01 |
+| Fidelity Investments | Senior Software Engineer | Merrimack, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6129a30842f97a0c) | 2026-03-30 16:01 |
+| Fidelity Investments | Senior Software Engineer | Westlake, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=866c80a990582061) | 2026-03-30 16:01 |
+| 66degrees | Cloud Engineer, Contract To Hire | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=329c33a2110e2ffd) | 2026-03-30 16:01 |
+| Boeing | Quality Systems Specialist | North Charleston, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de68c165b26c648e) | 2026-03-30 16:01 |
+| nan | Full Stack Developer Contractor | Westford, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f9a3da1ae20db072) | 2026-03-30 16:01 |
 | Vitol | DevOps Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b912b59e0b8d6118) | 2026-03-30 14:25 |
 | Global KTech | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=53641572c239d14d) | 2026-03-30 14:25 |
 | Covista | Senior Data Engineer | Lisle, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4adc00b1af8ae9f8) | 2026-03-30 12:57 |
