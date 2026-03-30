@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 01:29
+Last updated: 2026-03-30 04:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Scotiabank | Senior Platform Engineer | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cc80464c8d3d0b3c) | 2026-03-30 04:38 |
+| Scotiabank | Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96718ce206105693) | 2026-03-30 04:38 |
 | Paramount | Software Engineer | Burbank, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c8d96d2facf0c62b) | 2026-03-30 01:29 |
 | Realign | Data Platform Engineer-7 | Parsippany-Troy Hills, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=885a5728afb95e2e) | 2026-03-30 01:29 |
 | Realign | Snowflake Admin-8 | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=18f9277083b689a0) | 2026-03-30 01:29 |
@@ -362,27 +364,6 @@ Last updated: 2026-03-30 01:29
 | Cache Creek Casino Resort | Senior Data Engineer - Information Technology | Brooks, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8ca3b7bd8d76f7e1) | 2026-03-26 06:07 |
 | TikTok | Senior Endpoint Security Engineer - Global Security Organization | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d47d7a74b3089448) | 2026-03-26 06:07 |
 | Venatore | Data Scientist | Fort Belvoir, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff27edbece16f3be) | 2026-03-26 06:07 |
-| Berkley | Databricks Data Engineer | Manassas, VA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=88146716ceed528b) | 2026-03-26 04:26 |
-| Inter Miami CF | Data Platform Engineer | Fort Lauderdale, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4c4ec2058b64c4b8) | 2026-03-26 04:26 |
-| BlackRock | Forward Deploy Data Engineer-Associate | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=34525f4e47bd513d) | 2026-03-26 04:26 |
-| Veritone | Site Reliability Engineer II | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=42442aa4f1f05e8b) | 2026-03-26 04:26 |
-| Blueprint Technologies | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cf248a552a2b9944) | 2026-03-26 04:26 |
-| Tiger Analytics | AI Tech Partner (USA) | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9fc2a5a288d17425) | 2026-03-26 04:26 |
-| Tiger Analytics | AI Tech Partner (USA) | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=72ff85dd600047b4) | 2026-03-26 04:26 |
-| Tiger Analytics | AI Tech Partner (USA) | Jersey City, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0eccc725fef05e64) | 2026-03-26 04:26 |
-| Oracle | Software Developer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0e90b52e3a1a17a2) | 2026-03-26 04:26 |
-| CBRE | Software Engineer Sr Analyst | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f27e271eca1a4159) | 2026-03-26 04:26 |
-| CBRE | Software Engineer Sr Analyst | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b502ed0e95608acf) | 2026-03-26 04:26 |
-| Brook Inc. | Software Engineer - Hybrid/Bellevue, WA | Bellevue, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=442324d7b318c1db) | 2026-03-26 04:26 |
-| Zoom Communications | Data Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04361f4ee433abc8) | 2026-03-26 04:26 |
-| Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f902a4bcfd6f0dc) | 2026-03-26 04:26 |
-| ARIES SOLUTIONS | Cloud Engineer | Westerville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=545ade558773e3d3) | 2026-03-26 04:26 |
-| ExtraMile | Data and BI Solutions Developer | AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf05ce0c2fca8aa4) | 2026-03-26 04:26 |
-| ExtraMile | Data and BI Solutions Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=763e204d324d6943) | 2026-03-26 04:26 |
-| ExtraMile | Data and BI Solutions Developer | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09de6be18461fa65) | 2026-03-26 04:26 |
-| ExtraMile | Data and BI Solutions Developer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd71d5dc3f6911a8) | 2026-03-26 04:26 |
-| ExtraMile | Data and BI Solutions Developer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c5810d2049fbe45) | 2026-03-26 04:26 |
-| Cloudera | Senior Software Engineer - Cloudera Context Search Team | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3cc5ba5bc4131e8d) | 2026-03-26 04:26 |
 
 
 ---
