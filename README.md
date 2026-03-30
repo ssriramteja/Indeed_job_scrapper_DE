@@ -1,11 +1,81 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 21:34
+Last updated: 2026-03-30 22:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Dimensional Fund Advisors | Senior Database Platform Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=385c9a79fc872802) | 2026-03-30 22:26 |
+| Steel Warehouse | Data Engineer | South Bend, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=71eb13352e5c1a32) | 2026-03-30 22:26 |
+| Fidelity Investments | Senior Data Engineer | Westlake, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6da4932fc26ff43a) | 2026-03-30 22:26 |
+| OEConnection | Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=28fad5a6eb6e90e7) | 2026-03-30 22:26 |
+| OEConnection | Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=04a71202b47b41de) | 2026-03-30 22:26 |
+| NTT DATA | Snowflake Data Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=333e8b31f084f577) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8416a8506d47b063) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Winston-Salem, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebc95dd2bea57493) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Short Hills, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb073e263cd375ad) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Virginia Beach, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a42c4ea9e743558) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7969caab4fdc3fd7) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Stamford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a131bdccd5dfe683) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39a2def4665f0868) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Shreveport, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=90a6aee373b7932a) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=30db15ed7ce739d7) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Tallahassee, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b0c8e8d4ff04dcc9) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d32e3dabc3defd49) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4890395a6efa72de) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df3b5d307d35a646) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7874ab9a4b1ddb37) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d2b612f9a00d413) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76704cec11281802) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Providence, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8fc3f27500c9a399) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb4d62734b0505b6) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=710e43de726284cb) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35818880da2b7e5e) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f66fb3899c84c08a) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d6950fff73368dd0) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=362db613a9d46a6f) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=557986231199559a) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | New Orleans, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4c12321bfdc84d51) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b82133b39b7c0b6) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Montvale, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c167b1d4b68a3e22) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=02f0a7c0b03f5014) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=878f88f973ba3d5b) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2027cf85152f63f9) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75e78e02407d6359) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dfbd6e67d3fd8cfd) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Boulder, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=701baf4cf0f8fe9e) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebcfe6c3637b19aa) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c92229dbb009cb6) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Des Moines, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa5df6a1034f8d11) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Kansas City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd2f8d8bdebb9bc9) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0fab502088647eba) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab6a336179fadc6d) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6739adde8d9aa7f5) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Fort Lauderdale, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f9762e0a7c4f2d1) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ae8e30d2f5aa08d) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Greenville, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da6f21f7c72d92d7) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a94c8a15efcf12a3) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Jackson, MS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=44d167f185224ba1) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Lincoln, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dda52628551ebad5) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12863926a8f4062f) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e34477bf322ef9e) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aefe432545c06aad) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Knoxville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=951faf7271cbfa9f) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Grand Rapids, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e5755edc6a6951c) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=37b548052deb3ab1) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aea06ae53f170835) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ac9434a297d22bf) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Birmingham, AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=74637e7a09c2131d) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ddbe6ce43611a92) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=203fc2d7ad7bf6af) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=733b00ba9fecb840) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Albuquerque, NM, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1e7dcb79cc790a91) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eadd6b812c6f0dd0) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Bentonville, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe67800133c98286) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Baton Rouge, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=722ea734bc204ae3) | 2026-03-30 22:26 |
+| KPMG | Associate Engineer, AI Integration Analyst | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cc4bb35373b469bb) | 2026-03-30 22:26 |
+| KLA | Data Fabric Engineer | Ann Arbor, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98107848586892d4) | 2026-03-30 22:26 |
 | GHX | Data Engineer III | Denver, CO, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=441872d9ed02e03f) | 2026-03-30 21:34 |
 | Vibrant Emotional Health | Cloud Engineer II | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c340175ff6347ecd) | 2026-03-30 21:34 |
 | Tata Consultancy Services (TCS) | Data Engineer (AWS, Snowflake, Pyspark, SQL) | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1309e7e5905e9f12) | 2026-03-30 21:34 |
@@ -554,12 +624,6 @@ Last updated: 2026-03-30 21:34
 | Guggenheim Partners | Database Administrator (Microsoft SQL, Azure SQL, Snowflake, Microsoft Fabric, Azure DevOps | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=242a3be422a3c7a1) | 2026-03-26 23:23 |
 | Create Music Group | Full Stack AI Engineer | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0eb5560c25882ca2) | 2026-03-26 23:23 |
 | Create Music Group | Full Stack AI Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=758c67189c730321) | 2026-03-26 23:23 |
-| NiCE | Senior Software Architect | Sandy, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c458ab00e0053aa) | 2026-03-26 22:20 |
-| NiCE | Senior Full-Stack Engineer | Sandy, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6d2d78dceeadfde) | 2026-03-26 22:20 |
-| Asahi Kasei | Sr. Data Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64935dc6687cef43) | 2026-03-26 22:20 |
-| aPriori Technologies Inc | Senior Data Engineer | Concord, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=daac76271abc94d6) | 2026-03-26 22:20 |
-| Tata Consultancy Services (TCS) | Selenium Automation tester | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da47b75bd94fdaab) | 2026-03-26 22:20 |
-| Cinch Home Services | Senior Business Intelligence Analyst | Boca Raton, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=688419cc363c7dc5) | 2026-03-26 22:20 |
 
 
 ---
