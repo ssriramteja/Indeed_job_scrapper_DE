@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 12:57
+Last updated: 2026-03-30 14:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Vitol | DevOps Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b912b59e0b8d6118) | 2026-03-30 14:25 |
+| Global KTech | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=53641572c239d14d) | 2026-03-30 14:25 |
 | Covista | Senior Data Engineer | Lisle, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4adc00b1af8ae9f8) | 2026-03-30 12:57 |
 | JPMorganChase | Software Engineer III - Fullstack, Python, AWS, AI/ML | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8c336e57cb127fed) | 2026-03-30 10:08 |
 | HT Archery | DevOps Engineer - Remote (Blockchain) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=74f0c78139f81162) | 2026-03-30 10:08 |
@@ -337,8 +339,6 @@ Last updated: 2026-03-30 12:57
 | Indev | Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=beb67bf43c44dfc7) | 2026-03-26 16:04 |
 | Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=11a620b68dc800c0) | 2026-03-26 16:04 |
 | Ann & Robert H. Lurie Children's Hospital of Chicago | Data Engineer (*Grant Funded) | River, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0be4284919556a7f) | 2026-03-26 16:04 |
-| Grata | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=631f60bd15f1b3d1) | 2026-03-26 14:22 |
-| Prudential | Senior Software Engineer | Newark, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7f151ec7568ba313) | 2026-03-26 14:22 |
 
 
 ---

@@ -71,7 +71,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Software Engineer III - Fullstack, Python, AWS, AI/ML @ JPMorganChase
+## 7. DevOps Engineer @ Vitol
+**Match Score:** 12.5%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, ECS, RDS, Kafka, MLOps, MLflow, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b912b59e0b8d6118)
+
+---
+
+## 8. Software Engineer III - Fullstack, Python, AWS, AI/ML @ JPMorganChase
 **Match Score:** 12.5%
 
 📍 **Location:** Plano, TX, US USA
@@ -82,29 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Data Engineer @ Covista
-**Match Score:** 11.8%
-
-📍 **Location:** Lisle, IL, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, BigQuery, Dataflow, Vertex AI, Spark, Scala, Kafka, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4adc00b1af8ae9f8)
-
----
-
-## 9. AI Agent Operations Engineer @ Openkyber
-**Match Score:** 11.8%
-
-📍 **Location:** CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Spark, PySpark, Scala, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2dd5fe5ca4da283b)
-
----
-
-## 10. GCP AI Platform Engineer @ Openkyber
+## 9. GCP AI Platform Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** GA, US USA
@@ -115,14 +104,25 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Platform Engineer @ Scotiabank
+## 10. AI Agent Operations Engineer @ Openkyber
+**Match Score:** 11.8%
+
+📍 **Location:** CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Spark, PySpark, Scala, Data Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2dd5fe5ca4da283b)
+
+---
+
+## 11. Software Engineer @ Global KTech
 **Match Score:** 11.1%
 
-📍 **Location:** Dallas, TX, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** IAM, RDS, Azure, Databricks, Unity Catalog, CI/CD, GitHub Actions, Azure DevOps, Terraform, Docker
+🔑 **Keywords:** AWS, Redshift, Spark, PySpark, Scala, Snowflake, NoSQL, Kimball, CI/CD, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=96718ce206105693)
+[Apply Here](https://www.indeed.com/viewjob?jk=53641572c239d14d)
 
 ---
 
@@ -137,7 +137,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Python / Linux-7 @ Realign
+## 13. Platform Engineer @ Scotiabank
+**Match Score:** 11.1%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** IAM, RDS, Azure, Databricks, Unity Catalog, CI/CD, GitHub Actions, Azure DevOps, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=96718ce206105693)
+
+---
+
+## 14. Python / Linux-7 @ Realign
 **Match Score:** 11.1%
 
 📍 **Location:** Plano, TX, US USA
@@ -148,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Snowflake Admin-8 @ Realign
+## 15. Snowflake Admin-8 @ Realign
 **Match Score:** 11.1%
 
 📍 **Location:** Irving, TX, US USA
@@ -159,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Teradata Developer-5 @ Realign
+## 16. Teradata Developer-5 @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** Plano, TX, US USA
@@ -170,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Airflow ML Engineer @ Openkyber
+## 17. Airflow ML Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** CA, US USA
@@ -178,17 +189,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, ETL, Docker, Kubernetes, Airflow, Python
 
 [Apply Here](https://www.indeed.com/viewjob?jk=7d1c715f07cfc17f)
-
----
-
-## 17. DevOps Engineer - Remote (Blockchain) @ HT Archery
-**Match Score:** 10.4%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, CI/CD, Jenkins, GitHub Actions, Terraform, Docker, Kubernetes, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=74f0c78139f81162)
 
 ---
 
