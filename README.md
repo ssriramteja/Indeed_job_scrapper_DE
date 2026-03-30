@@ -1,13 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 19:50
+Last updated: 2026-03-30 20:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| MindCare Solutions Group | Senior Data Platform & Healthcare AI Analytics Engineer | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7d5e6c69e5dcc101) | 2026-03-30 20:37 |
+| MindCare Solutions Group | Senior Data Platform & Healthcare AI Analytics Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=008f37aa6430130f) | 2026-03-30 20:37 |
+| Klaxontech | Data Engineer | Robstown, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9c444110ccacb047) | 2026-03-30 20:37 |
+| Red Ventures | Senior Data Engineer \| The Points Guy | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=483258c9c4ba7328) | 2026-03-30 20:37 |
+| Wells Fargo | Senior Data Ops Engineer (contract) | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=856a0021ec6b2858) | 2026-03-30 20:37 |
+| Fidelity TalentSource | Data Engineer/Cloud Engineer | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa5c015dba2edf2f) | 2026-03-30 20:37 |
+| ECS | Senior Python Developer | Fairfax, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f27e4c248823f3cb) | 2026-03-30 20:37 |
+| Professional Engineering Consultants | Automation & Integration Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f496e3f33567d8e1) | 2026-03-30 20:37 |
+| Professional Engineering Consultants | Automation & Integration Developer | Wichita, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c144566d40a9779d) | 2026-03-30 20:37 |
+| Wells Fargo | Senior Site Reliability Engineer (contract) | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7241100643e3426) | 2026-03-30 20:37 |
+| Salesforce | Activation Solution Engineer- TMT/CBS | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fb564aaa33c98121) | 2026-03-30 20:37 |
 | Vanderbilt University | Senior Analytics Engineer | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1b1c3ee64f59e29c) | 2026-03-30 19:50 |
-| Red Ventures | Senior Data Engineer \| The Points Guy | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=483258c9c4ba7328) | 2026-03-30 19:50 |
 | Traackr | Senior AI Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b35bb2b1b88eaf23) | 2026-03-30 19:50 |
 | Traackr | Senior AI Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c39424195effb79e) | 2026-03-30 19:50 |
 | Rivian | Sr. Application Integration Engineer | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4202440469a7183f) | 2026-03-30 19:50 |
@@ -552,18 +562,6 @@ Last updated: 2026-03-30 19:50
 | Xbow | Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e013910d7dfe6dce) | 2026-03-26 21:24 |
 | COGNWIZ SOLUTIONS LLC | Data Engineer | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9f79c9da6376568) | 2026-03-26 21:24 |
 | nan | Senior MuleSoft Developer - Austin, TX ONLY | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd2d6ac7747d0244) | 2026-03-26 21:24 |
-| Great value staffing and technologies.inc | Senior Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fcd57aeb1d54c26e) | 2026-03-26 20:28 |
-| American Food & Vending | Data and BI Engineer | NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=715e9e79d209ba09) | 2026-03-26 20:28 |
-| nan | Sr AWS Data Engineer - Export Control (only Citizen and GC) | Parsippany-Troy Hills, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cad185c5c326ba55) | 2026-03-26 19:51 |
-| NiCE | Senior Software Architect | Sandy, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=43f56bdac321f08c) | 2026-03-26 19:51 |
-| NiCE | Senior Full-Stack Engineer | Sandy, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ad5132b666e5ec7b) | 2026-03-26 19:51 |
-| HackerRank Careers | Senior Backend Engineer | Santa Clara, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=928956c2a29e11f0) | 2026-03-26 19:51 |
-| Caterpillar | Senior Data Scientist, Cat Foresight | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e7bbb7516c97c777) | 2026-03-26 19:51 |
-| nan | Data Engineer – MVA Inference & Audience Development (Remote, Global) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e1da64f371c44744) | 2026-03-26 19:51 |
-| Celsius Network | Cloud Systems Architect - Cloud ERP | Boca Raton, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7563ac0384623a7) | 2026-03-26 19:51 |
-| Datadog | Senior Developer Advocate - Data Observability | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc015d21fb039200) | 2026-03-26 19:51 |
-| Peloton | AI Enterprise Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=337e4082664be656) | 2026-03-26 19:51 |
-| Proactive Logic Consulting Inc | Senior Fractional SQL Server & PostgreSQL DBA Consultant (AI-Forward) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1fb428f27c27f9ed) | 2026-03-26 19:51 |
 
 
 ---
