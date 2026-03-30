@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 18:49
+Last updated: 2026-03-30 19:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Vanderbilt University | Senior Analytics Engineer | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1b1c3ee64f59e29c) | 2026-03-30 19:50 |
+| Red Ventures | Senior Data Engineer \| The Points Guy | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=483258c9c4ba7328) | 2026-03-30 19:50 |
+| Traackr | Senior AI Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b35bb2b1b88eaf23) | 2026-03-30 19:50 |
+| Traackr | Senior AI Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c39424195effb79e) | 2026-03-30 19:50 |
+| Rivian | Sr. Application Integration Engineer | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4202440469a7183f) | 2026-03-30 19:50 |
+| SAP | SAP NS2 SuccessFactors Payroll Integration Expert and ABAP Professional | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7c3ecb94f6f318e) | 2026-03-30 19:50 |
+| ADP | Senior Platform Engineers | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e3983abcf47563a3) | 2026-03-30 19:50 |
 | Torq | Senior Consultant - Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=627b28d27cdd515d) | 2026-03-30 18:49 |
 | Icon | Senior Data Engineer | Austin, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=4189a27528fb7891) | 2026-03-30 18:49 |
 | NetDocuments | Senior Database Engineer | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=3efe0be0fa4e69bd) | 2026-03-30 18:49 |
@@ -56,7 +63,6 @@ Last updated: 2026-03-30 18:49
 | JENSEN HUGHES | Full Stack Software Developer | Columbia, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d18f1ce8a33187d6) | 2026-03-30 18:49 |
 | JENSEN HUGHES | Full Stack Software Developer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=77760179e0788eac) | 2026-03-30 18:49 |
 | ROLLER | Data Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39561230ddbde763) | 2026-03-30 18:49 |
-| Red Ventures | Senior Data Engineer \| The Points Guy | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=483258c9c4ba7328) | 2026-03-30 18:49 |
 | Canopy Tax | Senior DevOps Engineer | South Jordan, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10deefa32e4b8054) | 2026-03-30 18:49 |
 | Cerebras Systems | Data Platform Engineer | Sunnyvale, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b77f18311791c5d8) | 2026-03-30 18:49 |
 | Attain | Site Reliability Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7f0d326eb1fcf1f3) | 2026-03-30 18:49 |
@@ -558,10 +564,6 @@ Last updated: 2026-03-30 18:49
 | Datadog | Senior Developer Advocate - Data Observability | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc015d21fb039200) | 2026-03-26 19:51 |
 | Peloton | AI Enterprise Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=337e4082664be656) | 2026-03-26 19:51 |
 | Proactive Logic Consulting Inc | Senior Fractional SQL Server & PostgreSQL DBA Consultant (AI-Forward) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1fb428f27c27f9ed) | 2026-03-26 19:51 |
-| AstraZeneca | CloudOps Engineer - Evinova | Gaithersburg, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c7fe2318ed9385f4) | 2026-03-26 18:54 |
-| BridgeNexus Technologies Inc | Senior Java Developer | Mountain View, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a41cd00b4d0c37b4) | 2026-03-26 18:54 |
-| VASS Inc | AI/ML Engineer | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a7ebd826073989c) | 2026-03-26 18:54 |
-| Oran Inc | Senior Data Engineer – Snowflake Migration | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94f36c91f8b842d0) | 2026-03-26 18:54 |
 
 
 ---
