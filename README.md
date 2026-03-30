@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 11:49
+Last updated: 2026-03-30 12:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Covista | Senior Data Engineer | Lisle, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4adc00b1af8ae9f8) | 2026-03-30 12:57 |
 | JPMorganChase | Software Engineer III - Fullstack, Python, AWS, AI/ML | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8c336e57cb127fed) | 2026-03-30 10:08 |
 | HT Archery | DevOps Engineer - Remote (Blockchain) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=74f0c78139f81162) | 2026-03-30 10:08 |
 | Manus | Data Engineer I | Augusta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d7422317da3cb8cf) | 2026-03-30 06:25 |
@@ -338,9 +339,6 @@ Last updated: 2026-03-30 11:49
 | Ann & Robert H. Lurie Children's Hospital of Chicago | Data Engineer (*Grant Funded) | River, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0be4284919556a7f) | 2026-03-26 16:04 |
 | Grata | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=631f60bd15f1b3d1) | 2026-03-26 14:22 |
 | Prudential | Senior Software Engineer | Newark, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7f151ec7568ba313) | 2026-03-26 14:22 |
-| Blue Cross of Idaho | Snowflake Engineer II or III | Meridian, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=18c5c99f1f2788d8) | 2026-03-26 12:54 |
-| Air Methods | Sr Data Engineer | Greenwood Village, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ad5d2aa11942c20e) | 2026-03-26 12:54 |
-| Blue Cross of Idaho | dbt Engineer II or III | Meridian, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af151db159b7fdc0) | 2026-03-26 12:54 |
 
 
 ---

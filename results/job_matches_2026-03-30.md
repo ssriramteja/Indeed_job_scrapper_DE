@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-30
 
-**Total Jobs Found:** 16
+**Total Jobs Found:** 17
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -82,7 +82,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. AI Agent Operations Engineer @ Openkyber
+## 8. Senior Data Engineer @ Covista
+**Match Score:** 11.8%
+
+📍 **Location:** Lisle, IL, US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, BigQuery, Dataflow, Vertex AI, Spark, Scala, Kafka, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4adc00b1af8ae9f8)
+
+---
+
+## 9. AI Agent Operations Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** CA, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. GCP AI Platform Engineer @ Openkyber
+## 10. GCP AI Platform Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** GA, US USA
@@ -104,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Platform Engineer @ Scotiabank
+## 11. Platform Engineer @ Scotiabank
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -115,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. SAP AI Business Services Consultant @ Openkyber
+## 12. SAP AI Business Services Consultant @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -126,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Python / Linux-7 @ Realign
+## 13. Python / Linux-7 @ Realign
 **Match Score:** 11.1%
 
 📍 **Location:** Plano, TX, US USA
@@ -137,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Snowflake Admin-8 @ Realign
+## 14. Snowflake Admin-8 @ Realign
 **Match Score:** 11.1%
 
 📍 **Location:** Irving, TX, US USA
@@ -148,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Teradata Developer-5 @ Realign
+## 15. Teradata Developer-5 @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** Plano, TX, US USA
@@ -159,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Airflow ML Engineer @ Openkyber
+## 16. Airflow ML Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** CA, US USA
@@ -170,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. DevOps Engineer - Remote (Blockchain) @ HT Archery
+## 17. DevOps Engineer - Remote (Blockchain) @ HT Archery
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
