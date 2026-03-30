@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-30
 
-**Total Jobs Found:** 37
+**Total Jobs Found:** 42
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -71,18 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Integrations Analyst @ The Cheesecake Factory
-**Match Score:** 13.9%
-
-📍 **Location:** Calabasas Hills, CA, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Blob Storage, BigQuery, Scala, Kafka, Snowflake, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ba075cb0dad311d7)
-
----
-
-## 8. CrowdStrike Charlotte AI Engineer @ Openkyber
+## 7. CrowdStrike Charlotte AI Engineer @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** GA, US USA
@@ -90,6 +79,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Glue, Lambda, Step Functions, S3, ECS, IAM, RDS, MLOps, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=085882623e9376f9)
+
+---
+
+## 8. Integrations Analyst @ The Cheesecake Factory
+**Match Score:** 13.9%
+
+📍 **Location:** Calabasas Hills, CA, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Blob Storage, BigQuery, Scala, Kafka, Snowflake, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ba075cb0dad311d7)
 
 ---
 
@@ -137,29 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. AI Agent Operations Engineer @ Openkyber
-**Match Score:** 11.8%
-
-📍 **Location:** CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Spark, PySpark, Scala, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2dd5fe5ca4da283b)
-
----
-
-## 14. SAP Certified Associate – SAP Cloud @ Openkyber
-**Match Score:** 11.8%
-
-📍 **Location:** IN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, Oracle, Data Modeling, ETL, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=eff9128969c03a5d)
-
----
-
-## 15. GCP AI Platform Engineer @ Openkyber
+## 13. GCP AI Platform Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** GA, US USA
@@ -170,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Sr. Software Engineer @ GEICO
+## 14. Sr. Software Engineer @ GEICO
 **Match Score:** 11.8%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -178,6 +156,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, RDS, Azure, GCP, PostgreSQL, MySQL, Cassandra, CI/CD, Terraform
 
 [Apply Here](https://www.indeed.com/viewjob?jk=01ec6455a3649dd1)
+
+---
+
+## 15. AI Agent Operations Engineer @ Openkyber
+**Match Score:** 11.8%
+
+📍 **Location:** CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Spark, PySpark, Scala, Data Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2dd5fe5ca4da283b)
+
+---
+
+## 16. SAP Certified Associate – SAP Cloud @ Openkyber
+**Match Score:** 11.8%
+
+📍 **Location:** IN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, Oracle, Data Modeling, ETL, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eff9128969c03a5d)
 
 ---
 
@@ -192,18 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Platform Engineer @ Scotiabank
-**Match Score:** 11.1%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** IAM, RDS, Azure, Databricks, Unity Catalog, CI/CD, GitHub Actions, Azure DevOps, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=96718ce206105693)
-
----
-
-## 19. SAP AI Business Services Consultant @ Openkyber
+## 18. SAP AI Business Services Consultant @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -211,6 +200,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Hadoop, Spark, Scala, MLOps, MLflow, CI/CD, Docker
 
 [Apply Here](https://www.indeed.com/viewjob?jk=b6eea039facef1d5)
+
+---
+
+## 19. Platform Engineer @ Scotiabank
+**Match Score:** 11.1%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** IAM, RDS, Azure, Databricks, Unity Catalog, CI/CD, GitHub Actions, Azure DevOps, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=96718ce206105693)
 
 ---
 
@@ -280,7 +280,51 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 26. Okta IAM Engineer @ Openkyber
+**Match Score:** 11.1%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Google Cloud Platform, PostgreSQL, MySQL, CI/CD, Jenkins, Maven, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=49485783185c2a0b)
+
+---
+
+## 27. Kubernetes MLOps Engineer @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** IL, US USA
+
+🔑 **Keywords:** RDS, Azure, Scala, Kafka, MLOps, CI/CD, Terraform, Docker, Kubernetes, AKS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3e369b21b51e562d)
+
+---
+
+## 28. Senior SRE (GCP) @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** PA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, Kafka, CI/CD, Azure DevOps, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a9ff36ecb3e92993)
+
+---
+
+## 29. Senior SRE (GCP) @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, Kafka, CI/CD, Azure DevOps, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e8ded6a35597c773)
+
+---
+
+## 30. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -291,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Engineer II- .Net @ GEICO
+## 31. Engineer II- .Net @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -302,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Senior Engineer - .NET @ GEICO
+## 32. Senior Engineer - .NET @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -313,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Engineer II- .Net @ GEICO
+## 33. Engineer II- .Net @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -324,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Engineer II @ GEICO
+## 34. Engineer II @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -335,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Engineer II @ GEICO
+## 35. Engineer II @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -346,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Senior Full Stack Engineer - (Java, React, Data Lake, Microservices) - *HYBRID* @ GEICO
+## 36. Senior Full Stack Engineer - (Java, React, Data Lake, Microservices) - *HYBRID* @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -357,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Senior Engineer - Java [Hybrid] @ GEICO
+## 37. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -368,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Senior Engineer - .NET @ GEICO
+## 38. Senior Engineer - .NET @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -379,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Senior Engineer - Java [Hybrid] @ GEICO
+## 39. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -390,7 +434,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Teradata Developer-5 @ Realign
+## 40. Senior GCP Kubernetes Engineer @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** MI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, CI/CD, Azure DevOps, Docker, Kubernetes, pytest, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=96cd6cc30dd40084)
+
+---
+
+## 41. Teradata Developer-5 @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** Plano, TX, US USA
@@ -401,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Airflow ML Engineer @ Openkyber
+## 42. Airflow ML Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** CA, US USA

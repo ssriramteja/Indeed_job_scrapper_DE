@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 06:25
+Last updated: 2026-03-30 08:17
 
 ### 🚀 Daily Job Matches
 
@@ -342,25 +342,6 @@ Last updated: 2026-03-30 06:25
 | Embedding VC | Founding Data Engineer (Core Data Platform) | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ad745848a72d300) | 2026-03-26 09:54 |
 | Humana | Senior Data Engineer | KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=61a7b790a520c25c) | 2026-03-26 08:46 |
 | General Motors (GM) | PPCO Data Analytics – Systems & Data Analytics | Warren, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3577fd017ba1e45) | 2026-03-26 08:46 |
-| Brillio LLC | Snowflake Engineer (Datastage, SSIS, DB2, ETL) – R01562352 | Edison, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ec5818d3536fb861) | 2026-03-26 07:57 |
-| Brillio LLC | Snowflake Architect (Datastage, DBT, ETL, SSIS) – R01562351 | Edison, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=518471bf55b68ee3) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab1065855ef14eca) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71636389aa78efd5) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1fef5e8073cb383) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9501ebd5923f67aa) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=388ad3c9fba9271c) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d322c261386f56e2) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5a0764074fe0317) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae8bb13382eba565) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df0d7a279864544b) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06051094e158c2ec) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1cdb70fd9c89334) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8ed9fd91845c56f2) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c84ed7edd2463130) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa5ce47ffa4f81f6) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=549bc9397ed63a24) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bbf07a1b9a86669) | 2026-03-26 07:57 |
-| NinjaOne | DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af98402106d5d501) | 2026-03-26 07:57 |
 
 
 ---
