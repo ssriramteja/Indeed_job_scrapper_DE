@@ -1,12 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-31 10:48
+Last updated: 2026-03-31 11:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 10:48 |
+| nan | Data Engineer, Selling Partner Insights and Analytics | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=60a9c799766b00e5) | 2026-03-31 11:42 |
+| Openkyber | PingOne Cloud Engineer | HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d1bb860adb845b2) | 2026-03-31 11:42 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 11:42 |
+| Openkyber | ML Platform Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a75d763e98635f6) | 2026-03-31 11:42 |
+| Openkyber | PingOne | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bda7a0dc088567f8) | 2026-03-31 11:42 |
 | JPMorganChase | Data Engineer III- Python / Data Lake | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b7b49f09d70a8053) | 2026-03-31 09:56 |
 | nan | Software Engineer II | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bf1c34ee91c952e8) | 2026-03-31 09:56 |
 | nan | Software Engineer II | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ae5ba63dac769db2) | 2026-03-31 09:56 |
@@ -642,12 +646,6 @@ Last updated: 2026-03-31 10:48
 | nan | Data Engineer II | Santa Monica, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1305647d227e74d0) | 2026-03-27 14:06 |
 | University of Southern California | Associate Data Scientist | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3a58275a555dc05c) | 2026-03-27 12:43 |
 | smartbridge, LLC | Contract - Senior Azure Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f4f4206c880498f) | 2026-03-27 12:43 |
-| Capgemini | Python Developer | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2634d65872a274a7) | 2026-03-27 11:36 |
-| Capgemini | GCP AI Engineer | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=90a4bbd6dc8ae1d0) | 2026-03-27 11:36 |
-| Capgemini | AI/ML Engineer with AWS SageMaker | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3717cba2b9262b6d) | 2026-03-27 11:36 |
-| HCA Healthcare | Senior Data Engineer - APIs | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=734740ee36ff607d) | 2026-03-27 11:36 |
-| Capgemini | Java Full Stack Developer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03b40a4dd57a871a) | 2026-03-27 11:36 |
-| Capgemini | Java Full Stack Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49731db3d48d468e) | 2026-03-27 11:36 |
 
 
 ---
