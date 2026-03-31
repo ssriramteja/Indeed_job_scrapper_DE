@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-30 23:28
+Last updated: 2026-03-31 01:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Technology Ventures | Cloud and Data Architect | Reston, VA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=320c1faffbfddbde) | 2026-03-31 01:26 |
+| NTT DATA | Snowflake Architect | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=40aaa75b2184c0c1) | 2026-03-31 01:26 |
+| TD | Data Engineer II (US) | Mount Laurel, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ca690758b1fe12cc) | 2026-03-31 01:26 |
+| Medline Industries | Assoc AI Data Engineer | Northbrook, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1694de66666ce5ae) | 2026-03-31 01:26 |
+| Slide Insurance | Data Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=581ccabe792e3e2e) | 2026-03-31 01:26 |
+| Wavicle Data Solutions | Data Engineering Architect | Oak Brook, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=da6f6c7407781883) | 2026-03-31 01:26 |
+| Navitas | 26-2239: QA Automation Engineer - Herndon, VA | Herndon, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8d8f63f9ca803a56) | 2026-03-31 01:26 |
+| NTT DATA | Snowflake Data Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ccb8528012c6918c) | 2026-03-31 01:26 |
+| Hertz | Sr Full Stack Developer - Rental Platforms | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ecbf4be0e4e22122) | 2026-03-31 01:26 |
+| Hanvok Group LLC | DevOps Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=215add5ff61dcad5) | 2026-03-31 01:26 |
 | Harley-Davidson, Inc. | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2cd8c53893a5ad46) | 2026-03-30 23:28 |
 | The University of Michigan | Data Engineer Senior | Ann Arbor, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=911af4a079b795bc) | 2026-03-30 23:28 |
 | Recutify Inc. | AWS CLOUD DATA / SOLUTION ARCHITECHT | Ridgefield, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dabf2b647f36e98c) | 2026-03-30 23:28 |
@@ -612,18 +622,6 @@ Last updated: 2026-03-30 23:28
 | NuView | Data Engineer Remote | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9aa3e227f230a38e) | 2026-03-27 04:27 |
 | nan | Snowflake Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=73f9cbcb57b8893b) | 2026-03-27 04:27 |
 | Skidmore, Owings & Merrill | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f30cc04c7a5b1640) | 2026-03-27 04:27 |
-| Public Partnerships LLC | Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=32b14cab00de850b) | 2026-03-27 01:25 |
-| Realign | Java Full Stack Developer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d6d6c1cc52916e8a) | 2026-03-27 01:25 |
-| Anika Systems | Data Analyst | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=54663b10957e30b4) | 2026-03-27 01:25 |
-| Socure | Senior Data Engineer | Carson City, NV, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9fedcaf91c6ec848) | 2026-03-27 01:25 |
-| nan | Full Stack Developer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6bc1cc450f30679d) | 2026-03-27 01:25 |
-| Capstone Integrated Solutions | Full-Stack Developer (AWS, TS, React) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6621054fbdb19cc2) | 2026-03-27 01:25 |
-| McCarthy Holdings | Sr. AI Engineer | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=10c1c898197e57c0) | 2026-03-27 01:25 |
-| Power Systems MFG., LLC | Development Engineer | Jupiter, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=505a4d22308f90a3) | 2026-03-27 01:25 |
-| Burrell Behavioral Health | Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15e1ce3fb4d0cd17) | 2026-03-27 01:25 |
-| Slalom Consulting | Slalom Flex (Project Based) - Data Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=17cd55492f23a2fa) | 2026-03-27 01:25 |
-| Clever Devices | DevOps Engineer | Woodbury, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=324e434a7481d1e8) | 2026-03-27 01:25 |
-| Clever Devices | DevOps Engineer | Apex, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0eb339539f4f40c) | 2026-03-27 01:25 |
 
 
 ---
