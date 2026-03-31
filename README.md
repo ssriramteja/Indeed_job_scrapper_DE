@@ -1,17 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-31 19:50
+Last updated: 2026-03-31 20:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-03-31 19:50 |
+| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-03-31 20:35 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-03-31 20:35 |
+| TIAA | Senior Data Engineer | Iselin, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1c69ae1a5bbb91ec) | 2026-03-31 20:35 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 20:35 |
 | Infosys | Databricks Administrator | Hartford, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=41fcb22e7e1be3af) | 2026-03-31 19:50 |
 | The Consortium Inc. | Temp to Permanent - Redshift Dynamo data analytics AI subject matter expert senior data engineer. | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d3155a48b630529) | 2026-03-31 19:50 |
 | NTT DATA | Data Scientist | Camden, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f45ba0b2e434ebdf) | 2026-03-31 19:50 |
 | Optum | Sr. Data Analyst - Remote | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aeaed27b6eac7dfe) | 2026-03-31 19:50 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 19:50 |
 | jamf | DevOps Engineer II (CI/CD) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c7d081a2acf87111) | 2026-03-31 19:50 |
 | Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=efab53243a65d22c) | 2026-03-31 19:50 |
 | Waystar | Data Engineer I | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebf5fc4fe451b2a3) | 2026-03-31 19:50 |
@@ -657,13 +659,6 @@ Last updated: 2026-03-31 19:50
 | CFS Brands, LLC | Data Engineer - Oklahoma City, OK | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfb492a67fde6480) | 2026-03-27 21:27 |
 | Ideacrew | Junior Data Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe9de487ccd11ade) | 2026-03-27 21:27 |
 | Informatica | Performance Engineer | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2299267620bf729) | 2026-03-27 21:27 |
-| Addepto | Data Engineer (GCP, Snowflake) | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=171e4e9a5f95f349) | 2026-03-27 20:29 |
-| North Carolina State University | REFRAME Platform Architect | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f51272f2fb3899cf) | 2026-03-27 20:29 |
-| innoVet Health, LLC | Azure Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f77a2037f942c65a) | 2026-03-27 20:29 |
-| Ignite Insurance Systems | Data Developer - L2 | Holmdel, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c72f53b3836fad3b) | 2026-03-27 20:29 |
-| Addepto | Data Architect (GCP, Snowflake) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=13a9ab76e83e7683) | 2026-03-27 20:29 |
-| Sherwin-Williams | Senior Data Engineer | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b255fff754cbea82) | 2026-03-27 20:29 |
-| Xylem | Software Developer | Morrisville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d90c7cd56437b3f) | 2026-03-27 20:29 |
 
 
 ---
