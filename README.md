@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-31 12:56
+Last updated: 2026-03-31 14:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 12:56 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-03-31 14:24 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 14:24 |
 | Publix | Business Data Engineer | Lakeland, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bdfa6620e1363720) | 2026-03-31 12:56 |
 | nan | Data Engineer, Selling Partner Insights and Analytics | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=60a9c799766b00e5) | 2026-03-31 11:42 |
 | Openkyber | PingOne Cloud Engineer | HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d1bb860adb845b2) | 2026-03-31 11:42 |
@@ -643,8 +644,6 @@ Last updated: 2026-03-31 12:56
 | athenahealth | Product Analytics, Senior Associate | Belfast, ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13e9aeecafcd087e) | 2026-03-27 16:44 |
 | Pismo | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f47454da8e4e4715) | 2026-03-27 16:44 |
 | athenahealth | Product Analytics, Associate | Belfast, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21f8191c9528fa3a) | 2026-03-27 16:44 |
-| nan | Senior Software Engineer - Database | Bristol, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=172b25f4f1200ed3) | 2026-03-27 14:06 |
-| nan | Data Engineer II | Santa Monica, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1305647d227e74d0) | 2026-03-27 14:06 |
 
 
 ---
