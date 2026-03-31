@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-31 08:03
+Last updated: 2026-03-31 09:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Data Engineer III- Python / Data Lake | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b7b49f09d70a8053) | 2026-03-31 09:56 |
+| nan | Software Engineer II | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bf1c34ee91c952e8) | 2026-03-31 09:56 |
+| nan | Software Engineer II | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ae5ba63dac769db2) | 2026-03-31 09:56 |
+| Commence | Cloud Infrastructure Engineer | Virginia Beach, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=71c7ef21d9f323bb) | 2026-03-31 09:56 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 09:56 |
 | Elevance Health | Cloud Solutions Engineer Advisor | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7ed5b36af60806a7) | 2026-03-31 08:03 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 08:03 |
-| Ford Motor Company | GCP Cloud Engineer | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=010939cb7a520dc3) | 2026-03-31 08:03 |
 | Digipulse Technologies Inc. | Snowflake Developer | TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=dcb5051399e08706) | 2026-03-31 06:12 |
 | NTT DATA | Snowflake Architect | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b7c1b121d67d1c29) | 2026-03-31 06:12 |
 | CVS Health | Senior Data Engineer | Lansing, MI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3f98b55439904bef) | 2026-03-31 04:30 |
@@ -650,8 +653,6 @@ Last updated: 2026-03-31 08:03
 | nan | Infrastructure Engineer (Backend) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0be821cc97d69bf4) | 2026-03-27 10:39 |
 | JPMorganChase | Software Engineer III (Java/SpringBoot/Kafka/Cloud) | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e37f813b5cb175d0) | 2026-03-27 10:39 |
 | Ulta | Sr AI ML Engineer | Bolingbrook, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c97a6763a721f8de) | 2026-03-27 10:39 |
-| Wells Fargo | Engineering Associate - Cloud Enablement & Automation | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=69ab89045d08ef18) | 2026-03-27 08:41 |
-| Expedia Group | Machine Learning Engineer III | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3b0859d9457f7e5) | 2026-03-27 08:41 |
 
 
 ---
