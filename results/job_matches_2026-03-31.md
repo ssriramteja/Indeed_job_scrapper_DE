@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-03-31
 
-**Total Jobs Found:** 181
+**Total Jobs Found:** 184
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -346,14 +346,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Data Engineer III- Python / Data Lake @ JPMorganChase
+## 32. Data Engineer @ Steel Warehouse
 **Match Score:** 15.3%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** South Bend, IN, US USA
 
-🔑 **Keywords:** AWS, Glue, EMR, Kinesis, Step Functions, RDS, Databricks, Hadoop, Spark, Scala
+🔑 **Keywords:** AWS, Redshift, RDS, Azure, Data Factory, GCP, BigQuery, Spark, Scala, Snowflake
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b7b49f09d70a8053)
+[Apply Here](https://www.indeed.com/viewjob?jk=71eb13352e5c1a32)
 
 ---
 
@@ -368,14 +368,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Data Engineer @ Steel Warehouse
+## 34. Data Engineer III- Python / Data Lake @ JPMorganChase
 **Match Score:** 15.3%
 
-📍 **Location:** South Bend, IN, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** AWS, Redshift, RDS, Azure, Data Factory, GCP, BigQuery, Spark, Scala, Snowflake
+🔑 **Keywords:** AWS, Glue, EMR, Kinesis, Step Functions, RDS, Databricks, Hadoop, Spark, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=71eb13352e5c1a32)
+[Apply Here](https://www.indeed.com/viewjob?jk=b7b49f09d70a8053)
 
 ---
 
@@ -401,7 +401,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. ML Infrastructure Architect @ Openkyber
+## 37. Databricks Administrator @ Infosys
+**Match Score:** 14.6%
+
+📍 **Location:** Hartford, NJ, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, Databricks, Unity Catalog, Cloud Storage, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=41fcb22e7e1be3af)
+
+---
+
+## 38. ML Infrastructure Architect @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** AK, US USA
@@ -412,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Software Engineer II @ nan
+## 39. Software Engineer II @ nan
 **Match Score:** 14.6%
 
 📍 **Location:** US USA
@@ -423,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Software Engineer II @ nan
+## 40. Software Engineer II @ nan
 **Match Score:** 14.6%
 
 📍 **Location:** Tampa, FL, US USA
@@ -434,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Snowflake Architect @ NTT DATA
+## 41. Snowflake Architect @ NTT DATA
 **Match Score:** 14.6%
 
 📍 **Location:** Chicago, IL, US USA
@@ -445,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Snowflake Architect @ NTT DATA
+## 42. Snowflake Architect @ NTT DATA
 **Match Score:** 14.6%
 
 📍 **Location:** Chicago, IL, US USA
@@ -456,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Falcon Fusion Automation Engineer @ Openkyber
+## 43. Falcon Fusion Automation Engineer @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** IL, US USA
@@ -467,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Falcon Fusion Automation Engineer @ Openkyber
+## 44. Falcon Fusion Automation Engineer @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** NJ, US USA
@@ -478,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Intelligence Advisory Specialist @ Openkyber
+## 45. Intelligence Advisory Specialist @ Openkyber
 **Match Score:** 14.6%
 
 📍 **Location:** NY, US USA
@@ -489,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Software Engineer @ Tenable
+## 46. Software Engineer @ Tenable
 **Match Score:** 14.6%
 
 📍 **Location:** Columbia, MD, US USA
@@ -497,17 +508,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, SQS, SNS, Scala, Kafka, PostgreSQL, DynamoDB, NoSQL, Splunk, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=695bee5a222f3154)
-
----
-
-## 46. Senior Data Engineer - Data and AI Platform @ Visa
-**Match Score:** 13.9%
-
-📍 **Location:** Foster City, CA, US USA
-
-🔑 **Keywords:** RDS, Hadoop, Hive, HBase, Spark, Scala, Kafka, MySQL, NoSQL, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b7a485d3680b15c7)
 
 ---
 
@@ -555,40 +555,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Senior Data Platform & Healthcare AI Analytics Engineer @ MindCare Solutions Group
+## 51. Senior Data Engineer - Data and AI Platform @ Visa
 **Match Score:** 13.9%
 
-📍 **Location:** Nashville, TN, US USA
+📍 **Location:** Foster City, CA, US USA
 
-🔑 **Keywords:** EMR, Athena, RDS, Azure, Data Factory, Spark, PySpark, Scala, ETL, ELT
+🔑 **Keywords:** RDS, Hadoop, Hive, HBase, Spark, Scala, Kafka, MySQL, NoSQL, ETL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7d5e6c69e5dcc101)
+[Apply Here](https://www.indeed.com/viewjob?jk=b7a485d3680b15c7)
 
 ---
 
-## 52. Senior Data Platform & Healthcare AI Analytics Engineer @ MindCare Solutions Group
-**Match Score:** 13.9%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** EMR, Athena, RDS, Azure, Data Factory, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=008f37aa6430130f)
-
----
-
-## 53. Senior Analytics Engineer @ Vanderbilt University
-**Match Score:** 13.9%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Scala, Snowflake, NoSQL, Data Modeling, dbt
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1b1c3ee64f59e29c)
-
----
-
-## 54. Machine Learning Operations Trainee @ Openkyber
+## 52. Machine Learning Operations Trainee @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** GA, US USA
@@ -599,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Senior Associate, Software Engineering: Java @ Options Clearing Corporation
+## 53. Senior Associate, Software Engineering: Java @ Options Clearing Corporation
 **Match Score:** 13.9%
 
 📍 **Location:** Dallas, TX, US USA
@@ -610,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Senior Data Engineer @ Fidelity Investments
+## 54. Senior Data Engineer @ Fidelity Investments
 **Match Score:** 13.9%
 
 📍 **Location:** Westlake, TX, US USA
@@ -621,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. CrowdStrike Charlotte AI Engineer @ Openkyber
+## 55. CrowdStrike Charlotte AI Engineer @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** GA, US USA
@@ -632,18 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. Data Engineering Architect @ Wavicle Data Solutions
-**Match Score:** 13.2%
-
-📍 **Location:** Oak Brook, IL, US USA
-
-🔑 **Keywords:** AWS, Glue, Kinesis, Azure, Data Factory, Databricks, GCP, Spark, Scala, Kafka
-
-[Apply Here](https://www.indeed.com/viewjob?jk=da6f6c7407781883)
-
----
-
-## 59. SAP Analytics Cloud Consultant @ Openkyber
+## 56. SAP Analytics Cloud Consultant @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** GA, US USA
@@ -654,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. Software Engineer (contract) @ Wells Fargo
+## 57. Software Engineer (contract) @ Wells Fargo
 **Match Score:** 13.2%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -665,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Assoc AI Data Engineer @ Medline Industries
+## 58. Assoc AI Data Engineer @ Medline Industries
 **Match Score:** 13.2%
 
 📍 **Location:** Northbrook, IL, US USA
@@ -676,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. Data Engineer @ Slide Insurance
+## 59. Data Engineer @ Slide Insurance
 **Match Score:** 13.2%
 
 📍 **Location:** Tampa, FL, US USA
@@ -687,7 +654,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. GCP Cloud Administrator @ Openkyber
+## 60. Data Engineering Architect @ Wavicle Data Solutions
+**Match Score:** 13.2%
+
+📍 **Location:** Oak Brook, IL, US USA
+
+🔑 **Keywords:** AWS, Glue, Kinesis, Azure, Data Factory, Databricks, GCP, Spark, Scala, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=da6f6c7407781883)
+
+---
+
+## 61. GCP Cloud Administrator @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** NJ, US USA
@@ -698,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Full Stack Software Engineer @ EXL Service
+## 62. Full Stack Software Engineer @ EXL Service
 **Match Score:** 13.2%
 
 📍 **Location:** US USA
@@ -709,29 +687,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. CrowdStrike Automation Engineer @ Openkyber
+## 63. Temp to Permanent - Redshift Dynamo data analytics AI subject matter expert senior data engineer. @ The Consortium Inc.
 **Match Score:** 12.5%
 
-📍 **Location:** GA, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** RDS, Azure, Databricks, Spark, PySpark, Scala, ETL, ELT, CI/CD, GitHub Actions
+🔑 **Keywords:** AWS, Glue, Lambda, Kinesis, Redshift, Athena, S3, SQS, SNS, RDS
 
-[Apply Here](https://www.indeed.com/viewjob?jk=82b86af2c91eec1e)
+[Apply Here](https://www.indeed.com/viewjob?jk=5d3155a48b630529)
 
 ---
 
-## 66. Senior Data Ops Engineer (contract) @ Wells Fargo
-**Match Score:** 12.5%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** AWS, Azure, Google Cloud Platform, GCP, BigQuery, Cloud Storage, Hadoop, Spark, PySpark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=856a0021ec6b2858)
-
----
-
-## 67. DevOps Engineer (GCP) @ Openkyber
+## 64. DevOps Engineer (GCP) @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** NC, US USA
@@ -742,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. GCP ETL Engineer @ Openkyber
+## 65. GCP ETL Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** CA, US USA
@@ -753,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. DevOps Engineer (GCP) @ Openkyber
+## 66. DevOps Engineer (GCP) @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** OR, US USA
@@ -764,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Senior Software Engineer @ ZoomInfo
+## 67. Senior Software Engineer @ ZoomInfo
 **Match Score:** 12.5%
 
 📍 **Location:** Waltham, MA, US USA
@@ -775,7 +742,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Senior Backend Engineer - Java @ Luxoft
+## 68. Senior Data Ops Engineer (contract) @ Wells Fargo
+**Match Score:** 12.5%
+
+📍 **Location:** Irving, TX, US USA
+
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, GCP, BigQuery, Cloud Storage, Hadoop, Spark, PySpark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=856a0021ec6b2858)
+
+---
+
+## 69. CrowdStrike Automation Engineer @ Openkyber
+**Match Score:** 12.5%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Spark, PySpark, Scala, ETL, ELT, CI/CD, GitHub Actions
+
+[Apply Here](https://www.indeed.com/viewjob?jk=82b86af2c91eec1e)
+
+---
+
+## 70. Senior Backend Engineer - Java @ Luxoft
 **Match Score:** 12.5%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -786,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. GCP Cloud Security Engineer @ Openkyber
+## 71. GCP Cloud Security Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** NC, US USA
@@ -797,18 +786,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Software Engineer - Fintech @ DASH
+## 72. Data Scientist @ NTT DATA
 **Match Score:** 12.5%
 
-📍 **Location:** US USA
+📍 **Location:** Camden, NJ, US USA
 
-🔑 **Keywords:** AWS, SQS, Azure, GCP, Scala, Kafka, PostgreSQL, MySQL, Data Modeling, CI/CD
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Hadoop, Spark, Kafka, NoSQL, Power BI, Tableau
 
-[Apply Here](https://www.indeed.com/viewjob?jk=032692b6447e846b)
+[Apply Here](https://www.indeed.com/viewjob?jk=f45ba0b2e434ebdf)
 
 ---
 
-## 74. Advisor IT Technology Analyst @ Puget Sound Energy
+## 73. Advisor IT Technology Analyst @ Puget Sound Energy
 **Match Score:** 12.5%
 
 📍 **Location:** Bothell, WA, US USA
@@ -816,6 +805,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, Step Functions, S3, SQS, SNS, API Gateway, RDS, Azure, DynamoDB
 
 [Apply Here](https://www.indeed.com/viewjob?jk=730de253e4e2fdc4)
+
+---
+
+## 74. Software Engineer - Fintech @ DASH
+**Match Score:** 12.5%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, SQS, Azure, GCP, Scala, Kafka, PostgreSQL, MySQL, Data Modeling, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=032692b6447e846b)
 
 ---
 
@@ -830,7 +830,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Data Engineer @ Fairway Independent Mortgage
+## 76. Sr. Data Analyst - Remote @ Optum
+**Match Score:** 11.8%
+
+📍 **Location:** Little Rock, AR, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Snowflake, Informatica PowerCenter, Oracle, SQL Server, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=aeaed27b6eac7dfe)
+
+---
+
+## 77. Data Engineer @ Fairway Independent Mortgage
 **Match Score:** 11.8%
 
 📍 **Location:** Central, LA, US USA
@@ -841,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. GCP Cloud Administrator @ Openkyber
+## 78. GCP Cloud Administrator @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** GA, US USA
@@ -852,7 +863,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Junior Cloud Security Analyst @ Openkyber
+## 79. Junior Cloud Security Analyst @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** GA, US USA
@@ -863,7 +874,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Data Analyst @ TD SYNNEX
+## 80. Data Analyst @ TD SYNNEX
 **Match Score:** 11.8%
 
 📍 **Location:** Clearwater, FL, US USA
@@ -874,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Sr. Software Engineer @ Otelier
+## 81. Sr. Software Engineer @ Otelier
 **Match Score:** 11.8%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -885,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. MLOps @ Openkyber
+## 82. MLOps @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** GA, US USA
@@ -896,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. PingOne Cloud Engineer @ Openkyber
+## 83. PingOne Cloud Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** HI, US USA
@@ -907,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Senior Full Stack Engineer @ Tata Consultancy Services (TCS)
+## 84. Senior Full Stack Engineer @ Tata Consultancy Services (TCS)
 **Match Score:** 11.8%
 
 📍 **Location:** Plano, TX, US USA
@@ -918,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Data Architect @ Tata Consultancy Services (TCS)
+## 85. Data Architect @ Tata Consultancy Services (TCS)
 **Match Score:** 11.8%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -926,17 +937,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Redshift, RDS, Azure, Google Cloud Platform, Hive, Snowflake, Oracle, PostgreSQL, NoSQL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=2dc4b4a6a2ce3590)
-
----
-
-## 85. ML Platform Engineer @ Openkyber
-**Match Score:** 11.1%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Hadoop, Spark, Scala, MLOps, MLflow, CI/CD, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8a75d763e98635f6)
 
 ---
 
@@ -1006,18 +1006,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Data Engineer/Cloud Engineer @ Fidelity TalentSource
+## 92. ML Platform Engineer @ Openkyber
 **Match Score:** 11.1%
 
-📍 **Location:** Westlake, TX, US USA
+📍 **Location:** GA, US USA
 
-🔑 **Keywords:** AWS, Lambda, S3, Azure, Data Factory, Scala, Snowflake, Oracle, ETL, ELT
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Hadoop, Spark, Scala, MLOps, MLflow, CI/CD, Docker
 
-[Apply Here](https://www.indeed.com/viewjob?jk=fa5c015dba2edf2f)
+[Apply Here](https://www.indeed.com/viewjob?jk=8a75d763e98635f6)
 
 ---
 
-## 93. Senior Software Engineer @ Everbridge
+## 93. DevOps Engineer II (CI/CD) @ jamf
+**Match Score:** 11.1%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Scala, MySQL, DynamoDB, CI/CD, Jenkins, GitHub Actions, Terraform, Kubernetes, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c7d081a2acf87111)
+
+---
+
+## 94. Database Engineer @ Chess.com
+**Match Score:** 11.1%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, GCP, Scala, MySQL, Cassandra, Data Modeling, ETL, Terraform, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=efab53243a65d22c)
+
+---
+
+## 95. Senior Software Engineer @ Everbridge
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -1028,7 +1050,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Sr Full Stack Developer - Rental Platforms @ Hertz
+## 96. Sr Full Stack Developer - Rental Platforms @ Hertz
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1039,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. BI Engineer @ BWE
+## 97. BI Engineer @ BWE
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -1050,51 +1072,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Senior Python Developer @ ECS
-**Match Score:** 11.1%
-
-📍 **Location:** Fairfax, VA, US USA
-
-🔑 **Keywords:** AWS, ECS, Kafka, Data Modeling, ETL, ELT, Splunk, CI/CD, GitHub Actions, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f27e4c248823f3cb)
-
----
-
-## 97. Senior Python Software Engineer @ Lantern
+## 98. Data Engineer I @ Waystar
 **Match Score:** 10.4%
 
-📍 **Location:** Dallas, TX, US USA
+📍 **Location:** Lehi, UT, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Scala, PostgreSQL, MySQL, CI/CD, GitHub Actions, Azure DevOps, pytest
+🔑 **Keywords:** AWS, RDS, BigQuery, Scala, Snowflake, SQL Server, Data Modeling, ETL, ELT, dbt
 
-[Apply Here](https://www.indeed.com/viewjob?jk=db506ee21362577a)
-
----
-
-## 98. MuleSoft QA Engineer @ UniFirst
-**Match Score:** 10.4%
-
-📍 **Location:** Wilmington, MA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Scala, ETL, CI/CD, Jenkins, GitHub Actions, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a86cd032741a613b)
+[Apply Here](https://www.indeed.com/viewjob?jk=ebf5fc4fe451b2a3)
 
 ---
 
-## 99. Business Data Engineer @ Publix
-**Match Score:** 10.4%
-
-📍 **Location:** Lakeland, FL, US USA
-
-🔑 **Keywords:** Azure, Databricks, Blob Storage, Unity Catalog, Spark, PySpark, Snowflake, Oracle, SQL Server, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bdfa6620e1363720)
-
----
-
-## 100. MLOps @ Openkyber
+## 99. MLOps @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** VA, US USA
@@ -1105,7 +1094,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Junior DevOps Engineer (GCP) @ Openkyber
+## 100. Junior DevOps Engineer (GCP) @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -1116,7 +1105,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. Full Stack/Cloud Engineer @ Fustis LLC
+## 101. Full Stack/Cloud Engineer @ Fustis LLC
 **Match Score:** 10.4%
 
 📍 **Location:** Merrimack, NH, US USA
@@ -1127,7 +1116,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. Data Engineer II (BI/ETL FOCUS) @ PerfectRx
+## 102. Data Engineer II (BI/ETL FOCUS) @ PerfectRx
 **Match Score:** 10.4%
 
 📍 **Location:** Cary, NC, US USA
@@ -1135,6 +1124,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Glue, Redshift, S3, RDS, Scala, PostgreSQL, Data Modeling, Dimensional Modeling, ETL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=a83309a17d6efa3a)
+
+---
+
+## 103. Business Data Engineer @ Publix
+**Match Score:** 10.4%
+
+📍 **Location:** Lakeland, FL, US USA
+
+🔑 **Keywords:** Azure, Databricks, Blob Storage, Unity Catalog, Spark, PySpark, Snowflake, Oracle, SQL Server, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bdfa6620e1363720)
 
 ---
 
@@ -1149,7 +1149,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 105. Kubernetes MLOps Engineer @ Openkyber
+## 105. Senior Python Software Engineer @ Lantern
+**Match Score:** 10.4%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, PostgreSQL, MySQL, CI/CD, GitHub Actions, Azure DevOps, pytest
+
+[Apply Here](https://www.indeed.com/viewjob?jk=db506ee21362577a)
+
+---
+
+## 106. MuleSoft QA Engineer @ UniFirst
+**Match Score:** 10.4%
+
+📍 **Location:** Wilmington, MA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Scala, ETL, CI/CD, Jenkins, GitHub Actions, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a86cd032741a613b)
+
+---
+
+## 107. Python Snowflake Data Engineer - ONSITE @ NTT DATA
+**Match Score:** 10.4%
+
+📍 **Location:** Buffalo, NY, US USA
+
+🔑 **Keywords:** RDS, Scala, Snowflake, PostgreSQL, Data Modeling, ETL, ELT, Power BI, CI/CD, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=21b75f05c8869eb9)
+
+---
+
+## 108. Kubernetes MLOps Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** MI, US USA
@@ -1160,29 +1193,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 106. MLOps @ Openkyber
-**Match Score:** 10.4%
-
-📍 **Location:** TX, US USA
-
-🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Cloud Storage, ETL, MLOps, CI/CD, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4863cbc6b3d6b1cb)
-
----
-
-## 107. Junior DevOps Engineer (GCP) @ Openkyber
-**Match Score:** 10.4%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, CI/CD, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=35e0e8efd2412038)
-
----
-
-## 108. Senior Software Engineer @ GEICO
+## 109. Senior Software Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -1193,7 +1204,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 109. Senior Software Engineer @ GEICO
+## 110. Senior Software Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -1204,7 +1215,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 110. Senior Software Engineer @ GEICO
+## 111. Senior Software Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1215,7 +1226,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 111. Senior Software Engineer @ GEICO
+## 112. Senior Software Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -1226,7 +1237,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 112. Senior Software Engineer @ GEICO
+## 113. Senior Software Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -1237,7 +1248,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 113. Senior Salesforce Developer @ Alliant Insurance Services
+## 114. Senior Salesforce Developer @ Alliant Insurance Services
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1248,7 +1259,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 114. Senior Salesforce Developer @ Alliant Insurance Services
+## 115. Senior Salesforce Developer @ Alliant Insurance Services
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1259,7 +1270,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 115. Senior Site Reliability Engineer (contract) @ Wells Fargo
+## 116. Senior Site Reliability Engineer (contract) @ Wells Fargo
 **Match Score:** 10.4%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -1270,711 +1281,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 116. Contract Associate Development Engineer @ Sinclair Broadcast Group
+## 117. MLOps @ Openkyber
 **Match Score:** 10.4%
 
-📍 **Location:** Seattle, WA, US USA
+📍 **Location:** TX, US USA
 
-🔑 **Keywords:** AWS, Databricks, Scala, MySQL, MongoDB, CI/CD, Terraform, Docker, Kubernetes, Git
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Cloud Storage, ETL, MLOps, CI/CD, Docker, Kubernetes, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=1c556a8e96adfe0e)
+[Apply Here](https://www.indeed.com/viewjob?jk=4863cbc6b3d6b1cb)
 
 ---
 
-## 117. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** San Antonio, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8416a8506d47b063)
-
----
-
-## 118. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Winston-Salem, NC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ebc95dd2bea57493)
-
----
-
-## 119. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Short Hills, NJ, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cb073e263cd375ad)
-
----
-
-## 120. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Virginia Beach, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1a42c4ea9e743558)
-
----
-
-## 121. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Richmond, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7969caab4fdc3fd7)
-
----
-
-## 122. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Stamford, CT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a131bdccd5dfe683)
-
----
-
-## 123. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Tempe, AZ, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=39a2def4665f0868)
-
----
-
-## 124. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Shreveport, LA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=90a6aee373b7932a)
-
----
-
-## 125. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=30db15ed7ce739d7)
-
----
-
-## 126. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Tallahassee, FL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b0c8e8d4ff04dcc9)
-
----
-
-## 127. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** St. Louis, MO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d32e3dabc3defd49)
-
----
-
-## 128. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Tampa, FL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4890395a6efa72de)
-
----
-
-## 129. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Pittsburgh, PA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=df3b5d307d35a646)
-
----
-
-## 130. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Salt Lake City, UT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7874ab9a4b1ddb37)
-
----
-
-## 131. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8d2b612f9a00d413)
-
----
-
-## 132. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Raleigh, NC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=76704cec11281802)
-
----
-
-## 133. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Providence, RI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8fc3f27500c9a399)
-
----
-
-## 134. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Orlando, FL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bb4d62734b0505b6)
-
----
-
-## 135. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Miami, FL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=710e43de726284cb)
-
----
-
-## 136. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Philadelphia, PA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=35818880da2b7e5e)
-
----
-
-## 137. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Milwaukee, WI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f66fb3899c84c08a)
-
----
-
-## 138. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Phoenix, AZ, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d6950fff73368dd0)
-
----
-
-## 139. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Minneapolis, MN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=362db613a9d46a6f)
-
----
-
-## 140. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Omaha, NE, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=557986231199559a)
-
----
-
-## 141. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** New Orleans, LA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4c12321bfdc84d51)
-
----
-
-## 142. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Oklahoma City, OK, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7b82133b39b7c0b6)
-
----
-
-## 143. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Montvale, NJ, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c167b1d4b68a3e22)
-
----
-
-## 144. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Memphis, TN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=02f0a7c0b03f5014)
-
----
-
-## 145. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Denver, CO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=878f88f973ba3d5b)
-
----
-
-## 146. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Indianapolis, IN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2027cf85152f63f9)
-
----
-
-## 147. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=75e78e02407d6359)
-
----
-
-## 148. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Louisville, KY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dfbd6e67d3fd8cfd)
-
----
-
-## 149. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Boulder, CO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=701baf4cf0f8fe9e)
-
----
-
-## 150. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Fort Worth, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ebcfe6c3637b19aa)
-
----
-
-## 151. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3c92229dbb009cb6)
-
----
-
-## 152. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Des Moines, IA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=aa5df6a1034f8d11)
-
----
-
-## 153. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Kansas City, MO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dd2f8d8bdebb9bc9)
-
----
-
-## 154. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0fab502088647eba)
-
----
-
-## 155. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Jacksonville, FL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ab6a336179fadc6d)
-
----
-
-## 156. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Detroit, MI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6739adde8d9aa7f5)
-
----
-
-## 157. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Fort Lauderdale, FL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3f9762e0a7c4f2d1)
-
----
-
-## 158. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4ae8e30d2f5aa08d)
-
----
-
-## 159. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Greenville, SC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=da6f21f7c72d92d7)
-
----
-
-## 160. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Cincinnati, OH, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a94c8a15efcf12a3)
-
----
-
-## 161. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Jackson, MS, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=44d167f185224ba1)
-
----
-
-## 162. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Lincoln, NE, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dda52628551ebad5)
-
----
-
-## 163. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Columbus, OH, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=12863926a8f4062f)
-
----
-
-## 164. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6e34477bf322ef9e)
-
----
-
-## 165. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Cleveland, OH, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=aefe432545c06aad)
-
----
-
-## 166. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Knoxville, TN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=951faf7271cbfa9f)
-
----
-
-## 167. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Grand Rapids, MI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2e5755edc6a6951c)
-
----
-
-## 168. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Harrisburg, PA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=37b548052deb3ab1)
-
----
-
-## 169. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=aea06ae53f170835)
-
----
-
-## 170. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Hartford, CT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8ac9434a297d22bf)
-
----
-
-## 171. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Birmingham, AL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=74637e7a09c2131d)
-
----
-
-## 172. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4ddbe6ce43611a92)
-
----
-
-## 173. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Boise, ID, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=203fc2d7ad7bf6af)
-
----
-
-## 174. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=733b00ba9fecb840)
-
----
-
-## 175. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Albuquerque, NM, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1e7dcb79cc790a91)
-
----
-
-## 176. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Baltimore, MD, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=eadd6b812c6f0dd0)
-
----
-
-## 177. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Bentonville, AR, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fe67800133c98286)
-
----
-
-## 178. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Baton Rouge, LA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=722ea734bc204ae3)
-
----
-
-## 179. Associate Engineer, AI Integration Analyst @ KPMG
-**Match Score:** 10.4%
-
-📍 **Location:** Ashburn, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cc4bb35373b469bb)
-
----
-
-## 180. Senior Analyst - Business Intelligence @ Ally Financial
+## 118. Senior Analyst - Business Intelligence @ Ally Financial
 **Match Score:** 10.4%
 
 📍 **Location:** Lewisville, TX, US USA
@@ -1985,7 +1303,711 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 181. SAP Integration Suite Consultant @ Openkyber
+## 119. Contract Associate Development Engineer @ Sinclair Broadcast Group
+**Match Score:** 10.4%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** AWS, Databricks, Scala, MySQL, MongoDB, CI/CD, Terraform, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1c556a8e96adfe0e)
+
+---
+
+## 120. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** San Antonio, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8416a8506d47b063)
+
+---
+
+## 121. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Winston-Salem, NC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ebc95dd2bea57493)
+
+---
+
+## 122. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Short Hills, NJ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cb073e263cd375ad)
+
+---
+
+## 123. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Virginia Beach, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1a42c4ea9e743558)
+
+---
+
+## 124. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Richmond, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7969caab4fdc3fd7)
+
+---
+
+## 125. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Stamford, CT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a131bdccd5dfe683)
+
+---
+
+## 126. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Tempe, AZ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=39a2def4665f0868)
+
+---
+
+## 127. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Shreveport, LA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=90a6aee373b7932a)
+
+---
+
+## 128. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Washington, DC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=30db15ed7ce739d7)
+
+---
+
+## 129. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Tallahassee, FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b0c8e8d4ff04dcc9)
+
+---
+
+## 130. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** St. Louis, MO, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d32e3dabc3defd49)
+
+---
+
+## 131. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Tampa, FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4890395a6efa72de)
+
+---
+
+## 132. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Pittsburgh, PA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=df3b5d307d35a646)
+
+---
+
+## 133. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Salt Lake City, UT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7874ab9a4b1ddb37)
+
+---
+
+## 134. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Nashville, TN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8d2b612f9a00d413)
+
+---
+
+## 135. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Raleigh, NC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=76704cec11281802)
+
+---
+
+## 136. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Providence, RI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8fc3f27500c9a399)
+
+---
+
+## 137. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Orlando, FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bb4d62734b0505b6)
+
+---
+
+## 138. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Miami, FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=710e43de726284cb)
+
+---
+
+## 139. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Philadelphia, PA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=35818880da2b7e5e)
+
+---
+
+## 140. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Milwaukee, WI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f66fb3899c84c08a)
+
+---
+
+## 141. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Phoenix, AZ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d6950fff73368dd0)
+
+---
+
+## 142. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Minneapolis, MN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=362db613a9d46a6f)
+
+---
+
+## 143. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Omaha, NE, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=557986231199559a)
+
+---
+
+## 144. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** New Orleans, LA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4c12321bfdc84d51)
+
+---
+
+## 145. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Oklahoma City, OK, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7b82133b39b7c0b6)
+
+---
+
+## 146. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Montvale, NJ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c167b1d4b68a3e22)
+
+---
+
+## 147. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Memphis, TN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=02f0a7c0b03f5014)
+
+---
+
+## 148. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=878f88f973ba3d5b)
+
+---
+
+## 149. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Indianapolis, IN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2027cf85152f63f9)
+
+---
+
+## 150. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=75e78e02407d6359)
+
+---
+
+## 151. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Louisville, KY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dfbd6e67d3fd8cfd)
+
+---
+
+## 152. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Boulder, CO, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=701baf4cf0f8fe9e)
+
+---
+
+## 153. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Fort Worth, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ebcfe6c3637b19aa)
+
+---
+
+## 154. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3c92229dbb009cb6)
+
+---
+
+## 155. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Des Moines, IA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=aa5df6a1034f8d11)
+
+---
+
+## 156. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Kansas City, MO, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dd2f8d8bdebb9bc9)
+
+---
+
+## 157. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0fab502088647eba)
+
+---
+
+## 158. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Jacksonville, FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ab6a336179fadc6d)
+
+---
+
+## 159. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Detroit, MI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6739adde8d9aa7f5)
+
+---
+
+## 160. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Fort Lauderdale, FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3f9762e0a7c4f2d1)
+
+---
+
+## 161. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4ae8e30d2f5aa08d)
+
+---
+
+## 162. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Greenville, SC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=da6f21f7c72d92d7)
+
+---
+
+## 163. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Cincinnati, OH, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a94c8a15efcf12a3)
+
+---
+
+## 164. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Jackson, MS, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=44d167f185224ba1)
+
+---
+
+## 165. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Lincoln, NE, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dda52628551ebad5)
+
+---
+
+## 166. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Columbus, OH, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=12863926a8f4062f)
+
+---
+
+## 167. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6e34477bf322ef9e)
+
+---
+
+## 168. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Cleveland, OH, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=aefe432545c06aad)
+
+---
+
+## 169. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Knoxville, TN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=951faf7271cbfa9f)
+
+---
+
+## 170. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Grand Rapids, MI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2e5755edc6a6951c)
+
+---
+
+## 171. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Harrisburg, PA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=37b548052deb3ab1)
+
+---
+
+## 172. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=aea06ae53f170835)
+
+---
+
+## 173. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Hartford, CT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8ac9434a297d22bf)
+
+---
+
+## 174. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Birmingham, AL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=74637e7a09c2131d)
+
+---
+
+## 175. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4ddbe6ce43611a92)
+
+---
+
+## 176. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Boise, ID, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=203fc2d7ad7bf6af)
+
+---
+
+## 177. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=733b00ba9fecb840)
+
+---
+
+## 178. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Albuquerque, NM, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1e7dcb79cc790a91)
+
+---
+
+## 179. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Baltimore, MD, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eadd6b812c6f0dd0)
+
+---
+
+## 180. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Bentonville, AR, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fe67800133c98286)
+
+---
+
+## 181. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Baton Rouge, LA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=722ea734bc204ae3)
+
+---
+
+## 182. Associate Engineer, AI Integration Analyst @ KPMG
+**Match Score:** 10.4%
+
+📍 **Location:** Ashburn, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cc4bb35373b469bb)
+
+---
+
+## 183. SAP Integration Suite Consultant @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** GA, US USA
@@ -1993,6 +2015,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, Databricks, Medallion Architecture, Google Cloud Platform, Scala, Snowflake, ETL, ELT, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=524dae0940b2e550)
+
+---
+
+## 184. Junior DevOps Engineer (GCP) @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, CI/CD, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=35e0e8efd2412038)
 
 ---
 
