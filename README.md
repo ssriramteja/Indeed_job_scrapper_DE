@@ -1,16 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-31 09:56
+Last updated: 2026-03-31 10:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 10:48 |
 | JPMorganChase | Data Engineer III- Python / Data Lake | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b7b49f09d70a8053) | 2026-03-31 09:56 |
 | nan | Software Engineer II | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bf1c34ee91c952e8) | 2026-03-31 09:56 |
 | nan | Software Engineer II | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ae5ba63dac769db2) | 2026-03-31 09:56 |
 | Commence | Cloud Infrastructure Engineer | Virginia Beach, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=71c7ef21d9f323bb) | 2026-03-31 09:56 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 09:56 |
 | Elevance Health | Cloud Solutions Engineer Advisor | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7ed5b36af60806a7) | 2026-03-31 08:03 |
 | Digipulse Technologies Inc. | Snowflake Developer | TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=dcb5051399e08706) | 2026-03-31 06:12 |
 | NTT DATA | Snowflake Architect | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b7c1b121d67d1c29) | 2026-03-31 06:12 |
@@ -648,11 +648,6 @@ Last updated: 2026-03-31 09:56
 | HCA Healthcare | Senior Data Engineer - APIs | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=734740ee36ff607d) | 2026-03-27 11:36 |
 | Capgemini | Java Full Stack Developer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03b40a4dd57a871a) | 2026-03-27 11:36 |
 | Capgemini | Java Full Stack Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49731db3d48d468e) | 2026-03-27 11:36 |
-| nan | Infrastructure Engineer (Backend) | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9275dfa105600f9f) | 2026-03-27 10:39 |
-| nan | Infrastructure Engineer (Backend) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fbda2b1be4a20921) | 2026-03-27 10:39 |
-| nan | Infrastructure Engineer (Backend) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0be821cc97d69bf4) | 2026-03-27 10:39 |
-| JPMorganChase | Software Engineer III (Java/SpringBoot/Kafka/Cloud) | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e37f813b5cb175d0) | 2026-03-27 10:39 |
-| Ulta | Sr AI ML Engineer | Bolingbrook, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c97a6763a721f8de) | 2026-03-27 10:39 |
 
 
 ---
