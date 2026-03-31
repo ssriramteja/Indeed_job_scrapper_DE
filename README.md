@@ -1,13 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-31 21:31
+Last updated: 2026-03-31 22:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-03-31 21:31 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-03-31 21:31 |
+| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-03-31 22:26 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-03-31 22:26 |
+| Tyson Foods Incorporated | Development Engineer II - SQL/Python (Onsite) | Springdale, AR, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1134e3a24fcb227f) | 2026-03-31 22:26 |
+| Mj holding | Data Engineer | Bridgeview, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=607b114c3a54e137) | 2026-03-31 22:26 |
+| Clean Harbors | Data Governance & AI Architect | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f8c9ed46a79df142) | 2026-03-31 22:26 |
+| EXL Service | Full Stack Software Engineer (Python / Cloud / React) | NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3e81ba3eb856803b) | 2026-03-31 22:26 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-03-31 22:26 |
+| Bechtel | Functional Construction Automation Data Analyst Specialist | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e5f7a44142b4858b) | 2026-03-31 22:26 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 22:26 |
+| Nordstrom | Data Engineer 2, Customer Insights Delivery (Hybrid - Seattle, WA) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a635d8f5dd2e2e8) | 2026-03-31 22:26 |
+| Varteq | Data Engineer (Python ETL) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=805875ce39161cef) | 2026-03-31 22:26 |
+| UniFirst | MuleSoft Developer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87bb3ba8aec761d6) | 2026-03-31 22:26 |
+| JPMorganChase | Software Engineer III - DevOps Automation Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=455fef009e54202e) | 2026-03-31 22:26 |
 | Tata Consultancy Services (TCS) | MDM Developer - Reltio and Informatica | Seattle, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=62f00301c3deac9a) | 2026-03-31 21:31 |
 | Tata Consultancy Services (TCS) | Senior Java Developer | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c741b2b5bf35e58d) | 2026-03-31 21:31 |
 | NTT DATA | Developer / Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=53a21eb645f70762) | 2026-03-31 21:31 |
@@ -19,7 +30,6 @@ Last updated: 2026-03-31 21:31
 | Intone Networks | Data integration Engineer | Malvern, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3525ed6d9ad48128) | 2026-03-31 21:31 |
 | Dittman Incentive Marketing | Development Security Operations Engineer | New Brunswick, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a1e98c36756d0852) | 2026-03-31 21:31 |
 | NEUMO | BI Engineer I (Remote) | Fort Wayne, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ca11c463bffab2e) | 2026-03-31 21:31 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 21:31 |
 | GEICO | Engineer II- Java | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d5fa6d1ea20eaf4) | 2026-03-31 21:31 |
 | GEICO | Engineer II- Java | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11a9093c69bdd7f5) | 2026-03-31 21:31 |
 | Tata Consultancy Services (TCS) | Devops Engineer | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2bce8d3a8d3ff964) | 2026-03-31 21:31 |
@@ -655,18 +665,6 @@ Last updated: 2026-03-31 21:31
 | Milwaukee Tool | Sr Firmware DevOps Engineer | Brookfield, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6171331838e8d021) | 2026-03-27 23:24 |
 | Openkyber | Generative AI Architect | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c985542971e6d41d) | 2026-03-27 23:24 |
 | Openkyber | GCP ML Architect | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce109653891dcb6c) | 2026-03-27 23:24 |
-| Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2d85aff20341b2f5) | 2026-03-27 22:23 |
-| mPulse Mobile | Cloud Operations Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c7dc31395c5cbccb) | 2026-03-27 22:23 |
-| Interclypse, Inc. | Software Engineer (HPC) Linux & Scripting Emphasis | Annapolis Junction, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=94b575aa256e1ed7) | 2026-03-27 22:23 |
-| Interclypse, Inc. | Software Engineer (HPC) Linux & Scripting Emphasis | Annapolis Junction, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0a1bc49d1bd29ac7) | 2026-03-27 22:23 |
-| Steel Warehouse | Data Engineer | South Bend, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=555b9ede0754b52b) | 2026-03-27 22:23 |
-| DocuSign | Sr. Software Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ff01e0919e5668ba) | 2026-03-27 22:23 |
-| LanTech Consulting services | SAP Basis Architect | Alpharetta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4f8787f954512098) | 2026-03-27 22:23 |
-| Trine IT, Inc | SAP Basis Consultant | Alpharetta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2242b24c3c15865d) | 2026-03-27 22:23 |
-| DuBois Chemicals | Senior Data Engineer | Sharonville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f9383d85a0eb4828) | 2026-03-27 22:23 |
-| Interclypse, Inc. | Software Integration Engineer (HPC) | Annapolis Junction, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f14b3b0fbcbb487d) | 2026-03-27 22:23 |
-| Interclypse, Inc. | Software Integration Engineer (HPC) | Annapolis Junction, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a27a9238a01ecbc4) | 2026-03-27 22:23 |
-| Missouri State University | ERP & Database Systems Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3aded09f63bb45f) | 2026-03-27 22:23 |
 
 
 ---
