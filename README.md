@@ -1,16 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-31 16:00
+Last updated: 2026-03-31 17:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-03-31 16:00 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-03-31 17:02 |
+| Visa | Senior Data Engineer - Data and AI Platform | Foster City, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b7a485d3680b15c7) | 2026-03-31 17:02 |
+| Options Clearing Corporation | Senior Associate, Software Engineering: Java | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8ee8848102ba438f) | 2026-03-31 17:02 |
+| EXL Service | Full Stack Software Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d56a2eec25a4cdf1) | 2026-03-31 17:02 |
+| DASH | Software Engineer - Fintech | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=032692b6447e846b) | 2026-03-31 17:02 |
+| TD SYNNEX | Data Analyst | Clearwater, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3ac61b491dcf119f) | 2026-03-31 17:02 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 17:02 |
+| BWE | BI Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=596f6e15cd38e69a) | 2026-03-31 17:02 |
 | Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5b50d646719ae69f) | 2026-03-31 16:00 |
 | Tenable | Software Engineer | Columbia, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=695bee5a222f3154) | 2026-03-31 16:00 |
 | Otelier | Sr. Software Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=938af04f07a7b8f8) | 2026-03-31 16:00 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 16:00 |
 | Fustis LLC | Full Stack/Cloud Engineer | Merrimack, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85601cb639533196) | 2026-03-31 16:00 |
 | nan | AI Engineer | Darlington, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf54a52241c9ab8c) | 2026-03-31 16:00 |
 | UniFirst | MuleSoft QA Engineer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a86cd032741a613b) | 2026-03-31 16:00 |
@@ -645,11 +651,6 @@ Last updated: 2026-03-31 16:00
 | Summit Utilities, Inc. | AI Data Scientist | Fort Smith, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2fec50f02a5ef6aa) | 2026-03-27 17:43 |
 | Summit Utilities, Inc. | AI Data Scientist | Fayetteville, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=faa9dfb3a4929603) | 2026-03-27 17:43 |
 | Summit Utilities, Inc. | AI Data Scientist | Little Rock, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba51b0aca980bb32) | 2026-03-27 17:43 |
-| Bessemer Trust | Senior Software Engineer | Woodbridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=85eb97f83d561310) | 2026-03-27 16:44 |
-| Verisk | Data Developer - L2 | Holmdel, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a6f9f9b97c543b71) | 2026-03-27 16:44 |
-| athenahealth | Product Analytics, Senior Associate | Belfast, ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13e9aeecafcd087e) | 2026-03-27 16:44 |
-| Pismo | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f47454da8e4e4715) | 2026-03-27 16:44 |
-| athenahealth | Product Analytics, Associate | Belfast, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21f8191c9528fa3a) | 2026-03-27 16:44 |
 
 
 ---
