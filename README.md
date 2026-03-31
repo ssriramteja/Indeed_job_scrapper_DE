@@ -1,13 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-31 14:24
+Last updated: 2026-03-31 16:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-03-31 14:24 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 14:24 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-03-31 16:00 |
+| Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5b50d646719ae69f) | 2026-03-31 16:00 |
+| Tenable | Software Engineer | Columbia, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=695bee5a222f3154) | 2026-03-31 16:00 |
+| Otelier | Sr. Software Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=938af04f07a7b8f8) | 2026-03-31 16:00 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 16:00 |
+| Fustis LLC | Full Stack/Cloud Engineer | Merrimack, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85601cb639533196) | 2026-03-31 16:00 |
+| nan | AI Engineer | Darlington, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf54a52241c9ab8c) | 2026-03-31 16:00 |
+| UniFirst | MuleSoft QA Engineer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a86cd032741a613b) | 2026-03-31 16:00 |
 | Publix | Business Data Engineer | Lakeland, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bdfa6620e1363720) | 2026-03-31 12:56 |
 | nan | Data Engineer, Selling Partner Insights and Analytics | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=60a9c799766b00e5) | 2026-03-31 11:42 |
 | Openkyber | PingOne Cloud Engineer | HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d1bb860adb845b2) | 2026-03-31 11:42 |
