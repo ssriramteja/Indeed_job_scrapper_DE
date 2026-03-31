@@ -1,11 +1,49 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-03-31 01:26
+Last updated: 2026-03-31 04:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CVS Health | Senior Data Engineer | Lansing, MI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3f98b55439904bef) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Raleigh, NC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=d8d675a6d5bcaeac) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Madison, WI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=45e9be9ee46290f1) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Washington, DC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4a365abdf57475b3) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Scottsdale, AZ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=230910c469de2d76) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Annapolis, MD, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7c24bfaec7c9da6f) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Hartford, CT, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=451f37250ad0deac) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Providence, RI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b95355c1d74b312f) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Austin, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e3843d714f27ed59) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Trenton, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=78c7318f2c1862c3) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Richmond, VA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=91f462652eeb816d) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Augusta, ME, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7700cc8c2471209c) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Boston, MA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=9808c47b5c4db28f) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Olympia, WA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7306270caf1d6506) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Harrisburg, PA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4a47090faeee0433) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Saint Paul, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=58422662e905e73b) | 2026-03-31 04:30 |
+| CVS Health | Senior Data Engineer | Albany, NY, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=51a7cffbc3607a3c) | 2026-03-31 04:30 |
+| CVS Health | Senior Full Stack Engineer | Scottsdale, AZ, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=f8b345815d3082c2) | 2026-03-31 04:30 |
+| Wells Fargo | Software Engineer (contract) | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=377d8cfc7fa57208) | 2026-03-31 04:30 |
+| mPulse Mobile | Sr Data Analyst | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=127ec4f2c3b2c16c) | 2026-03-31 04:30 |
+| Delta Dental Ins. | DevOps Engineer | Oakland, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=13e82084d20e9979) | 2026-03-31 04:30 |
+| Delta Dental Ins. | DevOps Engineer | Rancho Cordova, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f6f4b90394ec3735) | 2026-03-31 04:30 |
+| ZoomInfo | Senior Software Engineer | Waltham, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e6ae612c56e0f980) | 2026-03-31 04:30 |
+| Fiserv | Software Development Engineer (AI & ML) | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0cbedcfe75811422) | 2026-03-31 04:30 |
+| Pearson | AI Scientist | Hoboken, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7fe7c58c72e83874) | 2026-03-31 04:30 |
+| Schneider Electric | Cloud Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=250bf6d2d77f9c31) | 2026-03-31 04:30 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853124ce219322e0) | 2026-03-31 04:30 |
+| Dayforce | Cloud Infrastructure Engineer Prin | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=64ff20bb39da70f3) | 2026-03-31 04:30 |
+| Ford Motor Company | GCP Cloud Engineer | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=010939cb7a520dc3) | 2026-03-31 04:30 |
+| Everbridge | Senior Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39df958f522b2b54) | 2026-03-31 04:30 |
+| PerfectRx | Data Engineer II (BI/ETL FOCUS) | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a83309a17d6efa3a) | 2026-03-31 04:30 |
+| MetLife | Senior Data Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f113b544cb63ec40) | 2026-03-31 04:30 |
+| GEICO | Senior Software Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df2a2ae9eaa9d1d1) | 2026-03-31 04:30 |
+| GEICO | Senior Software Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=671dcf3696b00c81) | 2026-03-31 04:30 |
+| GEICO | Senior Software Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f40b5b3fbb27785d) | 2026-03-31 04:30 |
+| GEICO | Senior Software Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e7c3732c3afe771) | 2026-03-31 04:30 |
+| GEICO | Senior Software Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=132a7e83f5ef115c) | 2026-03-31 04:30 |
+| Ally Financial | Senior Analyst - Business Intelligence | Lewisville, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c90642397a66650c) | 2026-03-31 04:30 |
 | Technology Ventures | Cloud and Data Architect | Reston, VA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=320c1faffbfddbde) | 2026-03-31 01:26 |
 | NTT DATA | Snowflake Architect | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=40aaa75b2184c0c1) | 2026-03-31 01:26 |
 | TD | Data Engineer II (US) | Mount Laurel, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ca690758b1fe12cc) | 2026-03-31 01:26 |
@@ -617,11 +655,6 @@ Last updated: 2026-03-31 01:26
 | GEICO | Senior Full Stack Engineer (HYBRID) | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86c5820060bccb38) | 2026-03-27 06:07 |
 | GEICO | Senior Full Stack Engineer (HYBRID) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=90453733877516a5) | 2026-03-27 06:07 |
 | CVS Health | Senior Data Engineer | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83c9f173ec884749) | 2026-03-27 06:07 |
-| Qode | AWS Solutions Architect | Minneapolis, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e1b3890dd7317bec) | 2026-03-27 04:27 |
-| Shamrock Trading Corporation | Data Ops Engineer II | Overland Park, KS, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=aa1b84a97d114dd0) | 2026-03-27 04:27 |
-| NuView | Data Engineer Remote | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9aa3e227f230a38e) | 2026-03-27 04:27 |
-| nan | Snowflake Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=73f9cbcb57b8893b) | 2026-03-27 04:27 |
-| Skidmore, Owings & Merrill | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f30cc04c7a5b1640) | 2026-03-27 04:27 |
 
 
 ---
