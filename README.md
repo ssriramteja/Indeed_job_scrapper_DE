@@ -1,15 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-01 20:36
+Last updated: 2026-04-01 21:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ACV Auctions | Senior Data Engineer, ACVMax | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f02b64c0c4088808) | 2026-04-01 21:34 |
+| Checkr | Senior Data Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=598ca45455673f4f) | 2026-04-01 21:34 |
+| Equifax | Software Developer - Career | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a6786be8f8c217b8) | 2026-04-01 21:34 |
+| Kiewit Corporation | Data Engineer-Kiewit Nuclear Solutions 1 | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b0dfe4a55ad8d320) | 2026-04-01 21:34 |
+| ABOUT Healthcare | Data & Analytics Engineer | Saint Paul, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=62676487c6f8411a) | 2026-04-01 21:34 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 21:34 |
+| TK Elevator | Sr. AI-ML Engineer Data Analytics | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0be0a107da6326a2) | 2026-04-01 21:34 |
+| Charles Schwab | Cloud Data Engineering Operations Specialist | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=672f4d9f4d9b154a) | 2026-04-01 21:34 |
+| AdCellerant | Senior Data Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=56ea99b8f4528836) | 2026-04-01 21:34 |
+| Kiewit Corporation | Data Engineer-Kiewit Nuclear Solutions | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3dcc88e3afcff35d) | 2026-04-01 21:34 |
+| Charles Schwab | Software Test Automation Framework Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9219da3b5ceab951) | 2026-04-01 21:34 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ce538e24964a3f07) | 2026-04-01 21:34 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=979fbd96452ea4ce) | 2026-04-01 21:34 |
 | nan | AWS Developer (Remote Opportunity) | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5d0c6d0c8aef2fbf) | 2026-04-01 20:36 |
 | EMC Insurance | Senior Data Engineer | Des Moines, IA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cefe38a8a00ba491) | 2026-04-01 20:36 |
 | West Monroe | Advisory Architect, Data/AI Due Diligence- TTS | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=330017cf70779a95) | 2026-04-01 20:36 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 20:36 |
 | TK Elevator | Sr. AI-ML Engineer Data Analytics | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2169bd0539d8ff3a) | 2026-04-01 20:36 |
 | Green Irony | Senior MuleSoft Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b45e53493b8bdf81) | 2026-04-01 20:36 |
 | Novo Nordisk, Inc. | Cloud & Data Engineer | Lexington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b00559f175e41fa1) | 2026-04-01 20:36 |
