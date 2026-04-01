@@ -1,16 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-01 16:02
+Last updated: 2026-04-01 17:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-04-01 16:02 |
+| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-04-01 17:43 |
+| Openkyber | API Threat Intelligence Analyst | GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a8d1ad994188d3b1) | 2026-04-01 17:43 |
+| Openkyber | CrowdStrike Container Security Engineer | MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ec3f885a56b1d738) | 2026-04-01 17:43 |
+| Openkyber | CrowdStrike Container Security Engineer | GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a3b70c2a3a58c840) | 2026-04-01 17:43 |
+| Openkyber | Endpoint Privilege Management Specialist | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cb49b2a9c348862b) | 2026-04-01 17:43 |
+| Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=01330f2927806152) | 2026-04-01 17:43 |
+| Openkyber | API Threat Intelligence Analyst | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e1d99c8b4bb53bb2) | 2026-04-01 17:43 |
+| Openkyber | API Threat Intelligence Analyst | MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e6464cc02853476) | 2026-04-01 17:43 |
+| Group1001 | Full Stack Engineer | Zionsville, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=328132d81f266b40) | 2026-04-01 17:43 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 17:43 |
+| Openkyber | Threat Intelligence Automation Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5ac70edb0fb45c5a) | 2026-04-01 17:43 |
+| Openkyber | CrowdStrike Container Security Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d6ea949a8522ee45) | 2026-04-01 17:43 |
+| Tata Consultancy Services (TCS) | Kafka Full stack Engineer | Louisville, KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b524889b9b023e4) | 2026-04-01 17:43 |
+| Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b964f7655bcd20af) | 2026-04-01 17:43 |
+| Openkyber | Cognos Optimization Specialist | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c7379b2166e4a5ff) | 2026-04-01 17:43 |
+| Openkyber | Cognos Business Intelligence Analyst | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad29a7b3847d7779) | 2026-04-01 17:43 |
+| Openkyber | Cognos Business Intelligence Analyst | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80bbbb63b208b2dd) | 2026-04-01 17:43 |
+| EnergyBot | Software Developer / Software Engineer (Dallas/Fort Worth - Hybrid) | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e5b4ec2f38d6dbf) | 2026-04-01 17:43 |
 | MassMutual | Solutions Architect | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c4075abed317d9ce) | 2026-04-01 16:02 |
 | FanDuel | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c895663eea835325) | 2026-04-01 16:02 |
 | FanDuel | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9bc4b812b4def66e) | 2026-04-01 16:02 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 16:02 |
 | Fustis LLC | Enterprise Architect | Reston, VA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=6856b750d699d0b8) | 2026-04-01 14:27 |
 | Optum | AWS Cloud Site Reliability Engineer | Basking Ridge, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6e47569360256c27) | 2026-04-01 14:27 |
 | SolutionStream | Sr. .Net Developer | Lehi, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c064b7d4a7d09b7) | 2026-04-01 14:27 |
@@ -628,13 +644,6 @@ Last updated: 2026-04-01 16:02
 | Openkyber | CrowdStrike Security Trainee | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5acfaf4bd1f75434) | 2026-03-28 23:22 |
 | Openkyber | GCP Support Associate | MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99da7d209a64961d) | 2026-03-28 23:22 |
 | NTT DATA | Python Snowflake Data Engineer - ONSITE | Buffalo, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c0bc93046858fc0) | 2026-03-28 18:28 |
-| Openkyber | Falcon Fusion Automation Engineer | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eced97189d3f1514) | 2026-03-28 17:22 |
-| Openkyber | CrowdStrike Cloud Security Engineer | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=75c455c9d7ebf2ab) | 2026-03-28 17:22 |
-| Openkyber | CrowdStrike GenAI Security Engineer | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=90098a812a3f2e4e) | 2026-03-28 17:22 |
-| Openkyber | CrowdStrike AI Security Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa2c542b1c6936ce) | 2026-03-28 17:22 |
-| Openkyber | CrowdStrike AI Security Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0d17925590b6bc95) | 2026-03-28 17:22 |
-| Openkyber | CrowdStrike GenAI Security Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=404bcc6e4c24eef4) | 2026-03-28 17:22 |
-| Openkyber | CrowdStrike GenAI Security Engineer | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f335fe8313e7021) | 2026-03-28 17:22 |
 
 
 ---
