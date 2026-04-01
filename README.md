@@ -1,19 +1,35 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-01 22:29
+Last updated: 2026-04-01 23:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-01 22:29 |
+| The Baldwin Group | Sr. Data Engineer | Tampa, FL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=069c52ba8f86fa9a) | 2026-04-01 23:29 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-01 23:29 |
+| Worldpay | Senior Data Engineer | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9da22ae229ae1ed1) | 2026-04-01 23:29 |
+| Capgemini | DevOps Engineer with OpenShift Experience | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b83c5b7a778f6743) | 2026-04-01 23:29 |
+| ServiceTitan | Senior Cloud Security Engineer | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6431593ad2d894f2) | 2026-04-01 23:29 |
+| SHI International | Solutions Engineer - Data Engineering | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d72cdd5c1b40ec16) | 2026-04-01 23:29 |
+| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-01 23:29 |
+| Trimble | Senior AI Software Engineer | Lake Oswego, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f33e389dcc2b7891) | 2026-04-01 23:29 |
+| Openkyber | Cognos Optimization Specialist | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69201f5451e21bf3) | 2026-04-01 23:29 |
+| U.S. Bank | Sofware Engineer - 2 (Full Stack Java + Oracle Database) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b211924cfd00cb15) | 2026-04-01 23:29 |
+| Openkyber | Data Engineering & Integration | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=752b484810893d86) | 2026-04-01 23:29 |
+| Openkyber | Cognos Business Intelligence Analyst | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb93d64bc5d3b638) | 2026-04-01 23:29 |
+| SHI International | Solutions Engineer - Data Visualization | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=375b478d9e0a233b) | 2026-04-01 23:29 |
+| The University of Michigan | App Sys Analysis/Prgmming Mgr | Ann Arbor, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13dee544bdc70bb6) | 2026-04-01 23:29 |
+| Openkyber | Administration & Infrastructure | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ae59d4b6408a04b) | 2026-04-01 23:29 |
+| Openkyber | Administration & Infrastructure | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0ce9084953b8335) | 2026-04-01 23:29 |
+| Openkyber | Administration & Infrastructure | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b944869c6bc2e2ec) | 2026-04-01 23:29 |
+| Searchpros Staffing | Google Cloud Platform (GCP) Site Reliability Engineer (SRE) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43afc506f9234f19) | 2026-04-01 23:29 |
 | University Bank | Data Engineer | Ann Arbor, MI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a2ea5bb501a5ac8a) | 2026-04-01 22:29 |
 | JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7c537d5b06db8547) | 2026-04-01 22:29 |
 | SRR Consultants | Senior Salesforce Developer | Piscataway, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=972d1a9bdec25467) | 2026-04-01 22:29 |
 | Ibotta | Data Engineer | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd935505fd26740e) | 2026-04-01 22:29 |
 | American Innovations Ltd | Sr. Software Engineer - Platform | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1a6071ff182d1660) | 2026-04-01 22:29 |
 | JPMorganChase | Data Software Engineer III- ML | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=875ef8272fea454a) | 2026-04-01 22:29 |
-| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-01 22:29 |
 | Optum | Senior Software Engineer | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5419bc0b083078db) | 2026-04-01 22:29 |
 | ACV Auctions | Senior Data Engineer, ACVMax | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f02b64c0c4088808) | 2026-04-01 21:34 |
 | Checkr | Senior Data Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=598ca45455673f4f) | 2026-04-01 21:34 |
@@ -674,12 +690,6 @@ Last updated: 2026-04-01 22:29
 | Openkyber | Senior GCP ML Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1de5b143abbaf230) | 2026-03-29 06:07 |
 | GEICO | Senior Full Stack Engineer - .NET (HYBRID) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0abc5e7ae8fc4129) | 2026-03-29 04:30 |
 | GEICO | Senior Full Stack Engineer - .NET (HYBRID) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a38818212ef4e3d) | 2026-03-29 04:30 |
-| Openkyber | GCP ML Architect | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f760910209d307d5) | 2026-03-28 23:22 |
-| Openkyber | GCP ETL Engineer | DE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f6fbda0b80cc8b17) | 2026-03-28 23:22 |
-| Openkyber | SAP AI Business Services Consultant | TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=40c91983bc2eae41) | 2026-03-28 23:22 |
-| Acuity Inc. | Senior SRE Cloud Enablement Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4536dd4ecaee73e9) | 2026-03-28 23:22 |
-| Openkyber | CrowdStrike Security Trainee | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5acfaf4bd1f75434) | 2026-03-28 23:22 |
-| Openkyber | GCP Support Associate | MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99da7d209a64961d) | 2026-03-28 23:22 |
 
 
 ---
