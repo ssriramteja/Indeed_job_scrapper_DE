@@ -1,14 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-01 08:11
+Last updated: 2026-04-01 10:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-04-01 08:11 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-04-01 08:11 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 08:11 |
+| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-04-01 10:00 |
+| JPMorganChase | Software Engineer III: DevOps | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=e23895720992f67e) | 2026-04-01 10:00 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-04-01 10:00 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 10:00 |
+| JPMorganChase | Software Engineer III | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9ff787e7518e81a0) | 2026-04-01 10:00 |
+| JPMorganChase | Site Reliability Engineer III | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6770f045e0af216) | 2026-04-01 10:00 |
+| OSI Systems, Inc | Intelligent Process Automation Software Engineer | Snoqualmie, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f1cf38df07620a12) | 2026-04-01 10:00 |
 | Transamerica | Sr Software Engineer | Cedar Rapids, IA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e6228a15683ca91c) | 2026-04-01 06:23 |
 | employers | Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=87490bb4a381dfbc) | 2026-04-01 06:23 |
 | NTT DATA | Developer / Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=900e75da89e25169) | 2026-04-01 06:23 |
@@ -613,14 +617,6 @@ Last updated: 2026-04-01 08:11
 | Caterpillar | Software Test Engineer | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7de7c68f8d61272) | 2026-03-28 13:44 |
 | The Bunton Real Estate Co. | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9911da7c780080ec) | 2026-03-28 11:21 |
 | Openkyber | CrowdStrike Container Security Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3051d76e04b9f7d5) | 2026-03-28 11:21 |
-| JPMorganChase | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c95a1853e484041c) | 2026-03-28 09:29 |
-| BayOne Solutions | AI SW Developer | PR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=000259e18029be16) | 2026-03-28 09:29 |
-| JPMorganChase | Software Engineer III- AWS/Python/PySpark | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c48a092ef1e42df2) | 2026-03-28 09:29 |
-| JPMorganChase | Software Engineer III- AWS/Python/PySpark | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08b8b745d8fa7fac) | 2026-03-28 09:29 |
-| JPMorganChase | Software Engineer III - AI/ML Deep Learning & GPU ML Serving | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=65af32e7dacb8cde) | 2026-03-28 09:29 |
-| PepperPointe Partnerships | Data Engineer l | Lexington, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a16dfe0847dba18) | 2026-03-28 09:29 |
-| JPMorganChase | Software Engineer III - Data Protection & Recovery | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3a3ede6c693f79ff) | 2026-03-28 09:29 |
-| Texas Oncology | Remote Senior Healthcare Data Engineer - Precision Medicine Informatics - Dallas, Tx | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa8179ba2a6e67fe) | 2026-03-28 08:29 |
 
 
 ---
