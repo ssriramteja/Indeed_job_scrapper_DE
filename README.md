@@ -1,16 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-01 14:27
+Last updated: 2026-04-01 16:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-04-01 16:02 |
+| MassMutual | Solutions Architect | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c4075abed317d9ce) | 2026-04-01 16:02 |
+| FanDuel | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c895663eea835325) | 2026-04-01 16:02 |
+| FanDuel | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9bc4b812b4def66e) | 2026-04-01 16:02 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 16:02 |
 | Fustis LLC | Enterprise Architect | Reston, VA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=6856b750d699d0b8) | 2026-04-01 14:27 |
-| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-04-01 14:27 |
 | Optum | AWS Cloud Site Reliability Engineer | Basking Ridge, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6e47569360256c27) | 2026-04-01 14:27 |
 | SolutionStream | Sr. .Net Developer | Lehi, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c064b7d4a7d09b7) | 2026-04-01 14:27 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 14:27 |
 | IMG | Azure Data Engineer with Databricks | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ddc68a9a0e8fb48) | 2026-04-01 14:27 |
 | University of Utah | Data Engineer III | Salt Lake City, UT, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=b4568945a7df2ae8) | 2026-04-01 12:58 |
 | XomegaIT Inc | Sr. Databricks Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=517d5c67d35acb4e) | 2026-04-01 12:58 |
@@ -632,7 +635,6 @@ Last updated: 2026-04-01 14:27
 | Openkyber | CrowdStrike AI Security Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0d17925590b6bc95) | 2026-03-28 17:22 |
 | Openkyber | CrowdStrike GenAI Security Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=404bcc6e4c24eef4) | 2026-03-28 17:22 |
 | Openkyber | CrowdStrike GenAI Security Engineer | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f335fe8313e7021) | 2026-03-28 17:22 |
-| Carrier | AI & Data Solution Architect | Atlanta, GA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=0e27010d95a9e3bd) | 2026-03-28 15:23 |
 
 
 ---
