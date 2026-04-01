@@ -1,18 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-01 06:23
+Last updated: 2026-04-01 08:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-04-01 08:11 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-04-01 08:11 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 08:11 |
 | Transamerica | Sr Software Engineer | Cedar Rapids, IA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e6228a15683ca91c) | 2026-04-01 06:23 |
-| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-04-01 06:23 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-04-01 06:23 |
 | employers | Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=87490bb4a381dfbc) | 2026-04-01 06:23 |
 | NTT DATA | Developer / Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=900e75da89e25169) | 2026-04-01 06:23 |
 | NTT DATA | Developer / Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9bd29cc3a867acb2) | 2026-04-01 06:23 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 06:23 |
 | NTT DATA | Test Automation Engineer / SDET - HYBRID | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3302c4147ab0b0cf) | 2026-04-01 06:23 |
 | U.S. Bank | Sofware Engineer - 2 (Full Stack Java + Oracle Database) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=54788bf627331aec) | 2026-04-01 06:23 |
 | YT Global Network | Senior GCP Data Architect – Remote | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9f7f6c18f0b40b42) | 2026-04-01 04:41 |
@@ -621,8 +621,6 @@ Last updated: 2026-04-01 06:23
 | PepperPointe Partnerships | Data Engineer l | Lexington, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a16dfe0847dba18) | 2026-03-28 09:29 |
 | JPMorganChase | Software Engineer III - Data Protection & Recovery | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3a3ede6c693f79ff) | 2026-03-28 09:29 |
 | Texas Oncology | Remote Senior Healthcare Data Engineer - Precision Medicine Informatics - Dallas, Tx | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa8179ba2a6e67fe) | 2026-03-28 08:29 |
-| PNC Financial Services Group | Senior Technology Engineer - Java, Angular, React | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebadb315e19ee162) | 2026-03-28 07:39 |
-| Quantiphi | Associate Technical Architect - DE - Databricks | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4b314c9efdb4188c) | 2026-03-28 06:47 |
 
 
 ---
