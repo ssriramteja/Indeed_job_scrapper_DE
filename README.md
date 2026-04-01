@@ -1,14 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-01 18:48
+Last updated: 2026-04-01 19:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-04-01 18:48 |
+| Solution Design Group | Cloud Engineer | Minneapolis, MN, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=3196d29570808b53) | 2026-04-01 19:53 |
+| Diné Development Corporation | Analytics / Data Engineer | Dayton, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=12319e09a7649a9b) | 2026-04-01 19:53 |
+| Diné Development Corporation | Analytics / Data Engineer | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=08e51646c7f6b5d5) | 2026-04-01 19:53 |
+| SAP | Senior SIEM Engineer | Newtown Square, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e01d27dd76f05ca3) | 2026-04-01 19:53 |
+| REPLY | Data Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b55f03574875963f) | 2026-04-01 19:53 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 19:53 |
+| Optum | Sr Software Engineer | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b169e350c3f599f1) | 2026-04-01 19:53 |
+| TECHNOVAL | GCP Cloud Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8aa372df0d9657b8) | 2026-04-01 19:53 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=97688623b519e5b3) | 2026-04-01 19:53 |
+| Alignment Healthcare | Remote Sr. Data Engineer | Orange, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8abfbc6f5545eda) | 2026-04-01 19:53 |
 | West Monroe | Advisory Architect, Data/AI Due Diligence- TTS | Boston, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e685b1e9ce29a1aa) | 2026-04-01 18:48 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 18:48 |
 | TK Elevator | Sr. AI-ML Engineer Data Analytics | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7147e81270620ea1) | 2026-04-01 18:48 |
 | Openkyber | API Threat Intelligence Analyst | GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a8d1ad994188d3b1) | 2026-04-01 17:43 |
 | Openkyber | CrowdStrike Container Security Engineer | MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ec3f885a56b1d738) | 2026-04-01 17:43 |
