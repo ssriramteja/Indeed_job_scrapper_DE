@@ -1,15 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-01 11:02
+Last updated: 2026-04-01 12:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-04-01 11:02 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-04-01 11:02 |
+| University of Utah | Data Engineer III | Salt Lake City, UT, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=b4568945a7df2ae8) | 2026-04-01 12:58 |
+| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-04-01 12:58 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-04-01 12:58 |
+| ScaleHealthTech | Data Engineer (Databricks \| Healthcare Analytics) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d28ed1d7de0513d0) | 2026-04-01 12:58 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 12:58 |
+| XomegaIT Inc | Sr. Databricks Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=517d5c67d35acb4e) | 2026-04-01 12:58 |
+| Publix | Senior Software Engineer - PIMS2 | Lakeland, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9eb3212fe9bc60d1) | 2026-04-01 12:58 |
+| Munich Re | Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9867eee729f1fe15) | 2026-04-01 12:58 |
+| Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71b08a308d9c4e4a) | 2026-04-01 12:58 |
+| YO IT CONSULTING | Senior Java Software Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2bea7326a4970d38) | 2026-04-01 12:58 |
+| YO IT CONSULTING | Sr Java Developer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e2143304ae215ab) | 2026-04-01 12:58 |
+| YO IT CONSULTING | Sr Java Backend Developer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b81d52c01d7856d) | 2026-04-01 12:58 |
+| RiseIT Solutions | Data Quality Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=10f676b273ad2a66) | 2026-04-01 12:58 |
+| YO IT CONSULTING | Java Developer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b588911fd6c0bd0) | 2026-04-01 12:58 |
+| Openkyber | Machine Learning Threat Intelligence Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6db760ee05781078) | 2026-04-01 12:58 |
+| Near-Miss Management | Full Stack Software Engineer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b64c8d6f17e6cd5) | 2026-04-01 12:58 |
 | Openkyber | GenAI Threat Intelligence Analyst | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=083ee0db6cfdce14) | 2026-04-01 11:02 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 11:02 |
 | Openkyber | CrowdStrike Cloud Security Engineer | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5f9bbf23d77dfc12) | 2026-04-01 11:02 |
 | NTT DATA | Test Automation Engineer / SDET - HYBRID | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4ab801d158b6cd6f) | 2026-04-01 11:02 |
 | Openkyber | CrowdStrike Cloud Security Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=98e5ab137562f273) | 2026-04-01 11:02 |
@@ -619,8 +632,6 @@ Last updated: 2026-04-01 11:02
 | Openkyber | CrowdStrike GenAI Security Engineer | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f335fe8313e7021) | 2026-03-28 17:22 |
 | Carrier | AI & Data Solution Architect | Atlanta, GA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=0e27010d95a9e3bd) | 2026-03-28 15:23 |
 | Caterpillar | Software Test Engineer | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7de7c68f8d61272) | 2026-03-28 13:44 |
-| The Bunton Real Estate Co. | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9911da7c780080ec) | 2026-03-28 11:21 |
-| Openkyber | CrowdStrike Container Security Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3051d76e04b9f7d5) | 2026-03-28 11:21 |
 
 
 ---
