@@ -1,15 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-01 10:00
+Last updated: 2026-04-01 11:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-04-01 10:00 |
+| Tech Scalerz | Data Engineer (AWS / Azure / GCP \| Python \| PySpark \| ETL Pipelines) | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=48f31b0f83baadba) | 2026-04-01 11:02 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-04-01 11:02 |
+| Openkyber | GenAI Threat Intelligence Analyst | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=083ee0db6cfdce14) | 2026-04-01 11:02 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 11:02 |
+| Openkyber | CrowdStrike Cloud Security Engineer | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5f9bbf23d77dfc12) | 2026-04-01 11:02 |
+| NTT DATA | Test Automation Engineer / SDET - HYBRID | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4ab801d158b6cd6f) | 2026-04-01 11:02 |
+| Openkyber | CrowdStrike Cloud Security Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=98e5ab137562f273) | 2026-04-01 11:02 |
 | JPMorganChase | Software Engineer III: DevOps | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=e23895720992f67e) | 2026-04-01 10:00 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba8c32e2d7049ff2) | 2026-04-01 10:00 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cf3b9b1688cd663) | 2026-04-01 10:00 |
 | JPMorganChase | Software Engineer III | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9ff787e7518e81a0) | 2026-04-01 10:00 |
 | JPMorganChase | Site Reliability Engineer III | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6770f045e0af216) | 2026-04-01 10:00 |
 | OSI Systems, Inc | Intelligent Process Automation Software Engineer | Snoqualmie, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f1cf38df07620a12) | 2026-04-01 10:00 |
