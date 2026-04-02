@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 11:39
+Last updated: 2026-04-02 12:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 11:39 |
-| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 11:39 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 11:39 |
+| InterImage | AI Engineer | Annapolis Junction, MD, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7b5cd9ecf25f6cbb) | 2026-04-02 12:52 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 12:52 |
+| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 12:52 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 12:52 |
 | SG360 | AWS Data Engineer | Wheeling, IL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=8a6cf659d35d5289) | 2026-04-02 10:44 |
 | Tata Consultancy Services (TCS) | Data Architect | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=244478743fd45c43) | 2026-04-02 10:44 |
 | JPMorganChase | Software Engineer III - Full Stack Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0a9bac7d17ad25cf) | 2026-04-02 10:44 |
@@ -702,7 +703,6 @@ Last updated: 2026-04-02 11:39
 | Openkyber | Senior SRE (GCP) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e8ded6a35597c773) | 2026-03-29 17:22 |
 | Openkyber | Senior GCP Kubernetes Engineer | MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96cd6cc30dd40084) | 2026-03-29 17:22 |
 | Openkyber | Airflow ML Engineer | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d1c715f07cfc17f) | 2026-03-29 17:22 |
-| The Cheesecake Factory | Integrations Analyst | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba075cb0dad311d7) | 2026-03-29 12:35 |
 
 
 ---
