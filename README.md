@@ -1,17 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 15:53
+Last updated: 2026-04-02 16:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 15:53 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 16:47 |
+| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 16:47 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 16:47 |
+| The Knot Worldwide | Software Engineer, Martech New | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c82af06849de41ec) | 2026-04-02 16:47 |
 | JPS Tech Solutions LLC | Release Engineer/ DevOps engineer | Atlanta, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d3efa9891a04eb92) | 2026-04-02 15:53 |
 | Cellentia Technologies | SAP ERP Senior Consultant | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c25fb1848ca5bdb1) | 2026-04-02 15:53 |
 | SRR Consultants | Senior Appian Developer | Piscataway, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=33b611b338e133dd) | 2026-04-02 15:53 |
-| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 15:53 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 15:53 |
 | Consertus | Junior Integration Developer | Guaynabo, PR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24e14330f4b7345b) | 2026-04-02 15:53 |
 | TAXI & LIMOUSINE COMMISSION | Data Engineer | Manhattan, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf9f61209bb4a310) | 2026-04-02 14:18 |
 | InterImage | AI Engineer | Annapolis Junction, MD, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7b5cd9ecf25f6cbb) | 2026-04-02 12:52 |
