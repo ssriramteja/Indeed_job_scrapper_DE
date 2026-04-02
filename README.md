@@ -1,18 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 19:43
+Last updated: 2026-04-02 20:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 19:43 |
+| NTT DATA | Azure Databricks and Oracle Tester | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=69623f6f14f8d6ba) | 2026-04-02 20:27 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 20:27 |
+| AdvisorEngine | Senior DevOps Engineer (Contract) | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d325f0fea0c6b85d) | 2026-04-02 20:27 |
+| Transaction Network Services | Sr. Software DB Development Engineer | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27dddd28375427c7) | 2026-04-02 20:27 |
+| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 20:27 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 20:27 |
+| Symhas | Data Scientist | Pleasanton, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be223724b244509d) | 2026-04-02 20:27 |
+| Tulane University | Infrastructure Engineer III | New Orleans, LA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=57b514b093e0ce21) | 2026-04-02 20:27 |
 | Allstate Insurance | Product Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7b0895dce8e54cd9) | 2026-04-02 19:43 |
 | Gallagher | Data Engineer | Rolling Meadows, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=88f6d60e8f8c8637) | 2026-04-02 19:43 |
 | Magna International | Sr. Software Engineer - Backend | Lowell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=80f0b473fc9d61ce) | 2026-04-02 19:43 |
 | Wipro | DEVELOPER L3 | East Brunswick, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=572120ce80028ef5) | 2026-04-02 19:43 |
-| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 19:43 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 19:43 |
 | Realign | Python Developer with AWS | North Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=fa709d11e93dc2b7) | 2026-04-02 18:43 |
 | ACL Digital | BAULI4-Computing Architect 4 - B78-Information/Data Architecture | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e2ec8f7098e6405) | 2026-04-02 18:43 |
 | Astreya Partners | Senior System Engineer / Linux Server / Server Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29469eeada6bbae7) | 2026-04-02 18:43 |
