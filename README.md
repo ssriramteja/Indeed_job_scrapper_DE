@@ -1,17 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 20:27
+Last updated: 2026-04-02 21:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| VaxCare | Senior Data Engineer | Orlando, FL, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=b7612e10491ad26f) | 2026-04-02 21:29 |
+| Qode | Python Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d9f9bba74d522f56) | 2026-04-02 21:29 |
+| Equifax | Software Developer - Career | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=86eda45642b35f74) | 2026-04-02 21:29 |
+| Equifax | Software Engineer | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cbae5136460a7e3c) | 2026-04-02 21:29 |
+| Equifax | Software Engineer - Career | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cf75a697c95a13e8) | 2026-04-02 21:29 |
+| GameChange Solar | Software Engineer - Full Stack Web Developer | Norwalk, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f312004f15101d48) | 2026-04-02 21:29 |
+| S.S. White Technologies | SOFTWARE DEVELOPER/ENGINEER | Saint Petersburg, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=773b64ded556be00) | 2026-04-02 21:29 |
+| Linstarsolution corporation | Korean Bilingual Unix/Linux Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f631ee05a50bf721) | 2026-04-02 21:29 |
+| Tata Consultancy Services (TCS) | Computer Systems Analyst | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=65714e8b775bf6a7) | 2026-04-02 21:29 |
+| Airbyte | Customer Support Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60f9bcd1ed45f0f2) | 2026-04-02 21:29 |
+| AAA Central Penn | Business Intelligence Developer | Harrisburg, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=062c4fc407951a70) | 2026-04-02 21:29 |
+| AMH | Senior Data Engineer | Las Vegas, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b976f19ca042be6) | 2026-04-02 21:29 |
+| nan | REMOTE - Senior Software Engineer (BEDAP) Contingent | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02326ca908f92176) | 2026-04-02 21:29 |
+| FujiFilm | Enterprise Architect | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9cd1d6f0d7bc11e8) | 2026-04-02 21:29 |
+| AAA Central Penn | Business Intelligence Analyst | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e680956ea7cc6ed2) | 2026-04-02 21:29 |
+| Tata Consultancy Services (TCS) | Devops Engineer | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=739805211e355e27) | 2026-04-02 21:29 |
+| Tata Consultancy Services (TCS) | OIPA Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=72569a8cf3b78803) | 2026-04-02 21:29 |
 | NTT DATA | Azure Databricks and Oracle Tester | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=69623f6f14f8d6ba) | 2026-04-02 20:27 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 20:27 |
 | AdvisorEngine | Senior DevOps Engineer (Contract) | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d325f0fea0c6b85d) | 2026-04-02 20:27 |
 | Transaction Network Services | Sr. Software DB Development Engineer | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27dddd28375427c7) | 2026-04-02 20:27 |
-| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 20:27 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 20:27 |
 | Symhas | Data Scientist | Pleasanton, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be223724b244509d) | 2026-04-02 20:27 |
 | Tulane University | Infrastructure Engineer III | New Orleans, LA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=57b514b093e0ce21) | 2026-04-02 20:27 |
 | Allstate Insurance | Product Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7b0895dce8e54cd9) | 2026-04-02 19:43 |
