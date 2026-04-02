@@ -1,19 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 08:00
+Last updated: 2026-04-02 09:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 08:00 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 09:01 |
+| Ulta | Sr IT Engineer Data | Bolingbrook, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1d5e69b720a3e69a) | 2026-04-02 09:01 |
+| ScaleHealthTech | Data Engineer (Databricks \| Healthcare Analytics) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d28ed1d7de0513d0) | 2026-04-02 09:01 |
+| nan | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9525a5a7c62864fb) | 2026-04-02 09:01 |
+| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 09:01 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 09:01 |
+| Deloitte | Project Delivery Senior Analyst - API & Azure DevOps Developer - Remote | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1949efd776a6da0e) | 2026-04-02 09:01 |
 | RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=476e5472ac0e7559) | 2026-04-02 08:00 |
 | Rockwell Automation | Senior Agentic AI Architect/Engineer | Milwaukee, WI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fd28b1ab1e76be27) | 2026-04-02 08:00 |
-| ScaleHealthTech | Data Engineer (Databricks \| Healthcare Analytics) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d28ed1d7de0513d0) | 2026-04-02 08:00 |
 | JPMorganChase | Software Engineer III - Full Stack Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=71b7a273236403b4) | 2026-04-02 08:00 |
 | Howard Hughes Holdings Inc | Sr. Data & Integration Architect | The Woodlands, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63bb2c539c36b720) | 2026-04-02 08:00 |
-| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 08:00 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 08:00 |
 | VerTALENTS | Java Application Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5421087114efdb9a) | 2026-04-02 08:00 |
 | JPMorganChase | Software Engineer III - Full Stack Cloud (Java, React, AWS, GraphQL) | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f2ae0ecc8efc174) | 2026-04-02 08:00 |
 | BECU | Sr Business Intelligence Analyst | WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2f84020e91f909f) | 2026-04-02 08:00 |
