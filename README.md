@@ -1,17 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 09:01
+Last updated: 2026-04-02 10:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 09:01 |
+| SG360 | AWS Data Engineer | Wheeling, IL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=8a6cf659d35d5289) | 2026-04-02 10:44 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 10:44 |
+| Tata Consultancy Services (TCS) | Data Architect | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=244478743fd45c43) | 2026-04-02 10:44 |
+| ScaleHealthTech | Data Engineer (Databricks \| Healthcare Analytics) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d28ed1d7de0513d0) | 2026-04-02 10:44 |
+| JPMorganChase | Software Engineer III - Full Stack Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0a9bac7d17ad25cf) | 2026-04-02 10:44 |
+| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 10:44 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 10:44 |
+| Texas Health and Human Services Commission | Cloud Data Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=37dd687fff009d5b) | 2026-04-02 10:44 |
+| Texas Health and Human Services Commission | Data Analyst IV - Advanced Analytics & Reporting - 100% remote | Plainview, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87865932a988f1fc) | 2026-04-02 10:44 |
 | Ulta | Sr IT Engineer Data | Bolingbrook, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1d5e69b720a3e69a) | 2026-04-02 09:01 |
-| ScaleHealthTech | Data Engineer (Databricks \| Healthcare Analytics) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d28ed1d7de0513d0) | 2026-04-02 09:01 |
 | nan | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9525a5a7c62864fb) | 2026-04-02 09:01 |
-| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 09:01 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 09:01 |
 | Deloitte | Project Delivery Senior Analyst - API & Azure DevOps Developer - Remote | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1949efd776a6da0e) | 2026-04-02 09:01 |
 | RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=476e5472ac0e7559) | 2026-04-02 08:00 |
 | Rockwell Automation | Senior Agentic AI Architect/Engineer | Milwaukee, WI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fd28b1ab1e76be27) | 2026-04-02 08:00 |
@@ -704,22 +709,6 @@ Last updated: 2026-04-02 09:01
 | Openkyber | LLM Deployment Engineer | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1fcc848e376ba98b) | 2026-03-29 11:21 |
 | Openkyber | SAP Certified Associate – SAP Cloud | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eff9128969c03a5d) | 2026-03-29 11:21 |
 | Openkyber | Okta IAM Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=49485783185c2a0b) | 2026-03-29 11:21 |
-| GEICO | Sr. Software Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=01ec6455a3649dd1) | 2026-03-29 10:24 |
-| GEICO | Senior Software Engineer- Policy Configuration | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e80b3d6f63774f05) | 2026-03-29 10:24 |
-| GEICO | Solutions Engineer II - Networking | Bethesda, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4835a9e46d2da0aa) | 2026-03-29 10:24 |
-| GEICO | Solutions Engineer II - Networking | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e2e91ea7c7c3f142) | 2026-03-29 10:24 |
-| GEICO | Solutions Engineer II - Networking | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c088d2367959ce00) | 2026-03-29 10:24 |
-| GEICO | Solutions Engineer II - Networking | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0f05354d748a5aeb) | 2026-03-29 10:24 |
-| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9155e920851da33) | 2026-03-29 10:24 |
-| GEICO | Senior Engineer - .NET | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=185eae839798cd18) | 2026-03-29 10:24 |
-| GEICO | Senior Full Stack Engineer - (Java, React, Data Lake, Microservices) - *HYBRID* | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4aa6f70357a9e424) | 2026-03-29 10:24 |
-| GEICO | Senior Engineer - Java [Hybrid] | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e8c6ea0f8c6d982) | 2026-03-29 10:24 |
-| GEICO | Senior Engineer - .NET | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2741f8d01d2c064) | 2026-03-29 10:24 |
-| GEICO | Senior Engineer - Java [Hybrid] | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b05a12260b85b7f) | 2026-03-29 10:24 |
-| GEICO | Engineer II- .Net | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0902efec6021373c) | 2026-03-29 10:24 |
-| GEICO | Engineer II- .Net | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13aad62ce3d79441) | 2026-03-29 10:24 |
-| GEICO | Engineer II | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=91ef5be98f953dc8) | 2026-03-29 10:24 |
-| GEICO | Engineer II | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5061df3b805eed6c) | 2026-03-29 10:24 |
 
 
 ---
