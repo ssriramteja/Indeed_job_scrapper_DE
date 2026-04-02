@@ -1,14 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 06:07
+Last updated: 2026-04-02 08:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 06:07 |
-| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 06:07 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 06:07 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 08:00 |
+| RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=476e5472ac0e7559) | 2026-04-02 08:00 |
+| Rockwell Automation | Senior Agentic AI Architect/Engineer | Milwaukee, WI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fd28b1ab1e76be27) | 2026-04-02 08:00 |
+| ScaleHealthTech | Data Engineer (Databricks \| Healthcare Analytics) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d28ed1d7de0513d0) | 2026-04-02 08:00 |
+| JPMorganChase | Software Engineer III - Full Stack Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=71b7a273236403b4) | 2026-04-02 08:00 |
+| Howard Hughes Holdings Inc | Sr. Data & Integration Architect | The Woodlands, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63bb2c539c36b720) | 2026-04-02 08:00 |
+| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 08:00 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 08:00 |
+| VerTALENTS | Java Application Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5421087114efdb9a) | 2026-04-02 08:00 |
+| JPMorganChase | Software Engineer III - Full Stack Cloud (Java, React, AWS, GraphQL) | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f2ae0ecc8efc174) | 2026-04-02 08:00 |
+| BECU | Sr Business Intelligence Analyst | WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2f84020e91f909f) | 2026-04-02 08:00 |
+| GEICO | Software Engineer II (C#) - Substantiation Platform - Hybrid | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=601af57d4756727c) | 2026-04-02 08:00 |
+| GEICO | Software Engineer II (C#) - Substantiation Platform - Hybrid | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=987d4b774583d481) | 2026-04-02 08:00 |
 | Zendesk | Senior Machine Learning Engineer - Hybrid (San Francisco or Austin) | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c190a827f8e23b77) | 2026-04-02 06:07 |
 | VTG Defense | Systems Engineer | Tysons Corner, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=eb7f22df90a85481) | 2026-04-02 04:22 |
 | Boeing | Senior Computing Architect | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cd11c2a087aa2519) | 2026-04-02 04:22 |
