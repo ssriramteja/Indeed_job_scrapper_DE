@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 22:24
+Last updated: 2026-04-02 23:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| AGORA Data, Inc. | DevOps Engineer | Arlington, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=31eb271fe420d45b) | 2026-04-02 23:26 |
+| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-02 23:26 |
+| Capgemini | Senior Data Engineer - Snowflake | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f93df4671eb35854) | 2026-04-02 23:26 |
+| The Church of Jesus Christ of Latter-day Saints | Engineer 2 (Full-Time) - Special Projects Department | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b3cce96ea0c7ff3) | 2026-04-02 23:26 |
+| Headspace | Senior Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd766141c2ef3c09) | 2026-04-02 23:26 |
+| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-02 23:26 |
+| Capgemini | Production Support Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2b54dba08b36515) | 2026-04-02 23:26 |
 | State of Nebraska | IT Cloud Engineer | Lincoln, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50be6fdbd85cebea) | 2026-04-02 22:24 |
 | PlanOmatic HQ | Senior Software Engineer, Back-End (Java & Spring Boot) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f05a0e8c331ccaeb) | 2026-04-02 22:24 |
 | NVIDIA | Distinguished Engineer, Cloud Site Reliability Engineering | Santa Clara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=84f499dac9552b99) | 2026-04-02 22:24 |
@@ -729,11 +736,6 @@ Last updated: 2026-04-02 22:24
 | Realign | Snowflake Admin-8 | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=18f9277083b689a0) | 2026-03-30 01:29 |
 | Realign | Python / Linux-7 | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=acb205a4f0a2f4ac) | 2026-03-30 01:29 |
 | Realign | Teradata Developer-5 | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1daae7faefdba0a) | 2026-03-30 01:29 |
-| Openkyber | Terraform MLOps Engineer | GA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=955ac0b1ad8a879b) | 2026-03-29 23:24 |
-| Openkyber | GCP ML Architect | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce062c1221d36aca) | 2026-03-29 23:24 |
-| Openkyber | Terraform MLOps Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=20a8124f877384e7) | 2026-03-29 23:24 |
-| Openkyber | GCP AI Platform Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=037a88873ec44a68) | 2026-03-29 23:24 |
-| Openkyber | SAP AI Business Services Consultant | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6eea039facef1d5) | 2026-03-29 23:24 |
 
 
 ---
