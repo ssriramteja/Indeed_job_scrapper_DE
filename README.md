@@ -1,20 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 17:42
+Last updated: 2026-04-02 18:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Realign | Python Developer with AWS | North Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=fa709d11e93dc2b7) | 2026-04-02 18:43 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 18:43 |
+| ACL Digital | BAULI4-Computing Architect 4 - B78-Information/Data Architecture | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e2ec8f7098e6405) | 2026-04-02 18:43 |
+| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 18:43 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 18:43 |
+| Astreya Partners | Senior System Engineer / Linux Server / Server Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29469eeada6bbae7) | 2026-04-02 18:43 |
 | NTT DATA | Azure Databricks and Oracle Tester | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=cebf8689f1477182) | 2026-04-02 17:42 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 17:42 |
 | Capgemini | Python Fullstack Developer | Irving, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5b5dd3623fd24e11) | 2026-04-02 17:42 |
 | RecruitIQ | AWS Python Developer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7eb62ed22823ef00) | 2026-04-02 17:42 |
 | Global Payments | Senior Software Engineer (Full Stack Developer) -In office, Alpharetta, GA | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d66615c03a2ee5f5) | 2026-04-02 17:42 |
 | Legacy Food Group | Data Engineer | Iowa City, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=38527d810c85ba5f) | 2026-04-02 17:42 |
 | Capgemini | Data Architect - Databricks | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ac4e591f657264f) | 2026-04-02 17:42 |
-| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 17:42 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 17:42 |
 | Capgemini | AWS SageMaker Data Scientist | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d132dfef0009f8e) | 2026-04-02 17:42 |
 | HB Mechanical Group | Data Platform Developer | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8fefc4462aa78fa) | 2026-04-02 17:42 |
 | The Knot Worldwide | Software Engineer, Martech New | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c82af06849de41ec) | 2026-04-02 16:47 |
@@ -702,14 +705,6 @@ Last updated: 2026-04-02 17:42
 | Openkyber | Terraform MLOps Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=20a8124f877384e7) | 2026-03-29 23:24 |
 | Openkyber | GCP AI Platform Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=037a88873ec44a68) | 2026-03-29 23:24 |
 | Openkyber | SAP AI Business Services Consultant | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6eea039facef1d5) | 2026-03-29 23:24 |
-| Realign | Cloud Data Architect-5 | TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=d6408ada685f1f82) | 2026-03-29 18:29 |
-| Realign | Java Developer-2 | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=58ab9ef429e9dd15) | 2026-03-29 18:29 |
-| Realign | Java Developer-2 | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=52ca61e6deb7ad68) | 2026-03-29 18:29 |
-| Realign | Hadoop Developer-6 | Jersey City, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3afabcdb51ae0d33) | 2026-03-29 18:29 |
-| Realign | Hadoop Developer-6 | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=808ff57e896a509d) | 2026-03-29 18:29 |
-| Realign | Selenium Automation tester-6 | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7d1e820641acb1c) | 2026-03-29 18:29 |
-| Realign | Databricks Data Engineer(Azure + Python)-6 | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09c37b249c5a57dd) | 2026-03-29 18:29 |
-| Realign | OIPA Engineer-7 | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33c3d63dc6cec641) | 2026-03-29 18:29 |
 
 
 ---
