@@ -1,22 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 04:22
+Last updated: 2026-04-02 06:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 06:07 |
+| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 06:07 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 06:07 |
+| Zendesk | Senior Machine Learning Engineer - Hybrid (San Francisco or Austin) | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c190a827f8e23b77) | 2026-04-02 06:07 |
 | VTG Defense | Systems Engineer | Tysons Corner, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=eb7f22df90a85481) | 2026-04-02 04:22 |
 | Boeing | Senior Computing Architect | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cd11c2a087aa2519) | 2026-04-02 04:22 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 04:22 |
 | VTG Defense | Database Engineer | Tysons Corner, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=57ae5008128b54d1) | 2026-04-02 04:22 |
 | DriveTime Automotive Group | Data Engineer | Tempe, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e0520b2e91ff1af7) | 2026-04-02 04:22 |
 | Phoenix Rescue Mission | Independent Contractor (1099) – Data Engineer | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bc7bacc26a56bf13) | 2026-04-02 04:22 |
 | Intone Networks | Software Engineer (L2, Java, SQL) | Merrimack, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7a72155de26728e1) | 2026-04-02 04:22 |
 | Motive | Data Engineer New | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c39b2953f289c6f) | 2026-04-02 04:22 |
 | Fidelity TalentSource | System Engineer (Application and Batch) | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=089406942f32d443) | 2026-04-02 04:22 |
-| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 04:22 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 04:22 |
 | Boeing | Google Cloud Platform DevOps Developer 5 (contract) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb900ba4e1c65b40) | 2026-04-02 04:22 |
 | Los Angeles Apparel | Backend Developer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d4b0847bf4491fe) | 2026-04-02 04:22 |
 | VENERABLE | Associate Software Developer | West Chester, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5bc33f96a7d635cd) | 2026-04-02 01:23 |
@@ -706,12 +707,6 @@ Last updated: 2026-04-02 04:22
 | GEICO | Engineer II- .Net | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13aad62ce3d79441) | 2026-03-29 10:24 |
 | GEICO | Engineer II | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=91ef5be98f953dc8) | 2026-03-29 10:24 |
 | GEICO | Engineer II | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5061df3b805eed6c) | 2026-03-29 10:24 |
-| Openkyber | CrowdStrike Container Security Engineer | MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=afb300209d5a9cc9) | 2026-03-29 06:07 |
-| Openkyber | CrowdStrike Container Security Engineer | MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dd16761f5f52ad01) | 2026-03-29 06:07 |
-| Openkyber | CrowdStrike Container Security Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da369ed0415378f8) | 2026-03-29 06:07 |
-| Openkyber | Senior GCP ML Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1de5b143abbaf230) | 2026-03-29 06:07 |
-| GEICO | Senior Full Stack Engineer - .NET (HYBRID) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0abc5e7ae8fc4129) | 2026-03-29 04:30 |
-| GEICO | Senior Full Stack Engineer - .NET (HYBRID) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a38818212ef4e3d) | 2026-03-29 04:30 |
 
 
 ---
