@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 12:52
+Last updated: 2026-04-02 14:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 14:18 |
+| TAXI & LIMOUSINE COMMISSION | Data Engineer | Manhattan, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf9f61209bb4a310) | 2026-04-02 14:18 |
+| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 14:18 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 14:18 |
 | InterImage | AI Engineer | Annapolis Junction, MD, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7b5cd9ecf25f6cbb) | 2026-04-02 12:52 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 12:52 |
-| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 12:52 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 12:52 |
 | SG360 | AWS Data Engineer | Wheeling, IL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=8a6cf659d35d5289) | 2026-04-02 10:44 |
 | Tata Consultancy Services (TCS) | Data Architect | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=244478743fd45c43) | 2026-04-02 10:44 |
 | JPMorganChase | Software Engineer III - Full Stack Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0a9bac7d17ad25cf) | 2026-04-02 10:44 |
