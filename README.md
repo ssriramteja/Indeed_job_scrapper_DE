@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 21:29
+Last updated: 2026-04-02 22:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| State of Nebraska | IT Cloud Engineer | Lincoln, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50be6fdbd85cebea) | 2026-04-02 22:24 |
+| PlanOmatic HQ | Senior Software Engineer, Back-End (Java & Spring Boot) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f05a0e8c331ccaeb) | 2026-04-02 22:24 |
+| NVIDIA | Distinguished Engineer, Cloud Site Reliability Engineering | Santa Clara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=84f499dac9552b99) | 2026-04-02 22:24 |
+| Tommy Car Wash | DevOps Software Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c7a7057e5ff0c30b) | 2026-04-02 22:24 |
+| Tommy Car Wash | DevOps Software Engineer | Holland, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56df8a42439ec061) | 2026-04-02 22:24 |
+| Fiserv | Senior Platform Engineer (Kafka/Flink) | Marietta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e569f00299d9ec3c) | 2026-04-02 22:24 |
 | VaxCare | Senior Data Engineer | Orlando, FL, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=b7612e10491ad26f) | 2026-04-02 21:29 |
 | Qode | Python Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d9f9bba74d522f56) | 2026-04-02 21:29 |
 | Equifax | Software Developer - Career | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=86eda45642b35f74) | 2026-04-02 21:29 |
