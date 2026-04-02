@@ -1,14 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 16:47
+Last updated: 2026-04-02 17:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 16:47 |
-| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 16:47 |
-| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 16:47 |
+| NTT DATA | Azure Databricks and Oracle Tester | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=cebf8689f1477182) | 2026-04-02 17:42 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d9aeb0e7adc75) | 2026-04-02 17:42 |
+| Capgemini | Python Fullstack Developer | Irving, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5b5dd3623fd24e11) | 2026-04-02 17:42 |
+| RecruitIQ | AWS Python Developer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7eb62ed22823ef00) | 2026-04-02 17:42 |
+| Global Payments | Senior Software Engineer (Full Stack Developer) -In office, Alpharetta, GA | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d66615c03a2ee5f5) | 2026-04-02 17:42 |
+| Legacy Food Group | Data Engineer | Iowa City, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=38527d810c85ba5f) | 2026-04-02 17:42 |
+| Capgemini | Data Architect - Databricks | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ac4e591f657264f) | 2026-04-02 17:42 |
+| Ford Motor Company | Senior Data Engineer, CRM | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95fab4dbabb261ff) | 2026-04-02 17:42 |
+| Ford Motor Company | ADAS Cloud Infrastructure Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7529cd9eab44a3e7) | 2026-04-02 17:42 |
+| Capgemini | AWS SageMaker Data Scientist | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d132dfef0009f8e) | 2026-04-02 17:42 |
+| HB Mechanical Group | Data Platform Developer | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8fefc4462aa78fa) | 2026-04-02 17:42 |
 | The Knot Worldwide | Software Engineer, Martech New | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c82af06849de41ec) | 2026-04-02 16:47 |
 | JPS Tech Solutions LLC | Release Engineer/ DevOps engineer | Atlanta, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d3efa9891a04eb92) | 2026-04-02 15:53 |
 | Cellentia Technologies | SAP ERP Senior Consultant | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c25fb1848ca5bdb1) | 2026-04-02 15:53 |
@@ -702,13 +710,6 @@ Last updated: 2026-04-02 16:47
 | Realign | Selenium Automation tester-6 | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7d1e820641acb1c) | 2026-03-29 18:29 |
 | Realign | Databricks Data Engineer(Azure + Python)-6 | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09c37b249c5a57dd) | 2026-03-29 18:29 |
 | Realign | OIPA Engineer-7 | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33c3d63dc6cec641) | 2026-03-29 18:29 |
-| Openkyber | Endpoint Privilege Management Specialist | IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e8cab942be0127b) | 2026-03-29 17:22 |
-| Openkyber | AI Agent Operations Engineer | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2dd5fe5ca4da283b) | 2026-03-29 17:22 |
-| Openkyber | Kubernetes MLOps Engineer | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e369b21b51e562d) | 2026-03-29 17:22 |
-| Openkyber | Senior SRE (GCP) | PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9ff36ecb3e92993) | 2026-03-29 17:22 |
-| Openkyber | Senior SRE (GCP) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e8ded6a35597c773) | 2026-03-29 17:22 |
-| Openkyber | Senior GCP Kubernetes Engineer | MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96cd6cc30dd40084) | 2026-03-29 17:22 |
-| Openkyber | Airflow ML Engineer | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d1c715f07cfc17f) | 2026-03-29 17:22 |
 
 
 ---
