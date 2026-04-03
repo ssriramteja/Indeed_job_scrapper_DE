@@ -1,18 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-03 09:45
+Last updated: 2026-04-03 10:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Data Sherpas | Data Engineer - AWS (Snowflake) | Philadelphia, PA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=c7bcfb79ed1af62a) | 2026-04-03 10:36 |
+| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 10:36 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 10:36 |
+| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 10:36 |
+| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27f251c7fd5857f4) | 2026-04-03 10:36 |
 | JPMorganChase | Data Software Engineer II | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6ff122e6a11cd0fb) | 2026-04-03 09:45 |
 | FICO | Sr Software Engineer (Java, Streaming) | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2a372f8c9082d5c3) | 2026-04-03 09:45 |
 | FICO | Software Engineer II (Java, Streaming) | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16644732acad479c) | 2026-04-03 09:45 |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 09:45 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 09:45 |
 | JPMorganChase | Machine Learning Engineer - Senior Associate | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eceb4a922e2b88e0) | 2026-04-03 09:45 |
-| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 09:45 |
 | Wells Fargo | Senior Software Engineer | Chandler, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3346865856cd824d) | 2026-04-03 08:49 |
 | Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da775dac4a2cc346) | 2026-04-03 08:49 |
 | Wells Fargo | Senior Software Engineer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d66bbd4baf507c67) | 2026-04-03 08:49 |
@@ -765,8 +767,6 @@ Last updated: 2026-04-03 09:45
 | Vitol | DevOps Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b912b59e0b8d6118) | 2026-03-30 14:25 |
 | Global KTech | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=53641572c239d14d) | 2026-03-30 14:25 |
 | Covista | Senior Data Engineer | Lisle, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4adc00b1af8ae9f8) | 2026-03-30 12:57 |
-| JPMorganChase | Software Engineer III - Fullstack, Python, AWS, AI/ML | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8c336e57cb127fed) | 2026-03-30 10:08 |
-| HT Archery | DevOps Engineer - Remote (Blockchain) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=74f0c78139f81162) | 2026-03-30 10:08 |
 
 
 ---
