@@ -1,19 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-03 07:58
+Last updated: 2026-04-03 08:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 08:49 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 08:49 |
+| Wells Fargo | Senior Software Engineer | Chandler, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3346865856cd824d) | 2026-04-03 08:49 |
+| Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da775dac4a2cc346) | 2026-04-03 08:49 |
+| Wells Fargo | Senior Software Engineer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d66bbd4baf507c67) | 2026-04-03 08:49 |
+| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0869394e4881bc5) | 2026-04-03 08:49 |
+| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 08:49 |
 | Scotiabank | Senior Platform Engineer | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e7c58c20e2b53fe0) | 2026-04-03 07:58 |
 | Radwell International | Senior DevOps Engineer | Willingboro, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2e5916fa5737d5ec) | 2026-04-03 07:58 |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 07:58 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 07:58 |
 | Health Business Solutions | Machine Learning Operations | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e3e309eb21ff0bbb) | 2026-04-03 07:58 |
 | Skechers | Salesforce Data Cloud Architect | Manhattan Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ba4b07448a9af704) | 2026-04-03 07:58 |
 | Scotiabank | Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=164e35c8e4519a8f) | 2026-04-03 07:58 |
-| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 07:58 |
 | University Of Washington | Data Engineer/DBA (Temporary) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=965bdb94e0f24ee4) | 2026-04-03 07:58 |
 | NORTHBAY NURSING INSTITUTE | Systems Administrator | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d20d74879398cfe7) | 2026-04-03 06:08 |
 | COMMERCIAL BANK OF CALIFORNIA | Data Engineer | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=69bace1ccc12c172) | 2026-04-03 06:08 |
