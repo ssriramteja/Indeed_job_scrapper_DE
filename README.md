@@ -1,18 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-03 01:25
+Last updated: 2026-04-03 04:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Data Sherpas | Data Engineer - AWS (Snowflake) | Los Angeles, CA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=66fc8bb22a057543) | 2026-04-03 04:23 |
+| Charles Schwab | Cloud Data Platform Engineer | Austin, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2dccf2233d3cc742) | 2026-04-03 04:23 |
+| Mastercard | Senior Software Engineer | O'Fallon, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=66bbd6b498aedf3d) | 2026-04-03 04:23 |
+| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 04:23 |
+| Equifax | Software Engineer | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bfc8635935e24293) | 2026-04-03 04:23 |
+| Pindrop | Senior Software Engineer - Pulse | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b049918e487f3877) | 2026-04-03 04:23 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 04:23 |
+| Insight IT Pty | Devops Engineer | Spring, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6cf4737c1f0453e9) | 2026-04-03 04:23 |
+| Nordstrom | Delivery Platform Software Engineer 1 - Developer Tools Team (Hybrid - Seattle, WA) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8ea2d4097cba0a88) | 2026-04-03 04:23 |
+| Ameriprise Financial | Full Stack Software Engineer | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d89ca98429cd4ed6) | 2026-04-03 04:23 |
+| AMH | Senior Data Engineer | Calabasas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3c6f5901eac2e5fc) | 2026-04-03 04:23 |
+| Mastercard | Senior BizOps Engineer | O'Fallon, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0b341c5698ad644e) | 2026-04-03 04:23 |
+| FujiFilm | Enterprise Architect | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4172cf84d3f86a04) | 2026-04-03 04:23 |
+| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 04:23 |
+| KPMG | Associate Engineer, AI Integration Analyst | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9563a5d4e36f2b7a) | 2026-04-03 04:23 |
 | Capstone Logistics, LLC | Sr. Data Engineer | Peachtree Corners, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=488efb485a279681) | 2026-04-03 01:25 |
 | Engineers & Constructors International | Platform Engineer [Data Bricks] | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9ab8193139c1b64e) | 2026-04-03 01:25 |
 | Engineers & Constructors International | Platform Engineer [Data Bricks] | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fe68969ff58c1600) | 2026-04-03 01:25 |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 01:25 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 01:25 |
 | Xsolla | Operations Engineer, Baku | AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=004242e0072b4746) | 2026-04-03 01:25 |
-| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 01:25 |
 | WEALTHCOUNSEL LLC | Junior Software Developer (Virtual, Full Time) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d6e4bc2f2ae96ba) | 2026-04-03 01:25 |
 | nan | Software Engineer (Part-time Contracted) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1baa3c7f5936cb42) | 2026-04-03 01:25 |
 | Technology Ventures | Data/Modeling Engineer V | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c47cbacfde96e81) | 2026-04-03 01:25 |
@@ -739,11 +751,6 @@ Last updated: 2026-04-03 01:25
 | Manus | Data Engineer I | Augusta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d7422317da3cb8cf) | 2026-03-30 06:25 |
 | Scotiabank | Senior Platform Engineer | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cc80464c8d3d0b3c) | 2026-03-30 04:38 |
 | Scotiabank | Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96718ce206105693) | 2026-03-30 04:38 |
-| Paramount | Software Engineer | Burbank, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c8d96d2facf0c62b) | 2026-03-30 01:29 |
-| Realign | Data Platform Engineer-7 | Parsippany-Troy Hills, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=885a5728afb95e2e) | 2026-03-30 01:29 |
-| Realign | Snowflake Admin-8 | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=18f9277083b689a0) | 2026-03-30 01:29 |
-| Realign | Python / Linux-7 | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=acb205a4f0a2f4ac) | 2026-03-30 01:29 |
-| Realign | Teradata Developer-5 | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1daae7faefdba0a) | 2026-03-30 01:29 |
 
 
 ---
