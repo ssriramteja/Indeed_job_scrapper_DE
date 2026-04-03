@@ -1,16 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-03 10:36
+Last updated: 2026-04-03 11:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 11:32 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 11:32 |
+| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 11:32 |
+| Booz Allen Hamilton | Product Software Engineer | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9347a5ea2f79808) | 2026-04-03 11:32 |
+| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27f251c7fd5857f4) | 2026-04-03 11:32 |
 | The Data Sherpas | Data Engineer - AWS (Snowflake) | Philadelphia, PA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=c7bcfb79ed1af62a) | 2026-04-03 10:36 |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 10:36 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 10:36 |
-| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 10:36 |
-| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27f251c7fd5857f4) | 2026-04-03 10:36 |
 | JPMorganChase | Data Software Engineer II | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6ff122e6a11cd0fb) | 2026-04-03 09:45 |
 | FICO | Sr Software Engineer (Java, Streaming) | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2a372f8c9082d5c3) | 2026-04-03 09:45 |
 | FICO | Software Engineer II (Java, Streaming) | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16644732acad479c) | 2026-04-03 09:45 |

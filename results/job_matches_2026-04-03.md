@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-03
 
-**Total Jobs Found:** 77
+**Total Jobs Found:** 78
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -379,18 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. DEVELOPER L3 @ Wipro
-**Match Score:** 13.2%
-
-📍 **Location:** East Brunswick, NJ, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Event Hubs, GCP, Vertex AI, Kafka, NoSQL, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=572120ce80028ef5)
-
----
-
-## 36. Software Engineer - Full Stack Web Developer @ GameChange Solar
+## 35. Software Engineer - Full Stack Web Developer @ GameChange Solar
 **Match Score:** 13.2%
 
 📍 **Location:** Norwalk, CT, US USA
@@ -398,6 +387,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, Kinesis, SQS, IAM, YARN, Scala, PostgreSQL, DynamoDB, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=f312004f15101d48)
+
+---
+
+## 36. DEVELOPER L3 @ Wipro
+**Match Score:** 13.2%
+
+📍 **Location:** East Brunswick, NJ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Event Hubs, GCP, Vertex AI, Kafka, NoSQL, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=572120ce80028ef5)
 
 ---
 
@@ -775,7 +775,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Senior Application Security Engineer @ Hewlett Packard Enterprise | HPE
+## 71. Product Software Engineer @ Booz Allen Hamilton
+**Match Score:** 10.4%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** AWS, Lambda, Step Functions, S3, API Gateway, RDS, Scala, DynamoDB, Splunk, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b9347a5ea2f79808)
+
+---
+
+## 72. Senior Application Security Engineer @ Hewlett Packard Enterprise | HPE
 **Match Score:** 10.4%
 
 📍 **Location:** NC, US USA
@@ -786,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Devops Engineer @ Tata Consultancy Services (TCS)
+## 73. Devops Engineer @ Tata Consultancy Services (TCS)
 **Match Score:** 10.4%
 
 📍 **Location:** Irvine, CA, US USA
@@ -797,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. OIPA Engineer @ Tata Consultancy Services (TCS)
+## 74. OIPA Engineer @ Tata Consultancy Services (TCS)
 **Match Score:** 10.4%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -808,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Software Engineer (Part-time Contracted) @ nan
+## 75. Software Engineer (Part-time Contracted) @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -819,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Production Support Engineer @ Capgemini
+## 76. Production Support Engineer @ Capgemini
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
@@ -830,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Associate Engineer, AI Integration Analyst @ KPMG
+## 77. Associate Engineer, AI Integration Analyst @ KPMG
 **Match Score:** 10.4%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -841,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Data Platform Developer @ HB Mechanical Group
+## 78. Data Platform Developer @ HB Mechanical Group
 **Match Score:** 10.4%
 
 📍 **Location:** Harrisburg, PA, US USA
