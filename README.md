@@ -1,16 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-03 14:40
+Last updated: 2026-04-03 15:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nomad Temporary Housing | DevOps / API Engineer — Mid-Level | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6e41e92d4cf6048b) | 2026-04-03 15:34 |
+| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 15:34 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 15:34 |
+| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 15:34 |
+| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27f251c7fd5857f4) | 2026-04-03 15:34 |
 | United States Cold Storage | Data Engineer | Camden, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=822de5b31b41394f) | 2026-04-03 14:40 |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 14:40 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 14:40 |
-| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 14:40 |
-| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27f251c7fd5857f4) | 2026-04-03 14:40 |
 | GHK Technologies Inc. | Databricks AI Developer / Architect | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f146b67b9249aaee) | 2026-04-03 13:58 |
 | The Cheesecake Factory | Senior Data Engineer | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ee350682361d2f6b) | 2026-04-03 12:42 |
 | Intellitech llc | Senior Data AI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1cd148978fc2ece) | 2026-04-03 12:42 |
