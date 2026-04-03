@@ -1,18 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-03 21:25
+Last updated: 2026-04-03 22:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-03 21:25 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-03 22:25 |
+| Wayfair | Software Engineer II, Pricing Engineering | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a6fa3a57e58f1e08) | 2026-04-03 22:25 |
+| nan | Data Analyst / Programmer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=532d80ca272af0f5) | 2026-04-03 22:25 |
+| Freeway Psychiatry | Developer Salesforce | Union, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7fd64d1c32ba1de8) | 2026-04-03 22:25 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 22:25 |
+| Intellibee Inc | Senior Fullstack Developer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=48f06667bcfd75b5) | 2026-04-03 22:25 |
+| JPMorganChase | Software Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ceb16fbcac8b21d) | 2026-04-03 22:25 |
+| Tommy Car Wash | DevOps Software Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c431c339f092680f) | 2026-04-03 22:25 |
+| Tommy Car Wash | DevOps Software Engineer | Holland, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2f07b81ae5350983) | 2026-04-03 22:25 |
+| JPMorganChase | Data Software Engineer III - ML | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=47e9f7eb8238e51a) | 2026-04-03 22:25 |
+| Zoom Communications | Senior Software Engineer, Zoom Contact Center | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=92d98bc10c1b1155) | 2026-04-03 22:25 |
+| Strava | Senior Machine Learning Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=50b8523ec10ba432) | 2026-04-03 22:25 |
+| NTT DATA | AWS Full Stack React Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e210ae383840f90) | 2026-04-03 22:25 |
+| Strava | Machine Learning Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79fc3a4f134e9a9d) | 2026-04-03 22:25 |
 | Equifax | Software Engineer - Career | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=220d00b675eb18d6) | 2026-04-03 21:25 |
 | Equifax | Software Engineer - Career | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=00569d3fe30ccfef) | 2026-04-03 21:25 |
 | Primrose Schools | Date Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5b2ef71651c5aceb) | 2026-04-03 21:25 |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 21:25 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 21:25 |
-| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 21:25 |
 | Tata Consultancy Services (TCS) | Resiliency and Recovery Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f04ba60584c2ed0f) | 2026-04-03 21:25 |
 | Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=04d79ae6e8911cec) | 2026-04-03 20:26 |
 | Fidelity TalentSource | Senior AWS Cloud Developer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28d495042e92610a) | 2026-04-03 20:26 |
@@ -548,18 +558,6 @@ Last updated: 2026-04-03 21:25
 | KPMG | Associate Engineer, AI Integration Analyst | Baton Rouge, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=722ea734bc204ae3) | 2026-03-30 22:26 |
 | KPMG | Associate Engineer, AI Integration Analyst | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cc4bb35373b469bb) | 2026-03-30 22:26 |
 | KLA | Data Fabric Engineer | Ann Arbor, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98107848586892d4) | 2026-03-30 22:26 |
-| GHX | Data Engineer III | Denver, CO, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=441872d9ed02e03f) | 2026-03-30 21:34 |
-| Vibrant Emotional Health | Cloud Engineer II | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c340175ff6347ecd) | 2026-03-30 21:34 |
-| Tata Consultancy Services (TCS) | Data Engineer (AWS, Snowflake, Pyspark, SQL) | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1309e7e5905e9f12) | 2026-03-30 21:34 |
-| Renew home | Senior Engineer, Data (Remote, US) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=690427c84612c68c) | 2026-03-30 21:34 |
-| Fiserv | Platform Engineer - CDE | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=75b680abba58aa07) | 2026-03-30 21:34 |
-| JENSEN HUGHES | Full Stack Software Developer | Columbia, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a794a4fad5ad9bde) | 2026-03-30 21:34 |
-| Tata Consultancy Services (TCS) | Senior Full Stack Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c9781423ded3fa2b) | 2026-03-30 21:34 |
-| Tata Consultancy Services (TCS) | Data Architect | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2dc4b4a6a2ce3590) | 2026-03-30 21:34 |
-| Lexi Global | IT System Administrator | Upland, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3ebb702aee91dee) | 2026-03-30 21:34 |
-| StockX | Senior Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4a52d3ff88f626ae) | 2026-03-30 21:34 |
-| Alliant Insurance Services | Senior Salesforce Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01307abdca065f19) | 2026-03-30 21:34 |
-| Alliant Insurance Services | Senior Salesforce Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09d7442a9096d240) | 2026-03-30 21:34 |
 
 
 ---
