@@ -1,17 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-02 23:26
+Last updated: 2026-04-03 01:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capstone Logistics, LLC | Sr. Data Engineer | Peachtree Corners, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=488efb485a279681) | 2026-04-03 01:25 |
+| Engineers & Constructors International | Platform Engineer [Data Bricks] | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9ab8193139c1b64e) | 2026-04-03 01:25 |
+| Engineers & Constructors International | Platform Engineer [Data Bricks] | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fe68969ff58c1600) | 2026-04-03 01:25 |
+| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 01:25 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 01:25 |
+| Xsolla | Operations Engineer, Baku | AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=004242e0072b4746) | 2026-04-03 01:25 |
+| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 01:25 |
+| WEALTHCOUNSEL LLC | Junior Software Developer (Virtual, Full Time) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d6e4bc2f2ae96ba) | 2026-04-03 01:25 |
+| nan | Software Engineer (Part-time Contracted) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1baa3c7f5936cb42) | 2026-04-03 01:25 |
+| Technology Ventures | Data/Modeling Engineer V | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c47cbacfde96e81) | 2026-04-03 01:25 |
 | AGORA Data, Inc. | DevOps Engineer | Arlington, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=31eb271fe420d45b) | 2026-04-02 23:26 |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-02 23:26 |
 | Capgemini | Senior Data Engineer - Snowflake | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f93df4671eb35854) | 2026-04-02 23:26 |
 | The Church of Jesus Christ of Latter-day Saints | Engineer 2 (Full-Time) - Special Projects Department | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b3cce96ea0c7ff3) | 2026-04-02 23:26 |
 | Headspace | Senior Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd766141c2ef3c09) | 2026-04-02 23:26 |
-| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-02 23:26 |
 | Capgemini | Production Support Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2b54dba08b36515) | 2026-04-02 23:26 |
 | State of Nebraska | IT Cloud Engineer | Lincoln, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50be6fdbd85cebea) | 2026-04-02 22:24 |
 | PlanOmatic HQ | Senior Software Engineer, Back-End (Java & Spring Boot) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f05a0e8c331ccaeb) | 2026-04-02 22:24 |
