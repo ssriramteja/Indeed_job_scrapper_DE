@@ -1,20 +1,37 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-03 16:30
+Last updated: 2026-04-03 17:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Vision | Cloud Solutions Engineer | Vienna, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f646fb7199ae18a4) | 2026-04-03 17:27 |
+| Openkyber | Cognos Analytics Technical Consultant | GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8543109d9b5da2c7) | 2026-04-03 17:27 |
+| Openkyber | Cognos Analytics Technical Consultant | NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=51cf57cdde81abbd) | 2026-04-03 17:27 |
+| Openkyber | Cognos Analytics Technical Consultant | NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=196851018666f4cc) | 2026-04-03 17:27 |
+| Intralot | BI Developer | Helena, MT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8c50badab80eaaf8) | 2026-04-03 17:27 |
+| Floor & Decor | Senior Full Stack Developer - POS | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=371ed48c15d1706b) | 2026-04-03 17:27 |
+| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 17:27 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 17:27 |
+| Klaviyo | Senior AI Engineer, ARIA Team | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0592edfcbf764ee4) | 2026-04-03 17:27 |
+| Openkyber | Saviynt Security Engineer | OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b4eb69ebcacfd269) | 2026-04-03 17:27 |
+| Openkyber | Information Protection Engineer | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e07b03adcd1968f) | 2026-04-03 17:27 |
+| Experian | MLOps Engineer - Healthcare (Remote) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fe7737e9fd7ab8a0) | 2026-04-03 17:27 |
+| Openkyber | Data Engineering & Integration | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e9d01fa2d64178c) | 2026-04-03 17:27 |
+| Openkyber | Data Engineering & Integration | IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7259d80e187d5e6f) | 2026-04-03 17:27 |
+| Openkyber | OpenAM | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a282ccb9c20676c) | 2026-04-03 17:27 |
+| Openkyber | Cognos Optimization Specialist | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc34dbed6e7d6bf5) | 2026-04-03 17:27 |
+| Openkyber | PingOne Cloud Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f4fe49e1b757831) | 2026-04-03 17:27 |
+| Openkyber | PingOne Cloud Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=944f922dade04119) | 2026-04-03 17:27 |
+| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 17:27 |
+| Openkyber | Administration & Infrastructure | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f8f89669fc5e5d8) | 2026-04-03 17:27 |
 | HealthPartners | Data Engineer Senior | Bloomington, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7cdc232102958f84) | 2026-04-03 16:30 |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 16:30 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 16:30 |
 | Otelier | Sr. Software Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab8cdec8520bfcab) | 2026-04-03 16:30 |
 | Experian | MLOps Engineer - Healthcare (Remote) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d4a68a6863ceeef7) | 2026-04-03 16:30 |
 | AECOM | Senior Software Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9369de31486590d) | 2026-04-03 16:30 |
 | AECOM | Senior Software Engineer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=67d360025ad1e8d3) | 2026-04-03 16:30 |
 | Experian | Data Engineer - Healthcare (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d54f977f3210b68) | 2026-04-03 16:30 |
-| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 16:30 |
 | Nomad Temporary Housing | DevOps / API Engineer — Mid-Level | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6e41e92d4cf6048b) | 2026-04-03 15:34 |
 | United States Cold Storage | Data Engineer | Camden, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=822de5b31b41394f) | 2026-04-03 14:40 |
 | GHK Technologies Inc. | Databricks AI Developer / Architect | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f146b67b9249aaee) | 2026-04-03 13:58 |
