@@ -1,16 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-03 15:34
+Last updated: 2026-04-03 16:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HealthPartners | Data Engineer Senior | Bloomington, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7cdc232102958f84) | 2026-04-03 16:30 |
+| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 16:30 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 16:30 |
+| Otelier | Sr. Software Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab8cdec8520bfcab) | 2026-04-03 16:30 |
+| Experian | MLOps Engineer - Healthcare (Remote) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d4a68a6863ceeef7) | 2026-04-03 16:30 |
+| AECOM | Senior Software Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9369de31486590d) | 2026-04-03 16:30 |
+| AECOM | Senior Software Engineer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=67d360025ad1e8d3) | 2026-04-03 16:30 |
+| Experian | Data Engineer - Healthcare (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d54f977f3210b68) | 2026-04-03 16:30 |
+| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 16:30 |
 | Nomad Temporary Housing | DevOps / API Engineer — Mid-Level | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6e41e92d4cf6048b) | 2026-04-03 15:34 |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 15:34 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 15:34 |
-| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 15:34 |
-| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27f251c7fd5857f4) | 2026-04-03 15:34 |
 | United States Cold Storage | Data Engineer | Camden, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=822de5b31b41394f) | 2026-04-03 14:40 |
 | GHK Technologies Inc. | Databricks AI Developer / Architect | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f146b67b9249aaee) | 2026-04-03 13:58 |
 | The Cheesecake Factory | Senior Data Engineer | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ee350682361d2f6b) | 2026-04-03 12:42 |
@@ -763,13 +768,6 @@ Last updated: 2026-04-03 15:34
 | MongoDB | Technical Services Engineer, Infrastructure - Weekend | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2649842ffc3e9b0b) | 2026-03-30 17:44 |
 | FanDuel | Software Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=809cf2b07d76fc6b) | 2026-03-30 17:44 |
 | LendingTree | Sr. Network Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=172d803032cd9cf3) | 2026-03-30 17:44 |
-| Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a1223c9ae7d10ef4) | 2026-03-30 16:01 |
-| Jade Global | Enterprise Architecture | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6e941d3599cccbbd) | 2026-03-30 16:01 |
-| Fidelity Investments | Senior Software Engineer | Merrimack, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6129a30842f97a0c) | 2026-03-30 16:01 |
-| Fidelity Investments | Senior Software Engineer | Westlake, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=866c80a990582061) | 2026-03-30 16:01 |
-| 66degrees | Cloud Engineer, Contract To Hire | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=329c33a2110e2ffd) | 2026-03-30 16:01 |
-| Boeing | Quality Systems Specialist | North Charleston, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de68c165b26c648e) | 2026-03-30 16:01 |
-| nan | Full Stack Developer Contractor | Westford, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f9a3da1ae20db072) | 2026-03-30 16:01 |
 
 
 ---
