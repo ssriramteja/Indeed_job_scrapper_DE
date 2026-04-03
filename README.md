@@ -1,20 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-03 20:26
+Last updated: 2026-04-03 21:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-03 20:26 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-03 21:25 |
+| Equifax | Software Engineer - Career | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=220d00b675eb18d6) | 2026-04-03 21:25 |
+| Equifax | Software Engineer - Career | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=00569d3fe30ccfef) | 2026-04-03 21:25 |
+| Primrose Schools | Date Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5b2ef71651c5aceb) | 2026-04-03 21:25 |
+| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 21:25 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 21:25 |
+| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 21:25 |
+| Tata Consultancy Services (TCS) | Resiliency and Recovery Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f04ba60584c2ed0f) | 2026-04-03 21:25 |
 | Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=04d79ae6e8911cec) | 2026-04-03 20:26 |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 20:26 |
 | Fidelity TalentSource | Senior AWS Cloud Developer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28d495042e92610a) | 2026-04-03 20:26 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 20:26 |
 | Optum | Senior Software Engineer - Remote | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=36e60b0d6d032f03) | 2026-04-03 20:26 |
 | Booz Allen Hamilton | Corporate AI and Machine Learning Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f75c774b709e20c3) | 2026-04-03 20:26 |
 | NewCourse Communications | Senior Cloud Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=109deef0eb13765e) | 2026-04-03 20:26 |
-| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 20:26 |
 | Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ef3db75965d2a75) | 2026-04-03 19:33 |
 | TECHSTRA SOLUTIONS | Full Stack Java Developer - (Senior) | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b734a39dfcced490) | 2026-04-03 18:35 |
 | GM Financial | Software Development Engineer II | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=56c571fa26321ee6) | 2026-04-03 18:35 |
@@ -556,16 +560,6 @@ Last updated: 2026-04-03 20:26
 | StockX | Senior Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4a52d3ff88f626ae) | 2026-03-30 21:34 |
 | Alliant Insurance Services | Senior Salesforce Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01307abdca065f19) | 2026-03-30 21:34 |
 | Alliant Insurance Services | Senior Salesforce Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09d7442a9096d240) | 2026-03-30 21:34 |
-| MindCare Solutions Group | Senior Data Platform & Healthcare AI Analytics Engineer | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7d5e6c69e5dcc101) | 2026-03-30 20:37 |
-| MindCare Solutions Group | Senior Data Platform & Healthcare AI Analytics Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=008f37aa6430130f) | 2026-03-30 20:37 |
-| Klaxontech | Data Engineer | Robstown, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9c444110ccacb047) | 2026-03-30 20:37 |
-| Wells Fargo | Senior Data Ops Engineer (contract) | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=856a0021ec6b2858) | 2026-03-30 20:37 |
-| Fidelity TalentSource | Data Engineer/Cloud Engineer | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa5c015dba2edf2f) | 2026-03-30 20:37 |
-| ECS | Senior Python Developer | Fairfax, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f27e4c248823f3cb) | 2026-03-30 20:37 |
-| Professional Engineering Consultants | Automation & Integration Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f496e3f33567d8e1) | 2026-03-30 20:37 |
-| Professional Engineering Consultants | Automation & Integration Developer | Wichita, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c144566d40a9779d) | 2026-03-30 20:37 |
-| Wells Fargo | Senior Site Reliability Engineer (contract) | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7241100643e3426) | 2026-03-30 20:37 |
-| Salesforce | Activation Solution Engineer- TMT/CBS | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fb564aaa33c98121) | 2026-03-30 20:37 |
 
 
 ---
