@@ -1,15 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-03 19:33
+Last updated: 2026-04-03 20:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 19:33 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 19:33 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-03 20:26 |
+| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=04d79ae6e8911cec) | 2026-04-03 20:26 |
+| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10c2989515c7a228) | 2026-04-03 20:26 |
+| Fidelity TalentSource | Senior AWS Cloud Developer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28d495042e92610a) | 2026-04-03 20:26 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3242aa0084fdb7ab) | 2026-04-03 20:26 |
+| Optum | Senior Software Engineer - Remote | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=36e60b0d6d032f03) | 2026-04-03 20:26 |
+| Booz Allen Hamilton | Corporate AI and Machine Learning Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f75c774b709e20c3) | 2026-04-03 20:26 |
+| NewCourse Communications | Senior Cloud Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=109deef0eb13765e) | 2026-04-03 20:26 |
+| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 20:26 |
 | Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ef3db75965d2a75) | 2026-04-03 19:33 |
-| Colonial Pipeline Company | Sr Analytics Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60336f38a0bbb5f4) | 2026-04-03 19:33 |
 | TECHSTRA SOLUTIONS | Full Stack Java Developer - (Senior) | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b734a39dfcced490) | 2026-04-03 18:35 |
 | GM Financial | Software Development Engineer II | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=56c571fa26321ee6) | 2026-04-03 18:35 |
 | Chesapeake Utilities Corporation | Senior Power BI Developer | Newark, DE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d7cd05c20de1f2b) | 2026-04-03 18:35 |
@@ -560,12 +566,6 @@ Last updated: 2026-04-03 19:33
 | Professional Engineering Consultants | Automation & Integration Developer | Wichita, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c144566d40a9779d) | 2026-03-30 20:37 |
 | Wells Fargo | Senior Site Reliability Engineer (contract) | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7241100643e3426) | 2026-03-30 20:37 |
 | Salesforce | Activation Solution Engineer- TMT/CBS | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fb564aaa33c98121) | 2026-03-30 20:37 |
-| Vanderbilt University | Senior Analytics Engineer | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1b1c3ee64f59e29c) | 2026-03-30 19:50 |
-| Traackr | Senior AI Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b35bb2b1b88eaf23) | 2026-03-30 19:50 |
-| Traackr | Senior AI Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c39424195effb79e) | 2026-03-30 19:50 |
-| Rivian | Sr. Application Integration Engineer | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4202440469a7183f) | 2026-03-30 19:50 |
-| SAP | SAP NS2 SuccessFactors Payroll Integration Expert and ABAP Professional | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7c3ecb94f6f318e) | 2026-03-30 19:50 |
-| ADP | Senior Platform Engineers | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e3983abcf47563a3) | 2026-03-30 19:50 |
 
 
 ---
