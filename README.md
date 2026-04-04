@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-04 11:22
+Last updated: 2026-04-04 12:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-04 11:22 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-04 12:35 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8645b0d44909612d) | 2026-04-04 11:22 |
 | Parts Authority | Senior Full Stack Developer (React) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f34688127cc2aa8a) | 2026-04-04 10:25 |
 | nan | Microsoft Fabric Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=370caed2dea48a3f) | 2026-04-04 10:25 |
@@ -467,10 +467,6 @@ Last updated: 2026-04-04 11:22
 | nan | AI Engineer | Darlington, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf54a52241c9ab8c) | 2026-03-31 16:00 |
 | UniFirst | MuleSoft QA Engineer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a86cd032741a613b) | 2026-03-31 16:00 |
 | Publix | Business Data Engineer | Lakeland, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bdfa6620e1363720) | 2026-03-31 12:56 |
-| nan | Data Engineer, Selling Partner Insights and Analytics | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=60a9c799766b00e5) | 2026-03-31 11:42 |
-| Openkyber | PingOne Cloud Engineer | HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d1bb860adb845b2) | 2026-03-31 11:42 |
-| Openkyber | ML Platform Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a75d763e98635f6) | 2026-03-31 11:42 |
-| Openkyber | PingOne | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bda7a0dc088567f8) | 2026-03-31 11:42 |
 
 
 ---
