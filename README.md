@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-04 16:25
+Last updated: 2026-04-04 17:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-04 16:25 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-04 17:23 |
 | Eightfold | Software Engineer - AI Agentic Product Dev Team (US) | Santa Clara, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd50de7c7c09c2ca) | 2026-04-04 13:46 |
 | Capital One | Senior Software Engineer, Back End/Full Stack (Docker/Containerization, Python on AWS, React, API Dev + CI/CD) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5bc3ae2a8608fdd7) | 2026-04-04 13:46 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8645b0d44909612d) | 2026-04-04 11:22 |
@@ -456,12 +456,6 @@ Last updated: 2026-04-04 16:25
 | Openkyber | MLOps | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4863cbc6b3d6b1cb) | 2026-03-31 18:50 |
 | Openkyber | Junior DevOps Engineer (GCP) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35e0e8efd2412038) | 2026-03-31 18:50 |
 | Openkyber | SAP Integration Suite Consultant | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=524dae0940b2e550) | 2026-03-31 18:50 |
-| Visa | Senior Data Engineer - Data and AI Platform | Foster City, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b7a485d3680b15c7) | 2026-03-31 17:02 |
-| Options Clearing Corporation | Senior Associate, Software Engineering: Java | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8ee8848102ba438f) | 2026-03-31 17:02 |
-| EXL Service | Full Stack Software Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d56a2eec25a4cdf1) | 2026-03-31 17:02 |
-| DASH | Software Engineer - Fintech | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=032692b6447e846b) | 2026-03-31 17:02 |
-| TD SYNNEX | Data Analyst | Clearwater, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3ac61b491dcf119f) | 2026-03-31 17:02 |
-| BWE | BI Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=596f6e15cd38e69a) | 2026-03-31 17:02 |
 
 
 ---
