@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-04 22:21
+Last updated: 2026-04-04 23:22
 
 ### 🚀 Daily Job Matches
 
@@ -387,15 +387,6 @@ Last updated: 2026-04-04 22:21
 | Openkyber | CrowdStrike AI Security Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b6d920c4c2bd57b) | 2026-03-31 23:27 |
 | Openkyber | CrowdStrike GenAI Security Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1dd7d3804967d98b) | 2026-03-31 23:27 |
 | Openkyber | CrowdStrike GenAI Security Engineer | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e3319c71421c45d) | 2026-03-31 23:27 |
-| Tyson Foods Incorporated | Development Engineer II - SQL/Python (Onsite) | Springdale, AR, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1134e3a24fcb227f) | 2026-03-31 22:26 |
-| Mj holding | Data Engineer | Bridgeview, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=607b114c3a54e137) | 2026-03-31 22:26 |
-| Clean Harbors | Data Governance & AI Architect | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f8c9ed46a79df142) | 2026-03-31 22:26 |
-| EXL Service | Full Stack Software Engineer (Python / Cloud / React) | NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3e81ba3eb856803b) | 2026-03-31 22:26 |
-| Bechtel | Functional Construction Automation Data Analyst Specialist | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e5f7a44142b4858b) | 2026-03-31 22:26 |
-| Nordstrom | Data Engineer 2, Customer Insights Delivery (Hybrid - Seattle, WA) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a635d8f5dd2e2e8) | 2026-03-31 22:26 |
-| Varteq | Data Engineer (Python ETL) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=805875ce39161cef) | 2026-03-31 22:26 |
-| UniFirst | MuleSoft Developer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87bb3ba8aec761d6) | 2026-03-31 22:26 |
-| JPMorganChase | Software Engineer III - DevOps Automation Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=455fef009e54202e) | 2026-03-31 22:26 |
 
 
 ---
