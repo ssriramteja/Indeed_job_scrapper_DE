@@ -1,12 +1,11 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-04 18:29
+Last updated: 2026-04-04 19:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-04 18:29 |
 | Eightfold | Software Engineer - AI Agentic Product Dev Team (US) | Santa Clara, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd50de7c7c09c2ca) | 2026-04-04 13:46 |
 | Capital One | Senior Software Engineer, Back End/Full Stack (Docker/Containerization, Python on AWS, React, API Dev + CI/CD) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5bc3ae2a8608fdd7) | 2026-04-04 13:46 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8645b0d44909612d) | 2026-04-04 11:22 |
@@ -420,42 +419,6 @@ Last updated: 2026-04-04 18:29
 | Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=efab53243a65d22c) | 2026-03-31 19:50 |
 | Waystar | Data Engineer I | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebf5fc4fe451b2a3) | 2026-03-31 19:50 |
 | NTT DATA | Python Snowflake Data Engineer - ONSITE | Buffalo, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21b75f05c8869eb9) | 2026-03-31 19:50 |
-| Point72 | Software Engineer, Machine Learning | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=5e09c185db263f81) | 2026-03-31 18:50 |
-| Fustis LLC | Devops engineer | San Francisco, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=15ea8087038a49ef) | 2026-03-31 18:50 |
-| Openkyber | GCP Support Associate | TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=bb1000bfb92ccaf8) | 2026-03-31 18:50 |
-| Openkyber | Junior DevOps Engineer (GCP) | GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f6b1e3ef5375d97c) | 2026-03-31 18:50 |
-| ConocoPhillips | Senior Data Solution Developer | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=60636b00b0503b4f) | 2026-03-31 18:50 |
-| Openkyber | Associate ML Infrastructure Engineer | NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b9ef3e482c1ec706) | 2026-03-31 18:50 |
-| Openkyber | Associate ML Infrastructure Engineer | MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ab05fb1efeca7401) | 2026-03-31 18:50 |
-| Optum | Senior Software Engineer | Eden Prairie, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3c88842d38c51c3e) | 2026-03-31 18:50 |
-| Openkyber | ML Infrastructure Architect | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=104e155ccf64e907) | 2026-03-31 18:50 |
-| Openkyber | Falcon Fusion Automation Engineer | IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4cfe65132a8bf749) | 2026-03-31 18:50 |
-| Openkyber | Falcon Fusion Automation Engineer | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e915580476d1117f) | 2026-03-31 18:50 |
-| Openkyber | Intelligence Advisory Specialist | NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c368ca320721350) | 2026-03-31 18:50 |
-| Openkyber | Machine Learning Operations Trainee | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9d7ade899645b061) | 2026-03-31 18:50 |
-| Openkyber | CrowdStrike Charlotte AI Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=26b7ea188aaaa21f) | 2026-03-31 18:50 |
-| Openkyber | SAP Analytics Cloud Consultant | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=13d26fcfc2d4f3e2) | 2026-03-31 18:50 |
-| Openkyber | GCP Cloud Administrator | NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a007da376997cdd6) | 2026-03-31 18:50 |
-| Openkyber | CrowdStrike Automation Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=82b86af2c91eec1e) | 2026-03-31 18:50 |
-| Openkyber | DevOps Engineer (GCP) | NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cf4d36b18dcbcb92) | 2026-03-31 18:50 |
-| Openkyber | GCP ETL Engineer | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=918ab93ff3c3e435) | 2026-03-31 18:50 |
-| Openkyber | DevOps Engineer (GCP) | OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9252404f1fd54bf0) | 2026-03-31 18:50 |
-| Luxoft | Senior Backend Engineer - Java | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=314171c69decc803) | 2026-03-31 18:50 |
-| Openkyber | GCP Cloud Security Engineer | NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4956c23a03f89aba) | 2026-03-31 18:50 |
-| Puget Sound Energy | Advisor IT Technology Analyst | Bothell, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=730de253e4e2fdc4) | 2026-03-31 18:50 |
-| Fairway Independent Mortgage | Data Engineer | Central, LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2030f383d0c07709) | 2026-03-31 18:50 |
-| Openkyber | GCP Cloud Administrator | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9066bd24bfd121ca) | 2026-03-31 18:50 |
-| Openkyber | Junior Cloud Security Analyst | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07a8b6c69b56ae04) | 2026-03-31 18:50 |
-| Openkyber | MLOps | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a2960acef5cf8f1d) | 2026-03-31 18:50 |
-| Openkyber | Junior GCP Cloud Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e116a527e5005300) | 2026-03-31 18:50 |
-| Openkyber | GCP Support Associate | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bbc0ffee81b18319) | 2026-03-31 18:50 |
-| Lantern | Senior Python Software Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db506ee21362577a) | 2026-03-31 18:50 |
-| Openkyber | MLOps | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=74a86411c17f0279) | 2026-03-31 18:50 |
-| Openkyber | Junior DevOps Engineer (GCP) | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dfccd38b986bc26f) | 2026-03-31 18:50 |
-| Openkyber | Kubernetes MLOps Engineer | MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=633beb97f5f7ea31) | 2026-03-31 18:50 |
-| Openkyber | MLOps | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4863cbc6b3d6b1cb) | 2026-03-31 18:50 |
-| Openkyber | Junior DevOps Engineer (GCP) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35e0e8efd2412038) | 2026-03-31 18:50 |
-| Openkyber | SAP Integration Suite Consultant | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=524dae0940b2e550) | 2026-03-31 18:50 |
 
 
 ---
