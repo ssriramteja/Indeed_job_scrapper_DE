@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-04 10:25
+Last updated: 2026-04-04 11:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-04 10:25 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-04 11:22 |
+| St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8645b0d44909612d) | 2026-04-04 11:22 |
 | Parts Authority | Senior Full Stack Developer (React) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f34688127cc2aa8a) | 2026-04-04 10:25 |
 | nan | Microsoft Fabric Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=370caed2dea48a3f) | 2026-04-04 10:25 |
 | I4DM | C2 SMART Integration Engineer (Data Acquisition) | Remote, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=51a2376d63bc21df) | 2026-04-04 09:30 |
