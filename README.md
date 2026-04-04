@@ -1,12 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-04 08:31
+Last updated: 2026-04-04 09:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-04 08:31 |
+| I4DM | C2 SMART Integration Engineer (Data Acquisition) | Remote, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=51a2376d63bc21df) | 2026-04-04 09:30 |
+| I4DM | C2 SMART Integration Engineer (Data Tagging and Availability) | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1d01c8b8d0caf9fe) | 2026-04-04 09:30 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-04 09:30 |
+| HealthEdge Software, Inc. | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79050ec6925ece8b) | 2026-04-04 09:30 |
+| HealthEdge Software, Inc. | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5abe1c65278c5c5c) | 2026-04-04 09:30 |
 | American Express | Senior AI Engineer | Phoenix, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=170d4c1d3d53f45f) | 2026-04-04 06:50 |
 | GEICO | Senior Engineer - .NET | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87fe175222dffef0) | 2026-04-04 05:52 |
 | GEICO | Senior Engineer - .NET | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=70ca01249d0f4376) | 2026-04-04 05:52 |
