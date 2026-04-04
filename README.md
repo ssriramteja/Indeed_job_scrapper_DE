@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-04 19:25
+Last updated: 2026-04-04 20:20
 
 ### 🚀 Daily Job Matches
 
@@ -411,14 +411,6 @@ Last updated: 2026-04-04 19:25
 | GEICO | Engineer II- Java | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11a9093c69bdd7f5) | 2026-03-31 21:31 |
 | Tata Consultancy Services (TCS) | Devops Engineer | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2bce8d3a8d3ff964) | 2026-03-31 21:31 |
 | TIAA | Senior Data Engineer | Iselin, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1c69ae1a5bbb91ec) | 2026-03-31 20:35 |
-| Infosys | Databricks Administrator | Hartford, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=41fcb22e7e1be3af) | 2026-03-31 19:50 |
-| The Consortium Inc. | Temp to Permanent - Redshift Dynamo data analytics AI subject matter expert senior data engineer. | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d3155a48b630529) | 2026-03-31 19:50 |
-| NTT DATA | Data Scientist | Camden, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f45ba0b2e434ebdf) | 2026-03-31 19:50 |
-| Optum | Sr. Data Analyst - Remote | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aeaed27b6eac7dfe) | 2026-03-31 19:50 |
-| jamf | DevOps Engineer II (CI/CD) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c7d081a2acf87111) | 2026-03-31 19:50 |
-| Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=efab53243a65d22c) | 2026-03-31 19:50 |
-| Waystar | Data Engineer I | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebf5fc4fe451b2a3) | 2026-03-31 19:50 |
-| NTT DATA | Python Snowflake Data Engineer - ONSITE | Buffalo, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21b75f05c8869eb9) | 2026-03-31 19:50 |
 
 
 ---
