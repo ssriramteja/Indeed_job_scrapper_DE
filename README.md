@@ -1,12 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-04 01:19
+Last updated: 2026-04-04 04:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-04 01:19 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-04 04:09 |
+| Swire Coca-Cola | Senior Data Engineer | Draper, UT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=66405642daaaa86b) | 2026-04-04 04:09 |
+| HALO | Enterprise Data Architect (Data, Analytics & AI) | Sterling, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=25992fcd2fc606d1) | 2026-04-04 04:09 |
+| GESTURE | Full Stack & AI Engineering Intern - Denver On-Site | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2a9bd7f54a3825f2) | 2026-04-04 04:09 |
+| Equifax | Data Engineer | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=60154e4c61c165c0) | 2026-04-04 04:09 |
+| Equifax | Data Engineer | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=877c428e451eb94c) | 2026-04-04 04:09 |
+| DATAMAXIS | Senior ETL / Python Developer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fedc9093da7a5e35) | 2026-04-04 04:09 |
+| Zayo Group | Data Analytics Engineer, Senior | CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7454873b519feaba) | 2026-04-04 04:09 |
+| Cisco | Software Engineer | Research Triangle Park, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ff634a2dda844bc2) | 2026-04-04 04:09 |
+| Republic Finance | Data Engineer Intern | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f8b3947ebdce760) | 2026-04-04 04:09 |
+| Information Technology Senior Management Forum | Senior Software Engineer, Back End/Full Stack (Docker/Containerization, Python on AWS, React, API De | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1c45b67fc2b62b74) | 2026-04-04 04:09 |
+| F5 | Senior Software Development Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c2a1b8821fbe2a2e) | 2026-04-04 04:09 |
+| Cisco | Software Engineer | Research Triangle Park, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c98d14af7164f47) | 2026-04-04 04:09 |
 | Maverick Payments | Data Warehouse Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cb98a0e64bd00ece) | 2026-04-04 01:19 |
 | Realign | Python Developer with AWS-1 | North Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f612381d18aae353) | 2026-04-04 01:19 |
 | American Express | Data Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bb4891b06f58ff08) | 2026-04-04 01:19 |
@@ -491,16 +503,6 @@ Last updated: 2026-04-04 01:19
 | GEICO | Senior Software Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e7c3732c3afe771) | 2026-03-31 04:30 |
 | GEICO | Senior Software Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=132a7e83f5ef115c) | 2026-03-31 04:30 |
 | Ally Financial | Senior Analyst - Business Intelligence | Lewisville, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c90642397a66650c) | 2026-03-31 04:30 |
-| Technology Ventures | Cloud and Data Architect | Reston, VA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=320c1faffbfddbde) | 2026-03-31 01:26 |
-| NTT DATA | Snowflake Architect | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=40aaa75b2184c0c1) | 2026-03-31 01:26 |
-| TD | Data Engineer II (US) | Mount Laurel, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ca690758b1fe12cc) | 2026-03-31 01:26 |
-| Medline Industries | Assoc AI Data Engineer | Northbrook, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1694de66666ce5ae) | 2026-03-31 01:26 |
-| Slide Insurance | Data Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=581ccabe792e3e2e) | 2026-03-31 01:26 |
-| Wavicle Data Solutions | Data Engineering Architect | Oak Brook, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=da6f6c7407781883) | 2026-03-31 01:26 |
-| Navitas | 26-2239: QA Automation Engineer - Herndon, VA | Herndon, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8d8f63f9ca803a56) | 2026-03-31 01:26 |
-| NTT DATA | Snowflake Data Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ccb8528012c6918c) | 2026-03-31 01:26 |
-| Hertz | Sr Full Stack Developer - Rental Platforms | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ecbf4be0e4e22122) | 2026-03-31 01:26 |
-| Hanvok Group LLC | DevOps Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=215add5ff61dcad5) | 2026-03-31 01:26 |
 
 
 ---
