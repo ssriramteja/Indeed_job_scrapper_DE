@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-04 20:20
+Last updated: 2026-04-04 21:23
 
 ### 🚀 Daily Job Matches
 
@@ -410,7 +410,6 @@ Last updated: 2026-04-04 20:20
 | GEICO | Engineer II- Java | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d5fa6d1ea20eaf4) | 2026-03-31 21:31 |
 | GEICO | Engineer II- Java | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11a9093c69bdd7f5) | 2026-03-31 21:31 |
 | Tata Consultancy Services (TCS) | Devops Engineer | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2bce8d3a8d3ff964) | 2026-03-31 21:31 |
-| TIAA | Senior Data Engineer | Iselin, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1c69ae1a5bbb91ec) | 2026-03-31 20:35 |
 
 
 ---
