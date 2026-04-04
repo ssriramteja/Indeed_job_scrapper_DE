@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-04 21:23
+Last updated: 2026-04-04 22:21
 
 ### 🚀 Daily Job Matches
 
@@ -396,20 +396,6 @@ Last updated: 2026-04-04 21:23
 | Varteq | Data Engineer (Python ETL) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=805875ce39161cef) | 2026-03-31 22:26 |
 | UniFirst | MuleSoft Developer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87bb3ba8aec761d6) | 2026-03-31 22:26 |
 | JPMorganChase | Software Engineer III - DevOps Automation Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=455fef009e54202e) | 2026-03-31 22:26 |
-| Tata Consultancy Services (TCS) | MDM Developer - Reltio and Informatica | Seattle, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=62f00301c3deac9a) | 2026-03-31 21:31 |
-| Tata Consultancy Services (TCS) | Senior Java Developer | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c741b2b5bf35e58d) | 2026-03-31 21:31 |
-| NTT DATA | Developer / Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=53a21eb645f70762) | 2026-03-31 21:31 |
-| NTT DATA | Developer / Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ef91196b68620667) | 2026-03-31 21:31 |
-| Equifax | Software Engineer Specialist | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=17a1da206e83b34e) | 2026-03-31 21:31 |
-| GEICO | Senior Machine Learning Engineer Document Intelligence | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=89836d7fbc6b3c28) | 2026-03-31 21:31 |
-| GEICO | Senior Machine Learning Engineer Document Intelligence | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=41276bf572b998e9) | 2026-03-31 21:31 |
-| Premistar | Senior Data Engineer | Deerfield, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b51ff213f12431eb) | 2026-03-31 21:31 |
-| Intone Networks | Data integration Engineer | Malvern, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3525ed6d9ad48128) | 2026-03-31 21:31 |
-| Dittman Incentive Marketing | Development Security Operations Engineer | New Brunswick, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a1e98c36756d0852) | 2026-03-31 21:31 |
-| NEUMO | BI Engineer I (Remote) | Fort Wayne, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ca11c463bffab2e) | 2026-03-31 21:31 |
-| GEICO | Engineer II- Java | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d5fa6d1ea20eaf4) | 2026-03-31 21:31 |
-| GEICO | Engineer II- Java | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11a9093c69bdd7f5) | 2026-03-31 21:31 |
-| Tata Consultancy Services (TCS) | Devops Engineer | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2bce8d3a8d3ff964) | 2026-03-31 21:31 |
 
 
 ---
