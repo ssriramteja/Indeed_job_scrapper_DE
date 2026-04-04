@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-04 05:52
+Last updated: 2026-04-04 06:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-04 05:52 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ae7236a6d23f32f) | 2026-04-04 06:50 |
+| American Express | Senior AI Engineer | Phoenix, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=170d4c1d3d53f45f) | 2026-04-04 06:50 |
 | GEICO | Senior Engineer - .NET | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87fe175222dffef0) | 2026-04-04 05:52 |
 | GEICO | Senior Engineer - .NET | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=70ca01249d0f4376) | 2026-04-04 05:52 |
 | NTT DATA | AWS Full Stack React Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db65c20ad4663ad) | 2026-04-04 05:52 |
@@ -468,8 +469,6 @@ Last updated: 2026-04-04 05:52
 | nan | Software Engineer II | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ae5ba63dac769db2) | 2026-03-31 09:56 |
 | Commence | Cloud Infrastructure Engineer | Virginia Beach, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=71c7ef21d9f323bb) | 2026-03-31 09:56 |
 | Elevance Health | Cloud Solutions Engineer Advisor | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7ed5b36af60806a7) | 2026-03-31 08:03 |
-| Digipulse Technologies Inc. | Snowflake Developer | TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=dcb5051399e08706) | 2026-03-31 06:12 |
-| NTT DATA | Snowflake Architect | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b7c1b121d67d1c29) | 2026-03-31 06:12 |
 
 
 ---
