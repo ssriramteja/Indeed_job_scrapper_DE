@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 15:24
+Last updated: 2026-04-05 16:26
 
 ### 🚀 Daily Job Matches
 
@@ -317,9 +317,6 @@ Last updated: 2026-04-05 15:24
 | Openkyber | Cognos Business Intelligence Analyst | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad29a7b3847d7779) | 2026-04-01 17:43 |
 | Openkyber | Cognos Business Intelligence Analyst | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80bbbb63b208b2dd) | 2026-04-01 17:43 |
 | EnergyBot | Software Developer / Software Engineer (Dallas/Fort Worth - Hybrid) | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e5b4ec2f38d6dbf) | 2026-04-01 17:43 |
-| MassMutual | Solutions Architect | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c4075abed317d9ce) | 2026-04-01 16:02 |
-| FanDuel | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c895663eea835325) | 2026-04-01 16:02 |
-| FanDuel | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9bc4b812b4def66e) | 2026-04-01 16:02 |
 
 
 ---
