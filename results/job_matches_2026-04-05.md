@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-05
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -60,7 +60,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. SAP NS2 Senior HANA Cloud DevOps Engineer @ SAP
+## 6. Senior Backend Engineer – Node.js & Microservices @ axiusSoftware
+**Match Score:** 11.1%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, API Gateway, Azure, GCP, Scala, Kafka, PostgreSQL, MySQL, MongoDB, NoSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8416ad2ad931971c)
+
+---
+
+## 7. SAP NS2 Senior HANA Cloud DevOps Engineer @ SAP
 **Match Score:** 10.4%
 
 📍 **Location:** Newtown Square, PA, US USA

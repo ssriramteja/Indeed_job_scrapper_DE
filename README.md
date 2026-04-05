@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 10:24
+Last updated: 2026-04-05 11:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| axiusSoftware | Senior Backend Engineer – Node.js & Microservices | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8416ad2ad931971c) | 2026-04-05 11:22 |
 | PlayStation | Software Engineer II, Data Platform | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=863b993691d43dcd) | 2026-04-05 09:31 |
 | JPMorganChase | Software Engineer III – Big Data & Analytics | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0657089c3ac9f1d) | 2026-04-05 09:31 |
 | JPMorganChase | Python Engineer, Senior Associate | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d1ed8d52cd0705a) | 2026-04-05 09:31 |
@@ -334,10 +335,6 @@ Last updated: 2026-04-05 10:24
 | YO IT CONSULTING | Java Developer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b588911fd6c0bd0) | 2026-04-01 12:58 |
 | Openkyber | Machine Learning Threat Intelligence Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6db760ee05781078) | 2026-04-01 12:58 |
 | Near-Miss Management | Full Stack Software Engineer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b64c8d6f17e6cd5) | 2026-04-01 12:58 |
-| Openkyber | GenAI Threat Intelligence Analyst | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=083ee0db6cfdce14) | 2026-04-01 11:02 |
-| Openkyber | CrowdStrike Cloud Security Engineer | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5f9bbf23d77dfc12) | 2026-04-01 11:02 |
-| NTT DATA | Test Automation Engineer / SDET - HYBRID | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4ab801d158b6cd6f) | 2026-04-01 11:02 |
-| Openkyber | CrowdStrike Cloud Security Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=98e5ab137562f273) | 2026-04-01 11:02 |
 
 
 ---
