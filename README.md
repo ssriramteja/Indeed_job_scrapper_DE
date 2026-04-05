@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 22:21
+Last updated: 2026-04-05 23:25
 
 ### 🚀 Daily Job Matches
 
@@ -266,13 +266,6 @@ Last updated: 2026-04-05 22:21
 | Openkyber | Administration & Infrastructure | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0ce9084953b8335) | 2026-04-01 23:29 |
 | Openkyber | Administration & Infrastructure | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b944869c6bc2e2ec) | 2026-04-01 23:29 |
 | Searchpros Staffing | Google Cloud Platform (GCP) Site Reliability Engineer (SRE) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43afc506f9234f19) | 2026-04-01 23:29 |
-| University Bank | Data Engineer | Ann Arbor, MI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a2ea5bb501a5ac8a) | 2026-04-01 22:29 |
-| JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7c537d5b06db8547) | 2026-04-01 22:29 |
-| SRR Consultants | Senior Salesforce Developer | Piscataway, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=972d1a9bdec25467) | 2026-04-01 22:29 |
-| Ibotta | Data Engineer | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd935505fd26740e) | 2026-04-01 22:29 |
-| American Innovations Ltd | Sr. Software Engineer - Platform | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1a6071ff182d1660) | 2026-04-01 22:29 |
-| JPMorganChase | Data Software Engineer III- ML | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=875ef8272fea454a) | 2026-04-01 22:29 |
-| Optum | Senior Software Engineer | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5419bc0b083078db) | 2026-04-01 22:29 |
 
 
 ---
