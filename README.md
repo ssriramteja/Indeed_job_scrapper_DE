@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 06:10
+Last updated: 2026-04-05 07:51
 
 ### 🚀 Daily Job Matches
 
@@ -338,12 +338,6 @@ Last updated: 2026-04-05 06:10
 | JPMorganChase | Software Engineer III | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9ff787e7518e81a0) | 2026-04-01 10:00 |
 | JPMorganChase | Site Reliability Engineer III | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6770f045e0af216) | 2026-04-01 10:00 |
 | OSI Systems, Inc | Intelligent Process Automation Software Engineer | Snoqualmie, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f1cf38df07620a12) | 2026-04-01 10:00 |
-| Transamerica | Sr Software Engineer | Cedar Rapids, IA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e6228a15683ca91c) | 2026-04-01 06:23 |
-| employers | Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=87490bb4a381dfbc) | 2026-04-01 06:23 |
-| NTT DATA | Developer / Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=900e75da89e25169) | 2026-04-01 06:23 |
-| NTT DATA | Developer / Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9bd29cc3a867acb2) | 2026-04-01 06:23 |
-| NTT DATA | Test Automation Engineer / SDET - HYBRID | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3302c4147ab0b0cf) | 2026-04-01 06:23 |
-| U.S. Bank | Sofware Engineer - 2 (Full Stack Java + Oracle Database) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=54788bf627331aec) | 2026-04-01 06:23 |
 
 
 ---
