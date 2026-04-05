@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 19:28
+Last updated: 2026-04-05 20:23
 
 ### 🚀 Daily Job Matches
 
@@ -292,15 +292,6 @@ Last updated: 2026-04-05 19:28
 | Goldman Sachs | AI Innovation and Solutions Engineer - Associate (New York, NY) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1084f9324350eb73) | 2026-04-01 20:36 |
 | The Wenger Group | System Engineer | Lancaster, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb283133cba77fc1) | 2026-04-01 20:36 |
 | Clean Power Alliance | Data and Systems Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27cf2ef4404e94ae) | 2026-04-01 20:36 |
-| Solution Design Group | Cloud Engineer | Minneapolis, MN, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=3196d29570808b53) | 2026-04-01 19:53 |
-| Diné Development Corporation | Analytics / Data Engineer | Dayton, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=12319e09a7649a9b) | 2026-04-01 19:53 |
-| Diné Development Corporation | Analytics / Data Engineer | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=08e51646c7f6b5d5) | 2026-04-01 19:53 |
-| SAP | Senior SIEM Engineer | Newtown Square, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e01d27dd76f05ca3) | 2026-04-01 19:53 |
-| REPLY | Data Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b55f03574875963f) | 2026-04-01 19:53 |
-| Optum | Sr Software Engineer | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b169e350c3f599f1) | 2026-04-01 19:53 |
-| TECHNOVAL | GCP Cloud Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8aa372df0d9657b8) | 2026-04-01 19:53 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=97688623b519e5b3) | 2026-04-01 19:53 |
-| Alignment Healthcare | Remote Sr. Data Engineer | Orange, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8abfbc6f5545eda) | 2026-04-01 19:53 |
 
 
 ---
