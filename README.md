@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 09:31
+Last updated: 2026-04-05 10:24
 
 ### 🚀 Daily Job Matches
 
@@ -338,10 +338,6 @@ Last updated: 2026-04-05 09:31
 | Openkyber | CrowdStrike Cloud Security Engineer | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5f9bbf23d77dfc12) | 2026-04-01 11:02 |
 | NTT DATA | Test Automation Engineer / SDET - HYBRID | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4ab801d158b6cd6f) | 2026-04-01 11:02 |
 | Openkyber | CrowdStrike Cloud Security Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=98e5ab137562f273) | 2026-04-01 11:02 |
-| JPMorganChase | Software Engineer III: DevOps | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=e23895720992f67e) | 2026-04-01 10:00 |
-| JPMorganChase | Software Engineer III | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9ff787e7518e81a0) | 2026-04-01 10:00 |
-| JPMorganChase | Site Reliability Engineer III | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6770f045e0af216) | 2026-04-01 10:00 |
-| OSI Systems, Inc | Intelligent Process Automation Software Engineer | Snoqualmie, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f1cf38df07620a12) | 2026-04-01 10:00 |
 
 
 ---
