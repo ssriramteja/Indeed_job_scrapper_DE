@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 04:30
+Last updated: 2026-04-05 06:10
 
 ### 🚀 Daily Job Matches
 
@@ -344,29 +344,6 @@ Last updated: 2026-04-05 04:30
 | NTT DATA | Developer / Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9bd29cc3a867acb2) | 2026-04-01 06:23 |
 | NTT DATA | Test Automation Engineer / SDET - HYBRID | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3302c4147ab0b0cf) | 2026-04-01 06:23 |
 | U.S. Bank | Sofware Engineer - 2 (Full Stack Java + Oracle Database) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=54788bf627331aec) | 2026-04-01 06:23 |
-| YT Global Network | Senior GCP Data Architect – Remote | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9f7f6c18f0b40b42) | 2026-04-01 04:41 |
-| nan | Senior Data Architect & Reporting Solutions D | Philadelphia, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=410011ba5535efbe) | 2026-04-01 04:41 |
-| Worth AI | Data Platform Engineer | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=766980d948b5a966) | 2026-04-01 04:41 |
-| Worth AI | Data Platform Engineer | Tampa, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f31808d30684adc7) | 2026-04-01 04:41 |
-| Worth AI | Data Platform Engineer | Miami, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=25b7c90a916e35d7) | 2026-04-01 04:41 |
-| Worth AI | Data Platform Engineer | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=597e12336f0812d3) | 2026-04-01 04:41 |
-| Greenlight Financial Technology | AI/ML Engineer Atlanta (Remote Friendly) | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7d237ba58e55ea5b) | 2026-04-01 04:41 |
-| Commence | Sr. AI/ML Engineer | Virginia Beach, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a29e442792da77f5) | 2026-04-01 04:41 |
-| Genius Sports | Software Engineer, Data | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=75d10853c428fd34) | 2026-04-01 04:41 |
-| Bot Auto | Intern, Software Engineer(Data Infrastructure) | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f1b61e16e9da8276) | 2026-04-01 04:41 |
-| nan | Senior System Architect | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c9cf22705d96e61e) | 2026-04-01 04:41 |
-| Taglynk | Senior Backend Engineer - Startup(AI) | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2686471aa31f7398) | 2026-04-01 04:41 |
-| Global Payments | Senior Software Engineer (Full Stack Developer) | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e8a195e515873c32) | 2026-04-01 04:41 |
-| NTT DATA | Data Scientist | Camden, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=07f27194308ee9cd) | 2026-04-01 04:41 |
-| Wells Fargo | Software Engineer - SQL (contract) | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a211a468bc1009b1) | 2026-04-01 04:41 |
-| Hightower Advisors | Senior Data Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=83fc9f0307dc4aa5) | 2026-04-01 04:41 |
-| Nextlink Internet | Development Operations Engineer | Hudson Oaks, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5102abee7a124d83) | 2026-04-01 04:41 |
-| Bass Pro Shops | AI Engineer II - Onsite, Springfield, MO | Springfield, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9462766e1bdc44b8) | 2026-04-01 04:41 |
-| Lumeris | GCP AI Engineer - Cambridge, MA | MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa76078529e44025) | 2026-04-01 04:41 |
-| NTT DATA | Python Snowflake Data Engineer - ONSITE | Buffalo, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d484f254d7720016) | 2026-04-01 04:41 |
-| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a374ae98e1a015fc) | 2026-04-01 04:41 |
-| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88c41c9642b0a2b3) | 2026-04-01 04:41 |
-| TSMC | Senior Software Engineer (Full Stack - UI/UX Focus)- North America Software Center | Vancouver, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa81374f258fc366) | 2026-04-01 04:41 |
 
 
 ---
