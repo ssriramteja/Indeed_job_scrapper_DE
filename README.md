@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 01:29
+Last updated: 2026-04-05 04:30
 
 ### 🚀 Daily Job Matches
 
@@ -367,18 +367,6 @@ Last updated: 2026-04-05 01:29
 | GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a374ae98e1a015fc) | 2026-04-01 04:41 |
 | GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88c41c9642b0a2b3) | 2026-04-01 04:41 |
 | TSMC | Senior Software Engineer (Full Stack - UI/UX Focus)- North America Software Center | Vancouver, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa81374f258fc366) | 2026-04-01 04:41 |
-| NerdWallet | Senior Software Engineer (CLAW) | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3e7b6f396b10f8f0) | 2026-04-01 01:47 |
-| Datavault AI | Senior Data Architect & Reporting Solutions D | Philadelphia, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4ccbbb87c6afe8cb) | 2026-04-01 01:47 |
-| Realign | Java Developer-5 | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ecebbc9dd29cefa7) | 2026-04-01 01:47 |
-| Realign | Java Developer-5 | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c6d1627d5b089666) | 2026-04-01 01:47 |
-| Boomi | Field Engineer - Data Integration & AI | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=84d683c622c98ed1) | 2026-04-01 01:47 |
-| Realign | Data Engineer | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ffc90a9db157baf6) | 2026-04-01 01:47 |
-| Datavault AI | Senior System Architect | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=755724cf9bc70aef) | 2026-04-01 01:47 |
-| Vital Care Infusion Services, LLC | Senior Data Engineer | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4125fc52d3ecd9f0) | 2026-04-01 01:47 |
-| SAP | Platform Infrastructure Engineer | San Ramon, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c8a3d6523273721c) | 2026-04-01 01:47 |
-| Chewy | Software Engineer III | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b55676772b11e69) | 2026-04-01 01:47 |
-| Orlando Utilities Commission | Programmer Analyst (Enterprise Integration & Content Services) | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1e3da4fd635520fc) | 2026-04-01 01:47 |
-| OSI Systems, Inc | Intelligent Process Automation Software Engineer | Snoqualmie, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5fc799481aebd64) | 2026-04-01 01:47 |
 
 
 ---
