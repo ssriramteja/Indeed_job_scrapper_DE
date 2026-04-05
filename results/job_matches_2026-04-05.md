@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-05
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -57,6 +57,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, S3, IAM, RDS, Azure, Google Cloud Platform, Scala, CI/CD, Terraform, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=ede3f75e70d4727e)
+
+---
+
+## 6. Product Architect Google Cloud Platform @ Reston Hospital Center - Reston
+**Match Score:** 10.4%
+
+📍 **Location:** Reston, VA, US USA
+
+🔑 **Keywords:** Lambda, RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Spark, Scala, Kafka, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9800f97130992c45)
+
+---
+
+## 7. Product Architect Google Cloud Platform @ Catholic Medical Center
+**Match Score:** 10.4%
+
+📍 **Location:** Manchester, NH, US USA
+
+🔑 **Keywords:** Lambda, RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Spark, Scala, Kafka, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1dfe8d6c036c24b4)
 
 ---
 
