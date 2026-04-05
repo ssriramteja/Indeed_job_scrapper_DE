@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 18:30
+Last updated: 2026-04-05 19:28
 
 ### 🚀 Daily Job Matches
 
@@ -301,8 +301,6 @@ Last updated: 2026-04-05 18:30
 | TECHNOVAL | GCP Cloud Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8aa372df0d9657b8) | 2026-04-01 19:53 |
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=97688623b519e5b3) | 2026-04-01 19:53 |
 | Alignment Healthcare | Remote Sr. Data Engineer | Orange, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8abfbc6f5545eda) | 2026-04-01 19:53 |
-| West Monroe | Advisory Architect, Data/AI Due Diligence- TTS | Boston, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e685b1e9ce29a1aa) | 2026-04-01 18:48 |
-| TK Elevator | Sr. AI-ML Engineer Data Analytics | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7147e81270620ea1) | 2026-04-01 18:48 |
 
 
 ---
