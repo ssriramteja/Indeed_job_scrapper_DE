@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 08:33
+Last updated: 2026-04-05 09:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| PlayStation | Software Engineer II, Data Platform | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=863b993691d43dcd) | 2026-04-05 09:31 |
+| JPMorganChase | Software Engineer III – Big Data & Analytics | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0657089c3ac9f1d) | 2026-04-05 09:31 |
+| JPMorganChase | Python Engineer, Senior Associate | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d1ed8d52cd0705a) | 2026-04-05 09:31 |
 | nan | MQ - CICS Middleware Admin | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e419b162bae199c) | 2026-04-05 08:33 |
 | SAP | SAP NS2 Senior HANA Cloud DevOps Engineer | Newtown Square, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ede3f75e70d4727e) | 2026-04-05 01:29 |
 | South Florida Community Care Network | Sr. Business Intelligence Developer | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f38270b9409d908) | 2026-04-05 01:29 |
