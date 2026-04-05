@@ -27,7 +27,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Software Engineer - AI Agentic Product Dev Team (US) @ Eightfold
+## 3. MQ - CICS Middleware Admin @ nan
+**Match Score:** 15.3%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, NoSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8e419b162bae199c)
+
+---
+
+## 4. Software Engineer - AI Agentic Product Dev Team (US) @ Eightfold
 **Match Score:** 13.2%
 
 📍 **Location:** Santa Clara, CA, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Full Stack Developer (React) @ Parts Authority
+## 5. Senior Full Stack Developer (React) @ Parts Authority
 **Match Score:** 12.5%
 
 📍 **Location:** US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Software Engineer, Back End/Full Stack (Docker/Containerization, Python on AWS, React, API Dev + CI/CD) @ Capital One
+## 6. Senior Software Engineer, Back End/Full Stack (Docker/Containerization, Python on AWS, React, API Dev + CI/CD) @ Capital One
 **Match Score:** 11.1%
 
 📍 **Location:** McLean, VA, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Microsoft Fabric Data Engineer @ nan
+## 7. Microsoft Fabric Data Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -71,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. SAP NS2 Senior HANA Cloud DevOps Engineer @ SAP
+## 8. SAP NS2 Senior HANA Cloud DevOps Engineer @ SAP
 **Match Score:** 10.4%
 
 📍 **Location:** Newtown Square, PA, US USA
@@ -82,25 +93,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Software Engineer @ HealthEdge Software, Inc.
+## 9. Senior Software Engineer @ St. David's HealthCare
 **Match Score:** 10.4%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** AWS, Azure, Scala, CI/CD, Jenkins, Maven, Docker, Kubernetes, Jenkins, Git
+🔑 **Keywords:** RDS, Google Cloud Platform, BigQuery, Cloud Storage, Scala, SQL Server, ETL, CI/CD, GitHub Actions, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=79050ec6925ece8b)
-
----
-
-## 9. Senior Software Engineer @ HealthEdge Software, Inc.
-**Match Score:** 10.4%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, CI/CD, Jenkins, Maven, Docker, Kubernetes, Jenkins, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5abe1c65278c5c5c)
+[Apply Here](https://www.indeed.com/viewjob?jk=8645b0d44909612d)
 
 ---
 

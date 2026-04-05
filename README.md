@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 07:51
+Last updated: 2026-04-05 08:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | MQ - CICS Middleware Admin | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e419b162bae199c) | 2026-04-05 08:33 |
 | SAP | SAP NS2 Senior HANA Cloud DevOps Engineer | Newtown Square, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ede3f75e70d4727e) | 2026-04-05 01:29 |
 | South Florida Community Care Network | Sr. Business Intelligence Developer | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f38270b9409d908) | 2026-04-05 01:29 |
 | Eightfold | Software Engineer - AI Agentic Product Dev Team (US) | Santa Clara, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd50de7c7c09c2ca) | 2026-04-04 13:46 |
