@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 13:48
+Last updated: 2026-04-05 14:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| clickhouse | Senior Software Engineer - Python and Data Ecosystem | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c1ce06c12c2400c) | 2026-04-05 14:28 |
 | axiusSoftware | Senior Backend Engineer – Node.js & Microservices | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8416ad2ad931971c) | 2026-04-05 11:22 |
 | PlayStation | Software Engineer II, Data Platform | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=863b993691d43dcd) | 2026-04-05 09:31 |
 | JPMorganChase | Software Engineer III – Big Data & Analytics | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0657089c3ac9f1d) | 2026-04-05 09:31 |
@@ -319,10 +320,6 @@ Last updated: 2026-04-05 13:48
 | MassMutual | Solutions Architect | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c4075abed317d9ce) | 2026-04-01 16:02 |
 | FanDuel | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c895663eea835325) | 2026-04-01 16:02 |
 | FanDuel | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9bc4b812b4def66e) | 2026-04-01 16:02 |
-| Fustis LLC | Enterprise Architect | Reston, VA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=6856b750d699d0b8) | 2026-04-01 14:27 |
-| Optum | AWS Cloud Site Reliability Engineer | Basking Ridge, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6e47569360256c27) | 2026-04-01 14:27 |
-| SolutionStream | Sr. .Net Developer | Lehi, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c064b7d4a7d09b7) | 2026-04-01 14:27 |
-| IMG | Azure Data Engineer with Databricks | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ddc68a9a0e8fb48) | 2026-04-01 14:27 |
 
 
 ---
