@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 20:23
+Last updated: 2026-04-05 21:23
 
 ### 🚀 Daily Job Matches
 
@@ -283,15 +283,6 @@ Last updated: 2026-04-05 20:23
 | AdCellerant | Senior Data Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=56ea99b8f4528836) | 2026-04-01 21:34 |
 | Kiewit Corporation | Data Engineer-Kiewit Nuclear Solutions | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3dcc88e3afcff35d) | 2026-04-01 21:34 |
 | Charles Schwab | Software Test Automation Framework Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9219da3b5ceab951) | 2026-04-01 21:34 |
-| nan | AWS Developer (Remote Opportunity) | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5d0c6d0c8aef2fbf) | 2026-04-01 20:36 |
-| EMC Insurance | Senior Data Engineer | Des Moines, IA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cefe38a8a00ba491) | 2026-04-01 20:36 |
-| West Monroe | Advisory Architect, Data/AI Due Diligence- TTS | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=330017cf70779a95) | 2026-04-01 20:36 |
-| TK Elevator | Sr. AI-ML Engineer Data Analytics | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2169bd0539d8ff3a) | 2026-04-01 20:36 |
-| Green Irony | Senior MuleSoft Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b45e53493b8bdf81) | 2026-04-01 20:36 |
-| Novo Nordisk, Inc. | Cloud & Data Engineer | Lexington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b00559f175e41fa1) | 2026-04-01 20:36 |
-| Goldman Sachs | AI Innovation and Solutions Engineer - Associate (New York, NY) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1084f9324350eb73) | 2026-04-01 20:36 |
-| The Wenger Group | System Engineer | Lancaster, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb283133cba77fc1) | 2026-04-01 20:36 |
-| Clean Power Alliance | Data and Systems Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27cf2ef4404e94ae) | 2026-04-01 20:36 |
 
 
 ---
