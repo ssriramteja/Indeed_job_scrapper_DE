@@ -5,25 +5,25 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Software Engineer - Python and Data Ecosystem @ clickhouse
-**Match Score:** 11.1%
+## 1. MQ - CICS Middleware Admin @ nan
+**Match Score:** 15.3%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** US USA
 
-🔑 **Keywords:** AWS, RDS, Spark, Kafka, Kafka Connect, Data Modeling, dbt, Tableau, MLOps, Airflow
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, NoSQL, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2c1ce06c12c2400c)
+[Apply Here](https://www.indeed.com/viewjob?jk=8e419b162bae199c)
 
 ---
 
-## 2. Software Engineer II, Data Platform @ PlayStation
+## 2. Python Engineer, Senior Associate @ JPMorganChase
 **Match Score:** 11.1%
 
-📍 **Location:** San Diego, CA, US USA
+📍 **Location:** Boston, MA, US USA
 
-🔑 **Keywords:** AWS, Kinesis, SQS, RDS, Databricks, GCP, Spark, Scala, Kafka, ETL
+🔑 **Keywords:** AWS, Lambda, S3, RDS, Polars, PostgreSQL, CI/CD, Jenkins, Terraform, Jenkins
 
-[Apply Here](https://www.indeed.com/viewjob?jk=863b993691d43dcd)
+[Apply Here](https://www.indeed.com/viewjob?jk=6d1ed8d52cd0705a)
 
 ---
 
@@ -38,14 +38,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Python Engineer, Senior Associate @ JPMorganChase
+## 4. Software Engineer II, Data Platform @ PlayStation
 **Match Score:** 11.1%
 
-📍 **Location:** Boston, MA, US USA
+📍 **Location:** San Diego, CA, US USA
 
-🔑 **Keywords:** AWS, Lambda, S3, RDS, Polars, PostgreSQL, CI/CD, Jenkins, Terraform, Jenkins
+🔑 **Keywords:** AWS, Kinesis, SQS, RDS, Databricks, GCP, Spark, Scala, Kafka, ETL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6d1ed8d52cd0705a)
+[Apply Here](https://www.indeed.com/viewjob?jk=863b993691d43dcd)
 
 ---
 
