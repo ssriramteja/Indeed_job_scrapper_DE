@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 21:23
+Last updated: 2026-04-05 22:21
 
 ### 🚀 Daily Job Matches
 
@@ -273,16 +273,6 @@ Last updated: 2026-04-05 21:23
 | American Innovations Ltd | Sr. Software Engineer - Platform | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1a6071ff182d1660) | 2026-04-01 22:29 |
 | JPMorganChase | Data Software Engineer III- ML | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=875ef8272fea454a) | 2026-04-01 22:29 |
 | Optum | Senior Software Engineer | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5419bc0b083078db) | 2026-04-01 22:29 |
-| ACV Auctions | Senior Data Engineer, ACVMax | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f02b64c0c4088808) | 2026-04-01 21:34 |
-| Checkr | Senior Data Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=598ca45455673f4f) | 2026-04-01 21:34 |
-| Equifax | Software Developer - Career | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a6786be8f8c217b8) | 2026-04-01 21:34 |
-| Kiewit Corporation | Data Engineer-Kiewit Nuclear Solutions 1 | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b0dfe4a55ad8d320) | 2026-04-01 21:34 |
-| ABOUT Healthcare | Data & Analytics Engineer | Saint Paul, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=62676487c6f8411a) | 2026-04-01 21:34 |
-| TK Elevator | Sr. AI-ML Engineer Data Analytics | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0be0a107da6326a2) | 2026-04-01 21:34 |
-| Charles Schwab | Cloud Data Engineering Operations Specialist | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=672f4d9f4d9b154a) | 2026-04-01 21:34 |
-| AdCellerant | Senior Data Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=56ea99b8f4528836) | 2026-04-01 21:34 |
-| Kiewit Corporation | Data Engineer-Kiewit Nuclear Solutions | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3dcc88e3afcff35d) | 2026-04-01 21:34 |
-| Charles Schwab | Software Test Automation Framework Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9219da3b5ceab951) | 2026-04-01 21:34 |
 
 
 ---
