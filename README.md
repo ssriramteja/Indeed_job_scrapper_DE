@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 12:37
+Last updated: 2026-04-05 13:48
 
 ### 🚀 Daily Job Matches
 
@@ -323,18 +323,6 @@ Last updated: 2026-04-05 12:37
 | Optum | AWS Cloud Site Reliability Engineer | Basking Ridge, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6e47569360256c27) | 2026-04-01 14:27 |
 | SolutionStream | Sr. .Net Developer | Lehi, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c064b7d4a7d09b7) | 2026-04-01 14:27 |
 | IMG | Azure Data Engineer with Databricks | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ddc68a9a0e8fb48) | 2026-04-01 14:27 |
-| University of Utah | Data Engineer III | Salt Lake City, UT, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=b4568945a7df2ae8) | 2026-04-01 12:58 |
-| XomegaIT Inc | Sr. Databricks Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=517d5c67d35acb4e) | 2026-04-01 12:58 |
-| Publix | Senior Software Engineer - PIMS2 | Lakeland, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9eb3212fe9bc60d1) | 2026-04-01 12:58 |
-| Munich Re | Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9867eee729f1fe15) | 2026-04-01 12:58 |
-| Openkyber | Machine Learning Threat Intelligence Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71b08a308d9c4e4a) | 2026-04-01 12:58 |
-| YO IT CONSULTING | Senior Java Software Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2bea7326a4970d38) | 2026-04-01 12:58 |
-| YO IT CONSULTING | Sr Java Developer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e2143304ae215ab) | 2026-04-01 12:58 |
-| YO IT CONSULTING | Sr Java Backend Developer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b81d52c01d7856d) | 2026-04-01 12:58 |
-| RiseIT Solutions | Data Quality Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=10f676b273ad2a66) | 2026-04-01 12:58 |
-| YO IT CONSULTING | Java Developer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b588911fd6c0bd0) | 2026-04-01 12:58 |
-| Openkyber | Machine Learning Threat Intelligence Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6db760ee05781078) | 2026-04-01 12:58 |
-| Near-Miss Management | Full Stack Software Engineer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b64c8d6f17e6cd5) | 2026-04-01 12:58 |
 
 
 ---

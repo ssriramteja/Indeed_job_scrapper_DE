@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-04-05
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Software Engineer - AI Agentic Product Dev Team (US) @ Eightfold
-**Match Score:** 13.2%
-
-📍 **Location:** Santa Clara, CA, US USA
-
-🔑 **Keywords:** AWS, Redshift, S3, SQS, SNS, RDS, Azure, GCP, Spark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bd50de7c7c09c2ca)
-
----
-
-## 2. Software Engineer II, Data Platform @ PlayStation
+## 1. Software Engineer II, Data Platform @ PlayStation
 **Match Score:** 11.1%
 
 📍 **Location:** San Diego, CA, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Software Engineer III – Big Data & Analytics @ JPMorganChase
+## 2. Software Engineer III – Big Data & Analytics @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Python Engineer, Senior Associate @ JPMorganChase
+## 3. Python Engineer, Senior Associate @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -49,18 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Software Engineer, Back End/Full Stack (Docker/Containerization, Python on AWS, React, API Dev + CI/CD) @ Capital One
-**Match Score:** 11.1%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** AWS, ECS, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5bc3ae2a8608fdd7)
-
----
-
-## 6. Senior Backend Engineer – Node.js & Microservices @ axiusSoftware
+## 4. Senior Backend Engineer – Node.js & Microservices @ axiusSoftware
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -71,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. SAP NS2 Senior HANA Cloud DevOps Engineer @ SAP
+## 5. SAP NS2 Senior HANA Cloud DevOps Engineer @ SAP
 **Match Score:** 10.4%
 
 📍 **Location:** Newtown Square, PA, US USA
