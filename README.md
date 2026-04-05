@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-04 23:22
+Last updated: 2026-04-05 01:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SAP | SAP NS2 Senior HANA Cloud DevOps Engineer | Newtown Square, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ede3f75e70d4727e) | 2026-04-05 01:29 |
+| South Florida Community Care Network | Sr. Business Intelligence Developer | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f38270b9409d908) | 2026-04-05 01:29 |
 | Eightfold | Software Engineer - AI Agentic Product Dev Team (US) | Santa Clara, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd50de7c7c09c2ca) | 2026-04-04 13:46 |
 | Capital One | Senior Software Engineer, Back End/Full Stack (Docker/Containerization, Python on AWS, React, API Dev + CI/CD) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5bc3ae2a8608fdd7) | 2026-04-04 13:46 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8645b0d44909612d) | 2026-04-04 11:22 |
@@ -377,16 +379,6 @@ Last updated: 2026-04-04 23:22
 | Chewy | Software Engineer III | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b55676772b11e69) | 2026-04-01 01:47 |
 | Orlando Utilities Commission | Programmer Analyst (Enterprise Integration & Content Services) | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1e3da4fd635520fc) | 2026-04-01 01:47 |
 | OSI Systems, Inc | Intelligent Process Automation Software Engineer | Snoqualmie, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5fc799481aebd64) | 2026-04-01 01:47 |
-| Openkyber | CrowdStrike AI Security Engineer | GA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=fa5a21d896e67e9f) | 2026-03-31 23:27 |
-| Openkyber | Microsoft Threat Intelligence Analyst | NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e23577992da94237) | 2026-03-31 23:27 |
-| Live Nation | Data Architect | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4f5a1d94cdd22147) | 2026-03-31 23:27 |
-| Capgemini | Amazon Contact Center Expert | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f00b2d3ae1dd9c48) | 2026-03-31 23:27 |
-| Capgemini | Amazon Contact Center Expert | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4739a328dd61122e) | 2026-03-31 23:27 |
-| Trimble | Senior AI Data Pipeline Engineer | Lake Oswego, OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=590a2d7ae67854f1) | 2026-03-31 23:27 |
-| HCSS | DevOps Engineer II – AWS | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2c2c066ac730476f) | 2026-03-31 23:27 |
-| Openkyber | CrowdStrike AI Security Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b6d920c4c2bd57b) | 2026-03-31 23:27 |
-| Openkyber | CrowdStrike GenAI Security Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1dd7d3804967d98b) | 2026-03-31 23:27 |
-| Openkyber | CrowdStrike GenAI Security Engineer | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e3319c71421c45d) | 2026-03-31 23:27 |
 
 
 ---
