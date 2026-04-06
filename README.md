@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-06 16:37
+Last updated: 2026-04-06 17:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Realign | Python Developer with AWS-2 | North Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3ee773ea630e1307) | 2026-04-06 17:38 |
+| athenahealth | Senior MLOps Engineer - Analytics & AI - R&D - Engineering | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b90e39d495953c19) | 2026-04-06 17:38 |
+| Axle | Computer Programmer | Rockville, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=82e8ba86f3bb725f) | 2026-04-06 17:38 |
+| Realign | Data Engineer-4 | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=238b37485205d9b2) | 2026-04-06 17:38 |
+| Advanced software systems | Senior Databricks Administrator (AWS) New | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a86546443e51144d) | 2026-04-06 17:38 |
+| Healthfirst (New York) | Sr Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a7e1ba2fbbe4b720) | 2026-04-06 17:38 |
+| Realign | Developer – T-SQL, Azure Logic Apps (Remote) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4a0bd8c3f6a6cba) | 2026-04-06 17:38 |
+| Realign | Devops Engineer-1 | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d21b43139fbc9c58) | 2026-04-06 17:38 |
+| Realign | ML Engineer / AI Operations-3 | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=757de7bfe898f867) | 2026-04-06 17:38 |
 | Qbtech | Senior Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3c14d180cd784ef) | 2026-04-06 15:38 |
 | Fustis LLC | Genesys Cloud GenAI Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4735299b123e3950) | 2026-04-06 15:38 |
 | Vaarida Technologies | AliCloud Engineer | Cupertino, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=875f29ca149584b4) | 2026-04-06 15:38 |
@@ -216,7 +225,6 @@ Last updated: 2026-04-06 16:37
 | Capgemini | Data Architect - Databricks | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ac4e591f657264f) | 2026-04-02 17:42 |
 | Capgemini | AWS SageMaker Data Scientist | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d132dfef0009f8e) | 2026-04-02 17:42 |
 | HB Mechanical Group | Data Platform Developer | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8fefc4462aa78fa) | 2026-04-02 17:42 |
-| The Knot Worldwide | Software Engineer, Martech New | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c82af06849de41ec) | 2026-04-02 16:47 |
 
 
 ---
