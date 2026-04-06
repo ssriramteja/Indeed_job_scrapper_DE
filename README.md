@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-06 21:30
+Last updated: 2026-04-06 22:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Acxiom | Intern - Data Engineer - Summer 2026 | Conway, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=338baa6df1016586) | 2026-04-06 22:27 |
+| JPMorganChase | Software Engineer III - Full Stack + AWS + Elastic / Open Search | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0ce76eb1050277d8) | 2026-04-06 22:27 |
+| Careficient | Healthcare Application Developer (AWS / Clinical AI) | Kansas City, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=76e0e8781165273c) | 2026-04-06 22:27 |
+| Regions Financial | Cloud DevSecOps Engineer | Hoover, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=88befaf12f2cc91c) | 2026-04-06 22:27 |
+| Vizient, Inc. | Senior Software Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=65f24e485db8e99c) | 2026-04-06 22:27 |
+| Monks | Senior Full- Stack Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f0ce256017494b0) | 2026-04-06 22:27 |
+| JPMorganChase | Software Engineer III- AWS/Python/PySpark | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=22afb06d679561e6) | 2026-04-06 22:27 |
+| David's Bridal | Data Analyst — AI-Driven Insights | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6162c1000e2759f6) | 2026-04-06 22:27 |
+| NYU Langone Health | ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=72534c2968374dee) | 2026-04-06 22:27 |
 | oura | Senior Data Architect | San Francisco, CA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=42ae77d7fc82e8f5) | 2026-04-06 21:30 |
 | Vantage Data Centers | Senior Data Engineer, Global | CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e41b246b13bc8e16) | 2026-04-06 21:30 |
 | Vantage Data Centers | Senior Data Engineer, Global | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9d05ebd191671b98) | 2026-04-06 21:30 |
@@ -203,12 +212,6 @@ Last updated: 2026-04-06 21:30
 | The Church of Jesus Christ of Latter-day Saints | Engineer 2 (Full-Time) - Special Projects Department | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b3cce96ea0c7ff3) | 2026-04-02 23:26 |
 | Headspace | Senior Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd766141c2ef3c09) | 2026-04-02 23:26 |
 | Capgemini | Production Support Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2b54dba08b36515) | 2026-04-02 23:26 |
-| State of Nebraska | IT Cloud Engineer | Lincoln, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50be6fdbd85cebea) | 2026-04-02 22:24 |
-| PlanOmatic HQ | Senior Software Engineer, Back-End (Java & Spring Boot) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f05a0e8c331ccaeb) | 2026-04-02 22:24 |
-| NVIDIA | Distinguished Engineer, Cloud Site Reliability Engineering | Santa Clara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=84f499dac9552b99) | 2026-04-02 22:24 |
-| Tommy Car Wash | DevOps Software Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c7a7057e5ff0c30b) | 2026-04-02 22:24 |
-| Tommy Car Wash | DevOps Software Engineer | Holland, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56df8a42439ec061) | 2026-04-02 22:24 |
-| Fiserv | Senior Platform Engineer (Kafka/Flink) | Marietta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e569f00299d9ec3c) | 2026-04-02 22:24 |
 
 
 ---
