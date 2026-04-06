@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-04-06
 
-**Total Jobs Found:** 10
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Data Engineer @ Qbtech
-**Match Score:** 13.9%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, S3, Azure, Hadoop, HDFS, Hive, Spark, PySpark, Scala, Oracle
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d3c14d180cd784ef)
-
----
-
-## 2. Sr Data Engineer @ Paramount
+## 1. Sr Data Engineer @ Paramount
 **Match Score:** 12.5%
 
 📍 **Location:** Fort Lauderdale, FL, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Genesys Cloud GenAI Engineer @ Fustis LLC
+## 2. Genesys Cloud GenAI Engineer @ Fustis LLC
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Software Engineer II, Data Platform @ PlayStation
+## 3. Software Engineer II, Data Platform @ PlayStation
 **Match Score:** 11.1%
 
 📍 **Location:** San Diego, CA, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. AliCloud Engineer @ Vaarida Technologies
+## 4. AliCloud Engineer @ Vaarida Technologies
 **Match Score:** 10.4%
 
 📍 **Location:** Cupertino, CA, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Analytics Engineer @ Salt Dental Partners
+## 5. Data Analytics Engineer @ Salt Dental Partners
 **Match Score:** 10.4%
 
 📍 **Location:** Franklin, TN, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. UI/UX Engineer @ NIKSUN, Inc.
+## 6. UI/UX Engineer @ NIKSUN, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Princeton, NJ, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Engineer @ GEICO
+## 7. Senior Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Engineer @ GEICO
+## 8. Senior Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Engineer @ GEICO
+## 9. Senior Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA

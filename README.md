@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-06 15:38
+Last updated: 2026-04-06 16:37
 
 ### 🚀 Daily Job Matches
 
@@ -217,10 +217,6 @@ Last updated: 2026-04-06 15:38
 | Capgemini | AWS SageMaker Data Scientist | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d132dfef0009f8e) | 2026-04-02 17:42 |
 | HB Mechanical Group | Data Platform Developer | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8fefc4462aa78fa) | 2026-04-02 17:42 |
 | The Knot Worldwide | Software Engineer, Martech New | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c82af06849de41ec) | 2026-04-02 16:47 |
-| JPS Tech Solutions LLC | Release Engineer/ DevOps engineer | Atlanta, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d3efa9891a04eb92) | 2026-04-02 15:53 |
-| Cellentia Technologies | SAP ERP Senior Consultant | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c25fb1848ca5bdb1) | 2026-04-02 15:53 |
-| SRR Consultants | Senior Appian Developer | Piscataway, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=33b611b338e133dd) | 2026-04-02 15:53 |
-| Consertus | Junior Integration Developer | Guaynabo, PR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24e14330f4b7345b) | 2026-04-02 15:53 |
 
 
 ---
