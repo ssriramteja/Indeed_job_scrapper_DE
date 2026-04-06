@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-06 12:50
+Last updated: 2026-04-06 14:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NIKSUN, Inc. | UI/UX Engineer | Princeton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3368fc7b71b947f0) | 2026-04-06 14:06 |
+| nan | Data Analyst (Sales Ops)- Temp | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45b583a24b7d9b26) | 2026-04-06 14:06 |
 | Gi Group | Deployment Engineer | Manor, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0f076f71ac1c6a4b) | 2026-04-06 08:18 |
 | GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce918c4d6c656402) | 2026-04-06 06:26 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc707a9bbacf36ab) | 2026-04-06 06:26 |
@@ -217,7 +219,6 @@ Last updated: 2026-04-06 12:50
 | SRR Consultants | Senior Appian Developer | Piscataway, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=33b611b338e133dd) | 2026-04-02 15:53 |
 | Consertus | Junior Integration Developer | Guaynabo, PR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24e14330f4b7345b) | 2026-04-02 15:53 |
 | TAXI & LIMOUSINE COMMISSION | Data Engineer | Manhattan, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf9f61209bb4a310) | 2026-04-02 14:18 |
-| InterImage | AI Engineer | Annapolis Junction, MD, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7b5cd9ecf25f6cbb) | 2026-04-02 12:52 |
 
 
 ---
