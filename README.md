@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-06 08:18
+Last updated: 2026-04-06 10:01
 
 ### 🚀 Daily Job Matches
 
@@ -223,9 +223,6 @@ Last updated: 2026-04-06 08:18
 | JPMorganChase | Software Engineer III - Full Stack Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0a9bac7d17ad25cf) | 2026-04-02 10:44 |
 | Texas Health and Human Services Commission | Cloud Data Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=37dd687fff009d5b) | 2026-04-02 10:44 |
 | Texas Health and Human Services Commission | Data Analyst IV - Advanced Analytics & Reporting - 100% remote | Plainview, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87865932a988f1fc) | 2026-04-02 10:44 |
-| Ulta | Sr IT Engineer Data | Bolingbrook, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1d5e69b720a3e69a) | 2026-04-02 09:01 |
-| nan | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9525a5a7c62864fb) | 2026-04-02 09:01 |
-| Deloitte | Project Delivery Senior Analyst - API & Azure DevOps Developer - Remote | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1949efd776a6da0e) | 2026-04-02 09:01 |
 
 
 ---
