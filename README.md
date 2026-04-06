@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-06 04:38
+Last updated: 2026-04-06 06:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce918c4d6c656402) | 2026-04-06 06:26 |
+| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc707a9bbacf36ab) | 2026-04-06 06:26 |
+| GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a0d95f3260031a05) | 2026-04-06 06:26 |
 | PlayStation | Software Engineer II, Data Platform | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1696f58952c74ca) | 2026-04-06 04:38 |
 | Paramount | Sr Data Engineer | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1bf73fd986d212e6) | 2026-04-06 01:29 |
 | Salt Dental Partners | Data Analytics Engineer | Franklin, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21381131f52aaafb) | 2026-04-06 01:29 |
@@ -231,7 +234,6 @@ Last updated: 2026-04-06 04:38
 | BECU | Sr Business Intelligence Analyst | WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2f84020e91f909f) | 2026-04-02 08:00 |
 | GEICO | Software Engineer II (C#) - Substantiation Platform - Hybrid | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=601af57d4756727c) | 2026-04-02 08:00 |
 | GEICO | Software Engineer II (C#) - Substantiation Platform - Hybrid | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=987d4b774583d481) | 2026-04-02 08:00 |
-| Zendesk | Senior Machine Learning Engineer - Hybrid (San Francisco or Austin) | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c190a827f8e23b77) | 2026-04-02 06:07 |
 
 
 ---

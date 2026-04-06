@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-06
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 10
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -79,6 +79,39 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Data Factory, Scala, Data Modeling, ETL, ELT, Power BI, Tableau, Python
 
 [Apply Here](https://www.indeed.com/viewjob?jk=21381131f52aaafb)
+
+---
+
+## 8. Senior Engineer @ GEICO
+**Match Score:** 10.4%
+
+📍 **Location:** Bethesda, MD, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ce918c4d6c656402)
+
+---
+
+## 9. Senior Engineer @ GEICO
+**Match Score:** 10.4%
+
+📍 **Location:** Palo Alto, CA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bc707a9bbacf36ab)
+
+---
+
+## 10. Senior Engineer @ GEICO
+**Match Score:** 10.4%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a0d95f3260031a05)
 
 ---
 
