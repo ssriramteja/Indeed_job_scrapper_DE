@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-06 17:38
+Last updated: 2026-04-06 18:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Cigna Group | Software Engineering Advisor –Evernorth | Bloomington, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d6e200e992325ba5) | 2026-04-06 18:44 |
+| Health Business Solutions | LLM Operations Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=29f380b4ee93c576) | 2026-04-06 18:44 |
+| Realign | Resiliency & Recovery Engineer-1 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c68a7783ebf554b) | 2026-04-06 18:44 |
+| Tardus inc | Workday Consultant | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=404fb8b0e1fceb3e) | 2026-04-06 18:44 |
 | Realign | Python Developer with AWS-2 | North Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3ee773ea630e1307) | 2026-04-06 17:38 |
 | athenahealth | Senior MLOps Engineer - Analytics & AI - R&D - Engineering | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b90e39d495953c19) | 2026-04-06 17:38 |
 | Axle | Computer Programmer | Rockville, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=82e8ba86f3bb725f) | 2026-04-06 17:38 |
@@ -214,17 +218,6 @@ Last updated: 2026-04-06 17:38
 | Gallagher | Data Engineer | Rolling Meadows, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=88f6d60e8f8c8637) | 2026-04-02 19:43 |
 | Magna International | Sr. Software Engineer - Backend | Lowell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=80f0b473fc9d61ce) | 2026-04-02 19:43 |
 | Wipro | DEVELOPER L3 | East Brunswick, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=572120ce80028ef5) | 2026-04-02 19:43 |
-| Realign | Python Developer with AWS | North Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=fa709d11e93dc2b7) | 2026-04-02 18:43 |
-| ACL Digital | BAULI4-Computing Architect 4 - B78-Information/Data Architecture | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e2ec8f7098e6405) | 2026-04-02 18:43 |
-| Astreya Partners | Senior System Engineer / Linux Server / Server Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29469eeada6bbae7) | 2026-04-02 18:43 |
-| NTT DATA | Azure Databricks and Oracle Tester | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=cebf8689f1477182) | 2026-04-02 17:42 |
-| Capgemini | Python Fullstack Developer | Irving, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5b5dd3623fd24e11) | 2026-04-02 17:42 |
-| RecruitIQ | AWS Python Developer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7eb62ed22823ef00) | 2026-04-02 17:42 |
-| Global Payments | Senior Software Engineer (Full Stack Developer) -In office, Alpharetta, GA | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d66615c03a2ee5f5) | 2026-04-02 17:42 |
-| Legacy Food Group | Data Engineer | Iowa City, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=38527d810c85ba5f) | 2026-04-02 17:42 |
-| Capgemini | Data Architect - Databricks | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ac4e591f657264f) | 2026-04-02 17:42 |
-| Capgemini | AWS SageMaker Data Scientist | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d132dfef0009f8e) | 2026-04-02 17:42 |
-| HB Mechanical Group | Data Platform Developer | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8fefc4462aa78fa) | 2026-04-02 17:42 |
 
 
 ---
