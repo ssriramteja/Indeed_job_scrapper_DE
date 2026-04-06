@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-06 10:01
+Last updated: 2026-04-06 11:42
 
 ### 🚀 Daily Job Matches
 
@@ -218,11 +218,6 @@ Last updated: 2026-04-06 10:01
 | Consertus | Junior Integration Developer | Guaynabo, PR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24e14330f4b7345b) | 2026-04-02 15:53 |
 | TAXI & LIMOUSINE COMMISSION | Data Engineer | Manhattan, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf9f61209bb4a310) | 2026-04-02 14:18 |
 | InterImage | AI Engineer | Annapolis Junction, MD, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7b5cd9ecf25f6cbb) | 2026-04-02 12:52 |
-| SG360 | AWS Data Engineer | Wheeling, IL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=8a6cf659d35d5289) | 2026-04-02 10:44 |
-| Tata Consultancy Services (TCS) | Data Architect | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=244478743fd45c43) | 2026-04-02 10:44 |
-| JPMorganChase | Software Engineer III - Full Stack Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0a9bac7d17ad25cf) | 2026-04-02 10:44 |
-| Texas Health and Human Services Commission | Cloud Data Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=37dd687fff009d5b) | 2026-04-02 10:44 |
-| Texas Health and Human Services Commission | Data Analyst IV - Advanced Analytics & Reporting - 100% remote | Plainview, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87865932a988f1fc) | 2026-04-02 10:44 |
 
 
 ---
