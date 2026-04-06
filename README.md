@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-06 22:27
+Last updated: 2026-04-06 23:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| United Concordia Dental | Senior Data Engineer – Streaming, Analytics & Visualization | PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c44885cba017a052) | 2026-04-06 23:28 |
+| nan | AI Solutions Architect - Founding | West Palm Beach, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dad27261ac45880f) | 2026-04-06 23:28 |
+| Koya Consulting | Java Backend Engineer | Sunnyvale, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=72cf88180937d8f9) | 2026-04-06 23:28 |
+| Diné Development Corporation | Analytics / Data Engineer | Dayton, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c95daa9d3325b0e6) | 2026-04-06 23:28 |
+| Diné Development Corporation | Analytics / Data Engineer | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b61231aa2a194a10) | 2026-04-06 23:28 |
+| Cummins | Data Engineer | IN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb06ddb826f8d860) | 2026-04-06 23:28 |
+| Evercommerce | EverHealth – Senior Data Engineer (Remote, US) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=606cdb554cde0461) | 2026-04-06 23:28 |
+| FireMon | DevOps Engineer | Kansas City, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5a9f14ac4c33a585) | 2026-04-06 23:28 |
+| Butler Till | Analytics Data Engineer II | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb30244a11aaad6a) | 2026-04-06 23:28 |
+| Capgemini | Junior Automation Tester (AI enabled Testing) | Bridgewater, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=31c5a628a0bbcd11) | 2026-04-06 23:28 |
+| Labcorp | Senior Data Scientist | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df4b1cc4ed807ce6) | 2026-04-06 23:28 |
+| Capgemini | Junior Automation Tester (AI enabled Testing) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f99abb391ef4c38f) | 2026-04-06 23:28 |
+| Capgemini | Junior Automation Tester (AI enabled Testing) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85aec2fe5dbdec6e) | 2026-04-06 23:28 |
 | Acxiom | Intern - Data Engineer - Summer 2026 | Conway, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=338baa6df1016586) | 2026-04-06 22:27 |
 | JPMorganChase | Software Engineer III - Full Stack + AWS + Elastic / Open Search | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0ce76eb1050277d8) | 2026-04-06 22:27 |
 | Careficient | Healthcare Application Developer (AWS / Clinical AI) | Kansas City, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=76e0e8781165273c) | 2026-04-06 22:27 |
@@ -207,11 +220,6 @@ Last updated: 2026-04-06 22:27
 | WEALTHCOUNSEL LLC | Junior Software Developer (Virtual, Full Time) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d6e4bc2f2ae96ba) | 2026-04-03 01:25 |
 | nan | Software Engineer (Part-time Contracted) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1baa3c7f5936cb42) | 2026-04-03 01:25 |
 | Technology Ventures | Data/Modeling Engineer V | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c47cbacfde96e81) | 2026-04-03 01:25 |
-| AGORA Data, Inc. | DevOps Engineer | Arlington, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=31eb271fe420d45b) | 2026-04-02 23:26 |
-| Capgemini | Senior Data Engineer - Snowflake | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f93df4671eb35854) | 2026-04-02 23:26 |
-| The Church of Jesus Christ of Latter-day Saints | Engineer 2 (Full-Time) - Special Projects Department | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b3cce96ea0c7ff3) | 2026-04-02 23:26 |
-| Headspace | Senior Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd766141c2ef3c09) | 2026-04-02 23:26 |
-| Capgemini | Production Support Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2b54dba08b36515) | 2026-04-02 23:26 |
 
 
 ---
