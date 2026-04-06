@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-06
 
-**Total Jobs Found:** 22
+**Total Jobs Found:** 24
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -126,7 +126,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Data Engineering Intern @ Qorvo
+## 12. Senior VR/XR & Computer Vision Software Engineer @ IVN
+**Match Score:** 11.1%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, S3, Scala, PostgreSQL, MySQL, NoSQL, Terraform, AWS CloudFormation, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cfe26087c7f2c3c7)
+
+---
+
+## 13. Sr Java Application Developer **REMOTE AVAILABLE** @ Vanderbilt University Medical Center
+**Match Score:** 11.1%
+
+📍 **Location:** Nashville, TN, US USA
+
+🔑 **Keywords:** EMR, RDS, Azure, Databricks, GCP, Scala, MySQL, MS Excel, CI/CD, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=37699040bc322434)
+
+---
+
+## 14. Data Engineering Intern @ Qorvo
 **Match Score:** 11.1%
 
 📍 **Location:** Richardson, TX, US USA
@@ -137,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Developer – T-SQL, Azure Logic Apps (Remote) @ Realign
+## 15. Developer – T-SQL, Azure Logic Apps (Remote) @ Realign
 **Match Score:** 11.1%
 
 📍 **Location:** OH, US USA
@@ -148,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Software Engineer II - Identity & Access Management @ Klaviyo
+## 16. Software Engineer II - Identity & Access Management @ Klaviyo
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -159,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. AliCloud Engineer @ Vaarida Technologies
+## 17. AliCloud Engineer @ Vaarida Technologies
 **Match Score:** 10.4%
 
 📍 **Location:** Cupertino, CA, US USA
@@ -170,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Data Analytics Engineer @ Salt Dental Partners
+## 18. Data Analytics Engineer @ Salt Dental Partners
 **Match Score:** 10.4%
 
 📍 **Location:** Franklin, TN, US USA
@@ -181,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Devops Engineer-1 @ Realign
+## 19. Devops Engineer-1 @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** Irvine, CA, US USA
@@ -192,7 +214,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. UI/UX Engineer @ NIKSUN, Inc.
+## 20. Workday Consultant @ Tardus inc
+**Match Score:** 10.4%
+
+📍 **Location:** Sunnyvale, CA, US USA
+
+🔑 **Keywords:** AWS, Azure, PostgreSQL, MySQL, CI/CD, Jenkins, Kubernetes, Jenkins, Git, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=404fb8b0e1fceb3e)
+
+---
+
+## 21. UI/UX Engineer @ NIKSUN, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Princeton, NJ, US USA
@@ -203,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Senior Engineer @ GEICO
+## 22. Senior Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -214,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Senior Engineer @ GEICO
+## 23. Senior Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -225,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior Engineer @ GEICO
+## 24. Senior Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -233,17 +266,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=a0d95f3260031a05)
-
----
-
-## 22. Workday Consultant @ Tardus inc
-**Match Score:** 10.4%
-
-📍 **Location:** Sunnyvale, CA, US USA
-
-🔑 **Keywords:** AWS, Azure, PostgreSQL, MySQL, CI/CD, Jenkins, Kubernetes, Jenkins, Git, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=404fb8b0e1fceb3e)
 
 ---
 

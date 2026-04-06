@@ -1,15 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-06 19:46
+Last updated: 2026-04-06 20:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| IVN | Senior VR/XR & Computer Vision Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cfe26087c7f2c3c7) | 2026-04-06 20:30 |
+| Vanderbilt University Medical Center | Sr Java Application Developer **REMOTE AVAILABLE** | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=37699040bc322434) | 2026-04-06 20:30 |
 | RadCube | DataOps Engineer | Indianapolis, IN, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=31364c52fe931267) | 2026-04-06 19:46 |
 | OneMagnify | Senior Data Architect | MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c213109ba33f094f) | 2026-04-06 19:46 |
 | GAINSCO | Enterprise Data Architect | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=322e0a73c296fcdc) | 2026-04-06 19:46 |
-| Tailored Edge Connections  | IT System Administrator | North Aurora, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f856c765cc7cbf0f) | 2026-04-06 19:46 |
+| Tailored Edge Connections | IT System Administrator | North Aurora, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f856c765cc7cbf0f) | 2026-04-06 19:46 |
 | Qorvo | Data Engineering Intern | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4d4176ecd7b00cdf) | 2026-04-06 19:46 |
 | Klaviyo | Software Engineer II - Identity & Access Management | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2429610d97c33cfd) | 2026-04-06 19:46 |
 | The Cigna Group | Software Engineering Advisor –Evernorth | Bloomington, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d6e200e992325ba5) | 2026-04-06 18:44 |
@@ -215,11 +217,6 @@ Last updated: 2026-04-06 19:46
 | AAA Central Penn | Business Intelligence Analyst | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e680956ea7cc6ed2) | 2026-04-02 21:29 |
 | Tata Consultancy Services (TCS) | Devops Engineer | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=739805211e355e27) | 2026-04-02 21:29 |
 | Tata Consultancy Services (TCS) | OIPA Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=72569a8cf3b78803) | 2026-04-02 21:29 |
-| NTT DATA | Azure Databricks and Oracle Tester | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=69623f6f14f8d6ba) | 2026-04-02 20:27 |
-| AdvisorEngine | Senior DevOps Engineer (Contract) | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d325f0fea0c6b85d) | 2026-04-02 20:27 |
-| Transaction Network Services | Sr. Software DB Development Engineer | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27dddd28375427c7) | 2026-04-02 20:27 |
-| Symhas | Data Scientist | Pleasanton, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be223724b244509d) | 2026-04-02 20:27 |
-| Tulane University | Infrastructure Engineer III | New Orleans, LA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=57b514b093e0ce21) | 2026-04-02 20:27 |
 
 
 ---
