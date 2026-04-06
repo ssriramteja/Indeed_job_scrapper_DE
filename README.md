@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-05 23:25
+Last updated: 2026-04-06 01:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Paramount | Sr Data Engineer | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1bf73fd986d212e6) | 2026-04-06 01:29 |
+| Salt Dental Partners | Data Analytics Engineer | Franklin, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21381131f52aaafb) | 2026-04-06 01:29 |
 | Reston Hospital Center - Reston | Product Architect Google Cloud Platform | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9800f97130992c45) | 2026-04-05 17:23 |
 | Catholic Medical Center | Product Architect Google Cloud Platform | Manchester, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dfe8d6c036c24b4) | 2026-04-05 17:23 |
 | clickhouse | Senior Software Engineer - Python and Data Ecosystem | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c1ce06c12c2400c) | 2026-04-05 14:28 |
@@ -239,33 +241,6 @@ Last updated: 2026-04-05 23:25
 | Fidelity TalentSource | System Engineer (Application and Batch) | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=089406942f32d443) | 2026-04-02 04:22 |
 | Boeing | Google Cloud Platform DevOps Developer 5 (contract) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb900ba4e1c65b40) | 2026-04-02 04:22 |
 | Los Angeles Apparel | Backend Developer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d4b0847bf4491fe) | 2026-04-02 04:22 |
-| VENERABLE | Associate Software Developer | West Chester, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5bc33f96a7d635cd) | 2026-04-02 01:23 |
-| American Express | Senior Software Engineer ll - Java - Web Search Team | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=13715d715f12d9c7) | 2026-04-02 01:23 |
-| Rincon Consultants | Data & Analytics Engineer (Microsoft Fabric) | Ventura, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=11cdaaeb02e957b7) | 2026-04-02 01:23 |
-| NCCPA | Data Warehouse Developer II | Johns Creek, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=731a3d4204cfe8c3) | 2026-04-02 01:23 |
-| Webster University | Senior Data Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=80d78630564d819e) | 2026-04-02 01:23 |
-| Convey Health Solutions | Senior Data Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dca247a6ddeb8db5) | 2026-04-02 01:23 |
-| Real Time Technologies | Full Stack Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fd9392a167ac0af3) | 2026-04-02 01:23 |
-| GEICO | Senior Engineer - Java | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=98bcbec2246e7e18) | 2026-04-02 01:23 |
-| SAP | Senior Java Engineer - Search Platform | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef60e87d626ac4a7) | 2026-04-02 01:23 |
-| Realign | ML Engineer / AI Operations | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4be22268f3b3617e) | 2026-04-02 01:23 |
-| Centric Consulting | Senior Java Engineer (Microservices & Cloud) | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f4140d39a03bf0c) | 2026-04-02 01:23 |
-| The Baldwin Group | Sr. Data Engineer | Tampa, FL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=069c52ba8f86fa9a) | 2026-04-01 23:29 |
-| Worldpay | Senior Data Engineer | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9da22ae229ae1ed1) | 2026-04-01 23:29 |
-| Capgemini | DevOps Engineer with OpenShift Experience | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b83c5b7a778f6743) | 2026-04-01 23:29 |
-| ServiceTitan | Senior Cloud Security Engineer | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6431593ad2d894f2) | 2026-04-01 23:29 |
-| SHI International | Solutions Engineer - Data Engineering | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d72cdd5c1b40ec16) | 2026-04-01 23:29 |
-| Trimble | Senior AI Software Engineer | Lake Oswego, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f33e389dcc2b7891) | 2026-04-01 23:29 |
-| Openkyber | Cognos Optimization Specialist | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69201f5451e21bf3) | 2026-04-01 23:29 |
-| U.S. Bank | Sofware Engineer - 2 (Full Stack Java + Oracle Database) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b211924cfd00cb15) | 2026-04-01 23:29 |
-| Openkyber | Data Engineering & Integration | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=752b484810893d86) | 2026-04-01 23:29 |
-| Openkyber | Cognos Business Intelligence Analyst | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb93d64bc5d3b638) | 2026-04-01 23:29 |
-| SHI International | Solutions Engineer - Data Visualization | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=375b478d9e0a233b) | 2026-04-01 23:29 |
-| The University of Michigan | App Sys Analysis/Prgmming Mgr | Ann Arbor, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13dee544bdc70bb6) | 2026-04-01 23:29 |
-| Openkyber | Administration & Infrastructure | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ae59d4b6408a04b) | 2026-04-01 23:29 |
-| Openkyber | Administration & Infrastructure | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0ce9084953b8335) | 2026-04-01 23:29 |
-| Openkyber | Administration & Infrastructure | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b944869c6bc2e2ec) | 2026-04-01 23:29 |
-| Searchpros Staffing | Google Cloud Platform (GCP) Site Reliability Engineer (SRE) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43afc506f9234f19) | 2026-04-01 23:29 |
 
 
 ---
