@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-06 18:44
+Last updated: 2026-04-06 19:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| RadCube | DataOps Engineer | Indianapolis, IN, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=31364c52fe931267) | 2026-04-06 19:46 |
+| OneMagnify | Senior Data Architect | MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c213109ba33f094f) | 2026-04-06 19:46 |
+| GAINSCO | Enterprise Data Architect | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=322e0a73c296fcdc) | 2026-04-06 19:46 |
+| Tailored Edge Connections  | IT System Administrator | North Aurora, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f856c765cc7cbf0f) | 2026-04-06 19:46 |
+| Qorvo | Data Engineering Intern | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4d4176ecd7b00cdf) | 2026-04-06 19:46 |
+| Klaviyo | Software Engineer II - Identity & Access Management | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2429610d97c33cfd) | 2026-04-06 19:46 |
 | The Cigna Group | Software Engineering Advisor –Evernorth | Bloomington, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d6e200e992325ba5) | 2026-04-06 18:44 |
 | Health Business Solutions | LLM Operations Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=29f380b4ee93c576) | 2026-04-06 18:44 |
 | Realign | Resiliency & Recovery Engineer-1 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c68a7783ebf554b) | 2026-04-06 18:44 |
@@ -214,10 +220,6 @@ Last updated: 2026-04-06 18:44
 | Transaction Network Services | Sr. Software DB Development Engineer | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27dddd28375427c7) | 2026-04-02 20:27 |
 | Symhas | Data Scientist | Pleasanton, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be223724b244509d) | 2026-04-02 20:27 |
 | Tulane University | Infrastructure Engineer III | New Orleans, LA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=57b514b093e0ce21) | 2026-04-02 20:27 |
-| Allstate Insurance | Product Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7b0895dce8e54cd9) | 2026-04-02 19:43 |
-| Gallagher | Data Engineer | Rolling Meadows, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=88f6d60e8f8c8637) | 2026-04-02 19:43 |
-| Magna International | Sr. Software Engineer - Backend | Lowell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=80f0b473fc9d61ce) | 2026-04-02 19:43 |
-| Wipro | DEVELOPER L3 | East Brunswick, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=572120ce80028ef5) | 2026-04-02 19:43 |
 
 
 ---
