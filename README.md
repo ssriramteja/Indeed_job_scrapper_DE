@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-06 01:29
+Last updated: 2026-04-06 04:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| PlayStation | Software Engineer II, Data Platform | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1696f58952c74ca) | 2026-04-06 04:38 |
 | Paramount | Sr Data Engineer | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1bf73fd986d212e6) | 2026-04-06 01:29 |
 | Salt Dental Partners | Data Analytics Engineer | Franklin, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21381131f52aaafb) | 2026-04-06 01:29 |
 | Reston Hospital Center - Reston | Product Architect Google Cloud Platform | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9800f97130992c45) | 2026-04-05 17:23 |
@@ -231,16 +232,6 @@ Last updated: 2026-04-06 01:29
 | GEICO | Software Engineer II (C#) - Substantiation Platform - Hybrid | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=601af57d4756727c) | 2026-04-02 08:00 |
 | GEICO | Software Engineer II (C#) - Substantiation Platform - Hybrid | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=987d4b774583d481) | 2026-04-02 08:00 |
 | Zendesk | Senior Machine Learning Engineer - Hybrid (San Francisco or Austin) | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c190a827f8e23b77) | 2026-04-02 06:07 |
-| VTG Defense | Systems Engineer | Tysons Corner, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=eb7f22df90a85481) | 2026-04-02 04:22 |
-| Boeing | Senior Computing Architect | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cd11c2a087aa2519) | 2026-04-02 04:22 |
-| VTG Defense | Database Engineer | Tysons Corner, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=57ae5008128b54d1) | 2026-04-02 04:22 |
-| DriveTime Automotive Group | Data Engineer | Tempe, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e0520b2e91ff1af7) | 2026-04-02 04:22 |
-| Phoenix Rescue Mission | Independent Contractor (1099) – Data Engineer | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bc7bacc26a56bf13) | 2026-04-02 04:22 |
-| Intone Networks | Software Engineer (L2, Java, SQL) | Merrimack, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7a72155de26728e1) | 2026-04-02 04:22 |
-| Motive | Data Engineer New | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c39b2953f289c6f) | 2026-04-02 04:22 |
-| Fidelity TalentSource | System Engineer (Application and Batch) | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=089406942f32d443) | 2026-04-02 04:22 |
-| Boeing | Google Cloud Platform DevOps Developer 5 (contract) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb900ba4e1c65b40) | 2026-04-02 04:22 |
-| Los Angeles Apparel | Backend Developer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d4b0847bf4491fe) | 2026-04-02 04:22 |
 
 
 ---

@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-06
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -23,11 +23,22 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 🔑 **Keywords:** AWS, Kinesis, SQS, RDS, Databricks, GCP, Spark, Scala, Kafka, ETL
 
+[Apply Here](https://www.indeed.com/viewjob?jk=f1696f58952c74ca)
+
+---
+
+## 3. Software Engineer II, Data Platform @ PlayStation
+**Match Score:** 11.1%
+
+📍 **Location:** San Diego, CA, US USA
+
+🔑 **Keywords:** AWS, Kinesis, SQS, RDS, Databricks, GCP, Spark, Scala, Kafka, ETL
+
 [Apply Here](https://www.indeed.com/viewjob?jk=863b993691d43dcd)
 
 ---
 
-## 3. Software Engineer III – Big Data & Analytics @ JPMorganChase
+## 4. Software Engineer III – Big Data & Analytics @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Python Engineer, Senior Associate @ JPMorganChase
+## 5. Python Engineer, Senior Associate @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Backend Engineer – Node.js & Microservices @ axiusSoftware
+## 6. Senior Backend Engineer – Node.js & Microservices @ axiusSoftware
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Analytics Engineer @ Salt Dental Partners
+## 7. Data Analytics Engineer @ Salt Dental Partners
 **Match Score:** 10.4%
 
 📍 **Location:** Franklin, TN, US USA
