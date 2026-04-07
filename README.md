@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-07 13:04
+Last updated: 2026-04-07 15:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ryan Companies US, Inc. | Data Engineer | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0c2d695977c000b8) | 2026-04-07 15:00 |
+| nan | Sr. ETL / Python Developer -Remote W2 role | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=06b0c37814b35ab9) | 2026-04-07 15:00 |
+| Ford Motor Company | Tech Anchor | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3343fdcb2c8d20e) | 2026-04-07 15:00 |
+| nan | Senior Tableau / Python Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=76bb466b98df6c5a) | 2026-04-07 15:00 |
+| Everseen | DevOps Engineer II | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b77818b9d286f244) | 2026-04-07 15:00 |
+| Everseen | DevOps Engineer II | Dulles, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa9d7c3843522209) | 2026-04-07 15:00 |
+| NavitasPartners | Systems Analyst 3 (Databricks Administrator) - 26-03494 | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d9ea863f4f9492f8) | 2026-04-07 15:00 |
+| NavitasPartners | Systems Analyst 3 (Databricks Administrator) - 26-03494 | Georgetown, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1569defd5f50c3a3) | 2026-04-07 15:00 |
+| NavitasPartners | Systems Analyst 3 (Databricks Administrator) - 26-03494 | Cedar Park, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=402ecae3cd52bd44) | 2026-04-07 15:00 |
+| NavitasPartners | Systems Analyst 3 (Databricks Administrator) - 26-03494 | Round Rock, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac4db862200c432b) | 2026-04-07 15:00 |
+| Koch | Senior Platform Engineer | Wichita, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1c4217e34fe61343) | 2026-04-07 15:00 |
+| Koch | Senior Platform Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc11b54459d6fd35) | 2026-04-07 15:00 |
+| Koch | Senior Platform Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d502aa87884ef6ba) | 2026-04-07 15:00 |
+| Elekta | Software Quality Engineer - San Jose, CA | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8af71e9cc8f145e5) | 2026-04-07 15:00 |
 | FocusPointSAP | Senior .NET / Azure Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa90f9fbfea59005) | 2026-04-07 13:04 |
 | Dell Technologies | Senior Systems Engineer, UDS Data Management - East | MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=298a46f851ea7983) | 2026-04-07 11:56 |
 | Info Dhas Technologies | Data Engineer | Texas City, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d89d6f2341484cb3) | 2026-04-07 11:56 |
@@ -203,8 +217,6 @@ Last updated: 2026-04-07 13:04
 | AECOM | Senior Software Engineer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=67d360025ad1e8d3) | 2026-04-03 16:30 |
 | Experian | Data Engineer - Healthcare (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d54f977f3210b68) | 2026-04-03 16:30 |
 | Nomad Temporary Housing | DevOps / API Engineer — Mid-Level | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6e41e92d4cf6048b) | 2026-04-03 15:34 |
-| United States Cold Storage | Data Engineer | Camden, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=822de5b31b41394f) | 2026-04-03 14:40 |
-| GHK Technologies Inc. | Databricks AI Developer / Architect | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f146b67b9249aaee) | 2026-04-03 13:58 |
 
 
 ---
