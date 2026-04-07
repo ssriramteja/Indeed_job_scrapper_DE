@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-07 20:38
+Last updated: 2026-04-07 21:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Kalibri Labs | Machine Learning Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2bba97db261f795c) | 2026-04-07 21:36 |
+| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-07 21:36 |
+| NIKE | Software Engineer | Beaverton, OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee9babfbe8996948) | 2026-04-07 21:36 |
+| Florence HC | Data Architect New | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5097124275f0ddf7) | 2026-04-07 21:36 |
+| TRM Labs | Senior Software Engineer, Data Product | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f87b374f5fadc643) | 2026-04-07 21:36 |
+| Aires | Senior Software Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24a00011c009f4a8) | 2026-04-07 21:36 |
+| nSCALE | Data Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0779ded6bb449220) | 2026-04-07 21:36 |
+| nSCALE | Data Engineer | Barstow, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=efdadd031f04e3df) | 2026-04-07 21:36 |
+| Propio LS LLC | Data Engineer II | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dddc21bb28ed1d22) | 2026-04-07 21:36 |
+| NTT DATA | API Architect (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d9c6043097083ea) | 2026-04-07 21:36 |
 | AVN Corporation | Software Developer II | Charleston, WV, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=358914e57d4bcf85) | 2026-04-07 20:38 |
 | Calabrio | Principle Engineer, Software | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8dbd418fd5773133) | 2026-04-07 20:38 |
 | Interactive Resources | Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ec427062b528812) | 2026-04-07 20:38 |
@@ -203,10 +213,6 @@ Last updated: 2026-04-07 20:38
 | Strava | Senior Machine Learning Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=50b8523ec10ba432) | 2026-04-03 22:25 |
 | NTT DATA | AWS Full Stack React Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e210ae383840f90) | 2026-04-03 22:25 |
 | Strava | Machine Learning Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79fc3a4f134e9a9d) | 2026-04-03 22:25 |
-| Equifax | Software Engineer - Career | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=220d00b675eb18d6) | 2026-04-03 21:25 |
-| Equifax | Software Engineer - Career | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=00569d3fe30ccfef) | 2026-04-03 21:25 |
-| Primrose Schools | Date Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5b2ef71651c5aceb) | 2026-04-03 21:25 |
-| Tata Consultancy Services (TCS) | Resiliency and Recovery Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f04ba60584c2ed0f) | 2026-04-03 21:25 |
 
 
 ---
