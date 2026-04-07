@@ -1,13 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-07 22:30
+Last updated: 2026-04-07 23:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| U.S. Bank | Senior Cloud Data Engineer – Multi‑Cloud Data Platforms | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=650fc9401231f8ed) | 2026-04-07 23:30 |
+| U.S. Bank | Senior Cloud Data Engineer – Multi‑Cloud Data Platforms | Irving, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c3bdaecfc78dc80f) | 2026-04-07 23:30 |
+| U.S. Bank | Senior Cloud Data Engineer – Multi‑Cloud Data Platforms | Hopkins, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6b3c59588504de4c) | 2026-04-07 23:30 |
+| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-07 23:30 |
+| Keurig Dr Pepper | Senior Data Engineer | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d61b6eca49fa2fe) | 2026-04-07 23:30 |
+| Integrity Marketing Group | Senior Data Scientist | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4b528d73f04fa196) | 2026-04-07 23:30 |
+| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05b443f66d69fe26) | 2026-04-07 23:30 |
 | Crane Worldwide Logistics | Sr. Data Engineer | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=86039d37dfab9cce) | 2026-04-07 22:30 |
-| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-07 22:30 |
 | nan | Senior Data Architect | Prosper, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4f52058e1d9e1079) | 2026-04-07 22:30 |
 | WTW | AI First Senior Software Engineer | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=60512437ff26ed1a) | 2026-04-07 22:30 |
 | WTW | AI First Senior Software Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fb97ff98a1ad5a4b) | 2026-04-07 22:30 |
@@ -206,10 +212,6 @@ Last updated: 2026-04-07 22:30
 | Transmedics | .Enterprise Architect (Contract) | Andover, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca9d4882bd119809) | 2026-04-04 01:19 |
 | Realign | ML Engineer / AI Operations-2 | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=389562e8f66ac66e) | 2026-04-04 01:19 |
 | Realign | Resiliency & Recovery Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=729488692c54a957) | 2026-04-04 01:19 |
-| Lennar | Data Engineer II | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=1f55092532d7ddf1) | 2026-04-03 23:26 |
-| Lennar | Data Engineer II | Miami, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=95bb767017596ae0) | 2026-04-03 23:26 |
-| Helixtachinc | Data Engineer | New Paltz, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b6e6f748f71d699e) | 2026-04-03 23:26 |
-| Sarah Cannon Research Institute | Senior Data Engineer | TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ced70cae485e9d61) | 2026-04-03 23:26 |
 
 
 ---
