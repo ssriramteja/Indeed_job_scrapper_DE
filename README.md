@@ -1,12 +1,11 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-07 08:07
+Last updated: 2026-04-07 10:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Tech Anchor | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3343fdcb2c8d20e) | 2026-04-07 08:07 |
 | Tri-State Generation & Transmission | IT Data Analytics Engineer I, II, III or Senior | Westminster, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bfdecf8fd48b4c94) | 2026-04-07 08:07 |
 | Atmosera | Senior Consultant - Data & AI (Microsoft Fabric) (Remote - US) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e9732977f36a28c) | 2026-04-07 08:07 |
 | NYU Langone Health | ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f03a531b79570462) | 2026-04-07 08:07 |
@@ -206,14 +205,6 @@ Last updated: 2026-04-07 08:07
 | Intellitech llc | Senior Data AI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1cd148978fc2ece) | 2026-04-03 12:42 |
 | Booz Allen Hamilton | Product Software Engineer | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9347a5ea2f79808) | 2026-04-03 11:32 |
 | The Data Sherpas | Data Engineer - AWS (Snowflake) | Philadelphia, PA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=c7bcfb79ed1af62a) | 2026-04-03 10:36 |
-| JPMorganChase | Data Software Engineer II | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6ff122e6a11cd0fb) | 2026-04-03 09:45 |
-| FICO | Sr Software Engineer (Java, Streaming) | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2a372f8c9082d5c3) | 2026-04-03 09:45 |
-| FICO | Software Engineer II (Java, Streaming) | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16644732acad479c) | 2026-04-03 09:45 |
-| JPMorganChase | Machine Learning Engineer - Senior Associate | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eceb4a922e2b88e0) | 2026-04-03 09:45 |
-| Wells Fargo | Senior Software Engineer | Chandler, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3346865856cd824d) | 2026-04-03 08:49 |
-| Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da775dac4a2cc346) | 2026-04-03 08:49 |
-| Wells Fargo | Senior Software Engineer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d66bbd4baf507c67) | 2026-04-03 08:49 |
-| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0869394e4881bc5) | 2026-04-03 08:49 |
 
 
 ---
