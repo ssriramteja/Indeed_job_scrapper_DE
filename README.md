@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-07 18:51
+Last updated: 2026-04-07 19:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ProfitSolv | AI Data Engineer - Remote | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7c32b89e8538ed48) | 2026-04-07 19:52 |
+| ProfitSolv | AI Data Engineer - Remote | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d8627a591401b5c2) | 2026-04-07 19:52 |
+| ProfitSolv | AI Data Engineer - Remote | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=14597be3e3d5d6c5) | 2026-04-07 19:52 |
+| SAP | Senior Platform Infrastructure Engineer | San Ramon, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a550b10b06b0495e) | 2026-04-07 19:52 |
+| Results Generation | Cloud DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9234cb66e9a7e360) | 2026-04-07 19:52 |
+| Sigma Computing | Technical Recruiter - AI Engineering | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=97f05de2af000d3d) | 2026-04-07 19:52 |
+| National Public Radio | Software Engineer, Product & Audience Technology | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd6630164ce06047) | 2026-04-07 19:52 |
+| Defense Unicorns | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cd99e31ec539b3e) | 2026-04-07 19:52 |
+| Kash Tech | Business Intelligence Architect | Lake Mary, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d669d17cd5da84b8) | 2026-04-07 19:52 |
 | Acrisure LLC | Senior Software Engineer, Data | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=12300277485ff36c) | 2026-04-07 17:51 |
 | Acrisure LLC | Software Engineer, Data (L2) | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=53c02ec3fd535863) | 2026-04-07 17:51 |
 | mPower Software Services | Senior Systems Architect | Baltimore, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=378ab062dadbd830) | 2026-04-07 17:51 |
@@ -193,7 +202,6 @@ Last updated: 2026-04-07 18:51
 | Optum | Senior Software Engineer - Remote | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=36e60b0d6d032f03) | 2026-04-03 20:26 |
 | Booz Allen Hamilton | Corporate AI and Machine Learning Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f75c774b709e20c3) | 2026-04-03 20:26 |
 | NewCourse Communications | Senior Cloud Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=109deef0eb13765e) | 2026-04-03 20:26 |
-| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ef3db75965d2a75) | 2026-04-03 19:33 |
 
 
 ---
