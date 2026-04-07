@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-07 17:51
+Last updated: 2026-04-07 18:51
 
 ### 🚀 Daily Job Matches
 
@@ -194,13 +194,6 @@ Last updated: 2026-04-07 17:51
 | Booz Allen Hamilton | Corporate AI and Machine Learning Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f75c774b709e20c3) | 2026-04-03 20:26 |
 | NewCourse Communications | Senior Cloud Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=109deef0eb13765e) | 2026-04-03 20:26 |
 | Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ef3db75965d2a75) | 2026-04-03 19:33 |
-| TECHSTRA SOLUTIONS | Full Stack Java Developer - (Senior) | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b734a39dfcced490) | 2026-04-03 18:35 |
-| GM Financial | Software Development Engineer II | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=56c571fa26321ee6) | 2026-04-03 18:35 |
-| Chesapeake Utilities Corporation | Senior Power BI Developer | Newark, DE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d7cd05c20de1f2b) | 2026-04-03 18:35 |
-| Innovien Solutions | Data Engineer – AI & Cloud Platforms – Nearshore | Farmington, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1c9b6ed746664268) | 2026-04-03 18:35 |
-| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6e5fd7d586fc25a) | 2026-04-03 18:35 |
-| Chesapeake Utilities Corporation | Power BI Developer | Newark, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=15fd986335447e67) | 2026-04-03 18:35 |
-| Realign | Devops Engineer | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79f6e0cadd7e964a) | 2026-04-03 18:35 |
 
 
 ---
