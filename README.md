@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-07 19:52
+Last updated: 2026-04-07 20:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| AVN Corporation | Software Developer II | Charleston, WV, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=358914e57d4bcf85) | 2026-04-07 20:38 |
+| Calabrio | Principle Engineer, Software | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8dbd418fd5773133) | 2026-04-07 20:38 |
+| Interactive Resources | Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ec427062b528812) | 2026-04-07 20:38 |
+| nan | AI Mobile Developer / Co-Founder | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=85b154d3da56d200) | 2026-04-07 20:38 |
+| Aimpoint Digital | Senior Applications Engineer 2026- US, UK | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d0103d47ad6f0344) | 2026-04-07 20:38 |
+| Conagra Brands | Sr. Data Engineer | Omaha, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=484671a3aa025748) | 2026-04-07 20:38 |
+| Intelerad | Site Reliability Specialist III - MS SQL / Medical Imaging Systems | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3f2b810200a5f10) | 2026-04-07 20:38 |
+| Conagra Brands | Sr. Cloud/Software Engineer | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d4328781e85345ce) | 2026-04-07 20:38 |
+| Conagra Brands | Cloud/Software Engineer | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=080165bfea0f1891) | 2026-04-07 20:38 |
+| MCKIM & CREED | Corporate Data Engineering Specialist | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ceb2d6fbfda4c4a3) | 2026-04-07 20:38 |
 | ProfitSolv | AI Data Engineer - Remote | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7c32b89e8538ed48) | 2026-04-07 19:52 |
 | ProfitSolv | AI Data Engineer - Remote | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d8627a591401b5c2) | 2026-04-07 19:52 |
 | ProfitSolv | AI Data Engineer - Remote | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=14597be3e3d5d6c5) | 2026-04-07 19:52 |
@@ -197,11 +207,6 @@ Last updated: 2026-04-07 19:52
 | Equifax | Software Engineer - Career | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=00569d3fe30ccfef) | 2026-04-03 21:25 |
 | Primrose Schools | Date Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5b2ef71651c5aceb) | 2026-04-03 21:25 |
 | Tata Consultancy Services (TCS) | Resiliency and Recovery Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f04ba60584c2ed0f) | 2026-04-03 21:25 |
-| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=04d79ae6e8911cec) | 2026-04-03 20:26 |
-| Fidelity TalentSource | Senior AWS Cloud Developer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28d495042e92610a) | 2026-04-03 20:26 |
-| Optum | Senior Software Engineer - Remote | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=36e60b0d6d032f03) | 2026-04-03 20:26 |
-| Booz Allen Hamilton | Corporate AI and Machine Learning Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f75c774b709e20c3) | 2026-04-03 20:26 |
-| NewCourse Communications | Senior Cloud Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=109deef0eb13765e) | 2026-04-03 20:26 |
 
 
 ---
