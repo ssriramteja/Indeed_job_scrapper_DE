@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-07 06:15
+Last updated: 2026-04-07 08:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Tech Anchor | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3343fdcb2c8d20e) | 2026-04-07 08:07 |
+| Tri-State Generation & Transmission | IT Data Analytics Engineer I, II, III or Senior | Westminster, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bfdecf8fd48b4c94) | 2026-04-07 08:07 |
+| Atmosera | Senior Consultant - Data & AI (Microsoft Fabric) (Remote - US) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e9732977f36a28c) | 2026-04-07 08:07 |
+| NYU Langone Health | ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f03a531b79570462) | 2026-04-07 08:07 |
 | CVS Health | Senior Data Engineer | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9d7bd5ee5caf6d9e) | 2026-04-07 06:15 |
 | NTT DATA | Primary Data Architect - Onsite Hybrid | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9e9629f9b5b09640) | 2026-04-07 06:15 |
-| Ford Motor Company | Tech Anchor | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3343fdcb2c8d20e) | 2026-04-07 06:15 |
 | RSM | Healthcare Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6bda29f66d209a22) | 2026-04-07 06:15 |
 | RSM | Healthcare Data Engineer | Des Moines, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=988a005246cd2194) | 2026-04-07 06:15 |
 | RSM | Healthcare Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c4c86386e71ccbf) | 2026-04-07 06:15 |
@@ -211,12 +214,6 @@ Last updated: 2026-04-07 06:15
 | Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da775dac4a2cc346) | 2026-04-03 08:49 |
 | Wells Fargo | Senior Software Engineer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d66bbd4baf507c67) | 2026-04-03 08:49 |
 | Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0869394e4881bc5) | 2026-04-03 08:49 |
-| Scotiabank | Senior Platform Engineer | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e7c58c20e2b53fe0) | 2026-04-03 07:58 |
-| Radwell International | Senior DevOps Engineer | Willingboro, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2e5916fa5737d5ec) | 2026-04-03 07:58 |
-| Health Business Solutions | Machine Learning Operations | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e3e309eb21ff0bbb) | 2026-04-03 07:58 |
-| Skechers | Salesforce Data Cloud Architect | Manhattan Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ba4b07448a9af704) | 2026-04-03 07:58 |
-| Scotiabank | Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=164e35c8e4519a8f) | 2026-04-03 07:58 |
-| University Of Washington | Data Engineer/DBA (Temporary) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=965bdb94e0f24ee4) | 2026-04-03 07:58 |
 
 
 ---
