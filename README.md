@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-07 15:00
+Last updated: 2026-04-07 16:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3832c96b614d30dc) | 2026-04-07 16:13 |
+| SanDisk | Senior Engineer, Software Development, Full Stack | Milpitas, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=feb13148be85e0d4) | 2026-04-07 16:13 |
+| United States Cold Storage | Senior Java Developer | Camden, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e69cc4d6409de612) | 2026-04-07 16:13 |
 | Ryan Companies US, Inc. | Data Engineer | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0c2d695977c000b8) | 2026-04-07 15:00 |
 | nan | Sr. ETL / Python Developer -Remote W2 role | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=06b0c37814b35ab9) | 2026-04-07 15:00 |
-| Ford Motor Company | Tech Anchor | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3343fdcb2c8d20e) | 2026-04-07 15:00 |
 | nan | Senior Tableau / Python Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=76bb466b98df6c5a) | 2026-04-07 15:00 |
 | Everseen | DevOps Engineer II | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b77818b9d286f244) | 2026-04-07 15:00 |
 | Everseen | DevOps Engineer II | Dulles, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa9d7c3843522209) | 2026-04-07 15:00 |
@@ -216,7 +218,6 @@ Last updated: 2026-04-07 15:00
 | AECOM | Senior Software Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9369de31486590d) | 2026-04-03 16:30 |
 | AECOM | Senior Software Engineer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=67d360025ad1e8d3) | 2026-04-03 16:30 |
 | Experian | Data Engineer - Healthcare (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d54f977f3210b68) | 2026-04-03 16:30 |
-| Nomad Temporary Housing | DevOps / API Engineer — Mid-Level | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6e41e92d4cf6048b) | 2026-04-03 15:34 |
 
 
 ---
