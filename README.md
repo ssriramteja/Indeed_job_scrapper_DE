@@ -1,13 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-07 21:36
+Last updated: 2026-04-07 22:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Crane Worldwide Logistics | Sr. Data Engineer | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=86039d37dfab9cce) | 2026-04-07 22:30 |
+| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-07 22:30 |
+| nan | Senior Data Architect | Prosper, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4f52058e1d9e1079) | 2026-04-07 22:30 |
+| WTW | AI First Senior Software Engineer | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=60512437ff26ed1a) | 2026-04-07 22:30 |
+| WTW | AI First Senior Software Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fb97ff98a1ad5a4b) | 2026-04-07 22:30 |
+| Zayo Group | Senior Data Analytics Engineer-Network Data Solutions | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a924d3cf5d03118f) | 2026-04-07 22:30 |
+| Spark Business Works | Data Analyst - Custom Software | Kalamazoo, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=524079054f8f7d18) | 2026-04-07 22:30 |
+| Spark Business Works | Data Analyst - Custom Software | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=93b62ca575690d77) | 2026-04-07 22:30 |
+| Crescent Energy | Senior AI Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16933d29b84666ae) | 2026-04-07 22:30 |
+| Crane Worldwide Logistics | Data Engineer II, Data Products | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d7d3e53b75102974) | 2026-04-07 22:30 |
 | Kalibri Labs | Machine Learning Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2bba97db261f795c) | 2026-04-07 21:36 |
-| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-07 21:36 |
 | NIKE | Software Engineer | Beaverton, OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee9babfbe8996948) | 2026-04-07 21:36 |
 | Florence HC | Data Architect New | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5097124275f0ddf7) | 2026-04-07 21:36 |
 | TRM Labs | Senior Software Engineer, Data Product | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f87b374f5fadc643) | 2026-04-07 21:36 |
@@ -201,18 +210,6 @@ Last updated: 2026-04-07 21:36
 | Lennar | Data Engineer II | Miami, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=95bb767017596ae0) | 2026-04-03 23:26 |
 | Helixtachinc | Data Engineer | New Paltz, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b6e6f748f71d699e) | 2026-04-03 23:26 |
 | Sarah Cannon Research Institute | Senior Data Engineer | TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ced70cae485e9d61) | 2026-04-03 23:26 |
-| Wayfair | Software Engineer II, Pricing Engineering | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a6fa3a57e58f1e08) | 2026-04-03 22:25 |
-| nan | Data Analyst / Programmer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=532d80ca272af0f5) | 2026-04-03 22:25 |
-| Freeway Psychiatry | Developer Salesforce | Union, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7fd64d1c32ba1de8) | 2026-04-03 22:25 |
-| Intellibee Inc | Senior Fullstack Developer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=48f06667bcfd75b5) | 2026-04-03 22:25 |
-| JPMorganChase | Software Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ceb16fbcac8b21d) | 2026-04-03 22:25 |
-| Tommy Car Wash | DevOps Software Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c431c339f092680f) | 2026-04-03 22:25 |
-| Tommy Car Wash | DevOps Software Engineer | Holland, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2f07b81ae5350983) | 2026-04-03 22:25 |
-| JPMorganChase | Data Software Engineer III - ML | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=47e9f7eb8238e51a) | 2026-04-03 22:25 |
-| Zoom Communications | Senior Software Engineer, Zoom Contact Center | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=92d98bc10c1b1155) | 2026-04-03 22:25 |
-| Strava | Senior Machine Learning Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=50b8523ec10ba432) | 2026-04-03 22:25 |
-| NTT DATA | AWS Full Stack React Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e210ae383840f90) | 2026-04-03 22:25 |
-| Strava | Machine Learning Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79fc3a4f134e9a9d) | 2026-04-03 22:25 |
 
 
 ---
