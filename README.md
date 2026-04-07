@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-07 01:27
+Last updated: 2026-04-07 04:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Humana | Senior Cloud Solutions Engineer | KY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1520fe1ff993b458) | 2026-04-07 04:27 |
+| Fidelity TalentSource | Java Full Stack Engineer | Westlake, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8de97150c606b641) | 2026-04-07 04:27 |
+| Ford Motor Company | Tech Anchor | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3343fdcb2c8d20e) | 2026-04-07 04:27 |
+| Tata Consultancy Services (TCS) | Cloud Data Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9dbde110bfeaa84c) | 2026-04-07 04:27 |
+| Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7bf203aa2f13913) | 2026-04-07 04:27 |
 | Metropolitan Commercial Bank | AI Scientist | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=76545ebacbf0ef00) | 2026-04-07 01:27 |
 | Coinbase | Senior Analytics Engineer (Platform - Financial Analytics) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a8ee9996259cb8cd) | 2026-04-07 01:27 |
 | NTT DATA | Primary Data Architect - Onsite Hybrid | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3c539bfe4180a449) | 2026-04-07 01:27 |
@@ -208,18 +213,6 @@ Last updated: 2026-04-07 01:27
 | LIBERTY Dental Plan | Data Engineer | Tustin, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5067351d4fc731d5) | 2026-04-03 06:08 |
 | Love’s Travel Stops | Data Engineer III | Oklahoma City, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6b66f71baeacc2b1) | 2026-04-03 06:08 |
 | Capgemini | GCP GKE- Senior Software Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d44d14612c204824) | 2026-04-03 06:08 |
-| The Data Sherpas | Data Engineer - AWS (Snowflake) | Los Angeles, CA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=66fc8bb22a057543) | 2026-04-03 04:23 |
-| Charles Schwab | Cloud Data Platform Engineer | Austin, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2dccf2233d3cc742) | 2026-04-03 04:23 |
-| Mastercard | Senior Software Engineer | O'Fallon, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=66bbd6b498aedf3d) | 2026-04-03 04:23 |
-| Equifax | Software Engineer | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bfc8635935e24293) | 2026-04-03 04:23 |
-| Pindrop | Senior Software Engineer - Pulse | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b049918e487f3877) | 2026-04-03 04:23 |
-| Insight IT Pty | Devops Engineer | Spring, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6cf4737c1f0453e9) | 2026-04-03 04:23 |
-| Nordstrom | Delivery Platform Software Engineer 1 - Developer Tools Team (Hybrid - Seattle, WA) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8ea2d4097cba0a88) | 2026-04-03 04:23 |
-| Ameriprise Financial | Full Stack Software Engineer | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d89ca98429cd4ed6) | 2026-04-03 04:23 |
-| AMH | Senior Data Engineer | Calabasas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3c6f5901eac2e5fc) | 2026-04-03 04:23 |
-| Mastercard | Senior BizOps Engineer | O'Fallon, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0b341c5698ad644e) | 2026-04-03 04:23 |
-| FujiFilm | Enterprise Architect | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4172cf84d3f86a04) | 2026-04-03 04:23 |
-| KPMG | Associate Engineer, AI Integration Analyst | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9563a5d4e36f2b7a) | 2026-04-03 04:23 |
 
 
 ---
