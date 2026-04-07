@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-06 23:28
+Last updated: 2026-04-07 01:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Metropolitan Commercial Bank | AI Scientist | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=76545ebacbf0ef00) | 2026-04-07 01:27 |
+| Coinbase | Senior Analytics Engineer (Platform - Financial Analytics) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a8ee9996259cb8cd) | 2026-04-07 01:27 |
+| NTT DATA | Primary Data Architect - Onsite Hybrid | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3c539bfe4180a449) | 2026-04-07 01:27 |
+| AMH | Senior Data Engineer | Calabasas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b14638ca94876de4) | 2026-04-07 01:27 |
+| Blue Shield of California | Application Developer, Consultant | El Dorado Hills, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fdc29a015a3c272e) | 2026-04-07 01:27 |
+| Cotiviti | Data Engineer - AI (Spark, Databricks and Healthcare) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b04fae137c25a5f) | 2026-04-07 01:27 |
+| NTT DATA | AWS Full Stack React Developer (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8588279f5d9918c9) | 2026-04-07 01:27 |
 | United Concordia Dental | Senior Data Engineer – Streaming, Analytics & Visualization | PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c44885cba017a052) | 2026-04-06 23:28 |
 | nan | AI Solutions Architect - Founding | West Palm Beach, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dad27261ac45880f) | 2026-04-06 23:28 |
 | Koya Consulting | Java Backend Engineer | Sunnyvale, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=72cf88180937d8f9) | 2026-04-06 23:28 |
@@ -213,13 +220,6 @@ Last updated: 2026-04-06 23:28
 | Mastercard | Senior BizOps Engineer | O'Fallon, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0b341c5698ad644e) | 2026-04-03 04:23 |
 | FujiFilm | Enterprise Architect | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4172cf84d3f86a04) | 2026-04-03 04:23 |
 | KPMG | Associate Engineer, AI Integration Analyst | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9563a5d4e36f2b7a) | 2026-04-03 04:23 |
-| Capstone Logistics, LLC | Sr. Data Engineer | Peachtree Corners, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=488efb485a279681) | 2026-04-03 01:25 |
-| Engineers & Constructors International | Platform Engineer [Data Bricks] | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9ab8193139c1b64e) | 2026-04-03 01:25 |
-| Engineers & Constructors International | Platform Engineer [Data Bricks] | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fe68969ff58c1600) | 2026-04-03 01:25 |
-| Xsolla | Operations Engineer, Baku | AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=004242e0072b4746) | 2026-04-03 01:25 |
-| WEALTHCOUNSEL LLC | Junior Software Developer (Virtual, Full Time) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d6e4bc2f2ae96ba) | 2026-04-03 01:25 |
-| nan | Software Engineer (Part-time Contracted) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1baa3c7f5936cb42) | 2026-04-03 01:25 |
-| Technology Ventures | Data/Modeling Engineer V | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c47cbacfde96e81) | 2026-04-03 01:25 |
 
 
 ---
