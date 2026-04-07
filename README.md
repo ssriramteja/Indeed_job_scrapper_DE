@@ -1,14 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-07 04:27
+Last updated: 2026-04-07 06:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CVS Health | Senior Data Engineer | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9d7bd5ee5caf6d9e) | 2026-04-07 06:15 |
+| NTT DATA | Primary Data Architect - Onsite Hybrid | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9e9629f9b5b09640) | 2026-04-07 06:15 |
+| Ford Motor Company | Tech Anchor | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3343fdcb2c8d20e) | 2026-04-07 06:15 |
+| RSM | Healthcare Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6bda29f66d209a22) | 2026-04-07 06:15 |
+| RSM | Healthcare Data Engineer | Des Moines, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=988a005246cd2194) | 2026-04-07 06:15 |
+| RSM | Healthcare Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c4c86386e71ccbf) | 2026-04-07 06:15 |
+| RSM | Healthcare Data Engineer | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f6cec9afb06f662f) | 2026-04-07 06:15 |
+| RSM | Healthcare Data Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=46106626b8b759d3) | 2026-04-07 06:15 |
+| RSM | Healthcare Data Engineer | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5949fceede281d86) | 2026-04-07 06:15 |
+| NTT DATA | AWS Full Stack React Developer (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e39392a5986a7e5f) | 2026-04-07 06:15 |
 | Humana | Senior Cloud Solutions Engineer | KY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1520fe1ff993b458) | 2026-04-07 04:27 |
 | Fidelity TalentSource | Java Full Stack Engineer | Westlake, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8de97150c606b641) | 2026-04-07 04:27 |
-| Ford Motor Company | Tech Anchor | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3343fdcb2c8d20e) | 2026-04-07 04:27 |
 | Tata Consultancy Services (TCS) | Cloud Data Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9dbde110bfeaa84c) | 2026-04-07 04:27 |
 | Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7bf203aa2f13913) | 2026-04-07 04:27 |
 | Metropolitan Commercial Bank | AI Scientist | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=76545ebacbf0ef00) | 2026-04-07 01:27 |
@@ -208,11 +217,6 @@ Last updated: 2026-04-07 04:27
 | Skechers | Salesforce Data Cloud Architect | Manhattan Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ba4b07448a9af704) | 2026-04-03 07:58 |
 | Scotiabank | Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=164e35c8e4519a8f) | 2026-04-03 07:58 |
 | University Of Washington | Data Engineer/DBA (Temporary) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=965bdb94e0f24ee4) | 2026-04-03 07:58 |
-| NORTHBAY NURSING INSTITUTE | Systems Administrator | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d20d74879398cfe7) | 2026-04-03 06:08 |
-| COMMERCIAL BANK OF CALIFORNIA | Data Engineer | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=69bace1ccc12c172) | 2026-04-03 06:08 |
-| LIBERTY Dental Plan | Data Engineer | Tustin, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5067351d4fc731d5) | 2026-04-03 06:08 |
-| Love’s Travel Stops | Data Engineer III | Oklahoma City, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6b66f71baeacc2b1) | 2026-04-03 06:08 |
-| Capgemini | GCP GKE- Senior Software Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d44d14612c204824) | 2026-04-03 06:08 |
 
 
 ---
