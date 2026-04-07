@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-07 11:56
+Last updated: 2026-04-07 13:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| FocusPointSAP | Senior .NET / Azure Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa90f9fbfea59005) | 2026-04-07 13:04 |
 | Dell Technologies | Senior Systems Engineer, UDS Data Management - East | MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=298a46f851ea7983) | 2026-04-07 11:56 |
 | Info Dhas Technologies | Data Engineer | Texas City, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d89d6f2341484cb3) | 2026-04-07 11:56 |
 | Newpage Digital Healthcare solutions | SR PLATFORM ENGINEER | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4e87bc52fd3cc8c6) | 2026-04-07 11:00 |
@@ -204,8 +205,6 @@ Last updated: 2026-04-07 11:56
 | Nomad Temporary Housing | DevOps / API Engineer — Mid-Level | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6e41e92d4cf6048b) | 2026-04-03 15:34 |
 | United States Cold Storage | Data Engineer | Camden, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=822de5b31b41394f) | 2026-04-03 14:40 |
 | GHK Technologies Inc. | Databricks AI Developer / Architect | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f146b67b9249aaee) | 2026-04-03 13:58 |
-| The Cheesecake Factory | Senior Data Engineer | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ee350682361d2f6b) | 2026-04-03 12:42 |
-| Intellitech llc | Senior Data AI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1cd148978fc2ece) | 2026-04-03 12:42 |
 
 
 ---

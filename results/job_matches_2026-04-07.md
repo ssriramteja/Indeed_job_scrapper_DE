@@ -357,7 +357,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Analytics Data Engineer II @ Butler Till
+## 33. Senior .NET / Azure Engineer @ FocusPointSAP
+**Match Score:** 11.8%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** Azure, Blob Storage, SQL Server, PostgreSQL, MySQL, MongoDB, NoSQL, CI/CD, GitHub Actions, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fa90f9fbfea59005)
+
+---
+
+## 34. Analytics Data Engineer II @ Butler Till
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -368,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Software Engineer III- AWS/Python/PySpark @ JPMorganChase
+## 35. Software Engineer III- AWS/Python/PySpark @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -379,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Sr Data Engineer @ Healthfirst (New York)
+## 36. Sr Data Engineer @ Healthfirst (New York)
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -390,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Data Engineering Intern @ Qorvo
+## 37. Data Engineering Intern @ Qorvo
 **Match Score:** 11.1%
 
 📍 **Location:** Richardson, TX, US USA
@@ -401,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Engineer @ Tata Consultancy Services (TCS)
+## 38. Engineer @ Tata Consultancy Services (TCS)
 **Match Score:** 11.1%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -412,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Application Developer, Consultant @ Blue Shield of California
+## 39. Application Developer, Consultant @ Blue Shield of California
 **Match Score:** 11.1%
 
 📍 **Location:** El Dorado Hills, CA, US USA
@@ -423,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Senior Backend Engineer @ AdCellerant
+## 40. Senior Backend Engineer @ AdCellerant
 **Match Score:** 11.1%
 
 📍 **Location:** Denver, CO, US USA
@@ -434,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Data Analyst — AI-Driven Insights @ David's Bridal
+## 41. Data Analyst — AI-Driven Insights @ David's Bridal
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -445,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Developer – T-SQL, Azure Logic Apps (Remote) @ Realign
+## 42. Developer – T-SQL, Azure Logic Apps (Remote) @ Realign
 **Match Score:** 11.1%
 
 📍 **Location:** OH, US USA
@@ -456,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. AliCloud Engineer @ Vaarida Technologies
+## 43. AliCloud Engineer @ Vaarida Technologies
 **Match Score:** 10.4%
 
 📍 **Location:** Cupertino, CA, US USA
@@ -467,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Senior Consultant - Data & AI (Microsoft Fabric) (Remote - US) @ Atmosera
+## 44. Senior Consultant - Data & AI (Microsoft Fabric) (Remote - US) @ Atmosera
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -478,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Devops Engineer-1 @ Realign
+## 45. Devops Engineer-1 @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** Irvine, CA, US USA
@@ -486,17 +497,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, S3, IAM, Azure, CI/CD, Jenkins, Azure DevOps, Terraform, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=d21b43139fbc9c58)
-
----
-
-## 45. UI/UX Engineer @ NIKSUN, Inc.
-**Match Score:** 10.4%
-
-📍 **Location:** Princeton, NJ, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Git, Bitbucket
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3368fc7b71b947f0)
 
 ---
 
