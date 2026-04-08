@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-08 11:01
+Last updated: 2026-04-08 13:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-08 11:01 |
-| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab9cfb4148755453) | 2026-04-08 11:01 |
-| Infoorigin Inc | Senior Application Support Engineer \|\| Atlanta, GA \|\| Hybrid | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b827c56c96c5e274) | 2026-04-08 11:01 |
+| JGA LLC | Korber/Infios Functional/Technical Consultant Remote | Alpharetta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a32324eea89ff005) | 2026-04-08 13:01 |
+| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-08 13:01 |
+| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab9cfb4148755453) | 2026-04-08 13:01 |
+| Infoorigin Inc | Senior Application Support Engineer \|\| Atlanta, GA \|\| Hybrid | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b827c56c96c5e274) | 2026-04-08 13:01 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2384ee83565dcea) | 2026-04-08 11:01 |
 | GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8999c659b74b65bf) | 2026-04-08 11:01 |
 | GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e854254a4a199e53) | 2026-04-08 11:01 |
@@ -229,7 +230,6 @@ Last updated: 2026-04-08 11:01
 | South Florida Community Care Network | Sr. Business Intelligence Developer | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f38270b9409d908) | 2026-04-05 01:29 |
 | Eightfold | Software Engineer - AI Agentic Product Dev Team (US) | Santa Clara, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd50de7c7c09c2ca) | 2026-04-04 13:46 |
 | Capital One | Senior Software Engineer, Back End/Full Stack (Docker/Containerization, Python on AWS, React, API Dev + CI/CD) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5bc3ae2a8608fdd7) | 2026-04-04 13:46 |
-| St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8645b0d44909612d) | 2026-04-04 11:22 |
 
 
 ---
