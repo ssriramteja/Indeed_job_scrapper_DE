@@ -1,15 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-08 06:17
+Last updated: 2026-04-08 08:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-08 06:17 |
+| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-08 08:07 |
+| Marriott International | Senior Software Engineer | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d0555fe5b48f96bb) | 2026-04-08 08:07 |
+| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab9cfb4148755453) | 2026-04-08 08:07 |
+| Plymouth Rock Assurance | Data Scientist Intern/Data Science Engineer | Woodbridge, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f21f9ffc85f99a93) | 2026-04-08 08:07 |
+| Twilio | Software Engineer, (L2) CDP | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c875609332a8cd3b) | 2026-04-08 08:07 |
+| Infoorigin Inc | Senior Application Support Engineer \|\| Atlanta, GA \|\| Hybrid | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b827c56c96c5e274) | 2026-04-08 08:07 |
 | ASPCA | Enterprise Data Warehouse Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1300aab23c7eb337) | 2026-04-08 06:17 |
-| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab9cfb4148755453) | 2026-04-08 06:17 |
-| Infoorigin Inc | Senior Application Support Engineer \|\| Atlanta, GA \|\| Hybrid | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b827c56c96c5e274) | 2026-04-08 06:17 |
 | NTT DATA | API Architect (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9443960b40fa54c3) | 2026-04-08 06:17 |
 | Diverse Agile Solutions | Senior Application Developer / Engineer / Programmer | Washington, DC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=69b1e85f5cd44a0e) | 2026-04-08 04:30 |
 | Deloitte | Cloud Engineer - Project Delivery Senior Analyst | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c14f18134cb0d544) | 2026-04-08 04:30 |
@@ -222,7 +225,6 @@ Last updated: 2026-04-08 06:17
 | I4DM | C2 SMART Integration Engineer (Data Tagging and Availability) | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1d01c8b8d0caf9fe) | 2026-04-04 09:30 |
 | HealthEdge Software, Inc. | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79050ec6925ece8b) | 2026-04-04 09:30 |
 | HealthEdge Software, Inc. | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5abe1c65278c5c5c) | 2026-04-04 09:30 |
-| American Express | Senior AI Engineer | Phoenix, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=170d4c1d3d53f45f) | 2026-04-04 06:50 |
 
 
 ---
