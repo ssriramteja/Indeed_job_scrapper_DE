@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-08 04:30
+Last updated: 2026-04-08 06:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-08 06:17 |
+| ASPCA | Enterprise Data Warehouse Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1300aab23c7eb337) | 2026-04-08 06:17 |
+| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab9cfb4148755453) | 2026-04-08 06:17 |
+| Infoorigin Inc | Senior Application Support Engineer \|\| Atlanta, GA \|\| Hybrid | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b827c56c96c5e274) | 2026-04-08 06:17 |
+| NTT DATA | API Architect (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9443960b40fa54c3) | 2026-04-08 06:17 |
 | Diverse Agile Solutions | Senior Application Developer / Engineer / Programmer | Washington, DC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=69b1e85f5cd44a0e) | 2026-04-08 04:30 |
 | Deloitte | Cloud Engineer - Project Delivery Senior Analyst | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c14f18134cb0d544) | 2026-04-08 04:30 |
 | Deloitte | Cloud Engineer - Project Delivery Specialist | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8c3e095228ad1f72) | 2026-04-08 04:30 |
@@ -18,16 +23,13 @@ Last updated: 2026-04-08 04:30
 | GEI Consultants | Data Engineer | Wakefield, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7f89b1ad5ce5398d) | 2026-04-08 04:30 |
 | GEI Consultants | Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c0687e02ee3d6f7) | 2026-04-08 04:30 |
 | GEI Consultants | Data Engineer | Pasadena, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=97fc81f1869fd392) | 2026-04-08 04:30 |
-| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-08 04:30 |
 | nan | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=be72eebe1e2aa8f3) | 2026-04-08 04:30 |
 | Ibotta | Analytics Engineer, Feature Engineering | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=62068a6428147556) | 2026-04-08 04:30 |
 | DPR Construction | Sr. Data Engineer - Business Delivery | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4fd1aa3fb43af703) | 2026-04-08 04:30 |
-| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab9cfb4148755453) | 2026-04-08 04:30 |
 | CVS Health | Software Development Engineer | VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=292d723fc85f4776) | 2026-04-08 04:30 |
 | DPR Construction | MLOps Engineer | Raleigh-Durham, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8514be2799f487ec) | 2026-04-08 04:30 |
 | Keck Medicine of USC | Machine Learning (ML) Ops Engineer - IS Clinical Research - Full Time 8 Hour Days (Exempt) (Non-Union) | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab4edf6a8d5be469) | 2026-04-08 04:30 |
 | propio | Data Engineer II | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb1cc4f2e4a6b078) | 2026-04-08 04:30 |
-| Infoorigin Inc | Senior Application Support Engineer \|\| Atlanta, GA \|\| Hybrid | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b827c56c96c5e274) | 2026-04-08 04:30 |
 | DPR Construction | PCA Data Engineer | Raleigh-Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b664fa702865dcc) | 2026-04-08 04:30 |
 | Quantiphi | Associate Technical Architect - DE | Remote, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=9550eb99ea883b4b) | 2026-04-08 01:27 |
 | SAP | Expert AI & Cloud Development Architect - Office of the CTO | Palo Alto, CA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=29f624140c0ed8f4) | 2026-04-08 01:27 |
@@ -221,9 +223,6 @@ Last updated: 2026-04-08 04:30
 | HealthEdge Software, Inc. | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79050ec6925ece8b) | 2026-04-04 09:30 |
 | HealthEdge Software, Inc. | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5abe1c65278c5c5c) | 2026-04-04 09:30 |
 | American Express | Senior AI Engineer | Phoenix, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=170d4c1d3d53f45f) | 2026-04-04 06:50 |
-| GEICO | Senior Engineer - .NET | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87fe175222dffef0) | 2026-04-04 05:52 |
-| GEICO | Senior Engineer - .NET | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=70ca01249d0f4376) | 2026-04-04 05:52 |
-| NTT DATA | AWS Full Stack React Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db65c20ad4663ad) | 2026-04-04 05:52 |
 
 
 ---
