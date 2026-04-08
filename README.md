@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-08 19:20
+Last updated: 2026-04-08 20:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SPR | Palantir AI Engineer | Chicago, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=92e23bede2bdc692) | 2026-04-08 20:34 |
+| Bain Capital | Machine Learning Engineer | Boston, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a5d62fc510f17558) | 2026-04-08 20:34 |
+| RSVP Communications, Inc | Contract .NET Full Stack Remote Developer (C#, SQL Server, REST APIs) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6c6c7a9ea6b2e318) | 2026-04-08 20:34 |
+| Quarterhill | DevOps Engineer | Frisco, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d6f7cbad6a0c86eb) | 2026-04-08 20:34 |
+| Interactive Resources | Azure Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b7d4138f1f14d7f4) | 2026-04-08 20:34 |
+| Mayo Clinic | Software Engineer - .NET Full Stack Developer | Rochester, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d8f70878f03e81d0) | 2026-04-08 20:34 |
+| General Motors (GM) | Business Intelligence Data Analyst - GPSC | Warren, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cbe5c8707df585c8) | 2026-04-08 20:34 |
+| Wells Fargo | Software Developer (contract) | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d551426f3f652f40) | 2026-04-08 20:34 |
+| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab9cfb4148755453) | 2026-04-08 20:34 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1828374aa7504d0) | 2026-04-08 20:34 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fcf7f2fc21997a1c) | 2026-04-08 20:34 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3691403890861ce1) | 2026-04-08 20:34 |
+| Novo Nordisk, Inc. | Finance BI Developer | Plainsboro, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0588cb9b774de72) | 2026-04-08 20:34 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-08 20:34 |
+| Infoorigin Inc | Senior Application Support Engineer \|\| Atlanta, GA \|\| Hybrid | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b827c56c96c5e274) | 2026-04-08 20:34 |
+| Optum | AI or ML Engineer - Remote | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b8fe560b8dc00ad) | 2026-04-08 20:34 |
 | nan | Senior Full Stack Software Engineer | Austin, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=5f22b1fb1994e004) | 2026-04-08 19:20 |
 | nan | Senior Full Stack Software Engineer | Jacksonville, FL, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=b90ba0693590e08c) | 2026-04-08 19:20 |
 | nan | Senior Full Stack Software Engineer | Chicago, IL, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=ffbf7a09316e2165) | 2026-04-08 19:20 |
@@ -23,14 +39,11 @@ Last updated: 2026-04-08 19:20
 | nan | Senior Full Stack Software Engineer | Boston, MA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=8b0addd50fb05f38) | 2026-04-08 19:20 |
 | cooking | Columbia SC | Columbia, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f177ac36447561f1) | 2026-04-08 19:20 |
 | Children's Hospital of Philadelphia | Analytics Engineer | Philadelphia, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2ffce82525f57f21) | 2026-04-08 19:20 |
-| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-08 19:20 |
 | HJ Staffing | Advisor Application Designer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=16e87d38719548eb) | 2026-04-08 19:20 |
 | marvica technologies LLC | Senior Drupal Migration Developer (AWS Focus) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=98dd7a13fdba852c) | 2026-04-08 19:20 |
 | VBEST Software Inc | Azure Data Engineer with AI | Piscataway, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=603571b168320d09) | 2026-04-08 19:20 |
-| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab9cfb4148755453) | 2026-04-08 19:20 |
 | Ryder System | AI Intern | Tallahassee, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e10b65eb3e9642b) | 2026-04-08 19:20 |
 | Cadre5 | DevOps Engineer | Knoxville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=350fed14bf8fbead) | 2026-04-08 19:20 |
-| Infoorigin Inc | Senior Application Support Engineer \|\| Atlanta, GA \|\| Hybrid | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b827c56c96c5e274) | 2026-04-08 19:20 |
 | TrueML | Sr. Machine Learning Engineer (copy) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c26d512d400fb40) | 2026-04-08 19:20 |
 | Ryder System | Data Services Intern | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0947e458821ae815) | 2026-04-08 19:20 |
 | HJ Staffing | Advisor Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d52b697a7ccfabf5) | 2026-04-08 19:20 |
