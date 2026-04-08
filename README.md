@@ -1,19 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-08 14:47
+Last updated: 2026-04-08 16:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Leading Path Consulting | Systems Engineer (Linux, Hardware, Security, DevOps/Automation) - TS/SCI w/ Poly | Warrenton, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=1d393e51b035c281) | 2026-04-08 16:10 |
+| Leading Path Consulting | Systems Engineer (Linux, Hardware, Security, DevOps/Automation) - TS/SCI w/ Poly | McLean, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=ffb1cf3c611caa16) | 2026-04-08 16:10 |
+| Fusion Global Technologies and Solutions | IT Solutions Engineer - Senior | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4b1e89f92944d8ca) | 2026-04-08 16:10 |
+| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-08 16:10 |
+| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab9cfb4148755453) | 2026-04-08 16:10 |
+| Infoorigin Inc | Senior Application Support Engineer \|\| Atlanta, GA \|\| Hybrid | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b827c56c96c5e274) | 2026-04-08 16:10 |
 | Radcube LLC | DataOps Engineer | Remote, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=7cc21fd5e8801cab) | 2026-04-08 14:47 |
 | Optum | Senior Data Scientist | Minnetonka, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9e0ceb630e33d4ca) | 2026-04-08 14:47 |
-| Trellis Company | Software Engineer III | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98622b51534499ca) | 2026-04-08 14:47 |
 | Equifax | Sr Software Engineer | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=14cb01c5ecb1bb21) | 2026-04-08 14:47 |
 | JPS Tech Solutions LLC | EDI Developer | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a55f391f402922a7) | 2026-04-08 14:47 |
-| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab9cfb4148755453) | 2026-04-08 14:47 |
 | Optum | Senior Data Engineer - Remote | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5cd6198a7d2f4698) | 2026-04-08 14:47 |
-| Infoorigin Inc | Senior Application Support Engineer \|\| Atlanta, GA \|\| Hybrid | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b827c56c96c5e274) | 2026-04-08 14:47 |
 | ThoughtFocus | Sr Machine Learning Ops Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=071b0987d8e950fc) | 2026-04-08 14:47 |
 | JGA LLC | Korber/Infios Functional/Technical Consultant Remote | Alpharetta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a32324eea89ff005) | 2026-04-08 13:01 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2384ee83565dcea) | 2026-04-08 11:01 |
