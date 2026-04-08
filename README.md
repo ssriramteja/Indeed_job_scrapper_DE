@@ -1,18 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-08 22:31
+Last updated: 2026-04-08 23:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ICW Group | AI Architect | San Diego, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9f0c5b222112ed43) | 2026-04-08 23:31 |
+| Violet Ink | Data Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9fe60e0b6f79b280) | 2026-04-08 23:31 |
+| Opiniion | Senior Software Engineer, Integrations | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=85c5d065404f67c9) | 2026-04-08 23:31 |
+| nan | Gen AI Platform & Deployment Engineer | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e87b7bf0563dd40f) | 2026-04-08 23:31 |
+| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab9cfb4148755453) | 2026-04-08 23:31 |
+| M-TECH SYSTEMS | Sr Python Developer - Hybrid - Atlanta GA | Dunwoody, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f22b75c7e14b024) | 2026-04-08 23:31 |
+| Opiniion | Senior Analytics Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f1ff2151b8007775) | 2026-04-08 23:31 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-08 23:31 |
+| Infoorigin Inc | Senior Application Support Engineer \|\| Atlanta, GA \|\| Hybrid | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b827c56c96c5e274) | 2026-04-08 23:31 |
+| Fresenius Medical Care | Cloud and DevOps Expert | Waltham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75e22059c1c4550f) | 2026-04-08 23:31 |
 | JPMorganChase | Software Engineer III - AI/ML | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=76cfc97622cac432) | 2026-04-08 22:31 |
 | Zayo Group | Data Analytics Engineer - Network Data Solutions | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9ba38c8b2c1db3d9) | 2026-04-08 22:31 |
 | Infoville Inc | Oracle DBA @ New York, NY | Verona, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f22c95754fdda590) | 2026-04-08 22:31 |
-| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab9cfb4148755453) | 2026-04-08 22:31 |
 | JPMorganChase | Data Software Engineer III- ML | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20cd1de8722f1e75) | 2026-04-08 22:31 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-08 22:31 |
-| Infoorigin Inc | Senior Application Support Engineer \|\| Atlanta, GA \|\| Hybrid | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b827c56c96c5e274) | 2026-04-08 22:31 |
 | Tata Consultancy Services (TCS) | React JS and Node JS Developer | Raleigh, NC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=052182e7113c0089) | 2026-04-08 21:35 |
 | Tata Consultancy Services (TCS) | Data Analytics Engineer (AI/ML Focus) | Sunnyvale, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ac8a907713e68025) | 2026-04-08 21:35 |
 | Wellmark Blue Cross and Blue Shield | Sr Software Engineer - AI Platform Team | Des Moines, IA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=26eebbc4bd9331ad) | 2026-04-08 21:35 |
