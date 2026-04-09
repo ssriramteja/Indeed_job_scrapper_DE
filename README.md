@@ -1,20 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-09 15:15
+Last updated: 2026-04-09 16:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Smarty | Data Engineer | Orem, UT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a791a880bde06e3e) | 2026-04-09 16:58 |
+| N2IA Technologies | Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a5765fbf481e4537) | 2026-04-09 16:58 |
+| Verint Systems Inc. | Sr. Engineer, Software | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b6dcaf8ffd85fd5d) | 2026-04-09 16:58 |
+| FanDuel | Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b09c8dba3c2b63ad) | 2026-04-09 16:58 |
+| nan | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f2a67f69c448e7b3) | 2026-04-09 16:58 |
+| FanDuel | Senior Data Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=21222c0e738a17da) | 2026-04-09 16:58 |
+| Vantage Data Centers | Mid-Level Engineer, Global | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ef6a214098e56d83) | 2026-04-09 16:58 |
+| Amplified Sourcing | Senior Full Stack Engineer with AI (FTE) | Green Bay, WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4ef6a677ec45706f) | 2026-04-09 16:58 |
+| Availity, LLC. | Software Engineer III | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3b3e63e2475ddaa) | 2026-04-09 16:58 |
+| DDN | Senior Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b35a412c42944021) | 2026-04-09 16:58 |
+| GameChanger | Senior Analytics Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60bdd5bca130aa0d) | 2026-04-09 16:58 |
+| Openkyber | PingOne Cloud Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce4901601fc9ef85) | 2026-04-09 16:58 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 16:58 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 16:58 |
+| DDN | Senior Analytics Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48b3ec3709af933a) | 2026-04-09 16:58 |
+| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 16:58 |
+| Communify | Senior Software Engineer, Web Development | Broomfield, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3befea356e71854) | 2026-04-09 16:58 |
 | Capital One | Distinguished Data Engineer - Enterprise Data Technology | McLean, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4bb308be554a0dee) | 2026-04-09 15:15 |
 | VCU Health System | Data Engineer III | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5115841e7866fb91) | 2026-04-09 15:15 |
 | Outfront Media | Senior Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=deafc80aa75d1193) | 2026-04-09 15:15 |
-| Ford Motor Company | GCP Cloud Infrastructure Architect | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a17a91bbbc39e684) | 2026-04-09 15:15 |
 | Intuit | Machine Learning Engineer II Recommendation Systems- Credit Karma | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca5b55d7ce3a3210) | 2026-04-09 15:15 |
-| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 15:15 |
 | Anza Mortgage Insurance Corporation | ML Data Engineer - Mortgage Credit Risk | Wilmington, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3914f4c8a393dddd) | 2026-04-09 15:15 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 15:15 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 15:15 |
 | Press Ganey | Senior Software Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7db0adb04360b67) | 2026-04-09 15:15 |
 | gstv | Sr. Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=aa5db58126c54d8c) | 2026-04-09 13:02 |
 | CVS Health | Senior Software Development Engineer | WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cc78cb23c62b1fdd) | 2026-04-09 13:02 |
