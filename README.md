@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-09 13:02
+Last updated: 2026-04-09 15:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capital One | Distinguished Data Engineer - Enterprise Data Technology | McLean, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4bb308be554a0dee) | 2026-04-09 15:15 |
+| VCU Health System | Data Engineer III | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5115841e7866fb91) | 2026-04-09 15:15 |
+| Outfront Media | Senior Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=deafc80aa75d1193) | 2026-04-09 15:15 |
+| Ford Motor Company | GCP Cloud Infrastructure Architect | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a17a91bbbc39e684) | 2026-04-09 15:15 |
+| Intuit | Machine Learning Engineer II Recommendation Systems- Credit Karma | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca5b55d7ce3a3210) | 2026-04-09 15:15 |
+| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 15:15 |
+| Anza Mortgage Insurance Corporation | ML Data Engineer - Mortgage Credit Risk | Wilmington, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3914f4c8a393dddd) | 2026-04-09 15:15 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 15:15 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 15:15 |
+| Press Ganey | Senior Software Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7db0adb04360b67) | 2026-04-09 15:15 |
 | gstv | Sr. Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=aa5db58126c54d8c) | 2026-04-09 13:02 |
 | CVS Health | Senior Software Development Engineer | WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cc78cb23c62b1fdd) | 2026-04-09 13:02 |
 | CVS Health | Senior Software Development Engineer | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0d16a8c657126d9a) | 2026-04-09 13:02 |
@@ -55,9 +65,6 @@ Last updated: 2026-04-09 13:02
 | CVS Health | Senior Software Development Engineer | KY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=620c8744c8da0c15) | 2026-04-09 13:02 |
 | CVS Health | Senior Software Development Engineer | AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7c04b74e271401fe) | 2026-04-09 13:02 |
 | CVS Health | Senior Software Development Engineer | MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f73b835d39515b49) | 2026-04-09 13:02 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 13:02 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 13:02 |
-| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 13:02 |
 | JPMorganChase | Senior AWS Engineer - ML | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9daceb310871c5d8) | 2026-04-09 10:05 |
 | Viasat | Software Engineer | OR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=de236675c492e363) | 2026-04-09 10:05 |
 | Quarterhill | DevOps Engineer | Frisco, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=659c3d156cdd9793) | 2026-04-09 10:05 |
@@ -377,7 +384,6 @@ Last updated: 2026-04-09 13:02
 | Salt Dental Partners | Data Analytics Engineer | Franklin, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21381131f52aaafb) | 2026-04-06 01:29 |
 | Reston Hospital Center - Reston | Product Architect Google Cloud Platform | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9800f97130992c45) | 2026-04-05 17:23 |
 | Catholic Medical Center | Product Architect Google Cloud Platform | Manchester, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dfe8d6c036c24b4) | 2026-04-05 17:23 |
-| clickhouse | Senior Software Engineer - Python and Data Ecosystem | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c1ce06c12c2400c) | 2026-04-05 14:28 |
 
 
 ---
