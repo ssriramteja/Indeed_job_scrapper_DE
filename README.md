@@ -1,19 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-09 10:05
+Last updated: 2026-04-09 11:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 11:47 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 11:47 |
+| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 11:47 |
 | JPMorganChase | Senior AWS Engineer - ML | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9daceb310871c5d8) | 2026-04-09 10:05 |
 | Viasat | Software Engineer | OR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=de236675c492e363) | 2026-04-09 10:05 |
 | Quarterhill | DevOps Engineer | Frisco, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=659c3d156cdd9793) | 2026-04-09 10:05 |
 | M.C. Dean, Inc. | Backend / Cloud Infrastructure Engineer - Washington D.C | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fe5de6a0b568cb57) | 2026-04-09 10:05 |
 | Ketjen | Enterprise Data, Analytics & AI | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f044f722a79b7cd) | 2026-04-09 10:05 |
-| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 10:05 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 10:05 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 10:05 |
 | Ascension | Technical Analyst- Data and Systems | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=646c967b5423d4bf) | 2026-04-09 10:05 |
 | Wells Fargo | Senior Specialty Software Engineer (Req #002089) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9112855c709308c8) | 2026-04-09 08:14 |
 | Presto AB | Backend Engineer, POS & Integrations | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b8a9d868b607be0c) | 2026-04-09 08:14 |
@@ -329,7 +329,6 @@ Last updated: 2026-04-09 10:05
 | Reston Hospital Center - Reston | Product Architect Google Cloud Platform | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9800f97130992c45) | 2026-04-05 17:23 |
 | Catholic Medical Center | Product Architect Google Cloud Platform | Manchester, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dfe8d6c036c24b4) | 2026-04-05 17:23 |
 | clickhouse | Senior Software Engineer - Python and Data Ecosystem | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c1ce06c12c2400c) | 2026-04-05 14:28 |
-| axiusSoftware | Senior Backend Engineer – Node.js & Microservices | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8416ad2ad931971c) | 2026-04-05 11:22 |
 
 
 ---
