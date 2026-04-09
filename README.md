@@ -1,18 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-09 01:19
+Last updated: 2026-04-09 04:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sidley Austin | Senior Data Quality Engineer | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6452beb2eda05bed) | 2026-04-09 04:27 |
+| WTW | AI First Senior Software Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=14dfa31e07ed5ab9) | 2026-04-09 04:27 |
+| Tata Consultancy Services (TCS) | AI Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a0bcea1105f70c11) | 2026-04-09 04:27 |
+| Ford Motor Company | GCP Cloud Infrastructure Architect | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a17a91bbbc39e684) | 2026-04-09 04:27 |
+| Population Services International | Associate, Data Engineering - DISC Project | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4aafe4b310cc6782) | 2026-04-09 04:27 |
+| Dollar General | SR SOFTWARE ENGINEER | Goodlettsville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4db99ec10316c705) | 2026-04-09 04:27 |
+| ConnectOne Bank | Senior Data Engineer | Englewood Cliffs, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c88aa2ee3a1d2797) | 2026-04-09 04:27 |
+| CAI (Computer Aid, Inc.) | Junior Data Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1afd96a6073e3e32) | 2026-04-09 04:27 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 04:27 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 04:27 |
+| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 04:27 |
 | NTT DATA | Platform (AWS) Engineer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ce768659b9bf72c2) | 2026-04-09 01:19 |
 | Viasat | Software Engineer | OR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=75856bb7b17e3cfe) | 2026-04-09 01:19 |
 | GM Financial | Machine Learning Operations-Engineer II | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=99bf6e8f385aab0c) | 2026-04-09 01:19 |
 | CrowdStrike | DevOps Engineer, Falcon NG-SIEM, FrontTier Expansions (Hybrid, Austin) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ef92600498a13be) | 2026-04-09 01:19 |
 | Realign | Developer – T-2 | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d23fbf23aaa4ed0c) | 2026-04-09 01:19 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 01:19 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 01:19 |
 | Concord Music Group, Inc. | Software Development Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4f8bd2c2f1aed56) | 2026-04-09 01:19 |
 | Fairlife, LLC | Sr. Analytics Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=411ffa408b7d9ea0) | 2026-04-09 01:19 |
 | StandardAero | Sr. Data Analytics Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=905b416491d0053a) | 2026-04-09 01:19 |
@@ -314,8 +323,6 @@ Last updated: 2026-04-09 01:19
 | JPMorganChase | Software Engineer III – Big Data & Analytics | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0657089c3ac9f1d) | 2026-04-05 09:31 |
 | JPMorganChase | Python Engineer, Senior Associate | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d1ed8d52cd0705a) | 2026-04-05 09:31 |
 | nan | MQ - CICS Middleware Admin | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e419b162bae199c) | 2026-04-05 08:33 |
-| SAP | SAP NS2 Senior HANA Cloud DevOps Engineer | Newtown Square, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ede3f75e70d4727e) | 2026-04-05 01:29 |
-| South Florida Community Care Network | Sr. Business Intelligence Developer | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f38270b9409d908) | 2026-04-05 01:29 |
 
 
 ---
