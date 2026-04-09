@@ -1,25 +1,36 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-09 20:01
+Last updated: 2026-04-09 21:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Premier Truck Rental | Data Engineer III | Fort Wayne, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0389efa8a7d81fc8) | 2026-04-09 21:40 |
+| Equinox | Sr. Data Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6c0cfa70c2d5d6ef) | 2026-04-09 21:40 |
+| DONNELLEY FINANCIAL SOLUTIONS | Cloud Data Architect | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=eaee29df30d9cb02) | 2026-04-09 21:40 |
+| Boston Energy Trading and Marketing | AI Architect - IT | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=351a87f9d4d66fed) | 2026-04-09 21:40 |
+| General Motors (GM) | Senior Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03998723d307f031) | 2026-04-09 21:40 |
+| PACCAR | AI Engineer | Chillicothe, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2a7aa9de7ae098db) | 2026-04-09 21:40 |
+| Robots & Pencils | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f9725451a4b09d99) | 2026-04-09 21:40 |
+| KPMG | Senior Associate, Data Engineering | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=796c9c330a8616db) | 2026-04-09 21:40 |
+| American Tower | Cloud Engineer | Westborough, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5782d4f63839513) | 2026-04-09 21:40 |
+| Tata Consultancy Services (TCS) | Databricks Devops | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1754a97a52563107) | 2026-04-09 21:40 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 21:40 |
+| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 21:40 |
+| VTekis Consulting LLP | Data Architect with HEDIS, CMS Interoperability (FHIR) - Health Care Payer Domain MUST HAVE | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f8371bf27aea78c5) | 2026-04-09 21:40 |
+| Walkme | DevOps Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=675aa75207b1417e) | 2026-04-09 21:40 |
 | MAP International | Data Analyst Engineer | Brunswick, GA, US USA | 28.5% | [Apply](https://www.indeed.com/viewjob?jk=b3d2cecf0a7dedfc) | 2026-04-09 20:01 |
 | RadCube | DataOps Engineer | Indianapolis, IN, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=27eca6e7e11ed7f7) | 2026-04-09 20:01 |
 | nan | Data Architect–Strong Azure Services-strong Finance exp(GL, AR, AP) | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ffa724aa3602f6ed) | 2026-04-09 20:01 |
 | NTT DATA | Platform Engineer (AWS) | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6c162f75ae66b790) | 2026-04-09 20:01 |
 | Hillspire Consulting | Senior Data Engineer | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=480a62ff4a821952) | 2026-04-09 20:01 |
-| William Blair & Company | Data & AI Engineer – Equities Technology | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28f10cecc44333b7) | 2026-04-09 20:01 |
 | NTT DATA | Data Scientist | Camden, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0a75465cb64e7d4f) | 2026-04-09 20:01 |
 | NAVA SOFTWARE SOLUTIONS INDIA PVT LTD | Production Support Analyst | South Jordan, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2b2db84f225a0ac5) | 2026-04-09 20:01 |
 | PlayStation | Site Reliability Engineer II | Aliso Viejo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0d6a0fd8e6847f13) | 2026-04-09 20:01 |
 | NTT DATA | Data Specialist | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3601c87165ee5ec5) | 2026-04-09 20:01 |
 | NTT DATA | Data Specialist | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1bdcbdad1eb42813) | 2026-04-09 20:01 |
-| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 20:01 |
 | Scotiabank | Data Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bddc71e55c5a0427) | 2026-04-09 20:01 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 20:01 |
 | NTT DATA | Software Development Specialist Advisor | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec9a82983350eae0) | 2026-04-09 20:01 |
 | Realign | Cloud Data Architect-7 | West Lake, LA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=be1742daf9769f6b) | 2026-04-09 18:57 |
 | Realign | Cloud Data Architect-7 | TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=a051cca67a16e478) | 2026-04-09 18:57 |
