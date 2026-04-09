@@ -1,17 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-09 06:16
+Last updated: 2026-04-09 08:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Wells Fargo | Senior Specialty Software Engineer (Req #002089) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9112855c709308c8) | 2026-04-09 08:14 |
+| Presto AB | Backend Engineer, POS & Integrations | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b8a9d868b607be0c) | 2026-04-09 08:14 |
+| Ford Motor Company | GCP Cloud Infrastructure Architect | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a17a91bbbc39e684) | 2026-04-09 08:14 |
+| Lincare | Sr Data Analyst | Clearwater, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bafbad52ee9c6a54) | 2026-04-09 08:14 |
+| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 08:14 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 08:14 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 08:14 |
+| HealthPartners | Enterprise Integration Architect | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=548d3d3d67edadf4) | 2026-04-09 08:14 |
 | NTT DATA | Platform (AWS) Engineer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5f2ab88683becc31) | 2026-04-09 06:16 |
 | NTT DATA | Test Automation Engineer / SDET - HYBRID | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bbfd37a40116609) | 2026-04-09 06:16 |
-| Ford Motor Company | GCP Cloud Infrastructure Architect | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a17a91bbbc39e684) | 2026-04-09 06:16 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 06:16 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 06:16 |
-| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 06:16 |
 | Sidley Austin | Senior Data Quality Engineer | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6452beb2eda05bed) | 2026-04-09 04:27 |
 | WTW | AI First Senior Software Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=14dfa31e07ed5ab9) | 2026-04-09 04:27 |
 | Tata Consultancy Services (TCS) | AI Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a0bcea1105f70c11) | 2026-04-09 04:27 |
