@@ -1,17 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-09 22:33
+Last updated: 2026-04-09 23:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| GitHub | Senior Data Engineer, Revenue Intelligence | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5f11c5f49ca38408) | 2026-04-09 23:32 |
+| Hexaware Technologies | Big Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8c18410d10e98da8) | 2026-04-09 23:32 |
+| Total Quality Logistics (TQL) | Data Architect - Paid Relocation to Cincinnati | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=36d097a5c9b38547) | 2026-04-09 23:32 |
+| ARMADA | Senior Platform/DevOps Engineer (Kubernetes-Linux) | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1bb2064fa7d1ef15) | 2026-04-09 23:32 |
+| BNY | Site Reliability Engineer_Pipeline | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3403085da0b17678) | 2026-04-09 23:32 |
+| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 23:32 |
+| BNY | Senior Specialist, Full-Stack Engineer | Lake Mary, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6abb2385899cf65f) | 2026-04-09 23:32 |
 | Epochfolio | React Ul Architect (Day 1 Onsite - Plano, TX) | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9f22daeae7b4cb18) | 2026-04-09 22:33 |
 | Vanguard | Machine Learning Engineer, Specialist | Malvern, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=74e743e45605a878) | 2026-04-09 22:33 |
 | Pelico | DevOps Miami | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d2e39fd655a8ea4a) | 2026-04-09 22:33 |
 | Pacific Life | Data Engineer II | Newport Beach, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b3e22a77413868eb) | 2026-04-09 22:33 |
-| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 22:33 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 22:33 |
 | ENCO Electronic Systems | Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c206b2cba4b24dcc) | 2026-04-09 22:33 |
 | Premier Truck Rental | Data Engineer III | Fort Wayne, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0389efa8a7d81fc8) | 2026-04-09 21:40 |
 | Equinox | Sr. Data Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6c0cfa70c2d5d6ef) | 2026-04-09 21:40 |
