@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-09 21:40
+Last updated: 2026-04-09 22:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Epochfolio | React Ul Architect (Day 1 Onsite - Plano, TX) | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9f22daeae7b4cb18) | 2026-04-09 22:33 |
+| Vanguard | Machine Learning Engineer, Specialist | Malvern, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=74e743e45605a878) | 2026-04-09 22:33 |
+| Pelico | DevOps Miami | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d2e39fd655a8ea4a) | 2026-04-09 22:33 |
+| Pacific Life | Data Engineer II | Newport Beach, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b3e22a77413868eb) | 2026-04-09 22:33 |
+| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 22:33 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 22:33 |
+| ENCO Electronic Systems | Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c206b2cba4b24dcc) | 2026-04-09 22:33 |
 | Premier Truck Rental | Data Engineer III | Fort Wayne, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0389efa8a7d81fc8) | 2026-04-09 21:40 |
 | Equinox | Sr. Data Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6c0cfa70c2d5d6ef) | 2026-04-09 21:40 |
 | DONNELLEY FINANCIAL SOLUTIONS | Cloud Data Architect | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=eaee29df30d9cb02) | 2026-04-09 21:40 |
@@ -16,8 +23,6 @@ Last updated: 2026-04-09 21:40
 | KPMG | Senior Associate, Data Engineering | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=796c9c330a8616db) | 2026-04-09 21:40 |
 | American Tower | Cloud Engineer | Westborough, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5782d4f63839513) | 2026-04-09 21:40 |
 | Tata Consultancy Services (TCS) | Databricks Devops | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1754a97a52563107) | 2026-04-09 21:40 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 21:40 |
-| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 21:40 |
 | VTekis Consulting LLP | Data Architect with HEDIS, CMS Interoperability (FHIR) - Health Care Payer Domain MUST HAVE | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f8371bf27aea78c5) | 2026-04-09 21:40 |
 | Walkme | DevOps Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=675aa75207b1417e) | 2026-04-09 21:40 |
 | MAP International | Data Analyst Engineer | Brunswick, GA, US USA | 28.5% | [Apply](https://www.indeed.com/viewjob?jk=b3d2cecf0a7dedfc) | 2026-04-09 20:01 |
