@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-09 16:58
+Last updated: 2026-04-09 17:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Realign | Java Developer-6 | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1db9cb7feef62593) | 2026-04-09 17:57 |
+| U.S. Bank | Software Engineer 2 (backend) | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7a5ca675bb9218f9) | 2026-04-09 17:57 |
+| U.S. Bank | Software Engineer 2 (backend) | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8ac8e57ed940ae58) | 2026-04-09 17:57 |
+| U.S. Bank | Software Engineer 2 (backend) | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f5cd8b68adde4e) | 2026-04-09 17:57 |
+| Realign | Hadoop Developer-8 | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d4d661e7528237a5) | 2026-04-09 17:57 |
+| Realign | PythonPySpark Engineer-9 | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6d363ae915dcafdd) | 2026-04-09 17:57 |
+| William Blair & Company | Data & AI Engineer – Equities Technology | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28f10cecc44333b7) | 2026-04-09 17:57 |
+| Endeavor Health | Cloud Data Engineer – EDW | Arlington Heights, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e0d535062d941699) | 2026-04-09 17:57 |
+| Realign | Developer – T-3 | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eaeacf9553a70181) | 2026-04-09 17:57 |
+| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 17:57 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 17:57 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 17:57 |
 | Smarty | Data Engineer | Orem, UT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a791a880bde06e3e) | 2026-04-09 16:58 |
 | N2IA Technologies | Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a5765fbf481e4537) | 2026-04-09 16:58 |
 | Verint Systems Inc. | Sr. Engineer, Software | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b6dcaf8ffd85fd5d) | 2026-04-09 16:58 |
@@ -18,10 +30,7 @@ Last updated: 2026-04-09 16:58
 | DDN | Senior Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b35a412c42944021) | 2026-04-09 16:58 |
 | GameChanger | Senior Analytics Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60bdd5bca130aa0d) | 2026-04-09 16:58 |
 | Openkyber | PingOne Cloud Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce4901601fc9ef85) | 2026-04-09 16:58 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 16:58 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 16:58 |
 | DDN | Senior Analytics Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48b3ec3709af933a) | 2026-04-09 16:58 |
-| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 16:58 |
 | Communify | Senior Software Engineer, Web Development | Broomfield, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3befea356e71854) | 2026-04-09 16:58 |
 | Capital One | Distinguished Data Engineer - Enterprise Data Technology | McLean, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4bb308be554a0dee) | 2026-04-09 15:15 |
 | VCU Health System | Data Engineer III | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5115841e7866fb91) | 2026-04-09 15:15 |
@@ -395,8 +404,6 @@ Last updated: 2026-04-09 16:58
 | PlayStation | Software Engineer II, Data Platform | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1696f58952c74ca) | 2026-04-06 04:38 |
 | Paramount | Sr Data Engineer | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1bf73fd986d212e6) | 2026-04-06 01:29 |
 | Salt Dental Partners | Data Analytics Engineer | Franklin, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21381131f52aaafb) | 2026-04-06 01:29 |
-| Reston Hospital Center - Reston | Product Architect Google Cloud Platform | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9800f97130992c45) | 2026-04-05 17:23 |
-| Catholic Medical Center | Product Architect Google Cloud Platform | Manchester, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dfe8d6c036c24b4) | 2026-04-05 17:23 |
 
 
 ---
