@@ -1,18 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-09 08:14
+Last updated: 2026-04-09 10:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Senior AWS Engineer - ML | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9daceb310871c5d8) | 2026-04-09 10:05 |
+| Viasat | Software Engineer | OR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=de236675c492e363) | 2026-04-09 10:05 |
+| Quarterhill | DevOps Engineer | Frisco, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=659c3d156cdd9793) | 2026-04-09 10:05 |
+| M.C. Dean, Inc. | Backend / Cloud Infrastructure Engineer - Washington D.C | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fe5de6a0b568cb57) | 2026-04-09 10:05 |
+| Ketjen | Enterprise Data, Analytics & AI | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f044f722a79b7cd) | 2026-04-09 10:05 |
+| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 10:05 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 10:05 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 10:05 |
+| Ascension | Technical Analyst- Data and Systems | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=646c967b5423d4bf) | 2026-04-09 10:05 |
 | Wells Fargo | Senior Specialty Software Engineer (Req #002089) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9112855c709308c8) | 2026-04-09 08:14 |
 | Presto AB | Backend Engineer, POS & Integrations | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b8a9d868b607be0c) | 2026-04-09 08:14 |
-| Ford Motor Company | GCP Cloud Infrastructure Architect | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a17a91bbbc39e684) | 2026-04-09 08:14 |
 | Lincare | Sr Data Analyst | Clearwater, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bafbad52ee9c6a54) | 2026-04-09 08:14 |
-| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 08:14 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52a952c18ec91d5c) | 2026-04-09 08:14 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dfc555cffe9b704) | 2026-04-09 08:14 |
 | HealthPartners | Enterprise Integration Architect | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=548d3d3d67edadf4) | 2026-04-09 08:14 |
 | NTT DATA | Platform (AWS) Engineer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5f2ab88683becc31) | 2026-04-09 06:16 |
 | NTT DATA | Test Automation Engineer / SDET - HYBRID | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bbfd37a40116609) | 2026-04-09 06:16 |
@@ -325,10 +330,6 @@ Last updated: 2026-04-09 08:14
 | Catholic Medical Center | Product Architect Google Cloud Platform | Manchester, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dfe8d6c036c24b4) | 2026-04-05 17:23 |
 | clickhouse | Senior Software Engineer - Python and Data Ecosystem | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c1ce06c12c2400c) | 2026-04-05 14:28 |
 | axiusSoftware | Senior Backend Engineer – Node.js & Microservices | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8416ad2ad931971c) | 2026-04-05 11:22 |
-| PlayStation | Software Engineer II, Data Platform | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=863b993691d43dcd) | 2026-04-05 09:31 |
-| JPMorganChase | Software Engineer III – Big Data & Analytics | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0657089c3ac9f1d) | 2026-04-05 09:31 |
-| JPMorganChase | Python Engineer, Senior Associate | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d1ed8d52cd0705a) | 2026-04-05 09:31 |
-| nan | MQ - CICS Middleware Admin | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e419b162bae199c) | 2026-04-05 08:33 |
 
 
 ---
