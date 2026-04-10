@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 10:02
+Last updated: 2026-04-10 11:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a49b45df7b2ac405) | 2026-04-10 11:41 |
+| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 11:41 |
+| Openkyber | AI Integration Engineer (Java + AI) | HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=61859efe066d7fac) | 2026-04-10 11:41 |
+| Openkyber | Java Compliance & Governance Developer | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64203283044db188) | 2026-04-10 11:41 |
 | GitHub | Senior Data Engineer, Revenue Intelligence | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fbd118d6be25a868) | 2026-04-10 10:02 |
 | Airwallex | Senior Data Engineer - Knowledge Platform | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4a97391e031fbe7e) | 2026-04-10 10:02 |
-| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 10:02 |
 | Ellucian | Sr. Cloud Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a5c6c22bfb3d302d) | 2026-04-10 10:02 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e55e25e3c6cd3752) | 2026-04-10 10:02 |
 | GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6b2ffe5d9c2ef14) | 2026-04-10 10:02 |
