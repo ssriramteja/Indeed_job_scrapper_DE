@@ -1,15 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 17:41
+Last updated: 2026-04-10 18:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Realign | React JS and Node JS Developer | Phoenix, AZ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=f4302a48fbfa72b9) | 2026-04-10 18:40 |
+| Realign | React JS and Node JS Developer | Raleigh, NC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3725a0e179d8a789) | 2026-04-10 18:40 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 18:40 |
+| Neodymium | Programmer 5 | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1bb969ab476e39f5) | 2026-04-10 18:40 |
+| New York Life | Senior Associate - Sr. Quality Test Engineer (SDET) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=874459add6faf56d) | 2026-04-10 18:40 |
+| Global Payments | DevOps Engineer (AI/ML) | Columbus, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c0583eb15ac45170) | 2026-04-10 18:40 |
+| Global Payments | DevOps Engineer (AI/ML) | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=58e0b50be31f6904) | 2026-04-10 18:40 |
+| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 18:40 |
+| Rio Tinto | Specialist Data Engineering | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=12141d827aef2872) | 2026-04-10 18:40 |
+| S R International Inc | Azure + AWS Cloud Engineer (GPT Model Integration, Prompt Engineering) | Harrisburg, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ecffc87de58c4bef) | 2026-04-10 18:40 |
+| NTT DATA | API Architect (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=756bfe2853f87e1f) | 2026-04-10 18:40 |
 | Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=075c352d5919b190) | 2026-04-10 17:41 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 17:41 |
 | Beehyv | Software Engineer | McKinney, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=28fc8ff707127a1b) | 2026-04-10 17:41 |
-| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 17:41 |
 | Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9a0a23fabb87369f) | 2026-04-10 17:41 |
 | Openkyber | AI Integration Engineer (Java + AI) | HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f7bd5de39a297655) | 2026-04-10 17:41 |
 | nan | Senior Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09cd4db2f9c6e6e1) | 2026-04-10 17:41 |
