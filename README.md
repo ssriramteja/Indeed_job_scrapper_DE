@@ -1,14 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 19:38
+Last updated: 2026-04-10 20:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimpoint Digital | Senior Analytics Engineer 2026 - US,UK | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=03a74124134b4635) | 2026-04-10 20:26 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 20:26 |
+| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 20:26 |
+| Granite Telecommunications | Senior Cloud Data Ops Engineer | Quincy, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=97576904d3410017) | 2026-04-10 20:26 |
+| GESTURE | Senior AI/ML Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8166abc50850e8cd) | 2026-04-10 20:26 |
+| Optum | Senior Data Engineer - Remote | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eaaa5de4e613b797) | 2026-04-10 20:26 |
+| NTT DATA | Pentaho BI SME | San Juan, PR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=565631a2f4f36e37) | 2026-04-10 20:26 |
+| Core & Main | Data Engineer II | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57136340cc4fdeeb) | 2026-04-10 20:26 |
+| Nicklaus Children's Health System | Data Engineer II | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=28a24af3f7388e80) | 2026-04-10 20:26 |
+| Goldman Sachs | Asset & Wealth Management - Software Engineer - Associate - Dallas | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=363a81b7a4ffa5a8) | 2026-04-10 20:26 |
+| General Property Construction | Full Stack Developer – AI Projects | Doral, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=736e7d6f95444207) | 2026-04-10 20:26 |
 | Smile Digital Health | Senior DataOps Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a43d8e0d307a2b20) | 2026-04-10 19:38 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 19:38 |
-| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 19:38 |
 | Wesco | Senior Solutions Architect – Enterprise Applications | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc42a63546dc9773) | 2026-04-10 19:38 |
 | Realign | React JS and Node JS Developer | Phoenix, AZ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=f4302a48fbfa72b9) | 2026-04-10 18:40 |
 | Realign | React JS and Node JS Developer | Raleigh, NC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3725a0e179d8a789) | 2026-04-10 18:40 |
@@ -534,12 +543,6 @@ Last updated: 2026-04-10 19:38
 | Indeed | Data Engineer II | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81fc0c21d444af23) | 2026-04-06 21:30 |
 | IVN | Senior VR/XR & Computer Vision Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cfe26087c7f2c3c7) | 2026-04-06 20:30 |
 | Vanderbilt University Medical Center | Sr Java Application Developer **REMOTE AVAILABLE** | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=37699040bc322434) | 2026-04-06 20:30 |
-| RadCube | DataOps Engineer | Indianapolis, IN, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=31364c52fe931267) | 2026-04-06 19:46 |
-| OneMagnify | Senior Data Architect | MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c213109ba33f094f) | 2026-04-06 19:46 |
-| GAINSCO | Enterprise Data Architect | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=322e0a73c296fcdc) | 2026-04-06 19:46 |
-| Tailored Edge Connections | IT System Administrator | North Aurora, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f856c765cc7cbf0f) | 2026-04-06 19:46 |
-| Qorvo | Data Engineering Intern | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4d4176ecd7b00cdf) | 2026-04-06 19:46 |
-| Klaviyo | Software Engineer II - Identity & Access Management | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2429610d97c33cfd) | 2026-04-06 19:46 |
 
 
 ---
