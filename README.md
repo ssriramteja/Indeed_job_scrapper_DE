@@ -1,17 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-09 23:32
+Last updated: 2026-04-10 01:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Software Engineer - Data processing / Data Integration | Eden Prairie, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1dea85ec326a3e3b) | 2026-04-10 01:29 |
+| SunStone Consulting | Azure Data & Development Architect | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=223510dc060bc6fc) | 2026-04-10 01:29 |
+| I2E Consulting Pvt Ltd | Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=33cdb887177f6544) | 2026-04-10 01:29 |
+| Redfin | Senior Software Engineer, Machine Learning - Remote Eligible | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0e40f7abd94d86e9) | 2026-04-10 01:29 |
+| Engineers & Constructors International | Platform Engineer | TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e0e4af17a0bedefe) | 2026-04-10 01:29 |
+| Crocs | Data Engineer | Broomfield, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ba12e6ce8e6911f4) | 2026-04-10 01:29 |
+| YETI | Sr. Data Architect | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=442293b0740fb6fc) | 2026-04-10 01:29 |
+| Mortenson Construction | Senior Finance BI Developer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2bc0cbeceecb8725) | 2026-04-10 01:29 |
+| Keysight Technologies | Machine Learning Engineer | Colorado Springs, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=606b381a203e9c44) | 2026-04-10 01:29 |
+| LTIMindtree | AWS Cloud Data Developer with Node.js | Raritan, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1083974ac88918fe) | 2026-04-10 01:29 |
+| Realign | Snowflake Architect-9 | Minnesota City, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beaca4a477ff16f5) | 2026-04-10 01:29 |
+| Realign | DevOps Engineer | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c07f32404bc901e3) | 2026-04-10 01:29 |
+| Walkme | DevOps Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58a2b54bac3d613d) | 2026-04-10 01:29 |
 | GitHub | Senior Data Engineer, Revenue Intelligence | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5f11c5f49ca38408) | 2026-04-09 23:32 |
 | Hexaware Technologies | Big Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8c18410d10e98da8) | 2026-04-09 23:32 |
 | Total Quality Logistics (TQL) | Data Architect - Paid Relocation to Cincinnati | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=36d097a5c9b38547) | 2026-04-09 23:32 |
 | ARMADA | Senior Platform/DevOps Engineer (Kubernetes-Linux) | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1bb2064fa7d1ef15) | 2026-04-09 23:32 |
 | BNY | Site Reliability Engineer_Pipeline | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3403085da0b17678) | 2026-04-09 23:32 |
-| Arizona Public Service (APS) | Machine Learning Engineer \| MLOps & Scalable Systems | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfe6c9fa96038f50) | 2026-04-09 23:32 |
 | BNY | Senior Specialist, Full-Stack Engineer | Lake Mary, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6abb2385899cf65f) | 2026-04-09 23:32 |
 | Epochfolio | React Ul Architect (Day 1 Onsite - Plano, TX) | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9f22daeae7b4cb18) | 2026-04-09 22:33 |
 | Vanguard | Machine Learning Engineer, Specialist | Malvern, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=74e743e45605a878) | 2026-04-09 22:33 |
@@ -474,8 +486,6 @@ Last updated: 2026-04-09 23:32
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc707a9bbacf36ab) | 2026-04-06 06:26 |
 | GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a0d95f3260031a05) | 2026-04-06 06:26 |
 | PlayStation | Software Engineer II, Data Platform | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1696f58952c74ca) | 2026-04-06 04:38 |
-| Paramount | Sr Data Engineer | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1bf73fd986d212e6) | 2026-04-06 01:29 |
-| Salt Dental Partners | Data Analytics Engineer | Franklin, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21381131f52aaafb) | 2026-04-06 01:29 |
 
 
 ---
