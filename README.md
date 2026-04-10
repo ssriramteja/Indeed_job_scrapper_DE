@@ -1,12 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 08:17
+Last updated: 2026-04-10 10:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 08:17 |
+| GitHub | Senior Data Engineer, Revenue Intelligence | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fbd118d6be25a868) | 2026-04-10 10:02 |
+| Airwallex | Senior Data Engineer - Knowledge Platform | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4a97391e031fbe7e) | 2026-04-10 10:02 |
+| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 10:02 |
+| Ellucian | Sr. Cloud Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a5c6c22bfb3d302d) | 2026-04-10 10:02 |
+| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e55e25e3c6cd3752) | 2026-04-10 10:02 |
+| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6b2ffe5d9c2ef14) | 2026-04-10 10:02 |
 | 7-Eleven | Sr AI Security Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03c42902c0bf3d6c) | 2026-04-10 08:17 |
 | LMG Technology Services LLC | Senior Application Programmer (SR- 5266901) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0fbe128e8cb7b0e3) | 2026-04-10 08:17 |
 | NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7ba561a7b1076cd7) | 2026-04-10 06:28 |
@@ -517,7 +522,6 @@ Last updated: 2026-04-10 08:17
 | Vaarida Technologies | AliCloud Engineer | Cupertino, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=875f29ca149584b4) | 2026-04-06 15:38 |
 | NIKSUN, Inc. | UI/UX Engineer | Princeton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3368fc7b71b947f0) | 2026-04-06 14:06 |
 | nan | Data Analyst (Sales Ops)- Temp | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45b583a24b7d9b26) | 2026-04-06 14:06 |
-| Gi Group | Deployment Engineer | Manor, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0f076f71ac1c6a4b) | 2026-04-06 08:18 |
 
 
 ---
