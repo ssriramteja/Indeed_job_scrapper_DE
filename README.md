@@ -1,18 +1,40 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 04:40
+Last updated: 2026-04-10 06:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7ba561a7b1076cd7) | 2026-04-10 06:28 |
+| NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ff197f6507571237) | 2026-04-10 06:28 |
+| NTT DATA | Multi-Cloud SQL/Oracle Database Administrator (DBA) | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=aa9e5db8b8f70d82) | 2026-04-10 06:28 |
+| NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=87d23704eafca584) | 2026-04-10 06:28 |
+| NTT DATA | Multi-Cloud SQL Database Administrator (DBA) | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=18a6a1cc72921a57) | 2026-04-10 06:28 |
+| Airwallex | Senior Data Engineer - Knowledge Platform | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1e71d288565747ae) | 2026-04-10 06:28 |
+| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 06:28 |
+| Hurrdat | Senior Analytics Engineer | Omaha, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ca56751aee18003) | 2026-04-10 06:28 |
+| NTT DATA | Developer / Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=edd25943628391ab) | 2026-04-10 06:28 |
+| NTT DATA | Developer / Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03ddfff990a5f81c) | 2026-04-10 06:28 |
+| NTT DATA | Primary Data Architect - Onsite Hybrid | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=66a8b5a9987326ca) | 2026-04-10 06:28 |
+| NTT DATA | Data Scientist | Camden, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3c3639e1ca81b020) | 2026-04-10 06:28 |
+| NTT DATA | Test Automation Engineer / SDET - HYBRID | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=07ad973246f6e766) | 2026-04-10 06:28 |
+| NTT DATA | Test Automation Engineer / SDET - HYBRID | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df0f82a7b2b1fcf2) | 2026-04-10 06:28 |
+| SAMYANG AMERICA INC | Sr. Data Engineer Specialist | Brea, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73d09ed4f454c71e) | 2026-04-10 06:28 |
+| NTT DATA | Public Cloud Engineer - GCP (Google Cloud Platform) | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=68b48e77659323aa) | 2026-04-10 06:28 |
+| NTT DATA | Public Cloud Engineer - GCP (Google Cloud Platform) | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13262ec05868c54b) | 2026-04-10 06:28 |
+| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a2f3e5b6d74f5be3) | 2026-04-10 06:28 |
+| NTT DATA | Cloud Engineer - OCI Focused | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eab876ea207f99ca) | 2026-04-10 06:28 |
+| NTT DATA | Python Snowflake Data Engineer - ONSITE | Buffalo, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2b4138e7fb03c99) | 2026-04-10 06:28 |
+| NTT DATA | Multi Cloud Linux Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dde2c2ccbab7f4ac) | 2026-04-10 06:28 |
+| NTT DATA | Multi Cloud Linux Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b706c6d89269a3d5) | 2026-04-10 06:28 |
+| NTT DATA | AWS Full Stack React Developer (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b3a5d9e2a77d550d) | 2026-04-10 06:28 |
 | Acentra Health | Data Engineer, Mid | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0dac913f15ed70dd) | 2026-04-10 04:40 |
 | Illumen Group | Senior Python & SAS Developer (Data Modernization) | Stafford, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=627ab8a0812a8e66) | 2026-04-10 04:40 |
 | Boeing | Computing Architect (Mid-Level or Senior) | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1d3fbb7843d4086b) | 2026-04-10 04:40 |
 | AmeriHealth Caritas | Azure Data Engineer | Newtown Square, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0d04492e99eca232) | 2026-04-10 04:40 |
 | Humana | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=016b24c707be3d95) | 2026-04-10 04:40 |
 | Wells Fargo | Software Engineer 4 - Contingent (contract) | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e38b2018ce77fd05) | 2026-04-10 04:40 |
-| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 04:40 |
 | NASCO | Dir, Product & Software Engineering-Cloud | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f7251b98d526b87a) | 2026-04-10 04:40 |
 | Federal Reserve Bank of Boston | Data Scientist, Senior | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de0643317ba1a616) | 2026-04-10 04:40 |
 | Tata Consultancy Services (TCS) | AI Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e719659dc3c086a) | 2026-04-10 04:40 |
@@ -494,9 +516,6 @@ Last updated: 2026-04-10 04:40
 | NIKSUN, Inc. | UI/UX Engineer | Princeton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3368fc7b71b947f0) | 2026-04-06 14:06 |
 | nan | Data Analyst (Sales Ops)- Temp | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45b583a24b7d9b26) | 2026-04-06 14:06 |
 | Gi Group | Deployment Engineer | Manor, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0f076f71ac1c6a4b) | 2026-04-06 08:18 |
-| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce918c4d6c656402) | 2026-04-06 06:26 |
-| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc707a9bbacf36ab) | 2026-04-06 06:26 |
-| GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a0d95f3260031a05) | 2026-04-06 06:26 |
 
 
 ---
