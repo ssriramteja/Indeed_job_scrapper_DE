@@ -1,13 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 16:41
+Last updated: 2026-04-10 17:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 16:41 |
-| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 16:41 |
+| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=075c352d5919b190) | 2026-04-10 17:41 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 17:41 |
+| Beehyv | Software Engineer | McKinney, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=28fc8ff707127a1b) | 2026-04-10 17:41 |
+| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 17:41 |
+| Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9a0a23fabb87369f) | 2026-04-10 17:41 |
+| Openkyber | AI Integration Engineer (Java + AI) | HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f7bd5de39a297655) | 2026-04-10 17:41 |
+| nan | Senior Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09cd4db2f9c6e6e1) | 2026-04-10 17:41 |
+| Openkyber | Java SDK / Library Developer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2eb9b35387850b2e) | 2026-04-10 17:41 |
+| Openkyber | Java SDK / Library Developer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5be5dc9660ff2a02) | 2026-04-10 17:41 |
+| Openkyber | Java API Integration Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca84caf988e212bb) | 2026-04-10 17:41 |
+| Openkyber | Java API Integration Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bb518870b55148fc) | 2026-04-10 17:41 |
 | American business solutions inc | Cloud Engineer | Harrisburg, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cc38211228fd0f17) | 2026-04-10 16:41 |
 | Total Quality Logistics (TQL) | Data Architect - Paid Relocation to Cincinnati | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c40e1674aa706aac) | 2026-04-10 16:41 |
 | nan | Data & AI Architect | Elmhurst, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=52b329b2cc3b8428) | 2026-04-10 15:42 |
@@ -524,15 +533,6 @@ Last updated: 2026-04-10 16:41
 | Health Business Solutions | LLM Operations Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=29f380b4ee93c576) | 2026-04-06 18:44 |
 | Realign | Resiliency & Recovery Engineer-1 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c68a7783ebf554b) | 2026-04-06 18:44 |
 | Tardus inc | Workday Consultant | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=404fb8b0e1fceb3e) | 2026-04-06 18:44 |
-| Realign | Python Developer with AWS-2 | North Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3ee773ea630e1307) | 2026-04-06 17:38 |
-| athenahealth | Senior MLOps Engineer - Analytics & AI - R&D - Engineering | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b90e39d495953c19) | 2026-04-06 17:38 |
-| Axle | Computer Programmer | Rockville, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=82e8ba86f3bb725f) | 2026-04-06 17:38 |
-| Realign | Data Engineer-4 | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=238b37485205d9b2) | 2026-04-06 17:38 |
-| Advanced software systems | Senior Databricks Administrator (AWS) New | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a86546443e51144d) | 2026-04-06 17:38 |
-| Healthfirst (New York) | Sr Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a7e1ba2fbbe4b720) | 2026-04-06 17:38 |
-| Realign | Developer – T-SQL, Azure Logic Apps (Remote) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4a0bd8c3f6a6cba) | 2026-04-06 17:38 |
-| Realign | Devops Engineer-1 | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d21b43139fbc9c58) | 2026-04-06 17:38 |
-| Realign | ML Engineer / AI Operations-3 | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=757de7bfe898f867) | 2026-04-06 17:38 |
 
 
 ---
