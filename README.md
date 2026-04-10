@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 01:29
+Last updated: 2026-04-10 04:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Acentra Health | Data Engineer, Mid | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0dac913f15ed70dd) | 2026-04-10 04:40 |
+| Illumen Group | Senior Python & SAS Developer (Data Modernization) | Stafford, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=627ab8a0812a8e66) | 2026-04-10 04:40 |
+| Boeing | Computing Architect (Mid-Level or Senior) | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1d3fbb7843d4086b) | 2026-04-10 04:40 |
+| AmeriHealth Caritas | Azure Data Engineer | Newtown Square, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0d04492e99eca232) | 2026-04-10 04:40 |
+| Humana | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=016b24c707be3d95) | 2026-04-10 04:40 |
+| Wells Fargo | Software Engineer 4 - Contingent (contract) | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e38b2018ce77fd05) | 2026-04-10 04:40 |
+| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 04:40 |
+| NASCO | Dir, Product & Software Engineering-Cloud | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f7251b98d526b87a) | 2026-04-10 04:40 |
+| Federal Reserve Bank of Boston | Data Scientist, Senior | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de0643317ba1a616) | 2026-04-10 04:40 |
+| Tata Consultancy Services (TCS) | AI Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e719659dc3c086a) | 2026-04-10 04:40 |
+| American Airlines | Engineer, IT Software | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83bad294f816f723) | 2026-04-10 04:40 |
+| Social Impact | Full-Stack Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e35a4a7eaaadb3e6) | 2026-04-10 04:40 |
 | Optum | Software Engineer - Data processing / Data Integration | Eden Prairie, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1dea85ec326a3e3b) | 2026-04-10 01:29 |
 | SunStone Consulting | Azure Data & Development Architect | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=223510dc060bc6fc) | 2026-04-10 01:29 |
 | I2E Consulting Pvt Ltd | Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=33cdb887177f6544) | 2026-04-10 01:29 |
@@ -485,7 +497,6 @@ Last updated: 2026-04-10 01:29
 | GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce918c4d6c656402) | 2026-04-06 06:26 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc707a9bbacf36ab) | 2026-04-06 06:26 |
 | GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a0d95f3260031a05) | 2026-04-06 06:26 |
-| PlayStation | Software Engineer II, Data Platform | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1696f58952c74ca) | 2026-04-06 04:38 |
 
 
 ---
