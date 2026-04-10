@@ -1,13 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 15:42
+Last updated: 2026-04-10 16:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 15:42 |
-| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 15:42 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 16:41 |
+| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 16:41 |
+| American business solutions inc | Cloud Engineer | Harrisburg, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cc38211228fd0f17) | 2026-04-10 16:41 |
+| Total Quality Logistics (TQL) | Data Architect - Paid Relocation to Cincinnati | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c40e1674aa706aac) | 2026-04-10 16:41 |
 | nan | Data & AI Architect | Elmhurst, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=52b329b2cc3b8428) | 2026-04-10 15:42 |
 | Equinox | Sr. Data Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=eda14dafda45f1a6) | 2026-04-10 14:12 |
 | nan | Senior Software and Integrations Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=be70c6be9df15447) | 2026-04-10 14:12 |
