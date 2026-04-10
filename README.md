@@ -1,20 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 21:29
+Last updated: 2026-04-10 22:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 22:28 |
+| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 22:28 |
+| Spatial Front | Senior Python and SAS Developer | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cace19948d1122ec) | 2026-04-10 22:28 |
+| Optum | Senior Software Engineer | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=17b5c5a8dea42109) | 2026-04-10 22:28 |
+| Tata Consultancy Services (TCS) | AI Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c1544040879e498) | 2026-04-10 22:28 |
+| Zoom Communications | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76952bdd1db77c87) | 2026-04-10 22:28 |
 | Parker Management | Data & Integration Engineer | Savannah, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7c9dd79e5f8809c1) | 2026-04-10 21:29 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 21:29 |
 | nan | ML Infrastructure/Platform Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4fee9a8a881ab20d) | 2026-04-10 21:29 |
 | Ascendion | Cloud DevOps Engineer | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=417ddf2924330606) | 2026-04-10 21:29 |
 | Qode | Senior Databricks Architect | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0ed04830fcc61009) | 2026-04-10 21:29 |
 | Loenbro | Analytics Engineer | Centennial, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3bce0d5c31544a7) | 2026-04-10 21:29 |
 | Tata Consultancy Services (TCS) | Data Engineer Analytics | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0fca2dbc1cb62ea7) | 2026-04-10 21:29 |
 | Tata Consultancy Services (TCS) | Data Engineer Analytics | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b8a961bf8d8ee3c2) | 2026-04-10 21:29 |
-| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 21:29 |
 | Opiniion | Senior Software Engineer, Integrations | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=74d290ee24e1a475) | 2026-04-10 21:29 |
 | DigitalOcean | Senior Solutions Architect II - AI/ML | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a9f918f316322213) | 2026-04-10 21:29 |
 | DigitalOcean | Senior Solutions Architect II - AI/ML | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6c63c5d1dc0becba) | 2026-04-10 21:29 |
@@ -540,24 +544,6 @@ Last updated: 2026-04-10 21:29
 | Labcorp | Senior Data Scientist | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df4b1cc4ed807ce6) | 2026-04-06 23:28 |
 | Capgemini | Junior Automation Tester (AI enabled Testing) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f99abb391ef4c38f) | 2026-04-06 23:28 |
 | Capgemini | Junior Automation Tester (AI enabled Testing) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85aec2fe5dbdec6e) | 2026-04-06 23:28 |
-| Acxiom | Intern - Data Engineer - Summer 2026 | Conway, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=338baa6df1016586) | 2026-04-06 22:27 |
-| JPMorganChase | Software Engineer III - Full Stack + AWS + Elastic / Open Search | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0ce76eb1050277d8) | 2026-04-06 22:27 |
-| Careficient | Healthcare Application Developer (AWS / Clinical AI) | Kansas City, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=76e0e8781165273c) | 2026-04-06 22:27 |
-| Regions Financial | Cloud DevSecOps Engineer | Hoover, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=88befaf12f2cc91c) | 2026-04-06 22:27 |
-| Vizient, Inc. | Senior Software Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=65f24e485db8e99c) | 2026-04-06 22:27 |
-| Monks | Senior Full- Stack Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f0ce256017494b0) | 2026-04-06 22:27 |
-| JPMorganChase | Software Engineer III- AWS/Python/PySpark | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=22afb06d679561e6) | 2026-04-06 22:27 |
-| David's Bridal | Data Analyst — AI-Driven Insights | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6162c1000e2759f6) | 2026-04-06 22:27 |
-| NYU Langone Health | ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=72534c2968374dee) | 2026-04-06 22:27 |
-| oura | Senior Data Architect | San Francisco, CA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=42ae77d7fc82e8f5) | 2026-04-06 21:30 |
-| Vantage Data Centers | Senior Data Engineer, Global | CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e41b246b13bc8e16) | 2026-04-06 21:30 |
-| Vantage Data Centers | Senior Data Engineer, Global | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9d05ebd191671b98) | 2026-04-06 21:30 |
-| Pegasystems | Senior IT Database Engineer | Waltham, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ea0b20148ccd5d08) | 2026-04-06 21:30 |
-| Empirx Health | Enterprise Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=998975ecfa0fdb90) | 2026-04-06 21:30 |
-| MetLife | Junior Software Engineer | Clarks Summit, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c8fca3b486bed796) | 2026-04-06 21:30 |
-| AdCellerant | Senior Backend Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f8c4e369ba11565e) | 2026-04-06 21:30 |
-| nan | Data Operations Engineer | Trenton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c98f422ee056842) | 2026-04-06 21:30 |
-| Indeed | Data Engineer II | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81fc0c21d444af23) | 2026-04-06 21:30 |
 
 
 ---
