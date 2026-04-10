@@ -1,19 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 18:40
+Last updated: 2026-04-10 19:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Smile Digital Health | Senior DataOps Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a43d8e0d307a2b20) | 2026-04-10 19:38 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 19:38 |
+| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 19:38 |
+| Wesco | Senior Solutions Architect – Enterprise Applications | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc42a63546dc9773) | 2026-04-10 19:38 |
 | Realign | React JS and Node JS Developer | Phoenix, AZ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=f4302a48fbfa72b9) | 2026-04-10 18:40 |
 | Realign | React JS and Node JS Developer | Raleigh, NC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3725a0e179d8a789) | 2026-04-10 18:40 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 18:40 |
 | Neodymium | Programmer 5 | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1bb969ab476e39f5) | 2026-04-10 18:40 |
 | New York Life | Senior Associate - Sr. Quality Test Engineer (SDET) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=874459add6faf56d) | 2026-04-10 18:40 |
 | Global Payments | DevOps Engineer (AI/ML) | Columbus, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c0583eb15ac45170) | 2026-04-10 18:40 |
 | Global Payments | DevOps Engineer (AI/ML) | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=58e0b50be31f6904) | 2026-04-10 18:40 |
-| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 18:40 |
 | Rio Tinto | Specialist Data Engineering | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=12141d827aef2872) | 2026-04-10 18:40 |
 | S R International Inc | Azure + AWS Cloud Engineer (GPT Model Integration, Prompt Engineering) | Harrisburg, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ecffc87de58c4bef) | 2026-04-10 18:40 |
 | NTT DATA | API Architect (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=756bfe2853f87e1f) | 2026-04-10 18:40 |
@@ -538,10 +540,6 @@ Last updated: 2026-04-10 18:40
 | Tailored Edge Connections | IT System Administrator | North Aurora, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f856c765cc7cbf0f) | 2026-04-06 19:46 |
 | Qorvo | Data Engineering Intern | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4d4176ecd7b00cdf) | 2026-04-06 19:46 |
 | Klaviyo | Software Engineer II - Identity & Access Management | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2429610d97c33cfd) | 2026-04-06 19:46 |
-| The Cigna Group | Software Engineering Advisor –Evernorth | Bloomington, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d6e200e992325ba5) | 2026-04-06 18:44 |
-| Health Business Solutions | LLM Operations Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=29f380b4ee93c576) | 2026-04-06 18:44 |
-| Realign | Resiliency & Recovery Engineer-1 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c68a7783ebf554b) | 2026-04-06 18:44 |
-| Tardus inc | Workday Consultant | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=404fb8b0e1fceb3e) | 2026-04-06 18:44 |
 
 
 ---
