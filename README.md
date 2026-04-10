@@ -1,13 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 22:28
+Last updated: 2026-04-10 23:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 22:28 |
-| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 22:28 |
+| Parker's Kitchen | Data & Integration Engineer | Savannah, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a279b4dc75fa05b2) | 2026-04-10 23:28 |
+| Uber | Software Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f86a75694dac8d84) | 2026-04-10 23:28 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 23:28 |
+| Openkyber | Guidewire API Developer | IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=29ed04d19483441d) | 2026-04-10 23:28 |
+| Vantage Data Centers | Senior Data Engineer, Global | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=99dcb67444244ecd) | 2026-04-10 23:28 |
+| Vantage Data Centers | Senior Data Engineer, Global | CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cc7cabf779bdafae) | 2026-04-10 23:28 |
+| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 23:28 |
+| Openkyber | Guidewire API Developer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12c7db9666c539fb) | 2026-04-10 23:28 |
+| TTX | AI & Data Analytics Architect | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7d7156d0e2fa6911) | 2026-04-10 23:28 |
+| Pelico | DevOps Miami | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cadf0132866f1439) | 2026-04-10 23:28 |
+| Route | Data Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e06fc0c98a8ef702) | 2026-04-10 23:28 |
 | Spatial Front | Senior Python and SAS Developer | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cace19948d1122ec) | 2026-04-10 22:28 |
 | Optum | Senior Software Engineer | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=17b5c5a8dea42109) | 2026-04-10 22:28 |
 | Tata Consultancy Services (TCS) | AI Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c1544040879e498) | 2026-04-10 22:28 |
@@ -531,19 +540,6 @@ Last updated: 2026-04-10 22:28
 | Blue Shield of California | Application Developer, Consultant | El Dorado Hills, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fdc29a015a3c272e) | 2026-04-07 01:27 |
 | Cotiviti | Data Engineer - AI (Spark, Databricks and Healthcare) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b04fae137c25a5f) | 2026-04-07 01:27 |
 | NTT DATA | AWS Full Stack React Developer (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8588279f5d9918c9) | 2026-04-07 01:27 |
-| United Concordia Dental | Senior Data Engineer – Streaming, Analytics & Visualization | PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c44885cba017a052) | 2026-04-06 23:28 |
-| nan | AI Solutions Architect - Founding | West Palm Beach, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dad27261ac45880f) | 2026-04-06 23:28 |
-| Koya Consulting | Java Backend Engineer | Sunnyvale, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=72cf88180937d8f9) | 2026-04-06 23:28 |
-| Diné Development Corporation | Analytics / Data Engineer | Dayton, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c95daa9d3325b0e6) | 2026-04-06 23:28 |
-| Diné Development Corporation | Analytics / Data Engineer | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b61231aa2a194a10) | 2026-04-06 23:28 |
-| Cummins | Data Engineer | IN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb06ddb826f8d860) | 2026-04-06 23:28 |
-| Evercommerce | EverHealth – Senior Data Engineer (Remote, US) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=606cdb554cde0461) | 2026-04-06 23:28 |
-| FireMon | DevOps Engineer | Kansas City, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5a9f14ac4c33a585) | 2026-04-06 23:28 |
-| Butler Till | Analytics Data Engineer II | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb30244a11aaad6a) | 2026-04-06 23:28 |
-| Capgemini | Junior Automation Tester (AI enabled Testing) | Bridgewater, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=31c5a628a0bbcd11) | 2026-04-06 23:28 |
-| Labcorp | Senior Data Scientist | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df4b1cc4ed807ce6) | 2026-04-06 23:28 |
-| Capgemini | Junior Automation Tester (AI enabled Testing) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f99abb391ef4c38f) | 2026-04-06 23:28 |
-| Capgemini | Junior Automation Tester (AI enabled Testing) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85aec2fe5dbdec6e) | 2026-04-06 23:28 |
 
 
 ---
