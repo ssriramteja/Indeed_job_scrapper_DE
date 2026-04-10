@@ -1,18 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 06:28
+Last updated: 2026-04-10 08:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 08:17 |
+| 7-Eleven | Sr AI Security Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03c42902c0bf3d6c) | 2026-04-10 08:17 |
+| LMG Technology Services LLC | Senior Application Programmer (SR- 5266901) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0fbe128e8cb7b0e3) | 2026-04-10 08:17 |
 | NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7ba561a7b1076cd7) | 2026-04-10 06:28 |
 | NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ff197f6507571237) | 2026-04-10 06:28 |
 | NTT DATA | Multi-Cloud SQL/Oracle Database Administrator (DBA) | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=aa9e5db8b8f70d82) | 2026-04-10 06:28 |
 | NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=87d23704eafca584) | 2026-04-10 06:28 |
 | NTT DATA | Multi-Cloud SQL Database Administrator (DBA) | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=18a6a1cc72921a57) | 2026-04-10 06:28 |
 | Airwallex | Senior Data Engineer - Knowledge Platform | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1e71d288565747ae) | 2026-04-10 06:28 |
-| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 06:28 |
 | Hurrdat | Senior Analytics Engineer | Omaha, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ca56751aee18003) | 2026-04-10 06:28 |
 | NTT DATA | Developer / Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=edd25943628391ab) | 2026-04-10 06:28 |
 | NTT DATA | Developer / Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03ddfff990a5f81c) | 2026-04-10 06:28 |
