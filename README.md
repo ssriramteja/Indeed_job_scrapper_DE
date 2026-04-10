@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 14:12
+Last updated: 2026-04-10 15:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 15:42 |
+| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 15:42 |
+| nan | Data & AI Architect | Elmhurst, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=52b329b2cc3b8428) | 2026-04-10 15:42 |
 | Equinox | Sr. Data Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=eda14dafda45f1a6) | 2026-04-10 14:12 |
 | nan | Senior Software and Integrations Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=be70c6be9df15447) | 2026-04-10 14:12 |
-| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 14:12 |
 | Tripledot Studios | 2-6 Month Senior Data Engineer Contract | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1492e3665cbc949b) | 2026-04-10 14:12 |
 | Webster University | Data Scientist I | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bd21adcbb6f4fbac) | 2026-04-10 14:12 |
 | Convey Health Solutions | Data Scientist I | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a6c7cbfa1f1ffb22) | 2026-04-10 14:12 |
@@ -529,9 +531,6 @@ Last updated: 2026-04-10 14:12
 | Realign | Developer – T-SQL, Azure Logic Apps (Remote) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4a0bd8c3f6a6cba) | 2026-04-06 17:38 |
 | Realign | Devops Engineer-1 | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d21b43139fbc9c58) | 2026-04-06 17:38 |
 | Realign | ML Engineer / AI Operations-3 | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=757de7bfe898f867) | 2026-04-06 17:38 |
-| Qbtech | Senior Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3c14d180cd784ef) | 2026-04-06 15:38 |
-| Fustis LLC | Genesys Cloud GenAI Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4735299b123e3950) | 2026-04-06 15:38 |
-| Vaarida Technologies | AliCloud Engineer | Cupertino, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=875f29ca149584b4) | 2026-04-06 15:38 |
 
 
 ---
