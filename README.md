@@ -1,14 +1,62 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 01:23
+Last updated: 2026-04-11 04:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Thermo Fisher Scientific | Scientist III, Data Engineer | MA, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=242e2f2f15e944fd) | 2026-04-11 04:13 |
+| nan | Senior Cloud Software Engineer (Full-Stack) | Anchorage, AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=716162d09810edc0) | 2026-04-11 04:13 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 04:13 |
+| Diverse Agile Solutions | Senior Application Developer / Engineer / Programmer | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fe599190cd4853ee) | 2026-04-11 04:13 |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 04:13 |
+| Inframark | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=172a54e6b4658010) | 2026-04-11 04:13 |
+| Inframark | DevOps Engineer | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=65b3c5652baa523f) | 2026-04-11 04:13 |
+| Inframark | DevOps Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=455a057972235895) | 2026-04-11 04:13 |
+| Tata Consultancy Services (TCS) | Engineer | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5c1455f57f98249) | 2026-04-11 04:13 |
+| Old National Bank | QA Automation Engineer | Lake Elmo, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e32c84fbc1c2464a) | 2026-04-11 04:13 |
+| Parser Limited | Senior Fullstack Engineer (Retool) | CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9b8cf4f9a1850308) | 2026-04-11 04:13 |
+| Leo Facilities Maintenance | Business Intelligence Analyst | West Chester, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e8d9e56b424a71d) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d81fef551c0c0fdf) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=00a97d79e2b95510) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df9f2f52dcabb706) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af446c2579eebba8) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Morristown, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=262957346bbab6d4) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5313aeebd075c192) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=daa0a2ad309b3e70) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a10762058cac0b75) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed1dd856c64ff5e7) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f1896dd1fe34f2c) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0371a3c7e8f847e) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eafd5eda62e911f4) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e4535bf8a7108211) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a68eb49385697644) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e21035efae6c4ab) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fe39d24dc97733a) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=15c0a06509d0f024) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aaa688b190a64e6e) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84c15d4ca64690c2) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9471107e8b93804c) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c92d98461c7cbf82) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e17e778b2b9f5d2) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f0137f329fef2c34) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Stamford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29b803af10fd336f) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=afbca3457bf1681d) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c025d5b4f4d0f043) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=683adfb225dcd666) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f31fb13e57f7d26a) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=68413893cdcaa348) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fe2fd846e5e89685) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13484b9c7b6b160c) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9d45b16a298a0a6e) | 2026-04-11 04:13 |
+| Deloitte | GenAI Solution Engineer (Claude/Codex/Gemini) | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=efcb0ec8dcb159a4) | 2026-04-11 04:13 |
+| Corning | Sr. Data Scientist | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc7e443192de143d) | 2026-04-11 04:13 |
+| Alignment Healthcare | Principle AI & Data Scientist | Orange, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=066c6d8069347b46) | 2026-04-11 04:13 |
+| Payabli | Senior Software Engineer, Platform | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6aec507f41a1cbd7) | 2026-04-11 04:13 |
+| Anthropic | Analytics, Finance & StrategyNew | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09dd1bf805dee945) | 2026-04-11 04:13 |
 | PLUME | Senior Data Engineer (Data + Applied AI) | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b5030a1bb6b9395c) | 2026-04-11 01:23 |
 | Quantiphi | Associate Technical Architect - Data (Oracle) | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=fe9e7a6323a73ddf) | 2026-04-11 01:23 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 01:23 |
 | AMD | Senior DevOps Engineer | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1e8d1d9d043cd2bd) | 2026-04-11 01:23 |
 | Blue Matter | AI Engineer / Senior AI Engineer | South San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1d9a41c33498321d) | 2026-04-11 01:23 |
 | Engineers & Constructors International | Platform Engineer | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=242643709c670116) | 2026-04-11 01:23 |
@@ -545,13 +593,6 @@ Last updated: 2026-04-11 01:23
 | Fidelity TalentSource | Java Full Stack Engineer | Westlake, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8de97150c606b641) | 2026-04-07 04:27 |
 | Tata Consultancy Services (TCS) | Cloud Data Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9dbde110bfeaa84c) | 2026-04-07 04:27 |
 | Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7bf203aa2f13913) | 2026-04-07 04:27 |
-| Metropolitan Commercial Bank | AI Scientist | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=76545ebacbf0ef00) | 2026-04-07 01:27 |
-| Coinbase | Senior Analytics Engineer (Platform - Financial Analytics) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a8ee9996259cb8cd) | 2026-04-07 01:27 |
-| NTT DATA | Primary Data Architect - Onsite Hybrid | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3c539bfe4180a449) | 2026-04-07 01:27 |
-| AMH | Senior Data Engineer | Calabasas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b14638ca94876de4) | 2026-04-07 01:27 |
-| Blue Shield of California | Application Developer, Consultant | El Dorado Hills, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fdc29a015a3c272e) | 2026-04-07 01:27 |
-| Cotiviti | Data Engineer - AI (Spark, Databricks and Healthcare) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b04fae137c25a5f) | 2026-04-07 01:27 |
-| NTT DATA | AWS Full Stack React Developer (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8588279f5d9918c9) | 2026-04-07 01:27 |
 
 
 ---
