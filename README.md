@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 19:29
+Last updated: 2026-04-11 20:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 19:29 |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 20:22 |
 | New York Life | Senior Associate, AWS Cloud Platform Engineer | Lebanon, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5130b1cac45762a) | 2026-04-11 18:31 |
 | Openkyber | Okta | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=229a363c5f9abe92) | 2026-04-11 17:25 |
 | Openkyber | Okta | NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8389dc038a61799a) | 2026-04-11 17:25 |
@@ -600,15 +600,6 @@ Last updated: 2026-04-11 19:29
 | Conagra Brands | Sr. Cloud/Software Engineer | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d4328781e85345ce) | 2026-04-07 20:38 |
 | Conagra Brands | Cloud/Software Engineer | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=080165bfea0f1891) | 2026-04-07 20:38 |
 | MCKIM & CREED | Corporate Data Engineering Specialist | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ceb2d6fbfda4c4a3) | 2026-04-07 20:38 |
-| ProfitSolv | AI Data Engineer - Remote | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7c32b89e8538ed48) | 2026-04-07 19:52 |
-| ProfitSolv | AI Data Engineer - Remote | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d8627a591401b5c2) | 2026-04-07 19:52 |
-| ProfitSolv | AI Data Engineer - Remote | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=14597be3e3d5d6c5) | 2026-04-07 19:52 |
-| SAP | Senior Platform Infrastructure Engineer | San Ramon, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a550b10b06b0495e) | 2026-04-07 19:52 |
-| Results Generation | Cloud DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9234cb66e9a7e360) | 2026-04-07 19:52 |
-| Sigma Computing | Technical Recruiter - AI Engineering | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=97f05de2af000d3d) | 2026-04-07 19:52 |
-| National Public Radio | Software Engineer, Product & Audience Technology | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd6630164ce06047) | 2026-04-07 19:52 |
-| Defense Unicorns | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cd99e31ec539b3e) | 2026-04-07 19:52 |
-| Kash Tech | Business Intelligence Architect | Lake Mary, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d669d17cd5da84b8) | 2026-04-07 19:52 |
 
 
 ---
