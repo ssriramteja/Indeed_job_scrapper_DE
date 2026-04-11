@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 20:22
+Last updated: 2026-04-11 21:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 20:22 |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 21:25 |
 | New York Life | Senior Associate, AWS Cloud Platform Engineer | Lebanon, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5130b1cac45762a) | 2026-04-11 18:31 |
 | Openkyber | Okta | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=229a363c5f9abe92) | 2026-04-11 17:25 |
 | Openkyber | Okta | NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8389dc038a61799a) | 2026-04-11 17:25 |
@@ -590,16 +590,6 @@ Last updated: 2026-04-11 20:22
 | nSCALE | Data Engineer | Barstow, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=efdadd031f04e3df) | 2026-04-07 21:36 |
 | Propio LS LLC | Data Engineer II | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dddc21bb28ed1d22) | 2026-04-07 21:36 |
 | NTT DATA | API Architect (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d9c6043097083ea) | 2026-04-07 21:36 |
-| AVN Corporation | Software Developer II | Charleston, WV, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=358914e57d4bcf85) | 2026-04-07 20:38 |
-| Calabrio | Principle Engineer, Software | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8dbd418fd5773133) | 2026-04-07 20:38 |
-| Interactive Resources | Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ec427062b528812) | 2026-04-07 20:38 |
-| nan | AI Mobile Developer / Co-Founder | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=85b154d3da56d200) | 2026-04-07 20:38 |
-| Aimpoint Digital | Senior Applications Engineer 2026- US, UK | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d0103d47ad6f0344) | 2026-04-07 20:38 |
-| Conagra Brands | Sr. Data Engineer | Omaha, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=484671a3aa025748) | 2026-04-07 20:38 |
-| Intelerad | Site Reliability Specialist III - MS SQL / Medical Imaging Systems | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3f2b810200a5f10) | 2026-04-07 20:38 |
-| Conagra Brands | Sr. Cloud/Software Engineer | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d4328781e85345ce) | 2026-04-07 20:38 |
-| Conagra Brands | Cloud/Software Engineer | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=080165bfea0f1891) | 2026-04-07 20:38 |
-| MCKIM & CREED | Corporate Data Engineering Specialist | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ceb2d6fbfda4c4a3) | 2026-04-07 20:38 |
 
 
 ---
