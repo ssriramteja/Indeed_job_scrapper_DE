@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 07:44
+Last updated: 2026-04-11 08:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 07:44 |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 07:44 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 08:33 |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 08:33 |
 | NTT DATA | Platform Engineer (AWS) | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fff87f9ad2a13f8a) | 2026-04-11 06:52 |
 | CVS Health | Senior Software Development Engineer | DE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56ec4b91bd2eae45) | 2026-04-11 06:52 |
 | CVS Health | Senior Software Development Engineer | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a2264d35d4610406) | 2026-04-11 06:52 |
@@ -626,9 +626,6 @@ Last updated: 2026-04-11 07:44
 | Dell Technologies | Senior Systems Engineer, UDS Data Management - East | MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=298a46f851ea7983) | 2026-04-07 11:56 |
 | Info Dhas Technologies | Data Engineer | Texas City, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d89d6f2341484cb3) | 2026-04-07 11:56 |
 | Newpage Digital Healthcare solutions | SR PLATFORM ENGINEER | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4e87bc52fd3cc8c6) | 2026-04-07 11:00 |
-| Tri-State Generation & Transmission | IT Data Analytics Engineer I, II, III or Senior | Westminster, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bfdecf8fd48b4c94) | 2026-04-07 08:07 |
-| Atmosera | Senior Consultant - Data & AI (Microsoft Fabric) (Remote - US) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e9732977f36a28c) | 2026-04-07 08:07 |
-| NYU Langone Health | ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f03a531b79570462) | 2026-04-07 08:07 |
 
 
 ---
