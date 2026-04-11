@@ -1,18 +1,57 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 05:55
+Last updated: 2026-04-11 06:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | Platform Engineer (AWS) | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fff87f9ad2a13f8a) | 2026-04-11 06:52 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 06:52 |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | DE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56ec4b91bd2eae45) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a2264d35d4610406) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05d5a587a6d14b89) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=654e0c27326adde9) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47c94da43a5f1ab3) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ecf0f8c6cfd89ac) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=115c597b804055b6) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d6ce3e7bea45493e) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6fcd195523297efe) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=86d26fa4197df309) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=efbb963d7b486eb3) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | ME, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=be091eaed93c89d7) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fded2db8fc850d7c) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=864c1bb4125e2010) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | WV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04c7d7476e8c4a3d) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6c9866f9bd84cc3) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20ef5d7fa994bc4b) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=077d100f577640d4) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0dcb817fc87f8be2) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=508eae3571acb269) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3408da3a2f2fb524) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2fdbf484ba6d2466) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | MS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c829b97ed54e6b32) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=361032e756703c3c) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7a6ae978cfc3e463) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f4e1c6c825cd8a6) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2ae19fe28acac370) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a56034ff2d0124a5) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5b60a01ac0f19294) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b7c3fbe0b81bbf8a) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=09197d183364a677) | 2026-04-11 06:52 |
+| CVS Health | Senior Software Development Engineer | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=54c3e80d85a4dac8) | 2026-04-11 06:52 |
+| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=756649818d5f3c4c) | 2026-04-11 06:52 |
+| Cotality | Sr. Professional, Software Engineering | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7c2508b047fe2781) | 2026-04-11 06:52 |
+| NTT DATA | Azure Cloud Engineer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=268128188c94e0e9) | 2026-04-11 06:52 |
+| Sparc technology services inc | Application Modernization Architect | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=448c12afca90484e) | 2026-04-11 06:52 |
+| NTT DATA | Software Development Specialist Advisor | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b65a93ab1aa85d6b) | 2026-04-11 06:52 |
+| NTT DATA | Dev Ops. Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=557e52ab1c5d0ec6) | 2026-04-11 06:52 |
 | Openkyber | AI Application Architect | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7a5093e8180b857d) | 2026-04-11 05:55 |
 | Openkyber | AI Application Architect | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=090066a47b6dd531) | 2026-04-11 05:55 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 05:55 |
 | Openkyber | AI Application Architect | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9c75ad372a9b5c75) | 2026-04-11 05:55 |
 | Openkyber | AI Application Architect | IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d47e5529ec2a3740) | 2026-04-11 05:55 |
 | Openkyber | Guidewire ETL Developer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb07338bf043f5b4) | 2026-04-11 05:55 |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 05:55 |
 | GEICO | Sr Engineer - (Java, Microservices, Data/Systems Engineering) *HYBRID* | Bethesda, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bc9fe56fb418d8) | 2026-04-11 05:55 |
 | Openkyber | Guidewire ETL Developer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=add49e38a96075b6) | 2026-04-11 05:55 |
 | TNT Crane & Rigging | Senior Systems Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46e05984bc6ba0ca) | 2026-04-11 05:55 |
@@ -590,15 +629,6 @@ Last updated: 2026-04-11 05:55
 | Tri-State Generation & Transmission | IT Data Analytics Engineer I, II, III or Senior | Westminster, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bfdecf8fd48b4c94) | 2026-04-07 08:07 |
 | Atmosera | Senior Consultant - Data & AI (Microsoft Fabric) (Remote - US) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e9732977f36a28c) | 2026-04-07 08:07 |
 | NYU Langone Health | ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f03a531b79570462) | 2026-04-07 08:07 |
-| CVS Health | Senior Data Engineer | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9d7bd5ee5caf6d9e) | 2026-04-07 06:15 |
-| NTT DATA | Primary Data Architect - Onsite Hybrid | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9e9629f9b5b09640) | 2026-04-07 06:15 |
-| RSM | Healthcare Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6bda29f66d209a22) | 2026-04-07 06:15 |
-| RSM | Healthcare Data Engineer | Des Moines, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=988a005246cd2194) | 2026-04-07 06:15 |
-| RSM | Healthcare Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c4c86386e71ccbf) | 2026-04-07 06:15 |
-| RSM | Healthcare Data Engineer | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f6cec9afb06f662f) | 2026-04-07 06:15 |
-| RSM | Healthcare Data Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=46106626b8b759d3) | 2026-04-07 06:15 |
-| RSM | Healthcare Data Engineer | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5949fceede281d86) | 2026-04-07 06:15 |
-| NTT DATA | AWS Full Stack React Developer (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e39392a5986a7e5f) | 2026-04-07 06:15 |
 
 
 ---
