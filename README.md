@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 06:52
+Last updated: 2026-04-11 07:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 07:44 |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 07:44 |
 | NTT DATA | Platform Engineer (AWS) | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fff87f9ad2a13f8a) | 2026-04-11 06:52 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 06:52 |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 06:52 |
 | CVS Health | Senior Software Development Engineer | DE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56ec4b91bd2eae45) | 2026-04-11 06:52 |
 | CVS Health | Senior Software Development Engineer | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a2264d35d4610406) | 2026-04-11 06:52 |
 | CVS Health | Senior Software Development Engineer | LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05d5a587a6d14b89) | 2026-04-11 06:52 |
