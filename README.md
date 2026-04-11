@@ -1,13 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 12:37
+Last updated: 2026-04-11 13:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 12:37 |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 12:37 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 13:49 |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 13:49 |
+| Maximus | Data Architect | Tysons, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1a89b21bbe373b9) | 2026-04-11 13:49 |
+| Oracle | Senior Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=77bccdac7a052a5f) | 2026-04-11 13:49 |
 | Wecom Fiber | Senior BI Developer & Analytics Engineer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eea7ffbb16ef4f94) | 2026-04-11 10:26 |
 | JPMorganChase | Software Engineer III - Fullstack - AWS | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=07dc72c0e4f9dd7e) | 2026-04-11 09:33 |
 | ConstructConnect | Analytics Engineer II | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4a17b4dda4590caa) | 2026-04-11 09:33 |
@@ -625,7 +627,6 @@ Last updated: 2026-04-11 12:37
 | Koch | Senior Platform Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc11b54459d6fd35) | 2026-04-07 15:00 |
 | Koch | Senior Platform Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d502aa87884ef6ba) | 2026-04-07 15:00 |
 | Elekta | Software Quality Engineer - San Jose, CA | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8af71e9cc8f145e5) | 2026-04-07 15:00 |
-| FocusPointSAP | Senior .NET / Azure Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa90f9fbfea59005) | 2026-04-07 13:04 |
 
 
 ---
