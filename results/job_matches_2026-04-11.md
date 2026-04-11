@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-11
 
-**Total Jobs Found:** 151
+**Total Jobs Found:** 152
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -1446,18 +1446,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 132. Business Intelligence Analyst @ Leo Facilities Maintenance
-**Match Score:** 11.1%
-
-📍 **Location:** West Chester, PA, US USA
-
-🔑 **Keywords:** RDS, Azure, Medallion Architecture, Scala, Snowflake, Data Modeling, Star Schema, ETL, Power BI, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8e8d9e56b424a71d)
-
----
-
-## 133. AI & Data Analytics Architect @ TTX
+## 132. AI & Data Analytics Architect @ TTX
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -1468,7 +1457,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 134. Software Engineer @ Zoom Communications
+## 133. Software Engineer @ Zoom Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -1479,7 +1468,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 135. Java API Integration Engineer @ Openkyber
+## 134. Java API Integration Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -1490,7 +1479,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 136. Java API Integration Engineer @ Openkyber
+## 135. Java API Integration Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -1498,6 +1487,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, API Gateway, Azure, Google Cloud Platform, Oracle, MongoDB, NoSQL, CI/CD, Jenkins, Docker
 
 [Apply Here](https://www.indeed.com/viewjob?jk=bb518870b55148fc)
+
+---
+
+## 136. Business Intelligence Analyst @ Leo Facilities Maintenance
+**Match Score:** 11.1%
+
+📍 **Location:** West Chester, PA, US USA
+
+🔑 **Keywords:** RDS, Azure, Medallion Architecture, Scala, Snowflake, Data Modeling, Star Schema, ETL, Power BI, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8e8d9e56b424a71d)
 
 ---
 
@@ -1600,7 +1600,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 146. Devops Engineer-5 @ Realign
+## 146. Senior BI Developer & Analytics Engineer @ Wecom Fiber
+**Match Score:** 10.4%
+
+📍 **Location:** Phoenix, AZ, US USA
+
+🔑 **Keywords:** RDS, Scala, Snowflake, clustering keys, ETL, Tableau, Tableau Server, AKS, Git, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eea7ffbb16ef4f94)
+
+---
+
+## 147. Devops Engineer-5 @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** Irvine, CA, US USA
@@ -1611,7 +1622,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 147. Dev Ops. Architect @ NTT DATA
+## 148. Dev Ops. Architect @ NTT DATA
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -1622,7 +1633,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 148. Dev Ops. Architect @ NTT DATA
+## 149. Dev Ops. Architect @ NTT DATA
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -1633,7 +1644,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 149. Senior Software Engineer Go Outdoors Payments @ Brandt Information Services, Inc.
+## 150. Senior Software Engineer Go Outdoors Payments @ Brandt Information Services, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Tallahassee, FL, US USA
@@ -1644,7 +1655,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 150. Full Stack Developer – AI Projects @ General Property Construction
+## 151. Full Stack Developer – AI Projects @ General Property Construction
 **Match Score:** 10.4%
 
 📍 **Location:** Doral, FL, US USA
@@ -1655,7 +1666,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 151. Java Compliance & Governance Developer @ Openkyber
+## 152. Java Compliance & Governance Developer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** NJ, US USA
