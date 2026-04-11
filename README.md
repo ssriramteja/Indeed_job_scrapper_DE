@@ -1,12 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 16:27
+Last updated: 2026-04-11 17:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 16:27 |
+| Openkyber | Okta | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=229a363c5f9abe92) | 2026-04-11 17:25 |
+| Openkyber | Okta | NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8389dc038a61799a) | 2026-04-11 17:25 |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 17:25 |
+| Openkyber | PingOne Cloud Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=594f058d7c8a610d) | 2026-04-11 17:25 |
 | Walgreens | Software Engineer I (Full Stack) Java | Deerfield, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7e3e188fd3c8b1b5) | 2026-04-11 16:27 |
 | Maximus | Data Architect | Tysons, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1a89b21bbe373b9) | 2026-04-11 13:49 |
 | Oracle | Senior Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=77bccdac7a052a5f) | 2026-04-11 13:49 |
