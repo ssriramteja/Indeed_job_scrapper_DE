@@ -1,12 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 22:23
+Last updated: 2026-04-11 23:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 22:23 |
+| Openkyber | AWS Network Engineer | GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1e68aed4fb5428da) | 2026-04-11 23:25 |
+| Openkyber | AWS Network Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=81b5b89f5da184cb) | 2026-04-11 23:25 |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 23:25 |
+| Openkyber | AWS Network Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3b1cef4b777b5a5) | 2026-04-11 23:25 |
 | New York Life | Senior Associate, AWS Cloud Platform Engineer | Lebanon, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5130b1cac45762a) | 2026-04-11 18:31 |
 | Openkyber | Okta | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=229a363c5f9abe92) | 2026-04-11 17:25 |
 | Openkyber | Okta | NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8389dc038a61799a) | 2026-04-11 17:25 |
@@ -572,15 +575,6 @@ Last updated: 2026-04-11 22:23
 | Keurig Dr Pepper | Senior Data Engineer | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d61b6eca49fa2fe) | 2026-04-07 23:30 |
 | Integrity Marketing Group | Senior Data Scientist | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4b528d73f04fa196) | 2026-04-07 23:30 |
 | Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05b443f66d69fe26) | 2026-04-07 23:30 |
-| Crane Worldwide Logistics | Sr. Data Engineer | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=86039d37dfab9cce) | 2026-04-07 22:30 |
-| nan | Senior Data Architect | Prosper, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4f52058e1d9e1079) | 2026-04-07 22:30 |
-| WTW | AI First Senior Software Engineer | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=60512437ff26ed1a) | 2026-04-07 22:30 |
-| WTW | AI First Senior Software Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fb97ff98a1ad5a4b) | 2026-04-07 22:30 |
-| Zayo Group | Senior Data Analytics Engineer-Network Data Solutions | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a924d3cf5d03118f) | 2026-04-07 22:30 |
-| Spark Business Works | Data Analyst - Custom Software | Kalamazoo, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=524079054f8f7d18) | 2026-04-07 22:30 |
-| Spark Business Works | Data Analyst - Custom Software | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=93b62ca575690d77) | 2026-04-07 22:30 |
-| Crescent Energy | Senior AI Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16933d29b84666ae) | 2026-04-07 22:30 |
-| Crane Worldwide Logistics | Data Engineer II, Data Products | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d7d3e53b75102974) | 2026-04-07 22:30 |
 
 
 ---
