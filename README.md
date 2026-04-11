@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 15:25
+Last updated: 2026-04-11 16:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 15:25 |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 16:27 |
+| Walgreens | Software Engineer I (Full Stack) Java | Deerfield, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7e3e188fd3c8b1b5) | 2026-04-11 16:27 |
 | Maximus | Data Architect | Tysons, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1a89b21bbe373b9) | 2026-04-11 13:49 |
 | Oracle | Senior Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=77bccdac7a052a5f) | 2026-04-11 13:49 |
 | Wecom Fiber | Senior BI Developer & Analytics Engineer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eea7ffbb16ef4f94) | 2026-04-11 10:26 |
@@ -610,9 +611,6 @@ Last updated: 2026-04-11 15:25
 | NPR | Software Engineer, Product & Audience Technology | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9ad1dc41860f048c) | 2026-04-07 17:51 |
 | nan | Senior Software Engineer (Backend) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4be147597ae3a05) | 2026-04-07 17:51 |
 | AMETEK | Machine Learning Engineer | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=37433ca9d18914f5) | 2026-04-07 17:51 |
-| Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3832c96b614d30dc) | 2026-04-07 16:13 |
-| SanDisk | Senior Engineer, Software Development, Full Stack | Milpitas, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=feb13148be85e0d4) | 2026-04-07 16:13 |
-| United States Cold Storage | Senior Java Developer | Camden, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e69cc4d6409de612) | 2026-04-07 16:13 |
 
 
 ---

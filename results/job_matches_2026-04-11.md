@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-11
 
-**Total Jobs Found:** 142
+**Total Jobs Found:** 141
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -434,14 +434,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Cloud Engineer @ American business solutions inc
+## 40. Software Engineer I (Full Stack) Java @ Walgreens
 **Match Score:** 12.5%
 
-📍 **Location:** Harrisburg, PA, US USA
+📍 **Location:** Deerfield, IL, US USA
 
-🔑 **Keywords:** AWS, Lambda, S3, ECS, RDS, Azure, Blob Storage, Scala, CI/CD, Azure DevOps
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, Oracle, MySQL, MongoDB, NoSQL, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=cc38211228fd0f17)
+[Apply Here](https://www.indeed.com/viewjob?jk=7e3e188fd3c8b1b5)
 
 ---
 
@@ -885,18 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Data Architect - Paid Relocation to Cincinnati @ Total Quality Logistics (TQL)
-**Match Score:** 11.8%
-
-📍 **Location:** Cincinnati, OH, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Spark, Scala, Kafka, Databricks Lakehouse
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c40e1674aa706aac)
-
----
-
-## 82. Senior Data Engineer (Azure/Databricks) @ Acuity Analytics
+## 81. Senior Data Engineer (Azure/Databricks) @ Acuity Analytics
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -907,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Senior Fullstack Engineer (Retool) @ Parser Limited
+## 82. Senior Fullstack Engineer (Retool) @ Parser Limited
 **Match Score:** 11.8%
 
 📍 **Location:** CO, US USA
@@ -918,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Pentaho BI SME @ NTT DATA
+## 83. Pentaho BI SME @ NTT DATA
 **Match Score:** 11.1%
 
 📍 **Location:** San Juan, PR, US USA
@@ -929,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Senior Data Engineer - Remote @ Optum
+## 84. Senior Data Engineer - Remote @ Optum
 **Match Score:** 11.1%
 
 📍 **Location:** Eden Prairie, MN, US USA
@@ -940,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Senior Data Engineer @ nan
+## 85. Senior Data Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -951,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. AWS Public Cloud Engineer - Must have both AWS/Azure @ NTT DATA
+## 86. AWS Public Cloud Engineer - Must have both AWS/Azure @ NTT DATA
 **Match Score:** 11.1%
 
 📍 **Location:** Plano, TX, US USA
@@ -962,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. AI & Data Analytics Architect @ TTX
+## 87. AI & Data Analytics Architect @ TTX
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -973,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Software Engineer @ Zoom Communications
+## 88. Software Engineer @ Zoom Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -984,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Java API Integration Engineer @ Openkyber
+## 89. Java API Integration Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -995,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Java API Integration Engineer @ Openkyber
+## 90. Java API Integration Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -1006,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Sr. Professional, Software Engineering @ Cotality
+## 91. Sr. Professional, Software Engineering @ Cotality
 **Match Score:** 11.1%
 
 📍 **Location:** Irvine, CA, US USA
@@ -1017,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 92. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -1028,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 93. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Nashville, TN, US USA
@@ -1039,7 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 94. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Austin, TX, US USA
@@ -1050,7 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 95. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -1061,7 +1050,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 96. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Morristown, NJ, US USA
@@ -1072,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 97. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -1083,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 98. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -1094,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 99. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** McLean, VA, US USA
@@ -1105,7 +1094,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 100. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -1116,7 +1105,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 101. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -1127,7 +1116,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 102. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -1138,7 +1127,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 104. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 103. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tempe, AZ, US USA
@@ -1149,7 +1138,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 105. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 104. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -1160,7 +1149,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 106. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 105. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1171,7 +1160,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 107. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 106. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -1182,7 +1171,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 108. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 107. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -1193,7 +1182,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 109. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 108. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -1204,7 +1193,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 110. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 109. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Diego, CA, US USA
@@ -1215,7 +1204,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 111. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 110. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Denver, CO, US USA
@@ -1226,7 +1215,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 112. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 111. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -1237,7 +1226,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 113. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 112. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Miami, FL, US USA
@@ -1248,7 +1237,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 114. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 113. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Jose, CA, US USA
@@ -1259,7 +1248,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 115. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 114. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -1270,7 +1259,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 116. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 115. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Stamford, CT, US USA
@@ -1281,7 +1270,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 117. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 116. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tampa, FL, US USA
@@ -1292,7 +1281,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 118. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 117. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1303,7 +1292,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 119. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 118. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Chicago, IL, US USA
@@ -1314,7 +1303,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 120. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 119. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -1325,7 +1314,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 121. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 120. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -1336,7 +1325,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 122. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 121. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -1347,7 +1336,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 123. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 122. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -1358,7 +1347,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 124. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 123. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -1369,7 +1358,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 125. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
+## 124. GenAI Solution Engineer (Claude/Codex/Gemini) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Detroit, MI, US USA
@@ -1380,7 +1369,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 126. Business Intelligence Analyst @ Leo Facilities Maintenance
+## 125. Business Intelligence Analyst @ Leo Facilities Maintenance
 **Match Score:** 11.1%
 
 📍 **Location:** West Chester, PA, US USA
@@ -1391,7 +1380,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 127. Sr. Data Scientist @ Corning
+## 126. Sr. Data Scientist @ Corning
 **Match Score:** 10.4%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -1402,7 +1391,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 128. Asset & Wealth Management - Software Engineer - Associate - Dallas @ Goldman Sachs
+## 127. Asset & Wealth Management - Software Engineer - Associate - Dallas @ Goldman Sachs
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
@@ -1413,7 +1402,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 129. Senior Software Developer @ Oracle
+## 128. Senior Software Developer @ Oracle
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -1424,7 +1413,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 130. Azure Cloud Engineer @ NTT DATA
+## 129. Azure Cloud Engineer @ NTT DATA
 **Match Score:** 10.4%
 
 📍 **Location:** Richmond, VA, US USA
@@ -1435,7 +1424,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 131. Azure Cloud Engineer @ NTT DATA
+## 130. Azure Cloud Engineer @ NTT DATA
 **Match Score:** 10.4%
 
 📍 **Location:** Richmond, VA, US USA
@@ -1446,7 +1435,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 132. Senior Software Engineer, Platform @ Payabli
+## 131. Senior Software Engineer, Platform @ Payabli
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1457,7 +1446,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 133. Senior Cloud Software Engineer @ TRC
+## 132. Senior Cloud Software Engineer @ TRC
 **Match Score:** 10.4%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -1468,7 +1457,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 134. Data Engineer @ Route
+## 133. Data Engineer @ Route
 **Match Score:** 10.4%
 
 📍 **Location:** Lehi, UT, US USA
@@ -1479,7 +1468,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 135. Senior Analytics Engineer @ Opiniion
+## 134. Senior Analytics Engineer @ Opiniion
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1490,7 +1479,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 136. Data Engineer II @ Nicklaus Children's Health System
+## 135. Data Engineer II @ Nicklaus Children's Health System
 **Match Score:** 10.4%
 
 📍 **Location:** Miami, FL, US USA
@@ -1501,7 +1490,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 137. Devops Engineer-5 @ Realign
+## 136. Devops Engineer-5 @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** Irvine, CA, US USA
@@ -1512,7 +1501,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 138. Dev Ops. Architect @ NTT DATA
+## 137. Dev Ops. Architect @ NTT DATA
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -1523,7 +1512,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 139. Dev Ops. Architect @ NTT DATA
+## 138. Dev Ops. Architect @ NTT DATA
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -1534,7 +1523,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 140. Senior Software Engineer Go Outdoors Payments @ Brandt Information Services, Inc.
+## 139. Senior Software Engineer Go Outdoors Payments @ Brandt Information Services, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Tallahassee, FL, US USA
@@ -1545,7 +1534,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 141. Full Stack Developer – AI Projects @ General Property Construction
+## 140. Full Stack Developer – AI Projects @ General Property Construction
 **Match Score:** 10.4%
 
 📍 **Location:** Doral, FL, US USA
@@ -1556,7 +1545,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 142. Senior BI Developer & Analytics Engineer @ Wecom Fiber
+## 141. Senior BI Developer & Analytics Engineer @ Wecom Fiber
 **Match Score:** 10.4%
 
 📍 **Location:** Phoenix, AZ, US USA
