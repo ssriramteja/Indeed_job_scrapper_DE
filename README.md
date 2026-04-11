@@ -1,16 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 04:13
+Last updated: 2026-04-11 05:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | AI Application Architect | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7a5093e8180b857d) | 2026-04-11 05:55 |
+| Openkyber | AI Application Architect | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=090066a47b6dd531) | 2026-04-11 05:55 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 05:55 |
+| Openkyber | AI Application Architect | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9c75ad372a9b5c75) | 2026-04-11 05:55 |
+| Openkyber | AI Application Architect | IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d47e5529ec2a3740) | 2026-04-11 05:55 |
+| Openkyber | Guidewire ETL Developer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb07338bf043f5b4) | 2026-04-11 05:55 |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 05:55 |
+| GEICO | Sr Engineer - (Java, Microservices, Data/Systems Engineering) *HYBRID* | Bethesda, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bc9fe56fb418d8) | 2026-04-11 05:55 |
+| Openkyber | Guidewire ETL Developer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=add49e38a96075b6) | 2026-04-11 05:55 |
+| TNT Crane & Rigging | Senior Systems Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46e05984bc6ba0ca) | 2026-04-11 05:55 |
+| NTT DATA | Azure Cloud Engineer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a623f40b4389b47f) | 2026-04-11 05:55 |
+| NTT DATA | Dev Ops. Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86743c7261c69b6c) | 2026-04-11 05:55 |
 | Thermo Fisher Scientific | Scientist III, Data Engineer | MA, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=242e2f2f15e944fd) | 2026-04-11 04:13 |
 | nan | Senior Cloud Software Engineer (Full-Stack) | Anchorage, AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=716162d09810edc0) | 2026-04-11 04:13 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 04:13 |
 | Diverse Agile Solutions | Senior Application Developer / Engineer / Programmer | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fe599190cd4853ee) | 2026-04-11 04:13 |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 04:13 |
 | Inframark | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=172a54e6b4658010) | 2026-04-11 04:13 |
 | Inframark | DevOps Engineer | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=65b3c5652baa523f) | 2026-04-11 04:13 |
 | Inframark | DevOps Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=455a057972235895) | 2026-04-11 04:13 |
@@ -589,10 +599,6 @@ Last updated: 2026-04-11 04:13
 | RSM | Healthcare Data Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=46106626b8b759d3) | 2026-04-07 06:15 |
 | RSM | Healthcare Data Engineer | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5949fceede281d86) | 2026-04-07 06:15 |
 | NTT DATA | AWS Full Stack React Developer (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e39392a5986a7e5f) | 2026-04-07 06:15 |
-| Humana | Senior Cloud Solutions Engineer | KY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1520fe1ff993b458) | 2026-04-07 04:27 |
-| Fidelity TalentSource | Java Full Stack Engineer | Westlake, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8de97150c606b641) | 2026-04-07 04:27 |
-| Tata Consultancy Services (TCS) | Cloud Data Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9dbde110bfeaa84c) | 2026-04-07 04:27 |
-| Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7bf203aa2f13913) | 2026-04-07 04:27 |
 
 
 ---
