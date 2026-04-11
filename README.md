@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 17:25
+Last updated: 2026-04-11 18:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 18:31 |
+| New York Life | Senior Associate, AWS Cloud Platform Engineer | Lebanon, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5130b1cac45762a) | 2026-04-11 18:31 |
 | Openkyber | Okta | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=229a363c5f9abe92) | 2026-04-11 17:25 |
 | Openkyber | Okta | NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8389dc038a61799a) | 2026-04-11 17:25 |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 17:25 |
 | Openkyber | PingOne Cloud Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=594f058d7c8a610d) | 2026-04-11 17:25 |
 | Walgreens | Software Engineer I (Full Stack) Java | Deerfield, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7e3e188fd3c8b1b5) | 2026-04-11 16:27 |
 | Maximus | Data Architect | Tysons, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1a89b21bbe373b9) | 2026-04-11 13:49 |
@@ -608,12 +609,6 @@ Last updated: 2026-04-11 17:25
 | National Public Radio | Software Engineer, Product & Audience Technology | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd6630164ce06047) | 2026-04-07 19:52 |
 | Defense Unicorns | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cd99e31ec539b3e) | 2026-04-07 19:52 |
 | Kash Tech | Business Intelligence Architect | Lake Mary, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d669d17cd5da84b8) | 2026-04-07 19:52 |
-| Acrisure LLC | Senior Software Engineer, Data | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=12300277485ff36c) | 2026-04-07 17:51 |
-| Acrisure LLC | Software Engineer, Data (L2) | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=53c02ec3fd535863) | 2026-04-07 17:51 |
-| mPower Software Services | Senior Systems Architect | Baltimore, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=378ab062dadbd830) | 2026-04-07 17:51 |
-| NPR | Software Engineer, Product & Audience Technology | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9ad1dc41860f048c) | 2026-04-07 17:51 |
-| nan | Senior Software Engineer (Backend) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4be147597ae3a05) | 2026-04-07 17:51 |
-| AMETEK | Machine Learning Engineer | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=37433ca9d18914f5) | 2026-04-07 17:51 |
 
 
 ---
