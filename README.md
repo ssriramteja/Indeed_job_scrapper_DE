@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 21:25
+Last updated: 2026-04-11 22:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 21:25 |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 22:23 |
 | New York Life | Senior Associate, AWS Cloud Platform Engineer | Lebanon, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5130b1cac45762a) | 2026-04-11 18:31 |
 | Openkyber | Okta | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=229a363c5f9abe92) | 2026-04-11 17:25 |
 | Openkyber | Okta | NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8389dc038a61799a) | 2026-04-11 17:25 |
@@ -581,15 +581,6 @@ Last updated: 2026-04-11 21:25
 | Spark Business Works | Data Analyst - Custom Software | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=93b62ca575690d77) | 2026-04-07 22:30 |
 | Crescent Energy | Senior AI Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16933d29b84666ae) | 2026-04-07 22:30 |
 | Crane Worldwide Logistics | Data Engineer II, Data Products | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d7d3e53b75102974) | 2026-04-07 22:30 |
-| Kalibri Labs | Machine Learning Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2bba97db261f795c) | 2026-04-07 21:36 |
-| NIKE | Software Engineer | Beaverton, OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee9babfbe8996948) | 2026-04-07 21:36 |
-| Florence HC | Data Architect New | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5097124275f0ddf7) | 2026-04-07 21:36 |
-| TRM Labs | Senior Software Engineer, Data Product | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f87b374f5fadc643) | 2026-04-07 21:36 |
-| Aires | Senior Software Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24a00011c009f4a8) | 2026-04-07 21:36 |
-| nSCALE | Data Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0779ded6bb449220) | 2026-04-07 21:36 |
-| nSCALE | Data Engineer | Barstow, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=efdadd031f04e3df) | 2026-04-07 21:36 |
-| Propio LS LLC | Data Engineer II | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dddc21bb28ed1d22) | 2026-04-07 21:36 |
-| NTT DATA | API Architect (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d9c6043097083ea) | 2026-04-07 21:36 |
 
 
 ---
