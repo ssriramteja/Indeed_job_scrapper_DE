@@ -1,18 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-10 23:28
+Last updated: 2026-04-11 01:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| PLUME | Senior Data Engineer (Data + Applied AI) | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b5030a1bb6b9395c) | 2026-04-11 01:23 |
+| Quantiphi | Associate Technical Architect - Data (Oracle) | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=fe9e7a6323a73ddf) | 2026-04-11 01:23 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 01:23 |
+| AMD | Senior DevOps Engineer | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1e8d1d9d043cd2bd) | 2026-04-11 01:23 |
+| Blue Matter | AI Engineer / Senior AI Engineer | South San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1d9a41c33498321d) | 2026-04-11 01:23 |
+| Engineers & Constructors International | Platform Engineer | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=242643709c670116) | 2026-04-11 01:23 |
+| Realign | Senior AWS Python Developer | Malvern, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=582daf0783444929) | 2026-04-11 01:23 |
+| Blue Acorn iCi | AEP Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=60d5599d0190e3ce) | 2026-04-11 01:23 |
+| The GEO Group, Inc. | DATA ENGINEER | Boulder, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4d58843bcd42732) | 2026-04-11 01:23 |
+| Acuity Analytics | Senior Data Engineer (Azure/Databricks) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e08c52b8be54d813) | 2026-04-11 01:23 |
+| TRC | Senior Cloud Software Engineer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3338ef100e8fb177) | 2026-04-11 01:23 |
+| Realign | Devops Engineer-5 | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d4c25ae4a2245b4) | 2026-04-11 01:23 |
+| Palm Tree | Associate, Data & Analytics | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc699288e8c88f76) | 2026-04-11 01:23 |
+| Occidental | Advisor IT Systems | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35a0fb08c802d618) | 2026-04-11 01:23 |
 | Parker's Kitchen | Data & Integration Engineer | Savannah, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a279b4dc75fa05b2) | 2026-04-10 23:28 |
 | Uber | Software Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f86a75694dac8d84) | 2026-04-10 23:28 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-10 23:28 |
 | Openkyber | Guidewire API Developer | IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=29ed04d19483441d) | 2026-04-10 23:28 |
 | Vantage Data Centers | Senior Data Engineer, Global | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=99dcb67444244ecd) | 2026-04-10 23:28 |
 | Vantage Data Centers | Senior Data Engineer, Global | CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cc7cabf779bdafae) | 2026-04-10 23:28 |
-| Ford Motor Company | Senior AI/ML Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af957e90338bd4b6) | 2026-04-10 23:28 |
 | Openkyber | Guidewire API Developer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12c7db9666c539fb) | 2026-04-10 23:28 |
 | TTX | AI & Data Analytics Architect | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7d7156d0e2fa6911) | 2026-04-10 23:28 |
 | Pelico | DevOps Miami | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cadf0132866f1439) | 2026-04-10 23:28 |
