@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 10:26
+Last updated: 2026-04-11 11:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 10:26 |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 10:26 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9633aa99c845fd92) | 2026-04-11 11:24 |
+| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 11:24 |
 | Wecom Fiber | Senior BI Developer & Analytics Engineer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eea7ffbb16ef4f94) | 2026-04-11 10:26 |
 | JPMorganChase | Software Engineer III - Fullstack - AWS | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=07dc72c0e4f9dd7e) | 2026-04-11 09:33 |
 | ConstructConnect | Analytics Engineer II | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4a17b4dda4590caa) | 2026-04-11 09:33 |
@@ -628,7 +628,6 @@ Last updated: 2026-04-11 10:26
 | FocusPointSAP | Senior .NET / Azure Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa90f9fbfea59005) | 2026-04-07 13:04 |
 | Dell Technologies | Senior Systems Engineer, UDS Data Management - East | MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=298a46f851ea7983) | 2026-04-07 11:56 |
 | Info Dhas Technologies | Data Engineer | Texas City, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d89d6f2341484cb3) | 2026-04-07 11:56 |
-| Newpage Digital Healthcare solutions | SR PLATFORM ENGINEER | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4e87bc52fd3cc8c6) | 2026-04-07 11:00 |
 
 
 ---
