@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-12
 
-**Total Jobs Found:** 11
+**Total Jobs Found:** 10
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Full Stack Developer - Contract Hire (Remote, US Only) @ nan
+## 4. Full Stack Developer - Contract Hire (Remote, US Only) @ ChowaCo
 **Match Score:** 14.6%
 
 📍 **Location:** US USA
@@ -112,17 +112,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, GCP, Spark, Scala, Oracle, Splunk, CI/CD, Git, Python
 
 [Apply Here](https://www.indeed.com/viewjob?jk=77bccdac7a052a5f)
-
----
-
-## 11. Senior BI Developer & Analytics Engineer @ Wecom Fiber
-**Match Score:** 10.4%
-
-📍 **Location:** Phoenix, AZ, US USA
-
-🔑 **Keywords:** RDS, Scala, Snowflake, clustering keys, ETL, Tableau, Tableau Server, AKS, Git, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=eea7ffbb16ef4f94)
 
 ---
 

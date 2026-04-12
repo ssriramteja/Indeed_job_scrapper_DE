@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 09:38
+Last updated: 2026-04-12 10:31
 
 ### 🚀 Daily Job Matches
 
@@ -524,14 +524,6 @@ Last updated: 2026-04-12 09:38
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2384ee83565dcea) | 2026-04-08 11:01 |
 | GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8999c659b74b65bf) | 2026-04-08 11:01 |
 | GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e854254a4a199e53) | 2026-04-08 11:01 |
-| JPMorganChase | Backend Java Software Engineer III | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=129a771826f3124f) | 2026-04-08 10:00 |
-| Mutual of Omaha | Senior Software Engineer (JavaScript, AWS, Snowflake) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2fa1bd38d503b5f5) | 2026-04-08 10:00 |
-| Humana | Senior Full Stack Software Engineer | KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=201b0e84d443e59a) | 2026-04-08 10:00 |
-| Third Sector Intelligence | Senior Data Analyst | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11052963eea20287) | 2026-04-08 10:00 |
-| International Logic Systems, Inc. | Senior OAS/ODI Developer | Fairfax, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7044ce9c9e0873f6) | 2026-04-08 10:00 |
-| JPMorganChase | Sr Infrastructure Developer | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8c10e25f49712691) | 2026-04-08 10:00 |
-| Moody's | Senior Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff76177b5f1eb624) | 2026-04-08 10:00 |
-| JPMorganChase | Software Engineer III - Data Protection & Recovery | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca76cbde51b6d903) | 2026-04-08 10:00 |
 
 
 ---
