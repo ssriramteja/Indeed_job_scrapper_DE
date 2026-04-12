@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 10:31
+Last updated: 2026-04-12 11:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Blue Cross and Blue Shield of Minnesota | Senior AI Engineer | Eagan, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a49a54c48156d9f6) | 2026-04-12 11:27 |
 | Legence | Power BI Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=510e2092d20062f6) | 2026-04-12 09:38 |
 | Legence | Power BI Data Engineer | Minneapolis, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5c671fac5bf99b42) | 2026-04-12 09:38 |
 | Openkyber | Network Operations Trainee | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4f9b6252d4232bb) | 2026-04-12 06:19 |
@@ -521,9 +522,6 @@ Last updated: 2026-04-12 10:31
 | Optum | Senior Data Engineer - Remote | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5cd6198a7d2f4698) | 2026-04-08 14:47 |
 | ThoughtFocus | Sr Machine Learning Ops Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=071b0987d8e950fc) | 2026-04-08 14:47 |
 | JGA LLC | Korber/Infios Functional/Technical Consultant Remote | Alpharetta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a32324eea89ff005) | 2026-04-08 13:01 |
-| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2384ee83565dcea) | 2026-04-08 11:01 |
-| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8999c659b74b65bf) | 2026-04-08 11:01 |
-| GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e854254a4a199e53) | 2026-04-08 11:01 |
 
 
 ---
