@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 01:46
+Last updated: 2026-04-12 04:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Full Stack Developer - Contract Hire (Remote, US Only) | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=080c153a60c2db6d) | 2026-04-12 04:40 |
+| TEEMA | Data Architect - C2H | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a07fa9ddece4b00d) | 2026-04-12 04:40 |
 | Openkyber | AWS Network Engineer | GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1e68aed4fb5428da) | 2026-04-11 23:25 |
 | Openkyber | AWS Network Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=81b5b89f5da184cb) | 2026-04-11 23:25 |
 | Openkyber | AWS Network Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3b1cef4b777b5a5) | 2026-04-11 23:25 |
@@ -532,26 +534,6 @@ Last updated: 2026-04-12 01:46
 | Twilio | Software Engineer, (L2) CDP | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c875609332a8cd3b) | 2026-04-08 08:07 |
 | ASPCA | Enterprise Data Warehouse Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1300aab23c7eb337) | 2026-04-08 06:17 |
 | NTT DATA | API Architect (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9443960b40fa54c3) | 2026-04-08 06:17 |
-| Diverse Agile Solutions | Senior Application Developer / Engineer / Programmer | Washington, DC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=69b1e85f5cd44a0e) | 2026-04-08 04:30 |
-| Deloitte | Cloud Engineer - Project Delivery Senior Analyst | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c14f18134cb0d544) | 2026-04-08 04:30 |
-| Deloitte | Cloud Engineer - Project Delivery Specialist | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8c3e095228ad1f72) | 2026-04-08 04:30 |
-| GEI Consultants | Data Engineer | Rancho Cordova, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=35eabfbc7f8f7c93) | 2026-04-08 04:30 |
-| GEI Consultants | Data Engineer | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=34a7f8b7c5658d4c) | 2026-04-08 04:30 |
-| GEI Consultants | Data Engineer | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a673dbe1c9ae038) | 2026-04-08 04:30 |
-| GEI Consultants | Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2ea05348c16e9859) | 2026-04-08 04:30 |
-| GEI Consultants | Data Engineer | Cary, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ddb0dfd2b2eb706e) | 2026-04-08 04:30 |
-| GEI Consultants | Data Engineer | West Palm Beach, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1555c7e3029f309e) | 2026-04-08 04:30 |
-| GEI Consultants | Data Engineer | Wakefield, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7f89b1ad5ce5398d) | 2026-04-08 04:30 |
-| GEI Consultants | Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c0687e02ee3d6f7) | 2026-04-08 04:30 |
-| GEI Consultants | Data Engineer | Pasadena, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=97fc81f1869fd392) | 2026-04-08 04:30 |
-| nan | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=be72eebe1e2aa8f3) | 2026-04-08 04:30 |
-| Ibotta | Analytics Engineer, Feature Engineering | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=62068a6428147556) | 2026-04-08 04:30 |
-| DPR Construction | Sr. Data Engineer - Business Delivery | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4fd1aa3fb43af703) | 2026-04-08 04:30 |
-| CVS Health | Software Development Engineer | VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=292d723fc85f4776) | 2026-04-08 04:30 |
-| DPR Construction | MLOps Engineer | Raleigh-Durham, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8514be2799f487ec) | 2026-04-08 04:30 |
-| Keck Medicine of USC | Machine Learning (ML) Ops Engineer - IS Clinical Research - Full Time 8 Hour Days (Exempt) (Non-Union) | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab4edf6a8d5be469) | 2026-04-08 04:30 |
-| propio | Data Engineer II | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb1cc4f2e4a6b078) | 2026-04-08 04:30 |
-| DPR Construction | PCA Data Engineer | Raleigh-Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b664fa702865dcc) | 2026-04-08 04:30 |
 
 
 ---
