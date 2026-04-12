@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 18:35
+Last updated: 2026-04-12 19:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BFG Enterprise Services | Cloud/Drupal Subject Matter Specialist | Suitland, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=890c6ef795b6dd39) | 2026-04-12 19:33 |
+| SAP | SAP NS2 Sr. DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c08fc820fe10f7ed) | 2026-04-12 19:33 |
 | DoiT | Senior Cloud Architect, ML/AI | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2c7df305cb5baa7b) | 2026-04-12 15:29 |
 | Blue Cross and Blue Shield of Minnesota | Senior AI Engineer | Eagan, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a49a54c48156d9f6) | 2026-04-12 11:27 |
 | Legence | Power BI Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=510e2092d20062f6) | 2026-04-12 09:38 |
@@ -474,32 +476,6 @@ Last updated: 2026-04-12 18:35
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3691403890861ce1) | 2026-04-08 20:34 |
 | Novo Nordisk, Inc. | Finance BI Developer | Plainsboro, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0588cb9b774de72) | 2026-04-08 20:34 |
 | Optum | AI or ML Engineer - Remote | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b8fe560b8dc00ad) | 2026-04-08 20:34 |
-| nan | Senior Full Stack Software Engineer | Austin, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=5f22b1fb1994e004) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | Jacksonville, FL, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=b90ba0693590e08c) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | Chicago, IL, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=ffbf7a09316e2165) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | Seattle, WA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=08e4dd1f3067be9e) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | New York, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=8609d2ef4d027ec5) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | Washington, DC, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=69f6c19dec765945) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | San Francisco, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=a60a0e6bed4dca46) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=4d35c6ea0da8f1a8) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | Los Angeles, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=179c827d021e8289) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | San Antonio, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=b855a0d2171ea7ad) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | Dallas, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=ad704e5b438ba778) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | Houston, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=240d4b0b28339cb9) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | Atlanta, GA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=1c8c37effbf9d8ae) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | Richmond, VA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=fb4bf0540050adfb) | 2026-04-08 19:20 |
-| nan | Senior Full Stack Software Engineer | Boston, MA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=8b0addd50fb05f38) | 2026-04-08 19:20 |
-| cooking | Columbia SC | Columbia, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f177ac36447561f1) | 2026-04-08 19:20 |
-| Children's Hospital of Philadelphia | Analytics Engineer | Philadelphia, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2ffce82525f57f21) | 2026-04-08 19:20 |
-| HJ Staffing | Advisor Application Designer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=16e87d38719548eb) | 2026-04-08 19:20 |
-| marvica technologies LLC | Senior Drupal Migration Developer (AWS Focus) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=98dd7a13fdba852c) | 2026-04-08 19:20 |
-| VBEST Software Inc | Azure Data Engineer with AI | Piscataway, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=603571b168320d09) | 2026-04-08 19:20 |
-| Ryder System | AI Intern | Tallahassee, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e10b65eb3e9642b) | 2026-04-08 19:20 |
-| Cadre5 | DevOps Engineer | Knoxville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=350fed14bf8fbead) | 2026-04-08 19:20 |
-| TrueML | Sr. Machine Learning Engineer (copy) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c26d512d400fb40) | 2026-04-08 19:20 |
-| Ryder System | Data Services Intern | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0947e458821ae815) | 2026-04-08 19:20 |
-| HJ Staffing | Advisor Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d52b697a7ccfabf5) | 2026-04-08 19:20 |
-| HJ Staffing | Advisor Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=113f0b0e9c716e6e) | 2026-04-08 19:20 |
 
 
 ---
