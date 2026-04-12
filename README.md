@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 21:25
+Last updated: 2026-04-12 22:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5cdea475a3468daf) | 2026-04-12 22:24 |
 | BFG Enterprise Services | Cloud/Drupal Subject Matter Specialist | Suitland, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=890c6ef795b6dd39) | 2026-04-12 19:33 |
 | SAP | SAP NS2 Sr. DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c08fc820fe10f7ed) | 2026-04-12 19:33 |
 | DoiT | Senior Cloud Architect, ML/AI | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2c7df305cb5baa7b) | 2026-04-12 15:29 |
@@ -454,17 +455,6 @@ Last updated: 2026-04-12 21:25
 | Zayo Group | Data Analytics Engineer - Network Data Solutions | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9ba38c8b2c1db3d9) | 2026-04-08 22:31 |
 | Infoville Inc | Oracle DBA @ New York, NY | Verona, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f22c95754fdda590) | 2026-04-08 22:31 |
 | JPMorganChase | Data Software Engineer III- ML | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20cd1de8722f1e75) | 2026-04-08 22:31 |
-| Tata Consultancy Services (TCS) | React JS and Node JS Developer | Raleigh, NC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=052182e7113c0089) | 2026-04-08 21:35 |
-| Tata Consultancy Services (TCS) | Data Analytics Engineer (AI/ML Focus) | Sunnyvale, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ac8a907713e68025) | 2026-04-08 21:35 |
-| Wellmark Blue Cross and Blue Shield | Sr Software Engineer - AI Platform Team | Des Moines, IA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=26eebbc4bd9331ad) | 2026-04-08 21:35 |
-| Tata Consultancy Services (TCS) | Computer Programmer | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e7f66b4b40dbf89b) | 2026-04-08 21:35 |
-| Tata Consultancy Services (TCS) | MDM Developer - Reltio and Informatica | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d801b3aadeaeee20) | 2026-04-08 21:35 |
-| Intone Networks | Software Engineer (L2, Java, SQL) | Merrimack, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e5775e15ef7e26bc) | 2026-04-08 21:35 |
-| Stratagen | Cloud Software Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=22e861ddd0f6e4bb) | 2026-04-08 21:35 |
-| Tata Consultancy Services (TCS) | AWS Technical Architect | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b74e8628189b9b63) | 2026-04-08 21:35 |
-| HNTB Corporation | Transportation Data Scientist | Downers Grove, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b01ec761fbfd4836) | 2026-04-08 21:35 |
-| Cognizant | AWS Architect | Waukegan, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d933bdd873b035b) | 2026-04-08 21:35 |
-| Tata Consultancy Services (TCS) | AI Data Architect | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=56210093c832adbc) | 2026-04-08 21:35 |
 
 
 ---
