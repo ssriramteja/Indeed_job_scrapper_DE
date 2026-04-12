@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 20:26
+Last updated: 2026-04-12 21:25
 
 ### 🚀 Daily Job Matches
 
@@ -465,17 +465,6 @@ Last updated: 2026-04-12 20:26
 | HNTB Corporation | Transportation Data Scientist | Downers Grove, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b01ec761fbfd4836) | 2026-04-08 21:35 |
 | Cognizant | AWS Architect | Waukegan, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d933bdd873b035b) | 2026-04-08 21:35 |
 | Tata Consultancy Services (TCS) | AI Data Architect | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=56210093c832adbc) | 2026-04-08 21:35 |
-| SPR | Palantir AI Engineer | Chicago, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=92e23bede2bdc692) | 2026-04-08 20:34 |
-| Bain Capital | Machine Learning Engineer | Boston, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a5d62fc510f17558) | 2026-04-08 20:34 |
-| RSVP Communications, Inc | Contract .NET Full Stack Remote Developer (C#, SQL Server, REST APIs) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6c6c7a9ea6b2e318) | 2026-04-08 20:34 |
-| Quarterhill | DevOps Engineer | Frisco, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d6f7cbad6a0c86eb) | 2026-04-08 20:34 |
-| Interactive Resources | Azure Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b7d4138f1f14d7f4) | 2026-04-08 20:34 |
-| Mayo Clinic | Software Engineer - .NET Full Stack Developer | Rochester, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d8f70878f03e81d0) | 2026-04-08 20:34 |
-| General Motors (GM) | Business Intelligence Data Analyst - GPSC | Warren, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cbe5c8707df585c8) | 2026-04-08 20:34 |
-| Wells Fargo | Software Developer (contract) | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d551426f3f652f40) | 2026-04-08 20:34 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3691403890861ce1) | 2026-04-08 20:34 |
-| Novo Nordisk, Inc. | Finance BI Developer | Plainsboro, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0588cb9b774de72) | 2026-04-08 20:34 |
-| Optum | AI or ML Engineer - Remote | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b8fe560b8dc00ad) | 2026-04-08 20:34 |
 
 
 ---
