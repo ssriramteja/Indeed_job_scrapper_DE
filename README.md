@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 14:35
+Last updated: 2026-04-12 15:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| DoiT | Senior Cloud Architect, ML/AI | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2c7df305cb5baa7b) | 2026-04-12 15:29 |
 | Blue Cross and Blue Shield of Minnesota | Senior AI Engineer | Eagan, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a49a54c48156d9f6) | 2026-04-12 11:27 |
 | Legence | Power BI Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=510e2092d20062f6) | 2026-04-12 09:38 |
 | Legence | Power BI Data Engineer | Minneapolis, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5c671fac5bf99b42) | 2026-04-12 09:38 |
@@ -515,12 +516,6 @@ Last updated: 2026-04-12 14:35
 | Leading Path Consulting | Systems Engineer (Linux, Hardware, Security, DevOps/Automation) - TS/SCI w/ Poly | Warrenton, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=1d393e51b035c281) | 2026-04-08 16:10 |
 | Leading Path Consulting | Systems Engineer (Linux, Hardware, Security, DevOps/Automation) - TS/SCI w/ Poly | McLean, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=ffb1cf3c611caa16) | 2026-04-08 16:10 |
 | Fusion Global Technologies and Solutions | IT Solutions Engineer - Senior | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4b1e89f92944d8ca) | 2026-04-08 16:10 |
-| Radcube LLC | DataOps Engineer | Remote, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=7cc21fd5e8801cab) | 2026-04-08 14:47 |
-| Optum | Senior Data Scientist | Minnetonka, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9e0ceb630e33d4ca) | 2026-04-08 14:47 |
-| Equifax | Sr Software Engineer | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=14cb01c5ecb1bb21) | 2026-04-08 14:47 |
-| JPS Tech Solutions LLC | EDI Developer | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a55f391f402922a7) | 2026-04-08 14:47 |
-| Optum | Senior Data Engineer - Remote | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5cd6198a7d2f4698) | 2026-04-08 14:47 |
-| ThoughtFocus | Sr Machine Learning Ops Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=071b0987d8e950fc) | 2026-04-08 14:47 |
 
 
 ---
