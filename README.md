@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 12:40
+Last updated: 2026-04-12 13:55
 
 ### 🚀 Daily Job Matches
 
@@ -521,7 +521,6 @@ Last updated: 2026-04-12 12:40
 | JPS Tech Solutions LLC | EDI Developer | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a55f391f402922a7) | 2026-04-08 14:47 |
 | Optum | Senior Data Engineer - Remote | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5cd6198a7d2f4698) | 2026-04-08 14:47 |
 | ThoughtFocus | Sr Machine Learning Ops Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=071b0987d8e950fc) | 2026-04-08 14:47 |
-| JGA LLC | Korber/Infios Functional/Technical Consultant Remote | Alpharetta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a32324eea89ff005) | 2026-04-08 13:01 |
 
 
 ---

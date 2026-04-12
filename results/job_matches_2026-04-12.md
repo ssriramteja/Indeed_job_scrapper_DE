@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-12
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -71,18 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Data Architect @ Maximus
-**Match Score:** 11.8%
-
-📍 **Location:** Tysons, VA, US USA
-
-🔑 **Keywords:** AWS, Redshift, RDS, Azure, Databricks, GCP, BigQuery, Scala, Snowflake, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f1a89b21bbe373b9)
-
----
-
-## 8. Senior Associate, AWS Cloud Platform Engineer @ New York Life
+## 7. Senior Associate, AWS Cloud Platform Engineer @ New York Life
 **Match Score:** 11.1%
 
 📍 **Location:** Lebanon, NJ, US USA
@@ -90,17 +79,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Glue, Lambda, Redshift, Step Functions, S3, IAM, Databricks, Spark, Scala
 
 [Apply Here](https://www.indeed.com/viewjob?jk=f5130b1cac45762a)
-
----
-
-## 9. Senior Software Developer @ Oracle
-**Match Score:** 10.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Spark, Scala, Oracle, Splunk, CI/CD, Git, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=77bccdac7a052a5f)
 
 ---
 
