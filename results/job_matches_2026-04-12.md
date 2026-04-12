@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-12
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 11
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Full Stack Developer - Contract Hire (Remote, US Only) @ nan
+## 2. Power BI Data Engineer @ Legence
+**Match Score:** 17.4%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Synapse Analytics, Data Lake Storage, Dataflow, Scala, Snowflake, SQL Server
+
+[Apply Here](https://www.indeed.com/viewjob?jk=510e2092d20062f6)
+
+---
+
+## 3. Power BI Data Engineer @ Legence
+**Match Score:** 17.4%
+
+📍 **Location:** Minneapolis, MN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Synapse Analytics, Data Lake Storage, Dataflow, Scala, Snowflake, SQL Server
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5c671fac5bf99b42)
+
+---
+
+## 4. Full Stack Developer - Contract Hire (Remote, US Only) @ nan
 **Match Score:** 14.6%
 
 📍 **Location:** US USA
@@ -27,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Okta @ Openkyber
+## 5. Okta @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** NJ, US USA
@@ -38,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Okta @ Openkyber
+## 6. Okta @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** GA, US USA
@@ -49,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Software Engineer I (Full Stack) Java @ Walgreens
+## 7. Software Engineer I (Full Stack) Java @ Walgreens
 **Match Score:** 12.5%
 
 📍 **Location:** Deerfield, IL, US USA
@@ -60,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Architect @ Maximus
+## 8. Data Architect @ Maximus
 **Match Score:** 11.8%
 
 📍 **Location:** Tysons, VA, US USA
@@ -71,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Associate, AWS Cloud Platform Engineer @ New York Life
+## 9. Senior Associate, AWS Cloud Platform Engineer @ New York Life
 **Match Score:** 11.1%
 
 📍 **Location:** Lebanon, NJ, US USA
@@ -82,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Software Developer @ Oracle
+## 10. Senior Software Developer @ Oracle
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -93,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior BI Developer & Analytics Engineer @ Wecom Fiber
+## 11. Senior BI Developer & Analytics Engineer @ Wecom Fiber
 **Match Score:** 10.4%
 
 📍 **Location:** Phoenix, AZ, US USA

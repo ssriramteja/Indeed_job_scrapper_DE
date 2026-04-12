@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 08:46
+Last updated: 2026-04-12 09:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Legence | Power BI Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=510e2092d20062f6) | 2026-04-12 09:38 |
+| Legence | Power BI Data Engineer | Minneapolis, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5c671fac5bf99b42) | 2026-04-12 09:38 |
 | Openkyber | Network Operations Trainee | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4f9b6252d4232bb) | 2026-04-12 06:19 |
 | nan | Full Stack Developer - Contract Hire (Remote, US Only) | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=080c153a60c2db6d) | 2026-04-12 04:40 |
 | TEEMA | Data Architect - C2H | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a07fa9ddece4b00d) | 2026-04-12 04:40 |
