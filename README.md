@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-11 23:25
+Last updated: 2026-04-12 01:46
 
 ### 🚀 Daily Job Matches
 
@@ -8,7 +8,6 @@ Last updated: 2026-04-11 23:25
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Openkyber | AWS Network Engineer | GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1e68aed4fb5428da) | 2026-04-11 23:25 |
 | Openkyber | AWS Network Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=81b5b89f5da184cb) | 2026-04-11 23:25 |
-| Ford Motor Company | Sr DevOps Infrastructure Service Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdee34709275ca25) | 2026-04-11 23:25 |
 | Openkyber | AWS Network Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3b1cef4b777b5a5) | 2026-04-11 23:25 |
 | New York Life | Senior Associate, AWS Cloud Platform Engineer | Lebanon, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5130b1cac45762a) | 2026-04-11 18:31 |
 | Openkyber | Okta | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=229a363c5f9abe92) | 2026-04-11 17:25 |
@@ -553,28 +552,6 @@ Last updated: 2026-04-11 23:25
 | Keck Medicine of USC | Machine Learning (ML) Ops Engineer - IS Clinical Research - Full Time 8 Hour Days (Exempt) (Non-Union) | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab4edf6a8d5be469) | 2026-04-08 04:30 |
 | propio | Data Engineer II | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb1cc4f2e4a6b078) | 2026-04-08 04:30 |
 | DPR Construction | PCA Data Engineer | Raleigh-Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b664fa702865dcc) | 2026-04-08 04:30 |
-| Quantiphi | Associate Technical Architect - DE | Remote, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=9550eb99ea883b4b) | 2026-04-08 01:27 |
-| SAP | Expert AI & Cloud Development Architect - Office of the CTO | Palo Alto, CA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=29f624140c0ed8f4) | 2026-04-08 01:27 |
-| D&G Support Services, LLC | Data Engineer | Fort Belvoir, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e377567986c06890) | 2026-04-08 01:27 |
-| Axle | Site Reliability Engineer | Frederick, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e90c850ef759863c) | 2026-04-08 01:27 |
-| nan | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=71b4dfc7167a5b63) | 2026-04-08 01:27 |
-| Vital Care Infusion Services, LLC | Senior Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a05f96d61fcc07f4) | 2026-04-08 01:27 |
-| Carrington Mortgage Services, LLC | Senior, Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac81167ddd87b402) | 2026-04-08 01:27 |
-| Astro Growth Agency | Data Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f9ea26f5dcba01b) | 2026-04-08 01:27 |
-| Sumitomo Group | Platform Engineer - Databricks | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=127117f1aa0b751f) | 2026-04-08 01:27 |
-| Waterfield Technologies | Sr Software Engineer II | Tulsa, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0d31b22f171848fd) | 2026-04-08 01:27 |
-| Waterfield Technologies | Sr Software Engineer II | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e47e0cb8529c9a8) | 2026-04-08 01:27 |
-| Humana | Senior Business Intelligence Engineer- Commission and Heap analytics | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cf79efb8b86fb13) | 2026-04-08 01:27 |
-| Technology Ventures | Senior AI Software Engineer (Generative AI / AWS Bedrock) | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3212b5880946b7bc) | 2026-04-08 01:27 |
-| Realign | Resiliency & Recovery Engineer-2 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=388e699eeed13b86) | 2026-04-08 01:27 |
-| Waystar | Software Engineer II | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b1619e772a816828) | 2026-04-08 01:27 |
-| TRC | Senior Cloud Software Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f0a510d31944601) | 2026-04-08 01:27 |
-| U.S. Bank | Senior Cloud Data Engineer – Multi‑Cloud Data Platforms | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=650fc9401231f8ed) | 2026-04-07 23:30 |
-| U.S. Bank | Senior Cloud Data Engineer – Multi‑Cloud Data Platforms | Irving, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c3bdaecfc78dc80f) | 2026-04-07 23:30 |
-| U.S. Bank | Senior Cloud Data Engineer – Multi‑Cloud Data Platforms | Hopkins, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6b3c59588504de4c) | 2026-04-07 23:30 |
-| Keurig Dr Pepper | Senior Data Engineer | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d61b6eca49fa2fe) | 2026-04-07 23:30 |
-| Integrity Marketing Group | Senior Data Scientist | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4b528d73f04fa196) | 2026-04-07 23:30 |
-| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05b443f66d69fe26) | 2026-04-07 23:30 |
 
 
 ---
