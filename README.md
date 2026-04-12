@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 07:58
+Last updated: 2026-04-12 08:46
 
 ### 🚀 Daily Job Matches
 
@@ -530,9 +530,6 @@ Last updated: 2026-04-12 07:58
 | JPMorganChase | Sr Infrastructure Developer | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8c10e25f49712691) | 2026-04-08 10:00 |
 | Moody's | Senior Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff76177b5f1eb624) | 2026-04-08 10:00 |
 | JPMorganChase | Software Engineer III - Data Protection & Recovery | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca76cbde51b6d903) | 2026-04-08 10:00 |
-| Marriott International | Senior Software Engineer | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d0555fe5b48f96bb) | 2026-04-08 08:07 |
-| Plymouth Rock Assurance | Data Scientist Intern/Data Science Engineer | Woodbridge, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f21f9ffc85f99a93) | 2026-04-08 08:07 |
-| Twilio | Software Engineer, (L2) CDP | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c875609332a8cd3b) | 2026-04-08 08:07 |
 
 
 ---

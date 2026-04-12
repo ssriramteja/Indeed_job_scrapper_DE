@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-12
 
-**Total Jobs Found:** 14
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,29 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. AWS Network Engineer @ Openkyber
-**Match Score:** 13.9%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, IAM, RDS, DynamoDB, NoSQL, DataOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=81b5b89f5da184cb)
-
----
-
-## 4. Data Architect - C2H @ TEEMA
-**Match Score:** 13.2%
-
-📍 **Location:** Flower Mound, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, GCP, Scala, Snowflake, Databricks Lakehouse, Dimensional Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a07fa9ddece4b00d)
-
----
-
-## 5. Okta @ Openkyber
+## 3. Okta @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** NJ, US USA
@@ -60,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Okta @ Openkyber
+## 4. Okta @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** GA, US USA
@@ -71,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Software Engineer I (Full Stack) Java @ Walgreens
+## 5. Software Engineer I (Full Stack) Java @ Walgreens
 **Match Score:** 12.5%
 
 📍 **Location:** Deerfield, IL, US USA
@@ -82,18 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Analytics Engineer II @ ConstructConnect
-**Match Score:** 11.8%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** RDS, GCP, BigQuery, Scala, Data Modeling, ETL, ELT, dbt, Power BI, Tableau
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4a17b4dda4590caa)
-
----
-
-## 9. Data Architect @ Maximus
+## 6. Data Architect @ Maximus
 **Match Score:** 11.8%
 
 📍 **Location:** Tysons, VA, US USA
@@ -104,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Associate, AWS Cloud Platform Engineer @ New York Life
+## 7. Senior Associate, AWS Cloud Platform Engineer @ New York Life
 **Match Score:** 11.1%
 
 📍 **Location:** Lebanon, NJ, US USA
@@ -115,18 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Network Operations Trainee @ Openkyber
-**Match Score:** 11.1%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, Step Functions, S3, IAM, RDS, Snowflake, Oracle, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c4f9b6252d4232bb)
-
----
-
-## 12. Senior Software Developer @ Oracle
+## 8. Senior Software Developer @ Oracle
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -137,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior BI Developer & Analytics Engineer @ Wecom Fiber
+## 9. Senior BI Developer & Analytics Engineer @ Wecom Fiber
 **Match Score:** 10.4%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -145,17 +101,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Scala, Snowflake, clustering keys, ETL, Tableau, Tableau Server, AKS, Git, Python
 
 [Apply Here](https://www.indeed.com/viewjob?jk=eea7ffbb16ef4f94)
-
----
-
-## 14. AWS Network Engineer @ Openkyber
-**Match Score:** 10.4%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** AWS, Glue, Redshift, Athena, S3, RDS, Scala, Data Modeling, ETL, Amazon QuickSight
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d3b1cef4b777b5a5)
 
 ---
 
