@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 15:29
+Last updated: 2026-04-12 16:28
 
 ### 🚀 Daily Job Matches
 
@@ -513,9 +513,6 @@ Last updated: 2026-04-12 15:29
 | nan | Data Analyst (Central Analytics) | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=46b00017f96539a3) | 2026-04-08 18:00 |
 | Bloomberg | Senior Software Engineer – ClickHouse Infrastructure | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a74c4f6efd069a1b) | 2026-04-08 18:00 |
 | Health-E Commerce | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99671ff321a95d86) | 2026-04-08 18:00 |
-| Leading Path Consulting | Systems Engineer (Linux, Hardware, Security, DevOps/Automation) - TS/SCI w/ Poly | Warrenton, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=1d393e51b035c281) | 2026-04-08 16:10 |
-| Leading Path Consulting | Systems Engineer (Linux, Hardware, Security, DevOps/Automation) - TS/SCI w/ Poly | McLean, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=ffb1cf3c611caa16) | 2026-04-08 16:10 |
-| Fusion Global Technologies and Solutions | IT Solutions Engineer - Senior | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4b1e89f92944d8ca) | 2026-04-08 16:10 |
 
 
 ---
