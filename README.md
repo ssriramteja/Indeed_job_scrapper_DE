@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 17:28
+Last updated: 2026-04-12 18:35
 
 ### 🚀 Daily Job Matches
 
@@ -500,19 +500,6 @@ Last updated: 2026-04-12 17:28
 | Ryder System | Data Services Intern | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0947e458821ae815) | 2026-04-08 19:20 |
 | HJ Staffing | Advisor Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d52b697a7ccfabf5) | 2026-04-08 19:20 |
 | HJ Staffing | Advisor Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=113f0b0e9c716e6e) | 2026-04-08 19:20 |
-| Mod Op | Junior AI/ML Engineer (Data & Cloud Platforms) | Atlanta, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=fda8d7d5a74ae53f) | 2026-04-08 18:00 |
-| New Meridian Corporation | Senior Software Engineer Data Warehouse | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9d3ea4ad70ff630c) | 2026-04-08 18:00 |
-| HealthPartners | Enterprise Application and Data Architect | Bloomington, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=af0f5e29e8863a92) | 2026-04-08 18:00 |
-| Cognizant | Data Engineer (AIA) | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6fcc40ac4135e57b) | 2026-04-08 18:00 |
-| Kutir Corporation | Sr. Azure Data Engineer with AI | Piscataway, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9a2954cbf5577991) | 2026-04-08 18:00 |
-| Amcor | Cloud Platforms Engineer II | Oshkosh, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0bf10e00fee9cc9) | 2026-04-08 18:00 |
-| Revo Health LLC. | Solutions Architect - Revo Health | Bloomington, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=abfa8ce1c2da6ad3) | 2026-04-08 18:00 |
-| Cognizant | Senior Data Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99c345e76753c929) | 2026-04-08 18:00 |
-| Zendesk | Software Engineer Intern | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=423f52012afc9797) | 2026-04-08 18:00 |
-| State Farm | Entry-Level Software Engineer (HYBRID) | Bloomington, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6eb29038f237e311) | 2026-04-08 18:00 |
-| nan | Data Analyst (Central Analytics) | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=46b00017f96539a3) | 2026-04-08 18:00 |
-| Bloomberg | Senior Software Engineer – ClickHouse Infrastructure | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a74c4f6efd069a1b) | 2026-04-08 18:00 |
-| Health-E Commerce | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99671ff321a95d86) | 2026-04-08 18:00 |
 
 
 ---
