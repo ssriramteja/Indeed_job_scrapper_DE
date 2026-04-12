@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 22:24
+Last updated: 2026-04-12 23:26
 
 ### 🚀 Daily Job Matches
 
@@ -451,10 +451,6 @@ Last updated: 2026-04-12 22:24
 | M-TECH SYSTEMS | Sr Python Developer - Hybrid - Atlanta GA | Dunwoody, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f22b75c7e14b024) | 2026-04-08 23:31 |
 | Opiniion | Senior Analytics Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f1ff2151b8007775) | 2026-04-08 23:31 |
 | Fresenius Medical Care | Cloud and DevOps Expert | Waltham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75e22059c1c4550f) | 2026-04-08 23:31 |
-| JPMorganChase | Software Engineer III - AI/ML | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=76cfc97622cac432) | 2026-04-08 22:31 |
-| Zayo Group | Data Analytics Engineer - Network Data Solutions | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9ba38c8b2c1db3d9) | 2026-04-08 22:31 |
-| Infoville Inc | Oracle DBA @ New York, NY | Verona, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f22c95754fdda590) | 2026-04-08 22:31 |
-| JPMorganChase | Data Software Engineer III- ML | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20cd1de8722f1e75) | 2026-04-08 22:31 |
 
 
 ---
