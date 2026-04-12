@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 04:40
+Last updated: 2026-04-12 06:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Network Operations Trainee | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4f9b6252d4232bb) | 2026-04-12 06:19 |
 | nan | Full Stack Developer - Contract Hire (Remote, US Only) | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=080c153a60c2db6d) | 2026-04-12 04:40 |
 | TEEMA | Data Architect - C2H | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a07fa9ddece4b00d) | 2026-04-12 04:40 |
 | Openkyber | AWS Network Engineer | GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1e68aed4fb5428da) | 2026-04-11 23:25 |
@@ -532,8 +533,6 @@ Last updated: 2026-04-12 04:40
 | Marriott International | Senior Software Engineer | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d0555fe5b48f96bb) | 2026-04-08 08:07 |
 | Plymouth Rock Assurance | Data Scientist Intern/Data Science Engineer | Woodbridge, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f21f9ffc85f99a93) | 2026-04-08 08:07 |
 | Twilio | Software Engineer, (L2) CDP | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c875609332a8cd3b) | 2026-04-08 08:07 |
-| ASPCA | Enterprise Data Warehouse Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1300aab23c7eb337) | 2026-04-08 06:17 |
-| NTT DATA | API Architect (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9443960b40fa54c3) | 2026-04-08 06:17 |
 
 
 ---
