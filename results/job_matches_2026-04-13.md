@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Software Engineer III @ Robert Half
-**Match Score:** 15.3%
-
-📍 **Location:** San Ramon, CA, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, RDS, Azure, Spark, Scala, Oracle, SQL Server, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9f47248faf88df34)
-
----
-
-## 3. Sr. Software Engineer, Data Engineering @ Poshmark
+## 2. Sr. Software Engineer, Data Engineering @ Poshmark
 **Match Score:** 15.3%
 
 📍 **Location:** Redwood City, CA, US USA
@@ -38,18 +27,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Sr. Data Engineer, Data Platform @ Mirion
-**Match Score:** 14.6%
+## 3. Software Engineer III @ Robert Half
+**Match Score:** 15.3%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** San Ramon, CA, US USA
 
-🔑 **Keywords:** AWS, Kinesis, Redshift, Azure, Databricks, GCP, BigQuery, Spark, Scala, Kafka
+🔑 **Keywords:** AWS, Glue, Lambda, RDS, Azure, Spark, Scala, Oracle, SQL Server, PostgreSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=56369bdeadc2da7f)
+[Apply Here](https://www.indeed.com/viewjob?jk=9f47248faf88df34)
 
 ---
 
-## 5. Sr. Engineer, Machine Learning @ Poshmark
+## 4. Sr. Engineer, Machine Learning @ Poshmark
 **Match Score:** 14.6%
 
 📍 **Location:** Redwood City, CA, US USA
@@ -57,6 +46,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** EMR, Redshift, S3, Databricks, Spark, Scala, Kafka, MongoDB, MLflow, Jenkins
 
 [Apply Here](https://www.indeed.com/viewjob?jk=7529728374eb4213)
+
+---
+
+## 5. Sr. Data Engineer, Data Platform @ Mirion
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Kinesis, Redshift, Azure, Databricks, GCP, BigQuery, Spark, Scala, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=56369bdeadc2da7f)
 
 ---
 
