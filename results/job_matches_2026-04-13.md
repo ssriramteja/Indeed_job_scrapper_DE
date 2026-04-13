@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-04-13
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 13
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. DevOps Engineer @ SwapsTech
+## 1. Enterprise Data Architect @ Villanova University
+**Match Score:** 16.7%
+
+📍 **Location:** Villanova, PA, US USA
+
+🔑 **Keywords:** AWS, Kinesis, RDS, Azure, GCP, Scala, Kafka, Snowflake, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5cdea475a3468daf)
+
+---
+
+## 2. DevOps Engineer @ SwapsTech
 **Match Score:** 16.0%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Sr. Software Engineer, Data Engineering @ Poshmark
+## 3. Sr. Software Engineer, Data Engineering @ Poshmark
 **Match Score:** 15.3%
 
 📍 **Location:** Redwood City, CA, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Software Engineer III @ Robert Half
+## 4. Software Engineer III @ Robert Half
 **Match Score:** 15.3%
 
 📍 **Location:** San Ramon, CA, US USA
@@ -38,7 +49,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Sr. Engineer, Machine Learning @ Poshmark
+## 5. Cloud/Drupal Subject Matter Specialist @ BFG Enterprise Services
+**Match Score:** 15.3%
+
+📍 **Location:** Suitland, MD, US USA
+
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, GCP, Scala, Oracle, PostgreSQL, MySQL, MongoDB, NoSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=890c6ef795b6dd39)
+
+---
+
+## 6. Sr. Engineer, Machine Learning @ Poshmark
 **Match Score:** 14.6%
 
 📍 **Location:** Redwood City, CA, US USA
@@ -49,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Sr. Data Engineer, Data Platform @ Mirion
+## 7. Sr. Data Engineer, Data Platform @ Mirion
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +82,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Site Reliability Engineer @ NTT DATA
+## 8. Data Architect - C2H @ TEEMA
+**Match Score:** 13.2%
+
+📍 **Location:** Flower Mound, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, GCP, Scala, Snowflake, Databricks Lakehouse, Dimensional Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=392f54d3fade0b87)
+
+---
+
+## 9. Site Reliability Engineer @ NTT DATA
 **Match Score:** 12.5%
 
 📍 **Location:** Austin, TX, US USA
@@ -71,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Site Reliability Engineer @ NTT DATA
+## 10. Site Reliability Engineer @ NTT DATA
 **Match Score:** 12.5%
 
 📍 **Location:** Austin, TX, US USA
@@ -82,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. SAP NS2 Sr. DevOps Engineer @ SAP
+## 11. SAP NS2 Sr. DevOps Engineer @ SAP
 **Match Score:** 11.8%
 
 📍 **Location:** Austin, TX, US USA
@@ -93,7 +126,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Site Reliability Engineer, (Production Excellence) @ Poshmark
+## 12. Senior Software Engineer @ Precisely
+**Match Score:** 11.1%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, Azure, Scala, Oracle, MySQL, CI/CD, Jenkins, Maven, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=27d727c9d934f72b)
+
+---
+
+## 13. Senior Site Reliability Engineer, (Production Excellence) @ Poshmark
 **Match Score:** 10.4%
 
 📍 **Location:** Redwood City, CA, US USA

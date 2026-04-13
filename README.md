@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-13 13:03
+Last updated: 2026-04-13 15:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TEEMA | Data Architect - C2H | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=392f54d3fade0b87) | 2026-04-13 15:08 |
+| Precisely | Senior Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27d727c9d934f72b) | 2026-04-13 15:08 |
 | Poshmark | Sr. Software Engineer, Data Engineering | Redwood City, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=454945ebbe7d1ebf) | 2026-04-13 11:10 |
 | Mirion | Sr. Data Engineer, Data Platform | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56369bdeadc2da7f) | 2026-04-13 11:10 |
 | Poshmark | Sr. Engineer, Machine Learning | Redwood City, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7529728374eb4213) | 2026-04-13 11:10 |
