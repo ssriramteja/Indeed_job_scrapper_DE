@@ -5,14 +5,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Full Stack Developer - Contract Hire (Remote, US Only) @ ChowaCo
-**Match Score:** 14.6%
+## 1. Software Engineer III @ Robert Half
+**Match Score:** 15.3%
 
-📍 **Location:** US USA
+📍 **Location:** San Ramon, CA, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Synapse Analytics, Databricks, Unity Catalog, GCP, BigQuery, PostgreSQL
+🔑 **Keywords:** AWS, Glue, Lambda, RDS, Azure, Spark, Scala, Oracle, SQL Server, PostgreSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=080c153a60c2db6d)
+[Apply Here](https://www.indeed.com/viewjob?jk=9f47248faf88df34)
 
 ---
 

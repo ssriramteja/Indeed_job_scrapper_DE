@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-13 01:50
+Last updated: 2026-04-13 04:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Robert Half | Software Engineer III | San Ramon, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9f47248faf88df34) | 2026-04-13 04:52 |
 | Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5cdea475a3468daf) | 2026-04-12 22:24 |
 | BFG Enterprise Services | Cloud/Drupal Subject Matter Specialist | Suitland, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=890c6ef795b6dd39) | 2026-04-12 19:33 |
 | SAP | SAP NS2 Sr. DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c08fc820fe10f7ed) | 2026-04-12 19:33 |
@@ -429,13 +430,6 @@ Last updated: 2026-04-13 01:50
 | HealthPartners | Enterprise Integration Architect | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=548d3d3d67edadf4) | 2026-04-09 08:14 |
 | NTT DATA | Platform (AWS) Engineer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5f2ab88683becc31) | 2026-04-09 06:16 |
 | NTT DATA | Test Automation Engineer / SDET - HYBRID | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bbfd37a40116609) | 2026-04-09 06:16 |
-| Sidley Austin | Senior Data Quality Engineer | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6452beb2eda05bed) | 2026-04-09 04:27 |
-| WTW | AI First Senior Software Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=14dfa31e07ed5ab9) | 2026-04-09 04:27 |
-| Tata Consultancy Services (TCS) | AI Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a0bcea1105f70c11) | 2026-04-09 04:27 |
-| Population Services International | Associate, Data Engineering - DISC Project | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4aafe4b310cc6782) | 2026-04-09 04:27 |
-| Dollar General | SR SOFTWARE ENGINEER | Goodlettsville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4db99ec10316c705) | 2026-04-09 04:27 |
-| ConnectOne Bank | Senior Data Engineer | Englewood Cliffs, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c88aa2ee3a1d2797) | 2026-04-09 04:27 |
-| CAI (Computer Aid, Inc.) | Junior Data Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1afd96a6073e3e32) | 2026-04-09 04:27 |
 
 
 ---
