@@ -1,13 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-13 22:36
+Last updated: 2026-04-13 23:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=72b0fdeb9512d34e) | 2026-04-13 23:36 |
+| Energy Services Group | Senior DevOps Cloud Engineer | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a0b78c747cdda3eb) | 2026-04-13 23:36 |
+| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-13 23:36 |
+| LTIMindtree | Specialist - Data Engineering | Torrance, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b32f7b404908120) | 2026-04-13 23:36 |
+| JobSPOT | Full Stack Java Developer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d30905e392635ceb) | 2026-04-13 23:36 |
+| Path Robotics, Inc. | Sr. Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a0c06f03d80ad17) | 2026-04-13 23:36 |
 | Parker's Kitchen | Senior Data & Integration Engineer | Savannah, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=403fe46aec3ac312) | 2026-04-13 22:36 |
-| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-13 22:36 |
 | Mouser Electronics | Sr Web Software Developer | Mansfield, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=336c0c1bf86693ef) | 2026-04-13 22:36 |
 | ExtraMile | Data and BI Solutions Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a3e97aaf28d0108) | 2026-04-13 22:36 |
 | ExtraMile | Data and BI Solutions Developer | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=410def4f54721f1a) | 2026-04-13 22:36 |
@@ -326,12 +331,6 @@ Last updated: 2026-04-13 22:36
 | Realign | Snowflake Architect-9 | Minnesota City, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=beaca4a477ff16f5) | 2026-04-10 01:29 |
 | Realign | DevOps Engineer | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c07f32404bc901e3) | 2026-04-10 01:29 |
 | Walkme | DevOps Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58a2b54bac3d613d) | 2026-04-10 01:29 |
-| GitHub | Senior Data Engineer, Revenue Intelligence | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5f11c5f49ca38408) | 2026-04-09 23:32 |
-| Hexaware Technologies | Big Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8c18410d10e98da8) | 2026-04-09 23:32 |
-| Total Quality Logistics (TQL) | Data Architect - Paid Relocation to Cincinnati | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=36d097a5c9b38547) | 2026-04-09 23:32 |
-| ARMADA | Senior Platform/DevOps Engineer (Kubernetes-Linux) | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1bb2064fa7d1ef15) | 2026-04-09 23:32 |
-| BNY | Site Reliability Engineer_Pipeline | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3403085da0b17678) | 2026-04-09 23:32 |
-| BNY | Senior Specialist, Full-Stack Engineer | Lake Mary, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6abb2385899cf65f) | 2026-04-09 23:32 |
 
 
 ---

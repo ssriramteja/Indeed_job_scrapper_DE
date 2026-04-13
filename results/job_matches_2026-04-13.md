@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-13
 
-**Total Jobs Found:** 48
+**Total Jobs Found:** 53
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -225,7 +225,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior DevOps Engineer @ William Blair & Company
+## 21. Senior Data Engineer @ nan
+**Match Score:** 13.2%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Scala, SQL Server, Data Modeling, Dimensional Modeling, ETL, ELT, dbt
+
+[Apply Here](https://www.indeed.com/viewjob?jk=72b0fdeb9512d34e)
+
+---
+
+## 22. Senior DevOps Cloud Engineer @ Energy Services Group
+**Match Score:** 13.2%
+
+📍 **Location:** Norwell, MA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, CI/CD, Jenkins, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a0b78c747cdda3eb)
+
+---
+
+## 23. Senior DevOps Engineer @ William Blair & Company
 **Match Score:** 13.2%
 
 📍 **Location:** Chicago, IL, US USA
@@ -236,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Applications Developer @ Union Bank & Trust Co.
+## 24. Senior Applications Developer @ Union Bank & Trust Co.
 **Match Score:** 13.2%
 
 📍 **Location:** Lincoln, NE, US USA
@@ -247,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Sys. Integration Sr. Specialist Advisor @ NTT DATA
+## 25. Sys. Integration Sr. Specialist Advisor @ NTT DATA
 **Match Score:** 12.5%
 
 📍 **Location:** Plano, TX, US USA
@@ -258,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Site Reliability Engineer @ NTT DATA
+## 26. Site Reliability Engineer @ NTT DATA
 **Match Score:** 12.5%
 
 📍 **Location:** Austin, TX, US USA
@@ -269,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Site Reliability Engineer @ NTT DATA
+## 27. Site Reliability Engineer @ NTT DATA
 **Match Score:** 12.5%
 
 📍 **Location:** Austin, TX, US USA
@@ -280,7 +302,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Data Engineer/Sr Data Engineer @ Georgia-Pacific
+## 28. Specialist - Data Engineering @ LTIMindtree
+**Match Score:** 12.5%
+
+📍 **Location:** Torrance, CA, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, Redshift, IAM, RDS, Spark, PySpark, Scala, Informatica PowerCenter
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8b32f7b404908120)
+
+---
+
+## 29. Data Engineer/Sr Data Engineer @ Georgia-Pacific
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -291,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Sr. Data Engineer @ Purpose Financial
+## 30. Sr. Data Engineer @ Purpose Financial
 **Match Score:** 11.8%
 
 📍 **Location:** Greenville, SC, US USA
@@ -302,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Sr. Software Engineer - Full Stack @ Purpose Financial
+## 31. Sr. Software Engineer - Full Stack @ Purpose Financial
 **Match Score:** 11.8%
 
 📍 **Location:** Greenville, SC, US USA
@@ -313,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. IT Data Developer @ Tempur + Sealy
+## 32. IT Data Developer @ Tempur + Sealy
 **Match Score:** 11.8%
 
 📍 **Location:** Trinity, NC, US USA
@@ -324,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Senior Site Reliability Engineer @ Mastercard
+## 33. Senior Site Reliability Engineer @ Mastercard
 **Match Score:** 11.1%
 
 📍 **Location:** O'Fallon, MO, US USA
@@ -335,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Data Engineer @ Purpose Financial
+## 34. Data Engineer @ Purpose Financial
 **Match Score:** 11.1%
 
 📍 **Location:** Greenville, SC, US USA
@@ -346,7 +379,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Sr Web Software Developer @ Mouser Electronics
+## 35. Full Stack Java Developer @ JobSPOT
+**Match Score:** 11.1%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, Scala, PostgreSQL, MySQL, CI/CD, Jenkins, GitHub Actions, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d30905e392635ceb)
+
+---
+
+## 36. Sr Web Software Developer @ Mouser Electronics
 **Match Score:** 11.1%
 
 📍 **Location:** Mansfield, TX, US USA
@@ -357,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Software Engineer, Backend @ Hifi
+## 37. Software Engineer, Backend @ Hifi
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -368,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Senior Software Engineer @ Precisely
+## 38. Senior Software Engineer @ Precisely
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -379,7 +423,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Data and BI Solutions Developer @ ExtraMile
+## 39. Sr. Data Engineer @ Path Robotics, Inc.
+**Match Score:** 10.4%
+
+📍 **Location:** Columbus, OH, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Kafka, Snowflake, ETL, ELT, dbt, MLOps, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6a0c06f03d80ad17)
+
+---
+
+## 40. Data and BI Solutions Developer @ ExtraMile
 **Match Score:** 10.4%
 
 📍 **Location:** GA, US USA
@@ -390,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Data and BI Solutions Developer @ ExtraMile
+## 41. Data and BI Solutions Developer @ ExtraMile
 **Match Score:** 10.4%
 
 📍 **Location:** OH, US USA
@@ -401,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Data and BI Solutions Developer @ ExtraMile
+## 42. Data and BI Solutions Developer @ ExtraMile
 **Match Score:** 10.4%
 
 📍 **Location:** AR, US USA
@@ -412,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Data and BI Solutions Developer @ ExtraMile
+## 43. Data and BI Solutions Developer @ ExtraMile
 **Match Score:** 10.4%
 
 📍 **Location:** FL, US USA
@@ -423,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Data and BI Solutions Developer @ ExtraMile
+## 44. Data and BI Solutions Developer @ ExtraMile
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -434,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Data Engineering & Operations Specialist @ Shelter Insurance
+## 45. Data Engineering & Operations Specialist @ Shelter Insurance
 **Match Score:** 10.4%
 
 📍 **Location:** Columbia, MO, US USA
@@ -445,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Senior Site Reliability Engineer, (Production Excellence) @ Poshmark
+## 46. Senior Site Reliability Engineer, (Production Excellence) @ Poshmark
 **Match Score:** 10.4%
 
 📍 **Location:** Redwood City, CA, US USA
@@ -456,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Senior Engineer - Java [Hybrid] @ GEICO
+## 47. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -467,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Senior Engineer - Java [Hybrid] @ GEICO
+## 48. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -478,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Senior Engineer - Java [Hybrid] @ GEICO
+## 49. Senior Engineer - Java [Hybrid] @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -489,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Entry-level Moment Google Contact Center Developer @ Cognizant
+## 50. Entry-level Moment Google Contact Center Developer @ Cognizant
 **Match Score:** 10.4%
 
 📍 **Location:** Teaneck, NJ, US USA
@@ -500,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Senior Data Engineer @ AIA Contract Documents
+## 51. Senior Data Engineer @ AIA Contract Documents
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -511,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Ingeniero de Datos en Azure Cloud @ EX Squared
+## 52. Ingeniero de Datos en Azure Cloud @ EX Squared
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -522,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Solution Engineer - Data Engineering Specialist - Bilingual (Spanish) @ Snowflake
+## 53. Solution Engineer - Data Engineering Specialist - Bilingual (Spanish) @ Snowflake
 **Match Score:** 10.4%
 
 📍 **Location:** GA, US USA
