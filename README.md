@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-13 04:52
+Last updated: 2026-04-13 07:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | Site Reliability Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee60578e0abfdb96) | 2026-04-13 07:10 |
 | Robert Half | Software Engineer III | San Ramon, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9f47248faf88df34) | 2026-04-13 04:52 |
 | Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5cdea475a3468daf) | 2026-04-12 22:24 |
 | BFG Enterprise Services | Cloud/Drupal Subject Matter Specialist | Suitland, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=890c6ef795b6dd39) | 2026-04-12 19:33 |
@@ -428,8 +429,6 @@ Last updated: 2026-04-13 04:52
 | Presto AB | Backend Engineer, POS & Integrations | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b8a9d868b607be0c) | 2026-04-09 08:14 |
 | Lincare | Sr Data Analyst | Clearwater, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bafbad52ee9c6a54) | 2026-04-09 08:14 |
 | HealthPartners | Enterprise Integration Architect | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=548d3d3d67edadf4) | 2026-04-09 08:14 |
-| NTT DATA | Platform (AWS) Engineer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5f2ab88683becc31) | 2026-04-09 06:16 |
-| NTT DATA | Test Automation Engineer / SDET - HYBRID | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bbfd37a40116609) | 2026-04-09 06:16 |
 
 
 ---

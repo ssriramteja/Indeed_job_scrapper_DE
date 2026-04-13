@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-13
 
-**Total Jobs Found:** 2
+**Total Jobs Found:** 3
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. SAP NS2 Sr. DevOps Engineer @ SAP
+## 2. Site Reliability Engineer @ NTT DATA
+**Match Score:** 12.5%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, Google Cloud Platform, GCP, Scala, Oracle, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ee60578e0abfdb96)
+
+---
+
+## 3. SAP NS2 Sr. DevOps Engineer @ SAP
 **Match Score:** 11.8%
 
 📍 **Location:** Austin, TX, US USA
