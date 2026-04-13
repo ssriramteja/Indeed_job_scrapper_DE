@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-13 07:10
+Last updated: 2026-04-13 09:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SwapsTech | DevOps Engineer | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4012ccd366ad2714) | 2026-04-13 09:28 |
+| NTT DATA | Site Reliability Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c2444333527505cd) | 2026-04-13 09:28 |
 | NTT DATA | Site Reliability Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee60578e0abfdb96) | 2026-04-13 07:10 |
 | Robert Half | Software Engineer III | San Ramon, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9f47248faf88df34) | 2026-04-13 04:52 |
 | Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5cdea475a3468daf) | 2026-04-12 22:24 |
@@ -425,10 +427,6 @@ Last updated: 2026-04-13 07:10
 | M.C. Dean, Inc. | Backend / Cloud Infrastructure Engineer - Washington D.C | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fe5de6a0b568cb57) | 2026-04-09 10:05 |
 | Ketjen | Enterprise Data, Analytics & AI | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f044f722a79b7cd) | 2026-04-09 10:05 |
 | Ascension | Technical Analyst- Data and Systems | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=646c967b5423d4bf) | 2026-04-09 10:05 |
-| Wells Fargo | Senior Specialty Software Engineer (Req #002089) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9112855c709308c8) | 2026-04-09 08:14 |
-| Presto AB | Backend Engineer, POS & Integrations | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b8a9d868b607be0c) | 2026-04-09 08:14 |
-| Lincare | Sr Data Analyst | Clearwater, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bafbad52ee9c6a54) | 2026-04-09 08:14 |
-| HealthPartners | Enterprise Integration Architect | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=548d3d3d67edadf4) | 2026-04-09 08:14 |
 
 
 ---
