@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-13 15:08
+Last updated: 2026-04-13 16:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | Sys. Integration Sr. Specialist Advisor | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1aca172869e592e8) | 2026-04-13 16:55 |
 | TEEMA | Data Architect - C2H | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=392f54d3fade0b87) | 2026-04-13 15:08 |
 | Precisely | Senior Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27d727c9d934f72b) | 2026-04-13 15:08 |
 | Poshmark | Sr. Software Engineer, Data Engineering | Redwood City, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=454945ebbe7d1ebf) | 2026-04-13 11:10 |
@@ -372,12 +373,6 @@ Last updated: 2026-04-13 15:08
 | Openkyber | PingOne Cloud Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce4901601fc9ef85) | 2026-04-09 16:58 |
 | DDN | Senior Analytics Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48b3ec3709af933a) | 2026-04-09 16:58 |
 | Communify | Senior Software Engineer, Web Development | Broomfield, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3befea356e71854) | 2026-04-09 16:58 |
-| Capital One | Distinguished Data Engineer - Enterprise Data Technology | McLean, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4bb308be554a0dee) | 2026-04-09 15:15 |
-| VCU Health System | Data Engineer III | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5115841e7866fb91) | 2026-04-09 15:15 |
-| Outfront Media | Senior Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=deafc80aa75d1193) | 2026-04-09 15:15 |
-| Intuit | Machine Learning Engineer II Recommendation Systems- Credit Karma | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca5b55d7ce3a3210) | 2026-04-09 15:15 |
-| Anza Mortgage Insurance Corporation | ML Data Engineer - Mortgage Credit Risk | Wilmington, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3914f4c8a393dddd) | 2026-04-09 15:15 |
-| Press Ganey | Senior Software Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7db0adb04360b67) | 2026-04-09 15:15 |
 
 
 ---

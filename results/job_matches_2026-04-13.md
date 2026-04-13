@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-04-13
 
-**Total Jobs Found:** 13
+**Total Jobs Found:** 11
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Enterprise Data Architect @ Villanova University
-**Match Score:** 16.7%
-
-📍 **Location:** Villanova, PA, US USA
-
-🔑 **Keywords:** AWS, Kinesis, RDS, Azure, GCP, Scala, Kafka, Snowflake, Data Modeling, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5cdea475a3468daf)
-
----
-
-## 2. DevOps Engineer @ SwapsTech
+## 1. DevOps Engineer @ SwapsTech
 **Match Score:** 16.0%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -24,6 +13,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, API Gateway, RDS, Scala, Oracle, MySQL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=4012ccd366ad2714)
+
+---
+
+## 2. Software Engineer III @ Robert Half
+**Match Score:** 15.3%
+
+📍 **Location:** San Ramon, CA, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, RDS, Azure, Spark, Scala, Oracle, SQL Server, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9f47248faf88df34)
 
 ---
 
@@ -38,40 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Software Engineer III @ Robert Half
-**Match Score:** 15.3%
-
-📍 **Location:** San Ramon, CA, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, RDS, Azure, Spark, Scala, Oracle, SQL Server, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9f47248faf88df34)
-
----
-
-## 5. Cloud/Drupal Subject Matter Specialist @ BFG Enterprise Services
-**Match Score:** 15.3%
-
-📍 **Location:** Suitland, MD, US USA
-
-🔑 **Keywords:** AWS, Azure, Google Cloud Platform, GCP, Scala, Oracle, PostgreSQL, MySQL, MongoDB, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=890c6ef795b6dd39)
-
----
-
-## 6. Sr. Engineer, Machine Learning @ Poshmark
-**Match Score:** 14.6%
-
-📍 **Location:** Redwood City, CA, US USA
-
-🔑 **Keywords:** EMR, Redshift, S3, Databricks, Spark, Scala, Kafka, MongoDB, MLflow, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7529728374eb4213)
-
----
-
-## 7. Sr. Data Engineer, Data Platform @ Mirion
+## 4. Sr. Data Engineer, Data Platform @ Mirion
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -82,18 +49,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Data Architect - C2H @ TEEMA
-**Match Score:** 13.2%
+## 5. Sr. Engineer, Machine Learning @ Poshmark
+**Match Score:** 14.6%
 
-📍 **Location:** Flower Mound, TX, US USA
+📍 **Location:** Redwood City, CA, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, GCP, Scala, Snowflake, Databricks Lakehouse, Dimensional Modeling
+🔑 **Keywords:** EMR, Redshift, S3, Databricks, Spark, Scala, Kafka, MongoDB, MLflow, Jenkins
 
-[Apply Here](https://www.indeed.com/viewjob?jk=392f54d3fade0b87)
+[Apply Here](https://www.indeed.com/viewjob?jk=7529728374eb4213)
 
 ---
 
-## 9. Site Reliability Engineer @ NTT DATA
+## 6. Sys. Integration Sr. Specialist Advisor @ NTT DATA
+**Match Score:** 12.5%
+
+📍 **Location:** Plano, TX, US USA
+
+🔑 **Keywords:** AWS, S3, IAM, Azure, GCP, Hive, Impala, Spark, Scala, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1aca172869e592e8)
+
+---
+
+## 7. Site Reliability Engineer @ NTT DATA
 **Match Score:** 12.5%
 
 📍 **Location:** Austin, TX, US USA
@@ -104,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Site Reliability Engineer @ NTT DATA
+## 8. Site Reliability Engineer @ NTT DATA
 **Match Score:** 12.5%
 
 📍 **Location:** Austin, TX, US USA
@@ -115,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. SAP NS2 Sr. DevOps Engineer @ SAP
+## 9. SAP NS2 Sr. DevOps Engineer @ SAP
 **Match Score:** 11.8%
 
 📍 **Location:** Austin, TX, US USA
@@ -126,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Software Engineer @ Precisely
+## 10. Senior Software Engineer @ Precisely
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -137,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Site Reliability Engineer, (Production Excellence) @ Poshmark
+## 11. Senior Site Reliability Engineer, (Production Excellence) @ Poshmark
 **Match Score:** 10.4%
 
 📍 **Location:** Redwood City, CA, US USA
