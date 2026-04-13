@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-12 23:26
+Last updated: 2026-04-13 01:50
 
 ### 🚀 Daily Job Matches
 
@@ -436,21 +436,6 @@ Last updated: 2026-04-12 23:26
 | Dollar General | SR SOFTWARE ENGINEER | Goodlettsville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4db99ec10316c705) | 2026-04-09 04:27 |
 | ConnectOne Bank | Senior Data Engineer | Englewood Cliffs, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c88aa2ee3a1d2797) | 2026-04-09 04:27 |
 | CAI (Computer Aid, Inc.) | Junior Data Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1afd96a6073e3e32) | 2026-04-09 04:27 |
-| NTT DATA | Platform (AWS) Engineer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ce768659b9bf72c2) | 2026-04-09 01:19 |
-| Viasat | Software Engineer | OR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=75856bb7b17e3cfe) | 2026-04-09 01:19 |
-| GM Financial | Machine Learning Operations-Engineer II | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=99bf6e8f385aab0c) | 2026-04-09 01:19 |
-| CrowdStrike | DevOps Engineer, Falcon NG-SIEM, FrontTier Expansions (Hybrid, Austin) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ef92600498a13be) | 2026-04-09 01:19 |
-| Realign | Developer – T-2 | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d23fbf23aaa4ed0c) | 2026-04-09 01:19 |
-| Concord Music Group, Inc. | Software Development Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4f8bd2c2f1aed56) | 2026-04-09 01:19 |
-| Fairlife, LLC | Sr. Analytics Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=411ffa408b7d9ea0) | 2026-04-09 01:19 |
-| StandardAero | Sr. Data Analytics Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=905b416491d0053a) | 2026-04-09 01:19 |
-| ICW Group | AI Architect | San Diego, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9f0c5b222112ed43) | 2026-04-08 23:31 |
-| Violet Ink | Data Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9fe60e0b6f79b280) | 2026-04-08 23:31 |
-| Opiniion | Senior Software Engineer, Integrations | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=85c5d065404f67c9) | 2026-04-08 23:31 |
-| nan | Gen AI Platform & Deployment Engineer | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e87b7bf0563dd40f) | 2026-04-08 23:31 |
-| M-TECH SYSTEMS | Sr Python Developer - Hybrid - Atlanta GA | Dunwoody, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f22b75c7e14b024) | 2026-04-08 23:31 |
-| Opiniion | Senior Analytics Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f1ff2151b8007775) | 2026-04-08 23:31 |
-| Fresenius Medical Care | Cloud and DevOps Expert | Waltham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75e22059c1c4550f) | 2026-04-08 23:31 |
 
 
 ---
