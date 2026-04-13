@@ -1,17 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-13 21:40
+Last updated: 2026-04-13 22:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Parker's Kitchen | Senior Data & Integration Engineer | Savannah, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=403fe46aec3ac312) | 2026-04-13 22:36 |
+| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-13 22:36 |
+| Mouser Electronics | Sr Web Software Developer | Mansfield, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=336c0c1bf86693ef) | 2026-04-13 22:36 |
+| ExtraMile | Data and BI Solutions Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a3e97aaf28d0108) | 2026-04-13 22:36 |
+| ExtraMile | Data and BI Solutions Developer | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=410def4f54721f1a) | 2026-04-13 22:36 |
+| ExtraMile | Data and BI Solutions Developer | AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e8c2e004e287ec36) | 2026-04-13 22:36 |
+| ExtraMile | Data and BI Solutions Developer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b55d3d996d9d61dc) | 2026-04-13 22:36 |
+| ExtraMile | Data and BI Solutions Developer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=faf1e7e97badd9a1) | 2026-04-13 22:36 |
+| GEICO | Senior Engineer - Java [Hybrid] | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f21cb7010e5a8a63) | 2026-04-13 22:36 |
+| GEICO | Senior Engineer - Java [Hybrid] | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a6d4850de30c8ce) | 2026-04-13 22:36 |
+| GEICO | Senior Engineer - Java [Hybrid] | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dc22d977c810f0a5) | 2026-04-13 22:36 |
+| Snowflake | Solution Engineer - Data Engineering Specialist - Bilingual (Spanish) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=92a26823ec6dae45) | 2026-04-13 22:36 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Phoenix, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d78327146c19a784) | 2026-04-13 21:40 |
 | American Airlines | Engineer/Sr Engineer, IT Data | Fort Worth, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b4341508fe1c04f1) | 2026-04-13 21:40 |
 | Tata Consultancy Services (TCS) | Data Architect | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a52f9c227e61963c) | 2026-04-13 21:40 |
 | nan | ML Infrastructure/Platform Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6121915b4e45790d) | 2026-04-13 21:40 |
 | Signet Jewelers | AWS Data Architect (Hybrid) | Coppell, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3d0e64cf5300616c) | 2026-04-13 21:40 |
-| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-13 21:40 |
 | Georgia-Pacific | Data Engineer/Sr Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f129032e6f84d172) | 2026-04-13 21:40 |
 | Mastercard | Senior Site Reliability Engineer | O'Fallon, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=10b40f262a4271a7) | 2026-04-13 21:40 |
 | Tata Consultancy Services (TCS) | Platform Architect | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac2463a9d29a6913) | 2026-04-13 21:40 |
@@ -321,11 +332,6 @@ Last updated: 2026-04-13 21:40
 | ARMADA | Senior Platform/DevOps Engineer (Kubernetes-Linux) | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1bb2064fa7d1ef15) | 2026-04-09 23:32 |
 | BNY | Site Reliability Engineer_Pipeline | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3403085da0b17678) | 2026-04-09 23:32 |
 | BNY | Senior Specialist, Full-Stack Engineer | Lake Mary, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6abb2385899cf65f) | 2026-04-09 23:32 |
-| Epochfolio | React Ul Architect (Day 1 Onsite - Plano, TX) | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9f22daeae7b4cb18) | 2026-04-09 22:33 |
-| Vanguard | Machine Learning Engineer, Specialist | Malvern, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=74e743e45605a878) | 2026-04-09 22:33 |
-| Pelico | DevOps Miami | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d2e39fd655a8ea4a) | 2026-04-09 22:33 |
-| Pacific Life | Data Engineer II | Newport Beach, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b3e22a77413868eb) | 2026-04-09 22:33 |
-| ENCO Electronic Systems | Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c206b2cba4b24dcc) | 2026-04-09 22:33 |
 
 
 ---
