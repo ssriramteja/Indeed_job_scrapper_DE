@@ -1,15 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-13 17:53
+Last updated: 2026-04-13 19:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ICF | Senior AWS Cloud Engineer - (US - Remote) | Reston, VA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=03406469e62daa61) | 2026-04-13 19:03 |
+| Halvik | Sr. Data Engineer | Vienna, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=83db8f50bcabcd87) | 2026-04-13 19:03 |
+| Purpose Financial | Data Operations Engineer | Greenville, SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=25e97510ea5ed940) | 2026-04-13 19:03 |
+| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-13 19:03 |
+| Purpose Financial | Sr. Data Engineer | Greenville, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ed57d3552234a972) | 2026-04-13 19:03 |
+| Purpose Financial | Sr. Software Engineer - Full Stack | Greenville, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f675cb5511b3a92e) | 2026-04-13 19:03 |
+| Purpose Financial | Data Engineer | Greenville, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6e4bcd62747c894) | 2026-04-13 19:03 |
+| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=90079673f1f3efb8) | 2026-04-13 19:03 |
 | Verint Systems Inc. | Engineer, Software | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0c774765a5f06879) | 2026-04-13 17:53 |
 | Metropolis | Senior Data Engineer | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d857667edacbcc1e) | 2026-04-13 17:53 |
 | POOLCORP | Data Engineer II | Covington, LA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bdef7c235b1898fd) | 2026-04-13 17:53 |
-| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-13 17:53 |
 | Tempur + Sealy | IT Data Developer | Trinity, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1d7106826dcc9d2) | 2026-04-13 17:53 |
 | Shelter Insurance | Data Engineering & Operations Specialist | Columbia, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac0786555ef46de3) | 2026-04-13 17:53 |
 | NTT DATA | Sys. Integration Sr. Specialist Advisor | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1aca172869e592e8) | 2026-04-13 16:55 |
@@ -317,54 +324,6 @@ Last updated: 2026-04-13 17:53
 | NTT DATA | Data Specialist | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1bdcbdad1eb42813) | 2026-04-09 20:01 |
 | Scotiabank | Data Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bddc71e55c5a0427) | 2026-04-09 20:01 |
 | NTT DATA | Software Development Specialist Advisor | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec9a82983350eae0) | 2026-04-09 20:01 |
-| Realign | Cloud Data Architect-7 | West Lake, LA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=be1742daf9769f6b) | 2026-04-09 18:57 |
-| Realign | Cloud Data Architect-7 | TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=a051cca67a16e478) | 2026-04-09 18:57 |
-| Realign | Full Stack Engineer (React + Node.js)-8 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8f4625214c0a1e7d) | 2026-04-09 18:57 |
-| Realign | Full Stack Engineer (React + Node.js)-8 | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=0e630bded8c035ce) | 2026-04-09 18:57 |
-| Realign | Sr. Qlik Data Engineer-9 | Raleigh, NC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e18e119f478af116) | 2026-04-09 18:57 |
-| Realign | Python Developer with AWS-5 | North Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=648b4216f5b7ddf9) | 2026-04-09 18:57 |
-| Realign | Python and PySpark, No SQL Developer-7 | Mount Laurel, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=84496461a7f60f1e) | 2026-04-09 18:57 |
-| Realign | Data Engineer-9 | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9856795d6d4c99ad) | 2026-04-09 18:57 |
-| Realign | Data Engineer-9 | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=998f352b65a63d5c) | 2026-04-09 18:57 |
-| Realign | Data Engineer-9 | Raleigh, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2e29cba72e164acc) | 2026-04-09 18:57 |
-| Realign | Data Engineer with Python-8 | Malvern, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f1639518b974eada) | 2026-04-09 18:57 |
-| Realign | Java Developer-6 | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a78121dcb8c69a9a) | 2026-04-09 18:57 |
-| Realign | Databricks Data Engineer-6 | Deerfield, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6fce9069d01c3ec7) | 2026-04-09 18:57 |
-| American Academy of Orthopaedic Surgeons | Senior Data Engineer | Rosemont, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dd16d03b06a3a6a4) | 2026-04-09 18:57 |
-| Realign | Senior Databricks Developer-9 | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f77e853a0350e35a) | 2026-04-09 18:57 |
-| Realign | Java Full Stack Developer-6 | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=63cc1ab1ec409b24) | 2026-04-09 18:57 |
-| Realign | Hadoop Developer-8 | Jersey City, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cdc1d899897016c7) | 2026-04-09 18:57 |
-| Realign | Data Engineer-6 | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a5073a83f76f9253) | 2026-04-09 18:57 |
-| Realign | Data Platform Engineer-8 | Parsippany-Troy Hills, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d72bf837ca83931) | 2026-04-09 18:57 |
-| Realign | Sr DevOPS Engineer-9 | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=447dcb783ade7ed4) | 2026-04-09 18:57 |
-| Realign | Test Automation Engineer with Payments-9 | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=96f189bd2044e159) | 2026-04-09 18:57 |
-| Realign | Selenium Automation tester-8 | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=88524bb46a500871) | 2026-04-09 18:57 |
-| American Academy of Orthopaedic Surgeons | Senior Business Intelligence Engineer | Rosemont, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b38575dad39bc4d7) | 2026-04-09 18:57 |
-| Dun & Bradstreet | Senior Data Cloud Engineer(s) | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83bec76cf3cc564d) | 2026-04-09 18:57 |
-| Realign | Snowflake Admin-9 | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b95b2f9d74363765) | 2026-04-09 18:57 |
-| Realign | Data Ops Engineer-9 | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e66a6ade5b8d8d5f) | 2026-04-09 18:57 |
-| Realign | Python / Linux-8 | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a40f795d1fa3e39) | 2026-04-09 18:57 |
-| Realign | FiveTran Administrator / Data Integration Engineer-8 | Lebanon, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=763aaa9bbc30eda0) | 2026-04-09 18:57 |
-| Realign | Adobe Cloud Architect-9 | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d5fad32cd28d4528) | 2026-04-09 18:57 |
-| Realign | Azure Databricks Architect-8 | Mahwah, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3ad0aaa34e7ec6cc) | 2026-04-09 18:57 |
-| Realign | Snowflake Architect-9 | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61bb85adb8cc0c06) | 2026-04-09 18:57 |
-| Realign | Databricks Data Engineer(Azure + Python)-8 | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7b9bc4403e88a3e) | 2026-04-09 18:57 |
-| Realign | Devops Engineer-4 | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=71ab8430a5d7c773) | 2026-04-09 18:57 |
-| Realign | ML Engineer / AI Operations-6 | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2c17ed9b8feacfce) | 2026-04-09 18:57 |
-| Realign | OIPA Engineer-9 | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2301f32b095659e) | 2026-04-09 18:57 |
-| Realign | Resiliency & Recovery Engineer-4 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75e38047a7246a25) | 2026-04-09 18:57 |
-| Realign | Data Analyst_EDM-9 | West Des Moines, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9d3bc86f8f33c45) | 2026-04-09 18:57 |
-| Realign | Teradata Developer-6 | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7eb1d5b682ff7668) | 2026-04-09 18:57 |
-| Realign | Teradata Developer-8 | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45232946272bb1bb) | 2026-04-09 18:57 |
-| Realign | Security Consultant-8 | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f04f5ab57b8bc98) | 2026-04-09 18:57 |
-| Realign | Java Developer-6 | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1db9cb7feef62593) | 2026-04-09 17:57 |
-| U.S. Bank | Software Engineer 2 (backend) | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7a5ca675bb9218f9) | 2026-04-09 17:57 |
-| U.S. Bank | Software Engineer 2 (backend) | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8ac8e57ed940ae58) | 2026-04-09 17:57 |
-| U.S. Bank | Software Engineer 2 (backend) | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16f5cd8b68adde4e) | 2026-04-09 17:57 |
-| Realign | Hadoop Developer-8 | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d4d661e7528237a5) | 2026-04-09 17:57 |
-| Realign | PythonPySpark Engineer-9 | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6d363ae915dcafdd) | 2026-04-09 17:57 |
-| Endeavor Health | Cloud Data Engineer – EDW | Arlington Heights, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e0d535062d941699) | 2026-04-09 17:57 |
-| Realign | Developer – T-3 | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eaeacf9553a70181) | 2026-04-09 17:57 |
 
 
 ---
