@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-13 09:28
+Last updated: 2026-04-13 11:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Poshmark | Sr. Software Engineer, Data Engineering | Redwood City, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=454945ebbe7d1ebf) | 2026-04-13 11:10 |
+| Mirion | Sr. Data Engineer, Data Platform | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56369bdeadc2da7f) | 2026-04-13 11:10 |
+| Poshmark | Sr. Engineer, Machine Learning | Redwood City, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7529728374eb4213) | 2026-04-13 11:10 |
+| Poshmark | Senior Site Reliability Engineer, (Production Excellence) | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f706322313ef04c9) | 2026-04-13 11:10 |
 | SwapsTech | DevOps Engineer | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4012ccd366ad2714) | 2026-04-13 09:28 |
 | NTT DATA | Site Reliability Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c2444333527505cd) | 2026-04-13 09:28 |
 | NTT DATA | Site Reliability Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee60578e0abfdb96) | 2026-04-13 07:10 |
@@ -421,12 +425,6 @@ Last updated: 2026-04-13 09:28
 | CVS Health | Senior Software Development Engineer | KY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=620c8744c8da0c15) | 2026-04-09 13:02 |
 | CVS Health | Senior Software Development Engineer | AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7c04b74e271401fe) | 2026-04-09 13:02 |
 | CVS Health | Senior Software Development Engineer | MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f73b835d39515b49) | 2026-04-09 13:02 |
-| JPMorganChase | Senior AWS Engineer - ML | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9daceb310871c5d8) | 2026-04-09 10:05 |
-| Viasat | Software Engineer | OR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=de236675c492e363) | 2026-04-09 10:05 |
-| Quarterhill | DevOps Engineer | Frisco, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=659c3d156cdd9793) | 2026-04-09 10:05 |
-| M.C. Dean, Inc. | Backend / Cloud Infrastructure Engineer - Washington D.C | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fe5de6a0b568cb57) | 2026-04-09 10:05 |
-| Ketjen | Enterprise Data, Analytics & AI | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f044f722a79b7cd) | 2026-04-09 10:05 |
-| Ascension | Technical Analyst- Data and Systems | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=646c967b5423d4bf) | 2026-04-09 10:05 |
 
 
 ---
