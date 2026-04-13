@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-13 16:55
+Last updated: 2026-04-13 17:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Verint Systems Inc. | Engineer, Software | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0c774765a5f06879) | 2026-04-13 17:53 |
+| Metropolis | Senior Data Engineer | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d857667edacbcc1e) | 2026-04-13 17:53 |
+| POOLCORP | Data Engineer II | Covington, LA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bdef7c235b1898fd) | 2026-04-13 17:53 |
+| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-13 17:53 |
+| Tempur + Sealy | IT Data Developer | Trinity, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1d7106826dcc9d2) | 2026-04-13 17:53 |
+| Shelter Insurance | Data Engineering & Operations Specialist | Columbia, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac0786555ef46de3) | 2026-04-13 17:53 |
 | NTT DATA | Sys. Integration Sr. Specialist Advisor | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1aca172869e592e8) | 2026-04-13 16:55 |
 | TEEMA | Data Architect - C2H | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=392f54d3fade0b87) | 2026-04-13 15:08 |
 | Precisely | Senior Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27d727c9d934f72b) | 2026-04-13 15:08 |
@@ -359,20 +365,6 @@ Last updated: 2026-04-13 16:55
 | Realign | PythonPySpark Engineer-9 | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6d363ae915dcafdd) | 2026-04-09 17:57 |
 | Endeavor Health | Cloud Data Engineer – EDW | Arlington Heights, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e0d535062d941699) | 2026-04-09 17:57 |
 | Realign | Developer – T-3 | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eaeacf9553a70181) | 2026-04-09 17:57 |
-| Smarty | Data Engineer | Orem, UT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a791a880bde06e3e) | 2026-04-09 16:58 |
-| N2IA Technologies | Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a5765fbf481e4537) | 2026-04-09 16:58 |
-| Verint Systems Inc. | Sr. Engineer, Software | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b6dcaf8ffd85fd5d) | 2026-04-09 16:58 |
-| FanDuel | Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b09c8dba3c2b63ad) | 2026-04-09 16:58 |
-| nan | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f2a67f69c448e7b3) | 2026-04-09 16:58 |
-| FanDuel | Senior Data Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=21222c0e738a17da) | 2026-04-09 16:58 |
-| Vantage Data Centers | Mid-Level Engineer, Global | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ef6a214098e56d83) | 2026-04-09 16:58 |
-| Amplified Sourcing | Senior Full Stack Engineer with AI (FTE) | Green Bay, WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4ef6a677ec45706f) | 2026-04-09 16:58 |
-| Availity, LLC. | Software Engineer III | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3b3e63e2475ddaa) | 2026-04-09 16:58 |
-| DDN | Senior Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b35a412c42944021) | 2026-04-09 16:58 |
-| GameChanger | Senior Analytics Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60bdd5bca130aa0d) | 2026-04-09 16:58 |
-| Openkyber | PingOne Cloud Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce4901601fc9ef85) | 2026-04-09 16:58 |
-| DDN | Senior Analytics Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48b3ec3709af933a) | 2026-04-09 16:58 |
-| Communify | Senior Software Engineer, Web Development | Broomfield, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3befea356e71854) | 2026-04-09 16:58 |
 
 
 ---
