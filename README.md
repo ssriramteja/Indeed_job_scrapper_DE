@@ -1,16 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-14 15:07
+Last updated: 2026-04-14 16:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4acccdfc23951f0d) | 2026-04-14 16:56 |
+| Vantage Data Centers | Mid-Level Engineer, Global | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9e006537abb3ec5c) | 2026-04-14 16:56 |
+| CarMax | Engineer II, Data | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5c70a1cb7dff6fb6) | 2026-04-14 16:56 |
+| CarMax | Engineer II, Data | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3de9b476cdbf12e9) | 2026-04-14 16:56 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 16:56 |
+| Press Ganey | Senior Software Engineer ( Java) | Decatur, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=338db949c564e874) | 2026-04-14 16:56 |
+| PNC Financial Services Group | Security Specialist Senior | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d7897b7e4bad68e) | 2026-04-14 16:56 |
 | Chevron | Senior Data Architect | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=85e3c201f23e6a22) | 2026-04-14 15:07 |
 | nan | Sr Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ae18e6a8860be459) | 2026-04-14 15:07 |
 | Frida | Data Engineer | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8900daeea8c64c35) | 2026-04-14 15:07 |
 | Disney Experiences | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7a27a8acf3bc1bc8) | 2026-04-14 15:07 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 15:07 |
 | American business solutions inc | Senior Geospatial Solutions Architect | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f71870dc0f7bc53) | 2026-04-14 15:07 |
 | Universal Background Screening | DevOps Engineer (Remote) | Phoenix, AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=c305c75d9c817c14) | 2026-04-14 11:53 |
 | EPAM Systems | Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb067c7ee9c6e671) | 2026-04-14 11:53 |
@@ -306,9 +312,6 @@ Last updated: 2026-04-14 15:07
 | Openkyber | Java SDK / Library Developer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5be5dc9660ff2a02) | 2026-04-10 17:41 |
 | Openkyber | Java API Integration Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca84caf988e212bb) | 2026-04-10 17:41 |
 | Openkyber | Java API Integration Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bb518870b55148fc) | 2026-04-10 17:41 |
-| American business solutions inc | Cloud Engineer | Harrisburg, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cc38211228fd0f17) | 2026-04-10 16:41 |
-| Total Quality Logistics (TQL) | Data Architect - Paid Relocation to Cincinnati | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c40e1674aa706aac) | 2026-04-10 16:41 |
-| nan | Data & AI Architect | Elmhurst, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=52b329b2cc3b8428) | 2026-04-10 15:42 |
 
 
 ---
