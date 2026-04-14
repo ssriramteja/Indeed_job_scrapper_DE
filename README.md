@@ -1,17 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-14 19:21
+Last updated: 2026-04-14 20:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Goldman Sachs | Asset & Wealth Management-Cloud Engineer-Associate-Dallas | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=452922c279cc36e9) | 2026-04-14 20:44 |
+| Aimpoint Digital | Senior Data Engineer 2026 - US,UK | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c3d01fdc4061dd2a) | 2026-04-14 20:44 |
+| Chevron | Senior Data Architect | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5f9a309f4efa98f8) | 2026-04-14 20:44 |
+| Fractal Analytics | Enterprise Architect, Azure | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a406a8e4ff0f952d) | 2026-04-14 20:44 |
+| The Cummings Agency | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=91c4fcda77fa7425) | 2026-04-14 20:44 |
+| RJW Logistics | Senior DevSecOps Engineer | Bolingbrook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef58fd9ad5dd15ff) | 2026-04-14 20:44 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 20:44 |
+| Empirx Health | Senior Software Development Engineer in Test | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a6e81f16ad428334) | 2026-04-14 20:44 |
+| Core BTS | Senior Dynatrace Observability Engineer | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=504c2eb153af2545) | 2026-04-14 20:44 |
+| Western Union | Sr. Infrastructure, Architect | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=719c318bdfe0b93a) | 2026-04-14 20:44 |
+| John Deere | 2026009 - Software Engineer | Moline, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45e1a444de87fc2c) | 2026-04-14 20:44 |
+| Citrin Cooperman | Microsoft Modern Work Consultant | Carlsbad, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11d034c0b8905492) | 2026-04-14 20:44 |
+| RAM Professional Services, LLC | Maximo Application Architect | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=38110d7445c1f6a3) | 2026-04-14 20:44 |
 | Vantage Data Centers | Mid-Level Data Engineer, Global | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c717630a440c614c) | 2026-04-14 19:21 |
 | nan | Data Engineer | Beacon, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=81ac0513866a1f53) | 2026-04-14 19:21 |
 | Bounteous | Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=38299c9de7d6d6a0) | 2026-04-14 19:21 |
 | NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Cloud Storage) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e07865da969c4a3) | 2026-04-14 19:21 |
 | The Hartford | Sr. Data Engineer - Hybrid | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=745ab30cde1846a7) | 2026-04-14 19:21 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 19:21 |
 | NetApp | NetApp Emerging Talent - Software Engineer (Cloud Storage) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b72bdc255bbf6f8) | 2026-04-14 19:21 |
 | DataSync | SRE - Application Support (Batch/Cloud) | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=58415ab6bf31526f) | 2026-04-14 19:21 |
 | Gallagher | Data Product Owner | Rolling Meadows, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a33815bde90512ef) | 2026-04-14 19:21 |
@@ -310,17 +322,6 @@ Last updated: 2026-04-14 19:21
 | Opiniion | Senior Analytics Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2c9da27a923ccab2) | 2026-04-10 21:29 |
 | Brandt Information Services, Inc. | Senior Software Engineer Go Outdoors Payments | Tallahassee, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c0dfec438fe5f230) | 2026-04-10 21:29 |
 | Tata Consultancy Services (TCS) | AI Data Architect | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=612253e88ef5fe63) | 2026-04-10 21:29 |
-| Aimpoint Digital | Senior Analytics Engineer 2026 - US,UK | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=03a74124134b4635) | 2026-04-10 20:26 |
-| Granite Telecommunications | Senior Cloud Data Ops Engineer | Quincy, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=97576904d3410017) | 2026-04-10 20:26 |
-| GESTURE | Senior AI/ML Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8166abc50850e8cd) | 2026-04-10 20:26 |
-| Optum | Senior Data Engineer - Remote | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eaaa5de4e613b797) | 2026-04-10 20:26 |
-| NTT DATA | Pentaho BI SME | San Juan, PR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=565631a2f4f36e37) | 2026-04-10 20:26 |
-| Core & Main | Data Engineer II | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57136340cc4fdeeb) | 2026-04-10 20:26 |
-| Nicklaus Children's Health System | Data Engineer II | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=28a24af3f7388e80) | 2026-04-10 20:26 |
-| Goldman Sachs | Asset & Wealth Management - Software Engineer - Associate - Dallas | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=363a81b7a4ffa5a8) | 2026-04-10 20:26 |
-| General Property Construction | Full Stack Developer – AI Projects | Doral, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=736e7d6f95444207) | 2026-04-10 20:26 |
-| Smile Digital Health | Senior DataOps Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a43d8e0d307a2b20) | 2026-04-10 19:38 |
-| Wesco | Senior Solutions Architect – Enterprise Applications | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc42a63546dc9773) | 2026-04-10 19:38 |
 
 
 ---
