@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-14 04:39
+Last updated: 2026-04-14 06:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-14 06:27 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 06:27 |
+| Logic, Inc. | Data Tester (Python) - 6254091 | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89141221ea154795) | 2026-04-14 06:27 |
 | SentiLink | Senior Software Engineer, Data Platform | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e1963992b9015fbc) | 2026-04-14 04:39 |
 | Koch | Data Engineer | Wichita, KS, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a513718316ea30dd) | 2026-04-14 04:39 |
 | Koch | Data Engineer | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=43cfe33e6a3659da) | 2026-04-14 04:39 |
@@ -13,13 +16,11 @@ Last updated: 2026-04-14 04:39
 | CVS Health | Senior Data Analyst | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=79c136294cfd98fe) | 2026-04-14 04:39 |
 | Cornerstone OnDemand | Data Engineer - United States | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=04db638500700cb1) | 2026-04-14 04:39 |
 | Wells Fargo | Software Engineer 3 - Contingent (contract) | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7051fd3bf67a37ac) | 2026-04-14 04:39 |
-| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-14 04:39 |
 | nan | Data Reliability Engineer Oncology Analytics | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f0a8530ac9c848be) | 2026-04-14 04:39 |
 | Progressive | Intermediate Machine Learning Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2ccec05543d43588) | 2026-04-14 04:39 |
 | Mastercard | Senior Software Engineer | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6177a38e86fbab44) | 2026-04-14 04:39 |
 | Total Wine & More | Sr. Analytics Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2722db66dd139366) | 2026-04-14 04:39 |
 | Verisma Systems Inc | Senior SQL Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a1567499d777de5d) | 2026-04-14 04:39 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 04:39 |
 | The Hanover Insurance Group | Senior Data Engineer (HYBRID in MA or REMOTE) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fd62970232a35032) | 2026-04-14 04:39 |
 | The Hanover Insurance Group | Senior Data Engineer (HYBRID in MA or REMOTE) | Worcester, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e94dc1bfd30ae5f1) | 2026-04-14 04:39 |
 | Gulfstream Aerospace | Reporting Developer III - Cloud Analytics Data Engineer | Savannah, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ffb45764baeec647) | 2026-04-14 04:39 |
@@ -336,17 +337,6 @@ Last updated: 2026-04-14 04:39
 | NTT DATA | Multi Cloud Linux Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dde2c2ccbab7f4ac) | 2026-04-10 06:28 |
 | NTT DATA | Multi Cloud Linux Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b706c6d89269a3d5) | 2026-04-10 06:28 |
 | NTT DATA | AWS Full Stack React Developer (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b3a5d9e2a77d550d) | 2026-04-10 06:28 |
-| Acentra Health | Data Engineer, Mid | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0dac913f15ed70dd) | 2026-04-10 04:40 |
-| Illumen Group | Senior Python & SAS Developer (Data Modernization) | Stafford, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=627ab8a0812a8e66) | 2026-04-10 04:40 |
-| Boeing | Computing Architect (Mid-Level or Senior) | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1d3fbb7843d4086b) | 2026-04-10 04:40 |
-| AmeriHealth Caritas | Azure Data Engineer | Newtown Square, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0d04492e99eca232) | 2026-04-10 04:40 |
-| Humana | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=016b24c707be3d95) | 2026-04-10 04:40 |
-| Wells Fargo | Software Engineer 4 - Contingent (contract) | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e38b2018ce77fd05) | 2026-04-10 04:40 |
-| NASCO | Dir, Product & Software Engineering-Cloud | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f7251b98d526b87a) | 2026-04-10 04:40 |
-| Federal Reserve Bank of Boston | Data Scientist, Senior | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de0643317ba1a616) | 2026-04-10 04:40 |
-| Tata Consultancy Services (TCS) | AI Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e719659dc3c086a) | 2026-04-10 04:40 |
-| American Airlines | Engineer, IT Software | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83bad294f816f723) | 2026-04-10 04:40 |
-| Social Impact | Full-Stack Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e35a4a7eaaadb3e6) | 2026-04-10 04:40 |
 
 
 ---
