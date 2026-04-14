@@ -1,16 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-14 16:56
+Last updated: 2026-04-14 18:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TargetPath Solutions | AWS DevOps Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=ddaefa90999433c3) | 2026-04-14 18:00 |
+| Marvell Technology | AI/ML Data Engineer | Santa Clara, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=db6fecac436797a9) | 2026-04-14 18:00 |
+| AmeriLife | Data Scientist | Clearwater, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d10f6b2d0d1b341d) | 2026-04-14 18:00 |
+| C WATKINS & ASSOCIATES | Systems Operations Engineer | Sterling, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2f30f60cc3c36e72) | 2026-04-14 18:00 |
+| SpotOn | Senior Data Engineer (Clickhouse) | Royal Oak, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=15a32bf71ba33ffa) | 2026-04-14 18:00 |
+| SpotOn | Senior Data Engineer (Clickhouse) | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4d3db28285f41c46) | 2026-04-14 18:00 |
+| SpotOn | Senior Data Engineer (Clickhouse) | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3989068a8778fb79) | 2026-04-14 18:00 |
+| Optum | Sr Mgr Data Engineering | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=03e707506ab6122a) | 2026-04-14 18:00 |
+| Beghou Consulting | Consultant - Data Management (copy) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1aec6c41726ff12) | 2026-04-14 18:00 |
+| Beghou Consulting | Consultant - Data Management | Princeton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb7f4eae35304f9f) | 2026-04-14 18:00 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 18:00 |
+| Redwood Logistics | Senior Software Engineer (AI Enablement) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48c5c7e7de56c6fb) | 2026-04-14 18:00 |
 | Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4acccdfc23951f0d) | 2026-04-14 16:56 |
 | Vantage Data Centers | Mid-Level Engineer, Global | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9e006537abb3ec5c) | 2026-04-14 16:56 |
 | CarMax | Engineer II, Data | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5c70a1cb7dff6fb6) | 2026-04-14 16:56 |
 | CarMax | Engineer II, Data | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3de9b476cdbf12e9) | 2026-04-14 16:56 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 16:56 |
 | Press Ganey | Senior Software Engineer ( Java) | Decatur, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=338db949c564e874) | 2026-04-14 16:56 |
 | PNC Financial Services Group | Security Specialist Senior | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d7897b7e4bad68e) | 2026-04-14 16:56 |
 | Chevron | Senior Data Architect | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=85e3c201f23e6a22) | 2026-04-14 15:07 |
@@ -303,15 +314,6 @@ Last updated: 2026-04-14 16:56
 | Rio Tinto | Specialist Data Engineering | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=12141d827aef2872) | 2026-04-10 18:40 |
 | S R International Inc | Azure + AWS Cloud Engineer (GPT Model Integration, Prompt Engineering) | Harrisburg, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ecffc87de58c4bef) | 2026-04-10 18:40 |
 | NTT DATA | API Architect (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=756bfe2853f87e1f) | 2026-04-10 18:40 |
-| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=075c352d5919b190) | 2026-04-10 17:41 |
-| Beehyv | Software Engineer | McKinney, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=28fc8ff707127a1b) | 2026-04-10 17:41 |
-| Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9a0a23fabb87369f) | 2026-04-10 17:41 |
-| Openkyber | AI Integration Engineer (Java + AI) | HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f7bd5de39a297655) | 2026-04-10 17:41 |
-| nan | Senior Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09cd4db2f9c6e6e1) | 2026-04-10 17:41 |
-| Openkyber | Java SDK / Library Developer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2eb9b35387850b2e) | 2026-04-10 17:41 |
-| Openkyber | Java SDK / Library Developer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5be5dc9660ff2a02) | 2026-04-10 17:41 |
-| Openkyber | Java API Integration Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca84caf988e212bb) | 2026-04-10 17:41 |
-| Openkyber | Java API Integration Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bb518870b55148fc) | 2026-04-10 17:41 |
 
 
 ---
