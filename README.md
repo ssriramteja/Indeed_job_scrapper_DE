@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-14 11:53
+Last updated: 2026-04-14 13:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-14 13:05 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 13:05 |
 | Universal Background Screening | DevOps Engineer (Remote) | Phoenix, AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=c305c75d9c817c14) | 2026-04-14 11:53 |
-| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-14 11:53 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 11:53 |
 | EPAM Systems | Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb067c7ee9c6e671) | 2026-04-14 11:53 |
 | EPAM Systems | Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de4543a914df9789) | 2026-04-14 11:53 |
 | State of Connecticut | Senior DevOps Cloud Engineer (Information Technology Subject Matter Expert) | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d267e859d5950f5a) | 2026-04-14 10:08 |
@@ -312,8 +312,6 @@ Last updated: 2026-04-14 11:53
 | Convey Health Solutions | Data Scientist I | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a6c7cbfa1f1ffb22) | 2026-04-10 14:12 |
 | Sumitomo Group | Senior Data Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=153db5113e33b494) | 2026-04-10 14:12 |
 | PlayStation | PHP Developer / Software Engineer | Madison, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=880d1c7a81473e6d) | 2026-04-10 14:12 |
-| NTT DATA | Multi-Cloud SQL/Oracle Database Administrator (DBA) | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7518086fa359e2be) | 2026-04-10 12:49 |
-| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d1c0551e51d2fda9) | 2026-04-10 12:49 |
 
 
 ---
