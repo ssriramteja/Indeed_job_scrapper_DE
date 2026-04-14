@@ -1,13 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-14 06:27
+Last updated: 2026-04-14 08:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-14 06:27 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 06:27 |
+| KPRMT Global solutions  | Salesforce Architect | Arlington, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=573c4c858dde7f71) | 2026-04-14 08:22 |
+| Boeing | Computing Architect (Mid-Level or Senior) | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8bda91a521ece52f) | 2026-04-14 08:22 |
+| TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=087dc81db4c0ead7) | 2026-04-14 08:22 |
+| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-14 08:22 |
+| DS Technologies Inc | Engineer II – Big Data / ETL Engineer (Apptio) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=be9de9e1e7dbc172) | 2026-04-14 08:22 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 08:22 |
+| NTT DATA | API Architect | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=51953c5002c89827) | 2026-04-14 08:22 |
 | Logic, Inc. | Data Tester (Python) - 6254091 | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89141221ea154795) | 2026-04-14 06:27 |
 | SentiLink | Senior Software Engineer, Data Platform | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e1963992b9015fbc) | 2026-04-14 04:39 |
 | Koch | Data Engineer | Wichita, KS, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a513718316ea30dd) | 2026-04-14 04:39 |
@@ -313,30 +318,6 @@ Last updated: 2026-04-14 06:27
 | Ellucian | Sr. Cloud Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a5c6c22bfb3d302d) | 2026-04-10 10:02 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e55e25e3c6cd3752) | 2026-04-10 10:02 |
 | GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6b2ffe5d9c2ef14) | 2026-04-10 10:02 |
-| 7-Eleven | Sr AI Security Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03c42902c0bf3d6c) | 2026-04-10 08:17 |
-| LMG Technology Services LLC | Senior Application Programmer (SR- 5266901) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0fbe128e8cb7b0e3) | 2026-04-10 08:17 |
-| NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7ba561a7b1076cd7) | 2026-04-10 06:28 |
-| NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ff197f6507571237) | 2026-04-10 06:28 |
-| NTT DATA | Multi-Cloud SQL/Oracle Database Administrator (DBA) | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=aa9e5db8b8f70d82) | 2026-04-10 06:28 |
-| NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=87d23704eafca584) | 2026-04-10 06:28 |
-| NTT DATA | Multi-Cloud SQL Database Administrator (DBA) | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=18a6a1cc72921a57) | 2026-04-10 06:28 |
-| Airwallex | Senior Data Engineer - Knowledge Platform | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1e71d288565747ae) | 2026-04-10 06:28 |
-| Hurrdat | Senior Analytics Engineer | Omaha, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ca56751aee18003) | 2026-04-10 06:28 |
-| NTT DATA | Developer / Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=edd25943628391ab) | 2026-04-10 06:28 |
-| NTT DATA | Developer / Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03ddfff990a5f81c) | 2026-04-10 06:28 |
-| NTT DATA | Primary Data Architect - Onsite Hybrid | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=66a8b5a9987326ca) | 2026-04-10 06:28 |
-| NTT DATA | Data Scientist | Camden, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3c3639e1ca81b020) | 2026-04-10 06:28 |
-| NTT DATA | Test Automation Engineer / SDET - HYBRID | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=07ad973246f6e766) | 2026-04-10 06:28 |
-| NTT DATA | Test Automation Engineer / SDET - HYBRID | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df0f82a7b2b1fcf2) | 2026-04-10 06:28 |
-| SAMYANG AMERICA INC | Sr. Data Engineer Specialist | Brea, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73d09ed4f454c71e) | 2026-04-10 06:28 |
-| NTT DATA | Public Cloud Engineer - GCP (Google Cloud Platform) | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=68b48e77659323aa) | 2026-04-10 06:28 |
-| NTT DATA | Public Cloud Engineer - GCP (Google Cloud Platform) | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13262ec05868c54b) | 2026-04-10 06:28 |
-| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a2f3e5b6d74f5be3) | 2026-04-10 06:28 |
-| NTT DATA | Cloud Engineer - OCI Focused | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eab876ea207f99ca) | 2026-04-10 06:28 |
-| NTT DATA | Python Snowflake Data Engineer - ONSITE | Buffalo, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2b4138e7fb03c99) | 2026-04-10 06:28 |
-| NTT DATA | Multi Cloud Linux Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dde2c2ccbab7f4ac) | 2026-04-10 06:28 |
-| NTT DATA | Multi Cloud Linux Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b706c6d89269a3d5) | 2026-04-10 06:28 |
-| NTT DATA | AWS Full Stack React Developer (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b3a5d9e2a77d550d) | 2026-04-10 06:28 |
 
 
 ---
