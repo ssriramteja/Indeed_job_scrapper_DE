@@ -1,13 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-14 22:38
+Last updated: 2026-04-14 23:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Insight | Architect I | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6d97da40a8da560) | 2026-04-14 23:36 |
+| Klaxontech | Data Engineer | Robstown, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=072e6e4e8e025141) | 2026-04-14 23:36 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-14 23:36 |
+| Medeloop | Senior Site Reliability Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a81ed0b08e8f07f7) | 2026-04-14 23:36 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 23:36 |
+| nan | Full-Stack Developer (AWS, TS, React) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc3a148287061e68) | 2026-04-14 23:36 |
+| Rocket Close | Senior Software Engineer - Platform | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9fce91f5c39bd4ed) | 2026-04-14 23:36 |
+| Epiq | Software Developer - Information Governance | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65cd9651c7e25101) | 2026-04-14 23:36 |
+| CapTech Consulting | Solutions Architect | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=085872f73883326c) | 2026-04-14 23:36 |
+| CapTech Consulting | Solutions Architect | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa79af047e73dc3e) | 2026-04-14 23:36 |
+| CapTech Consulting | Solutions Architect | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34987f860a590c53) | 2026-04-14 23:36 |
 | Illumen Group | Data Support Engineer | Stafford, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92cd661cf5a17182) | 2026-04-14 22:38 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 22:38 |
 | RNGD | Data Engineer | Metairie, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1a3ecae4bdb7e4b) | 2026-04-14 22:38 |
 | Tata Consultancy Services (TCS) | Engineer | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4478c55d459f6590) | 2026-04-14 21:43 |
 | PowerSecure Inc. | Data Solutions Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ead7a3e6b1951593) | 2026-04-14 21:43 |
@@ -305,15 +315,6 @@ Last updated: 2026-04-14 22:38
 | Realign | Devops Engineer-5 | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d4c25ae4a2245b4) | 2026-04-11 01:23 |
 | Palm Tree | Associate, Data & Analytics | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc699288e8c88f76) | 2026-04-11 01:23 |
 | Occidental | Advisor IT Systems | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35a0fb08c802d618) | 2026-04-11 01:23 |
-| Parker's Kitchen | Data & Integration Engineer | Savannah, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a279b4dc75fa05b2) | 2026-04-10 23:28 |
-| Uber | Software Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f86a75694dac8d84) | 2026-04-10 23:28 |
-| Openkyber | Guidewire API Developer | IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=29ed04d19483441d) | 2026-04-10 23:28 |
-| Vantage Data Centers | Senior Data Engineer, Global | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=99dcb67444244ecd) | 2026-04-10 23:28 |
-| Vantage Data Centers | Senior Data Engineer, Global | CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cc7cabf779bdafae) | 2026-04-10 23:28 |
-| Openkyber | Guidewire API Developer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12c7db9666c539fb) | 2026-04-10 23:28 |
-| TTX | AI & Data Analytics Architect | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7d7156d0e2fa6911) | 2026-04-10 23:28 |
-| Pelico | DevOps Miami | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cadf0132866f1439) | 2026-04-10 23:28 |
-| Route | Data Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e06fc0c98a8ef702) | 2026-04-10 23:28 |
 
 
 ---
