@@ -1,17 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-14 08:22
+Last updated: 2026-04-14 10:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| KPRMT Global solutions  | Salesforce Architect | Arlington, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=573c4c858dde7f71) | 2026-04-14 08:22 |
+| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-14 10:08 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 10:08 |
+| State of Connecticut | Senior DevOps Cloud Engineer (Information Technology Subject Matter Expert) | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d267e859d5950f5a) | 2026-04-14 10:08 |
+| KPRMT Global solutions | Salesforce Architect | Arlington, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=573c4c858dde7f71) | 2026-04-14 08:22 |
 | Boeing | Computing Architect (Mid-Level or Senior) | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8bda91a521ece52f) | 2026-04-14 08:22 |
 | TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=087dc81db4c0ead7) | 2026-04-14 08:22 |
-| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cea3dbea7cb13bbf) | 2026-04-14 08:22 |
 | DS Technologies Inc | Engineer II – Big Data / ETL Engineer (Apptio) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=be9de9e1e7dbc172) | 2026-04-14 08:22 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 08:22 |
 | NTT DATA | API Architect | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=51953c5002c89827) | 2026-04-14 08:22 |
 | Logic, Inc. | Data Tester (Python) - 6254091 | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89141221ea154795) | 2026-04-14 06:27 |
 | SentiLink | Senior Software Engineer, Data Platform | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e1963992b9015fbc) | 2026-04-14 04:39 |
@@ -313,11 +314,6 @@ Last updated: 2026-04-14 08:22
 | Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a49b45df7b2ac405) | 2026-04-10 11:41 |
 | Openkyber | AI Integration Engineer (Java + AI) | HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=61859efe066d7fac) | 2026-04-10 11:41 |
 | Openkyber | Java Compliance & Governance Developer | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64203283044db188) | 2026-04-10 11:41 |
-| GitHub | Senior Data Engineer, Revenue Intelligence | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fbd118d6be25a868) | 2026-04-10 10:02 |
-| Airwallex | Senior Data Engineer - Knowledge Platform | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4a97391e031fbe7e) | 2026-04-10 10:02 |
-| Ellucian | Sr. Cloud Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a5c6c22bfb3d302d) | 2026-04-10 10:02 |
-| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e55e25e3c6cd3752) | 2026-04-10 10:02 |
-| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6b2ffe5d9c2ef14) | 2026-04-10 10:02 |
 
 
 ---
