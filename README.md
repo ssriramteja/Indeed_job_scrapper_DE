@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-14 21:43
+Last updated: 2026-04-14 22:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Illumen Group | Data Support Engineer | Stafford, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92cd661cf5a17182) | 2026-04-14 22:38 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 22:38 |
+| RNGD | Data Engineer | Metairie, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1a3ecae4bdb7e4b) | 2026-04-14 22:38 |
 | Tata Consultancy Services (TCS) | Engineer | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4478c55d459f6590) | 2026-04-14 21:43 |
 | PowerSecure Inc. | Data Solutions Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ead7a3e6b1951593) | 2026-04-14 21:43 |
 | Tata Consultancy Services (TCS) | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f193a5a41b80d59d) | 2026-04-14 21:43 |
@@ -13,7 +16,6 @@ Last updated: 2026-04-14 21:43
 | Intone Networks | Aveva PI Software Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=42dd34631f8a4a3a) | 2026-04-14 21:43 |
 | Colgate-Palmolive | Machine Learning Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bf17dcf23ea3201f) | 2026-04-14 21:43 |
 | adonis | Senior Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5621c4e542d4639) | 2026-04-14 21:43 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ca8eea8c20d4f1) | 2026-04-14 21:43 |
 | Tata Consultancy Services (TCS) | AI Developer | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5fc89b8593855079) | 2026-04-14 21:43 |
 | MachineMetrics, Inc. | Senior Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80173e5fca484063) | 2026-04-14 21:43 |
 | Cognizant | Senior Python Developer | Bentonville, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0855be7539fc7c3f) | 2026-04-14 21:43 |
@@ -312,10 +314,6 @@ Last updated: 2026-04-14 21:43
 | TTX | AI & Data Analytics Architect | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7d7156d0e2fa6911) | 2026-04-10 23:28 |
 | Pelico | DevOps Miami | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cadf0132866f1439) | 2026-04-10 23:28 |
 | Route | Data Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e06fc0c98a8ef702) | 2026-04-10 23:28 |
-| Spatial Front | Senior Python and SAS Developer | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cace19948d1122ec) | 2026-04-10 22:28 |
-| Optum | Senior Software Engineer | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=17b5c5a8dea42109) | 2026-04-10 22:28 |
-| Tata Consultancy Services (TCS) | AI Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c1544040879e498) | 2026-04-10 22:28 |
-| Zoom Communications | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76952bdd1db77c87) | 2026-04-10 22:28 |
 
 
 ---
