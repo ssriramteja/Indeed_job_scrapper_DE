@@ -1,18 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-15 06:28
+Last updated: 2026-04-15 08:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Southern Company | Data Solutions Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3be194d530456f66) | 2026-04-15 08:23 |
+| Ignite Insurance Systems | Analytics Engineer | Lehi, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=560d14506d8aa36b) | 2026-04-15 08:23 |
+| Banner Health | Senior Data Engineer | AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c8d9928392bc7529) | 2026-04-15 08:23 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 08:23 |
+| Photon | Data Engineer - Dallas, TX | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=865a46cfbc7cc3f4) | 2026-04-15 08:23 |
+| ALTEN | Software Development Engineer (AWS) | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b4b23734e39ac6c) | 2026-04-15 08:23 |
 | EY | Cons - TC - AI and Data - Enterp Data - Data Eng and Arch - Data Eng - Mgr - MP - 1688246 | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2fdf2a5f30bbe80a) | 2026-04-15 06:28 |
 | FIS | Data Warehouse Analyst Seniors: Cloud Engineering | Jacksonville, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d87aa04a7733264b) | 2026-04-15 06:28 |
-| Southern Company | Data Solutions Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3be194d530456f66) | 2026-04-15 06:28 |
 | Blue Origin | Software Development Engineer III | Huntsville, AL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fcd17ae9e035b9a9) | 2026-04-15 06:28 |
 | Olson Kundig | Senior Data & AI Developer | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d831e0d8e2c5553f) | 2026-04-15 06:28 |
 | Texas A&M University | Research Engineer II | Bryan, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=09b3207da19db4ee) | 2026-04-15 06:28 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 06:28 |
 | HackerRank Careers | Backend Engineer II | Santa Clara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae2342b890625b11) | 2026-04-15 06:28 |
 | Optum | Senior Software Engineer | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=10b635a4480602f9) | 2026-04-15 06:28 |
 | BillGO, Inc. | Data Analytics Engineer | Fort Collins, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69713d6be44a4b67) | 2026-04-15 06:28 |
@@ -302,45 +306,6 @@ Last updated: 2026-04-15 06:28
 | Wecom Fiber | Senior BI Developer & Analytics Engineer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eea7ffbb16ef4f94) | 2026-04-11 10:26 |
 | JPMorganChase | Software Engineer III - Fullstack - AWS | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=07dc72c0e4f9dd7e) | 2026-04-11 09:33 |
 | ConstructConnect | Analytics Engineer II | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4a17b4dda4590caa) | 2026-04-11 09:33 |
-| NTT DATA | Platform Engineer (AWS) | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fff87f9ad2a13f8a) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | DE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56ec4b91bd2eae45) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a2264d35d4610406) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05d5a587a6d14b89) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=654e0c27326adde9) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47c94da43a5f1ab3) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ecf0f8c6cfd89ac) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=115c597b804055b6) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d6ce3e7bea45493e) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6fcd195523297efe) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=86d26fa4197df309) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=efbb963d7b486eb3) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | ME, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=be091eaed93c89d7) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fded2db8fc850d7c) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=864c1bb4125e2010) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | WV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04c7d7476e8c4a3d) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6c9866f9bd84cc3) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20ef5d7fa994bc4b) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=077d100f577640d4) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0dcb817fc87f8be2) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=508eae3571acb269) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3408da3a2f2fb524) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2fdbf484ba6d2466) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | MS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c829b97ed54e6b32) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=361032e756703c3c) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7a6ae978cfc3e463) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f4e1c6c825cd8a6) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2ae19fe28acac370) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a56034ff2d0124a5) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5b60a01ac0f19294) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b7c3fbe0b81bbf8a) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=09197d183364a677) | 2026-04-11 06:52 |
-| CVS Health | Senior Software Development Engineer | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=54c3e80d85a4dac8) | 2026-04-11 06:52 |
-| NTT DATA | AWS Public Cloud Engineer - Must have both AWS/Azure | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=756649818d5f3c4c) | 2026-04-11 06:52 |
-| Cotality | Sr. Professional, Software Engineering | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7c2508b047fe2781) | 2026-04-11 06:52 |
-| NTT DATA | Azure Cloud Engineer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=268128188c94e0e9) | 2026-04-11 06:52 |
-| Sparc technology services inc | Application Modernization Architect | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=448c12afca90484e) | 2026-04-11 06:52 |
-| NTT DATA | Software Development Specialist Advisor | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b65a93ab1aa85d6b) | 2026-04-11 06:52 |
-| NTT DATA | Dev Ops. Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=557e52ab1c5d0ec6) | 2026-04-11 06:52 |
 
 
 ---
