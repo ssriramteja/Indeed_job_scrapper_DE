@@ -1,18 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-15 19:21
+Last updated: 2026-04-15 20:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | Cloudera Public Cloud Platform Engineer | Plano, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce7428fbc9c89fa9) | 2026-04-15 20:40 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 20:40 |
+| Troutman Pepper Locke | AI Cloud Security and Infrastructure Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04325b074eb62665) | 2026-04-15 20:40 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6412b42f521215b) | 2026-04-15 20:40 |
+| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a467a1fe4bd409c) | 2026-04-15 20:40 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cea257394aa611a9) | 2026-04-15 20:40 |
+| Goldman Sachs | Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst/Associate - New York | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dd43ffc6d7fda89) | 2026-04-15 20:40 |
 | loanDepot | Sr. Data Engineer (Azure/Databricks/Python) | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d4b1df13928e079d) | 2026-04-15 19:21 |
 | Fivetran | Senior Solution Architect, Enterprise - Eastern Time Zone | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=da8ab35096a74f07) | 2026-04-15 19:21 |
 | Sam's Club | Senior, Software Engineer | Bentonville, AR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3fcd1c4e67959eea) | 2026-04-15 19:21 |
 | nan | Senior DevOps Cloud Engineer | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b2a1afc987319b9a) | 2026-04-15 19:21 |
 | Ventura Foods | Senior Data Engineer | Irvine, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e93266a037e0c18) | 2026-04-15 19:21 |
 | nan | DevOps & AI Automation Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee6b296a0ce2f382) | 2026-04-15 19:21 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 19:21 |
 | Low Associates | Full Stack Developer (JS/TS, AWS) | South Bend, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45727b1c951a0e5a) | 2026-04-15 19:21 |
 | JPMorganChase | Software Engineer III - Data, AWS, ETL, Java/Python, | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c20056a5b9ffca80) | 2026-04-15 19:21 |
 | cloudteam | Analytics Developer | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6ae648cd8fe57362) | 2026-04-15 19:21 |
