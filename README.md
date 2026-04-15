@@ -1,15 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-15 22:34
+Last updated: 2026-04-15 23:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Intermountain Health | Data Architect, Senior | Murray, UT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8184ec5fc529fc27) | 2026-04-15 23:35 |
+| HelioCampus | Analytics Engineer | Bethesda, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=333fbc294a529a0f) | 2026-04-15 23:35 |
+| Live Nation | Software Engineer II | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=31ca2baaf21560e8) | 2026-04-15 23:35 |
+| nan | Senior Analytics Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7c4955f2e41966ef) | 2026-04-15 23:35 |
+| Energy Services Group | Senior DevOps Cloud Engineer | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6918de34da34b82a) | 2026-04-15 23:35 |
+| nan | Software Engineer - Backend Java | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a18ff10136ae42f8) | 2026-04-15 23:35 |
+| nan | Senior Software Engineer Data Platform | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e64308de1c862cb5) | 2026-04-15 23:35 |
+| NavitasPartners | Senior Developer - Level III - 26-04057 | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=43063b055188ce3c) | 2026-04-15 23:35 |
+| NavitasPartners | Senior Developer - Level III - 26-04057 | Glendale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6cc0ba82c4bd25dc) | 2026-04-15 23:35 |
+| NavitasPartners | Senior Developer - Level III - 26-04057 | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9eeb6502ebf78cc0) | 2026-04-15 23:35 |
+| NavitasPartners | Senior Developer - Level III - 26-04057 | Santa Clarita, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=473b7754552ef179) | 2026-04-15 23:35 |
+| NavitasPartners | Senior Developer - Level III - 26-04057 | Lancaster, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e872365f29ac108) | 2026-04-15 23:35 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-15 23:35 |
+| AECOM | Senior Software Engineer | New Orleans, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2be9ee403cf20f67) | 2026-04-15 23:35 |
+| AECOM | Senior Software Engineer | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=156e5a4def2a4a5d) | 2026-04-15 23:35 |
+| Highmark Health | Senior Analytic Data Engineer (Python/Power BI) | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=100c60fa90e63408) | 2026-04-15 23:35 |
+| Core & Main | Data Engineer II | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b2cdf5f4ac6a6c1a) | 2026-04-15 23:35 |
+| nan | Senior Software Engineer, Data Migration & Code Generation | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f20bc83aea1de83b) | 2026-04-15 23:35 |
 | Infoverity | Analytics Architect | Dublin, OH, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ca5a94e3ea76c9da) | 2026-04-15 22:34 |
 | JPMorganChase | Software Engineer III- DevOps Engineer | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=985846920fb69c12) | 2026-04-15 22:34 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 22:34 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-15 22:34 |
 | Qode | SRE Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=907826ed55a037a8) | 2026-04-15 22:34 |
 | Lincoln Financial Group | Databricks Data Analyst | Radnor, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ce89a36f70a3941b) | 2026-04-15 21:43 |
 | General Motors (GM) | Senior Ad Ops Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f14f238cb8b8c5f1) | 2026-04-15 21:43 |
@@ -363,9 +379,6 @@ Last updated: 2026-04-15 22:34
 | Openkyber | Network Operations Trainee | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4f9b6252d4232bb) | 2026-04-12 06:19 |
 | nan | Full Stack Developer - Contract Hire (Remote, US Only) | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=080c153a60c2db6d) | 2026-04-12 04:40 |
 | TEEMA | Data Architect - C2H | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a07fa9ddece4b00d) | 2026-04-12 04:40 |
-| Openkyber | AWS Network Engineer | GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1e68aed4fb5428da) | 2026-04-11 23:25 |
-| Openkyber | AWS Network Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=81b5b89f5da184cb) | 2026-04-11 23:25 |
-| Openkyber | AWS Network Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3b1cef4b777b5a5) | 2026-04-11 23:25 |
 
 
 ---
