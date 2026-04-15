@@ -1,16 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-15 15:00
+Last updated: 2026-04-15 16:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 16:08 |
 | Qode | Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8a711c2fcb36b6cf) | 2026-04-15 15:00 |
 | Equinox | Sr. Data Engineer (ON-SITE) | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=038b96d69cecd888) | 2026-04-15 15:00 |
 | Capital One | Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cb699a2e3bdbb440) | 2026-04-15 15:00 |
 | Flexera | Site Reliability Engineer (Cloud Enablement) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=72d1842ef3999b1d) | 2026-04-15 15:00 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 15:00 |
 | Colgate-Palmolive | Machine Learning Engineer (171680) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a860d07867e70be2) | 2026-04-15 15:00 |
 | InterImage | Cloud Software Engineer 3 - III | Fort Meade, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=16ddbf61e3ea0b92) | 2026-04-15 15:00 |
 | InterImage | Cloud Software Engineer 3 - II | Fort Meade, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43bfe7ca1f6eddb7) | 2026-04-15 15:00 |
