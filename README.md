@@ -1,14 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-15 11:50
+Last updated: 2026-04-15 13:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Data Solutions Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3be194d530456f66) | 2026-04-15 11:50 |
+| Southern Company | Data Solutions Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3be194d530456f66) | 2026-04-15 13:03 |
+| PwC | Deal Data Technology & Analytics, Senior Associate | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cc13b56a1dadc810) | 2026-04-15 13:03 |
+| PwC | Deal Data Technology & Analytics, Senior Associate | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=42cc0c644ae78852) | 2026-04-15 13:03 |
+| PwC | Deal Data Technology & Analytics, Senior Associate | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=46d19923987ef429) | 2026-04-15 13:03 |
+| PwC | Deal Data Technology & Analytics, Senior Associate | Silicon Valley, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fa06155bf991d0f8) | 2026-04-15 13:03 |
+| PwC | Deal Data Technology & Analytics, Senior Associate | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=22e6ab66fd67032d) | 2026-04-15 13:03 |
+| McAfee | AI Intern | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7bea47ac5f13bd1f) | 2026-04-15 13:03 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 13:03 |
 | Momentive Software | Senior ML Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f99034f0e149e6e6) | 2026-04-15 11:50 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 11:50 |
 | JPMorganChase | Software Engineer III - AWS Glue | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5f1496d3a0b45451) | 2026-04-15 10:09 |
 | Viasat | Data Engineer | Carlsbad, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=93144249a4967543) | 2026-04-15 10:09 |
 | Ignite Insurance Systems | Analytics Engineer | Lehi, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=560d14506d8aa36b) | 2026-04-15 08:23 |
