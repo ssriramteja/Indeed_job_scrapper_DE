@@ -1,18 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-15 21:43
+Last updated: 2026-04-15 22:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Infoverity | Analytics Architect | Dublin, OH, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ca5a94e3ea76c9da) | 2026-04-15 22:34 |
+| JPMorganChase | Software Engineer III- DevOps Engineer | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=985846920fb69c12) | 2026-04-15 22:34 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 22:34 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-15 22:34 |
+| Qode | SRE Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=907826ed55a037a8) | 2026-04-15 22:34 |
 | Lincoln Financial Group | Databricks Data Analyst | Radnor, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ce89a36f70a3941b) | 2026-04-15 21:43 |
 | General Motors (GM) | Senior Ad Ops Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f14f238cb8b8c5f1) | 2026-04-15 21:43 |
 | OrderlyMeds | Data Engineer- OrderlyMeds | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bfb2a73a0846955d) | 2026-04-15 21:43 |
 | Tata Consultancy Services (TCS) | Java Software Developer | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c2cee659fe1d0db) | 2026-04-15 21:43 |
 | Kharon | Senior Site Reliability Engineer | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1834ddbeb8ec8bb3) | 2026-04-15 21:43 |
 | SYSTECH USA | Senior Data Engineer - IICS | Glendale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cdf36b7e279da791) | 2026-04-15 21:43 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 21:43 |
 | Sunbit, Inc | Senior DevOps Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1444a89356fbe315) | 2026-04-15 21:43 |
 | Bloomberg Industry Group | Web Application Architect 3 | Arlington, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7846d03774f71aa5) | 2026-04-15 21:43 |
 | Bass Pro Shops | Sr Business Intelligence Developer - Onsite | Springfield, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba1611f04cfe11a7) | 2026-04-15 21:43 |
