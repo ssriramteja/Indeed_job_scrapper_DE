@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-15 10:09
+Last updated: 2026-04-15 11:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Southern Company | Data Solutions Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3be194d530456f66) | 2026-04-15 11:50 |
+| Momentive Software | Senior ML Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f99034f0e149e6e6) | 2026-04-15 11:50 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 11:50 |
 | JPMorganChase | Software Engineer III - AWS Glue | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5f1496d3a0b45451) | 2026-04-15 10:09 |
-| Southern Company | Data Solutions Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3be194d530456f66) | 2026-04-15 10:09 |
 | Viasat | Data Engineer | Carlsbad, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=93144249a4967543) | 2026-04-15 10:09 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 10:09 |
 | Ignite Insurance Systems | Analytics Engineer | Lehi, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=560d14506d8aa36b) | 2026-04-15 08:23 |
 | Banner Health | Senior Data Engineer | AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c8d9928392bc7529) | 2026-04-15 08:23 |
 | Photon | Data Engineer - Dallas, TX | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=865a46cfbc7cc3f4) | 2026-04-15 08:23 |
@@ -305,7 +306,6 @@ Last updated: 2026-04-15 10:09
 | Walgreens | Software Engineer I (Full Stack) Java | Deerfield, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7e3e188fd3c8b1b5) | 2026-04-11 16:27 |
 | Maximus | Data Architect | Tysons, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1a89b21bbe373b9) | 2026-04-11 13:49 |
 | Oracle | Senior Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=77bccdac7a052a5f) | 2026-04-11 13:49 |
-| Wecom Fiber | Senior BI Developer & Analytics Engineer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eea7ffbb16ef4f94) | 2026-04-11 10:26 |
 
 
 ---
