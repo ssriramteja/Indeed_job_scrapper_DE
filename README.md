@@ -1,13 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-15 04:39
+Last updated: 2026-04-15 06:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EY | Cons - TC - AI and Data - Enterp Data - Data Eng and Arch - Data Eng - Mgr - MP - 1688246 | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2fdf2a5f30bbe80a) | 2026-04-15 06:28 |
+| FIS | Data Warehouse Analyst Seniors: Cloud Engineering | Jacksonville, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d87aa04a7733264b) | 2026-04-15 06:28 |
+| Southern Company | Data Solutions Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3be194d530456f66) | 2026-04-15 06:28 |
+| Blue Origin | Software Development Engineer III | Huntsville, AL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fcd17ae9e035b9a9) | 2026-04-15 06:28 |
+| Olson Kundig | Senior Data & AI Developer | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d831e0d8e2c5553f) | 2026-04-15 06:28 |
+| Texas A&M University | Research Engineer II | Bryan, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=09b3207da19db4ee) | 2026-04-15 06:28 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 06:28 |
+| HackerRank Careers | Backend Engineer II | Santa Clara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae2342b890625b11) | 2026-04-15 06:28 |
+| Optum | Senior Software Engineer | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=10b635a4480602f9) | 2026-04-15 06:28 |
+| BillGO, Inc. | Data Analytics Engineer | Fort Collins, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69713d6be44a4b67) | 2026-04-15 06:28 |
 | TCC Verizon Authorized Retailer | Information Technology - BI Developer | Fishers, IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ca19ad92abde46c9) | 2026-04-15 04:39 |
-| Southern Company | Data Solutions Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3be194d530456f66) | 2026-04-15 04:39 |
 | Stifel | Operations Engineer (Cloud) | Memphis, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d061193f264addea) | 2026-04-15 04:39 |
 | Verisk | Analytics Engineer | Lehi, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e99b4467c3c6aa55) | 2026-04-15 04:39 |
 | Express | DevOps Engineer | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=27ee634b56d5a4e3) | 2026-04-15 04:39 |
@@ -18,7 +27,6 @@ Last updated: 2026-04-15 04:39
 | Fivetran | Solution Architect, Enterprise | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=15664632526fabdb) | 2026-04-15 04:39 |
 | Fivetran | Senior Solution Architect, Enterprise | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=507830f63a6d47c9) | 2026-04-15 04:39 |
 | Fivetran | Senior Solution Architect, Enterprise | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=98d7971656e73b43) | 2026-04-15 04:39 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 04:39 |
 | Alliant Insurance Services | Salesforce Developer | Omaha, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=30ff91e3d3905a73) | 2026-04-15 04:39 |
 | Alliant Insurance Services | Salesforce Developer | Omaha, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17cbee15ac5e5d6a) | 2026-04-15 04:39 |
 | Deloitte | AI Data Engineer Senior Consultant | Arlington, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=766ed066e436eb0c) | 2026-04-15 04:39 |
@@ -333,16 +341,6 @@ Last updated: 2026-04-15 04:39
 | Sparc technology services inc | Application Modernization Architect | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=448c12afca90484e) | 2026-04-11 06:52 |
 | NTT DATA | Software Development Specialist Advisor | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b65a93ab1aa85d6b) | 2026-04-11 06:52 |
 | NTT DATA | Dev Ops. Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=557e52ab1c5d0ec6) | 2026-04-11 06:52 |
-| Openkyber | AI Application Architect | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7a5093e8180b857d) | 2026-04-11 05:55 |
-| Openkyber | AI Application Architect | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=090066a47b6dd531) | 2026-04-11 05:55 |
-| Openkyber | AI Application Architect | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9c75ad372a9b5c75) | 2026-04-11 05:55 |
-| Openkyber | AI Application Architect | IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d47e5529ec2a3740) | 2026-04-11 05:55 |
-| Openkyber | Guidewire ETL Developer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb07338bf043f5b4) | 2026-04-11 05:55 |
-| GEICO | Sr Engineer - (Java, Microservices, Data/Systems Engineering) *HYBRID* | Bethesda, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bc9fe56fb418d8) | 2026-04-11 05:55 |
-| Openkyber | Guidewire ETL Developer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=add49e38a96075b6) | 2026-04-11 05:55 |
-| TNT Crane & Rigging | Senior Systems Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46e05984bc6ba0ca) | 2026-04-11 05:55 |
-| NTT DATA | Azure Cloud Engineer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a623f40b4389b47f) | 2026-04-11 05:55 |
-| NTT DATA | Dev Ops. Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86743c7261c69b6c) | 2026-04-11 05:55 |
 
 
 ---
