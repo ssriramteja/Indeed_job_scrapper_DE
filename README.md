@@ -1,12 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-15 16:08
+Last updated: 2026-04-15 18:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 16:08 |
+| OrderlyMeds | Data Engineer- OrderlyMeds | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4f563cb4be7b9221) | 2026-04-15 18:00 |
+| Stellantis | Software Engineer | Auburn Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aa4d88005315e7ba) | 2026-04-15 18:00 |
+| innoVet Health, LLC | Azure Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a5acecf0e4305790) | 2026-04-15 18:00 |
+| Poshmark | AI/ML Engineering Intern (Summer 2026) | Redwood City, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7fd3431b51acd4b5) | 2026-04-15 18:00 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 18:00 |
+| Holland & Knight | Data Solutions Engineer | Brandon, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3abb3ed211255b11) | 2026-04-15 18:00 |
+| LTIMindtree | Specialist - Architecture | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=766f2f5e9a7201f1) | 2026-04-15 18:00 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=30ba9654fc14bac7) | 2026-04-15 18:00 |
+| Customers Bank | BI Developer | Malvern, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da13b88eee9db315) | 2026-04-15 18:00 |
+| Decentralized Masters | DevOps Security Engineer | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45f290af989badc3) | 2026-04-15 18:00 |
+| Metropolitan Companies | Data Engineer | Wyomissing, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12c03c3bb6ce8c38) | 2026-04-15 18:00 |
+| Energy Systems Group | Supervisor, Software Engineering | Newburgh, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c197f77bdf171e6) | 2026-04-15 18:00 |
+| Applied Information Sciences | Cloud Solution Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f47703eb8d2843d8) | 2026-04-15 18:00 |
 | Qode | Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8a711c2fcb36b6cf) | 2026-04-15 15:00 |
 | Equinox | Sr. Data Engineer (ON-SITE) | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=038b96d69cecd888) | 2026-04-15 15:00 |
 | Capital One | Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cb699a2e3bdbb440) | 2026-04-15 15:00 |
@@ -314,10 +326,6 @@ Last updated: 2026-04-15 16:08
 | Openkyber | AWS Network Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=81b5b89f5da184cb) | 2026-04-11 23:25 |
 | Openkyber | AWS Network Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d3b1cef4b777b5a5) | 2026-04-11 23:25 |
 | New York Life | Senior Associate, AWS Cloud Platform Engineer | Lebanon, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5130b1cac45762a) | 2026-04-11 18:31 |
-| Openkyber | Okta | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=229a363c5f9abe92) | 2026-04-11 17:25 |
-| Openkyber | Okta | NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8389dc038a61799a) | 2026-04-11 17:25 |
-| Openkyber | PingOne Cloud Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=594f058d7c8a610d) | 2026-04-11 17:25 |
-| Walgreens | Software Engineer I (Full Stack) Java | Deerfield, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7e3e188fd3c8b1b5) | 2026-04-11 16:27 |
 
 
 ---
