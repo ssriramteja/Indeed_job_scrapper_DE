@@ -1,16 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-15 20:40
+Last updated: 2026-04-15 21:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Lincoln Financial Group | Databricks Data Analyst | Radnor, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ce89a36f70a3941b) | 2026-04-15 21:43 |
+| General Motors (GM) | Senior Ad Ops Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f14f238cb8b8c5f1) | 2026-04-15 21:43 |
+| OrderlyMeds | Data Engineer- OrderlyMeds | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bfb2a73a0846955d) | 2026-04-15 21:43 |
+| Tata Consultancy Services (TCS) | Java Software Developer | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c2cee659fe1d0db) | 2026-04-15 21:43 |
+| Kharon | Senior Site Reliability Engineer | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1834ddbeb8ec8bb3) | 2026-04-15 21:43 |
+| SYSTECH USA | Senior Data Engineer - IICS | Glendale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cdf36b7e279da791) | 2026-04-15 21:43 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 21:43 |
+| Sunbit, Inc | Senior DevOps Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1444a89356fbe315) | 2026-04-15 21:43 |
+| Bloomberg Industry Group | Web Application Architect 3 | Arlington, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7846d03774f71aa5) | 2026-04-15 21:43 |
+| Bass Pro Shops | Sr Business Intelligence Developer - Onsite | Springfield, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba1611f04cfe11a7) | 2026-04-15 21:43 |
+| Chewy | Software Engineer I - Full Stack | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e317b1b40c2e7beb) | 2026-04-15 21:43 |
 | NTT DATA | Cloudera Public Cloud Platform Engineer | Plano, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce7428fbc9c89fa9) | 2026-04-15 20:40 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62c75d5f8fbde70d) | 2026-04-15 20:40 |
 | Troutman Pepper Locke | AI Cloud Security and Infrastructure Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04325b074eb62665) | 2026-04-15 20:40 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6412b42f521215b) | 2026-04-15 20:40 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a467a1fe4bd409c) | 2026-04-15 20:40 |
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cea257394aa611a9) | 2026-04-15 20:40 |
 | Goldman Sachs | Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst/Associate - New York | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dd43ffc6d7fda89) | 2026-04-15 20:40 |
 | loanDepot | Sr. Data Engineer (Azure/Databricks/Python) | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d4b1df13928e079d) | 2026-04-15 19:21 |
