@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-16 11:53
+Last updated: 2026-04-16 13:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Kohl's | Machine Learning Engineer II (Remote) | Menomonee Falls, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2a7d736f0a5c3255) | 2026-04-16 13:09 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 13:09 |
 | BluEnt | Databricks Data Architect - Consultant | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8c12fb6e67e8bda7) | 2026-04-16 11:53 |
 | Newpage Digital Healthcare solutions | Platform Operations Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=62bcd4ad2d0bbc62) | 2026-04-16 11:53 |
 | HP | Software Developer Internship | Spring, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5ee38c644f00bbc) | 2026-04-16 11:53 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 11:53 |
 | CardioOne | Senior Software Engineer | CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34653b24bff70a46) | 2026-04-16 11:53 |
 | Nexnovels | Data Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=fe02b0827629874b) | 2026-04-16 10:09 |
 | SS&C | Senior ML Engineer - Agentic AI | Waltham, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0ee08a694c71ee91) | 2026-04-16 10:09 |
