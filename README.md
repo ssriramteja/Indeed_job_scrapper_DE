@@ -1,14 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-16 17:04
+Last updated: 2026-04-16 19:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Veeva Systems | Data Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a83dccf18841adf6) | 2026-04-16 19:00 |
+| Unissant | Enterprise Data Architect | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a00da07441b7a67f) | 2026-04-16 19:00 |
+| Wipro | DEVELOPER L3(CONTRACT) | Wayne, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0e2ca368a02b432d) | 2026-04-16 19:00 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-16 19:00 |
+| IWCO | Senior Data Analyst | Chanhassen, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=196d52ca727cd7dc) | 2026-04-16 19:00 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 19:00 |
+| COVERCRAFT INDUSTRIES | Power BI Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d5dc2c7f7fff79d2) | 2026-04-16 19:00 |
+| Dayforce | Cloud Infrastructure Engineer Prin | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e17559f247cbc51a) | 2026-04-16 19:00 |
+| Photon | Java backend data engineer - Smithfield RI | Smithfield, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d795ea45cb03ea9) | 2026-04-16 19:00 |
 | Visa | Sr. Consultant SW Engineer | Bellevue, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f337cce3b659c83d) | 2026-04-16 17:04 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-16 17:04 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 17:04 |
 | JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=412ff8500fa79e71) | 2026-04-16 17:04 |
 | NavitasPartners | Senior Data Engineer – Credit Risk (Hybrid) - New York, NY | Brooklyn, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=23517bc36e765c0f) | 2026-04-16 15:19 |
 | NavitasPartners | Senior Data Engineer – Credit Risk (Hybrid) - New York, NY | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=16e736022550c4c5) | 2026-04-16 15:19 |
