@@ -1,17 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-16 19:00
+Last updated: 2026-04-16 20:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EssilorLuxottica | Data Engineer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cb1eb66e038f22b4) | 2026-04-16 20:01 |
+| Trepp | Senior Backend Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=793bcf53c033205f) | 2026-04-16 20:01 |
+| Waystar | Senior SRE I | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=389e6808cb55dd7e) | 2026-04-16 20:01 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-16 20:01 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 20:01 |
+| Waystar | Software Engineer II | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f589c151e81c3302) | 2026-04-16 20:01 |
 | Veeva Systems | Data Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a83dccf18841adf6) | 2026-04-16 19:00 |
 | Unissant | Enterprise Data Architect | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a00da07441b7a67f) | 2026-04-16 19:00 |
 | Wipro | DEVELOPER L3(CONTRACT) | Wayne, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0e2ca368a02b432d) | 2026-04-16 19:00 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-16 19:00 |
 | IWCO | Senior Data Analyst | Chanhassen, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=196d52ca727cd7dc) | 2026-04-16 19:00 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 19:00 |
 | COVERCRAFT INDUSTRIES | Power BI Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d5dc2c7f7fff79d2) | 2026-04-16 19:00 |
 | Dayforce | Cloud Infrastructure Engineer Prin | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e17559f247cbc51a) | 2026-04-16 19:00 |
 | Photon | Java backend data engineer - Smithfield RI | Smithfield, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d795ea45cb03ea9) | 2026-04-16 19:00 |
@@ -443,8 +447,6 @@ Last updated: 2026-04-16 19:00
 | NTT DATA | Site Reliability Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee60578e0abfdb96) | 2026-04-13 07:10 |
 | Robert Half | Software Engineer III | San Ramon, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9f47248faf88df34) | 2026-04-13 04:52 |
 | Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5cdea475a3468daf) | 2026-04-12 22:24 |
-| BFG Enterprise Services | Cloud/Drupal Subject Matter Specialist | Suitland, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=890c6ef795b6dd39) | 2026-04-12 19:33 |
-| SAP | SAP NS2 Sr. DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c08fc820fe10f7ed) | 2026-04-12 19:33 |
 
 
 ---
