@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-16 01:50
+Last updated: 2026-04-16 04:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| World Bank Group | Associate IT Officer, Data and Information Management (Associate Data Engineer) | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7a40cff6b5df03cd) | 2026-04-16 04:46 |
+| Broadview Federal Credit Union | Senior Analytics Engineer - Power BI | Albany, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ddee7a1fd9164fde) | 2026-04-16 04:46 |
+| LiveRamp | Senior SRE | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bc41b902449ace0) | 2026-04-16 04:46 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 04:46 |
+| Oracle | Software Developer Architect (Cloud Services) | Redwood City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ec8ec9187f270065) | 2026-04-16 04:46 |
+| Carlsmed | Sr. Software QA Engineer | Carlsbad, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f92907b243e51105) | 2026-04-16 04:46 |
+| Core & Main | Data Engineer II | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5e2495e00e0060d) | 2026-04-16 04:46 |
 | Intellectyx | Senior Data Engineer | Pasadena, CA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=19cc1df5d3223695) | 2026-04-16 01:50 |
 | Vertical Relevance | AWS Data Architect | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=664db57e743f0c66) | 2026-04-16 01:50 |
 | TECHNOLOGENT | Senior Infrastructure Kafka Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=51b24f7efaba6116) | 2026-04-16 01:50 |
@@ -18,7 +25,6 @@ Last updated: 2026-04-16 01:50
 | ICF | Data Engineer - Data Warehouse Architect | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48617c6692425cb2) | 2026-04-16 01:50 |
 | Panasonic Automotive | AI Architect | Farmington Hills, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11ce688bd126a002) | 2026-04-16 01:50 |
 | CrowdStrike | Sr. Software Engineer - Data Infrastructure | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df9f48d9232b00bf) | 2026-04-16 01:50 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 01:50 |
 | Caterpillar | Data Engineer, Cat Digital Data & AI | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=699bf154d150027f) | 2026-04-16 01:50 |
 | Caterpillar | Software Engineer (Full Stack) | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39b5eeee4ff704ee) | 2026-04-16 01:50 |
 | nan | Python Developer | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bca63339137d0189) | 2026-04-16 01:50 |
@@ -397,8 +403,6 @@ Last updated: 2026-04-16 01:50
 | Legence | Power BI Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=510e2092d20062f6) | 2026-04-12 09:38 |
 | Legence | Power BI Data Engineer | Minneapolis, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5c671fac5bf99b42) | 2026-04-12 09:38 |
 | Openkyber | Network Operations Trainee | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4f9b6252d4232bb) | 2026-04-12 06:19 |
-| nan | Full Stack Developer - Contract Hire (Remote, US Only) | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=080c153a60c2db6d) | 2026-04-12 04:40 |
-| TEEMA | Data Architect - C2H | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a07fa9ddece4b00d) | 2026-04-12 04:40 |
 
 
 ---
