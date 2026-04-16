@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-16 06:30
+Last updated: 2026-04-16 08:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Exponent | Senior Enterprise Application Developer (Full Stack) | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=acf79124967bf4c3) | 2026-04-16 08:23 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 08:23 |
 | Infinitive Inc | Data Architect/Modeler | Pittsburgh, PA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e10ec33698957c81) | 2026-04-16 06:30 |
 | Transmedics | Senior Software Development Engineer - Cloud Dev | Andover, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2f2220b49620882d) | 2026-04-16 06:30 |
 | nan | Data Engineer III | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=782f670b324716aa) | 2026-04-16 06:30 |
@@ -14,7 +16,6 @@ Last updated: 2026-04-16 06:30
 | Magna International | Senior Full Stack Developer, Smart Factory Solutions | Troy, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7d8d9f6032e5b6f) | 2026-04-16 06:30 |
 | Adobe | Sr. Data Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=523330c74b38a27b) | 2026-04-16 06:30 |
 | nan | Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7beef8ad4f571f7a) | 2026-04-16 06:30 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 06:30 |
 | TIAG | Senior Performance Test Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82eb3dabcdfd111c) | 2026-04-16 06:30 |
 | CardioOne | Senior Software Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b44f024bbd36d11) | 2026-04-16 06:30 |
 | World Bank Group | Associate IT Officer, Data and Information Management (Associate Data Engineer) | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7a40cff6b5df03cd) | 2026-04-16 04:46 |
