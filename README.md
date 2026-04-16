@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-16 15:19
+Last updated: 2026-04-16 17:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Visa | Sr. Consultant SW Engineer | Bellevue, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f337cce3b659c83d) | 2026-04-16 17:04 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-16 17:04 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 17:04 |
+| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=412ff8500fa79e71) | 2026-04-16 17:04 |
 | NavitasPartners | Senior Data Engineer – Credit Risk (Hybrid) - New York, NY | Brooklyn, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=23517bc36e765c0f) | 2026-04-16 15:19 |
 | NavitasPartners | Senior Data Engineer – Credit Risk (Hybrid) - New York, NY | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=16e736022550c4c5) | 2026-04-16 15:19 |
 | NavitasPartners | Senior Data Engineer – Credit Risk (Hybrid) - New York, NY | Albany, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=97b0320ba5b0219b) | 2026-04-16 15:19 |
@@ -18,7 +22,6 @@ Last updated: 2026-04-16 15:19
 | DEPARTMENT OF BUILDINGS | Senior Data Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e9557f408354fe7) | 2026-04-16 15:19 |
 | Wells Fargo | Database Engineer 3 - Contingent (contract) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b28c0b653e1b4d8) | 2026-04-16 15:19 |
 | Disney Experiences | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c254d2582994d51f) | 2026-04-16 15:19 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 15:19 |
 | CCG | Senior Architect - Data Architecture & Engineering | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=819e894636bd2075) | 2026-04-16 15:19 |
 | Tata Consultancy Services (TCS) | Big Data Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3da1fa1569c709a3) | 2026-04-16 15:19 |
 | Tata Consultancy Services (TCS) | Python Automation Developer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=023ea0e85c7b758a) | 2026-04-16 15:19 |
@@ -435,7 +438,6 @@ Last updated: 2026-04-16 15:19
 | Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5cdea475a3468daf) | 2026-04-12 22:24 |
 | BFG Enterprise Services | Cloud/Drupal Subject Matter Specialist | Suitland, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=890c6ef795b6dd39) | 2026-04-12 19:33 |
 | SAP | SAP NS2 Sr. DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c08fc820fe10f7ed) | 2026-04-12 19:33 |
-| DoiT | Senior Cloud Architect, ML/AI | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2c7df305cb5baa7b) | 2026-04-12 15:29 |
 
 
 ---
