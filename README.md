@@ -1,13 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-16 08:23
+Last updated: 2026-04-16 10:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nexnovels | Data Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=fe02b0827629874b) | 2026-04-16 10:09 |
+| SS&C | Senior ML Engineer - Agentic AI | Waltham, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0ee08a694c71ee91) | 2026-04-16 10:09 |
+| Federal Reserve Bank of St. Louis | Sr Cloud Engineer | St. Louis, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=af192f5dcbf84698) | 2026-04-16 10:09 |
+| JPMorganChase | Software Engineer III | Palo Alto, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fe1513252d7f11af) | 2026-04-16 10:09 |
+| JPMorganChase | Software Engineer III – Cloud Platform Engineering - Python / AWS | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bb199efc831c0dc4) | 2026-04-16 10:09 |
+| Mayer Brown LLP | Architect: Enterprise Data | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ced77385e81a71b8) | 2026-04-16 10:09 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 10:09 |
 | Exponent | Senior Enterprise Application Developer (Full Stack) | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=acf79124967bf4c3) | 2026-04-16 08:23 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 08:23 |
 | Infinitive Inc | Data Architect/Modeler | Pittsburgh, PA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e10ec33698957c81) | 2026-04-16 06:30 |
 | Transmedics | Senior Software Development Engineer - Cloud Dev | Andover, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2f2220b49620882d) | 2026-04-16 06:30 |
 | nan | Data Engineer III | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=782f670b324716aa) | 2026-04-16 06:30 |
@@ -411,8 +417,6 @@ Last updated: 2026-04-16 08:23
 | SAP | SAP NS2 Sr. DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c08fc820fe10f7ed) | 2026-04-12 19:33 |
 | DoiT | Senior Cloud Architect, ML/AI | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2c7df305cb5baa7b) | 2026-04-12 15:29 |
 | Blue Cross and Blue Shield of Minnesota | Senior AI Engineer | Eagan, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a49a54c48156d9f6) | 2026-04-12 11:27 |
-| Legence | Power BI Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=510e2092d20062f6) | 2026-04-12 09:38 |
-| Legence | Power BI Data Engineer | Minneapolis, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5c671fac5bf99b42) | 2026-04-12 09:38 |
 
 
 ---
