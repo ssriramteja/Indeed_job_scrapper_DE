@@ -1,13 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-16 13:09
+Last updated: 2026-04-16 15:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NavitasPartners | Senior Data Engineer – Credit Risk (Hybrid) - New York, NY | Brooklyn, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=23517bc36e765c0f) | 2026-04-16 15:19 |
+| NavitasPartners | Senior Data Engineer – Credit Risk (Hybrid) - New York, NY | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=16e736022550c4c5) | 2026-04-16 15:19 |
+| NavitasPartners | Senior Data Engineer – Credit Risk (Hybrid) - New York, NY | Albany, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=97b0320ba5b0219b) | 2026-04-16 15:19 |
+| NavitasPartners | Senior Data Engineer – Credit Risk (Hybrid) - New York, NY | Bronx, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=22e782dc41b4055e) | 2026-04-16 15:19 |
+| Worth AI | Graph DBA | Miami, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c15f03a1274f889c) | 2026-04-16 15:19 |
+| Worth AI | Graph DBA | Tampa, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e8b5a8aa7c2f7cd5) | 2026-04-16 15:19 |
+| Worth AI | Graph DBA | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a0522d81a23e6425) | 2026-04-16 15:19 |
+| Worth AI | Graph DBA | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=10fa9278e203e8c7) | 2026-04-16 15:19 |
+| Qode | Site Reliability Architect | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50c8f5c8b89d420d) | 2026-04-16 15:19 |
+| DEPARTMENT OF BUILDINGS | Senior Data Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e9557f408354fe7) | 2026-04-16 15:19 |
+| Wells Fargo | Database Engineer 3 - Contingent (contract) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b28c0b653e1b4d8) | 2026-04-16 15:19 |
+| Disney Experiences | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c254d2582994d51f) | 2026-04-16 15:19 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 15:19 |
+| CCG | Senior Architect - Data Architecture & Engineering | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=819e894636bd2075) | 2026-04-16 15:19 |
+| Tata Consultancy Services (TCS) | Big Data Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3da1fa1569c709a3) | 2026-04-16 15:19 |
+| Tata Consultancy Services (TCS) | Python Automation Developer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=023ea0e85c7b758a) | 2026-04-16 15:19 |
 | Kohl's | Machine Learning Engineer II (Remote) | Menomonee Falls, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2a7d736f0a5c3255) | 2026-04-16 13:09 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 13:09 |
 | BluEnt | Databricks Data Architect - Consultant | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8c12fb6e67e8bda7) | 2026-04-16 11:53 |
 | Newpage Digital Healthcare solutions | Platform Operations Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=62bcd4ad2d0bbc62) | 2026-04-16 11:53 |
 | HP | Software Developer Internship | Spring, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5ee38c644f00bbc) | 2026-04-16 11:53 |
