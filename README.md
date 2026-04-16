@@ -1,16 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-16 20:01
+Last updated: 2026-04-16 21:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Citizens | Kafka Infrastructure Engineer | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=288d8ed989f5e263) | 2026-04-16 21:35 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=59d1f24bbcec7861) | 2026-04-16 21:35 |
+| REsurety | Senior Cloud Operations Engineer - Boston | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=29974d87917cb0fe) | 2026-04-16 21:35 |
+| SpotOn | Senior Data Engineer (Clickhouse) | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=be868335e3ef6e98) | 2026-04-16 21:35 |
+| Intrado | Senior Software Engineer | Longmont, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e9f81856c387866b) | 2026-04-16 21:35 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-16 21:35 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-16 21:35 |
+| Verinext | ETL Developer | Suwanee, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=63d02d8862b8e251) | 2026-04-16 21:35 |
+| Weyerhaeuser | IT Intern - Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6189d252c6c4d09f) | 2026-04-16 21:35 |
+| ECS | DevSecOps Cloud Engineer | Fairfax, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96f58672f1d141ce) | 2026-04-16 21:35 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 21:35 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-16 21:35 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=009bef0a6c8cccee) | 2026-04-16 21:35 |
+| Tata Consultancy Services (TCS) | HR -Data Scientist | Renton, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7513f3b5f73b8498) | 2026-04-16 21:35 |
+| American Electric Power | Solution Engineer: Enterprise GenAI & Analytics Enablement | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed80186b477d6765) | 2026-04-16 21:35 |
 | EssilorLuxottica | Data Engineer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cb1eb66e038f22b4) | 2026-04-16 20:01 |
 | Trepp | Senior Backend Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=793bcf53c033205f) | 2026-04-16 20:01 |
 | Waystar | Senior SRE I | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=389e6808cb55dd7e) | 2026-04-16 20:01 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-16 20:01 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 20:01 |
 | Waystar | Software Engineer II | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f589c151e81c3302) | 2026-04-16 20:01 |
 | Veeva Systems | Data Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a83dccf18841adf6) | 2026-04-16 19:00 |
 | Unissant | Enterprise Data Architect | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a00da07441b7a67f) | 2026-04-16 19:00 |
