@@ -1,11 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-15 23:35
+Last updated: 2026-04-16 01:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Intellectyx | Senior Data Engineer | Pasadena, CA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=19cc1df5d3223695) | 2026-04-16 01:50 |
+| Vertical Relevance | AWS Data Architect | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=664db57e743f0c66) | 2026-04-16 01:50 |
+| TECHNOLOGENT | Senior Infrastructure Kafka Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=51b24f7efaba6116) | 2026-04-16 01:50 |
+| Portland General Electric | Application Developer, Portland Oregon | Portland, OR, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f9f186e739ef98be) | 2026-04-16 01:50 |
+| LTK | Sr Software Engineer I | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=77a9388986ca4483) | 2026-04-16 01:50 |
+| BLOC Resources, LLC | Data Engineer 4 | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d9e13379e16ee4b4) | 2026-04-16 01:50 |
+| Smart Data Solutions | Data Architecture Intern | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d67805e12d384da2) | 2026-04-16 01:50 |
+| REPLY | Data Engineer | Atlanta, KS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e9a02726d78410b5) | 2026-04-16 01:50 |
+| Exponent | Senior Enterprise Application Developer (Full Stack) | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=57406ee750d6ac9c) | 2026-04-16 01:50 |
+| ICF | Data Engineer - Data Warehouse Architect | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48617c6692425cb2) | 2026-04-16 01:50 |
+| Panasonic Automotive | AI Architect | Farmington Hills, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11ce688bd126a002) | 2026-04-16 01:50 |
+| CrowdStrike | Sr. Software Engineer - Data Infrastructure | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df9f48d9232b00bf) | 2026-04-16 01:50 |
+| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-16 01:50 |
+| Caterpillar | Data Engineer, Cat Digital Data & AI | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=699bf154d150027f) | 2026-04-16 01:50 |
+| Caterpillar | Software Engineer (Full Stack) | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39b5eeee4ff704ee) | 2026-04-16 01:50 |
+| nan | Python Developer | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bca63339137d0189) | 2026-04-16 01:50 |
+| Adobe | Senior Software Development Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=deb135bf06a2110e) | 2026-04-16 01:50 |
+| RAZR Marketing, Inc. | Senior Devops Engineer - MN | Minnetonka, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3375eb3b3d50ba05) | 2026-04-16 01:50 |
+| Paramount Streaming | Senior Software Engineer, Experimentation Platform (Backend Services) | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1f33593f93ffe80a) | 2026-04-16 01:50 |
+| BNY | Database Automation Developer (contract) | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78a015d8ecbb3c7f) | 2026-04-16 01:50 |
+| First Orion | C++ Software Engineer | North Little Rock, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8393d3f10d4fb672) | 2026-04-16 01:50 |
 | Intermountain Health | Data Architect, Senior | Murray, UT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8184ec5fc529fc27) | 2026-04-15 23:35 |
 | HelioCampus | Analytics Engineer | Bethesda, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=333fbc294a529a0f) | 2026-04-15 23:35 |
 | Live Nation | Software Engineer II | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=31ca2baaf21560e8) | 2026-04-15 23:35 |
@@ -18,7 +39,6 @@ Last updated: 2026-04-15 23:35
 | NavitasPartners | Senior Developer - Level III - 26-04057 | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9eeb6502ebf78cc0) | 2026-04-15 23:35 |
 | NavitasPartners | Senior Developer - Level III - 26-04057 | Santa Clarita, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=473b7754552ef179) | 2026-04-15 23:35 |
 | NavitasPartners | Senior Developer - Level III - 26-04057 | Lancaster, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e872365f29ac108) | 2026-04-15 23:35 |
-| The Walt Disney Company | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3088b1f92a7a6242) | 2026-04-15 23:35 |
 | AECOM | Senior Software Engineer | New Orleans, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2be9ee403cf20f67) | 2026-04-15 23:35 |
 | AECOM | Senior Software Engineer | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=156e5a4def2a4a5d) | 2026-04-15 23:35 |
 | Highmark Health | Senior Analytic Data Engineer (Python/Power BI) | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=100c60fa90e63408) | 2026-04-15 23:35 |
