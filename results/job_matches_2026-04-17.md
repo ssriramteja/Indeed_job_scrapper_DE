@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-17
 
-**Total Jobs Found:** 193
+**Total Jobs Found:** 199
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -665,7 +665,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Senior Data Engineer (Healthcare Interoperability) @ Verisma Systems Inc
+## 61. Databricks Data Architect - Consultant @ BluEnt
+**Match Score:** 16.7%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon, Spark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8c12fb6e67e8bda7)
+
+---
+
+## 62. Senior Data Engineer (Healthcare Interoperability) @ Verisma Systems Inc
 **Match Score:** 16.0%
 
 📍 **Location:** Remote, US USA
@@ -676,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. Data Engineer @ EssilorLuxottica
+## 63. Data Engineer @ EssilorLuxottica
 **Match Score:** 15.3%
 
 📍 **Location:** Dallas, TX, US USA
@@ -687,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Senior Data Engineer – Credit Risk (Hybrid) - New York, NY @ NavitasPartners
+## 64. Senior Data Engineer – Credit Risk (Hybrid) - New York, NY @ NavitasPartners
 **Match Score:** 15.3%
 
 📍 **Location:** Brooklyn, NY, US USA
@@ -698,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Senior Data Engineer – Credit Risk (Hybrid) - New York, NY @ NavitasPartners
+## 65. Senior Data Engineer – Credit Risk (Hybrid) - New York, NY @ NavitasPartners
 **Match Score:** 15.3%
 
 📍 **Location:** New York, NY, US USA
@@ -709,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Senior Data Engineer – Credit Risk (Hybrid) - New York, NY @ NavitasPartners
+## 66. Senior Data Engineer – Credit Risk (Hybrid) - New York, NY @ NavitasPartners
 **Match Score:** 15.3%
 
 📍 **Location:** Albany, NY, US USA
@@ -720,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Senior Data Engineer – Credit Risk (Hybrid) - New York, NY @ NavitasPartners
+## 67. Senior Data Engineer – Credit Risk (Hybrid) - New York, NY @ NavitasPartners
 **Match Score:** 15.3%
 
 📍 **Location:** Bronx, NY, US USA
@@ -731,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Graph DBA @ Worth AI
+## 68. Graph DBA @ Worth AI
 **Match Score:** 15.3%
 
 📍 **Location:** Miami, FL, US USA
@@ -742,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. Graph DBA @ Worth AI
+## 69. Graph DBA @ Worth AI
 **Match Score:** 15.3%
 
 📍 **Location:** Tampa, FL, US USA
@@ -753,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Graph DBA @ Worth AI
+## 70. Graph DBA @ Worth AI
 **Match Score:** 15.3%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -764,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Graph DBA @ Worth AI
+## 71. Graph DBA @ Worth AI
 **Match Score:** 15.3%
 
 📍 **Location:** Orlando, FL, US USA
@@ -775,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Full Stack Developer (AWS/Azure/.Net/React/Angular/SQL) @ Advait
+## 72. Full Stack Developer (AWS/Azure/.Net/React/Angular/SQL) @ Advait
 **Match Score:** 15.3%
 
 📍 **Location:** Brooklyn, NY, US USA
@@ -786,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Sr Data Engineer @ Range Resources
+## 73. Sr Data Engineer @ Range Resources
 **Match Score:** 14.6%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -797,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Sr Data Engineer @ Range Resources
+## 74. Sr Data Engineer @ Range Resources
 **Match Score:** 14.6%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -808,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Sr Cloud Engineer @ Federal Reserve Bank of St. Louis
+## 75. Sr Cloud Engineer @ Federal Reserve Bank of St. Louis
 **Match Score:** 14.6%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -816,17 +827,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, S3, SQS, ECS, IAM, RDS, Scala, Oracle, PostgreSQL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=af192f5dcbf84698)
-
----
-
-## 75. Sr. Consultant SW Engineer @ Visa
-**Match Score:** 14.6%
-
-📍 **Location:** Bellevue, WA, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Scala, Oracle, PostgreSQL, MySQL, MongoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f337cce3b659c83d)
 
 ---
 
@@ -841,7 +841,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Data Engineer - MTS/SMTS @ Salesforce
+## 77. Sr. Consultant SW Engineer @ Visa
+**Match Score:** 14.6%
+
+📍 **Location:** Bellevue, WA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Scala, Oracle, PostgreSQL, MySQL, MongoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f337cce3b659c83d)
+
+---
+
+## 78. Senior Back-End Engineer @ Spectrio LLC
+**Match Score:** 14.6%
+
+📍 **Location:** Tampa, FL, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, API Gateway, IAM, RDS, Scala, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1bdc93d3e13ebdd0)
+
+---
+
+## 79. Data Engineer - MTS/SMTS @ Salesforce
 **Match Score:** 13.9%
 
 📍 **Location:** Seattle, WA, US USA
@@ -852,7 +874,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. ETL Developer @ nan
+## 80. ETL Developer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** US USA
@@ -863,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Engineer/Sr Engineer, IT Software @ American Airlines
+## 81. Engineer/Sr Engineer, IT Software @ American Airlines
 **Match Score:** 13.9%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -874,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Senior Data Engineer @ HCA Healthcare
+## 82. Senior Data Engineer @ HCA Healthcare
 **Match Score:** 13.2%
 
 📍 **Location:** Nashville, TN, US USA
@@ -885,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Senior Cloud Operations Engineer - Boston @ REsurety
+## 83. Senior Cloud Operations Engineer - Boston @ REsurety
 **Match Score:** 13.2%
 
 📍 **Location:** Boston, MA, US USA
@@ -896,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Senior Backend Engineer @ Trepp
+## 84. Senior Backend Engineer @ Trepp
 **Match Score:** 13.2%
 
 📍 **Location:** New York, NY, US USA
@@ -907,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Senior Data Engineer (Clickhouse) @ SpotOn
+## 85. Senior Data Engineer (Clickhouse) @ SpotOn
 **Match Score:** 13.2%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -918,36 +940,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Software Engineer III – Cloud Platform Engineering - Python / AWS @ JPMorganChase
+## 86. Senior Network Engineer (Hybrid - Seattle, WA) @ Nordstrom
 **Match Score:** 13.2%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Seattle, WA, US USA
 
-🔑 **Keywords:** AWS, EMR, S3, ECS, RDS, Scala, NoSQL, Splunk, CI/CD, Jenkins
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, Oracle, CI/CD, Jenkins, GitHub Actions
 
-[Apply Here](https://www.indeed.com/viewjob?jk=bb199efc831c0dc4)
-
----
-
-## 85. Software Development Engineer- Product Reliability Engineering @ Visa
-**Match Score:** 13.2%
-
-📍 **Location:** Highlands Ranch, CO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Data Modeling, Splunk, CI/CD, Jenkins, GitHub Actions, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=941a8e269aca7287)
-
----
-
-## 86. Software Development Engineer- Product Reliability Engineering @ Visa
-**Match Score:** 13.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Data Modeling, Splunk, CI/CD, Jenkins, GitHub Actions, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c4db1e66cf2c5955)
+[Apply Here](https://www.indeed.com/viewjob?jk=cf7e6921496659c0)
 
 ---
 
@@ -962,7 +962,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Data Engineer @ Abbott
+## 88. Software Development Engineer- Product Reliability Engineering @ Visa
+**Match Score:** 13.2%
+
+📍 **Location:** Highlands Ranch, CO, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Data Modeling, Splunk, CI/CD, Jenkins, GitHub Actions, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=941a8e269aca7287)
+
+---
+
+## 89. Software Development Engineer- Product Reliability Engineering @ Visa
+**Match Score:** 13.2%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Data Modeling, Splunk, CI/CD, Jenkins, GitHub Actions, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c4db1e66cf2c5955)
+
+---
+
+## 90. Data Engineer @ Abbott
 **Match Score:** 12.5%
 
 📍 **Location:** Abbott Park, IL, US USA
@@ -973,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Senior Technical Consultant - Data & Analytics @ Ahead
+## 91. Senior Technical Consultant - Data & Analytics @ Ahead
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -984,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Machine Learning Engineer II (Remote) @ Kohl's
+## 92. Machine Learning Engineer II (Remote) @ Kohl's
 **Match Score:** 12.5%
 
 📍 **Location:** Menomonee Falls, WI, US USA
@@ -995,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Data Analyst @ Par Pacific Holdings
+## 93. Data Analyst @ Par Pacific Holdings
 **Match Score:** 12.5%
 
 📍 **Location:** Houston, TX, US USA
@@ -1006,7 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Senior Data Engineer, Investments Technology @ Liberty Mutual Insurance
+## 94. Senior Data Engineer, Investments Technology @ Liberty Mutual Insurance
 **Match Score:** 12.5%
 
 📍 **Location:** Boston, MA, US USA
@@ -1017,18 +1039,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Data Engineer @ AutoSavvy
+## 95. Senior Azure Databricks Data Architect / Engineer (Public Sector) @ Witriol Consulting
 **Match Score:** 12.5%
 
-📍 **Location:** Woods Cross, UT, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Scala, SQL Server, Data Modeling, ETL, ELT, Power BI
+🔑 **Keywords:** RDS, Azure, Databricks, Data Lake Storage, Unity Catalog, Scala, ELT, Power BI, CI/CD, Terraform
 
-[Apply Here](https://www.indeed.com/viewjob?jk=27afa513de4d43c3)
+[Apply Here](https://www.indeed.com/viewjob?jk=887e1abe8d5989a7)
 
 ---
 
-## 94. Implementation Consultant @ Cotiviti
+## 96. Implementation Consultant @ Cotiviti
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -1039,7 +1061,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Software Development Engineer II @ GM Financial
+## 97. Data Engineer @ AutoSavvy
+**Match Score:** 12.5%
+
+📍 **Location:** Woods Cross, UT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Scala, SQL Server, Data Modeling, ETL, ELT, Power BI
+
+[Apply Here](https://www.indeed.com/viewjob?jk=27afa513de4d43c3)
+
+---
+
+## 98. Software Development Engineer II @ GM Financial
 **Match Score:** 12.5%
 
 📍 **Location:** Arlington, TX, US USA
@@ -1050,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Senior Software Engineer @ Intrado
+## 99. Senior Software Engineer @ Intrado
 **Match Score:** 12.5%
 
 📍 **Location:** Longmont, CO, US USA
@@ -1061,7 +1094,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Senior Data Engineer - APIs @ HCA Healthcare
+## 100. Senior Data Engineer - APIs @ HCA Healthcare
 **Match Score:** 11.8%
 
 📍 **Location:** Nashville, TN, US USA
@@ -1072,7 +1105,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Data Engineer II @ Thread Bank
+## 101. Data Engineer II @ Thread Bank
 **Match Score:** 11.8%
 
 📍 **Location:** Nashville, TN, US USA
@@ -1083,7 +1116,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. Power BI - Data Specialist @ nan
+## 102. Power BI - Data Specialist @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Hammond, LA, US USA
@@ -1094,7 +1127,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. Data Engineer IV- 4P/619 @ 4P Consulting Inc.
+## 103. Data Engineer IV- 4P/619 @ 4P Consulting Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1105,7 +1138,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Engineer, Data Platform & Analytics @ Carnival Cruise Line
+## 104. Engineer, Data Platform & Analytics @ Carnival Cruise Line
 **Match Score:** 11.8%
 
 📍 **Location:** Miami, FL, US USA
@@ -1116,7 +1149,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. DEVELOPER L3(CONTRACT) @ Wipro
+## 105. DEVELOPER L3(CONTRACT) @ Wipro
 **Match Score:** 11.8%
 
 📍 **Location:** Wayne, PA, US USA
@@ -1127,7 +1160,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. Data Platform Engineer | Digital Operations @ Beta Technologies
+## 106. Data Platform Engineer | Digital Operations @ Beta Technologies
 **Match Score:** 11.8%
 
 📍 **Location:** South Burlington, VT, US USA
@@ -1138,7 +1171,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 104. Sr. Application Security Architect @ WEX Inc.
+## 107. Sr. Application Security Architect @ WEX Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -1149,29 +1182,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 105. Senior Data Architect @ DEPARTMENT OF BUILDINGS
-**Match Score:** 11.8%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** RDS, Azure, Synapse Analytics, Scala, Snowflake, Oracle, SQL Server, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2e9557f408354fe7)
-
----
-
-## 106. Architect: Enterprise Data @ Mayer Brown LLP
-**Match Score:** 11.8%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, SQL Server, Data Modeling, Dimensional Modeling, Star Schema, ETL, ELT, Power BI
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ced77385e81a71b8)
-
----
-
-## 107. Software Development Engineer in Test (SDET) @ Foodsmart
+## 108. Software Development Engineer in Test (SDET) @ Foodsmart
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -1182,7 +1193,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 108. Specialist, Data Engineer @ Nationwide Mutual Insurance Company
+## 109. Senior Data Architect @ DEPARTMENT OF BUILDINGS
+**Match Score:** 11.8%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** RDS, Azure, Synapse Analytics, Scala, Snowflake, Oracle, SQL Server, Data Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2e9557f408354fe7)
+
+---
+
+## 110. Architect: Enterprise Data @ Mayer Brown LLP
+**Match Score:** 11.8%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, SQL Server, Data Modeling, Dimensional Modeling, Star Schema, ETL, ELT, Power BI
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ced77385e81a71b8)
+
+---
+
+## 111. Specialist, Data Engineer @ Nationwide Mutual Insurance Company
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -1193,7 +1226,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 109. Database Engineer 3 - Contingent (contract) @ Wells Fargo
+## 112. Database Engineer 3 - Contingent (contract) @ Wells Fargo
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -1204,7 +1237,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 110. Data Engineer (On-Site Dallas) @ NTT DATA
+## 113. Senior Data Engineer @ Foodsmart
+**Match Score:** 11.1%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** Redshift, RDS, BigQuery, Scala, Snowflake, PostgreSQL, MySQL, Dimensional Modeling, Airflow, Apache Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=43644f263e6cc15a)
+
+---
+
+## 114. Data Engineer (On-Site Dallas) @ NTT DATA
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -1215,7 +1259,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 111. Data Engineer (On-Site Dallas) @ NTT DATA
+## 115. Data Engineer (On-Site Dallas) @ NTT DATA
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -1226,7 +1270,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 112. ETL Developer @ Verinext
+## 116. ETL Developer @ Verinext
 **Match Score:** 11.1%
 
 📍 **Location:** Suwanee, GA, US USA
@@ -1237,7 +1281,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 113. IT Intern - Data Engineer @ Weyerhaeuser
+## 117. IT Intern - Data Engineer @ Weyerhaeuser
 **Match Score:** 11.1%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1248,7 +1292,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 114. DevSecOps Cloud Engineer @ ECS
+## 118. DevSecOps Cloud Engineer @ ECS
 **Match Score:** 11.1%
 
 📍 **Location:** Fairfax, VA, US USA
@@ -1259,7 +1303,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 115. Sr Data Engineer @ Disney Experiences
+## 119. Sr Data Engineer @ Disney Experiences
 **Match Score:** 11.1%
 
 📍 **Location:** Orlando, FL, US USA
@@ -1270,29 +1314,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 116. Software Engineer Analyst @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** San Diego, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Vertex AI, Scala, NoSQL, CI/CD, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=15860cd51098fe2d)
-
----
-
-## 117. Quality Automation Engineer @ Fisher Investments
-**Match Score:** 11.1%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, MySQL, MongoDB, Splunk, Jenkins, Jenkins, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4427659810ca0330)
-
----
-
-## 118. Snowflake Architect @ DUO2 LLC
+## 120. Snowflake Architect @ DUO2 LLC
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -1303,18 +1325,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 119. Remote Full-Stack Software Engineer @ Astronaut Party Inc.
-**Match Score:** 11.1%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, PostgreSQL, MongoDB, NoSQL, ETL, CI/CD, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c53661df7aef299c)
-
----
-
-## 120. Enterprise Analytics BID @ Deaconess Health System
+## 121. Enterprise Analytics BID @ Deaconess Health System
 **Match Score:** 11.1%
 
 📍 **Location:** Evansville, IN, US USA
@@ -1325,7 +1336,51 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 121. Power BI Developer @ COVERCRAFT INDUSTRIES
+## 122. Application Security Analyst @ Advait
+**Match Score:** 11.1%
+
+📍 **Location:** Brooklyn, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Oracle, Splunk, CI/CD, Jenkins, Jenkins, SonarQube, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d58f2c1ddb77b874)
+
+---
+
+## 123. Software Engineer Analyst @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** San Diego, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Vertex AI, Scala, NoSQL, CI/CD, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=15860cd51098fe2d)
+
+---
+
+## 124. Quality Automation Engineer @ Fisher Investments
+**Match Score:** 11.1%
+
+📍 **Location:** Plano, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, MySQL, MongoDB, Splunk, Jenkins, Jenkins, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4427659810ca0330)
+
+---
+
+## 125. AI / ML Engineer - Image Analytics @ WSP
+**Match Score:** 11.1%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Event Hubs, Scala, MLOps, MLflow, CI/CD, Docker, AKS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=89c910b7dbb4b17b)
+
+---
+
+## 126. Power BI Developer @ COVERCRAFT INDUSTRIES
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -1336,7 +1391,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 122. Big Data Engineer @ Tata Consultancy Services (TCS)
+## 127. Remote Full-Stack Software Engineer @ Astronaut Party Inc.
+**Match Score:** 11.1%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, Azure, Scala, PostgreSQL, MongoDB, NoSQL, ETL, CI/CD, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c53661df7aef299c)
+
+---
+
+## 128. Big Data Engineer @ Tata Consultancy Services (TCS)
 **Match Score:** 10.4%
 
 📍 **Location:** Irving, TX, US USA
@@ -1347,7 +1413,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 123. Data Engineer @ Shannon & Wilson Inc.
+## 129. Data Engineer @ Shannon & Wilson Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1358,7 +1424,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 124. Senior Data Engineer @ Sightline Payments
+## 130. Senior Data Engineer @ Sightline Payments
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1369,7 +1435,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 125. Software Engineer III - Cloud Platform @ Guidewire
+## 131. Software Engineer III - Cloud Platform @ Guidewire
 **Match Score:** 10.4%
 
 📍 **Location:** San Mateo, CA, US USA
@@ -1380,7 +1446,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 126. Sr FedRAMP Cloud Engineer @ Palo Alto Networks
+## 132. Sr FedRAMP Cloud Engineer @ Palo Alto Networks
 **Match Score:** 10.4%
 
 📍 **Location:** Santa Clara, CA, US USA
@@ -1391,7 +1457,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 127. Azure Cloud Engineer @ D.A. Davidson Companies
+## 133. Azure Cloud Engineer @ D.A. Davidson Companies
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1402,7 +1468,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 128. Senior Systems Engineer (Commercial) @ AutoZone
+## 134. Senior Systems Engineer (Commercial) @ AutoZone
 **Match Score:** 10.4%
 
 📍 **Location:** Memphis, TN, US USA
@@ -1413,7 +1479,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 129. Business Intelligence Engineer III @ Simplot Company
+## 135. Business Intelligence Engineer III @ Simplot Company
 **Match Score:** 10.4%
 
 📍 **Location:** Boise, ID, US USA
@@ -1424,7 +1490,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 130. Cloud Infrastructure Engineer Prin @ Dayforce
+## 136. Cloud Infrastructure Engineer Prin @ Dayforce
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -1435,18 +1501,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 131. Senior Java Developer @ Tata Consultancy Services (TCS)
-**Match Score:** 10.4%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, ECS, Kafka, PostgreSQL, MongoDB, NoSQL, CI/CD, Jenkins, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c6aef2152855300a)
-
----
-
-## 132. AI Architect @ Tenex.Ai
+## 137. AI Architect @ Tenex.Ai
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -1457,7 +1512,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 133. Sr. Data Visualization Developer - Contractor @ Commonwealth of Massachusetts
+## 138. Sr. Data Visualization Developer - Contractor @ Commonwealth of Massachusetts
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -1468,7 +1523,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 134. Java backend data engineer - Smithfield RI @ Photon
+## 139. Senior Software Engineer ( Java) @ Press Ganey
+**Match Score:** 10.4%
+
+📍 **Location:** Decatur, GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, NoSQL, CI/CD, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0924474206e422da)
+
+---
+
+## 140. Senior Java Developer @ Tata Consultancy Services (TCS)
+**Match Score:** 10.4%
+
+📍 **Location:** Plano, TX, US USA
+
+🔑 **Keywords:** AWS, ECS, Kafka, PostgreSQL, MongoDB, NoSQL, CI/CD, Jenkins, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c6aef2152855300a)
+
+---
+
+## 141. Java backend data engineer - Smithfield RI @ Photon
 **Match Score:** 10.4%
 
 📍 **Location:** Smithfield, RI, US USA
@@ -1479,612 +1556,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 135. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Morristown, NJ, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4ada4a1f952be76e)
-
----
-
-## 136. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Minneapolis, MN, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=684438207f8ff675)
-
----
-
-## 137. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Portland, OR, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5c40cb05f11805da)
-
----
-
-## 138. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Baltimore, MD, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e07d5bd891a6c606)
-
----
-
-## 139. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a07373fd77eeccd1)
-
----
-
-## 140. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7a3afc239ea06678)
-
----
-
-## 141. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Rochester, NY, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d28338e69874fdad)
-
----
-
-## 142. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Philadelphia, PA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f3e23e09a24997fb)
-
----
-
-## 143. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Las Vegas, NV, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=accce0f90367422f)
-
----
-
-## 144. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Arlington, VA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9a08fd2e14ff42a8)
-
----
-
-## 145. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4d5d835351b673c4)
-
----
-
-## 146. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Mechanicsburg, PA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=019be7426dbb6af3)
-
----
-
-## 147. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4a65ede39acae4d7)
-
----
-
-## 148. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Pittsburgh, PA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ea481f2750a3f1bf)
-
----
-
-## 149. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Milwaukee, WI, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fb62779c169762cc)
-
----
-
-## 150. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Dayton, OH, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=16fb5d0118bd0fd8)
-
----
-
-## 151. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Raleigh, NC, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=047a23d0a8ed2af9)
-
----
-
-## 152. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6ee6b290959edeb4)
-
----
-
-## 153. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Cleveland, OH, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=49992ac30c26bab2)
-
----
-
-## 154. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** San Antonio, TX, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=78b1328a5fa626df)
-
----
-
-## 155. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d0ea08345f9dd4e7)
-
----
-
-## 156. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Richmond, VA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6fded9cc68810fd1)
-
----
-
-## 157. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d33a5a97a4021261)
-
----
-
-## 158. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Columbus, OH, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f40c97658e8e281a)
-
----
-
-## 159. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Princeton, NJ, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=72637c051a81f470)
-
----
-
-## 160. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Kansas City, MO, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=91c5c5a1422fe669)
-
----
-
-## 161. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Hermitage, TN, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a40a7efde29bcd71)
-
----
-
-## 162. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Jericho, NY, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c37f78e6b527bc2b)
-
----
-
-## 163. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Memphis, TN, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=27d7dfd9f367b18b)
-
----
-
-## 164. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=02e563d4401305a4)
-
----
-
-## 165. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Cincinnati, OH, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c29848e5f6b75d02)
-
----
-
-## 166. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=497d95335c73c3f8)
-
----
-
-## 167. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Davenport, IA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cc664a9805f80d8e)
-
----
-
-## 168. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Detroit, MI, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=394bef6008406869)
-
----
-
-## 169. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Jersey City, NJ, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4f4bfb1de8243686)
-
----
-
-## 170. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Stamford, CT, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2b2678a7bb77dd0e)
-
----
-
-## 171. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Louisville, KY, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d4aba292627f9e6c)
-
----
-
-## 172. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Indianapolis, IN, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=23be2716e1a7c741)
-
----
-
-## 173. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Boca Raton, FL, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b47ecf763980925f)
-
----
-
-## 174. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Lake Mary, FL, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=484fe6f966400ef1)
-
----
-
-## 175. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Hartford, CT, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=47695660103c206d)
-
----
-
-## 176. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=64e78237abd38094)
-
----
-
-## 177. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Los Angeles, CA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=eec91c1f54041347)
-
----
-
-## 178. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Costa Mesa, CA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fc59033f2d3d9663)
-
----
-
-## 179. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Miami, FL, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5cfdce7376d95c98)
-
----
-
-## 180. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=401879be632ac2cf)
-
----
-
-## 181. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** New Orleans, LA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3f6541e818d4fd25)
-
----
-
-## 182. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Jacksonville, FL, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a2bf4aab0844e010)
-
----
-
-## 183. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dc1562d49355cffc)
-
----
-
-## 184. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Denver, CO, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d90683951a6c8ba3)
-
----
-
-## 185. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Colorado Springs, CO, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b422d68469a1f25b)
-
----
-
-## 186. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
-**Match Score:** 10.4%
-
-📍 **Location:** Gilbert, AZ, US USA
-
-🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=885e5e27f5930400)
-
----
-
-## 187. Engineer/Sr Engineer, IT Software @ American Airlines
-**Match Score:** 10.4%
-
-📍 **Location:** Fort Worth, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Kafka, MongoDB, GitHub Actions, Azure DevOps, Docker, Kubernetes, SonarQube
-
-[Apply Here](https://www.indeed.com/viewjob?jk=009bef0a6c8cccee)
-
----
-
-## 188. Software Engineer II @ Waystar
-**Match Score:** 10.4%
-
-📍 **Location:** Louisville, KY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, SQL Server, Splunk, CI/CD, Azure DevOps, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f589c151e81c3302)
-
----
-
-## 189. Senior Software Engineer @ CardioOne
-**Match Score:** 10.4%
-
-📍 **Location:** CO, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, ECS, RDS, Azure, Scala, CI/CD, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=34653b24bff70a46)
-
----
-
-## 190. Loan Analytics & AI Developer @ Trellance
+## 142. Loan Analytics & AI Developer @ Trellance
 **Match Score:** 10.4%
 
 📍 **Location:** Tampa, FL, US USA
@@ -2095,7 +1567,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 191. HR -Data Scientist @ Tata Consultancy Services (TCS)
+## 143. HR -Data Scientist @ Tata Consultancy Services (TCS)
 **Match Score:** 10.4%
 
 📍 **Location:** Renton, WA, US USA
@@ -2106,7 +1578,601 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 192. Senior Database Platform Engineer @ Kraken
+## 144. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Morristown, NJ, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4ada4a1f952be76e)
+
+---
+
+## 145. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Minneapolis, MN, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=684438207f8ff675)
+
+---
+
+## 146. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Portland, OR, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5c40cb05f11805da)
+
+---
+
+## 147. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Baltimore, MD, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e07d5bd891a6c606)
+
+---
+
+## 148. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Nashville, TN, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a07373fd77eeccd1)
+
+---
+
+## 149. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7a3afc239ea06678)
+
+---
+
+## 150. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Rochester, NY, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d28338e69874fdad)
+
+---
+
+## 151. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Philadelphia, PA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f3e23e09a24997fb)
+
+---
+
+## 152. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Las Vegas, NV, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=accce0f90367422f)
+
+---
+
+## 153. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Arlington, VA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9a08fd2e14ff42a8)
+
+---
+
+## 154. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4d5d835351b673c4)
+
+---
+
+## 155. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Mechanicsburg, PA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=019be7426dbb6af3)
+
+---
+
+## 156. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4a65ede39acae4d7)
+
+---
+
+## 157. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Pittsburgh, PA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ea481f2750a3f1bf)
+
+---
+
+## 158. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Milwaukee, WI, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fb62779c169762cc)
+
+---
+
+## 159. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Dayton, OH, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=16fb5d0118bd0fd8)
+
+---
+
+## 160. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Raleigh, NC, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=047a23d0a8ed2af9)
+
+---
+
+## 161. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6ee6b290959edeb4)
+
+---
+
+## 162. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Cleveland, OH, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=49992ac30c26bab2)
+
+---
+
+## 163. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** San Antonio, TX, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=78b1328a5fa626df)
+
+---
+
+## 164. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d0ea08345f9dd4e7)
+
+---
+
+## 165. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Richmond, VA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6fded9cc68810fd1)
+
+---
+
+## 166. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d33a5a97a4021261)
+
+---
+
+## 167. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Columbus, OH, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f40c97658e8e281a)
+
+---
+
+## 168. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Princeton, NJ, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=72637c051a81f470)
+
+---
+
+## 169. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Kansas City, MO, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=91c5c5a1422fe669)
+
+---
+
+## 170. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Hermitage, TN, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a40a7efde29bcd71)
+
+---
+
+## 171. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Jericho, NY, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c37f78e6b527bc2b)
+
+---
+
+## 172. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Memphis, TN, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=27d7dfd9f367b18b)
+
+---
+
+## 173. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=02e563d4401305a4)
+
+---
+
+## 174. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Cincinnati, OH, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c29848e5f6b75d02)
+
+---
+
+## 175. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=497d95335c73c3f8)
+
+---
+
+## 176. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Davenport, IA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cc664a9805f80d8e)
+
+---
+
+## 177. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Detroit, MI, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=394bef6008406869)
+
+---
+
+## 178. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Jersey City, NJ, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4f4bfb1de8243686)
+
+---
+
+## 179. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Stamford, CT, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2b2678a7bb77dd0e)
+
+---
+
+## 180. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Louisville, KY, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d4aba292627f9e6c)
+
+---
+
+## 181. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Indianapolis, IN, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=23be2716e1a7c741)
+
+---
+
+## 182. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Boca Raton, FL, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b47ecf763980925f)
+
+---
+
+## 183. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Lake Mary, FL, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=484fe6f966400ef1)
+
+---
+
+## 184. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Hartford, CT, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=47695660103c206d)
+
+---
+
+## 185. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=64e78237abd38094)
+
+---
+
+## 186. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Los Angeles, CA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eec91c1f54041347)
+
+---
+
+## 187. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Costa Mesa, CA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fc59033f2d3d9663)
+
+---
+
+## 188. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Miami, FL, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5cfdce7376d95c98)
+
+---
+
+## 189. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=401879be632ac2cf)
+
+---
+
+## 190. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** New Orleans, LA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3f6541e818d4fd25)
+
+---
+
+## 191. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Jacksonville, FL, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a2bf4aab0844e010)
+
+---
+
+## 192. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** San Francisco, CA, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dc1562d49355cffc)
+
+---
+
+## 193. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d90683951a6c8ba3)
+
+---
+
+## 194. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Colorado Springs, CO, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b422d68469a1f25b)
+
+---
+
+## 195. Deloitte Cyber Fullstack Engineer Consultant @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Gilbert, AZ, US USA
+
+🔑 **Keywords:** S3, Azure, Google Cloud Platform, Scala, NoSQL, Azure DevOps, Maven, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=885e5e27f5930400)
+
+---
+
+## 196. Engineer/Sr Engineer, IT Software @ American Airlines
+**Match Score:** 10.4%
+
+📍 **Location:** Fort Worth, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Kafka, MongoDB, GitHub Actions, Azure DevOps, Docker, Kubernetes, SonarQube
+
+[Apply Here](https://www.indeed.com/viewjob?jk=009bef0a6c8cccee)
+
+---
+
+## 197. Senior Software Engineer @ CardioOne
+**Match Score:** 10.4%
+
+📍 **Location:** CO, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, ECS, RDS, Azure, Scala, CI/CD, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=34653b24bff70a46)
+
+---
+
+## 198. Senior Database Platform Engineer @ Kraken
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -2117,7 +2183,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 193. Data Scientist @ Skyworks Solutions
+## 199. Data Scientist @ Skyworks Solutions
 **Match Score:** 10.4%
 
 📍 **Location:** Irvine, CA, US USA
