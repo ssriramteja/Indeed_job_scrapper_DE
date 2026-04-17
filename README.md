@@ -1,18 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-17 15:52
+Last updated: 2026-04-17 16:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Primoris Services Corporation | Databricks Senior Architect | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b59ebfd8c1dc1985) | 2026-04-17 16:45 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 16:45 |
+| nan | Data Engineer | Reston, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=21d0748d1f5a35c3) | 2026-04-17 16:45 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 16:45 |
+| Chubb Insurance | Senior Software Engineer | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e7e40475db458220) | 2026-04-17 16:45 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 16:45 |
+| CaseGuard | Senior Software Engineer – Backend New | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5dbcba31adbe291) | 2026-04-17 16:45 |
 | Ciklum | Senior Back End JS Developer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4297081d7551674e) | 2026-04-17 15:52 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 15:52 |
 | Avtech Solutions INC. | Cloud Infrastructure Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3efed3eb4463e7ff) | 2026-04-17 15:52 |
 | Revvity | Senior DevOps Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d79dd43d11ec2797) | 2026-04-17 15:52 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 15:52 |
 | BMO Financial Group | Senior Cloud Engineer AI | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f62a4ead15d94e9f) | 2026-04-17 15:52 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 15:52 |
 | INNOVIM, LLC | Senior Software Engineer - NASA | Annapolis, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12bafd41a3bf798f) | 2026-04-17 14:20 |
 | Verra Mobility | Senior Cloud Network Engineer | Mesa, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=452170f7558c869a) | 2026-04-17 14:20 |
 | AvalonBay Communities | Senior Software Engineer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d4406c73c381128) | 2026-04-17 14:20 |
