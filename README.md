@@ -1,15 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-17 21:34
+Last updated: 2026-04-17 22:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 22:30 |
+| RV Soft | AI ML Engineer with Python - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=78e188b5e4e75f91) | 2026-04-17 22:30 |
+| NBCUniversal | Senior Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e2ce969ed683c99c) | 2026-04-17 22:30 |
+| Honeywell | Software Engr II - AI/ML OPS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0e6cd7c52df93861) | 2026-04-17 22:30 |
+| Securiport | Software Engineer - .NET / SES | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dbb50040f75b1f4b) | 2026-04-17 22:30 |
+| Securiport | Software Engineer (Front-End) / APIS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a6763fb716379185) | 2026-04-17 22:30 |
+| Securiport | Software Engineer - .NET / APIS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9d8818c08b495451) | 2026-04-17 22:30 |
+| Securiport | Software Engineer - .NET / TMS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=67ae3b24fcb014bc) | 2026-04-17 22:30 |
+| Okta | Senior Analytics Engineer | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea4b2f2436506efc) | 2026-04-17 22:30 |
+| Thread Bank | Data Engineer II | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fd5e7c5142ccaf15) | 2026-04-17 22:30 |
+| AT&T | Senior Data/AI Engineering | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dcaed35eb6ac63b) | 2026-04-17 22:30 |
 | FCT | Senior Data Engineer (Remote in CA) | CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=c76e322a4d3ade18) | 2026-04-17 21:34 |
 | FCT | Senior Data Engineer (Remote in CA) | Santa Ana, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=5e762c929a195ba8) | 2026-04-17 21:34 |
 | Excelque | Master Data Management (MDM) Consultant – Profisee Platform | Warren, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9b37c8ee4ee7bf02) | 2026-04-17 21:34 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 21:34 |
 | ISPOT | Sr. Software Development Engineer | Bellevue, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c75b5664a6aff70e) | 2026-04-17 21:34 |
 | ISPOT | Software Development Engineer 2 | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=54a4e4c9616d4030) | 2026-04-17 21:34 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8082666934df685b) | 2026-04-17 21:34 |
@@ -617,22 +627,6 @@ Last updated: 2026-04-17 21:34
 | GEICO | Senior Engineer - Java [Hybrid] | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a6d4850de30c8ce) | 2026-04-13 22:36 |
 | GEICO | Senior Engineer - Java [Hybrid] | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dc22d977c810f0a5) | 2026-04-13 22:36 |
 | Snowflake | Solution Engineer - Data Engineering Specialist - Bilingual (Spanish) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=92a26823ec6dae45) | 2026-04-13 22:36 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Phoenix, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d78327146c19a784) | 2026-04-13 21:40 |
-| American Airlines | Engineer/Sr Engineer, IT Data | Fort Worth, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b4341508fe1c04f1) | 2026-04-13 21:40 |
-| Tata Consultancy Services (TCS) | Data Architect | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a52f9c227e61963c) | 2026-04-13 21:40 |
-| nan | ML Infrastructure/Platform Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6121915b4e45790d) | 2026-04-13 21:40 |
-| Signet Jewelers | AWS Data Architect (Hybrid) | Coppell, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3d0e64cf5300616c) | 2026-04-13 21:40 |
-| Georgia-Pacific | Data Engineer/Sr Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f129032e6f84d172) | 2026-04-13 21:40 |
-| Mastercard | Senior Site Reliability Engineer | O'Fallon, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=10b40f262a4271a7) | 2026-04-13 21:40 |
-| Tata Consultancy Services (TCS) | Platform Architect | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac2463a9d29a6913) | 2026-04-13 21:40 |
-| Hifi | Software Engineer, Backend | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7522730840daa67d) | 2026-04-13 21:40 |
-| Cognizant | Entry-level Moment Google Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=26650088972ec91e) | 2026-04-13 21:40 |
-| Cognizant | Entry-level Moment Google Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d2f2b3088f910b3) | 2026-04-13 21:40 |
-| Cognizant | Entry-level Moment Google Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f64d013bcc57d616) | 2026-04-13 21:40 |
-| Cognizant | Entry-level Moment Google Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b6ebc35e151ef300) | 2026-04-13 21:40 |
-| Cognizant | Entry-level Moment Google Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f75b248f5282055) | 2026-04-13 21:40 |
-| AIA Contract Documents | Senior Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27b382a0dd9b7c72) | 2026-04-13 21:40 |
-| Tata Consultancy Services (TCS) | Senior Java Developer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1af4727827ae8d39) | 2026-04-13 21:40 |
 
 
 ---
