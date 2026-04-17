@@ -1,17 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-17 20:36
+Last updated: 2026-04-17 21:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| FCT | Senior Data Engineer (Remote in CA) | CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=c76e322a4d3ade18) | 2026-04-17 21:34 |
+| FCT | Senior Data Engineer (Remote in CA) | Santa Ana, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=5e762c929a195ba8) | 2026-04-17 21:34 |
+| Excelque | Master Data Management (MDM) Consultant – Profisee Platform | Warren, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9b37c8ee4ee7bf02) | 2026-04-17 21:34 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 21:34 |
+| ISPOT | Sr. Software Development Engineer | Bellevue, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c75b5664a6aff70e) | 2026-04-17 21:34 |
+| ISPOT | Software Development Engineer 2 | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=54a4e4c9616d4030) | 2026-04-17 21:34 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8082666934df685b) | 2026-04-17 21:34 |
+| Allen Control Systems | Full Stack Developer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=edfae0c05394c576) | 2026-04-17 21:34 |
+| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f6817702e6d4b9a) | 2026-04-17 21:34 |
+| Broadcom | Software Engineer | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9dc801ed3fb91585) | 2026-04-17 21:34 |
+| UMB Financial Corporation | Sr. Software Engineer (Full-stack) | Kansas City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca75ca2f1913297a) | 2026-04-17 21:34 |
 | NTT DATA | AI Engineer | Warren, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=5880998894df386b) | 2026-04-17 20:36 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 20:36 |
 | nan | Full Stack Engineer (C2H) | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e1ac176083e14a75) | 2026-04-17 20:36 |
 | TargetPath Solutions | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d8cc92d46121bf5d) | 2026-04-17 20:36 |
 | Optum | Sr. Data Analyst - (Hybrid In Office / Remote) | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c06ca39989d67fc1) | 2026-04-17 20:36 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 20:36 |
 | Cardinal Health | Senior Data Engineer, Digital Partner | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d89c34333b046cf2) | 2026-04-17 20:36 |
 | Axogen | Data Engineer | Tampa, FL, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=b61d40c84be0641c) | 2026-04-17 19:53 |
 | Millennium Systems International | Quality Assurance Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c174e4a43011a2c9) | 2026-04-17 18:45 |
@@ -624,16 +633,6 @@ Last updated: 2026-04-17 20:36
 | Cognizant | Entry-level Moment Google Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f75b248f5282055) | 2026-04-13 21:40 |
 | AIA Contract Documents | Senior Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27b382a0dd9b7c72) | 2026-04-13 21:40 |
 | Tata Consultancy Services (TCS) | Senior Java Developer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1af4727827ae8d39) | 2026-04-13 21:40 |
-| General Motors (GM) | Software Engineer | Warren, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8855ef540e8dc9e8) | 2026-04-13 20:44 |
-| Parker Management | Senior Data & Integration Engineer | Savannah, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=43381ea07fee685f) | 2026-04-13 20:44 |
-| Fitch Group | Senior Full Stack Engineer - AI | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f2cc2730bd14a3e8) | 2026-04-13 20:44 |
-| Metropolis | Senior Data Engineer | Los Angeles, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8cba17f74f3a8a87) | 2026-04-13 20:44 |
-| metropolis | Senior Data Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9fc5289c2eff0fe3) | 2026-04-13 20:44 |
-| Metropolis | Senior Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0db447e4c4e1f04b) | 2026-04-13 20:44 |
-| Metropolis | Senior Data Engineer | Nashville, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b55ea3b297953077) | 2026-04-13 20:44 |
-| Fractal Analytics | Enterprise Architect, Azure | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=890935458d36553e) | 2026-04-13 20:44 |
-| Union Bank & Trust Co. | Senior Applications Developer | Lincoln, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5622a97c0cb32459) | 2026-04-13 20:44 |
-| EX Squared | Ingeniero de Datos en Azure Cloud | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b351fe2c5b197c2) | 2026-04-13 20:44 |
 
 
 ---
