@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-17 11:43
+Last updated: 2026-04-17 12:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-17 11:43 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 11:43 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 11:43 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 12:58 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-17 12:58 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 12:58 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 12:58 |
 | JPMorganChase | Software Engineer III Java/ PySpark/AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=37bf9d965cb61989) | 2026-04-17 10:06 |
 | JPMorganChase | Data Engineer III | Jersey City, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cb62521e6f4965d9) | 2026-04-17 10:06 |
 | Intrado | Senior Software Engineer | Longmont, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=34c58d501fbb2c3c) | 2026-04-17 10:06 |
