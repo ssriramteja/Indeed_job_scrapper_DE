@@ -1,12 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-17 22:30
+Last updated: 2026-04-17 23:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 22:30 |
+| Storage Asset Management | AWS ARCHITECT - ECOMMERCE | York, PA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=f29e7767b416ec2c) | 2026-04-17 23:31 |
+| Milwaukee Tool | Data Engineer II-Promo Analytics | Menomonee Falls, WI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=157ead1d6aa5dddb) | 2026-04-17 23:31 |
+| Logic, Inc. | ^Application Support Engineer - 6249380 | Scottsdale, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=83a4a649d48f54d4) | 2026-04-17 23:31 |
+| CME Group | Data Reliability Engineer II | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8055f39b25743ac2) | 2026-04-17 23:31 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 23:31 |
+| Hilton | FinOps Engineer (contract) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6dd43ceac422ce43) | 2026-04-17 23:31 |
+| Transamerica | Specialist Software Engineering - AI Engineer | Cedar Rapids, IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fff175ae01f3ab66) | 2026-04-17 23:31 |
+| Advanced software systems | Senior QA Automation Engineer New | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b71302c76e3ba6a) | 2026-04-17 23:31 |
 | RV Soft | AI ML Engineer with Python - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=78e188b5e4e75f91) | 2026-04-17 22:30 |
 | NBCUniversal | Senior Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e2ce969ed683c99c) | 2026-04-17 22:30 |
 | Honeywell | Software Engr II - AI/ML OPS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0e6cd7c52df93861) | 2026-04-17 22:30 |
@@ -616,17 +623,6 @@ Last updated: 2026-04-17 22:30
 | LTIMindtree | Specialist - Data Engineering | Torrance, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b32f7b404908120) | 2026-04-13 23:36 |
 | JobSPOT | Full Stack Java Developer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d30905e392635ceb) | 2026-04-13 23:36 |
 | Path Robotics, Inc. | Sr. Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a0c06f03d80ad17) | 2026-04-13 23:36 |
-| Parker's Kitchen | Senior Data & Integration Engineer | Savannah, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=403fe46aec3ac312) | 2026-04-13 22:36 |
-| Mouser Electronics | Sr Web Software Developer | Mansfield, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=336c0c1bf86693ef) | 2026-04-13 22:36 |
-| ExtraMile | Data and BI Solutions Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a3e97aaf28d0108) | 2026-04-13 22:36 |
-| ExtraMile | Data and BI Solutions Developer | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=410def4f54721f1a) | 2026-04-13 22:36 |
-| ExtraMile | Data and BI Solutions Developer | AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e8c2e004e287ec36) | 2026-04-13 22:36 |
-| ExtraMile | Data and BI Solutions Developer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b55d3d996d9d61dc) | 2026-04-13 22:36 |
-| ExtraMile | Data and BI Solutions Developer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=faf1e7e97badd9a1) | 2026-04-13 22:36 |
-| GEICO | Senior Engineer - Java [Hybrid] | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f21cb7010e5a8a63) | 2026-04-13 22:36 |
-| GEICO | Senior Engineer - Java [Hybrid] | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a6d4850de30c8ce) | 2026-04-13 22:36 |
-| GEICO | Senior Engineer - Java [Hybrid] | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dc22d977c810f0a5) | 2026-04-13 22:36 |
-| Snowflake | Solution Engineer - Data Engineering Specialist - Bilingual (Spanish) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=92a26823ec6dae45) | 2026-04-13 22:36 |
 
 
 ---
