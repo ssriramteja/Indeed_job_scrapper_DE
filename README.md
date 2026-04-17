@@ -1,15 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-17 14:20
+Last updated: 2026-04-17 15:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 14:20 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-17 14:20 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 14:20 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 14:20 |
+| Ciklum | Senior Back End JS Developer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4297081d7551674e) | 2026-04-17 15:52 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 15:52 |
+| Avtech Solutions INC. | Cloud Infrastructure Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3efed3eb4463e7ff) | 2026-04-17 15:52 |
+| Revvity | Senior DevOps Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d79dd43d11ec2797) | 2026-04-17 15:52 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 15:52 |
+| BMO Financial Group | Senior Cloud Engineer AI | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f62a4ead15d94e9f) | 2026-04-17 15:52 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 15:52 |
 | INNOVIM, LLC | Senior Software Engineer - NASA | Annapolis, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12bafd41a3bf798f) | 2026-04-17 14:20 |
 | Verra Mobility | Senior Cloud Network Engineer | Mesa, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=452170f7558c869a) | 2026-04-17 14:20 |
 | AvalonBay Communities | Senior Software Engineer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d4406c73c381128) | 2026-04-17 14:20 |
@@ -619,8 +622,6 @@ Last updated: 2026-04-17 14:20
 | Tempur + Sealy | IT Data Developer | Trinity, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1d7106826dcc9d2) | 2026-04-13 17:53 |
 | Shelter Insurance | Data Engineering & Operations Specialist | Columbia, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac0786555ef46de3) | 2026-04-13 17:53 |
 | NTT DATA | Sys. Integration Sr. Specialist Advisor | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1aca172869e592e8) | 2026-04-13 16:55 |
-| TEEMA | Data Architect - C2H | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=392f54d3fade0b87) | 2026-04-13 15:08 |
-| Precisely | Senior Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27d727c9d934f72b) | 2026-04-13 15:08 |
 
 
 ---
