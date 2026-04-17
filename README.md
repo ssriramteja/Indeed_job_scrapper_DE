@@ -1,17 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-17 08:22
+Last updated: 2026-04-17 10:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III Java/ PySpark/AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=37bf9d965cb61989) | 2026-04-17 10:06 |
+| JPMorganChase | Data Engineer III | Jersey City, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cb62521e6f4965d9) | 2026-04-17 10:06 |
+| Intrado | Senior Software Engineer | Longmont, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=34c58d501fbb2c3c) | 2026-04-17 10:06 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-17 10:06 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 10:06 |
+| MDVIP Practice Management | Senior Analytics Engineer, Applied AI | Boca Raton, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55208595c4f43eca) | 2026-04-17 10:06 |
+| MDVIP LLC | Senior Analytics Engineer, Applied AI | Boca Raton, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39d31d3f8d013d09) | 2026-04-17 10:06 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 10:06 |
 | Witriol Consulting | Senior Azure Databricks Data Architect / Engineer (Public Sector) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=887e1abe8d5989a7) | 2026-04-17 08:22 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-17 08:22 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 08:22 |
 | Foodsmart | Senior Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43644f263e6cc15a) | 2026-04-17 08:22 |
 | WSP | AI / ML Engineer - Image Analytics | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=89c910b7dbb4b17b) | 2026-04-17 08:22 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 08:22 |
 | Press Ganey | Senior Software Engineer ( Java) | Decatur, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0924474206e422da) | 2026-04-17 08:22 |
 | Ronin Consulting | Software Engineer | Franklin, TN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9c393b57d6602344) | 2026-04-17 06:31 |
 | Advait | Full Stack Developer (AWS/Azure/.Net/React/Angular/SQL) | Brooklyn, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fb4f95bd6e7ce591) | 2026-04-17 06:31 |
@@ -616,8 +621,6 @@ Last updated: 2026-04-17 08:22
 | Mirion | Sr. Data Engineer, Data Platform | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56369bdeadc2da7f) | 2026-04-13 11:10 |
 | Poshmark | Sr. Engineer, Machine Learning | Redwood City, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7529728374eb4213) | 2026-04-13 11:10 |
 | Poshmark | Senior Site Reliability Engineer, (Production Excellence) | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f706322313ef04c9) | 2026-04-13 11:10 |
-| SwapsTech | DevOps Engineer | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4012ccd366ad2714) | 2026-04-13 09:28 |
-| NTT DATA | Site Reliability Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c2444333527505cd) | 2026-04-13 09:28 |
 
 
 ---
