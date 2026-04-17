@@ -1,20 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-17 18:45
+Last updated: 2026-04-17 19:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 18:45 |
+| Axogen | Data Engineer | Tampa, FL, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=b61d40c84be0641c) | 2026-04-17 19:53 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 19:53 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 19:53 |
 | Millennium Systems International | Quality Assurance Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c174e4a43011a2c9) | 2026-04-17 18:45 |
 | Ragle Inc | Data Engineer | North Richland Hills, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fe761f1068f25661) | 2026-04-17 18:45 |
 | Cutsforth | Full Stack Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8250b1164fbcace2) | 2026-04-17 18:45 |
 | Tommy Car Wash | Cloud Infrastructure Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d448c5ab4722a01) | 2026-04-17 18:45 |
 | k1x | Senior Quality Assurance Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60943689647471d7) | 2026-04-17 18:45 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 18:45 |
 | Texas A&M University | Cloud/DevOps Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=31d5ea9eaf910d9d) | 2026-04-17 18:45 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 18:45 |
 | United Vein & Vascular Centers | Senior Data Engineer/ Architecture (ADF & Databricks) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7a9e3b0a9c943d41) | 2026-04-17 17:42 |
 | Common Sail Investment Group | Data Engineer | Brighton, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c780af08dcbda8c9) | 2026-04-17 17:42 |
 | Monks | Senior Back End Developer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6bcdec629f0e3a3a) | 2026-04-17 17:42 |
@@ -629,13 +629,6 @@ Last updated: 2026-04-17 18:45
 | Fractal Analytics | Enterprise Architect, Azure | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=890935458d36553e) | 2026-04-13 20:44 |
 | Union Bank & Trust Co. | Senior Applications Developer | Lincoln, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5622a97c0cb32459) | 2026-04-13 20:44 |
 | EX Squared | Ingeniero de Datos en Azure Cloud | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b351fe2c5b197c2) | 2026-04-13 20:44 |
-| ICF | Senior AWS Cloud Engineer - (US - Remote) | Reston, VA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=03406469e62daa61) | 2026-04-13 19:03 |
-| Halvik | Sr. Data Engineer | Vienna, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=83db8f50bcabcd87) | 2026-04-13 19:03 |
-| Purpose Financial | Data Operations Engineer | Greenville, SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=25e97510ea5ed940) | 2026-04-13 19:03 |
-| Purpose Financial | Sr. Data Engineer | Greenville, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ed57d3552234a972) | 2026-04-13 19:03 |
-| Purpose Financial | Sr. Software Engineer - Full Stack | Greenville, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f675cb5511b3a92e) | 2026-04-13 19:03 |
-| Purpose Financial | Data Engineer | Greenville, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6e4bcd62747c894) | 2026-04-13 19:03 |
-| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=90079673f1f3efb8) | 2026-04-13 19:03 |
 
 
 ---
