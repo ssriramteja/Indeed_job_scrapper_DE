@@ -1,17 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-17 16:45
+Last updated: 2026-04-17 17:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| United Vein & Vascular Centers | Senior Data Engineer/ Architecture (ADF & Databricks) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7a9e3b0a9c943d41) | 2026-04-17 17:42 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 17:42 |
+| Common Sail Investment Group | Data Engineer | Brighton, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c780af08dcbda8c9) | 2026-04-17 17:42 |
+| Monks | Senior Back End Developer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6bcdec629f0e3a3a) | 2026-04-17 17:42 |
+| Cohere Health | Senior Forward-Deployed Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cb64897e01ace612) | 2026-04-17 17:42 |
+| AAA Central Penn | Business Intelligence Developer | Harrisburg, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1a31f6cd5ddd20bc) | 2026-04-17 17:42 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 17:42 |
+| Triwave Solutions Inc | QA Engineer / Automation Tester | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01628e06adc6c80b) | 2026-04-17 17:42 |
+| AAA Central Penn | Business Intelligence Analyst | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed22c50a30b76424) | 2026-04-17 17:42 |
+| Reyes Coca-Cola Bottling | Machine Learning Engineer | Niles, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8c9edf8ff72cde8) | 2026-04-17 17:42 |
+| BMO Financial Group | Senior Cloud Engineer AI | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=552def578ffb19f8) | 2026-04-17 17:42 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 17:42 |
+| CaseGuard | Senior Software Engineer – Backend | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbb676fb8407e921) | 2026-04-17 17:42 |
 | Primoris Services Corporation | Databricks Senior Architect | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b59ebfd8c1dc1985) | 2026-04-17 16:45 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 16:45 |
 | nan | Data Engineer | Reston, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=21d0748d1f5a35c3) | 2026-04-17 16:45 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 16:45 |
 | Chubb Insurance | Senior Software Engineer | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e7e40475db458220) | 2026-04-17 16:45 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 16:45 |
 | CaseGuard | Senior Software Engineer – Backend New | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5dbcba31adbe291) | 2026-04-17 16:45 |
 | Ciklum | Senior Back End JS Developer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4297081d7551674e) | 2026-04-17 15:52 |
 | Avtech Solutions INC. | Cloud Infrastructure Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3efed3eb4463e7ff) | 2026-04-17 15:52 |
@@ -625,7 +635,6 @@ Last updated: 2026-04-17 16:45
 | POOLCORP | Data Engineer II | Covington, LA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bdef7c235b1898fd) | 2026-04-13 17:53 |
 | Tempur + Sealy | IT Data Developer | Trinity, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1d7106826dcc9d2) | 2026-04-13 17:53 |
 | Shelter Insurance | Data Engineering & Operations Specialist | Columbia, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac0786555ef46de3) | 2026-04-13 17:53 |
-| NTT DATA | Sys. Integration Sr. Specialist Advisor | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1aca172869e592e8) | 2026-04-13 16:55 |
 
 
 ---
