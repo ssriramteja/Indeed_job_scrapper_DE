@@ -1,11 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-16 23:33
+Last updated: 2026-04-17 01:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Range Resources | Sr Data Engineer | Fort Worth, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=904977d520bdf5b0) | 2026-04-17 01:46 |
+| Range Resources | Sr Data Engineer | Fort Worth, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2e3188795e6538ca) | 2026-04-17 01:46 |
+| Ahead | Senior Technical Consultant - Data & Analytics | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b11754d25d1def69) | 2026-04-17 01:46 |
+| Par Pacific Holdings | Data Analyst | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=432bf674bdc9d04a) | 2026-04-17 01:46 |
+| Cotiviti | Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4aae9352fc29e45e) | 2026-04-17 01:46 |
+| GM Financial | Software Development Engineer II | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=99c121bf83d8e9cc) | 2026-04-17 01:46 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-17 01:46 |
+| Foodsmart | Software Development Engineer in Test (SDET) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fd964a7f985c7f20) | 2026-04-17 01:46 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 01:46 |
+| EchoStar | Senior Data Scientist | Littleton, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f59c09f5f61dc700) | 2026-04-17 01:46 |
+| Sightline Payments | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=604026874aa33ee4) | 2026-04-17 01:46 |
+| D.A. Davidson Companies | Azure Cloud Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=67989aa6e10bd139) | 2026-04-17 01:46 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 01:46 |
+| Tenex.Ai | AI Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc4cd9c33b66b366) | 2026-04-17 01:46 |
+| Commonwealth of Massachusetts | Sr. Data Visualization Developer - Contractor | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f667ff007768704) | 2026-04-17 01:46 |
+| Kraken | Senior Database Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52aa342dcce6e0db) | 2026-04-17 01:46 |
+| Trellance | Loan Analytics & AI Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8996432c624d690f) | 2026-04-17 01:46 |
+| Skyworks Solutions | Data Scientist | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e89891e4a957f47b) | 2026-04-17 01:46 |
 | NavitasPartners | Senior Data Engineer - SDE 26-04140 | Long Island City, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d98bfdf8c981815d) | 2026-04-16 23:33 |
 | NavitasPartners | Senior Data Engineer - SDE 26-04140 | Brooklyn, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=08b278bfb38191e0) | 2026-04-16 23:33 |
 | NavitasPartners | Senior Data Engineer - SDE 26-04140 | Bronx, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f397f88e84805b3d) | 2026-04-16 23:33 |
@@ -13,11 +31,8 @@ Last updated: 2026-04-16 23:33
 | Visa | Software Development Engineer- Product Reliability Engineering | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4db1e66cf2c5955) | 2026-04-16 23:33 |
 | Visa | Software Development Engineer- Product Reliability Engineering | Highlands Ranch, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=941a8e269aca7287) | 2026-04-16 23:33 |
 | Carnival Cruise Line | Engineer, Data Platform & Analytics | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ec3bf6ef8f52ebe5) | 2026-04-16 23:33 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-16 23:33 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-16 23:33 |
 | Astronaut Party Inc. | Remote Full-Stack Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c53661df7aef299c) | 2026-04-16 23:33 |
 | AutoZone | Senior Systems Engineer (Commercial) | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00a3623a3bc10b68) | 2026-04-16 23:33 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-16 23:33 |
 | EXL Service | Senior Big Data Engineer | US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=12cc73e885e46940) | 2026-04-16 22:32 |
 | Invesco | Sr. Eng., Eng Services | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f602056d9e789b25) | 2026-04-16 22:32 |
 | Spectrio LLC | Senior Back-End Engineer | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1bdc93d3e13ebdd0) | 2026-04-16 22:32 |
