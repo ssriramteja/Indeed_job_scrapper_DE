@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-17 04:43
+Last updated: 2026-04-17 06:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ronin Consulting | Software Engineer | Franklin, TN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9c393b57d6602344) | 2026-04-17 06:31 |
+| Advait | Full Stack Developer (AWS/Azure/.Net/React/Angular/SQL) | Brooklyn, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fb4f95bd6e7ce591) | 2026-04-17 06:31 |
+| HCA Healthcare | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7421e24a70553f85) | 2026-04-17 06:31 |
+| HCA Healthcare | Senior Data Engineer - APIs | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aabd22e742757776) | 2026-04-17 06:31 |
+| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-17 06:31 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 06:31 |
+| NTT DATA | Data Engineer (On-Site Dallas) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba872060c9bb68b6) | 2026-04-17 06:31 |
+| NTT DATA | Data Engineer (On-Site Dallas) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a18554fdc47f587) | 2026-04-17 06:31 |
+| Guidewire | Software Engineer III - Cloud Platform | San Mateo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5eb066c0ccadcb8e) | 2026-04-17 06:31 |
+| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 06:31 |
 | Steampunk | Platform Engineer | McLean, VA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=fcba0d5ccb7003c8) | 2026-04-17 04:43 |
 | Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Richmond, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b193c2a47deffbb4) | 2026-04-17 04:43 |
 | Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Mechanicsburg, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=fd242c3c990deedb) | 2026-04-17 04:43 |
@@ -67,15 +77,12 @@ Last updated: 2026-04-17 04:43
 | Thread Bank | Data Engineer II | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=942e6a2e8d11f901) | 2026-04-17 04:43 |
 | nan | Power BI - Data Specialist | Hammond, LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c4d77fd7ee06f384) | 2026-04-17 04:43 |
 | 4P Consulting Inc. | Data Engineer IV- 4P/619 | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=221bb6ab9cf8567d) | 2026-04-17 04:43 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=741939e568ff083b) | 2026-04-17 04:43 |
 | WEX Inc. | Sr. Application Security Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ee5e44d5f43b9ae9) | 2026-04-17 04:43 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 04:43 |
 | DUO2 LLC | Snowflake Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf5dbb8dbe3266af) | 2026-04-17 04:43 |
 | Deloitte | Software Engineer Analyst | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=15860cd51098fe2d) | 2026-04-17 04:43 |
 | Fisher Investments | Quality Automation Engineer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4427659810ca0330) | 2026-04-17 04:43 |
 | Shannon & Wilson Inc. | Data Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fcece50ae2a44664) | 2026-04-17 04:43 |
 | Palo Alto Networks | Sr FedRAMP Cloud Engineer | Santa Clara, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c15b25df8b30bc1) | 2026-04-17 04:43 |
-| Simplot Company | Business Intelligence Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6591940ddbd8809) | 2026-04-17 04:43 |
 | Tata Consultancy Services (TCS) | Senior Java Developer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6aef2152855300a) | 2026-04-17 04:43 |
 | Deloitte | Deloitte Cyber Fullstack Engineer Consultant | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ada4a1f952be76e) | 2026-04-17 04:43 |
 | Deloitte | Deloitte Cyber Fullstack Engineer Consultant | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=684438207f8ff675) | 2026-04-17 04:43 |
@@ -608,7 +615,6 @@ Last updated: 2026-04-17 04:43
 | SwapsTech | DevOps Engineer | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4012ccd366ad2714) | 2026-04-13 09:28 |
 | NTT DATA | Site Reliability Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c2444333527505cd) | 2026-04-13 09:28 |
 | NTT DATA | Site Reliability Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee60578e0abfdb96) | 2026-04-13 07:10 |
-| Robert Half | Software Engineer III | San Ramon, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9f47248faf88df34) | 2026-04-13 04:52 |
 
 
 ---
