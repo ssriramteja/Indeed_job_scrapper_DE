@@ -1,14 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-17 19:53
+Last updated: 2026-04-17 20:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | AI Engineer | Warren, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=5880998894df386b) | 2026-04-17 20:36 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 20:36 |
+| nan | Full Stack Engineer (C2H) | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e1ac176083e14a75) | 2026-04-17 20:36 |
+| TargetPath Solutions | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d8cc92d46121bf5d) | 2026-04-17 20:36 |
+| Optum | Sr. Data Analyst - (Hybrid In Office / Remote) | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c06ca39989d67fc1) | 2026-04-17 20:36 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 20:36 |
+| Cardinal Health | Senior Data Engineer, Digital Partner | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d89c34333b046cf2) | 2026-04-17 20:36 |
 | Axogen | Data Engineer | Tampa, FL, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=b61d40c84be0641c) | 2026-04-17 19:53 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 19:53 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c0a369d519a555) | 2026-04-17 19:53 |
 | Millennium Systems International | Quality Assurance Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c174e4a43011a2c9) | 2026-04-17 18:45 |
 | Ragle Inc | Data Engineer | North Richland Hills, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fe761f1068f25661) | 2026-04-17 18:45 |
 | Cutsforth | Full Stack Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8250b1164fbcace2) | 2026-04-17 18:45 |
