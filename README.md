@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 21:26
+Last updated: 2026-04-18 22:25
 
 ### 🚀 Daily Job Matches
 
@@ -630,17 +630,6 @@ Last updated: 2026-04-18 21:26
 | CapTech Consulting | Solutions Architect | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34987f860a590c53) | 2026-04-14 23:36 |
 | Illumen Group | Data Support Engineer | Stafford, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92cd661cf5a17182) | 2026-04-14 22:38 |
 | RNGD | Data Engineer | Metairie, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1a3ecae4bdb7e4b) | 2026-04-14 22:38 |
-| Tata Consultancy Services (TCS) | Engineer | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4478c55d459f6590) | 2026-04-14 21:43 |
-| PowerSecure Inc. | Data Solutions Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ead7a3e6b1951593) | 2026-04-14 21:43 |
-| Tata Consultancy Services (TCS) | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f193a5a41b80d59d) | 2026-04-14 21:43 |
-| AllCloud | Machine Learning Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8a0467416d94bb26) | 2026-04-14 21:43 |
-| Intone Networks | Aveva PI Software Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=42dd34631f8a4a3a) | 2026-04-14 21:43 |
-| Colgate-Palmolive | Machine Learning Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bf17dcf23ea3201f) | 2026-04-14 21:43 |
-| adonis | Senior Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5621c4e542d4639) | 2026-04-14 21:43 |
-| Tata Consultancy Services (TCS) | AI Developer | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5fc89b8593855079) | 2026-04-14 21:43 |
-| MachineMetrics, Inc. | Senior Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80173e5fca484063) | 2026-04-14 21:43 |
-| Cognizant | Senior Python Developer | Bentonville, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0855be7539fc7c3f) | 2026-04-14 21:43 |
-| Charles Schwab | Angular / JAVA Full Stack Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fcfd60088aef43d3) | 2026-04-14 21:43 |
 
 
 ---
