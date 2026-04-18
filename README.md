@@ -1,16 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-17 23:31
+Last updated: 2026-04-18 01:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Centurion Consulting Group | Sr. Application Developer | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=968fc98d620e2089) | 2026-04-18 01:26 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-18 01:26 |
+| nan | MLOps Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=84f96f202d778253) | 2026-04-18 01:26 |
+| nan | MLOps Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f2618c9f668eecbb) | 2026-04-18 01:26 |
+| nan | MLOps Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=de4db56fc9e099e7) | 2026-04-18 01:26 |
+| nan | Artificial Intelligence Integration Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dcfc317f07ec3caa) | 2026-04-18 01:26 |
+| nan | Artificial Intelligence Integration Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c44539ed64115952) | 2026-04-18 01:26 |
+| nan | Artificial Intelligence Integration Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=098d9fe6c69049e5) | 2026-04-18 01:26 |
+| nan | Artificial Intelligence Cybersecurity Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=72d6efe907b7366e) | 2026-04-18 01:26 |
+| Paychex, Inc. | Data Engineer | Cincinnati, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9eca9c2208420492) | 2026-04-18 01:26 |
+| Data Society | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1152b9186635df1a) | 2026-04-18 01:26 |
+| Life Advantage | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ef10f68a09aff48) | 2026-04-18 01:26 |
+| DATAIKU | Data Engineer II New | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=26fdda68d597e001) | 2026-04-18 01:26 |
+| LMG Technology Services LLC | Systems Analyst 2 (529601691) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a2af64e3b78cd69) | 2026-04-18 01:26 |
+| Cayuse | Software Development Engineer in Test (SDET) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0a625dbb46473068) | 2026-04-18 01:26 |
+| University of Virginia | Data Engineer- Microsoft Fabric | Charlottesville, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7985ea515039ffad) | 2026-04-18 01:26 |
+| Optum | Data Engineer | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed4b3cab37699f28) | 2026-04-18 01:26 |
+| Randa Corp | Sr Software Engineer | Rosemont, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=efdbabb40f26b1d0) | 2026-04-18 01:26 |
 | Storage Asset Management | AWS ARCHITECT - ECOMMERCE | York, PA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=f29e7767b416ec2c) | 2026-04-17 23:31 |
 | Milwaukee Tool | Data Engineer II-Promo Analytics | Menomonee Falls, WI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=157ead1d6aa5dddb) | 2026-04-17 23:31 |
 | Logic, Inc. | ^Application Support Engineer - 6249380 | Scottsdale, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=83a4a649d48f54d4) | 2026-04-17 23:31 |
 | CME Group | Data Reliability Engineer II | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8055f39b25743ac2) | 2026-04-17 23:31 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-17 23:31 |
 | Hilton | FinOps Engineer (contract) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6dd43ceac422ce43) | 2026-04-17 23:31 |
 | Transamerica | Specialist Software Engineering - AI Engineer | Cedar Rapids, IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fff175ae01f3ab66) | 2026-04-17 23:31 |
 | Advanced software systems | Senior QA Automation Engineer New | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b71302c76e3ba6a) | 2026-04-17 23:31 |
@@ -618,11 +635,6 @@ Last updated: 2026-04-17 23:31
 | Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3fa7b3be8f9a0fb) | 2026-04-14 01:47 |
 | Match Group | Senior Machine Learning Engineer, Trust & Safety | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fb78589d2a39e4df) | 2026-04-14 01:47 |
 | Rev Agency | Database Administrator | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0eeab1f3de2ae00d) | 2026-04-14 01:47 |
-| nan | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=72b0fdeb9512d34e) | 2026-04-13 23:36 |
-| Energy Services Group | Senior DevOps Cloud Engineer | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a0b78c747cdda3eb) | 2026-04-13 23:36 |
-| LTIMindtree | Specialist - Data Engineering | Torrance, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b32f7b404908120) | 2026-04-13 23:36 |
-| JobSPOT | Full Stack Java Developer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d30905e392635ceb) | 2026-04-13 23:36 |
-| Path Robotics, Inc. | Sr. Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a0c06f03d80ad17) | 2026-04-13 23:36 |
 
 
 ---
