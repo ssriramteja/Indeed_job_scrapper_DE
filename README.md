@@ -1,13 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 01:26
+Last updated: 2026-04-18 04:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Accenture | ^Application Support Engineer - 6249380 | Scottsdale, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e4136e0f889e1c8b) | 2026-04-18 04:25 |
+| Diverse Agile Solutions | Senior IT Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=68e8bf364a87bcd8) | 2026-04-18 04:25 |
+| Snowflake | Senior PS Sales Solutions Architect | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2cc1792488693d8a) | 2026-04-18 04:25 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-18 04:25 |
+| American Airlines | Engineer/ Sr Engineer, IT AI | Fort Worth, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bd18edcb36ac9a04) | 2026-04-18 04:25 |
+| Equifax | Senior Software Engineer | St. Louis, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7a00846a02b4b2ea) | 2026-04-18 04:25 |
+| Okland Construction | Business Intelligence Developer II/III | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=95e16a542c86ff4d) | 2026-04-18 04:25 |
+| Veryon | Data Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=43792765a0db7bc2) | 2026-04-18 04:25 |
+| Deloitte | Google AI Architect | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f28739fe08c3eac0) | 2026-04-18 04:25 |
+| Deloitte | Google AI Architect | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03c4608a1787de15) | 2026-04-18 04:25 |
+| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e545552d097b871) | 2026-04-18 04:25 |
+| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Baltimore, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=20b224b645b547d9) | 2026-04-18 04:25 |
+| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Bethesda, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a95a3a6011314bfa) | 2026-04-18 04:25 |
+| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Falls Church, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=debfb044aeec9a6a) | 2026-04-18 04:25 |
+| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a7b6b341f6c861ff) | 2026-04-18 04:25 |
+| Securiport | Software Engineer - .NET / SES | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e36402d35a0e5ca) | 2026-04-18 04:25 |
+| Securiport | Software Engineer - .NET / APIS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0d7fadfe6ffe1a94) | 2026-04-18 04:25 |
+| Securiport | Software Engineer (Front-End) / APIS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1e4af396a404624b) | 2026-04-18 04:25 |
+| Securiport | Software Engineer - .NET / TMS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c98eb9f81b0fe69d) | 2026-04-18 04:25 |
+| Equifax | Front End UI Developer (Angular) | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c2894d188b4dc4e4) | 2026-04-18 04:25 |
+| LiveRamp | Senior SRE | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=07d3a17d409d4603) | 2026-04-18 04:25 |
 | Centurion Consulting Group | Sr. Application Developer | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=968fc98d620e2089) | 2026-04-18 01:26 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-18 01:26 |
 | nan | MLOps Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=84f96f202d778253) | 2026-04-18 01:26 |
 | nan | MLOps Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f2618c9f668eecbb) | 2026-04-18 01:26 |
 | nan | MLOps Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=de4db56fc9e099e7) | 2026-04-18 01:26 |
@@ -628,13 +648,6 @@ Last updated: 2026-04-18 01:26
 | RNGD | Data Engineer | Metairie, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f60859d558e50585) | 2026-04-14 04:39 |
 | People People | Senior Software Engineer (Full stack) | Kansas City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7430c49b9feec362) | 2026-04-14 04:39 |
 | Cognizant | Senior Python Developer (Cloud – GCP/Azure) (Remote) | Bentonville, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4f629c97031e8ed) | 2026-04-14 04:39 |
-| ID.me | Software Development Engineer - Credential API | Mountain View, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=88c29ef248c94981) | 2026-04-14 01:47 |
-| Synergy BIS | AWS Platform Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dbf74cf2b06a65f1) | 2026-04-14 01:47 |
-| NTT DATA | Sys. Integration Sr. Specialist Advisor | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=43e632ec94c82b3b) | 2026-04-14 01:47 |
-| Pluto TV | Senior Data Engineer | West Hollywood, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46f1c7ebf3cba3e3) | 2026-04-14 01:47 |
-| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3fa7b3be8f9a0fb) | 2026-04-14 01:47 |
-| Match Group | Senior Machine Learning Engineer, Trust & Safety | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fb78589d2a39e4df) | 2026-04-14 01:47 |
-| Rev Agency | Database Administrator | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0eeab1f3de2ae00d) | 2026-04-14 01:47 |
 
 
 ---
