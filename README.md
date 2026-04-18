@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 09:39
+Last updated: 2026-04-18 10:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-18 10:33 |
+| Snowflake | Senior Software Engineer - Production Control Plane | Menlo Park, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5919ca76700b393) | 2026-04-18 10:33 |
 | Personify Health | Sr Cloud Data Architect | Remote, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=b2e55d4c15c9b5aa) | 2026-04-18 09:39 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-18 09:39 |
 | Intermountain Health | Data Architect Senior | West Valley City, UT, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=c90830f129f4d81b) | 2026-04-18 07:55 |
 | CVS Health | Data Engineer | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9cd6695f94078b3a) | 2026-04-18 07:55 |
 | CVS Health | Data Engineer | Lincoln, NE, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=08adaf0840841479) | 2026-04-18 07:55 |
@@ -687,7 +688,6 @@ Last updated: 2026-04-18 09:39
 | Universal Background Screening | DevOps Engineer (Remote) | Phoenix, AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=c305c75d9c817c14) | 2026-04-14 11:53 |
 | EPAM Systems | Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb067c7ee9c6e671) | 2026-04-14 11:53 |
 | EPAM Systems | Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de4543a914df9789) | 2026-04-14 11:53 |
-| State of Connecticut | Senior DevOps Cloud Engineer (Information Technology Subject Matter Expert) | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d267e859d5950f5a) | 2026-04-14 10:08 |
 
 
 ---
