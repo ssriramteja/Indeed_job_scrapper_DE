@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 22:25
+Last updated: 2026-04-18 23:27
 
 ### 🚀 Daily Job Matches
 
@@ -628,8 +628,6 @@ Last updated: 2026-04-18 22:25
 | CapTech Consulting | Solutions Architect | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=085872f73883326c) | 2026-04-14 23:36 |
 | CapTech Consulting | Solutions Architect | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa79af047e73dc3e) | 2026-04-14 23:36 |
 | CapTech Consulting | Solutions Architect | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34987f860a590c53) | 2026-04-14 23:36 |
-| Illumen Group | Data Support Engineer | Stafford, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92cd661cf5a17182) | 2026-04-14 22:38 |
-| RNGD | Data Engineer | Metairie, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1a3ecae4bdb7e4b) | 2026-04-14 22:38 |
 
 
 ---
