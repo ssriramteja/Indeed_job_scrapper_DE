@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 12:40
+Last updated: 2026-04-18 13:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Micron Technology | Sr Data Scientist | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c69e0cd00bf5d75b) | 2026-04-18 13:57 |
+| Intuit | Machine Learning Engineer II Recommendation Systems- Credit Karma | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c95ddf0fac17d5df) | 2026-04-18 13:57 |
 | Optum | Quality Engineer | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=51a155a2ec6a3efc) | 2026-04-18 12:40 |
 | Snowflake | Senior Software Engineer - Production Control Plane | Menlo Park, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5919ca76700b393) | 2026-04-18 10:33 |
 | Personify Health | Sr Cloud Data Architect | Remote, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=b2e55d4c15c9b5aa) | 2026-04-18 09:39 |
