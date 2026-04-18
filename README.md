@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 18:35
+Last updated: 2026-04-18 19:35
 
 ### 🚀 Daily Job Matches
 
@@ -652,22 +652,6 @@ Last updated: 2026-04-18 18:35
 | John Deere | 2026009 - Software Engineer | Moline, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45e1a444de87fc2c) | 2026-04-14 20:44 |
 | Citrin Cooperman | Microsoft Modern Work Consultant | Carlsbad, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11d034c0b8905492) | 2026-04-14 20:44 |
 | RAM Professional Services, LLC | Maximo Application Architect | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=38110d7445c1f6a3) | 2026-04-14 20:44 |
-| Vantage Data Centers | Mid-Level Data Engineer, Global | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c717630a440c614c) | 2026-04-14 19:21 |
-| nan | Data Engineer | Beacon, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=81ac0513866a1f53) | 2026-04-14 19:21 |
-| Bounteous | Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=38299c9de7d6d6a0) | 2026-04-14 19:21 |
-| NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Cloud Storage) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e07865da969c4a3) | 2026-04-14 19:21 |
-| The Hartford | Sr. Data Engineer - Hybrid | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=745ab30cde1846a7) | 2026-04-14 19:21 |
-| NetApp | NetApp Emerging Talent - Software Engineer (Cloud Storage) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b72bdc255bbf6f8) | 2026-04-14 19:21 |
-| DataSync | SRE - Application Support (Batch/Cloud) | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=58415ab6bf31526f) | 2026-04-14 19:21 |
-| Gallagher | Data Product Owner | Rolling Meadows, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a33815bde90512ef) | 2026-04-14 19:21 |
-| S R International Inc | Senior Geospatial Solutions Architect | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4968b1c75b8ea91) | 2026-04-14 19:21 |
-| LTIMindtree | Senior Specialist - Architecture | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=18e84b525a6d6412) | 2026-04-14 19:21 |
-| LTIMindtree | Senior Specialist - Architecture | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff045a7655f5a9c1) | 2026-04-14 19:21 |
-| LTIMindtree | Senior Specialist - Architecture | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=38d9a99d3fb7e65b) | 2026-04-14 19:21 |
-| GEICO | Senior Analytics Engineer, Product | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55bfb1f792ebb8b4) | 2026-04-14 19:21 |
-| GEICO | Senior Analytics Engineer, Product | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3759bc62b11d8fa) | 2026-04-14 19:21 |
-| GEICO | Senior Analytics Engineer, Product | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24e834cbb69e3e31) | 2026-04-14 19:21 |
-| GovDocs | Senior Data Engineer: $150-160,000, MN Based, Hybrid - 2 Days in Office | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8acefc49a07f2d39) | 2026-04-14 19:21 |
 
 
 ---
