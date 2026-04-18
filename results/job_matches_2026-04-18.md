@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-18
 
-**Total Jobs Found:** 65
+**Total Jobs Found:** 54
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -313,18 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. AI ML Engineer with Python - Remote @ RV Soft
-**Match Score:** 13.9%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Vertex AI, Hadoop, Spark, Scala, NoSQL, ETL, Talend
-
-[Apply Here](https://www.indeed.com/viewjob?jk=78e188b5e4e75f91)
-
----
-
-## 30. Business Intelligence Developer II/III @ Okland Construction
+## 29. Business Intelligence Developer II/III @ Okland Construction
 **Match Score:** 13.9%
 
 📍 **Location:** Salt Lake City, UT, US USA
@@ -335,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. MLOps Engineer @ nan
+## 30. MLOps Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -346,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. MLOps Engineer @ nan
+## 31. MLOps Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -357,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. MLOps Engineer @ nan
+## 32. MLOps Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -368,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Artificial Intelligence Integration Engineer @ nan
+## 33. Artificial Intelligence Integration Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -379,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Artificial Intelligence Integration Engineer @ nan
+## 34. Artificial Intelligence Integration Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -390,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Artificial Intelligence Integration Engineer @ nan
+## 35. Artificial Intelligence Integration Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -401,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Artificial Intelligence Cybersecurity Engineer @ nan
+## 36. Artificial Intelligence Cybersecurity Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -412,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Data Engineer @ Veryon
+## 37. Data Engineer @ Veryon
 **Match Score:** 13.2%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -423,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 38. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -434,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 39. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Baltimore, MD, US USA
@@ -445,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 40. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -456,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 41. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Falls Church, VA, US USA
@@ -467,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 42. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -478,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Data Engineer @ Paychex, Inc.
+## 43. Data Engineer @ Paychex, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -489,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Specialist Software Engineering - AI Engineer @ Transamerica
+## 44. Specialist Software Engineering - AI Engineer @ Transamerica
 **Match Score:** 12.5%
 
 📍 **Location:** Cedar Rapids, IA, US USA
@@ -500,18 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Software Engr II - AI/ML OPS Engineer @ Honeywell
-**Match Score:** 12.5%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** AWS, Azure, Databricks, GCP, Vertex AI, ETL, MLOps, MLflow, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0e6cd7c52df93861)
-
----
-
-## 47. Bioinformatics Cloud Engineer @ nan
+## 45. Bioinformatics Cloud Engineer @ nan
 **Match Score:** 12.5%
 
 📍 **Location:** Denver, CO, US USA
@@ -522,62 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Sr. Software Development Engineer @ ISPOT
-**Match Score:** 12.5%
-
-📍 **Location:** Bellevue, WA, US USA
-
-🔑 **Keywords:** AWS, Lambda, Redshift, S3, IAM, RDS, Scala, Snowflake, MySQL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c75b5664a6aff70e)
-
----
-
-## 49. Software Engineer - .NET / SES @ Securiport
-**Match Score:** 12.5%
-
-📍 **Location:** Reston, VA, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Kafka, SQL Server, MySQL, Data Modeling, CI/CD, Jenkins, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dbb50040f75b1f4b)
-
----
-
-## 50. Software Engineer (Front-End) / APIS @ Securiport
-**Match Score:** 12.5%
-
-📍 **Location:** Reston, VA, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, Scala, Kafka, SQL Server, MySQL, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a6763fb716379185)
-
----
-
-## 51. Software Engineer - .NET / APIS @ Securiport
-**Match Score:** 12.5%
-
-📍 **Location:** Reston, VA, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Kafka, SQL Server, MySQL, Data Modeling, CI/CD, Jenkins, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9d8818c08b495451)
-
----
-
-## 52. Software Engineer - .NET / TMS @ Securiport
-**Match Score:** 12.5%
-
-📍 **Location:** Reston, VA, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Kafka, SQL Server, MySQL, Data Modeling, CI/CD, Jenkins, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=67ae3b24fcb014bc)
-
----
-
-## 53. Senior Software Engineer - Production Control Plane @ Snowflake
+## 46. Senior Software Engineer - Production Control Plane @ Snowflake
 **Match Score:** 11.8%
 
 📍 **Location:** Menlo Park, CA, US USA
@@ -588,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Data Engineer @ Data Society
+## 47. Data Engineer @ Data Society
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -599,51 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Senior Analytics Engineer @ Okta
-**Match Score:** 11.8%
-
-📍 **Location:** Bellevue, WA, US USA
-
-🔑 **Keywords:** AWS, RDS, Spark, PySpark, Scala, Snowflake, Data Modeling, Dimensional Modeling, ETL, dbt
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ea4b2f2436506efc)
-
----
-
-## 56. Software Development Engineer 2 @ ISPOT
-**Match Score:** 11.8%
-
-📍 **Location:** Bellevue, WA, US USA
-
-🔑 **Keywords:** AWS, Lambda, Redshift, S3, SQS, RDS, Scala, Snowflake, MySQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=54a4e4c9616d4030)
-
----
-
-## 57. Sr Software Development Engineer - Hasbro Direct @ Hasbro, Inc.
-**Match Score:** 11.8%
-
-📍 **Location:** Renton, WA, US USA
-
-🔑 **Keywords:** AWS, Lambda, SQS, SNS, API Gateway, RDS, Scala, DynamoDB, NoSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8aa444433d6aad59)
-
----
-
-## 58. Full Stack Developer @ Allen Control Systems
-**Match Score:** 11.8%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, MySQL, CI/CD, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=edfae0c05394c576)
-
----
-
-## 59. Front End UI Developer (Angular) @ Equifax
+## 48. Front End UI Developer (Angular) @ Equifax
 **Match Score:** 11.8%
 
 📍 **Location:** Alpharetta, GA, US USA
@@ -654,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. Data Engineer @ Life Advantage
+## 49. Data Engineer @ Life Advantage
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -665,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Data Engineer II New @ DATAIKU
+## 50. Data Engineer II New @ DATAIKU
 **Match Score:** 11.1%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -676,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. Data Engineer @ Optum
+## 51. Data Engineer @ Optum
 **Match Score:** 10.4%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -687,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Machine Learning Engineer II Recommendation Systems- Credit Karma @ Intuit
+## 52. Machine Learning Engineer II Recommendation Systems- Credit Karma @ Intuit
 **Match Score:** 10.4%
 
 📍 **Location:** Oakland, CA, US USA
@@ -698,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Senior Software Engineer @ St. David's HealthCare
+## 53. Senior Software Engineer @ St. David's HealthCare
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -709,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Sr Software Engineer @ Randa Corp
+## 54. Sr Software Engineer @ Randa Corp
 **Match Score:** 10.4%
 
 📍 **Location:** Rosemont, IL, US USA

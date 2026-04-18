@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 20:27
+Last updated: 2026-04-18 21:26
 
 ### 🚀 Daily Job Matches
 
@@ -641,18 +641,6 @@ Last updated: 2026-04-18 20:27
 | MachineMetrics, Inc. | Senior Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80173e5fca484063) | 2026-04-14 21:43 |
 | Cognizant | Senior Python Developer | Bentonville, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0855be7539fc7c3f) | 2026-04-14 21:43 |
 | Charles Schwab | Angular / JAVA Full Stack Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fcfd60088aef43d3) | 2026-04-14 21:43 |
-| Goldman Sachs | Asset & Wealth Management-Cloud Engineer-Associate-Dallas | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=452922c279cc36e9) | 2026-04-14 20:44 |
-| Aimpoint Digital | Senior Data Engineer 2026 - US,UK | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c3d01fdc4061dd2a) | 2026-04-14 20:44 |
-| Chevron | Senior Data Architect | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5f9a309f4efa98f8) | 2026-04-14 20:44 |
-| Fractal Analytics | Enterprise Architect, Azure | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a406a8e4ff0f952d) | 2026-04-14 20:44 |
-| The Cummings Agency | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=91c4fcda77fa7425) | 2026-04-14 20:44 |
-| RJW Logistics | Senior DevSecOps Engineer | Bolingbrook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef58fd9ad5dd15ff) | 2026-04-14 20:44 |
-| Empirx Health | Senior Software Development Engineer in Test | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a6e81f16ad428334) | 2026-04-14 20:44 |
-| Core BTS | Senior Dynatrace Observability Engineer | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=504c2eb153af2545) | 2026-04-14 20:44 |
-| Western Union | Sr. Infrastructure, Architect | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=719c318bdfe0b93a) | 2026-04-14 20:44 |
-| John Deere | 2026009 - Software Engineer | Moline, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45e1a444de87fc2c) | 2026-04-14 20:44 |
-| Citrin Cooperman | Microsoft Modern Work Consultant | Carlsbad, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11d034c0b8905492) | 2026-04-14 20:44 |
-| RAM Professional Services, LLC | Maximo Application Architect | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=38110d7445c1f6a3) | 2026-04-14 20:44 |
 
 
 ---
