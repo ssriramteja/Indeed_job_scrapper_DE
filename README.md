@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 17:30
+Last updated: 2026-04-18 18:35
 
 ### 🚀 Daily Job Matches
 
@@ -668,17 +668,6 @@ Last updated: 2026-04-18 17:30
 | GEICO | Senior Analytics Engineer, Product | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3759bc62b11d8fa) | 2026-04-14 19:21 |
 | GEICO | Senior Analytics Engineer, Product | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24e834cbb69e3e31) | 2026-04-14 19:21 |
 | GovDocs | Senior Data Engineer: $150-160,000, MN Based, Hybrid - 2 Days in Office | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8acefc49a07f2d39) | 2026-04-14 19:21 |
-| TargetPath Solutions | AWS DevOps Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=ddaefa90999433c3) | 2026-04-14 18:00 |
-| Marvell Technology | AI/ML Data Engineer | Santa Clara, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=db6fecac436797a9) | 2026-04-14 18:00 |
-| AmeriLife | Data Scientist | Clearwater, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d10f6b2d0d1b341d) | 2026-04-14 18:00 |
-| C WATKINS & ASSOCIATES | Systems Operations Engineer | Sterling, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2f30f60cc3c36e72) | 2026-04-14 18:00 |
-| SpotOn | Senior Data Engineer (Clickhouse) | Royal Oak, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=15a32bf71ba33ffa) | 2026-04-14 18:00 |
-| SpotOn | Senior Data Engineer (Clickhouse) | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4d3db28285f41c46) | 2026-04-14 18:00 |
-| SpotOn | Senior Data Engineer (Clickhouse) | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3989068a8778fb79) | 2026-04-14 18:00 |
-| Optum | Sr Mgr Data Engineering | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=03e707506ab6122a) | 2026-04-14 18:00 |
-| Beghou Consulting | Consultant - Data Management (copy) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1aec6c41726ff12) | 2026-04-14 18:00 |
-| Beghou Consulting | Consultant - Data Management | Princeton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb7f4eae35304f9f) | 2026-04-14 18:00 |
-| Redwood Logistics | Senior Software Engineer (AI Enablement) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48c5c7e7de56c6fb) | 2026-04-14 18:00 |
 
 
 ---
