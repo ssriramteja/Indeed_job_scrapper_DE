@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 14:37
+Last updated: 2026-04-18 15:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fairfax County Government | Data Engineer (Business Analyst IV) | Fairfax, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cbbe1cdbf051393e) | 2026-04-18 15:30 |
 | nan | Bioinformatics Cloud Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=70f3b60b1d9a1fb2) | 2026-04-18 14:37 |
 | Micron Technology | Sr Data Scientist | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c69e0cd00bf5d75b) | 2026-04-18 13:57 |
 | Intuit | Machine Learning Engineer II Recommendation Systems- Credit Karma | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c95ddf0fac17d5df) | 2026-04-18 13:57 |
@@ -683,11 +684,6 @@ Last updated: 2026-04-18 14:37
 | CarMax | Engineer II, Data | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3de9b476cdbf12e9) | 2026-04-14 16:56 |
 | Press Ganey | Senior Software Engineer ( Java) | Decatur, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=338db949c564e874) | 2026-04-14 16:56 |
 | PNC Financial Services Group | Security Specialist Senior | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d7897b7e4bad68e) | 2026-04-14 16:56 |
-| Chevron | Senior Data Architect | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=85e3c201f23e6a22) | 2026-04-14 15:07 |
-| nan | Sr Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ae18e6a8860be459) | 2026-04-14 15:07 |
-| Frida | Data Engineer | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8900daeea8c64c35) | 2026-04-14 15:07 |
-| Disney Experiences | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7a27a8acf3bc1bc8) | 2026-04-14 15:07 |
-| American business solutions inc | Senior Geospatial Solutions Architect | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f71870dc0f7bc53) | 2026-04-14 15:07 |
 
 
 ---
