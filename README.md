@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 07:55
+Last updated: 2026-04-18 08:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-18 08:39 |
 | Intermountain Health | Data Architect Senior | West Valley City, UT, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=c90830f129f4d81b) | 2026-04-18 07:55 |
 | CVS Health | Data Engineer | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9cd6695f94078b3a) | 2026-04-18 07:55 |
 | CVS Health | Data Engineer | Lincoln, NE, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=08adaf0840841479) | 2026-04-18 07:55 |
@@ -22,7 +23,6 @@ Last updated: 2026-04-18 07:55
 | CVS Health | Data Engineer | Saint Paul, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a21028d3a360007d) | 2026-04-18 07:55 |
 | CVS Health | Data Engineer | Oklahoma City, OK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d471a0fda1a14faf) | 2026-04-18 07:55 |
 | CVS Health | Data Engineer | Madison, WI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b540b572849987d6) | 2026-04-18 07:55 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-18 07:55 |
 | CVS Health | Senior Java Software Engineer | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fad382752e6c45e8) | 2026-04-18 07:55 |
 | CVS Health | Senior Java Software Engineer | Springfield, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9613eb2ade378a18) | 2026-04-18 07:55 |
 | CVS Health | Senior Java Software Engineer | Pierre, SD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c45f8f708d459eac) | 2026-04-18 07:55 |
@@ -687,11 +687,6 @@ Last updated: 2026-04-18 07:55
 | EPAM Systems | Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb067c7ee9c6e671) | 2026-04-14 11:53 |
 | EPAM Systems | Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de4543a914df9789) | 2026-04-14 11:53 |
 | State of Connecticut | Senior DevOps Cloud Engineer (Information Technology Subject Matter Expert) | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d267e859d5950f5a) | 2026-04-14 10:08 |
-| KPRMT Global solutions | Salesforce Architect | Arlington, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=573c4c858dde7f71) | 2026-04-14 08:22 |
-| Boeing | Computing Architect (Mid-Level or Senior) | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8bda91a521ece52f) | 2026-04-14 08:22 |
-| TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=087dc81db4c0ead7) | 2026-04-14 08:22 |
-| DS Technologies Inc | Engineer II – Big Data / ETL Engineer (Apptio) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=be9de9e1e7dbc172) | 2026-04-14 08:22 |
-| NTT DATA | API Architect | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=51953c5002c89827) | 2026-04-14 08:22 |
 
 
 ---
