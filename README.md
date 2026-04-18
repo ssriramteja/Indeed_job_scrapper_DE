@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 08:39
+Last updated: 2026-04-18 09:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-18 08:39 |
+| Personify Health | Sr Cloud Data Architect | Remote, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=b2e55d4c15c9b5aa) | 2026-04-18 09:39 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-18 09:39 |
 | Intermountain Health | Data Architect Senior | West Valley City, UT, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=c90830f129f4d81b) | 2026-04-18 07:55 |
 | CVS Health | Data Engineer | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9cd6695f94078b3a) | 2026-04-18 07:55 |
 | CVS Health | Data Engineer | Lincoln, NE, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=08adaf0840841479) | 2026-04-18 07:55 |

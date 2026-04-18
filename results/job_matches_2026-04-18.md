@@ -1,18 +1,18 @@
 # 🎯 Daily Job Matches — 2026-04-18
 
-**Total Jobs Found:** 141
+**Total Jobs Found:** 131
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. AWS ARCHITECT - ECOMMERCE @ Storage Asset Management
-**Match Score:** 20.1%
+## 1. Sr Cloud Data Architect @ Personify Health
+**Match Score:** 22.2%
 
-📍 **Location:** York, PA, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, API Gateway, ECS, RDS, Azure, Data Factory
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, S3, ECS, RDS, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f29e7767b416ec2c)
+[Apply Here](https://www.indeed.com/viewjob?jk=b2e55d4c15c9b5aa)
 
 ---
 
@@ -225,29 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. ^Application Support Engineer - 6249380 @ Accenture
-**Match Score:** 17.4%
-
-📍 **Location:** Scottsdale, AZ, US USA
-
-🔑 **Keywords:** AWS, Lambda, Step Functions, S3, SQS, SNS, API Gateway, ECS, IAM, RDS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e4136e0f889e1c8b)
-
----
-
-## 22. ^Application Support Engineer - 6249380 @ Logic, Inc.
-**Match Score:** 17.4%
-
-📍 **Location:** Scottsdale, AZ, US USA
-
-🔑 **Keywords:** AWS, Lambda, Step Functions, S3, SQS, SNS, API Gateway, ECS, IAM, RDS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=83a4a649d48f54d4)
-
----
-
-## 23. Senior IT Data Engineer @ Diverse Agile Solutions
+## 21. Senior IT Data Engineer @ Diverse Agile Solutions
 **Match Score:** 16.7%
 
 📍 **Location:** Washington, DC, US USA
@@ -258,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Databricks Senior Architect @ Primoris Services Corporation
+## 22. Databricks Senior Architect @ Primoris Services Corporation
 **Match Score:** 16.7%
 
 📍 **Location:** Dallas, TX, US USA
@@ -269,18 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Master Data Management (MDM) Consultant – Profisee Platform @ Excelque
-**Match Score:** 16.7%
-
-📍 **Location:** Warren, NJ, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Medallion Architecture, Spark, PySpark, Scala, Snowflake, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9b37c8ee4ee7bf02)
-
----
-
-## 26. Data Reliability Engineer II @ CME Group
+## 23. Data Reliability Engineer II @ CME Group
 **Match Score:** 15.3%
 
 📍 **Location:** Chicago, IL, US USA
@@ -291,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Senior PS Sales Solutions Architect @ Snowflake
+## 24. Senior PS Sales Solutions Architect @ Snowflake
 **Match Score:** 15.3%
 
 📍 **Location:** Denver, CO, US USA
@@ -302,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Sr Data Engineer @ McLane Company
+## 25. Sr Data Engineer @ McLane Company
 **Match Score:** 14.6%
 
 📍 **Location:** Austin, TX, US USA
@@ -313,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Engineer/ Sr Engineer, IT AI @ American Airlines
+## 26. Engineer/ Sr Engineer, IT AI @ American Airlines
 **Match Score:** 14.6%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -324,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Full Stack Engineer (C2H) @ nan
+## 27. Full Stack Engineer (C2H) @ nan
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -335,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. FinOps Engineer (contract) @ Hilton
+## 28. FinOps Engineer (contract) @ Hilton
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -346,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Senior Data Engineer @ NBCUniversal
+## 29. Senior Data Engineer @ NBCUniversal
 **Match Score:** 13.9%
 
 📍 **Location:** New York, NY, US USA
@@ -357,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Data Engineer (Brighton MI Office) @ Common Sail Investment Group
+## 30. Data Engineer (Brighton MI Office) @ Common Sail Investment Group
 **Match Score:** 13.9%
 
 📍 **Location:** Brighton, MI, US USA
@@ -368,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Data Engineer @ nan
+## 31. Data Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Reston, VA, US USA
@@ -379,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Senior Software Engineer @ Equifax
+## 32. Senior Software Engineer @ Equifax
 **Match Score:** 13.9%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -390,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. AI ML Engineer with Python - Remote @ RV Soft
+## 33. AI ML Engineer with Python - Remote @ RV Soft
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -401,546 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Raleigh, NC, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fad382752e6c45e8)
-
----
-
-## 38. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Springfield, IL, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9613eb2ade378a18)
-
----
-
-## 39. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Pierre, SD, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c45f8f708d459eac)
-
----
-
-## 40. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Montgomery, AL, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2ae74230ecf77083)
-
----
-
-## 41. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Cheyenne, WY, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=045625da123bda7e)
-
----
-
-## 42. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Boise, ID, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=93ac2cb123da9211)
-
----
-
-## 43. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Olympia, WA, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=491a518418efe5a9)
-
----
-
-## 44. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Albany, NY, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fb028d0699e5bc93)
-
----
-
-## 45. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Salem, OR, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ffd55914d5888185)
-
----
-
-## 46. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Jefferson City, MO, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7dcc0e7131432336)
-
----
-
-## 47. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Little Rock, AR, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=73d3be4b73d920a9)
-
----
-
-## 48. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Providence, RI, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=deec05139dabc08a)
-
----
-
-## 49. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Trenton, NJ, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5550bb7ebf355ee1)
-
----
-
-## 50. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Lansing, MI, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b3d8d6745d3062a8)
-
----
-
-## 51. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=61d40288b2e57fcb)
-
----
-
-## 52. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Annapolis, MD, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ed4280fc6cb28b71)
-
----
-
-## 53. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Tallahassee, FL, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=880d7fb467e52950)
-
----
-
-## 54. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Santa Fe, NM, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dc5fd1213b3b70c6)
-
----
-
-## 55. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Jackson, MS, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3f84b5e1fdb16e36)
-
----
-
-## 56. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Madison, WI, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a74f10105ffe043c)
-
----
-
-## 57. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fd07d601c92ea5ee)
-
----
-
-## 58. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Carson City, NV, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=64ce5f46b8cd62e0)
-
----
-
-## 59. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Salt Lake City, UT, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=16e23fae3491401a)
-
----
-
-## 60. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Augusta, ME, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5d86d173e08711fc)
-
----
-
-## 61. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Columbia, SC, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b9e35e676e19ee50)
-
----
-
-## 62. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Charleston, WV, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0b08ce97d36c85db)
-
----
-
-## 63. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Harrisburg, PA, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7a684bacb673ad34)
-
----
-
-## 64. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Baton Rouge, LA, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=db4798812a7c7af3)
-
----
-
-## 65. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Oklahoma City, OK, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7698457fecc49833)
-
----
-
-## 66. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Bismarck, ND, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7ce005b127c47f1d)
-
----
-
-## 67. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Denver, CO, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=122c1ea0ed721077)
-
----
-
-## 68. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Frankfort, KY, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=98c6521a48928704)
-
----
-
-## 69. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Sacramento, CA, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0409883540b04233)
-
----
-
-## 70. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=83979e77477c5e5f)
-
----
-
-## 71. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Indianapolis, IN, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=08ec46aa032e8c1c)
-
----
-
-## 72. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Des Moines, IA, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2a86bbd8963f5612)
-
----
-
-## 73. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Phoenix, AZ, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ef9ba3fa89a3f602)
-
----
-
-## 74. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Saint Paul, MN, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d3a46e3d7b83b55b)
-
----
-
-## 75. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Richmond, VA, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3ad20d3e2ae67d22)
-
----
-
-## 76. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Dover, DE, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9576bfc3d6045509)
-
----
-
-## 77. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Concord, NH, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a1f2c9d2e9f9ed9f)
-
----
-
-## 78. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Hartford, CT, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a5e05164837c0217)
-
----
-
-## 79. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5a46d719bf637e15)
-
----
-
-## 80. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Montpelier, VT, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c9d233e71f6c04c8)
-
----
-
-## 81. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Helena, MT, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2fc0b0f239ddef48)
-
----
-
-## 82. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Topeka, KS, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=520fc4e5451ee86e)
-
----
-
-## 83. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1df2a526495b0fdc)
-
----
-
-## 84. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Lincoln, NE, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=298689cf6faee8a0)
-
----
-
-## 85. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Columbus, OH, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=89ef5f7a924752df)
-
----
-
-## 86. Business Intelligence Developer II/III @ Okland Construction
+## 34. Business Intelligence Developer II/III @ Okland Construction
 **Match Score:** 13.9%
 
 📍 **Location:** Salt Lake City, UT, US USA
@@ -951,7 +379,546 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. MLOps Engineer @ nan
+## 35. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Raleigh, NC, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fad382752e6c45e8)
+
+---
+
+## 36. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Springfield, IL, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9613eb2ade378a18)
+
+---
+
+## 37. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Pierre, SD, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c45f8f708d459eac)
+
+---
+
+## 38. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Montgomery, AL, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2ae74230ecf77083)
+
+---
+
+## 39. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Cheyenne, WY, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=045625da123bda7e)
+
+---
+
+## 40. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Boise, ID, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=93ac2cb123da9211)
+
+---
+
+## 41. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Olympia, WA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=491a518418efe5a9)
+
+---
+
+## 42. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Albany, NY, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fb028d0699e5bc93)
+
+---
+
+## 43. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Salem, OR, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ffd55914d5888185)
+
+---
+
+## 44. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Jefferson City, MO, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7dcc0e7131432336)
+
+---
+
+## 45. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Little Rock, AR, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=73d3be4b73d920a9)
+
+---
+
+## 46. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Providence, RI, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=deec05139dabc08a)
+
+---
+
+## 47. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Trenton, NJ, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5550bb7ebf355ee1)
+
+---
+
+## 48. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Lansing, MI, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b3d8d6745d3062a8)
+
+---
+
+## 49. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=61d40288b2e57fcb)
+
+---
+
+## 50. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Annapolis, MD, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ed4280fc6cb28b71)
+
+---
+
+## 51. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Tallahassee, FL, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=880d7fb467e52950)
+
+---
+
+## 52. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Santa Fe, NM, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dc5fd1213b3b70c6)
+
+---
+
+## 53. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Jackson, MS, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3f84b5e1fdb16e36)
+
+---
+
+## 54. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Madison, WI, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a74f10105ffe043c)
+
+---
+
+## 55. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fd07d601c92ea5ee)
+
+---
+
+## 56. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Carson City, NV, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=64ce5f46b8cd62e0)
+
+---
+
+## 57. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Salt Lake City, UT, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=16e23fae3491401a)
+
+---
+
+## 58. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Augusta, ME, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5d86d173e08711fc)
+
+---
+
+## 59. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Columbia, SC, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b9e35e676e19ee50)
+
+---
+
+## 60. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Charleston, WV, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0b08ce97d36c85db)
+
+---
+
+## 61. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Harrisburg, PA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7a684bacb673ad34)
+
+---
+
+## 62. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Baton Rouge, LA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=db4798812a7c7af3)
+
+---
+
+## 63. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Oklahoma City, OK, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7698457fecc49833)
+
+---
+
+## 64. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Bismarck, ND, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7ce005b127c47f1d)
+
+---
+
+## 65. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=122c1ea0ed721077)
+
+---
+
+## 66. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Frankfort, KY, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=98c6521a48928704)
+
+---
+
+## 67. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Sacramento, CA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0409883540b04233)
+
+---
+
+## 68. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Washington, DC, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=83979e77477c5e5f)
+
+---
+
+## 69. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Indianapolis, IN, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=08ec46aa032e8c1c)
+
+---
+
+## 70. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Des Moines, IA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2a86bbd8963f5612)
+
+---
+
+## 71. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Phoenix, AZ, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ef9ba3fa89a3f602)
+
+---
+
+## 72. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Saint Paul, MN, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d3a46e3d7b83b55b)
+
+---
+
+## 73. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Richmond, VA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3ad20d3e2ae67d22)
+
+---
+
+## 74. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Dover, DE, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9576bfc3d6045509)
+
+---
+
+## 75. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Concord, NH, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a1f2c9d2e9f9ed9f)
+
+---
+
+## 76. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Hartford, CT, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a5e05164837c0217)
+
+---
+
+## 77. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Nashville, TN, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5a46d719bf637e15)
+
+---
+
+## 78. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Montpelier, VT, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c9d233e71f6c04c8)
+
+---
+
+## 79. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Helena, MT, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2fc0b0f239ddef48)
+
+---
+
+## 80. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Topeka, KS, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=520fc4e5451ee86e)
+
+---
+
+## 81. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1df2a526495b0fdc)
+
+---
+
+## 82. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Lincoln, NE, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=298689cf6faee8a0)
+
+---
+
+## 83. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Columbus, OH, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=89ef5f7a924752df)
+
+---
+
+## 84. MLOps Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -962,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. MLOps Engineer @ nan
+## 85. MLOps Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -973,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. MLOps Engineer @ nan
+## 86. MLOps Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -984,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Artificial Intelligence Integration Engineer @ nan
+## 87. Artificial Intelligence Integration Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -995,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Artificial Intelligence Integration Engineer @ nan
+## 88. Artificial Intelligence Integration Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -1006,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Artificial Intelligence Integration Engineer @ nan
+## 89. Artificial Intelligence Integration Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -1017,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Artificial Intelligence Cybersecurity Engineer @ nan
+## 90. Artificial Intelligence Cybersecurity Engineer @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -1028,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Data Engineer @ Veryon
+## 91. Data Engineer @ Veryon
 **Match Score:** 13.2%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -1039,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Senior Data Engineer @ TargetPath Solutions
+## 92. Senior Data Engineer @ TargetPath Solutions
 **Match Score:** 13.2%
 
 📍 **Location:** US USA
@@ -1050,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Cloud Infrastructure Engineer @ Avtech Solutions INC.
+## 93. Cloud Infrastructure Engineer @ Avtech Solutions INC.
 **Match Score:** 13.2%
 
 📍 **Location:** Austin, TX, US USA
@@ -1061,29 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Google AI Architect @ Deloitte
-**Match Score:** 13.2%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, BigQuery, Vertex AI, Scala, MLOps, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f28739fe08c3eac0)
-
----
-
-## 98. Google AI Architect @ Deloitte
-**Match Score:** 13.2%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, BigQuery, Vertex AI, Scala, MLOps, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=03c4608a1787de15)
-
----
-
-## 99. Data Engineer @ Ragle Inc
+## 94. Data Engineer @ Ragle Inc
 **Match Score:** 13.2%
 
 📍 **Location:** North Richland Hills, TX, US USA
@@ -1094,7 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 95. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -1105,7 +1050,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 96. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Baltimore, MD, US USA
@@ -1116,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 97. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -1127,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 98. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Falls Church, VA, US USA
@@ -1138,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 104. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
+## 99. Senior Data Engineer - Substantiation Platform Team *Hybrid* @ GEICO
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -1149,7 +1094,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 105. Data Engineer @ Paychex, Inc.
+## 100. Data Engineer @ Paychex, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -1160,7 +1105,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 106. Specialist Software Engineering - AI Engineer @ Transamerica
+## 101. Specialist Software Engineering - AI Engineer @ Transamerica
 **Match Score:** 12.5%
 
 📍 **Location:** Cedar Rapids, IA, US USA
@@ -1171,7 +1116,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 107. Software Engr II - AI/ML OPS Engineer @ Honeywell
+## 102. Software Engr II - AI/ML OPS Engineer @ Honeywell
 **Match Score:** 12.5%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1182,7 +1127,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 108. Sr. Software Development Engineer @ ISPOT
+## 103. Sr. Software Development Engineer @ ISPOT
 **Match Score:** 12.5%
 
 📍 **Location:** Bellevue, WA, US USA
@@ -1193,7 +1138,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 109. Software Engineer - .NET / SES @ Securiport
+## 104. Software Engineer - .NET / SES @ Securiport
 **Match Score:** 12.5%
 
 📍 **Location:** Reston, VA, US USA
@@ -1204,7 +1149,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 110. Software Engineer (Front-End) / APIS @ Securiport
+## 105. Software Engineer (Front-End) / APIS @ Securiport
 **Match Score:** 12.5%
 
 📍 **Location:** Reston, VA, US USA
@@ -1215,7 +1160,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 111. Software Engineer - .NET / APIS @ Securiport
+## 106. Software Engineer - .NET / APIS @ Securiport
 **Match Score:** 12.5%
 
 📍 **Location:** Reston, VA, US USA
@@ -1226,7 +1171,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 112. Software Engineer - .NET / TMS @ Securiport
+## 107. Software Engineer - .NET / TMS @ Securiport
 **Match Score:** 12.5%
 
 📍 **Location:** Reston, VA, US USA
@@ -1237,18 +1182,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 113. Senior Software Engineer @ Intrado
-**Match Score:** 12.5%
-
-📍 **Location:** Longmont, CO, US USA
-
-🔑 **Keywords:** IAM, RDS, Azure, Scala, MySQL, NoSQL, CI/CD, Jenkins, GitHub Actions, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=34c58d501fbb2c3c)
-
----
-
-## 114. Data Engineer @ Data Society
+## 108. Data Engineer @ Data Society
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -1259,7 +1193,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 115. Senior Analytics Engineer @ Okta
+## 109. Senior Analytics Engineer @ Okta
 **Match Score:** 11.8%
 
 📍 **Location:** Bellevue, WA, US USA
@@ -1270,7 +1204,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 116. Sr. Data Analyst - (Hybrid In Office / Remote) @ Optum
+## 110. Sr. Data Analyst - (Hybrid In Office / Remote) @ Optum
 **Match Score:** 11.8%
 
 📍 **Location:** Little Rock, AR, US USA
@@ -1281,7 +1215,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 117. Cloud Infrastructure Engineer @ Tommy Car Wash
+## 111. Cloud Infrastructure Engineer @ Tommy Car Wash
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -1292,7 +1226,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 118. Software Development Engineer 2 @ ISPOT
+## 112. Software Development Engineer 2 @ ISPOT
 **Match Score:** 11.8%
 
 📍 **Location:** Bellevue, WA, US USA
@@ -1303,7 +1237,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 119. Front End UI Developer (Angular) @ Equifax
+## 113. Front End UI Developer (Angular) @ Equifax
 **Match Score:** 11.8%
 
 📍 **Location:** Alpharetta, GA, US USA
@@ -1314,7 +1248,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 120. Full Stack Developer @ Allen Control Systems
+## 114. Full Stack Developer @ Allen Control Systems
 **Match Score:** 11.8%
 
 📍 **Location:** Austin, TX, US USA
@@ -1325,18 +1259,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 121. Business Intelligence Developer @ AAA Central Penn
-**Match Score:** 11.8%
-
-📍 **Location:** Harrisburg, PA, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Synapse Analytics, Databricks, SQL Server, Data Modeling, Dimensional Modeling, Star Schema, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1a31f6cd5ddd20bc)
-
----
-
-## 122. Engineer/Sr Engineer, IT Software @ American Airlines
+## 115. Engineer/Sr Engineer, IT Software @ American Airlines
 **Match Score:** 11.8%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -1347,7 +1270,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 123. Data Engineer @ Life Advantage
+## 116. Business Intelligence Developer @ AAA Central Penn
+**Match Score:** 11.8%
+
+📍 **Location:** Harrisburg, PA, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Synapse Analytics, Databricks, SQL Server, Data Modeling, Dimensional Modeling, Star Schema, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1a31f6cd5ddd20bc)
+
+---
+
+## 117. Data Engineer @ Life Advantage
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -1358,7 +1292,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 124. Data Engineer II New @ DATAIKU
+## 118. Data Engineer II New @ DATAIKU
 **Match Score:** 11.1%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -1369,7 +1303,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 125. Senior Data Engineer, Digital Partner @ Cardinal Health
+## 119. Senior Data Engineer, Digital Partner @ Cardinal Health
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -1380,40 +1314,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 126. Systems Analyst 2 (529601691) @ LMG Technology Services LLC
-**Match Score:** 11.1%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Maven, Docker, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1a2af64e3b78cd69)
-
----
-
-## 127. Senior QA Automation Engineer New @ Advanced software systems
-**Match Score:** 11.1%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Maven, Docker, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4b71302c76e3ba6a)
-
----
-
-## 128. Business Intelligence Analyst @ AAA Central Penn
-**Match Score:** 11.1%
-
-📍 **Location:** Harrisburg, PA, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Scala, Snowflake, Data Modeling, Dimensional Modeling, Kimball, Snowflake Schema, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ed22c50a30b76424)
-
----
-
-## 129. Sr Associate Engineer/Engineer, IT Software @ American Airlines
+## 120. Sr Associate Engineer/Engineer, IT Software @ American Airlines
 **Match Score:** 11.1%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -1424,7 +1325,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 130. Senior Software Engineer @ Chubb Insurance
+## 121. Senior Software Engineer @ Chubb Insurance
 **Match Score:** 11.1%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -1435,18 +1336,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 131. Software Development Engineer in Test (SDET) @ Cayuse
+## 122. Business Intelligence Analyst @ AAA Central Penn
 **Match Score:** 11.1%
 
-📍 **Location:** Chicago, IL, US USA
+📍 **Location:** Harrisburg, PA, US USA
 
-🔑 **Keywords:** Azure, Scala, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Terraform, Docker, Kubernetes, Jenkins
+🔑 **Keywords:** RDS, Azure, Data Factory, Scala, Snowflake, Data Modeling, Dimensional Modeling, Kimball, Snowflake Schema, ETL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0a625dbb46473068)
+[Apply Here](https://www.indeed.com/viewjob?jk=ed22c50a30b76424)
 
 ---
 
-## 132. Data Engineer- Microsoft Fabric @ University of Virginia
+## 123. Data Engineer- Microsoft Fabric @ University of Virginia
 **Match Score:** 10.4%
 
 📍 **Location:** Charlottesville, VA, US USA
@@ -1457,7 +1358,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 133. Data Engineer @ Optum
+## 124. Data Engineer @ Optum
 **Match Score:** 10.4%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -1468,7 +1369,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 134. Cloud/DevOps Engineer @ Texas A&M University
+## 125. Cloud/DevOps Engineer @ Texas A&M University
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
@@ -1479,7 +1380,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 135. Senior Cloud Engineer AI @ BMO Financial Group
+## 126. Senior Cloud Engineer AI @ BMO Financial Group
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -1490,7 +1391,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 136. Senior Cloud Engineer AI @ BMO Financial Group
+## 127. Senior Cloud Engineer AI @ BMO Financial Group
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -1501,7 +1402,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 137. Software Engineer @ Broadcom
+## 128. Software Engineer @ Broadcom
 **Match Score:** 10.4%
 
 📍 **Location:** CA, US USA
@@ -1512,7 +1413,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 138. Machine Learning Engineer @ Reyes Coca-Cola Bottling
+## 129. Machine Learning Engineer @ Reyes Coca-Cola Bottling
 **Match Score:** 10.4%
 
 📍 **Location:** Niles, IL, US USA
@@ -1523,18 +1424,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 139. Senior Data/AI Engineering @ AT&T
-**Match Score:** 10.4%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, Scala, Kafka, Snowflake, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3dcaed35eb6ac63b)
-
----
-
-## 140. Sr Software Engineer @ Randa Corp
+## 130. Sr Software Engineer @ Randa Corp
 **Match Score:** 10.4%
 
 📍 **Location:** Rosemont, IL, US USA
@@ -1545,7 +1435,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 141. Senior Software Engineer - NASA @ INNOVIM, LLC
+## 131. Senior Software Engineer - NASA @ INNOVIM, LLC
 **Match Score:** 10.4%
 
 📍 **Location:** Annapolis, MD, US USA
