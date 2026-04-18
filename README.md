@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 16:29
+Last updated: 2026-04-18 17:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e04623dda5e67ab) | 2026-04-18 17:30 |
 | Fairfax County Government | Data Engineer (Business Analyst IV) | Fairfax, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cbbe1cdbf051393e) | 2026-04-18 15:30 |
 | nan | Bioinformatics Cloud Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=70f3b60b1d9a1fb2) | 2026-04-18 14:37 |
 | Micron Technology | Sr Data Scientist | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c69e0cd00bf5d75b) | 2026-04-18 13:57 |
@@ -678,12 +679,6 @@ Last updated: 2026-04-18 16:29
 | Beghou Consulting | Consultant - Data Management (copy) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1aec6c41726ff12) | 2026-04-14 18:00 |
 | Beghou Consulting | Consultant - Data Management | Princeton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb7f4eae35304f9f) | 2026-04-14 18:00 |
 | Redwood Logistics | Senior Software Engineer (AI Enablement) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48c5c7e7de56c6fb) | 2026-04-14 18:00 |
-| Villanova University | Enterprise Data Architect | Villanova, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4acccdfc23951f0d) | 2026-04-14 16:56 |
-| Vantage Data Centers | Mid-Level Engineer, Global | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9e006537abb3ec5c) | 2026-04-14 16:56 |
-| CarMax | Engineer II, Data | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5c70a1cb7dff6fb6) | 2026-04-14 16:56 |
-| CarMax | Engineer II, Data | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3de9b476cdbf12e9) | 2026-04-14 16:56 |
-| Press Ganey | Senior Software Engineer ( Java) | Decatur, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=338db949c564e874) | 2026-04-14 16:56 |
-| PNC Financial Services Group | Security Specialist Senior | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d7897b7e4bad68e) | 2026-04-14 16:56 |
 
 
 ---
