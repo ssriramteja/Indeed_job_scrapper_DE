@@ -1,12 +1,77 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 06:08
+Last updated: 2026-04-18 07:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-18 06:08 |
+| Intermountain Health | Data Architect Senior | West Valley City, UT, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=c90830f129f4d81b) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9cd6695f94078b3a) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Lincoln, NE, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=08adaf0840841479) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Sacramento, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b4ae4c57e6ebaab4) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Springfield, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=837fcbc8d1c2ec0e) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Austin, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9f409661e7bf91a9) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Little Rock, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=596629b570074f41) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Jefferson City, MO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=51b985856cd8975d) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Jackson, MS, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=56d704c945084a6e) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Frankfort, KY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=bcab32638cccd3f0) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Topeka, KS, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3554e94faca87f03) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Indianapolis, IN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5c42f9bad8603859) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Montgomery, AL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba619c87117f61bf) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Saint Paul, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a21028d3a360007d) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Oklahoma City, OK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d471a0fda1a14faf) | 2026-04-18 07:55 |
+| CVS Health | Data Engineer | Madison, WI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b540b572849987d6) | 2026-04-18 07:55 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17235821c3f6bc10) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fad382752e6c45e8) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Springfield, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9613eb2ade378a18) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Pierre, SD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c45f8f708d459eac) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Montgomery, AL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2ae74230ecf77083) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Cheyenne, WY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=045625da123bda7e) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Boise, ID, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=93ac2cb123da9211) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Olympia, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=491a518418efe5a9) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Albany, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fb028d0699e5bc93) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Salem, OR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ffd55914d5888185) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Jefferson City, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7dcc0e7131432336) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Little Rock, AR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=73d3be4b73d920a9) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Providence, RI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=deec05139dabc08a) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Trenton, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5550bb7ebf355ee1) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Lansing, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b3d8d6745d3062a8) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=61d40288b2e57fcb) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Annapolis, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ed4280fc6cb28b71) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Tallahassee, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=880d7fb467e52950) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Santa Fe, NM, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dc5fd1213b3b70c6) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Jackson, MS, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3f84b5e1fdb16e36) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Madison, WI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a74f10105ffe043c) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fd07d601c92ea5ee) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Carson City, NV, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=64ce5f46b8cd62e0) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=16e23fae3491401a) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Augusta, ME, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5d86d173e08711fc) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Columbia, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b9e35e676e19ee50) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Charleston, WV, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0b08ce97d36c85db) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Harrisburg, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7a684bacb673ad34) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Baton Rouge, LA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=db4798812a7c7af3) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Oklahoma City, OK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7698457fecc49833) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Bismarck, ND, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7ce005b127c47f1d) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Denver, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=122c1ea0ed721077) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Frankfort, KY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=98c6521a48928704) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Sacramento, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0409883540b04233) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=83979e77477c5e5f) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=08ec46aa032e8c1c) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Des Moines, IA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2a86bbd8963f5612) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ef9ba3fa89a3f602) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Saint Paul, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3a46e3d7b83b55b) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Richmond, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3ad20d3e2ae67d22) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Dover, DE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9576bfc3d6045509) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Concord, NH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a1f2c9d2e9f9ed9f) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Hartford, CT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a5e05164837c0217) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5a46d719bf637e15) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Montpelier, VT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c9d233e71f6c04c8) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Helena, MT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2fc0b0f239ddef48) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Topeka, KS, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=520fc4e5451ee86e) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1df2a526495b0fdc) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Lincoln, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=298689cf6faee8a0) | 2026-04-18 07:55 |
+| CVS Health | Senior Java Software Engineer | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=89ef5f7a924752df) | 2026-04-18 07:55 |
 | Millennium Systems International | Quality Assurance Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1acfe6bdf2f2bf38) | 2026-04-18 06:08 |
 | Accenture | ^Application Support Engineer - 6249380 | Scottsdale, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e4136e0f889e1c8b) | 2026-04-18 04:25 |
 | Diverse Agile Solutions | Senior IT Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=68e8bf364a87bcd8) | 2026-04-18 04:25 |
@@ -627,7 +692,6 @@ Last updated: 2026-04-18 06:08
 | TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=087dc81db4c0ead7) | 2026-04-14 08:22 |
 | DS Technologies Inc | Engineer II – Big Data / ETL Engineer (Apptio) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=be9de9e1e7dbc172) | 2026-04-14 08:22 |
 | NTT DATA | API Architect | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=51953c5002c89827) | 2026-04-14 08:22 |
-| Logic, Inc. | Data Tester (Python) - 6254091 | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89141221ea154795) | 2026-04-14 06:27 |
 
 
 ---
