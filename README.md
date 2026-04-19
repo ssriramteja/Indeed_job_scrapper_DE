@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-19 14:35
+Last updated: 2026-04-19 15:30
 
 ### 🚀 Daily Job Matches
 
@@ -535,15 +535,6 @@ Last updated: 2026-04-19 14:35
 | Metropolitan Companies | Data Engineer | Wyomissing, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12c03c3bb6ce8c38) | 2026-04-15 18:00 |
 | Energy Systems Group | Supervisor, Software Engineering | Newburgh, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c197f77bdf171e6) | 2026-04-15 18:00 |
 | Applied Information Sciences | Cloud Solution Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f47703eb8d2843d8) | 2026-04-15 18:00 |
-| Qode | Data Engineer/Data Scientist | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8a711c2fcb36b6cf) | 2026-04-15 15:00 |
-| Equinox | Sr. Data Engineer (ON-SITE) | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=038b96d69cecd888) | 2026-04-15 15:00 |
-| Capital One | Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cb699a2e3bdbb440) | 2026-04-15 15:00 |
-| Flexera | Site Reliability Engineer (Cloud Enablement) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=72d1842ef3999b1d) | 2026-04-15 15:00 |
-| Colgate-Palmolive | Machine Learning Engineer (171680) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a860d07867e70be2) | 2026-04-15 15:00 |
-| InterImage | Cloud Software Engineer 3 - III | Fort Meade, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=16ddbf61e3ea0b92) | 2026-04-15 15:00 |
-| InterImage | Cloud Software Engineer 3 - II | Fort Meade, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43bfe7ca1f6eddb7) | 2026-04-15 15:00 |
-| InterImage | Cloud Software Engineer 3 - I | Fort Meade, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2124d09922154cc4) | 2026-04-15 15:00 |
-| nan | GIS Support Engineer | Brooklyn, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e24b40c19089ff90) | 2026-04-15 15:00 |
 
 
 ---
