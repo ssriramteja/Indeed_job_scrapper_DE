@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-18 23:27
+Last updated: 2026-04-19 01:50
 
 ### 🚀 Daily Job Matches
 
@@ -602,32 +602,6 @@ Last updated: 2026-04-18 23:27
 | CVS Health | Sr Software Development Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f710f05a18efb3e1) | 2026-04-15 04:39 |
 | CVS Health | Sr Software Development Engineer | MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ad148596751872e) | 2026-04-15 04:39 |
 | CleanSlate Technology Group | Cloud Infrastructure Engineer | Carmel, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=478788964e131867) | 2026-04-15 04:39 |
-| The Hartford | Sr. Full Stack AI Engineer | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=574e10b9b787dc54) | 2026-04-15 01:28 |
-| The Hartford | Sr. Full Stack AI Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac615cac5200efc9) | 2026-04-15 01:28 |
-| The Hartford | Sr. Full Stack AI Engineer | Hartford, CT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8a7de03320b3d487) | 2026-04-15 01:28 |
-| The Hartford | Sr. Full Stack AI Engineer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=df1418000450ecdb) | 2026-04-15 01:28 |
-| The Hartford | Sr. Full Stack AI Engineer | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6df75aab0012c038) | 2026-04-15 01:28 |
-| Broadridge | Java Developer (Hybrid- Flexible Options) | Edgewood, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=25ccf7fa8d4a5b10) | 2026-04-15 01:28 |
-| bioMerieux | Sr. Software Engineer | Hazelwood, MO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c2788300e5964c54) | 2026-04-15 01:28 |
-| Vantage Bank Texas | Data & AI Governance Officer | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5c469b183725fde1) | 2026-04-15 01:28 |
-| Texas A&M University | Research Engineer II | Bryan, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bb85a1b8d1928fd4) | 2026-04-15 01:28 |
-| The Hartford | ArcGIS Software Engineer | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1186a0273eb12d27) | 2026-04-15 01:28 |
-| Marriott International | Software Engineer | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9f177704478aadbe) | 2026-04-15 01:28 |
-| RCR Technology | Senior Data Engineer (Sr. ETL/Python Developer) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4527effc81797bda) | 2026-04-15 01:28 |
-| GM Financial | Software Development Engineer II (C#/.NET, Azure) | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b6c902472d880e18) | 2026-04-15 01:28 |
-| nan | Cloud Infrastructure Engineer | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1a527d30b5c00d7d) | 2026-04-15 01:28 |
-| Banner Health | Senior Data Engineer | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ee1bf292f1b43ebd) | 2026-04-15 01:28 |
-| Vantage Bank Texas | Cloud Automation Engineer | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e8f9ce6ba5f081b9) | 2026-04-15 01:28 |
-| GEICO | Claims Data Analytics Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4296ca379ce33eb3) | 2026-04-15 01:28 |
-| Insight | Architect I | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6d97da40a8da560) | 2026-04-14 23:36 |
-| Klaxontech | Data Engineer | Robstown, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=072e6e4e8e025141) | 2026-04-14 23:36 |
-| Medeloop | Senior Site Reliability Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a81ed0b08e8f07f7) | 2026-04-14 23:36 |
-| nan | Full-Stack Developer (AWS, TS, React) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc3a148287061e68) | 2026-04-14 23:36 |
-| Rocket Close | Senior Software Engineer - Platform | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9fce91f5c39bd4ed) | 2026-04-14 23:36 |
-| Epiq | Software Developer - Information Governance | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65cd9651c7e25101) | 2026-04-14 23:36 |
-| CapTech Consulting | Solutions Architect | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=085872f73883326c) | 2026-04-14 23:36 |
-| CapTech Consulting | Solutions Architect | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa79af047e73dc3e) | 2026-04-14 23:36 |
-| CapTech Consulting | Solutions Architect | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34987f860a590c53) | 2026-04-14 23:36 |
 
 
 ---
