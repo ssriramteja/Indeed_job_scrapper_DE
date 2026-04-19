@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-19 06:25
+Last updated: 2026-04-19 08:02
 
 ### 🚀 Daily Job Matches
 
@@ -556,14 +556,6 @@ Last updated: 2026-04-19 06:25
 | Banner Health | Senior Data Engineer | AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c8d9928392bc7529) | 2026-04-15 08:23 |
 | Photon | Data Engineer - Dallas, TX | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=865a46cfbc7cc3f4) | 2026-04-15 08:23 |
 | ALTEN | Software Development Engineer (AWS) | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b4b23734e39ac6c) | 2026-04-15 08:23 |
-| EY | Cons - TC - AI and Data - Enterp Data - Data Eng and Arch - Data Eng - Mgr - MP - 1688246 | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2fdf2a5f30bbe80a) | 2026-04-15 06:28 |
-| FIS | Data Warehouse Analyst Seniors: Cloud Engineering | Jacksonville, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d87aa04a7733264b) | 2026-04-15 06:28 |
-| Blue Origin | Software Development Engineer III | Huntsville, AL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fcd17ae9e035b9a9) | 2026-04-15 06:28 |
-| Olson Kundig | Senior Data & AI Developer | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d831e0d8e2c5553f) | 2026-04-15 06:28 |
-| Texas A&M University | Research Engineer II | Bryan, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=09b3207da19db4ee) | 2026-04-15 06:28 |
-| HackerRank Careers | Backend Engineer II | Santa Clara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae2342b890625b11) | 2026-04-15 06:28 |
-| Optum | Senior Software Engineer | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=10b635a4480602f9) | 2026-04-15 06:28 |
-| BillGO, Inc. | Data Analytics Engineer | Fort Collins, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69713d6be44a4b67) | 2026-04-15 06:28 |
 
 
 ---
