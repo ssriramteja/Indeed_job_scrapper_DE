@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-19 08:02
+Last updated: 2026-04-19 09:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III - Databricks / IAM | Plano, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=2aaafa9ff6580061) | 2026-04-19 09:39 |
 | Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=581a90bdd18bb399) | 2026-04-19 04:45 |
 | Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f8b1f5f9166b713) | 2026-04-19 04:45 |
 | Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0515a0bc8f6f1e11) | 2026-04-19 04:45 |
@@ -552,10 +553,6 @@ Last updated: 2026-04-19 08:02
 | Momentive Software | Senior ML Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f99034f0e149e6e6) | 2026-04-15 11:50 |
 | JPMorganChase | Software Engineer III - AWS Glue | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5f1496d3a0b45451) | 2026-04-15 10:09 |
 | Viasat | Data Engineer | Carlsbad, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=93144249a4967543) | 2026-04-15 10:09 |
-| Ignite Insurance Systems | Analytics Engineer | Lehi, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=560d14506d8aa36b) | 2026-04-15 08:23 |
-| Banner Health | Senior Data Engineer | AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c8d9928392bc7529) | 2026-04-15 08:23 |
-| Photon | Data Engineer - Dallas, TX | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=865a46cfbc7cc3f4) | 2026-04-15 08:23 |
-| ALTEN | Software Development Engineer (AWS) | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b4b23734e39ac6c) | 2026-04-15 08:23 |
 
 
 ---
