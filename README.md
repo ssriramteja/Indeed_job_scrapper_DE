@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-19 11:29
+Last updated: 2026-04-19 12:39
 
 ### 🚀 Daily Job Matches
 
@@ -550,7 +550,6 @@ Last updated: 2026-04-19 11:29
 | PwC | Deal Data Technology & Analytics, Senior Associate | Silicon Valley, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fa06155bf991d0f8) | 2026-04-15 13:03 |
 | PwC | Deal Data Technology & Analytics, Senior Associate | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=22e6ab66fd67032d) | 2026-04-15 13:03 |
 | McAfee | AI Intern | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7bea47ac5f13bd1f) | 2026-04-15 13:03 |
-| Momentive Software | Senior ML Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f99034f0e149e6e6) | 2026-04-15 11:50 |
 
 
 ---
