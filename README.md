@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-19 18:36
+Last updated: 2026-04-19 19:36
 
 ### 🚀 Daily Job Matches
 
@@ -501,29 +501,6 @@ Last updated: 2026-04-19 18:36
 | Troutman Pepper Locke | AI Cloud Security and Infrastructure Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04325b074eb62665) | 2026-04-15 20:40 |
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cea257394aa611a9) | 2026-04-15 20:40 |
 | Goldman Sachs | Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst/Associate - New York | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dd43ffc6d7fda89) | 2026-04-15 20:40 |
-| loanDepot | Sr. Data Engineer (Azure/Databricks/Python) | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d4b1df13928e079d) | 2026-04-15 19:21 |
-| Fivetran | Senior Solution Architect, Enterprise - Eastern Time Zone | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=da8ab35096a74f07) | 2026-04-15 19:21 |
-| Sam's Club | Senior, Software Engineer | Bentonville, AR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3fcd1c4e67959eea) | 2026-04-15 19:21 |
-| nan | Senior DevOps Cloud Engineer | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b2a1afc987319b9a) | 2026-04-15 19:21 |
-| Ventura Foods | Senior Data Engineer | Irvine, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e93266a037e0c18) | 2026-04-15 19:21 |
-| nan | DevOps & AI Automation Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee6b296a0ce2f382) | 2026-04-15 19:21 |
-| Low Associates | Full Stack Developer (JS/TS, AWS) | South Bend, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45727b1c951a0e5a) | 2026-04-15 19:21 |
-| JPMorganChase | Software Engineer III - Data, AWS, ETL, Java/Python, | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c20056a5b9ffca80) | 2026-04-15 19:21 |
-| cloudteam | Analytics Developer | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6ae648cd8fe57362) | 2026-04-15 19:21 |
-| Waystar | Sr. Software Engineer II | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=04a1d1c06680e371) | 2026-04-15 19:21 |
-| WILLDAN GROUP | Cloud Platform Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a31dfca06d884ad) | 2026-04-15 19:21 |
-| WILLDAN GROUP | Cloud Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6b1cb632eed3bcb) | 2026-04-15 19:21 |
-| WILLDAN GROUP | Cloud Platform Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec090a150db0c5f8) | 2026-04-15 19:21 |
-| WILLDAN GROUP | Cloud Platform Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fe79bacd5e58f55) | 2026-04-15 19:21 |
-| WILLDAN GROUP | Cloud Platform Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f09282ebd98b3570) | 2026-04-15 19:21 |
-| WILLDAN GROUP | Cloud Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa1d73f24fc01af9) | 2026-04-15 19:21 |
-| WILLDAN GROUP | Cloud Platform Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e4150c94fe908c8) | 2026-04-15 19:21 |
-| Huntington Bank | IS Technical Specialist | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=757269b719268379) | 2026-04-15 19:21 |
-| Huntington Bank | IS Technical Specialist | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=609b33430f9df835) | 2026-04-15 19:21 |
-| Huntington Bank | IS Technical Specialist | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef377da6b1a8bbfd) | 2026-04-15 19:21 |
-| Huntington Bank | IS Technical Specialist | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6aea6ee79779b03b) | 2026-04-15 19:21 |
-| Huntington Bank | IS Technical Specialist | Fairlawn, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da070db6e9060b88) | 2026-04-15 19:21 |
-| Huntington Bank | IS Technical Specialist | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=63d188ef103369c5) | 2026-04-15 19:21 |
 
 
 ---
