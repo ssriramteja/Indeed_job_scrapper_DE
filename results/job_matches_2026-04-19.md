@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-19
 
-**Total Jobs Found:** 36
+**Total Jobs Found:** 34
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,29 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Data Engineer (Business Analyst IV) @ Fairfax County Government
-**Match Score:** 18.1%
-
-📍 **Location:** Fairfax, VA, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, Data Factory, BigQuery, Cloud Storage, Hadoop, Spark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cbbe1cdbf051393e)
-
----
-
-## 3. Bioinformatics Cloud Engineer @ nan
-**Match Score:** 12.5%
-
-📍 **Location:** Denver, CO, US USA
-
-🔑 **Keywords:** RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Scala, CI/CD, GitHub Actions, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=70f3b60b1d9a1fb2)
-
----
-
-## 4. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 2. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -49,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 3. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -60,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 4. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Detroit, MI, US USA
@@ -71,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 5. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tempe, AZ, US USA
@@ -82,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 6. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -93,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 7. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Nashville, TN, US USA
@@ -104,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 8. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -115,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 9. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** McLean, VA, US USA
@@ -126,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 10. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Diego, CA, US USA
@@ -137,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 11. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -148,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 12. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -159,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 13. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -170,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 14. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -181,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 15. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -192,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 16. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Jose, CA, US USA
@@ -203,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 17. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -214,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 18. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Chicago, IL, US USA
@@ -225,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 19. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Denver, CO, US USA
@@ -236,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 20. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Miami, FL, US USA
@@ -247,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 21. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -258,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 22. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Austin, TX, US USA
@@ -269,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 23. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -280,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 24. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Morristown, NJ, US USA
@@ -291,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 25. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -302,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 26. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tampa, FL, US USA
@@ -313,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 27. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -324,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 28. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -335,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 29. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -346,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 30. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Seattle, WA, US USA
@@ -357,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 31. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Stamford, CT, US USA
@@ -368,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 32. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -379,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 33. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -390,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+## 34. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Costa Mesa, CA, US USA
