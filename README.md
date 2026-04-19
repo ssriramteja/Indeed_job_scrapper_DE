@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-19 22:26
+Last updated: 2026-04-19 23:28
 
 ### 🚀 Daily Job Matches
 
@@ -485,9 +485,6 @@ Last updated: 2026-04-19 22:26
 | Highmark Health | Senior Analytic Data Engineer (Python/Power BI) | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=100c60fa90e63408) | 2026-04-15 23:35 |
 | Core & Main | Data Engineer II | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b2cdf5f4ac6a6c1a) | 2026-04-15 23:35 |
 | nan | Senior Software Engineer, Data Migration & Code Generation | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f20bc83aea1de83b) | 2026-04-15 23:35 |
-| Infoverity | Analytics Architect | Dublin, OH, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ca5a94e3ea76c9da) | 2026-04-15 22:34 |
-| JPMorganChase | Software Engineer III- DevOps Engineer | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=985846920fb69c12) | 2026-04-15 22:34 |
-| Qode | SRE Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=907826ed55a037a8) | 2026-04-15 22:34 |
 
 
 ---
