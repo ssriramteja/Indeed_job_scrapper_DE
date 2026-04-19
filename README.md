@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-19 12:39
+Last updated: 2026-04-19 13:55
 
 ### 🚀 Daily Job Matches
 
@@ -544,12 +544,6 @@ Last updated: 2026-04-19 12:39
 | InterImage | Cloud Software Engineer 3 - II | Fort Meade, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43bfe7ca1f6eddb7) | 2026-04-15 15:00 |
 | InterImage | Cloud Software Engineer 3 - I | Fort Meade, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2124d09922154cc4) | 2026-04-15 15:00 |
 | nan | GIS Support Engineer | Brooklyn, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e24b40c19089ff90) | 2026-04-15 15:00 |
-| PwC | Deal Data Technology & Analytics, Senior Associate | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cc13b56a1dadc810) | 2026-04-15 13:03 |
-| PwC | Deal Data Technology & Analytics, Senior Associate | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=42cc0c644ae78852) | 2026-04-15 13:03 |
-| PwC | Deal Data Technology & Analytics, Senior Associate | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=46d19923987ef429) | 2026-04-15 13:03 |
-| PwC | Deal Data Technology & Analytics, Senior Associate | Silicon Valley, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fa06155bf991d0f8) | 2026-04-15 13:03 |
-| PwC | Deal Data Technology & Analytics, Senior Associate | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=22e6ab66fd67032d) | 2026-04-15 13:03 |
-| McAfee | AI Intern | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7bea47ac5f13bd1f) | 2026-04-15 13:03 |
 
 
 ---
