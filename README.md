@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-19 20:28
+Last updated: 2026-04-19 21:27
 
 ### 🚀 Daily Job Matches
 
@@ -498,10 +498,6 @@ Last updated: 2026-04-19 20:28
 | Bloomberg Industry Group | Web Application Architect 3 | Arlington, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7846d03774f71aa5) | 2026-04-15 21:43 |
 | Bass Pro Shops | Sr Business Intelligence Developer - Onsite | Springfield, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba1611f04cfe11a7) | 2026-04-15 21:43 |
 | Chewy | Software Engineer I - Full Stack | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e317b1b40c2e7beb) | 2026-04-15 21:43 |
-| NTT DATA | Cloudera Public Cloud Platform Engineer | Plano, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce7428fbc9c89fa9) | 2026-04-15 20:40 |
-| Troutman Pepper Locke | AI Cloud Security and Infrastructure Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04325b074eb62665) | 2026-04-15 20:40 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cea257394aa611a9) | 2026-04-15 20:40 |
-| Goldman Sachs | Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst/Associate - New York | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dd43ffc6d7fda89) | 2026-04-15 20:40 |
 
 
 ---
