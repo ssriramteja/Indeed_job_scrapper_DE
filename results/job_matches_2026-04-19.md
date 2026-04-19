@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-19
 
-**Total Jobs Found:** 78
+**Total Jobs Found:** 104
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -203,18 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Senior IT Data Engineer @ Diverse Agile Solutions
-**Match Score:** 16.7%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** AWS, Azure, Hadoop, Hive, MapReduce, HBase, Spark, PySpark, Scala, Kafka
-
-[Apply Here](https://www.indeed.com/viewjob?jk=68e8bf364a87bcd8)
-
----
-
-## 20. Sr Data Scientist @ Micron Technology
+## 19. Sr Data Scientist @ Micron Technology
 **Match Score:** 15.3%
 
 📍 **Location:** Boise, ID, US USA
@@ -225,51 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior PS Sales Solutions Architect @ Snowflake
-**Match Score:** 15.3%
-
-📍 **Location:** Denver, CO, US USA
-
-🔑 **Keywords:** AWS, Redshift, RDS, Azure, Databricks, GCP, BigQuery, Hadoop, HBase, Spark
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2cc1792488693d8a)
-
----
-
-## 22. Engineer/ Sr Engineer, IT AI @ American Airlines
-**Match Score:** 14.6%
-
-📍 **Location:** Fort Worth, TX, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Scala, Oracle, MLOps, MLflow, Jenkins, Maven, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bd18edcb36ac9a04)
-
----
-
-## 23. Senior Software Engineer @ Equifax
-**Match Score:** 13.9%
-
-📍 **Location:** St. Louis, MO, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, BigQuery, Dataflow, Vertex AI, Scala, SQL Server, MySQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7a00846a02b4b2ea)
-
----
-
-## 24. Business Intelligence Developer II/III @ Okland Construction
-**Match Score:** 13.9%
-
-📍 **Location:** Salt Lake City, UT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Data Lake Storage, Dataflow, Spark, PySpark, Snowflake, Data Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=95e16a542c86ff4d)
-
----
-
-## 25. Senior Java Software Engineer @ CVS Health
+## 20. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -280,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Senior Java Software Engineer @ CVS Health
+## 21. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Springfield, IL, US USA
@@ -291,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Senior Java Software Engineer @ CVS Health
+## 22. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Pierre, SD, US USA
@@ -302,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Senior Java Software Engineer @ CVS Health
+## 23. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Montgomery, AL, US USA
@@ -313,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Senior Java Software Engineer @ CVS Health
+## 24. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Cheyenne, WY, US USA
@@ -324,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Senior Java Software Engineer @ CVS Health
+## 25. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Boise, ID, US USA
@@ -335,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Senior Java Software Engineer @ CVS Health
+## 26. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Olympia, WA, US USA
@@ -346,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Senior Java Software Engineer @ CVS Health
+## 27. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Albany, NY, US USA
@@ -357,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Senior Java Software Engineer @ CVS Health
+## 28. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Salem, OR, US USA
@@ -368,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Senior Java Software Engineer @ CVS Health
+## 29. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Jefferson City, MO, US USA
@@ -379,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Senior Java Software Engineer @ CVS Health
+## 30. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Little Rock, AR, US USA
@@ -390,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Senior Java Software Engineer @ CVS Health
+## 31. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Providence, RI, US USA
@@ -401,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Senior Java Software Engineer @ CVS Health
+## 32. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Trenton, NJ, US USA
@@ -412,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Senior Java Software Engineer @ CVS Health
+## 33. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Lansing, MI, US USA
@@ -423,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Senior Java Software Engineer @ CVS Health
+## 34. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Austin, TX, US USA
@@ -434,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Senior Java Software Engineer @ CVS Health
+## 35. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Annapolis, MD, US USA
@@ -445,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Senior Java Software Engineer @ CVS Health
+## 36. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Tallahassee, FL, US USA
@@ -456,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Senior Java Software Engineer @ CVS Health
+## 37. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Santa Fe, NM, US USA
@@ -467,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Senior Java Software Engineer @ CVS Health
+## 38. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Jackson, MS, US USA
@@ -478,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Senior Java Software Engineer @ CVS Health
+## 39. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Madison, WI, US USA
@@ -489,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Senior Java Software Engineer @ CVS Health
+## 40. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Boston, MA, US USA
@@ -500,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Senior Java Software Engineer @ CVS Health
+## 41. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Carson City, NV, US USA
@@ -511,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Senior Java Software Engineer @ CVS Health
+## 42. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Salt Lake City, UT, US USA
@@ -522,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Senior Java Software Engineer @ CVS Health
+## 43. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Augusta, ME, US USA
@@ -533,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Senior Java Software Engineer @ CVS Health
+## 44. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Columbia, SC, US USA
@@ -544,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Senior Java Software Engineer @ CVS Health
+## 45. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Charleston, WV, US USA
@@ -555,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Senior Java Software Engineer @ CVS Health
+## 46. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Harrisburg, PA, US USA
@@ -566,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Senior Java Software Engineer @ CVS Health
+## 47. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Baton Rouge, LA, US USA
@@ -577,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Senior Java Software Engineer @ CVS Health
+## 48. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Oklahoma City, OK, US USA
@@ -588,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Senior Java Software Engineer @ CVS Health
+## 49. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Bismarck, ND, US USA
@@ -599,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Senior Java Software Engineer @ CVS Health
+## 50. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Denver, CO, US USA
@@ -610,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Senior Java Software Engineer @ CVS Health
+## 51. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Frankfort, KY, US USA
@@ -621,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Senior Java Software Engineer @ CVS Health
+## 52. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -632,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. Senior Java Software Engineer @ CVS Health
+## 53. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Washington, DC, US USA
@@ -643,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. Senior Java Software Engineer @ CVS Health
+## 54. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -654,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. Senior Java Software Engineer @ CVS Health
+## 55. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Des Moines, IA, US USA
@@ -665,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Senior Java Software Engineer @ CVS Health
+## 56. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -676,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. Senior Java Software Engineer @ CVS Health
+## 57. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Saint Paul, MN, US USA
@@ -687,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Senior Java Software Engineer @ CVS Health
+## 58. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Richmond, VA, US USA
@@ -698,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Senior Java Software Engineer @ CVS Health
+## 59. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Dover, DE, US USA
@@ -709,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Senior Java Software Engineer @ CVS Health
+## 60. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Concord, NH, US USA
@@ -720,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Senior Java Software Engineer @ CVS Health
+## 61. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Hartford, CT, US USA
@@ -731,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Senior Java Software Engineer @ CVS Health
+## 62. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Nashville, TN, US USA
@@ -742,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. Senior Java Software Engineer @ CVS Health
+## 63. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Montpelier, VT, US USA
@@ -753,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Senior Java Software Engineer @ CVS Health
+## 64. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Helena, MT, US USA
@@ -764,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Senior Java Software Engineer @ CVS Health
+## 65. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Topeka, KS, US USA
@@ -775,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Senior Java Software Engineer @ CVS Health
+## 66. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -786,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Senior Java Software Engineer @ CVS Health
+## 67. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Lincoln, NE, US USA
@@ -797,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Senior Java Software Engineer @ CVS Health
+## 68. Senior Java Software Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** Columbus, OH, US USA
@@ -808,18 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Data Engineer @ Veryon
-**Match Score:** 13.2%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** Redshift, Databricks, BigQuery, Scala, Snowflake, Oracle, Data Modeling, Dimensional Modeling, Snowflake Schema, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=43792765a0db7bc2)
-
----
-
-## 75. Bioinformatics Cloud Engineer @ nan
+## 69. Bioinformatics Cloud Engineer @ nan
 **Match Score:** 12.5%
 
 📍 **Location:** Denver, CO, US USA
@@ -830,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Senior Software Engineer - Production Control Plane @ Snowflake
+## 70. Senior Software Engineer - Production Control Plane @ Snowflake
 **Match Score:** 11.8%
 
 📍 **Location:** Menlo Park, CA, US USA
@@ -841,18 +775,370 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Front End UI Developer (Angular) @ Equifax
-**Match Score:** 11.8%
+## 71. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
 
-📍 **Location:** Alpharetta, GA, US USA
+📍 **Location:** Pittsburgh, PA, US USA
 
-🔑 **Keywords:** AWS, Lambda, Azure, GCP, Scala, SQL Server, MySQL, CI/CD, Jenkins, Maven
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c2894d188b4dc4e4)
+[Apply Here](https://www.indeed.com/viewjob?jk=581a90bdd18bb399)
 
 ---
 
-## 78. Machine Learning Engineer II Recommendation Systems- Credit Karma @ Intuit
+## 72. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8f8b1f5f9166b713)
+
+---
+
+## 73. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Detroit, MI, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0515a0bc8f6f1e11)
+
+---
+
+## 74. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Tempe, AZ, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=319834b7078dd7bb)
+
+---
+
+## 75. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c7e0324e85c38bd3)
+
+---
+
+## 76. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Nashville, TN, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=57c9b599b447afe5)
+
+---
+
+## 77. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3f28e52ff13e41e1)
+
+---
+
+## 78. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=58139b01da447c8f)
+
+---
+
+## 79. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** San Diego, CA, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=31eec55a78c92958)
+
+---
+
+## 80. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b0f988614f7900ce)
+
+---
+
+## 81. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9a807c5f465bc533)
+
+---
+
+## 82. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Philadelphia, PA, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f6e4c14a86247c39)
+
+---
+
+## 83. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0a4a86499506fa74)
+
+---
+
+## 84. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Cincinnati, OH, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6100f68b5c571107)
+
+---
+
+## 85. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0268fc51d43f46f1)
+
+---
+
+## 86. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Indianapolis, IN, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fa3c42c0c29c6fa2)
+
+---
+
+## 87. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e7d5d2a222e1191b)
+
+---
+
+## 88. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=82adfa3031e04de5)
+
+---
+
+## 89. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Miami, FL, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d2c75248cd428f27)
+
+---
+
+## 90. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** San Francisco, CA, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=17b8084c714b559f)
+
+---
+
+## 91. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fcafea5b6bbcba68)
+
+---
+
+## 92. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Cleveland, OH, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2431b916dd05bb6d)
+
+---
+
+## 93. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Morristown, NJ, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=417ad0055f64f195)
+
+---
+
+## 94. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** St. Louis, MO, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c473356bf1ce359a)
+
+---
+
+## 95. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Tampa, FL, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=790b89847a38e08e)
+
+---
+
+## 96. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Los Angeles, CA, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6c51f57e34f8284d)
+
+---
+
+## 97. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Minneapolis, MN, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a673fb5b1b7d2bd9)
+
+---
+
+## 98. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Columbus, OH, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=42748f4cfe75c84a)
+
+---
+
+## 99. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ed4c16311ad8ab4d)
+
+---
+
+## 100. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Stamford, CT, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f0128cd132590c80)
+
+---
+
+## 101. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Kansas City, MO, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5720f5caa8ca8d63)
+
+---
+
+## 102. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Sacramento, CA, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=30932a7fdbb20d57)
+
+---
+
+## 103. GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Costa Mesa, CA, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Databricks, Spark, Snowflake, Data Modeling, dbt, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cc72ec26bd8c9ccd)
+
+---
+
+## 104. Machine Learning Engineer II Recommendation Systems- Credit Karma @ Intuit
 **Match Score:** 10.4%
 
 📍 **Location:** Oakland, CA, US USA
