@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-19 17:29
+Last updated: 2026-04-19 18:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Palmetto Tech | Architect with AWS and Data Bricks | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c581906df4e1c3dd) | 2026-04-19 18:36 |
 | JPMorganChase | Software Engineer III - Databricks / IAM | Plano, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=2aaafa9ff6580061) | 2026-04-19 09:39 |
 | Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=581a90bdd18bb399) | 2026-04-19 04:45 |
 | Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f8b1f5f9166b713) | 2026-04-19 04:45 |
@@ -523,18 +524,6 @@ Last updated: 2026-04-19 17:29
 | Huntington Bank | IS Technical Specialist | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6aea6ee79779b03b) | 2026-04-15 19:21 |
 | Huntington Bank | IS Technical Specialist | Fairlawn, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da070db6e9060b88) | 2026-04-15 19:21 |
 | Huntington Bank | IS Technical Specialist | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=63d188ef103369c5) | 2026-04-15 19:21 |
-| OrderlyMeds | Data Engineer- OrderlyMeds | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4f563cb4be7b9221) | 2026-04-15 18:00 |
-| Stellantis | Software Engineer | Auburn Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aa4d88005315e7ba) | 2026-04-15 18:00 |
-| innoVet Health, LLC | Azure Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a5acecf0e4305790) | 2026-04-15 18:00 |
-| Poshmark | AI/ML Engineering Intern (Summer 2026) | Redwood City, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7fd3431b51acd4b5) | 2026-04-15 18:00 |
-| Holland & Knight | Data Solutions Engineer | Brandon, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3abb3ed211255b11) | 2026-04-15 18:00 |
-| LTIMindtree | Specialist - Architecture | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=766f2f5e9a7201f1) | 2026-04-15 18:00 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=30ba9654fc14bac7) | 2026-04-15 18:00 |
-| Customers Bank | BI Developer | Malvern, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da13b88eee9db315) | 2026-04-15 18:00 |
-| Decentralized Masters | DevOps Security Engineer | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45f290af989badc3) | 2026-04-15 18:00 |
-| Metropolitan Companies | Data Engineer | Wyomissing, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12c03c3bb6ce8c38) | 2026-04-15 18:00 |
-| Energy Systems Group | Supervisor, Software Engineering | Newburgh, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c197f77bdf171e6) | 2026-04-15 18:00 |
-| Applied Information Sciences | Cloud Solution Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f47703eb8d2843d8) | 2026-04-15 18:00 |
 
 
 ---
