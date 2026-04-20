@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 13:08
+Last updated: 2026-04-20 15:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 15:10 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 15:10 |
 | Alkami Technology | Sr. Data Engineer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=2c9c766989d27507) | 2026-04-20 13:08 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 13:08 |
 | Wells Fargo | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f19a6e4f42a1dcfd) | 2026-04-20 09:50 |
 | State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=868cad9be8cb3aa5) | 2026-04-20 09:50 |
 | Blue Origin | Business Analyst Sr | FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0150b99a3b3fea86) | 2026-04-20 07:12 |
@@ -426,7 +427,6 @@ Last updated: 2026-04-20 13:08
 | CCG | Senior Architect - Data Architecture & Engineering | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=819e894636bd2075) | 2026-04-16 15:19 |
 | Tata Consultancy Services (TCS) | Big Data Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3da1fa1569c709a3) | 2026-04-16 15:19 |
 | Tata Consultancy Services (TCS) | Python Automation Developer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=023ea0e85c7b758a) | 2026-04-16 15:19 |
-| Kohl's | Machine Learning Engineer II (Remote) | Menomonee Falls, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2a7d736f0a5c3255) | 2026-04-16 13:09 |
 
 
 ---
