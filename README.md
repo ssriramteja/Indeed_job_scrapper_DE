@@ -1,13 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 18:53
+Last updated: 2026-04-20 19:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 18:53 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 18:53 |
+| University of Pittsburgh | Senior Data Engineer (EDGE) | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=303a6ba70fa90d4a) | 2026-04-20 19:55 |
+| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 19:55 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 19:55 |
+| DATAMAXIS | Site Reliability Engineer (Azure) | Northbrook, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=68867f5f2f53aa49) | 2026-04-20 19:55 |
+| Truist | Software Engineer III - Real Estate Mortgage Servicing | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5353391b47b16722) | 2026-04-20 19:55 |
+| University of Utah | Business Intelligence Analyst | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2fd5c7b34b56678) | 2026-04-20 19:55 |
 | FreshDirect | GCP Data Cloud Architect with AI | Woodbridge, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=245f3c6627aa53a9) | 2026-04-20 17:52 |
 | Openkyber | AI Integration Consultant | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3a7d79dfeae2865) | 2026-04-20 17:52 |
 | Openkyber | AI Integration Consultant | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c810855cd475cddf) | 2026-04-20 17:52 |
@@ -430,13 +434,6 @@ Last updated: 2026-04-20 18:53
 | Trepp | Senior Backend Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=793bcf53c033205f) | 2026-04-16 20:01 |
 | Waystar | Senior SRE I | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=389e6808cb55dd7e) | 2026-04-16 20:01 |
 | Waystar | Software Engineer II | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f589c151e81c3302) | 2026-04-16 20:01 |
-| Veeva Systems | Data Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a83dccf18841adf6) | 2026-04-16 19:00 |
-| Unissant | Enterprise Data Architect | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a00da07441b7a67f) | 2026-04-16 19:00 |
-| Wipro | DEVELOPER L3(CONTRACT) | Wayne, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0e2ca368a02b432d) | 2026-04-16 19:00 |
-| IWCO | Senior Data Analyst | Chanhassen, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=196d52ca727cd7dc) | 2026-04-16 19:00 |
-| COVERCRAFT INDUSTRIES | Power BI Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d5dc2c7f7fff79d2) | 2026-04-16 19:00 |
-| Dayforce | Cloud Infrastructure Engineer Prin | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e17559f247cbc51a) | 2026-04-16 19:00 |
-| Photon | Java backend data engineer - Smithfield RI | Smithfield, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d795ea45cb03ea9) | 2026-04-16 19:00 |
 
 
 ---
