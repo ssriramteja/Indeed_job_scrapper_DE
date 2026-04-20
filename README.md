@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 19:55
+Last updated: 2026-04-20 20:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Stellantis | Software Engineer | Auburn Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34c00d3722b6113c) | 2026-04-20 20:38 |
+| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 20:38 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 20:38 |
+| Goldman Sachs | Asset & Wealth Management - AI Solutions Engineer - Associate - Dallas | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8e6ebff3fb9a8fa2) | 2026-04-20 20:38 |
+| RRS Enterprises | Power BI Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5ef3473575569109) | 2026-04-20 20:38 |
 | University of Pittsburgh | Senior Data Engineer (EDGE) | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=303a6ba70fa90d4a) | 2026-04-20 19:55 |
-| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 19:55 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 19:55 |
 | DATAMAXIS | Site Reliability Engineer (Azure) | Northbrook, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=68867f5f2f53aa49) | 2026-04-20 19:55 |
 | Truist | Software Engineer III - Real Estate Mortgage Servicing | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5353391b47b16722) | 2026-04-20 19:55 |
 | University of Utah | Business Intelligence Analyst | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2fd5c7b34b56678) | 2026-04-20 19:55 |
@@ -430,10 +433,6 @@ Last updated: 2026-04-20 19:55
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=009bef0a6c8cccee) | 2026-04-16 21:35 |
 | Tata Consultancy Services (TCS) | HR -Data Scientist | Renton, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7513f3b5f73b8498) | 2026-04-16 21:35 |
 | American Electric Power | Solution Engineer: Enterprise GenAI & Analytics Enablement | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed80186b477d6765) | 2026-04-16 21:35 |
-| EssilorLuxottica | Data Engineer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cb1eb66e038f22b4) | 2026-04-16 20:01 |
-| Trepp | Senior Backend Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=793bcf53c033205f) | 2026-04-16 20:01 |
-| Waystar | Senior SRE I | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=389e6808cb55dd7e) | 2026-04-16 20:01 |
-| Waystar | Software Engineer II | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f589c151e81c3302) | 2026-04-16 20:01 |
 
 
 ---
