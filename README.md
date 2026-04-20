@@ -1,13 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 15:10
+Last updated: 2026-04-20 16:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 15:10 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 15:10 |
+| United Vein & Vascular Centers | Senior Data Engineer/ Architecture (ADF & Databricks) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e308055f15971689) | 2026-04-20 16:56 |
+| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 16:56 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 16:56 |
+| Mosaic Partners | Data Engineer \| Buy Side | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1f51528459a436b7) | 2026-04-20 16:56 |
+| American Express | AI Engineer-Machine Learning Platform | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac07d11154ac5713) | 2026-04-20 16:56 |
+| American Express | Software Engineer II - Global Servicing Technology | Sunrise, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=26fffd4f5d1b3c90) | 2026-04-20 16:56 |
+| American Express | Sr Software Engineer I - Global Servicing Technology | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e593d6d7bcb6eda7) | 2026-04-20 16:56 |
+| CapTech Consulting | Data Engineering Associate Consultant (Graduating Dec 2025 - Summer 2026) | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4af8bf438b9426a) | 2026-04-20 16:56 |
+| NBCUniversal | Advertising & Partnerships Ad Products Internships – Academic Year | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4892cce569405d61) | 2026-04-20 16:56 |
 | Alkami Technology | Sr. Data Engineer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=2c9c766989d27507) | 2026-04-20 13:08 |
 | Wells Fargo | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f19a6e4f42a1dcfd) | 2026-04-20 09:50 |
 | State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=868cad9be8cb3aa5) | 2026-04-20 09:50 |
@@ -412,21 +419,6 @@ Last updated: 2026-04-20 15:10
 | Photon | Java backend data engineer - Smithfield RI | Smithfield, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d795ea45cb03ea9) | 2026-04-16 19:00 |
 | Visa | Sr. Consultant SW Engineer | Bellevue, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f337cce3b659c83d) | 2026-04-16 17:04 |
 | JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=412ff8500fa79e71) | 2026-04-16 17:04 |
-| NavitasPartners | Senior Data Engineer – Credit Risk (Hybrid) - New York, NY | Brooklyn, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=23517bc36e765c0f) | 2026-04-16 15:19 |
-| NavitasPartners | Senior Data Engineer – Credit Risk (Hybrid) - New York, NY | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=16e736022550c4c5) | 2026-04-16 15:19 |
-| NavitasPartners | Senior Data Engineer – Credit Risk (Hybrid) - New York, NY | Albany, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=97b0320ba5b0219b) | 2026-04-16 15:19 |
-| NavitasPartners | Senior Data Engineer – Credit Risk (Hybrid) - New York, NY | Bronx, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=22e782dc41b4055e) | 2026-04-16 15:19 |
-| Worth AI | Graph DBA | Miami, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c15f03a1274f889c) | 2026-04-16 15:19 |
-| Worth AI | Graph DBA | Tampa, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e8b5a8aa7c2f7cd5) | 2026-04-16 15:19 |
-| Worth AI | Graph DBA | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a0522d81a23e6425) | 2026-04-16 15:19 |
-| Worth AI | Graph DBA | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=10fa9278e203e8c7) | 2026-04-16 15:19 |
-| Qode | Site Reliability Architect | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50c8f5c8b89d420d) | 2026-04-16 15:19 |
-| DEPARTMENT OF BUILDINGS | Senior Data Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e9557f408354fe7) | 2026-04-16 15:19 |
-| Wells Fargo | Database Engineer 3 - Contingent (contract) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b28c0b653e1b4d8) | 2026-04-16 15:19 |
-| Disney Experiences | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c254d2582994d51f) | 2026-04-16 15:19 |
-| CCG | Senior Architect - Data Architecture & Engineering | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=819e894636bd2075) | 2026-04-16 15:19 |
-| Tata Consultancy Services (TCS) | Big Data Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3da1fa1569c709a3) | 2026-04-16 15:19 |
-| Tata Consultancy Services (TCS) | Python Automation Developer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=023ea0e85c7b758a) | 2026-04-16 15:19 |
 
 
 ---
