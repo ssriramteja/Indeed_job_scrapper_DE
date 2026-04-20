@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-20
 
-**Total Jobs Found:** 2
+**Total Jobs Found:** 3
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -24,6 +24,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, Snowflake, PostgreSQL, CI/CD, Airflow
 
 [Apply Here](https://www.indeed.com/viewjob?jk=0e67add270aac4c5)
+
+---
+
+## 3. Senior Software Engineer @ nan
+**Match Score:** 10.4%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, SQL Server, PostgreSQL, NoSQL, CI/CD, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2020840dfc5b5027)
 
 ---
 

@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 01:51
+Last updated: 2026-04-20 04:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior Software Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2020840dfc5b5027) | 2026-04-20 04:52 |
 | Cielo | AI Engineer (React UI) - Remote US | Wauwatosa, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0e67add270aac4c5) | 2026-04-19 20:28 |
 | Palmetto Tech | Architect with AWS and Data Bricks | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c581906df4e1c3dd) | 2026-04-19 18:36 |
 | JPMorganChase | Software Engineer III - Databricks / IAM | Plano, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=2aaafa9ff6580061) | 2026-04-19 09:39 |
@@ -442,12 +443,6 @@ Last updated: 2026-04-20 01:51
 | nan | Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7beef8ad4f571f7a) | 2026-04-16 06:30 |
 | TIAG | Senior Performance Test Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82eb3dabcdfd111c) | 2026-04-16 06:30 |
 | CardioOne | Senior Software Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b44f024bbd36d11) | 2026-04-16 06:30 |
-| World Bank Group | Associate IT Officer, Data and Information Management (Associate Data Engineer) | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7a40cff6b5df03cd) | 2026-04-16 04:46 |
-| Broadview Federal Credit Union | Senior Analytics Engineer - Power BI | Albany, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ddee7a1fd9164fde) | 2026-04-16 04:46 |
-| LiveRamp | Senior SRE | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bc41b902449ace0) | 2026-04-16 04:46 |
-| Oracle | Software Developer Architect (Cloud Services) | Redwood City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ec8ec9187f270065) | 2026-04-16 04:46 |
-| Carlsmed | Sr. Software QA Engineer | Carlsbad, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f92907b243e51105) | 2026-04-16 04:46 |
-| Core & Main | Data Engineer II | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5e2495e00e0060d) | 2026-04-16 04:46 |
 
 
 ---
