@@ -1,18 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 21:39
+Last updated: 2026-04-20 22:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Paradigm Corp | IT Data Engineer III - Remote | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6d91e7d74c6a8abc) | 2026-04-20 22:35 |
+| Paradigm Corp | IT Data Engineer III - Remote | Lombard, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a983900d06af5f80) | 2026-04-20 22:35 |
+| JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bb9997a7eee60c24) | 2026-04-20 22:35 |
+| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 22:35 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 22:35 |
+| Liberty Mutual Insurance | Data Engineer | Portsmouth, NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a37dd105237e7eee) | 2026-04-20 22:35 |
+| Liberty Mutual Insurance | Data Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af0a27f5cad734cd) | 2026-04-20 22:35 |
+| Liberty Mutual Insurance | Data Engineer | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef54466fd6bf7b6b) | 2026-04-20 22:35 |
+| Liberty Mutual Insurance | Data Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3cd9046bcfc59025) | 2026-04-20 22:35 |
+| Boeing | Experienced Business Intelligence Developer | Tukwila, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=832138786e2c4867) | 2026-04-20 22:35 |
+| Brandt Information Services, Inc. | Senior Software Engineer Go Outdoors Payments | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d19947dba07869ac) | 2026-04-20 22:35 |
+| Brandt Information Services, Inc. | Software Engineer Go Outdoors | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99e9713b85aaa6a5) | 2026-04-20 22:35 |
+| Snowflake | Senior Software Developer - Full Stack | Dublin, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=abc88efd61aa5a80) | 2026-04-20 22:35 |
 | American Eagle Outfitters | Data Architect | Pittsburgh, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fff3451d72aca5a0) | 2026-04-20 21:39 |
 | nan | Dev/ MLOps Engineer I (Full Stack) | Rockville, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=427875b29ec1de14) | 2026-04-20 21:39 |
 | Agree Technologies and Solutions | Data Engineer | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2dc31db62fba45fd) | 2026-04-20 21:39 |
 | American Eagle Outfitters | Data Architect | Pittsburgh, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=46ceff8454ebfac5) | 2026-04-20 21:39 |
 | Liquidity Services, Inc. | Engineer II, Dev.Ops | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=851e43960c5deeba) | 2026-04-20 21:39 |
-| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 21:39 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 21:39 |
 | Charles Schwab | Sr. Java Software Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5dec65bf183a746b) | 2026-04-20 21:39 |
 | Stellantis | Software Engineer | Auburn Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34c00d3722b6113c) | 2026-04-20 20:38 |
 | Goldman Sachs | Asset & Wealth Management - AI Solutions Engineer - Associate - Dallas | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8e6ebff3fb9a8fa2) | 2026-04-20 20:38 |
@@ -421,13 +432,6 @@ Last updated: 2026-04-20 21:39
 | Carnival Cruise Line | Engineer, Data Platform & Analytics | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ec3bf6ef8f52ebe5) | 2026-04-16 23:33 |
 | Astronaut Party Inc. | Remote Full-Stack Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c53661df7aef299c) | 2026-04-16 23:33 |
 | AutoZone | Senior Systems Engineer (Commercial) | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00a3623a3bc10b68) | 2026-04-16 23:33 |
-| EXL Service | Senior Big Data Engineer | US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=12cc73e885e46940) | 2026-04-16 22:32 |
-| Invesco | Sr. Eng., Eng Services | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f602056d9e789b25) | 2026-04-16 22:32 |
-| Spectrio LLC | Senior Back-End Engineer | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1bdc93d3e13ebdd0) | 2026-04-16 22:32 |
-| Nordstrom | Senior Network Engineer (Hybrid - Seattle, WA) | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cf7e6921496659c0) | 2026-04-16 22:32 |
-| Liberty Mutual Insurance | Senior Data Engineer, Investments Technology | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4d24313a2ecfaf34) | 2026-04-16 22:32 |
-| Advait | Application Security Analyst | Brooklyn, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d58f2c1ddb77b874) | 2026-04-16 22:32 |
-| Deaconess Health System | Enterprise Analytics BID | Evansville, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6e89ffe2f4311bd) | 2026-04-16 22:32 |
 
 
 ---
