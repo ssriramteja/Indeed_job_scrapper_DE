@@ -1,15 +1,35 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 16:56
+Last updated: 2026-04-20 17:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| FreshDirect | GCP Data Cloud Architect with AI | Woodbridge, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=245f3c6627aa53a9) | 2026-04-20 17:52 |
+| Openkyber | AI Integration Consultant | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3a7d79dfeae2865) | 2026-04-20 17:52 |
+| Openkyber | AI Integration Consultant | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c810855cd475cddf) | 2026-04-20 17:52 |
+| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 17:52 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 17:52 |
+| The Hartford | AI Platform Engineer (Google Cloud Platform) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec7228093a638b5f) | 2026-04-20 17:52 |
+| The Hartford | AI Platform Engineer (Google Cloud Platform) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ddfe41cb3e214682) | 2026-04-20 17:52 |
+| The Hartford | AI Platform Engineer (Google Cloud Platform) | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3666c929b887d4e3) | 2026-04-20 17:52 |
+| The Hartford | AI Platform Engineer (Google Cloud Platform) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b1492fbbf44262d) | 2026-04-20 17:52 |
+| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d2229a1b23116108) | 2026-04-20 17:52 |
+| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=637189f4ee313108) | 2026-04-20 17:52 |
+| CG Infinity | Senior .NET Developer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af6f9746ce15f110) | 2026-04-20 17:52 |
+| CG Infinity | Senior .NET Developer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92f7fca632ed3f48) | 2026-04-20 17:52 |
+| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0d36f4f63dca52da) | 2026-04-20 17:52 |
+| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c75dd57a54105e4) | 2026-04-20 17:52 |
+| Eaton | Senior Data Architect - Analytics Platforms | Menomonee Falls, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d33261b56b6b771e) | 2026-04-20 17:52 |
+| Eaton | Senior Data Architect - Analytics Platforms | Galesburg, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f6955ba1be4a330) | 2026-04-20 17:52 |
+| Eaton | Senior Data Architect - Analytics Platforms | Moon Township, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=709beae9964c38c9) | 2026-04-20 17:52 |
+| Eaton | Senior Data Architect - Analytics Platforms | Southfield, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62ccfc0a42fa5999) | 2026-04-20 17:52 |
+| Eaton | Senior Data Architect - Analytics Platforms | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fae19b83fb3c677f) | 2026-04-20 17:52 |
+| Eaton | Senior Data Architect - Analytics Platforms | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a6c16c455fbe550) | 2026-04-20 17:52 |
+| Eaton | Senior Data Architect - Analytics Platforms | Beachwood, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19b9d1ca199648e5) | 2026-04-20 17:52 |
+| NTT DATA | API Architect | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e1e187ea4c6001c) | 2026-04-20 17:52 |
 | United Vein & Vascular Centers | Senior Data Engineer/ Architecture (ADF & Databricks) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e308055f15971689) | 2026-04-20 16:56 |
-| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 16:56 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 16:56 |
-| Mosaic Partners | Data Engineer \| Buy Side | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1f51528459a436b7) | 2026-04-20 16:56 |
 | American Express | AI Engineer-Machine Learning Platform | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac07d11154ac5713) | 2026-04-20 16:56 |
 | American Express | Software Engineer II - Global Servicing Technology | Sunrise, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=26fffd4f5d1b3c90) | 2026-04-20 16:56 |
 | American Express | Sr Software Engineer I - Global Servicing Technology | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e593d6d7bcb6eda7) | 2026-04-20 16:56 |
@@ -417,8 +437,6 @@ Last updated: 2026-04-20 16:56
 | COVERCRAFT INDUSTRIES | Power BI Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d5dc2c7f7fff79d2) | 2026-04-16 19:00 |
 | Dayforce | Cloud Infrastructure Engineer Prin | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e17559f247cbc51a) | 2026-04-16 19:00 |
 | Photon | Java backend data engineer - Smithfield RI | Smithfield, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d795ea45cb03ea9) | 2026-04-16 19:00 |
-| Visa | Sr. Consultant SW Engineer | Bellevue, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f337cce3b659c83d) | 2026-04-16 17:04 |
-| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=412ff8500fa79e71) | 2026-04-16 17:04 |
 
 
 ---
