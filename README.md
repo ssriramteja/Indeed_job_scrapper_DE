@@ -1,14 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 20:38
+Last updated: 2026-04-20 21:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| American Eagle Outfitters | Data Architect | Pittsburgh, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fff3451d72aca5a0) | 2026-04-20 21:39 |
+| nan | Dev/ MLOps Engineer I (Full Stack) | Rockville, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=427875b29ec1de14) | 2026-04-20 21:39 |
+| Agree Technologies and Solutions | Data Engineer | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2dc31db62fba45fd) | 2026-04-20 21:39 |
+| American Eagle Outfitters | Data Architect | Pittsburgh, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=46ceff8454ebfac5) | 2026-04-20 21:39 |
+| Liquidity Services, Inc. | Engineer II, Dev.Ops | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=851e43960c5deeba) | 2026-04-20 21:39 |
+| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 21:39 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 21:39 |
+| Charles Schwab | Sr. Java Software Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5dec65bf183a746b) | 2026-04-20 21:39 |
 | Stellantis | Software Engineer | Auburn Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34c00d3722b6113c) | 2026-04-20 20:38 |
-| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 20:38 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 20:38 |
 | Goldman Sachs | Asset & Wealth Management - AI Solutions Engineer - Associate - Dallas | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8e6ebff3fb9a8fa2) | 2026-04-20 20:38 |
 | RRS Enterprises | Power BI Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5ef3473575569109) | 2026-04-20 20:38 |
 | University of Pittsburgh | Senior Data Engineer (EDGE) | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=303a6ba70fa90d4a) | 2026-04-20 19:55 |
@@ -422,17 +428,6 @@ Last updated: 2026-04-20 20:38
 | Liberty Mutual Insurance | Senior Data Engineer, Investments Technology | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4d24313a2ecfaf34) | 2026-04-16 22:32 |
 | Advait | Application Security Analyst | Brooklyn, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d58f2c1ddb77b874) | 2026-04-16 22:32 |
 | Deaconess Health System | Enterprise Analytics BID | Evansville, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6e89ffe2f4311bd) | 2026-04-16 22:32 |
-| Citizens | Kafka Infrastructure Engineer | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=288d8ed989f5e263) | 2026-04-16 21:35 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=59d1f24bbcec7861) | 2026-04-16 21:35 |
-| REsurety | Senior Cloud Operations Engineer - Boston | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=29974d87917cb0fe) | 2026-04-16 21:35 |
-| SpotOn | Senior Data Engineer (Clickhouse) | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=be868335e3ef6e98) | 2026-04-16 21:35 |
-| Intrado | Senior Software Engineer | Longmont, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e9f81856c387866b) | 2026-04-16 21:35 |
-| Verinext | ETL Developer | Suwanee, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=63d02d8862b8e251) | 2026-04-16 21:35 |
-| Weyerhaeuser | IT Intern - Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6189d252c6c4d09f) | 2026-04-16 21:35 |
-| ECS | DevSecOps Cloud Engineer | Fairfax, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96f58672f1d141ce) | 2026-04-16 21:35 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=009bef0a6c8cccee) | 2026-04-16 21:35 |
-| Tata Consultancy Services (TCS) | HR -Data Scientist | Renton, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7513f3b5f73b8498) | 2026-04-16 21:35 |
-| American Electric Power | Solution Engineer: Enterprise GenAI & Analytics Enablement | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed80186b477d6765) | 2026-04-16 21:35 |
 
 
 ---
