@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 04:52
+Last updated: 2026-04-20 07:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Blue Origin | Business Analyst Sr | FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0150b99a3b3fea86) | 2026-04-20 07:12 |
 | nan | Senior Software Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2020840dfc5b5027) | 2026-04-20 04:52 |
 | Cielo | AI Engineer (React UI) - Remote US | Wauwatosa, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0e67add270aac4c5) | 2026-04-19 20:28 |
 | Palmetto Tech | Architect with AWS and Data Bricks | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c581906df4e1c3dd) | 2026-04-19 18:36 |
@@ -433,16 +434,6 @@ Last updated: 2026-04-20 04:52
 | JPMorganChase | Software Engineer III – Cloud Platform Engineering - Python / AWS | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bb199efc831c0dc4) | 2026-04-16 10:09 |
 | Mayer Brown LLP | Architect: Enterprise Data | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ced77385e81a71b8) | 2026-04-16 10:09 |
 | Exponent | Senior Enterprise Application Developer (Full Stack) | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=acf79124967bf4c3) | 2026-04-16 08:23 |
-| Infinitive Inc | Data Architect/Modeler | Pittsburgh, PA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e10ec33698957c81) | 2026-04-16 06:30 |
-| Transmedics | Senior Software Development Engineer - Cloud Dev | Andover, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2f2220b49620882d) | 2026-04-16 06:30 |
-| nan | Data Engineer III | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=782f670b324716aa) | 2026-04-16 06:30 |
-| nan | Data Engineer III | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=65a4b202ac924d0b) | 2026-04-16 06:30 |
-| Kharon | Senior Site Reliability Engineer | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=757ea9686f738a0e) | 2026-04-16 06:30 |
-| Magna International | Senior Full Stack Developer, Smart Factory Solutions | Troy, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7d8d9f6032e5b6f) | 2026-04-16 06:30 |
-| Adobe | Sr. Data Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=523330c74b38a27b) | 2026-04-16 06:30 |
-| nan | Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7beef8ad4f571f7a) | 2026-04-16 06:30 |
-| TIAG | Senior Performance Test Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82eb3dabcdfd111c) | 2026-04-16 06:30 |
-| CardioOne | Senior Software Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b44f024bbd36d11) | 2026-04-16 06:30 |
 
 
 ---

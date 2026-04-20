@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-20
 
-**Total Jobs Found:** 3
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. AI Engineer (React UI) - Remote US @ Cielo
+## 2. Business Analyst Sr @ Blue Origin
+**Match Score:** 13.2%
+
+📍 **Location:** FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Databricks, Spark, PySpark, Scala, ETL, ELT, Power BI, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0150b99a3b3fea86)
+
+---
+
+## 3. AI Engineer (React UI) - Remote US @ Cielo
 **Match Score:** 11.8%
 
 📍 **Location:** Wauwatosa, WI, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Software Engineer @ nan
+## 4. Senior Software Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
