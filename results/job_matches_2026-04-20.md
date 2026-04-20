@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-04-20
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Specialist, Technology Engineer (Cloud Engineer) @ Nationwide Mutual Insurance Company
+## 1. Sr. Data Engineer @ Alkami Technology
+**Match Score:** 19.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, RDS, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2c9c766989d27507)
+
+---
+
+## 2. Specialist, Technology Engineer (Cloud Engineer) @ Nationwide Mutual Insurance Company
 **Match Score:** 13.2%
 
 📍 **Location:** Columbus, OH, US USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Business Analyst Sr @ Blue Origin
+## 3. Business Analyst Sr @ Blue Origin
 **Match Score:** 13.2%
 
 📍 **Location:** FL, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Specialty Software Engineer - Capital Markets Reference Data @ Wells Fargo
+## 4. Senior Specialty Software Engineer - Capital Markets Reference Data @ Wells Fargo
 **Match Score:** 12.5%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) @ State of Ohio
+## 5. Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) @ State of Ohio
 **Match Score:** 12.5%
 
 📍 **Location:** Columbus, OH, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. AI Engineer (React UI) - Remote US @ Cielo
+## 6. AI Engineer (React UI) - Remote US @ Cielo
 **Match Score:** 11.8%
 
 📍 **Location:** Wauwatosa, WI, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Software Engineer @ nan
+## 7. Senior Software Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
