@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 09:50
+Last updated: 2026-04-20 11:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 09:50 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 11:13 |
 | Wells Fargo | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f19a6e4f42a1dcfd) | 2026-04-20 09:50 |
 | State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=868cad9be8cb3aa5) | 2026-04-20 09:50 |
 | Blue Origin | Business Analyst Sr | FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0150b99a3b3fea86) | 2026-04-20 07:12 |
@@ -430,12 +430,6 @@ Last updated: 2026-04-20 09:50
 | Newpage Digital Healthcare solutions | Platform Operations Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=62bcd4ad2d0bbc62) | 2026-04-16 11:53 |
 | HP | Software Developer Internship | Spring, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5ee38c644f00bbc) | 2026-04-16 11:53 |
 | CardioOne | Senior Software Engineer | CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34653b24bff70a46) | 2026-04-16 11:53 |
-| Nexnovels | Data Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=fe02b0827629874b) | 2026-04-16 10:09 |
-| SS&C | Senior ML Engineer - Agentic AI | Waltham, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0ee08a694c71ee91) | 2026-04-16 10:09 |
-| Federal Reserve Bank of St. Louis | Sr Cloud Engineer | St. Louis, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=af192f5dcbf84698) | 2026-04-16 10:09 |
-| JPMorganChase | Software Engineer III | Palo Alto, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fe1513252d7f11af) | 2026-04-16 10:09 |
-| JPMorganChase | Software Engineer III – Cloud Platform Engineering - Python / AWS | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bb199efc831c0dc4) | 2026-04-16 10:09 |
-| Mayer Brown LLP | Architect: Enterprise Data | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ced77385e81a71b8) | 2026-04-16 10:09 |
 
 
 ---
