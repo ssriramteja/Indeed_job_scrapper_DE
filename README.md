@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 07:12
+Last updated: 2026-04-20 09:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 09:50 |
+| Wells Fargo | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f19a6e4f42a1dcfd) | 2026-04-20 09:50 |
+| State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=868cad9be8cb3aa5) | 2026-04-20 09:50 |
 | Blue Origin | Business Analyst Sr | FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0150b99a3b3fea86) | 2026-04-20 07:12 |
 | nan | Senior Software Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2020840dfc5b5027) | 2026-04-20 04:52 |
 | Cielo | AI Engineer (React UI) - Remote US | Wauwatosa, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0e67add270aac4c5) | 2026-04-19 20:28 |
@@ -433,7 +436,6 @@ Last updated: 2026-04-20 07:12
 | JPMorganChase | Software Engineer III | Palo Alto, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fe1513252d7f11af) | 2026-04-16 10:09 |
 | JPMorganChase | Software Engineer III – Cloud Platform Engineering - Python / AWS | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bb199efc831c0dc4) | 2026-04-16 10:09 |
 | Mayer Brown LLP | Architect: Enterprise Data | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ced77385e81a71b8) | 2026-04-16 10:09 |
-| Exponent | Senior Enterprise Application Developer (Full Stack) | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=acf79124967bf4c3) | 2026-04-16 08:23 |
 
 
 ---
