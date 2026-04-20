@@ -1,16 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 17:52
+Last updated: 2026-04-20 18:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 18:53 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 18:53 |
 | FreshDirect | GCP Data Cloud Architect with AI | Woodbridge, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=245f3c6627aa53a9) | 2026-04-20 17:52 |
 | Openkyber | AI Integration Consultant | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3a7d79dfeae2865) | 2026-04-20 17:52 |
 | Openkyber | AI Integration Consultant | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c810855cd475cddf) | 2026-04-20 17:52 |
-| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 17:52 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 17:52 |
 | The Hartford | AI Platform Engineer (Google Cloud Platform) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec7228093a638b5f) | 2026-04-20 17:52 |
 | The Hartford | AI Platform Engineer (Google Cloud Platform) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ddfe41cb3e214682) | 2026-04-20 17:52 |
 | The Hartford | AI Platform Engineer (Google Cloud Platform) | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3666c929b887d4e3) | 2026-04-20 17:52 |
