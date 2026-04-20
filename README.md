@@ -1,16 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 22:35
+Last updated: 2026-04-20 23:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Crown Equipment | Data Engineer - Data Services | New Bremen, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1a0449408242d4cd) | 2026-04-20 23:35 |
+| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 23:35 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 23:35 |
+| Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=106aa03227443434) | 2026-04-20 23:35 |
+| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e644f982314c50c) | 2026-04-20 23:35 |
 | Paradigm Corp | IT Data Engineer III - Remote | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6d91e7d74c6a8abc) | 2026-04-20 22:35 |
 | Paradigm Corp | IT Data Engineer III - Remote | Lombard, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a983900d06af5f80) | 2026-04-20 22:35 |
 | JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bb9997a7eee60c24) | 2026-04-20 22:35 |
-| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 22:35 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 22:35 |
 | Liberty Mutual Insurance | Data Engineer | Portsmouth, NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a37dd105237e7eee) | 2026-04-20 22:35 |
 | Liberty Mutual Insurance | Data Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af0a27f5cad734cd) | 2026-04-20 22:35 |
 | Liberty Mutual Insurance | Data Engineer | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef54466fd6bf7b6b) | 2026-04-20 22:35 |
@@ -423,15 +426,6 @@ Last updated: 2026-04-20 22:35
 | Kraken | Senior Database Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52aa342dcce6e0db) | 2026-04-17 01:46 |
 | Trellance | Loan Analytics & AI Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8996432c624d690f) | 2026-04-17 01:46 |
 | Skyworks Solutions | Data Scientist | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e89891e4a957f47b) | 2026-04-17 01:46 |
-| NavitasPartners | Senior Data Engineer - SDE 26-04140 | Long Island City, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d98bfdf8c981815d) | 2026-04-16 23:33 |
-| NavitasPartners | Senior Data Engineer - SDE 26-04140 | Brooklyn, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=08b278bfb38191e0) | 2026-04-16 23:33 |
-| NavitasPartners | Senior Data Engineer - SDE 26-04140 | Bronx, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f397f88e84805b3d) | 2026-04-16 23:33 |
-| NavitasPartners | Senior Data Engineer - SDE 26-04140 | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6b89ceef5f047ae5) | 2026-04-16 23:33 |
-| Visa | Software Development Engineer- Product Reliability Engineering | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4db1e66cf2c5955) | 2026-04-16 23:33 |
-| Visa | Software Development Engineer- Product Reliability Engineering | Highlands Ranch, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=941a8e269aca7287) | 2026-04-16 23:33 |
-| Carnival Cruise Line | Engineer, Data Platform & Analytics | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ec3bf6ef8f52ebe5) | 2026-04-16 23:33 |
-| Astronaut Party Inc. | Remote Full-Stack Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c53661df7aef299c) | 2026-04-16 23:33 |
-| AutoZone | Senior Systems Engineer (Commercial) | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00a3623a3bc10b68) | 2026-04-16 23:33 |
 
 
 ---
