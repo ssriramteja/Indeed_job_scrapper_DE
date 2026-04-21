@@ -1,20 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 04:43
+Last updated: 2026-04-21 06:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HCA Healthcare | Senior IT Architect | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1d043d29787d8ef9) | 2026-04-21 06:30 |
+| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-21 06:30 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-21 06:30 |
+| Adobe | Software Development Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f85aef5c7b6e68f) | 2026-04-21 06:30 |
+| LangChain | Solutions Architect (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8754e8d3551b49b0) | 2026-04-21 06:30 |
+| Minerva | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed82e0ddad246dda) | 2026-04-21 06:30 |
+| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84af24884d8c2311) | 2026-04-21 06:30 |
 | VNS Health | Data, Analytics and AI Platform Engineer | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d3dca5ca9c21a095) | 2026-04-21 04:43 |
 | State of Washington | IT Data Architect (Senior/Specialist) | Tumwater, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f264eea4efd38f74) | 2026-04-21 04:43 |
-| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-21 04:43 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-21 04:43 |
 | Fox Corporation | Data Scientist | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0d640b390d938641) | 2026-04-21 04:43 |
 | Kohlberg Kravis Roberts & Co. | Reinsurance Data Engineer New | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56a86f8f8ea85f81) | 2026-04-21 04:43 |
 | NVIDIA | Senior DevOps Engineer | Santa Clara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f41f6be104426dc) | 2026-04-21 04:43 |
 | Franklin Templeton | Senior Software Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=56905870be888df6) | 2026-04-21 04:43 |
-| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84af24884d8c2311) | 2026-04-21 04:43 |
 | Brillio LLC | Data Enterprise Architect – Banking | Edison, NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b71332e9c14c2344) | 2026-04-21 01:47 |
 | Wipro | DEVELOPER L3 | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e0a78b57cc2e9cee) | 2026-04-21 01:47 |
 | Full Circle Group & The Leadership Circle | Senior Data and Analytics Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=68e7d84738583957) | 2026-04-21 01:47 |
