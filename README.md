@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 17:53
+Last updated: 2026-04-21 18:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CoStar Group | Data Engineer II | Arlington, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=11c49f85138a1b57) | 2026-04-21 18:59 |
 | JCPenney | Data Engineer I | Dallas, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=a759ca089bff0f85) | 2026-04-21 17:53 |
 | Openkyber | Okta | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6436f900bda01324) | 2026-04-21 17:53 |
 | Openkyber | Okta | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=14776783056c9570) | 2026-04-21 17:53 |
@@ -299,12 +300,6 @@ Last updated: 2026-04-21 17:53
 | Optum | Sr. Data Analyst - (Hybrid In Office / Remote) | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c06ca39989d67fc1) | 2026-04-17 20:36 |
 | Cardinal Health | Senior Data Engineer, Digital Partner | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d89c34333b046cf2) | 2026-04-17 20:36 |
 | Axogen | Data Engineer | Tampa, FL, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=b61d40c84be0641c) | 2026-04-17 19:53 |
-| Millennium Systems International | Quality Assurance Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c174e4a43011a2c9) | 2026-04-17 18:45 |
-| Ragle Inc | Data Engineer | North Richland Hills, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fe761f1068f25661) | 2026-04-17 18:45 |
-| Cutsforth | Full Stack Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8250b1164fbcace2) | 2026-04-17 18:45 |
-| Tommy Car Wash | Cloud Infrastructure Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d448c5ab4722a01) | 2026-04-17 18:45 |
-| k1x | Senior Quality Assurance Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60943689647471d7) | 2026-04-17 18:45 |
-| Texas A&M University | Cloud/DevOps Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=31d5ea9eaf910d9d) | 2026-04-17 18:45 |
 
 
 ---
