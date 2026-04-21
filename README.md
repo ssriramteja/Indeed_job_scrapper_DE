@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 21:38
+Last updated: 2026-04-21 22:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EXL Service | AI Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4d82e274d453e4ad) | 2026-04-21 22:32 |
+| LVTLABS | Kong API Developer / API Gateway Engineer | Hawthorn Wds, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=26b193a0ca9b282b) | 2026-04-21 22:32 |
+| Vegas Tickets | Full Stack Developer [US Based Employee] | Las Vegas, NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b9c6576ad0babb42) | 2026-04-21 22:32 |
+| Podimetrics, Inc | Sr. Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f4c32862f1c73054) | 2026-04-21 22:32 |
+| intent design ltd | Azure Integration Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76fbbcfefd3014c8) | 2026-04-21 22:32 |
+| Fiserv | Application Automation - Summer Intern | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e747b081b28ed805) | 2026-04-21 22:32 |
 | WISE EQUATION SOLUTION INC | AWS Developer | Greensboro, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=840498587d7ca5cd) | 2026-04-21 21:38 |
 | Brown and Caldwell | Data & AI Platform Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a9f7841a504710c6) | 2026-04-21 21:38 |
 | WEX Inc. | Software AI Engineer Mid-Level, Context Engineering | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=473e4eea7c69bb40) | 2026-04-21 21:38 |
@@ -292,16 +298,6 @@ Last updated: 2026-04-21 21:38
 | Hilton | FinOps Engineer (contract) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6dd43ceac422ce43) | 2026-04-17 23:31 |
 | Transamerica | Specialist Software Engineering - AI Engineer | Cedar Rapids, IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fff175ae01f3ab66) | 2026-04-17 23:31 |
 | Advanced software systems | Senior QA Automation Engineer New | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b71302c76e3ba6a) | 2026-04-17 23:31 |
-| RV Soft | AI ML Engineer with Python - Remote | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=78e188b5e4e75f91) | 2026-04-17 22:30 |
-| NBCUniversal | Senior Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e2ce969ed683c99c) | 2026-04-17 22:30 |
-| Honeywell | Software Engr II - AI/ML OPS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0e6cd7c52df93861) | 2026-04-17 22:30 |
-| Securiport | Software Engineer - .NET / SES | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dbb50040f75b1f4b) | 2026-04-17 22:30 |
-| Securiport | Software Engineer (Front-End) / APIS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a6763fb716379185) | 2026-04-17 22:30 |
-| Securiport | Software Engineer - .NET / APIS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9d8818c08b495451) | 2026-04-17 22:30 |
-| Securiport | Software Engineer - .NET / TMS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=67ae3b24fcb014bc) | 2026-04-17 22:30 |
-| Okta | Senior Analytics Engineer | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea4b2f2436506efc) | 2026-04-17 22:30 |
-| Thread Bank | Data Engineer II | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fd5e7c5142ccaf15) | 2026-04-17 22:30 |
-| AT&T | Senior Data/AI Engineering | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dcaed35eb6ac63b) | 2026-04-17 22:30 |
 
 
 ---
