@@ -1,11 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 16:49
+Last updated: 2026-04-21 17:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JCPenney | Data Engineer I | Dallas, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=a759ca089bff0f85) | 2026-04-21 17:53 |
+| Openkyber | Okta | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6436f900bda01324) | 2026-04-21 17:53 |
+| Openkyber | Okta | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=14776783056c9570) | 2026-04-21 17:53 |
+| Openkyber | Okta IAM Engineer | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=89e35139815f4a73) | 2026-04-21 17:53 |
+| Openkyber | Okta | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=29eb4b25500beb8f) | 2026-04-21 17:53 |
+| Openkyber | Associate Network Operations Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e57463bb555dc770) | 2026-04-21 17:53 |
+| Openkyber | Okta IAM Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=638d31785669a8b7) | 2026-04-21 17:53 |
+| SmartThings | Sr Software Engineer | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f3621f9dee302478) | 2026-04-21 17:53 |
+| Openkyber | AWS Network Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fc1d62ec0f497740) | 2026-04-21 17:53 |
+| Openkyber | Azure Network Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=13a4ffe330a49d68) | 2026-04-21 17:53 |
+| Openkyber | Okta IAM Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ad28557fa5dd3f3) | 2026-04-21 17:53 |
+| Witherite Law Group | Azure Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a8f99f229d1e8a5c) | 2026-04-21 17:53 |
+| Openkyber | PingOne Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3abc772dea7afb0b) | 2026-04-21 17:53 |
+| Cross River Bank | Senior AI/ML Engineer | Fort Lee, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0d9f1a6d4065db66) | 2026-04-21 17:53 |
+| Openkyber | PingOne Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=68922ec4695e5f78) | 2026-04-21 17:53 |
+| Cross River Bank | Full Stack Engineer | Fort Lee, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a7a3e15c84ea264) | 2026-04-21 17:53 |
+| Empower Pharmacy | Software Engineer – Full Stack | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1e78a720e18a8f5) | 2026-04-21 17:53 |
 | nan | Data Engineer | Mesa, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=707ff3ea38954494) | 2026-04-21 16:49 |
 | Pat N Sally Inc | Cloud Computing Specialist | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50abe9e2081e3326) | 2026-04-21 16:49 |
 | SCP Health | Data Engineer II | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e966d98ccd8eeb74) | 2026-04-21 16:49 |
@@ -288,16 +305,6 @@ Last updated: 2026-04-21 16:49
 | Tommy Car Wash | Cloud Infrastructure Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d448c5ab4722a01) | 2026-04-17 18:45 |
 | k1x | Senior Quality Assurance Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60943689647471d7) | 2026-04-17 18:45 |
 | Texas A&M University | Cloud/DevOps Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=31d5ea9eaf910d9d) | 2026-04-17 18:45 |
-| United Vein & Vascular Centers | Senior Data Engineer/ Architecture (ADF & Databricks) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7a9e3b0a9c943d41) | 2026-04-17 17:42 |
-| Common Sail Investment Group | Data Engineer | Brighton, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c780af08dcbda8c9) | 2026-04-17 17:42 |
-| Monks | Senior Back End Developer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6bcdec629f0e3a3a) | 2026-04-17 17:42 |
-| Cohere Health | Senior Forward-Deployed Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cb64897e01ace612) | 2026-04-17 17:42 |
-| AAA Central Penn | Business Intelligence Developer | Harrisburg, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1a31f6cd5ddd20bc) | 2026-04-17 17:42 |
-| Triwave Solutions Inc | QA Engineer / Automation Tester | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01628e06adc6c80b) | 2026-04-17 17:42 |
-| AAA Central Penn | Business Intelligence Analyst | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed22c50a30b76424) | 2026-04-17 17:42 |
-| Reyes Coca-Cola Bottling | Machine Learning Engineer | Niles, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8c9edf8ff72cde8) | 2026-04-17 17:42 |
-| BMO Financial Group | Senior Cloud Engineer AI | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=552def578ffb19f8) | 2026-04-17 17:42 |
-| CaseGuard | Senior Software Engineer – Backend | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbb676fb8407e921) | 2026-04-17 17:42 |
 
 
 ---
