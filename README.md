@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 13:03
+Last updated: 2026-04-21 15:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Shade Store | Analytics Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=64251d971f917430) | 2026-04-21 15:05 |
+| Health Care Service Corporation | BI Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05b830867236986c) | 2026-04-21 15:05 |
+| UVA Health | Data Engineer- Microsoft Fabric | Charlottesville, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f1e012731e28218) | 2026-04-21 15:05 |
+| University of Virginia | Data Engineer- Microsoft Fabric | Charlottesville, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34114659eae6a8ad) | 2026-04-21 15:05 |
+| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | Fort Collins, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84af24884d8c2311) | 2026-04-21 15:05 |
 | Symetra | Sr. Software Engineer I | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5753698810124b20) | 2026-04-21 13:03 |
 | JCPenney | Data Engineer I | Dallas, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=9b1ce5d3e25c16d4) | 2026-04-21 11:55 |
 | Openkyber | PingOne Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa27147966b86ffa) | 2026-04-21 11:55 |
@@ -298,9 +303,6 @@ Last updated: 2026-04-21 13:03
 | Avtech Solutions INC. | Cloud Infrastructure Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3efed3eb4463e7ff) | 2026-04-17 15:52 |
 | Revvity | Senior DevOps Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d79dd43d11ec2797) | 2026-04-17 15:52 |
 | BMO Financial Group | Senior Cloud Engineer AI | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f62a4ead15d94e9f) | 2026-04-17 15:52 |
-| INNOVIM, LLC | Senior Software Engineer - NASA | Annapolis, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12bafd41a3bf798f) | 2026-04-17 14:20 |
-| Verra Mobility | Senior Cloud Network Engineer | Mesa, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=452170f7558c869a) | 2026-04-17 14:20 |
-| AvalonBay Communities | Senior Software Engineer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d4406c73c381128) | 2026-04-17 14:20 |
 
 
 ---
