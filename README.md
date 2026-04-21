@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 22:32
+Last updated: 2026-04-21 23:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Network IoT Engineer | GA, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=7a26555a7e1695a9) | 2026-04-21 23:29 |
+| Openkyber | Network IoT Engineer | GA, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=41d41dba6e5bbf64) | 2026-04-21 23:29 |
+| Recutify Inc. | GCP Data Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8fe2835081fe7ce2) | 2026-04-21 23:29 |
+| Openkyber | AWS Network Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2c99f9dffdd56b5b) | 2026-04-21 23:29 |
+| Visa | Senior Cloud Infrastructure Systems Engineer | Ashburn, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=48f3f6761af5a6ca) | 2026-04-21 23:29 |
+| Stellantis | ICT Data Analyst/Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83f649135cd571c8) | 2026-04-21 23:29 |
+| DoubleVerify | Sr. Site Reliability Engineer I | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=18b5f2a66adcafce) | 2026-04-21 23:29 |
+| Tiger Analytics | Sr Data Engineer + Platform Engineer (GCP) | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd7aa5a7d64f9c11) | 2026-04-21 23:29 |
+| Openkyber | AWS Network Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f5e5cf7170d5ea7) | 2026-04-21 23:29 |
 | EXL Service | AI Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4d82e274d453e4ad) | 2026-04-21 22:32 |
 | LVTLABS | Kong API Developer / API Gateway Engineer | Hawthorn Wds, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=26b193a0ca9b282b) | 2026-04-21 22:32 |
 | Vegas Tickets | Full Stack Developer [US Based Employee] | Las Vegas, NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b9c6576ad0babb42) | 2026-04-21 22:32 |
