@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 10:12
+Last updated: 2026-04-21 11:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JCPenney | Data Engineer I | Dallas, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=9b1ce5d3e25c16d4) | 2026-04-21 11:55 |
+| Openkyber | PingOne Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa27147966b86ffa) | 2026-04-21 11:55 |
+| PA Consulting | Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e0c90ddd19e5a5f) | 2026-04-21 11:55 |
+| Guidewire | Senior ML Engineer, Generative AI | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=372304a6a2fe598d) | 2026-04-21 11:55 |
+| Comcast | Data Solutions Advisor | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d2c8ca96aa7a522) | 2026-04-21 11:55 |
 | FreshDirect | GCP Data Cloud Architect with AI | Woodbridge, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=41f37c9c95ba03e4) | 2026-04-21 10:12 |
 | JPMorganChase | Data Domain Architect Senior Associate | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2251cb5230311649) | 2026-04-21 10:12 |
 | JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c06059acfed7a424) | 2026-04-21 10:12 |
