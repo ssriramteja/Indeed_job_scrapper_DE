@@ -1,14 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-20 23:35
+Last updated: 2026-04-21 01:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Brillio LLC | Data Enterprise Architect – Banking | Edison, NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b71332e9c14c2344) | 2026-04-21 01:47 |
+| Wipro | DEVELOPER L3 | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e0a78b57cc2e9cee) | 2026-04-21 01:47 |
+| Full Circle Group & The Leadership Circle | Senior Data and Analytics Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=68e7d84738583957) | 2026-04-21 01:47 |
+| Adobe | Senior AI Data Platform Engineer | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7573a96b762a6443) | 2026-04-21 01:47 |
+| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-21 01:47 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-21 01:47 |
+| nan | Infrastructure Engineer (Backend) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e05e42c5fd1053cf) | 2026-04-21 01:47 |
+| Blue Shield of California | Full Stack Engineer, Senior | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ad0aa11b03bcee2) | 2026-04-21 01:47 |
+| MedReview | ETL Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=255e39c7d622d171) | 2026-04-21 01:47 |
 | Crown Equipment | Data Engineer - Data Services | New Bremen, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1a0449408242d4cd) | 2026-04-20 23:35 |
-| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 23:35 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 23:35 |
 | Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=106aa03227443434) | 2026-04-20 23:35 |
 | Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e644f982314c50c) | 2026-04-20 23:35 |
 | Paradigm Corp | IT Data Engineer III - Remote | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6d91e7d74c6a8abc) | 2026-04-20 22:35 |
@@ -411,21 +418,6 @@ Last updated: 2026-04-20 23:35
 | Deloitte | Deloitte Cyber Fullstack Engineer Consultant | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d90683951a6c8ba3) | 2026-04-17 04:43 |
 | Deloitte | Deloitte Cyber Fullstack Engineer Consultant | Colorado Springs, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b422d68469a1f25b) | 2026-04-17 04:43 |
 | Deloitte | Deloitte Cyber Fullstack Engineer Consultant | Gilbert, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=885e5e27f5930400) | 2026-04-17 04:43 |
-| Range Resources | Sr Data Engineer | Fort Worth, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=904977d520bdf5b0) | 2026-04-17 01:46 |
-| Range Resources | Sr Data Engineer | Fort Worth, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2e3188795e6538ca) | 2026-04-17 01:46 |
-| Ahead | Senior Technical Consultant - Data & Analytics | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b11754d25d1def69) | 2026-04-17 01:46 |
-| Par Pacific Holdings | Data Analyst | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=432bf674bdc9d04a) | 2026-04-17 01:46 |
-| Cotiviti | Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4aae9352fc29e45e) | 2026-04-17 01:46 |
-| GM Financial | Software Development Engineer II | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=99c121bf83d8e9cc) | 2026-04-17 01:46 |
-| Foodsmart | Software Development Engineer in Test (SDET) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fd964a7f985c7f20) | 2026-04-17 01:46 |
-| EchoStar | Senior Data Scientist | Littleton, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f59c09f5f61dc700) | 2026-04-17 01:46 |
-| Sightline Payments | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=604026874aa33ee4) | 2026-04-17 01:46 |
-| D.A. Davidson Companies | Azure Cloud Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=67989aa6e10bd139) | 2026-04-17 01:46 |
-| Tenex.Ai | AI Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc4cd9c33b66b366) | 2026-04-17 01:46 |
-| Commonwealth of Massachusetts | Sr. Data Visualization Developer - Contractor | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f667ff007768704) | 2026-04-17 01:46 |
-| Kraken | Senior Database Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52aa342dcce6e0db) | 2026-04-17 01:46 |
-| Trellance | Loan Analytics & AI Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8996432c624d690f) | 2026-04-17 01:46 |
-| Skyworks Solutions | Data Scientist | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e89891e4a957f47b) | 2026-04-17 01:46 |
 
 
 ---
