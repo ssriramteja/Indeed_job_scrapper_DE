@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 08:28
+Last updated: 2026-04-21 10:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-21 08:28 |
+| FreshDirect | GCP Data Cloud Architect with AI | Woodbridge, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=41f37c9c95ba03e4) | 2026-04-21 10:12 |
+| JPMorganChase | Data Domain Architect Senior Associate | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2251cb5230311649) | 2026-04-21 10:12 |
+| JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c06059acfed7a424) | 2026-04-21 10:12 |
 | Hermeus | AI DevOps / Platform Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=623f9a35a70c68ae) | 2026-04-21 08:28 |
 | Applied Information Sciences | Sr. Software Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83326895ce89ffec) | 2026-04-21 08:28 |
-| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84af24884d8c2311) | 2026-04-21 08:28 |
 | HCA Healthcare | Senior IT Architect | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1d043d29787d8ef9) | 2026-04-21 06:30 |
 | Adobe | Software Development Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f85aef5c7b6e68f) | 2026-04-21 06:30 |
 | LangChain | Solutions Architect (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8754e8d3551b49b0) | 2026-04-21 06:30 |
@@ -294,11 +295,6 @@ Last updated: 2026-04-21 08:28
 | INNOVIM, LLC | Senior Software Engineer - NASA | Annapolis, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12bafd41a3bf798f) | 2026-04-17 14:20 |
 | Verra Mobility | Senior Cloud Network Engineer | Mesa, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=452170f7558c869a) | 2026-04-17 14:20 |
 | AvalonBay Communities | Senior Software Engineer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d4406c73c381128) | 2026-04-17 14:20 |
-| JPMorganChase | Software Engineer III Java/ PySpark/AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=37bf9d965cb61989) | 2026-04-17 10:06 |
-| JPMorganChase | Data Engineer III | Jersey City, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cb62521e6f4965d9) | 2026-04-17 10:06 |
-| Intrado | Senior Software Engineer | Longmont, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=34c58d501fbb2c3c) | 2026-04-17 10:06 |
-| MDVIP Practice Management | Senior Analytics Engineer, Applied AI | Boca Raton, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55208595c4f43eca) | 2026-04-17 10:06 |
-| MDVIP LLC | Senior Analytics Engineer, Applied AI | Boca Raton, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39d31d3f8d013d09) | 2026-04-17 10:06 |
 
 
 ---
