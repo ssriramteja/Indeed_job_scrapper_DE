@@ -1,16 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 15:05
+Last updated: 2026-04-21 16:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Data Engineer | Mesa, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=707ff3ea38954494) | 2026-04-21 16:49 |
+| Pat N Sally Inc | Cloud Computing Specialist | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50abe9e2081e3326) | 2026-04-21 16:49 |
+| SCP Health | Data Engineer II | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e966d98ccd8eeb74) | 2026-04-21 16:49 |
+| Mission Pet Health | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9835c179aace3eb2) | 2026-04-21 16:49 |
 | The Shade Store | Analytics Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=64251d971f917430) | 2026-04-21 15:05 |
 | Health Care Service Corporation | BI Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05b830867236986c) | 2026-04-21 15:05 |
 | UVA Health | Data Engineer- Microsoft Fabric | Charlottesville, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f1e012731e28218) | 2026-04-21 15:05 |
 | University of Virginia | Data Engineer- Microsoft Fabric | Charlottesville, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34114659eae6a8ad) | 2026-04-21 15:05 |
-| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | Fort Collins, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84af24884d8c2311) | 2026-04-21 15:05 |
 | Symetra | Sr. Software Engineer I | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5753698810124b20) | 2026-04-21 13:03 |
 | JCPenney | Data Engineer I | Dallas, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=9b1ce5d3e25c16d4) | 2026-04-21 11:55 |
 | Openkyber | PingOne Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa27147966b86ffa) | 2026-04-21 11:55 |
@@ -295,14 +298,6 @@ Last updated: 2026-04-21 15:05
 | Reyes Coca-Cola Bottling | Machine Learning Engineer | Niles, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8c9edf8ff72cde8) | 2026-04-17 17:42 |
 | BMO Financial Group | Senior Cloud Engineer AI | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=552def578ffb19f8) | 2026-04-17 17:42 |
 | CaseGuard | Senior Software Engineer – Backend | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbb676fb8407e921) | 2026-04-17 17:42 |
-| Primoris Services Corporation | Databricks Senior Architect | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b59ebfd8c1dc1985) | 2026-04-17 16:45 |
-| nan | Data Engineer | Reston, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=21d0748d1f5a35c3) | 2026-04-17 16:45 |
-| Chubb Insurance | Senior Software Engineer | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e7e40475db458220) | 2026-04-17 16:45 |
-| CaseGuard | Senior Software Engineer – Backend New | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5dbcba31adbe291) | 2026-04-17 16:45 |
-| Ciklum | Senior Back End JS Developer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4297081d7551674e) | 2026-04-17 15:52 |
-| Avtech Solutions INC. | Cloud Infrastructure Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3efed3eb4463e7ff) | 2026-04-17 15:52 |
-| Revvity | Senior DevOps Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d79dd43d11ec2797) | 2026-04-17 15:52 |
-| BMO Financial Group | Senior Cloud Engineer AI | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f62a4ead15d94e9f) | 2026-04-17 15:52 |
 
 
 ---
