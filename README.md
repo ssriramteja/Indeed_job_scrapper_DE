@@ -1,18 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 06:30
+Last updated: 2026-04-21 08:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-21 08:28 |
+| Hermeus | AI DevOps / Platform Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=623f9a35a70c68ae) | 2026-04-21 08:28 |
+| Applied Information Sciences | Sr. Software Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83326895ce89ffec) | 2026-04-21 08:28 |
+| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84af24884d8c2311) | 2026-04-21 08:28 |
 | HCA Healthcare | Senior IT Architect | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1d043d29787d8ef9) | 2026-04-21 06:30 |
-| Ford Motor Company | Compute - New | India Hook, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-21 06:30 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-21 06:30 |
 | Adobe | Software Development Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f85aef5c7b6e68f) | 2026-04-21 06:30 |
 | LangChain | Solutions Architect (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8754e8d3551b49b0) | 2026-04-21 06:30 |
 | Minerva | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed82e0ddad246dda) | 2026-04-21 06:30 |
-| Hewlett Packard Enterprise \| HPE | Senior Application Security Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84af24884d8c2311) | 2026-04-21 06:30 |
 | VNS Health | Data, Analytics and AI Platform Engineer | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d3dca5ca9c21a095) | 2026-04-21 04:43 |
 | State of Washington | IT Data Architect (Senior/Specialist) | Tumwater, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f264eea4efd38f74) | 2026-04-21 04:43 |
 | Fox Corporation | Data Scientist | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0d640b390d938641) | 2026-04-21 04:43 |
@@ -298,17 +299,6 @@ Last updated: 2026-04-21 06:30
 | Intrado | Senior Software Engineer | Longmont, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=34c58d501fbb2c3c) | 2026-04-17 10:06 |
 | MDVIP Practice Management | Senior Analytics Engineer, Applied AI | Boca Raton, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55208595c4f43eca) | 2026-04-17 10:06 |
 | MDVIP LLC | Senior Analytics Engineer, Applied AI | Boca Raton, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39d31d3f8d013d09) | 2026-04-17 10:06 |
-| Witriol Consulting | Senior Azure Databricks Data Architect / Engineer (Public Sector) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=887e1abe8d5989a7) | 2026-04-17 08:22 |
-| Foodsmart | Senior Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43644f263e6cc15a) | 2026-04-17 08:22 |
-| WSP | AI / ML Engineer - Image Analytics | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=89c910b7dbb4b17b) | 2026-04-17 08:22 |
-| Press Ganey | Senior Software Engineer ( Java) | Decatur, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0924474206e422da) | 2026-04-17 08:22 |
-| Ronin Consulting | Software Engineer | Franklin, TN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9c393b57d6602344) | 2026-04-17 06:31 |
-| Advait | Full Stack Developer (AWS/Azure/.Net/React/Angular/SQL) | Brooklyn, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fb4f95bd6e7ce591) | 2026-04-17 06:31 |
-| HCA Healthcare | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7421e24a70553f85) | 2026-04-17 06:31 |
-| HCA Healthcare | Senior Data Engineer - APIs | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aabd22e742757776) | 2026-04-17 06:31 |
-| NTT DATA | Data Engineer (On-Site Dallas) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba872060c9bb68b6) | 2026-04-17 06:31 |
-| NTT DATA | Data Engineer (On-Site Dallas) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a18554fdc47f587) | 2026-04-17 06:31 |
-| Guidewire | Software Engineer III - Cloud Platform | San Mateo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5eb066c0ccadcb8e) | 2026-04-17 06:31 |
 
 
 ---
