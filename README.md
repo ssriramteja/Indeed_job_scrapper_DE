@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 18:59
+Last updated: 2026-04-21 20:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Remote Azure Cloud Engineer | Ashburn, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e17f6626567905dd) | 2026-04-21 20:04 |
+| OneTrust | Data Platform Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e9577f06fc17064b) | 2026-04-21 20:04 |
+| State Street | Middle Office Production Support Officer | Quincy, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d477484091d86d9) | 2026-04-21 20:04 |
+| Miami University | BI ETL Data Developer II or III | Oxford, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=be7780cda1b04985) | 2026-04-21 20:04 |
+| PlayStation | Senior Service Reliability Engineer | Aliso Viejo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=675136ff532a1cc5) | 2026-04-21 20:04 |
+| Contingent Crew, LLC | PowerBI Developer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b6960d866243637) | 2026-04-21 20:04 |
+| Core & Main | Data Engineer II | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=986441a4b7cccaf5) | 2026-04-21 20:04 |
 | CoStar Group | Data Engineer II | Arlington, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=11c49f85138a1b57) | 2026-04-21 18:59 |
 | JCPenney | Data Engineer I | Dallas, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=a759ca089bff0f85) | 2026-04-21 17:53 |
 | Openkyber | Okta | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6436f900bda01324) | 2026-04-21 17:53 |
@@ -299,7 +306,6 @@ Last updated: 2026-04-21 18:59
 | TargetPath Solutions | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d8cc92d46121bf5d) | 2026-04-17 20:36 |
 | Optum | Sr. Data Analyst - (Hybrid In Office / Remote) | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c06ca39989d67fc1) | 2026-04-17 20:36 |
 | Cardinal Health | Senior Data Engineer, Digital Partner | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d89c34333b046cf2) | 2026-04-17 20:36 |
-| Axogen | Data Engineer | Tampa, FL, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=b61d40c84be0641c) | 2026-04-17 19:53 |
 
 
 ---
