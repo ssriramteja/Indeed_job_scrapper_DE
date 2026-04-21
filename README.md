@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 11:55
+Last updated: 2026-04-21 13:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Symetra | Sr. Software Engineer I | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5753698810124b20) | 2026-04-21 13:03 |
 | JCPenney | Data Engineer I | Dallas, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=9b1ce5d3e25c16d4) | 2026-04-21 11:55 |
 | Openkyber | PingOne Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa27147966b86ffa) | 2026-04-21 11:55 |
 | PA Consulting | Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e0c90ddd19e5a5f) | 2026-04-21 11:55 |
