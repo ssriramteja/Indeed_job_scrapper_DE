@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 20:04
+Last updated: 2026-04-21 21:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| WISE EQUATION SOLUTION INC | AWS Developer | Greensboro, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=840498587d7ca5cd) | 2026-04-21 21:38 |
+| Brown and Caldwell | Data & AI Platform Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a9f7841a504710c6) | 2026-04-21 21:38 |
+| WEX Inc. | Software AI Engineer Mid-Level, Context Engineering | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=473e4eea7c69bb40) | 2026-04-21 21:38 |
+| Michael Baker International | Software Developer II - REMOTE | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e08a27412cb3aca9) | 2026-04-21 21:38 |
+| R1 RCM | Senior Software Engineer | UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d57d61e65bfc57f) | 2026-04-21 21:38 |
+| Plymouth Rock Assurance | Data Architect | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=42f1ba78ee960a45) | 2026-04-21 21:38 |
+| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1cab7004c6202bd5) | 2026-04-21 21:38 |
+| Intent Design Pvt Ltd | Azure Integration Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=753eee17cd52656e) | 2026-04-21 21:38 |
+| Stellantis | ICT Data Analyst/Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=785c40fa6b6ef824) | 2026-04-21 21:38 |
+| DoubleVerify | Sr. Site Reliability Engineer I | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13bf6308ab860db0) | 2026-04-21 21:38 |
+| WEX Inc. | Sr Software AI Engineer 3 - Context Engineering | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb1bac54e3a5abdf) | 2026-04-21 21:38 |
 | nan | Remote Azure Cloud Engineer | Ashburn, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e17f6626567905dd) | 2026-04-21 20:04 |
 | OneTrust | Data Platform Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e9577f06fc17064b) | 2026-04-21 20:04 |
 | State Street | Middle Office Production Support Officer | Quincy, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d477484091d86d9) | 2026-04-21 20:04 |
@@ -291,21 +302,6 @@ Last updated: 2026-04-21 20:04
 | Okta | Senior Analytics Engineer | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea4b2f2436506efc) | 2026-04-17 22:30 |
 | Thread Bank | Data Engineer II | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fd5e7c5142ccaf15) | 2026-04-17 22:30 |
 | AT&T | Senior Data/AI Engineering | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3dcaed35eb6ac63b) | 2026-04-17 22:30 |
-| FCT | Senior Data Engineer (Remote in CA) | CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=c76e322a4d3ade18) | 2026-04-17 21:34 |
-| FCT | Senior Data Engineer (Remote in CA) | Santa Ana, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=5e762c929a195ba8) | 2026-04-17 21:34 |
-| Excelque | Master Data Management (MDM) Consultant – Profisee Platform | Warren, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9b37c8ee4ee7bf02) | 2026-04-17 21:34 |
-| ISPOT | Sr. Software Development Engineer | Bellevue, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c75b5664a6aff70e) | 2026-04-17 21:34 |
-| ISPOT | Software Development Engineer 2 | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=54a4e4c9616d4030) | 2026-04-17 21:34 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8082666934df685b) | 2026-04-17 21:34 |
-| Allen Control Systems | Full Stack Developer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=edfae0c05394c576) | 2026-04-17 21:34 |
-| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f6817702e6d4b9a) | 2026-04-17 21:34 |
-| Broadcom | Software Engineer | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9dc801ed3fb91585) | 2026-04-17 21:34 |
-| UMB Financial Corporation | Sr. Software Engineer (Full-stack) | Kansas City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca75ca2f1913297a) | 2026-04-17 21:34 |
-| NTT DATA | AI Engineer | Warren, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=5880998894df386b) | 2026-04-17 20:36 |
-| nan | Full Stack Engineer (C2H) | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e1ac176083e14a75) | 2026-04-17 20:36 |
-| TargetPath Solutions | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d8cc92d46121bf5d) | 2026-04-17 20:36 |
-| Optum | Sr. Data Analyst - (Hybrid In Office / Remote) | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c06ca39989d67fc1) | 2026-04-17 20:36 |
-| Cardinal Health | Senior Data Engineer, Digital Partner | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d89c34333b046cf2) | 2026-04-17 20:36 |
 
 
 ---
