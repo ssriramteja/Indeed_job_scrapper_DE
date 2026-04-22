@@ -1,20 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-22 08:26
+Last updated: 2026-04-22 10:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Data Engineer | Springfield, MO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53f7dd47c3f8803c) | 2026-04-22 10:13 |
+| Edgewater Federal Solutions | Sr. Data Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4810bc0b521803bb) | 2026-04-22 10:13 |
+| Fisher's Technology | Power BI Data Analyst | Boise, ID, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f95ced54585e0bd6) | 2026-04-22 10:13 |
+| BECU | Senior Data Scientist, Marketing Analytics | WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=710a55c7263d5b09) | 2026-04-22 10:13 |
+| JPMorganChase | Software Engineer II- Front end/DevOps | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d8b3be2ba2f955b8) | 2026-04-22 10:13 |
 | Capp | Senior DevOps Engineer | Downers Grove, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5005229862766ee1) | 2026-04-22 08:26 |
 | ITRIKA INC | Data Analytics Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b67320ad58483b7) | 2026-04-22 08:26 |
 | Goldman Sachs | Asset & Wealth Management-Cloud Engineer-Associate-Dallas | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fd9663ecc56297d4) | 2026-04-22 08:26 |
-| TTI, Inc. | Senior Data Architect \| Fort Worth, TX (Sponsorship not provided) | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b27ee1ed5c38b053) | 2026-04-22 08:26 |
 | Capp | Data Engineer | Willingboro, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e3afe7a50298373) | 2026-04-22 08:26 |
 | Wells Fargo | Senior Data Engineer - GCP Platform Services & Frameworks | Iselin, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=903bc43e147b726e) | 2026-04-22 08:26 |
 | Wells Fargo | Senior Data Engineer - GCP Platform Services & Frameworks | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3666758a830bafe1) | 2026-04-22 08:26 |
 | Wells Fargo | Senior Data Engineer - GCP Platform Services & Frameworks | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8d2dccb9477bbad2) | 2026-04-22 08:26 |
-| The Walt Disney Company | Senior Security Engineer - Software Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=824480af2e1c826c) | 2026-04-22 08:26 |
 | Thermo Fisher Scientific | Software Intern | Pleasanton, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=afbd60d97bfacc60) | 2026-04-22 08:26 |
 | Capp | Enterprise AI Architect | Willingboro, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a69902c54cdf2463) | 2026-04-22 08:26 |
 | AssetWorks | DevOps Engineer | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6de4a61bfe7bafa4) | 2026-04-22 06:30 |
@@ -237,7 +240,6 @@ Last updated: 2026-04-22 08:26
 | Intuit | Machine Learning Engineer II Recommendation Systems- Credit Karma | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c95ddf0fac17d5df) | 2026-04-18 13:57 |
 | Optum | Quality Engineer | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=51a155a2ec6a3efc) | 2026-04-18 12:40 |
 | Snowflake | Senior Software Engineer - Production Control Plane | Menlo Park, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5919ca76700b393) | 2026-04-18 10:33 |
-| Personify Health | Sr Cloud Data Architect | Remote, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=b2e55d4c15c9b5aa) | 2026-04-18 09:39 |
 
 
 ---
