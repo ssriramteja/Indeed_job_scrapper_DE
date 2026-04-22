@@ -1,15 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-22 15:05
+Last updated: 2026-04-22 16:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Morgan Stanley | Site Reliability Engineer (SRE) - AI Platform & Cloud | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=67434a699408c40f) | 2026-04-22 16:50 |
+| Intellimation LLC | DevOps with IoT focus | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f64235fd5c4fac6) | 2026-04-22 16:50 |
+| DMV IT Service LLC | Data Engineer | Richmond, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99e35b16ebbf3788) | 2026-04-22 16:50 |
+| Capnexus | Senior Data Engineer (AWS) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a7b11ddd229f030) | 2026-04-22 16:50 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2ae570e570d074aa) | 2026-04-22 16:50 |
+| Boeing | Software Engineer - DevSecOps (Associate, Experienced or Senior) | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=afe37944ff3c78ea) | 2026-04-22 16:50 |
+| Board of Governors of the Federal Reserve System | Data Engineer II | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b222160bc0c2b3e3) | 2026-04-22 16:50 |
 | Optum | Senior Data Engineer - Remote | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b67c42af6bdf7f4d) | 2026-04-22 15:05 |
-| TTI, Inc. | Senior Data Architect \| Fort Worth, TX (Sponsorship not provided) | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b27ee1ed5c38b053) | 2026-04-22 15:05 |
-| The Walt Disney Company | Senior Security Engineer - Software Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1dcfbc446b17e32b) | 2026-04-22 15:05 |
-| The Walt Disney Company | Senior Security Engineer - Software Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=824480af2e1c826c) | 2026-04-22 15:05 |
 | New York City Department of Housing Preservation & Development | Solutions Developer for the Office of HPD TECH | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=edc48c4da4e29c49) | 2026-04-22 15:05 |
 | Ascendion | DevOps Engineer | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=facf27c6b3631798) | 2026-04-22 15:05 |
 | The Cincinnati Insurance Companies | IT - Developer II - IV (Remote) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc05454b399f43cb) | 2026-04-22 15:05 |
@@ -250,7 +254,6 @@ Last updated: 2026-04-22 15:05
 | Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc72ec26bd8c9ccd) | 2026-04-19 04:45 |
 | Hasbro, Inc. | Sr Software Development Engineer - Hasbro Direct | Renton, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8aa444433d6aad59) | 2026-04-18 20:27 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e04623dda5e67ab) | 2026-04-18 17:30 |
-| Fairfax County Government | Data Engineer (Business Analyst IV) | Fairfax, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cbbe1cdbf051393e) | 2026-04-18 15:30 |
 
 
 ---
