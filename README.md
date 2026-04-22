@@ -1,11 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-22 17:54
+Last updated: 2026-04-22 19:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Redhorse Corporation | Data Engineer | Chantilly, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2430929f4b97ab4b) | 2026-04-22 19:00 |
+| Openkyber | AI Application Architect | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=598c409a60c42c43) | 2026-04-22 19:00 |
+| LTK | Sr Software Engineer I | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=952b93720525db5b) | 2026-04-22 19:00 |
+| Smile Digital Health | Senior Cloud Engineer - Remote US | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3c0faea77dd1e82a) | 2026-04-22 19:00 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-22 19:00 |
+| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-22 19:00 |
+| Laurate LLC | Data Scientist/ HR | Renton, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c929b507a68fea2f) | 2026-04-22 19:00 |
+| Kobe Solutions LLC | ServiceNow Architect-CTA | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=890b357933d3a41e) | 2026-04-22 19:00 |
+| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-22 19:00 |
+| Openkyber | AI Application Architect | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=12afa7e8f02cc093) | 2026-04-22 19:00 |
+| Openkyber | AI Application Architect | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=78361db76661d0d1) | 2026-04-22 19:00 |
+| NTT DATA | AI Engineer - Insurance Domain - HYBRID | Warren, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=aeda85e53ae1234a) | 2026-04-22 19:00 |
+| WSSC Water | Advanced Metering Infrastructure (AMI) Engineer | Laurel, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3d356cba46c60202) | 2026-04-22 19:00 |
+| Openkyber | AI Application Architect | CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5860326bcd41826a) | 2026-04-22 19:00 |
+| Openkyber | AI Application Architect | UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7c7ee3a099eaf443) | 2026-04-22 19:00 |
+| Openkyber | Java Technical Architect | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92cd172caef34abb) | 2026-04-22 19:00 |
+| Openkyber | Java Technical Architect | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=66351c89c3b928b8) | 2026-04-22 19:00 |
+| Offsoar | Snowflake Data Developer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a561b0e7509b746a) | 2026-04-22 19:00 |
+| Medrio | Automation Engineer (Mid level SDET) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d8b1483af03cf54) | 2026-04-22 19:00 |
+| American Express | Software Engineer III - Java - Web Search Team | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=60df58e4983d849c) | 2026-04-22 19:00 |
+| Ware Malcomb | Senior Software Engineer, Platform & Product | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d944819ec0623121) | 2026-04-22 19:00 |
 | Q2ebanking | Data Engineer | Cary, NC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=bc44924f0b95abaf) | 2026-04-22 17:54 |
 | NetDocuments | Senior Database Engineer | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=31b06bf0600541ad) | 2026-04-22 17:54 |
 | United Vein & Vascular Centers | Senior Data Engineer/ Architecture (ADF & Databricks) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=443e4c4dac7242b8) | 2026-04-22 17:54 |
@@ -15,8 +36,6 @@ Last updated: 2026-04-22 17:54
 | Openkyber | AI Integration Engineer (Java + AI) | WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5e6a0ff1e37821ea) | 2026-04-22 17:54 |
 | Openkyber | AI Integration Engineer (Java + AI) | NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e149a4482a17c3cc) | 2026-04-22 17:54 |
 | Axle | Site Reliability Engineer | Frederick, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=353f08220bc3960e) | 2026-04-22 17:54 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-22 17:54 |
-| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-22 17:54 |
 | FanDuel | Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e3a17b22e5142267) | 2026-04-22 17:54 |
 | Openly | Senior Data Engineer (Remote, US) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c31bc8d5bad8edcc) | 2026-04-22 17:54 |
 | NetDocuments | Senior Database Administrator | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d416fca036fe4ced) | 2026-04-22 17:54 |
@@ -37,7 +56,6 @@ Last updated: 2026-04-22 17:54
 | Openkyber | AI Application Architect | IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3dc51ebaa811edf) | 2026-04-22 17:54 |
 | Openkyber | AI Application Architect | NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e3b52af53d359ea1) | 2026-04-22 17:54 |
 | FanDuel | Senior Data Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5ed12a9528f47173) | 2026-04-22 17:54 |
-| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-22 17:54 |
 | OneTrust | Data Platform Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1b1bc568313355d5) | 2026-04-22 17:54 |
 | Trepp | Senior Backend Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b4ae682af8576146) | 2026-04-22 17:54 |
 | Robots & Pencils | Solutions Architect - AI | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f834b4ee8d5a00bd) | 2026-04-22 17:54 |
