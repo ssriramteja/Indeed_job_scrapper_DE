@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-22 13:04
+Last updated: 2026-04-22 15:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Senior Data Engineer - Remote | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b67c42af6bdf7f4d) | 2026-04-22 15:05 |
+| TTI, Inc. | Senior Data Architect \| Fort Worth, TX (Sponsorship not provided) | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b27ee1ed5c38b053) | 2026-04-22 15:05 |
+| The Walt Disney Company | Senior Security Engineer - Software Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1dcfbc446b17e32b) | 2026-04-22 15:05 |
+| The Walt Disney Company | Senior Security Engineer - Software Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=824480af2e1c826c) | 2026-04-22 15:05 |
+| New York City Department of Housing Preservation & Development | Solutions Developer for the Office of HPD TECH | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=edc48c4da4e29c49) | 2026-04-22 15:05 |
+| Ascendion | DevOps Engineer | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=facf27c6b3631798) | 2026-04-22 15:05 |
+| The Cincinnati Insurance Companies | IT - Developer II - IV (Remote) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc05454b399f43cb) | 2026-04-22 15:05 |
 | Codoxo | Technical Operations Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e78a417a0f4410ac) | 2026-04-22 13:04 |
 | Smarsh | Database Engineer - Professional Archive Search | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=607072382f0dc730) | 2026-04-22 13:04 |
 | Openkyber | Java CI/CD Automation Engineer | GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=83b240190f37e48e) | 2026-04-22 11:54 |
@@ -244,9 +251,6 @@ Last updated: 2026-04-22 13:04
 | Hasbro, Inc. | Sr Software Development Engineer - Hasbro Direct | Renton, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8aa444433d6aad59) | 2026-04-18 20:27 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e04623dda5e67ab) | 2026-04-18 17:30 |
 | Fairfax County Government | Data Engineer (Business Analyst IV) | Fairfax, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cbbe1cdbf051393e) | 2026-04-18 15:30 |
-| nan | Bioinformatics Cloud Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=70f3b60b1d9a1fb2) | 2026-04-18 14:37 |
-| Micron Technology | Sr Data Scientist | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c69e0cd00bf5d75b) | 2026-04-18 13:57 |
-| Intuit | Machine Learning Engineer II Recommendation Systems- Credit Karma | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c95ddf0fac17d5df) | 2026-04-18 13:57 |
 
 
 ---
