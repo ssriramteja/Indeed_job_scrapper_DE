@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-21 23:29
+Last updated: 2026-04-22 01:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Silver Opportunity Partners LLC | Microsoft Dynamics F&O Architect – Mining | Kellogg, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b7233db1f59ca63c) | 2026-04-22 01:46 |
+| EBSCO Information Services | Senior MLOps Engineer | MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e7cfaf26e34fa908) | 2026-04-22 01:46 |
+| Stream Data Centers | Analytics Developer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c3b7c50c8b7774c0) | 2026-04-22 01:46 |
+| Fustis LLC | Data Enginer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1f50316b9208a167) | 2026-04-22 01:46 |
+| Magnite | Senior Data Engineer, Scala | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4d44346e5b384cc0) | 2026-04-22 01:46 |
+| Waystar | Senior ML Engineer II | Louisville, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=05f1aa8551c5f292) | 2026-04-22 01:46 |
+| Wolters Kluwer | Senior Enterprise Software Engineer | Riverwoods, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5bc224de87d1e85f) | 2026-04-22 01:46 |
+| The Walt Disney Company | Senior Security Engineer - Software Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=824480af2e1c826c) | 2026-04-22 01:46 |
+| GM Financial | Senior Metrics Engineer - Grafana | Arlington, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f968d07ba6cb70f4) | 2026-04-22 01:46 |
+| Stream Data Centers | Data Strategist (Data Warehouse & Reporting) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0ca2b52928b979f) | 2026-04-22 01:46 |
+| Armor | Network Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bad4863775b62604) | 2026-04-22 01:46 |
 | Openkyber | Network IoT Engineer | GA, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=7a26555a7e1695a9) | 2026-04-21 23:29 |
 | Openkyber | Network IoT Engineer | GA, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=41d41dba6e5bbf64) | 2026-04-21 23:29 |
 | Recutify Inc. | GCP Data Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8fe2835081fe7ce2) | 2026-04-21 23:29 |
@@ -283,30 +294,6 @@ Last updated: 2026-04-21 23:29
 | Securiport | Software Engineer - .NET / TMS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c98eb9f81b0fe69d) | 2026-04-18 04:25 |
 | Equifax | Front End UI Developer (Angular) | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c2894d188b4dc4e4) | 2026-04-18 04:25 |
 | LiveRamp | Senior SRE | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=07d3a17d409d4603) | 2026-04-18 04:25 |
-| Centurion Consulting Group | Sr. Application Developer | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=968fc98d620e2089) | 2026-04-18 01:26 |
-| nan | MLOps Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=84f96f202d778253) | 2026-04-18 01:26 |
-| nan | MLOps Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f2618c9f668eecbb) | 2026-04-18 01:26 |
-| nan | MLOps Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=de4db56fc9e099e7) | 2026-04-18 01:26 |
-| nan | Artificial Intelligence Integration Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dcfc317f07ec3caa) | 2026-04-18 01:26 |
-| nan | Artificial Intelligence Integration Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c44539ed64115952) | 2026-04-18 01:26 |
-| nan | Artificial Intelligence Integration Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=098d9fe6c69049e5) | 2026-04-18 01:26 |
-| nan | Artificial Intelligence Cybersecurity Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=72d6efe907b7366e) | 2026-04-18 01:26 |
-| Paychex, Inc. | Data Engineer | Cincinnati, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9eca9c2208420492) | 2026-04-18 01:26 |
-| Data Society | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1152b9186635df1a) | 2026-04-18 01:26 |
-| Life Advantage | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ef10f68a09aff48) | 2026-04-18 01:26 |
-| DATAIKU | Data Engineer II New | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=26fdda68d597e001) | 2026-04-18 01:26 |
-| LMG Technology Services LLC | Systems Analyst 2 (529601691) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a2af64e3b78cd69) | 2026-04-18 01:26 |
-| Cayuse | Software Development Engineer in Test (SDET) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0a625dbb46473068) | 2026-04-18 01:26 |
-| University of Virginia | Data Engineer- Microsoft Fabric | Charlottesville, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7985ea515039ffad) | 2026-04-18 01:26 |
-| Optum | Data Engineer | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed4b3cab37699f28) | 2026-04-18 01:26 |
-| Randa Corp | Sr Software Engineer | Rosemont, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=efdbabb40f26b1d0) | 2026-04-18 01:26 |
-| Storage Asset Management | AWS ARCHITECT - ECOMMERCE | York, PA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=f29e7767b416ec2c) | 2026-04-17 23:31 |
-| Milwaukee Tool | Data Engineer II-Promo Analytics | Menomonee Falls, WI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=157ead1d6aa5dddb) | 2026-04-17 23:31 |
-| Logic, Inc. | ^Application Support Engineer - 6249380 | Scottsdale, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=83a4a649d48f54d4) | 2026-04-17 23:31 |
-| CME Group | Data Reliability Engineer II | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8055f39b25743ac2) | 2026-04-17 23:31 |
-| Hilton | FinOps Engineer (contract) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6dd43ceac422ce43) | 2026-04-17 23:31 |
-| Transamerica | Specialist Software Engineering - AI Engineer | Cedar Rapids, IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fff175ae01f3ab66) | 2026-04-17 23:31 |
-| Advanced software systems | Senior QA Automation Engineer New | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b71302c76e3ba6a) | 2026-04-17 23:31 |
 
 
 ---
