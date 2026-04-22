@@ -1,20 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-22 22:40
+Last updated: 2026-04-22 23:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Glacier Analytics LLC | AWS DevOps Engineer | Orlando, FL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=e8f2c6e67bc23530) | 2026-04-22 23:39 |
+| ERP Initiatives Group Inc. | AWS Architect with AI + Automation | Clarksburg, MD, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=46058fb33ffd00c5) | 2026-04-22 23:39 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-22 23:39 |
+| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-22 23:39 |
+| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-22 23:39 |
+| Transamerica | Specialist Software Engineering | Cedar Rapids, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=66f8131b391d620e) | 2026-04-22 23:39 |
+| Gates Foundation | Senior Platform Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d0e09f867e58f64d) | 2026-04-22 23:39 |
+| Voya Financial | Solutions Architect | Braintree, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06f0f1071f3e2b14) | 2026-04-22 23:39 |
+| Autodesk | Senior Trust/Security Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4254814d062ad92d) | 2026-04-22 23:39 |
+| TikTok | Software Engineer, Ads Infra - Serving and Foundation | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e26cb9e516d559dc) | 2026-04-22 23:39 |
+| Stellantis | Warranty Data Analyst / Data Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e9bb1ef1dd7ba48) | 2026-04-22 23:39 |
+| Trepp | Data Engineer II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d561d8c2375dd6b1) | 2026-04-22 23:39 |
+| Markel Corporation | Senior Infrastructure Engineer-Azure Data & Analytics Engineer - State National | Bedford, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94507e2995b9ee29) | 2026-04-22 23:39 |
 | Qode | AWS Solutions Architect | Township of Jackson, NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5b41af79b3c9df26) | 2026-04-22 22:40 |
 | Qode | AWS Solutions Architect | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4559b3285e613ef1) | 2026-04-22 22:40 |
 | Qode | AWS Solutions Architect | Fort Mill, SC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=815657d7c692a1bd) | 2026-04-22 22:40 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-22 22:40 |
-| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-22 22:40 |
-| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-22 22:40 |
 | SIGNITIVES | GCP Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ccbfb275c784c26b) | 2026-04-22 22:40 |
 | Vivacity Tech PBC | DevOps / Platform Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed1d3fe1d3532916) | 2026-04-22 22:40 |
-| Ramp | Senior Data Scientist \| Growth | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=821c175cd2e0b038) | 2026-04-22 22:40 |
 | Fiserv | Sr Quality Engineer | King of Prussia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c2b2de1091c327b) | 2026-04-22 22:40 |
 | Ramp | Software Engineer, Data Platform | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45e12b77b9565199) | 2026-04-22 22:40 |
 | Fiserv | Systems Engineer (Tableau Platform) | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f014f9a893bbc2e) | 2026-04-22 22:40 |
