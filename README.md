@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-22 01:46
+Last updated: 2026-04-22 04:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Texas Regional Physicians | AI Applications Developer | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=507d9cc374179ef8) | 2026-04-22 04:40 |
+| Goldman Sachs | Asset & Wealth Management-Cloud Engineer-Analyst-Dallas | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4cd695a259528ee8) | 2026-04-22 04:40 |
+| Snowflake | Senior PS Sales Solutions Architect | Menlo Park, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cfc1ac7dc950d681) | 2026-04-22 04:40 |
+| Goldman Sachs | Asset & Wealth Management-Cloud SRE Engineer-Associate-Dallas | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9fa6ef3e26d36408) | 2026-04-22 04:40 |
+| Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3728e8079e1309fa) | 2026-04-22 04:40 |
+| DocuSign | Sr. Data Platform Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d863f11ee6e4e4a6) | 2026-04-22 04:40 |
+| Norstella | Senior Data Scientist | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37294b654b8dfdfa) | 2026-04-22 04:40 |
+| Equifax | Senior Data Engineer | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6f4b1c757ee83233) | 2026-04-22 04:40 |
+| NTT DATA | AI Engineer - Insurance Domain - HYBRID | Warren, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=31b5a55badae894d) | 2026-04-22 04:40 |
+| OneMagnify | Senior Data Engineer | MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e29cc99694e4c30d) | 2026-04-22 04:40 |
+| The Walt Disney Company | Senior Security Engineer - Software Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=824480af2e1c826c) | 2026-04-22 04:40 |
+| Cornerstone OnDemand | Associate Software Engineer | Dublin, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62cf7aec7b000416) | 2026-04-22 04:40 |
+| PropertyPilot | Senior Data Engineer | Manasquan, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dab1f6a4231dbe32) | 2026-04-22 04:40 |
+| Daxko | Site Reliability Engineer | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aae33a9a018f9fb8) | 2026-04-22 04:40 |
+| Snowflake | Solution Engineer - Data Engineering Specialist (FSI) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d35a9b6aca584743) | 2026-04-22 04:40 |
+| Mission Produce | AI/Machine Learning Engineer | Oxnard, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=adb3f80bc7a0023f) | 2026-04-22 04:40 |
 | Silver Opportunity Partners LLC | Microsoft Dynamics F&O Architect – Mining | Kellogg, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b7233db1f59ca63c) | 2026-04-22 01:46 |
 | EBSCO Information Services | Senior MLOps Engineer | MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e7cfaf26e34fa908) | 2026-04-22 01:46 |
 | Stream Data Centers | Analytics Developer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c3b7c50c8b7774c0) | 2026-04-22 01:46 |
@@ -13,7 +29,6 @@ Last updated: 2026-04-22 01:46
 | Magnite | Senior Data Engineer, Scala | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4d44346e5b384cc0) | 2026-04-22 01:46 |
 | Waystar | Senior ML Engineer II | Louisville, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=05f1aa8551c5f292) | 2026-04-22 01:46 |
 | Wolters Kluwer | Senior Enterprise Software Engineer | Riverwoods, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5bc224de87d1e85f) | 2026-04-22 01:46 |
-| The Walt Disney Company | Senior Security Engineer - Software Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=824480af2e1c826c) | 2026-04-22 01:46 |
 | GM Financial | Senior Metrics Engineer - Grafana | Arlington, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f968d07ba6cb70f4) | 2026-04-22 01:46 |
 | Stream Data Centers | Data Strategist (Data Warehouse & Reporting) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0ca2b52928b979f) | 2026-04-22 01:46 |
 | Armor | Network Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bad4863775b62604) | 2026-04-22 01:46 |
@@ -274,26 +289,6 @@ Last updated: 2026-04-22 01:46
 | CVS Health | Senior Java Software Engineer | Lincoln, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=298689cf6faee8a0) | 2026-04-18 07:55 |
 | CVS Health | Senior Java Software Engineer | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=89ef5f7a924752df) | 2026-04-18 07:55 |
 | Millennium Systems International | Quality Assurance Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1acfe6bdf2f2bf38) | 2026-04-18 06:08 |
-| Accenture | ^Application Support Engineer - 6249380 | Scottsdale, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e4136e0f889e1c8b) | 2026-04-18 04:25 |
-| Diverse Agile Solutions | Senior IT Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=68e8bf364a87bcd8) | 2026-04-18 04:25 |
-| Snowflake | Senior PS Sales Solutions Architect | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2cc1792488693d8a) | 2026-04-18 04:25 |
-| American Airlines | Engineer/ Sr Engineer, IT AI | Fort Worth, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bd18edcb36ac9a04) | 2026-04-18 04:25 |
-| Equifax | Senior Software Engineer | St. Louis, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7a00846a02b4b2ea) | 2026-04-18 04:25 |
-| Okland Construction | Business Intelligence Developer II/III | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=95e16a542c86ff4d) | 2026-04-18 04:25 |
-| Veryon | Data Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=43792765a0db7bc2) | 2026-04-18 04:25 |
-| Deloitte | Google AI Architect | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f28739fe08c3eac0) | 2026-04-18 04:25 |
-| Deloitte | Google AI Architect | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03c4608a1787de15) | 2026-04-18 04:25 |
-| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e545552d097b871) | 2026-04-18 04:25 |
-| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Baltimore, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=20b224b645b547d9) | 2026-04-18 04:25 |
-| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Bethesda, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a95a3a6011314bfa) | 2026-04-18 04:25 |
-| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Falls Church, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=debfb044aeec9a6a) | 2026-04-18 04:25 |
-| GEICO | Senior Data Engineer - Substantiation Platform Team *Hybrid* | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a7b6b341f6c861ff) | 2026-04-18 04:25 |
-| Securiport | Software Engineer - .NET / SES | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e36402d35a0e5ca) | 2026-04-18 04:25 |
-| Securiport | Software Engineer - .NET / APIS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0d7fadfe6ffe1a94) | 2026-04-18 04:25 |
-| Securiport | Software Engineer (Front-End) / APIS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1e4af396a404624b) | 2026-04-18 04:25 |
-| Securiport | Software Engineer - .NET / TMS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c98eb9f81b0fe69d) | 2026-04-18 04:25 |
-| Equifax | Front End UI Developer (Angular) | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c2894d188b4dc4e4) | 2026-04-18 04:25 |
-| LiveRamp | Senior SRE | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=07d3a17d409d4603) | 2026-04-18 04:25 |
 
 
 ---
