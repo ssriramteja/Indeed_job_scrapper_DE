@@ -1,17 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-22 21:43
+Last updated: 2026-04-22 22:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Qode | AWS Solutions Architect | Township of Jackson, NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5b41af79b3c9df26) | 2026-04-22 22:40 |
+| Qode | AWS Solutions Architect | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4559b3285e613ef1) | 2026-04-22 22:40 |
+| Qode | AWS Solutions Architect | Fort Mill, SC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=815657d7c692a1bd) | 2026-04-22 22:40 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-22 22:40 |
+| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-22 22:40 |
+| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-22 22:40 |
+| SIGNITIVES | GCP Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ccbfb275c784c26b) | 2026-04-22 22:40 |
+| Vivacity Tech PBC | DevOps / Platform Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed1d3fe1d3532916) | 2026-04-22 22:40 |
+| Ramp | Senior Data Scientist \| Growth | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=821c175cd2e0b038) | 2026-04-22 22:40 |
+| Fiserv | Sr Quality Engineer | King of Prussia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c2b2de1091c327b) | 2026-04-22 22:40 |
+| Ramp | Software Engineer, Data Platform | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45e12b77b9565199) | 2026-04-22 22:40 |
+| Fiserv | Systems Engineer (Tableau Platform) | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f014f9a893bbc2e) | 2026-04-22 22:40 |
 | DOW | Data Engineer | Midland, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=0e6f52d2577111f6) | 2026-04-22 21:43 |
 | Ascendion | Data Engineer | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ede735cbdf2b63e0) | 2026-04-22 21:43 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-22 21:43 |
-| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-22 21:43 |
 | archer | Sr. Platform Engineering | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e910893e7900f872) | 2026-04-22 21:43 |
-| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-22 21:43 |
 | Streamline Healthcare Solutions | Sr. Azure Cloud Engineer | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20ae2aaa86ff3339) | 2026-04-22 21:43 |
 | Stellantis | Warranty Data Analyst / Data Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2ffd491a76c9fa66) | 2026-04-22 21:43 |
 | University of Maryland Medical System | Sr Data Engineer | North Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4188adfee24d1373) | 2026-04-22 21:43 |
