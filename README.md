@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-22 04:40
+Last updated: 2026-04-22 06:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| AssetWorks | DevOps Engineer | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6de4a61bfe7bafa4) | 2026-04-22 06:30 |
+| The Walt Disney Company | Senior Security Engineer - Software Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=824480af2e1c826c) | 2026-04-22 06:30 |
+| Metropolis | Senior AI Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6efd50ec9fe32e19) | 2026-04-22 06:30 |
+| Metropolis | Senior AI Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dea58757f9149ad6) | 2026-04-22 06:30 |
+| Metropolis | Senior AI Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cd2db53316f326e) | 2026-04-22 06:30 |
+| FocusKPI Inc. | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad314dbf5fcf61a2) | 2026-04-22 06:30 |
 | Texas Regional Physicians | AI Applications Developer | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=507d9cc374179ef8) | 2026-04-22 04:40 |
 | Goldman Sachs | Asset & Wealth Management-Cloud Engineer-Analyst-Dallas | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4cd695a259528ee8) | 2026-04-22 04:40 |
 | Snowflake | Senior PS Sales Solutions Architect | Menlo Park, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cfc1ac7dc950d681) | 2026-04-22 04:40 |
@@ -16,7 +22,6 @@ Last updated: 2026-04-22 04:40
 | Equifax | Senior Data Engineer | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6f4b1c757ee83233) | 2026-04-22 04:40 |
 | NTT DATA | AI Engineer - Insurance Domain - HYBRID | Warren, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=31b5a55badae894d) | 2026-04-22 04:40 |
 | OneMagnify | Senior Data Engineer | MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e29cc99694e4c30d) | 2026-04-22 04:40 |
-| The Walt Disney Company | Senior Security Engineer - Software Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=824480af2e1c826c) | 2026-04-22 04:40 |
 | Cornerstone OnDemand | Associate Software Engineer | Dublin, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62cf7aec7b000416) | 2026-04-22 04:40 |
 | PropertyPilot | Senior Data Engineer | Manasquan, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dab1f6a4231dbe32) | 2026-04-22 04:40 |
 | Daxko | Site Reliability Engineer | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aae33a9a018f9fb8) | 2026-04-22 04:40 |
@@ -288,7 +293,6 @@ Last updated: 2026-04-22 04:40
 | CVS Health | Senior Java Software Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1df2a526495b0fdc) | 2026-04-18 07:55 |
 | CVS Health | Senior Java Software Engineer | Lincoln, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=298689cf6faee8a0) | 2026-04-18 07:55 |
 | CVS Health | Senior Java Software Engineer | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=89ef5f7a924752df) | 2026-04-18 07:55 |
-| Millennium Systems International | Quality Assurance Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1acfe6bdf2f2bf38) | 2026-04-18 06:08 |
 
 
 ---
