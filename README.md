@@ -1,23 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-22 20:07
+Last updated: 2026-04-22 21:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| DOW | Data Engineer | Midland, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=0e6f52d2577111f6) | 2026-04-22 21:43 |
+| Ascendion | Data Engineer | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ede735cbdf2b63e0) | 2026-04-22 21:43 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-22 21:43 |
+| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-22 21:43 |
+| archer | Sr. Platform Engineering | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e910893e7900f872) | 2026-04-22 21:43 |
+| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-22 21:43 |
+| Streamline Healthcare Solutions | Sr. Azure Cloud Engineer | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20ae2aaa86ff3339) | 2026-04-22 21:43 |
+| Stellantis | Warranty Data Analyst / Data Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2ffd491a76c9fa66) | 2026-04-22 21:43 |
+| University of Maryland Medical System | Sr Data Engineer | North Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4188adfee24d1373) | 2026-04-22 21:43 |
+| Integral Ad Science | Senior DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16179533179bf6b7) | 2026-04-22 21:43 |
+| Integral Ad Science | Senior DevOps Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3a5eee6b5267d17) | 2026-04-22 21:43 |
 | Climate First Bank | Data Engineer | Saint Petersburg, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=32602a30e2eae4db) | 2026-04-22 20:07 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-22 20:07 |
-| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-22 20:07 |
 | Keeper Security | Senior Analytics Engineer (Data Modeling & BI) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b319560288703a69) | 2026-04-22 20:07 |
 | Verse | Software Engineer, Data Engineering | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2169de43fedb76d3) | 2026-04-22 20:07 |
 | Keeper Security | Data Engineer, Analytics & Machine Learning Enablement | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b569d0296983d6a1) | 2026-04-22 20:07 |
-| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-22 20:07 |
 | N-iX | Senior Full-Stack Python Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=365bb0b9ec3ce321) | 2026-04-22 20:07 |
 | nan | Gen AI Platform & Deployment Engineer | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ad5e385a9b79a74) | 2026-04-22 20:07 |
-| Beta Technologies | Data Platform Engineer \| Digital Operations | South Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cf9a4a981492f65f) | 2026-04-22 20:07 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=00780166cc82c314) | 2026-04-22 20:07 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29ad9f0bf20ac8e8) | 2026-04-22 20:07 |
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d9767d8755f659b) | 2026-04-22 20:07 |
 | nSCALE | Data Engineer | Barstow, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc6c300d9777dc4b) | 2026-04-22 20:07 |
 | nSCALE | Data Engineer - Seattle, WA | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=894fb5b066595659) | 2026-04-22 20:07 |
@@ -399,7 +404,6 @@ Last updated: 2026-04-22 20:07
 | Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5720f5caa8ca8d63) | 2026-04-19 04:45 |
 | Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=30932a7fdbb20d57) | 2026-04-19 04:45 |
 | Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc72ec26bd8c9ccd) | 2026-04-19 04:45 |
-| Hasbro, Inc. | Sr Software Development Engineer - Hasbro Direct | Renton, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8aa444433d6aad59) | 2026-04-18 20:27 |
 
 
 ---
