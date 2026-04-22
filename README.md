@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-22 10:13
+Last updated: 2026-04-22 11:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Java CI/CD Automation Engineer | GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=83b240190f37e48e) | 2026-04-22 11:54 |
+| Openkyber | Java CI/CD Automation Engineer | GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9a0ee2ebd6b94c60) | 2026-04-22 11:54 |
+| Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=35c20a436a0a3121) | 2026-04-22 11:54 |
+| Openkyber | Cloud AI Application Administrator | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=458f2e64ebd817f0) | 2026-04-22 11:54 |
+| Openkyber | Cloud AI Application Administrator | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dc21140836b0e1a) | 2026-04-22 11:54 |
+| Openkyber | Java Software Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=93e94130ade15aac) | 2026-04-22 11:54 |
+| Openkyber | Java Compliance & Governance Developer | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14d0312c67f01746) | 2026-04-22 11:54 |
 | nan | Data Engineer | Springfield, MO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53f7dd47c3f8803c) | 2026-04-22 10:13 |
 | Edgewater Federal Solutions | Sr. Data Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4810bc0b521803bb) | 2026-04-22 10:13 |
 | Fisher's Technology | Power BI Data Analyst | Boise, ID, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f95ced54585e0bd6) | 2026-04-22 10:13 |
@@ -239,7 +246,6 @@ Last updated: 2026-04-22 10:13
 | Micron Technology | Sr Data Scientist | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c69e0cd00bf5d75b) | 2026-04-18 13:57 |
 | Intuit | Machine Learning Engineer II Recommendation Systems- Credit Karma | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c95ddf0fac17d5df) | 2026-04-18 13:57 |
 | Optum | Quality Engineer | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=51a155a2ec6a3efc) | 2026-04-18 12:40 |
-| Snowflake | Senior Software Engineer - Production Control Plane | Menlo Park, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5919ca76700b393) | 2026-04-18 10:33 |
 
 
 ---
