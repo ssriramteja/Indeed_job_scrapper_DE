@@ -1,17 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-23 19:00
+Last updated: 2026-04-23 20:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NitinX | Senior Full-Stack Software Engineer | Santa Clara, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=20cbaecb52ef1e29) | 2026-04-23 20:07 |
+| CAI (Computer Aid, Inc.) | Software Developer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=69655961f8c3abc9) | 2026-04-23 20:07 |
+| Anteriad | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d15d053831e0a70) | 2026-04-23 20:07 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 20:07 |
+| Truist | Software Engineer III | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=541a9a3e6c8c6ce3) | 2026-04-23 20:07 |
+| Crane Aerospace & Electronics | Sr. Group Supply Chain Analyst | Burbank, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be31ff28c647bb41) | 2026-04-23 20:07 |
 | Intellectyx | AI Solution Architect | Pasadena, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a4d23e36ea1a698) | 2026-04-23 19:00 |
 | Apollo | Investment Compliance Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef318708de3b36bf) | 2026-04-23 19:00 |
 | Stellantis | Warranty Data Analyst / Data Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82beb43a57ee8ec5) | 2026-04-23 19:00 |
 | Buyers Edge Platform | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d278bb1777b2b1f7) | 2026-04-23 19:00 |
 | Buyers Edge Platform | Software Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab1768f1718284da) | 2026-04-23 19:00 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 19:00 |
 | Openkyber | Java AI / ML Integration Engineer | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=ebc27b8ad561d2ae) | 2026-04-23 17:11 |
 | Openkyber | Java Kafka Streams Developer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7f16d1c6de9e445f) | 2026-04-23 17:11 |
 | Liberty Mutual Insurance | Data Engineer | Glastonbury, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=861b456826f5b0c4) | 2026-04-23 17:11 |
