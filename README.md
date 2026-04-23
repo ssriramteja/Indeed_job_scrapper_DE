@@ -1,18 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-23 22:36
+Last updated: 2026-04-23 23:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cognizant | Software Engineer- Agentic AI & DevOps (Remote) | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=983cd52a5aa42147) | 2026-04-23 23:37 |
+| Availity, LLC. | Senior Product Solutions Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=84317bbfd5f19a2b) | 2026-04-23 23:37 |
+| Cognizant | GCP Data Architect | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3d68a9f74f5597a0) | 2026-04-23 23:37 |
+| JSR Tech Consulting | Senior Software Engineer | Newark, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7921eda38e3c0aa1) | 2026-04-23 23:37 |
+| nan | Data Engineer | Des Moines, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb3950a15b093b6b) | 2026-04-23 23:37 |
+| Intellibee Inc | Software Solutions Architect | Lansing, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1b1fc3dca61daa) | 2026-04-23 23:37 |
 | MidAmerican Energy | Analytics & BI Spclst 3 or Sr | Portland, OR, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bb9c48f1459d1dac) | 2026-04-23 22:36 |
 | nan | Full Stack Developer | Barceloneta, PR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd1dcac7054b0073) | 2026-04-23 22:36 |
 | Omni Hotels | Cloud Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9e4e11c6fb2ec5b8) | 2026-04-23 22:36 |
 | Freddie Mac | Software Engineer, Senior | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a1c58592090c9820) | 2026-04-23 22:36 |
 | JPMorganChase | PySpark Software Engineer III - Python/Java/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78bdd7b5a804850b) | 2026-04-23 22:36 |
 | Prologis | Senior Cloud & AI Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0666935e030509b) | 2026-04-23 22:36 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 22:36 |
 | S-Techinfo | Data Engineer – AWS Lakehouse (Remote) | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d18335be1419a92a) | 2026-04-23 21:38 |
 | SCAN Health Plan | Analytics, Full-Stack Engineer (Agency Temp) | Long Beach, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=78330a31d3de60c8) | 2026-04-23 21:38 |
 | Acxiom | Senior Solution Architect | Conway, AR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a4a59c922032170a) | 2026-04-23 21:38 |
