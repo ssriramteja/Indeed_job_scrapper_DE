@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-23 17:11
+Last updated: 2026-04-23 19:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Intellectyx | AI Solution Architect | Pasadena, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a4d23e36ea1a698) | 2026-04-23 19:00 |
+| Apollo | Investment Compliance Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef318708de3b36bf) | 2026-04-23 19:00 |
+| Stellantis | Warranty Data Analyst / Data Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82beb43a57ee8ec5) | 2026-04-23 19:00 |
+| Buyers Edge Platform | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d278bb1777b2b1f7) | 2026-04-23 19:00 |
+| Buyers Edge Platform | Software Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab1768f1718284da) | 2026-04-23 19:00 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 19:00 |
 | Openkyber | Java AI / ML Integration Engineer | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=ebc27b8ad561d2ae) | 2026-04-23 17:11 |
 | Openkyber | Java Kafka Streams Developer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7f16d1c6de9e445f) | 2026-04-23 17:11 |
 | Liberty Mutual Insurance | Data Engineer | Glastonbury, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=861b456826f5b0c4) | 2026-04-23 17:11 |
@@ -19,7 +25,6 @@ Last updated: 2026-04-23 17:11
 | Bechtel | PIMS Data Analyst | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84332d95fe089578) | 2026-04-23 17:11 |
 | Apptronik | Data Platform Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6c8a6b6744212463) | 2026-04-23 17:11 |
 | Fustis LLC | Power BI Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c7fe605c13e6870) | 2026-04-23 17:11 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 17:11 |
 | Empirx Health | Software Engineer II | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df86a0c4dd78dfc1) | 2026-04-23 17:11 |
 | Openkyber | Java Kafka Streams Developer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc497768586e778b) | 2026-04-23 17:11 |
 | Qode | Senior Databricks Architect | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=010224fd403e5335) | 2026-04-23 15:31 |
@@ -512,7 +517,6 @@ Last updated: 2026-04-23 17:11
 | Blue Origin | Business Analyst Sr | FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0150b99a3b3fea86) | 2026-04-20 07:12 |
 | nan | Senior Software Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2020840dfc5b5027) | 2026-04-20 04:52 |
 | Cielo | AI Engineer (React UI) - Remote US | Wauwatosa, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0e67add270aac4c5) | 2026-04-19 20:28 |
-| Palmetto Tech | Architect with AWS and Data Bricks | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c581906df4e1c3dd) | 2026-04-19 18:36 |
 
 
 ---
