@@ -1,20 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-23 13:04
+Last updated: 2026-04-23 15:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-23 15:31 |
+| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-23 15:31 |
+| Qode | Senior Databricks Architect | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=010224fd403e5335) | 2026-04-23 15:31 |
+| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-23 15:31 |
+| Aroha Technologies | Data Architect | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e4069f2434551ab) | 2026-04-23 15:31 |
+| Charlie's Produce | Data/ Application Integration Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca44b855356ccf40) | 2026-04-23 15:31 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 15:31 |
+| LTIMindtree | Senior Specialist - Architecture (AI Engineer with Codex Exp.) | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65c00c71c8e6928e) | 2026-04-23 15:31 |
+| Progressive | BI Developer Mid or Senior | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cdbb236dac23c233) | 2026-04-23 15:31 |
 | CVS Health | Senior Data Engineer | Irving, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9a75bae8fe6b588f) | 2026-04-23 13:04 |
 | CVS Health | Senior Data Engineer | Hartford, CT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=be5d882b0154cb62) | 2026-04-23 13:04 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-23 13:04 |
-| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-23 13:04 |
 | Cognizant | Data Engineer (AIA) | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e8f49ea5746dd899) | 2026-04-23 13:04 |
 | Cloud and Things | Full Stack Developer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8dcbb0b99721efea) | 2026-04-23 13:04 |
-| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-23 13:04 |
 | Mastercard | Software Engineer II | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f28a43a00c1a7844) | 2026-04-23 13:04 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 13:04 |
 | Openkyber | AI Integration Engineer (Java + AI) | NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fbdcf2158c6b2d0d) | 2026-04-23 11:55 |
 | Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6bd882abe2f239e8) | 2026-04-23 11:55 |
 | Openkyber | Java Software Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5f84e68d5415404a) | 2026-04-23 11:55 |
