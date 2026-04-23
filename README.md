@@ -1,18 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-23 15:31
+Last updated: 2026-04-23 17:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-23 15:31 |
-| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-23 15:31 |
+| Openkyber | Java AI / ML Integration Engineer | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=ebc27b8ad561d2ae) | 2026-04-23 17:11 |
+| Openkyber | Java Kafka Streams Developer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7f16d1c6de9e445f) | 2026-04-23 17:11 |
+| Liberty Mutual Insurance | Data Engineer | Glastonbury, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=861b456826f5b0c4) | 2026-04-23 17:11 |
+| Openkyber | Java Compliance & Governance Developer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a09c947868c141e2) | 2026-04-23 17:11 |
+| Suvoda | Data Engineer | Conshohocken, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c1b69a2cd2e20538) | 2026-04-23 17:11 |
+| Suvoda | Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ff6fc79a37f3e06f) | 2026-04-23 17:11 |
+| Openkyber | Cloud AI Application Administrator | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c0a2cb39a283363f) | 2026-04-23 17:11 |
+| nan | Software Engineer II - AI Solutions | King of Prussia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=488caabc0de3fad8) | 2026-04-23 17:11 |
+| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ac82b1c79d8bff3) | 2026-04-23 17:11 |
+| Stellantis | Warranty Data Analyst / Data Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=abdbd26974d27e06) | 2026-04-23 17:11 |
+| Bechtel | PIMS Data Analyst | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84332d95fe089578) | 2026-04-23 17:11 |
+| Apptronik | Data Platform Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6c8a6b6744212463) | 2026-04-23 17:11 |
+| Fustis LLC | Power BI Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c7fe605c13e6870) | 2026-04-23 17:11 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 17:11 |
+| Empirx Health | Software Engineer II | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df86a0c4dd78dfc1) | 2026-04-23 17:11 |
+| Openkyber | Java Kafka Streams Developer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc497768586e778b) | 2026-04-23 17:11 |
 | Qode | Senior Databricks Architect | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=010224fd403e5335) | 2026-04-23 15:31 |
-| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-23 15:31 |
 | Aroha Technologies | Data Architect | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e4069f2434551ab) | 2026-04-23 15:31 |
 | Charlie's Produce | Data/ Application Integration Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca44b855356ccf40) | 2026-04-23 15:31 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 15:31 |
 | LTIMindtree | Senior Specialist - Architecture (AI Engineer with Codex Exp.) | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65c00c71c8e6928e) | 2026-04-23 15:31 |
 | Progressive | BI Developer Mid or Senior | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cdbb236dac23c233) | 2026-04-23 15:31 |
 | CVS Health | Senior Data Engineer | Irving, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9a75bae8fe6b588f) | 2026-04-23 13:04 |
