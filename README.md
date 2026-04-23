@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-23 21:38
+Last updated: 2026-04-23 22:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| MidAmerican Energy | Analytics & BI Spclst 3 or Sr | Portland, OR, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bb9c48f1459d1dac) | 2026-04-23 22:36 |
+| nan | Full Stack Developer | Barceloneta, PR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd1dcac7054b0073) | 2026-04-23 22:36 |
+| Omni Hotels | Cloud Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9e4e11c6fb2ec5b8) | 2026-04-23 22:36 |
+| Freddie Mac | Software Engineer, Senior | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a1c58592090c9820) | 2026-04-23 22:36 |
+| JPMorganChase | PySpark Software Engineer III - Python/Java/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78bdd7b5a804850b) | 2026-04-23 22:36 |
+| Prologis | Senior Cloud & AI Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0666935e030509b) | 2026-04-23 22:36 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 22:36 |
 | S-Techinfo | Data Engineer – AWS Lakehouse (Remote) | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d18335be1419a92a) | 2026-04-23 21:38 |
 | SCAN Health Plan | Analytics, Full-Stack Engineer (Agency Temp) | Long Beach, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=78330a31d3de60c8) | 2026-04-23 21:38 |
 | Acxiom | Senior Solution Architect | Conway, AR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a4a59c922032170a) | 2026-04-23 21:38 |
@@ -19,7 +26,6 @@ Last updated: 2026-04-23 21:38
 | nan | Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4d9e130e5057c468) | 2026-04-23 21:38 |
 | nan | Data Engineer | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=35f42b8dd196f861) | 2026-04-23 21:38 |
 | Epiq | Software Developer - Information Governance | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88087b3c950df52e) | 2026-04-23 21:38 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 21:38 |
 | Revstar | Data & AI Engineer | AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1c509a2c5d165cf) | 2026-04-23 21:38 |
 | Revstar | Data & AI Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16029f18260b23a7) | 2026-04-23 21:38 |
 | Revstar | Data & AI Engineer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=585c6ab4414e23c8) | 2026-04-23 21:38 |
