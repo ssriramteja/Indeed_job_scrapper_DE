@@ -1,22 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-23 06:57
+Last updated: 2026-04-23 08:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-23 06:57 |
-| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-23 06:57 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-23 08:50 |
+| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-23 08:50 |
+| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-23 08:50 |
+| Bloom Growth Partners | Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec3ffe3d2951f742) | 2026-04-23 08:50 |
+| isolved | Data Platform Architect | Nixa, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d13a0d2142e0261) | 2026-04-23 08:50 |
+| nan | Pre-Sales Engineer (Data & Analytics) | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c940790b1550a5b) | 2026-04-23 08:50 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 08:50 |
 | Openkyber | AWS Network Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6a924e0d6d13cba9) | 2026-04-23 06:57 |
-| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-23 06:57 |
 | BECU | Business Data Scientist, Marketing Analytics | WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af7dae27066ed5bc) | 2026-04-23 06:57 |
 | Openkyber | AWS Network Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=75e319e5ec133537) | 2026-04-23 06:57 |
 | Openkyber | Multi-Cloud Networking Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ff8e0f386ef907b) | 2026-04-23 06:57 |
 | Mister Car Wash | DevOps Engineer, Senior | Tucson, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=414fb4f6d3a8dcd9) | 2026-04-23 06:57 |
 | County of San Luis Obispo | Software Engineer III (CJIS) | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2cda7602e4b5904c) | 2026-04-23 06:57 |
 | Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2f5cef76808163a) | 2026-04-23 06:57 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 06:57 |
 | Humana | Software Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=185c1836bede91b1) | 2026-04-23 06:57 |
 | Humana | Software Engineer | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2cedfc80fbfee214) | 2026-04-23 06:57 |
 | Customized Energy Solutions | Senior Software Engineer (Cloud & Data Platforms) | Philadelphia, PA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=14e471621c544ca6) | 2026-04-23 04:45 |
