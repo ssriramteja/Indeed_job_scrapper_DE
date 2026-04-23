@@ -1,16 +1,35 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-22 23:39
+Last updated: 2026-04-23 01:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Hartford | Associate Data and AI Engineer | Hartford, CT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=718af7ca01e94aee) | 2026-04-23 01:50 |
+| The Hartford | Associate Data and AI Engineer | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=10c4f60d661f5f00) | 2026-04-23 01:50 |
+| The Hartford | Associate Data and AI Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6f971eeb79a21180) | 2026-04-23 01:50 |
+| The Hartford | Associate Data and AI Engineer | Chicago, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cfbf52f31ea2e787) | 2026-04-23 01:50 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-23 01:50 |
+| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-23 01:50 |
+| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-23 01:50 |
+| Kitsap Credit Union | Software Engineer III | Bremerton, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=150b9708ae649096) | 2026-04-23 01:50 |
+| CEI Services | Sr Systems Engineer | Fargo, ND, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f846bcd41f966d19) | 2026-04-23 01:50 |
+| MasTec Inc | Sr Systems Engineer | Fargo, ND, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba06f08c24782d2d) | 2026-04-23 01:50 |
+| Fidelity TalentSource | Data Engineer | Durham, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=842f8f1cf0d90520) | 2026-04-23 01:50 |
+| Fueled | Senior Systems Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9642665184944e11) | 2026-04-23 01:50 |
+| DriveTime Automotive Group | Senior Data Engineer - Remote | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1de30f12b78fca01) | 2026-04-23 01:50 |
+| DriveTime Automotive Group | Senior Data Engineer - Remote | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b88b23e7d0b05c8f) | 2026-04-23 01:50 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 01:50 |
+| Ware Malcomb | Senior Software Engineer, Platform & Product | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aed0adf2e92986f6) | 2026-04-23 01:50 |
+| GEICO | Senior Engineer - .NET | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab7793f0a792b417) | 2026-04-23 01:50 |
+| GEICO | Senior Engineer - .NET | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=650677ad14cf645f) | 2026-04-23 01:50 |
+| Tyler Technologies | Cloud Engineer | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d2728ef533caf7a) | 2026-04-23 01:50 |
+| Tyler Technologies | Cloud Engineer | Yarmouth, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68f623995aa05734) | 2026-04-23 01:50 |
+| Tyler Technologies | Cloud Engineer | Troy, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ef46c3d4fd66d6a) | 2026-04-23 01:50 |
+| Tyler Technologies | Cloud Engineer | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7c890c6597a8569) | 2026-04-23 01:50 |
 | Glacier Analytics LLC | AWS DevOps Engineer | Orlando, FL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=e8f2c6e67bc23530) | 2026-04-22 23:39 |
 | ERP Initiatives Group Inc. | AWS Architect with AI + Automation | Clarksburg, MD, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=46058fb33ffd00c5) | 2026-04-22 23:39 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-22 23:39 |
-| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-22 23:39 |
-| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-22 23:39 |
 | Transamerica | Specialist Software Engineering | Cedar Rapids, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=66f8131b391d620e) | 2026-04-22 23:39 |
 | Gates Foundation | Senior Platform Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d0e09f867e58f64d) | 2026-04-22 23:39 |
 | Voya Financial | Solutions Architect | Braintree, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06f0f1071f3e2b14) | 2026-04-22 23:39 |
