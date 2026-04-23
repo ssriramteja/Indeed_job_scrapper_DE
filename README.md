@@ -1,15 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-23 20:07
+Last updated: 2026-04-23 21:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| S-Techinfo | Data Engineer – AWS Lakehouse (Remote) | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d18335be1419a92a) | 2026-04-23 21:38 |
+| SCAN Health Plan | Analytics, Full-Stack Engineer (Agency Temp) | Long Beach, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=78330a31d3de60c8) | 2026-04-23 21:38 |
+| Acxiom | Senior Solution Architect | Conway, AR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a4a59c922032170a) | 2026-04-23 21:38 |
+| Books-A-Million | Data Engineer | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dd3b3b5af84f7f50) | 2026-04-23 21:38 |
+| Signet Jewelers | AWS Integration Architect (Hybrid) | Coppell, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb0ac24378fc5967) | 2026-04-23 21:38 |
+| Hightower Advisors | Senior Data Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f56b57a377fe3a0) | 2026-04-23 21:38 |
+| U.S. Marine Corps | SENIOR ENTERPRISE DATA ARCHITECT | Quantico, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3977bc6913228407) | 2026-04-23 21:38 |
+| Veridic Solutions | AI/ML Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=000191587a0bd612) | 2026-04-23 21:38 |
+| Chime | Senior Software Engineer, Data Engineering | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c132b6601f3c0c7) | 2026-04-23 21:38 |
+| Goldman Sachs | Asset & Wealth Management - Software Engineer - Associate - Dallas | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b0170a8c239abcc) | 2026-04-23 21:38 |
+| nan | Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4d9e130e5057c468) | 2026-04-23 21:38 |
+| nan | Data Engineer | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=35f42b8dd196f861) | 2026-04-23 21:38 |
+| Epiq | Software Developer - Information Governance | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88087b3c950df52e) | 2026-04-23 21:38 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 21:38 |
+| Revstar | Data & AI Engineer | AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1c509a2c5d165cf) | 2026-04-23 21:38 |
+| Revstar | Data & AI Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16029f18260b23a7) | 2026-04-23 21:38 |
+| Revstar | Data & AI Engineer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=585c6ab4414e23c8) | 2026-04-23 21:38 |
 | NitinX | Senior Full-Stack Software Engineer | Santa Clara, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=20cbaecb52ef1e29) | 2026-04-23 20:07 |
 | CAI (Computer Aid, Inc.) | Software Developer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=69655961f8c3abc9) | 2026-04-23 20:07 |
 | Anteriad | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d15d053831e0a70) | 2026-04-23 20:07 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 20:07 |
 | Truist | Software Engineer III | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=541a9a3e6c8c6ce3) | 2026-04-23 20:07 |
 | Crane Aerospace & Electronics | Sr. Group Supply Chain Analyst | Burbank, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be31ff28c647bb41) | 2026-04-23 20:07 |
 | Intellectyx | AI Solution Architect | Pasadena, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a4d23e36ea1a698) | 2026-04-23 19:00 |
@@ -521,7 +537,6 @@ Last updated: 2026-04-23 20:07
 | State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=868cad9be8cb3aa5) | 2026-04-20 09:50 |
 | Blue Origin | Business Analyst Sr | FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0150b99a3b3fea86) | 2026-04-20 07:12 |
 | nan | Senior Software Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2020840dfc5b5027) | 2026-04-20 04:52 |
-| Cielo | AI Engineer (React UI) - Remote US | Wauwatosa, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0e67add270aac4c5) | 2026-04-19 20:28 |
 
 
 ---
