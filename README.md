@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-23 04:45
+Last updated: 2026-04-23 06:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-23 06:57 |
+| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-23 06:57 |
+| Openkyber | AWS Network Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6a924e0d6d13cba9) | 2026-04-23 06:57 |
+| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-23 06:57 |
+| BECU | Business Data Scientist, Marketing Analytics | WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af7dae27066ed5bc) | 2026-04-23 06:57 |
+| Openkyber | AWS Network Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=75e319e5ec133537) | 2026-04-23 06:57 |
+| Openkyber | Multi-Cloud Networking Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ff8e0f386ef907b) | 2026-04-23 06:57 |
+| Mister Car Wash | DevOps Engineer, Senior | Tucson, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=414fb4f6d3a8dcd9) | 2026-04-23 06:57 |
+| County of San Luis Obispo | Software Engineer III (CJIS) | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2cda7602e4b5904c) | 2026-04-23 06:57 |
+| Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2f5cef76808163a) | 2026-04-23 06:57 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 06:57 |
+| Humana | Software Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=185c1836bede91b1) | 2026-04-23 06:57 |
+| Humana | Software Engineer | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2cedfc80fbfee214) | 2026-04-23 06:57 |
 | Customized Energy Solutions | Senior Software Engineer (Cloud & Data Platforms) | Philadelphia, PA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=14e471621c544ca6) | 2026-04-23 04:45 |
 | Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0672f1d449c9d9e2) | 2026-04-23 04:45 |
 | Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=96a88c14093ccdaf) | 2026-04-23 04:45 |
@@ -59,19 +72,15 @@ Last updated: 2026-04-23 04:45
 | Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Princeton, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1662c7096eaa5c34) | 2026-04-23 04:45 |
 | Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Louisville, KY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9b54c062fe208581) | 2026-04-23 04:45 |
 | Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Minneapolis, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3ca77008309e43be) | 2026-04-23 04:45 |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-23 04:45 |
-| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-23 04:45 |
 | Cognizant | Data Engineer (AIA) | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=422b5002f3c92e96) | 2026-04-23 04:45 |
 | Cognizant | Data Engineer (AIA) | MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4ca947b911b13d47) | 2026-04-23 04:45 |
 | Cognizant | Data Engineer (AIA) | MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2762492ad7551efe) | 2026-04-23 04:45 |
-| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-23 04:45 |
 | ADT | Senior DevOps Engineer II | Blue Bell, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3af6a74b61fd0779) | 2026-04-23 04:45 |
 | Cognizant | AI Engineer (AIA) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=620262fd8bc038be) | 2026-04-23 04:45 |
 | Cognizant | AI Engineer (AIA) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c87da22babbe085) | 2026-04-23 04:45 |
 | Cognizant | AI Engineer (AIA) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=537fe809ab41770d) | 2026-04-23 04:45 |
 | Cognizant | AI Engineer (AIA) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3776f71cd705f403) | 2026-04-23 04:45 |
 | Cognizant | AI Engineer (AIA) | MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57e40902475718d3) | 2026-04-23 04:45 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 04:45 |
 | The Hartford | Associate Data and AI Engineer | Hartford, CT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=718af7ca01e94aee) | 2026-04-23 01:50 |
 | The Hartford | Associate Data and AI Engineer | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=10c4f60d661f5f00) | 2026-04-23 01:50 |
 | The Hartford | Associate Data and AI Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6f971eeb79a21180) | 2026-04-23 01:50 |
