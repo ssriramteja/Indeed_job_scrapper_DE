@@ -1,17 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-23 10:16
+Last updated: 2026-04-23 11:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-23 10:16 |
-| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-23 10:16 |
+| Red Ventures | Data Engineer \| The Points Guy | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec2d5686f500c7c1) | 2026-04-23 11:55 |
+| Red Ventures | Data Engineer \| The Points Guy | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac5793781d1c8a3c) | 2026-04-23 11:55 |
+| Openkyber | AI Integration Engineer (Java + AI) | NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fbdcf2158c6b2d0d) | 2026-04-23 11:55 |
+| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-23 11:55 |
+| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6bd882abe2f239e8) | 2026-04-23 11:55 |
+| Openkyber | Java Software Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5f84e68d5415404a) | 2026-04-23 11:55 |
+| Openkyber | AI Application Architect | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eec716db1d652f56) | 2026-04-23 11:55 |
+| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41f5f841b3bf67ad) | 2026-04-23 11:55 |
+| Openkyber | AI Integration Engineer (Java + AI) | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af37d87136cf35b5) | 2026-04-23 11:55 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 11:55 |
+| Openkyber | AI Application Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b0780a9fb0dbc39) | 2026-04-23 11:55 |
+| TikTok | Ads Targeting Data Engineer, Ads Core | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd2adeacdfffb183) | 2026-04-23 11:55 |
 | JPMorganChase | Software Engineer III - AI/ML | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e288d00b33f48efe) | 2026-04-23 10:16 |
-| Red Ventures | Senior Data Engineer \| The Points Guy | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa160af377aea6a2) | 2026-04-23 10:16 |
 | Amcor | Cloud Platforms Engineer II | Oshkosh, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0a5bd8b939af9f70) | 2026-04-23 10:16 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=672dba9cce12de5f) | 2026-04-23 10:16 |
 | Bloom Growth Partners | Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec3ffe3d2951f742) | 2026-04-23 08:50 |
 | isolved | Data Platform Architect | Nixa, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d13a0d2142e0261) | 2026-04-23 08:50 |
 | nan | Pre-Sales Engineer (Data & Analytics) | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c940790b1550a5b) | 2026-04-23 08:50 |
