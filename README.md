@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-24 17:44
+Last updated: 2026-04-24 18:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cd9af1111f848535) | 2026-04-24 18:38 |
+| Tech Army | Applications Architect (C. Advanced) | Tallahassee, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=859c1fde04a1f7bb) | 2026-04-24 18:38 |
+| Huntington Bank | Site Reliability Engineer (SRE) – II | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4c307a35b1d669fd) | 2026-04-24 18:38 |
+| GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f72b719cfa087347) | 2026-04-24 18:38 |
+| GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f1957453af9e455e) | 2026-04-24 18:38 |
+| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 18:38 |
+| Quantiphi | Containers / EKS Specialist | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ccdb683ece378a1d) | 2026-04-24 18:38 |
+| The Joint Commission | Database Engineer | Oak Brook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=813d5ada1f8fd5ca) | 2026-04-24 18:38 |
+| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 18:38 |
 | BridgeNexus Technologies Inc | AI/ML Engineer | Mountain View, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8b141076859f8d17) | 2026-04-24 17:44 |
 | Fustis LLC | ML Engineering Consultant | Saint Paul, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3af99e279232368b) | 2026-04-24 17:44 |
 | Trinity Logistics | DevOps Engineer | Seaford, DE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d5fdb5e00e6bd271) | 2026-04-24 17:44 |
@@ -15,13 +24,11 @@ Last updated: 2026-04-24 17:44
 | OptiTrack | Machine Learning & Operations Engineer | Arlington, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dfc79b80048fb6a0) | 2026-04-24 17:44 |
 | OptiTrack | Machine Learning & Operations Engineer | Durham, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c39760b84f3ba19b) | 2026-04-24 17:44 |
 | OptiTrack | Machine Learning & Operations Engineer | Corvallis, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b491b874fd82c8cc) | 2026-04-24 17:44 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 17:44 |
 | Openkyber | Java QA Automation Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8462ced5ab30fab8) | 2026-04-24 17:44 |
 | Openkyber | DevOps/AI Ops Administrator | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c943add79570b0eb) | 2026-04-24 17:44 |
 | Openkyber | Java Kafka Streams Developer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3ce7aadbafa8d37) | 2026-04-24 17:44 |
 | Openkyber | Java API Integration Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0d00cf36f39bc489) | 2026-04-24 17:44 |
 | Trinity Logistics | Senior Software Engineer, Automation | Seaford, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1fe28a5e43309328) | 2026-04-24 17:44 |
-| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 17:44 |
 | Openkyber | Java Trainer / Mentor / Educator | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa91f0490d487d6f) | 2026-04-24 17:44 |
 | Openkyber | Java Trainer / Mentor / Educator | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1acc4fe9bbc488ff) | 2026-04-24 17:44 |
 | Optum | Python Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a8243a564207213c) | 2026-04-24 16:45 |
@@ -733,27 +740,6 @@ Last updated: 2026-04-24 17:44
 | DATAMAXIS | Site Reliability Engineer (Azure) | Northbrook, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=68867f5f2f53aa49) | 2026-04-20 19:55 |
 | Truist | Software Engineer III - Real Estate Mortgage Servicing | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5353391b47b16722) | 2026-04-20 19:55 |
 | University of Utah | Business Intelligence Analyst | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2fd5c7b34b56678) | 2026-04-20 19:55 |
-| FreshDirect | GCP Data Cloud Architect with AI | Woodbridge, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=245f3c6627aa53a9) | 2026-04-20 17:52 |
-| Openkyber | AI Integration Consultant | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3a7d79dfeae2865) | 2026-04-20 17:52 |
-| Openkyber | AI Integration Consultant | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c810855cd475cddf) | 2026-04-20 17:52 |
-| The Hartford | AI Platform Engineer (Google Cloud Platform) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec7228093a638b5f) | 2026-04-20 17:52 |
-| The Hartford | AI Platform Engineer (Google Cloud Platform) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ddfe41cb3e214682) | 2026-04-20 17:52 |
-| The Hartford | AI Platform Engineer (Google Cloud Platform) | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3666c929b887d4e3) | 2026-04-20 17:52 |
-| The Hartford | AI Platform Engineer (Google Cloud Platform) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b1492fbbf44262d) | 2026-04-20 17:52 |
-| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d2229a1b23116108) | 2026-04-20 17:52 |
-| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=637189f4ee313108) | 2026-04-20 17:52 |
-| CG Infinity | Senior .NET Developer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af6f9746ce15f110) | 2026-04-20 17:52 |
-| CG Infinity | Senior .NET Developer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92f7fca632ed3f48) | 2026-04-20 17:52 |
-| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0d36f4f63dca52da) | 2026-04-20 17:52 |
-| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c75dd57a54105e4) | 2026-04-20 17:52 |
-| Eaton | Senior Data Architect - Analytics Platforms | Menomonee Falls, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d33261b56b6b771e) | 2026-04-20 17:52 |
-| Eaton | Senior Data Architect - Analytics Platforms | Galesburg, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f6955ba1be4a330) | 2026-04-20 17:52 |
-| Eaton | Senior Data Architect - Analytics Platforms | Moon Township, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=709beae9964c38c9) | 2026-04-20 17:52 |
-| Eaton | Senior Data Architect - Analytics Platforms | Southfield, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62ccfc0a42fa5999) | 2026-04-20 17:52 |
-| Eaton | Senior Data Architect - Analytics Platforms | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fae19b83fb3c677f) | 2026-04-20 17:52 |
-| Eaton | Senior Data Architect - Analytics Platforms | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a6c16c455fbe550) | 2026-04-20 17:52 |
-| Eaton | Senior Data Architect - Analytics Platforms | Beachwood, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19b9d1ca199648e5) | 2026-04-20 17:52 |
-| NTT DATA | API Architect | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e1e187ea4c6001c) | 2026-04-20 17:52 |
 
 
 ---
