@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-24 04:49
+Last updated: 2026-04-24 07:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Clarivate | Senior Software Engineer | Ann Arbor, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=93aadd8b0c9c7d51) | 2026-04-24 07:00 |
+| Experian | Senior Data Platform Engineer, Remote | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=977bf1988c99ef2b) | 2026-04-24 07:00 |
+| Navat Technologies Pvt Ltd | AWS Cloud Architect - Remote - Contract | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=21d6094d4c650121) | 2026-04-24 07:00 |
+| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1133298756b1fd23) | 2026-04-24 07:00 |
+| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 07:00 |
+| Mashura | Sr. Data Engineer (Hybrid or Remote) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f082901e3e3db300) | 2026-04-24 07:00 |
 | Toyota North America | Software Engineer - Backend | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c3e958aba48d0575) | 2026-04-24 04:49 |
 | Suffolk Construction | Site AI Engineer | Las Vegas, NV, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0703e81fbc55d324) | 2026-04-24 04:49 |
 | Humana | Sr Data Engineer - AI | Louisville, KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=efe7e953ddc656aa) | 2026-04-24 04:49 |
@@ -158,7 +164,6 @@ Last updated: 2026-04-24 04:49
 | MetLife | Assistant Database Reliability Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=54e260e9d5d3946a) | 2026-04-24 04:49 |
 | Optum | Senior Software Engineer | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b7ab7604cd46281) | 2026-04-24 04:49 |
 | eBay | Full Stack Engineer, Batch Operations | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e05d25284fdf864) | 2026-04-24 04:49 |
-| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 04:49 |
 | Intone Networks | PowerBI Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4e69028d79bb8ee) | 2026-04-24 04:49 |
 | NuAxis Innovations | Database Architect | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=97183c81227864b3) | 2026-04-24 01:50 |
 | Slalom Consulting | Databricks Senior Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=70901457c8624077) | 2026-04-24 01:50 |
@@ -719,7 +724,6 @@ Last updated: 2026-04-24 04:49
 | Wells Fargo | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f19a6e4f42a1dcfd) | 2026-04-20 09:50 |
 | State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=868cad9be8cb3aa5) | 2026-04-20 09:50 |
 | Blue Origin | Business Analyst Sr | FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0150b99a3b3fea86) | 2026-04-20 07:12 |
-| nan | Senior Software Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2020840dfc5b5027) | 2026-04-20 04:52 |
 
 
 ---
