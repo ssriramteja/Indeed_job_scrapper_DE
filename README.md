@@ -1,21 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-24 21:40
+Last updated: 2026-04-24 22:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Intellibee Inc | Infrastructure Solutions Architect | Lansing, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=408b75423e54b3b2) | 2026-04-24 22:33 |
+| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 22:33 |
+| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 22:33 |
 | HealthMark Group | Senior Cloud Infrastructure Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=01d1e673d73274cb) | 2026-04-24 21:40 |
 | General Motors (GM) | Software Engineer - SRE | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=21f79af4f138986f) | 2026-04-24 21:40 |
 | Tokio Marine HCC | Software Engineer, DFIR | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa30285abbf1788b) | 2026-04-24 21:40 |
 | oura | Senior Data Engineer - Data & ML Platform | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=712997349ec8d11d) | 2026-04-24 21:40 |
 | Toyota North America | Site Reliability Engineer, Senior - Shared Services | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f039036773c1f28e) | 2026-04-24 21:40 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 21:40 |
 | General Intuition & Medal | Site Reliability / Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ebd140da724c069c) | 2026-04-24 21:40 |
 | Abacus | Sr Cloud Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc9177734e7ea91a) | 2026-04-24 21:40 |
 | Medal | Site Reliability / Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c44d2e760ed95d49) | 2026-04-24 21:40 |
-| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 21:40 |
 | Moda Health | Data Warehouse Architect | Portland, OR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6d9d7f98d5bdda0c) | 2026-04-24 20:37 |
 | Xylem | Sr IT Analyst | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0afe088d065fd78d) | 2026-04-24 20:37 |
 | Red Cat Holdings | Data Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a1070b79a3524d7) | 2026-04-24 20:37 |
