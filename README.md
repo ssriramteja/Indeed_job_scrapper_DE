@@ -1,16 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-24 16:45
+Last updated: 2026-04-24 17:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BridgeNexus Technologies Inc | AI/ML Engineer | Mountain View, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8b141076859f8d17) | 2026-04-24 17:44 |
+| Fustis LLC | ML Engineering Consultant | Saint Paul, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3af99e279232368b) | 2026-04-24 17:44 |
+| Trinity Logistics | DevOps Engineer | Seaford, DE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d5fdb5e00e6bd271) | 2026-04-24 17:44 |
+| Openkyber | AI Application Architect | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5bd13d9bc2495c26) | 2026-04-24 17:44 |
+| HCA Healthcare | Senior Data Engineer - APIs | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40caa2125a3057cc) | 2026-04-24 17:44 |
+| Hydrafacial | Senior Data Architect | Lakewood, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4214ccb3eede4b84) | 2026-04-24 17:44 |
+| OptiTrack | Machine Learning & Operations Engineer | Arlington, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dfc79b80048fb6a0) | 2026-04-24 17:44 |
+| OptiTrack | Machine Learning & Operations Engineer | Durham, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c39760b84f3ba19b) | 2026-04-24 17:44 |
+| OptiTrack | Machine Learning & Operations Engineer | Corvallis, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b491b874fd82c8cc) | 2026-04-24 17:44 |
+| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 17:44 |
+| Openkyber | Java QA Automation Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8462ced5ab30fab8) | 2026-04-24 17:44 |
+| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c943add79570b0eb) | 2026-04-24 17:44 |
+| Openkyber | Java Kafka Streams Developer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3ce7aadbafa8d37) | 2026-04-24 17:44 |
+| Openkyber | Java API Integration Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0d00cf36f39bc489) | 2026-04-24 17:44 |
+| Trinity Logistics | Senior Software Engineer, Automation | Seaford, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1fe28a5e43309328) | 2026-04-24 17:44 |
+| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 17:44 |
+| Openkyber | Java Trainer / Mentor / Educator | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa91f0490d487d6f) | 2026-04-24 17:44 |
+| Openkyber | Java Trainer / Mentor / Educator | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1acc4fe9bbc488ff) | 2026-04-24 17:44 |
 | Optum | Python Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a8243a564207213c) | 2026-04-24 16:45 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 16:45 |
 | Zoom Communications | Senior Software Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=995dfe3cc7599f4e) | 2026-04-24 16:45 |
 | ecoATM LLC | Sr. DevOps Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f20f01e742321cc6) | 2026-04-24 16:45 |
-| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 16:45 |
 | nan | Data Engineer I | Santa Monica, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e197aeed7a4daa68) | 2026-04-24 15:02 |
 | Calabrio | Engineer, Software | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5f67526228c2d8ea) | 2026-04-24 15:02 |
 | Capital One | Distinguished Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4b1beaee3c6388b3) | 2026-04-24 15:02 |
@@ -738,12 +754,6 @@ Last updated: 2026-04-24 16:45
 | Eaton | Senior Data Architect - Analytics Platforms | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a6c16c455fbe550) | 2026-04-20 17:52 |
 | Eaton | Senior Data Architect - Analytics Platforms | Beachwood, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19b9d1ca199648e5) | 2026-04-20 17:52 |
 | NTT DATA | API Architect | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e1e187ea4c6001c) | 2026-04-20 17:52 |
-| United Vein & Vascular Centers | Senior Data Engineer/ Architecture (ADF & Databricks) | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e308055f15971689) | 2026-04-20 16:56 |
-| American Express | AI Engineer-Machine Learning Platform | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac07d11154ac5713) | 2026-04-20 16:56 |
-| American Express | Software Engineer II - Global Servicing Technology | Sunrise, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=26fffd4f5d1b3c90) | 2026-04-20 16:56 |
-| American Express | Sr Software Engineer I - Global Servicing Technology | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e593d6d7bcb6eda7) | 2026-04-20 16:56 |
-| CapTech Consulting | Data Engineering Associate Consultant (Graduating Dec 2025 - Summer 2026) | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4af8bf438b9426a) | 2026-04-20 16:56 |
-| NBCUniversal | Advertising & Partnerships Ad Products Internships – Academic Year | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4892cce569405d61) | 2026-04-20 16:56 |
 
 
 ---
