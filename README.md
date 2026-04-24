@@ -1,14 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-24 22:33
+Last updated: 2026-04-24 23:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Cloud AI Consultant | GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=5b44724ef07bf0a9) | 2026-04-24 23:33 |
+| Openkyber | Java Application Support Analyst | GA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=a6887fcec2e6909c) | 2026-04-24 23:33 |
+| Openkyber | Java Application Support Analyst | WA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=dc1240d3e0b18e47) | 2026-04-24 23:33 |
+| BAE Systems USA | Data Engineer | Fort Walton Beach, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=77ec6df15b6232d2) | 2026-04-24 23:33 |
+| 10X Genomics | Senior Data Platform Engineer | Pleasanton, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ac3f880613f0e9a7) | 2026-04-24 23:33 |
+| CarMax | Sr. Business Intelligence Platform Engineer | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a7def3d6275f90f3) | 2026-04-24 23:33 |
+| CarMax | Sr. Business Intelligence Platform Engineer | Richmond, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=748e1ac563cf5647) | 2026-04-24 23:33 |
+| Tango | Healthcare Data Engineer - Eligibility & Integrations (Microsoft Fabric) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=77a67e04b39a994b) | 2026-04-24 23:33 |
+| Openkyber | Java Solution Architect | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7c755a205934bcc5) | 2026-04-24 23:33 |
+| Openkyber | Java Solution Architect | IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b6837d4a932a91bd) | 2026-04-24 23:33 |
+| Openkyber | Java Platform Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a100ab935210c730) | 2026-04-24 23:33 |
+| Openkyber | Java Platform Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a20313f7d2a7a9dc) | 2026-04-24 23:33 |
+| Openkyber | Java Platform Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cd91e562ca9970a9) | 2026-04-24 23:33 |
+| LERETA, LLC | Senior Data Engineer | Pomona, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c2cfc17e75f7401) | 2026-04-24 23:33 |
+| GEICO | Engineer II – Data Engineer | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8dbd90f5c708f902) | 2026-04-24 23:33 |
+| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 23:33 |
+| Openkyber | Java Test Engineer (JUnit, TestNG) | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=121388def99607e8) | 2026-04-24 23:33 |
+| Openkyber | Java Test Engineer (JUnit, TestNG) | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=799c882a39511da7) | 2026-04-24 23:33 |
+| GEICO | Senior Engineer-5 | Bethesda, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=62e5d4bfa811f4f6) | 2026-04-24 23:33 |
+| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 23:33 |
 | Intellibee Inc | Infrastructure Solutions Architect | Lansing, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=408b75423e54b3b2) | 2026-04-24 22:33 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 22:33 |
-| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 22:33 |
 | HealthMark Group | Senior Cloud Infrastructure Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=01d1e673d73274cb) | 2026-04-24 21:40 |
 | General Motors (GM) | Software Engineer - SRE | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=21f79af4f138986f) | 2026-04-24 21:40 |
 | Tokio Marine HCC | Software Engineer, DFIR | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa30285abbf1788b) | 2026-04-24 21:40 |
@@ -736,17 +754,6 @@ Last updated: 2026-04-24 22:33
 | Crown Equipment | Data Engineer - Data Services | New Bremen, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1a0449408242d4cd) | 2026-04-20 23:35 |
 | Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=106aa03227443434) | 2026-04-20 23:35 |
 | Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e644f982314c50c) | 2026-04-20 23:35 |
-| Paradigm Corp | IT Data Engineer III - Remote | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6d91e7d74c6a8abc) | 2026-04-20 22:35 |
-| Paradigm Corp | IT Data Engineer III - Remote | Lombard, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a983900d06af5f80) | 2026-04-20 22:35 |
-| JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bb9997a7eee60c24) | 2026-04-20 22:35 |
-| Liberty Mutual Insurance | Data Engineer | Portsmouth, NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a37dd105237e7eee) | 2026-04-20 22:35 |
-| Liberty Mutual Insurance | Data Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af0a27f5cad734cd) | 2026-04-20 22:35 |
-| Liberty Mutual Insurance | Data Engineer | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef54466fd6bf7b6b) | 2026-04-20 22:35 |
-| Liberty Mutual Insurance | Data Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3cd9046bcfc59025) | 2026-04-20 22:35 |
-| Boeing | Experienced Business Intelligence Developer | Tukwila, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=832138786e2c4867) | 2026-04-20 22:35 |
-| Brandt Information Services, Inc. | Senior Software Engineer Go Outdoors Payments | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d19947dba07869ac) | 2026-04-20 22:35 |
-| Brandt Information Services, Inc. | Software Engineer Go Outdoors | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99e9713b85aaa6a5) | 2026-04-20 22:35 |
-| Snowflake | Senior Software Developer - Full Stack | Dublin, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=abc88efd61aa5a80) | 2026-04-20 22:35 |
 
 
 ---
