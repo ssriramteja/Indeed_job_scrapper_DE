@@ -1,11 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-23 23:37
+Last updated: 2026-04-24 01:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NuAxis Innovations | Database Architect | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=97183c81227864b3) | 2026-04-24 01:50 |
+| Slalom Consulting | Databricks Senior Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=70901457c8624077) | 2026-04-24 01:50 |
+| Slalom Consulting | Databricks Architect | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=59c6b7befce247af) | 2026-04-24 01:50 |
+| Frame Foxes Creative | Data Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=708504cdbe336a34) | 2026-04-24 01:50 |
+| Socure | Data Scientist II - Big Data R&D, Identity Graph & KYC | Carson City, NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6859308e43774778) | 2026-04-24 01:50 |
+| Ware Malcomb | Systems Engineer | Oak Brook, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f8af61c6f890c0f1) | 2026-04-24 01:50 |
+| AMD | Senior Cloud Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca4d209e381e858e) | 2026-04-24 01:50 |
+| American Express | Data Engineer II | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4193f3fe77904a35) | 2026-04-24 01:50 |
+| Socure | Senior Data Scientist - International eKYC, Identity Graph | Carson City, NV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1821921db4210a68) | 2026-04-24 01:50 |
+| OptiTrack | Machine Learning & Operations Engineer | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=89d3fcca45b625b2) | 2026-04-24 01:50 |
+| OptiTrack | Machine Learning & Operations Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7ff9f54a3bf3df2) | 2026-04-24 01:50 |
+| OptiTrack | Machine Learning & Operations Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=494f58d930e8174f) | 2026-04-24 01:50 |
+| Socure | Senior Data Scientist - Big Data R&D, Identity Graph & KYC | Carson City, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71af9298e33a2a39) | 2026-04-24 01:50 |
+| Highlights for Children | Data Architect | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da776d40fc886409) | 2026-04-24 01:50 |
+| CERTIFID | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f20b957dca19c3a) | 2026-04-24 01:50 |
+| DriveTime Automotive Group | Senior Software Engineer - Remote | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b253315d0e7f0790) | 2026-04-24 01:50 |
+| DriveTime Automotive Group | Senior Software Engineer - Remote | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c181449ffb89883) | 2026-04-24 01:50 |
+| Sevita | Data Integration Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52e4643d6e89461e) | 2026-04-24 01:50 |
 | Cognizant | Software Engineer- Agentic AI & DevOps (Remote) | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=983cd52a5aa42147) | 2026-04-23 23:37 |
 | Availity, LLC. | Senior Product Solutions Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=84317bbfd5f19a2b) | 2026-04-23 23:37 |
 | Cognizant | GCP Data Architect | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3d68a9f74f5597a0) | 2026-04-23 23:37 |
