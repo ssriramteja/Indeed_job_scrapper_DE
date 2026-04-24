@@ -1,20 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-24 18:38
+Last updated: 2026-04-24 19:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| KUBRA | Data Engineer | Tempe, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aa2a9614a79aed2a) | 2026-04-24 19:44 |
+| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 19:44 |
+| Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d957645e55a581d) | 2026-04-24 19:44 |
+| PrizePicks | Data Platform Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1da9309099e24717) | 2026-04-24 19:44 |
+| PrizePicks | Data Platform Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb9f7f7de61a86fc) | 2026-04-24 19:44 |
+| PrizePicks | Data Platform Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=838858c3ed703639) | 2026-04-24 19:44 |
+| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 19:44 |
+| Genworth | Senior Data Engineer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f43e5255e894179) | 2026-04-24 19:44 |
 | NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cd9af1111f848535) | 2026-04-24 18:38 |
 | Tech Army | Applications Architect (C. Advanced) | Tallahassee, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=859c1fde04a1f7bb) | 2026-04-24 18:38 |
 | Huntington Bank | Site Reliability Engineer (SRE) – II | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4c307a35b1d669fd) | 2026-04-24 18:38 |
 | GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f72b719cfa087347) | 2026-04-24 18:38 |
 | GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f1957453af9e455e) | 2026-04-24 18:38 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 18:38 |
 | Quantiphi | Containers / EKS Specialist | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ccdb683ece378a1d) | 2026-04-24 18:38 |
 | The Joint Commission | Database Engineer | Oak Brook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=813d5ada1f8fd5ca) | 2026-04-24 18:38 |
-| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 18:38 |
 | BridgeNexus Technologies Inc | AI/ML Engineer | Mountain View, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8b141076859f8d17) | 2026-04-24 17:44 |
 | Fustis LLC | ML Engineering Consultant | Saint Paul, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3af99e279232368b) | 2026-04-24 17:44 |
 | Trinity Logistics | DevOps Engineer | Seaford, DE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d5fdb5e00e6bd271) | 2026-04-24 17:44 |
