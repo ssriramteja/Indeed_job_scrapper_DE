@@ -1,17 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-24 11:58
+Last updated: 2026-04-24 13:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Storage Asset Management | AWS ARCHITECT E-COMMERCE | York, PA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8e2dd02ca9d5cc68) | 2026-04-24 13:18 |
+| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 13:18 |
+| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 13:18 |
+| Air Apps | Software Architect | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da7d5c56b94e4648) | 2026-04-24 13:18 |
+| BDIPlus | Senior Event Streaming Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d7d7d17e07dc955) | 2026-04-24 13:18 |
 | Openkyber | AI Application Architect | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=65d630f1de857722) | 2026-04-24 11:58 |
 | Openkyber | Java API Gateway Developer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=825e1da1e53f7539) | 2026-04-24 11:58 |
 | Openkyber | Java API Gateway Developer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0615a052696ffb78) | 2026-04-24 11:58 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 11:58 |
 | Openkyber | Java Kafka Streams Developer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86b56d1e86b842b3) | 2026-04-24 11:58 |
-| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 11:58 |
 | JPMorganChase | Data Architect III | Palo Alto, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e0eff69119214bd8) | 2026-04-24 10:59 |
 | Central Health | Data Integration Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=326c78111f5647b3) | 2026-04-24 10:59 |
 | JPMorganChase | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=92ccc9ae466ace7c) | 2026-04-24 09:02 |
@@ -729,7 +732,6 @@ Last updated: 2026-04-24 11:58
 | American Express | Sr Software Engineer I - Global Servicing Technology | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e593d6d7bcb6eda7) | 2026-04-20 16:56 |
 | CapTech Consulting | Data Engineering Associate Consultant (Graduating Dec 2025 - Summer 2026) | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4af8bf438b9426a) | 2026-04-20 16:56 |
 | NBCUniversal | Advertising & Partnerships Ad Products Internships – Academic Year | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4892cce569405d61) | 2026-04-20 16:56 |
-| Alkami Technology | Sr. Data Engineer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=2c9c766989d27507) | 2026-04-20 13:08 |
 
 
 ---
