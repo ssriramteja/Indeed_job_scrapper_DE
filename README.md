@@ -1,18 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-24 19:44
+Last updated: 2026-04-24 20:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Moda Health | Data Warehouse Architect | Portland, OR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6d9d7f98d5bdda0c) | 2026-04-24 20:37 |
+| Xylem | Sr IT Analyst | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0afe088d065fd78d) | 2026-04-24 20:37 |
+| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 20:37 |
+| Red Cat Holdings | Data Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a1070b79a3524d7) | 2026-04-24 20:37 |
+| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 20:37 |
+| Select Minds LLC | AI Testing Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e98247ffa20b79b2) | 2026-04-24 20:37 |
+| Radiology Partners | Sr. Development Support Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1de422c2feb64a45) | 2026-04-24 20:37 |
 | KUBRA | Data Engineer | Tempe, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aa2a9614a79aed2a) | 2026-04-24 19:44 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 19:44 |
 | Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d957645e55a581d) | 2026-04-24 19:44 |
 | PrizePicks | Data Platform Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1da9309099e24717) | 2026-04-24 19:44 |
 | PrizePicks | Data Platform Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb9f7f7de61a86fc) | 2026-04-24 19:44 |
 | PrizePicks | Data Platform Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=838858c3ed703639) | 2026-04-24 19:44 |
-| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 19:44 |
 | Genworth | Senior Data Engineer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f43e5255e894179) | 2026-04-24 19:44 |
 | NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cd9af1111f848535) | 2026-04-24 18:38 |
 | Tech Army | Applications Architect (C. Advanced) | Tallahassee, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=859c1fde04a1f7bb) | 2026-04-24 18:38 |
@@ -742,10 +747,6 @@ Last updated: 2026-04-24 19:44
 | Stellantis | Software Engineer | Auburn Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34c00d3722b6113c) | 2026-04-20 20:38 |
 | Goldman Sachs | Asset & Wealth Management - AI Solutions Engineer - Associate - Dallas | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8e6ebff3fb9a8fa2) | 2026-04-20 20:38 |
 | RRS Enterprises | Power BI Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5ef3473575569109) | 2026-04-20 20:38 |
-| University of Pittsburgh | Senior Data Engineer (EDGE) | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=303a6ba70fa90d4a) | 2026-04-20 19:55 |
-| DATAMAXIS | Site Reliability Engineer (Azure) | Northbrook, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=68867f5f2f53aa49) | 2026-04-20 19:55 |
-| Truist | Software Engineer III - Real Estate Mortgage Servicing | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5353391b47b16722) | 2026-04-20 19:55 |
-| University of Utah | Business Intelligence Analyst | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2fd5c7b34b56678) | 2026-04-20 19:55 |
 
 
 ---
