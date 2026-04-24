@@ -1,16 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-24 20:37
+Last updated: 2026-04-24 21:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HealthMark Group | Senior Cloud Infrastructure Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=01d1e673d73274cb) | 2026-04-24 21:40 |
+| General Motors (GM) | Software Engineer - SRE | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=21f79af4f138986f) | 2026-04-24 21:40 |
+| Tokio Marine HCC | Software Engineer, DFIR | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa30285abbf1788b) | 2026-04-24 21:40 |
+| oura | Senior Data Engineer - Data & ML Platform | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=712997349ec8d11d) | 2026-04-24 21:40 |
+| Toyota North America | Site Reliability Engineer, Senior - Shared Services | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f039036773c1f28e) | 2026-04-24 21:40 |
+| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 21:40 |
+| General Intuition & Medal | Site Reliability / Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ebd140da724c069c) | 2026-04-24 21:40 |
+| Abacus | Sr Cloud Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc9177734e7ea91a) | 2026-04-24 21:40 |
+| Medal | Site Reliability / Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c44d2e760ed95d49) | 2026-04-24 21:40 |
+| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 21:40 |
 | Moda Health | Data Warehouse Architect | Portland, OR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6d9d7f98d5bdda0c) | 2026-04-24 20:37 |
 | Xylem | Sr IT Analyst | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0afe088d065fd78d) | 2026-04-24 20:37 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 20:37 |
 | Red Cat Holdings | Data Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a1070b79a3524d7) | 2026-04-24 20:37 |
-| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 20:37 |
 | Select Minds LLC | AI Testing Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e98247ffa20b79b2) | 2026-04-24 20:37 |
 | Radiology Partners | Sr. Development Support Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1de422c2feb64a45) | 2026-04-24 20:37 |
 | KUBRA | Data Engineer | Tempe, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aa2a9614a79aed2a) | 2026-04-24 19:44 |
@@ -738,15 +746,6 @@ Last updated: 2026-04-24 20:37
 | Brandt Information Services, Inc. | Senior Software Engineer Go Outdoors Payments | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d19947dba07869ac) | 2026-04-20 22:35 |
 | Brandt Information Services, Inc. | Software Engineer Go Outdoors | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99e9713b85aaa6a5) | 2026-04-20 22:35 |
 | Snowflake | Senior Software Developer - Full Stack | Dublin, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=abc88efd61aa5a80) | 2026-04-20 22:35 |
-| American Eagle Outfitters | Data Architect | Pittsburgh, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fff3451d72aca5a0) | 2026-04-20 21:39 |
-| nan | Dev/ MLOps Engineer I (Full Stack) | Rockville, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=427875b29ec1de14) | 2026-04-20 21:39 |
-| Agree Technologies and Solutions | Data Engineer | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2dc31db62fba45fd) | 2026-04-20 21:39 |
-| American Eagle Outfitters | Data Architect | Pittsburgh, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=46ceff8454ebfac5) | 2026-04-20 21:39 |
-| Liquidity Services, Inc. | Engineer II, Dev.Ops | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=851e43960c5deeba) | 2026-04-20 21:39 |
-| Charles Schwab | Sr. Java Software Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5dec65bf183a746b) | 2026-04-20 21:39 |
-| Stellantis | Software Engineer | Auburn Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34c00d3722b6113c) | 2026-04-20 20:38 |
-| Goldman Sachs | Asset & Wealth Management - AI Solutions Engineer - Associate - Dallas | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8e6ebff3fb9a8fa2) | 2026-04-20 20:38 |
-| RRS Enterprises | Power BI Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5ef3473575569109) | 2026-04-20 20:38 |
 
 
 ---
