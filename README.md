@@ -1,15 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-24 10:59
+Last updated: 2026-04-24 11:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | AI Application Architect | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=65d630f1de857722) | 2026-04-24 11:58 |
+| Openkyber | Java API Gateway Developer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=825e1da1e53f7539) | 2026-04-24 11:58 |
+| Openkyber | Java API Gateway Developer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0615a052696ffb78) | 2026-04-24 11:58 |
+| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 11:58 |
+| Openkyber | Java Kafka Streams Developer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86b56d1e86b842b3) | 2026-04-24 11:58 |
+| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 11:58 |
 | JPMorganChase | Data Architect III | Palo Alto, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e0eff69119214bd8) | 2026-04-24 10:59 |
 | Central Health | Data Integration Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=326c78111f5647b3) | 2026-04-24 10:59 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 10:59 |
-| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 10:59 |
 | JPMorganChase | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=92ccc9ae466ace7c) | 2026-04-24 09:02 |
 | JPMorganChase | Senior Analytics Solution Associate | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=682f448ab80fc1a2) | 2026-04-24 09:02 |
 | Clarivate | Senior Software Engineer | Ann Arbor, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=93aadd8b0c9c7d51) | 2026-04-24 07:00 |
