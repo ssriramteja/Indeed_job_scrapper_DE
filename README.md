@@ -1,14 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-24 13:18
+Last updated: 2026-04-24 15:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Data Engineer I | Santa Monica, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e197aeed7a4daa68) | 2026-04-24 15:02 |
+| Calabrio | Engineer, Software | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5f67526228c2d8ea) | 2026-04-24 15:02 |
+| Capital One | Distinguished Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4b1beaee3c6388b3) | 2026-04-24 15:02 |
+| McDonald's | Tech Platform Engineer III | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6c96f6146028ac0) | 2026-04-24 15:02 |
+| McDonald's | Platform Engineer III | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8d740e303897a44) | 2026-04-24 15:02 |
+| West Monroe | Forward Deployed AI Engineer, TechEx, Software -US | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=60f2fb7ebcf41f56) | 2026-04-24 15:02 |
+| Ascendion | Cloud Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cdf71cb97b6bf7ca) | 2026-04-24 15:02 |
+| McDonald's | Cloud Engineer III | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=25c3db9aa6186a43) | 2026-04-24 15:02 |
+| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 15:02 |
+| Renew home | Senior Data Scientist, Product Analytics (Remote, US) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=94ce26cd728861e5) | 2026-04-24 15:02 |
+| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 15:02 |
 | Storage Asset Management | AWS ARCHITECT E-COMMERCE | York, PA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8e2dd02ca9d5cc68) | 2026-04-24 13:18 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 13:18 |
-| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 13:18 |
 | Air Apps | Software Architect | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da7d5c56b94e4648) | 2026-04-24 13:18 |
 | BDIPlus | Senior Event Streaming Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d7d7d17e07dc955) | 2026-04-24 13:18 |
 | Openkyber | AI Application Architect | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=65d630f1de857722) | 2026-04-24 11:58 |
