@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-25 17:32
+Last updated: 2026-04-25 18:37
 
 ### 🚀 Daily Job Matches
 
@@ -1445,23 +1445,6 @@ Last updated: 2026-04-25 17:32
 | Contingent Crew, LLC | PowerBI Developer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b6960d866243637) | 2026-04-21 20:04 |
 | Core & Main | Data Engineer II | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=986441a4b7cccaf5) | 2026-04-21 20:04 |
 | CoStar Group | Data Engineer II | Arlington, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=11c49f85138a1b57) | 2026-04-21 18:59 |
-| JCPenney | Data Engineer I | Dallas, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=a759ca089bff0f85) | 2026-04-21 17:53 |
-| Openkyber | Okta | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6436f900bda01324) | 2026-04-21 17:53 |
-| Openkyber | Okta | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=14776783056c9570) | 2026-04-21 17:53 |
-| Openkyber | Okta IAM Engineer | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=89e35139815f4a73) | 2026-04-21 17:53 |
-| Openkyber | Okta | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=29eb4b25500beb8f) | 2026-04-21 17:53 |
-| Openkyber | Associate Network Operations Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e57463bb555dc770) | 2026-04-21 17:53 |
-| Openkyber | Okta IAM Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=638d31785669a8b7) | 2026-04-21 17:53 |
-| SmartThings | Sr Software Engineer | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f3621f9dee302478) | 2026-04-21 17:53 |
-| Openkyber | AWS Network Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fc1d62ec0f497740) | 2026-04-21 17:53 |
-| Openkyber | Azure Network Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=13a4ffe330a49d68) | 2026-04-21 17:53 |
-| Openkyber | Okta IAM Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ad28557fa5dd3f3) | 2026-04-21 17:53 |
-| Witherite Law Group | Azure Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a8f99f229d1e8a5c) | 2026-04-21 17:53 |
-| Openkyber | PingOne Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3abc772dea7afb0b) | 2026-04-21 17:53 |
-| Cross River Bank | Senior AI/ML Engineer | Fort Lee, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0d9f1a6d4065db66) | 2026-04-21 17:53 |
-| Openkyber | PingOne Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=68922ec4695e5f78) | 2026-04-21 17:53 |
-| Cross River Bank | Full Stack Engineer | Fort Lee, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a7a3e15c84ea264) | 2026-04-21 17:53 |
-| Empower Pharmacy | Software Engineer – Full Stack | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1e78a720e18a8f5) | 2026-04-21 17:53 |
 
 
 ---
