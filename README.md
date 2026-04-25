@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-25 19:39
+Last updated: 2026-04-25 20:30
 
 ### 🚀 Daily Job Matches
 
@@ -1437,13 +1437,6 @@ Last updated: 2026-04-25 19:39
 | Stellantis | ICT Data Analyst/Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=785c40fa6b6ef824) | 2026-04-21 21:38 |
 | DoubleVerify | Sr. Site Reliability Engineer I | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13bf6308ab860db0) | 2026-04-21 21:38 |
 | WEX Inc. | Sr Software AI Engineer 3 - Context Engineering | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb1bac54e3a5abdf) | 2026-04-21 21:38 |
-| nan | Remote Azure Cloud Engineer | Ashburn, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e17f6626567905dd) | 2026-04-21 20:04 |
-| OneTrust | Data Platform Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e9577f06fc17064b) | 2026-04-21 20:04 |
-| State Street | Middle Office Production Support Officer | Quincy, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d477484091d86d9) | 2026-04-21 20:04 |
-| Miami University | BI ETL Data Developer II or III | Oxford, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=be7780cda1b04985) | 2026-04-21 20:04 |
-| PlayStation | Senior Service Reliability Engineer | Aliso Viejo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=675136ff532a1cc5) | 2026-04-21 20:04 |
-| Contingent Crew, LLC | PowerBI Developer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b6960d866243637) | 2026-04-21 20:04 |
-| Core & Main | Data Engineer II | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=986441a4b7cccaf5) | 2026-04-21 20:04 |
 
 
 ---
