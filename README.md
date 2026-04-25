@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-25 08:01
+Last updated: 2026-04-25 09:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Paychex, Inc. | Database Engineer I | Webster, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=08825b384c423d58) | 2026-04-25 09:43 |
+| Naphcare, Inc. | Senior AWS Cloud Platform Engineer | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50e1c69114e7cd26) | 2026-04-25 09:43 |
+| JPMorganChase | Data Engineer II - AWS/PySpark/ETL | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd3fe7c74b8687e1) | 2026-04-25 09:43 |
 | Brillio LLC | Sr.Golang Developer with Java/Python – R01564313 | Edison, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=45b22e184d9f8ccf) | 2026-04-25 08:01 |
 | Openkyber | SOC Administrator | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5b8ec1afd188dfb2) | 2026-04-25 08:01 |
 | Papa John's | Software Engineer- Fulfillment Team | Louisville, KY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f73dbee285af86aa) | 2026-04-25 08:01 |
@@ -13,7 +16,6 @@ Last updated: 2026-04-25 08:01
 | Greater NY Insurance Companies | Data Engineer - Guidewire | Edison, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6f88d6fa0c8b08ab) | 2026-04-25 08:01 |
 | Openkyber | Identity Security Fundamentals Analyst | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ec444e19fb1a980) | 2026-04-25 08:01 |
 | Openkyber | Full Stack Trainee | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=31c0f98184675c10) | 2026-04-25 08:01 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-25 08:01 |
 | Openkyber | Kafka Schema Registry Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae1e880d8a206058) | 2026-04-25 08:01 |
 | Openkyber | Network Automation Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5bb5a89eeb259f5e) | 2026-04-25 08:01 |
 | Openkyber | Java Software Engineer | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c88986bdf4181f36) | 2026-04-25 08:01 |
@@ -1464,8 +1466,6 @@ Last updated: 2026-04-25 08:01
 | FreshDirect | GCP Data Cloud Architect with AI | Woodbridge, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=41f37c9c95ba03e4) | 2026-04-21 10:12 |
 | JPMorganChase | Data Domain Architect Senior Associate | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2251cb5230311649) | 2026-04-21 10:12 |
 | JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c06059acfed7a424) | 2026-04-21 10:12 |
-| Hermeus | AI DevOps / Platform Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=623f9a35a70c68ae) | 2026-04-21 08:28 |
-| Applied Information Sciences | Sr. Software Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83326895ce89ffec) | 2026-04-21 08:28 |
 
 
 ---
