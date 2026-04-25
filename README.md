@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-25 16:32
+Last updated: 2026-04-25 17:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Cloud AI Consultant | GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=0e8061f8dcfa3609) | 2026-04-25 17:32 |
+| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0d88c948e0a02d22) | 2026-04-25 17:32 |
+| Openkyber | AI Application Architect | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f510815207394b27) | 2026-04-25 17:32 |
+| Openkyber | Java Solution Architect | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a9867f7f794e3fe9) | 2026-04-25 17:32 |
+| Openkyber | Java Test Engineer (JUnit, TestNG) | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2202a6927a5be308) | 2026-04-25 17:32 |
+| Openkyber | Java CI/CD Automation Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4a4416ae7220f3f) | 2026-04-25 17:32 |
+| Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=312ff9af965f2503) | 2026-04-25 17:32 |
+| Openkyber | Java SDK / Library Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4cce85be0ed0449c) | 2026-04-25 17:32 |
 | CVS Health | Software Development Engineer | WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bcc4b728c62daf1) | 2026-04-25 13:59 |
 | Openkyber | Java Solution Architect | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b563dee50b08e5a4) | 2026-04-25 11:33 |
 | Openkyber | Java Solution Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b01d70e0445efdf5) | 2026-04-25 11:33 |
@@ -1454,10 +1462,6 @@ Last updated: 2026-04-25 16:32
 | Openkyber | PingOne Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=68922ec4695e5f78) | 2026-04-21 17:53 |
 | Cross River Bank | Full Stack Engineer | Fort Lee, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a7a3e15c84ea264) | 2026-04-21 17:53 |
 | Empower Pharmacy | Software Engineer – Full Stack | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1e78a720e18a8f5) | 2026-04-21 17:53 |
-| nan | Data Engineer | Mesa, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=707ff3ea38954494) | 2026-04-21 16:49 |
-| Pat N Sally Inc | Cloud Computing Specialist | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50abe9e2081e3326) | 2026-04-21 16:49 |
-| SCP Health | Data Engineer II | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e966d98ccd8eeb74) | 2026-04-21 16:49 |
-| Mission Pet Health | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9835c179aace3eb2) | 2026-04-21 16:49 |
 
 
 ---
