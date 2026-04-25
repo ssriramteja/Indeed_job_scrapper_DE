@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-25 12:42
+Last updated: 2026-04-25 13:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CVS Health | Software Development Engineer | WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bcc4b728c62daf1) | 2026-04-25 13:59 |
 | Openkyber | Java Solution Architect | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b563dee50b08e5a4) | 2026-04-25 11:33 |
 | Openkyber | Java Solution Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b01d70e0445efdf5) | 2026-04-25 11:33 |
 | Openkyber | Java CI/CD Automation Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1cde807edc03031) | 2026-04-25 11:33 |
@@ -1461,7 +1462,6 @@ Last updated: 2026-04-25 12:42
 | Health Care Service Corporation | BI Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05b830867236986c) | 2026-04-21 15:05 |
 | UVA Health | Data Engineer- Microsoft Fabric | Charlottesville, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f1e012731e28218) | 2026-04-21 15:05 |
 | University of Virginia | Data Engineer- Microsoft Fabric | Charlottesville, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34114659eae6a8ad) | 2026-04-21 15:05 |
-| Symetra | Sr. Software Engineer I | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5753698810124b20) | 2026-04-21 13:03 |
 
 
 ---
