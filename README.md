@@ -1,11 +1,62 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-24 23:33
+Last updated: 2026-04-25 01:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Anika Systems | Data Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=bfb90377e9afbaf1) | 2026-04-25 01:28 |
+| Trulioo | Data Platform Engineer | San Diego, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b2f385096f84df36) | 2026-04-25 01:28 |
+| Distro | Software Engineer (II or Senior) - Backend | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bd4da24314e707fe) | 2026-04-25 01:28 |
+| Engineers & Constructors International | Platform Engineer [Data Bricks] | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18261c9b6c504054) | 2026-04-25 01:28 |
+| Engineers & Constructors International | Full Stack Architect \| Cloud Ecosystem | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b53178b727cb243) | 2026-04-25 01:28 |
+| Genworth | Senior ML/AI Engineer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=013d953c5d331236) | 2026-04-25 01:28 |
+| Engineers & Constructors International | Platform Engineer | TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=69b4c5e318ab3a48) | 2026-04-25 01:28 |
+| Paramount | Senior Software Engineer (Java) in Test | Burbank, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=06b6b6a5ce025320) | 2026-04-25 01:28 |
+| City of Worcester | DATA AND ANALYTICS ARCHITECT | Worcester, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bf27ac27278cdd4a) | 2026-04-25 01:28 |
+| Anika Systems | Quality Assurance Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=96965ccd7aa4c5af) | 2026-04-25 01:28 |
+| BlackRock | Associate - Data Engineering | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f6fa2510d982dff7) | 2026-04-25 01:28 |
+| LERETA, LLC | Senior Data Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca1dc3272f5f9117) | 2026-04-25 01:28 |
+| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-25 01:28 |
+| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-25 01:28 |
+| Blue Origin | Business Intelligence Engineer III | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3066b4b418c04c55) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58f4c832c2636335) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=acd89e80e5b6a4a9) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8910d6b03203638d) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | WY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b4578787be0b9f2) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | VT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e3754942a69259a) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | WV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fad63a2167a49611) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b2a16a5489cd0a6c) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | NM, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64c532176073449a) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e73e5c1c7670615d) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | SD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c16263636cd82ac) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | ND, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03dc0f27dd5385c5) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd30fe2b092e173b) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=924ea1c60bfa48b9) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e8ac8e729a23523d) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba3e89e3f671e6cf) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=71d64b7ec6bf8924) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=18d6426f3ca1471f) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da2abe4a0d0b69f5) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c9561276c4b62baa) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e51238d501b9bd68) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bff725b7fc4f66a1) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=022d8a411bdd56e7) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59baa9be4f0b49d3) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=46aeb3f3ac977809) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | MS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48e679baaf1cf19b) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9711cb306753524e) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3a63ff450a71e686) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f2c60e31be86d72) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dcd4041328a571af) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41aad0d287c9996d) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd2281b12ebdff08) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=51190325066248dc) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=10486b06f46c5ed0) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=66c75d4e4df2f251) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0c341ba6dd703ec6) | 2026-04-25 01:28 |
+| Concentrix | Data Quality Engineer | ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8cae7d896e73e8f) | 2026-04-25 01:28 |
 | Openkyber | Cloud AI Consultant | GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=5b44724ef07bf0a9) | 2026-04-24 23:33 |
 | Openkyber | Java Application Support Analyst | GA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=a6887fcec2e6909c) | 2026-04-24 23:33 |
 | Openkyber | Java Application Support Analyst | WA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=dc1240d3e0b18e47) | 2026-04-24 23:33 |
@@ -21,11 +72,9 @@ Last updated: 2026-04-24 23:33
 | Openkyber | Java Platform Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cd91e562ca9970a9) | 2026-04-24 23:33 |
 | LERETA, LLC | Senior Data Engineer | Pomona, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c2cfc17e75f7401) | 2026-04-24 23:33 |
 | GEICO | Engineer II – Data Engineer | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8dbd90f5c708f902) | 2026-04-24 23:33 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-24 23:33 |
 | Openkyber | Java Test Engineer (JUnit, TestNG) | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=121388def99607e8) | 2026-04-24 23:33 |
 | Openkyber | Java Test Engineer (JUnit, TestNG) | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=799c882a39511da7) | 2026-04-24 23:33 |
 | GEICO | Senior Engineer-5 | Bethesda, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=62e5d4bfa811f4f6) | 2026-04-24 23:33 |
-| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 23:33 |
 | Intellibee Inc | Infrastructure Solutions Architect | Lansing, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=408b75423e54b3b2) | 2026-04-24 22:33 |
 | HealthMark Group | Senior Cloud Infrastructure Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=01d1e673d73274cb) | 2026-04-24 21:40 |
 | General Motors (GM) | Software Engineer - SRE | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=21f79af4f138986f) | 2026-04-24 21:40 |
@@ -751,9 +800,6 @@ Last updated: 2026-04-24 23:33
 | nan | Infrastructure Engineer (Backend) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e05e42c5fd1053cf) | 2026-04-21 01:47 |
 | Blue Shield of California | Full Stack Engineer, Senior | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ad0aa11b03bcee2) | 2026-04-21 01:47 |
 | MedReview | ETL Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=255e39c7d622d171) | 2026-04-21 01:47 |
-| Crown Equipment | Data Engineer - Data Services | New Bremen, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1a0449408242d4cd) | 2026-04-20 23:35 |
-| Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=106aa03227443434) | 2026-04-20 23:35 |
-| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e644f982314c50c) | 2026-04-20 23:35 |
 
 
 ---
