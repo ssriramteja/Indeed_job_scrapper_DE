@@ -1,16 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-25 01:28
+Last updated: 2026-04-25 04:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fannie Mae | Full Stack Software Engineer | Reston, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2ef9390b5f4c6d99) | 2026-04-25 04:30 |
+| Rocky Mountain Elk Foundation | Data Engineer | Missoula, MT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9015f8bca6247309) | 2026-04-25 04:30 |
+| Nimble | Data Engineer | Chesterfield, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=468bb000278c0677) | 2026-04-25 04:30 |
+| Cboe Global Markets | Software Engineer, Testing | Kansas City, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7802ea905344bd3a) | 2026-04-25 04:30 |
+| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-25 04:30 |
+| The Joint Commission | BI Developer | Oak Brook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ff2bed86f78e502e) | 2026-04-25 04:30 |
+| Intuitive (Intuitive Surgical) | Senior Software Engineer, Platform Engineering | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=319a55305b9ec532) | 2026-04-25 04:30 |
+| United Airlines | Senior Developer - Information Technology | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d0157074cd30169) | 2026-04-25 04:30 |
+| FINBOA INC | Database Administrator | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a06d010c371b71c3) | 2026-04-25 04:30 |
 | Anika Systems | Data Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=bfb90377e9afbaf1) | 2026-04-25 01:28 |
 | Trulioo | Data Platform Engineer | San Diego, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b2f385096f84df36) | 2026-04-25 01:28 |
 | Distro | Software Engineer (II or Senior) - Backend | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bd4da24314e707fe) | 2026-04-25 01:28 |
 | Engineers & Constructors International | Platform Engineer [Data Bricks] | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18261c9b6c504054) | 2026-04-25 01:28 |
-| Engineers & Constructors International | Full Stack Architect \| Cloud Ecosystem | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b53178b727cb243) | 2026-04-25 01:28 |
 | Genworth | Senior ML/AI Engineer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=013d953c5d331236) | 2026-04-25 01:28 |
 | Engineers & Constructors International | Platform Engineer | TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=69b4c5e318ab3a48) | 2026-04-25 01:28 |
 | Paramount | Senior Software Engineer (Java) in Test | Burbank, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=06b6b6a5ce025320) | 2026-04-25 01:28 |
@@ -18,8 +26,6 @@ Last updated: 2026-04-25 01:28
 | Anika Systems | Quality Assurance Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=96965ccd7aa4c5af) | 2026-04-25 01:28 |
 | BlackRock | Associate - Data Engineering | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f6fa2510d982dff7) | 2026-04-25 01:28 |
 | LERETA, LLC | Senior Data Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca1dc3272f5f9117) | 2026-04-25 01:28 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-25 01:28 |
-| Berkshire Hathaway Direct Insurance Company | Senior DevOps Engineer | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-25 01:28 |
 | Blue Origin | Business Intelligence Engineer III | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3066b4b418c04c55) | 2026-04-25 01:28 |
 | Concentrix | Data Quality Engineer | UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58f4c832c2636335) | 2026-04-25 01:28 |
 | Concentrix | Data Quality Engineer | WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=acd89e80e5b6a4a9) | 2026-04-25 01:28 |
@@ -793,13 +799,6 @@ Last updated: 2026-04-25 01:28
 | Kohlberg Kravis Roberts & Co. | Reinsurance Data Engineer New | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56a86f8f8ea85f81) | 2026-04-21 04:43 |
 | NVIDIA | Senior DevOps Engineer | Santa Clara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f41f6be104426dc) | 2026-04-21 04:43 |
 | Franklin Templeton | Senior Software Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=56905870be888df6) | 2026-04-21 04:43 |
-| Brillio LLC | Data Enterprise Architect – Banking | Edison, NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b71332e9c14c2344) | 2026-04-21 01:47 |
-| Wipro | DEVELOPER L3 | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e0a78b57cc2e9cee) | 2026-04-21 01:47 |
-| Full Circle Group & The Leadership Circle | Senior Data and Analytics Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=68e7d84738583957) | 2026-04-21 01:47 |
-| Adobe | Senior AI Data Platform Engineer | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7573a96b762a6443) | 2026-04-21 01:47 |
-| nan | Infrastructure Engineer (Backend) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e05e42c5fd1053cf) | 2026-04-21 01:47 |
-| Blue Shield of California | Full Stack Engineer, Senior | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ad0aa11b03bcee2) | 2026-04-21 01:47 |
-| MedReview | ETL Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=255e39c7d622d171) | 2026-04-21 01:47 |
 
 
 ---
