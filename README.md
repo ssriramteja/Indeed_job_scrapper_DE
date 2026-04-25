@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-25 10:36
+Last updated: 2026-04-25 11:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Java Solution Architect | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b563dee50b08e5a4) | 2026-04-25 11:33 |
+| Openkyber | Java Solution Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b01d70e0445efdf5) | 2026-04-25 11:33 |
+| Openkyber | Java CI/CD Automation Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1cde807edc03031) | 2026-04-25 11:33 |
+| Openkyber | Java SDK / Library Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af205ded49a4f91d) | 2026-04-25 11:33 |
 | Paychex, Inc. | Database Engineer I | Webster, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=08825b384c423d58) | 2026-04-25 09:43 |
 | Naphcare, Inc. | Senior AWS Cloud Platform Engineer | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50e1c69114e7cd26) | 2026-04-25 09:43 |
 | JPMorganChase | Data Engineer II - AWS/PySpark/ETL | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd3fe7c74b8687e1) | 2026-04-25 09:43 |
