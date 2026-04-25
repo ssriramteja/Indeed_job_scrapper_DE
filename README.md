@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-25 18:37
+Last updated: 2026-04-25 19:39
 
 ### 🚀 Daily Job Matches
 
@@ -1444,7 +1444,6 @@ Last updated: 2026-04-25 18:37
 | PlayStation | Senior Service Reliability Engineer | Aliso Viejo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=675136ff532a1cc5) | 2026-04-21 20:04 |
 | Contingent Crew, LLC | PowerBI Developer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b6960d866243637) | 2026-04-21 20:04 |
 | Core & Main | Data Engineer II | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=986441a4b7cccaf5) | 2026-04-21 20:04 |
-| CoStar Group | Data Engineer II | Arlington, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=11c49f85138a1b57) | 2026-04-21 18:59 |
 
 
 ---

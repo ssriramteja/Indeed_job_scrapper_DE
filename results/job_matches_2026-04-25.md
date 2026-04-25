@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-25
 
-**Total Jobs Found:** 56
+**Total Jobs Found:** 53
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -412,18 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Data Engineer @ Red Cat Holdings
-**Match Score:** 11.1%
-
-📍 **Location:** Salt Lake City, UT, US USA
-
-🔑 **Keywords:** AWS, Glue, Redshift, BigQuery, Scala, Snowflake, ETL, ELT, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5a1070b79a3524d7)
-
----
-
-## 39. BI Developer @ The Joint Commission
+## 38. BI Developer @ The Joint Commission
 **Match Score:** 11.1%
 
 📍 **Location:** Oak Brook, IL, US USA
@@ -434,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Java CI/CD Automation Engineer @ Openkyber
+## 39. Java CI/CD Automation Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -445,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Java CI/CD Automation Engineer @ Openkyber
+## 40. Java CI/CD Automation Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** AK, US USA
@@ -456,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Senior Engineer-5 @ GEICO
+## 41. Senior Engineer-5 @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -467,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Kafka Schema Registry Engineer @ Openkyber
+## 42. Kafka Schema Registry Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** AK, US USA
@@ -478,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Full Stack Developer - AI @ Greater NY Insurance Companies
+## 43. Full Stack Developer - AI @ Greater NY Insurance Companies
 **Match Score:** 11.1%
 
 📍 **Location:** Edison, NJ, US USA
@@ -489,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. AI Integration Engineer (Java + AI) @ Openkyber
+## 44. AI Integration Engineer (Java + AI) @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -500,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Business Intelligence Engineer III @ Blue Origin
+## 45. Business Intelligence Engineer III @ Blue Origin
 **Match Score:** 10.4%
 
 📍 **Location:** FL, US USA
@@ -508,6 +497,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, ECS, RDS, Scala, ETL, dbt, Tableau, Docker, Kubernetes, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=3066b4b418c04c55)
+
+---
+
+## 46. AI Testing Architect @ Select Minds LLC
+**Match Score:** 10.4%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, MLOps, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Jenkins, pytest
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e98247ffa20b79b2)
 
 ---
 
@@ -577,29 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Sr. Development Support Engineer @ Radiology Partners
-**Match Score:** 10.4%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, RDS, Databricks, Scala, NoSQL, CI/CD, Docker, Kubernetes, Git, CloudWatch
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1de422c2feb64a45)
-
----
-
-## 54. Senior Data Engineer @ Genworth
-**Match Score:** 10.4%
-
-📍 **Location:** Richmond, VA, US USA
-
-🔑 **Keywords:** RDS, Databricks, Unity Catalog, Spark, Scala, Databricks Lakehouse, Data Modeling, Star Schema, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8f43e5255e894179)
-
----
-
-## 55. Kafka Implementation Consultant @ Openkyber
+## 53. Kafka Implementation Consultant @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -607,17 +585,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Kinesis, SQS, RDS, Azure, Databricks, Kafka, NoSQL, CI/CD, Maven
 
 [Apply Here](https://www.indeed.com/viewjob?jk=9f35cb639fca25e4)
-
----
-
-## 56. AI Testing Architect @ Select Minds LLC
-**Match Score:** 10.4%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, MLOps, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Jenkins, pytest
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e98247ffa20b79b2)
 
 ---
 
