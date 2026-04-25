@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-25
 
-**Total Jobs Found:** 50
+**Total Jobs Found:** 48
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -269,18 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Site Reliability Engineer, Senior - Shared Services @ Toyota North America
-**Match Score:** 11.8%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, IAM, RDS, Scala, CI/CD, Jenkins, Terraform, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f039036773c1f28e)
-
----
-
-## 26. AI Application Architect @ Openkyber
+## 25. AI Application Architect @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** CA, US USA
@@ -291,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Java Solution Architect @ Openkyber
+## 26. Java Solution Architect @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** TX, US USA
@@ -302,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Associate - Data Engineering @ BlackRock
+## 27. Associate - Data Engineering @ BlackRock
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -313,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Senior Data Engineer @ LERETA, LLC
+## 28. Senior Data Engineer @ LERETA, LLC
 **Match Score:** 11.8%
 
 📍 **Location:** Irving, TX, US USA
@@ -324,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Java Solution Architect @ Openkyber
+## 29. Java Solution Architect @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -335,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Kafka API Engineer @ Openkyber
+## 30. Kafka API Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -346,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Quality Assurance Engineer @ Anika Systems
+## 31. Quality Assurance Engineer @ Anika Systems
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -357,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Data Engineer II - AWS/PySpark/ETL @ JPMorganChase
+## 32. Data Engineer II - AWS/PySpark/ETL @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -368,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Engineer II – Data Engineer @ GEICO
+## 33. Engineer II – Data Engineer @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -379,18 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Site Reliability / Infrastructure Engineer @ Medal
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** IAM, RDS, Google Cloud Platform, GCP, BigQuery, Scala, MySQL, CI/CD, GitHub Actions, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c44d2e760ed95d49)
-
----
-
-## 36. BI Developer @ The Joint Commission
+## 34. BI Developer @ The Joint Commission
 **Match Score:** 11.1%
 
 📍 **Location:** Oak Brook, IL, US USA
@@ -401,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Java CI/CD Automation Engineer @ Openkyber
+## 35. Java CI/CD Automation Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** GA, US USA
@@ -412,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Java CI/CD Automation Engineer @ Openkyber
+## 36. Java CI/CD Automation Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** AK, US USA
@@ -423,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Senior Engineer-5 @ GEICO
+## 37. Senior Engineer-5 @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -434,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Kafka Schema Registry Engineer @ Openkyber
+## 38. Kafka Schema Registry Engineer @ Openkyber
 **Match Score:** 11.1%
 
 📍 **Location:** AK, US USA
@@ -445,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Full Stack Developer - AI @ Greater NY Insurance Companies
+## 39. Full Stack Developer - AI @ Greater NY Insurance Companies
 **Match Score:** 11.1%
 
 📍 **Location:** Edison, NJ, US USA
@@ -456,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. AI Integration Engineer (Java + AI) @ Openkyber
+## 40. AI Integration Engineer (Java + AI) @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -467,73 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Java SDK / Library Developer @ Openkyber
-**Match Score:** 10.4%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, Oracle, MySQL, MongoDB, NoSQL, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=af205ded49a4f91d)
-
----
-
-## 44. Kafka API Engineer @ Openkyber
-**Match Score:** 10.4%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, Kafka, NoSQL, CI/CD, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a00375f8fa1a5cd7)
-
----
-
-## 45. Full Stack Developer (Java) @ Openkyber
-**Match Score:** 10.4%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** RDS, Azure, Google Cloud Platform, Scala, Power BI, Tableau, MicroStrategy, CI/CD, GitHub Actions, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=147278d42a645e19)
-
----
-
-## 46. Full Stack Developer (Java) @ Openkyber
-**Match Score:** 10.4%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** RDS, Azure, Google Cloud Platform, Scala, Power BI, Tableau, MicroStrategy, CI/CD, GitHub Actions, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b145de3d65c1aa82)
-
----
-
-## 47. Full Stack Developer (Java) @ Openkyber
-**Match Score:** 10.4%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** RDS, Azure, Google Cloud Platform, Scala, Power BI, Tableau, MicroStrategy, CI/CD, GitHub Actions, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=022a0b1399684a50)
-
----
-
-## 48. Full Stack Developer (Java) @ Openkyber
-**Match Score:** 10.4%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** RDS, Azure, Google Cloud Platform, Scala, Power BI, Tableau, MicroStrategy, CI/CD, GitHub Actions, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9bea96c3fb8d5453)
-
----
-
-## 49. Business Intelligence Engineer III @ Blue Origin
+## 41. Business Intelligence Engineer III @ Blue Origin
 **Match Score:** 10.4%
 
 📍 **Location:** FL, US USA
@@ -544,7 +456,73 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Kafka Implementation Consultant @ Openkyber
+## 42. Java SDK / Library Developer @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, Oracle, MySQL, MongoDB, NoSQL, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=af205ded49a4f91d)
+
+---
+
+## 43. Kafka API Engineer @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, Kafka, NoSQL, CI/CD, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a00375f8fa1a5cd7)
+
+---
+
+## 44. Full Stack Developer (Java) @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** RDS, Azure, Google Cloud Platform, Scala, Power BI, Tableau, MicroStrategy, CI/CD, GitHub Actions, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=147278d42a645e19)
+
+---
+
+## 45. Full Stack Developer (Java) @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** RDS, Azure, Google Cloud Platform, Scala, Power BI, Tableau, MicroStrategy, CI/CD, GitHub Actions, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b145de3d65c1aa82)
+
+---
+
+## 46. Full Stack Developer (Java) @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** RDS, Azure, Google Cloud Platform, Scala, Power BI, Tableau, MicroStrategy, CI/CD, GitHub Actions, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=022a0b1399684a50)
+
+---
+
+## 47. Full Stack Developer (Java) @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** RDS, Azure, Google Cloud Platform, Scala, Power BI, Tableau, MicroStrategy, CI/CD, GitHub Actions, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9bea96c3fb8d5453)
+
+---
+
+## 48. Kafka Implementation Consultant @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
