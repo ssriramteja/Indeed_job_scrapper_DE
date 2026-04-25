@@ -1,11 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-25 06:16
+Last updated: 2026-04-25 08:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Brillio LLC | Sr.Golang Developer with Java/Python – R01564313 | Edison, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=45b22e184d9f8ccf) | 2026-04-25 08:01 |
+| Openkyber | SOC Administrator | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5b8ec1afd188dfb2) | 2026-04-25 08:01 |
+| Papa John's | Software Engineer- Fulfillment Team | Louisville, KY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f73dbee285af86aa) | 2026-04-25 08:01 |
+| Papa John's | Sr. Software Engineer- Fulfillment Team | Louisville, KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9dbf2d9f2840f1dd) | 2026-04-25 08:01 |
+| Greater NY Insurance Companies | Data Engineer - Guidewire | Edison, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6f88d6fa0c8b08ab) | 2026-04-25 08:01 |
+| Openkyber | Identity Security Fundamentals Analyst | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ec444e19fb1a980) | 2026-04-25 08:01 |
+| Openkyber | Full Stack Trainee | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=31c0f98184675c10) | 2026-04-25 08:01 |
+| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-25 08:01 |
+| Openkyber | Kafka Schema Registry Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae1e880d8a206058) | 2026-04-25 08:01 |
+| Openkyber | Network Automation Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5bb5a89eeb259f5e) | 2026-04-25 08:01 |
+| Openkyber | Java Software Engineer | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c88986bdf4181f36) | 2026-04-25 08:01 |
+| Openkyber | AI/ML Strategy Consultant | NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab46dd91496e3ce4) | 2026-04-25 08:01 |
+| Openkyber | Kafka API Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a00375f8fa1a5cd7) | 2026-04-25 08:01 |
+| Openkyber | Full Stack Developer (Java) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=147278d42a645e19) | 2026-04-25 08:01 |
+| Openkyber | Full Stack Developer (Java) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b145de3d65c1aa82) | 2026-04-25 08:01 |
+| Openkyber | Full Stack Developer (Java) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=022a0b1399684a50) | 2026-04-25 08:01 |
+| Openkyber | Full Stack Developer (Java) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9bea96c3fb8d5453) | 2026-04-25 08:01 |
+| Openkyber | CrowdStrike Security Trainee | IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a27bacbcbe153698) | 2026-04-25 08:01 |
 | Openkyber | Data Validation Engineer (ML) | NJ, US USA | 35.4% | [Apply](https://www.indeed.com/viewjob?jk=84c3ac95d87d4a39) | 2026-04-25 06:16 |
 | Openkyber | Cloud AI Consultant | GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=c51d238dd96fdea0) | 2026-04-25 06:16 |
 | Openkyber | IAM Consultant | AK, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=a353e70c21197f46) | 2026-04-25 06:16 |
@@ -535,7 +553,6 @@ Last updated: 2026-04-25 06:16
 | Openkyber | AI Application Architect | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f580c2f0e8718d63) | 2026-04-25 06:16 |
 | Openkyber | ML Pipeline Operations Analyst | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87937960de7436dd) | 2026-04-25 06:16 |
 | Openkyber | IBM AI-Driven Threat Detection Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf01df9f90190a02) | 2026-04-25 06:16 |
-| Nationwide Mutual Insurance Company | Sr Analyst, Data Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c7fa499115c857a) | 2026-04-25 06:16 |
 | Openkyber | Senior Platform Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=63904db584bcd05a) | 2026-04-25 06:16 |
 | Openkyber | Senior Platform Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1203c9057f0e1164) | 2026-04-25 06:16 |
 | Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6f23f50ff04959a4) | 2026-04-25 06:16 |
@@ -1449,10 +1466,6 @@ Last updated: 2026-04-25 06:16
 | JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c06059acfed7a424) | 2026-04-21 10:12 |
 | Hermeus | AI DevOps / Platform Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=623f9a35a70c68ae) | 2026-04-21 08:28 |
 | Applied Information Sciences | Sr. Software Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83326895ce89ffec) | 2026-04-21 08:28 |
-| HCA Healthcare | Senior IT Architect | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1d043d29787d8ef9) | 2026-04-21 06:30 |
-| Adobe | Software Development Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f85aef5c7b6e68f) | 2026-04-21 06:30 |
-| LangChain | Solutions Architect (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8754e8d3551b49b0) | 2026-04-21 06:30 |
-| Minerva | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed82e0ddad246dda) | 2026-04-21 06:30 |
 
 
 ---
