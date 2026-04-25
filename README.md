@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-25 14:41
+Last updated: 2026-04-25 15:33
 
 ### 🚀 Daily Job Matches
 
@@ -1458,10 +1458,6 @@ Last updated: 2026-04-25 14:41
 | Pat N Sally Inc | Cloud Computing Specialist | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50abe9e2081e3326) | 2026-04-21 16:49 |
 | SCP Health | Data Engineer II | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e966d98ccd8eeb74) | 2026-04-21 16:49 |
 | Mission Pet Health | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9835c179aace3eb2) | 2026-04-21 16:49 |
-| The Shade Store | Analytics Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=64251d971f917430) | 2026-04-21 15:05 |
-| Health Care Service Corporation | BI Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05b830867236986c) | 2026-04-21 15:05 |
-| UVA Health | Data Engineer- Microsoft Fabric | Charlottesville, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f1e012731e28218) | 2026-04-21 15:05 |
-| University of Virginia | Data Engineer- Microsoft Fabric | Charlottesville, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34114659eae6a8ad) | 2026-04-21 15:05 |
 
 
 ---
