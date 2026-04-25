@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-25 21:28
+Last updated: 2026-04-25 22:27
 
 ### 🚀 Daily Job Matches
 
@@ -1426,17 +1426,6 @@ Last updated: 2026-04-25 21:28
 | Podimetrics, Inc | Sr. Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f4c32862f1c73054) | 2026-04-21 22:32 |
 | intent design ltd | Azure Integration Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76fbbcfefd3014c8) | 2026-04-21 22:32 |
 | Fiserv | Application Automation - Summer Intern | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e747b081b28ed805) | 2026-04-21 22:32 |
-| WISE EQUATION SOLUTION INC | AWS Developer | Greensboro, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=840498587d7ca5cd) | 2026-04-21 21:38 |
-| Brown and Caldwell | Data & AI Platform Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a9f7841a504710c6) | 2026-04-21 21:38 |
-| WEX Inc. | Software AI Engineer Mid-Level, Context Engineering | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=473e4eea7c69bb40) | 2026-04-21 21:38 |
-| Michael Baker International | Software Developer II - REMOTE | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e08a27412cb3aca9) | 2026-04-21 21:38 |
-| R1 RCM | Senior Software Engineer | UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d57d61e65bfc57f) | 2026-04-21 21:38 |
-| Plymouth Rock Assurance | Data Architect | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=42f1ba78ee960a45) | 2026-04-21 21:38 |
-| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1cab7004c6202bd5) | 2026-04-21 21:38 |
-| Intent Design Pvt Ltd | Azure Integration Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=753eee17cd52656e) | 2026-04-21 21:38 |
-| Stellantis | ICT Data Analyst/Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=785c40fa6b6ef824) | 2026-04-21 21:38 |
-| DoubleVerify | Sr. Site Reliability Engineer I | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13bf6308ab860db0) | 2026-04-21 21:38 |
-| WEX Inc. | Sr Software AI Engineer 3 - Context Engineering | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb1bac54e3a5abdf) | 2026-04-21 21:38 |
 
 
 ---
