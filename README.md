@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-26 21:30
+Last updated: 2026-04-26 22:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Navteca | Senior Cloud Operations Engineer | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d8c0dbf66c41408a) | 2026-04-26 22:29 |
 | Compass Group USA | SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b9ca9d67a5eb74a0) | 2026-04-26 20:29 |
 | Openkyber | Java Application Support Analyst | VA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=9deace07d50ab229) | 2026-04-26 17:32 |
 | Openkyber | Java Trainer / Mentor / Educator | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7fec72ec0a2829cf) | 2026-04-26 17:32 |
@@ -1357,14 +1358,6 @@ Last updated: 2026-04-26 21:30
 | Fiserv | Sr Quality Engineer | King of Prussia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c2b2de1091c327b) | 2026-04-22 22:40 |
 | Ramp | Software Engineer, Data Platform | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45e12b77b9565199) | 2026-04-22 22:40 |
 | Fiserv | Systems Engineer (Tableau Platform) | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f014f9a893bbc2e) | 2026-04-22 22:40 |
-| DOW | Data Engineer | Midland, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=0e6f52d2577111f6) | 2026-04-22 21:43 |
-| Ascendion | Data Engineer | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ede735cbdf2b63e0) | 2026-04-22 21:43 |
-| archer | Sr. Platform Engineering | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e910893e7900f872) | 2026-04-22 21:43 |
-| Streamline Healthcare Solutions | Sr. Azure Cloud Engineer | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20ae2aaa86ff3339) | 2026-04-22 21:43 |
-| Stellantis | Warranty Data Analyst / Data Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2ffd491a76c9fa66) | 2026-04-22 21:43 |
-| University of Maryland Medical System | Sr Data Engineer | North Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4188adfee24d1373) | 2026-04-22 21:43 |
-| Integral Ad Science | Senior DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16179533179bf6b7) | 2026-04-22 21:43 |
-| Integral Ad Science | Senior DevOps Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3a5eee6b5267d17) | 2026-04-22 21:43 |
 
 
 ---
