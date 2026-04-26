@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-26 09:45
+Last updated: 2026-04-26 10:38
 
 ### 🚀 Daily Job Matches
 
@@ -1513,11 +1513,6 @@ Last updated: 2026-04-26 09:45
 | Openkyber | Cloud AI Application Administrator | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dc21140836b0e1a) | 2026-04-22 11:54 |
 | Openkyber | Java Software Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=93e94130ade15aac) | 2026-04-22 11:54 |
 | Openkyber | Java Compliance & Governance Developer | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14d0312c67f01746) | 2026-04-22 11:54 |
-| nan | Data Engineer | Springfield, MO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53f7dd47c3f8803c) | 2026-04-22 10:13 |
-| Edgewater Federal Solutions | Sr. Data Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4810bc0b521803bb) | 2026-04-22 10:13 |
-| Fisher's Technology | Power BI Data Analyst | Boise, ID, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f95ced54585e0bd6) | 2026-04-22 10:13 |
-| BECU | Senior Data Scientist, Marketing Analytics | WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=710a55c7263d5b09) | 2026-04-22 10:13 |
-| JPMorganChase | Software Engineer II- Front end/DevOps | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d8b3be2ba2f955b8) | 2026-04-22 10:13 |
 
 
 ---
