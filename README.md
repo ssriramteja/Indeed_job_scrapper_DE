@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-25 23:30
+Last updated: 2026-04-26 01:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sigma Computing | Senior Security Engineer II – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d25e680dbcf02691) | 2026-04-26 01:52 |
+| Sigma Computing | Technical Support Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07f643dd409c7140) | 2026-04-26 01:52 |
 | Openkyber | Java Application Support Analyst | GA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=1dc7f9cc9fc3230a) | 2026-04-25 23:30 |
 | Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=58e46008e082a2c5) | 2026-04-25 23:30 |
 | Openkyber | Backend Software Engineer (Python) | AL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6325226098b53d8c) | 2026-04-25 23:30 |
@@ -1416,16 +1418,6 @@ Last updated: 2026-04-25 23:30
 | Daxko | Site Reliability Engineer | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aae33a9a018f9fb8) | 2026-04-22 04:40 |
 | Snowflake | Solution Engineer - Data Engineering Specialist (FSI) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d35a9b6aca584743) | 2026-04-22 04:40 |
 | Mission Produce | AI/Machine Learning Engineer | Oxnard, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=adb3f80bc7a0023f) | 2026-04-22 04:40 |
-| Silver Opportunity Partners LLC | Microsoft Dynamics F&O Architect – Mining | Kellogg, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b7233db1f59ca63c) | 2026-04-22 01:46 |
-| EBSCO Information Services | Senior MLOps Engineer | MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e7cfaf26e34fa908) | 2026-04-22 01:46 |
-| Stream Data Centers | Analytics Developer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c3b7c50c8b7774c0) | 2026-04-22 01:46 |
-| Fustis LLC | Data Enginer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1f50316b9208a167) | 2026-04-22 01:46 |
-| Magnite | Senior Data Engineer, Scala | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4d44346e5b384cc0) | 2026-04-22 01:46 |
-| Waystar | Senior ML Engineer II | Louisville, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=05f1aa8551c5f292) | 2026-04-22 01:46 |
-| Wolters Kluwer | Senior Enterprise Software Engineer | Riverwoods, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5bc224de87d1e85f) | 2026-04-22 01:46 |
-| GM Financial | Senior Metrics Engineer - Grafana | Arlington, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f968d07ba6cb70f4) | 2026-04-22 01:46 |
-| Stream Data Centers | Data Strategist (Data Warehouse & Reporting) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0ca2b52928b979f) | 2026-04-22 01:46 |
-| Armor | Network Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bad4863775b62604) | 2026-04-22 01:46 |
 
 
 ---
