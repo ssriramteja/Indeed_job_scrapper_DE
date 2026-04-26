@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-26 16:33
+Last updated: 2026-04-26 17:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Java Application Support Analyst | VA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=9deace07d50ab229) | 2026-04-26 17:32 |
+| Openkyber | Java Trainer / Mentor / Educator | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7fec72ec0a2829cf) | 2026-04-26 17:32 |
+| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f4ff70697f7c7e8d) | 2026-04-26 17:32 |
 | Openkyber | Java Solution Architect | IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=869dab0c8225dd66) | 2026-04-26 11:33 |
 | Openkyber | Java Platform Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=44a6b10cd1d80de1) | 2026-04-26 11:33 |
 | Openkyber | Java Solution Architect | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e0b0bf6f67742d88) | 2026-04-26 11:33 |
@@ -1502,13 +1505,6 @@ Last updated: 2026-04-26 16:33
 | Metropolis | Senior AI Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec0dc8f9f8c8d698) | 2026-04-22 17:54 |
 | Openkyber | Java Compliance & Governance Developer | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=243990c269c56673) | 2026-04-22 17:54 |
 | Openkyber | Java Compliance & Governance Developer | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e9d53f3c6ff20349) | 2026-04-22 17:54 |
-| Morgan Stanley | Site Reliability Engineer (SRE) - AI Platform & Cloud | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=67434a699408c40f) | 2026-04-22 16:50 |
-| Intellimation LLC | DevOps with IoT focus | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f64235fd5c4fac6) | 2026-04-22 16:50 |
-| DMV IT Service LLC | Data Engineer | Richmond, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99e35b16ebbf3788) | 2026-04-22 16:50 |
-| Capnexus | Senior Data Engineer (AWS) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a7b11ddd229f030) | 2026-04-22 16:50 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2ae570e570d074aa) | 2026-04-22 16:50 |
-| Boeing | Software Engineer - DevSecOps (Associate, Experienced or Senior) | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=afe37944ff3c78ea) | 2026-04-22 16:50 |
-| Board of Governors of the Federal Reserve System | Data Engineer II | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b222160bc0c2b3e3) | 2026-04-22 16:50 |
 
 
 ---
