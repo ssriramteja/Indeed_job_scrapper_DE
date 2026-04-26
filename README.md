@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-26 14:49
+Last updated: 2026-04-26 15:35
 
 ### 🚀 Daily Job Matches
 
@@ -1509,10 +1509,6 @@ Last updated: 2026-04-26 14:49
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2ae570e570d074aa) | 2026-04-22 16:50 |
 | Boeing | Software Engineer - DevSecOps (Associate, Experienced or Senior) | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=afe37944ff3c78ea) | 2026-04-22 16:50 |
 | Board of Governors of the Federal Reserve System | Data Engineer II | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b222160bc0c2b3e3) | 2026-04-22 16:50 |
-| Optum | Senior Data Engineer - Remote | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b67c42af6bdf7f4d) | 2026-04-22 15:05 |
-| New York City Department of Housing Preservation & Development | Solutions Developer for the Office of HPD TECH | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=edc48c4da4e29c49) | 2026-04-22 15:05 |
-| Ascendion | DevOps Engineer | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=facf27c6b3631798) | 2026-04-22 15:05 |
-| The Cincinnati Insurance Companies | IT - Developer II - IV (Remote) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc05454b399f43cb) | 2026-04-22 15:05 |
 
 
 ---
