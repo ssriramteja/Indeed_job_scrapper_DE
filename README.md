@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-26 22:29
+Last updated: 2026-04-26 23:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d695750f2c0009c2) | 2026-04-26 23:31 |
+| Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01f0b4141850808c) | 2026-04-26 23:31 |
 | Navteca | Senior Cloud Operations Engineer | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d8c0dbf66c41408a) | 2026-04-26 22:29 |
 | Compass Group USA | SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b9ca9d67a5eb74a0) | 2026-04-26 20:29 |
 | Openkyber | Java Application Support Analyst | VA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=9deace07d50ab229) | 2026-04-26 17:32 |
@@ -1350,14 +1352,6 @@ Last updated: 2026-04-26 22:29
 | Stellantis | Warranty Data Analyst / Data Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e9bb1ef1dd7ba48) | 2026-04-22 23:39 |
 | Trepp | Data Engineer II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d561d8c2375dd6b1) | 2026-04-22 23:39 |
 | Markel Corporation | Senior Infrastructure Engineer-Azure Data & Analytics Engineer - State National | Bedford, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94507e2995b9ee29) | 2026-04-22 23:39 |
-| Qode | AWS Solutions Architect | Township of Jackson, NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5b41af79b3c9df26) | 2026-04-22 22:40 |
-| Qode | AWS Solutions Architect | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4559b3285e613ef1) | 2026-04-22 22:40 |
-| Qode | AWS Solutions Architect | Fort Mill, SC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=815657d7c692a1bd) | 2026-04-22 22:40 |
-| SIGNITIVES | GCP Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ccbfb275c784c26b) | 2026-04-22 22:40 |
-| Vivacity Tech PBC | DevOps / Platform Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed1d3fe1d3532916) | 2026-04-22 22:40 |
-| Fiserv | Sr Quality Engineer | King of Prussia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c2b2de1091c327b) | 2026-04-22 22:40 |
-| Ramp | Software Engineer, Data Platform | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45e12b77b9565199) | 2026-04-22 22:40 |
-| Fiserv | Systems Engineer (Tableau Platform) | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f014f9a893bbc2e) | 2026-04-22 22:40 |
 
 
 ---
