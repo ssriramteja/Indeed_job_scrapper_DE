@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-26 10:38
+Last updated: 2026-04-26 11:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Java Solution Architect | IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=869dab0c8225dd66) | 2026-04-26 11:33 |
+| Openkyber | Java Platform Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=44a6b10cd1d80de1) | 2026-04-26 11:33 |
+| Openkyber | Java Solution Architect | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e0b0bf6f67742d88) | 2026-04-26 11:33 |
+| Openkyber | Java Solution Architect | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=84bea4b7a07e62e7) | 2026-04-26 11:33 |
+| Openkyber | Java Solution Architect | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b1d1fb002ebc8873) | 2026-04-26 11:33 |
+| Openkyber | Java Solution Architect | OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a33cdbb1ad6ddbbf) | 2026-04-26 11:33 |
+| Openkyber | Java Solution Architect | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5f43c9e792ef678e) | 2026-04-26 11:33 |
+| Openkyber | Java CI/CD Automation Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=92f3943a0fdcede7) | 2026-04-26 11:33 |
+| Openkyber | Java CI/CD Automation Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6f6848655c24fa10) | 2026-04-26 11:33 |
 | Deloitte | Data Engineer - Project Delivery Senior Analyst | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be55de12b97a3eea) | 2026-04-26 04:53 |
 | Deloitte | Data Engineer - Project Delivery Senior Analyst | Grand Rapids, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=689abcfa7454712d) | 2026-04-26 04:53 |
 | Deloitte | Data Engineer - Project Delivery Senior Analyst | Memphis, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d306ae5de331fba4) | 2026-04-26 04:53 |
