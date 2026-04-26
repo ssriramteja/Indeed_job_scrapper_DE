@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-26 11:33
+Last updated: 2026-04-26 12:43
 
 ### 🚀 Daily Job Matches
 
@@ -1515,13 +1515,6 @@ Last updated: 2026-04-26 11:33
 | The Cincinnati Insurance Companies | IT - Developer II - IV (Remote) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc05454b399f43cb) | 2026-04-22 15:05 |
 | Codoxo | Technical Operations Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e78a417a0f4410ac) | 2026-04-22 13:04 |
 | Smarsh | Database Engineer - Professional Archive Search | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=607072382f0dc730) | 2026-04-22 13:04 |
-| Openkyber | Java CI/CD Automation Engineer | GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=83b240190f37e48e) | 2026-04-22 11:54 |
-| Openkyber | Java CI/CD Automation Engineer | GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9a0ee2ebd6b94c60) | 2026-04-22 11:54 |
-| Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=35c20a436a0a3121) | 2026-04-22 11:54 |
-| Openkyber | Cloud AI Application Administrator | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=458f2e64ebd817f0) | 2026-04-22 11:54 |
-| Openkyber | Cloud AI Application Administrator | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dc21140836b0e1a) | 2026-04-22 11:54 |
-| Openkyber | Java Software Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=93e94130ade15aac) | 2026-04-22 11:54 |
-| Openkyber | Java Compliance & Governance Developer | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14d0312c67f01746) | 2026-04-22 11:54 |
 
 
 ---
