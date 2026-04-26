@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-26 19:40
+Last updated: 2026-04-26 20:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Compass Group USA | SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b9ca9d67a5eb74a0) | 2026-04-26 20:29 |
 | Openkyber | Java Application Support Analyst | VA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=9deace07d50ab229) | 2026-04-26 17:32 |
 | Openkyber | Java Trainer / Mentor / Educator | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7fec72ec0a2829cf) | 2026-04-26 17:32 |
 | Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f4ff70697f7c7e8d) | 2026-04-26 17:32 |
@@ -1364,17 +1365,6 @@ Last updated: 2026-04-26 19:40
 | University of Maryland Medical System | Sr Data Engineer | North Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4188adfee24d1373) | 2026-04-22 21:43 |
 | Integral Ad Science | Senior DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16179533179bf6b7) | 2026-04-22 21:43 |
 | Integral Ad Science | Senior DevOps Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3a5eee6b5267d17) | 2026-04-22 21:43 |
-| Climate First Bank | Data Engineer | Saint Petersburg, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=32602a30e2eae4db) | 2026-04-22 20:07 |
-| Keeper Security | Senior Analytics Engineer (Data Modeling & BI) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b319560288703a69) | 2026-04-22 20:07 |
-| Verse | Software Engineer, Data Engineering | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2169de43fedb76d3) | 2026-04-22 20:07 |
-| Keeper Security | Data Engineer, Analytics & Machine Learning Enablement | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b569d0296983d6a1) | 2026-04-22 20:07 |
-| N-iX | Senior Full-Stack Python Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=365bb0b9ec3ce321) | 2026-04-22 20:07 |
-| nan | Gen AI Platform & Deployment Engineer | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ad5e385a9b79a74) | 2026-04-22 20:07 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d9767d8755f659b) | 2026-04-22 20:07 |
-| nSCALE | Data Engineer | Barstow, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc6c300d9777dc4b) | 2026-04-22 20:07 |
-| nSCALE | Data Engineer - Seattle, WA | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=894fb5b066595659) | 2026-04-22 20:07 |
-| Brandt Information Services, Inc. | Senior Software Engineer Go Outdoors Payments | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f1f9736f5f852f3d) | 2026-04-22 20:07 |
-| Brandt Information Services, Inc. | Senior Software Engineer Go Outdoors Payments | Tallahassee, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e66c9de7a81a7d66) | 2026-04-22 20:07 |
 
 
 ---
