@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-26 18:39
+Last updated: 2026-04-26 19:40
 
 ### 🚀 Daily Job Matches
 
@@ -1375,24 +1375,6 @@ Last updated: 2026-04-26 18:39
 | nSCALE | Data Engineer - Seattle, WA | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=894fb5b066595659) | 2026-04-22 20:07 |
 | Brandt Information Services, Inc. | Senior Software Engineer Go Outdoors Payments | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f1f9736f5f852f3d) | 2026-04-22 20:07 |
 | Brandt Information Services, Inc. | Senior Software Engineer Go Outdoors Payments | Tallahassee, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e66c9de7a81a7d66) | 2026-04-22 20:07 |
-| Redhorse Corporation | Data Engineer | Chantilly, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2430929f4b97ab4b) | 2026-04-22 19:00 |
-| Openkyber | AI Application Architect | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=598c409a60c42c43) | 2026-04-22 19:00 |
-| LTK | Sr Software Engineer I | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=952b93720525db5b) | 2026-04-22 19:00 |
-| Smile Digital Health | Senior Cloud Engineer - Remote US | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3c0faea77dd1e82a) | 2026-04-22 19:00 |
-| Laurate LLC | Data Scientist/ HR | Renton, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c929b507a68fea2f) | 2026-04-22 19:00 |
-| Kobe Solutions LLC | ServiceNow Architect-CTA | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=890b357933d3a41e) | 2026-04-22 19:00 |
-| Openkyber | AI Application Architect | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=12afa7e8f02cc093) | 2026-04-22 19:00 |
-| Openkyber | AI Application Architect | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=78361db76661d0d1) | 2026-04-22 19:00 |
-| NTT DATA | AI Engineer - Insurance Domain - HYBRID | Warren, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=aeda85e53ae1234a) | 2026-04-22 19:00 |
-| WSSC Water | Advanced Metering Infrastructure (AMI) Engineer | Laurel, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3d356cba46c60202) | 2026-04-22 19:00 |
-| Openkyber | AI Application Architect | CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5860326bcd41826a) | 2026-04-22 19:00 |
-| Openkyber | AI Application Architect | UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7c7ee3a099eaf443) | 2026-04-22 19:00 |
-| Openkyber | Java Technical Architect | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92cd172caef34abb) | 2026-04-22 19:00 |
-| Openkyber | Java Technical Architect | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=66351c89c3b928b8) | 2026-04-22 19:00 |
-| Offsoar | Snowflake Data Developer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a561b0e7509b746a) | 2026-04-22 19:00 |
-| Medrio | Automation Engineer (Mid level SDET) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d8b1483af03cf54) | 2026-04-22 19:00 |
-| American Express | Software Engineer III - Java - Web Search Team | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=60df58e4983d849c) | 2026-04-22 19:00 |
-| Ware Malcomb | Senior Software Engineer, Platform & Product | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d944819ec0623121) | 2026-04-22 19:00 |
 
 
 ---
