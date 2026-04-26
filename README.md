@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-26 04:53
+Last updated: 2026-04-26 06:56
 
 ### 🚀 Daily Job Matches
 
@@ -1527,11 +1527,6 @@ Last updated: 2026-04-26 04:53
 | Wells Fargo | Senior Data Engineer - GCP Platform Services & Frameworks | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8d2dccb9477bbad2) | 2026-04-22 08:26 |
 | Thermo Fisher Scientific | Software Intern | Pleasanton, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=afbd60d97bfacc60) | 2026-04-22 08:26 |
 | Capp | Enterprise AI Architect | Willingboro, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a69902c54cdf2463) | 2026-04-22 08:26 |
-| AssetWorks | DevOps Engineer | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6de4a61bfe7bafa4) | 2026-04-22 06:30 |
-| Metropolis | Senior AI Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6efd50ec9fe32e19) | 2026-04-22 06:30 |
-| Metropolis | Senior AI Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dea58757f9149ad6) | 2026-04-22 06:30 |
-| Metropolis | Senior AI Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cd2db53316f326e) | 2026-04-22 06:30 |
-| FocusKPI Inc. | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad314dbf5fcf61a2) | 2026-04-22 06:30 |
 
 
 ---
