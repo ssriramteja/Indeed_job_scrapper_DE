@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-26 12:43
+Last updated: 2026-04-26 14:00
 
 ### 🚀 Daily Job Matches
 
@@ -1513,8 +1513,6 @@ Last updated: 2026-04-26 12:43
 | New York City Department of Housing Preservation & Development | Solutions Developer for the Office of HPD TECH | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=edc48c4da4e29c49) | 2026-04-22 15:05 |
 | Ascendion | DevOps Engineer | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=facf27c6b3631798) | 2026-04-22 15:05 |
 | The Cincinnati Insurance Companies | IT - Developer II - IV (Remote) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc05454b399f43cb) | 2026-04-22 15:05 |
-| Codoxo | Technical Operations Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e78a417a0f4410ac) | 2026-04-22 13:04 |
-| Smarsh | Database Engineer - Professional Archive Search | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=607072382f0dc730) | 2026-04-22 13:04 |
 
 
 ---

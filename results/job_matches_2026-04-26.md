@@ -16,29 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Python @ Openkyber
-**Match Score:** 11.8%
-
-📍 **Location:** MA, US USA
-
-🔑 **Keywords:** AWS, Redshift, API Gateway, ECS, RDS, Databricks, Scala, Snowflake, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=55187d9137ae191d)
-
----
-
-## 3. Java Solution Architect @ Openkyber
-**Match Score:** 11.8%
-
-📍 **Location:** OK, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Blob Storage, Event Hubs, Spark, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a33cdbb1ad6ddbbf)
-
----
-
-## 4. Java Solution Architect @ Openkyber
+## 2. Java Solution Architect @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** OH, US USA
@@ -49,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Java Solution Architect @ Openkyber
+## 3. Java Solution Architect @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** OH, US USA
@@ -60,7 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Java Solution Architect @ Openkyber
+## 4. Java Solution Architect @ Openkyber
+**Match Score:** 11.8%
+
+📍 **Location:** OK, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Blob Storage, Event Hubs, Spark, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a33cdbb1ad6ddbbf)
+
+---
+
+## 5. Java Solution Architect @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** OH, US USA
@@ -68,6 +57,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, Scala, Kafka, ETL, ELT, Splunk, CI/CD, Jenkins, Azure DevOps
 
 [Apply Here](https://www.indeed.com/viewjob?jk=5f43c9e792ef678e)
+
+---
+
+## 6. Python @ Openkyber
+**Match Score:** 11.8%
+
+📍 **Location:** MA, US USA
+
+🔑 **Keywords:** AWS, Redshift, API Gateway, ECS, RDS, Databricks, Scala, Snowflake, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=55187d9137ae191d)
 
 ---
 
