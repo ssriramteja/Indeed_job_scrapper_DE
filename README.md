@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-27 01:56
+Last updated: 2026-04-27 05:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Java Trainer / Mentor / Educator | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1b0b3232c657b0b6) | 2026-04-27 05:17 |
+| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9588dfdbeb5d98ef) | 2026-04-27 05:17 |
+| Openkyber | AI Application Architect | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad31ec519f2de337) | 2026-04-27 05:17 |
 | nan | Data Engineering (Palantir, Spark, PySpark, Python)- W2 Role | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3abb73ede58520cd) | 2026-04-27 01:56 |
 | AXIOM | Platform Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab406fdc25efa811) | 2026-04-27 01:56 |
 | Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d695750f2c0009c2) | 2026-04-26 23:31 |
@@ -1264,68 +1267,6 @@ Last updated: 2026-04-27 01:56
 | Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2f5cef76808163a) | 2026-04-23 06:57 |
 | Humana | Software Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=185c1836bede91b1) | 2026-04-23 06:57 |
 | Humana | Software Engineer | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2cedfc80fbfee214) | 2026-04-23 06:57 |
-| Customized Energy Solutions | Senior Software Engineer (Cloud & Data Platforms) | Philadelphia, PA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=14e471621c544ca6) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0672f1d449c9d9e2) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=96a88c14093ccdaf) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Arlington, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=14f80cb5b125e7cc) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ca6623928abe2730) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Morristown, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=46e364170a7ee29f) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0e67913bb063b4e1) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Milwaukee, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=03e6278fa86f66b6) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Richmond, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a417258c27e6884b) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | San Antonio, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=68ff6a6e54c5bb38) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Cleveland, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b864420111578783) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Baltimore, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=90020927d62d9e32) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Raleigh, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e6445ef98b11402a) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=63c85699934dff6e) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Costa Mesa, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=26b24994302869a9) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Philadelphia, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=06b0116b71837d13) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Colorado Springs, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8120526ad261b6a4) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=71be0c8c221ee567) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Indianapolis, IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ee059ac44d2277d6) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Pittsburgh, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=af1a0c944d7d687c) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Davenport, IA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a757acecac7ae896) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Hartford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=46cdcaa9c274907d) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Rochester, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0c545200255ccd75) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | San Francisco, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=99c6d56e1e9ecbd9) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Portland, OR, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ec2268853b5e3d32) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cc317ad96269ff6c) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Mechanicsburg, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2c59791ffa8037e0) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | New Orleans, LA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=93c00120a22fd95f) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Gilbert, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e5fd76a0505c1f45) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=52bda57a7eae91d3) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Cincinnati, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8d79924b7c683266) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Las Vegas, NV, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=18b51a17582c12e7) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c239cf58c8fa1c71) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d5a42ec359480e0d) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Boca Raton, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5ed6224d65d164cb) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ffcd6c03d59f6052) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Stamford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ddc6dd123946c0df) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Kansas City, MO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2b026195b5394344) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Lake Mary, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9ffe2cd40b6dd0e7) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Nashville, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2581b6e435257226) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Detroit, MI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=de24f7419929c1bf) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Los Angeles, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5380c72e36e9ef3d) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Jericho, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=43d4c68e7e9e2fef) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Miami, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7a8557481e61c905) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Hermitage, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=af8a69205565050f) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dfedec5986433f19) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Jacksonville, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dadc73e392f990d3) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Memphis, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=df6f8697322180c6) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b407a88f3a1f87f8) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Dayton, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ce6e6d7e4f41a3e8) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Princeton, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1662c7096eaa5c34) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Louisville, KY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9b54c062fe208581) | 2026-04-23 04:45 |
-| Deloitte | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Minneapolis, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3ca77008309e43be) | 2026-04-23 04:45 |
-| Cognizant | Data Engineer (AIA) | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=422b5002f3c92e96) | 2026-04-23 04:45 |
-| Cognizant | Data Engineer (AIA) | MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4ca947b911b13d47) | 2026-04-23 04:45 |
-| Cognizant | Data Engineer (AIA) | MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2762492ad7551efe) | 2026-04-23 04:45 |
-| ADT | Senior DevOps Engineer II | Blue Bell, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3af6a74b61fd0779) | 2026-04-23 04:45 |
-| Cognizant | AI Engineer (AIA) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=620262fd8bc038be) | 2026-04-23 04:45 |
-| Cognizant | AI Engineer (AIA) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c87da22babbe085) | 2026-04-23 04:45 |
-| Cognizant | AI Engineer (AIA) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=537fe809ab41770d) | 2026-04-23 04:45 |
-| Cognizant | AI Engineer (AIA) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3776f71cd705f403) | 2026-04-23 04:45 |
-| Cognizant | AI Engineer (AIA) | MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57e40902475718d3) | 2026-04-23 04:45 |
 
 
 ---
