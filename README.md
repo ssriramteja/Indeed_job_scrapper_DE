@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-27 08:06
+Last updated: 2026-04-27 10:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Software engineering intern \| Skillsync | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a08773ca0782277) | 2026-04-27 10:53 |
 | Openkyber | Java Trainer / Mentor / Educator | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1b0b3232c657b0b6) | 2026-04-27 05:17 |
 | Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9588dfdbeb5d98ef) | 2026-04-27 05:17 |
 | Openkyber | AI Application Architect | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad31ec519f2de337) | 2026-04-27 05:17 |
@@ -1253,11 +1254,6 @@ Last updated: 2026-04-27 08:06
 | Openkyber | AI Integration Engineer (Java + AI) | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af37d87136cf35b5) | 2026-04-23 11:55 |
 | Openkyber | AI Application Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b0780a9fb0dbc39) | 2026-04-23 11:55 |
 | TikTok | Ads Targeting Data Engineer, Ads Core | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd2adeacdfffb183) | 2026-04-23 11:55 |
-| JPMorganChase | Software Engineer III - AI/ML | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e288d00b33f48efe) | 2026-04-23 10:16 |
-| Amcor | Cloud Platforms Engineer II | Oshkosh, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0a5bd8b939af9f70) | 2026-04-23 10:16 |
-| Bloom Growth Partners | Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec3ffe3d2951f742) | 2026-04-23 08:50 |
-| isolved | Data Platform Architect | Nixa, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d13a0d2142e0261) | 2026-04-23 08:50 |
-| nan | Pre-Sales Engineer (Data & Analytics) | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c940790b1550a5b) | 2026-04-23 08:50 |
 
 
 ---

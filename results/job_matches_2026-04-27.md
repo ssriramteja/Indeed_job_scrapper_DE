@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-04-27
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Cloud Operations Engineer @ Navteca
+## 1. Java Application Support Analyst @ Openkyber
+**Match Score:** 20.8%
+
+📍 **Location:** VA, US USA
+
+🔑 **Keywords:** AWS, Lambda, Kinesis, Step Functions, S3, SQS, SNS, ECS, IAM, RDS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9deace07d50ab229)
+
+---
+
+## 2. Senior Cloud Operations Engineer @ Navteca
 **Match Score:** 14.6%
 
 📍 **Location:** Houston, TX, US USA
@@ -16,18 +27,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Java Solution Architect @ Openkyber
-**Match Score:** 11.8%
+## 3. Software engineering intern | Skillsync @ nan
+**Match Score:** 14.6%
 
-📍 **Location:** OK, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Blob Storage, Event Hubs, Spark, Scala, Kafka, PostgreSQL
+🔑 **Keywords:** AWS, S3, RDS, Azure, Scala, SQL Server, PostgreSQL, MySQL, MongoDB, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a33cdbb1ad6ddbbf)
+[Apply Here](https://www.indeed.com/viewjob?jk=0a08773ca0782277)
 
 ---
 
-## 3. Data Engineering (Palantir, Spark, PySpark, Python)- W2 Role @ nan
+## 4. AI Integration Engineer (Java + AI) @ Openkyber
+**Match Score:** 12.5%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Vertex AI, Scala, CI/CD, Jenkins, Terraform, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f4ff70697f7c7e8d)
+
+---
+
+## 5. Data Engineering (Palantir, Spark, PySpark, Python)- W2 Role @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Frisco, TX, US USA
@@ -38,18 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Platform Engineer @ AXIOM
-**Match Score:** 11.1%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, BigQuery, Spark, Scala, Dask, Snowflake, CI/CD, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ab406fdc25efa811)
-
----
-
-## 5. SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) @ Compass Group USA
+## 6. SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) @ Compass Group USA
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
