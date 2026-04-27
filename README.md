@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-26 23:31
+Last updated: 2026-04-27 01:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Data Engineering (Palantir, Spark, PySpark, Python)- W2 Role | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3abb73ede58520cd) | 2026-04-27 01:56 |
+| AXIOM | Platform Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab406fdc25efa811) | 2026-04-27 01:56 |
 | Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d695750f2c0009c2) | 2026-04-26 23:31 |
 | Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01f0b4141850808c) | 2026-04-26 23:31 |
 | Navteca | Senior Cloud Operations Engineer | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d8c0dbf66c41408a) | 2026-04-26 22:29 |
@@ -1324,34 +1326,6 @@ Last updated: 2026-04-26 23:31
 | Cognizant | AI Engineer (AIA) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=537fe809ab41770d) | 2026-04-23 04:45 |
 | Cognizant | AI Engineer (AIA) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3776f71cd705f403) | 2026-04-23 04:45 |
 | Cognizant | AI Engineer (AIA) | MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57e40902475718d3) | 2026-04-23 04:45 |
-| The Hartford | Associate Data and AI Engineer | Hartford, CT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=718af7ca01e94aee) | 2026-04-23 01:50 |
-| The Hartford | Associate Data and AI Engineer | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=10c4f60d661f5f00) | 2026-04-23 01:50 |
-| The Hartford | Associate Data and AI Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6f971eeb79a21180) | 2026-04-23 01:50 |
-| The Hartford | Associate Data and AI Engineer | Chicago, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cfbf52f31ea2e787) | 2026-04-23 01:50 |
-| Kitsap Credit Union | Software Engineer III | Bremerton, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=150b9708ae649096) | 2026-04-23 01:50 |
-| CEI Services | Sr Systems Engineer | Fargo, ND, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f846bcd41f966d19) | 2026-04-23 01:50 |
-| MasTec Inc | Sr Systems Engineer | Fargo, ND, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba06f08c24782d2d) | 2026-04-23 01:50 |
-| Fidelity TalentSource | Data Engineer | Durham, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=842f8f1cf0d90520) | 2026-04-23 01:50 |
-| Fueled | Senior Systems Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9642665184944e11) | 2026-04-23 01:50 |
-| DriveTime Automotive Group | Senior Data Engineer - Remote | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1de30f12b78fca01) | 2026-04-23 01:50 |
-| DriveTime Automotive Group | Senior Data Engineer - Remote | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b88b23e7d0b05c8f) | 2026-04-23 01:50 |
-| Ware Malcomb | Senior Software Engineer, Platform & Product | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aed0adf2e92986f6) | 2026-04-23 01:50 |
-| GEICO | Senior Engineer - .NET | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab7793f0a792b417) | 2026-04-23 01:50 |
-| GEICO | Senior Engineer - .NET | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=650677ad14cf645f) | 2026-04-23 01:50 |
-| Tyler Technologies | Cloud Engineer | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d2728ef533caf7a) | 2026-04-23 01:50 |
-| Tyler Technologies | Cloud Engineer | Yarmouth, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68f623995aa05734) | 2026-04-23 01:50 |
-| Tyler Technologies | Cloud Engineer | Troy, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ef46c3d4fd66d6a) | 2026-04-23 01:50 |
-| Tyler Technologies | Cloud Engineer | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7c890c6597a8569) | 2026-04-23 01:50 |
-| Glacier Analytics LLC | AWS DevOps Engineer | Orlando, FL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=e8f2c6e67bc23530) | 2026-04-22 23:39 |
-| ERP Initiatives Group Inc. | AWS Architect with AI + Automation | Clarksburg, MD, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=46058fb33ffd00c5) | 2026-04-22 23:39 |
-| Transamerica | Specialist Software Engineering | Cedar Rapids, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=66f8131b391d620e) | 2026-04-22 23:39 |
-| Gates Foundation | Senior Platform Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d0e09f867e58f64d) | 2026-04-22 23:39 |
-| Voya Financial | Solutions Architect | Braintree, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06f0f1071f3e2b14) | 2026-04-22 23:39 |
-| Autodesk | Senior Trust/Security Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4254814d062ad92d) | 2026-04-22 23:39 |
-| TikTok | Software Engineer, Ads Infra - Serving and Foundation | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e26cb9e516d559dc) | 2026-04-22 23:39 |
-| Stellantis | Warranty Data Analyst / Data Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e9bb1ef1dd7ba48) | 2026-04-22 23:39 |
-| Trepp | Data Engineer II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d561d8c2375dd6b1) | 2026-04-22 23:39 |
-| Markel Corporation | Senior Infrastructure Engineer-Azure Data & Analytics Engineer - State National | Bedford, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94507e2995b9ee29) | 2026-04-22 23:39 |
 
 
 ---
