@@ -1,20 +1,39 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-27 18:00
+Last updated: 2026-04-27 19:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Qode | Senior Software Developer | Fort Mill, SC, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=0e7c40f9e99ad12f) | 2026-04-27 19:40 |
+| Tech Scalerz | Full Stack Golang Engineer (AWS \| Python \| React/Angular/Vue) | Boston, MA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=fe8c7a7f43e72aac) | 2026-04-27 19:40 |
+| Quilt | Senior Data Engineer | Provo, UT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2f1b4cd21f275b79) | 2026-04-27 19:40 |
+| Care.org | DATA SOLUTION ARCHITECT | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2846f65aa9294d0e) | 2026-04-27 19:40 |
+| nan | Software engineering intern \| Skillsync | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a08773ca0782277) | 2026-04-27 19:40 |
+| Claritev | Data Engineer (remote) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=de8ee6455a8ca514) | 2026-04-27 19:40 |
+| AlayaCare | Senior Integration Developer | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e35070e714f42f3c) | 2026-04-27 19:40 |
+| AlayaCare | Senior Integration Developer | Pittsburgh, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=47a751a18a865523) | 2026-04-27 19:40 |
+| AlayaCare | Senior Integration Developer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a5b72f3e295f2b38) | 2026-04-27 19:40 |
+| Trace3 | Data Solutions Architect \| AI | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fba922bb2fd28863) | 2026-04-27 19:40 |
+| Trace3 | Data Solutions Architect \| AI | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dae082eb8598575) | 2026-04-27 19:40 |
+| Trace3 | Data Solutions Architect \| AI | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63486d61003e0a4f) | 2026-04-27 19:40 |
+| Trace3 | Data Solutions Architect \| AI | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d4d0f879560eea6) | 2026-04-27 19:40 |
+| Claritev | Data Engineer (remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60d533f19b4463da) | 2026-04-27 19:40 |
+| Claritev | Data Engineer (remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa65c57599624378) | 2026-04-27 19:40 |
+| Claritev | Data Engineer (remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9230bee4c19c2afb) | 2026-04-27 19:40 |
+| Innovien Solutions | Data Engineer | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19b0604cffe8cf9d) | 2026-04-27 19:40 |
+| Claritev | Data Engineer (remote) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c836f48c3d814cb7) | 2026-04-27 19:40 |
+| Cellular Sales, Verizon Authorized Retailer | Solutions Engineer | Knoxville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9313901bc5ac9da) | 2026-04-27 19:40 |
+| Impact.Com | Sr. Data Scientist, Programmatic Algorithms | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e86578384aa4b6f) | 2026-04-27 19:40 |
+| Impact.Com | Sr. Data Scientist, Programmatic Algorithms | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0db61ba5b16e71bf) | 2026-04-27 19:40 |
 | Openkyber | Salesforce Financial Services Cloud Consultant | AK, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=452ad96763321f8b) | 2026-04-27 18:00 |
 | Openkyber | Cloud IAM Engineer (AWS, Azure, GCP) | GA, US USA | 27.1% | [Apply](https://www.indeed.com/viewjob?jk=4824fb9c6cc39b44) | 2026-04-27 18:00 |
-| Tech Scalerz | Full Stack Golang Engineer (AWS \| Python \| React/Angular/Vue) | Boston, MA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=fe8c7a7f43e72aac) | 2026-04-27 18:00 |
 | Openkyber | API Security IAM | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0585ca531cf89a02) | 2026-04-27 18:00 |
 | Openkyber | AWS API Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8e2967a40f711a6e) | 2026-04-27 18:00 |
 | SEACORP | Data Lakehouse Architect | Middletown, RI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=677bf2a9ae41af7d) | 2026-04-27 18:00 |
 | Openkyber | IAM Compliance | TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1d8befff8bb32799) | 2026-04-27 18:00 |
 | Openkyber | AWS API Gateway Engineer | GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a3cac0f27d3d0ec0) | 2026-04-27 18:00 |
-| nan | Software engineering intern \| Skillsync | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a08773ca0782277) | 2026-04-27 18:00 |
 | Enova International | Senior Business Intelligence Engineer (Hybrid) | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9f180f27ff7393ac) | 2026-04-27 18:00 |
 | Openkyber | AWS Database Engineer / Cloud DBA | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dc7b3e2ef98acf25) | 2026-04-27 18:00 |
 | Openkyber | AWS Network Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=292c1ae20b051cf4) | 2026-04-27 18:00 |
@@ -26,10 +45,6 @@ Last updated: 2026-04-27 18:00
 | Castleton Tower | Senior Consultant, AI & Data Engineering | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=106bb3c12b0ce283) | 2026-04-27 18:00 |
 | Openkyber | Java SDK / Library Developer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2084228c36d871bf) | 2026-04-27 18:00 |
 | Openkyber | Senior Cloud Disaster Recovery Architect | HI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=caa3dd413db07a1e) | 2026-04-27 18:00 |
-| Trace3 | Data Solutions Architect \| AI | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fba922bb2fd28863) | 2026-04-27 18:00 |
-| Trace3 | Data Solutions Architect \| AI | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dae082eb8598575) | 2026-04-27 18:00 |
-| Trace3 | Data Solutions Architect \| AI | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63486d61003e0a4f) | 2026-04-27 18:00 |
-| Trace3 | Data Solutions Architect \| AI | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d4d0f879560eea6) | 2026-04-27 18:00 |
 | Openkyber | Service Cloud Developer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e2004304d091ff39) | 2026-04-27 18:00 |
 | Openkyber | Cloud Network Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0a7d02622748f5d3) | 2026-04-27 18:00 |
 | Openkyber | Senior Cloud Migration Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d795a30569c6d07) | 2026-04-27 18:00 |
@@ -1279,11 +1294,6 @@ Last updated: 2026-04-27 18:00
 | Anteriad | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d15d053831e0a70) | 2026-04-23 20:07 |
 | Truist | Software Engineer III | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=541a9a3e6c8c6ce3) | 2026-04-23 20:07 |
 | Crane Aerospace & Electronics | Sr. Group Supply Chain Analyst | Burbank, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be31ff28c647bb41) | 2026-04-23 20:07 |
-| Intellectyx | AI Solution Architect | Pasadena, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a4d23e36ea1a698) | 2026-04-23 19:00 |
-| Apollo | Investment Compliance Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef318708de3b36bf) | 2026-04-23 19:00 |
-| Stellantis | Warranty Data Analyst / Data Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82beb43a57ee8ec5) | 2026-04-23 19:00 |
-| Buyers Edge Platform | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d278bb1777b2b1f7) | 2026-04-23 19:00 |
-| Buyers Edge Platform | Software Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab1768f1718284da) | 2026-04-23 19:00 |
 
 
 ---
