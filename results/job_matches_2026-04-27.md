@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-04-27
 
-**Total Jobs Found:** 8
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,40 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Java Trainer / Mentor / Educator @ Openkyber
-**Match Score:** 12.5%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** RDS, Hadoop, Hive, MapReduce, Impala, Spark, PySpark, Oracle, SQL Server, MySQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1b0b3232c657b0b6)
-
----
-
-## 3. AI Integration Engineer (Java + AI) @ Openkyber
-**Match Score:** 12.5%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Vertex AI, Scala, CI/CD, Jenkins, Terraform, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9588dfdbeb5d98ef)
-
----
-
-## 4. AI Application Architect @ Openkyber
-**Match Score:** 11.8%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Scala, CI/CD, Jenkins, Terraform, Jenkins, Git, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ad31ec519f2de337)
-
----
-
-## 5. Java Solution Architect @ Openkyber
+## 2. Java Solution Architect @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** OK, US USA
@@ -60,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Engineering (Palantir, Spark, PySpark, Python)- W2 Role @ nan
+## 3. Data Engineering (Palantir, Spark, PySpark, Python)- W2 Role @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Frisco, TX, US USA
@@ -71,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Platform Engineer @ AXIOM
+## 4. Platform Engineer @ AXIOM
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -82,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) @ Compass Group USA
+## 5. SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) @ Compass Group USA
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
