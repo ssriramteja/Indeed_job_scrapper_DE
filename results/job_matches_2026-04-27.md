@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Java Application Support Analyst @ Openkyber
-**Match Score:** 20.8%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** AWS, Lambda, Kinesis, Step Functions, S3, SQS, SNS, ECS, IAM, RDS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9deace07d50ab229)
-
----
-
-## 3. AWS API Engineer @ Openkyber
+## 2. AWS API Engineer @ Openkyber
 **Match Score:** 15.3%
 
 📍 **Location:** AK, US USA
@@ -38,18 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Cloud Identity Architect @ Openkyber
-**Match Score:** 15.3%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, API Gateway, ECS, Azure, Scala, Kafka, PostgreSQL, MongoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a0719fad36e544cf)
-
----
-
-## 5. Senior Cloud Operations Engineer @ Navteca
+## 3. Senior Cloud Operations Engineer @ Navteca
 **Match Score:** 14.6%
 
 📍 **Location:** Houston, TX, US USA
@@ -60,29 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Software Engineer - Java @ MAERSK
-**Match Score:** 14.6%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, MySQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2a42ffff2f95ecf4)
-
----
-
-## 7. Senior Software Engineer (Hybrid) @ MAERSK
-**Match Score:** 14.6%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, MySQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=83247939112593c0)
-
----
-
-## 8. Senior Software Engineer - Python APIs @ Fidelity Investments
+## 4. Senior Software Engineer - Python APIs @ Fidelity Investments
 **Match Score:** 14.6%
 
 📍 **Location:** Westlake, TX, US USA
@@ -93,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Software Engineer - Python APIs @ Fidelity Investments
+## 5. Senior Software Engineer - Python APIs @ Fidelity Investments
 **Match Score:** 14.6%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -104,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Software engineering intern | Skillsync @ nan
+## 6. Software engineering intern | Skillsync @ nan
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -115,18 +71,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Data Engineers @ American Express
-**Match Score:** 13.2%
+## 7. Senior Software Engineer - Java @ MAERSK
+**Match Score:** 14.6%
 
-📍 **Location:** Phoenix, AZ, US USA
+📍 **Location:** Charlotte, NC, US USA
 
-🔑 **Keywords:** AWS, RDS, Hadoop, HDFS, Hive, Sqoop, Spark, Scala, Kafka, NoSQL
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, MySQL, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7fb86d071d17aa3e)
+[Apply Here](https://www.indeed.com/viewjob?jk=2a42ffff2f95ecf4)
 
 ---
 
-## 12. Senior Data Engineer @ Humana
+## 8. Senior Software Engineer (Hybrid) @ MAERSK
+**Match Score:** 14.6%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, MySQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=83247939112593c0)
+
+---
+
+## 9. Senior Data Engineer @ Humana
 **Match Score:** 13.2%
 
 📍 **Location:** Nashville, TN, US USA
@@ -137,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Data Engineer @ Humana
+## 10. Senior Data Engineer @ Humana
 **Match Score:** 13.2%
 
 📍 **Location:** Louisville, KY, US USA
@@ -148,7 +115,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Technical Architect - Data & Analytics @ WinWire
+## 11. Solution Architect @ HAVI
+**Match Score:** 12.5%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Scala, Databricks Lakehouse, Oracle, SQL Server, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6868b35e2b442275)
+
+---
+
+## 12. Technical Architect - Data & Analytics @ WinWire
 **Match Score:** 12.5%
 
 📍 **Location:** Newport Beach, CA, US USA
@@ -159,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Specialty Software Engineer - Capital Markets Reference Data @ Wells Fargo
+## 13. Senior Specialty Software Engineer - Capital Markets Reference Data @ Wells Fargo
 **Match Score:** 12.5%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -170,18 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. AI Integration Engineer (Java + AI) @ Openkyber
-**Match Score:** 12.5%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Vertex AI, Scala, CI/CD, Jenkins, Terraform, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f4ff70697f7c7e8d)
-
----
-
-## 17. Identity AI / ML Engineer @ Openkyber
+## 14. Identity AI / ML Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -192,7 +159,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. SENIOR POWER BI DEVELOPER (HYBRID - REDMOND, WA) @ Eurest
+## 15. Solution Architect @ HAVI Logistics GmbH
+**Match Score:** 11.8%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Scala, Databricks Lakehouse, Oracle, SQL Server, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6afcd0c46d1aac2f)
+
+---
+
+## 16. Data Infrastructure Engineer @ nan
+**Match Score:** 11.8%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Spark, Scala, Polars, PostgreSQL, MongoDB, ETL, Power BI, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e146f6b8fe54d046)
+
+---
+
+## 17. SENIOR POWER BI DEVELOPER (HYBRID - REDMOND, WA) @ Eurest
 **Match Score:** 11.8%
 
 📍 **Location:** Redmond, WA, US USA
@@ -203,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) @ Compass Group USA
+## 18. SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) @ Compass Group USA
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -214,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Data Engineering (Palantir, Spark, PySpark, Python)- W2 Role @ nan
+## 19. Data Engineering (Palantir, Spark, PySpark, Python)- W2 Role @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Frisco, TX, US USA
@@ -225,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior Cloud Database Engineer @ Fidelity Investments
+## 20. Senior Cloud Database Engineer @ Fidelity Investments
 **Match Score:** 11.1%
 
 📍 **Location:** Smithfield, RI, US USA
@@ -236,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Cloud Database Engineer @ Fidelity Investments
+## 21. Senior Cloud Database Engineer @ Fidelity Investments
 **Match Score:** 11.1%
 
 📍 **Location:** Merrimack, NH, US USA
@@ -247,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Senior Cloud Database Engineer @ Fidelity Investments
+## 22. Senior Cloud Database Engineer @ Fidelity Investments
 **Match Score:** 11.1%
 
 📍 **Location:** Westlake, TX, US USA
@@ -258,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. AWS API Engineer @ Openkyber
+## 23. AWS API Engineer @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -266,6 +255,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Databricks, Hadoop, Spark, Scala, Kafka, MongoDB, NoSQL, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=5edebdec5daaa4e1)
+
+---
+
+## 24. Senior Cloud Engineer @ nan
+**Match Score:** 10.4%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, ECS, Azure, GCP, Scala, CI/CD, GitHub Actions, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=377a8106189cff56)
 
 ---
 

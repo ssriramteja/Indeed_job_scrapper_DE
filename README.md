@@ -1,15 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-27 14:59
+Last updated: 2026-04-27 16:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Software engineering intern \| Skillsync | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a08773ca0782277) | 2026-04-27 16:26 |
+| HAVI | Solution Architect | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6868b35e2b442275) | 2026-04-27 16:26 |
+| HAVI Logistics GmbH | Solution Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6afcd0c46d1aac2f) | 2026-04-27 16:26 |
+| nan | Data Infrastructure Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e146f6b8fe54d046) | 2026-04-27 16:26 |
+| nan | Senior Cloud Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=377a8106189cff56) | 2026-04-27 16:26 |
 | Carrier | AI & Data Solution Architect | GA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=2b75279cc7e23ce8) | 2026-04-27 14:59 |
 | MAERSK | Senior Software Engineer - Java | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2a42ffff2f95ecf4) | 2026-04-27 14:59 |
 | MAERSK | Senior Software Engineer (Hybrid) | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=83247939112593c0) | 2026-04-27 14:59 |
-| nan | Software engineering intern \| Skillsync | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a08773ca0782277) | 2026-04-27 14:59 |
 | American Express | Data Engineers | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7fb86d071d17aa3e) | 2026-04-27 14:59 |
 | Humana | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ba4f4cd3ad0ce6f5) | 2026-04-27 14:59 |
 | Humana | Senior Data Engineer | Louisville, KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f06821a24e8c6950) | 2026-04-27 14:59 |
@@ -1255,11 +1259,6 @@ Last updated: 2026-04-27 14:59
 | Fustis LLC | Power BI Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c7fe605c13e6870) | 2026-04-23 17:11 |
 | Empirx Health | Software Engineer II | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df86a0c4dd78dfc1) | 2026-04-23 17:11 |
 | Openkyber | Java Kafka Streams Developer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc497768586e778b) | 2026-04-23 17:11 |
-| Qode | Senior Databricks Architect | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=010224fd403e5335) | 2026-04-23 15:31 |
-| Aroha Technologies | Data Architect | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e4069f2434551ab) | 2026-04-23 15:31 |
-| Charlie's Produce | Data/ Application Integration Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca44b855356ccf40) | 2026-04-23 15:31 |
-| LTIMindtree | Senior Specialist - Architecture (AI Engineer with Codex Exp.) | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65c00c71c8e6928e) | 2026-04-23 15:31 |
-| Progressive | BI Developer Mid or Senior | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cdbb236dac23c233) | 2026-04-23 15:31 |
 
 
 ---
