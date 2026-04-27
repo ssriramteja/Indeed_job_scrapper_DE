@@ -1,16 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-27 12:16
+Last updated: 2026-04-27 14:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Carrier | AI & Data Solution Architect | GA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=2b75279cc7e23ce8) | 2026-04-27 14:59 |
+| MAERSK | Senior Software Engineer - Java | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2a42ffff2f95ecf4) | 2026-04-27 14:59 |
+| MAERSK | Senior Software Engineer (Hybrid) | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=83247939112593c0) | 2026-04-27 14:59 |
+| nan | Software engineering intern \| Skillsync | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a08773ca0782277) | 2026-04-27 14:59 |
+| American Express | Data Engineers | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7fb86d071d17aa3e) | 2026-04-27 14:59 |
+| Humana | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ba4f4cd3ad0ce6f5) | 2026-04-27 14:59 |
+| Humana | Senior Data Engineer | Louisville, KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f06821a24e8c6950) | 2026-04-27 14:59 |
+| WinWire | Technical Architect - Data & Analytics | Newport Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=668b3d9240bad8b3) | 2026-04-27 14:59 |
+| Eurest | SENIOR POWER BI DEVELOPER (HYBRID - REDMOND, WA) | Redmond, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=89664cddc02e354c) | 2026-04-27 14:59 |
+| NFI Industries | IT Business Analyst II | Camden, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b12be44615688132) | 2026-04-27 14:59 |
 | Openkyber | AWS API Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dcce665f3a3b0fee) | 2026-04-27 12:16 |
 | Openkyber | Cloud Identity Architect | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a0719fad36e544cf) | 2026-04-27 12:16 |
 | Fidelity Investments | Senior Software Engineer - Python APIs | Westlake, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0f063f9c882ccc12) | 2026-04-27 12:16 |
 | Fidelity Investments | Senior Software Engineer - Python APIs | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a00e6d7208f216f0) | 2026-04-27 12:16 |
-| nan | Software engineering intern \| Skillsync | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a08773ca0782277) | 2026-04-27 12:16 |
 | Wells Fargo | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=37db4c0b07afe64d) | 2026-04-27 12:16 |
 | Openkyber | Identity AI / ML Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4d3c4afd567d4dc) | 2026-04-27 12:16 |
 | Fidelity Investments | Senior Cloud Database Engineer | Smithfield, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dff9fd964893cca2) | 2026-04-27 12:16 |
@@ -1251,11 +1260,6 @@ Last updated: 2026-04-27 12:16
 | Charlie's Produce | Data/ Application Integration Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca44b855356ccf40) | 2026-04-23 15:31 |
 | LTIMindtree | Senior Specialist - Architecture (AI Engineer with Codex Exp.) | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65c00c71c8e6928e) | 2026-04-23 15:31 |
 | Progressive | BI Developer Mid or Senior | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cdbb236dac23c233) | 2026-04-23 15:31 |
-| CVS Health | Senior Data Engineer | Irving, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9a75bae8fe6b588f) | 2026-04-23 13:04 |
-| CVS Health | Senior Data Engineer | Hartford, CT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=be5d882b0154cb62) | 2026-04-23 13:04 |
-| Cognizant | Data Engineer (AIA) | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e8f49ea5746dd899) | 2026-04-23 13:04 |
-| Cloud and Things | Full Stack Developer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8dcbb0b99721efea) | 2026-04-23 13:04 |
-| Mastercard | Software Engineer II | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f28a43a00c1a7844) | 2026-04-23 13:04 |
 
 
 ---
