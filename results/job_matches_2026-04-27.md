@@ -1,22 +1,33 @@
 # 🎯 Daily Job Matches — 2026-04-27
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 14
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Java Application Support Analyst @ Openkyber
-**Match Score:** 20.8%
+## 1. AWS API Engineer @ Openkyber
+**Match Score:** 15.3%
 
-📍 **Location:** VA, US USA
+📍 **Location:** AK, US USA
 
-🔑 **Keywords:** AWS, Lambda, Kinesis, Step Functions, S3, SQS, SNS, ECS, IAM, RDS
+🔑 **Keywords:** AWS, API Gateway, RDS, Azure, Google Cloud Platform, Scala, Kafka, Oracle, PostgreSQL, MongoDB
 
-[Apply Here](https://www.indeed.com/viewjob?jk=9deace07d50ab229)
+[Apply Here](https://www.indeed.com/viewjob?jk=dcce665f3a3b0fee)
 
 ---
 
-## 2. Senior Cloud Operations Engineer @ Navteca
+## 2. Cloud Identity Architect @ Openkyber
+**Match Score:** 15.3%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, API Gateway, ECS, Azure, Scala, Kafka, PostgreSQL, MongoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a0719fad36e544cf)
+
+---
+
+## 3. Senior Cloud Operations Engineer @ Navteca
 **Match Score:** 14.6%
 
 📍 **Location:** Houston, TX, US USA
@@ -27,7 +38,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Software engineering intern | Skillsync @ nan
+## 4. Senior Software Engineer - Python APIs @ Fidelity Investments
+**Match Score:** 14.6%
+
+📍 **Location:** Westlake, TX, US USA
+
+🔑 **Keywords:** AWS, Lambda, Step Functions, S3, SQS, SNS, Azure, GCP, Scala, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0f063f9c882ccc12)
+
+---
+
+## 5. Senior Software Engineer - Python APIs @ Fidelity Investments
+**Match Score:** 14.6%
+
+📍 **Location:** Jersey City, NJ, US USA
+
+🔑 **Keywords:** AWS, Lambda, Step Functions, S3, SQS, SNS, Azure, GCP, Scala, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a00e6d7208f216f0)
+
+---
+
+## 6. Software engineering intern | Skillsync @ nan
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -38,18 +71,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. AI Integration Engineer (Java + AI) @ Openkyber
+## 7. Senior Specialty Software Engineer - Capital Markets Reference Data @ Wells Fargo
 **Match Score:** 12.5%
 
-📍 **Location:** GA, US USA
+📍 **Location:** Charlotte, NC, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Vertex AI, Scala, CI/CD, Jenkins, Terraform, Jenkins
+🔑 **Keywords:** API Gateway, RDS, Azure, GCP, Spark, PySpark, Scala, Kafka, CI/CD, GitHub Actions
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f4ff70697f7c7e8d)
+[Apply Here](https://www.indeed.com/viewjob?jk=37db4c0b07afe64d)
 
 ---
 
-## 5. Data Engineering (Palantir, Spark, PySpark, Python)- W2 Role @ nan
+## 8. Identity AI / ML Engineer @ Openkyber
+**Match Score:** 11.8%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** AWS, Kinesis, Azure, Google Cloud Platform, Spark, PySpark, Scala, Kafka, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a4d3c4afd567d4dc)
+
+---
+
+## 9. Data Engineering (Palantir, Spark, PySpark, Python)- W2 Role @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Frisco, TX, US USA
@@ -60,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) @ Compass Group USA
+## 10. SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) @ Compass Group USA
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -68,6 +112,50 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Redshift, RDS, BigQuery, Hadoop, Spark, Snowflake, Oracle, PostgreSQL, MySQL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=b9ca9d67a5eb74a0)
+
+---
+
+## 11. Senior Cloud Database Engineer @ Fidelity Investments
+**Match Score:** 11.1%
+
+📍 **Location:** Smithfield, RI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, Oracle, SQL Server, Cassandra, NoSQL, Data Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dff9fd964893cca2)
+
+---
+
+## 12. Senior Cloud Database Engineer @ Fidelity Investments
+**Match Score:** 11.1%
+
+📍 **Location:** Merrimack, NH, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, Oracle, SQL Server, Cassandra, NoSQL, Data Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cd0834fa2eafaef3)
+
+---
+
+## 13. Senior Cloud Database Engineer @ Fidelity Investments
+**Match Score:** 11.1%
+
+📍 **Location:** Westlake, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, Oracle, SQL Server, Cassandra, NoSQL, Data Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=46aa6a7b0ccb9c57)
+
+---
+
+## 14. AWS API Engineer @ Openkyber
+**Match Score:** 10.4%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** AWS, Databricks, Hadoop, Spark, Scala, Kafka, MongoDB, NoSQL, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5edebdec5daaa4e1)
 
 ---
 

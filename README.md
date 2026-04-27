@@ -1,12 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-27 10:53
+Last updated: 2026-04-27 12:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| nan | Software engineering intern \| Skillsync | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a08773ca0782277) | 2026-04-27 10:53 |
+| Openkyber | AWS API Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dcce665f3a3b0fee) | 2026-04-27 12:16 |
+| Openkyber | Cloud Identity Architect | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a0719fad36e544cf) | 2026-04-27 12:16 |
+| Fidelity Investments | Senior Software Engineer - Python APIs | Westlake, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0f063f9c882ccc12) | 2026-04-27 12:16 |
+| Fidelity Investments | Senior Software Engineer - Python APIs | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a00e6d7208f216f0) | 2026-04-27 12:16 |
+| nan | Software engineering intern \| Skillsync | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a08773ca0782277) | 2026-04-27 12:16 |
+| Wells Fargo | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=37db4c0b07afe64d) | 2026-04-27 12:16 |
+| Openkyber | Identity AI / ML Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4d3c4afd567d4dc) | 2026-04-27 12:16 |
+| Fidelity Investments | Senior Cloud Database Engineer | Smithfield, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dff9fd964893cca2) | 2026-04-27 12:16 |
+| Fidelity Investments | Senior Cloud Database Engineer | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd0834fa2eafaef3) | 2026-04-27 12:16 |
+| Fidelity Investments | Senior Cloud Database Engineer | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46aa6a7b0ccb9c57) | 2026-04-27 12:16 |
+| Openkyber | AWS API Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5edebdec5daaa4e1) | 2026-04-27 12:16 |
 | Openkyber | Java Trainer / Mentor / Educator | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1b0b3232c657b0b6) | 2026-04-27 05:17 |
 | Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9588dfdbeb5d98ef) | 2026-04-27 05:17 |
 | Openkyber | AI Application Architect | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad31ec519f2de337) | 2026-04-27 05:17 |
@@ -1246,14 +1256,6 @@ Last updated: 2026-04-27 10:53
 | Cognizant | Data Engineer (AIA) | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e8f49ea5746dd899) | 2026-04-23 13:04 |
 | Cloud and Things | Full Stack Developer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8dcbb0b99721efea) | 2026-04-23 13:04 |
 | Mastercard | Software Engineer II | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f28a43a00c1a7844) | 2026-04-23 13:04 |
-| Openkyber | AI Integration Engineer (Java + AI) | NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fbdcf2158c6b2d0d) | 2026-04-23 11:55 |
-| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6bd882abe2f239e8) | 2026-04-23 11:55 |
-| Openkyber | Java Software Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5f84e68d5415404a) | 2026-04-23 11:55 |
-| Openkyber | AI Application Architect | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eec716db1d652f56) | 2026-04-23 11:55 |
-| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41f5f841b3bf67ad) | 2026-04-23 11:55 |
-| Openkyber | AI Integration Engineer (Java + AI) | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af37d87136cf35b5) | 2026-04-23 11:55 |
-| Openkyber | AI Application Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b0780a9fb0dbc39) | 2026-04-23 11:55 |
-| TikTok | Ads Targeting Data Engineer, Ads Core | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd2adeacdfffb183) | 2026-04-23 11:55 |
 
 
 ---
