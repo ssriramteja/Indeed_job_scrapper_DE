@@ -1,24 +1,36 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-27 22:41
+Last updated: 2026-04-27 23:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tech Scalerz | Full Stack Golang Engineer (AWS \| Python \| React/Angular/Vue) | Boston, MA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=fe8c7a7f43e72aac) | 2026-04-27 22:41 |
+| Kapitus | Snowflake Architect - Job ID 831 | Arlington, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=30116c3087096b0c) | 2026-04-27 23:44 |
+| nan | Software engineering intern \| Skillsync | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a08773ca0782277) | 2026-04-27 23:44 |
+| Fannie Mae | SF Technology - Software Engineering - Senior Associate | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4ba575b133b119eb) | 2026-04-27 23:44 |
+| nan | Sr. Backend Engineer - Integrations | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=22b8eb7f870c0ec5) | 2026-04-27 23:44 |
+| Openkyber | Java SDK / Library Developer | ID, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=87bcb224d87d1611) | 2026-04-27 23:44 |
+| Trace3 | Data Solutions Architect \| AI | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fba922bb2fd28863) | 2026-04-27 23:44 |
+| Trace3 | Data Solutions Architect \| AI | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dae082eb8598575) | 2026-04-27 23:44 |
+| Trace3 | Data Solutions Architect \| AI | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63486d61003e0a4f) | 2026-04-27 23:44 |
+| Trace3 | Data Solutions Architect \| AI | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d4d0f879560eea6) | 2026-04-27 23:44 |
+| NRG Energy | Data Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=daf356dec855c3b1) | 2026-04-27 23:44 |
+| Experian | Senior Full Stack Software Development Engineer - AI | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=932a6480f7acd72e) | 2026-04-27 23:44 |
+| Reltio | Customer Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ceebc871c7b716e1) | 2026-04-27 23:44 |
+| Reltio | Customer Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b48f55b509420cd6) | 2026-04-27 23:44 |
+| Numa Management Associates | AI/ML Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b8199552143ed2c) | 2026-04-27 23:44 |
+| Total Quality Logistics (TQL) | AI Architect | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16ea6e485299a08c) | 2026-04-27 23:44 |
+| Total Quality Logistics (TQL) | AI Architect | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b999917838878a9) | 2026-04-27 23:44 |
+| Total Quality Logistics (TQL) | AI Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d71435c6a86e8b64) | 2026-04-27 23:44 |
+| S.S. White Technologies | Software Developer | Saint Petersburg, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dc670920196ab795) | 2026-04-27 23:44 |
 | GEICO | Senior Engineer - Data | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e96d0ff5e851a0dc) | 2026-04-27 22:41 |
-| nan | Software engineering intern \| Skillsync | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a08773ca0782277) | 2026-04-27 22:41 |
 | Versant | Sr. Data Engineer | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f536b07e93637686) | 2026-04-27 22:41 |
 | Career Mentors | Founding Engineers | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=004a99e42e1b83ba) | 2026-04-27 22:41 |
 | Career Mentors | Founding Engineers | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9cbf54fc5208e3a3) | 2026-04-27 22:41 |
 | Career Mentors | Founding Engineers | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3753908732fe77ab) | 2026-04-27 22:41 |
 | Career Mentors | Founding Engineers | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e30f253b6a8acf18) | 2026-04-27 22:41 |
 | Career Mentors | Founding Engineers | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=20194c0f45aa2c81) | 2026-04-27 22:41 |
-| Trace3 | Data Solutions Architect \| AI | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fba922bb2fd28863) | 2026-04-27 22:41 |
-| Trace3 | Data Solutions Architect \| AI | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dae082eb8598575) | 2026-04-27 22:41 |
-| Trace3 | Data Solutions Architect \| AI | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63486d61003e0a4f) | 2026-04-27 22:41 |
-| Trace3 | Data Solutions Architect \| AI | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d4d0f879560eea6) | 2026-04-27 22:41 |
 | New Relic | Implementation Consultant - Solutions Architect | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=73dc903c92ca8eb2) | 2026-04-27 22:41 |
 | McKesson | Software Automation Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a349add3612b491c) | 2026-04-27 22:41 |
 | NTT DATA | Software Engineer - Document Generation | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9c88ef97204165d) | 2026-04-27 22:41 |
@@ -1293,12 +1305,6 @@ Last updated: 2026-04-27 22:41
 | DriveTime Automotive Group | Senior Software Engineer - Remote | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b253315d0e7f0790) | 2026-04-24 01:50 |
 | DriveTime Automotive Group | Senior Software Engineer - Remote | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c181449ffb89883) | 2026-04-24 01:50 |
 | Sevita | Data Integration Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52e4643d6e89461e) | 2026-04-24 01:50 |
-| Cognizant | Software Engineer- Agentic AI & DevOps (Remote) | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=983cd52a5aa42147) | 2026-04-23 23:37 |
-| Availity, LLC. | Senior Product Solutions Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=84317bbfd5f19a2b) | 2026-04-23 23:37 |
-| Cognizant | GCP Data Architect | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3d68a9f74f5597a0) | 2026-04-23 23:37 |
-| JSR Tech Consulting | Senior Software Engineer | Newark, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7921eda38e3c0aa1) | 2026-04-23 23:37 |
-| nan | Data Engineer | Des Moines, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb3950a15b093b6b) | 2026-04-23 23:37 |
-| Intellibee Inc | Software Solutions Architect | Lansing, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1b1fc3dca61daa) | 2026-04-23 23:37 |
 
 
 ---
