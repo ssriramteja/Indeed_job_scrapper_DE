@@ -1,16 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-28 08:09
+Last updated: 2026-04-28 10:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Wells Fargo | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f0e85b21f1fb3187) | 2026-04-28 10:55 |
+| Cotiviti | Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=443bc56bd18ac3c1) | 2026-04-28 10:55 |
+| Trace3 | Data Solutions Architect \| AI | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fba922bb2fd28863) | 2026-04-28 10:55 |
+| Trace3 | Data Solutions Architect \| AI | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dae082eb8598575) | 2026-04-28 10:55 |
+| Trace3 | Data Solutions Architect \| AI | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63486d61003e0a4f) | 2026-04-28 10:55 |
+| Trace3 | Data Solutions Architect \| AI | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d4d0f879560eea6) | 2026-04-28 10:55 |
+| Seismic | Senior Software Engineer - Platform & Integrations | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cca2fb47a24092c1) | 2026-04-28 10:55 |
+| Insygnum | Sr. Consultant - Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=add721e79e9d7463) | 2026-04-28 10:55 |
 | Aroha Technologies | AI Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7f7113fe3fafcf1f) | 2026-04-28 08:09 |
-| Trace3 | Data Solutions Architect \| AI | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fba922bb2fd28863) | 2026-04-28 08:09 |
-| Trace3 | Data Solutions Architect \| AI | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dae082eb8598575) | 2026-04-28 08:09 |
-| Trace3 | Data Solutions Architect \| AI | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63486d61003e0a4f) | 2026-04-28 08:09 |
-| Trace3 | Data Solutions Architect \| AI | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d4d0f879560eea6) | 2026-04-28 08:09 |
 | Photon | Backend Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c6cf88579d0b139b) | 2026-04-28 08:09 |
 | Photon | Backend Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9d29f0c0f97c6ad9) | 2026-04-28 08:09 |
 | Photon | BackEnd Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eaf41f1dcd53eba3) | 2026-04-28 08:09 |
@@ -1168,8 +1172,6 @@ Last updated: 2026-04-28 08:09
 | Openkyber | Java Kafka Streams Developer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86b56d1e86b842b3) | 2026-04-24 11:58 |
 | JPMorganChase | Data Architect III | Palo Alto, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e0eff69119214bd8) | 2026-04-24 10:59 |
 | Central Health | Data Integration Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=326c78111f5647b3) | 2026-04-24 10:59 |
-| JPMorganChase | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=92ccc9ae466ace7c) | 2026-04-24 09:02 |
-| JPMorganChase | Senior Analytics Solution Associate | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=682f448ab80fc1a2) | 2026-04-24 09:02 |
 
 
 ---
