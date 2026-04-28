@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-28 17:31
+Last updated: 2026-04-28 19:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Torq | Senior Consultant - Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=7c4c907044e720da) | 2026-04-28 19:21 |
+| Silverchair | Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=03088aab7fd212d8) | 2026-04-28 19:21 |
+| Western Governors University | Senior Machine Learning Engineer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=02b371541d1ac53b) | 2026-04-28 19:21 |
+| Mindful Support Services | Database Administrator - Mountlake Terrace, WA | Mountlake Terrace, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c7f72c836b506ce1) | 2026-04-28 19:21 |
+| Subway | Sr. SDET | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e99b607ba441a3b6) | 2026-04-28 19:21 |
+| Subway | SR SDET (Sr Software Engineer in Test & Merchandising Automation) | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac35b48862d2d754) | 2026-04-28 19:21 |
+| CIBC | Sr Software Engineer (SQL/Databricks) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=59821689b0632a0e) | 2026-04-28 19:21 |
+| Subway | Sr. Automation Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=89ac62864e6673e6) | 2026-04-28 19:21 |
+| Subway | Senior Automation Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb7872e2804ae8eb) | 2026-04-28 19:21 |
+| GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e79ac2cb00b1176b) | 2026-04-28 19:21 |
+| NTT DATA | System Architect IV (ATL) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c0679e72962f96d1) | 2026-04-28 19:21 |
+| Moody's | Sr Data Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=777c988322e931b7) | 2026-04-28 19:21 |
+| Global Technology Solutions Inc | DevSecOps Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=252844720ed3e114) | 2026-04-28 19:21 |
+| SEC Industrial | AI and vision learning engineer (In person required) | Peachtree Corners, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a87cdb9d826d513d) | 2026-04-28 19:21 |
 | NerdWallet | Senior Software Engineer, Full-Stack (DIT) | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=997500b178b6daa0) | 2026-04-28 17:31 |
 | New York Life | Senior Associate - Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cadb0e669ca658a7) | 2026-04-28 17:31 |
 | Visa | Sr. Consultant SW Engineer | Bellevue, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f9ca5a09e7cef446) | 2026-04-28 17:31 |
@@ -13,7 +27,7 @@ Last updated: 2026-04-28 17:31
 | Cortland | Senior DevOps Engineer - Atlanta, GA | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=75a9d9f16c1afffa) | 2026-04-28 17:31 |
 | VERVE GROUP | Platform Engineer (Remote / Contract) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca697f45b6290281) | 2026-04-28 17:31 |
 | Klaviyo | Senior Analytics Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c14b5f2f1affd1a2) | 2026-04-28 17:31 |
-| KPRMT Global solutions  | TM1 Developer IBM Planning Analytics Solution | Delaware, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ba25f8dea0287eb) | 2026-04-28 17:31 |
+| KPRMT Global solutions | TM1 Developer IBM Planning Analytics Solution | Delaware, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ba25f8dea0287eb) | 2026-04-28 17:31 |
 | Cloud and Things | .Net Developer | Albany, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9e68a2fc7798ac9) | 2026-04-28 17:31 |
 | Estuate | Database Systems Engineer | Milpitas, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=23d7f5f64249cd00) | 2026-04-28 17:31 |
 | Aureon | Senior Data Architect | West Des Moines, IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f774c4618ca5806) | 2026-04-28 15:19 |
@@ -1136,29 +1150,6 @@ Last updated: 2026-04-28 17:31
 | PrizePicks | Data Platform Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb9f7f7de61a86fc) | 2026-04-24 19:44 |
 | PrizePicks | Data Platform Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=838858c3ed703639) | 2026-04-24 19:44 |
 | Genworth | Senior Data Engineer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f43e5255e894179) | 2026-04-24 19:44 |
-| NTT DATA | Multi-Cloud Engineer - SQL Database (DBA) Focused | Plano, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cd9af1111f848535) | 2026-04-24 18:38 |
-| Tech Army | Applications Architect (C. Advanced) | Tallahassee, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=859c1fde04a1f7bb) | 2026-04-24 18:38 |
-| Huntington Bank | Site Reliability Engineer (SRE) – II | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4c307a35b1d669fd) | 2026-04-24 18:38 |
-| GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f72b719cfa087347) | 2026-04-24 18:38 |
-| GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f1957453af9e455e) | 2026-04-24 18:38 |
-| Quantiphi | Containers / EKS Specialist | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ccdb683ece378a1d) | 2026-04-24 18:38 |
-| The Joint Commission | Database Engineer | Oak Brook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=813d5ada1f8fd5ca) | 2026-04-24 18:38 |
-| BridgeNexus Technologies Inc | AI/ML Engineer | Mountain View, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8b141076859f8d17) | 2026-04-24 17:44 |
-| Fustis LLC | ML Engineering Consultant | Saint Paul, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3af99e279232368b) | 2026-04-24 17:44 |
-| Trinity Logistics | DevOps Engineer | Seaford, DE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d5fdb5e00e6bd271) | 2026-04-24 17:44 |
-| Openkyber | AI Application Architect | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5bd13d9bc2495c26) | 2026-04-24 17:44 |
-| HCA Healthcare | Senior Data Engineer - APIs | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40caa2125a3057cc) | 2026-04-24 17:44 |
-| Hydrafacial | Senior Data Architect | Lakewood, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4214ccb3eede4b84) | 2026-04-24 17:44 |
-| OptiTrack | Machine Learning & Operations Engineer | Arlington, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dfc79b80048fb6a0) | 2026-04-24 17:44 |
-| OptiTrack | Machine Learning & Operations Engineer | Durham, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c39760b84f3ba19b) | 2026-04-24 17:44 |
-| OptiTrack | Machine Learning & Operations Engineer | Corvallis, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b491b874fd82c8cc) | 2026-04-24 17:44 |
-| Openkyber | Java QA Automation Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8462ced5ab30fab8) | 2026-04-24 17:44 |
-| Openkyber | DevOps/AI Ops Administrator | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c943add79570b0eb) | 2026-04-24 17:44 |
-| Openkyber | Java Kafka Streams Developer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3ce7aadbafa8d37) | 2026-04-24 17:44 |
-| Openkyber | Java API Integration Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0d00cf36f39bc489) | 2026-04-24 17:44 |
-| Trinity Logistics | Senior Software Engineer, Automation | Seaford, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1fe28a5e43309328) | 2026-04-24 17:44 |
-| Openkyber | Java Trainer / Mentor / Educator | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa91f0490d487d6f) | 2026-04-24 17:44 |
-| Openkyber | Java Trainer / Mentor / Educator | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1acc4fe9bbc488ff) | 2026-04-24 17:44 |
 
 
 ---
