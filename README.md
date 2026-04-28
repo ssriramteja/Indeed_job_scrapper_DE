@@ -1,18 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-28 05:51
+Last updated: 2026-04-28 08:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aroha Technologies | AI Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7f7113fe3fafcf1f) | 2026-04-28 08:09 |
+| Trace3 | Data Solutions Architect \| AI | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fba922bb2fd28863) | 2026-04-28 08:09 |
+| Trace3 | Data Solutions Architect \| AI | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dae082eb8598575) | 2026-04-28 08:09 |
+| Trace3 | Data Solutions Architect \| AI | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63486d61003e0a4f) | 2026-04-28 08:09 |
+| Trace3 | Data Solutions Architect \| AI | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d4d0f879560eea6) | 2026-04-28 08:09 |
+| Photon | Backend Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c6cf88579d0b139b) | 2026-04-28 08:09 |
+| Photon | Backend Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9d29f0c0f97c6ad9) | 2026-04-28 08:09 |
+| Photon | BackEnd Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eaf41f1dcd53eba3) | 2026-04-28 08:09 |
+| Photon | BackEnd Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f4936cea15fb6fab) | 2026-04-28 08:09 |
 | Cloudera | Solutions Engineer | GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6db37997e354b1b6) | 2026-04-28 05:51 |
 | Old National Bank | Data Engineer | Lake Elmo, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=58d405ceae103971) | 2026-04-28 05:51 |
 | Snowflake | Senior PS Sales Solutions Architect | IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9ed1a2a8d040517b) | 2026-04-28 05:51 |
-| Trace3 | Data Solutions Architect \| AI | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fba922bb2fd28863) | 2026-04-28 05:51 |
-| Trace3 | Data Solutions Architect \| AI | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dae082eb8598575) | 2026-04-28 05:51 |
-| Trace3 | Data Solutions Architect \| AI | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63486d61003e0a4f) | 2026-04-28 05:51 |
-| Trace3 | Data Solutions Architect \| AI | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d4d0f879560eea6) | 2026-04-28 05:51 |
 | ATG | Senior Software Engineer - .NET Developer | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac19d93a3fb22200) | 2026-04-28 05:51 |
 | ATG | Senior Software Engineer - .NET Developer | North Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa7419910a66d6b9) | 2026-04-28 05:51 |
 | Lennar | Sr Software Engineer, Fullstack | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4fb90dbd5192ef62) | 2026-04-28 05:51 |
@@ -1165,11 +1170,6 @@ Last updated: 2026-04-28 05:51
 | Central Health | Data Integration Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=326c78111f5647b3) | 2026-04-24 10:59 |
 | JPMorganChase | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=92ccc9ae466ace7c) | 2026-04-24 09:02 |
 | JPMorganChase | Senior Analytics Solution Associate | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=682f448ab80fc1a2) | 2026-04-24 09:02 |
-| Clarivate | Senior Software Engineer | Ann Arbor, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=93aadd8b0c9c7d51) | 2026-04-24 07:00 |
-| Experian | Senior Data Platform Engineer, Remote | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=977bf1988c99ef2b) | 2026-04-24 07:00 |
-| Navat Technologies Pvt Ltd | AWS Cloud Architect - Remote - Contract | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=21d6094d4c650121) | 2026-04-24 07:00 |
-| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1133298756b1fd23) | 2026-04-24 07:00 |
-| Mashura | Sr. Data Engineer (Hybrid or Remote) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f082901e3e3db300) | 2026-04-24 07:00 |
 
 
 ---
