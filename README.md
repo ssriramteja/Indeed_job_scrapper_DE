@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-28 19:21
+Last updated: 2026-04-28 21:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Salesforce | Database DevOps Engineer | San Francisco, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bdd9d74906a09ef3) | 2026-04-28 21:00 |
+| Red Hat | Data Reliability Engineer/Software Engineer | Lowell, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bed2b2b5d3a2123b) | 2026-04-28 21:00 |
+| MAXhealth | Data Platform Engineer- 6 Month Assignment | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d635caaec7baf168) | 2026-04-28 21:00 |
+| Goldman Sachs | Asset & Wealth Management-Software Engineering-Associate-Dallas | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce31ad37d0b4074e) | 2026-04-28 21:00 |
+| Ansell | Senior AI Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ddfd90d1833c2dcd) | 2026-04-28 21:00 |
+| Fitch Group | Software Engineer, Search and Alerts | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e27c3a57395d5ed) | 2026-04-28 21:00 |
 | Torq | Senior Consultant - Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=7c4c907044e720da) | 2026-04-28 19:21 |
 | Silverchair | Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=03088aab7fd212d8) | 2026-04-28 19:21 |
 | Western Governors University | Senior Machine Learning Engineer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=02b371541d1ac53b) | 2026-04-28 19:21 |
@@ -1139,17 +1145,6 @@ Last updated: 2026-04-28 19:21
 | General Intuition & Medal | Site Reliability / Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ebd140da724c069c) | 2026-04-24 21:40 |
 | Abacus | Sr Cloud Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc9177734e7ea91a) | 2026-04-24 21:40 |
 | Medal | Site Reliability / Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c44d2e760ed95d49) | 2026-04-24 21:40 |
-| Moda Health | Data Warehouse Architect | Portland, OR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6d9d7f98d5bdda0c) | 2026-04-24 20:37 |
-| Xylem | Sr IT Analyst | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0afe088d065fd78d) | 2026-04-24 20:37 |
-| Red Cat Holdings | Data Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a1070b79a3524d7) | 2026-04-24 20:37 |
-| Select Minds LLC | AI Testing Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e98247ffa20b79b2) | 2026-04-24 20:37 |
-| Radiology Partners | Sr. Development Support Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1de422c2feb64a45) | 2026-04-24 20:37 |
-| KUBRA | Data Engineer | Tempe, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aa2a9614a79aed2a) | 2026-04-24 19:44 |
-| Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d957645e55a581d) | 2026-04-24 19:44 |
-| PrizePicks | Data Platform Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1da9309099e24717) | 2026-04-24 19:44 |
-| PrizePicks | Data Platform Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb9f7f7de61a86fc) | 2026-04-24 19:44 |
-| PrizePicks | Data Platform Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=838858c3ed703639) | 2026-04-24 19:44 |
-| Genworth | Senior Data Engineer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f43e5255e894179) | 2026-04-24 19:44 |
 
 
 ---
