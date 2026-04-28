@@ -1,16 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-28 15:19
+Last updated: 2026-04-28 17:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NerdWallet | Senior Software Engineer, Full-Stack (DIT) | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=997500b178b6daa0) | 2026-04-28 17:31 |
+| New York Life | Senior Associate - Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cadb0e669ca658a7) | 2026-04-28 17:31 |
+| Visa | Sr. Consultant SW Engineer | Bellevue, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f9ca5a09e7cef446) | 2026-04-28 17:31 |
+| Kaiser Permanente | IT Applications Engineer V - Data Science, Data & AI Engineering, Application Engineering | Pleasanton, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6453e30c37711925) | 2026-04-28 17:31 |
+| Cortland | Senior DevOps Engineer - Atlanta, GA | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=75a9d9f16c1afffa) | 2026-04-28 17:31 |
+| VERVE GROUP | Platform Engineer (Remote / Contract) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca697f45b6290281) | 2026-04-28 17:31 |
+| Klaviyo | Senior Analytics Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c14b5f2f1affd1a2) | 2026-04-28 17:31 |
+| KPRMT Global solutions  | TM1 Developer IBM Planning Analytics Solution | Delaware, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ba25f8dea0287eb) | 2026-04-28 17:31 |
+| Cloud and Things | .Net Developer | Albany, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9e68a2fc7798ac9) | 2026-04-28 17:31 |
+| Estuate | Database Systems Engineer | Milpitas, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=23d7f5f64249cd00) | 2026-04-28 17:31 |
 | Aureon | Senior Data Architect | West Des Moines, IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f774c4618ca5806) | 2026-04-28 15:19 |
-| Trace3 | Data Solutions Architect \| AI | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fba922bb2fd28863) | 2026-04-28 15:19 |
-| Trace3 | Data Solutions Architect \| AI | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dae082eb8598575) | 2026-04-28 15:19 |
-| Trace3 | Data Solutions Architect \| AI | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63486d61003e0a4f) | 2026-04-28 15:19 |
-| Trace3 | Data Solutions Architect \| AI | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d4d0f879560eea6) | 2026-04-28 15:19 |
 | NTT DATA | System Architect IV (ATL) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=562c3953d5d4cf9e) | 2026-04-28 12:21 |
 | Wells Fargo | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f0e85b21f1fb3187) | 2026-04-28 10:55 |
 | Cotiviti | Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=443bc56bd18ac3c1) | 2026-04-28 10:55 |
@@ -1153,9 +1159,6 @@ Last updated: 2026-04-28 15:19
 | Trinity Logistics | Senior Software Engineer, Automation | Seaford, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1fe28a5e43309328) | 2026-04-24 17:44 |
 | Openkyber | Java Trainer / Mentor / Educator | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa91f0490d487d6f) | 2026-04-24 17:44 |
 | Openkyber | Java Trainer / Mentor / Educator | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1acc4fe9bbc488ff) | 2026-04-24 17:44 |
-| Optum | Python Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a8243a564207213c) | 2026-04-24 16:45 |
-| Zoom Communications | Senior Software Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=995dfe3cc7599f4e) | 2026-04-24 16:45 |
-| ecoATM LLC | Sr. DevOps Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f20f01e742321cc6) | 2026-04-24 16:45 |
 
 
 ---
