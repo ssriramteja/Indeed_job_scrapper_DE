@@ -1,16 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-28 12:21
+Last updated: 2026-04-28 15:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aureon | Senior Data Architect | West Des Moines, IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f774c4618ca5806) | 2026-04-28 15:19 |
+| Trace3 | Data Solutions Architect \| AI | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fba922bb2fd28863) | 2026-04-28 15:19 |
+| Trace3 | Data Solutions Architect \| AI | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dae082eb8598575) | 2026-04-28 15:19 |
+| Trace3 | Data Solutions Architect \| AI | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63486d61003e0a4f) | 2026-04-28 15:19 |
+| Trace3 | Data Solutions Architect \| AI | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d4d0f879560eea6) | 2026-04-28 15:19 |
 | NTT DATA | System Architect IV (ATL) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=562c3953d5d4cf9e) | 2026-04-28 12:21 |
-| Trace3 | Data Solutions Architect \| AI | Grand Rapids, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fba922bb2fd28863) | 2026-04-28 12:21 |
-| Trace3 | Data Solutions Architect \| AI | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dae082eb8598575) | 2026-04-28 12:21 |
-| Trace3 | Data Solutions Architect \| AI | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63486d61003e0a4f) | 2026-04-28 12:21 |
-| Trace3 | Data Solutions Architect \| AI | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d4d0f879560eea6) | 2026-04-28 12:21 |
 | Wells Fargo | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f0e85b21f1fb3187) | 2026-04-28 10:55 |
 | Cotiviti | Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=443bc56bd18ac3c1) | 2026-04-28 10:55 |
 | Seismic | Senior Software Engineer - Platform & Integrations | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cca2fb47a24092c1) | 2026-04-28 10:55 |
@@ -1155,18 +1156,6 @@ Last updated: 2026-04-28 12:21
 | Optum | Python Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a8243a564207213c) | 2026-04-24 16:45 |
 | Zoom Communications | Senior Software Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=995dfe3cc7599f4e) | 2026-04-24 16:45 |
 | ecoATM LLC | Sr. DevOps Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f20f01e742321cc6) | 2026-04-24 16:45 |
-| nan | Data Engineer I | Santa Monica, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e197aeed7a4daa68) | 2026-04-24 15:02 |
-| Calabrio | Engineer, Software | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5f67526228c2d8ea) | 2026-04-24 15:02 |
-| Capital One | Distinguished Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4b1beaee3c6388b3) | 2026-04-24 15:02 |
-| McDonald's | Tech Platform Engineer III | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6c96f6146028ac0) | 2026-04-24 15:02 |
-| McDonald's | Platform Engineer III | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8d740e303897a44) | 2026-04-24 15:02 |
-| West Monroe | Forward Deployed AI Engineer, TechEx, Software -US | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=60f2fb7ebcf41f56) | 2026-04-24 15:02 |
-| Ascendion | Cloud Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cdf71cb97b6bf7ca) | 2026-04-24 15:02 |
-| McDonald's | Cloud Engineer III | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=25c3db9aa6186a43) | 2026-04-24 15:02 |
-| Renew home | Senior Data Scientist, Product Analytics (Remote, US) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=94ce26cd728861e5) | 2026-04-24 15:02 |
-| Storage Asset Management | AWS ARCHITECT E-COMMERCE | York, PA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8e2dd02ca9d5cc68) | 2026-04-24 13:18 |
-| Air Apps | Software Architect | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da7d5c56b94e4648) | 2026-04-24 13:18 |
-| BDIPlus | Senior Event Streaming Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d7d7d17e07dc955) | 2026-04-24 13:18 |
 
 
 ---
