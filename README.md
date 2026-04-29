@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-29 21:53
+Last updated: 2026-04-29 22:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Infopeople Corporation | Azure Data Engineer with Power BI and C# .NET exp--Need Government domain | Queens, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=a07efb549ef55e02) | 2026-04-29 22:48 |
+| nan | AWS Data Engineer with Databricks Exp. | Jersey City, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f0c0bcd9b11d0c54) | 2026-04-29 22:48 |
+| The University of Michigan | Data Engineer Senior | Ann Arbor, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bb7fb4fe859681f5) | 2026-04-29 22:48 |
+| Voya Financial | Senior Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=33104d171736f045) | 2026-04-29 22:48 |
+| NavitasPartners | DevOps Engineer — Data & AI Platforms - AIRLKLHV | Aurora, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=54994fef84e9e218) | 2026-04-29 22:48 |
+| NavitasPartners | DevOps Engineer — Data & AI Platforms - AIRLKLHV | Joliet, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7b23a51a16ead4c) | 2026-04-29 22:48 |
+| NavitasPartners | DevOps Engineer — Data & AI Platforms - AIRLKLHV | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8838a726bcf4f615) | 2026-04-29 22:48 |
+| NavitasPartners | DevOps Engineer — Data & AI Platforms - AIRLKLHV | Naperville, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ade083334b9a870) | 2026-04-29 22:48 |
+| JPMorganChase | PySpark Software Engineer III - Python/Java/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e62bf7828019acf) | 2026-04-29 22:48 |
 | Boeing | Computing Architect (Mid-Level or Senior) | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=38348253fb6b3f9a) | 2026-04-29 21:53 |
 | Swire Coca-Cola | Sr. Data Engineer | Draper, UT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7d629ec9761b3e8f) | 2026-04-29 21:53 |
 | Swire Coca-Cola | Senior Data Engineer | Draper, UT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=17a926a902e4ab1a) | 2026-04-29 21:53 |
@@ -18,12 +27,10 @@ Last updated: 2026-04-29 21:53
 | Tata Consultancy Services (TCS) | Machine learning Engineer | Pennington, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=069d340f07134822) | 2026-04-29 21:53 |
 | Tata Consultancy Services (TCS) | Data scientist | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5bfed15cc40a8e20) | 2026-04-29 21:53 |
 | Tata Consultancy Services (TCS) | Azure Data Engineer | Township of Hamilton, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed4e10db55253ba6) | 2026-04-29 21:53 |
-| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 21:53 |
 | Tata Consultancy Services (TCS) | Data Engineer | Las Vegas, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8c7caec4c69e7fec) | 2026-04-29 21:53 |
 | NetDocuments | Sr Business Intelligence Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7b5e31188e0caf7) | 2026-04-29 21:53 |
 | Tata Consultancy Services (TCS) | Snowflake Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3378351c12aad9f8) | 2026-04-29 21:53 |
 | Grainger | Senior Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8074af46a35d5ef2) | 2026-04-29 21:53 |
-| The Coca-Cola Company | Product Data Analyst - Supply Chain Planning Platforms | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39be9632789c9494) | 2026-04-29 21:53 |
 | NetDocuments | Senior Business Intelligence Specialist | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f46a5d9960a5b5f1) | 2026-04-29 21:53 |
 | Agri-Mark, Inc. / Cabot Creamery | Data Engineer | Waitsfield, VT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7fb12ce4b2932b6b) | 2026-04-29 21:53 |
 | American Airlines | Engineer/Sr Engineer, IT Data | Fort Worth, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=75e15a03b23795b5) | 2026-04-29 20:54 |
