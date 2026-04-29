@@ -1,11 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-29 17:19
+Last updated: 2026-04-29 19:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=11348aaa79db186f) | 2026-04-29 19:10 |
+| Photon | Sr Developer - Backend (Java Sprinboot) - Plano, TX | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=147f2ed637995232) | 2026-04-29 19:10 |
+| micro1 | DevOps Engineer - US | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=77ce756f28346f96) | 2026-04-29 19:10 |
+| V-ENVISAGE SOLUTIONS INC | ETL Tester | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4cc527ce35e5f595) | 2026-04-29 19:10 |
+| Radiology One | Network Engineer/ PACS Admin | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=780bff482e354d4c) | 2026-04-29 19:10 |
+| TailoredSearch | DevOps & MLOps Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9675df96a6994487) | 2026-04-29 19:10 |
+| Nordstrom | Senior Network Engineer (Hybrid - Seattle, WA) | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=36b179eab4fbd4db) | 2026-04-29 19:10 |
+| McAfee | Software Developer in Test - SDET | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7397c28f47e35c7) | 2026-04-29 19:10 |
+| micro1 | Software Engineer (Finance Team) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9cad8602f33d9279) | 2026-04-29 19:10 |
+| ServiceTitan | Senior Software Engineer | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=030e43d608ff060a) | 2026-04-29 19:10 |
+| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 19:10 |
+| 3Pillar Global | Architect AI ML | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2d6b6112e0fb25e) | 2026-04-29 19:10 |
+| The Coca-Cola Company | Product Data Analyst - Supply Chain Planning Platforms | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39be9632789c9494) | 2026-04-29 19:10 |
+| Nightingale College | Senior Software Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65756ab49eefec88) | 2026-04-29 19:10 |
+| Huntington Bank | IS Technical Specialist | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=692fdccdd13ebb3b) | 2026-04-29 19:10 |
 | Tata Consultancy Services (TCS) | Senior Engineer- Technology | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a5b12becd9332b9d) | 2026-04-29 17:19 |
 | ERC Pathlight | Associate Cloud Data Engineer | Denver, CO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ce8a7529cf2c2258) | 2026-04-29 17:19 |
 | Tata Consultancy Services (TCS) | Java Engineer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=293b45603c9830da) | 2026-04-29 17:19 |
@@ -20,11 +35,9 @@ Last updated: 2026-04-29 17:19
 | Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ddcdc29f72dd2b8) | 2026-04-29 17:19 |
 | Tata Consultancy Services (TCS) | Sr. Palantir Developer | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=794267568ebf50df) | 2026-04-29 17:19 |
 | Tata Consultancy Services (TCS) | Sr. Palantir Developer | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af5152de96557363) | 2026-04-29 17:19 |
-| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 17:19 |
 | Tata Consultancy Services (TCS) | Big Data Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2360e7b180f47f44) | 2026-04-29 17:19 |
 | Tata Consultancy Services (TCS) | Snowflake Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee8a8409fe728e8a) | 2026-04-29 17:19 |
 | VTekis Consulting LLP | Platform Architect - FinOps experience is Mandatory | Plainsboro, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ad43b99cd7044e9) | 2026-04-29 17:19 |
-| The Coca-Cola Company | Product Data Analyst - Supply Chain Planning Platforms | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39be9632789c9494) | 2026-04-29 17:19 |
 | nan | Technical QA Analyst II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b752f77bb2fc7c7) | 2026-04-29 17:19 |
 | CFRA Research | Full Stack Developer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e0b81c8f1c416031) | 2026-04-29 15:05 |
 | General Motors (GM) | Software Developer - Used Car Marketplace | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed2aa63753dfb4c) | 2026-04-29 15:05 |
@@ -484,14 +497,6 @@ Last updated: 2026-04-29 17:19
 | Openkyber | Java CI/CD Automation Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7601454f8dffc4f4) | 2026-04-25 23:30 |
 | Openkyber | API Architect (Python) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cf022575a6c3cfb) | 2026-04-25 23:30 |
 | Openkyber | Security Backend Engineer (Python) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a5cd842269d8636) | 2026-04-25 23:30 |
-| Openkyber | Cloud AI Consultant | GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=0e8061f8dcfa3609) | 2026-04-25 17:32 |
-| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0d88c948e0a02d22) | 2026-04-25 17:32 |
-| Openkyber | AI Application Architect | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f510815207394b27) | 2026-04-25 17:32 |
-| Openkyber | Java Solution Architect | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a9867f7f794e3fe9) | 2026-04-25 17:32 |
-| Openkyber | Java Test Engineer (JUnit, TestNG) | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2202a6927a5be308) | 2026-04-25 17:32 |
-| Openkyber | Java CI/CD Automation Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4a4416ae7220f3f) | 2026-04-25 17:32 |
-| Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=312ff9af965f2503) | 2026-04-25 17:32 |
-| Openkyber | Java SDK / Library Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4cce85be0ed0449c) | 2026-04-25 17:32 |
 
 
 ---
