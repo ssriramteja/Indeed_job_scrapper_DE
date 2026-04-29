@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-29 22:48
+Last updated: 2026-04-29 23:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| VeeRteq Solutions Inc. | Data Engineer | Morristown, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5512aba12eaa248e) | 2026-04-29 23:45 |
+| Harley-Davidson, Inc. | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8a0e12a78fd06e23) | 2026-04-29 23:45 |
+| System Edge LLC. | Senior Python Full Stack Developer with Agentic AI | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5c635fc8d326af21) | 2026-04-29 23:45 |
+| Recutify Inc. | Data Engineer with AI Engineering | Iselin, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d38c1b47e8e6f1fa) | 2026-04-29 23:45 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e77d95b867714292) | 2026-04-29 23:45 |
+| Amplitude | Software Engineer II, Data Warehouse | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d97f7bc28ece22e8) | 2026-04-29 23:45 |
 | Infopeople Corporation | Azure Data Engineer with Power BI and C# .NET exp--Need Government domain | Queens, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=a07efb549ef55e02) | 2026-04-29 22:48 |
 | nan | AWS Data Engineer with Databricks Exp. | Jersey City, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f0c0bcd9b11d0c54) | 2026-04-29 22:48 |
 | The University of Michigan | Data Engineer Senior | Ann Arbor, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bb7fb4fe859681f5) | 2026-04-29 22:48 |
@@ -520,21 +526,6 @@ Last updated: 2026-04-29 22:48
 | Deloitte | AI Engineer Senior Consultant | Gilbert, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5151d5e9aa17e5d5) | 2026-04-26 04:53 |
 | Sigma Computing | Senior Security Engineer II – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d25e680dbcf02691) | 2026-04-26 01:52 |
 | Sigma Computing | Technical Support Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07f643dd409c7140) | 2026-04-26 01:52 |
-| Openkyber | Java Application Support Analyst | GA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=1dc7f9cc9fc3230a) | 2026-04-25 23:30 |
-| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=58e46008e082a2c5) | 2026-04-25 23:30 |
-| Openkyber | Backend Software Engineer (Python) | AL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6325226098b53d8c) | 2026-04-25 23:30 |
-| Openkyber | Java Platform Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=aca797da11c35d09) | 2026-04-25 23:30 |
-| Openkyber | Java Trainer / Mentor / Educator | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ebe726b1c2405926) | 2026-04-25 23:30 |
-| Openkyber | Java Solution Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8debac1e37803644) | 2026-04-25 23:30 |
-| Openkyber | Java Solution Architect | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2514363f9f331d84) | 2026-04-25 23:30 |
-| Openkyber | Java Solution Architect | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1fe80d6798d0d76) | 2026-04-25 23:30 |
-| Openkyber | Python | MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=55187d9137ae191d) | 2026-04-25 23:30 |
-| Openkyber | Python | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5bcf9a250ecec1a) | 2026-04-25 23:30 |
-| Openkyber | Java Test Engineer (JUnit, TestNG) | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7c8deb9cfaee37ff) | 2026-04-25 23:30 |
-| Openkyber | FastAPI | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=90f877954706efc9) | 2026-04-25 23:30 |
-| Openkyber | Java CI/CD Automation Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7601454f8dffc4f4) | 2026-04-25 23:30 |
-| Openkyber | API Architect (Python) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cf022575a6c3cfb) | 2026-04-25 23:30 |
-| Openkyber | Security Backend Engineer (Python) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a5cd842269d8636) | 2026-04-25 23:30 |
 
 
 ---
