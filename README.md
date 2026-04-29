@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-29 02:04
+Last updated: 2026-04-29 05:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| General Motors (GM) | AI/ML Data Scientist (GPSSC) | Warren, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=178a3edf86886b28) | 2026-04-29 05:46 |
+| Snowflake | Senior PS Sales Solutions Architect | OR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8380914e78d30a86) | 2026-04-29 05:46 |
+| Equifax | Senior Software Engineer - Backend (Java) | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2213405e0bc35e97) | 2026-04-29 05:46 |
+| Boeing | Cloud DevOps Programmer Analyst (Mid-Level or Senior) | Seal Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6418cc76af48cb9a) | 2026-04-29 05:46 |
+| Goldman Sachs | AMD Public-Dallas-Associate-Software Engineering | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9c2afaac9488468d) | 2026-04-29 05:46 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a7b93f1801a596bf) | 2026-04-29 05:46 |
+| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 05:46 |
+| PNM | IT Data Platform Data Engineer (2 Openings) | Albuquerque, NM, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b8dc4289e41437b) | 2026-04-29 05:46 |
+| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef09c50335c1ef7e) | 2026-04-29 05:46 |
+| Parallel Domain | Senior Site Reliability Engineer | Pacific, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0fb764d6d9f3687d) | 2026-04-29 05:46 |
 | Legrand | Azure Data Engineer | West Hartford, CT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=13b7bf33022090df) | 2026-04-29 02:04 |
 | Photon | Technical Architect (Java Microservices + React JS) - Springfield | Springfield, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9a047238ed1e96c1) | 2026-04-29 02:04 |
 | Acuity Inc. | Data Engineer - AWS/Databricks - Mid Level | Reston, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5b2f2bf8d80ebd3f) | 2026-04-29 02:04 |
@@ -19,7 +29,6 @@ Last updated: 2026-04-29 02:04
 | Alliant Insurance Services | Salesforce Developer | Omaha, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7eb2c6707692ecc9) | 2026-04-29 02:04 |
 | nan | Senior Software Engineer - Product | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=32ec16e417da98d2) | 2026-04-29 02:04 |
 | Scotiabank | Senior Data Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c5dcc9f8e89ecd2) | 2026-04-29 02:04 |
-| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 02:04 |
 | Wipro | DEVELOPER L3(CONTRACT) | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=329c033ba97dbb91) | 2026-04-29 02:04 |
 | Photon | Backend Developer (Java) - Springfield | Springfield, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=681247860af931cb) | 2026-04-29 02:04 |
 | Avalara | Enterprise Systems Engineer V | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=738154f40eb68125) | 2026-04-29 02:04 |
@@ -1106,14 +1115,6 @@ Last updated: 2026-04-29 02:04
 | Openkyber | Workday Reporting Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d95a72cb35074c86) | 2026-04-25 06:16 |
 | Openkyber | AWS Network Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cad0e443fcaff156) | 2026-04-25 06:16 |
 | Openkyber | AWS Network Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65ed04db21c5821b) | 2026-04-25 06:16 |
-| Fannie Mae | Full Stack Software Engineer | Reston, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2ef9390b5f4c6d99) | 2026-04-25 04:30 |
-| Rocky Mountain Elk Foundation | Data Engineer | Missoula, MT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9015f8bca6247309) | 2026-04-25 04:30 |
-| Nimble | Data Engineer | Chesterfield, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=468bb000278c0677) | 2026-04-25 04:30 |
-| Cboe Global Markets | Software Engineer, Testing | Kansas City, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7802ea905344bd3a) | 2026-04-25 04:30 |
-| The Joint Commission | BI Developer | Oak Brook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ff2bed86f78e502e) | 2026-04-25 04:30 |
-| Intuitive (Intuitive Surgical) | Senior Software Engineer, Platform Engineering | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=319a55305b9ec532) | 2026-04-25 04:30 |
-| United Airlines | Senior Developer - Information Technology | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d0157074cd30169) | 2026-04-25 04:30 |
-| FINBOA INC | Database Administrator | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a06d010c371b71c3) | 2026-04-25 04:30 |
 
 
 ---
