@@ -1,18 +1,41 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-29 08:02
+Last updated: 2026-04-29 10:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=42a4d9b7a78ea546) | 2026-04-29 10:47 |
+| JPMorganChase | Software Engineer III Java/ PySpark/AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3ef67511e4c2316e) | 2026-04-29 10:47 |
+| JPMorganChase | Senior AWS Engineer - ML | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8f410f9011272b97) | 2026-04-29 10:47 |
+| JPMorganChase | Data Architect III | Palo Alto, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=579dc28c4258841b) | 2026-04-29 10:47 |
+| JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fcccef4ffd260d2f) | 2026-04-29 10:47 |
+| Tango Technology, Inc. | Senior Site Reliability Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9226866e941cd9b2) | 2026-04-29 10:47 |
+| JPMorganChase | Senior Data Software Engineer | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=24e84f8f2d7fe85a) | 2026-04-29 10:47 |
+| Revstar | Full Stack Web Developer | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=934468e669a4c3eb) | 2026-04-29 10:47 |
+| Revstar | Full Stack Web Developer | AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b3b92c71d4ed281) | 2026-04-29 10:47 |
+| Revstar | Full Stack Web Developer | FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5e87bd4ec5626fc3) | 2026-04-29 10:47 |
+| JPMorganChase | Software Engineer III- Python/PySpark | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e02e62d3136c61c7) | 2026-04-29 10:47 |
+| JPMorganChase | Software Engineer III - Fullstack, Python, AWS, AI/ML | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=28f053e3efceefd1) | 2026-04-29 10:47 |
+| M.P. Excavation LLC | Big Data Developer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af8b65d1f85bb1e9) | 2026-04-29 10:47 |
+| Panasonic Automotive | Senior AI Full Stack Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e634c843fef9248e) | 2026-04-29 10:47 |
+| JPMorganChase | Machine Learning Engineer - Senior Associate | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9b45c9b77003a1d1) | 2026-04-29 10:47 |
+| JPMorganChase | Python Engineer, Senior Associate | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b88929d02f381224) | 2026-04-29 10:47 |
+| JPMorganChase | Software Engineer III- AWS/Python/PySpark | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=623b2a2f5c4be4df) | 2026-04-29 10:47 |
+| JPMorganChase | Data Software Engineer III- ML | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0f482633e320e48d) | 2026-04-29 10:47 |
+| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fe894b30da63db58) | 2026-04-29 10:47 |
+| JPMorganChase | Software Engineer III - AI/ML Deep Learning & GPU ML Serving | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e20a5b3dd87476e) | 2026-04-29 10:47 |
+| JPMorganChase | Data Domain Architect Senior Associate | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=25a489bf0b432c45) | 2026-04-29 10:47 |
+| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 10:47 |
+| JPMorganChase | Software Engineer III - Data Protection & Recovery | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=841874e515da5e28) | 2026-04-29 10:47 |
+| JPMorganChase | Machine Learning Engineer – Document Digitization (LLMs)-Senior Associate | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb22b5fd6ba5a411) | 2026-04-29 10:47 |
 | Wells Fargo | Azure Data & Microsoft Fabric Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5f7d7f71cdcf553a) | 2026-04-29 08:02 |
 | Wells Fargo | Azure Data & Microsoft Fabric Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=93d133881ebcebcf) | 2026-04-29 08:02 |
 | NTT DATA | Developer / Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3c2ecce1ec4e1cba) | 2026-04-29 08:02 |
 | NTT DATA | Developer / Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dc02f3b1065e1623) | 2026-04-29 08:02 |
 | NTT DATA | Site Reliability Engineer | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f4ef0ab2b33f3b) | 2026-04-29 08:02 |
 | Pacific Life | Sr Data Governance, Data Quality Analyst | Newport Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd5778480f15c573) | 2026-04-29 08:02 |
-| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 08:02 |
 | General Motors (GM) | AI/ML Data Scientist (GPSSC) | Warren, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=178a3edf86886b28) | 2026-04-29 05:46 |
 | Snowflake | Senior PS Sales Solutions Architect | OR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8380914e78d30a86) | 2026-04-29 05:46 |
 | Equifax | Senior Software Engineer - Backend (Java) | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2213405e0bc35e97) | 2026-04-29 05:46 |
@@ -441,9 +464,6 @@ Last updated: 2026-04-29 08:02
 | Openkyber | Java Solution Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b01d70e0445efdf5) | 2026-04-25 11:33 |
 | Openkyber | Java CI/CD Automation Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1cde807edc03031) | 2026-04-25 11:33 |
 | Openkyber | Java SDK / Library Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af205ded49a4f91d) | 2026-04-25 11:33 |
-| Paychex, Inc. | Database Engineer I | Webster, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=08825b384c423d58) | 2026-04-25 09:43 |
-| Naphcare, Inc. | Senior AWS Cloud Platform Engineer | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50e1c69114e7cd26) | 2026-04-25 09:43 |
-| JPMorganChase | Data Engineer II - AWS/PySpark/ETL | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd3fe7c74b8687e1) | 2026-04-25 09:43 |
 
 
 ---
