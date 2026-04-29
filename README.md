@@ -1,12 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-29 12:12
+Last updated: 2026-04-29 15:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 12:12 |
+| CFRA Research | Full Stack Developer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e0b81c8f1c416031) | 2026-04-29 15:05 |
+| General Motors (GM) | Software Developer - Used Car Marketplace | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed2aa63753dfb4c) | 2026-04-29 15:05 |
+| GEICO | Sr. Software Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af03499a4d1674ae) | 2026-04-29 15:05 |
+| CloudGeometry | AI Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=494b669d4a90f93c) | 2026-04-29 15:05 |
+| GEICO | Solutions Engineer II - Networking | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b0c9eac7df91cbba) | 2026-04-29 15:05 |
+| GEICO | Solutions Engineer II - Networking | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0313297f092b51b7) | 2026-04-29 15:05 |
+| GEICO | Solutions Engineer II - Networking | Bethesda, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd0d7013f328ba7a) | 2026-04-29 15:05 |
+| GEICO | Solutions Engineer II - Networking | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b5a8d63272e83315) | 2026-04-29 15:05 |
+| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 15:05 |
+| Health Data Analytics Institute | Senior Cloud Engineer | Dedham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8386249f9122b7d3) | 2026-04-29 15:05 |
+| AT&T | Senior Advanced Analytics | El Segundo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f8340f2d811ad9a) | 2026-04-29 15:05 |
+| GEICO | Engineer II | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d6524e8d17d74caa) | 2026-04-29 15:05 |
+| GEICO | Engineer II- .Net | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b2a1044948ee5eed) | 2026-04-29 15:05 |
+| GEICO | Engineer II | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0406c507a72f7b8) | 2026-04-29 15:05 |
+| GEICO | Engineer II- .Net | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f9a72c26d6c4f36) | 2026-04-29 15:05 |
 | JPMorganChase | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=42a4d9b7a78ea546) | 2026-04-29 10:47 |
 | JPMorganChase | Software Engineer III Java/ PySpark/AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3ef67511e4c2316e) | 2026-04-29 10:47 |
 | JPMorganChase | Senior AWS Engineer - ML | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8f410f9011272b97) | 2026-04-29 10:47 |
@@ -459,7 +473,6 @@ Last updated: 2026-04-29 12:12
 | Openkyber | Java CI/CD Automation Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4a4416ae7220f3f) | 2026-04-25 17:32 |
 | Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=312ff9af965f2503) | 2026-04-25 17:32 |
 | Openkyber | Java SDK / Library Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4cce85be0ed0449c) | 2026-04-25 17:32 |
-| CVS Health | Software Development Engineer | WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bcc4b728c62daf1) | 2026-04-25 13:59 |
 
 
 ---
