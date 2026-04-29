@@ -1,11 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-29 19:10
+Last updated: 2026-04-29 20:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| American Airlines | Engineer/Sr Engineer, IT Data | Fort Worth, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=75e15a03b23795b5) | 2026-04-29 20:54 |
+| Datalink Networks Inc. | AI Engineer | Valencia, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8fa2a7970470f14c) | 2026-04-29 20:54 |
+| MAXhealth | Data Platform Engineer- 6 Month Assignment | Sarasota, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0ed470f2bb02fca0) | 2026-04-29 20:54 |
+| DATAMAXIS | Quality Assurance Analyst / ETL Tester | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d7a677f4736a542) | 2026-04-29 20:54 |
+| SCAN Health Plan | Full Stack, Data & Analytics Engineer | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=76df256873f2c893) | 2026-04-29 20:54 |
+| Equifax | Software Engineer - Intermediate | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f35dd0ad91911ba0) | 2026-04-29 20:54 |
+| NTT DATA | System Architect IV - Onsite/Hybrid | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea6deb35ddeb25ec) | 2026-04-29 20:54 |
+| Carrier | Senior Data Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c01a1373d407b3e6) | 2026-04-29 20:54 |
+| ServiceTitan | Senior Software Engineer | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c7049082ec88ec5c) | 2026-04-29 20:54 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8831ab8789584700) | 2026-04-29 20:54 |
+| BV Teck | EDW Quality Engineer (QA / Data Warehouse Tester) | Basking Ridge, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc92b881a9200b86) | 2026-04-29 20:54 |
+| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 20:54 |
+| SAP | SAP NS2 Sr. Cloud Engineer - SAP Platforms | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=67340d847b0f971b) | 2026-04-29 20:54 |
+| The Coca-Cola Company | Product Data Analyst - Supply Chain Planning Platforms | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39be9632789c9494) | 2026-04-29 20:54 |
+| First Horizon Bank | IT Developer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7533d2e71665596c) | 2026-04-29 20:54 |
 | Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=11348aaa79db186f) | 2026-04-29 19:10 |
 | Photon | Sr Developer - Backend (Java Sprinboot) - Plano, TX | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=147f2ed637995232) | 2026-04-29 19:10 |
 | micro1 | DevOps Engineer - US | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=77ce756f28346f96) | 2026-04-29 19:10 |
@@ -16,9 +31,7 @@ Last updated: 2026-04-29 19:10
 | McAfee | Software Developer in Test - SDET | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7397c28f47e35c7) | 2026-04-29 19:10 |
 | micro1 | Software Engineer (Finance Team) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9cad8602f33d9279) | 2026-04-29 19:10 |
 | ServiceTitan | Senior Software Engineer | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=030e43d608ff060a) | 2026-04-29 19:10 |
-| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 19:10 |
 | 3Pillar Global | Architect AI ML | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2d6b6112e0fb25e) | 2026-04-29 19:10 |
-| The Coca-Cola Company | Product Data Analyst - Supply Chain Planning Platforms | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39be9632789c9494) | 2026-04-29 19:10 |
 | Nightingale College | Senior Software Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65756ab49eefec88) | 2026-04-29 19:10 |
 | Huntington Bank | IS Technical Specialist | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=692fdccdd13ebb3b) | 2026-04-29 19:10 |
 | Tata Consultancy Services (TCS) | Senior Engineer- Technology | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a5b12becd9332b9d) | 2026-04-29 17:19 |
