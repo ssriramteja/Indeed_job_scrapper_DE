@@ -1,11 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-29 15:05
+Last updated: 2026-04-29 17:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Senior Engineer- Technology | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a5b12becd9332b9d) | 2026-04-29 17:19 |
+| ERC Pathlight | Associate Cloud Data Engineer | Denver, CO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ce8a7529cf2c2258) | 2026-04-29 17:19 |
+| Tata Consultancy Services (TCS) | Java Engineer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=293b45603c9830da) | 2026-04-29 17:19 |
+| MRCOOL, LLC | Oracle NetSuite Data Engineer | Hickory, KY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c132bd645a73aa20) | 2026-04-29 17:19 |
+| CFRA Research | Full Stack Developer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=69c6e589e7409759) | 2026-04-29 17:19 |
+| Tata Consultancy Services (TCS) | Senior Engineer - Agentic AI | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=580d44c93ad196b2) | 2026-04-29 17:19 |
+| Wilson Elser | Enterprise Data Architect | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=64b9306d8fcf8bad) | 2026-04-29 17:19 |
+| GeoStabilization International | Gen AI Platform & Deployment Engineer | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=358142c776463567) | 2026-04-29 17:19 |
+| BOK Financial | Senior Data Engineer (AWS, FiveTran, dbt, Snowflake) | Richardson, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f8b6b881616069c2) | 2026-04-29 17:19 |
+| Fiserv | Summer Intern - Data Engineer | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=81b5a9e990dda6aa) | 2026-04-29 17:19 |
+| Tata Consultancy Services (TCS) | Java/.NET Developer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=88378f15de50673d) | 2026-04-29 17:19 |
+| Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ddcdc29f72dd2b8) | 2026-04-29 17:19 |
+| Tata Consultancy Services (TCS) | Sr. Palantir Developer | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=794267568ebf50df) | 2026-04-29 17:19 |
+| Tata Consultancy Services (TCS) | Sr. Palantir Developer | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af5152de96557363) | 2026-04-29 17:19 |
+| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 17:19 |
+| Tata Consultancy Services (TCS) | Big Data Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2360e7b180f47f44) | 2026-04-29 17:19 |
+| Tata Consultancy Services (TCS) | Snowflake Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee8a8409fe728e8a) | 2026-04-29 17:19 |
+| VTekis Consulting LLP | Platform Architect - FinOps experience is Mandatory | Plainsboro, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ad43b99cd7044e9) | 2026-04-29 17:19 |
+| The Coca-Cola Company | Product Data Analyst - Supply Chain Planning Platforms | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39be9632789c9494) | 2026-04-29 17:19 |
+| nan | Technical QA Analyst II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b752f77bb2fc7c7) | 2026-04-29 17:19 |
 | CFRA Research | Full Stack Developer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e0b81c8f1c416031) | 2026-04-29 15:05 |
 | General Motors (GM) | Software Developer - Used Car Marketplace | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed2aa63753dfb4c) | 2026-04-29 15:05 |
 | GEICO | Sr. Software Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af03499a4d1674ae) | 2026-04-29 15:05 |
@@ -14,7 +34,6 @@ Last updated: 2026-04-29 15:05
 | GEICO | Solutions Engineer II - Networking | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0313297f092b51b7) | 2026-04-29 15:05 |
 | GEICO | Solutions Engineer II - Networking | Bethesda, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd0d7013f328ba7a) | 2026-04-29 15:05 |
 | GEICO | Solutions Engineer II - Networking | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b5a8d63272e83315) | 2026-04-29 15:05 |
-| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 15:05 |
 | Health Data Analytics Institute | Senior Cloud Engineer | Dedham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8386249f9122b7d3) | 2026-04-29 15:05 |
 | AT&T | Senior Advanced Analytics | El Segundo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f8340f2d811ad9a) | 2026-04-29 15:05 |
 | GEICO | Engineer II | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d6524e8d17d74caa) | 2026-04-29 15:05 |
