@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-29 10:47
+Last updated: 2026-04-29 12:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 12:12 |
 | JPMorganChase | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=42a4d9b7a78ea546) | 2026-04-29 10:47 |
 | JPMorganChase | Software Engineer III Java/ PySpark/AWS | Wilmington, DE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3ef67511e4c2316e) | 2026-04-29 10:47 |
 | JPMorganChase | Senior AWS Engineer - ML | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8f410f9011272b97) | 2026-04-29 10:47 |
@@ -27,7 +28,6 @@ Last updated: 2026-04-29 10:47
 | JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fe894b30da63db58) | 2026-04-29 10:47 |
 | JPMorganChase | Software Engineer III - AI/ML Deep Learning & GPU ML Serving | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e20a5b3dd87476e) | 2026-04-29 10:47 |
 | JPMorganChase | Data Domain Architect Senior Associate | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=25a489bf0b432c45) | 2026-04-29 10:47 |
-| The Coca-Cola Company | Senior Product Data Analyst - Supply Chain | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f3aaa95e1c534da) | 2026-04-29 10:47 |
 | JPMorganChase | Software Engineer III - Data Protection & Recovery | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=841874e515da5e28) | 2026-04-29 10:47 |
 | JPMorganChase | Machine Learning Engineer – Document Digitization (LLMs)-Senior Associate | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb22b5fd6ba5a411) | 2026-04-29 10:47 |
 | Wells Fargo | Azure Data & Microsoft Fabric Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5f7d7f71cdcf553a) | 2026-04-29 08:02 |
@@ -460,10 +460,6 @@ Last updated: 2026-04-29 10:47
 | Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=312ff9af965f2503) | 2026-04-25 17:32 |
 | Openkyber | Java SDK / Library Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4cce85be0ed0449c) | 2026-04-25 17:32 |
 | CVS Health | Software Development Engineer | WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bcc4b728c62daf1) | 2026-04-25 13:59 |
-| Openkyber | Java Solution Architect | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b563dee50b08e5a4) | 2026-04-25 11:33 |
-| Openkyber | Java Solution Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b01d70e0445efdf5) | 2026-04-25 11:33 |
-| Openkyber | Java CI/CD Automation Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1cde807edc03031) | 2026-04-25 11:33 |
-| Openkyber | Java SDK / Library Developer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af205ded49a4f91d) | 2026-04-25 11:33 |
 
 
 ---
