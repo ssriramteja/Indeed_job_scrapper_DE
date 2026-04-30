@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-30 05:50
+Last updated: 2026-04-30 08:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Blue Orange Digital | Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8b7e79accc7c2528) | 2026-04-30 08:05 |
+| TeraWatt Infrastructure | Senior Data Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3cf13a405f291139) | 2026-04-30 08:05 |
+| Blue Orange Digital | Senior Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb853658114af880) | 2026-04-30 08:05 |
+| Blue Orange Digital | Senior Business Data Analyst | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3188efd79bf1e92f) | 2026-04-30 08:05 |
+| Subway | Sr. API Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6b02c1c05cdd16b9) | 2026-04-30 08:05 |
+| Subway | Sr. API Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0d9aa07e40090d93) | 2026-04-30 08:05 |
+| Subway | Sr. API Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4277c27f2f782266) | 2026-04-30 08:05 |
+| Subway | Sr. API Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ef0f69867247772a) | 2026-04-30 08:05 |
+| Subway | Senior Software Engineer, APIs | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d448f5377465e81) | 2026-04-30 08:05 |
+| Subway | Sr. API Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=aca94a7c92083f9d) | 2026-04-30 08:05 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 08:05 |
+| RCR Technology | Senior Tableau/Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=872667539c482fb1) | 2026-04-30 08:05 |
+| Elevance Health | Senior Backend Architect - Device Management Platforms | Walnut Creek, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=143762682a9d9c04) | 2026-04-30 08:05 |
+| Resideo | Sr Adv Software Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2949635dab79e305) | 2026-04-30 08:05 |
+| Subway | Sr. QE (Senior Quality Engineer, APIs) | Shelton, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4837acc95c44131) | 2026-04-30 08:05 |
+| Subway | Sr. QE (Senior Quality Engineer, APIs) | Shelton, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5641d051b78dc3e5) | 2026-04-30 08:05 |
 | Tata Consultancy Services (TCS) | Technical Architect-Datawarehousing | Marlborough, MA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=fe34bd7ad3cc55cc) | 2026-04-30 05:50 |
 | Applied Technology Services | Databricks Engineer | Adelphi, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=88d5142fe158dffb) | 2026-04-30 05:50 |
 | Cox Automotive | Software Engineer I | Irvine, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b0a8e6675d7ad8e4) | 2026-04-30 05:50 |
@@ -13,7 +29,6 @@ Last updated: 2026-04-30 05:50
 | Fidelity TalentSource | Senior AWS Cloud Developer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9def542b10d50c48) | 2026-04-30 05:50 |
 | Motiva Enterprises LLC | Data and Analytics Platform Architect | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45b3fd0f3632a8d6) | 2026-04-30 05:50 |
 | Mayo Clinic | Associate Software Engineer | Rochester, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8081ee3f40d7d31c) | 2026-04-30 05:50 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 05:50 |
 | JLL | Business Analyst | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=211199e7b69b9eed) | 2026-04-30 05:50 |
 | Chewy | Software Engineer II | Bellevue, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a0b54324d4bccebe) | 2026-04-30 02:04 |
 | Chewy | Software Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=45cec5906abac43f) | 2026-04-30 02:04 |
