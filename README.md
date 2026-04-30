@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-30 08:05
+Last updated: 2026-04-30 10:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CVS Health | Senior Software Development Engineer | MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb97e11dedc46f7e) | 2026-04-30 10:47 |
+| RELX Group | Senior Machine Learning Engineer III ***Raleigh, NC*** | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=35085eed81ec8943) | 2026-04-30 10:47 |
+| LexisNexis Legal & Professional | Senior Machine Learning Engineer III ***Raleigh, NC*** | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=70897e01c57b5008) | 2026-04-30 10:47 |
+| Eclypsium | Sr. DevOps Engineer | Portland, OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=746eae080f33e9b0) | 2026-04-30 10:47 |
+| First Citizens Bank | Data Engineer II | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8629753fa2cdcb2f) | 2026-04-30 10:47 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 10:47 |
+| JPMorganChase | PySpark Data Engineer III - Python/Java/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=37079c463898c2dd) | 2026-04-30 10:47 |
+| HEB | Senior Software Engineer - Python - AI Platform | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a91ebd3753be4d7e) | 2026-04-30 10:47 |
+| Armor | Site Reliability Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19bc2fde31ea0812) | 2026-04-30 10:47 |
+| RELX Group | Software Engineer II | Evanston, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3493170e435cd93) | 2026-04-30 10:47 |
 | Blue Orange Digital | Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8b7e79accc7c2528) | 2026-04-30 08:05 |
 | TeraWatt Infrastructure | Senior Data Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3cf13a405f291139) | 2026-04-30 08:05 |
 | Blue Orange Digital | Senior Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb853658114af880) | 2026-04-30 08:05 |
@@ -16,7 +26,6 @@ Last updated: 2026-04-30 08:05
 | Subway | Sr. API Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ef0f69867247772a) | 2026-04-30 08:05 |
 | Subway | Senior Software Engineer, APIs | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d448f5377465e81) | 2026-04-30 08:05 |
 | Subway | Sr. API Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=aca94a7c92083f9d) | 2026-04-30 08:05 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 08:05 |
 | RCR Technology | Senior Tableau/Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=872667539c482fb1) | 2026-04-30 08:05 |
 | Elevance Health | Senior Backend Architect - Device Management Platforms | Walnut Creek, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=143762682a9d9c04) | 2026-04-30 08:05 |
 | Resideo | Sr Adv Software Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2949635dab79e305) | 2026-04-30 08:05 |
