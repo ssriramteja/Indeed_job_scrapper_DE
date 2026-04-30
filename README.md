@@ -1,11 +1,39 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-30 18:05
+Last updated: 2026-04-30 20:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tradeweb | Data Platform Engineer | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cb2021c38a5314d9) | 2026-04-30 20:06 |
+| Metropolitan Commercial Bank | AI Engineer | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=25250927f01c87fd) | 2026-04-30 20:06 |
+| Select Minds LLC | Data Quality Engineer | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d9d0ac6d3cf445a9) | 2026-04-30 20:06 |
+| Credera | Senior Data Engineer | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a2859c21fcc6b9b6) | 2026-04-30 20:06 |
+| Credera | Senior Data Engineer | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9e65ae12c9231691) | 2026-04-30 20:06 |
+| Credera | Senior Data Engineer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=deb9ad8464ceb6e6) | 2026-04-30 20:06 |
+| Credera | Senior Data Engineer | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0faede29102fb7e1) | 2026-04-30 20:06 |
+| LVT (LiveView Technologies) | Software Development in Test (SDET III) | American Fork, UT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f788c85d6ae79fd9) | 2026-04-30 20:06 |
+| Fitch Group | Software Engineer, Full Stack - AI (Chicago) | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d4bb35a3533f1ee6) | 2026-04-30 20:06 |
+| Fitch Group | Engineering & Quality - Software Engineer, Full Stack - AI | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cf6b928dd59e0c41) | 2026-04-30 20:06 |
+| Metropolis | Senior Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0fc4628968aad9e2) | 2026-04-30 20:06 |
+| Metropolis | Senior Data Engineer | Los Angeles, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0eb5fc1d601c0028) | 2026-04-30 20:06 |
+| Metropolis | Senior Data Engineer | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=acae1b7fc51e9a39) | 2026-04-30 20:06 |
+| Wipro | DEVELOPER L3(CONTRACT) | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1c37881d8861b3d6) | 2026-04-30 20:06 |
+| Infor | Data Management Architect (Manufacturing) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e45199011cbe2990) | 2026-04-30 20:06 |
+| Esri | Software Engineer I – AI Assistant Framework, ArcGIS Enterprise | Redlands, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2546eaf4a3e50baf) | 2026-04-30 20:06 |
+| Millennium Management | Cloud DevOps Engineer | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0f01d239e5c828f6) | 2026-04-30 20:06 |
+| Intelligent Medical Objects | Sr. Data Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4869d3a6ac24136) | 2026-04-30 20:06 |
+| Fidelity TalentSource | Software Engineer | Smithfield, RI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5cc22367a2ce3d9f) | 2026-04-30 20:06 |
+| Waystar | Senior Site Reliability Engineer II | Louisville, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6fa53cf983e1a6d0) | 2026-04-30 20:06 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 20:06 |
+| Acrisure LLC | Senior Cloud Security Engineer | Oklahoma City, OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dea0d4b03bd0e250) | 2026-04-30 20:06 |
+| Fluke | Senior Software Engineer | Everett, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de9989cbbb09da95) | 2026-04-30 20:06 |
+| Coastal | Data Platform Architect (Snowflake) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=58854506afe876e4) | 2026-04-30 20:06 |
+| Fitch Group | Software Engineer, Identity and Access Management | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fd39762b7995bcd8) | 2026-04-30 20:06 |
+| Dun & Bradstreet | Senior Cloud Platform Engineer (R-19149) | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb41c4b9d93e0f98) | 2026-04-30 20:06 |
+| Eli Lilly | Full Stack Software Engineer | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b34891601e8f94ce) | 2026-04-30 20:06 |
+| Magnolia | Information Technology - Data Integration Engineer | Waco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=40951da6c2d8f0ad) | 2026-04-30 20:06 |
 | Leading Path Consulting | Bid Role - Data Architect (STAR 4275) | Reston, VA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=1801c08f952fa8a2) | 2026-04-30 18:05 |
 | General Motors (GM) | AV Safety Engineering Analytics AI/ML Engineer (GPSSC) | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=675259892fa0b51c) | 2026-04-30 18:05 |
 | Openkyber | Cloud Network Automation Engineer | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=0a0cf6116e02d635) | 2026-04-30 18:05 |
@@ -18,7 +46,6 @@ Last updated: 2026-04-30 18:05
 | General Motors (GM) | Software Engineer - SRE | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8df970db5b7b3a83) | 2026-04-30 18:05 |
 | General Motors (GM) | Senior Software Engineer - Commercial Software | Warren, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4ca1245fe1b2a956) | 2026-04-30 18:05 |
 | Openkyber | Machine Learning Threat Intelligence Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=36a73b40629cc484) | 2026-04-30 18:05 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 18:05 |
 | General Motors (GM) | Reliability Engineer (Autonomous Vehicles) | Sunnyvale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cf25e4c14df46394) | 2026-04-30 18:05 |
 | General Motors (GM) | Software Systems Engineer, Release Reliability & Automation (Autonomous Vehicles) | Sunnyvale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f97782145b5d3f94) | 2026-04-30 18:05 |
 | Equifax | Quality Automation Engineer (SDET) - Career | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b597edf918184e10) | 2026-04-30 18:05 |
