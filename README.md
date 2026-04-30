@@ -1,16 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-30 22:43
+Last updated: 2026-04-30 23:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JUUL Labs | Senior Site Reliability Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c63edb85327f9aef) | 2026-04-30 23:43 |
+| NavitasPartners | Java Database Developer - JDBDEV 0430 HS#02 | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=79a2a043dc5cdb8f) | 2026-04-30 23:43 |
+| NavitasPartners | Java Database Developer - JDBDEV 0430 HS#02 | Brooklyn, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e387db2c2b866baa) | 2026-04-30 23:43 |
+| NavitasPartners | Java Database Developer - JDBDEV 0430 HS#02 | Buffalo, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=18a022cbc2b4d934) | 2026-04-30 23:43 |
+| NavitasPartners | Java Database Developer - JDBDEV 0430 HS#02 | Rochester, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5cc4f959dd712f8a) | 2026-04-30 23:43 |
+| NavitasPartners | Java Database Developer - JDBDEV 0430 HS#02 | Yonkers, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=688d7763683eecad) | 2026-04-30 23:43 |
+| Logic, Inc. | Artificial Intelligence/Machine Learning Data Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e34c2e31eeb33f9e) | 2026-04-30 23:43 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-04-30 23:43 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 23:43 |
+| HerculesAI | Sr. Infrastructure & Security Engineer | Campbell, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=997e47a23e0d8261) | 2026-04-30 23:43 |
+| Visa | SW Engineer - Sr. Consultant level | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83fb65ae6e18206f) | 2026-04-30 23:43 |
+| GEICO | Senior Full Stack Engineer - .NET (HYBRID) | Smyrna, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef040d1b01903853) | 2026-04-30 23:43 |
+| GEICO | Full‑Stack Developer (Java, React, Microservices) *Hybrid* | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=229f6840535c3531) | 2026-04-30 23:43 |
+| GEICO | Full‑Stack Developer (Java, React, Microservices) *Hybrid* | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=606324c85c044a5d) | 2026-04-30 23:43 |
+| GEICO | Full‑Stack Developer (Java, React, Microservices) *Hybrid* | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f298bb4ddf8e9a0) | 2026-04-30 23:43 |
 | Allstate Insurance | Sr Data Engineer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=49b6a92728349bc5) | 2026-04-30 22:43 |
 | Allstate Insurance | Distinguished Engineer - | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=087eb595cff7bd93) | 2026-04-30 22:43 |
 | The Home Depot | Senior Machine Learning Engineer (Remote) | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fdbdb16275078800) | 2026-04-30 22:43 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-04-30 22:43 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 22:43 |
 | The Home Depot | AI/ML Developer II (Remote) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fb663396a5bc1b79) | 2026-04-30 22:43 |
 | Funding Force Ai | Data Engineer | Astoria, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=165552b234d04969) | 2026-04-30 22:43 |
 | JPMorganChase | Software Engineer III - Data, AWS, ETL, Java/Python, | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24b2eb0df8c7e284) | 2026-04-30 22:43 |
@@ -548,8 +561,6 @@ Last updated: 2026-04-30 22:43
 | Openkyber | AI Application Architect | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad31ec519f2de337) | 2026-04-27 05:17 |
 | nan | Data Engineering (Palantir, Spark, PySpark, Python)- W2 Role | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3abb73ede58520cd) | 2026-04-27 01:56 |
 | AXIOM | Platform Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab406fdc25efa811) | 2026-04-27 01:56 |
-| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d695750f2c0009c2) | 2026-04-26 23:31 |
-| Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01f0b4141850808c) | 2026-04-26 23:31 |
 
 
 ---
