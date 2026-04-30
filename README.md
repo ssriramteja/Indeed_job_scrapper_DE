@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-30 21:50
+Last updated: 2026-04-30 22:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Allstate Insurance | Sr Data Engineer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=49b6a92728349bc5) | 2026-04-30 22:43 |
+| Allstate Insurance | Distinguished Engineer - | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=087eb595cff7bd93) | 2026-04-30 22:43 |
+| The Home Depot | Senior Machine Learning Engineer (Remote) | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fdbdb16275078800) | 2026-04-30 22:43 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-04-30 22:43 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 22:43 |
+| The Home Depot | AI/ML Developer II (Remote) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fb663396a5bc1b79) | 2026-04-30 22:43 |
+| Funding Force Ai | Data Engineer | Astoria, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=165552b234d04969) | 2026-04-30 22:43 |
+| JPMorganChase | Software Engineer III - Data, AWS, ETL, Java/Python, | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24b2eb0df8c7e284) | 2026-04-30 22:43 |
+| JPMorganChase | Software Engineer III – Python/PySpark/AWS | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=991d5ceb2074b137) | 2026-04-30 22:43 |
+| JPMorganChase | PySpark Data Engineer III - Python/Java/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=926547138e49a51b) | 2026-04-30 22:43 |
+| Douglas Machine Inc. | Senior Business Intelligence Developer | Alexandria, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9d5d216fe71b48e) | 2026-04-30 22:43 |
 | Wells Fargo | Senior Software Engineer – Python / PySpark (Mainframe Modernization) (contract) | San Francisco, CA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=015fe1a494f266bf) | 2026-04-30 21:50 |
 | Tata Consultancy Services (TCS) | Technical Architect-Datawarehousing | Marlborough, MA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=10720f22d9d38621) | 2026-04-30 21:50 |
 | nan | Full Stack Data Engineer | Morrisville, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=de10d304d09880c3) | 2026-04-30 21:50 |
@@ -14,7 +25,6 @@ Last updated: 2026-04-30 21:50
 | General Motors (GM) | Senior Backend Software Engineer/SRE - GM Energy | Warren, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0413ce8de5fcca6a) | 2026-04-30 21:50 |
 | Tata Consultancy Services (TCS) | Senior Engineer - Agentic AI | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5daf8f72a4fd9ab6) | 2026-04-30 21:50 |
 | SCAN Health Plan | Full Stack, Data & Analytics Engineer | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b0db4093988ff3c) | 2026-04-30 21:50 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 21:50 |
 | Cityblock Health | Platform Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76d763c610ac1510) | 2026-04-30 21:50 |
 | General Motors (GM) | Senior Backend Software Engineer- GM Energy | Warren, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=51fb08298ca2e944) | 2026-04-30 21:50 |
 | General Motors (GM) | Senior Software Engineer – Cloud Engineering & FinOps | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d576082b1c56db5c) | 2026-04-30 21:50 |
@@ -540,7 +550,6 @@ Last updated: 2026-04-30 21:50
 | AXIOM | Platform Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab406fdc25efa811) | 2026-04-27 01:56 |
 | Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d695750f2c0009c2) | 2026-04-26 23:31 |
 | Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01f0b4141850808c) | 2026-04-26 23:31 |
-| Navteca | Senior Cloud Operations Engineer | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d8c0dbf66c41408a) | 2026-04-26 22:29 |
 
 
 ---
