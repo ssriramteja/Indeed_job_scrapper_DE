@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-29 23:45
+Last updated: 2026-04-30 02:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Chewy | Software Engineer II | Bellevue, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a0b54324d4bccebe) | 2026-04-30 02:04 |
+| Chewy | Software Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=45cec5906abac43f) | 2026-04-30 02:04 |
+| Evolus | Sr. Data Engineer | Newport Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=caa4efd9c3316730) | 2026-04-30 02:04 |
+| Kharon | Senior Data Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7c790cc82896e043) | 2026-04-30 02:04 |
+| Gerber Childrenswear, Inc | Senior Analytics Engineer | Greenville, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5ef46594bb4b76db) | 2026-04-30 02:04 |
+| buzz solutions | Applied Machine Learning Platform Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7453cbf812ce3c18) | 2026-04-30 02:04 |
+| Aires | Senior Software Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1cb4e9cb29fe1df7) | 2026-04-30 02:04 |
+| Wipro | Data Engineer | Redmond, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=93121f9bd0f39c05) | 2026-04-30 02:04 |
+| American Express | Software Engineer II, Global Servicing Technology | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4bf42c50ee97107) | 2026-04-30 02:04 |
+| Gen Digital Inc. | Senior Backend Engineer - MoneyLion | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5243fde3ff4e011) | 2026-04-30 02:04 |
+| Lancer Worldwide | Data Analyst | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=700578b94883b043) | 2026-04-30 02:04 |
 | VeeRteq Solutions Inc. | Data Engineer | Morristown, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5512aba12eaa248e) | 2026-04-29 23:45 |
 | Harley-Davidson, Inc. | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8a0e12a78fd06e23) | 2026-04-29 23:45 |
 | System Edge LLC. | Senior Python Full Stack Developer with Agentic AI | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5c635fc8d326af21) | 2026-04-29 23:45 |
@@ -524,8 +535,6 @@ Last updated: 2026-04-29 23:45
 | Deloitte | AI Engineer Senior Consultant | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1346911bb1afeece) | 2026-04-26 04:53 |
 | Deloitte | AI Engineer Senior Consultant | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=34e3b9eb79fb9e4f) | 2026-04-26 04:53 |
 | Deloitte | AI Engineer Senior Consultant | Gilbert, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5151d5e9aa17e5d5) | 2026-04-26 04:53 |
-| Sigma Computing | Senior Security Engineer II – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d25e680dbcf02691) | 2026-04-26 01:52 |
-| Sigma Computing | Technical Support Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07f643dd409c7140) | 2026-04-26 01:52 |
 
 
 ---
