@@ -1,17 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-30 10:47
+Last updated: 2026-04-30 12:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| AEM Corporation | Data Engineer (SQL, Python, Cloud) | Washington, DC, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=eb194f6feb01a9b5) | 2026-04-30 12:10 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 12:10 |
 | CVS Health | Senior Software Development Engineer | MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb97e11dedc46f7e) | 2026-04-30 10:47 |
 | RELX Group | Senior Machine Learning Engineer III ***Raleigh, NC*** | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=35085eed81ec8943) | 2026-04-30 10:47 |
 | LexisNexis Legal & Professional | Senior Machine Learning Engineer III ***Raleigh, NC*** | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=70897e01c57b5008) | 2026-04-30 10:47 |
 | Eclypsium | Sr. DevOps Engineer | Portland, OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=746eae080f33e9b0) | 2026-04-30 10:47 |
 | First Citizens Bank | Data Engineer II | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8629753fa2cdcb2f) | 2026-04-30 10:47 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 10:47 |
 | JPMorganChase | PySpark Data Engineer III - Python/Java/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=37079c463898c2dd) | 2026-04-30 10:47 |
 | HEB | Senior Software Engineer - Python - AI Platform | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a91ebd3753be4d7e) | 2026-04-30 10:47 |
 | Armor | Site Reliability Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19bc2fde31ea0812) | 2026-04-30 10:47 |
@@ -430,15 +431,6 @@ Last updated: 2026-04-30 10:47
 | Openkyber | Java Application Support Analyst | VA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=9deace07d50ab229) | 2026-04-26 17:32 |
 | Openkyber | Java Trainer / Mentor / Educator | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7fec72ec0a2829cf) | 2026-04-26 17:32 |
 | Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f4ff70697f7c7e8d) | 2026-04-26 17:32 |
-| Openkyber | Java Solution Architect | IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=869dab0c8225dd66) | 2026-04-26 11:33 |
-| Openkyber | Java Platform Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=44a6b10cd1d80de1) | 2026-04-26 11:33 |
-| Openkyber | Java Solution Architect | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e0b0bf6f67742d88) | 2026-04-26 11:33 |
-| Openkyber | Java Solution Architect | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=84bea4b7a07e62e7) | 2026-04-26 11:33 |
-| Openkyber | Java Solution Architect | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b1d1fb002ebc8873) | 2026-04-26 11:33 |
-| Openkyber | Java Solution Architect | OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a33cdbb1ad6ddbbf) | 2026-04-26 11:33 |
-| Openkyber | Java Solution Architect | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5f43c9e792ef678e) | 2026-04-26 11:33 |
-| Openkyber | Java CI/CD Automation Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=92f3943a0fdcede7) | 2026-04-26 11:33 |
-| Openkyber | Java CI/CD Automation Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6f6848655c24fa10) | 2026-04-26 11:33 |
 
 
 ---
