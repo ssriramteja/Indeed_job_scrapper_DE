@@ -1,13 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-30 12:10
+Last updated: 2026-04-30 15:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Clearwater Analytics (CWAN) | Software Development Engineer | Boise, ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3d1d7dfa9557f9a) | 2026-04-30 15:00 |
+| Vibotek LLC | Sr. Java Developers | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=061d80fcb09266da) | 2026-04-30 15:00 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 15:00 |
+| Tennessee Titans | Software Engineer | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b7b90aa43b4806b0) | 2026-04-30 15:00 |
+| Carrier | Senior Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab7c6d265d3522d2) | 2026-04-30 15:00 |
+| CHS Corporate | Clinical Data Scientist, Human Capital | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfe6028a2d83dae3) | 2026-04-30 15:00 |
 | AEM Corporation | Data Engineer (SQL, Python, Cloud) | Washington, DC, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=eb194f6feb01a9b5) | 2026-04-30 12:10 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 12:10 |
 | CVS Health | Senior Software Development Engineer | MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb97e11dedc46f7e) | 2026-04-30 10:47 |
 | RELX Group | Senior Machine Learning Engineer III ***Raleigh, NC*** | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=35085eed81ec8943) | 2026-04-30 10:47 |
 | LexisNexis Legal & Professional | Senior Machine Learning Engineer III ***Raleigh, NC*** | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=70897e01c57b5008) | 2026-04-30 10:47 |
