@@ -1,14 +1,37 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-04-30 16:23
+Last updated: 2026-04-30 18:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Leading Path Consulting | Bid Role - Data Architect (STAR 4275) | Reston, VA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=1801c08f952fa8a2) | 2026-04-30 18:05 |
+| General Motors (GM) | AV Safety Engineering Analytics AI/ML Engineer (GPSSC) | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=675259892fa0b51c) | 2026-04-30 18:05 |
+| Openkyber | Cloud Network Automation Engineer | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=0a0cf6116e02d635) | 2026-04-30 18:05 |
+| Openkyber | GenAI Threat Intelligence Analyst | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5efecdb56da9cdd1) | 2026-04-30 18:05 |
+| Openkyber | Threat Intelligence Automation Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e70923864f640df6) | 2026-04-30 18:05 |
+| General Motors (GM) | Senior Ad Ops Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3d412becc7b99de0) | 2026-04-30 18:05 |
+| General Motors (GM) | OnStar Vehicle Data System Engineer | Warren, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=23b443a7cc921497) | 2026-04-30 18:05 |
+| Openkyber | Infrastructure-as-Code (IaC) Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ca35900639cbe443) | 2026-04-30 18:05 |
+| General Motors (GM) | Software Developer - Used Car Marketplace | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d487bcb34632271a) | 2026-04-30 18:05 |
+| General Motors (GM) | Software Engineer - SRE | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8df970db5b7b3a83) | 2026-04-30 18:05 |
+| General Motors (GM) | Senior Software Engineer - Commercial Software | Warren, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4ca1245fe1b2a956) | 2026-04-30 18:05 |
+| Openkyber | Machine Learning Threat Intelligence Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=36a73b40629cc484) | 2026-04-30 18:05 |
+| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 18:05 |
+| General Motors (GM) | Reliability Engineer (Autonomous Vehicles) | Sunnyvale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cf25e4c14df46394) | 2026-04-30 18:05 |
+| General Motors (GM) | Software Systems Engineer, Release Reliability & Automation (Autonomous Vehicles) | Sunnyvale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f97782145b5d3f94) | 2026-04-30 18:05 |
+| Equifax | Quality Automation Engineer (SDET) - Career | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b597edf918184e10) | 2026-04-30 18:05 |
+| General Motors (GM) | Senior Data Engineer - GM Motorsports | Concord, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c80625f8482f70fb) | 2026-04-30 18:05 |
+| Openkyber | Machine Learning Threat Intelligence Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cdf78475cc5cb677) | 2026-04-30 18:05 |
+| GM Financial | Software Development Engineer III | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1f950bd314b17c8f) | 2026-04-30 18:05 |
+| General Motors (GM) | AV Safety Engineering Analytics Simulation Engineer (GPSSC) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=759f2d176cc08b7e) | 2026-04-30 18:05 |
+| SEI Investments | Senior Software Engineer | Oaks, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76c94610856b0496) | 2026-04-30 18:05 |
+| General Motors (GM) | Senior Software Engineer - GM Motorsports | Concord, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f660072154c9a61) | 2026-04-30 18:05 |
+| Magnolia | Information Technology - Data Integration Engineer | Waco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22a077ceb692752f) | 2026-04-30 18:05 |
+| General Motors (GM) | AV Safety Engineering Analytics Engineer (GPSSC) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac2326d031282c1e) | 2026-04-30 18:05 |
 | Texas Capital Bank | Platform Engineer Senior | Richardson, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=09ac756571edd2b5) | 2026-04-30 16:23 |
 | Start Tek Pro | Data Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f5fc1df6a4b1ab2) | 2026-04-30 16:23 |
-| Ford Motor Company | Software Development Engineer | Allen Park, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9607f88f3f9962f3) | 2026-04-30 16:23 |
 | Equifax | Software Engineer - Intermediate | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad45ab734c8ec6fe) | 2026-04-30 16:23 |
 | Clearwater Analytics (CWAN) | Software Development Engineer | Boise, ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3d1d7dfa9557f9a) | 2026-04-30 15:00 |
 | Vibotek LLC | Sr. Java Developers | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=061d80fcb09266da) | 2026-04-30 15:00 |
@@ -436,9 +459,6 @@ Last updated: 2026-04-30 16:23
 | Openkyber | AI Integration Engineer (Java + AI) | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01f0b4141850808c) | 2026-04-26 23:31 |
 | Navteca | Senior Cloud Operations Engineer | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d8c0dbf66c41408a) | 2026-04-26 22:29 |
 | Compass Group USA | SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b9ca9d67a5eb74a0) | 2026-04-26 20:29 |
-| Openkyber | Java Application Support Analyst | VA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=9deace07d50ab229) | 2026-04-26 17:32 |
-| Openkyber | Java Trainer / Mentor / Educator | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7fec72ec0a2829cf) | 2026-04-26 17:32 |
-| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f4ff70697f7c7e8d) | 2026-04-26 17:32 |
 
 
 ---
