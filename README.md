@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-01 15:48
+Last updated: 2026-05-01 16:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 16:45 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-01 16:45 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 16:45 |
+| Global Information Technology | Infrastructure Solutions Architect | Lansing, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94bea5b95ba94e24) | 2026-05-01 16:45 |
 | Sign In Solutions | SRE/Engineer | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=78107cea029977e8) | 2026-05-01 15:48 |
-| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 15:48 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-01 15:48 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 15:48 |
 | Openly | Senior Backend Engineer (Remote, US) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2353cb4c2ecb06b9) | 2026-05-01 15:48 |
 | Axis Residential | Analytics Engineer | Spokane, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7970a51178c2d8ba) | 2026-05-01 15:48 |
 | Neomax | Data Architect | Chantilly, VA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=776692a890b58814) | 2026-05-01 14:19 |
@@ -630,10 +631,6 @@ Last updated: 2026-05-01 15:48
 | Openkyber | Java QA Automation Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8bd189429512e52f) | 2026-04-27 18:00 |
 | Openkyber | Cloud Identity Architect | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03a07e922d166cc3) | 2026-04-27 18:00 |
 | L&T Technology Services Ltd. | Software Developer | Novi, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b8bace0705a89432) | 2026-04-27 18:00 |
-| HAVI | Solution Architect | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6868b35e2b442275) | 2026-04-27 16:26 |
-| HAVI Logistics GmbH | Solution Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6afcd0c46d1aac2f) | 2026-04-27 16:26 |
-| nan | Data Infrastructure Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e146f6b8fe54d046) | 2026-04-27 16:26 |
-| nan | Senior Cloud Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=377a8106189cff56) | 2026-04-27 16:26 |
 
 
 ---
