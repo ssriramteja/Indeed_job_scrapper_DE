@@ -1,15 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-01 10:17
+Last updated: 2026-05-01 11:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Junior Cloud Security Analyst | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=85598b1d63680693) | 2026-05-01 11:52 |
+| Openkyber | Java Compliance & Governance Developer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8078bc6f1fdb2e7b) | 2026-05-01 11:52 |
+| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 11:52 |
+| Openkyber | Java Cloud-Native Developer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b7fe4ad94b5b821d) | 2026-05-01 11:52 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 11:52 |
+| Openkyber | Multi-Cloud Networking Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5089f26e49e819d7) | 2026-05-01 11:52 |
 | WEX Inc. | Senior Software Engineer (C#/.NET & AI) | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=93c21b258a08bd24) | 2026-05-01 10:17 |
-| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 10:17 |
 | Client Resources, Inc. | Sr Data Engineer | Omaha, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1e155aced1efdff) | 2026-05-01 10:17 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 10:17 |
 | Client Resources, Inc. | DNP Software Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95f2f4f81bc33a7a) | 2026-05-01 10:17 |
 | Mutual of Omaha | Data Engineer (Snowflake, Teradata, DB2) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa9d2ce9f1b5528c) | 2026-05-01 10:17 |
 | Wells Fargo | Senior Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f72c641c65b5a61) | 2026-05-01 10:17 |
