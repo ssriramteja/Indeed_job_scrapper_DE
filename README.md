@@ -1,17 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-01 08:17
+Last updated: 2026-05-01 10:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| WEX Inc. | Senior Software Engineer (C#/.NET & AI) | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=93c21b258a08bd24) | 2026-05-01 10:17 |
+| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 10:17 |
+| Client Resources, Inc. | Sr Data Engineer | Omaha, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1e155aced1efdff) | 2026-05-01 10:17 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 10:17 |
+| Client Resources, Inc. | DNP Software Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95f2f4f81bc33a7a) | 2026-05-01 10:17 |
+| Mutual of Omaha | Data Engineer (Snowflake, Teradata, DB2) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa9d2ce9f1b5528c) | 2026-05-01 10:17 |
+| Wells Fargo | Senior Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f72c641c65b5a61) | 2026-05-01 10:17 |
 | EY | Data Architecture & Engineering - Senior - Financial Services - Consulting - NYC | New York, NY, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=f739fe0e3b71b0c3) | 2026-05-01 08:17 |
 | EY | Cons - TC - AI and Data - Enterp Data - Data Eng and Arch - Data Eng - Mgr - MP - 1688246 | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=44bbdbe739d23ea2) | 2026-05-01 08:17 |
 | EY | AI Developer - Senior - A&I - Financial Services - Consulting - NYC, Charlotte, Dallas | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3b189ba2f7b20d0b) | 2026-05-01 08:17 |
-| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 08:17 |
 | Mars Technominds | Business Intelligence Solutions Architect | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=38246f1a187f1c7d) | 2026-05-01 08:17 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 08:17 |
 | American Express | Software Engineer II, Global Servicing Technology | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c5c9f5bf8d54b87) | 2026-05-01 08:17 |
 | EY | FSO LABS - AI Developer Senior - Bay Area | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d75a18fe3bc2126) | 2026-05-01 08:17 |
 | EY | Databricks Data Engineer - Senior - Consulting - Location Open | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=599253e2d33dc75f) | 2026-05-01 08:17 |
