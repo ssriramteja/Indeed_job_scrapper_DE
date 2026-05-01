@@ -1,16 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-01 11:52
+Last updated: 2026-05-01 12:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| American Express | Data Engineer II _ Big Data, GCP _EDAI | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d725c4b26e048534) | 2026-05-01 12:57 |
+| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 12:57 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 12:57 |
 | Openkyber | Junior Cloud Security Analyst | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=85598b1d63680693) | 2026-05-01 11:52 |
 | Openkyber | Java Compliance & Governance Developer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8078bc6f1fdb2e7b) | 2026-05-01 11:52 |
-| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 11:52 |
 | Openkyber | Java Cloud-Native Developer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b7fe4ad94b5b821d) | 2026-05-01 11:52 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 11:52 |
 | Openkyber | Multi-Cloud Networking Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5089f26e49e819d7) | 2026-05-01 11:52 |
 | WEX Inc. | Senior Software Engineer (C#/.NET & AI) | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=93c21b258a08bd24) | 2026-05-01 10:17 |
 | Client Resources, Inc. | Sr Data Engineer | Omaha, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1e155aced1efdff) | 2026-05-01 10:17 |
@@ -631,16 +632,6 @@ Last updated: 2026-05-01 11:52
 | WinWire | Technical Architect - Data & Analytics | Newport Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=668b3d9240bad8b3) | 2026-04-27 14:59 |
 | Eurest | SENIOR POWER BI DEVELOPER (HYBRID - REDMOND, WA) | Redmond, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=89664cddc02e354c) | 2026-04-27 14:59 |
 | NFI Industries | IT Business Analyst II | Camden, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b12be44615688132) | 2026-04-27 14:59 |
-| Openkyber | AWS API Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dcce665f3a3b0fee) | 2026-04-27 12:16 |
-| Openkyber | Cloud Identity Architect | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a0719fad36e544cf) | 2026-04-27 12:16 |
-| Fidelity Investments | Senior Software Engineer - Python APIs | Westlake, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0f063f9c882ccc12) | 2026-04-27 12:16 |
-| Fidelity Investments | Senior Software Engineer - Python APIs | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a00e6d7208f216f0) | 2026-04-27 12:16 |
-| Wells Fargo | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=37db4c0b07afe64d) | 2026-04-27 12:16 |
-| Openkyber | Identity AI / ML Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4d3c4afd567d4dc) | 2026-04-27 12:16 |
-| Fidelity Investments | Senior Cloud Database Engineer | Smithfield, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dff9fd964893cca2) | 2026-04-27 12:16 |
-| Fidelity Investments | Senior Cloud Database Engineer | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd0834fa2eafaef3) | 2026-04-27 12:16 |
-| Fidelity Investments | Senior Cloud Database Engineer | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46aa6a7b0ccb9c57) | 2026-04-27 12:16 |
-| Openkyber | AWS API Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5edebdec5daaa4e1) | 2026-04-27 12:16 |
 
 
 ---
