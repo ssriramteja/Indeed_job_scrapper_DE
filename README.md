@@ -1,21 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-01 06:00
+Last updated: 2026-05-01 08:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EY | Data Architecture & Engineering - Senior - Financial Services - Consulting - NYC | New York, NY, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=f739fe0e3b71b0c3) | 2026-05-01 08:17 |
+| EY | Cons - TC - AI and Data - Enterp Data - Data Eng and Arch - Data Eng - Mgr - MP - 1688246 | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=44bbdbe739d23ea2) | 2026-05-01 08:17 |
+| EY | AI Developer - Senior - A&I - Financial Services - Consulting - NYC, Charlotte, Dallas | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3b189ba2f7b20d0b) | 2026-05-01 08:17 |
+| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 08:17 |
+| Mars Technominds | Business Intelligence Solutions Architect | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=38246f1a187f1c7d) | 2026-05-01 08:17 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 08:17 |
+| American Express | Software Engineer II, Global Servicing Technology | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c5c9f5bf8d54b87) | 2026-05-01 08:17 |
+| EY | FSO LABS - AI Developer Senior - Bay Area | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d75a18fe3bc2126) | 2026-05-01 08:17 |
+| EY | Databricks Data Engineer - Senior - Consulting - Location Open | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=599253e2d33dc75f) | 2026-05-01 08:17 |
+| ObjectStream | Sr. Data Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06e3854d22cdba89) | 2026-05-01 08:17 |
 | Vibrant Emotional Health | Cloud Engineer II | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3ba39b2a6826c32d) | 2026-05-01 06:00 |
 | Tata Consultancy Services (TCS) | Senior Engineer - AI & Data Management | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0f98760c842e5085) | 2026-05-01 06:00 |
 | Trane Technologies | Senior Data Engineer | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f483db2edc8cb83a) | 2026-05-01 06:00 |
-| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 06:00 |
 | SkyWater Technology Foundry | Senior Dev Ops Engineer | Bloomington, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=13bfee40249f3478) | 2026-05-01 06:00 |
 | JCA Surety Group | Power Automate Engineer | Orlando, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebd1ccebdb7a4ed2) | 2026-05-01 06:00 |
 | Briljent | Quality Assurance Analyst / ETL Tester | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d69b1256484e3a82) | 2026-05-01 06:00 |
 | Accenture | Artificial Intelligence/Machine Learning Data Engineer | Morristown, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8f6f11467cb82584) | 2026-05-01 06:00 |
 | Accenture | Artificial Intelligence/Machine Learning Data Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c9ce81a6707266dd) | 2026-05-01 06:00 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 06:00 |
 | Deloitte | AI Engineer Consultant | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76b52e35f38bdeca) | 2026-05-01 06:00 |
 | Deloitte | AI Engineer Senior Consultant | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2eeb9a92ff909033) | 2026-05-01 06:00 |
 | Deloitte | AI Engineer Senior Consultant | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1c1b56e7aa8c4561) | 2026-05-01 06:00 |
