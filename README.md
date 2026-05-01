@@ -1,20 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-01 18:59
+Last updated: 2026-05-01 20:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 20:04 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-01 20:04 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 20:04 |
+| Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3d15713be3da1af) | 2026-05-01 20:04 |
+| Ford Motor Company | Senior Full Stack Software Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ccb9cb736f9f8e0) | 2026-05-01 20:04 |
 | Linstarsolution corporation | Senior DevOps Engineer | Ridgefield Park, NJ, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3825710140df8183) | 2026-05-01 18:59 |
-| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 18:59 |
 | Tyler Technologies | CloudOps Engineer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=861e821c88461e16) | 2026-05-01 18:59 |
 | Tyler Technologies | CloudOps Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=61fe23b5a013d06d) | 2026-05-01 18:59 |
 | Tyler Technologies | CloudOps Engineer | Lakewood, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0590d6bb95b36919) | 2026-05-01 18:59 |
 | Tyler Technologies | CloudOps Engineer | Yarmouth, ME, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e9c7752d42fa52c7) | 2026-05-01 18:59 |
 | MITSUBISHI ELECTRIC ICONICS DIGITAL SOLUTIONS | Cloud Operations Engineer | Cambridge, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=67d1ed48d145a4f1) | 2026-05-01 18:59 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-01 18:59 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 18:59 |
 | Ataccama | Professional Services Consultant | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e7e7f81d2e0f0ce3) | 2026-05-01 18:59 |
 | UniFirst | MuleSoft QA Engineer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a8b7edc3d29ab01) | 2026-05-01 18:59 |
 | UniFirst | MuleSoft Developer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c7c89957751c232) | 2026-05-01 18:59 |
@@ -616,21 +618,6 @@ Last updated: 2026-05-01 18:59
 | Citrin Cooperman | Data Analytics and AI Senior Consultant | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=619ef2ef0698f1fd) | 2026-04-27 20:53 |
 | Citrin Cooperman | Data Analytics and AI Senior Consultant | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16af3b0c4f8842cc) | 2026-04-27 20:53 |
 | Truist | Data Scientist III- Human Capital Data and Analytics Enablement | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6941160617103aa0) | 2026-04-27 20:53 |
-| Qode | Senior Software Developer | Fort Mill, SC, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=0e7c40f9e99ad12f) | 2026-04-27 19:40 |
-| Quilt | Senior Data Engineer | Provo, UT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2f1b4cd21f275b79) | 2026-04-27 19:40 |
-| Care.org | DATA SOLUTION ARCHITECT | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2846f65aa9294d0e) | 2026-04-27 19:40 |
-| Claritev | Data Engineer (remote) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=de8ee6455a8ca514) | 2026-04-27 19:40 |
-| AlayaCare | Senior Integration Developer | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e35070e714f42f3c) | 2026-04-27 19:40 |
-| AlayaCare | Senior Integration Developer | Pittsburgh, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=47a751a18a865523) | 2026-04-27 19:40 |
-| AlayaCare | Senior Integration Developer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a5b72f3e295f2b38) | 2026-04-27 19:40 |
-| Claritev | Data Engineer (remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60d533f19b4463da) | 2026-04-27 19:40 |
-| Claritev | Data Engineer (remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa65c57599624378) | 2026-04-27 19:40 |
-| Claritev | Data Engineer (remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9230bee4c19c2afb) | 2026-04-27 19:40 |
-| Innovien Solutions | Data Engineer | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19b0604cffe8cf9d) | 2026-04-27 19:40 |
-| Claritev | Data Engineer (remote) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c836f48c3d814cb7) | 2026-04-27 19:40 |
-| Cellular Sales, Verizon Authorized Retailer | Solutions Engineer | Knoxville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9313901bc5ac9da) | 2026-04-27 19:40 |
-| Impact.Com | Sr. Data Scientist, Programmatic Algorithms | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e86578384aa4b6f) | 2026-04-27 19:40 |
-| Impact.Com | Sr. Data Scientist, Programmatic Algorithms | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0db61ba5b16e71bf) | 2026-04-27 19:40 |
 
 
 ---
