@@ -1,19 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-01 14:19
+Last updated: 2026-05-01 15:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sign In Solutions | SRE/Engineer | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=78107cea029977e8) | 2026-05-01 15:48 |
+| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 15:48 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-01 15:48 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 15:48 |
+| Openly | Senior Backend Engineer (Remote, US) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2353cb4c2ecb06b9) | 2026-05-01 15:48 |
+| Axis Residential | Analytics Engineer | Spokane, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7970a51178c2d8ba) | 2026-05-01 15:48 |
 | Neomax | Data Architect | Chantilly, VA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=776692a890b58814) | 2026-05-01 14:19 |
 | SRR Consultants | Business System Analyst with Property and Casualty Domain | Glen Allen, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7446cde797c8f4de) | 2026-05-01 14:19 |
 | Matillion | Solution Architect | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=95bbbaf8fbe8db68) | 2026-05-01 14:19 |
 | Matillion | Solution Architect | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2c7ffe9dfedc9c5d) | 2026-05-01 14:19 |
-| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 14:19 |
 | SRR Consultants | Senior Oracle Financials Functional Consultant | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b7d13b47b7b7c8a2) | 2026-05-01 14:19 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-01 14:19 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 14:19 |
 | nan | Software Engineer II | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1869e5a8847d426e) | 2026-05-01 14:19 |
 | Opeeka, Inc. | SR DBA / DATABASE ARCHITECT (AZURE / MSSQL) | Folsom, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d57af04f58fc4f3b) | 2026-05-01 14:19 |
 | American Express | Data Engineer II _ Big Data, GCP _EDAI | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d725c4b26e048534) | 2026-05-01 12:57 |
@@ -631,15 +634,6 @@ Last updated: 2026-05-01 14:19
 | HAVI Logistics GmbH | Solution Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6afcd0c46d1aac2f) | 2026-04-27 16:26 |
 | nan | Data Infrastructure Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e146f6b8fe54d046) | 2026-04-27 16:26 |
 | nan | Senior Cloud Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=377a8106189cff56) | 2026-04-27 16:26 |
-| Carrier | AI & Data Solution Architect | GA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=2b75279cc7e23ce8) | 2026-04-27 14:59 |
-| MAERSK | Senior Software Engineer - Java | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2a42ffff2f95ecf4) | 2026-04-27 14:59 |
-| MAERSK | Senior Software Engineer (Hybrid) | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=83247939112593c0) | 2026-04-27 14:59 |
-| American Express | Data Engineers | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7fb86d071d17aa3e) | 2026-04-27 14:59 |
-| Humana | Senior Data Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ba4f4cd3ad0ce6f5) | 2026-04-27 14:59 |
-| Humana | Senior Data Engineer | Louisville, KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f06821a24e8c6950) | 2026-04-27 14:59 |
-| WinWire | Technical Architect - Data & Analytics | Newport Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=668b3d9240bad8b3) | 2026-04-27 14:59 |
-| Eurest | SENIOR POWER BI DEVELOPER (HYBRID - REDMOND, WA) | Redmond, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=89664cddc02e354c) | 2026-04-27 14:59 |
-| NFI Industries | IT Business Analyst II | Camden, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b12be44615688132) | 2026-04-27 14:59 |
 
 
 ---
