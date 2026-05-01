@@ -1,14 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-01 21:44
+Last updated: 2026-05-01 22:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Snowflake | Senior Professional Services Sales Solutions Architect | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=aad68ba091ed0805) | 2026-05-01 22:41 |
+| innoVet Health, LLC | Dev Ops Data Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4d7bdd0c563a121a) | 2026-05-01 22:41 |
+| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 22:41 |
+| PTI | Full-Stack Software Engineer (On-Site) | Mesa, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=959a027d133a3e5f) | 2026-05-01 22:41 |
+| MITRE | DevOps/AI Engineer | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8dd360cfdc686b9a) | 2026-05-01 22:41 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-01 22:41 |
+| Uniphore | Senior Software Engineer — Data Platform & MAI | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0ad11f3ec32fe272) | 2026-05-01 22:41 |
+| FirstNet Global | Snowflake/Tableau Developer / Dallas Texas | Napa, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6515eadf095c7486) | 2026-05-01 22:41 |
+| Stellantis | Solution Architect | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=62599143d69ab642) | 2026-05-01 22:41 |
 | American Airlines | Sr Associate Engineer/ Engineer, IT Data | Fort Worth, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9512ecb083976839) | 2026-05-01 21:44 |
 | Topgolf | Data Engineer II | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5bd117f5a8f07cd9) | 2026-05-01 21:44 |
-| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 21:44 |
 | Tata Consultancy Services (TCS) | Engineer | Addison, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1b74032a04cfaa28) | 2026-05-01 21:44 |
 | ConocoPhillips | IT Full Stack Developer, Commercial | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b4afc29839d7e8be) | 2026-05-01 21:44 |
 | Rewards Network | Senior Data Scientist-Data & Personalization Platform (Hybrid) | City of Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4582e40d2734ff3) | 2026-05-01 21:44 |
@@ -16,15 +24,12 @@ Last updated: 2026-05-01 21:44
 | Rewards Network | Senior Data Scientist-Intelligent Assignment Engine (Hybrid) | City of Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e0c5d2be8683ada1) | 2026-05-01 21:44 |
 | FuelCloud | Junior AWS Cloud Engineer | Hillsboro, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05b0071381abb003) | 2026-05-01 21:44 |
 | Millennium Management | Full Stack Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3c8001067fa855e4) | 2026-05-01 21:44 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-01 21:44 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 21:44 |
 | Qualcomm | #Software Engineer – Senior Engineer | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d197023697dc7b83) | 2026-05-01 21:44 |
 | Cengage | AI/ML Engineer - Work | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e76fea76e5582b6f) | 2026-05-01 21:44 |
 | Charles Schwab | Sr SDET - Workplace Services Engineering | Southlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c8b2a5bb6a25233) | 2026-05-01 21:44 |
 | Stellantis | Solution Architect | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9715b780e8194a46) | 2026-05-01 21:44 |
 | Qualcomm | #Software Engineer – Engineer | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=65ee9e3af0d95deb) | 2026-05-01 21:44 |
 | Cengage | AI Automation Engineer, Finance & Accounting | IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6fc4b4b5640d9b20) | 2026-05-01 21:44 |
-| Ford Motor Company | Senior Full Stack Software Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ccb9cb736f9f8e0) | 2026-05-01 21:44 |
 | Visa | Sr. Data Engineer | Foster City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e151f8f8376a065d) | 2026-05-01 21:44 |
 | Southwest Airlines | Software Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=042c9624648e5202) | 2026-05-01 21:44 |
 | Dragonfli Group LLC | Senior DevSecOps Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c0e0643fbf1288ad) | 2026-05-01 21:44 |
@@ -606,26 +611,6 @@ Last updated: 2026-05-01 21:44
 | Total Quality Logistics (TQL) | AI Architect | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b999917838878a9) | 2026-04-27 23:44 |
 | Total Quality Logistics (TQL) | AI Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d71435c6a86e8b64) | 2026-04-27 23:44 |
 | S.S. White Technologies | Software Developer | Saint Petersburg, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dc670920196ab795) | 2026-04-27 23:44 |
-| GEICO | Senior Engineer - Data | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e96d0ff5e851a0dc) | 2026-04-27 22:41 |
-| Versant | Sr. Data Engineer | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f536b07e93637686) | 2026-04-27 22:41 |
-| Career Mentors | Founding Engineers | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=004a99e42e1b83ba) | 2026-04-27 22:41 |
-| Career Mentors | Founding Engineers | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9cbf54fc5208e3a3) | 2026-04-27 22:41 |
-| Career Mentors | Founding Engineers | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3753908732fe77ab) | 2026-04-27 22:41 |
-| Career Mentors | Founding Engineers | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e30f253b6a8acf18) | 2026-04-27 22:41 |
-| Career Mentors | Founding Engineers | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=20194c0f45aa2c81) | 2026-04-27 22:41 |
-| New Relic | Implementation Consultant - Solutions Architect | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=73dc903c92ca8eb2) | 2026-04-27 22:41 |
-| McKesson | Software Automation Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a349add3612b491c) | 2026-04-27 22:41 |
-| NTT DATA | Software Engineer - Document Generation | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9c88ef97204165d) | 2026-04-27 22:41 |
-| Unacast | Software Engineer - Core Platform | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=868f8c4ef1ebde56) | 2026-04-27 22:41 |
-| Airbyte | Customer Support Developer | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ab2390ad9f6c9780) | 2026-04-27 21:47 |
-| Equifax | Software Engineer - Specialist | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=936f1055bc6513a5) | 2026-04-27 21:47 |
-| Kharon | Senior Software Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=429c2128943540c2) | 2026-04-27 21:47 |
-| Easterseals Southern California | Data Engineer | Irvine, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2241b1872054f42d) | 2026-04-27 21:47 |
-| Equifax | Software Engineer - Intermediate | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=00328cd20addd95f) | 2026-04-27 21:47 |
-| Equifax | Software Engineer - Intermediate | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1563bdd8162e56a) | 2026-04-27 21:47 |
-| Placer.ai | Production Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad1335920bcdcf1c) | 2026-04-27 21:47 |
-| Sherwin-Williams | Senior Digital Analytics Engineer - Customer Experience | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=724311be6474c008) | 2026-04-27 21:47 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8aca26123e673da7) | 2026-04-27 21:47 |
 
 
 ---
