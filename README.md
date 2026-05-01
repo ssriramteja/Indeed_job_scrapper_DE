@@ -1,14 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-01 12:57
+Last updated: 2026-05-01 14:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Neomax | Data Architect | Chantilly, VA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=776692a890b58814) | 2026-05-01 14:19 |
+| SRR Consultants | Business System Analyst with Property and Casualty Domain | Glen Allen, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7446cde797c8f4de) | 2026-05-01 14:19 |
+| Matillion | Solution Architect | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=95bbbaf8fbe8db68) | 2026-05-01 14:19 |
+| Matillion | Solution Architect | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2c7ffe9dfedc9c5d) | 2026-05-01 14:19 |
+| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 14:19 |
+| SRR Consultants | Senior Oracle Financials Functional Consultant | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b7d13b47b7b7c8a2) | 2026-05-01 14:19 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-01 14:19 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 14:19 |
+| nan | Software Engineer II | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1869e5a8847d426e) | 2026-05-01 14:19 |
+| Opeeka, Inc. | SR DBA / DATABASE ARCHITECT (AZURE / MSSQL) | Folsom, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d57af04f58fc4f3b) | 2026-05-01 14:19 |
 | American Express | Data Engineer II _ Big Data, GCP _EDAI | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d725c4b26e048534) | 2026-05-01 12:57 |
-| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 12:57 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 12:57 |
 | Openkyber | Junior Cloud Security Analyst | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=85598b1d63680693) | 2026-05-01 11:52 |
 | Openkyber | Java Compliance & Governance Developer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8078bc6f1fdb2e7b) | 2026-05-01 11:52 |
 | Openkyber | Java Cloud-Native Developer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b7fe4ad94b5b821d) | 2026-05-01 11:52 |
