@@ -1,17 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-01 22:41
+Last updated: 2026-05-01 23:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Clearway Energy | Senior Data Engineer, Solutions Architecture | San Francisco, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3112f4731f8647ad) | 2026-05-01 23:43 |
+| Clearway Energy | Senior Data Engineer, Solutions Architecture | San Diego, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bb476f597eb7b458) | 2026-05-01 23:43 |
+| Clearway Energy | Senior Data Engineer, Solutions Architecture | Scottsdale, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d082d61c4f4a5b69) | 2026-05-01 23:43 |
+| Alignment Healthcare | Senior Data Engineer | Orange, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b4cf4da858734131) | 2026-05-01 23:43 |
+| Paramount | Senior Applied AI Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f086cee5e98c30b6) | 2026-05-01 23:43 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-01 23:43 |
 | Snowflake | Senior Professional Services Sales Solutions Architect | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=aad68ba091ed0805) | 2026-05-01 22:41 |
 | innoVet Health, LLC | Dev Ops Data Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4d7bdd0c563a121a) | 2026-05-01 22:41 |
-| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 22:41 |
 | PTI | Full-Stack Software Engineer (On-Site) | Mesa, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=959a027d133a3e5f) | 2026-05-01 22:41 |
 | MITRE | DevOps/AI Engineer | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8dd360cfdc686b9a) | 2026-05-01 22:41 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-01 22:41 |
 | Uniphore | Senior Software Engineer — Data Platform & MAI | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0ad11f3ec32fe272) | 2026-05-01 22:41 |
 | FirstNet Global | Snowflake/Tableau Developer / Dallas Texas | Napa, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6515eadf095c7486) | 2026-05-01 22:41 |
 | Stellantis | Solution Architect | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=62599143d69ab642) | 2026-05-01 22:41 |
