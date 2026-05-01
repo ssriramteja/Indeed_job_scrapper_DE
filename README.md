@@ -1,21 +1,39 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-01 02:08
+Last updated: 2026-05-01 06:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Vibrant Emotional Health | Cloud Engineer II | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3ba39b2a6826c32d) | 2026-05-01 06:00 |
+| Tata Consultancy Services (TCS) | Senior Engineer - AI & Data Management | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0f98760c842e5085) | 2026-05-01 06:00 |
+| Trane Technologies | Senior Data Engineer | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f483db2edc8cb83a) | 2026-05-01 06:00 |
+| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 06:00 |
+| SkyWater Technology Foundry | Senior Dev Ops Engineer | Bloomington, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=13bfee40249f3478) | 2026-05-01 06:00 |
+| JCA Surety Group | Power Automate Engineer | Orlando, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebd1ccebdb7a4ed2) | 2026-05-01 06:00 |
+| Briljent | Quality Assurance Analyst / ETL Tester | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d69b1256484e3a82) | 2026-05-01 06:00 |
+| Accenture | Artificial Intelligence/Machine Learning Data Engineer | Morristown, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8f6f11467cb82584) | 2026-05-01 06:00 |
+| Accenture | Artificial Intelligence/Machine Learning Data Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c9ce81a6707266dd) | 2026-05-01 06:00 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 06:00 |
+| Deloitte | AI Engineer Consultant | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76b52e35f38bdeca) | 2026-05-01 06:00 |
+| Deloitte | AI Engineer Senior Consultant | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2eeb9a92ff909033) | 2026-05-01 06:00 |
+| Deloitte | AI Engineer Senior Consultant | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1c1b56e7aa8c4561) | 2026-05-01 06:00 |
+| Deloitte | AI Engineer Senior Consultant | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e9f259bbce0ce033) | 2026-05-01 06:00 |
+| Deloitte | AI Engineer Senior Consultant | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=143101384ee45578) | 2026-05-01 06:00 |
+| GEICO | Senior Software Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=983d0a4b6df6a34b) | 2026-05-01 06:00 |
+| GEICO | Senior Software Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e39cfd742ca8ccb7) | 2026-05-01 06:00 |
+| GEICO | Senior Software Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d24b9bb7d3f81d1) | 2026-05-01 06:00 |
+| GEICO | Senior Software Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=406f01e6594b2624) | 2026-05-01 06:00 |
+| GEICO | Senior Software Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0206f3baae13d0ec) | 2026-05-01 06:00 |
 | American Express | Sr Software Engineer II - Enterprise Architecture | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f6bd0f139eec27a7) | 2026-05-01 02:08 |
 | SunStone Consulting | Azure Data & Development Architect | Harrisburg, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1e9052cac6c7210d) | 2026-05-01 02:08 |
 | ABCorp NA Inc. | Senior Data Engineer | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1e06fd43e0f99777) | 2026-05-01 02:08 |
-| FIS | Software Engineer Seniors – Cloud Technologies \| Fintech \| Full Stack | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d35fe7a7c554f8b5) | 2026-05-01 02:08 |
 | Suffolk Construction | Site AI Engineer | Temple, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b9df42fb6f0e5b92) | 2026-05-01 02:08 |
 | ITC Federal | AI/ML Engineer – Data & Full-Stack Solutions | Fairfax, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce30a23eaa64abcd) | 2026-05-01 02:08 |
 | Waystar | Senior SRE | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=992bf08b9bf1cd4c) | 2026-05-01 02:08 |
 | GM Financial | Software Development Engineer II | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c0d2f3586b2ed198) | 2026-05-01 02:08 |
 | Kretek International | Systems & Cloud Infrastructure Engineer | Moorpark, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7d7d86c5d6aef50) | 2026-05-01 02:08 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57b0af5961338ef2) | 2026-05-01 02:08 |
 | Hightower Advisors | Senior Data Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bee78aad0ae84553) | 2026-05-01 02:08 |
 | Accompany Health | Senior Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f41df6bde69aeb07) | 2026-05-01 02:08 |
 | DriveTime Automotive Group | Senior Data Engineer | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d33e81401b69b22c) | 2026-05-01 02:08 |
@@ -606,9 +624,6 @@ Last updated: 2026-05-01 02:08
 | Fidelity Investments | Senior Cloud Database Engineer | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd0834fa2eafaef3) | 2026-04-27 12:16 |
 | Fidelity Investments | Senior Cloud Database Engineer | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46aa6a7b0ccb9c57) | 2026-04-27 12:16 |
 | Openkyber | AWS API Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5edebdec5daaa4e1) | 2026-04-27 12:16 |
-| Openkyber | Java Trainer / Mentor / Educator | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1b0b3232c657b0b6) | 2026-04-27 05:17 |
-| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9588dfdbeb5d98ef) | 2026-04-27 05:17 |
-| Openkyber | AI Application Architect | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad31ec519f2de337) | 2026-04-27 05:17 |
 
 
 ---
