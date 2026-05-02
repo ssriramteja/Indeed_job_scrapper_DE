@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-02
 
-**Total Jobs Found:** 93
+**Total Jobs Found:** 92
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -214,18 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Senior Data Engineer @ Alignment Healthcare
-**Match Score:** 13.9%
-
-📍 **Location:** Orange, CA, US USA
-
-🔑 **Keywords:** AWS, Redshift, S3, Azure, Data Factory, GCP, Hadoop, Hive, HBase, Spark
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b4cf4da858734131)
-
----
-
-## 21. Cloud AI Application Administrator @ Openkyber
+## 20. Cloud AI Application Administrator @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** AK, US USA
@@ -236,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Data Platform Engineer @ RHP Properties
+## 21. Data Platform Engineer @ RHP Properties
 **Match Score:** 13.9%
 
 📍 **Location:** Farmington Hills, MI, US USA
@@ -247,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Associate Data & Analytics Engineer @ Clinical Care Options LLC
+## 22. Associate Data & Analytics Engineer @ Clinical Care Options LLC
 **Match Score:** 13.9%
 
 📍 **Location:** US USA
@@ -255,6 +244,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Databricks, Medallion Architecture, GCP, Spark, PySpark, Scala, Data Modeling
 
 [Apply Here](https://www.indeed.com/viewjob?jk=13564543da011952)
+
+---
+
+## 23. Senior Data Engineer @ Alignment Healthcare
+**Match Score:** 13.9%
+
+📍 **Location:** Orange, CA, US USA
+
+🔑 **Keywords:** AWS, Redshift, S3, Azure, Data Factory, GCP, Hadoop, Hive, HBase, Spark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b4cf4da858734131)
 
 ---
 
@@ -764,18 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Full Stack Data Engineer @ Millennium Management
-**Match Score:** 11.8%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, Snowflake, NoSQL, ELT, dbt, CI/CD, Jenkins, GitHub Actions
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3c8001067fa855e4)
-
----
-
-## 71. Senior Software Engineer — Data Platform & MAI @ Uniphore
+## 70. Senior Software Engineer — Data Platform & MAI @ Uniphore
 **Match Score:** 11.8%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -786,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. AI Application Architect @ Openkyber
+## 71. AI Application Architect @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -797,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Senior Data Engineer @ Dr. Berg Nutritionals
+## 72. Senior Data Engineer @ Dr. Berg Nutritionals
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -808,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Core Developer, Full Stack @ RS21: A Data Science and Visualization Company
+## 73. Core Developer, Full Stack @ RS21: A Data Science and Visualization Company
 **Match Score:** 11.8%
 
 📍 **Location:** Albuquerque, NM, US USA
@@ -819,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. #Software Engineer – Senior Engineer @ Qualcomm
+## 74. #Software Engineer – Senior Engineer @ Qualcomm
 **Match Score:** 11.8%
 
 📍 **Location:** San Diego, CA, US USA
@@ -830,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Software Development Engineer in Test (SDET) @ Foodsmart
+## 75. Software Development Engineer in Test (SDET) @ Foodsmart
 **Match Score:** 11.8%
 
 📍 **Location:** West, TX, US USA
@@ -841,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Software Development Engineer in Test (SDET) @ Foodsmart
+## 76. Software Development Engineer in Test (SDET) @ Foodsmart
 **Match Score:** 11.8%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -852,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Software Development Engineer in Test (SDET) @ Foodsmart
+## 77. Software Development Engineer in Test (SDET) @ Foodsmart
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -863,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Snowflake/Tableau Developer / Dallas Texas @ FirstNet Global
+## 78. Snowflake/Tableau Developer / Dallas Texas @ FirstNet Global
 **Match Score:** 11.8%
 
 📍 **Location:** Napa, CA, US USA
@@ -874,7 +863,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Senior Data Engineer @ Foodsmart
+## 79. Senior Data Engineer @ Foodsmart
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -885,7 +874,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Senior Data Engineer @ Foodsmart
+## 80. Senior Data Engineer @ Foodsmart
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -896,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Senior Data Engineer @ Foodsmart
+## 81. Senior Data Engineer @ Foodsmart
 **Match Score:** 11.1%
 
 📍 **Location:** West, TX, US USA
@@ -907,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. #Software Engineer – Engineer @ Qualcomm
+## 82. #Software Engineer – Engineer @ Qualcomm
 **Match Score:** 11.1%
 
 📍 **Location:** San Diego, CA, US USA
@@ -918,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Sr. Data Engineer @ Visa
+## 83. Sr. Data Engineer @ Visa
 **Match Score:** 10.4%
 
 📍 **Location:** Foster City, CA, US USA
@@ -929,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Senior Software Engineer @ St. David's HealthCare
+## 84. Senior Software Engineer @ St. David's HealthCare
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -940,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 85. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -951,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 86. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -962,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Engineer II- Java @ GEICO
+## 87. Engineer II- Java @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -973,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Engineer II- Java @ GEICO
+## 88. Engineer II- Java @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -984,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Software Engineer, Backend @ Tessera Labs
+## 89. Software Engineer, Backend @ Tessera Labs
 **Match Score:** 10.4%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -995,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - New York @ Goldman Sachs
+## 90. Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - New York @ Goldman Sachs
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -1006,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - Dallas @ Goldman Sachs
+## 91. Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - Dallas @ Goldman Sachs
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
@@ -1017,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. AI Application Architect @ Openkyber
+## 92. AI Application Architect @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA

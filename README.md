@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-02 18:44
+Last updated: 2026-05-02 19:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 18:44 |
-| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 18:44 |
-| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 18:44 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 19:48 |
+| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 19:48 |
+| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 19:48 |
 | Openkyber | Junior DevOps Engineer (GCP) | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8b84e2ec1da33ebd) | 2026-05-02 17:38 |
 | Openkyber | GCP Support Associate | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=31cbdcc23afc2b45) | 2026-05-02 17:38 |
 | Openkyber | GCP Support Associate | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0d636a662e603c9d) | 2026-05-02 17:38 |
@@ -618,20 +618,6 @@ Last updated: 2026-05-02 18:44
 | Goldman Sachs | Asset & Wealth Management-Software Engineering-Associate-Dallas | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce31ad37d0b4074e) | 2026-04-28 21:00 |
 | Ansell | Senior AI Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ddfd90d1833c2dcd) | 2026-04-28 21:00 |
 | Fitch Group | Software Engineer, Search and Alerts | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e27c3a57395d5ed) | 2026-04-28 21:00 |
-| Torq | Senior Consultant - Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=7c4c907044e720da) | 2026-04-28 19:21 |
-| Silverchair | Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=03088aab7fd212d8) | 2026-04-28 19:21 |
-| Western Governors University | Senior Machine Learning Engineer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=02b371541d1ac53b) | 2026-04-28 19:21 |
-| Mindful Support Services | Database Administrator - Mountlake Terrace, WA | Mountlake Terrace, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c7f72c836b506ce1) | 2026-04-28 19:21 |
-| Subway | Sr. SDET | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e99b607ba441a3b6) | 2026-04-28 19:21 |
-| Subway | SR SDET (Sr Software Engineer in Test & Merchandising Automation) | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac35b48862d2d754) | 2026-04-28 19:21 |
-| CIBC | Sr Software Engineer (SQL/Databricks) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=59821689b0632a0e) | 2026-04-28 19:21 |
-| Subway | Sr. Automation Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=89ac62864e6673e6) | 2026-04-28 19:21 |
-| Subway | Senior Automation Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb7872e2804ae8eb) | 2026-04-28 19:21 |
-| GM Financial | Software Development Engineer I | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e79ac2cb00b1176b) | 2026-04-28 19:21 |
-| NTT DATA | System Architect IV (ATL) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c0679e72962f96d1) | 2026-04-28 19:21 |
-| Moody's | Sr Data Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=777c988322e931b7) | 2026-04-28 19:21 |
-| Global Technology Solutions Inc | DevSecOps Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=252844720ed3e114) | 2026-04-28 19:21 |
-| SEC Industrial | AI and vision learning engineer (In person required) | Peachtree Corners, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a87cdb9d826d513d) | 2026-04-28 19:21 |
 
 
 ---
