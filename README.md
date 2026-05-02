@@ -1,20 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-02 17:38
+Last updated: 2026-05-02 18:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 17:38 |
-| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 17:38 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 18:44 |
+| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 18:44 |
+| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 18:44 |
 | Openkyber | Junior DevOps Engineer (GCP) | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8b84e2ec1da33ebd) | 2026-05-02 17:38 |
 | Openkyber | GCP Support Associate | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=31cbdcc23afc2b45) | 2026-05-02 17:38 |
 | Openkyber | GCP Support Associate | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0d636a662e603c9d) | 2026-05-02 17:38 |
 | Openkyber | GCP Support Associate | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1097e9f29f6e8b0a) | 2026-05-02 17:38 |
 | Openkyber | Cloud Service Desk Analyst | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad7fea46ba593dc3) | 2026-05-02 17:38 |
 | Openkyber | AI Application Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=393116d7c03fb80f) | 2026-05-02 17:38 |
-| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 17:38 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b8ff483497142df4) | 2026-05-02 17:38 |
 | Inter-American Development Bank | IDB Invest - Data Engineer (Sr Officer) Officer | Washington, DC, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=975f0416f1286d47) | 2026-05-02 14:06 |
 | Disney Experiences | Sr Full Stack Software Engineer | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7160da80c4aa5c1b) | 2026-05-02 14:06 |
