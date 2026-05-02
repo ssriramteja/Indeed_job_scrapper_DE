@@ -1,15 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-02 10:43
+Last updated: 2026-05-02 11:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 10:43 |
-| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 10:43 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-02 10:43 |
-| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 10:43 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 11:38 |
+| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 11:38 |
+| Openkyber | Senior DevOps Engineer (GCP) | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=abcb767c36c64a35) | 2026-05-02 11:38 |
+| Openkyber | Senior SRE (GCP) | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce0e1c2c1470a743) | 2026-05-02 11:38 |
+| Openkyber | Cloud AI Application Administrator | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18ebfd30511cd60d) | 2026-05-02 11:38 |
+| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=63e4780a404c7463) | 2026-05-02 11:38 |
+| Openkyber | Senior Cloud Automation Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=005efcc9b62d1e43) | 2026-05-02 11:38 |
+| Openkyber | Senior Cloud Platform Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5f244e9018755770) | 2026-05-02 11:38 |
+| Openkyber | Junior GCP Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08d4cd78d3dbe405) | 2026-05-02 11:38 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-02 11:38 |
+| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 11:38 |
+| Openkyber | Junior GCP Cloud Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=322cbaa1c83e7b5b) | 2026-05-02 11:38 |
+| Openkyber | AI Application Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b57504d4cd793d31) | 2026-05-02 11:38 |
 | General Motors (GM) | Sr. Software Engineer - AI Engineering and Productivity | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=678daaae3aea7ce1) | 2026-05-02 09:54 |
 | JPMorganChase | Software Engineer III - PySpark/AWS | Wilmington, DE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee6714b6afaed3b1) | 2026-05-02 09:54 |
 | Tata Consultancy Services (TCS) | Splunk Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=02a1448e52c0de82) | 2026-05-02 09:54 |
@@ -626,10 +635,6 @@ Last updated: 2026-05-02 10:43
 | Estuate | Database Systems Engineer | Milpitas, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=23d7f5f64249cd00) | 2026-04-28 17:31 |
 | Aureon | Senior Data Architect | West Des Moines, IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f774c4618ca5806) | 2026-04-28 15:19 |
 | NTT DATA | System Architect IV (ATL) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=562c3953d5d4cf9e) | 2026-04-28 12:21 |
-| Wells Fargo | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f0e85b21f1fb3187) | 2026-04-28 10:55 |
-| Cotiviti | Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=443bc56bd18ac3c1) | 2026-04-28 10:55 |
-| Seismic | Senior Software Engineer - Platform & Integrations | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cca2fb47a24092c1) | 2026-04-28 10:55 |
-| Insygnum | Sr. Consultant - Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=add721e79e9d7463) | 2026-04-28 10:55 |
 
 
 ---
