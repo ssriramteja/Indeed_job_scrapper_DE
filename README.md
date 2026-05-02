@@ -1,20 +1,60 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-02 01:55
+Last updated: 2026-05-02 04:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 04:53 |
+| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 04:53 |
+| J&B Medical | DevOps Engineer Live Streaming- Wixom, MI | Wixom, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=823e57252a5543a0) | 2026-05-02 04:53 |
+| The Walt Disney Company | Sr Full Stack Software Engineer | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=957c98b575d28f5a) | 2026-05-02 04:53 |
+| Toyota North America | Cloud / DevOps Engineer | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=616b27159c04b0d8) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0e860fcc4c94d6d4) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7067080d6e07c8f3) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b9725dda41b26951) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0d1ce4396f502c4c) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9aad35591fe3637b) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Morristown, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=485d9362fec2efa2) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=076dc7d37ecd84b4) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=608d211579ba455d) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Tempe, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f187af07a1cb6245) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Cleveland, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a925391d8a6edf40) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=109a6a5bacc8621c) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | McLean, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6772d28fdf0b189a) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=58c41e88c1971000) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=49997c79b23be02f) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7d98ee98d5bfcf9d) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Detroit, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=774f87e665d21c9c) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dfc89a8f43bde62f) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=94aff22e96326642) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Sacramento, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=80bfce4e39830c30) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10bd28821350d25a) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | St. Louis, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b3e1d44d1e0404b6) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e6072f6f6f29b5d2) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Stamford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2a3b6706f5bd74b0) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=20ee77db334f5ef9) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Kansas City, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ea139063ea80a8f1) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Costa Mesa, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f5808657aeae8aab) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | San Diego, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=51ed3780e0bd82d7) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=65f20ec94d3f0499) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c0047965fc120080) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e0d2d1377bcdeb6d) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=23b259a8f7075b74) | 2026-05-02 04:53 |
+| Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0a6e81432a843a50) | 2026-05-02 04:53 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-02 04:53 |
+| Dr. Berg Nutritionals | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c3ced295cf725df) | 2026-05-02 04:53 |
+| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 04:53 |
+| Allegion | Senior DevOps Engineer | Carmel, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=705778934bc0a50c) | 2026-05-02 04:53 |
+| Goldman Sachs | Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - New York | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a9368e0faa9912b) | 2026-05-02 04:53 |
+| Goldman Sachs | Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - Dallas | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01fbe5367f7e4246) | 2026-05-02 04:53 |
+| Samsung Electronics | Front-End Developer/Automation Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a97387b304714a61) | 2026-05-02 04:53 |
 | Deloitte | Databricks Data Architect | Tampa, FL, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=74449deb9c0c3d9c) | 2026-05-02 01:55 |
 | Deloitte | Databricks Data Architect | Nashville, TN, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=ed9492994c623133) | 2026-05-02 01:55 |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 01:55 |
-| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 01:55 |
 | Blue Origin | Software Development Engineer III | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9ad2ef58f346a3ce) | 2026-05-02 01:55 |
 | Suffolk Construction | Site AI Engineer | Charlotte Amalie, VI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c97929cd3c8537a6) | 2026-05-02 01:55 |
 | Suffolk Construction | Site AI Engineer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fa5df1f0f4eb4708) | 2026-05-02 01:55 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-02 01:55 |
-| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 01:55 |
 | VaaridaTech | Agentic AI-Senior Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=681aad112795edb7) | 2026-05-02 01:55 |
 | Basis | Sr Software Engineer, Applications | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6718e8631b0d7a54) | 2026-05-02 01:55 |
 | SAP | Senior Java Engineer - Search Platform | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e88a1a6638b80a7a) | 2026-05-02 01:55 |
@@ -601,21 +641,6 @@ Last updated: 2026-05-02 01:55
 | nan | DevOps Prime | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd8abfee5fbd9116) | 2026-04-28 05:51 |
 | ATG | Senior Software Engineer - Django/Python | North Little Rock, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e959c5c2ece017ba) | 2026-04-28 05:51 |
 | ATG | Senior Software Engineer - Django/Python | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df9a48331ce93c56) | 2026-04-28 05:51 |
-| Corebridge | Data Engineer - Snowflake | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d3afad6ecd5a25a2) | 2026-04-28 02:03 |
-| Calix | Site Reliability Engineering (SRE) Intern | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b66b9b991f001a00) | 2026-04-28 02:03 |
-| Fidelity TalentSource | Full Stack Engineer | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d07a1b512d8f6b8e) | 2026-04-28 02:03 |
-| Adobe | Senior Data Science Engineer, GenAI Platforms & Data Infrastructure | Lehi, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21b925b3e52300cd) | 2026-04-28 02:03 |
-| Fidelity TalentSource | Full Stack Engineer | Westlake, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2e59f80446549413) | 2026-04-28 02:03 |
-| HARVEST GROUP | Cloud Engineer | Cincinnati, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d391d4aaecc47ecd) | 2026-04-28 02:03 |
-| Varonis Systems | Software Escalation Engineer (Python) | Morrisville, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b19ab87ba97422d) | 2026-04-28 02:03 |
-| Fitch Group | Senior Reliability Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb104709126cf2da) | 2026-04-28 02:03 |
-| nan | Senior Data Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ccbafc8be264e941) | 2026-04-28 02:03 |
-| MGM Resorts International | AI Commercial & ML Ops Engineer | Las Vegas, NV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9e59ac0d5620a4ae) | 2026-04-28 02:03 |
-| Redfin | Senior Software Engineer - Platform | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d62543661efd20a8) | 2026-04-28 02:03 |
-| Phillips & Cohen Associates | MIS - Analytics Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb902b8c2dc0b4e3) | 2026-04-28 02:03 |
-| Phillips & Cohen Associates | MIS - Analytics Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=026772bfd10c6d83) | 2026-04-28 02:03 |
-| Tech Army | Product Developer Advanced | Tallahassee, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d958ebf75215c9a) | 2026-04-28 02:03 |
-| Harvestaff | Mid Level Software Engineer | Chesterfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee62f5b48244cf04) | 2026-04-28 02:03 |
 
 
 ---
