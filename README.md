@@ -1,15 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-02 12:49
+Last updated: 2026-05-02 14:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 12:49 |
-| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 12:49 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-02 12:49 |
-| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 12:49 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 14:06 |
+| Inter-American Development Bank | IDB Invest - Data Engineer (Sr Officer) Officer | Washington, DC, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=975f0416f1286d47) | 2026-05-02 14:06 |
+| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 14:06 |
+| Disney Experiences | Sr Full Stack Software Engineer | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7160da80c4aa5c1b) | 2026-05-02 14:06 |
+| nan | Senior Data Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=011200ffdfb2dd05) | 2026-05-02 14:06 |
+| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 14:06 |
 | Openkyber | Senior DevOps Engineer (GCP) | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=abcb767c36c64a35) | 2026-05-02 11:38 |
 | Openkyber | Senior SRE (GCP) | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce0e1c2c1470a743) | 2026-05-02 11:38 |
 | Openkyber | Cloud AI Application Administrator | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18ebfd30511cd60d) | 2026-05-02 11:38 |
