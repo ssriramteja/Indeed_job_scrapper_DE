@@ -1,15 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-02 04:53
+Last updated: 2026-05-02 06:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 04:53 |
-| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 04:53 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 06:58 |
+| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 06:58 |
+| The Walt Disney Company | Sr Full Stack Software Engineer | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=957c98b575d28f5a) | 2026-05-02 06:58 |
+| ElementSkill | Agentic AI Architect | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=87dcf7166c991b47) | 2026-05-02 06:58 |
+| RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3d8ec5a3c163d85b) | 2026-05-02 06:58 |
+| Clinical Care Options LLC | Associate Data & Analytics Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=13564543da011952) | 2026-05-02 06:58 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-02 06:58 |
+| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 06:58 |
+| Foodsmart | Software Development Engineer in Test (SDET) | West, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1ff1351b933e73ff) | 2026-05-02 06:58 |
+| Foodsmart | Software Development Engineer in Test (SDET) | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=547c7125b0b30619) | 2026-05-02 06:58 |
+| Foodsmart | Software Development Engineer in Test (SDET) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=364f3e4259c47f25) | 2026-05-02 06:58 |
+| Foodsmart | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aaeba0c578886154) | 2026-05-02 06:58 |
+| Foodsmart | Senior Data Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1c32c34ff06b9605) | 2026-05-02 06:58 |
+| Foodsmart | Senior Data Engineer | West, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c0f59a5cadbe7f1) | 2026-05-02 06:58 |
 | J&B Medical | DevOps Engineer Live Streaming- Wixom, MI | Wixom, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=823e57252a5543a0) | 2026-05-02 04:53 |
-| The Walt Disney Company | Sr Full Stack Software Engineer | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=957c98b575d28f5a) | 2026-05-02 04:53 |
 | Toyota North America | Cloud / DevOps Engineer | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=616b27159c04b0d8) | 2026-05-02 04:53 |
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0e860fcc4c94d6d4) | 2026-05-02 04:53 |
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7067080d6e07c8f3) | 2026-05-02 04:53 |
@@ -43,9 +54,7 @@ Last updated: 2026-05-02 04:53
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e0d2d1377bcdeb6d) | 2026-05-02 04:53 |
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=23b259a8f7075b74) | 2026-05-02 04:53 |
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0a6e81432a843a50) | 2026-05-02 04:53 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-02 04:53 |
 | Dr. Berg Nutritionals | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c3ced295cf725df) | 2026-05-02 04:53 |
-| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 04:53 |
 | Allegion | Senior DevOps Engineer | Carmel, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=705778934bc0a50c) | 2026-05-02 04:53 |
 | Goldman Sachs | Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - New York | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a9368e0faa9912b) | 2026-05-02 04:53 |
 | Goldman Sachs | Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - Dallas | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01fbe5367f7e4246) | 2026-05-02 04:53 |
@@ -619,28 +628,6 @@ Last updated: 2026-05-02 04:53
 | Photon | Backend Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9d29f0c0f97c6ad9) | 2026-04-28 08:09 |
 | Photon | BackEnd Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eaf41f1dcd53eba3) | 2026-04-28 08:09 |
 | Photon | BackEnd Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f4936cea15fb6fab) | 2026-04-28 08:09 |
-| Cloudera | Solutions Engineer | GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6db37997e354b1b6) | 2026-04-28 05:51 |
-| Old National Bank | Data Engineer | Lake Elmo, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=58d405ceae103971) | 2026-04-28 05:51 |
-| Snowflake | Senior PS Sales Solutions Architect | IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9ed1a2a8d040517b) | 2026-04-28 05:51 |
-| ATG | Senior Software Engineer - .NET Developer | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac19d93a3fb22200) | 2026-04-28 05:51 |
-| ATG | Senior Software Engineer - .NET Developer | North Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa7419910a66d6b9) | 2026-04-28 05:51 |
-| Lennar | Sr Software Engineer, Fullstack | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4fb90dbd5192ef62) | 2026-04-28 05:51 |
-| Rosen's Diversified, Inc. | Data Architect | Green Bay, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43e06e046a3009ec) | 2026-04-28 05:51 |
-| Rosen's Diversified, Inc. | Data Architect | Eagan, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0d5ed846b77ab548) | 2026-04-28 05:51 |
-| nan | Senior Full Stack Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c5c87f4d580328bb) | 2026-04-28 05:51 |
-| nan | Senior Full Stack Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f081e02510ebdea) | 2026-04-28 05:51 |
-| nan | Senior Full Stack Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a5e445cdfb1f584) | 2026-04-28 05:51 |
-| nan | Senior Full Stack Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bc6e81812acaa849) | 2026-04-28 05:51 |
-| nan | Senior Full Stack Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b9b53627c8bb8781) | 2026-04-28 05:51 |
-| nan | Senior Full Stack Engineer | Wichita, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cb9f61bc8ba5e0c) | 2026-04-28 05:51 |
-| nan | Software Engineer - Full Stack | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71acb476a93daa68) | 2026-04-28 05:51 |
-| nan | DevOps Prime | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2c9a4c0d1556c3d) | 2026-04-28 05:51 |
-| nan | DevOps Prime | Wichita, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bdda93ad98da9aec) | 2026-04-28 05:51 |
-| nan | DevOps Prime | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5d0a6d38e25b0a0) | 2026-04-28 05:51 |
-| nan | DevOps Prime | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d02c7ff4534ba5bd) | 2026-04-28 05:51 |
-| nan | DevOps Prime | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd8abfee5fbd9116) | 2026-04-28 05:51 |
-| ATG | Senior Software Engineer - Django/Python | North Little Rock, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e959c5c2ece017ba) | 2026-04-28 05:51 |
-| ATG | Senior Software Engineer - Django/Python | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df9a48331ce93c56) | 2026-04-28 05:51 |
 
 
 ---
