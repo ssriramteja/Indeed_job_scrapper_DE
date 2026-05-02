@@ -1,19 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-02 06:58
+Last updated: 2026-05-02 08:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 06:58 |
-| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 06:58 |
-| The Walt Disney Company | Sr Full Stack Software Engineer | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=957c98b575d28f5a) | 2026-05-02 06:58 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 08:20 |
+| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 08:20 |
+| The Walt Disney Company | Sr Full Stack Software Engineer | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=957c98b575d28f5a) | 2026-05-02 08:20 |
+| Provoke Solutions | Data Engineer - Microsoft Fabric | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b922fcc276be07d) | 2026-05-02 08:20 |
+| Costco Wholesale | Security Engineer - Penetration Testing- Cybersecurity | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f83c998681a5740b) | 2026-05-02 08:20 |
+| Costco Wholesale | Security Engineer - Penetration Testing- Cybersecurity | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4d9379c5df7ca902) | 2026-05-02 08:20 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-02 08:20 |
+| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 08:20 |
 | ElementSkill | Agentic AI Architect | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=87dcf7166c991b47) | 2026-05-02 06:58 |
 | RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3d8ec5a3c163d85b) | 2026-05-02 06:58 |
 | Clinical Care Options LLC | Associate Data & Analytics Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=13564543da011952) | 2026-05-02 06:58 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-02 06:58 |
-| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 06:58 |
 | Foodsmart | Software Development Engineer in Test (SDET) | West, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1ff1351b933e73ff) | 2026-05-02 06:58 |
 | Foodsmart | Software Development Engineer in Test (SDET) | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=547c7125b0b30619) | 2026-05-02 06:58 |
 | Foodsmart | Software Development Engineer in Test (SDET) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=364f3e4259c47f25) | 2026-05-02 06:58 |
@@ -623,11 +626,6 @@ Last updated: 2026-05-02 06:58
 | Cotiviti | Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=443bc56bd18ac3c1) | 2026-04-28 10:55 |
 | Seismic | Senior Software Engineer - Platform & Integrations | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cca2fb47a24092c1) | 2026-04-28 10:55 |
 | Insygnum | Sr. Consultant - Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=add721e79e9d7463) | 2026-04-28 10:55 |
-| Aroha Technologies | AI Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7f7113fe3fafcf1f) | 2026-04-28 08:09 |
-| Photon | Backend Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c6cf88579d0b139b) | 2026-04-28 08:09 |
-| Photon | Backend Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9d29f0c0f97c6ad9) | 2026-04-28 08:09 |
-| Photon | BackEnd Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eaf41f1dcd53eba3) | 2026-04-28 08:09 |
-| Photon | BackEnd Developer- Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f4936cea15fb6fab) | 2026-04-28 08:09 |
 
 
 ---
