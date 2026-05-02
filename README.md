@@ -1,19 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-02 08:20
+Last updated: 2026-05-02 09:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 08:20 |
-| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 08:20 |
-| The Walt Disney Company | Sr Full Stack Software Engineer | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=957c98b575d28f5a) | 2026-05-02 08:20 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 09:54 |
+| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 09:54 |
+| General Motors (GM) | Sr. Software Engineer - AI Engineering and Productivity | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=678daaae3aea7ce1) | 2026-05-02 09:54 |
+| JPMorganChase | Software Engineer III - PySpark/AWS | Wilmington, DE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee6714b6afaed3b1) | 2026-05-02 09:54 |
+| Tata Consultancy Services (TCS) | Splunk Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=02a1448e52c0de82) | 2026-05-02 09:54 |
+| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-02 09:54 |
+| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 09:54 |
+| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b221a3fa0ea5bd27) | 2026-05-02 09:54 |
+| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cc63a267293974cf) | 2026-05-02 09:54 |
 | Provoke Solutions | Data Engineer - Microsoft Fabric | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b922fcc276be07d) | 2026-05-02 08:20 |
 | Costco Wholesale | Security Engineer - Penetration Testing- Cybersecurity | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f83c998681a5740b) | 2026-05-02 08:20 |
 | Costco Wholesale | Security Engineer - Penetration Testing- Cybersecurity | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4d9379c5df7ca902) | 2026-05-02 08:20 |
-| The Walt Disney Company | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-02 08:20 |
-| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 08:20 |
 | ElementSkill | Agentic AI Architect | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=87dcf7166c991b47) | 2026-05-02 06:58 |
 | RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3d8ec5a3c163d85b) | 2026-05-02 06:58 |
 | Clinical Care Options LLC | Associate Data & Analytics Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=13564543da011952) | 2026-05-02 06:58 |
