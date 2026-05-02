@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-02
 
-**Total Jobs Found:** 98
+**Total Jobs Found:** 103
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -71,7 +71,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. DevOps Engineer Live Streaming- Wixom, MI @ J&B Medical
+## 7. Junior DevOps Engineer (GCP) @ Openkyber
+**Match Score:** 17.4%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** AWS, SQS, SNS, API Gateway, RDS, Azure, Google Cloud Platform, GCP, Scala, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8b84e2ec1da33ebd)
+
+---
+
+## 8. DevOps Engineer Live Streaming- Wixom, MI @ J&B Medical
 **Match Score:** 17.4%
 
 📍 **Location:** Wixom, MI, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Sr Associate Engineer/ Engineer, IT Data @ American Airlines
+## 9. Sr Associate Engineer/ Engineer, IT Data @ American Airlines
 **Match Score:** 16.7%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Sr. Software Engineer - AI Engineering and Productivity @ General Motors (GM)
+## 10. Sr. Software Engineer - AI Engineering and Productivity @ General Motors (GM)
 **Match Score:** 16.7%
 
 📍 **Location:** Austin, TX, US USA
@@ -104,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Data Engineer, Solutions Architecture @ Clearway Energy
+## 11. Senior Data Engineer, Solutions Architecture @ Clearway Energy
 **Match Score:** 16.0%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -115,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Data Engineer, Solutions Architecture @ Clearway Energy
+## 12. Senior Data Engineer, Solutions Architecture @ Clearway Energy
 **Match Score:** 16.0%
 
 📍 **Location:** San Diego, CA, US USA
@@ -126,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Data Engineer, Solutions Architecture @ Clearway Energy
+## 13. Senior Data Engineer, Solutions Architecture @ Clearway Energy
 **Match Score:** 16.0%
 
 📍 **Location:** Scottsdale, AZ, US USA
@@ -137,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior DevOps Engineer (GCP) @ Openkyber
+## 14. Senior DevOps Engineer (GCP) @ Openkyber
 **Match Score:** 16.0%
 
 📍 **Location:** AK, US USA
@@ -148,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Software Development Engineer III @ Blue Origin
+## 15. Software Development Engineer III @ Blue Origin
 **Match Score:** 16.0%
 
 📍 **Location:** Seattle, WA, US USA
@@ -159,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Professional Services Sales Solutions Architect @ Snowflake
+## 16. Senior Professional Services Sales Solutions Architect @ Snowflake
 **Match Score:** 15.3%
 
 📍 **Location:** New York, NY, US USA
@@ -170,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Cloud / DevOps Engineer @ Toyota North America
+## 17. Cloud / DevOps Engineer @ Toyota North America
 **Match Score:** 14.6%
 
 📍 **Location:** Plano, TX, US USA
@@ -181,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Dev Ops Data Engineer @ innoVet Health, LLC
+## 18. Dev Ops Data Engineer @ innoVet Health, LLC
 **Match Score:** 14.6%
 
 📍 **Location:** US USA
@@ -192,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Data Engineer II @ Topgolf
+## 19. Data Engineer II @ Topgolf
 **Match Score:** 14.6%
 
 📍 **Location:** Dallas, TX, US USA
@@ -203,7 +214,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Senior Data Engineer @ Alignment Healthcare
+## 20. GCP Support Associate @ Openkyber
+**Match Score:** 14.6%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** AWS, API Gateway, IAM, RDS, Azure, Google Cloud Platform, GCP, BigQuery, Scala, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=31cbdcc23afc2b45)
+
+---
+
+## 21. Senior Data Engineer @ Alignment Healthcare
 **Match Score:** 13.9%
 
 📍 **Location:** Orange, CA, US USA
@@ -214,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Cloud AI Application Administrator @ Openkyber
+## 22. Cloud AI Application Administrator @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** AK, US USA
@@ -225,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Data Platform Engineer @ RHP Properties
+## 23. Data Platform Engineer @ RHP Properties
 **Match Score:** 13.9%
 
 📍 **Location:** Farmington Hills, MI, US USA
@@ -236,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Associate Data & Analytics Engineer @ Clinical Care Options LLC
+## 24. Associate Data & Analytics Engineer @ Clinical Care Options LLC
 **Match Score:** 13.9%
 
 📍 **Location:** US USA
@@ -247,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Engineer @ Tata Consultancy Services (TCS)
+## 25. Engineer @ Tata Consultancy Services (TCS)
 **Match Score:** 13.9%
 
 📍 **Location:** Addison, TX, US USA
@@ -258,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Site AI Engineer @ Suffolk Construction
+## 26. Site AI Engineer @ Suffolk Construction
 **Match Score:** 13.9%
 
 📍 **Location:** Charlotte Amalie, VI, US USA
@@ -269,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Site AI Engineer @ Suffolk Construction
+## 27. Site AI Engineer @ Suffolk Construction
 **Match Score:** 13.9%
 
 📍 **Location:** Boston, MA, US USA
@@ -280,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. IT Full Stack Developer, Commercial @ ConocoPhillips
+## 28. IT Full Stack Developer, Commercial @ ConocoPhillips
 **Match Score:** 13.9%
 
 📍 **Location:** Houston, TX, US USA
@@ -291,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Software Engineer III - PySpark/AWS @ JPMorganChase
+## 29. Software Engineer III - PySpark/AWS @ JPMorganChase
 **Match Score:** 13.2%
 
 📍 **Location:** Wilmington, DE, US USA
@@ -302,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 30. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -313,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 31. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Nashville, TN, US USA
@@ -324,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 32. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Seattle, WA, US USA
@@ -335,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 33. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Austin, TX, US USA
@@ -346,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 34. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -357,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 35. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Morristown, NJ, US USA
@@ -368,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 36. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Dallas, TX, US USA
@@ -379,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 37. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -390,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 38. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Tempe, AZ, US USA
@@ -401,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 39. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -412,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 40. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Houston, TX, US USA
@@ -423,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 41. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** McLean, VA, US USA
@@ -434,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 42. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** San Jose, CA, US USA
@@ -445,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 43. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -456,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 44. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -467,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 45. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Detroit, MI, US USA
@@ -478,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 46. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Denver, CO, US USA
@@ -489,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 47. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -500,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 48. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -511,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 49. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Tampa, FL, US USA
@@ -522,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 50. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -533,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 51. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -544,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 52. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Stamford, CT, US USA
@@ -555,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 53. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -566,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 54. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -577,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 55. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -588,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 56. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** San Diego, CA, US USA
@@ -599,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 57. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Miami, FL, US USA
@@ -610,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 58. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Boston, MA, US USA
@@ -621,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 59. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Chicago, IL, US USA
@@ -632,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 60. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** New York, NY, US USA
@@ -643,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
+## 61. ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -654,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. CloudOps Engineer @ Tyler Technologies
+## 62. CloudOps Engineer @ Tyler Technologies
 **Match Score:** 13.2%
 
 📍 **Location:** Plano, TX, US USA
@@ -665,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. CloudOps Engineer @ Tyler Technologies
+## 63. CloudOps Engineer @ Tyler Technologies
 **Match Score:** 13.2%
 
 📍 **Location:** US USA
@@ -676,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. CloudOps Engineer @ Tyler Technologies
+## 64. CloudOps Engineer @ Tyler Technologies
 **Match Score:** 13.2%
 
 📍 **Location:** Lakewood, CO, US USA
@@ -687,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. CloudOps Engineer @ Tyler Technologies
+## 65. CloudOps Engineer @ Tyler Technologies
 **Match Score:** 13.2%
 
 📍 **Location:** Yarmouth, ME, US USA
@@ -698,7 +720,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Full-Stack Software Engineer (On-Site) @ PTI
+## 66. GCP Support Associate @ Openkyber
+**Match Score:** 13.2%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** AWS, EMR, IAM, RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Scala, Snowflake
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0d636a662e603c9d)
+
+---
+
+## 67. Full-Stack Software Engineer (On-Site) @ PTI
 **Match Score:** 13.2%
 
 📍 **Location:** Mesa, AZ, US USA
@@ -709,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Senior Data Engineer @ nan
+## 68. Senior Data Engineer @ nan
 **Match Score:** 12.5%
 
 📍 **Location:** Seattle, WA, US USA
@@ -720,18 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Senior Applied AI Engineer @ Paramount
-**Match Score:** 12.5%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, BigQuery, Vertex AI, Scala, MLOps, MLflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f086cee5e98c30b6)
-
----
-
-## 67. Data Engineer - Microsoft Fabric @ Provoke Solutions
+## 69. Data Engineer - Microsoft Fabric @ Provoke Solutions
 **Match Score:** 12.5%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -742,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. DevOps/AI Engineer @ MITRE
+## 70. DevOps/AI Engineer @ MITRE
 **Match Score:** 12.5%
 
 📍 **Location:** McLean, VA, US USA
@@ -753,7 +775,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Junior GCP Cloud Engineer @ Openkyber
+## 71. Senior Applied AI Engineer @ Paramount
+**Match Score:** 12.5%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, BigQuery, Vertex AI, Scala, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f086cee5e98c30b6)
+
+---
+
+## 72. GCP Support Associate @ Openkyber
+**Match Score:** 11.8%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** ECS, IAM, Google Cloud Platform, GCP, Dataflow, Cloud Storage, Jenkins, Terraform, Kubernetes, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1097e9f29f6e8b0a)
+
+---
+
+## 73. Junior GCP Cloud Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -764,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Junior AWS Cloud Engineer @ FuelCloud
+## 74. Junior AWS Cloud Engineer @ FuelCloud
 **Match Score:** 11.8%
 
 📍 **Location:** Hillsboro, OR, US USA
@@ -775,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Full Stack Data Engineer @ Millennium Management
+## 75. Full Stack Data Engineer @ Millennium Management
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -786,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Cloud Operations Engineer @ MITSUBISHI ELECTRIC ICONICS DIGITAL SOLUTIONS
+## 76. Cloud Operations Engineer @ MITSUBISHI ELECTRIC ICONICS DIGITAL SOLUTIONS
 **Match Score:** 11.8%
 
 📍 **Location:** Cambridge, MA, US USA
@@ -797,18 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Senior Engineer @ Microchip Technology
-**Match Score:** 11.8%
-
-📍 **Location:** Chandler, AZ, US USA
-
-🔑 **Keywords:** AWS, S3, IAM, RDS, Azure, Databricks, Unity Catalog, Medallion Architecture, Spark, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=77a528b43d8d11a1)
-
----
-
-## 74. Senior Software Engineer — Data Platform & MAI @ Uniphore
+## 77. Senior Software Engineer — Data Platform & MAI @ Uniphore
 **Match Score:** 11.8%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -819,7 +852,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Senior Data Engineer @ Dr. Berg Nutritionals
+## 78. Cloud Service Desk Analyst @ Openkyber
+**Match Score:** 11.8%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** Azure, Databricks, Spark, PySpark, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ad7fea46ba593dc3)
+
+---
+
+## 79. AI Application Architect @ Openkyber
+**Match Score:** 11.8%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Scala, Kafka, MLOps, MLflow, CI/CD, Jenkins, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=393116d7c03fb80f)
+
+---
+
+## 80. Senior Data Engineer @ Dr. Berg Nutritionals
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -830,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Core Developer, Full Stack @ RS21: A Data Science and Visualization Company
+## 81. Core Developer, Full Stack @ RS21: A Data Science and Visualization Company
 **Match Score:** 11.8%
 
 📍 **Location:** Albuquerque, NM, US USA
@@ -841,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. #Software Engineer – Senior Engineer @ Qualcomm
+## 82. #Software Engineer – Senior Engineer @ Qualcomm
 **Match Score:** 11.8%
 
 📍 **Location:** San Diego, CA, US USA
@@ -852,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Software Development Engineer in Test (SDET) @ Foodsmart
+## 83. Software Development Engineer in Test (SDET) @ Foodsmart
 **Match Score:** 11.8%
 
 📍 **Location:** West, TX, US USA
@@ -863,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Software Development Engineer in Test (SDET) @ Foodsmart
+## 84. Software Development Engineer in Test (SDET) @ Foodsmart
 **Match Score:** 11.8%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -874,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Software Development Engineer in Test (SDET) @ Foodsmart
+## 85. Software Development Engineer in Test (SDET) @ Foodsmart
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -885,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Snowflake/Tableau Developer / Dallas Texas @ FirstNet Global
+## 86. Snowflake/Tableau Developer / Dallas Texas @ FirstNet Global
 **Match Score:** 11.8%
 
 📍 **Location:** Napa, CA, US USA
@@ -896,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Senior Data Engineer @ Foodsmart
+## 87. Senior Data Engineer @ Foodsmart
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -907,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Senior Data Engineer @ Foodsmart
+## 88. Senior Data Engineer @ Foodsmart
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -918,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Senior Data Engineer @ Foodsmart
+## 89. Senior Data Engineer @ Foodsmart
 **Match Score:** 11.1%
 
 📍 **Location:** West, TX, US USA
@@ -929,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. #Software Engineer – Engineer @ Qualcomm
+## 90. #Software Engineer – Engineer @ Qualcomm
 **Match Score:** 11.1%
 
 📍 **Location:** San Diego, CA, US USA
@@ -940,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Professional Services Consultant @ Ataccama
+## 91. Professional Services Consultant @ Ataccama
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -951,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Sr. Data Engineer @ Visa
+## 92. Sr. Data Engineer @ Visa
 **Match Score:** 10.4%
 
 📍 **Location:** Foster City, CA, US USA
@@ -962,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. MuleSoft QA Engineer @ UniFirst
+## 93. MuleSoft QA Engineer @ UniFirst
 **Match Score:** 10.4%
 
 📍 **Location:** Wilmington, MA, US USA
@@ -973,7 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Data Engineer - Sr. Consultant level @ Visa
+## 94. Data Engineer - Sr. Consultant level @ Visa
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -984,29 +1039,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - New York @ Goldman Sachs
+## 95. Senior Software Engineer @ St. David's HealthCare
 **Match Score:** 10.4%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** RDS, Databricks, Hadoop, Spark, Scala, Kafka, Snowflake, CI/CD, Kubernetes, AKS
+🔑 **Keywords:** RDS, Google Cloud Platform, BigQuery, Cloud Storage, Scala, SQL Server, ETL, CI/CD, GitHub Actions, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2a9368e0faa9912b)
+[Apply Here](https://www.indeed.com/viewjob?jk=b8ff483497142df4)
 
 ---
 
-## 91. Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - Dallas @ Goldman Sachs
-**Match Score:** 10.4%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** RDS, Databricks, Hadoop, Spark, Scala, Kafka, Snowflake, CI/CD, Kubernetes, AKS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=01fbe5367f7e4246)
-
----
-
-## 92. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 96. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -1017,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 97. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -1028,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Engineer II- Java @ GEICO
+## 98. Engineer II- Java @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -1039,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Engineer II- Java @ GEICO
+## 99. Engineer II- Java @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1050,7 +1094,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Software Engineer, Backend @ Tessera Labs
+## 100. Software Engineer, Backend @ Tessera Labs
 **Match Score:** 10.4%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -1061,18 +1105,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. MuleSoft Architect / Developer Remote (Part-Time / Full-Time) – US Client @ Bowery Software Inc
+## 101. Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - New York @ Goldman Sachs
 **Match Score:** 10.4%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** AWS, Azure, GCP, Oracle, ETL, Talend, CI/CD, Jenkins, GitHub Actions, Azure DevOps
+🔑 **Keywords:** RDS, Databricks, Hadoop, Spark, Scala, Kafka, Snowflake, CI/CD, Kubernetes, AKS
 
-[Apply Here](https://www.indeed.com/viewjob?jk=fe3a1e183165a854)
+[Apply Here](https://www.indeed.com/viewjob?jk=2a9368e0faa9912b)
 
 ---
 
-## 98. AI Application Architect @ Openkyber
+## 102. Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - Dallas @ Goldman Sachs
+**Match Score:** 10.4%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** RDS, Databricks, Hadoop, Spark, Scala, Kafka, Snowflake, CI/CD, Kubernetes, AKS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=01fbe5367f7e4246)
+
+---
+
+## 103. AI Application Architect @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
