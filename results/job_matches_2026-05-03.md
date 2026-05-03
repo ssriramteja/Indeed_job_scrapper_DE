@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-03
 
-**Total Jobs Found:** 25
+**Total Jobs Found:** 39
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,18 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. DevOps Engineer Live Streaming- Wixom, MI @ J&B Medical
-**Match Score:** 17.4%
-
-📍 **Location:** Wixom, MI, US USA
-
-🔑 **Keywords:** AWS, Lambda, Redshift, Athena, Step Functions, S3, RDS, Azure, GCP, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=823e57252a5543a0)
-
----
-
-## 4. Sr. Software Engineer - AI Engineering and Productivity @ General Motors (GM)
+## 3. Sr. Software Engineer - AI Engineering and Productivity @ General Motors (GM)
 **Match Score:** 16.7%
 
 📍 **Location:** Austin, TX, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior DevOps Engineer (GCP) @ Openkyber
+## 4. Senior DevOps Engineer (GCP) @ Openkyber
 **Match Score:** 16.0%
 
 📍 **Location:** AK, US USA
@@ -60,18 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Cloud / DevOps Engineer @ Toyota North America
-**Match Score:** 14.6%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, ECS, IAM, RDS, Azure, Scala, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=616b27159c04b0d8)
-
----
-
-## 7. Cloud AI Application Administrator @ Openkyber
+## 5. Cloud AI Application Administrator @ Openkyber
 **Match Score:** 13.9%
 
 📍 **Location:** AK, US USA
@@ -82,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Data Platform Engineer @ RHP Properties
+## 6. Data Platform Engineer @ RHP Properties
 **Match Score:** 13.9%
 
 📍 **Location:** Farmington Hills, MI, US USA
@@ -93,18 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Associate Data & Analytics Engineer @ Clinical Care Options LLC
-**Match Score:** 13.9%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Medallion Architecture, GCP, Spark, PySpark, Scala, Data Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=13564543da011952)
-
----
-
-## 10. Software Engineer III - PySpark/AWS @ JPMorganChase
+## 7. Software Engineer III - PySpark/AWS @ JPMorganChase
 **Match Score:** 13.2%
 
 📍 **Location:** Wilmington, DE, US USA
@@ -115,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. GCP Support Associate @ Openkyber
+## 8. GCP Support Associate @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** AK, US USA
@@ -126,18 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Data Engineer @ nan
-**Match Score:** 12.5%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, Hadoop, Hive, Spark, Scala, Oracle, SQL Server
-
-[Apply Here](https://www.indeed.com/viewjob?jk=011200ffdfb2dd05)
-
----
-
-## 13. Data Engineer - Microsoft Fabric @ Provoke Solutions
+## 9. Data Engineer - Microsoft Fabric @ Provoke Solutions
 **Match Score:** 12.5%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -148,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. GCP Support Associate @ Openkyber
+## 10. GCP Support Associate @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -159,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Junior GCP Cloud Engineer @ Openkyber
+## 11. Junior GCP Cloud Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -170,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. AI Application Architect @ Openkyber
+## 12. AI Application Architect @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -181,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Software Development Engineer in Test (SDET) @ Foodsmart
+## 13. Software Development Engineer in Test (SDET) @ Foodsmart
 **Match Score:** 11.8%
 
 📍 **Location:** West, TX, US USA
@@ -192,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Software Development Engineer in Test (SDET) @ Foodsmart
+## 14. Software Development Engineer in Test (SDET) @ Foodsmart
 **Match Score:** 11.8%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -203,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Software Development Engineer in Test (SDET) @ Foodsmart
+## 15. Software Development Engineer in Test (SDET) @ Foodsmart
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -214,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Senior Data Engineer @ Foodsmart
+## 16. Senior Data Engineer @ Foodsmart
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -225,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior Data Engineer @ Foodsmart
+## 17. Senior Data Engineer @ Foodsmart
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -236,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Data Engineer @ Foodsmart
+## 18. Senior Data Engineer @ Foodsmart
 **Match Score:** 11.1%
 
 📍 **Location:** West, TX, US USA
@@ -247,7 +203,205 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 19. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** San Antonio, TX, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b5bbdd9aeeabb621)
+
+---
+
+## 20. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c86ac4ab76e539c1)
+
+---
+
+## 21. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=06a961338cdff4c7)
+
+---
+
+## 22. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5a8dc52df424a812)
+
+---
+
+## 23. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3e3d3e1280702eb1)
+
+---
+
+## 24. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Morristown, NJ, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=61ce98159d51d115)
+
+---
+
+## 25. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e949ea802386aee4)
+
+---
+
+## 26. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=89b2dfb0f97e69c0)
+
+---
+
+## 27. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Jacksonville, FL, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5426946ff66f44cb)
+
+---
+
+## 28. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** San Diego, CA, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=966efb03a4505663)
+
+---
+
+## 29. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9cd0270d6d2fdb49)
+
+---
+
+## 30. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Los Angeles, CA, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=79d317ebbe4365ed)
+
+---
+
+## 31. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Jersey City, NJ, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=aa85be0d893f7e04)
+
+---
+
+## 32. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** San Francisco, CA, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d0728d5f76d49bf4)
+
+---
+
+## 33. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Tampa, FL, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1336edda4057fc25)
+
+---
+
+## 34. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=793c1866762fa2ca)
+
+---
+
+## 35. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4df1d967651bceda)
+
+---
+
+## 36. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+**Match Score:** 10.4%
+
+📍 **Location:** Costa Mesa, CA, US USA
+
+🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, Oracle, Data Modeling, Snowflake Schema, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8e3288bd3db664fa)
+
+---
+
+## 37. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -258,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
+## 38. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -269,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. AI Application Architect @ Openkyber
+## 39. AI Application Architect @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA

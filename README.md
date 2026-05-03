@@ -1,11 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-03 01:58
+Last updated: 2026-05-03 05:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5bbdd9aeeabb621) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c86ac4ab76e539c1) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06a961338cdff4c7) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a8dc52df424a812) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e3d3e1280702eb1) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61ce98159d51d115) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e949ea802386aee4) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89b2dfb0f97e69c0) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5426946ff66f44cb) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=966efb03a4505663) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9cd0270d6d2fdb49) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79d317ebbe4365ed) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa85be0d893f7e04) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0728d5f76d49bf4) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1336edda4057fc25) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=793c1866762fa2ca) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4df1d967651bceda) | 2026-05-03 05:30 |
+| Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Costa Mesa, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e3288bd3db664fa) | 2026-05-03 05:30 |
 | Openkyber | Junior DevOps Engineer (GCP) | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8b84e2ec1da33ebd) | 2026-05-02 17:38 |
 | Openkyber | GCP Support Associate | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=31cbdcc23afc2b45) | 2026-05-02 17:38 |
 | Openkyber | GCP Support Associate | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0d636a662e603c9d) | 2026-05-02 17:38 |
@@ -566,22 +584,6 @@ Last updated: 2026-05-03 01:58
 | PNM | IT Data Platform Data Engineer (2 Openings) | Albuquerque, NM, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b8dc4289e41437b) | 2026-04-29 05:46 |
 | Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef09c50335c1ef7e) | 2026-04-29 05:46 |
 | Parallel Domain | Senior Site Reliability Engineer | Pacific, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0fb764d6d9f3687d) | 2026-04-29 05:46 |
-| Legrand | Azure Data Engineer | West Hartford, CT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=13b7bf33022090df) | 2026-04-29 02:04 |
-| Photon | Technical Architect (Java Microservices + React JS) - Springfield | Springfield, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9a047238ed1e96c1) | 2026-04-29 02:04 |
-| Acuity Inc. | Data Engineer - AWS/Databricks - Mid Level | Reston, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5b2f2bf8d80ebd3f) | 2026-04-29 02:04 |
-| Ingevity | Data Engineer | North Charleston, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=16901eb9125326fa) | 2026-04-29 02:04 |
-| SewerAI | ML Ops Engineer (AI) | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e33a68fd8e407bf9) | 2026-04-29 02:04 |
-| Brain Corp | Software Engineer II, Data Engineering | San Diego, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae90714e471bca2a) | 2026-04-29 02:04 |
-| mSupply | Senior Engineer, Data | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ea0932849bb0db18) | 2026-04-29 02:04 |
-| Visa | Software Development Engineer- Product Reliability Engineering | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=56f3e1e9f656a621) | 2026-04-29 02:04 |
-| Visa | Senior Systems Engineer | Ashburn, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a9ab4d1357b520c) | 2026-04-29 02:04 |
-| The Washington Post | Summer Intern Software Engineering, CloudOps | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=431a675e070ed1ad) | 2026-04-29 02:04 |
-| Alliant Insurance Services | Salesforce Developer | Omaha, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7eb2c6707692ecc9) | 2026-04-29 02:04 |
-| nan | Senior Software Engineer - Product | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=32ec16e417da98d2) | 2026-04-29 02:04 |
-| Scotiabank | Senior Data Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c5dcc9f8e89ecd2) | 2026-04-29 02:04 |
-| Wipro | DEVELOPER L3(CONTRACT) | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=329c033ba97dbb91) | 2026-04-29 02:04 |
-| Photon | Backend Developer (Java) - Springfield | Springfield, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=681247860af931cb) | 2026-04-29 02:04 |
-| Avalara | Enterprise Systems Engineer V | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=738154f40eb68125) | 2026-04-29 02:04 |
 
 
 ---
