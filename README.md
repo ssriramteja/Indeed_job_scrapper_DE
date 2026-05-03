@@ -1,14 +1,11 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-02 23:35
+Last updated: 2026-05-03 01:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 23:35 |
-| Tampa Electric Company | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 23:35 |
-| RS21: A Data Science and Visualization Company | Core Developer, Full Stack | Albuquerque, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 23:35 |
 | Openkyber | Junior DevOps Engineer (GCP) | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8b84e2ec1da33ebd) | 2026-05-02 17:38 |
 | Openkyber | GCP Support Associate | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=31cbdcc23afc2b45) | 2026-05-02 17:38 |
 | Openkyber | GCP Support Associate | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0d636a662e603c9d) | 2026-05-02 17:38 |
@@ -585,15 +582,6 @@ Last updated: 2026-05-02 23:35
 | Wipro | DEVELOPER L3(CONTRACT) | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=329c033ba97dbb91) | 2026-04-29 02:04 |
 | Photon | Backend Developer (Java) - Springfield | Springfield, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=681247860af931cb) | 2026-04-29 02:04 |
 | Avalara | Enterprise Systems Engineer V | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=738154f40eb68125) | 2026-04-29 02:04 |
-| American Family Insurance | Senior Data Engineer | Madison, WI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5bdf4aa591683148) | 2026-04-28 23:45 |
-| SambaNova Systems | Cloud Site Reliability Engineer | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ae25761539c2b2d9) | 2026-04-28 23:45 |
-| CLEAR | Data Engineer II | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ceac9c56e064ddc9) | 2026-04-28 23:45 |
-| Office Ally | Senior Development Engineer (Core Engine) | Concord, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=18eeecb282323a96) | 2026-04-28 23:45 |
-| Snowflake | Senior Technical Support Engineer, Observe by Snowflake | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b918e60460b92ef4) | 2026-04-28 23:45 |
-| JPMorganChase | Software Engineer III - Big Data & AWS | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e881c656d4332d30) | 2026-04-28 23:45 |
-| Moody's | Sr Data Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3c607892a88eb133) | 2026-04-28 23:45 |
-| NetDocuments | Data Architect | Lehi, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1610940d9ea365df) | 2026-04-28 23:45 |
-| M&T Bank | Software Engineer II | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c0cc7c1bb617e5ca) | 2026-04-28 23:45 |
 
 
 ---
