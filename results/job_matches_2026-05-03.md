@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-05-03
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. IDB Invest - Data Engineer (Sr Officer) Officer @ Inter-American Development Bank
-**Match Score:** 20.8%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Data Lake Storage, Blob Storage, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables
-
-[Apply Here](https://www.indeed.com/viewjob?jk=975f0416f1286d47)
-
----
-
-## 2. Junior DevOps Engineer (GCP) @ Openkyber
+## 1. Junior DevOps Engineer (GCP) @ Openkyber
 **Match Score:** 17.4%
 
 📍 **Location:** AK, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Data Engineer (DataOps & Infrastructure Focus) @ Guidewire
+## 2. Data Engineer (DataOps & Infrastructure Focus) @ Guidewire
 **Match Score:** 16.0%
 
 📍 **Location:** Remote, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Data Engineer @ The Cheesecake Factory
+## 3. Senior Data Engineer @ The Cheesecake Factory
 **Match Score:** 13.9%
 
 📍 **Location:** Calabasas Hills, CA, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. GCP Support Associate @ Openkyber
+## 4. GCP Support Associate @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** AK, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. GCP Support Associate @ Openkyber
+## 5. GCP Support Associate @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. AI Application Architect @ Openkyber
+## 6. AI Application Architect @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
