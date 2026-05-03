@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-03
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,7 +27,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. GCP Support Associate @ Openkyber
+## 3. Data Engineer (DataOps & Infrastructure Focus) @ Guidewire
+**Match Score:** 16.0%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Redshift, S3, IAM, RDS, Spark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6125421c57f16e3e)
+
+---
+
+## 4. GCP Support Associate @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** AK, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. GCP Support Associate @ Openkyber
+## 5. GCP Support Associate @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. AI Application Architect @ Openkyber
+## 6. AI Application Architect @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
