@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-05-03
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Junior DevOps Engineer (GCP) @ Openkyber
-**Match Score:** 17.4%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** AWS, SQS, SNS, API Gateway, RDS, Azure, Google Cloud Platform, GCP, Scala, Kafka
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8b84e2ec1da33ebd)
-
----
-
-## 2. Data Engineer (DataOps & Infrastructure Focus) @ Guidewire
+## 1. Data Engineer (DataOps & Infrastructure Focus) @ Guidewire
 **Match Score:** 16.0%
 
 📍 **Location:** Remote, US USA
@@ -24,6 +13,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Glue, EMR, Lambda, Redshift, S3, IAM, RDS, Spark, Scala
 
 [Apply Here](https://www.indeed.com/viewjob?jk=6125421c57f16e3e)
+
+---
+
+## 2. Solutions Architect - Cloud Data Warehousing (GCP) @ Mattel, Inc.
+**Match Score:** 15.3%
+
+📍 **Location:** El Segundo, CA, US USA
+
+🔑 **Keywords:** IAM, RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Cloud Storage, Vertex AI, Scala, Snowflake
+
+[Apply Here](https://www.indeed.com/viewjob?jk=54329e26a8f1201c)
 
 ---
 
@@ -38,36 +38,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. GCP Support Associate @ Openkyber
-**Match Score:** 13.2%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** AWS, EMR, IAM, RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Scala, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0d636a662e603c9d)
-
----
-
-## 5. GCP Support Associate @ Openkyber
+## 4. Sr. Engineer - Safety Analytics, Tools & Databases @ nan
 **Match Score:** 11.8%
 
-📍 **Location:** AK, US USA
+📍 **Location:** Arlington, VA, US USA
 
-🔑 **Keywords:** ECS, IAM, Google Cloud Platform, GCP, Dataflow, Cloud Storage, Jenkins, Terraform, Kubernetes, Jenkins
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Snowflake, Oracle, SQL Server, NoSQL, Power BI
 
-[Apply Here](https://www.indeed.com/viewjob?jk=1097e9f29f6e8b0a)
-
----
-
-## 6. AI Application Architect @ Openkyber
-**Match Score:** 11.8%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Scala, Kafka, MLOps, MLflow, CI/CD, Jenkins, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=393116d7c03fb80f)
+[Apply Here](https://www.indeed.com/viewjob?jk=1310a0840225d1d5)
 
 ---
 

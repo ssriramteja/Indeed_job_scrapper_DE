@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-03 15:38
+Last updated: 2026-05-03 16:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Mattel, Inc. | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=54329e26a8f1201c) | 2026-05-03 16:38 |
+| nan | Sr. Engineer - Safety Analytics, Tools & Databases | Arlington, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1310a0840225d1d5) | 2026-05-03 16:38 |
 | The Cheesecake Factory | Senior Data Engineer | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aedebd419ff75231) | 2026-05-03 12:49 |
 | Guidewire | Data Engineer (DataOps & Infrastructure Focus) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6125421c57f16e3e) | 2026-05-03 11:36 |
 | Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5bbdd9aeeabb621) | 2026-05-03 05:30 |
