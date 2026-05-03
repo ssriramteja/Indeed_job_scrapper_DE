@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-03 18:45
+Last updated: 2026-05-03 19:47
 
 ### 🚀 Daily Job Matches
 
@@ -506,19 +506,6 @@ Last updated: 2026-05-03 18:45
 | BV Teck | EDW Quality Engineer (QA / Data Warehouse Tester) | Basking Ridge, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc92b881a9200b86) | 2026-04-29 20:54 |
 | SAP | SAP NS2 Sr. Cloud Engineer - SAP Platforms | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=67340d847b0f971b) | 2026-04-29 20:54 |
 | First Horizon Bank | IT Developer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7533d2e71665596c) | 2026-04-29 20:54 |
-| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=11348aaa79db186f) | 2026-04-29 19:10 |
-| Photon | Sr Developer - Backend (Java Sprinboot) - Plano, TX | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=147f2ed637995232) | 2026-04-29 19:10 |
-| micro1 | DevOps Engineer - US | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=77ce756f28346f96) | 2026-04-29 19:10 |
-| V-ENVISAGE SOLUTIONS INC | ETL Tester | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4cc527ce35e5f595) | 2026-04-29 19:10 |
-| Radiology One | Network Engineer/ PACS Admin | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=780bff482e354d4c) | 2026-04-29 19:10 |
-| TailoredSearch | DevOps & MLOps Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9675df96a6994487) | 2026-04-29 19:10 |
-| Nordstrom | Senior Network Engineer (Hybrid - Seattle, WA) | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=36b179eab4fbd4db) | 2026-04-29 19:10 |
-| McAfee | Software Developer in Test - SDET | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7397c28f47e35c7) | 2026-04-29 19:10 |
-| micro1 | Software Engineer (Finance Team) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9cad8602f33d9279) | 2026-04-29 19:10 |
-| ServiceTitan | Senior Software Engineer | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=030e43d608ff060a) | 2026-04-29 19:10 |
-| 3Pillar Global | Architect AI ML | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2d6b6112e0fb25e) | 2026-04-29 19:10 |
-| Nightingale College | Senior Software Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65756ab49eefec88) | 2026-04-29 19:10 |
-| Huntington Bank | IS Technical Specialist | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=692fdccdd13ebb3b) | 2026-04-29 19:10 |
 
 
 ---
