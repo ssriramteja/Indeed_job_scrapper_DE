@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-03 16:38
+Last updated: 2026-05-03 17:39
 
 ### 🚀 Daily Job Matches
 
@@ -518,24 +518,6 @@ Last updated: 2026-05-03 16:38
 | 3Pillar Global | Architect AI ML | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2d6b6112e0fb25e) | 2026-04-29 19:10 |
 | Nightingale College | Senior Software Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65756ab49eefec88) | 2026-04-29 19:10 |
 | Huntington Bank | IS Technical Specialist | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=692fdccdd13ebb3b) | 2026-04-29 19:10 |
-| Tata Consultancy Services (TCS) | Senior Engineer- Technology | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a5b12becd9332b9d) | 2026-04-29 17:19 |
-| ERC Pathlight | Associate Cloud Data Engineer | Denver, CO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ce8a7529cf2c2258) | 2026-04-29 17:19 |
-| Tata Consultancy Services (TCS) | Java Engineer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=293b45603c9830da) | 2026-04-29 17:19 |
-| MRCOOL, LLC | Oracle NetSuite Data Engineer | Hickory, KY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c132bd645a73aa20) | 2026-04-29 17:19 |
-| CFRA Research | Full Stack Developer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=69c6e589e7409759) | 2026-04-29 17:19 |
-| Tata Consultancy Services (TCS) | Senior Engineer - Agentic AI | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=580d44c93ad196b2) | 2026-04-29 17:19 |
-| Wilson Elser | Enterprise Data Architect | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=64b9306d8fcf8bad) | 2026-04-29 17:19 |
-| GeoStabilization International | Gen AI Platform & Deployment Engineer | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=358142c776463567) | 2026-04-29 17:19 |
-| BOK Financial | Senior Data Engineer (AWS, FiveTran, dbt, Snowflake) | Richardson, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f8b6b881616069c2) | 2026-04-29 17:19 |
-| Fiserv | Summer Intern - Data Engineer | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=81b5a9e990dda6aa) | 2026-04-29 17:19 |
-| Tata Consultancy Services (TCS) | Java/.NET Developer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=88378f15de50673d) | 2026-04-29 17:19 |
-| Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ddcdc29f72dd2b8) | 2026-04-29 17:19 |
-| Tata Consultancy Services (TCS) | Sr. Palantir Developer | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=794267568ebf50df) | 2026-04-29 17:19 |
-| Tata Consultancy Services (TCS) | Sr. Palantir Developer | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af5152de96557363) | 2026-04-29 17:19 |
-| Tata Consultancy Services (TCS) | Big Data Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2360e7b180f47f44) | 2026-04-29 17:19 |
-| Tata Consultancy Services (TCS) | Snowflake Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee8a8409fe728e8a) | 2026-04-29 17:19 |
-| VTekis Consulting LLP | Platform Architect - FinOps experience is Mandatory | Plainsboro, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ad43b99cd7044e9) | 2026-04-29 17:19 |
-| nan | Technical QA Analyst II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b752f77bb2fc7c7) | 2026-04-29 17:19 |
 
 
 ---
