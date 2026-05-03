@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-03
 
-**Total Jobs Found:** 39
+**Total Jobs Found:** 29
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -60,18 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Platform Engineer @ RHP Properties
-**Match Score:** 13.9%
-
-📍 **Location:** Farmington Hills, MI, US USA
-
-🔑 **Keywords:** RDS, Azure, Databricks, Medallion Architecture, Scala, Snowflake, SQL Server, Data Modeling, Star Schema, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3d8ec5a3c163d85b)
-
----
-
-## 7. Software Engineer III - PySpark/AWS @ JPMorganChase
+## 6. Software Engineer III - PySpark/AWS @ JPMorganChase
 **Match Score:** 13.2%
 
 📍 **Location:** Wilmington, DE, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. GCP Support Associate @ Openkyber
+## 7. GCP Support Associate @ Openkyber
 **Match Score:** 13.2%
 
 📍 **Location:** AK, US USA
@@ -93,18 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Data Engineer - Microsoft Fabric @ Provoke Solutions
-**Match Score:** 12.5%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Unity Catalog, Spark, PySpark, Scala, ELT, dbt, Power BI
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3b922fcc276be07d)
-
----
-
-## 10. GCP Support Associate @ Openkyber
+## 8. GCP Support Associate @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -115,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Junior GCP Cloud Engineer @ Openkyber
+## 9. Junior GCP Cloud Engineer @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -126,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. AI Application Architect @ Openkyber
+## 10. AI Application Architect @ Openkyber
 **Match Score:** 11.8%
 
 📍 **Location:** AK, US USA
@@ -137,73 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Software Development Engineer in Test (SDET) @ Foodsmart
-**Match Score:** 11.8%
-
-📍 **Location:** West, TX, US USA
-
-🔑 **Keywords:** AWS, Redshift, S3, RDS, Scala, ETL, CI/CD, Jenkins, GitHub Actions, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1ff1351b933e73ff)
-
----
-
-## 14. Software Development Engineer in Test (SDET) @ Foodsmart
-**Match Score:** 11.8%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** AWS, Redshift, S3, RDS, Scala, ETL, CI/CD, Jenkins, GitHub Actions, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=547c7125b0b30619)
-
----
-
-## 15. Software Development Engineer in Test (SDET) @ Foodsmart
-**Match Score:** 11.8%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Redshift, S3, RDS, Scala, ETL, CI/CD, Jenkins, GitHub Actions, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=364f3e4259c47f25)
-
----
-
-## 16. Senior Data Engineer @ Foodsmart
-**Match Score:** 11.1%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Redshift, RDS, BigQuery, Scala, Snowflake, PostgreSQL, MySQL, Dimensional Modeling, Airflow, Apache Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=aaeba0c578886154)
-
----
-
-## 17. Senior Data Engineer @ Foodsmart
-**Match Score:** 11.1%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** Redshift, RDS, BigQuery, Scala, Snowflake, PostgreSQL, MySQL, Dimensional Modeling, Airflow, Apache Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1c32c34ff06b9605)
-
----
-
-## 18. Senior Data Engineer @ Foodsmart
-**Match Score:** 11.1%
-
-📍 **Location:** West, TX, US USA
-
-🔑 **Keywords:** Redshift, RDS, BigQuery, Scala, Snowflake, PostgreSQL, MySQL, Dimensional Modeling, Airflow, Apache Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9c0f59a5cadbe7f1)
-
----
-
-## 19. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 11. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -214,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 12. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
@@ -225,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 13. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -236,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 14. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -247,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 15. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
@@ -258,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 16. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Morristown, NJ, US USA
@@ -269,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 17. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -280,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 18. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
@@ -291,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 19. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -302,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 20. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** San Diego, CA, US USA
@@ -313,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 21. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -324,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 22. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -335,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 23. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -346,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 24. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -357,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 25. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Tampa, FL, US USA
@@ -368,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 26. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -379,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 27. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -390,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
+## 28. Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -401,29 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
-**Match Score:** 10.4%
-
-📍 **Location:** Bethesda, MD, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, NoSQL, Azure DevOps, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b221a3fa0ea5bd27)
-
----
-
-## 38. Senior Software Engineer - (C#/Microservices/Azure) @ GEICO
-**Match Score:** 10.4%
-
-📍 **Location:** Palo Alto, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, NoSQL, Azure DevOps, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cc63a267293974cf)
-
----
-
-## 39. AI Application Architect @ Openkyber
+## 29. AI Application Architect @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA

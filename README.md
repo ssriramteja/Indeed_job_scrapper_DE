@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-03 05:30
+Last updated: 2026-05-03 07:48
 
 ### 🚀 Daily Job Matches
 
@@ -575,15 +575,6 @@ Last updated: 2026-05-03 05:30
 | NTT DATA | Developer / Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dc02f3b1065e1623) | 2026-04-29 08:02 |
 | NTT DATA | Site Reliability Engineer | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f4ef0ab2b33f3b) | 2026-04-29 08:02 |
 | Pacific Life | Sr Data Governance, Data Quality Analyst | Newport Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd5778480f15c573) | 2026-04-29 08:02 |
-| General Motors (GM) | AI/ML Data Scientist (GPSSC) | Warren, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=178a3edf86886b28) | 2026-04-29 05:46 |
-| Snowflake | Senior PS Sales Solutions Architect | OR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8380914e78d30a86) | 2026-04-29 05:46 |
-| Equifax | Senior Software Engineer - Backend (Java) | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2213405e0bc35e97) | 2026-04-29 05:46 |
-| Boeing | Cloud DevOps Programmer Analyst (Mid-Level or Senior) | Seal Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6418cc76af48cb9a) | 2026-04-29 05:46 |
-| Goldman Sachs | AMD Public-Dallas-Associate-Software Engineering | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9c2afaac9488468d) | 2026-04-29 05:46 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a7b93f1801a596bf) | 2026-04-29 05:46 |
-| PNM | IT Data Platform Data Engineer (2 Openings) | Albuquerque, NM, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b8dc4289e41437b) | 2026-04-29 05:46 |
-| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef09c50335c1ef7e) | 2026-04-29 05:46 |
-| Parallel Domain | Senior Site Reliability Engineer | Pacific, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0fb764d6d9f3687d) | 2026-04-29 05:46 |
 
 
 ---
