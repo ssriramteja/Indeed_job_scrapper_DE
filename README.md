@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-03 20:34
+Last updated: 2026-05-03 21:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Scroll Tab | PHP Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c010e703dc6247a2) | 2026-05-03 21:33 |
 | Mattel, Inc. | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e22eed84f3a0e5a) | 2026-05-03 18:45 |
 | Mattel, Inc. | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=54329e26a8f1201c) | 2026-05-03 16:38 |
 | nan | Sr. Engineer - Safety Analytics, Tools & Databases | Arlington, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1310a0840225d1d5) | 2026-05-03 16:38 |
@@ -493,19 +494,6 @@ Last updated: 2026-05-03 20:34
 | Grainger | Senior Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8074af46a35d5ef2) | 2026-04-29 21:53 |
 | NetDocuments | Senior Business Intelligence Specialist | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f46a5d9960a5b5f1) | 2026-04-29 21:53 |
 | Agri-Mark, Inc. / Cabot Creamery | Data Engineer | Waitsfield, VT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7fb12ce4b2932b6b) | 2026-04-29 21:53 |
-| American Airlines | Engineer/Sr Engineer, IT Data | Fort Worth, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=75e15a03b23795b5) | 2026-04-29 20:54 |
-| Datalink Networks Inc. | AI Engineer | Valencia, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8fa2a7970470f14c) | 2026-04-29 20:54 |
-| MAXhealth | Data Platform Engineer- 6 Month Assignment | Sarasota, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0ed470f2bb02fca0) | 2026-04-29 20:54 |
-| DATAMAXIS | Quality Assurance Analyst / ETL Tester | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d7a677f4736a542) | 2026-04-29 20:54 |
-| SCAN Health Plan | Full Stack, Data & Analytics Engineer | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=76df256873f2c893) | 2026-04-29 20:54 |
-| Equifax | Software Engineer - Intermediate | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f35dd0ad91911ba0) | 2026-04-29 20:54 |
-| NTT DATA | System Architect IV - Onsite/Hybrid | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea6deb35ddeb25ec) | 2026-04-29 20:54 |
-| Carrier | Senior Data Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c01a1373d407b3e6) | 2026-04-29 20:54 |
-| ServiceTitan | Senior Software Engineer | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c7049082ec88ec5c) | 2026-04-29 20:54 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8831ab8789584700) | 2026-04-29 20:54 |
-| BV Teck | EDW Quality Engineer (QA / Data Warehouse Tester) | Basking Ridge, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc92b881a9200b86) | 2026-04-29 20:54 |
-| SAP | SAP NS2 Sr. Cloud Engineer - SAP Platforms | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=67340d847b0f971b) | 2026-04-29 20:54 |
-| First Horizon Bank | IT Developer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7533d2e71665596c) | 2026-04-29 20:54 |
 
 
 ---

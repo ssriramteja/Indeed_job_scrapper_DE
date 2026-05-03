@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-03
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -57,6 +57,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Snowflake, Oracle, SQL Server, NoSQL, Power BI
 
 [Apply Here](https://www.indeed.com/viewjob?jk=1310a0840225d1d5)
+
+---
+
+## 6. PHP Developer @ Scroll Tab
+**Match Score:** 11.1%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, GCP, Spark, Kafka, PostgreSQL, MongoDB, Cassandra, NoSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c010e703dc6247a2)
 
 ---
 
