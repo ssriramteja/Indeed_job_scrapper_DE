@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-03 07:48
+Last updated: 2026-05-03 09:14
 
 ### 🚀 Daily Job Matches
 
@@ -569,12 +569,6 @@ Last updated: 2026-05-03 07:48
 | JPMorganChase | Data Domain Architect Senior Associate | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=25a489bf0b432c45) | 2026-04-29 10:47 |
 | JPMorganChase | Software Engineer III - Data Protection & Recovery | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=841874e515da5e28) | 2026-04-29 10:47 |
 | JPMorganChase | Machine Learning Engineer – Document Digitization (LLMs)-Senior Associate | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb22b5fd6ba5a411) | 2026-04-29 10:47 |
-| Wells Fargo | Azure Data & Microsoft Fabric Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5f7d7f71cdcf553a) | 2026-04-29 08:02 |
-| Wells Fargo | Azure Data & Microsoft Fabric Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=93d133881ebcebcf) | 2026-04-29 08:02 |
-| NTT DATA | Developer / Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3c2ecce1ec4e1cba) | 2026-04-29 08:02 |
-| NTT DATA | Developer / Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dc02f3b1065e1623) | 2026-04-29 08:02 |
-| NTT DATA | Site Reliability Engineer | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f4ef0ab2b33f3b) | 2026-04-29 08:02 |
-| Pacific Life | Sr Data Governance, Data Quality Analyst | Newport Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd5778480f15c573) | 2026-04-29 08:02 |
 
 
 ---
