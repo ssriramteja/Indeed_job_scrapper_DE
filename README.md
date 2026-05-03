@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-03 21:33
+Last updated: 2026-05-03 22:31
 
 ### 🚀 Daily Job Matches
 
@@ -476,24 +476,6 @@ Last updated: 2026-05-03 21:33
 | NavitasPartners | DevOps Engineer — Data & AI Platforms - AIRLKLHV | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8838a726bcf4f615) | 2026-04-29 22:48 |
 | NavitasPartners | DevOps Engineer — Data & AI Platforms - AIRLKLHV | Naperville, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ade083334b9a870) | 2026-04-29 22:48 |
 | JPMorganChase | PySpark Software Engineer III - Python/Java/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e62bf7828019acf) | 2026-04-29 22:48 |
-| Boeing | Computing Architect (Mid-Level or Senior) | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=38348253fb6b3f9a) | 2026-04-29 21:53 |
-| Swire Coca-Cola | Sr. Data Engineer | Draper, UT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7d629ec9761b3e8f) | 2026-04-29 21:53 |
-| Swire Coca-Cola | Senior Data Engineer | Draper, UT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=17a926a902e4ab1a) | 2026-04-29 21:53 |
-| Tata Consultancy Services (TCS) | Senior Engineer - AI & Data Management | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a5d16b369ad8f0eb) | 2026-04-29 21:53 |
-| Block | Senior Software Engineer, Data Ingestion Platform | San Francisco Bay Area, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0797708a811c3517) | 2026-04-29 21:53 |
-| NiCE | Senior Full Stack Engineer | Sandy, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b66b03845fe2c951) | 2026-04-29 21:53 |
-| Tata Consultancy Services (TCS) | Java Engineer | Oakland, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b77e98c1795bddf7) | 2026-04-29 21:53 |
-| Miron Construction Co., Inc. | Analytics Engineer | Neenah, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e5feb851e71d2137) | 2026-04-29 21:53 |
-| Tata Consultancy Services (TCS) | Java Developer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d3618c6745c7b69) | 2026-04-29 21:53 |
-| Tata Consultancy Services (TCS) | Machine learning Engineer | Pennington, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=069d340f07134822) | 2026-04-29 21:53 |
-| Tata Consultancy Services (TCS) | Data scientist | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5bfed15cc40a8e20) | 2026-04-29 21:53 |
-| Tata Consultancy Services (TCS) | Azure Data Engineer | Township of Hamilton, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed4e10db55253ba6) | 2026-04-29 21:53 |
-| Tata Consultancy Services (TCS) | Data Engineer | Las Vegas, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8c7caec4c69e7fec) | 2026-04-29 21:53 |
-| NetDocuments | Sr Business Intelligence Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7b5e31188e0caf7) | 2026-04-29 21:53 |
-| Tata Consultancy Services (TCS) | Snowflake Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3378351c12aad9f8) | 2026-04-29 21:53 |
-| Grainger | Senior Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8074af46a35d5ef2) | 2026-04-29 21:53 |
-| NetDocuments | Senior Business Intelligence Specialist | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f46a5d9960a5b5f1) | 2026-04-29 21:53 |
-| Agri-Mark, Inc. / Cabot Creamery | Data Engineer | Waitsfield, VT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7fb12ce4b2932b6b) | 2026-04-29 21:53 |
 
 
 ---
