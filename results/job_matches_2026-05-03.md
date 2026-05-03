@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-03
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -23,11 +23,22 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 🔑 **Keywords:** IAM, RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Cloud Storage, Vertex AI, Scala, Snowflake
 
+[Apply Here](https://www.indeed.com/viewjob?jk=8e22eed84f3a0e5a)
+
+---
+
+## 3. Solutions Architect - Cloud Data Warehousing (GCP) @ Mattel, Inc.
+**Match Score:** 15.3%
+
+📍 **Location:** El Segundo, CA, US USA
+
+🔑 **Keywords:** IAM, RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Cloud Storage, Vertex AI, Scala, Snowflake
+
 [Apply Here](https://www.indeed.com/viewjob?jk=54329e26a8f1201c)
 
 ---
 
-## 3. Senior Data Engineer @ The Cheesecake Factory
+## 4. Senior Data Engineer @ The Cheesecake Factory
 **Match Score:** 13.9%
 
 📍 **Location:** Calabasas Hills, CA, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Sr. Engineer - Safety Analytics, Tools & Databases @ nan
+## 5. Sr. Engineer - Safety Analytics, Tools & Databases @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Arlington, VA, US USA
