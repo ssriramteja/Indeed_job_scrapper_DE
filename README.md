@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-03 22:31
+Last updated: 2026-05-03 23:36
 
 ### 🚀 Daily Job Matches
 
@@ -467,15 +467,6 @@ Last updated: 2026-05-03 22:31
 | Recutify Inc. | Data Engineer with AI Engineering | Iselin, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d38c1b47e8e6f1fa) | 2026-04-29 23:45 |
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e77d95b867714292) | 2026-04-29 23:45 |
 | Amplitude | Software Engineer II, Data Warehouse | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d97f7bc28ece22e8) | 2026-04-29 23:45 |
-| Infopeople Corporation | Azure Data Engineer with Power BI and C# .NET exp--Need Government domain | Queens, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=a07efb549ef55e02) | 2026-04-29 22:48 |
-| nan | AWS Data Engineer with Databricks Exp. | Jersey City, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f0c0bcd9b11d0c54) | 2026-04-29 22:48 |
-| The University of Michigan | Data Engineer Senior | Ann Arbor, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bb7fb4fe859681f5) | 2026-04-29 22:48 |
-| Voya Financial | Senior Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=33104d171736f045) | 2026-04-29 22:48 |
-| NavitasPartners | DevOps Engineer — Data & AI Platforms - AIRLKLHV | Aurora, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=54994fef84e9e218) | 2026-04-29 22:48 |
-| NavitasPartners | DevOps Engineer — Data & AI Platforms - AIRLKLHV | Joliet, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7b23a51a16ead4c) | 2026-04-29 22:48 |
-| NavitasPartners | DevOps Engineer — Data & AI Platforms - AIRLKLHV | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8838a726bcf4f615) | 2026-04-29 22:48 |
-| NavitasPartners | DevOps Engineer — Data & AI Platforms - AIRLKLHV | Naperville, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ade083334b9a870) | 2026-04-29 22:48 |
-| JPMorganChase | PySpark Software Engineer III - Python/Java/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e62bf7828019acf) | 2026-04-29 22:48 |
 
 
 ---
