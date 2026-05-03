@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-03 11:36
+Last updated: 2026-05-03 12:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Cheesecake Factory | Senior Data Engineer | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aedebd419ff75231) | 2026-05-03 12:49 |
 | Guidewire | Data Engineer (DataOps & Infrastructure Focus) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6125421c57f16e3e) | 2026-05-03 11:36 |
 | Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5bbdd9aeeabb621) | 2026-05-03 05:30 |
 | Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c86ac4ab76e539c1) | 2026-05-03 05:30 |
