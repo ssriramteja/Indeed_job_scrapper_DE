@@ -1,11 +1,35 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-04 15:04
+Last updated: 2026-05-04 17:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fidelity Investments | Senior Data Engineer | Westlake, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5e54c3f102344248) | 2026-05-04 17:23 |
+| Qode | Data Engineer | San Diego, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=709c18d442014735) | 2026-05-04 17:23 |
+| Openkyber | AWS Technical Apprentice / Trainee | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ad8bcaa8fa27acf0) | 2026-05-04 17:23 |
+| Openkyber | PingOne Cloud Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=30e1948be295dcc1) | 2026-05-04 17:23 |
+| Openkyber | Junior Cloud Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56ccf65ff48d085d) | 2026-05-04 17:23 |
+| Blue Photon | Software Engineer | Shelby, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ff88f005d63b8626) | 2026-05-04 17:23 |
+| Openkyber | Cloud Support Associate | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=32d18419724cd3ba) | 2026-05-04 17:23 |
+| Openkyber | AWS Technical Apprentice / Trainee | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=feb3059078a0901f) | 2026-05-04 17:23 |
+| The Cigna Group | Software Engineering Advisor- Hybrid | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d922efe548db8f2d) | 2026-05-04 17:23 |
+| SWBC | Data Engineer | San Antonio, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca4f492a729e54b0) | 2026-05-04 17:23 |
+| Openkyber | AWS API Gateway Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dd9ff20d039737ab) | 2026-05-04 17:23 |
+| Lithic | Senior Software Engineer, Data Platform | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b514cb1820e9388e) | 2026-05-04 17:23 |
+| Lithic | Senior Software Engineer, Data Platform | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6c521f0d67306e74) | 2026-05-04 17:23 |
+| Openkyber | OpenAM | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5c9c3f737864e384) | 2026-05-04 17:23 |
+| Openkyber | AWS Technical Apprentice / Trainee | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f095b443e497d6af) | 2026-05-04 17:23 |
+| Openkyber | AWS Technical Apprentice / Trainee | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fc15090d375b6ac1) | 2026-05-04 17:23 |
+| Economic Mobility Systems | Senior Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=153cac663bc30f74) | 2026-05-04 17:23 |
+| Openkyber | AWS API Gateway Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=583898b799180afb) | 2026-05-04 17:23 |
+| Arvest Bank | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f0f7634d581119dc) | 2026-05-04 17:23 |
+| Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c5a14d40ff745332) | 2026-05-04 17:23 |
+| Qode | Python Web Developer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ec34b48fe754f748) | 2026-05-04 17:23 |
+| STERIS | Enterprise Data Modeler / Data Architect | Mentor, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a87bcde3a06ac6f) | 2026-05-04 17:23 |
+| EXL Service | Technical Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2265f7a07a9ea472) | 2026-05-04 17:23 |
+| Heygen | Backend Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=423ca554834f103a) | 2026-05-04 17:23 |
 | Ashapura Softech Pvt. Ltd. | Snowflake Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d0f96741c29b2cd0) | 2026-05-04 15:04 |
 | BSI Financial Services | Software Engineering / Data Science Intern | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=99ae275d5381f8d9) | 2026-05-04 15:04 |
 | Equus Computer Systems | Software Engineer II | City of Industry, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=917465a6c5df167b) | 2026-05-04 15:04 |
@@ -431,9 +455,6 @@ Last updated: 2026-05-04 15:04
 | General Motors (GM) | Senior Software Engineer - GM Motorsports | Concord, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f660072154c9a61) | 2026-04-30 18:05 |
 | Magnolia | Information Technology - Data Integration Engineer | Waco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22a077ceb692752f) | 2026-04-30 18:05 |
 | General Motors (GM) | AV Safety Engineering Analytics Engineer (GPSSC) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac2326d031282c1e) | 2026-04-30 18:05 |
-| Texas Capital Bank | Platform Engineer Senior | Richardson, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=09ac756571edd2b5) | 2026-04-30 16:23 |
-| Start Tek Pro | Data Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f5fc1df6a4b1ab2) | 2026-04-30 16:23 |
-| Equifax | Software Engineer - Intermediate | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad45ab734c8ec6fe) | 2026-04-30 16:23 |
 
 
 ---
