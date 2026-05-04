@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-04 05:36
+Last updated: 2026-05-04 08:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eb9af83131be97f8) | 2026-05-04 08:18 |
+| WesBanco Bank, Inc. | Senior Data Engineer - Data & Analytics | Bowie, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3689d938fd4bd78c) | 2026-05-04 08:18 |
+| Dynamic Consulting Group | Power BI Specialist | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e353c5cce39b1c4f) | 2026-05-04 08:18 |
 | Growth Protocol | Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=73f78f46255a670f) | 2026-05-04 05:36 |
 | Balfour Beatty | Solutions Architect | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a704639955f34e73) | 2026-05-04 05:36 |
 | Alternative Information Systems | Senior Data Center/Server Administrator | Buffalo, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc658fe2914f7423) | 2026-05-04 01:59 |
@@ -430,29 +433,6 @@ Last updated: 2026-05-04 05:36
 | HEB | Senior Software Engineer - Python - AI Platform | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a91ebd3753be4d7e) | 2026-04-30 10:47 |
 | Armor | Site Reliability Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19bc2fde31ea0812) | 2026-04-30 10:47 |
 | RELX Group | Software Engineer II | Evanston, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3493170e435cd93) | 2026-04-30 10:47 |
-| Blue Orange Digital | Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8b7e79accc7c2528) | 2026-04-30 08:05 |
-| TeraWatt Infrastructure | Senior Data Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3cf13a405f291139) | 2026-04-30 08:05 |
-| Blue Orange Digital | Senior Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb853658114af880) | 2026-04-30 08:05 |
-| Blue Orange Digital | Senior Business Data Analyst | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3188efd79bf1e92f) | 2026-04-30 08:05 |
-| Subway | Sr. API Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6b02c1c05cdd16b9) | 2026-04-30 08:05 |
-| Subway | Sr. API Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0d9aa07e40090d93) | 2026-04-30 08:05 |
-| Subway | Sr. API Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4277c27f2f782266) | 2026-04-30 08:05 |
-| Subway | Sr. API Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ef0f69867247772a) | 2026-04-30 08:05 |
-| Subway | Senior Software Engineer, APIs | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d448f5377465e81) | 2026-04-30 08:05 |
-| Subway | Sr. API Engineer | Shelton, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=aca94a7c92083f9d) | 2026-04-30 08:05 |
-| RCR Technology | Senior Tableau/Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=872667539c482fb1) | 2026-04-30 08:05 |
-| Elevance Health | Senior Backend Architect - Device Management Platforms | Walnut Creek, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=143762682a9d9c04) | 2026-04-30 08:05 |
-| Resideo | Sr Adv Software Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2949635dab79e305) | 2026-04-30 08:05 |
-| Subway | Sr. QE (Senior Quality Engineer, APIs) | Shelton, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4837acc95c44131) | 2026-04-30 08:05 |
-| Subway | Sr. QE (Senior Quality Engineer, APIs) | Shelton, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5641d051b78dc3e5) | 2026-04-30 08:05 |
-| Tata Consultancy Services (TCS) | Technical Architect-Datawarehousing | Marlborough, MA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=fe34bd7ad3cc55cc) | 2026-04-30 05:50 |
-| Applied Technology Services | Databricks Engineer | Adelphi, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=88d5142fe158dffb) | 2026-04-30 05:50 |
-| Cox Automotive | Software Engineer I | Irvine, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b0a8e6675d7ad8e4) | 2026-04-30 05:50 |
-| Oracle | Applications Developer | Redwood City, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bd4c524177840a8d) | 2026-04-30 05:50 |
-| Fidelity TalentSource | Senior AWS Cloud Developer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9def542b10d50c48) | 2026-04-30 05:50 |
-| Motiva Enterprises LLC | Data and Analytics Platform Architect | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45b3fd0f3632a8d6) | 2026-04-30 05:50 |
-| Mayo Clinic | Associate Software Engineer | Rochester, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8081ee3f40d7d31c) | 2026-04-30 05:50 |
-| JLL | Business Analyst | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=211199e7b69b9eed) | 2026-04-30 05:50 |
 
 
 ---

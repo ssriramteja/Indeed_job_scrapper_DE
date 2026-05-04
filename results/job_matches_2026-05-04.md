@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-04
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 12
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -60,7 +60,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Solutions Architect @ Balfour Beatty
+## 6. Data Architect - C2H - Onsite @ TEEMA
+**Match Score:** 13.2%
+
+📍 **Location:** Flower Mound, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, GCP, Scala, Snowflake, Databricks Lakehouse, Dimensional Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eb9af83131be97f8)
+
+---
+
+## 7. Solutions Architect @ Balfour Beatty
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -71,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Sr. Engineer - Safety Analytics, Tools & Databases @ nan
+## 8. Sr. Engineer - Safety Analytics, Tools & Databases @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Arlington, VA, US USA
@@ -79,17 +90,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Snowflake, Oracle, SQL Server, NoSQL, Power BI
 
 [Apply Here](https://www.indeed.com/viewjob?jk=1310a0840225d1d5)
-
----
-
-## 8. PHP Developer @ Scroll Tab
-**Match Score:** 11.1%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, Azure, Google Cloud Platform, GCP, Spark, Kafka, PostgreSQL, MongoDB, Cassandra, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c010e703dc6247a2)
 
 ---
 
@@ -101,6 +101,39 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, CI/CD, Jenkins, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=fc658fe2914f7423)
+
+---
+
+## 10. Senior Data Engineer - Data & Analytics @ WesBanco Bank, Inc.
+**Match Score:** 11.1%
+
+📍 **Location:** Bowie, MD, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Star Schema, Snowflake Schema, ETL, ELT, dbt
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3689d938fd4bd78c)
+
+---
+
+## 11. PHP Developer @ Scroll Tab
+**Match Score:** 11.1%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, GCP, Spark, Kafka, PostgreSQL, MongoDB, Cassandra, NoSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c010e703dc6247a2)
+
+---
+
+## 12. Power BI Specialist @ Dynamic Consulting Group
+**Match Score:** 10.4%
+
+📍 **Location:** Alpharetta, GA, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Oracle, SQL Server, PostgreSQL, MySQL, Data Modeling, Star Schema, Dimension Tables
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e353c5cce39b1c4f)
 
 ---
 
