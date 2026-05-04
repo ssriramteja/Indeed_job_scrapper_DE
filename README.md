@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-04 20:59
+Last updated: 2026-05-04 22:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Lambda | Senior Data Engineer | San Jose, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8bc5f1f057c765d5) | 2026-05-04 22:02 |
+| Lambda | Senior Data Engineer | San Jose, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8af28ed89b784a62) | 2026-05-04 22:02 |
+| Lambda | Senior Data Engineer | San Francisco, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=da31900dca44a1d5) | 2026-05-04 22:02 |
+| Public Storage | Senior Software Engineer | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=19e02a6c8daa3abf) | 2026-05-04 22:02 |
+| Vizient, Inc. | Solutions Architect | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=432ff4d5fea02cb3) | 2026-05-04 22:02 |
+| R1 RCM | Senior Software Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b7f74e7816022c93) | 2026-05-04 22:02 |
+| Signet Jewelers | Data Engineer III | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4816c8c575f3d666) | 2026-05-04 22:02 |
+| Arvest Bank | Associate Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b18a8ea57306c18) | 2026-05-04 22:02 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-04 22:02 |
+| Optum | Senior Software Engineer (Contact Center) | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84a3d2da599bb8c0) | 2026-05-04 22:02 |
+| Tata Consultancy Services (TCS) | MS Fabric | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a090799efcb0db1d) | 2026-05-04 22:02 |
 | Fidelity TalentSource | Data Engineer | Durham, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a1c8dbe9666075a2) | 2026-05-04 20:59 |
 | DTN | Senior Software Engineer | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cae956ca669aed0b) | 2026-05-04 20:59 |
 | Esri | Software Development Engineer II – Data Management, ArcGIS Enterprise | Redlands, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cf9ee1979cb76698) | 2026-05-04 20:59 |
@@ -13,7 +24,6 @@ Last updated: 2026-05-04 20:59
 | GPS Services, Inc. | Sr. ML Engineer – ML & Applied AI | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d55e498e6d48b52f) | 2026-05-04 20:59 |
 | Neomax | Systems Engineer | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f16a3c93041c1854) | 2026-05-04 20:59 |
 | Florida Panthers | Platform Engineer | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de7c00894f2af9e6) | 2026-05-04 20:59 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-04 20:59 |
 | General Motors (GM) | Advanced Automation Engineer | Warren, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14533c5ea4cb3a4c) | 2026-05-04 20:59 |
 | Perma Technologies | API Designer & Architect | Jersey City, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9a5e3543625f308e) | 2026-05-04 19:15 |
 | Eli Lilly | Software Engineer, AI & Clinical Applications | Indianapolis, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=524366a1c78290a5) | 2026-05-04 19:15 |
@@ -369,62 +379,6 @@ Last updated: 2026-05-04 20:59
 | JPMorganChase | Software Engineer III – Python/PySpark/AWS | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=991d5ceb2074b137) | 2026-04-30 22:43 |
 | JPMorganChase | PySpark Data Engineer III - Python/Java/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=926547138e49a51b) | 2026-04-30 22:43 |
 | Douglas Machine Inc. | Senior Business Intelligence Developer | Alexandria, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9d5d216fe71b48e) | 2026-04-30 22:43 |
-| Wells Fargo | Senior Software Engineer – Python / PySpark (Mainframe Modernization) (contract) | San Francisco, CA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=015fe1a494f266bf) | 2026-04-30 21:50 |
-| Tata Consultancy Services (TCS) | Technical Architect-Datawarehousing | Marlborough, MA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=10720f22d9d38621) | 2026-04-30 21:50 |
-| nan | Full Stack Data Engineer | Morrisville, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=de10d304d09880c3) | 2026-04-30 21:50 |
-| E Logic | Software Development, Cloud Architecture, IT Support & Data Analytics | Bethesda, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=61f7a9c234166321) | 2026-04-30 21:50 |
-| Vibotek LLC | AI Engineer / Data Scientist | St. Louis, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=08d6323e8d4d4853) | 2026-04-30 21:50 |
-| General Motors (GM) | Senior Backend Software Engineer/SRE - GM Energy | Warren, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0413ce8de5fcca6a) | 2026-04-30 21:50 |
-| Tata Consultancy Services (TCS) | Senior Engineer - Agentic AI | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5daf8f72a4fd9ab6) | 2026-04-30 21:50 |
-| SCAN Health Plan | Full Stack, Data & Analytics Engineer | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b0db4093988ff3c) | 2026-04-30 21:50 |
-| Cityblock Health | Platform Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76d763c610ac1510) | 2026-04-30 21:50 |
-| General Motors (GM) | Senior Backend Software Engineer- GM Energy | Warren, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=51fb08298ca2e944) | 2026-04-30 21:50 |
-| General Motors (GM) | Senior Software Engineer – Cloud Engineering & FinOps | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d576082b1c56db5c) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Barrington, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e8028d0d5b1df65) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Caldwell, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5cdda50be7be595) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Marion, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c871627a5fbd7d46) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Birmingham, AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=129e7c3974efc5f3) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Newmarket, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed8aea93c76f0472) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7559827bdb57a0fb) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Frankfort, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=74277bcbbe107636) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Portland, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12cae2ae25e8b014) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Rehoboth Beach, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6306faf8c94f493a) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Liberty, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e0abbf2db2329d7) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Greenville, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fddf6b2cd77b36d0) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6232b3c854695d12) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Portland, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2acdbfef72fe8382) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Tulsa, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=667feb24362ea298) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Fargo, ND, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd95cb5f129ba4a3) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Provo, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27fe3748b4c6e9ac) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96e55f69edf8e710) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Newport, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f877d29517d1e8c) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Hudson, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=578051612c793f74) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Annapolis, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2a751d1b4654154) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=720d2d19c637dbd7) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Baton Rouge, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d3ec8a3acdaf608) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9bcde40daa1b5a67) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b19225c5d43f5354) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9eda53066f047cc) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d2b852deb59b35a) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Dayton, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ebd8c576a7f84b5) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Richland, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c43ffb9dc8728db) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Derby, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0deee98ca536f71b) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48cbf9152cf68ba9) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Monrovia, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c245b04f72dbcaf) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Clinton, MS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c0ae7ba24ecce9d) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Watson, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=937b2de1fa924199) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4fb756925d51a6b1) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Tyler, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=589226c2de6af70c) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Boulder, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1721b2eddbb95215) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Stafford, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85f8c3b8c340ef19) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e411377c0061c4f) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=193365b70ef7abc6) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Missoula, MT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5fb5e93fe4c3b2ad) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Parlin, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b8a979d87a9e8d2) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Albuquerque, NM, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8adc97440a91f562) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Medway, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5260f1234c40edbb) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2191c8bc4701830) | 2026-04-30 21:50 |
-| Ensora Health | SDET- Payments & Telehealth | Pierre, SD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6c6b9c845547786b) | 2026-04-30 21:50 |
 
 
 ---
