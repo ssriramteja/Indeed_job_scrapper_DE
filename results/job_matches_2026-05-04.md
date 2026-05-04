@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-05-04
 
-**Total Jobs Found:** 12
+**Total Jobs Found:** 10
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer (DataOps & Infrastructure Focus) @ Guidewire
-**Match Score:** 16.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Lambda, Redshift, S3, IAM, RDS, Spark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6125421c57f16e3e)
-
----
-
-## 2. Solutions Architect - Cloud Data Warehousing (GCP) @ Mattel, Inc.
+## 1. Solutions Architect - Cloud Data Warehousing (GCP) @ Mattel, Inc.
 **Match Score:** 15.3%
 
 📍 **Location:** El Segundo, CA, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Solutions Architect - Cloud Data Warehousing (GCP) @ Mattel, Inc.
+## 2. Solutions Architect - Cloud Data Warehousing (GCP) @ Mattel, Inc.
 **Match Score:** 15.3%
 
 📍 **Location:** El Segundo, CA, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Data Engineer @ Growth Protocol
+## 3. Senior Data Engineer @ Growth Protocol
 **Match Score:** 13.9%
 
 📍 **Location:** US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Data Engineer @ The Cheesecake Factory
+## 4. Senior Data Engineer @ The Cheesecake Factory
 **Match Score:** 13.9%
 
 📍 **Location:** Calabasas Hills, CA, US USA
@@ -60,18 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Architect - C2H - Onsite @ TEEMA
-**Match Score:** 13.2%
-
-📍 **Location:** Flower Mound, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, GCP, Scala, Snowflake, Databricks Lakehouse, Dimensional Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=eb9af83131be97f8)
-
----
-
-## 7. Solutions Architect @ Balfour Beatty
+## 5. Solutions Architect @ Balfour Beatty
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -82,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Sr. Engineer - Safety Analytics, Tools & Databases @ nan
+## 6. Sr. Engineer - Safety Analytics, Tools & Databases @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Arlington, VA, US USA
@@ -93,29 +71,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Data Center/Server Administrator @ Alternative Information Systems
-**Match Score:** 11.1%
+## 7. Senior Full Stack Engineer @ Rebel
+**Match Score:** 11.8%
 
-📍 **Location:** Buffalo, NY, US USA
+📍 **Location:** US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, CI/CD, Jenkins, Kubernetes
+🔑 **Keywords:** AWS, Glue, S3, ECS, IAM, RDS, Azure, Polars, PostgreSQL, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=fc658fe2914f7423)
-
----
-
-## 10. Senior Data Engineer - Data & Analytics @ WesBanco Bank, Inc.
-**Match Score:** 11.1%
-
-📍 **Location:** Bowie, MD, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Star Schema, Snowflake Schema, ETL, ELT, dbt
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3689d938fd4bd78c)
+[Apply Here](https://www.indeed.com/viewjob?jk=00588f8665b4c11d)
 
 ---
 
-## 11. PHP Developer @ Scroll Tab
+## 8. PHP Developer @ Scroll Tab
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -126,7 +93,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Power BI Specialist @ Dynamic Consulting Group
+## 9. Senior Data Engineer - Data & Analytics @ WesBanco Bank, Inc.
+**Match Score:** 11.1%
+
+📍 **Location:** Bowie, MD, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Star Schema, Snowflake Schema, ETL, ELT, dbt
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3689d938fd4bd78c)
+
+---
+
+## 10. Power BI Specialist @ Dynamic Consulting Group
 **Match Score:** 10.4%
 
 📍 **Location:** Alpharetta, GA, US USA

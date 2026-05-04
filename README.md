@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-04 08:18
+Last updated: 2026-05-04 10:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Rebel | Senior Full Stack Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=00588f8665b4c11d) | 2026-05-04 10:57 |
 | TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eb9af83131be97f8) | 2026-05-04 08:18 |
 | WesBanco Bank, Inc. | Senior Data Engineer - Data & Analytics | Bowie, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3689d938fd4bd78c) | 2026-05-04 08:18 |
 | Dynamic Consulting Group | Power BI Specialist | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e353c5cce39b1c4f) | 2026-05-04 08:18 |
@@ -424,15 +425,6 @@ Last updated: 2026-05-04 08:18
 | Carrier | Senior Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab7c6d265d3522d2) | 2026-04-30 15:00 |
 | CHS Corporate | Clinical Data Scientist, Human Capital | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfe6028a2d83dae3) | 2026-04-30 15:00 |
 | AEM Corporation | Data Engineer (SQL, Python, Cloud) | Washington, DC, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=eb194f6feb01a9b5) | 2026-04-30 12:10 |
-| CVS Health | Senior Software Development Engineer | MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb97e11dedc46f7e) | 2026-04-30 10:47 |
-| RELX Group | Senior Machine Learning Engineer III ***Raleigh, NC*** | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=35085eed81ec8943) | 2026-04-30 10:47 |
-| LexisNexis Legal & Professional | Senior Machine Learning Engineer III ***Raleigh, NC*** | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=70897e01c57b5008) | 2026-04-30 10:47 |
-| Eclypsium | Sr. DevOps Engineer | Portland, OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=746eae080f33e9b0) | 2026-04-30 10:47 |
-| First Citizens Bank | Data Engineer II | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8629753fa2cdcb2f) | 2026-04-30 10:47 |
-| JPMorganChase | PySpark Data Engineer III - Python/Java/SQL | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=37079c463898c2dd) | 2026-04-30 10:47 |
-| HEB | Senior Software Engineer - Python - AI Platform | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a91ebd3753be4d7e) | 2026-04-30 10:47 |
-| Armor | Site Reliability Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19bc2fde31ea0812) | 2026-04-30 10:47 |
-| RELX Group | Software Engineer II | Evanston, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3493170e435cd93) | 2026-04-30 10:47 |
 
 
 ---
