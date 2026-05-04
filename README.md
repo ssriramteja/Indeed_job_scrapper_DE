@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-03 23:36
+Last updated: 2026-05-04 01:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Alternative Information Systems | Senior Data Center/Server Administrator | Buffalo, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc658fe2914f7423) | 2026-05-04 01:59 |
 | Scroll Tab | PHP Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c010e703dc6247a2) | 2026-05-03 21:33 |
 | Mattel, Inc. | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e22eed84f3a0e5a) | 2026-05-03 18:45 |
 | Mattel, Inc. | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=54329e26a8f1201c) | 2026-05-03 16:38 |
@@ -461,12 +462,6 @@ Last updated: 2026-05-03 23:36
 | American Express | Software Engineer II, Global Servicing Technology | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4bf42c50ee97107) | 2026-04-30 02:04 |
 | Gen Digital Inc. | Senior Backend Engineer - MoneyLion | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5243fde3ff4e011) | 2026-04-30 02:04 |
 | Lancer Worldwide | Data Analyst | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=700578b94883b043) | 2026-04-30 02:04 |
-| VeeRteq Solutions Inc. | Data Engineer | Morristown, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5512aba12eaa248e) | 2026-04-29 23:45 |
-| Harley-Davidson, Inc. | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8a0e12a78fd06e23) | 2026-04-29 23:45 |
-| System Edge LLC. | Senior Python Full Stack Developer with Agentic AI | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5c635fc8d326af21) | 2026-04-29 23:45 |
-| Recutify Inc. | Data Engineer with AI Engineering | Iselin, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d38c1b47e8e6f1fa) | 2026-04-29 23:45 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e77d95b867714292) | 2026-04-29 23:45 |
-| Amplitude | Software Engineer II, Data Warehouse | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d97f7bc28ece22e8) | 2026-04-29 23:45 |
 
 
 ---
