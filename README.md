@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-04 01:59
+Last updated: 2026-05-04 05:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Growth Protocol | Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=73f78f46255a670f) | 2026-05-04 05:36 |
+| Balfour Beatty | Solutions Architect | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a704639955f34e73) | 2026-05-04 05:36 |
 | Alternative Information Systems | Senior Data Center/Server Administrator | Buffalo, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc658fe2914f7423) | 2026-05-04 01:59 |
 | Scroll Tab | PHP Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c010e703dc6247a2) | 2026-05-03 21:33 |
 | Mattel, Inc. | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e22eed84f3a0e5a) | 2026-05-03 18:45 |
@@ -451,17 +453,6 @@ Last updated: 2026-05-04 01:59
 | Motiva Enterprises LLC | Data and Analytics Platform Architect | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45b3fd0f3632a8d6) | 2026-04-30 05:50 |
 | Mayo Clinic | Associate Software Engineer | Rochester, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8081ee3f40d7d31c) | 2026-04-30 05:50 |
 | JLL | Business Analyst | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=211199e7b69b9eed) | 2026-04-30 05:50 |
-| Chewy | Software Engineer II | Bellevue, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a0b54324d4bccebe) | 2026-04-30 02:04 |
-| Chewy | Software Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=45cec5906abac43f) | 2026-04-30 02:04 |
-| Evolus | Sr. Data Engineer | Newport Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=caa4efd9c3316730) | 2026-04-30 02:04 |
-| Kharon | Senior Data Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7c790cc82896e043) | 2026-04-30 02:04 |
-| Gerber Childrenswear, Inc | Senior Analytics Engineer | Greenville, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5ef46594bb4b76db) | 2026-04-30 02:04 |
-| buzz solutions | Applied Machine Learning Platform Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7453cbf812ce3c18) | 2026-04-30 02:04 |
-| Aires | Senior Software Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1cb4e9cb29fe1df7) | 2026-04-30 02:04 |
-| Wipro | Data Engineer | Redmond, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=93121f9bd0f39c05) | 2026-04-30 02:04 |
-| American Express | Software Engineer II, Global Servicing Technology | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4bf42c50ee97107) | 2026-04-30 02:04 |
-| Gen Digital Inc. | Senior Backend Engineer - MoneyLion | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5243fde3ff4e011) | 2026-04-30 02:04 |
-| Lancer Worldwide | Data Analyst | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=700578b94883b043) | 2026-04-30 02:04 |
 
 
 ---

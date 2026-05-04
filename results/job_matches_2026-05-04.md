@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-04
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,7 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Data Engineer @ The Cheesecake Factory
+## 4. Senior Data Engineer @ Growth Protocol
+**Match Score:** 13.9%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** Databricks, Google Cloud Platform, Spark, Scala, Snowflake, PostgreSQL, MongoDB, Data Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=73f78f46255a670f)
+
+---
+
+## 5. Senior Data Engineer @ The Cheesecake Factory
 **Match Score:** 13.9%
 
 📍 **Location:** Calabasas Hills, CA, US USA
@@ -49,7 +60,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Sr. Engineer - Safety Analytics, Tools & Databases @ nan
+## 6. Solutions Architect @ Balfour Beatty
+**Match Score:** 12.5%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, Lambda, Redshift, S3, RDS, Azure, Data Factory, Synapse Analytics, Snowflake, SQL Server
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a704639955f34e73)
+
+---
+
+## 7. Sr. Engineer - Safety Analytics, Tools & Databases @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Arlington, VA, US USA
@@ -60,18 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Data Center/Server Administrator @ Alternative Information Systems
-**Match Score:** 11.1%
-
-📍 **Location:** Buffalo, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, CI/CD, Jenkins, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fc658fe2914f7423)
-
----
-
-## 7. PHP Developer @ Scroll Tab
+## 8. PHP Developer @ Scroll Tab
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -79,6 +90,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, Google Cloud Platform, GCP, Spark, Kafka, PostgreSQL, MongoDB, Cassandra, NoSQL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=c010e703dc6247a2)
+
+---
+
+## 9. Senior Data Center/Server Administrator @ Alternative Information Systems
+**Match Score:** 11.1%
+
+📍 **Location:** Buffalo, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, CI/CD, Jenkins, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fc658fe2914f7423)
 
 ---
 
