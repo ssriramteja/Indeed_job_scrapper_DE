@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-04 12:19
+Last updated: 2026-05-04 15:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ashapura Softech Pvt. Ltd. | Snowflake Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d0f96741c29b2cd0) | 2026-05-04 15:04 |
+| BSI Financial Services | Software Engineering / Data Science Intern | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=99ae275d5381f8d9) | 2026-05-04 15:04 |
+| Equus Computer Systems | Software Engineer II | City of Industry, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=917465a6c5df167b) | 2026-05-04 15:04 |
 | Openkyber | Junior Cloud Automation Engineer | GA, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=e1612776e805e54c) | 2026-05-04 12:19 |
 | Openkyber | Cloud Engineer | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=931e03bde1c477ea) | 2026-05-04 12:19 |
 | Openkyber | Senior Cloud Operations Engineer | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=21777f31aa4e15fc) | 2026-05-04 12:19 |
@@ -431,11 +434,6 @@ Last updated: 2026-05-04 12:19
 | Texas Capital Bank | Platform Engineer Senior | Richardson, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=09ac756571edd2b5) | 2026-04-30 16:23 |
 | Start Tek Pro | Data Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f5fc1df6a4b1ab2) | 2026-04-30 16:23 |
 | Equifax | Software Engineer - Intermediate | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad45ab734c8ec6fe) | 2026-04-30 16:23 |
-| Clearwater Analytics (CWAN) | Software Development Engineer | Boise, ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3d1d7dfa9557f9a) | 2026-04-30 15:00 |
-| Vibotek LLC | Sr. Java Developers | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=061d80fcb09266da) | 2026-04-30 15:00 |
-| Tennessee Titans | Software Engineer | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b7b90aa43b4806b0) | 2026-04-30 15:00 |
-| Carrier | Senior Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab7c6d265d3522d2) | 2026-04-30 15:00 |
-| CHS Corporate | Clinical Data Scientist, Human Capital | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfe6028a2d83dae3) | 2026-04-30 15:00 |
 
 
 ---

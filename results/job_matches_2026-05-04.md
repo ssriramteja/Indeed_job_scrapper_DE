@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-04
 
-**Total Jobs Found:** 21
+**Total Jobs Found:** 25
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -115,7 +115,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Cloud Disaster Recovery Architect @ Openkyber
+## 11. Snowflake Data Engineer @ Ashapura Softech Pvt. Ltd.
+**Match Score:** 13.2%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Snowflake, Data Modeling, ETL, ELT, Talend
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d0f96741c29b2cd0)
+
+---
+
+## 12. Data Architect - C2H - Onsite @ TEEMA
+**Match Score:** 13.2%
+
+📍 **Location:** Flower Mound, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, GCP, Scala, Snowflake, Databricks Lakehouse, Dimensional Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eb9af83131be97f8)
+
+---
+
+## 13. Senior Cloud Disaster Recovery Architect @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** WA, US USA
@@ -126,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. DevOps Architect @ Openkyber
+## 14. DevOps Architect @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** GA, US USA
@@ -137,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Kubernetes Engineer @ Openkyber
+## 15. Kubernetes Engineer @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** WA, US USA
@@ -148,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Infrastructure Engineer (Cloud Focus) @ Openkyber
+## 16. Infrastructure Engineer (Cloud Focus) @ Openkyber
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -159,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Solutions Architect @ Balfour Beatty
+## 17. Solutions Architect @ Balfour Beatty
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -170,18 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Sr. Engineer - Safety Analytics, Tools & Databases @ nan
-**Match Score:** 11.8%
-
-📍 **Location:** Arlington, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Snowflake, Oracle, SQL Server, NoSQL, Power BI
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1310a0840225d1d5)
-
----
-
-## 17. Senior Full Stack Engineer @ Rebel
+## 18. Senior Full Stack Engineer @ Rebel
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -192,7 +203,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. PHP Developer @ Scroll Tab
+## 19. Software Engineering / Data Science Intern @ BSI Financial Services
+**Match Score:** 11.8%
+
+📍 **Location:** Irving, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, GCP, Spark, PySpark, Scala, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=99ae275d5381f8d9)
+
+---
+
+## 20. Senior Data Center/Server Administrator @ Alternative Information Systems
+**Match Score:** 11.1%
+
+📍 **Location:** Buffalo, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, CI/CD, Jenkins, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fc658fe2914f7423)
+
+---
+
+## 21. PHP Developer @ Scroll Tab
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -203,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Senior Data Engineer - Data & Analytics @ WesBanco Bank, Inc.
+## 22. Senior Data Engineer - Data & Analytics @ WesBanco Bank, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Bowie, MD, US USA
@@ -214,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Senior Cloud Disaster Recovery Architect @ Openkyber
+## 23. Senior Cloud Disaster Recovery Architect @ Openkyber
 **Match Score:** 10.4%
 
 📍 **Location:** CA, US USA
@@ -225,7 +258,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Power BI Specialist @ Dynamic Consulting Group
+## 24. Software Engineer II @ Equus Computer Systems
+**Match Score:** 10.4%
+
+📍 **Location:** City of Industry, CA, US USA
+
+🔑 **Keywords:** ECS, RDS, Azure, Scala, PostgreSQL, NoSQL, CI/CD, Azure DevOps, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=917465a6c5df167b)
+
+---
+
+## 25. Power BI Specialist @ Dynamic Consulting Group
 **Match Score:** 10.4%
 
 📍 **Location:** Alpharetta, GA, US USA
