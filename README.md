@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-04 10:57
+Last updated: 2026-05-04 12:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Junior Cloud Automation Engineer | GA, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=e1612776e805e54c) | 2026-05-04 12:19 |
+| Openkyber | Cloud Engineer | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=931e03bde1c477ea) | 2026-05-04 12:19 |
+| Openkyber | Senior Cloud Operations Engineer | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=21777f31aa4e15fc) | 2026-05-04 12:19 |
+| Openkyber | Infrastructure Engineer (Cloud Focus) | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=913dc1f0ef2502d9) | 2026-05-04 12:19 |
+| Openkyber | Cloud Support Engineer | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eaaf7c2a648f0705) | 2026-05-04 12:19 |
+| Openkyber | Cloud Support Associate | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f94722145b4f2019) | 2026-05-04 12:19 |
+| Openkyber | Senior Cloud Disaster Recovery Architect | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6b578c92e498309f) | 2026-05-04 12:19 |
+| Openkyber | Senior Cloud Disaster Recovery Architect | WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a30ab82b34b6466) | 2026-05-04 12:19 |
+| Openkyber | DevOps Architect | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e44cf21cb97515cf) | 2026-05-04 12:19 |
+| Openkyber | Kubernetes Engineer | WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ddf6f51fef293c8) | 2026-05-04 12:19 |
+| Openkyber | Infrastructure Engineer (Cloud Focus) | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c31d35f272797bf3) | 2026-05-04 12:19 |
+| Openkyber | Senior Cloud Disaster Recovery Architect | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e64d1d6af8d67c0f) | 2026-05-04 12:19 |
 | Rebel | Senior Full Stack Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=00588f8665b4c11d) | 2026-05-04 10:57 |
 | TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eb9af83131be97f8) | 2026-05-04 08:18 |
 | WesBanco Bank, Inc. | Senior Data Engineer - Data & Analytics | Bowie, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3689d938fd4bd78c) | 2026-05-04 08:18 |
@@ -424,7 +436,6 @@ Last updated: 2026-05-04 10:57
 | Tennessee Titans | Software Engineer | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b7b90aa43b4806b0) | 2026-04-30 15:00 |
 | Carrier | Senior Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab7c6d265d3522d2) | 2026-04-30 15:00 |
 | CHS Corporate | Clinical Data Scientist, Human Capital | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfe6028a2d83dae3) | 2026-04-30 15:00 |
-| AEM Corporation | Data Engineer (SQL, Python, Cloud) | Washington, DC, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=eb194f6feb01a9b5) | 2026-04-30 12:10 |
 
 
 ---
