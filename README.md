@@ -1,17 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-05 13:16
+Last updated: 2026-05-05 15:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Digital Dhara LLC | QICLink or QNXT Configuration | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=51a905181c25aa42) | 2026-05-05 15:37 |
+| nan | Senior Machine Learning Engineer - News | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6c5ae4f292525796) | 2026-05-05 15:37 |
+| Wood Mackenzie | AI Senior Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=69e1b61070a9b37b) | 2026-05-05 15:37 |
+| Smart Tech Skills LLC | Snowflake Data Movement Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12ef21c70e148f1d) | 2026-05-05 15:37 |
+| Leidos | Cloud Engineer | Seaside, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=727ac8d7c715b1a1) | 2026-05-05 15:37 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-05 15:37 |
+| Inspira Financial | Sr. Solutions/Enterprise Architect (Remote) | Oak Brook, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5730ed2de660b62b) | 2026-05-05 15:37 |
 | Sightview Software | Software Engineer Big Data | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=53f13dba60fcff4b) | 2026-05-05 13:16 |
 | Amcor | AI Full Stack Engineer | Deerfield, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1275c892f53f1ddf) | 2026-05-05 13:16 |
 | HiveMQ | Senior Solutions Advisor | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9360489f9c29037f) | 2026-05-05 13:16 |
 | Purple Squirrels Software LLC | Sr MERN engineer | Newark, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=edf2effb08935b9f) | 2026-05-05 13:16 |
 | General Intuition & Medal | Site Reliability / Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a84d1c588e106220) | 2026-05-05 13:16 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-05 13:16 |
 | EXL Service | Forward Deployment Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d83189697283beb7) | 2026-05-05 11:12 |
 | EXL Service | GCP Cloud Engineer | Hartford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4e5f23b132fd8132) | 2026-05-05 11:12 |
 | Openkyber | Terraform MLOps Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b1c091b77ba59917) | 2026-05-05 11:12 |
@@ -321,13 +327,6 @@ Last updated: 2026-05-05 13:16
 | Sign In Solutions | SRE/Engineer | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=78107cea029977e8) | 2026-05-01 15:48 |
 | Openly | Senior Backend Engineer (Remote, US) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2353cb4c2ecb06b9) | 2026-05-01 15:48 |
 | Axis Residential | Analytics Engineer | Spokane, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7970a51178c2d8ba) | 2026-05-01 15:48 |
-| Neomax | Data Architect | Chantilly, VA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=776692a890b58814) | 2026-05-01 14:19 |
-| SRR Consultants | Business System Analyst with Property and Casualty Domain | Glen Allen, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7446cde797c8f4de) | 2026-05-01 14:19 |
-| Matillion | Solution Architect | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=95bbbaf8fbe8db68) | 2026-05-01 14:19 |
-| Matillion | Solution Architect | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2c7ffe9dfedc9c5d) | 2026-05-01 14:19 |
-| SRR Consultants | Senior Oracle Financials Functional Consultant | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b7d13b47b7b7c8a2) | 2026-05-01 14:19 |
-| nan | Software Engineer II | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1869e5a8847d426e) | 2026-05-01 14:19 |
-| Opeeka, Inc. | SR DBA / DATABASE ARCHITECT (AZURE / MSSQL) | Folsom, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d57af04f58fc4f3b) | 2026-05-01 14:19 |
 
 
 ---
