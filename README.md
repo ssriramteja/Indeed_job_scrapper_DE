@@ -1,11 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-05 19:06
+Last updated: 2026-05-05 20:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Torq Consulting | Senior Consultant - Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=27d1b768e1037d39) | 2026-05-05 20:55 |
+| Stellantis | Data Engineer | Auburn Hills, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=98f8265780f793dd) | 2026-05-05 20:55 |
+| LTIMindtree | Cornerstone LMS Support Engineer (L2/L3) | Plano, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f9c15b3244d5ea49) | 2026-05-05 20:55 |
+| LVT (LiveView Technologies) | Software Development in Test (SDET III) | UT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6450e5336c97ec04) | 2026-05-05 20:55 |
+| Metropolis | Senior Data Engineer | Nashville, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fd5c209c01d504) | 2026-05-05 20:55 |
+| metropolis | Senior Data Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d51453a1afa374b4) | 2026-05-05 20:55 |
+| Boeing | Computing Architect 4 (contract) | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=83fa749fc70ff9b5) | 2026-05-05 20:55 |
+| Technology Ventures | Senior Full Stack Engineer (Python \| AWS \| Scalable Systems) | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7dba261da2180a52) | 2026-05-05 20:55 |
+| nan | Senior Data Engineer | Westminster, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d49164a52434e329) | 2026-05-05 20:55 |
+| RadCube | AWS Data Engineer - Databricks | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d2dcfccb6b6d90b1) | 2026-05-05 20:55 |
+| Carnegie Robotics LLC | Software Engineer - Cloud | Pittsburgh, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e2f5b0b9c556cdca) | 2026-05-05 20:55 |
+| PitchBook | Sr. Site Reliability Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=181ce2100b853c3a) | 2026-05-05 20:55 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df2f71bd1ac4fde2) | 2026-05-05 20:55 |
+| THEMESOFT | Senior Solution Architect – GCP / GKE | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d097819844265040) | 2026-05-05 20:55 |
+| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf657c9771abb6db) | 2026-05-05 20:55 |
 | Redapt inc | Data Engineer | Woodinville, WA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=5ba1f68994568fe5) | 2026-05-05 19:06 |
 | RevSpring, Inc | Data Architect (Data Platform) | Salt Lake City, UT, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=329a3eade67f9940) | 2026-05-05 19:06 |
 | RevSpring, Inc | Data Architect (Data Platform) | Boston, MA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=425ef1a26b020ab5) | 2026-05-05 19:06 |
@@ -36,7 +51,6 @@ Last updated: 2026-05-05 19:06
 | Openkyber | Junior Cloud Security Analyst | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cb95dfff70e6d2a4) | 2026-05-05 19:06 |
 | Equifax | Software Engineer - Specialist | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=932c71a7f13aa9a1) | 2026-05-05 19:06 |
 | Openkyber | GCP ETL Engineer | IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d5268867584b4379) | 2026-05-05 19:06 |
-| Technology Ventures | Senior Full Stack Engineer (Python \| AWS \| Scalable Systems) | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7dba261da2180a52) | 2026-05-05 19:06 |
 | Openkyber | Senior GCP Kubernetes Engineer | IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c336ac6e03023ad6) | 2026-05-05 19:06 |
 | Openkyber | Senior GCP Kubernetes Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=14f1c39aa588c7f7) | 2026-05-05 19:06 |
 | Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=daa379deb564c9ec) | 2026-05-05 19:06 |
@@ -353,7 +367,6 @@ Last updated: 2026-05-05 19:06
 | Dragonfli Group LLC | Senior DevSecOps Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c0e0643fbf1288ad) | 2026-05-01 21:44 |
 | Alignment Healthcare | Principle AI & Data Scientist | Orange, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f42f8cc79a272b87) | 2026-05-01 21:44 |
 | CyberArk | Senior SDET | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5322d19f930d0670) | 2026-05-01 21:44 |
-| Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3d15713be3da1af) | 2026-05-01 20:04 |
 
 
 ---
