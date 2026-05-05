@@ -1,17 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-05 02:00
+Last updated: 2026-05-05 05:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Onebridge | Databricks Resident Solution Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=be0edce6497a574d) | 2026-05-05 05:17 |
+| Visa | SW Engineer - Sr. Consultant Level | Bellevue, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=efe42c0421243419) | 2026-05-05 05:17 |
+| Early Warning Services | Senior ML Operations Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f27909204a728c19) | 2026-05-05 05:17 |
+| Patterson-UTI Drilling Company LLC | DevOps Engineer NEX | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f38954c975e9b162) | 2026-05-05 05:17 |
+| CSpring | Tableau / Python Developer | Springfield, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1a0afa4d54ffc362) | 2026-05-05 05:17 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0fab02a342213956) | 2026-05-05 05:17 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-05 05:17 |
+| DriveTime Automotive Group | Senior Software Engineer - Remote | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d50aa63bcb3363ae) | 2026-05-05 05:17 |
+| DriveTime Automotive Group | Senior Software Engineer - Remote | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc9c5148720fcbf9) | 2026-05-05 05:17 |
+| GEICO | Senior Engineer - .NET | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1f5a7a92a5f943c) | 2026-05-05 05:17 |
+| GEICO | Senior Engineer - .NET | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=379785b95cc4b756) | 2026-05-05 05:17 |
 | Brillio LLC | Java Developer – R01564833 | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e57e3274f3d1a497) | 2026-05-05 02:00 |
 | AssetMark | Data Engineer | Charlotte, NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=41a8fdf20b62f0a8) | 2026-05-05 02:00 |
 | 3MD Inc. | Data Engineer & Database Administrator | Redmond, WA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=50f3235028b4cfba) | 2026-05-05 02:00 |
 | WSSC Water | Data Architect | Laurel, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f187d49afc62b9d7) | 2026-05-05 02:00 |
 | Infinitive Inc | Ab Initio Developer | Ashburn, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1e21e28ac2d2e959) | 2026-05-05 02:00 |
-| Patterson-UTI Drilling Company LLC | DevOps Engineer NEX | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f38954c975e9b162) | 2026-05-05 02:00 |
 | nan | Azure Data Engineer - Remote | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56e4e101c91d2cab) | 2026-05-05 02:00 |
 | Cornell University | Data Engineer (CEMI) | Ithaca, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e495805b383735ac) | 2026-05-05 02:00 |
 | Total Wine & More | Sr. Analytics Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d4add320b3e21c2) | 2026-05-05 02:00 |
@@ -22,7 +32,6 @@ Last updated: 2026-05-05 02:00
 | AAA Central Penn | Business Intelligence Analyst - Harrisburg, PA | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=40cace09139f1b6b) | 2026-05-05 02:00 |
 | SAP | SAP NS2 Senior HANA Cloud DevOps Engineer | Newtown Square, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6de625a85f100d8e) | 2026-05-05 02:00 |
 | Stride, Inc. | Data Engineering Intern | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3e8b285f6f23691) | 2026-05-05 02:00 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-05 02:00 |
 | Recutify Inc. | GCP Data Engineer with ML | NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b2c5bf0db807c434) | 2026-05-04 23:44 |
 | Textron Aviation | Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=860fef61fd793a2e) | 2026-05-04 23:44 |
 | McKesson | Data Engineer, Finance Data & BI | Richmond, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=22ee3be4c4c5272b) | 2026-05-04 23:44 |
@@ -335,56 +344,6 @@ Last updated: 2026-05-05 02:00
 | GEICO | Senior Software Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d24b9bb7d3f81d1) | 2026-05-01 06:00 |
 | GEICO | Senior Software Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=406f01e6594b2624) | 2026-05-01 06:00 |
 | GEICO | Senior Software Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0206f3baae13d0ec) | 2026-05-01 06:00 |
-| American Express | Sr Software Engineer II - Enterprise Architecture | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f6bd0f139eec27a7) | 2026-05-01 02:08 |
-| SunStone Consulting | Azure Data & Development Architect | Harrisburg, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1e9052cac6c7210d) | 2026-05-01 02:08 |
-| ABCorp NA Inc. | Senior Data Engineer | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1e06fd43e0f99777) | 2026-05-01 02:08 |
-| Suffolk Construction | Site AI Engineer | Temple, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b9df42fb6f0e5b92) | 2026-05-01 02:08 |
-| ITC Federal | AI/ML Engineer – Data & Full-Stack Solutions | Fairfax, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce30a23eaa64abcd) | 2026-05-01 02:08 |
-| Waystar | Senior SRE | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=992bf08b9bf1cd4c) | 2026-05-01 02:08 |
-| GM Financial | Software Development Engineer II | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c0d2f3586b2ed198) | 2026-05-01 02:08 |
-| Kretek International | Systems & Cloud Infrastructure Engineer | Moorpark, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7d7d86c5d6aef50) | 2026-05-01 02:08 |
-| Hightower Advisors | Senior Data Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bee78aad0ae84553) | 2026-05-01 02:08 |
-| Accompany Health | Senior Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f41df6bde69aeb07) | 2026-05-01 02:08 |
-| DriveTime Automotive Group | Senior Data Engineer | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d33e81401b69b22c) | 2026-05-01 02:08 |
-| DriveTime Automotive Group | Senior Data Engineer | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ffcaa5c8b2e22e2b) | 2026-05-01 02:08 |
-| CrowdStrike | Data Engineer, Go to Market (Remote) | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8c7e11f90c05edfc) | 2026-05-01 02:08 |
-| Opeeka, Inc. | Senior DBA / Database Architect | Folsom, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5142b758be4e8f87) | 2026-05-01 02:08 |
-| Value Truck of Arizona | Application Developer | South Jordan, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6c3e26366316cc8) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd22b6d5954a33c2) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d369f55f3c43cd0) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Morristown, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b5e852e1fb093faa) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=122021b0213972fb) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cf263b65906b30ba) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=775f4b74d2e0d125) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e27aa2f30115d6a9) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=372ffe4f2e9a605d) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a256a77103c9ee18) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b082342159bbdf7) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e06cd5eb56a43b5c) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=daaeb6d16db98abf) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=19a128257d3c2c77) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Stamford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8d47c2036fa69322) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c5c449cb4c336ec2) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e57a91ca929fec5b) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5d61083f86948477) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71d4be4e91f6174a) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=912b927f8e6b0bc9) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=697335a3240f02f2) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e21309c64f987c4d) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e4114c9ced06f08) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0379c77fb1bea285) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c7404f3dbf25b5d0) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a667aa6f915c8e9) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=591077de2df74cfa) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cc254c410ba6f38) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12339d025b6d4b6f) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dc7db42760d4627e) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6c024ec8f500d28f) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d5c090288e0e4f79) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c400db066fcfe868) | 2026-05-01 02:08 |
-| Deloitte | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e9857bbf535b2768) | 2026-05-01 02:08 |
-| Invoca | Software Architect, Attribution & Integrations | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e9dd5f05e7d0bdfd) | 2026-05-01 02:08 |
-| AMPURE CHARGING SYSTEMS INC | Backend Cloud Software Engineer | Monrovia, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55f56ffe2c84dc87) | 2026-05-01 02:08 |
 
 
 ---
