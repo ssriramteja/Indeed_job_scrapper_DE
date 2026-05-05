@@ -1,18 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-05 07:56
+Last updated: 2026-05-05 09:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | WFP Senior Data Scientist | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20e3c168d86ea726) | 2026-05-05 09:54 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-05 09:54 |
 | Skechers | Salesforce Data Cloud Architect | Manhattan Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ebe8dee39468099e) | 2026-05-05 07:56 |
-| Patterson-UTI Drilling Company LLC | DevOps Engineer NEX | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f38954c975e9b162) | 2026-05-05 07:56 |
 | mSupply | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=faaa8b1f4d565bbd) | 2026-05-05 07:56 |
 | Gap Inc. | Sr. ML Engineer – ML & Applied AI | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9323c5e89dc8edb) | 2026-05-05 07:56 |
 | Gap Inc. | Sr. ML Engineer – ML & Applied AI | Pleasanton, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7aa4ac97e72f7a6d) | 2026-05-05 07:56 |
 | GE HealthCare | IBP Demand Data Product Owner | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=091b1f8448a933e9) | 2026-05-05 07:56 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-05 07:56 |
 | nan | Azure data factory developer with Snowflake exp | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4b0baa93de5c3410) | 2026-05-05 07:56 |
 | mSupply | Senior Data Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9008b1f3bfd772fb) | 2026-05-05 07:56 |
 | Onebridge | Databricks Resident Solution Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=be0edce6497a574d) | 2026-05-05 05:17 |
@@ -325,14 +325,6 @@ Last updated: 2026-05-05 07:56
 | Client Resources, Inc. | DNP Software Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95f2f4f81bc33a7a) | 2026-05-01 10:17 |
 | Mutual of Omaha | Data Engineer (Snowflake, Teradata, DB2) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa9d2ce9f1b5528c) | 2026-05-01 10:17 |
 | Wells Fargo | Senior Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f72c641c65b5a61) | 2026-05-01 10:17 |
-| EY | Data Architecture & Engineering - Senior - Financial Services - Consulting - NYC | New York, NY, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=f739fe0e3b71b0c3) | 2026-05-01 08:17 |
-| EY | Cons - TC - AI and Data - Enterp Data - Data Eng and Arch - Data Eng - Mgr - MP - 1688246 | Seattle, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=44bbdbe739d23ea2) | 2026-05-01 08:17 |
-| EY | AI Developer - Senior - A&I - Financial Services - Consulting - NYC, Charlotte, Dallas | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3b189ba2f7b20d0b) | 2026-05-01 08:17 |
-| Mars Technominds | Business Intelligence Solutions Architect | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=38246f1a187f1c7d) | 2026-05-01 08:17 |
-| American Express | Software Engineer II, Global Servicing Technology | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c5c9f5bf8d54b87) | 2026-05-01 08:17 |
-| EY | FSO LABS - AI Developer Senior - Bay Area | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d75a18fe3bc2126) | 2026-05-01 08:17 |
-| EY | Databricks Data Engineer - Senior - Consulting - Location Open | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=599253e2d33dc75f) | 2026-05-01 08:17 |
-| ObjectStream | Sr. Data Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06e3854d22cdba89) | 2026-05-01 08:17 |
 
 
 ---
