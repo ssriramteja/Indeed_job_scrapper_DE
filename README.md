@@ -1,17 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-05 15:37
+Last updated: 2026-05-05 17:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sloan | Databricks Developer | Franklin Park, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9921503eb16c8225) | 2026-05-05 17:15 |
+| We Invest Florida LLC | AI Architect & Workflow Operator | Bradenton, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b6822c6de2c9090a) | 2026-05-05 17:15 |
+| Qode | Senior Data Engineer / Data Architect | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e83d1768e75b1203) | 2026-05-05 17:15 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-05 17:15 |
 | Digital Dhara LLC | QICLink or QNXT Configuration | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=51a905181c25aa42) | 2026-05-05 15:37 |
 | nan | Senior Machine Learning Engineer - News | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6c5ae4f292525796) | 2026-05-05 15:37 |
 | Wood Mackenzie | AI Senior Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=69e1b61070a9b37b) | 2026-05-05 15:37 |
 | Smart Tech Skills LLC | Snowflake Data Movement Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12ef21c70e148f1d) | 2026-05-05 15:37 |
 | Leidos | Cloud Engineer | Seaside, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=727ac8d7c715b1a1) | 2026-05-05 15:37 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-05 15:37 |
 | Inspira Financial | Sr. Solutions/Enterprise Architect (Remote) | Oak Brook, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5730ed2de660b62b) | 2026-05-05 15:37 |
 | Sightview Software | Software Engineer Big Data | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=53f13dba60fcff4b) | 2026-05-05 13:16 |
 | Amcor | AI Full Stack Engineer | Deerfield, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1275c892f53f1ddf) | 2026-05-05 13:16 |
@@ -323,10 +326,6 @@ Last updated: 2026-05-05 15:37
 | Openkyber | Junior Cloud Networking Technician | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e73f6230be428620) | 2026-05-01 17:51 |
 | Openkyber | AWS Systems Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=119269e5158f89e8) | 2026-05-01 17:51 |
 | Openkyber | Cloud Service Desk Analyst | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2781169a06fdef87) | 2026-05-01 17:51 |
-| Global Information Technology | Infrastructure Solutions Architect | Lansing, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94bea5b95ba94e24) | 2026-05-01 16:45 |
-| Sign In Solutions | SRE/Engineer | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=78107cea029977e8) | 2026-05-01 15:48 |
-| Openly | Senior Backend Engineer (Remote, US) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2353cb4c2ecb06b9) | 2026-05-01 15:48 |
-| Axis Residential | Analytics Engineer | Spokane, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7970a51178c2d8ba) | 2026-05-01 15:48 |
 
 
 ---
