@@ -1,18 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-05 21:55
+Last updated: 2026-05-05 22:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skyventure Management LLC | Full Stack Engineer | Austin, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=2cf4e196f6f8959b) | 2026-05-05 22:48 |
+| Verisk | Senior Software Engineer | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cb57edcbdb36ad26) | 2026-05-05 22:48 |
+| KPIT Technologies | MLOps Engineer – Azure Databricks, Cloud-to-Edge ML Deployment | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1160b6a5ea3d30ad) | 2026-05-05 22:48 |
+| nan | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6407c9a76bdb537c) | 2026-05-05 22:48 |
+| Momentive Software | AI Agent Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6ac9574b3f75cc2c) | 2026-05-05 22:48 |
+| Genesis Global Group | Data Engineering - E&A - Data Engineer I | Myrtle Point, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2526bf14df16c3e8) | 2026-05-05 22:48 |
+| Bloomberg | Senior Software Engineer - VAULT | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d744cfcd1fce896) | 2026-05-05 22:48 |
 | Warner Bros. Discovery | Senior Software Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=0585eb3ca3cd8f48) | 2026-05-05 21:55 |
 | Warner Bros. Discovery | Senior Software Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ea66a6dbd0690c3b) | 2026-05-05 21:55 |
 | Warner Bros. Discovery | Senior Software Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ec9442df01efef1b) | 2026-05-05 21:55 |
 | Warner Bros. Discovery | Senior Software Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=341798717a6ce508) | 2026-05-05 21:55 |
 | Warner Bros. Discovery | Senior Software Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=29381ac7399ddbb0) | 2026-05-05 21:55 |
 | ConocoPhillips | Commercial IT Senior Data Solution Developer | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1304cb2ffae316c6) | 2026-05-05 21:55 |
-| Technology Ventures | Senior Full Stack Engineer (Python \| AWS \| Scalable Systems) | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7dba261da2180a52) | 2026-05-05 21:55 |
 | Heluna Health | Senior Information Systems Analyst - Cloud Specialization | Alhambra, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6c1b66aae8e310f7) | 2026-05-05 21:55 |
 | CSpring | Data Engineer (ETL / Python Developer) | Springfield, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b861e2c1a0a03133) | 2026-05-05 21:55 |
 | Imprint | Senior Data Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e35bafcce4ab1000) | 2026-05-05 21:55 |
@@ -69,8 +75,6 @@ Last updated: 2026-05-05 21:55
 | CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Baton Rouge, LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de36d6aa4de5c8d9) | 2026-05-05 21:55 |
 | Leidos | Full Stack Development Intern | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a00102caa3003ef3) | 2026-05-05 21:55 |
 | nan | Data Engineer | Somerville, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=75339d7552c524c1) | 2026-05-05 21:55 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Bensenville, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af471adc52c88153) | 2026-05-05 21:55 |
-| Al Warren Oil Company, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=916ff0070c873866) | 2026-05-05 21:55 |
 | CSpring | QA Analyst / ETL Tester | Springfield, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ebf7b3987a302e8) | 2026-05-05 21:55 |
 | Candescent (Digital First Holdings LLC) | Software Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=05c875eff000793f) | 2026-05-05 21:55 |
 | Bass Pro Shops | Senior eCommerce Microservices Developer - Onsite | Springfield, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e26470cca0ea4331) | 2026-05-05 21:55 |
@@ -411,13 +415,6 @@ Last updated: 2026-05-05 21:55
 | Clearway Energy | Senior Data Engineer, Solutions Architecture | Scottsdale, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d082d61c4f4a5b69) | 2026-05-01 23:43 |
 | Alignment Healthcare | Senior Data Engineer | Orange, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b4cf4da858734131) | 2026-05-01 23:43 |
 | Paramount | Senior Applied AI Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f086cee5e98c30b6) | 2026-05-01 23:43 |
-| Snowflake | Senior Professional Services Sales Solutions Architect | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=aad68ba091ed0805) | 2026-05-01 22:41 |
-| innoVet Health, LLC | Dev Ops Data Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4d7bdd0c563a121a) | 2026-05-01 22:41 |
-| PTI | Full-Stack Software Engineer (On-Site) | Mesa, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=959a027d133a3e5f) | 2026-05-01 22:41 |
-| MITRE | DevOps/AI Engineer | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8dd360cfdc686b9a) | 2026-05-01 22:41 |
-| Uniphore | Senior Software Engineer — Data Platform & MAI | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0ad11f3ec32fe272) | 2026-05-01 22:41 |
-| FirstNet Global | Snowflake/Tableau Developer / Dallas Texas | Napa, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6515eadf095c7486) | 2026-05-01 22:41 |
-| Stellantis | Solution Architect | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=62599143d69ab642) | 2026-05-01 22:41 |
 
 
 ---
