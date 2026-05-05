@@ -1,11 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-05 22:48
+Last updated: 2026-05-05 23:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Stellantis | Data Engineer | Auburn Hills, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ad171c93c1899d21) | 2026-05-05 23:40 |
+| Floor & Decor | Software Developer II | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e331a6c4c6f76859) | 2026-05-05 23:40 |
+| Transmedics | Senior Software Development Engineer - Cloud Dev | Andover, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2efe7bed588da272) | 2026-05-05 23:40 |
+| Paramount | Sr Data Engineer | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a12925c69dfc7bed) | 2026-05-05 23:40 |
+| Outfront Media | Summer Intern, Platform Engineering | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2aa35bb9483f10ad) | 2026-05-05 23:40 |
+| Equifax | Data Engineer | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bbf23a169f18dbc) | 2026-05-05 23:40 |
+| Equifax | Data Engineer | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b05514433681d42) | 2026-05-05 23:40 |
+| Clark Construction | Data Engineer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6f199bfc2e975b58) | 2026-05-05 23:40 |
+| ARMADA | Senior Platform/DevOps Engineer (Kubernetes-Linux) | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b0e9b75e0f5558d) | 2026-05-05 23:40 |
+| ARMADA | Senior Platform/DevOps Engineer (Kubernetes-Linux) | Sammamish, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=efa4e4e3099a0ae2) | 2026-05-05 23:40 |
+| ARMADA | Senior Platform/DevOps Engineer (Kubernetes-Linux) | Kirkland, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=33ae1f1f9d08c546) | 2026-05-05 23:40 |
+| ARMADA | Senior Platform/DevOps Engineer (Kubernetes-Linux) | Renton, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d25130b996402485) | 2026-05-05 23:40 |
+| ARMADA | Senior Platform/DevOps Engineer (Kubernetes-Linux) | Bothell, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6f9224460f3210c) | 2026-05-05 23:40 |
+| ARMADA | Senior Platform/DevOps Engineer (Kubernetes-Linux) | Redmond, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b86c940f686047d8) | 2026-05-05 23:40 |
+| Allstate Insurance | Full Stack Product Engineer (Java) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d15adff582efc740) | 2026-05-05 23:40 |
+| Mattel, Inc. | Data Engineer II, Mobile Game Analytics | El Segundo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=087868e735e87a06) | 2026-05-05 23:40 |
+| Microchip Technology | Engineer II-Software Development | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3013681a0e1c4f81) | 2026-05-05 23:40 |
+| Microchip Technology | Engineer II-Software Development | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2649d75a044fe7bd) | 2026-05-05 23:40 |
+| Atlantis IT Group | Test Automation Architect (Data Migration & Snowflake) | Kansas City, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=706847de763fb7d8) | 2026-05-05 23:40 |
 | Skyventure Management LLC | Full Stack Engineer | Austin, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=2cf4e196f6f8959b) | 2026-05-05 22:48 |
 | Verisk | Senior Software Engineer | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cb57edcbdb36ad26) | 2026-05-05 22:48 |
 | KPIT Technologies | MLOps Engineer – Azure Databricks, Cloud-to-Edge ML Deployment | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1160b6a5ea3d30ad) | 2026-05-05 22:48 |
