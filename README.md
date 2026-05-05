@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-05 11:12
+Last updated: 2026-05-05 13:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sightview Software | Software Engineer Big Data | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=53f13dba60fcff4b) | 2026-05-05 13:16 |
+| Amcor | AI Full Stack Engineer | Deerfield, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1275c892f53f1ddf) | 2026-05-05 13:16 |
+| HiveMQ | Senior Solutions Advisor | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9360489f9c29037f) | 2026-05-05 13:16 |
+| Purple Squirrels Software LLC | Sr MERN engineer | Newark, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=edf2effb08935b9f) | 2026-05-05 13:16 |
+| General Intuition & Medal | Site Reliability / Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a84d1c588e106220) | 2026-05-05 13:16 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-05 13:16 |
 | EXL Service | Forward Deployment Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d83189697283beb7) | 2026-05-05 11:12 |
 | EXL Service | GCP Cloud Engineer | Hartford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4e5f23b132fd8132) | 2026-05-05 11:12 |
 | Openkyber | Terraform MLOps Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b1c091b77ba59917) | 2026-05-05 11:12 |
@@ -14,7 +20,6 @@ Last updated: 2026-05-05 11:12
 | Openkyber | Docker MLOps Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e3cd445b405cda13) | 2026-05-05 11:12 |
 | Corebridge | Senior Full Stack Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=db2e0b3c29bafcb6) | 2026-05-05 11:12 |
 | Openkyber | Kubernetes MLOps Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82d92ef7ef6e6f18) | 2026-05-05 11:12 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-05 11:12 |
 | JPMorganChase | WFP Senior Data Scientist | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20e3c168d86ea726) | 2026-05-05 09:54 |
 | Skechers | Salesforce Data Cloud Architect | Manhattan Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ebe8dee39468099e) | 2026-05-05 07:56 |
 | mSupply | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=faaa8b1f4d565bbd) | 2026-05-05 07:56 |
@@ -323,11 +328,6 @@ Last updated: 2026-05-05 11:12
 | SRR Consultants | Senior Oracle Financials Functional Consultant | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b7d13b47b7b7c8a2) | 2026-05-01 14:19 |
 | nan | Software Engineer II | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1869e5a8847d426e) | 2026-05-01 14:19 |
 | Opeeka, Inc. | SR DBA / DATABASE ARCHITECT (AZURE / MSSQL) | Folsom, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d57af04f58fc4f3b) | 2026-05-01 14:19 |
-| American Express | Data Engineer II _ Big Data, GCP _EDAI | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d725c4b26e048534) | 2026-05-01 12:57 |
-| Openkyber | Junior Cloud Security Analyst | AK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=85598b1d63680693) | 2026-05-01 11:52 |
-| Openkyber | Java Compliance & Governance Developer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8078bc6f1fdb2e7b) | 2026-05-01 11:52 |
-| Openkyber | Java Cloud-Native Developer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b7fe4ad94b5b821d) | 2026-05-01 11:52 |
-| Openkyber | Multi-Cloud Networking Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5089f26e49e819d7) | 2026-05-01 11:52 |
 
 
 ---
