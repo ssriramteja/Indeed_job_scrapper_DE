@@ -1,18 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-05 05:17
+Last updated: 2026-05-05 07:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skechers | Salesforce Data Cloud Architect | Manhattan Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ebe8dee39468099e) | 2026-05-05 07:56 |
+| Patterson-UTI Drilling Company LLC | DevOps Engineer NEX | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f38954c975e9b162) | 2026-05-05 07:56 |
+| mSupply | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=faaa8b1f4d565bbd) | 2026-05-05 07:56 |
+| Gap Inc. | Sr. ML Engineer – ML & Applied AI | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9323c5e89dc8edb) | 2026-05-05 07:56 |
+| Gap Inc. | Sr. ML Engineer – ML & Applied AI | Pleasanton, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7aa4ac97e72f7a6d) | 2026-05-05 07:56 |
+| GE HealthCare | IBP Demand Data Product Owner | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=091b1f8448a933e9) | 2026-05-05 07:56 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-05 07:56 |
+| nan | Azure data factory developer with Snowflake exp | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4b0baa93de5c3410) | 2026-05-05 07:56 |
+| mSupply | Senior Data Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9008b1f3bfd772fb) | 2026-05-05 07:56 |
 | Onebridge | Databricks Resident Solution Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=be0edce6497a574d) | 2026-05-05 05:17 |
 | Visa | SW Engineer - Sr. Consultant Level | Bellevue, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=efe42c0421243419) | 2026-05-05 05:17 |
 | Early Warning Services | Senior ML Operations Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f27909204a728c19) | 2026-05-05 05:17 |
-| Patterson-UTI Drilling Company LLC | DevOps Engineer NEX | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f38954c975e9b162) | 2026-05-05 05:17 |
 | CSpring | Tableau / Python Developer | Springfield, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1a0afa4d54ffc362) | 2026-05-05 05:17 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0fab02a342213956) | 2026-05-05 05:17 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-05-05 05:17 |
 | DriveTime Automotive Group | Senior Software Engineer - Remote | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d50aa63bcb3363ae) | 2026-05-05 05:17 |
 | DriveTime Automotive Group | Senior Software Engineer - Remote | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc9c5148720fcbf9) | 2026-05-05 05:17 |
 | GEICO | Senior Engineer - .NET | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1f5a7a92a5f943c) | 2026-05-05 05:17 |
@@ -326,24 +333,6 @@ Last updated: 2026-05-05 05:17
 | EY | FSO LABS - AI Developer Senior - Bay Area | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d75a18fe3bc2126) | 2026-05-01 08:17 |
 | EY | Databricks Data Engineer - Senior - Consulting - Location Open | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=599253e2d33dc75f) | 2026-05-01 08:17 |
 | ObjectStream | Sr. Data Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06e3854d22cdba89) | 2026-05-01 08:17 |
-| Vibrant Emotional Health | Cloud Engineer II | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3ba39b2a6826c32d) | 2026-05-01 06:00 |
-| Tata Consultancy Services (TCS) | Senior Engineer - AI & Data Management | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0f98760c842e5085) | 2026-05-01 06:00 |
-| Trane Technologies | Senior Data Engineer | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f483db2edc8cb83a) | 2026-05-01 06:00 |
-| SkyWater Technology Foundry | Senior Dev Ops Engineer | Bloomington, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=13bfee40249f3478) | 2026-05-01 06:00 |
-| JCA Surety Group | Power Automate Engineer | Orlando, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebd1ccebdb7a4ed2) | 2026-05-01 06:00 |
-| Briljent | Quality Assurance Analyst / ETL Tester | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d69b1256484e3a82) | 2026-05-01 06:00 |
-| Accenture | Artificial Intelligence/Machine Learning Data Engineer | Morristown, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8f6f11467cb82584) | 2026-05-01 06:00 |
-| Accenture | Artificial Intelligence/Machine Learning Data Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c9ce81a6707266dd) | 2026-05-01 06:00 |
-| Deloitte | AI Engineer Consultant | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76b52e35f38bdeca) | 2026-05-01 06:00 |
-| Deloitte | AI Engineer Senior Consultant | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2eeb9a92ff909033) | 2026-05-01 06:00 |
-| Deloitte | AI Engineer Senior Consultant | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1c1b56e7aa8c4561) | 2026-05-01 06:00 |
-| Deloitte | AI Engineer Senior Consultant | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e9f259bbce0ce033) | 2026-05-01 06:00 |
-| Deloitte | AI Engineer Senior Consultant | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=143101384ee45578) | 2026-05-01 06:00 |
-| GEICO | Senior Software Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=983d0a4b6df6a34b) | 2026-05-01 06:00 |
-| GEICO | Senior Software Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e39cfd742ca8ccb7) | 2026-05-01 06:00 |
-| GEICO | Senior Software Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d24b9bb7d3f81d1) | 2026-05-01 06:00 |
-| GEICO | Senior Software Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=406f01e6594b2624) | 2026-05-01 06:00 |
-| GEICO | Senior Software Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0206f3baae13d0ec) | 2026-05-01 06:00 |
 
 
 ---
