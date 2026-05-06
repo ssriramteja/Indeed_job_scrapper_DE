@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-06 19:24
+Last updated: 2026-05-06 21:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| AMB Sports + Entertainment | Data Engineer | Atlanta, GA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=0fac751a341ffed9) | 2026-05-06 21:04 |
+| Goldman Sachs | Compliance, Senior Backend Engineer (Java & ETL Specialist), Dallas, Associate | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e21fade0470597e2) | 2026-05-06 21:04 |
+| DOW | Data Engineer / Data Platform Engineer Internship Fall 2026 Semester at the Dow Delivery Center at UIUC (Champaign, IL) | Kankakee, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=38a9f118a8e8f0ac) | 2026-05-06 21:04 |
+| New England Life Care | Data Warehouse Developer | Canton, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b61fd67550df6c0b) | 2026-05-06 21:04 |
+| New England Life Care | Data Warehouse Developer | Woburn, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=59fae488bfb069d7) | 2026-05-06 21:04 |
+| New England Life Care | Data Warehouse Developer | Scarborough, ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c511d00669b005c9) | 2026-05-06 21:04 |
+| New England Life Care | Data Warehouse Developer | Concord, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9e02714fa8eb1d57) | 2026-05-06 21:04 |
+| Revelation Pharma | DevOps / AgentOps Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=265eee1218fa6fae) | 2026-05-06 21:04 |
+| Tardus inc | Data Engineer with Python | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80c45bbb6f084151) | 2026-05-06 21:04 |
+| Intone Networks | SSIS / Azure Data Factory Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85c3cae0c83282a2) | 2026-05-06 21:04 |
+| Keesler Federal Credit Union | Senior Data Engineer Biloxi 5139 | Biloxi, MS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=923871eb4e708d96) | 2026-05-06 21:04 |
+| MeridianLink | Data Scientist, AI Data Foundations | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=31ee3a3fe27b4bf1) | 2026-05-06 21:04 |
+| Graybar | Senior Data Scientist | Clayton, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82b455422eee9334) | 2026-05-06 21:04 |
+| SEEQ | AI Applications Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=02ed320077d234a1) | 2026-05-06 21:04 |
 | Analytica | Data Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7d9377a4724bf38c) | 2026-05-06 19:24 |
 | Wavicle Data Solutions | Senior Data Engineer | Oak Brook, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a435f9b94ff5d489) | 2026-05-06 19:24 |
 | Optum | Senior Data analyst | Brentwood, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b7ed131be5ba5e96) | 2026-05-06 19:24 |
