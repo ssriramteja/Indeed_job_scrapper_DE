@@ -1,11 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-06 15:23
+Last updated: 2026-05-06 17:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Azure Network Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b4c4141e761a1d57) | 2026-05-06 17:23 |
+| Vantage Data Centers | Mid- Level Data Engineer | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a35201e2c76024aa) | 2026-05-06 17:23 |
+| Openkyber | Cloud Network Architect | TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3552e9ee02097f2c) | 2026-05-06 17:23 |
+| Openkyber | Azure Network Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8bb3e3385b26a0b5) | 2026-05-06 17:23 |
+| Accenture | Artificial Intelligence/Machine Learning Data Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b20f553bf3557e7a) | 2026-05-06 17:23 |
+| Openkyber | Cloud Network Architect | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e874dfda20060e92) | 2026-05-06 17:23 |
+| Openkyber | Azure Network Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05dcb2c14af656a8) | 2026-05-06 17:23 |
+| Openkyber | Cloud Networking Consultant | KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05bc8504be04f7d2) | 2026-05-06 17:23 |
+| Montefiore Einstein | Senior Data Architect | Yonkers, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d972b31a0cae529) | 2026-05-06 17:23 |
+| Optum | Senior Data Engineer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c98f634775f326c6) | 2026-05-06 17:23 |
+| Openkyber | Google Cloud Network Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c8d74c6d08304ab9) | 2026-05-06 17:23 |
+| Openkyber | DOCSIS Testing Engineer | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3102561596c9491c) | 2026-05-06 17:23 |
+| Montefiore Einstein | Senior Data Engineer | Yonkers, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a3ffcafc747cce2) | 2026-05-06 17:23 |
+| Harman | Senior Engineer, AI | Novi, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4a91d05d9ba98a3a) | 2026-05-06 17:23 |
+| Liberty Mutual Insurance | Senior Data Integration Software Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b035b944f2ad4c37) | 2026-05-06 17:23 |
+| Liberty Mutual Insurance | Senior Data Integration Software Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ba6e4aacd5b6631) | 2026-05-06 17:23 |
+| Liberty Mutual Insurance | Senior Data Integration Software Engineer | Portsmouth, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=93164fc43ac74193) | 2026-05-06 17:23 |
+| Liberty Mutual Insurance | Data Integration Software Engineer | Portsmouth, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4c7e0f49df408be) | 2026-05-06 17:23 |
+| Liberty Mutual Insurance | Data Integration Software Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12a4fd124772d9d2) | 2026-05-06 17:23 |
+| Liberty Mutual Insurance | Data Integration Software Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c38e2fae9b46f905) | 2026-05-06 17:23 |
+| Katalyst Healthcares & Life Sciences | AI Engineer Clinical Data Science | Manhattan, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47a06a95eff2f8b1) | 2026-05-06 17:23 |
 | Qode | Data Engineer | San Diego, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f544b0c492f55ad5) | 2026-05-06 15:23 |
 | Netsecure360 | Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ca7e816524d9406c) | 2026-05-06 15:23 |
 | Floor & Decor | Software Developer II | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4a21fec712255df2) | 2026-05-06 15:23 |
