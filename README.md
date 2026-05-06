@@ -1,11 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-06 12:26
+Last updated: 2026-05-06 15:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Qode | Data Engineer | San Diego, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f544b0c492f55ad5) | 2026-05-06 15:23 |
+| Netsecure360 | Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ca7e816524d9406c) | 2026-05-06 15:23 |
+| Floor & Decor | Software Developer II | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4a21fec712255df2) | 2026-05-06 15:23 |
+| MarketAxess Holdings | Software Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0e88c480437dd451) | 2026-05-06 15:23 |
+| Global Enterprise Systems | Senior ServiceNow Developer | Herndon, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0c766bb333faacdc) | 2026-05-06 15:23 |
+| Rivian and Volkswagen Group Technologies | Senior Software Engineer - Cloud Fullstack | Palo Alto, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=059fe198bd3f948a) | 2026-05-06 15:23 |
+| Rivian and Volkswagen Group Technologies | Senior Software Engineer - Cloud Gateway | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7b72e865e6bee153) | 2026-05-06 15:23 |
+| Millennium Management | Full Stack Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b224fb124b25e580) | 2026-05-06 15:23 |
+| Atlantic Union Bank | Sr Database Administrator | Glen Allen, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fadd8b2210e032b2) | 2026-05-06 15:23 |
+| Rivian and Volkswagen Group Technologies | Senior DevOps Software Engineer, Firmware & CI/CD | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d5f621c8ad4f69fd) | 2026-05-06 15:23 |
+| FirstNet Global | Snowflake/Tableau Developer / Dallas Texas | Napa, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4ab4d99e440e9b4) | 2026-05-06 15:23 |
+| Klaxontech | Power BI Developer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=193935f590ab7020) | 2026-05-06 15:23 |
+| nan | Software Engineer - DevOps Mobile | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=537b207b8aaf9dd0) | 2026-05-06 15:23 |
+| Checkmate | Senior Full Stack Engineer - Python & React JS | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ba3d00c3fb0ee25) | 2026-05-06 15:23 |
+| Rivian and Volkswagen Group Technologies | Sr. Software Engineer, Full-Stack (Factory Systems) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68c700567606c4e9) | 2026-05-06 15:23 |
 | Openkyber | API Threat Intelligence Analyst | IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=427f6933d7d21e16) | 2026-05-06 12:26 |
 | Openkyber | API Threat Intelligence Analyst | NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e918fa70b2a1920e) | 2026-05-06 12:26 |
 | Openkyber | Backend (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d711bd4394cb404e) | 2026-05-06 12:26 |
@@ -440,9 +455,6 @@ Last updated: 2026-05-06 12:26
 | Openkyber | Cloud Service Desk Analyst | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad7fea46ba593dc3) | 2026-05-02 17:38 |
 | Openkyber | AI Application Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=393116d7c03fb80f) | 2026-05-02 17:38 |
 | St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b8ff483497142df4) | 2026-05-02 17:38 |
-| Inter-American Development Bank | IDB Invest - Data Engineer (Sr Officer) Officer | Washington, DC, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=975f0416f1286d47) | 2026-05-02 14:06 |
-| Disney Experiences | Sr Full Stack Software Engineer | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7160da80c4aa5c1b) | 2026-05-02 14:06 |
-| nan | Senior Data Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=011200ffdfb2dd05) | 2026-05-02 14:06 |
 
 
 ---
