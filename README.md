@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-06 21:04
+Last updated: 2026-05-06 22:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| DocuSign | Data Engineer | San Francisco, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1636bf2e2935fd54) | 2026-05-06 22:41 |
+| Cambridge Mobile Telematics | Software Engineer, Data Engineering | Cambridge, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=72e8b54f46d552d4) | 2026-05-06 22:41 |
+| nan | Senior Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b748ea05c0bbf37) | 2026-05-06 22:41 |
+| JPMorganChase | Software Engineer III - PySpark/AWS | Wilmington, DE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e02c112e835bf775) | 2026-05-06 22:41 |
+| Mustang Cat | Senior Data Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=182574da3c06479e) | 2026-05-06 22:41 |
+| MeridianLink | Data Scientist, AI Data Foundations | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2390498da25e9e01) | 2026-05-06 22:41 |
+| McKesson | Senior IT Architect (Enterprise Applications / Clinical Platforms) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=beeef27a81e2ec58) | 2026-05-06 22:41 |
 | AMB Sports + Entertainment | Data Engineer | Atlanta, GA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=0fac751a341ffed9) | 2026-05-06 21:04 |
 | Goldman Sachs | Compliance, Senior Backend Engineer (Java & ETL Specialist), Dallas, Associate | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e21fade0470597e2) | 2026-05-06 21:04 |
 | DOW | Data Engineer / Data Platform Engineer Internship Fall 2026 Semester at the Dow Delivery Center at UIUC (Champaign, IL) | Kankakee, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=38a9f118a8e8f0ac) | 2026-05-06 21:04 |
