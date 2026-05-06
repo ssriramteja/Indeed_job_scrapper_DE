@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-06 10:58
+Last updated: 2026-05-06 12:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | API Threat Intelligence Analyst | IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=427f6933d7d21e16) | 2026-05-06 12:26 |
+| Openkyber | API Threat Intelligence Analyst | NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e918fa70b2a1920e) | 2026-05-06 12:26 |
+| Openkyber | Backend (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d711bd4394cb404e) | 2026-05-06 12:26 |
+| Openkyber | FastAPI | VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=550e29553f2a099b) | 2026-05-06 12:26 |
+| Openkyber | Senior Software Engineer (Python) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=45974a79c5dfc2f4) | 2026-05-06 12:26 |
+| Openkyber | Python | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52b0e598b9832c43) | 2026-05-06 12:26 |
+| Openkyber | FastAPI | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=36490e4938cafc8b) | 2026-05-06 12:26 |
+| Openkyber | API Architect (Python) | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=460c6fea55fa6849) | 2026-05-06 12:26 |
+| Openkyber | FastAPI | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0bc1141188a8604a) | 2026-05-06 12:26 |
 | Lincoln Financial Group | Databricks Engineer and Architect | Radnor, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d7862c3c59e06d56) | 2026-05-06 10:58 |
 | Norstella | Software Engineer Intern | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=49a129c7a487aae4) | 2026-05-06 10:58 |
 | SOFTILITY INC | Site Reliability Engineer | Herndon, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3faf69463891ca3f) | 2026-05-06 10:58 |
@@ -434,15 +443,6 @@ Last updated: 2026-05-06 10:58
 | Inter-American Development Bank | IDB Invest - Data Engineer (Sr Officer) Officer | Washington, DC, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=975f0416f1286d47) | 2026-05-02 14:06 |
 | Disney Experiences | Sr Full Stack Software Engineer | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7160da80c4aa5c1b) | 2026-05-02 14:06 |
 | nan | Senior Data Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=011200ffdfb2dd05) | 2026-05-02 14:06 |
-| Openkyber | Senior DevOps Engineer (GCP) | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=abcb767c36c64a35) | 2026-05-02 11:38 |
-| Openkyber | Senior SRE (GCP) | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce0e1c2c1470a743) | 2026-05-02 11:38 |
-| Openkyber | Cloud AI Application Administrator | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18ebfd30511cd60d) | 2026-05-02 11:38 |
-| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=63e4780a404c7463) | 2026-05-02 11:38 |
-| Openkyber | Senior Cloud Automation Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=005efcc9b62d1e43) | 2026-05-02 11:38 |
-| Openkyber | Senior Cloud Platform Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5f244e9018755770) | 2026-05-02 11:38 |
-| Openkyber | Junior GCP Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08d4cd78d3dbe405) | 2026-05-02 11:38 |
-| Openkyber | Junior GCP Cloud Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=322cbaa1c83e7b5b) | 2026-05-02 11:38 |
-| Openkyber | AI Application Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b57504d4cd793d31) | 2026-05-02 11:38 |
 
 
 ---
