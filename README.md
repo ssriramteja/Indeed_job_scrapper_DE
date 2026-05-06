@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-06 05:29
+Last updated: 2026-05-06 08:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SUPPORTSOFT TECHNOLOGIES | Senior Software Engineer – Oracle EPM/Senior Quadient Inspire Engineer | Alpharetta, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=75c533d77b3fd5ba) | 2026-05-06 08:09 |
+| Booz Allen Hamilton | Health Account Intern | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=64329d0d0bf86853) | 2026-05-06 08:09 |
+| nan | Senior Data Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=df1902d36083d34f) | 2026-05-06 08:09 |
+| nan | Senior Data Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5cb867686433b7a1) | 2026-05-06 08:09 |
+| nan | Senior Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b9c0e5823a5a0a57) | 2026-05-06 08:09 |
+| nan | Senior Data Engineer | Salt Lake City, UT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3aeafc948a2f0f6c) | 2026-05-06 08:09 |
+| nan | Senior Data Engineer | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c45b322f3e5694ad) | 2026-05-06 08:09 |
+| nan | Senior Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c4c63fb90b07eaf3) | 2026-05-06 08:09 |
+| nan | Senior Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d67c28cbc09b5ad3) | 2026-05-06 08:09 |
+| nan | Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d61e7d7639acc074) | 2026-05-06 08:09 |
+| Terra Quantum | Senior Software Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15eb90498bcba242) | 2026-05-06 08:09 |
+| Rivian | Software Engineer – Enterprise Software | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=90124173401e2437) | 2026-05-06 08:09 |
+| Radwell International | Enterprise AI Architect | Willingboro, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=56c80236c3727026) | 2026-05-06 08:09 |
 | Commence | Sr Site Reliability Engineer | Leesburg, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9093ede7f2269db2) | 2026-05-06 05:29 |
 | Kroll Inc. | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d56048c057634cd1) | 2026-05-06 05:29 |
 | Nordstrom | Senior Cloud Database Engineer (Hybrid - Seattle, WA) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1666a61865ef57aa) | 2026-05-06 05:29 |
@@ -430,15 +443,6 @@ Last updated: 2026-05-06 05:29
 | Provoke Solutions | Data Engineer - Microsoft Fabric | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b922fcc276be07d) | 2026-05-02 08:20 |
 | Costco Wholesale | Security Engineer - Penetration Testing- Cybersecurity | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f83c998681a5740b) | 2026-05-02 08:20 |
 | Costco Wholesale | Security Engineer - Penetration Testing- Cybersecurity | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4d9379c5df7ca902) | 2026-05-02 08:20 |
-| ElementSkill | Agentic AI Architect | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=87dcf7166c991b47) | 2026-05-02 06:58 |
-| RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3d8ec5a3c163d85b) | 2026-05-02 06:58 |
-| Clinical Care Options LLC | Associate Data & Analytics Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=13564543da011952) | 2026-05-02 06:58 |
-| Foodsmart | Software Development Engineer in Test (SDET) | West, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1ff1351b933e73ff) | 2026-05-02 06:58 |
-| Foodsmart | Software Development Engineer in Test (SDET) | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=547c7125b0b30619) | 2026-05-02 06:58 |
-| Foodsmart | Software Development Engineer in Test (SDET) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=364f3e4259c47f25) | 2026-05-02 06:58 |
-| Foodsmart | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aaeba0c578886154) | 2026-05-02 06:58 |
-| Foodsmart | Senior Data Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1c32c34ff06b9605) | 2026-05-02 06:58 |
-| Foodsmart | Senior Data Engineer | West, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c0f59a5cadbe7f1) | 2026-05-02 06:58 |
 
 
 ---
