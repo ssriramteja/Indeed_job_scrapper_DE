@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-06 17:23
+Last updated: 2026-05-06 19:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Analytica | Data Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7d9377a4724bf38c) | 2026-05-06 19:24 |
+| Wavicle Data Solutions | Senior Data Engineer | Oak Brook, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a435f9b94ff5d489) | 2026-05-06 19:24 |
+| Optum | Senior Data analyst | Brentwood, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b7ed131be5ba5e96) | 2026-05-06 19:24 |
+| Epsilon | Data Solutions Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=22c6237fafdb9308) | 2026-05-06 19:24 |
+| vectorsoft | Data Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bdce3e69ca5f6c4) | 2026-05-06 19:24 |
+| Laural Parke | Data Engineer | Des Moines, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19dac2449c2108f4) | 2026-05-06 19:24 |
+| Mango Chamba, LLC | Senior Data Architect | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76b38f99ba86c67f) | 2026-05-06 19:24 |
+| Mesa Labs | Senior Software Development Engineer | Lakewood, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71d54ee3197b525a) | 2026-05-06 19:24 |
+| Aspira | Senior .NET Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3201135d0d7e294) | 2026-05-06 19:24 |
+| Litera | Senior Data Architect | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cdf1ca20dc48c20f) | 2026-05-06 19:24 |
+| Onspring Technologies, LLC | Senior Software Engineer | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d56a66deeafe00f) | 2026-05-06 19:24 |
 | Openkyber | Azure Network Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b4c4141e761a1d57) | 2026-05-06 17:23 |
 | Vantage Data Centers | Mid- Level Data Engineer | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a35201e2c76024aa) | 2026-05-06 17:23 |
 | Openkyber | Cloud Network Architect | TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3552e9ee02097f2c) | 2026-05-06 17:23 |
@@ -469,13 +480,6 @@ Last updated: 2026-05-06 17:23
 | Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=793c1866762fa2ca) | 2026-05-03 05:30 |
 | Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4df1d967651bceda) | 2026-05-03 05:30 |
 | Deloitte | Data Modeling & Data Governance Senior Consultant - Global Employer Services Technology | Costa Mesa, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e3288bd3db664fa) | 2026-05-03 05:30 |
-| Openkyber | Junior DevOps Engineer (GCP) | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8b84e2ec1da33ebd) | 2026-05-02 17:38 |
-| Openkyber | GCP Support Associate | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=31cbdcc23afc2b45) | 2026-05-02 17:38 |
-| Openkyber | GCP Support Associate | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0d636a662e603c9d) | 2026-05-02 17:38 |
-| Openkyber | GCP Support Associate | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1097e9f29f6e8b0a) | 2026-05-02 17:38 |
-| Openkyber | Cloud Service Desk Analyst | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad7fea46ba593dc3) | 2026-05-02 17:38 |
-| Openkyber | AI Application Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=393116d7c03fb80f) | 2026-05-02 17:38 |
-| St. David's HealthCare | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b8ff483497142df4) | 2026-05-02 17:38 |
 
 
 ---
