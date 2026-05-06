@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-06 08:09
+Last updated: 2026-05-06 10:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Lincoln Financial Group | Databricks Engineer and Architect | Radnor, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d7862c3c59e06d56) | 2026-05-06 10:58 |
+| Norstella | Software Engineer Intern | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=49a129c7a487aae4) | 2026-05-06 10:58 |
+| SOFTILITY INC | Site Reliability Engineer | Herndon, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3faf69463891ca3f) | 2026-05-06 10:58 |
+| Blizzard Entertainment | Senior Site Reliability Engineer, Data & Analytics | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f56eabb97941a731) | 2026-05-06 10:58 |
+| State Farm | Mid-Level Software Engineer | Bloomington, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da08c5cf76c3287c) | 2026-05-06 10:58 |
+| Staples | Software Engineer - Warehouse Management Systems (WMS) | Framingham, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=654753ccda866d62) | 2026-05-06 10:58 |
+| Tata Consultancy Services (TCS) | Senior AI Engineer | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6f9ad7c8c6b989c1) | 2026-05-06 10:58 |
+| JPMorganChase | Data Scientist, Senior Associate – Product, Experience and Technology (PXT) Analytics Team | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4b0bfe4f7e93a067) | 2026-05-06 10:58 |
 | SUPPORTSOFT TECHNOLOGIES | Senior Software Engineer – Oracle EPM/Senior Quadient Inspire Engineer | Alpharetta, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=75c533d77b3fd5ba) | 2026-05-06 08:09 |
 | Booz Allen Hamilton | Health Account Intern | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=64329d0d0bf86853) | 2026-05-06 08:09 |
 | nan | Senior Data Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=df1902d36083d34f) | 2026-05-06 08:09 |
@@ -435,14 +443,6 @@ Last updated: 2026-05-06 08:09
 | Openkyber | Junior GCP Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08d4cd78d3dbe405) | 2026-05-02 11:38 |
 | Openkyber | Junior GCP Cloud Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=322cbaa1c83e7b5b) | 2026-05-02 11:38 |
 | Openkyber | AI Application Architect | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b57504d4cd793d31) | 2026-05-02 11:38 |
-| General Motors (GM) | Sr. Software Engineer - AI Engineering and Productivity | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=678daaae3aea7ce1) | 2026-05-02 09:54 |
-| JPMorganChase | Software Engineer III - PySpark/AWS | Wilmington, DE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee6714b6afaed3b1) | 2026-05-02 09:54 |
-| Tata Consultancy Services (TCS) | Splunk Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=02a1448e52c0de82) | 2026-05-02 09:54 |
-| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b221a3fa0ea5bd27) | 2026-05-02 09:54 |
-| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cc63a267293974cf) | 2026-05-02 09:54 |
-| Provoke Solutions | Data Engineer - Microsoft Fabric | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b922fcc276be07d) | 2026-05-02 08:20 |
-| Costco Wholesale | Security Engineer - Penetration Testing- Cybersecurity | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f83c998681a5740b) | 2026-05-02 08:20 |
-| Costco Wholesale | Security Engineer - Penetration Testing- Cybersecurity | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4d9379c5df7ca902) | 2026-05-02 08:20 |
 
 
 ---
