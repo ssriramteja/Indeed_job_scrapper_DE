@@ -1,11 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-07 21:57
+Last updated: 2026-05-07 22:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| OMG Technology | Google Cloud Data Architect – IAM Data Modernization | Charlotte, NC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=83f62e0d739d27aa) | 2026-05-07 22:56 |
+| Progress Residential | DevOps Architect | Thousand Oaks, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=42e8e88ca3fb6ab8) | 2026-05-07 22:56 |
+| Pyx Health | Sr Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=258bc7844352c3f1) | 2026-05-07 22:56 |
+| Stanford University | Associate Data Engineer | Redwood City, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=54745117d2d5b210) | 2026-05-07 22:56 |
+| CarMax | Engineer II, Data | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a4cfbea75688c9ed) | 2026-05-07 22:56 |
+| CarMax | Engineer II, Data | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=52f68931c99845d3) | 2026-05-07 22:56 |
+| Pyx Health | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=626873a69ef4c8b2) | 2026-05-07 22:56 |
+| Chewy | Software Engineer III | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=41506061e08a6c6b) | 2026-05-07 22:56 |
+| Chewy | Software Engineer III | Plantation, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b5f05c8dd67fcf30) | 2026-05-07 22:56 |
+| Dayforce | Software Developer Sr | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b92007092f3a111a) | 2026-05-07 22:56 |
+| Mango Chamba, LLC | Data Architect (Snowflake) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ba8e3de971eddef) | 2026-05-07 22:56 |
+| Dayforce | Software Developer Sr | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da194a7fdcf7abf8) | 2026-05-07 22:56 |
+| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6dbdec210790339f) | 2026-05-07 22:56 |
+| Warner Bros. Discovery | Data Engineer I, CNN Digital Products and Services | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b9db141b7401478) | 2026-05-07 22:56 |
+| Warner Bros. Discovery | Data Engineer I, CNN Digital Products and Services | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5a165ea66f85e55) | 2026-05-07 22:56 |
+| Warner Bros. Discovery | Data Engineer I, CNN Digital Products and Services | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06681d5885df2a47) | 2026-05-07 22:56 |
+| Warner Bros. Discovery | Data Engineer I, CNN Digital Products and Services | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9db6123d90e51635) | 2026-05-07 22:56 |
+| Warner Bros. Discovery | Data Engineer I, CNN Digital Products and Services | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd6c010abcc1b9ad) | 2026-05-07 22:56 |
 | Hyatt | CLOUD SOLUTION ARCHITECT (REMOTE OPPORTUNITY) | Chicago, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7cc98bb631036b24) | 2026-05-07 21:57 |
 | Tata Consultancy Services (TCS) | Data Engineer | Philadelphia, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=47aa5908e0a6f244) | 2026-05-07 21:57 |
 | Qode | .NET Architect | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=be0e5cb9ff763e41) | 2026-05-07 21:57 |
