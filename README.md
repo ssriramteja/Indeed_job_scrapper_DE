@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-07 05:53
+Last updated: 2026-05-07 08:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| QUALGEN, LLC | IT Specialist/Systems Administrator | Edmond, OK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f3e0e141efc8c345) | 2026-05-07 08:16 |
+| Starbucks | data engineer sr- ST; Nashville, TN | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=740c3688a7f68b22) | 2026-05-07 08:16 |
+| Amer Technology, Inc | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=46b3557dd6a86d77) | 2026-05-07 08:16 |
+| Foxconn Industrial Internet - FII | Business Systems Analyst | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=545894faf57b95a0) | 2026-05-07 08:16 |
+| Mastercard | AI Engineer | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24e6c09a79e3dceb) | 2026-05-07 08:16 |
 | Commence | Sr. AI/ML Engineer | Leesburg, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bb10f4ead0ebaa8c) | 2026-05-07 05:53 |
 | Deloitte | AI Forward Deployed Engineer (FDE) | Jacksonville, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=84ff26ed72edcf59) | 2026-05-07 05:53 |
 | Deloitte | AI Forward Deployed Engineer (FDE) | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4a7e583a5ea56607) | 2026-05-07 05:53 |
