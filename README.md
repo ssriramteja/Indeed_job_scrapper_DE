@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-07 16:00
+Last updated: 2026-05-07 17:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| UCCU | Data Engineer | Provo, UT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0442b12c52280bd2) | 2026-05-07 17:49 |
+| Point72 | DevOps Engineer, Surveillance | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0a679b465b6c33f) | 2026-05-07 17:49 |
+| PayPal | Software Engineer, Backend | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=432c12682fbcbbc1) | 2026-05-07 17:49 |
+| You.com | Data Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ef3012f6c986c6af) | 2026-05-07 17:49 |
+| Rivian | Senior Analytics Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3e4e64b6ab31fd0a) | 2026-05-07 17:49 |
+| Union Bank & Trust Co. | Application Developer 2 | Lincoln, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=341905de86352ef7) | 2026-05-07 17:49 |
+| Grid Elevated | Software Engineer | Salt Lake City, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a0d3426744c1c66f) | 2026-05-07 17:49 |
+| Cloaked | Site Reliability Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=551cb213bc9bdebf) | 2026-05-07 17:49 |
+| Backblaze | Sr. Site Reliability Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df831ecf1efacc6b) | 2026-05-07 17:49 |
+| Foresite Labs | Senior Software Engineer (5+ years) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c6352e6589be89b) | 2026-05-07 17:49 |
+| nan | Software Engineer III/Senior, Data Platform | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b26a34ae5eed7d2c) | 2026-05-07 17:49 |
+| JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1949523741452b18) | 2026-05-07 17:49 |
+| Marathon TS | Senior Java/ Machine Learning Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4225155fc7f038aa) | 2026-05-07 17:49 |
 | nan | Sr Data Engineer | Santa Monica, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1dbfa76f2864991e) | 2026-05-07 16:00 |
 | KIZEN Technologies, Inc. | Data engineer with Snowflake AND Databricks | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7351b5f44a3c15ba) | 2026-05-07 16:00 |
 | Klaxontech | Data Engineer | Robstown, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8b2c93edd86822c1) | 2026-05-07 16:00 |
@@ -627,8 +640,6 @@ Last updated: 2026-05-07 16:00
 | Alternative Information Systems | Senior Data Center/Server Administrator | Buffalo, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc658fe2914f7423) | 2026-05-04 01:59 |
 | Scroll Tab | PHP Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c010e703dc6247a2) | 2026-05-03 21:33 |
 | Mattel, Inc. | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e22eed84f3a0e5a) | 2026-05-03 18:45 |
-| Mattel, Inc. | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=54329e26a8f1201c) | 2026-05-03 16:38 |
-| nan | Sr. Engineer - Safety Analytics, Tools & Databases | Arlington, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1310a0840225d1d5) | 2026-05-03 16:38 |
 
 
 ---
