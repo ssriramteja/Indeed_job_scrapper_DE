@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-07 19:27
+Last updated: 2026-05-07 20:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Mayo Clinic | Senior Data Engineer - AI Program | Rochester, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=93617218f60aa5b4) | 2026-05-07 20:59 |
+| LexisNexis Legal & Professional | Data Engineer III | Raleigh, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6f5ac75a162ba9ad) | 2026-05-07 20:59 |
+| Kikoff | Senior Platform Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a7dd0cd975d51e1d) | 2026-05-07 20:59 |
+| Rocket | Data Engineer II - Snowflake AI | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a8b44c5f00132c0a) | 2026-05-07 20:59 |
+| WEX Inc. | Senior Software Engineer - AI Platform | Portland, ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a9520742b57bdbbf) | 2026-05-07 20:59 |
+| BLOC Resources, LLC | Software Engineer 4 | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=94b5225f6d075163) | 2026-05-07 20:59 |
+| Rocket | Data Engineer II | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7117100363dcdf16) | 2026-05-07 20:59 |
+| Dell Technologies | AI Data Specialist - Solution Architect-CSC Consultant | Round Rock, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c47ff834230a7734) | 2026-05-07 20:59 |
+| Moody's | Asst Dir-Machine Learning Eng- Partnerships | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1e239f656b6d91ee) | 2026-05-07 20:59 |
+| General Dynamics Information Technology | Cloud Data Architect | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=606ee7147f0424e1) | 2026-05-07 20:59 |
+| American Cancer Society | Associate Data Scientist | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac09ee4ae12cf692) | 2026-05-07 20:59 |
+| CapTech Consulting | Solutions Architect | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=63fe6bded9b00c94) | 2026-05-07 20:59 |
+| CapTech Consulting | Solutions Architect | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad89e30e39887ae9) | 2026-05-07 20:59 |
+| CapTech Consulting | Solutions Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=858b0940cb76a93d) | 2026-05-07 20:59 |
 | Excel Services Inc | Data / Cloud Engineer | Louisville, KY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6aded2448d39f359) | 2026-05-07 19:27 |
 | Crackajack Solutions | Senior Infrastructure | AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8a0aa2c9b63c9375) | 2026-05-07 19:27 |
 | Genesis Global Group | Data Integration Engineer II | Myrtle Point, OR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3ffbea23a61e7b59) | 2026-05-07 19:27 |
