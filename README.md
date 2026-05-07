@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-07 08:16
+Last updated: 2026-05-07 11:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JCPenney | Technical Architect | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2579776810e54bb8) | 2026-05-07 11:02 |
+| JPMorganChase | Software Engineer II - AI/ML Engineer | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=448348a55cfb6b88) | 2026-05-07 11:02 |
+| Tata Consultancy Services (TCS) | Blockchain Java Backend Developer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2490ff4694380e91) | 2026-05-07 11:02 |
+| JPMorganChase | Data Engineer II | Jersey City, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=189118b38618a67d) | 2026-05-07 11:02 |
+| Cotiviti | Sr Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21788e731c4ee67c) | 2026-05-07 11:02 |
+| Orange County's Credit Union | Cloud Systems Engineer III | Santa Ana, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dbf0feb71fccf2a0) | 2026-05-07 11:02 |
+| FFF Enterprises | Senior Software Engineer - Data intelligence | Flower Mound, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cd57b2f229ee99a) | 2026-05-07 11:02 |
+| Pioneer Circuits Inc. | Cloud Infrastructure & AI Operations Engineer | Santa Ana, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ccde5a1faa24e424) | 2026-05-07 11:02 |
+| JPMorganChase | Software Engineer II- Front end/DevOps | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea2a81785b048298) | 2026-05-07 11:02 |
+| EchoStar | Senior Automation Engineer | Littleton, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac8a3b04afc12b14) | 2026-05-07 11:02 |
 | QUALGEN, LLC | IT Specialist/Systems Administrator | Edmond, OK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f3e0e141efc8c345) | 2026-05-07 08:16 |
 | Starbucks | data engineer sr- ST; Nashville, TN | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=740c3688a7f68b22) | 2026-05-07 08:16 |
 | Amer Technology, Inc | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=46b3557dd6a86d77) | 2026-05-07 08:16 |
