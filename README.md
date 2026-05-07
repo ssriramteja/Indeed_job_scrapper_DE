@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-07 11:02
+Last updated: 2026-05-07 13:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Senior AI Cloud Engineer | GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7283c54206f1c1eb) | 2026-05-07 13:29 |
+| Ai Vantage | Data Engineer- Local | Vienna, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=98a4e4b94b73fdc3) | 2026-05-07 13:29 |
+| Openkyber | AI Research Scientist | GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=73a34a9520c8a4a5) | 2026-05-07 13:29 |
+| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3ba128c0294d4379) | 2026-05-07 13:29 |
+| Openkyber | AI Support Engineer | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e0f372d79fc760e6) | 2026-05-07 13:29 |
+| Openkyber | Java Kafka Streams Developer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1385059d3224b189) | 2026-05-07 13:29 |
+| Openkyber | ML Infrastructure Architect | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab3079c4c7ceb474) | 2026-05-07 13:29 |
+| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67b14047cf4b1b2b) | 2026-05-07 13:29 |
+| Openkyber | AI Platform Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03bec9675bef2c72) | 2026-05-07 13:29 |
+| Openkyber | ML Infrastructure Architect | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64300e27d0c96342) | 2026-05-07 13:29 |
+| Openkyber | AI Research Scientist | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1c35e0e10bd4748) | 2026-05-07 13:29 |
+| Openkyber | LLM Application Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ef6bd275c16f574) | 2026-05-07 13:29 |
+| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0efd009ff873e29f) | 2026-05-07 13:29 |
 | JCPenney | Technical Architect | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2579776810e54bb8) | 2026-05-07 11:02 |
 | JPMorganChase | Software Engineer II - AI/ML Engineer | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=448348a55cfb6b88) | 2026-05-07 11:02 |
 | Tata Consultancy Services (TCS) | Blockchain Java Backend Developer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2490ff4694380e91) | 2026-05-07 11:02 |
@@ -609,8 +622,6 @@ Last updated: 2026-05-07 11:02
 | Mattel, Inc. | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e22eed84f3a0e5a) | 2026-05-03 18:45 |
 | Mattel, Inc. | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=54329e26a8f1201c) | 2026-05-03 16:38 |
 | nan | Sr. Engineer - Safety Analytics, Tools & Databases | Arlington, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1310a0840225d1d5) | 2026-05-03 16:38 |
-| The Cheesecake Factory | Senior Data Engineer | Calabasas Hills, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aedebd419ff75231) | 2026-05-03 12:49 |
-| Guidewire | Data Engineer (DataOps & Infrastructure Focus) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6125421c57f16e3e) | 2026-05-03 11:36 |
 
 
 ---
