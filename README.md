@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-06 23:42
+Last updated: 2026-05-07 02:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Genesis Global Group | Data Engineering - E&P - Data Engineer II | Myrtle Point, OR, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=eb1b4aa287718cb7) | 2026-05-07 02:02 |
+| JCPenney | Technical Architect | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3d51b3269206c63f) | 2026-05-07 02:02 |
+| University Of Washington | AI DevOps Engineer | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c43843e3963f6e92) | 2026-05-07 02:02 |
+| Wingstop | Senior Full-Stack Software Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0c3ebd29f25c3c6c) | 2026-05-07 02:02 |
+| Wingstop | Senior Full-Stack Software Engineer | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4bb9808701c11641) | 2026-05-07 02:02 |
+| University Of Washington | Software Application Developer (Full Stack) - College of Arts and Sciences | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=98feff1d77525ec6) | 2026-05-07 02:02 |
+| Dollar General | DATA SCIENTIST | Goodlettsville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cdfc9f08c573bf84) | 2026-05-07 02:02 |
+| GEICO | Senior Engineer - (Java, Data, Enterprise Platforms & Systems Integration) *HYBRID* | Bethesda, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bd8c2b6d2b269c99) | 2026-05-07 02:02 |
+| Genesis Global Group | Data Engineering - E&P - Data Integration Engineer I | Myrtle Point, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b4df3fe80aaf3c5c) | 2026-05-07 02:02 |
+| Merz Aesthetics | IT/OT Data Engineer | Racine, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c53f35832dc5e29) | 2026-05-07 02:02 |
+| Realign | BigData Platform Admin (Hadoop)-2 | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e582bed3ddb8ed5) | 2026-05-07 02:02 |
 | Recutify Inc. | Google Cloud Data Architect – IAM Data Modernization | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=047175a85485b584) | 2026-05-06 23:42 |
 | SmartVault Corporation | DevOps Engineer | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=58fb938f03dcac58) | 2026-05-06 23:42 |
 | The Hartford | Senior AI Machine Learning Engineer | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=93e711d09b751f9f) | 2026-05-06 23:42 |
