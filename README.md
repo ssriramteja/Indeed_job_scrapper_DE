@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-07 17:49
+Last updated: 2026-05-07 19:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Excel Services Inc | Data / Cloud Engineer | Louisville, KY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6aded2448d39f359) | 2026-05-07 19:27 |
+| Crackajack Solutions | Senior Infrastructure | AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8a0aa2c9b63c9375) | 2026-05-07 19:27 |
+| Genesis Global Group | Data Integration Engineer II | Myrtle Point, OR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3ffbea23a61e7b59) | 2026-05-07 19:27 |
+| Airlines Reporting Corporation (ARC) | DevOps Automation Engineer IV | Arlington, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=199a554b26acb4f6) | 2026-05-07 19:27 |
+| Gerber Childrenswear, Inc | Senior Analytics Engineer | Greenville, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=851b03fb4ff62f20) | 2026-05-07 19:27 |
+| TopStep | Senior Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f03231d1386b02a) | 2026-05-07 19:27 |
+| Future Secure AI | Platform Architect | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=faa6451e47d9dd5e) | 2026-05-07 19:27 |
+| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b34ebfa2f39b5d0) | 2026-05-07 19:27 |
+| Leading Path Consulting | Systems Developer (TS/SCI w/ Poly) - Bid role starting in 8-10 weeks | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=38053030970a8053) | 2026-05-07 19:27 |
+| Lantern | Senior Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d8b3afa900ba086) | 2026-05-07 19:27 |
+| Lantern | Senior Data Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3a16438c1d377b13) | 2026-05-07 19:27 |
+| Verse | Data Scientist | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=595f48c6de986c3b) | 2026-05-07 19:27 |
+| GEICO | Software Engineer (HYBRID) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2982fc10e352a13b) | 2026-05-07 19:27 |
+| GEICO | Software Engineer (HYBRID) | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97647ed49aa0bb5b) | 2026-05-07 19:27 |
 | UCCU | Data Engineer | Provo, UT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0442b12c52280bd2) | 2026-05-07 17:49 |
 | Point72 | DevOps Engineer, Surveillance | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0a679b465b6c33f) | 2026-05-07 17:49 |
 | PayPal | Software Engineer, Backend | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=432c12682fbcbbc1) | 2026-05-07 17:49 |
@@ -639,7 +653,6 @@ Last updated: 2026-05-07 17:49
 | Balfour Beatty | Solutions Architect | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a704639955f34e73) | 2026-05-04 05:36 |
 | Alternative Information Systems | Senior Data Center/Server Administrator | Buffalo, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc658fe2914f7423) | 2026-05-04 01:59 |
 | Scroll Tab | PHP Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c010e703dc6247a2) | 2026-05-03 21:33 |
-| Mattel, Inc. | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e22eed84f3a0e5a) | 2026-05-03 18:45 |
 
 
 ---
