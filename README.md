@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-07 13:29
+Last updated: 2026-05-07 16:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Sr Data Engineer | Santa Monica, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1dbfa76f2864991e) | 2026-05-07 16:00 |
+| KIZEN Technologies, Inc. | Data engineer with Snowflake AND Databricks | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7351b5f44a3c15ba) | 2026-05-07 16:00 |
+| Klaxontech | Data Engineer | Robstown, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8b2c93edd86822c1) | 2026-05-07 16:00 |
+| University of South Florida | Advancement Cloud Engineer II | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=46a7512a19a0f2e7) | 2026-05-07 16:00 |
+| Caterpillar | Data Engineer - Technical/User support | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1bbb16a0dc8d7fce) | 2026-05-07 16:00 |
+| Prometheus Security Group Global | Full Stack Java Developer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=532a5dc115e85e1e) | 2026-05-07 16:00 |
+| Fustis LLC | Power BI Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=202bf089bcecf5fb) | 2026-05-07 16:00 |
 | Openkyber | Senior AI Cloud Engineer | GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7283c54206f1c1eb) | 2026-05-07 13:29 |
 | Ai Vantage | Data Engineer- Local | Vienna, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=98a4e4b94b73fdc3) | 2026-05-07 13:29 |
 | Openkyber | AI Research Scientist | GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=73a34a9520c8a4a5) | 2026-05-07 13:29 |
