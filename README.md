@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-07 22:56
+Last updated: 2026-05-07 23:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Visa | Software Engineer Sr. Consultant , Fullstack/GenAI Engineering | Ashburn, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=35bee00fc4ccb280) | 2026-05-07 23:45 |
+| Openkyber | AWS Enterprise Architect | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5a34b81d478ac1d3) | 2026-05-07 23:45 |
+| Softengine | Senior Backend & Platform Engineer (.NET / AWS) | Woodland Hills, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=871fae4a024977f1) | 2026-05-07 23:45 |
+| Dolese Bros. | Data Engineer | Oklahoma City, OK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=801d9528f59b4278) | 2026-05-07 23:45 |
+| Openkyber | AWS Cloud Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=39e0729d312a0ecd) | 2026-05-07 23:45 |
+| Openkyber | AWS Data Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=783168b15946ba04) | 2026-05-07 23:45 |
+| Openkyber | Senior LLM Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1febfbe512a25ee0) | 2026-05-07 23:45 |
+| Openkyber | Senior AWS Serverless Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a595e9aba40b0b9) | 2026-05-07 23:45 |
+| Openkyber | Senior AI Platform Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=93d7525ba31f9666) | 2026-05-07 23:45 |
+| GE HealthCare | Data Analyst & GenAI Specialist, Enterprise AI | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49a3c5ea9cc7a4b0) | 2026-05-07 23:45 |
+| University of Massachusetts Amherst | Research Fellow - Artificial Intelligence/Machine Learning | Amherst, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bae29c34d0c2ccf3) | 2026-05-07 23:45 |
+| Beghou Consulting | Consultant, Data Management | Evanston, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0f426e9aa3d054e) | 2026-05-07 23:45 |
 | OMG Technology | Google Cloud Data Architect – IAM Data Modernization | Charlotte, NC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=83f62e0d739d27aa) | 2026-05-07 22:56 |
 | Progress Residential | DevOps Architect | Thousand Oaks, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=42e8e88ca3fb6ab8) | 2026-05-07 22:56 |
 | Pyx Health | Sr Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=258bc7844352c3f1) | 2026-05-07 22:56 |
