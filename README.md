@@ -1,11 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-07 20:59
+Last updated: 2026-05-07 21:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Hyatt | CLOUD SOLUTION ARCHITECT (REMOTE OPPORTUNITY) | Chicago, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7cc98bb631036b24) | 2026-05-07 21:57 |
+| Tata Consultancy Services (TCS) | Data Engineer | Philadelphia, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=47aa5908e0a6f244) | 2026-05-07 21:57 |
+| Qode | .NET Architect | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=be0e5cb9ff763e41) | 2026-05-07 21:57 |
+| Verato | Data Engineer II | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5dc8cc7a510942d0) | 2026-05-07 21:57 |
+| Motive | Data Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4b4df3933dd78a0) | 2026-05-07 21:57 |
+| Visa | Data Engineer - Sr. Consultant level | Foster City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19b2722e44d39f3c) | 2026-05-07 21:57 |
+| Visa | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b6ddbca14f940ab0) | 2026-05-07 21:57 |
+| Regions Financial | Cloud DevSecOps Engineer III | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=940eea1ae3941224) | 2026-05-07 21:57 |
+| Renew home | Senior Engineer, Test and Automation (Remote, US) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=97cf888a72ff8c87) | 2026-05-07 21:57 |
+| Citizens | Senior Data Engineer – Enterprise Data Frameworks (Java Spark Focus) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eca9f093e2f385f4) | 2026-05-07 21:57 |
+| Toyota North America | Senior AI/ML Platform Engineer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d1f33e8f121963da) | 2026-05-07 21:57 |
+| Tata Consultancy Services (TCS) | Senior Engineer -Devops | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1ec559f61088931) | 2026-05-07 21:57 |
+| Celigo | Senior Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6dff5e552658401c) | 2026-05-07 21:57 |
+| Stellantis | Engineer - Integrations | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bb6fedab2823a33a) | 2026-05-07 21:57 |
+| Tata Consultancy Services (TCS) | Java, Pyspark Developer | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35d16e80a49bcc0f) | 2026-05-07 21:57 |
 | Mayo Clinic | Senior Data Engineer - AI Program | Rochester, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=93617218f60aa5b4) | 2026-05-07 20:59 |
 | LexisNexis Legal & Professional | Data Engineer III | Raleigh, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6f5ac75a162ba9ad) | 2026-05-07 20:59 |
 | Kikoff | Senior Platform Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a7dd0cd975d51e1d) | 2026-05-07 20:59 |
@@ -666,7 +681,6 @@ Last updated: 2026-05-07 20:59
 | Growth Protocol | Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=73f78f46255a670f) | 2026-05-04 05:36 |
 | Balfour Beatty | Solutions Architect | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a704639955f34e73) | 2026-05-04 05:36 |
 | Alternative Information Systems | Senior Data Center/Server Administrator | Buffalo, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc658fe2914f7423) | 2026-05-04 01:59 |
-| Scroll Tab | PHP Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c010e703dc6247a2) | 2026-05-03 21:33 |
 
 
 ---
