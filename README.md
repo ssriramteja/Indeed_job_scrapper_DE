@@ -1,14 +1,34 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-08 17:03
+Last updated: 2026-05-08 19:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Kubernetes Cloud Engineer (EKS) | AK, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0c4556ba273a002c) | 2026-05-08 19:05 |
+| Openkyber | Cloud Operations Associate (GCP) | GA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0b1c67caa8dada84) | 2026-05-08 19:05 |
+| Openkyber | Junior Kubernetes Engineer | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=1272708dac2e408f) | 2026-05-08 19:05 |
+| Gointellects Inc. | Azure Data Solutions Architect | Washington, DC, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=413624100870427f) | 2026-05-08 19:05 |
+| Openkyber | Associate Cloud Security Analyst | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=eae5a2d66b2f3420) | 2026-05-08 19:05 |
+| Cadrac Labs India Private Limited | Senior Data Scientist | Texas City, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=747aafe9f6bd6536) | 2026-05-08 19:05 |
+| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 19:05 |
+| Zingtree | Senior DevOps / Platform Reliability Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=63a7e7b3bf60f979) | 2026-05-08 19:05 |
+| Openkyber | Senior DevOps Engineer (Kubernetes) | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=381d7c89737513ad) | 2026-05-08 19:05 |
+| Openkyber | Senior AWS Cloud Engineer | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2a8fd660470fa589) | 2026-05-08 19:05 |
+| Blue Sentry Cloud | Senior Platform Engineer (Azure) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0ad9db5da19a8799) | 2026-05-08 19:05 |
+| PlayStation | Software Development Engineer in Test, ML | San Mateo, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03cd36eaa85418b7) | 2026-05-08 19:05 |
+| Openkyber | Kubernetes Administrator | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb6b8298e9c03f5f) | 2026-05-08 19:05 |
+| PlayStation | Sr Software Development Engineer in Test, ML | San Mateo, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d9632e09bbc8fbcf) | 2026-05-08 19:05 |
+| Sonar | Data Engineer | Chattanooga, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=09ccfeeca461865f) | 2026-05-08 19:05 |
+| Openkyber | Generative AI Intern | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5be60fbee58aedc1) | 2026-05-08 19:05 |
+| Luminate | Software Engineering Intern, DataOps Engineering / Data Engineering | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0e13b4073216a84) | 2026-05-08 19:05 |
+| Openkyber | Junior DevOps Engineer (GCP) | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0a800b3931c11c7a) | 2026-05-08 19:05 |
+| Genesis Global Group | Soft Engineering- Portals - QA Engineer II | Myrtle Point, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=28df02e9ebcc6a84) | 2026-05-08 19:05 |
+| Openkyber | Kubernetes Security Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88f3624dd7e6a601) | 2026-05-08 19:05 |
+| Openkyber | Machine Learning Intern | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca7c2d316ed79d27) | 2026-05-08 19:05 |
 | US Pharmacopeial Convention | Senior Data Engineer | Rockville, MD, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=b4f94ba7cfeb5a99) | 2026-05-08 17:03 |
 | American Electric Power | Solution Engineer Prin | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1d816abd278fc697) | 2026-05-08 17:03 |
-| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 17:03 |
 | Blue Sentry Cloud | Senior Platform Engineer (Azure) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c8b2646dabbd2b10) | 2026-05-08 17:03 |
 | EXL Service | Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=482024a3058d442e) | 2026-05-08 17:03 |
 | EXL Service | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=05116eeafaa39819) | 2026-05-08 17:03 |
@@ -742,30 +762,6 @@ Last updated: 2026-05-08 17:03
 | Rivian | Software Engineer – Enterprise Software | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca7a434536a69116) | 2026-05-04 19:15 |
 | HireIO, Inc. | Software Engineer/C# - Backend Developer | Hooksett, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=db9d74eb17603766) | 2026-05-04 19:15 |
 | ImageTrend | Senior Database Administrator | Eagan, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eae40e99f47e527a) | 2026-05-04 19:15 |
-| Fidelity Investments | Senior Data Engineer | Westlake, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5e54c3f102344248) | 2026-05-04 17:23 |
-| Qode | Data Engineer | San Diego, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=709c18d442014735) | 2026-05-04 17:23 |
-| Openkyber | AWS Technical Apprentice / Trainee | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ad8bcaa8fa27acf0) | 2026-05-04 17:23 |
-| Openkyber | PingOne Cloud Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=30e1948be295dcc1) | 2026-05-04 17:23 |
-| Openkyber | Junior Cloud Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56ccf65ff48d085d) | 2026-05-04 17:23 |
-| Blue Photon | Software Engineer | Shelby, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ff88f005d63b8626) | 2026-05-04 17:23 |
-| Openkyber | Cloud Support Associate | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=32d18419724cd3ba) | 2026-05-04 17:23 |
-| Openkyber | AWS Technical Apprentice / Trainee | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=feb3059078a0901f) | 2026-05-04 17:23 |
-| The Cigna Group | Software Engineering Advisor- Hybrid | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d922efe548db8f2d) | 2026-05-04 17:23 |
-| SWBC | Data Engineer | San Antonio, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca4f492a729e54b0) | 2026-05-04 17:23 |
-| Openkyber | AWS API Gateway Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dd9ff20d039737ab) | 2026-05-04 17:23 |
-| Lithic | Senior Software Engineer, Data Platform | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b514cb1820e9388e) | 2026-05-04 17:23 |
-| Lithic | Senior Software Engineer, Data Platform | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6c521f0d67306e74) | 2026-05-04 17:23 |
-| Openkyber | OpenAM | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5c9c3f737864e384) | 2026-05-04 17:23 |
-| Openkyber | AWS Technical Apprentice / Trainee | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f095b443e497d6af) | 2026-05-04 17:23 |
-| Openkyber | AWS Technical Apprentice / Trainee | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fc15090d375b6ac1) | 2026-05-04 17:23 |
-| Economic Mobility Systems | Senior Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=153cac663bc30f74) | 2026-05-04 17:23 |
-| Openkyber | AWS API Gateway Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=583898b799180afb) | 2026-05-04 17:23 |
-| Arvest Bank | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f0f7634d581119dc) | 2026-05-04 17:23 |
-| Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c5a14d40ff745332) | 2026-05-04 17:23 |
-| Qode | Python Web Developer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ec34b48fe754f748) | 2026-05-04 17:23 |
-| STERIS | Enterprise Data Modeler / Data Architect | Mentor, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a87bcde3a06ac6f) | 2026-05-04 17:23 |
-| EXL Service | Technical Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2265f7a07a9ea472) | 2026-05-04 17:23 |
-| Heygen | Backend Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=423ca554834f103a) | 2026-05-04 17:23 |
 
 
 ---
