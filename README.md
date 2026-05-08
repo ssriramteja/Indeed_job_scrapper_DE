@@ -1,14 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-08 15:14
+Last updated: 2026-05-08 17:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| US Pharmacopeial Convention | Senior Data Engineer | Rockville, MD, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=b4f94ba7cfeb5a99) | 2026-05-08 17:03 |
+| American Electric Power | Solution Engineer Prin | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1d816abd278fc697) | 2026-05-08 17:03 |
+| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 17:03 |
+| Blue Sentry Cloud | Senior Platform Engineer (Azure) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c8b2646dabbd2b10) | 2026-05-08 17:03 |
+| EXL Service | Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=482024a3058d442e) | 2026-05-08 17:03 |
+| EXL Service | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=05116eeafaa39819) | 2026-05-08 17:03 |
+| Fingerprint | Backend Engineer - Mobile Team | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5cb4d8c9f3f81a5e) | 2026-05-08 17:03 |
+| HCA Healthcare | Senior Data Engineer - APIs | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ecb5dd3a0318428a) | 2026-05-08 17:03 |
+| Reapplix | Power BI Developer - Freelance | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c99bc276d95bde95) | 2026-05-08 17:03 |
+| Citi | Junior Generative AI Application Developer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0a243477a745eb9) | 2026-05-08 17:03 |
+| Citi | Junior Generative AI Application Developer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=874f5ca1092189ef) | 2026-05-08 17:03 |
+| Citi | Junior Generative AI Application Developer | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce3d565040e4deeb) | 2026-05-08 17:03 |
+| Citi | Junior Generative AI Application Developer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d09fccd840d1ac8) | 2026-05-08 17:03 |
+| Busigence Technologies | DevOps Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=30186b8478a082ea) | 2026-05-08 17:03 |
 | Altumint | Senior AWS Developer | Lanham, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=fed653aec24910be) | 2026-05-08 15:14 |
-| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 15:14 |
-| Ford Motor Company | Full Stack Software Engineer, AI Integration | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=624a180836a37e71) | 2026-05-08 15:14 |
 | Presidio | Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4c98e70b4f08875) | 2026-05-08 15:14 |
 | Openkyber | AWS Systems Engineer | AK, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=d3903be92908c75d) | 2026-05-08 13:10 |
 | NTT Global Data Centers Americas, Inc. | AI Technical Architect - Onsite | Auburn Hills, MI, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=7327c0bf569365fa) | 2026-05-08 13:10 |
