@@ -1,16 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-08 07:17
+Last updated: 2026-05-08 09:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 09:06 |
 | Openkyber | Junior Automation Engineer (Cloud) | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=23fd00a4507ab066) | 2026-05-08 07:17 |
 | Openkyber | Junior Automation Engineer (Cloud) | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8556b858fbab54a4) | 2026-05-08 07:17 |
-| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 07:17 |
 | Openkyber | AWS Systems Engineer | GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53af07e478e3cd7d) | 2026-05-08 07:17 |
-| Ford Motor Company | Full Stack Software Engineer, AI Integration | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=624a180836a37e71) | 2026-05-08 07:17 |
 | Openkyber | Senior DevOps Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bd5d72a84ca4e4ea) | 2026-05-08 07:17 |
 | Openkyber | Junior Automation Engineer (Cloud) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=30a75c1c6a28610f) | 2026-05-08 07:17 |
 | O'Reilly Auto Parts | Sr Platform Engineer (GCP) | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d564e3ba391555e) | 2026-05-08 07:17 |
@@ -751,9 +750,6 @@ Last updated: 2026-05-08 07:17
 | Openkyber | Infrastructure Engineer (Cloud Focus) | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c31d35f272797bf3) | 2026-05-04 12:19 |
 | Openkyber | Senior Cloud Disaster Recovery Architect | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e64d1d6af8d67c0f) | 2026-05-04 12:19 |
 | Rebel | Senior Full Stack Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=00588f8665b4c11d) | 2026-05-04 10:57 |
-| TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eb9af83131be97f8) | 2026-05-04 08:18 |
-| WesBanco Bank, Inc. | Senior Data Engineer - Data & Analytics | Bowie, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3689d938fd4bd78c) | 2026-05-04 08:18 |
-| Dynamic Consulting Group | Power BI Specialist | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e353c5cce39b1c4f) | 2026-05-04 08:18 |
 
 
 ---
