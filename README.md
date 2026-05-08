@@ -1,16 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-08 13:10
+Last updated: 2026-05-08 15:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Altumint | Senior AWS Developer | Lanham, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=fed653aec24910be) | 2026-05-08 15:14 |
+| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 15:14 |
+| Ford Motor Company | Full Stack Software Engineer, AI Integration | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=624a180836a37e71) | 2026-05-08 15:14 |
+| Presidio | Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4c98e70b4f08875) | 2026-05-08 15:14 |
 | Openkyber | AWS Systems Engineer | AK, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=d3903be92908c75d) | 2026-05-08 13:10 |
 | NTT Global Data Centers Americas, Inc. | AI Technical Architect - Onsite | Auburn Hills, MI, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=7327c0bf569365fa) | 2026-05-08 13:10 |
 | Openkyber | AWS Systems Engineer | AK, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=81fe8958cd4a14a2) | 2026-05-08 13:10 |
 | Openkyber | Junior Automation Engineer (Cloud) | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=5335254820a6db07) | 2026-05-08 13:10 |
-| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 13:10 |
 | Openkyber | Cloud Support Associate | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0077323c8678a550) | 2026-05-08 13:10 |
 | Openkyber | AWS Technical Apprentice / Trainee | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c43b6c07f7a10c25) | 2026-05-08 13:10 |
 | Openkyber | AWS Systems Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=587fb03845771fd7) | 2026-05-08 13:10 |
@@ -751,9 +754,6 @@ Last updated: 2026-05-08 13:10
 | STERIS | Enterprise Data Modeler / Data Architect | Mentor, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a87bcde3a06ac6f) | 2026-05-04 17:23 |
 | EXL Service | Technical Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2265f7a07a9ea472) | 2026-05-04 17:23 |
 | Heygen | Backend Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=423ca554834f103a) | 2026-05-04 17:23 |
-| Ashapura Softech Pvt. Ltd. | Snowflake Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d0f96741c29b2cd0) | 2026-05-04 15:04 |
-| BSI Financial Services | Software Engineering / Data Science Intern | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=99ae275d5381f8d9) | 2026-05-04 15:04 |
-| Equus Computer Systems | Software Engineer II | City of Industry, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=917465a6c5df167b) | 2026-05-04 15:04 |
 
 
 ---
