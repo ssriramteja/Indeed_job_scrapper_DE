@@ -1,12 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-08 09:06
+Last updated: 2026-05-08 11:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 09:06 |
+| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 11:04 |
+| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=39123815bfb490a9) | 2026-05-08 11:04 |
+| JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2032a94f0b2c0e2c) | 2026-05-08 11:04 |
+| NiyamIT | Full Stack Developer | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb8eb5661e9cdc17) | 2026-05-08 11:04 |
 | Openkyber | Junior Automation Engineer (Cloud) | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=23fd00a4507ab066) | 2026-05-08 07:17 |
 | Openkyber | Junior Automation Engineer (Cloud) | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8556b858fbab54a4) | 2026-05-08 07:17 |
 | Openkyber | AWS Systems Engineer | GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53af07e478e3cd7d) | 2026-05-08 07:17 |
@@ -749,7 +752,6 @@ Last updated: 2026-05-08 09:06
 | Openkyber | Kubernetes Engineer | WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ddf6f51fef293c8) | 2026-05-04 12:19 |
 | Openkyber | Infrastructure Engineer (Cloud Focus) | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c31d35f272797bf3) | 2026-05-04 12:19 |
 | Openkyber | Senior Cloud Disaster Recovery Architect | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e64d1d6af8d67c0f) | 2026-05-04 12:19 |
-| Rebel | Senior Full Stack Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=00588f8665b4c11d) | 2026-05-04 10:57 |
 
 
 ---
