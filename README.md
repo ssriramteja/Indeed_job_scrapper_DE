@@ -1,11 +1,40 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-07 23:45
+Last updated: 2026-05-08 02:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Anduril | People Data Analytics Engineer | Boston, MA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=fb7f2c525086c9e8) | 2026-05-08 02:08 |
+| Anduril | People Data Analytics Engineer | Costa Mesa, CA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=b02450496a854e90) | 2026-05-08 02:08 |
+| State Farm | MID-LEVEL DATA ENGINEER-Python, AWS, Spark (Hybrid) | Bloomington, IL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=261c84436f020c86) | 2026-05-08 02:08 |
+| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 02:08 |
+| Accenture Federal Services | Data Engineer Sr | Winchester, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2457ccbf333a6c71) | 2026-05-08 02:08 |
+| Refresco | Data and AI Architect | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2af7139898138970) | 2026-05-08 02:08 |
+| nan | MLOps Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e256491381390022) | 2026-05-08 02:08 |
+| nan | MLOps Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=31b534428b0f5a04) | 2026-05-08 02:08 |
+| nan | Artificial Intelligence Integration Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c509b3fc36b7555a) | 2026-05-08 02:08 |
+| nan | Artificial Intelligence Cybersecurity Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7c86e1f482263817) | 2026-05-08 02:08 |
+| nan | MLOps Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dedcabb346dbfd79) | 2026-05-08 02:08 |
+| nan | Artificial Intelligence Integration Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bfb6c8b91428f3de) | 2026-05-08 02:08 |
+| nan | Artificial Intelligence Integration Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7a129185acbd0492) | 2026-05-08 02:08 |
+| GALAXY | Derivatives Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a5fb021bee91d230) | 2026-05-08 02:08 |
+| INTRAFI | Software Engineer (Sweep) | Arlington, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ede73743d3508e4e) | 2026-05-08 02:08 |
+| Salesforce | Software Engineer (Backend) - MTS | Redwood City, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4b691898c1cbce1f) | 2026-05-08 02:08 |
+| Infinitive Inc | Full Stack Engineer (Typescript/React) | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b1c646c37ffe153e) | 2026-05-08 02:08 |
+| Pattern | Senior Data Engineer | Lehi, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4055b22190d144e0) | 2026-05-08 02:08 |
+| Sumitomo Group | Platform Engineer - Databricks | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07c7ca9178811a63) | 2026-05-08 02:08 |
+| Ford Motor Company | Full Stack Software Engineer, AI Integration | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=624a180836a37e71) | 2026-05-08 02:08 |
+| New York Cancer and Blood Specialists | Cloud Solutions Architect (In-Person) | Ridge, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=feebd610eac70e67) | 2026-05-08 02:08 |
+| CrowdStrike | Engineer III, Advanced Research (Remote) | MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac40b26524188b31) | 2026-05-08 02:08 |
+| Factored | Senior Full-Stack Engineer (Python & React) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=724d0d8443bffbcf) | 2026-05-08 02:08 |
+| Lantern | Data Engineer II | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2df0d1cb02cd182) | 2026-05-08 02:08 |
+| Dun & Bradstreet | Senior Data Engineer, Marketing Analytics (R-19206) | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=522b6aa7f1ff3be8) | 2026-05-08 02:08 |
+| nan | Senior Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3429f80acb97235f) | 2026-05-08 02:08 |
+| NOV | Senior Data Scientist | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f68aa85a5e2fb315) | 2026-05-08 02:08 |
+| SoFi | Senior Software Engineer, Data Trust | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4061e72325e6d3e9) | 2026-05-08 02:08 |
+| SoFi | Senior Software Engineer, Data Trust | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c04679e26ef882f0) | 2026-05-08 02:08 |
 | Visa | Software Engineer Sr. Consultant , Fullstack/GenAI Engineering | Ashburn, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=35bee00fc4ccb280) | 2026-05-07 23:45 |
 | Openkyber | AWS Enterprise Architect | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5a34b81d478ac1d3) | 2026-05-07 23:45 |
 | Softengine | Senior Backend & Platform Engineer (.NET / AWS) | Woodland Hills, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=871fae4a024977f1) | 2026-05-07 23:45 |
@@ -710,7 +739,6 @@ Last updated: 2026-05-07 23:45
 | Dynamic Consulting Group | Power BI Specialist | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e353c5cce39b1c4f) | 2026-05-04 08:18 |
 | Growth Protocol | Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=73f78f46255a670f) | 2026-05-04 05:36 |
 | Balfour Beatty | Solutions Architect | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a704639955f34e73) | 2026-05-04 05:36 |
-| Alternative Information Systems | Senior Data Center/Server Administrator | Buffalo, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc658fe2914f7423) | 2026-05-04 01:59 |
 
 
 ---
