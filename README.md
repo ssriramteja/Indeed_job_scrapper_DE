@@ -1,12 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-08 11:04
+Last updated: 2026-05-08 13:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 11:04 |
+| Openkyber | AWS Systems Engineer | AK, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=d3903be92908c75d) | 2026-05-08 13:10 |
+| NTT Global Data Centers Americas, Inc. | AI Technical Architect - Onsite | Auburn Hills, MI, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=7327c0bf569365fa) | 2026-05-08 13:10 |
+| Openkyber | AWS Systems Engineer | AK, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=81fe8958cd4a14a2) | 2026-05-08 13:10 |
+| Openkyber | Junior Automation Engineer (Cloud) | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=5335254820a6db07) | 2026-05-08 13:10 |
+| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 13:10 |
+| Openkyber | Cloud Support Associate | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0077323c8678a550) | 2026-05-08 13:10 |
+| Openkyber | AWS Technical Apprentice / Trainee | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c43b6c07f7a10c25) | 2026-05-08 13:10 |
+| Openkyber | AWS Systems Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=587fb03845771fd7) | 2026-05-08 13:10 |
+| Openkyber | Platform Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=78d7d81277bb81ba) | 2026-05-08 13:10 |
+| Openkyber | Senior SRE (Kubernetes) | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f2d3d34de1eead8b) | 2026-05-08 13:10 |
+| Consertus | Power BI Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8919022f4b2c0bc4) | 2026-05-08 13:10 |
+| Openkyber | Kubernetes Security Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=05932e2bdc0b6ca7) | 2026-05-08 13:10 |
+| Openkyber | Cloud Engineer (Containers & Kubernetes) | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=472d3fada936445a) | 2026-05-08 13:10 |
+| Openkyber | Cloud Support Associate | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a139e85dc1c56b0) | 2026-05-08 13:10 |
+| Openkyber | Kubernetes Automation Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c39b3c6df926e3a2) | 2026-05-08 13:10 |
 | JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=39123815bfb490a9) | 2026-05-08 11:04 |
 | JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2032a94f0b2c0e2c) | 2026-05-08 11:04 |
 | NiyamIT | Full Stack Developer | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb8eb5661e9cdc17) | 2026-05-08 11:04 |
@@ -740,18 +754,6 @@ Last updated: 2026-05-08 11:04
 | Ashapura Softech Pvt. Ltd. | Snowflake Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d0f96741c29b2cd0) | 2026-05-04 15:04 |
 | BSI Financial Services | Software Engineering / Data Science Intern | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=99ae275d5381f8d9) | 2026-05-04 15:04 |
 | Equus Computer Systems | Software Engineer II | City of Industry, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=917465a6c5df167b) | 2026-05-04 15:04 |
-| Openkyber | Junior Cloud Automation Engineer | GA, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=e1612776e805e54c) | 2026-05-04 12:19 |
-| Openkyber | Cloud Engineer | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=931e03bde1c477ea) | 2026-05-04 12:19 |
-| Openkyber | Senior Cloud Operations Engineer | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=21777f31aa4e15fc) | 2026-05-04 12:19 |
-| Openkyber | Infrastructure Engineer (Cloud Focus) | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=913dc1f0ef2502d9) | 2026-05-04 12:19 |
-| Openkyber | Cloud Support Engineer | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eaaf7c2a648f0705) | 2026-05-04 12:19 |
-| Openkyber | Cloud Support Associate | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f94722145b4f2019) | 2026-05-04 12:19 |
-| Openkyber | Senior Cloud Disaster Recovery Architect | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6b578c92e498309f) | 2026-05-04 12:19 |
-| Openkyber | Senior Cloud Disaster Recovery Architect | WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a30ab82b34b6466) | 2026-05-04 12:19 |
-| Openkyber | DevOps Architect | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e44cf21cb97515cf) | 2026-05-04 12:19 |
-| Openkyber | Kubernetes Engineer | WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ddf6f51fef293c8) | 2026-05-04 12:19 |
-| Openkyber | Infrastructure Engineer (Cloud Focus) | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c31d35f272797bf3) | 2026-05-04 12:19 |
-| Openkyber | Senior Cloud Disaster Recovery Architect | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e64d1d6af8d67c0f) | 2026-05-04 12:19 |
 
 
 ---
