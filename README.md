@@ -1,15 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-08 02:08
+Last updated: 2026-05-08 05:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 05:24 |
+| AGORA Data, Inc. | DevOps Engineer | Arlington, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=79de8f5046781d37) | 2026-05-08 05:24 |
+| Colgate-Palmolive | Data Architect (172951) | Piscataway, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=253a8faafcf61b8a) | 2026-05-08 05:24 |
+| Vanco | Senior Data Engineer | Bloomington, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52710d4b139f54d9) | 2026-05-08 05:24 |
+| NVIDIA | Senior Systems Data Engineer, Financial Transactions and Automation - GeForce NOW | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d44146696368c097) | 2026-05-08 05:24 |
+| Ford Motor Company | Full Stack Software Engineer, AI Integration | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=624a180836a37e71) | 2026-05-08 05:24 |
+| Rocket 55 | Data Engineer (Analytics) | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=450a9e8397744651) | 2026-05-08 05:24 |
+| OrangeAI | Founding Product Designer | Naples, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de8acdb2ac2aff1a) | 2026-05-08 05:24 |
+| Palo Alto Networks | Chronosphere Sales Specialist | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb135d3bc1e4d5f8) | 2026-05-08 05:24 |
+| General Motors (GM) | Senior Software Engineer - Notification Platform | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9064827704bc8b10) | 2026-05-08 05:24 |
+| New Classrooms Innovation Partners Inc | Senior QA Engineer / SDET | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=456b9250ee924554) | 2026-05-08 05:24 |
 | Anduril | People Data Analytics Engineer | Boston, MA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=fb7f2c525086c9e8) | 2026-05-08 02:08 |
 | Anduril | People Data Analytics Engineer | Costa Mesa, CA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=b02450496a854e90) | 2026-05-08 02:08 |
 | State Farm | MID-LEVEL DATA ENGINEER-Python, AWS, Spark (Hybrid) | Bloomington, IL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=261c84436f020c86) | 2026-05-08 02:08 |
-| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 02:08 |
 | Accenture Federal Services | Data Engineer Sr | Winchester, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2457ccbf333a6c71) | 2026-05-08 02:08 |
 | Refresco | Data and AI Architect | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2af7139898138970) | 2026-05-08 02:08 |
 | nan | MLOps Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e256491381390022) | 2026-05-08 02:08 |
@@ -25,7 +35,6 @@ Last updated: 2026-05-08 02:08
 | Infinitive Inc | Full Stack Engineer (Typescript/React) | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b1c646c37ffe153e) | 2026-05-08 02:08 |
 | Pattern | Senior Data Engineer | Lehi, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4055b22190d144e0) | 2026-05-08 02:08 |
 | Sumitomo Group | Platform Engineer - Databricks | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07c7ca9178811a63) | 2026-05-08 02:08 |
-| Ford Motor Company | Full Stack Software Engineer, AI Integration | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=624a180836a37e71) | 2026-05-08 02:08 |
 | New York Cancer and Blood Specialists | Cloud Solutions Architect (In-Person) | Ridge, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=feebd610eac70e67) | 2026-05-08 02:08 |
 | CrowdStrike | Engineer III, Advanced Research (Remote) | MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac40b26524188b31) | 2026-05-08 02:08 |
 | Factored | Senior Full-Stack Engineer (Python & React) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=724d0d8443bffbcf) | 2026-05-08 02:08 |
