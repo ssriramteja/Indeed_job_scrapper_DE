@@ -1,17 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-08 05:24
+Last updated: 2026-05-08 07:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 05:24 |
+| Openkyber | Junior Automation Engineer (Cloud) | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=23fd00a4507ab066) | 2026-05-08 07:17 |
+| Openkyber | Junior Automation Engineer (Cloud) | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8556b858fbab54a4) | 2026-05-08 07:17 |
+| Ford Motor Company | Data Engineer- Full Stack | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 07:17 |
+| Openkyber | AWS Systems Engineer | GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53af07e478e3cd7d) | 2026-05-08 07:17 |
+| Ford Motor Company | Full Stack Software Engineer, AI Integration | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=624a180836a37e71) | 2026-05-08 07:17 |
+| Openkyber | Senior DevOps Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bd5d72a84ca4e4ea) | 2026-05-08 07:17 |
+| Openkyber | Junior Automation Engineer (Cloud) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=30a75c1c6a28610f) | 2026-05-08 07:17 |
+| O'Reilly Auto Parts | Sr Platform Engineer (GCP) | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d564e3ba391555e) | 2026-05-08 07:17 |
+| O'Reilly Auto Parts | Sr Platform Engineer (GCP) | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fbdaf375e812bc96) | 2026-05-08 07:17 |
+| Openkyber | Junior Automation Engineer (Cloud) | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4ebde076d2f48a0) | 2026-05-08 07:17 |
 | AGORA Data, Inc. | DevOps Engineer | Arlington, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=79de8f5046781d37) | 2026-05-08 05:24 |
 | Colgate-Palmolive | Data Architect (172951) | Piscataway, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=253a8faafcf61b8a) | 2026-05-08 05:24 |
 | Vanco | Senior Data Engineer | Bloomington, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52710d4b139f54d9) | 2026-05-08 05:24 |
 | NVIDIA | Senior Systems Data Engineer, Financial Transactions and Automation - GeForce NOW | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d44146696368c097) | 2026-05-08 05:24 |
-| Ford Motor Company | Full Stack Software Engineer, AI Integration | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=624a180836a37e71) | 2026-05-08 05:24 |
 | Rocket 55 | Data Engineer (Analytics) | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=450a9e8397744651) | 2026-05-08 05:24 |
 | OrangeAI | Founding Product Designer | Naples, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de8acdb2ac2aff1a) | 2026-05-08 05:24 |
 | Palo Alto Networks | Chronosphere Sales Specialist | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb135d3bc1e4d5f8) | 2026-05-08 05:24 |
@@ -746,8 +754,6 @@ Last updated: 2026-05-08 05:24
 | TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eb9af83131be97f8) | 2026-05-04 08:18 |
 | WesBanco Bank, Inc. | Senior Data Engineer - Data & Analytics | Bowie, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3689d938fd4bd78c) | 2026-05-04 08:18 |
 | Dynamic Consulting Group | Power BI Specialist | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e353c5cce39b1c4f) | 2026-05-04 08:18 |
-| Growth Protocol | Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=73f78f46255a670f) | 2026-05-04 05:36 |
-| Balfour Beatty | Solutions Architect | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a704639955f34e73) | 2026-05-04 05:36 |
 
 
 ---
