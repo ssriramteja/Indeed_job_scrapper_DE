@@ -1,13 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-09 05:41
+Last updated: 2026-05-09 07:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 05:41 |
-| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 05:41 |
+| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 07:44 |
+| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 07:44 |
+| Radus Software | Senior AWS Cloud Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fb05b6965d015678) | 2026-05-09 07:44 |
+| Spokeo | Senior Data Engineer | Pasadena, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e67ac700a108f786) | 2026-05-09 07:44 |
+| Performacentric | Fractional/Part-Time CTO | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=668daa117d5cd90c) | 2026-05-09 07:44 |
+| Performacentric | Fractional CTO- Chicago | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bbb61f67fa9a3b09) | 2026-05-09 07:44 |
+| Performacentric | Fractional/Part-Time CTO | Fort Wayne, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=18922cc00f47c2b7) | 2026-05-09 07:44 |
+| CrowdStrike | Engineer III, SDET - AI Detection and Response (AIDR) (Hybrid) | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6baf774b1b56a4a3) | 2026-05-09 07:44 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 07:44 |
 | Schneider Electric | Expert, Cloud Database Engineer | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3f3fe0d680994e3e) | 2026-05-09 05:41 |
 | Nucleusteq | Data Engineer + Gen AI (In-Person @ NYC) | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=32f5af10a0a7af6f) | 2026-05-09 05:41 |
 | General Motors (GM) | Senior Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f44f93d98783e436) | 2026-05-09 05:41 |
@@ -18,7 +25,6 @@ Last updated: 2026-05-09 05:41
 | Stanford University | AI Engineer | Redwood City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=79249e7989055f0c) | 2026-05-09 05:41 |
 | Nokia | Machine Learning Test Capability Eng. | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea85e9be561e29b0) | 2026-05-09 05:41 |
 | HelioCampus | Data Scientist I | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=40710e09e7c21122) | 2026-05-09 05:41 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 05:41 |
 | Cascadia Services | Senior Data Engineer/Architect | Eagle, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a14387759e6fa434) | 2026-05-09 05:41 |
 | Augustine Institute | Sr Software Engineer - Backend | Florissant, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c63211f8f4eb21ae) | 2026-05-09 05:41 |
 | Sono Bello | Data Engineer | Bellevue, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ca29527e5a6209f1) | 2026-05-09 02:02 |
