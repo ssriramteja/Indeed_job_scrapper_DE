@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-09 21:35
+Last updated: 2026-05-09 22:34
 
 ### 🚀 Daily Job Matches
 
@@ -660,75 +660,6 @@ Last updated: 2026-05-09 21:35
 | Momentive Software | AI Agent Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6ac9574b3f75cc2c) | 2026-05-05 22:48 |
 | Genesis Global Group | Data Engineering - E&A - Data Engineer I | Myrtle Point, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2526bf14df16c3e8) | 2026-05-05 22:48 |
 | Bloomberg | Senior Software Engineer - VAULT | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d744cfcd1fce896) | 2026-05-05 22:48 |
-| Warner Bros. Discovery | Senior Software Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=0585eb3ca3cd8f48) | 2026-05-05 21:55 |
-| Warner Bros. Discovery | Senior Software Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ea66a6dbd0690c3b) | 2026-05-05 21:55 |
-| Warner Bros. Discovery | Senior Software Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ec9442df01efef1b) | 2026-05-05 21:55 |
-| Warner Bros. Discovery | Senior Software Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=341798717a6ce508) | 2026-05-05 21:55 |
-| Warner Bros. Discovery | Senior Software Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=29381ac7399ddbb0) | 2026-05-05 21:55 |
-| ConocoPhillips | Commercial IT Senior Data Solution Developer | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1304cb2ffae316c6) | 2026-05-05 21:55 |
-| Heluna Health | Senior Information Systems Analyst - Cloud Specialization | Alhambra, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6c1b66aae8e310f7) | 2026-05-05 21:55 |
-| CSpring | Data Engineer (ETL / Python Developer) | Springfield, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b861e2c1a0a03133) | 2026-05-05 21:55 |
-| Imprint | Senior Data Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e35bafcce4ab1000) | 2026-05-05 21:55 |
-| Imprint | Senior Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=baaf38c4500e2b06) | 2026-05-05 21:55 |
-| Velvetech | Senior AI Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2bec7882b34f08c9) | 2026-05-05 21:55 |
-| Versant | Sr Data Engineer | Orlando, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1fbef82ce93a90ed) | 2026-05-05 21:55 |
-| GE Vernova | Information Management Data Architect | Wilmington, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2c459753bd1cdb02) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b2c9f31acafb196f) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eddf440d2f5e6a08) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Montpelier, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9b90c44b778c96e5) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Long Key, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f02cbd4d4f3ab1a) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Jackson, MS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c72708184be593b0) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0183a968afa2cc49) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=396d9bc5ea519b3f) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Saint Paul, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=80ecd68d84aeeeb2) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Des Moines, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c2f498b47a3dade5) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Hope Hull, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5fb725340d17f5f) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Pierre, SD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6157c3d64ba51e2f) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=520e85bbd545fd30) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Walnut Creek, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=786d87c02c6e82fb) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | ID, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4d0c7773db64eb1d) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Middletown, DE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=55e84c3eece43f91) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb0ea4078cfef29b) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=334a63469248ffd9) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Corrales, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c7ab02a6d7de0e22) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Augusta, ME, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5de616281a6596e7) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=263c1568fbef1b4e) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a927ea91cbb8a50f) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | MT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae6383bd749b920c) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f56fb77c91d02050) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Hot Springs Village, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8c96e34675c53889) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df1068f91cfbd0ea) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Pawtucket, RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=809020eea7aab65e) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Kennesaw, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0606d3d67bc3282b) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Fremont, NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=73db59dcad1e76b8) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Las Vegas, NV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95a144418b5a39ad) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4a02f9792dbc45ec) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | St. Louis, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=917d4d97f814ea4e) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | New Franken, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ec1b251622a39c3d) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Kansas City, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5a08aa2cdbe9c831) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Oklahoma City, OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f764f8b0e7d0312f) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Okemos, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2db3e1701039a3d8) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Charleston, WV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d2e71b02a56bd9a3) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Upper Darby, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06a90bd586bd83f5) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ea90c167478f7b2) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0e665c6e81af078e) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Columbia, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=407f8be7ec057cfd) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=94c251dd631ae9fd) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04ee9ae955c7787c) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d976cf3a8a264f5) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c3a7ba28491bf8d5) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5adb7e6fb7d93b57) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=728bdd335b56b5a3) | 2026-05-05 21:55 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer II - Remote | Baton Rouge, LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de36d6aa4de5c8d9) | 2026-05-05 21:55 |
-| Leidos | Full Stack Development Intern | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a00102caa3003ef3) | 2026-05-05 21:55 |
-| nan | Data Engineer | Somerville, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=75339d7552c524c1) | 2026-05-05 21:55 |
-| CSpring | QA Analyst / ETL Tester | Springfield, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ebf7b3987a302e8) | 2026-05-05 21:55 |
-| Candescent (Digital First Holdings LLC) | Software Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=05c875eff000793f) | 2026-05-05 21:55 |
-| Bass Pro Shops | Senior eCommerce Microservices Developer - Onsite | Springfield, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e26470cca0ea4331) | 2026-05-05 21:55 |
-| Tata Consultancy Services (TCS) | BigData ,Python and Py Spark , GCP | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81999129979e18ac) | 2026-05-05 21:55 |
-| Qualcomm | Engineer, Senior | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6b86ad107b3f52c) | 2026-05-05 21:55 |
-| Imprint | Software Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=54abe916af0096bc) | 2026-05-05 21:55 |
-| Imprint | Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ddefa346a4deb1f0) | 2026-05-05 21:55 |
 
 
 ---
