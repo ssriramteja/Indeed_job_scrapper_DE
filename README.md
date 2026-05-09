@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-09 17:42
+Last updated: 2026-05-09 18:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 17:42 |
-| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 17:42 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 17:42 |
+| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 18:46 |
+| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 18:46 |
+| Yusen Logistics | Senior DevOps Engineer | Secaucus, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=9684b1e8c83efb55) | 2026-05-09 18:46 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 18:46 |
 | CVS Health | Senior Data Engineer - AI and Analytics | Buffalo Grove, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e849cada055fab1d) | 2026-05-09 15:42 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8bcd0330cb00d0d6) | 2026-05-09 11:42 |
 | GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68fed7c70121eb1d) | 2026-05-09 11:42 |
