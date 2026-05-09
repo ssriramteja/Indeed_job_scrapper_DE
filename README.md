@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-09 16:42
+Last updated: 2026-05-09 17:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 16:42 |
-| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 16:42 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 16:42 |
+| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 17:42 |
+| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 17:42 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 17:42 |
 | CVS Health | Senior Data Engineer - AI and Analytics | Buffalo Grove, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e849cada055fab1d) | 2026-05-09 15:42 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8bcd0330cb00d0d6) | 2026-05-09 11:42 |
 | GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68fed7c70121eb1d) | 2026-05-09 11:42 |
@@ -806,9 +806,6 @@ Last updated: 2026-05-09 16:42
 | Openkyber | Senior GCP Kubernetes Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a67e047e2a2075b) | 2026-05-05 19:06 |
 | Openkyber | DevOps Engineer (GCP) | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a53e6510409c717) | 2026-05-05 19:06 |
 | Lenmar Consulting | Data Quality Engineer (AWS, Airflow, DBT - Max $70/hr W2 ) | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b55f02a558d6569b) | 2026-05-05 19:06 |
-| Sloan | Databricks Developer | Franklin Park, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9921503eb16c8225) | 2026-05-05 17:15 |
-| We Invest Florida LLC | AI Architect & Workflow Operator | Bradenton, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b6822c6de2c9090a) | 2026-05-05 17:15 |
-| Qode | Senior Data Engineer / Data Architect | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e83d1768e75b1203) | 2026-05-05 17:15 |
 
 
 ---
