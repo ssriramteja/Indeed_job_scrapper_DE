@@ -1,15 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-09 18:46
+Last updated: 2026-05-09 19:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 18:46 |
-| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 18:46 |
+| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 19:52 |
+| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 19:52 |
+| Applix Inc. | Sr. Data & Analytics Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76cfbc9e7b83be2f) | 2026-05-09 19:52 |
 | Yusen Logistics | Senior DevOps Engineer | Secaucus, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=9684b1e8c83efb55) | 2026-05-09 18:46 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 18:46 |
 | CVS Health | Senior Data Engineer - AI and Analytics | Buffalo Grove, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e849cada055fab1d) | 2026-05-09 15:42 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8bcd0330cb00d0d6) | 2026-05-09 11:42 |
 | GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68fed7c70121eb1d) | 2026-05-09 11:42 |
@@ -744,69 +744,6 @@ Last updated: 2026-05-09 18:46
 | Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df2f71bd1ac4fde2) | 2026-05-05 20:55 |
 | THEMESOFT | Senior Solution Architect – GCP / GKE | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d097819844265040) | 2026-05-05 20:55 |
 | American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf657c9771abb6db) | 2026-05-05 20:55 |
-| Redapt inc | Data Engineer | Woodinville, WA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=5ba1f68994568fe5) | 2026-05-05 19:06 |
-| RevSpring, Inc | Data Architect (Data Platform) | Salt Lake City, UT, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=329a3eade67f9940) | 2026-05-05 19:06 |
-| RevSpring, Inc | Data Architect (Data Platform) | Boston, MA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=425ef1a26b020ab5) | 2026-05-05 19:06 |
-| RevSpring, Inc | Data Architect (Data Platform) | Portland, OR, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=81f4767d72304e41) | 2026-05-05 19:06 |
-| Openkyber | GCP ML Architect | CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4e6284fe79cf0d13) | 2026-05-05 19:06 |
-| nan | Software Engineer - DevOps and MLOps | San Francisco Bay Area, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2fcad788d48ba696) | 2026-05-05 19:06 |
-| Openkyber | Junior DevOps Engineer (GCP) | AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=56a30f4a788f09b2) | 2026-05-05 19:06 |
-| WSSC Water | Data Architect | Laurel, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=859b6255aab51697) | 2026-05-05 19:06 |
-| Openkyber | AI Integration Engineer (Java + AI) | NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0b4a39c21c884e72) | 2026-05-05 19:06 |
-| Openkyber | GCP ETL Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4e5fc76263d455e5) | 2026-05-05 19:06 |
-| Openkyber | Java API Integration Engineer | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=78afcf5aa1e7fc4b) | 2026-05-05 19:06 |
-| RevSpring, Inc | Senior Software Engineer - ETL, Java | Salt Lake City, UT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4a9c009a05948507) | 2026-05-05 19:06 |
-| RevSpring, Inc | Senior Software Engineer - ETL, Java | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ba5ba3f3a840901f) | 2026-05-05 19:06 |
-| RevSpring, Inc | Senior Software Engineer - ETL, Java | Portland, OR, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ec9899d266d7f4ea) | 2026-05-05 19:06 |
-| Openkyber | DevOps Engineer (GCP) | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9d617836814bb437) | 2026-05-05 19:06 |
-| Openkyber | Junior GCP Cloud Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=11aa4a83b27dbdc6) | 2026-05-05 19:06 |
-| Openkyber | Junior GCP Cloud Engineer | NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b3e7636193fed6ce) | 2026-05-05 19:06 |
-| Openkyber | Cloud Reliability Engineer | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=eae9d6ab07ed0b94) | 2026-05-05 19:06 |
-| Inspire11 | Data Architect | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d9776c14731d7381) | 2026-05-05 19:06 |
-| Openkyber | DevOps/AI Ops Administrator | TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8de348813177f92b) | 2026-05-05 19:06 |
-| Openkyber | Cloud Migration Engineer (GCP) | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb7efc81616340cd) | 2026-05-05 19:06 |
-| RevSpring, Inc | Software Engineer – ETL, Java | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3ebdf3dd92985403) | 2026-05-05 19:06 |
-| RevSpring, Inc | Software Engineer – ETL, Java | Portland, OR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c4b1e40555df27f) | 2026-05-05 19:06 |
-| RevSpring, Inc | Software Engineer – ETL, Java | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9d1957e3729d8614) | 2026-05-05 19:06 |
-| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=76153c3912d65896) | 2026-05-05 19:06 |
-| Openkyber | Cloud Service Desk Analyst | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e883ce8f9ac322fb) | 2026-05-05 19:06 |
-| Kapitus | Machine Learning Operations (MLOps) Architect - Generative Al Focus | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=73469e8d3cab7e74) | 2026-05-05 19:06 |
-| Openkyber | Junior Cloud Security Analyst | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cb95dfff70e6d2a4) | 2026-05-05 19:06 |
-| Equifax | Software Engineer - Specialist | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=932c71a7f13aa9a1) | 2026-05-05 19:06 |
-| Openkyber | GCP ETL Engineer | IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d5268867584b4379) | 2026-05-05 19:06 |
-| Openkyber | Senior GCP Kubernetes Engineer | IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c336ac6e03023ad6) | 2026-05-05 19:06 |
-| Openkyber | Senior GCP Kubernetes Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=14f1c39aa588c7f7) | 2026-05-05 19:06 |
-| Openkyber | AI Integration Engineer (Java + AI) | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=daa379deb564c9ec) | 2026-05-05 19:06 |
-| Openkyber | GCP Support Associate | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=29c27657463cb6ea) | 2026-05-05 19:06 |
-| Openkyber | Java Software Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cbff1064107d9a2a) | 2026-05-05 19:06 |
-| Openkyber | Java Software Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=257d265c3f7e2882) | 2026-05-05 19:06 |
-| nan | Customer Centric Engineer | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29a2186b968dd17c) | 2026-05-05 19:06 |
-| Redapt inc | AI/ML Engineer | Woodinville, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b9c94059f3dd29b3) | 2026-05-05 19:06 |
-| Carrington Mortgage Services, LLC | Senior, Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dfdf1b9d489fb8ec) | 2026-05-05 19:06 |
-| Openkyber | GCP Support Associate | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a9acaddb632586c1) | 2026-05-05 19:06 |
-| Openkyber | AI Systems Administrator | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a338fa1fa96ea390) | 2026-05-05 19:06 |
-| Openkyber | Junior GCP Cloud Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=817a2d7d06f177a9) | 2026-05-05 19:06 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83fcfc9537d38331) | 2026-05-05 19:06 |
-| Openkyber | Cloud AI Application Administrator | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb1d220b240e828a) | 2026-05-05 19:06 |
-| Openkyber | Senior GCP IAM Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e01ee86f0306e6c) | 2026-05-05 19:06 |
-| Openkyber | Junior Cloud Security Analyst | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b63e6c20b5ea1eb) | 2026-05-05 19:06 |
-| Openkyber | Senior Cloud Disaster Recovery Engineer | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ddad85975e3eaad7) | 2026-05-05 19:06 |
-| AbbVie | Senior Software Engineer | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1cb604b4cf6d66c0) | 2026-05-05 19:06 |
-| Openkyber | Senior GCP Kubernetes Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a77679969db6e94b) | 2026-05-05 19:06 |
-| Rivian | Sr. Software Engineer, Enterprise Technology | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fab081dda06a1ba5) | 2026-05-05 19:06 |
-| Openkyber | Java QA Automation Engineer | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=05d63312f544a52d) | 2026-05-05 19:06 |
-| SPRING ARBOR UNIVERSITY | DevOps & Infrastructure Engineer - Level I | Spring Arbor, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b0b216de71eb3804) | 2026-05-05 19:06 |
-| Openkyber | Cloud AI Application Administrator | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd193e360372af33) | 2026-05-05 19:06 |
-| Openkyber | AI Integration Engineer (Java + AI) | TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f192cf981191d4cd) | 2026-05-05 19:06 |
-| Openkyber | AI Integration Engineer (Java + AI) | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7e0844f636778b5) | 2026-05-05 19:06 |
-| Openkyber | GCP Support Associate | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=908520f92505a147) | 2026-05-05 19:06 |
-| Openkyber | AI Application Architect | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e5440d25ccf8a35) | 2026-05-05 19:06 |
-| Openkyber | AI Application Architect | WY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bdfa99adc53f817f) | 2026-05-05 19:06 |
-| Openkyber | Senior Cloud Disaster Recovery Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0bc0ff5761592934) | 2026-05-05 19:06 |
-| PowerPay | Software Engineer - AI Augmented Development | Wayne, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=039bac65ddb8c30e) | 2026-05-05 19:06 |
-| Openkyber | Senior GCP Kubernetes Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a67e047e2a2075b) | 2026-05-05 19:06 |
-| Openkyber | DevOps Engineer (GCP) | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a53e6510409c717) | 2026-05-05 19:06 |
-| Lenmar Consulting | Data Quality Engineer (AWS, Airflow, DBT - Max $70/hr W2 ) | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b55f02a558d6569b) | 2026-05-05 19:06 |
 
 
 ---
