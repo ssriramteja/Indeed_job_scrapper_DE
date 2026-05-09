@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-09 14:14
+Last updated: 2026-05-09 15:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 14:14 |
-| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 14:14 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 14:14 |
+| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 15:42 |
+| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 15:42 |
+| CVS Health | Senior Data Engineer - AI and Analytics | Buffalo Grove, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e849cada055fab1d) | 2026-05-09 15:42 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 15:42 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8bcd0330cb00d0d6) | 2026-05-09 11:42 |
 | GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68fed7c70121eb1d) | 2026-05-09 11:42 |
 | GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=04d5028d2b83e4a1) | 2026-05-09 11:42 |
@@ -808,12 +809,6 @@ Last updated: 2026-05-09 14:14
 | Sloan | Databricks Developer | Franklin Park, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9921503eb16c8225) | 2026-05-05 17:15 |
 | We Invest Florida LLC | AI Architect & Workflow Operator | Bradenton, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b6822c6de2c9090a) | 2026-05-05 17:15 |
 | Qode | Senior Data Engineer / Data Architect | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e83d1768e75b1203) | 2026-05-05 17:15 |
-| Digital Dhara LLC | QICLink or QNXT Configuration | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=51a905181c25aa42) | 2026-05-05 15:37 |
-| nan | Senior Machine Learning Engineer - News | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6c5ae4f292525796) | 2026-05-05 15:37 |
-| Wood Mackenzie | AI Senior Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=69e1b61070a9b37b) | 2026-05-05 15:37 |
-| Smart Tech Skills LLC | Snowflake Data Movement Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12ef21c70e148f1d) | 2026-05-05 15:37 |
-| Leidos | Cloud Engineer | Seaside, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=727ac8d7c715b1a1) | 2026-05-05 15:37 |
-| Inspira Financial | Sr. Solutions/Enterprise Architect (Remote) | Oak Brook, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5730ed2de660b62b) | 2026-05-05 15:37 |
 
 
 ---
