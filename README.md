@@ -1,20 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-09 07:44
+Last updated: 2026-05-09 09:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 07:44 |
-| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 07:44 |
+| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 09:10 |
+| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 09:10 |
+| Lakeview Loan Servicing | Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=66a4800f2fbccdc3) | 2026-05-09 09:10 |
+| Lakeview Loan Servicing | Data Engineer, Mortgage Servicing | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=75c41866a1b74cb7) | 2026-05-09 09:10 |
+| JPMorganChase | Software Engineer III - AWS Glue / Data Engineer | Irvine, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=093ec4d8db7a7a45) | 2026-05-09 09:10 |
+| National Council on Aging | Data Engineer | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=47ecdb3ec5b7a62d) | 2026-05-09 09:10 |
+| MD Anderson Cancer Center | Senior Machine Learning Engineer - Healthcare | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=589534468e92c6da) | 2026-05-09 09:10 |
+| Lakeview Loan Servicing | Backend Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=98900424ffd4451b) | 2026-05-09 09:10 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 09:10 |
 | Radus Software | Senior AWS Cloud Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fb05b6965d015678) | 2026-05-09 07:44 |
 | Spokeo | Senior Data Engineer | Pasadena, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e67ac700a108f786) | 2026-05-09 07:44 |
 | Performacentric | Fractional/Part-Time CTO | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=668daa117d5cd90c) | 2026-05-09 07:44 |
 | Performacentric | Fractional CTO- Chicago | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bbb61f67fa9a3b09) | 2026-05-09 07:44 |
 | Performacentric | Fractional/Part-Time CTO | Fort Wayne, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=18922cc00f47c2b7) | 2026-05-09 07:44 |
 | CrowdStrike | Engineer III, SDET - AI Detection and Response (AIDR) (Hybrid) | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6baf774b1b56a4a3) | 2026-05-09 07:44 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 07:44 |
 | Schneider Electric | Expert, Cloud Database Engineer | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3f3fe0d680994e3e) | 2026-05-09 05:41 |
 | Nucleusteq | Data Engineer + Gen AI (In-Person @ NYC) | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=32f5af10a0a7af6f) | 2026-05-09 05:41 |
 | General Motors (GM) | Senior Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f44f93d98783e436) | 2026-05-09 05:41 |
@@ -819,13 +825,6 @@ Last updated: 2026-05-09 07:44
 | Corebridge | Senior Full Stack Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=db2e0b3c29bafcb6) | 2026-05-05 11:12 |
 | Openkyber | Kubernetes MLOps Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82d92ef7ef6e6f18) | 2026-05-05 11:12 |
 | JPMorganChase | WFP Senior Data Scientist | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20e3c168d86ea726) | 2026-05-05 09:54 |
-| Skechers | Salesforce Data Cloud Architect | Manhattan Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ebe8dee39468099e) | 2026-05-05 07:56 |
-| mSupply | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=faaa8b1f4d565bbd) | 2026-05-05 07:56 |
-| Gap Inc. | Sr. ML Engineer – ML & Applied AI | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9323c5e89dc8edb) | 2026-05-05 07:56 |
-| Gap Inc. | Sr. ML Engineer – ML & Applied AI | Pleasanton, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7aa4ac97e72f7a6d) | 2026-05-05 07:56 |
-| GE HealthCare | IBP Demand Data Product Owner | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=091b1f8448a933e9) | 2026-05-05 07:56 |
-| nan | Azure data factory developer with Snowflake exp | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4b0baa93de5c3410) | 2026-05-05 07:56 |
-| mSupply | Senior Data Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9008b1f3bfd772fb) | 2026-05-05 07:56 |
 
 
 ---
