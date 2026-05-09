@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-09 12:55
+Last updated: 2026-05-09 14:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 12:55 |
-| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 12:55 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 12:55 |
+| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 14:14 |
+| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 14:14 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 14:14 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8bcd0330cb00d0d6) | 2026-05-09 11:42 |
 | GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68fed7c70121eb1d) | 2026-05-09 11:42 |
 | GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=04d5028d2b83e4a1) | 2026-05-09 11:42 |
@@ -814,11 +814,6 @@ Last updated: 2026-05-09 12:55
 | Smart Tech Skills LLC | Snowflake Data Movement Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12ef21c70e148f1d) | 2026-05-05 15:37 |
 | Leidos | Cloud Engineer | Seaside, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=727ac8d7c715b1a1) | 2026-05-05 15:37 |
 | Inspira Financial | Sr. Solutions/Enterprise Architect (Remote) | Oak Brook, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5730ed2de660b62b) | 2026-05-05 15:37 |
-| Sightview Software | Software Engineer Big Data | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=53f13dba60fcff4b) | 2026-05-05 13:16 |
-| Amcor | AI Full Stack Engineer | Deerfield, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1275c892f53f1ddf) | 2026-05-05 13:16 |
-| HiveMQ | Senior Solutions Advisor | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9360489f9c29037f) | 2026-05-05 13:16 |
-| Purple Squirrels Software LLC | Sr MERN engineer | Newark, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=edf2effb08935b9f) | 2026-05-05 13:16 |
-| General Intuition & Medal | Site Reliability / Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a84d1c588e106220) | 2026-05-05 13:16 |
 
 
 ---
