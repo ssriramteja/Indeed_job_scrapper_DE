@@ -1,13 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-09 20:35
+Last updated: 2026-05-09 21:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 20:35 |
-| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 20:35 |
+| Left Main REI | Backend/AI Engineer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6eaa1cbe99589993) | 2026-05-09 21:35 |
 | Applix Inc. | Sr. Data & Analytics Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76cfbc9e7b83be2f) | 2026-05-09 19:52 |
 | Yusen Logistics | Senior DevOps Engineer | Secaucus, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=9684b1e8c83efb55) | 2026-05-09 18:46 |
 | CVS Health | Senior Data Engineer - AI and Analytics | Buffalo Grove, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e849cada055fab1d) | 2026-05-09 15:42 |
@@ -730,20 +729,6 @@ Last updated: 2026-05-09 20:35
 | Qualcomm | Engineer, Senior | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6b86ad107b3f52c) | 2026-05-05 21:55 |
 | Imprint | Software Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=54abe916af0096bc) | 2026-05-05 21:55 |
 | Imprint | Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ddefa346a4deb1f0) | 2026-05-05 21:55 |
-| Torq Consulting | Senior Consultant - Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=27d1b768e1037d39) | 2026-05-05 20:55 |
-| Stellantis | Data Engineer | Auburn Hills, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=98f8265780f793dd) | 2026-05-05 20:55 |
-| LTIMindtree | Cornerstone LMS Support Engineer (L2/L3) | Plano, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f9c15b3244d5ea49) | 2026-05-05 20:55 |
-| LVT (LiveView Technologies) | Software Development in Test (SDET III) | UT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6450e5336c97ec04) | 2026-05-05 20:55 |
-| Metropolis | Senior Data Engineer | Nashville, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fd5c209c01d504) | 2026-05-05 20:55 |
-| metropolis | Senior Data Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d51453a1afa374b4) | 2026-05-05 20:55 |
-| Boeing | Computing Architect 4 (contract) | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=83fa749fc70ff9b5) | 2026-05-05 20:55 |
-| nan | Senior Data Engineer | Westminster, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d49164a52434e329) | 2026-05-05 20:55 |
-| RadCube | AWS Data Engineer - Databricks | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d2dcfccb6b6d90b1) | 2026-05-05 20:55 |
-| Carnegie Robotics LLC | Software Engineer - Cloud | Pittsburgh, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e2f5b0b9c556cdca) | 2026-05-05 20:55 |
-| PitchBook | Sr. Site Reliability Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=181ce2100b853c3a) | 2026-05-05 20:55 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df2f71bd1ac4fde2) | 2026-05-05 20:55 |
-| THEMESOFT | Senior Solution Architect – GCP / GKE | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d097819844265040) | 2026-05-05 20:55 |
-| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf657c9771abb6db) | 2026-05-05 20:55 |
 
 
 ---
