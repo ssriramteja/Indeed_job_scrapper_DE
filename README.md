@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-09 22:34
+Last updated: 2026-05-09 23:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Applix Inc. | Sr. Data & Analytics Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4b72b71f93e9340) | 2026-05-09 23:38 |
 | Left Main REI | Backend/AI Engineer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6eaa1cbe99589993) | 2026-05-09 21:35 |
 | Applix Inc. | Sr. Data & Analytics Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76cfbc9e7b83be2f) | 2026-05-09 19:52 |
 | Yusen Logistics | Senior DevOps Engineer | Secaucus, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=9684b1e8c83efb55) | 2026-05-09 18:46 |
@@ -653,13 +654,6 @@ Last updated: 2026-05-09 22:34
 | Microchip Technology | Engineer II-Software Development | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3013681a0e1c4f81) | 2026-05-05 23:40 |
 | Microchip Technology | Engineer II-Software Development | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2649d75a044fe7bd) | 2026-05-05 23:40 |
 | Atlantis IT Group | Test Automation Architect (Data Migration & Snowflake) | Kansas City, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=706847de763fb7d8) | 2026-05-05 23:40 |
-| Skyventure Management LLC | Full Stack Engineer | Austin, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=2cf4e196f6f8959b) | 2026-05-05 22:48 |
-| Verisk | Senior Software Engineer | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cb57edcbdb36ad26) | 2026-05-05 22:48 |
-| KPIT Technologies | MLOps Engineer – Azure Databricks, Cloud-to-Edge ML Deployment | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1160b6a5ea3d30ad) | 2026-05-05 22:48 |
-| nan | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6407c9a76bdb537c) | 2026-05-05 22:48 |
-| Momentive Software | AI Agent Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6ac9574b3f75cc2c) | 2026-05-05 22:48 |
-| Genesis Global Group | Data Engineering - E&A - Data Engineer I | Myrtle Point, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2526bf14df16c3e8) | 2026-05-05 22:48 |
-| Bloomberg | Senior Software Engineer - VAULT | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d744cfcd1fce896) | 2026-05-05 22:48 |
 
 
 ---
