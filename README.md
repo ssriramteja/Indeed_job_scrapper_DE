@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-09 10:49
+Last updated: 2026-05-09 11:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 10:49 |
-| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 10:49 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 10:49 |
+| Southern Company | Data Engineer I or II | Birmingham, AL, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-09 11:42 |
+| Southern Company | Data Engineer I or II | Atlanta, GA, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-09 11:42 |
+| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8bcd0330cb00d0d6) | 2026-05-09 11:42 |
+| GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68fed7c70121eb1d) | 2026-05-09 11:42 |
+| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=04d5028d2b83e4a1) | 2026-05-09 11:42 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8023652bf999f536) | 2026-05-09 11:42 |
 | Lakeview Loan Servicing | Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=66a4800f2fbccdc3) | 2026-05-09 09:10 |
 | Lakeview Loan Servicing | Data Engineer, Mortgage Servicing | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=75c41866a1b74cb7) | 2026-05-09 09:10 |
 | JPMorganChase | Software Engineer III - AWS Glue / Data Engineer | Irvine, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=093ec4d8db7a7a45) | 2026-05-09 09:10 |
@@ -816,14 +819,6 @@ Last updated: 2026-05-09 10:49
 | HiveMQ | Senior Solutions Advisor | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9360489f9c29037f) | 2026-05-05 13:16 |
 | Purple Squirrels Software LLC | Sr MERN engineer | Newark, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=edf2effb08935b9f) | 2026-05-05 13:16 |
 | General Intuition & Medal | Site Reliability / Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a84d1c588e106220) | 2026-05-05 13:16 |
-| EXL Service | Forward Deployment Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d83189697283beb7) | 2026-05-05 11:12 |
-| EXL Service | GCP Cloud Engineer | Hartford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4e5f23b132fd8132) | 2026-05-05 11:12 |
-| Openkyber | Terraform MLOps Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b1c091b77ba59917) | 2026-05-05 11:12 |
-| Openkyber | Docker MLOps Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0202017052eb87fc) | 2026-05-05 11:12 |
-| Openkyber | Docker MLOps Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e1f719b7c3985724) | 2026-05-05 11:12 |
-| Openkyber | Docker MLOps Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e3cd445b405cda13) | 2026-05-05 11:12 |
-| Corebridge | Senior Full Stack Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=db2e0b3c29bafcb6) | 2026-05-05 11:12 |
-| Openkyber | Kubernetes MLOps Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82d92ef7ef6e6f18) | 2026-05-05 11:12 |
 
 
 ---
