@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-10
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Backend (Python) @ Openkyber
+## 2. Senior Cloud Software Engineer (Full-Stack) @ nan
+**Match Score:** 17.4%
+
+📍 **Location:** Anchorage, AK, US USA
+
+🔑 **Keywords:** AWS, Lambda, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, MongoDB, DynamoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ffaa98384834f1f2)
+
+---
+
+## 3. Backend (Python) @ Openkyber
 **Match Score:** 15.3%
 
 📍 **Location:** AK, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Data Engineer - AI and Analytics @ CVS Health
+## 4. Senior Data Engineer - AI and Analytics @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** Buffalo Grove, IL, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Backend/AI Engineer @ Left Main REI
+## 5. Backend/AI Engineer @ Left Main REI
 **Match Score:** 13.2%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Sr. Data & Analytics Engineer @ Applix Inc.
+## 6. Sr. Data & Analytics Engineer @ Applix Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Nashville, TN, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Sr. Data & Analytics Engineer @ Applix Inc.
+## 7. Sr. Data & Analytics Engineer @ Applix Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Nashville, TN, US USA
@@ -68,39 +79,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Data Factory, Medallion Architecture, Dataflow, Scala, Data Modeling, ETL, ELT, Power BI
 
 [Apply Here](https://www.indeed.com/viewjob?jk=76cfbc9e7b83be2f)
-
----
-
-## 7. Senior Engineer @ GEICO
-**Match Score:** 10.4%
-
-📍 **Location:** Palo Alto, CA, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8bcd0330cb00d0d6)
-
----
-
-## 8. Senior Engineer @ GEICO
-**Match Score:** 10.4%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=68fed7c70121eb1d)
-
----
-
-## 9. Senior Engineer @ GEICO
-**Match Score:** 10.4%
-
-📍 **Location:** Bethesda, MD, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=04d5028d2b83e4a1)
 
 ---
 

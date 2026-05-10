@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-10 09:40
+Last updated: 2026-05-10 10:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior Cloud Software Engineer (Full-Stack) | Anchorage, AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ffaa98384834f1f2) | 2026-05-10 10:55 |
 | Openkyber | Backend (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7ef373ef8fdb9f17) | 2026-05-10 05:56 |
 | Openkyber | Python | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=850bbd121eda6f31) | 2026-05-10 05:56 |
 | Openkyber | Senior Python Developer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8797983cc7729f69) | 2026-05-10 05:56 |
