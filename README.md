@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-10 14:18
+Last updated: 2026-05-10 15:43
 
 ### 🚀 Daily Job Matches
 
@@ -534,21 +534,6 @@ Last updated: 2026-05-10 14:18
 | Liberty Mutual Insurance | Data Integration Software Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12a4fd124772d9d2) | 2026-05-06 17:23 |
 | Liberty Mutual Insurance | Data Integration Software Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c38e2fae9b46f905) | 2026-05-06 17:23 |
 | Katalyst Healthcares & Life Sciences | AI Engineer Clinical Data Science | Manhattan, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47a06a95eff2f8b1) | 2026-05-06 17:23 |
-| Qode | Data Engineer | San Diego, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f544b0c492f55ad5) | 2026-05-06 15:23 |
-| Netsecure360 | Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ca7e816524d9406c) | 2026-05-06 15:23 |
-| Floor & Decor | Software Developer II | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4a21fec712255df2) | 2026-05-06 15:23 |
-| MarketAxess Holdings | Software Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0e88c480437dd451) | 2026-05-06 15:23 |
-| Global Enterprise Systems | Senior ServiceNow Developer | Herndon, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0c766bb333faacdc) | 2026-05-06 15:23 |
-| Rivian and Volkswagen Group Technologies | Senior Software Engineer - Cloud Fullstack | Palo Alto, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=059fe198bd3f948a) | 2026-05-06 15:23 |
-| Rivian and Volkswagen Group Technologies | Senior Software Engineer - Cloud Gateway | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7b72e865e6bee153) | 2026-05-06 15:23 |
-| Millennium Management | Full Stack Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b224fb124b25e580) | 2026-05-06 15:23 |
-| Atlantic Union Bank | Sr Database Administrator | Glen Allen, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fadd8b2210e032b2) | 2026-05-06 15:23 |
-| Rivian and Volkswagen Group Technologies | Senior DevOps Software Engineer, Firmware & CI/CD | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d5f621c8ad4f69fd) | 2026-05-06 15:23 |
-| FirstNet Global | Snowflake/Tableau Developer / Dallas Texas | Napa, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4ab4d99e440e9b4) | 2026-05-06 15:23 |
-| Klaxontech | Power BI Developer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=193935f590ab7020) | 2026-05-06 15:23 |
-| nan | Software Engineer - DevOps Mobile | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=537b207b8aaf9dd0) | 2026-05-06 15:23 |
-| Checkmate | Senior Full Stack Engineer - Python & React JS | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ba3d00c3fb0ee25) | 2026-05-06 15:23 |
-| Rivian and Volkswagen Group Technologies | Sr. Software Engineer, Full-Stack (Factory Systems) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68c700567606c4e9) | 2026-05-06 15:23 |
 
 
 ---
