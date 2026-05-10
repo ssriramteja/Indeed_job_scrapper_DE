@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-10 10:55
+Last updated: 2026-05-10 11:43
 
 ### 🚀 Daily Job Matches
 
@@ -558,14 +558,6 @@ Last updated: 2026-05-10 10:55
 | Openkyber | FastAPI | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=36490e4938cafc8b) | 2026-05-06 12:26 |
 | Openkyber | API Architect (Python) | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=460c6fea55fa6849) | 2026-05-06 12:26 |
 | Openkyber | FastAPI | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0bc1141188a8604a) | 2026-05-06 12:26 |
-| Lincoln Financial Group | Databricks Engineer and Architect | Radnor, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d7862c3c59e06d56) | 2026-05-06 10:58 |
-| Norstella | Software Engineer Intern | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=49a129c7a487aae4) | 2026-05-06 10:58 |
-| SOFTILITY INC | Site Reliability Engineer | Herndon, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3faf69463891ca3f) | 2026-05-06 10:58 |
-| Blizzard Entertainment | Senior Site Reliability Engineer, Data & Analytics | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f56eabb97941a731) | 2026-05-06 10:58 |
-| State Farm | Mid-Level Software Engineer | Bloomington, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da08c5cf76c3287c) | 2026-05-06 10:58 |
-| Staples | Software Engineer - Warehouse Management Systems (WMS) | Framingham, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=654753ccda866d62) | 2026-05-06 10:58 |
-| Tata Consultancy Services (TCS) | Senior AI Engineer | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6f9ad7c8c6b989c1) | 2026-05-06 10:58 |
-| JPMorganChase | Data Scientist, Senior Associate – Product, Experience and Technology (PXT) Analytics Team | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4b0bfe4f7e93a067) | 2026-05-06 10:58 |
 
 
 ---
