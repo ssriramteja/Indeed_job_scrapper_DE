@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-10 02:02
+Last updated: 2026-05-10 05:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Backend (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7ef373ef8fdb9f17) | 2026-05-10 05:56 |
+| Openkyber | Python | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=850bbd121eda6f31) | 2026-05-10 05:56 |
+| Openkyber | Senior Python Developer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8797983cc7729f69) | 2026-05-10 05:56 |
 | Applix Inc. | Sr. Data & Analytics Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4b72b71f93e9340) | 2026-05-09 23:38 |
 | Left Main REI | Backend/AI Engineer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6eaa1cbe99589993) | 2026-05-09 21:35 |
 | Applix Inc. | Sr. Data & Analytics Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76cfbc9e7b83be2f) | 2026-05-09 19:52 |
@@ -575,50 +578,6 @@ Last updated: 2026-05-10 02:02
 | Terra Quantum | Senior Software Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15eb90498bcba242) | 2026-05-06 08:09 |
 | Rivian | Software Engineer – Enterprise Software | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=90124173401e2437) | 2026-05-06 08:09 |
 | Radwell International | Enterprise AI Architect | Willingboro, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=56c80236c3727026) | 2026-05-06 08:09 |
-| Commence | Sr Site Reliability Engineer | Leesburg, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9093ede7f2269db2) | 2026-05-06 05:29 |
-| Kroll Inc. | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d56048c057634cd1) | 2026-05-06 05:29 |
-| Nordstrom | Senior Cloud Database Engineer (Hybrid - Seattle, WA) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1666a61865ef57aa) | 2026-05-06 05:29 |
-| Miami Marlins | Senior DevOps Engineer | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff87deef607d5450) | 2026-05-06 05:29 |
-| Clayco | Senior Cloud Engineer | St. Louis, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=61cc49187bd6e01d) | 2026-05-06 05:29 |
-| U.S. Bank | Snowflake Platform Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ecb6b777a849d07c) | 2026-05-06 05:29 |
-| U.S. Bank | Snowflake Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=136f0d6f19e6f0c6) | 2026-05-06 05:29 |
-| SAMYANG AMERICA INC | Sr. Data Architect Specialist | Brea, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2086e3e44cfc021) | 2026-05-06 05:29 |
-| Urology Centers of Alabama | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=28cb24ea6139fcb9) | 2026-05-06 05:29 |
-| Pearson | Senior Software Engineer | Hoboken, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05547d65aabdfcf0) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34c37a226b547d01) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7d77afce6f60e6f) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=225c5a8131dc6595) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=301dbd1e2eb0bb70) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d88e7121c2db79d6) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=18d3f9fdcfa07035) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d2d16258cfd6718) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5be8f9b4535b406c) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=26ef52c65261360a) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9240b7b96545a4d) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42ae72f7d4a97700) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dab5b1b68cc6402c) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fde8d1831ca7f9b7) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7a056659ad4aebd2) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5402962c321dcba) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f45ad39ec1fe503a) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Kansas City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86cfc919b4ccc768) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c9a866cff6a0e3bd) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab68f1e4ba82ad10) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df163d5906a30146) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f0c32c0bdf67710) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=25f63312ec2e267e) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be379ec08f5c5e6f) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Stamford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8deeb1ab1ebcdccd) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=92aa87419ba8e5df) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da334d3b3eda0eb4) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2c314e6df20a4157) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b90a165cff732e70) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=26bc98921360165c) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5359f322821abe9) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Sacramento, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=562ea8307dd5c91d) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Costa Mesa, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=70a64e543cdeb49a) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed3e28c9a543299a) | 2026-05-06 05:29 |
-| Deloitte | GCP Cloud Analytics Engineer - Senior Consultant | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1735f01363643535) | 2026-05-06 05:29 |
 
 
 ---
