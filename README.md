@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-10 11:43
+Last updated: 2026-05-10 12:56
 
 ### 🚀 Daily Job Matches
 
@@ -549,15 +549,6 @@ Last updated: 2026-05-10 11:43
 | nan | Software Engineer - DevOps Mobile | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=537b207b8aaf9dd0) | 2026-05-06 15:23 |
 | Checkmate | Senior Full Stack Engineer - Python & React JS | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ba3d00c3fb0ee25) | 2026-05-06 15:23 |
 | Rivian and Volkswagen Group Technologies | Sr. Software Engineer, Full-Stack (Factory Systems) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68c700567606c4e9) | 2026-05-06 15:23 |
-| Openkyber | API Threat Intelligence Analyst | IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=427f6933d7d21e16) | 2026-05-06 12:26 |
-| Openkyber | API Threat Intelligence Analyst | NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e918fa70b2a1920e) | 2026-05-06 12:26 |
-| Openkyber | Backend (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d711bd4394cb404e) | 2026-05-06 12:26 |
-| Openkyber | FastAPI | VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=550e29553f2a099b) | 2026-05-06 12:26 |
-| Openkyber | Senior Software Engineer (Python) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=45974a79c5dfc2f4) | 2026-05-06 12:26 |
-| Openkyber | Python | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52b0e598b9832c43) | 2026-05-06 12:26 |
-| Openkyber | FastAPI | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=36490e4938cafc8b) | 2026-05-06 12:26 |
-| Openkyber | API Architect (Python) | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=460c6fea55fa6849) | 2026-05-06 12:26 |
-| Openkyber | FastAPI | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0bc1141188a8604a) | 2026-05-06 12:26 |
 
 
 ---
