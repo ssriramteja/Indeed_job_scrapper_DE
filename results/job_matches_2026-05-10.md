@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-10
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -46,17 +46,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Data Factory, Medallion Architecture, Dataflow, Scala, Data Modeling, ETL, ELT, Power BI
 
 [Apply Here](https://www.indeed.com/viewjob?jk=a4b72b71f93e9340)
-
----
-
-## 5. Sr. Data & Analytics Engineer @ Applix Inc.
-**Match Score:** 10.4%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Medallion Architecture, Dataflow, Scala, Data Modeling, ETL, ELT, Power BI
-
-[Apply Here](https://www.indeed.com/viewjob?jk=76cfbc9e7b83be2f)
 
 ---
 

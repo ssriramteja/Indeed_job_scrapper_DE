@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-10 18:47
+Last updated: 2026-05-10 19:53
 
 ### 🚀 Daily Job Matches
 
@@ -503,17 +503,6 @@ Last updated: 2026-05-10 18:47
 | MeridianLink | Data Scientist, AI Data Foundations | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=31ee3a3fe27b4bf1) | 2026-05-06 21:04 |
 | Graybar | Senior Data Scientist | Clayton, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82b455422eee9334) | 2026-05-06 21:04 |
 | SEEQ | AI Applications Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=02ed320077d234a1) | 2026-05-06 21:04 |
-| Analytica | Data Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7d9377a4724bf38c) | 2026-05-06 19:24 |
-| Wavicle Data Solutions | Senior Data Engineer | Oak Brook, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a435f9b94ff5d489) | 2026-05-06 19:24 |
-| Optum | Senior Data analyst | Brentwood, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b7ed131be5ba5e96) | 2026-05-06 19:24 |
-| Epsilon | Data Solutions Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=22c6237fafdb9308) | 2026-05-06 19:24 |
-| vectorsoft | Data Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bdce3e69ca5f6c4) | 2026-05-06 19:24 |
-| Laural Parke | Data Engineer | Des Moines, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19dac2449c2108f4) | 2026-05-06 19:24 |
-| Mango Chamba, LLC | Senior Data Architect | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76b38f99ba86c67f) | 2026-05-06 19:24 |
-| Mesa Labs | Senior Software Development Engineer | Lakewood, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71d54ee3197b525a) | 2026-05-06 19:24 |
-| Aspira | Senior .NET Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3201135d0d7e294) | 2026-05-06 19:24 |
-| Litera | Senior Data Architect | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cdf1ca20dc48c20f) | 2026-05-06 19:24 |
-| Onspring Technologies, LLC | Senior Software Engineer | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d56a66deeafe00f) | 2026-05-06 19:24 |
 
 
 ---
