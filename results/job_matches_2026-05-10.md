@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-10
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,18 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Data Engineer - AI and Analytics @ CVS Health
-**Match Score:** 13.2%
-
-📍 **Location:** Buffalo Grove, IL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Event Hubs, GCP, Spark, Spark Streaming, Kafka, NoSQL, Data Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e849cada055fab1d)
-
----
-
-## 5. Backend/AI Engineer @ Left Main REI
+## 4. Backend/AI Engineer @ Left Main REI
 **Match Score:** 13.2%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Sr. Data & Analytics Engineer @ Applix Inc.
+## 5. Sr. Data & Analytics Engineer @ Applix Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Nashville, TN, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Sr. Data & Analytics Engineer @ Applix Inc.
+## 6. Sr. Data & Analytics Engineer @ Applix Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Nashville, TN, US USA
