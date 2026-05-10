@@ -5,18 +5,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior DevOps Engineer @ Yusen Logistics
-**Match Score:** 20.1%
-
-📍 **Location:** Secaucus, NJ, US USA
-
-🔑 **Keywords:** AWS, API Gateway, IAM, RDS, Azure, GCP, Spark, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9684b1e8c83efb55)
-
----
-
-## 2. Senior Cloud Software Engineer (Full-Stack) @ nan
+## 1. Senior Cloud Software Engineer (Full-Stack) @ nan
 **Match Score:** 17.4%
 
 📍 **Location:** Anchorage, AK, US USA
@@ -24,6 +13,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, MongoDB, DynamoDB
 
 [Apply Here](https://www.indeed.com/viewjob?jk=ffaa98384834f1f2)
+
+---
+
+## 2. GenAI Threat Intelligence Analyst @ Openkyber
+**Match Score:** 15.3%
+
+📍 **Location:** AK, US USA
+
+🔑 **Keywords:** Azure, Google Cloud Platform, Kafka, NoSQL, Data Modeling, ETL, Talend, Tableau, Splunk, MicroStrategy
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8cca72527ec2047e)
 
 ---
 
