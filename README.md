@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-10 22:38
+Last updated: 2026-05-10 23:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | API Threat Intelligence Analyst | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f5bb3f8181d837d9) | 2026-05-10 23:42 |
+| Openkyber | API Threat Intelligence Analyst | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=640ad2341149d2bc) | 2026-05-10 23:42 |
+| Openkyber | API Threat Intelligence Analyst | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0de03440ff246ea3) | 2026-05-10 23:42 |
 | Openkyber | GenAI Threat Intelligence Analyst | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8cca72527ec2047e) | 2026-05-10 17:43 |
 | nan | Senior Cloud Software Engineer (Full-Stack) | Anchorage, AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ffaa98384834f1f2) | 2026-05-10 10:55 |
 | Openkyber | Backend (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7ef373ef8fdb9f17) | 2026-05-10 05:56 |
@@ -470,25 +473,6 @@ Last updated: 2026-05-10 22:38
 | Genesis Global Group | Data Engineering - E&P - Data Integration Engineer I | Myrtle Point, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b4df3fe80aaf3c5c) | 2026-05-07 02:02 |
 | Merz Aesthetics | IT/OT Data Engineer | Racine, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c53f35832dc5e29) | 2026-05-07 02:02 |
 | Realign | BigData Platform Admin (Hadoop)-2 | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e582bed3ddb8ed5) | 2026-05-07 02:02 |
-| Recutify Inc. | Google Cloud Data Architect – IAM Data Modernization | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=047175a85485b584) | 2026-05-06 23:42 |
-| SmartVault Corporation | DevOps Engineer | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=58fb938f03dcac58) | 2026-05-06 23:42 |
-| The Hartford | Senior AI Machine Learning Engineer | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=93e711d09b751f9f) | 2026-05-06 23:42 |
-| The Hartford | Senior AI Machine Learning Engineer | Hartford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=59f7199947e52d0f) | 2026-05-06 23:42 |
-| The Hartford | Senior AI Machine Learning Engineer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3191f6daeeba1ad3) | 2026-05-06 23:42 |
-| Cloud Ramp | Kafka Engineer | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=015ea5d5c6dc0865) | 2026-05-06 23:42 |
-| Availity, LLC. | Multi-Cloud Network Architect V | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9384fbb0ce6b583b) | 2026-05-06 23:42 |
-| SBC | Senior Software Engineer | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e8ce310e3e5771dd) | 2026-05-06 23:42 |
-| The Hartford | Entry-Level Cloud Engineering Specialist | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43d9f4abcf179d24) | 2026-05-06 23:42 |
-| Business Wire | Senior DevOps Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=282fdfffaf16a91c) | 2026-05-06 23:42 |
-| Gainwell Technologies LLC | Advisor Solution Architect | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da2c9fb2e2a16e3d) | 2026-05-06 23:42 |
-| Track 25 LLC | Data Architect | Mesa, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f07569aa8c95b694) | 2026-05-06 23:42 |
-| DocuSign | Data Engineer | San Francisco, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1636bf2e2935fd54) | 2026-05-06 22:41 |
-| Cambridge Mobile Telematics | Software Engineer, Data Engineering | Cambridge, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=72e8b54f46d552d4) | 2026-05-06 22:41 |
-| nan | Senior Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b748ea05c0bbf37) | 2026-05-06 22:41 |
-| JPMorganChase | Software Engineer III - PySpark/AWS | Wilmington, DE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e02c112e835bf775) | 2026-05-06 22:41 |
-| Mustang Cat | Senior Data Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=182574da3c06479e) | 2026-05-06 22:41 |
-| MeridianLink | Data Scientist, AI Data Foundations | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2390498da25e9e01) | 2026-05-06 22:41 |
-| McKesson | Senior IT Architect (Enterprise Applications / Clinical Platforms) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=beeef27a81e2ec58) | 2026-05-06 22:41 |
 
 
 ---
