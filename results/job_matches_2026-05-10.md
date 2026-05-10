@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-10
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,18 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Backend/AI Engineer @ Left Main REI
-**Match Score:** 13.2%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** AWS, Lambda, Kinesis, S3, SQS, SNS, API Gateway, IAM, Scala, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6eaa1cbe99589993)
-
----
-
-## 5. Sr. Data & Analytics Engineer @ Applix Inc.
+## 4. Sr. Data & Analytics Engineer @ Applix Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Nashville, TN, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Sr. Data & Analytics Engineer @ Applix Inc.
+## 5. Sr. Data & Analytics Engineer @ Applix Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Nashville, TN, US USA
