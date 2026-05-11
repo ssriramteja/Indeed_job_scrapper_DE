@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-11 21:58
+Last updated: 2026-05-11 22:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Asurion | Full-Stack Senior Software Engineer | Sterling, VA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=74f3191cc3d47286) | 2026-05-11 22:52 |
+| JPMorganChase | AI Application Developer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=171403dbdac6e42f) | 2026-05-11 22:52 |
+| United Concordia Dental | Data Engineer | PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=837e9f344d302e6d) | 2026-05-11 22:52 |
+| Joby Aviation | Senior Autonomy Data Infrastructure and Analytics Software Engineer | Santa Cruz, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6346f3ffeb8c988c) | 2026-05-11 22:52 |
+| nan | Remote / Project-Based Data Engineer for Public-Sector Data Modernization, Dashboards, and AI-Ready | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f000f4be342c4377) | 2026-05-11 22:52 |
+| Serenity Healthcare | Data Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9fffc235cb241e45) | 2026-05-11 22:52 |
+| SmartAdvocate | AI DevOps Engineer | Melville, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=001c431f02e0a7d6) | 2026-05-11 22:52 |
 | datAvail | Databricks Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba6fb94b58173aba) | 2026-05-11 21:58 |
 | DNS Solutions Inc. | Senior Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7663c2a8691261bd) | 2026-05-11 21:58 |
 | American Airlines | Sr Developer, IT Applications | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d616d744010b2d4) | 2026-05-11 21:58 |
