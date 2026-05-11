@@ -1,11 +1,44 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-11 16:25
+Last updated: 2026-05-11 18:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Senior Cloud Disaster Recovery Engineer | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=eaeff5e1c81b908e) | 2026-05-11 18:51 |
+| Openkyber | AWS API Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3865d36045c48c5d) | 2026-05-11 18:51 |
+| HireBrick | Senior Java Developer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a9bb0d0f10975359) | 2026-05-11 18:51 |
+| Openkyber | GCP ML Engineer (Vertex AI) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a26d41718ab44d34) | 2026-05-11 18:51 |
+| Openkyber | Senior Cloud Connectivity Architect | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ecf91c86d1642dc3) | 2026-05-11 18:51 |
+| Wingstop | Data Scientist - Machine Learning | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dd4b842829eab81b) | 2026-05-11 18:51 |
+| Softengine | Senior Backend & Platform Engineer (.NET / AWS) | Woodland Hills, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=055c54c5a52e97d2) | 2026-05-11 18:51 |
+| Openkyber | AWS API Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f9e129ef424b7bb1) | 2026-05-11 18:51 |
+| Openkyber | Kubernetes Cloud Engineer (EKS) | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2ca8e86ee6ca254d) | 2026-05-11 18:51 |
+| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ada5e44a1685782) | 2026-05-11 18:51 |
+| Openkyber | Kubernetes Cloud Engineer (EKS) | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f4a091392ea4f7d7) | 2026-05-11 18:51 |
+| Openkyber | GCP ML Engineer (Vertex AI) | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ce22f8b356b35619) | 2026-05-11 18:51 |
+| HCA Healthcare | Senior Solution Architect | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ff92c7be8a4ed26f) | 2026-05-11 18:51 |
+| NEXON America | DevOps Engineer | El Segundo, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5a10d13e5b0f17d3) | 2026-05-11 18:51 |
+| Openkyber | Senior GCP IAM Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e77c5c3760e672b0) | 2026-05-11 18:51 |
+| Openkyber | AWS Database Engineer / Cloud DBA | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4e2be041ba7dd258) | 2026-05-11 18:51 |
+| Openkyber | Senior GCP IAM Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cf763802f514ac89) | 2026-05-11 18:51 |
+| Openkyber | Senior GCP IAM Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1a7c3880bf1468af) | 2026-05-11 18:51 |
+| Openkyber | AWS API Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4249a3228aea17d) | 2026-05-11 18:51 |
+| Openkyber | Kubernetes Cloud Engineer (EKS) | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3349de217fd5b313) | 2026-05-11 18:51 |
+| Openkyber | Junior Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab4cd38b1bf92e7f) | 2026-05-11 18:51 |
+| Wellington Management | Senior Software Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ff2c9ed9f0d9a19b) | 2026-05-11 18:51 |
+| Openkyber | GCP ML Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c9fcdbb30f98349) | 2026-05-11 18:51 |
+| Openkyber | Junior Cloud Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dc382d4bfe919d05) | 2026-05-11 18:51 |
+| RedCloud Consulting | Nova AI/ML Data Engineer | Redmond, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=718ee5bf46190c60) | 2026-05-11 18:51 |
+| RedCloud Consulting | Nova AI/ML Data Engineer | Redmond, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99201c2b31936144) | 2026-05-11 18:51 |
+| Openkyber | AWS Database Engineer / Cloud DBA | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=17903f6197e334a8) | 2026-05-11 18:51 |
+| Ellumen, Inc | DevOps Engineer | Ashburn, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ec2be74f55bd39cb) | 2026-05-11 18:51 |
+| Openkyber | Junior GCP Cloud Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=16782d9fbfaff550) | 2026-05-11 18:51 |
+| Openkyber | Senior Cloud Database Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29ec2088a10dc04e) | 2026-05-11 18:51 |
+| Openkyber | AWS Database Engineer / Cloud DBA | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f2031edb48e342e) | 2026-05-11 18:51 |
+| Glencore | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0439c2a3373376b4) | 2026-05-11 18:51 |
+| Openkyber | Cloud Support Associate | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=abff269bbd7ee617) | 2026-05-11 18:51 |
 | THEMESOFT | Sr Platform & DevOps Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=03fc55dd920ed33e) | 2026-05-11 16:25 |
 | AtoZeeSolutions | DevOps Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=55d4500029e471c1) | 2026-05-11 16:25 |
 | Kore.ai | Cloud Support & DevOPS Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43fdee7cf569751d) | 2026-05-11 16:25 |
@@ -351,19 +384,6 @@ Last updated: 2026-05-11 16:25
 | Verse | Data Scientist | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=595f48c6de986c3b) | 2026-05-07 19:27 |
 | GEICO | Software Engineer (HYBRID) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2982fc10e352a13b) | 2026-05-07 19:27 |
 | GEICO | Software Engineer (HYBRID) | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97647ed49aa0bb5b) | 2026-05-07 19:27 |
-| UCCU | Data Engineer | Provo, UT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0442b12c52280bd2) | 2026-05-07 17:49 |
-| Point72 | DevOps Engineer, Surveillance | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0a679b465b6c33f) | 2026-05-07 17:49 |
-| PayPal | Software Engineer, Backend | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=432c12682fbcbbc1) | 2026-05-07 17:49 |
-| You.com | Data Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ef3012f6c986c6af) | 2026-05-07 17:49 |
-| Rivian | Senior Analytics Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3e4e64b6ab31fd0a) | 2026-05-07 17:49 |
-| Union Bank & Trust Co. | Application Developer 2 | Lincoln, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=341905de86352ef7) | 2026-05-07 17:49 |
-| Grid Elevated | Software Engineer | Salt Lake City, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a0d3426744c1c66f) | 2026-05-07 17:49 |
-| Cloaked | Site Reliability Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=551cb213bc9bdebf) | 2026-05-07 17:49 |
-| Backblaze | Sr. Site Reliability Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df831ecf1efacc6b) | 2026-05-07 17:49 |
-| Foresite Labs | Senior Software Engineer (5+ years) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c6352e6589be89b) | 2026-05-07 17:49 |
-| nan | Software Engineer III/Senior, Data Platform | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b26a34ae5eed7d2c) | 2026-05-07 17:49 |
-| JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1949523741452b18) | 2026-05-07 17:49 |
-| Marathon TS | Senior Java/ Machine Learning Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4225155fc7f038aa) | 2026-05-07 17:49 |
 
 
 ---
