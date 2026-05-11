@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-11 10:29
+Last updated: 2026-05-11 13:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bank of America | Senior Engineer - Payments Modernization | Charlotte, NC, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d5f7aa9808e3bc85) | 2026-05-11 13:38 |
+| nan | Senior Data Analyst | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d71de8a1a6ca38c9) | 2026-05-11 13:38 |
+| Tripledot Studios | Senior DevOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f14a3aa5caeb20f8) | 2026-05-11 13:38 |
+| SAP | SAP NS2 Sr. DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0db369fd93fb4f1b) | 2026-05-11 13:38 |
+| U.S. Bank | Software Engineer 2 - Full stack | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2a6a4c233ec9d2bd) | 2026-05-11 13:38 |
+| Openkyber | ML Platform Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78cb4d11caed672c) | 2026-05-11 13:38 |
+| Openkyber | GCP Support Associate | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dc004557d9736a0f) | 2026-05-11 13:38 |
+| Openkyber | Kubernetes MLOps Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1ba35ddf0464dd7) | 2026-05-11 13:38 |
 | Adobe | Software Development Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b111e44c034f266) | 2026-05-11 10:29 |
 | Kimball Midwest | Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c26d7493c6bd8679) | 2026-05-11 10:29 |
 | Brillio LLC | Sr. Java Developer with Payments – R01564829 | Edison, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b028c72e4fead57) | 2026-05-11 10:29 |
@@ -360,29 +368,6 @@ Last updated: 2026-05-11 10:29
 | Caterpillar | Data Engineer - Technical/User support | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1bbb16a0dc8d7fce) | 2026-05-07 16:00 |
 | Prometheus Security Group Global | Full Stack Java Developer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=532a5dc115e85e1e) | 2026-05-07 16:00 |
 | Fustis LLC | Power BI Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=202bf089bcecf5fb) | 2026-05-07 16:00 |
-| Openkyber | Senior AI Cloud Engineer | GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7283c54206f1c1eb) | 2026-05-07 13:29 |
-| Ai Vantage | Data Engineer- Local | Vienna, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=98a4e4b94b73fdc3) | 2026-05-07 13:29 |
-| Openkyber | AI Research Scientist | GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=73a34a9520c8a4a5) | 2026-05-07 13:29 |
-| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3ba128c0294d4379) | 2026-05-07 13:29 |
-| Openkyber | AI Support Engineer | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e0f372d79fc760e6) | 2026-05-07 13:29 |
-| Openkyber | Java Kafka Streams Developer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1385059d3224b189) | 2026-05-07 13:29 |
-| Openkyber | ML Infrastructure Architect | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab3079c4c7ceb474) | 2026-05-07 13:29 |
-| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67b14047cf4b1b2b) | 2026-05-07 13:29 |
-| Openkyber | AI Platform Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03bec9675bef2c72) | 2026-05-07 13:29 |
-| Openkyber | ML Infrastructure Architect | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64300e27d0c96342) | 2026-05-07 13:29 |
-| Openkyber | AI Research Scientist | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1c35e0e10bd4748) | 2026-05-07 13:29 |
-| Openkyber | LLM Application Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ef6bd275c16f574) | 2026-05-07 13:29 |
-| Openkyber | AI Integration Engineer (Java + AI) | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0efd009ff873e29f) | 2026-05-07 13:29 |
-| JCPenney | Technical Architect | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2579776810e54bb8) | 2026-05-07 11:02 |
-| JPMorganChase | Software Engineer II - AI/ML Engineer | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=448348a55cfb6b88) | 2026-05-07 11:02 |
-| Tata Consultancy Services (TCS) | Blockchain Java Backend Developer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2490ff4694380e91) | 2026-05-07 11:02 |
-| JPMorganChase | Data Engineer II | Jersey City, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=189118b38618a67d) | 2026-05-07 11:02 |
-| Cotiviti | Sr Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21788e731c4ee67c) | 2026-05-07 11:02 |
-| Orange County's Credit Union | Cloud Systems Engineer III | Santa Ana, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dbf0feb71fccf2a0) | 2026-05-07 11:02 |
-| FFF Enterprises | Senior Software Engineer - Data intelligence | Flower Mound, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cd57b2f229ee99a) | 2026-05-07 11:02 |
-| Pioneer Circuits Inc. | Cloud Infrastructure & AI Operations Engineer | Santa Ana, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ccde5a1faa24e424) | 2026-05-07 11:02 |
-| JPMorganChase | Software Engineer II- Front end/DevOps | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea2a81785b048298) | 2026-05-07 11:02 |
-| EchoStar | Senior Automation Engineer | Littleton, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac8a3b04afc12b14) | 2026-05-07 11:02 |
 
 
 ---
