@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-11 13:38
+Last updated: 2026-05-11 16:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| THEMESOFT | Sr Platform & DevOps Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=03fc55dd920ed33e) | 2026-05-11 16:25 |
+| AtoZeeSolutions | DevOps Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=55d4500029e471c1) | 2026-05-11 16:25 |
+| Kore.ai | Cloud Support & DevOPS Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43fdee7cf569751d) | 2026-05-11 16:25 |
 | Bank of America | Senior Engineer - Payments Modernization | Charlotte, NC, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d5f7aa9808e3bc85) | 2026-05-11 13:38 |
 | nan | Senior Data Analyst | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d71de8a1a6ca38c9) | 2026-05-11 13:38 |
 | Tripledot Studios | Senior DevOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f14a3aa5caeb20f8) | 2026-05-11 13:38 |
@@ -361,13 +364,6 @@ Last updated: 2026-05-11 13:38
 | nan | Software Engineer III/Senior, Data Platform | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b26a34ae5eed7d2c) | 2026-05-07 17:49 |
 | JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1949523741452b18) | 2026-05-07 17:49 |
 | Marathon TS | Senior Java/ Machine Learning Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4225155fc7f038aa) | 2026-05-07 17:49 |
-| nan | Sr Data Engineer | Santa Monica, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1dbfa76f2864991e) | 2026-05-07 16:00 |
-| KIZEN Technologies, Inc. | Data engineer with Snowflake AND Databricks | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7351b5f44a3c15ba) | 2026-05-07 16:00 |
-| Klaxontech | Data Engineer | Robstown, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8b2c93edd86822c1) | 2026-05-07 16:00 |
-| University of South Florida | Advancement Cloud Engineer II | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=46a7512a19a0f2e7) | 2026-05-07 16:00 |
-| Caterpillar | Data Engineer - Technical/User support | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1bbb16a0dc8d7fce) | 2026-05-07 16:00 |
-| Prometheus Security Group Global | Full Stack Java Developer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=532a5dc115e85e1e) | 2026-05-07 16:00 |
-| Fustis LLC | Power BI Developer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=202bf089bcecf5fb) | 2026-05-07 16:00 |
 
 
 ---
