@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-11 22:52
+Last updated: 2026-05-11 23:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| KinderCare Learning Companies | Senior Machine Learning Engineer - Fully Remote! | Beaverton, OR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=38b630719ad31d3a) | 2026-05-11 23:49 |
+| MIO Partners | Data Engineer, Market Data New | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d1ce8c2bb2e05265) | 2026-05-11 23:49 |
 | Asurion | Full-Stack Senior Software Engineer | Sterling, VA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=74f3191cc3d47286) | 2026-05-11 22:52 |
 | JPMorganChase | AI Application Developer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=171403dbdac6e42f) | 2026-05-11 22:52 |
 | United Concordia Dental | Data Engineer | PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=837e9f344d302e6d) | 2026-05-11 22:52 |
@@ -340,36 +342,6 @@ Last updated: 2026-05-11 22:52
 | NOV | Senior Data Scientist | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f68aa85a5e2fb315) | 2026-05-08 02:08 |
 | SoFi | Senior Software Engineer, Data Trust | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4061e72325e6d3e9) | 2026-05-08 02:08 |
 | SoFi | Senior Software Engineer, Data Trust | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c04679e26ef882f0) | 2026-05-08 02:08 |
-| Visa | Software Engineer Sr. Consultant , Fullstack/GenAI Engineering | Ashburn, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=35bee00fc4ccb280) | 2026-05-07 23:45 |
-| Openkyber | AWS Enterprise Architect | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5a34b81d478ac1d3) | 2026-05-07 23:45 |
-| Softengine | Senior Backend & Platform Engineer (.NET / AWS) | Woodland Hills, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=871fae4a024977f1) | 2026-05-07 23:45 |
-| Dolese Bros. | Data Engineer | Oklahoma City, OK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=801d9528f59b4278) | 2026-05-07 23:45 |
-| Openkyber | AWS Cloud Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=39e0729d312a0ecd) | 2026-05-07 23:45 |
-| Openkyber | AWS Data Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=783168b15946ba04) | 2026-05-07 23:45 |
-| Openkyber | Senior LLM Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1febfbe512a25ee0) | 2026-05-07 23:45 |
-| Openkyber | Senior AWS Serverless Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a595e9aba40b0b9) | 2026-05-07 23:45 |
-| Openkyber | Senior AI Platform Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=93d7525ba31f9666) | 2026-05-07 23:45 |
-| GE HealthCare | Data Analyst & GenAI Specialist, Enterprise AI | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49a3c5ea9cc7a4b0) | 2026-05-07 23:45 |
-| University of Massachusetts Amherst | Research Fellow - Artificial Intelligence/Machine Learning | Amherst, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bae29c34d0c2ccf3) | 2026-05-07 23:45 |
-| Beghou Consulting | Consultant, Data Management | Evanston, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0f426e9aa3d054e) | 2026-05-07 23:45 |
-| OMG Technology | Google Cloud Data Architect – IAM Data Modernization | Charlotte, NC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=83f62e0d739d27aa) | 2026-05-07 22:56 |
-| Progress Residential | DevOps Architect | Thousand Oaks, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=42e8e88ca3fb6ab8) | 2026-05-07 22:56 |
-| Pyx Health | Sr Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=258bc7844352c3f1) | 2026-05-07 22:56 |
-| Stanford University | Associate Data Engineer | Redwood City, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=54745117d2d5b210) | 2026-05-07 22:56 |
-| CarMax | Engineer II, Data | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a4cfbea75688c9ed) | 2026-05-07 22:56 |
-| CarMax | Engineer II, Data | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=52f68931c99845d3) | 2026-05-07 22:56 |
-| Pyx Health | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=626873a69ef4c8b2) | 2026-05-07 22:56 |
-| Chewy | Software Engineer III | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=41506061e08a6c6b) | 2026-05-07 22:56 |
-| Chewy | Software Engineer III | Plantation, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b5f05c8dd67fcf30) | 2026-05-07 22:56 |
-| Dayforce | Software Developer Sr | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b92007092f3a111a) | 2026-05-07 22:56 |
-| Mango Chamba, LLC | Data Architect (Snowflake) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ba8e3de971eddef) | 2026-05-07 22:56 |
-| Dayforce | Software Developer Sr | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da194a7fdcf7abf8) | 2026-05-07 22:56 |
-| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6dbdec210790339f) | 2026-05-07 22:56 |
-| Warner Bros. Discovery | Data Engineer I, CNN Digital Products and Services | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b9db141b7401478) | 2026-05-07 22:56 |
-| Warner Bros. Discovery | Data Engineer I, CNN Digital Products and Services | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5a165ea66f85e55) | 2026-05-07 22:56 |
-| Warner Bros. Discovery | Data Engineer I, CNN Digital Products and Services | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06681d5885df2a47) | 2026-05-07 22:56 |
-| Warner Bros. Discovery | Data Engineer I, CNN Digital Products and Services | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9db6123d90e51635) | 2026-05-07 22:56 |
-| Warner Bros. Discovery | Data Engineer I, CNN Digital Products and Services | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd6c010abcc1b9ad) | 2026-05-07 22:56 |
 
 
 ---
