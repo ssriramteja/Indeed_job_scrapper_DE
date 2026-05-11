@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-11 06:29
+Last updated: 2026-05-11 10:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Adobe | Software Development Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b111e44c034f266) | 2026-05-11 10:29 |
+| Kimball Midwest | Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c26d7493c6bd8679) | 2026-05-11 10:29 |
+| Brillio LLC | Sr. Java Developer with Payments – R01564829 | Edison, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b028c72e4fead57) | 2026-05-11 10:29 |
+| Moody's | Senior Software Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=42dcb2f842c3b2f2) | 2026-05-11 10:29 |
+| nan | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8925c0b6808e2ef8) | 2026-05-11 10:29 |
+| SYSTECH USA | Senior Data Engineer - ADF & Databricks | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5f3a914de107c82) | 2026-05-11 10:29 |
+| Plymouth Rock Assurance | Senior AWS Cloud Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=490033b77e24b17c) | 2026-05-11 10:29 |
+| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ff9c5f258d04aaa) | 2026-05-11 10:29 |
+| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=410c7062135208be) | 2026-05-11 10:29 |
 | Openkyber | Backend Software Engineer (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=92240e7a4713a4e4) | 2026-05-11 06:29 |
 | Openkyber | Software Development (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c572e92f87a5b7a6) | 2026-05-11 06:29 |
 | Regions Financial | Microsoft SQL Server/ETL Developer w/SSIS experience [On-Site] | Hoover, AL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e93b9c004dc5445b) | 2026-05-11 06:29 |
@@ -374,11 +383,6 @@ Last updated: 2026-05-11 06:29
 | Pioneer Circuits Inc. | Cloud Infrastructure & AI Operations Engineer | Santa Ana, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ccde5a1faa24e424) | 2026-05-07 11:02 |
 | JPMorganChase | Software Engineer II- Front end/DevOps | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea2a81785b048298) | 2026-05-07 11:02 |
 | EchoStar | Senior Automation Engineer | Littleton, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac8a3b04afc12b14) | 2026-05-07 11:02 |
-| QUALGEN, LLC | IT Specialist/Systems Administrator | Edmond, OK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f3e0e141efc8c345) | 2026-05-07 08:16 |
-| Starbucks | data engineer sr- ST; Nashville, TN | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=740c3688a7f68b22) | 2026-05-07 08:16 |
-| Amer Technology, Inc | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=46b3557dd6a86d77) | 2026-05-07 08:16 |
-| Foxconn Industrial Internet - FII | Business Systems Analyst | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=545894faf57b95a0) | 2026-05-07 08:16 |
-| Mastercard | AI Engineer | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24e6c09a79e3dceb) | 2026-05-07 08:16 |
 
 
 ---
