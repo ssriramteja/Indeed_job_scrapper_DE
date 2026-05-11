@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-11 02:11
+Last updated: 2026-05-11 06:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Openkyber | Backend Software Engineer (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=92240e7a4713a4e4) | 2026-05-11 06:29 |
+| Openkyber | Software Development (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c572e92f87a5b7a6) | 2026-05-11 06:29 |
+| Regions Financial | Microsoft SQL Server/ETL Developer w/SSIS experience [On-Site] | Hoover, AL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e93b9c004dc5445b) | 2026-05-11 06:29 |
+| Openkyber | Senior API Engineer (Python) | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0b8df2488699249b) | 2026-05-11 06:29 |
+| Openkyber | Software Development (Python) | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6d0d3f0e671eca1f) | 2026-05-11 06:29 |
+| Openkyber | Django | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=353dfd37d6f98139) | 2026-05-11 06:29 |
+| Lime | Senior MLOps & Data Systems Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55e97637d29d64b4) | 2026-05-11 06:29 |
 | Openkyber | API Threat Intelligence Analyst | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f5bb3f8181d837d9) | 2026-05-10 23:42 |
 | Openkyber | API Threat Intelligence Analyst | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=640ad2341149d2bc) | 2026-05-10 23:42 |
 | Openkyber | API Threat Intelligence Analyst | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0de03440ff246ea3) | 2026-05-10 23:42 |
@@ -372,96 +379,6 @@ Last updated: 2026-05-11 02:11
 | Amer Technology, Inc | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=46b3557dd6a86d77) | 2026-05-07 08:16 |
 | Foxconn Industrial Internet - FII | Business Systems Analyst | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=545894faf57b95a0) | 2026-05-07 08:16 |
 | Mastercard | AI Engineer | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24e6c09a79e3dceb) | 2026-05-07 08:16 |
-| Commence | Sr. AI/ML Engineer | Leesburg, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bb10f4ead0ebaa8c) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Jacksonville, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=84ff26ed72edcf59) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4a7e583a5ea56607) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | San Antonio, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d2d23da7e95a1130) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d78d5b077f1a5305) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Memphis, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=75bd1c4231899eca) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Costa Mesa, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=465359694837863c) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=51caa710f04f77dc) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=147bab346b137aef) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d2f5a5f35444067b) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Grand Rapids, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e8b4c20fd299a5c2) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Detroit, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6e08ec2e44f47101) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=058204891b516db6) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=236c6d8ffa19b4d8) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c8001dc6417b644e) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=37726abce257e377) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=26524036d8b7988d) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Miami, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=14335716af5e911f) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9b2fc4d512bb1973) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7f44960818abf6fa) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=38df319950eca972) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=11d1ad5bd44efc7d) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Tallahassee, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5c3c21492b139248) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Hermitage, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=91408b290dbe3655) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3f967eb48c6c658d) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Sacramento, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4eb294057a60f547) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) | Boca Raton, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f32cb97309ddc35f) | 2026-05-07 05:53 |
-| DASi LLC | Senior Software Engineer | Doral, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=744c7eb16a44dfd7) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c01266825391c4b2) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a6d53a6f5df85230) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | San Antonio, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f6fefa13594369c9) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5f05f8c3822801d0) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Hermitage, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e5cb254b6fa4c90d) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a1023da172f564b3) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=569a8ebe7a6a04fb) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9c5760a75e3ce777) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=06b22890290d9506) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d137efe54ff8dc9) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e7bf8442a8bdc8c) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Boca Raton, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d6a0f6c9e311fc83) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f4d775401ea97c2) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c4b3fe13a7719868) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Memphis, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1fbae8d56e4e939a) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Costa Mesa, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5637bcb1e7b43c44) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2a4765c52a051877) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Detroit, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=48f4ac34ad3bcf5d) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d2c923560ebd174d) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7747c9538f008641) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Grand Rapids, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=13b93b608c2e5719) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=51bb38b62986fdc6) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7458fc8ef3b94ba4) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Tallahassee, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5c2fef802ccfc9d0) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Sacramento, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a3acbd4afc720980) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Consultant | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7dcc086d91c5f3f2) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | San Antonio, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=27889ab1b19cdbb7) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Memphis, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=04d97aef53cbdb38) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=06f0993bba5c0363) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8660ca070b0a4e40) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=478a3c82f44b4c92) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f74fca29cf6b21c4) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6fb9910261cebda6) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=111aee837e77fae4) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d3920a8488c303cf) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Grand Rapids, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=275b3a26137e4026) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e7ffec4a653d9ae3) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f44aa9758e0b8c30) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ea2bccc7e52cd86a) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Hermitage, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=84325aa611216471) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Costa Mesa, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a4a28317818b7105) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=24ce7897ab593fa4) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=45f0b2358693b4b1) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Detroit, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d37cebaf46b00d4e) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Boca Raton, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4d0b4a8c187dbd0a) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=44c10e4b59da5a27) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=147d735cf2c8585c) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec72c554d7db0f5f) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4062754ea30ea206) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Sacramento, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=694133283d3d475b) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Tallahassee, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5087395011639826) | 2026-05-07 05:53 |
-| Deloitte | AI Forward Deployed Engineer (FDE) Senior Consultant | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b09dac1045556912) | 2026-05-07 05:53 |
-| Tata Consultancy Services (TCS) | Snowflake Developer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=791202dbdbb21c1d) | 2026-05-07 05:53 |
-| Cambia Health Solutions | Data Platform Engineer IV | Portland, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8317877d96469a8f) | 2026-05-07 05:53 |
-| Rivian and Volkswagen Group Technologies | Sr. Software Systems and Data Engineer | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=606b5659a9dfdc90) | 2026-05-07 05:53 |
-| The Baldwin Group | Senior Data Engineer- MSI | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3be75135cd536532) | 2026-05-07 05:53 |
-| General Motors (GM) | Senior Data Engineer | Warren, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=57ba967c2292803c) | 2026-05-07 05:53 |
-| Centerfield | Application Security Engineer | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=44d5251e8c79cc0b) | 2026-05-07 05:53 |
-| David's Bridal | Data Analyst — AI-Driven Insights | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55020019de30ef6d) | 2026-05-07 05:53 |
-| Navigate360 | Senior .NET Engineer | Richfield, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=173985f052eba684) | 2026-05-07 05:53 |
-| Love’s Travel Stops | AI Application Developer III | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=939860f4afab99be) | 2026-05-07 05:53 |
-| Love’s Travel Stops | AI Application Developer III -Houston, TX | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ca2a8fac6aa1523) | 2026-05-07 05:53 |
 
 
 ---
