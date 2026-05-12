@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-11 23:49
+Last updated: 2026-05-12 02:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| LTIMindtree | Senior Specialist - Data Engineering | Cincinnati, OH, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0f1df3e0ee29922c) | 2026-05-12 02:07 |
+| Transmedics | Senior Software Development Engineer - Cloud Dev | Andover, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6e8c40e8e2c57109) | 2026-05-12 02:07 |
+| LifeScale Analytics | Senior Cloud Security Engineer (AWS/Azure/GCP \| Hybrid Cloud \| AI Security) | Morrisville, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=187fb1dba54e59d2) | 2026-05-12 02:07 |
+| Joby Aviation | Senior Autonomy Data Infrastructure and Analytics Software Engineer | Santa Cruz, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1e946f43c0ce5053) | 2026-05-12 02:07 |
+| EvaFi | Front-End Growth Engineer | Irvine, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=658e57cd8469a251) | 2026-05-12 02:07 |
+| Elevance Health | Senior Cloud Platform Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=70cf81a93ee7ae14) | 2026-05-12 02:07 |
+| Elevance Health | Engineer Senior | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1f5e0df0ff0f2609) | 2026-05-12 02:07 |
+| Innovien Solutions | Data Engineer – Cloud and AI | Farmington, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01f85e7d7e897954) | 2026-05-12 02:07 |
+| Railroad19 | Cloud Native Java Developer (U.S. remote) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c864309c5f175c3e) | 2026-05-12 02:07 |
+| Teton Ridge | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9736ba6473e4804f) | 2026-05-12 02:07 |
+| EPIC Kids | Senior Software Engineer, Infrastructure | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a8f52b7af2ce28a8) | 2026-05-12 02:07 |
+| BeyondTrust | Sr Software Development Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12e471f407b19da8) | 2026-05-12 02:07 |
+| OJUSLLC | Azure Data Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc46a93049506224) | 2026-05-12 02:07 |
+| Equifax | Senior Applied AI Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e56229e27f5c6fd1) | 2026-05-12 02:07 |
+| Wolters Kluwer | Senior Product Software Engineer | Babylon, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d3d24d3399d0363) | 2026-05-12 02:07 |
+| ABC Supply Co., Inc. | Data Scientist (944) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2beae7f9c463995) | 2026-05-12 02:07 |
 | KinderCare Learning Companies | Senior Machine Learning Engineer - Fully Remote! | Beaverton, OR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=38b630719ad31d3a) | 2026-05-11 23:49 |
 | MIO Partners | Data Engineer, Market Data New | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d1ce8c2bb2e05265) | 2026-05-11 23:49 |
 | Asurion | Full-Stack Senior Software Engineer | Sterling, VA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=74f3191cc3d47286) | 2026-05-11 22:52 |
