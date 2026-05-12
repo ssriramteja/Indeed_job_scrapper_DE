@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-12 05:58
+Last updated: 2026-05-12 08:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Chewy | Data Engineer III | Bellevue, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b239490817bb3dba) | 2026-05-12 08:38 |
+| LifeScale Analytics | Senior Cloud Security Engineer (AWS/Azure/GCP \| Hybrid Cloud \| AI Security) | Morrisville, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=187fb1dba54e59d2) | 2026-05-12 08:38 |
+| Development Infostructure | Database Developer | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=49e5739e46621f5d) | 2026-05-12 08:38 |
+| American Express | Data Engineers | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=578e2464af530e79) | 2026-05-12 08:38 |
+| St. Jude Children's Research Hospital | Product Owner II - BI (Memphis, TN or Remote in USA) | Memphis, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ea984ba020827de7) | 2026-05-12 08:38 |
+| Ford Motor Company | Data Engineer, Pro360 Product Group | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0bc6c388f4a159c) | 2026-05-12 08:38 |
+| Goldman Sachs | Senior Software Engineer, Global Banking & Markets, Securities Settlement Engineering | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afcab31fabe71ed5) | 2026-05-12 08:38 |
+| Development Infostructure | Senior Software Developer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15b8228527caa95f) | 2026-05-12 08:38 |
+| Vidoori | Full Stack Developer | Hyattsville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7710e703cc72f4b0) | 2026-05-12 08:38 |
 | Benchmark Solutions LLC | Senior Data Engineer | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f8cfebbb7e871628) | 2026-05-12 05:58 |
 | Dell Technologies | Senior Systems Engineer, UDS Data Management - East | MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ad1f7dab55752b3e) | 2026-05-12 05:58 |
 | GEICO | Senior Engineer - Data | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=50d8317116e3b8b4) | 2026-05-12 05:58 |
@@ -16,12 +25,10 @@ Last updated: 2026-05-12 05:58
 | Kestra Financial | Senior Data Platform Engineer | Tempe, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bc9d37985c0bdcf2) | 2026-05-12 05:58 |
 | Customer Care First | IT Specialist/Systems Administrator | Syracuse, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8b6d93d88b6a0a66) | 2026-05-12 05:58 |
 | EchoStar | Senior Data Scientist | Littleton, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9216704e953a3254) | 2026-05-12 05:58 |
-| LifeScale Analytics | Senior Cloud Security Engineer (AWS/Azure/GCP \| Hybrid Cloud \| AI Security) | Morrisville, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=187fb1dba54e59d2) | 2026-05-12 05:58 |
 | ASU Preparatory Academy | Senior Cloud & Backend Platform Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4c86711a678b9cfb) | 2026-05-12 05:58 |
 | Storable | Data Engineer II | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3fb2c0deb86004e8) | 2026-05-12 05:58 |
 | HCA Healthcare | Senior Solution Architect | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8429c2a459d3de4f) | 2026-05-12 05:58 |
 | nan | Senior DevSecOps Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ad13b87eac68b71) | 2026-05-12 05:58 |
-| Ford Motor Company | Data Engineer, Pro360 Product Group | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0bc6c388f4a159c) | 2026-05-12 05:58 |
 | Artie | Sales/Solutions Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50c1fe1287b79994) | 2026-05-12 05:58 |
 | Flex | Platform Architect - AI | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57c71c270f4f024f) | 2026-05-12 05:58 |
 | Thales | Systems Administrator | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f670c120137d065) | 2026-05-12 05:58 |
@@ -339,14 +346,6 @@ Last updated: 2026-05-12 05:58
 | JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=39123815bfb490a9) | 2026-05-08 11:04 |
 | JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2032a94f0b2c0e2c) | 2026-05-08 11:04 |
 | NiyamIT | Full Stack Developer | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb8eb5661e9cdc17) | 2026-05-08 11:04 |
-| Openkyber | Junior Automation Engineer (Cloud) | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=23fd00a4507ab066) | 2026-05-08 07:17 |
-| Openkyber | Junior Automation Engineer (Cloud) | GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8556b858fbab54a4) | 2026-05-08 07:17 |
-| Openkyber | AWS Systems Engineer | GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53af07e478e3cd7d) | 2026-05-08 07:17 |
-| Openkyber | Senior DevOps Engineer | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bd5d72a84ca4e4ea) | 2026-05-08 07:17 |
-| Openkyber | Junior Automation Engineer (Cloud) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=30a75c1c6a28610f) | 2026-05-08 07:17 |
-| O'Reilly Auto Parts | Sr Platform Engineer (GCP) | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d564e3ba391555e) | 2026-05-08 07:17 |
-| O'Reilly Auto Parts | Sr Platform Engineer (GCP) | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fbdaf375e812bc96) | 2026-05-08 07:17 |
-| Openkyber | Junior Automation Engineer (Cloud) | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4ebde076d2f48a0) | 2026-05-08 07:17 |
 
 
 ---
