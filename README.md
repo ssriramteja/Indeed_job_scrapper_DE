@@ -1,17 +1,36 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-12 08:38
+Last updated: 2026-05-12 11:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III- Python, PySpark, ETL, AWS | Jersey City, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1e01551f023130f4) | 2026-05-12 11:13 |
+| Wells Fargo | Senior Data Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=110879d3c05b187b) | 2026-05-12 11:13 |
+| Wells Fargo | Senior Data Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2fa4c8179a8ac4da) | 2026-05-12 11:13 |
+| Wells Fargo | Senior Data Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f66f1fbb6c8a1a3b) | 2026-05-12 11:13 |
+| Wells Fargo | Senior Data Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8fc984a42640329e) | 2026-05-12 11:13 |
+| Wells Fargo | Senior Data Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dcfdcd1adce614e6) | 2026-05-12 11:13 |
+| Wells Fargo | Senior Data Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bd3763e7b5c9b674) | 2026-05-12 11:13 |
+| Wells Fargo | Senior Data Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dbb6a218ca916697) | 2026-05-12 11:13 |
+| Wells Fargo | Senior Data Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d791e762f6d81f87) | 2026-05-12 11:13 |
+| Wells Fargo | Senior Data Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7943d064127358c8) | 2026-05-12 11:13 |
+| JPMorganChase | Software Engineer III - AI/ML | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=14e64b70ed3febe9) | 2026-05-12 11:13 |
+| Encore Fire Protection | Data Engineer | Needham, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f9585bb14bb3c50d) | 2026-05-12 11:13 |
+| Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c4350b7356581efc) | 2026-05-12 11:13 |
+| LifeScale Analytics | Senior Cloud Security Engineer (AWS/Azure/GCP \| Hybrid Cloud \| AI Security) | Morrisville, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=187fb1dba54e59d2) | 2026-05-12 11:13 |
+| Ford Motor Company | Data Engineer, Pro360 Product Group | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0bc6c388f4a159c) | 2026-05-12 11:13 |
+| JPMorganChase | Data Engineer II - AWS/PySpark/ETL | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c208f65820392c92) | 2026-05-12 11:13 |
+| One Call | Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48a7dc9b2a0c6b63) | 2026-05-12 11:13 |
+| SilverEdge Government Solutions | Solutions Architect | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8db426b190d5761e) | 2026-05-12 11:13 |
+| Denovo Ventures | Full Stack Developer | Louisville, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83484ce8e2c739af) | 2026-05-12 11:13 |
+| BlackLine | Senior Software Engineer | Pleasanton, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48debf03335c270f) | 2026-05-12 11:13 |
+| JPMorganChase | Software Engineer III - Java, Springboot | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cb68eebaeaaf747) | 2026-05-12 11:13 |
 | Chewy | Data Engineer III | Bellevue, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b239490817bb3dba) | 2026-05-12 08:38 |
-| LifeScale Analytics | Senior Cloud Security Engineer (AWS/Azure/GCP \| Hybrid Cloud \| AI Security) | Morrisville, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=187fb1dba54e59d2) | 2026-05-12 08:38 |
 | Development Infostructure | Database Developer | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=49e5739e46621f5d) | 2026-05-12 08:38 |
 | American Express | Data Engineers | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=578e2464af530e79) | 2026-05-12 08:38 |
 | St. Jude Children's Research Hospital | Product Owner II - BI (Memphis, TN or Remote in USA) | Memphis, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ea984ba020827de7) | 2026-05-12 08:38 |
-| Ford Motor Company | Data Engineer, Pro360 Product Group | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0bc6c388f4a159c) | 2026-05-12 08:38 |
 | Goldman Sachs | Senior Software Engineer, Global Banking & Markets, Securities Settlement Engineering | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afcab31fabe71ed5) | 2026-05-12 08:38 |
 | Development Infostructure | Senior Software Developer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15b8228527caa95f) | 2026-05-12 08:38 |
 | Vidoori | Full Stack Developer | Hyattsville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7710e703cc72f4b0) | 2026-05-12 08:38 |
@@ -343,9 +362,6 @@ Last updated: 2026-05-12 08:38
 | Openkyber | Cloud Engineer (Containers & Kubernetes) | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=472d3fada936445a) | 2026-05-08 13:10 |
 | Openkyber | Cloud Support Associate | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a139e85dc1c56b0) | 2026-05-08 13:10 |
 | Openkyber | Kubernetes Automation Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c39b3c6df926e3a2) | 2026-05-08 13:10 |
-| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=39123815bfb490a9) | 2026-05-08 11:04 |
-| JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2032a94f0b2c0e2c) | 2026-05-08 11:04 |
-| NiyamIT | Full Stack Developer | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb8eb5661e9cdc17) | 2026-05-08 11:04 |
 
 
 ---
