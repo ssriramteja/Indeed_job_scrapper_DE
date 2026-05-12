@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-12 13:57
+Last updated: 2026-05-12 16:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| LifeScale Analytics | Senior Cloud Security Engineer (AWS/Azure/GCP \| Hybrid Cloud \| AI Security) | Morrisville, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=187fb1dba54e59d2) | 2026-05-12 13:57 |
-| Ford Motor Company | Data Engineer, Pro360 Product Group | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0bc6c388f4a159c) | 2026-05-12 13:57 |
+| LifeScale Analytics | Senior Cloud Security Engineer (AWS/Azure/GCP \| Hybrid Cloud \| AI Security) | Morrisville, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=187fb1dba54e59d2) | 2026-05-12 16:15 |
+| Ford Motor Company | Data Engineer, Pro360 Product Group | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0bc6c388f4a159c) | 2026-05-12 16:15 |
+| nan | Senior Software Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=569983f090ab2e02) | 2026-05-12 16:15 |
 | American business solutions inc | Data Architect | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bac5379b2ecd01c) | 2026-05-12 13:57 |
 | SYSTECH USA | Senior Data Engineer - Informatica IDMC & CDGC (Data Lineage & Data Quality) | Glendale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fe6fa1054166d69d) | 2026-05-12 13:57 |
 | Ellumen, Inc | DevOps Engineer- Ashburn, VA | Ashburn, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=797eb835c7f60f42) | 2026-05-12 13:57 |
@@ -351,8 +352,6 @@ Last updated: 2026-05-12 13:57
 | Citi | Junior Generative AI Application Developer | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce3d565040e4deeb) | 2026-05-08 17:03 |
 | Citi | Junior Generative AI Application Developer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d09fccd840d1ac8) | 2026-05-08 17:03 |
 | Busigence Technologies | DevOps Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=30186b8478a082ea) | 2026-05-08 17:03 |
-| Altumint | Senior AWS Developer | Lanham, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=fed653aec24910be) | 2026-05-08 15:14 |
-| Presidio | Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4c98e70b4f08875) | 2026-05-08 15:14 |
 
 
 ---
