@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-12 11:13
+Last updated: 2026-05-12 13:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| LifeScale Analytics | Senior Cloud Security Engineer (AWS/Azure/GCP \| Hybrid Cloud \| AI Security) | Morrisville, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=187fb1dba54e59d2) | 2026-05-12 13:57 |
+| Ford Motor Company | Data Engineer, Pro360 Product Group | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0bc6c388f4a159c) | 2026-05-12 13:57 |
+| American business solutions inc | Data Architect | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bac5379b2ecd01c) | 2026-05-12 13:57 |
+| SYSTECH USA | Senior Data Engineer - Informatica IDMC & CDGC (Data Lineage & Data Quality) | Glendale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fe6fa1054166d69d) | 2026-05-12 13:57 |
+| Ellumen, Inc | DevOps Engineer- Ashburn, VA | Ashburn, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=797eb835c7f60f42) | 2026-05-12 13:57 |
+| SYSTECH USA | Senior Data Engineer - Informatica IDMC | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bdfba15617362e81) | 2026-05-12 13:57 |
+| nan | Software Engineer II | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87e755ed281f268b) | 2026-05-12 13:57 |
 | JPMorganChase | Software Engineer III- Python, PySpark, ETL, AWS | Jersey City, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1e01551f023130f4) | 2026-05-12 11:13 |
 | Wells Fargo | Senior Data Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=110879d3c05b187b) | 2026-05-12 11:13 |
 | Wells Fargo | Senior Data Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2fa4c8179a8ac4da) | 2026-05-12 11:13 |
@@ -19,8 +26,6 @@ Last updated: 2026-05-12 11:13
 | JPMorganChase | Software Engineer III - AI/ML | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=14e64b70ed3febe9) | 2026-05-12 11:13 |
 | Encore Fire Protection | Data Engineer | Needham, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f9585bb14bb3c50d) | 2026-05-12 11:13 |
 | Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c4350b7356581efc) | 2026-05-12 11:13 |
-| LifeScale Analytics | Senior Cloud Security Engineer (AWS/Azure/GCP \| Hybrid Cloud \| AI Security) | Morrisville, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=187fb1dba54e59d2) | 2026-05-12 11:13 |
-| Ford Motor Company | Data Engineer, Pro360 Product Group | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0bc6c388f4a159c) | 2026-05-12 11:13 |
 | JPMorganChase | Data Engineer II - AWS/PySpark/ETL | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c208f65820392c92) | 2026-05-12 11:13 |
 | One Call | Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48a7dc9b2a0c6b63) | 2026-05-12 11:13 |
 | SilverEdge Government Solutions | Solutions Architect | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8db426b190d5761e) | 2026-05-12 11:13 |
@@ -348,20 +353,6 @@ Last updated: 2026-05-12 11:13
 | Busigence Technologies | DevOps Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=30186b8478a082ea) | 2026-05-08 17:03 |
 | Altumint | Senior AWS Developer | Lanham, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=fed653aec24910be) | 2026-05-08 15:14 |
 | Presidio | Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4c98e70b4f08875) | 2026-05-08 15:14 |
-| Openkyber | AWS Systems Engineer | AK, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=d3903be92908c75d) | 2026-05-08 13:10 |
-| NTT Global Data Centers Americas, Inc. | AI Technical Architect - Onsite | Auburn Hills, MI, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=7327c0bf569365fa) | 2026-05-08 13:10 |
-| Openkyber | AWS Systems Engineer | AK, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=81fe8958cd4a14a2) | 2026-05-08 13:10 |
-| Openkyber | Junior Automation Engineer (Cloud) | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=5335254820a6db07) | 2026-05-08 13:10 |
-| Openkyber | Cloud Support Associate | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0077323c8678a550) | 2026-05-08 13:10 |
-| Openkyber | AWS Technical Apprentice / Trainee | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c43b6c07f7a10c25) | 2026-05-08 13:10 |
-| Openkyber | AWS Systems Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=587fb03845771fd7) | 2026-05-08 13:10 |
-| Openkyber | Platform Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=78d7d81277bb81ba) | 2026-05-08 13:10 |
-| Openkyber | Senior SRE (Kubernetes) | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f2d3d34de1eead8b) | 2026-05-08 13:10 |
-| Consertus | Power BI Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8919022f4b2c0bc4) | 2026-05-08 13:10 |
-| Openkyber | Kubernetes Security Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=05932e2bdc0b6ca7) | 2026-05-08 13:10 |
-| Openkyber | Cloud Engineer (Containers & Kubernetes) | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=472d3fada936445a) | 2026-05-08 13:10 |
-| Openkyber | Cloud Support Associate | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a139e85dc1c56b0) | 2026-05-08 13:10 |
-| Openkyber | Kubernetes Automation Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c39b3c6df926e3a2) | 2026-05-08 13:10 |
 
 
 ---
