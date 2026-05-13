@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-13 22:58
+Last updated: 2026-05-13 23:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 10Beauty | Senior Software Engineer - Cloud Applications | Burlington, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=cdc7cb699ca48c49) | 2026-05-13 23:55 |
+| 10Beauty | Senior Software Engineer - Cloud Applications | Boston, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=25dd86b5d7c3e977) | 2026-05-13 23:55 |
+| Capgemini | Sr. APIM Engineer | Nashville, TN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=254d152353d4fb63) | 2026-05-13 23:55 |
+| The University of Chicago | Senior Software Engineer, Backend Services | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=282052d4249e7a38) | 2026-05-13 23:55 |
+| Capgemini | Senior Java AWS Developer Payments | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e3b8be749b58fda2) | 2026-05-13 23:55 |
+| Capgemini | Majesco Migration - Data Architect | Erie, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8eef2c3133811ae9) | 2026-05-13 23:55 |
+| Hexaware Technologies | Technical Architect (BIBA) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0ada48dbcb0fb083) | 2026-05-13 23:55 |
+| Capgemini | Data Engineer (AWS Redshift/Python) | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2522a67f157402a5) | 2026-05-13 23:55 |
+| SHI International | Solutions Engineer - Data Engineering | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=53d6063859712a59) | 2026-05-13 23:55 |
+| BeyondTrust | Sr Software Development Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6715e4c4956d2eae) | 2026-05-13 23:55 |
+| Next Gen Software Solutions | Data Engineer (Ab Initio, OzoneCH, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| W2 & Fulltime | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01b3676cfd5abae5) | 2026-05-13 23:55 |
+| Capgemini | TypeScript Backend Architect | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=806e6d1aea5231f7) | 2026-05-13 23:55 |
+| Capgemini | V&V Engineer – AI - Driven Testing & Validation | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e6e47c4f9f9521bc) | 2026-05-13 23:55 |
 | 9amHealth | Senior Data Engineer | US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=204b0fbde6acaec8) | 2026-05-13 22:58 |
 | Visa | Software Engineer, Sr. Consultant - Fullstack GenAI Enablement | Ashburn, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b9c9240c1f60b916) | 2026-05-13 22:58 |
 | CMT Services INC | Databricks Engineer | Adelphi, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=735a340ab156699c) | 2026-05-13 22:58 |
@@ -41,7 +54,6 @@ Last updated: 2026-05-13 22:58
 | University of Miami | DevOps Engineer | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c486a5510b1decbc) | 2026-05-13 22:58 |
 | Tata Consultancy Services (TCS) | Azure Data Engineer | Township of Hamilton, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae87fbdbeca42ee9) | 2026-05-13 22:58 |
 | Augeo Affinity Marketing, Inc. | BI Developer | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=33a301267b057586) | 2026-05-13 22:58 |
-| Next Gen Software Solutions | Data Engineer (Ab Initio, OzoneCH, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| W2 & Fulltime | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01b3676cfd5abae5) | 2026-05-13 22:58 |
 | Paramount Global US Inc | Senior Data Scientist | Syracuse, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=741583eb645f2b61) | 2026-05-13 22:58 |
 | Surgery Partners | Reporting Engineer - Hybrid / Remote | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=963a094838b9c1b1) | 2026-05-13 22:58 |
 | Amplify | Software Engineer | Brooklyn, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24cdc5d33ce531fc) | 2026-05-13 22:58 |
@@ -399,7 +411,6 @@ Last updated: 2026-05-13 22:58
 | Openkyber | Backend (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7ef373ef8fdb9f17) | 2026-05-10 05:56 |
 | Openkyber | Python | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=850bbd121eda6f31) | 2026-05-10 05:56 |
 | Openkyber | Senior Python Developer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8797983cc7729f69) | 2026-05-10 05:56 |
-| Applix Inc. | Sr. Data & Analytics Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4b72b71f93e9340) | 2026-05-09 23:38 |
 
 
 ---
