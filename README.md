@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-13 17:12
+Last updated: 2026-05-13 19:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Dallas County | 0000001423.AI ENGINEER II.INFO TECH - DATA AND AI | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8e292fecba5a3f54) | 2026-05-13 19:41 |
+| DELVIX EDGE | Senior Data Engineer | Los Angeles, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3059a32608f8fae5) | 2026-05-13 19:41 |
+| Kohl's | Senior Software Engineer (Data Engineering) | Menomonee Falls, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4c990ef27a139b23) | 2026-05-13 19:41 |
+| Premier Health | SENIOR DATA ARCHITECT - DIGITAL HEALTH | Dayton, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=292331db8e10cf3f) | 2026-05-13 19:41 |
+| QVC | Application Developer - ETL | West Chester, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5f171de2a8d453f8) | 2026-05-13 19:41 |
+| Halff | Business Systems Data Analyst / Power BI & Fabric Developer - Various Locations! | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15e9c504e5bf2337) | 2026-05-13 19:41 |
+| Halff | Business Systems Data Analyst / Power BI & Fabric Developer - Various Locations! | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c78c332d8a817d3f) | 2026-05-13 19:41 |
+| Dolese Bros. | Data Engineer | Oklahoma City, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=424490df54f1f917) | 2026-05-13 19:41 |
+| Münchener Rückversicherungs-Gesellschaft | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3a2a57e7a76cf6ec) | 2026-05-13 19:41 |
+| Next Gen Software Solutions | Data Engineer (Ab Initio, OzoneCH, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| W2 & Fulltime | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01b3676cfd5abae5) | 2026-05-13 19:41 |
 | Tata Consultancy Services (TCS) | Data Engineer | Atlanta, GA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=ce6324c917198667) | 2026-05-13 17:12 |
 | Ciklum | Senior Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a79e1bdde74b9d64) | 2026-05-13 17:12 |
 | Fustis LLC | ML (Machine Learning) Engineering Consultant | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c5732db1baec0796) | 2026-05-13 17:12 |
@@ -341,7 +351,6 @@ Last updated: 2026-05-13 17:12
 | Applix Inc. | Sr. Data & Analytics Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4b72b71f93e9340) | 2026-05-09 23:38 |
 | Left Main REI | Backend/AI Engineer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6eaa1cbe99589993) | 2026-05-09 21:35 |
 | Applix Inc. | Sr. Data & Analytics Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76cfbc9e7b83be2f) | 2026-05-09 19:52 |
-| Yusen Logistics | Senior DevOps Engineer | Secaucus, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=9684b1e8c83efb55) | 2026-05-09 18:46 |
 
 
 ---
