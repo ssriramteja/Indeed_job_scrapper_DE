@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-13 11:56
+Last updated: 2026-05-13 14:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Databricks Data Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6d75dcabdd05e31b) | 2026-05-13 14:11 |
+| Cisco | Software Engineerâ€“ Full Stack | Richardson, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0cd6f9018a657390) | 2026-05-13 14:11 |
+| nan | ​Mobile Software Engineer | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e9d436fc96de41ea) | 2026-05-13 14:11 |
+| clickhouse | Senior Data Engineer - Python, CI/CD | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e080fd03b67aa874) | 2026-05-13 14:11 |
+| Securian Financial | Platform Reliability Engineer – Data, Content & Analytics (Hybrid) | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43204d9b47ac68cd) | 2026-05-13 14:11 |
+| Guild Mortgage Company LLC | Senior DevOps Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d656dac9920b857b) | 2026-05-13 14:11 |
 | RSM | Supervisor - Cyber Engineering | Chicago, IL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=b6b7c33de4d899ac) | 2026-05-13 11:56 |
 | Openkyber | API Security Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fcd5bf185da35fd9) | 2026-05-13 11:56 |
 | Tata Consultancy Services (TCS) | Engineer | Cleveland, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2ec1df703d4c5e04) | 2026-05-13 11:56 |
@@ -14,7 +20,6 @@ Last updated: 2026-05-13 11:56
 | Mutual of Enumclaw Insurance | Data Analytics Engineer | Enumclaw, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cfe3ebca43d1190) | 2026-05-13 11:56 |
 | Cotiviti | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21a4c2b4ffe6da75) | 2026-05-13 11:56 |
 | EchoStar | AI Data Engineer II | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d7f0cb7dd1cecd1) | 2026-05-13 11:56 |
-| Guild Mortgage Company LLC | Senior DevOps Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d656dac9920b857b) | 2026-05-13 11:56 |
 | Openkyber | Workday Optimization Consultant | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=51eff55258e66e9d) | 2026-05-13 11:56 |
 | Comcast | Software Development Engineer in Test (SDET) – ML & LLM Systems | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=33c42309195b0e99) | 2026-05-13 09:36 |
 | Comcast | Development Engineer in Test (SDET) – ML & LLM Systems | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=47435f267ff5c4f3) | 2026-05-13 09:36 |
