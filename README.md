@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-14 18:29
+Last updated: 2026-05-14 20:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | AI Architect | Auburn Hills, MI, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=e58ec0c3fb594e76) | 2026-05-14 20:24 |
+| Smile Digital Health | Senior DataOps Engineer- Remote US | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3b4e77c5e89765ba) | 2026-05-14 20:24 |
+| Visa | Senior Software Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c5fdd121cf76131f) | 2026-05-14 20:24 |
+| Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4967ce59e3591939) | 2026-05-14 20:24 |
+| Leadfeeder | Senior Data Engineer, AI & Data Platform | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b9c87ec5354ee008) | 2026-05-14 20:24 |
+| Optum | Sr. Data Engineer (Hybrid In-Office / Remote) | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=291bcfc0c31c7b7b) | 2026-05-14 20:24 |
+| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41c501bbcf2c51c1) | 2026-05-14 20:24 |
+| CrowdStrike | Sr. Automation Engineer, Falcon Complete (Remote) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdebadd59b18aca7) | 2026-05-14 20:24 |
 | Oriental Bank | Analyst, Information Technology (Data Engineer) | San Juan, PR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1fc8c26cf52dfcdf) | 2026-05-14 18:29 |
 | EXL Service | Agentic AI Data Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cf62a60610273c1a) | 2026-05-14 18:29 |
 | Progyny | Software Engineer II | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a5dcacd0f80c521d) | 2026-05-14 18:29 |
@@ -15,7 +23,6 @@ Last updated: 2026-05-14 18:29
 | JSR Tech Consulting | Software Engineer | Newark, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4b60af712b26a5dd) | 2026-05-14 18:29 |
 | EXL Service | Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=828e55e71d22edfc) | 2026-05-14 18:29 |
 | Riverain Technologies | Full Stack Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=077145bd3bd32de2) | 2026-05-14 18:29 |
-| McLane Company | BI Engineer | Temple, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27cf68a988ace4d9) | 2026-05-14 18:29 |
 | Cystems Logic Inc | Tableau Developer- Remote | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f20fb10dc8288bcf) | 2026-05-14 18:29 |
 | Pacers Sports & Entertainment | Data Architect | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e91c364ef51d1d33) | 2026-05-14 18:29 |
 | NTT DATA | Linux Systems Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bdd9a77f8957015f) | 2026-05-14 18:29 |
