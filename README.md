@@ -1,14 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-14 16:05
+Last updated: 2026-05-14 18:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Oriental Bank | Analyst, Information Technology (Data Engineer) | San Juan, PR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1fc8c26cf52dfcdf) | 2026-05-14 18:29 |
+| EXL Service | Agentic AI Data Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cf62a60610273c1a) | 2026-05-14 18:29 |
+| Progyny | Software Engineer II | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a5dcacd0f80c521d) | 2026-05-14 18:29 |
+| Capgemini | Senior Java Full Stack Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f8ce81ab377f28cb) | 2026-05-14 18:29 |
+| Cystems Logic Inc | PLTR Developer- Remote | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0eb17df245873596) | 2026-05-14 18:29 |
+| Transamerica | Senior Platform Engineer - Global CI/CD Platform | Cedar Rapids, IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9a30cd040a7f97b4) | 2026-05-14 18:29 |
+| JSR Tech Consulting | Software Engineer | Newark, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4b60af712b26a5dd) | 2026-05-14 18:29 |
+| EXL Service | Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=828e55e71d22edfc) | 2026-05-14 18:29 |
+| Riverain Technologies | Full Stack Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=077145bd3bd32de2) | 2026-05-14 18:29 |
+| McLane Company | BI Engineer | Temple, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27cf68a988ace4d9) | 2026-05-14 18:29 |
+| Cystems Logic Inc | Tableau Developer- Remote | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f20fb10dc8288bcf) | 2026-05-14 18:29 |
+| Pacers Sports & Entertainment | Data Architect | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e91c364ef51d1d33) | 2026-05-14 18:29 |
+| NTT DATA | Linux Systems Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bdd9a77f8957015f) | 2026-05-14 18:29 |
+| Recutify Inc. | DevOps Platform Engineer (GitHub Actions & Enterprise Git Governance) | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebdb736ffad340c8) | 2026-05-14 18:29 |
+| Capgemini | Associate Test Automation Engineer | Bridgewater, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a4fe70a1dad5e45) | 2026-05-14 18:29 |
+| Alpaca | Senior Software Engineer - Tax Platform | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4beb98cf5a2cf48) | 2026-05-14 18:29 |
 | Tecnologix Limited | Linux CloudSystem Engineer | Plano, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e0f807a114ce5a4) | 2026-05-14 16:05 |
 | CVS Health | Senior Data Engineer | Albany, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b8369c074d102201) | 2026-05-14 16:05 |
-| Next Gen Software Solutions | Data Engineer (Ab Initio, OzoneCH, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| W2 & Fulltime | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01b3676cfd5abae5) | 2026-05-14 16:05 |
 | Tata Consultancy Services (TCS) | API Automation | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e8f6975673f15cb) | 2026-05-14 16:05 |
 | Hyperlight | Data & AI Engineer | Cambridge, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c3d8a2e8f953d307) | 2026-05-14 11:45 |
 | EchoStar | Senior AI Platform Engineer | Englewood, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f6853815a5710a2) | 2026-05-14 11:45 |
@@ -441,7 +456,6 @@ Last updated: 2026-05-14 16:05
 | Openkyber | API Threat Intelligence Analyst | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f5bb3f8181d837d9) | 2026-05-10 23:42 |
 | Openkyber | API Threat Intelligence Analyst | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=640ad2341149d2bc) | 2026-05-10 23:42 |
 | Openkyber | API Threat Intelligence Analyst | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0de03440ff246ea3) | 2026-05-10 23:42 |
-| Openkyber | GenAI Threat Intelligence Analyst | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8cca72527ec2047e) | 2026-05-10 17:43 |
 
 
 ---
