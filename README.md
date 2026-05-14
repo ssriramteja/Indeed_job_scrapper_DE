@@ -1,12 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-14 13:47
+Last updated: 2026-05-14 16:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer (Ab Initio, OzoneCH, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| W2 & Fulltime | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01b3676cfd5abae5) | 2026-05-14 13:47 |
+| Tecnologix Limited | Linux CloudSystem Engineer | Plano, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e0f807a114ce5a4) | 2026-05-14 16:05 |
+| CVS Health | Senior Data Engineer | Albany, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b8369c074d102201) | 2026-05-14 16:05 |
+| Next Gen Software Solutions | Data Engineer (Ab Initio, OzoneCH, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| W2 & Fulltime | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01b3676cfd5abae5) | 2026-05-14 16:05 |
+| Tata Consultancy Services (TCS) | API Automation | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e8f6975673f15cb) | 2026-05-14 16:05 |
 | Hyperlight | Data & AI Engineer | Cambridge, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c3d8a2e8f953d307) | 2026-05-14 11:45 |
 | EchoStar | Senior AI Platform Engineer | Englewood, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f6853815a5710a2) | 2026-05-14 11:45 |
 | State Farm | Senior AWS Infrastructure Engineer | Bloomington, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d9baca6f377f5dc3) | 2026-05-14 09:28 |
