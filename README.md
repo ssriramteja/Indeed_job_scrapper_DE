@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-14 02:15
+Last updated: 2026-05-14 06:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Vari | Analytics Engineer | Coppell, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2810f8864fd85dc6) | 2026-05-14 06:17 |
+| Arbitration Forums Inc. | Senior Cloud Data Engineer | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ca67cc261c055a24) | 2026-05-14 06:17 |
+| Board of Governors of the Federal Reserve System | Sr Data and Technology Analyst- Division of International Finance | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=777a27d0953faa85) | 2026-05-14 06:17 |
+| Evercommerce | EverCommerce - Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=158bcbd65f733f36) | 2026-05-14 06:17 |
+| McLane Company | BI Engineer | Temple, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27cf68a988ace4d9) | 2026-05-14 06:17 |
+| GeoLogics Corporation | Data Modeler | Sterling Heights, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=987c15f4b88f3b87) | 2026-05-14 06:17 |
+| The New IEM, LLC | Analytics Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9daec59612efc459) | 2026-05-14 06:17 |
+| Pluto TV | Senior Data Engineer | West Hollywood, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24191e9278bc5735) | 2026-05-14 06:17 |
+| Next Gen Software Solutions | Data Engineer (Ab Initio, OzoneCH, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| W2 & Fulltime | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01b3676cfd5abae5) | 2026-05-14 06:17 |
+| Illumio | Sr. Site Reliability Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a132e788c3dae9fd) | 2026-05-14 06:17 |
+| Rocket | Senior Data Engineer | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=345945d4c9f90358) | 2026-05-14 06:17 |
+| Fortinet | Cloud Field, Consulting Sales Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e2605e226b8d2e7) | 2026-05-14 06:17 |
 | Royal Caribbean Group | Senior Data Engineer | Miramar, FL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=e8b0be90fe0a7694) | 2026-05-14 02:15 |
 | Mizuho Bank | Credit Risk Technology – Risk Data Integration Engineer | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a1705eebaf5cd797) | 2026-05-14 02:15 |
 | Photon | Senior Backend Developer- Dallas, TX | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4e1c501899b24f6d) | 2026-05-14 02:15 |
@@ -21,7 +33,6 @@ Last updated: 2026-05-14 02:15
 | Dave | Senior AI Reconciliation Analyst | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0320187ce551a7ec) | 2026-05-14 02:15 |
 | Aires | Software Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2cadc43695155d56) | 2026-05-14 02:15 |
 | Surgery Partners | Reporting Engineer - Hybrid / Remote | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=432d70e30d357218) | 2026-05-14 02:15 |
-| Next Gen Software Solutions | Data Engineer (Ab Initio, OzoneCH, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| W2 & Fulltime | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01b3676cfd5abae5) | 2026-05-14 02:15 |
 | Brillio LLC | Data Architect – R01565081 | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=331a50f67e92c5e5) | 2026-05-14 02:15 |
 | SAP | SAP NS2 Sr. Security Engineer | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca031bcce448fdbd) | 2026-05-14 02:15 |
 | 10Beauty | Senior Software Engineer - Cloud Applications | Burlington, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=cdc7cb699ca48c49) | 2026-05-13 23:55 |
@@ -425,9 +436,6 @@ Last updated: 2026-05-14 02:15
 | Openkyber | API Threat Intelligence Analyst | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0de03440ff246ea3) | 2026-05-10 23:42 |
 | Openkyber | GenAI Threat Intelligence Analyst | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8cca72527ec2047e) | 2026-05-10 17:43 |
 | nan | Senior Cloud Software Engineer (Full-Stack) | Anchorage, AK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ffaa98384834f1f2) | 2026-05-10 10:55 |
-| Openkyber | Backend (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7ef373ef8fdb9f17) | 2026-05-10 05:56 |
-| Openkyber | Python | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=850bbd121eda6f31) | 2026-05-10 05:56 |
-| Openkyber | Senior Python Developer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8797983cc7729f69) | 2026-05-10 05:56 |
 
 
 ---
