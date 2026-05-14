@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-14 11:45
+Last updated: 2026-05-14 13:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Next Gen Software Solutions | Data Engineer (Ab Initio, OzoneCH, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| W2 & Fulltime | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01b3676cfd5abae5) | 2026-05-14 13:47 |
 | Hyperlight | Data & AI Engineer | Cambridge, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c3d8a2e8f953d307) | 2026-05-14 11:45 |
 | EchoStar | Senior AI Platform Engineer | Englewood, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f6853815a5710a2) | 2026-05-14 11:45 |
-| Next Gen Software Solutions | Data Engineer (Ab Initio, OzoneCH, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| W2 & Fulltime | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01b3676cfd5abae5) | 2026-05-14 11:45 |
 | State Farm | Senior AWS Infrastructure Engineer | Bloomington, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d9baca6f377f5dc3) | 2026-05-14 09:28 |
 | Cisco | Software Engineer-Infrastructure | Research Triangle Park, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0e8e5dd47c42fc9) | 2026-05-14 09:28 |
 | nan | Senior CloudOps Engineer | Alexandria, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4931dc95bcbec0b) | 2026-05-14 09:28 |
