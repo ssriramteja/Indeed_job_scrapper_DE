@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-14 22:02
+Last updated: 2026-05-14 23:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Trane Technologies | Data Engineer | Davidson, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1592c4516bdc87a8) | 2026-05-14 23:46 |
+| Edward Jones | Solutions Engineer | Tempe, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9719511fa10c7f9c) | 2026-05-14 23:46 |
+| Edward Jones | Solutions Engineer | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6df8bc0328124d57) | 2026-05-14 23:46 |
+| Lenovo | AI Application Development Engineer | Morrisville, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=581828717e283b41) | 2026-05-14 23:46 |
+| Lennar | Software Engineer II, Lennar.com | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e6bfbe4b81a06a3) | 2026-05-14 23:46 |
+| Allstate Insurance | Senior AI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2fbb73301c658fc3) | 2026-05-14 23:46 |
 | Esi solutions | Industrial Data Engineer | Sisters, OR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4677bac9c152c55d) | 2026-05-14 22:02 |
 | GEODIS | Sr IT Architect- Database | Brentwood, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=383ad7639607ff42) | 2026-05-14 22:02 |
 | Qualcomm | Modem Machine Learning Engineer | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=08060b468511a1d4) | 2026-05-14 22:02 |
@@ -475,9 +481,6 @@ Last updated: 2026-05-14 22:02
 | Openkyber | Software Development (Python) | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6d0d3f0e671eca1f) | 2026-05-11 06:29 |
 | Openkyber | Django | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=353dfd37d6f98139) | 2026-05-11 06:29 |
 | Lime | Senior MLOps & Data Systems Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55e97637d29d64b4) | 2026-05-11 06:29 |
-| Openkyber | API Threat Intelligence Analyst | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f5bb3f8181d837d9) | 2026-05-10 23:42 |
-| Openkyber | API Threat Intelligence Analyst | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=640ad2341149d2bc) | 2026-05-10 23:42 |
-| Openkyber | API Threat Intelligence Analyst | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0de03440ff246ea3) | 2026-05-10 23:42 |
 
 
 ---
