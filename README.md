@@ -1,20 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-14 06:17
+Last updated: 2026-05-14 09:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| State Farm | Senior AWS Infrastructure Engineer | Bloomington, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d9baca6f377f5dc3) | 2026-05-14 09:28 |
+| Next Gen Software Solutions | Data Engineer (Ab Initio, OzoneCH, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| W2 & Fulltime | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01b3676cfd5abae5) | 2026-05-14 09:28 |
+| Cisco | Software Engineer-Infrastructure | Research Triangle Park, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0e8e5dd47c42fc9) | 2026-05-14 09:28 |
+| nan | Senior CloudOps Engineer | Alexandria, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4931dc95bcbec0b) | 2026-05-14 09:28 |
 | Vari | Analytics Engineer | Coppell, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2810f8864fd85dc6) | 2026-05-14 06:17 |
 | Arbitration Forums Inc. | Senior Cloud Data Engineer | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ca67cc261c055a24) | 2026-05-14 06:17 |
 | Board of Governors of the Federal Reserve System | Sr Data and Technology Analyst- Division of International Finance | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=777a27d0953faa85) | 2026-05-14 06:17 |
 | Evercommerce | EverCommerce - Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=158bcbd65f733f36) | 2026-05-14 06:17 |
-| McLane Company | BI Engineer | Temple, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27cf68a988ace4d9) | 2026-05-14 06:17 |
 | GeoLogics Corporation | Data Modeler | Sterling Heights, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=987c15f4b88f3b87) | 2026-05-14 06:17 |
 | The New IEM, LLC | Analytics Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9daec59612efc459) | 2026-05-14 06:17 |
 | Pluto TV | Senior Data Engineer | West Hollywood, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24191e9278bc5735) | 2026-05-14 06:17 |
-| Next Gen Software Solutions | Data Engineer (Ab Initio, OzoneCH, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| W2 & Fulltime | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01b3676cfd5abae5) | 2026-05-14 06:17 |
 | Illumio | Sr. Site Reliability Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a132e788c3dae9fd) | 2026-05-14 06:17 |
 | Rocket | Senior Data Engineer | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=345945d4c9f90358) | 2026-05-14 06:17 |
 | Fortinet | Cloud Field, Consulting Sales Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e2605e226b8d2e7) | 2026-05-14 06:17 |
