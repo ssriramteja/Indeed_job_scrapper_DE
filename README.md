@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-15 11:48
+Last updated: 2026-05-15 13:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-15 13:43 |
+| SAP | SAP NS2 DevOps Engineer | Herndon, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1e077c2e8ed4afda) | 2026-05-15 13:43 |
+| nan | Site Reliability Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d73094e1a0a14b40) | 2026-05-15 13:43 |
 | Navar Security | senior Salesforce Administrator & Developer | Provo, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=80d5bcdaa4e911a8) | 2026-05-15 11:48 |
 | Suffolk Construction | Site AI Engineer | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e373e64c1d569cf9) | 2026-05-15 11:48 |
-| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-15 11:48 |
 | KLA | Software Engineer - Test Automation | Milpitas, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bb42007cbd45836e) | 2026-05-15 11:48 |
 | Teachers Federal Credit Union | Data Engineer (ONSITE) | Hauppauge, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2ea4f50a56e2ea5d) | 2026-05-15 11:48 |
 | JustPaid | Full Stack Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27aacac9d59c4cf3) | 2026-05-15 11:48 |
@@ -508,14 +510,6 @@ Last updated: 2026-05-15 11:48
 | THEMESOFT | Sr Platform & DevOps Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=03fc55dd920ed33e) | 2026-05-11 16:25 |
 | AtoZeeSolutions | DevOps Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=55d4500029e471c1) | 2026-05-11 16:25 |
 | Kore.ai | Cloud Support & DevOPS Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43fdee7cf569751d) | 2026-05-11 16:25 |
-| Bank of America | Senior Engineer - Payments Modernization | Charlotte, NC, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d5f7aa9808e3bc85) | 2026-05-11 13:38 |
-| nan | Senior Data Analyst | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d71de8a1a6ca38c9) | 2026-05-11 13:38 |
-| Tripledot Studios | Senior DevOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f14a3aa5caeb20f8) | 2026-05-11 13:38 |
-| SAP | SAP NS2 Sr. DevOps Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0db369fd93fb4f1b) | 2026-05-11 13:38 |
-| U.S. Bank | Software Engineer 2 - Full stack | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2a6a4c233ec9d2bd) | 2026-05-11 13:38 |
-| Openkyber | ML Platform Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78cb4d11caed672c) | 2026-05-11 13:38 |
-| Openkyber | GCP Support Associate | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dc004557d9736a0f) | 2026-05-11 13:38 |
-| Openkyber | Kubernetes MLOps Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1ba35ddf0464dd7) | 2026-05-11 13:38 |
 
 
 ---
