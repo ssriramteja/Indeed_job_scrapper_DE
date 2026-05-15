@@ -1,11 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-14 23:46
+Last updated: 2026-05-15 02:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capital Bank, N.A. | Senior Data Engineer | Rockville, MD, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=4a14f0a465bfe84f) | 2026-05-15 02:13 |
+| RH | RH Digital Strategy and Merchandising | Corte Madera, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a2ff12aace30b55c) | 2026-05-15 02:13 |
+| Information Technology Senior Management Forum | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ceb55025a2943526) | 2026-05-15 02:13 |
+| Recutify Inc. | GCP Data Engineer | Paramus, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=38e8742b70400327) | 2026-05-15 02:13 |
+| TECHSTRA SOLUTIONS | Senior Java and Python Full Stack Developer | Pittsburgh, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f4112e7da8d56fc7) | 2026-05-15 02:13 |
+| Capgemini | FullStack AWS AI Engineer | Malvern, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6c44b7e0d27a573e) | 2026-05-15 02:13 |
+| Massachusetts Bay Transportation Authority | Data Engineer | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3bb6b1cb249a4e48) | 2026-05-15 02:13 |
+| NuAxis Innovations | Senior Data Architect | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5dde1fd2f7b5d9f9) | 2026-05-15 02:13 |
+| www.prolim.com | Zerto Architect | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3af0c39069689ff0) | 2026-05-15 02:13 |
+| The Cigna Group | Software Engineering Senior Advisor - Evernorth | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af8100b86ba469b8) | 2026-05-15 02:13 |
+| Autodesk | Senior Machine Learning Test Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9b3a1279fc588cf8) | 2026-05-15 02:13 |
+| ImagineX Consulting | Senior Azure DevOps Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d421b80978ac8e41) | 2026-05-15 02:13 |
+| Worth AI | Senior Agentic (AI) Engineer | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3ae7bf11c539daa6) | 2026-05-15 02:13 |
+| Worth AI | Senior Agentic (AI) Engineer | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=619f0f0e3a4ac4a0) | 2026-05-15 02:13 |
+| Worth AI | Senior Agentic (AI) Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e72d0de22265232e) | 2026-05-15 02:13 |
+| Worth AI | Senior Agentic (AI) Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71cabdc237f48ac7) | 2026-05-15 02:13 |
+| Intercontinental Exchange | Senior Java Backend Developer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab1e5da7a2f01fe0) | 2026-05-15 02:13 |
+| ABCO COMPUTERS PVT LTD | AWS Data Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f45c5999f784ebb4) | 2026-05-15 02:13 |
+| INTRAFI | Solutions Architect | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b0aa97856927508a) | 2026-05-15 02:13 |
+| Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f4c347401a04ad4) | 2026-05-15 02:13 |
+| Potawatomi Federal Solutions | Software Development Engineer in Test (SDET) | Rockville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4068381ee6ee32a7) | 2026-05-15 02:13 |
+| Command Cyber Solutions | Software Development Engineer in Test (SDET) | Rockville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6829c961c144999) | 2026-05-15 02:13 |
 | Trane Technologies | Data Engineer | Davidson, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1592c4516bdc87a8) | 2026-05-14 23:46 |
 | Edward Jones | Solutions Engineer | Tempe, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9719511fa10c7f9c) | 2026-05-14 23:46 |
 | Edward Jones | Solutions Engineer | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6df8bc0328124d57) | 2026-05-14 23:46 |
