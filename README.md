@@ -1,12 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-15 13:43
+Last updated: 2026-05-15 15:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-15 13:43 |
+| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-15 15:57 |
+| nan | Sr Data Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5cd6dc8c3a5470cf) | 2026-05-15 15:57 |
+| Tata Consultancy Services (TCS) | Cloud Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6cd6d6bd7fa1196f) | 2026-05-15 15:57 |
+| People Inc. | JD - Senior Software Engineer 1, ML | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d672ede61ebda4d7) | 2026-05-15 15:57 |
+| itD Tech | Data Engineer III | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f778e82eb9d3a8f1) | 2026-05-15 15:57 |
+| via | Data Specialist | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc8c37d3b685ec0e) | 2026-05-15 15:57 |
 | SAP | SAP NS2 DevOps Engineer | Herndon, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1e077c2e8ed4afda) | 2026-05-15 13:43 |
 | nan | Site Reliability Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d73094e1a0a14b40) | 2026-05-15 13:43 |
 | Navar Security | senior Salesforce Administrator & Developer | Provo, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=80d5bcdaa4e911a8) | 2026-05-15 11:48 |
