@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-15 09:39
+Last updated: 2026-05-15 11:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Navar Security | senior Salesforce Administrator & Developer | Provo, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=80d5bcdaa4e911a8) | 2026-05-15 11:48 |
+| Suffolk Construction | Site AI Engineer | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e373e64c1d569cf9) | 2026-05-15 11:48 |
+| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-15 11:48 |
+| KLA | Software Engineer - Test Automation | Milpitas, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bb42007cbd45836e) | 2026-05-15 11:48 |
+| Teachers Federal Credit Union | Data Engineer (ONSITE) | Hauppauge, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2ea4f50a56e2ea5d) | 2026-05-15 11:48 |
+| JustPaid | Full Stack Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27aacac9d59c4cf3) | 2026-05-15 11:48 |
+| Tata Consultancy Services (TCS) | Data & AI Solution Architect - AWS Cloud Platforms | Edison, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=811dd7a3eedaa479) | 2026-05-15 11:48 |
 | Adobe | Senior Data Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e0200a14e25dfc13) | 2026-05-15 09:39 |
 | LevelUp | Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8bcb8527a918f423) | 2026-05-15 09:39 |
 | Wells Fargo | Senior Software Engineer AI/Gen AI | Iselin, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7976715069e9a69) | 2026-05-15 09:39 |
@@ -509,15 +516,6 @@ Last updated: 2026-05-15 09:39
 | Openkyber | ML Platform Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78cb4d11caed672c) | 2026-05-11 13:38 |
 | Openkyber | GCP Support Associate | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dc004557d9736a0f) | 2026-05-11 13:38 |
 | Openkyber | Kubernetes MLOps Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1ba35ddf0464dd7) | 2026-05-11 13:38 |
-| Adobe | Software Development Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b111e44c034f266) | 2026-05-11 10:29 |
-| Kimball Midwest | Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c26d7493c6bd8679) | 2026-05-11 10:29 |
-| Brillio LLC | Sr. Java Developer with Payments – R01564829 | Edison, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b028c72e4fead57) | 2026-05-11 10:29 |
-| Moody's | Senior Software Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=42dcb2f842c3b2f2) | 2026-05-11 10:29 |
-| nan | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8925c0b6808e2ef8) | 2026-05-11 10:29 |
-| SYSTECH USA | Senior Data Engineer - ADF & Databricks | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5f3a914de107c82) | 2026-05-11 10:29 |
-| Plymouth Rock Assurance | Senior AWS Cloud Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=490033b77e24b17c) | 2026-05-11 10:29 |
-| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ff9c5f258d04aaa) | 2026-05-11 10:29 |
-| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=410c7062135208be) | 2026-05-11 10:29 |
 
 
 ---
