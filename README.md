@@ -1,12 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-15 15:57
+Last updated: 2026-05-15 17:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-15 15:57 |
+| EXL Service | AWS Data Architect | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1cf3370540eacedd) | 2026-05-15 17:24 |
+| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-15 17:24 |
+| Stratus | Senior Data Architect and Database Engineer (Hands on) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=927d413c04d6f9fa) | 2026-05-15 17:24 |
+| EXL Service | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=64fe2438fb1b9d07) | 2026-05-15 17:24 |
+| RealTruck | Sr. Platform Engineer (AWS/Call Center) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5eacf8e440d50fc0) | 2026-05-15 17:24 |
+| Burwood Group | Consultant, Cloud Solutions | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ead15ecd3721fe70) | 2026-05-15 17:24 |
 | nan | Sr Data Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5cd6dc8c3a5470cf) | 2026-05-15 15:57 |
 | Tata Consultancy Services (TCS) | Cloud Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6cd6d6bd7fa1196f) | 2026-05-15 15:57 |
 | People Inc. | JD - Senior Software Engineer 1, ML | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d672ede61ebda4d7) | 2026-05-15 15:57 |
@@ -512,9 +517,6 @@ Last updated: 2026-05-15 15:57
 | Openkyber | AWS Database Engineer / Cloud DBA | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f2031edb48e342e) | 2026-05-11 18:51 |
 | Glencore | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0439c2a3373376b4) | 2026-05-11 18:51 |
 | Openkyber | Cloud Support Associate | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=abff269bbd7ee617) | 2026-05-11 18:51 |
-| THEMESOFT | Sr Platform & DevOps Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=03fc55dd920ed33e) | 2026-05-11 16:25 |
-| AtoZeeSolutions | DevOps Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=55d4500029e471c1) | 2026-05-11 16:25 |
-| Kore.ai | Cloud Support & DevOPS Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43fdee7cf569751d) | 2026-05-11 16:25 |
 
 
 ---
