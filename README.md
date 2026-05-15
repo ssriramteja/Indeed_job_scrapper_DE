@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-15 20:52
+Last updated: 2026-05-15 21:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Grainger | Data Engineer III | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=62ca3c3ce12832cd) | 2026-05-15 21:51 |
+| The Trade Desk | Senior Software Engineer-Data Engineer | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6fbbb1cacaaeb3af) | 2026-05-15 21:51 |
+| The Trade Desk | Senior Software Engineer-Data Engineer | Bellevue, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8c3dda8a9a898a72) | 2026-05-15 21:51 |
+| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-15 21:51 |
+| 10Beauty | Senior Data Infrastructure Engineer | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=52e7d086f3b943f3) | 2026-05-15 21:51 |
+| 10Beauty | Senior Data Infrastructure Engineer | Burlington, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f717e7ca607998f2) | 2026-05-15 21:51 |
+| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-15 21:51 |
+| PAR Technology | Sr. Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c55dd3f9232ba677) | 2026-05-15 21:51 |
+| Hightower Advisors | Senior Data Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=63cf8b3db022a654) | 2026-05-15 21:51 |
+| TWG Global AI | Senior Software Engineer in Test, AI Engineering | Santa Monica, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e62745232963aca) | 2026-05-15 21:51 |
 | Revstar | Databricks Engineer | FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=76df9b54cd60a601) | 2026-05-15 20:52 |
 | Revstar | Databricks Engineer | AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5902e7f954c993c8) | 2026-05-15 20:52 |
 | Revstar | Databricks Engineer | TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e578397657651918) | 2026-05-15 20:52 |
@@ -14,10 +24,8 @@ Last updated: 2026-05-15 20:52
 | Caris Life Sciences | Senior Software Engineer - Clinical Systems (Lab Ops) | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=07b73c3206a7c35a) | 2026-05-15 20:52 |
 | Goldman Sachs | Corporate Treasury, Payments Platform, Software Engineering, Associate, NY | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f52b1b3f85fbccca) | 2026-05-15 20:52 |
 | Goldman Sachs | Corporate Treasury, Payments Platform, Software Engineering, Associate, Dallas | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=721e3da7a4ed9569) | 2026-05-15 20:52 |
-| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-15 20:52 |
 | Appspace | Senior DevOps & Site Reliability Engineer - Americas | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=be33dcc3ef2e6cb9) | 2026-05-15 20:52 |
 | Adhesives Research | Data Engineer | Glen Rock, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5351eb2f4c376213) | 2026-05-15 20:52 |
-| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-15 20:52 |
 | CoStar Group | Senior DevOps Engineer- Arlington, VA | Arlington, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=896ef6d5605394c3) | 2026-05-15 20:52 |
 | nan | Data Engineer – Remote / Flexible | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e88fa0aa2156f2bd) | 2026-05-15 20:52 |
 | Allworth Financial | Sr. Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=23d2bdc3bf9a8a45) | 2026-05-15 20:52 |
