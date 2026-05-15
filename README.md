@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-15 06:25
+Last updated: 2026-05-15 09:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Adobe | Senior Data Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e0200a14e25dfc13) | 2026-05-15 09:39 |
+| LevelUp | Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8bcb8527a918f423) | 2026-05-15 09:39 |
+| Wells Fargo | Senior Software Engineer AI/Gen AI | Iselin, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7976715069e9a69) | 2026-05-15 09:39 |
+| Wells Fargo | Senior Software Engineer AI/Gen AI | Chandler, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e1a685db36736a9) | 2026-05-15 09:39 |
+| Wells Fargo | Senior Software Engineer AI/Gen AI | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c03120ae5d030db) | 2026-05-15 09:39 |
+| Wells Fargo | Senior Software Engineer AI/Gen AI | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=311bc1fef3da325e) | 2026-05-15 09:39 |
 | Kemper | Senior Data Engineer | Charlotte, NC, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=402d9ccd9278b80f) | 2026-05-15 06:25 |
 | 3MD Inc. | Data Engineer & Database Administrator II | Redmond, WA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e2e15d496bc7bea2) | 2026-05-15 06:25 |
 | nan | Infrastructure Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=998e98c766a8e459) | 2026-05-15 06:25 |
@@ -512,13 +518,6 @@ Last updated: 2026-05-15 06:25
 | Plymouth Rock Assurance | Senior AWS Cloud Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=490033b77e24b17c) | 2026-05-11 10:29 |
 | GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ff9c5f258d04aaa) | 2026-05-11 10:29 |
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=410c7062135208be) | 2026-05-11 10:29 |
-| Openkyber | Backend Software Engineer (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=92240e7a4713a4e4) | 2026-05-11 06:29 |
-| Openkyber | Software Development (Python) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c572e92f87a5b7a6) | 2026-05-11 06:29 |
-| Regions Financial | Microsoft SQL Server/ETL Developer w/SSIS experience [On-Site] | Hoover, AL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e93b9c004dc5445b) | 2026-05-11 06:29 |
-| Openkyber | Senior API Engineer (Python) | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0b8df2488699249b) | 2026-05-11 06:29 |
-| Openkyber | Software Development (Python) | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6d0d3f0e671eca1f) | 2026-05-11 06:29 |
-| Openkyber | Django | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=353dfd37d6f98139) | 2026-05-11 06:29 |
-| Lime | Senior MLOps & Data Systems Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55e97637d29d64b4) | 2026-05-11 06:29 |
 
 
 ---
