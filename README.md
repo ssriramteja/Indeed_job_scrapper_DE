@@ -1,14 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-15 22:44
+Last updated: 2026-05-15 23:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cummins | AWS Full Stack Engineer | Columbus, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=894b0939d20a58ea) | 2026-05-15 23:45 |
+| CLEAR | Senior Software Engineer, Data | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fd51f4466b978623) | 2026-05-15 23:45 |
+| CarMax | Sr. Business Intelligence Platform Engineer | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=96cb79ea92c31c11) | 2026-05-15 23:45 |
+| CarMax | Sr. Business Intelligence Platform Engineer | Richmond, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f15643afd51a012f) | 2026-05-15 23:45 |
+| U.S. Bank | Software Engineer 2 ( Backend) | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=020cd3f89e269314) | 2026-05-15 23:45 |
+| U.S. Bank | Software Engineer 2 ( Backend) | Minneapolis, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bd22044f3d0a4060) | 2026-05-15 23:45 |
+| U.S. Bank | Software Engineer 2 ( Backend) | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=54e3095eee752df8) | 2026-05-15 23:45 |
+| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-15 23:45 |
+| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-15 23:45 |
+| Recutify Inc. | ETL Data Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fa84cf8df8c9320) | 2026-05-15 23:45 |
+| Montefiore Einstein | Senior Data Engineer | Yonkers, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d956b2a0c9bb45a) | 2026-05-15 23:45 |
+| Mission Pet Health | Software Engineer | AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d32f97f7b35ed04) | 2026-05-15 23:45 |
+| Centric Software | Cloud Services Database Specialist | Campbell, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f68db530cad44d37) | 2026-05-15 23:45 |
+| STELO | Stelo Support Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=28ccaa21bc08c6c8) | 2026-05-15 23:45 |
+| STELO | Stelo Support Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ffc6a461cfb5b0d) | 2026-05-15 23:45 |
+| Austin Community College | Data Integration Developer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5779e803082dc4f1) | 2026-05-15 23:45 |
 | MomentoUSA LLC | Databricks Architect (Enterprise Data Platform) ___ Princeton, NJ Hybrid | Princeton, NJ, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c433cd5dea6cc90b) | 2026-05-15 22:44 |
-| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-15 22:44 |
-| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-15 22:44 |
 | Tata Consultancy Services (TCS) | Data Integration Engineer | Sunnyvale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df16bce6ff0b45b9) | 2026-05-15 22:44 |
 | Odyssey Logistics & Technology Corporation | Data Scientist I | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f121937478b6b39d) | 2026-05-15 22:44 |
 | Little Caesars Pizza | Architect, Data & Analytics Engineering | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0c5d9b0760a2bcaf) | 2026-05-15 22:44 |
@@ -507,13 +521,6 @@ Last updated: 2026-05-15 22:44
 | ABC Supply Co., Inc. | Data Scientist (944) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2beae7f9c463995) | 2026-05-12 02:07 |
 | KinderCare Learning Companies | Senior Machine Learning Engineer - Fully Remote! | Beaverton, OR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=38b630719ad31d3a) | 2026-05-11 23:49 |
 | MIO Partners | Data Engineer, Market Data New | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d1ce8c2bb2e05265) | 2026-05-11 23:49 |
-| Asurion | Full-Stack Senior Software Engineer | Sterling, VA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=74f3191cc3d47286) | 2026-05-11 22:52 |
-| JPMorganChase | AI Application Developer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=171403dbdac6e42f) | 2026-05-11 22:52 |
-| United Concordia Dental | Data Engineer | PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=837e9f344d302e6d) | 2026-05-11 22:52 |
-| Joby Aviation | Senior Autonomy Data Infrastructure and Analytics Software Engineer | Santa Cruz, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6346f3ffeb8c988c) | 2026-05-11 22:52 |
-| nan | Remote / Project-Based Data Engineer for Public-Sector Data Modernization, Dashboards, and AI-Ready | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f000f4be342c4377) | 2026-05-11 22:52 |
-| Serenity Healthcare | Data Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9fffc235cb241e45) | 2026-05-11 22:52 |
-| SmartAdvocate | AI DevOps Engineer | Melville, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=001c431f02e0a7d6) | 2026-05-11 22:52 |
 
 
 ---
