@@ -1,13 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-15 17:24
+Last updated: 2026-05-15 19:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| IntegriChain | Senior Database Engineer - Platform Engineering | Philadelphia, PA, US USA | 31.2% | [Apply](https://www.indeed.com/viewjob?jk=8a2a75955286c43d) | 2026-05-15 19:18 |
+| PGW Auto Glass | Data Engineer - Azure & Microsoft Fabric Platform | Cranberry Township, PA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=0d3d77615dc2cb49) | 2026-05-15 19:18 |
+| Recutify Inc. | Senior AWS Cloud Infrastructure Engineer (Terraform / IaC) | Philadelphia, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9ff5ff5e83aa53c1) | 2026-05-15 19:18 |
+| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-15 19:18 |
+| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-15 19:18 |
+| Stellantis | Senior Cloud Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=40b9f771df1c702a) | 2026-05-15 19:18 |
+| Icario | Senior Business Intelligence Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=25febc74557100c5) | 2026-05-15 19:18 |
+| Icario | Senior Business Intelligence Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=818357b4eb0b5728) | 2026-05-15 19:18 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b576f637ff969834) | 2026-05-15 19:18 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=179695ff545f1e20) | 2026-05-15 19:18 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41e7b2135c1ebf09) | 2026-05-15 19:18 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Herndon, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d929fe14c4afbac2) | 2026-05-15 19:18 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dca030c7965ce41e) | 2026-05-15 19:18 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Detroit, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5afcb01b26889c52) | 2026-05-15 19:18 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ed2747917ef629b6) | 2026-05-15 19:18 |
+| PIMCO | Product Engineer, Alternatives | Newport Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85493af98c332665) | 2026-05-15 19:18 |
+| Computer Services Inc. | Technical Product Owner II | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=844a388f6929d4ff) | 2026-05-15 19:18 |
+| Twilio | Software Engineer (L2) Segment Team | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d4f8692b1b780d5) | 2026-05-15 19:18 |
+| Twilio | Software Engineer (L2) Segment Team | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e99b00c104b625fb) | 2026-05-15 19:18 |
+| Twilio | Software Engineer (L2) Segment Team | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=411c82ee69f9645d) | 2026-05-15 19:18 |
+| Twilio | Software Engineer (L2) Segment Team | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9661a8215828cb59) | 2026-05-15 19:18 |
 | EXL Service | AWS Data Architect | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1cf3370540eacedd) | 2026-05-15 17:24 |
-| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-15 17:24 |
 | Stratus | Senior Data Architect and Database Engineer (Hands on) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=927d413c04d6f9fa) | 2026-05-15 17:24 |
 | EXL Service | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=64fe2438fb1b9d07) | 2026-05-15 17:24 |
 | RealTruck | Sr. Platform Engineer (AWS/Call Center) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5eacf8e440d50fc0) | 2026-05-15 17:24 |
@@ -484,39 +504,6 @@ Last updated: 2026-05-15 17:24
 | Halvik | Cloud Solution Architect | Vienna, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c13da2a0f601ffa5) | 2026-05-11 20:27 |
 | Syngenta | Machine Learning Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fae30530e8043b01) | 2026-05-11 20:27 |
 | hatch IT | DevOps Engineer | Fort Meade, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1c41862eb239f163) | 2026-05-11 20:27 |
-| Openkyber | Senior Cloud Disaster Recovery Engineer | AK, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=eaeff5e1c81b908e) | 2026-05-11 18:51 |
-| Openkyber | AWS API Engineer | AK, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3865d36045c48c5d) | 2026-05-11 18:51 |
-| HireBrick | Senior Java Developer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a9bb0d0f10975359) | 2026-05-11 18:51 |
-| Openkyber | GCP ML Engineer (Vertex AI) | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a26d41718ab44d34) | 2026-05-11 18:51 |
-| Openkyber | Senior Cloud Connectivity Architect | AK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ecf91c86d1642dc3) | 2026-05-11 18:51 |
-| Wingstop | Data Scientist - Machine Learning | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dd4b842829eab81b) | 2026-05-11 18:51 |
-| Softengine | Senior Backend & Platform Engineer (.NET / AWS) | Woodland Hills, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=055c54c5a52e97d2) | 2026-05-11 18:51 |
-| Openkyber | AWS API Engineer | AK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f9e129ef424b7bb1) | 2026-05-11 18:51 |
-| Openkyber | Kubernetes Cloud Engineer (EKS) | AK, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2ca8e86ee6ca254d) | 2026-05-11 18:51 |
-| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ada5e44a1685782) | 2026-05-11 18:51 |
-| Openkyber | Kubernetes Cloud Engineer (EKS) | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f4a091392ea4f7d7) | 2026-05-11 18:51 |
-| Openkyber | GCP ML Engineer (Vertex AI) | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ce22f8b356b35619) | 2026-05-11 18:51 |
-| HCA Healthcare | Senior Solution Architect | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ff92c7be8a4ed26f) | 2026-05-11 18:51 |
-| NEXON America | DevOps Engineer | El Segundo, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5a10d13e5b0f17d3) | 2026-05-11 18:51 |
-| Openkyber | Senior GCP IAM Engineer | AK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e77c5c3760e672b0) | 2026-05-11 18:51 |
-| Openkyber | AWS Database Engineer / Cloud DBA | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4e2be041ba7dd258) | 2026-05-11 18:51 |
-| Openkyber | Senior GCP IAM Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cf763802f514ac89) | 2026-05-11 18:51 |
-| Openkyber | Senior GCP IAM Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1a7c3880bf1468af) | 2026-05-11 18:51 |
-| Openkyber | AWS API Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4249a3228aea17d) | 2026-05-11 18:51 |
-| Openkyber | Kubernetes Cloud Engineer (EKS) | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3349de217fd5b313) | 2026-05-11 18:51 |
-| Openkyber | Junior Cloud Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab4cd38b1bf92e7f) | 2026-05-11 18:51 |
-| Wellington Management | Senior Software Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ff2c9ed9f0d9a19b) | 2026-05-11 18:51 |
-| Openkyber | GCP ML Architect | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c9fcdbb30f98349) | 2026-05-11 18:51 |
-| Openkyber | Junior Cloud Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dc382d4bfe919d05) | 2026-05-11 18:51 |
-| RedCloud Consulting | Nova AI/ML Data Engineer | Redmond, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=718ee5bf46190c60) | 2026-05-11 18:51 |
-| RedCloud Consulting | Nova AI/ML Data Engineer | Redmond, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99201c2b31936144) | 2026-05-11 18:51 |
-| Openkyber | AWS Database Engineer / Cloud DBA | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=17903f6197e334a8) | 2026-05-11 18:51 |
-| Ellumen, Inc | DevOps Engineer | Ashburn, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ec2be74f55bd39cb) | 2026-05-11 18:51 |
-| Openkyber | Junior GCP Cloud Engineer | AK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=16782d9fbfaff550) | 2026-05-11 18:51 |
-| Openkyber | Senior Cloud Database Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29ec2088a10dc04e) | 2026-05-11 18:51 |
-| Openkyber | AWS Database Engineer / Cloud DBA | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f2031edb48e342e) | 2026-05-11 18:51 |
-| Glencore | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0439c2a3373376b4) | 2026-05-11 18:51 |
-| Openkyber | Cloud Support Associate | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=abff269bbd7ee617) | 2026-05-11 18:51 |
 
 
 ---
