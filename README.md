@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-15 02:13
+Last updated: 2026-05-15 06:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Kemper | Senior Data Engineer | Charlotte, NC, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=402d9ccd9278b80f) | 2026-05-15 06:25 |
+| 3MD Inc. | Data Engineer & Database Administrator II | Redmond, WA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e2e15d496bc7bea2) | 2026-05-15 06:25 |
+| nan | Infrastructure Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=998e98c766a8e459) | 2026-05-15 06:25 |
+| CCM Consulting Services | ServiceNow Business Analyst | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c4ef6bd764aed2ae) | 2026-05-15 06:25 |
+| Fox Corporation | Senior Data Engineer | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=59084da1c754fd35) | 2026-05-15 06:25 |
+| ConocoPhillips | IT Full Stack Developer, Commercial | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b6dd7576289a4b6b) | 2026-05-15 06:25 |
+| DriveTime Automotive Group | Data Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9c37fa14593f151f) | 2026-05-15 06:25 |
+| DriveTime Automotive Group | Data Engineer | Tempe, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8a37858bb8ebc527) | 2026-05-15 06:25 |
+| Broadridge | Senior Applications Architect (Global Security Class Actions) | Edgewood, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f2b2937ebe949351) | 2026-05-15 06:25 |
+| Faro Health Inc. | DevOps Engineer | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5731aade3047f8b7) | 2026-05-15 06:25 |
+| Proscia | Senior Software Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb7931c11fca7d19) | 2026-05-15 06:25 |
+| 2U | Data Scientist II | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e072650f295cc478) | 2026-05-15 06:25 |
+| Tractor Zoom, Inc. | Senior Salesforce Software Engineer | West Des Moines, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db3dd39f8b74b55a) | 2026-05-15 06:25 |
+| Applied Information Sciences | Sr. Software Architect | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b412ebc606edfd11) | 2026-05-15 06:25 |
+| Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64d55709d1731472) | 2026-05-15 06:25 |
+| nan | ETL/Data Integration Developer (Remote Opportunity) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c4088dcd3b0bdf1) | 2026-05-15 06:25 |
 | Capital Bank, N.A. | Senior Data Engineer | Rockville, MD, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=4a14f0a465bfe84f) | 2026-05-15 02:13 |
 | RH | RH Digital Strategy and Merchandising | Corte Madera, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a2ff12aace30b55c) | 2026-05-15 02:13 |
 | Information Technology Senior Management Forum | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ceb55025a2943526) | 2026-05-15 02:13 |
