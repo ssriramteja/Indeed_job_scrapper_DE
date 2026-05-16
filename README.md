@@ -1,13 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-16 07:51
+Last updated: 2026-05-16 09:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-16 07:51 |
-| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-16 07:51 |
+| Educology Solutions | Data Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ea52f552407f8b0e) | 2026-05-16 09:22 |
+| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-16 09:22 |
+| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-16 09:22 |
+| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=47392e37c7d3ad6b) | 2026-05-16 09:22 |
+| Wells Fargo | Senior Software Engineer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f5c5bf25b4bcc3b) | 2026-05-16 09:22 |
+| Wells Fargo | Senior Software Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f35198cc5d5a9abe) | 2026-05-16 09:22 |
+| Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6677fe87cb8cb6d6) | 2026-05-16 09:22 |
 | GEICO | Claims Data Analytics Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b781c95a46c79e5d) | 2026-05-16 07:51 |
 | nan | Senior DJI Dock 2 / Cloud API Integration Engineer | Naperville, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=f4968d826aaf9e4d) | 2026-05-16 05:46 |
 | Honeywell | Sr Advanced Cloud Developer | Mason, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b77fa4bb580f7b02) | 2026-05-16 05:46 |
@@ -499,13 +504,6 @@ Last updated: 2026-05-16 07:51
 | Denovo Ventures | Full Stack Developer | Louisville, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83484ce8e2c739af) | 2026-05-12 11:13 |
 | BlackLine | Senior Software Engineer | Pleasanton, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48debf03335c270f) | 2026-05-12 11:13 |
 | JPMorganChase | Software Engineer III - Java, Springboot | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cb68eebaeaaf747) | 2026-05-12 11:13 |
-| Chewy | Data Engineer III | Bellevue, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b239490817bb3dba) | 2026-05-12 08:38 |
-| Development Infostructure | Database Developer | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=49e5739e46621f5d) | 2026-05-12 08:38 |
-| American Express | Data Engineers | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=578e2464af530e79) | 2026-05-12 08:38 |
-| St. Jude Children's Research Hospital | Product Owner II - BI (Memphis, TN or Remote in USA) | Memphis, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ea984ba020827de7) | 2026-05-12 08:38 |
-| Goldman Sachs | Senior Software Engineer, Global Banking & Markets, Securities Settlement Engineering | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afcab31fabe71ed5) | 2026-05-12 08:38 |
-| Development Infostructure | Senior Software Developer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15b8228527caa95f) | 2026-05-12 08:38 |
-| Vidoori | Full Stack Developer | Hyattsville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7710e703cc72f4b0) | 2026-05-12 08:38 |
 
 
 ---
