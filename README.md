@@ -1,16 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-16 05:46
+Last updated: 2026-05-16 07:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-16 07:51 |
+| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-16 07:51 |
+| GEICO | Claims Data Analytics Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b781c95a46c79e5d) | 2026-05-16 07:51 |
 | nan | Senior DJI Dock 2 / Cloud API Integration Engineer | Naperville, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=f4968d826aaf9e4d) | 2026-05-16 05:46 |
 | Honeywell | Sr Advanced Cloud Developer | Mason, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b77fa4bb580f7b02) | 2026-05-16 05:46 |
-| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-16 05:46 |
 | Fluency | Software Engineer, AI Platform | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c9835c2dd64dde09) | 2026-05-16 05:46 |
-| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-16 05:46 |
 | Charles Schwab | Senior Software Engineer | Southlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2e2a80dff0ea8242) | 2026-05-16 05:46 |
 | Tata Consultancy Services (TCS) | Senior Engineer - Agentic AI | Troy, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3de44fa63b4b67d2) | 2026-05-16 05:46 |
 | Masimo | Engineer II, Cloud & Web Systems Software | Irvine, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bf612beac38dd2c) | 2026-05-16 05:46 |
@@ -505,30 +506,6 @@ Last updated: 2026-05-16 05:46
 | Goldman Sachs | Senior Software Engineer, Global Banking & Markets, Securities Settlement Engineering | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afcab31fabe71ed5) | 2026-05-12 08:38 |
 | Development Infostructure | Senior Software Developer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15b8228527caa95f) | 2026-05-12 08:38 |
 | Vidoori | Full Stack Developer | Hyattsville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7710e703cc72f4b0) | 2026-05-12 08:38 |
-| Benchmark Solutions LLC | Senior Data Engineer | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f8cfebbb7e871628) | 2026-05-12 05:58 |
-| Dell Technologies | Senior Systems Engineer, UDS Data Management - East | MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ad1f7dab55752b3e) | 2026-05-12 05:58 |
-| GEICO | Senior Engineer - Data | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=50d8317116e3b8b4) | 2026-05-12 05:58 |
-| Cisco | AI/ML Engineer (Hybrid) | Research Triangle Park, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e0a2a750b8d45131) | 2026-05-12 05:58 |
-| nan | Senior Data Analyst | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0d24c78be0131037) | 2026-05-12 05:58 |
-| Kestra Financial | Senior Data Platform Engineer | Tempe, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5d4aca5f146dc1fe) | 2026-05-12 05:58 |
-| Kestra Financial | Senior Data Platform Engineer | Tempe, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c6cbe9c6196981eb) | 2026-05-12 05:58 |
-| Kestra Financial | Senior Data Platform Engineer | Tempe, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bc9d37985c0bdcf2) | 2026-05-12 05:58 |
-| Customer Care First | IT Specialist/Systems Administrator | Syracuse, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8b6d93d88b6a0a66) | 2026-05-12 05:58 |
-| EchoStar | Senior Data Scientist | Littleton, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9216704e953a3254) | 2026-05-12 05:58 |
-| ASU Preparatory Academy | Senior Cloud & Backend Platform Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4c86711a678b9cfb) | 2026-05-12 05:58 |
-| Storable | Data Engineer II | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3fb2c0deb86004e8) | 2026-05-12 05:58 |
-| HCA Healthcare | Senior Solution Architect | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8429c2a459d3de4f) | 2026-05-12 05:58 |
-| nan | Senior DevSecOps Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ad13b87eac68b71) | 2026-05-12 05:58 |
-| Artie | Sales/Solutions Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50c1fe1287b79994) | 2026-05-12 05:58 |
-| Flex | Platform Architect - AI | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57c71c270f4f024f) | 2026-05-12 05:58 |
-| Thales | Systems Administrator | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f670c120137d065) | 2026-05-12 05:58 |
-| Guidewire | Software Engineer III - UnderwritingCenter | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f4f413a4cd84f6f) | 2026-05-12 05:58 |
-| Avature | Full Stack Engineer | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04f0d7f99a5b402c) | 2026-05-12 05:58 |
-| Tata Consultancy Services (TCS) | Solution Architect with Presales Experience | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43dbc51a5868e325) | 2026-05-12 05:58 |
-| Waters | Senior Engineer - Full Stack | Milford, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24fe9813b60c6c14) | 2026-05-12 05:58 |
-| General Dynamics Information Technology | Software Developer (Systems Software) - TS/SCI w/ Polygraph | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b918f48362f41a28) | 2026-05-12 05:58 |
-| Tata Consultancy Services (TCS) | Senior PySpark Data Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d09fe840e33b4c7) | 2026-05-12 05:58 |
-| Tata Consultancy Services (TCS) | Azure Data Engineer | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc9af17a3ab15e53) | 2026-05-12 05:58 |
 
 
 ---
