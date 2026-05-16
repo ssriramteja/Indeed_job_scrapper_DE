@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-16 21:40
+Last updated: 2026-05-16 22:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-16 21:40 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-16 22:37 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=cfeff295f2019956) | 2026-05-16 18:51 |
 | BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1def15e5de2b7c64) | 2026-05-16 18:51 |
 | BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=966e325f5ac56bee) | 2026-05-16 18:51 |
@@ -441,18 +441,6 @@ Last updated: 2026-05-16 21:40
 | National Basketball Association | Senior Data Engineer - Snowflake | Secaucus, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e327a1ee260319b) | 2026-05-12 23:52 |
 | Capgemini | Junior Automation Tester (AI enabled Testing) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7a3c372f8cf8158e) | 2026-05-12 23:52 |
 | Capgemini | Python Engineer with REST & GenAI | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3132514d774e51d) | 2026-05-12 23:52 |
-| POWERX | Full Stack AI Engineer | Phoenix, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=78d222e67b861731) | 2026-05-12 22:04 |
-| Popeyes | Sr. Software Engineer, Popeyes | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=06d9d4b732d1aa48) | 2026-05-12 22:04 |
-| enChoice, Inc. | Cloud & Database Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8f7de1e2049e683c) | 2026-05-12 22:04 |
-| Tata Consultancy Services (TCS) | Senior Data Engineer _ Python with Spark | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6c8b463a5152c979) | 2026-05-12 22:04 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef992c4b82254a86) | 2026-05-12 22:04 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56fdee09cb474dc8) | 2026-05-12 22:04 |
-| Tata Consultancy Services (TCS) | API Developer (Java and Micron Experience) | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=867ba74673f5a7f6) | 2026-05-12 22:04 |
-| Watts Water Technologies | Senior Data Engineer | Andover, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c48f8e75c6761842) | 2026-05-12 22:04 |
-| RXO | Senior GCP Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eedaefa82474ae57) | 2026-05-12 22:04 |
-| Synctera | Sr. Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de5f0f370de70f71) | 2026-05-12 22:04 |
-| Moody's | Senior Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7635d54e2c34fa9c) | 2026-05-12 22:04 |
-| cpg.io eCommerce Distributors | Senior Financial Data Engineer | Addison, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a84dfece3c2e1aec) | 2026-05-12 22:04 |
 
 
 ---
