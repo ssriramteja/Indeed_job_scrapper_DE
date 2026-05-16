@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-16 10:56
+Last updated: 2026-05-16 11:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-16 11:45 |
 | JPMorganChase | AI Software Engineer III- PySpark, Python, AWS | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=222754f51ea12be7) | 2026-05-16 10:56 |
 | CDW | Senior Platform, DevOps Engineer | Vernon Hills, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=10b5742d09907dfe) | 2026-05-16 10:56 |
-| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-16 10:56 |
 | CDW | Senior Analytics Engineer | Vernon Hills, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=526c7ffc59edd892) | 2026-05-16 10:56 |
 | Fisher Investments | Data Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1ee849cf602df7fc) | 2026-05-16 10:56 |
 | Fisher Investments | Data Engineer | Camas, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ae7f5047520b4e1a) | 2026-05-16 10:56 |
@@ -490,25 +490,6 @@ Last updated: 2026-05-16 10:56
 | Ellumen, Inc | DevOps Engineer- Ashburn, VA | Ashburn, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=797eb835c7f60f42) | 2026-05-12 13:57 |
 | SYSTECH USA | Senior Data Engineer - Informatica IDMC | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bdfba15617362e81) | 2026-05-12 13:57 |
 | nan | Software Engineer II | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87e755ed281f268b) | 2026-05-12 13:57 |
-| JPMorganChase | Software Engineer III- Python, PySpark, ETL, AWS | Jersey City, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1e01551f023130f4) | 2026-05-12 11:13 |
-| Wells Fargo | Senior Data Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=110879d3c05b187b) | 2026-05-12 11:13 |
-| Wells Fargo | Senior Data Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2fa4c8179a8ac4da) | 2026-05-12 11:13 |
-| Wells Fargo | Senior Data Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f66f1fbb6c8a1a3b) | 2026-05-12 11:13 |
-| Wells Fargo | Senior Data Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8fc984a42640329e) | 2026-05-12 11:13 |
-| Wells Fargo | Senior Data Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dcfdcd1adce614e6) | 2026-05-12 11:13 |
-| Wells Fargo | Senior Data Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bd3763e7b5c9b674) | 2026-05-12 11:13 |
-| Wells Fargo | Senior Data Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dbb6a218ca916697) | 2026-05-12 11:13 |
-| Wells Fargo | Senior Data Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d791e762f6d81f87) | 2026-05-12 11:13 |
-| Wells Fargo | Senior Data Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7943d064127358c8) | 2026-05-12 11:13 |
-| JPMorganChase | Software Engineer III - AI/ML | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=14e64b70ed3febe9) | 2026-05-12 11:13 |
-| Encore Fire Protection | Data Engineer | Needham, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f9585bb14bb3c50d) | 2026-05-12 11:13 |
-| Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c4350b7356581efc) | 2026-05-12 11:13 |
-| JPMorganChase | Data Engineer II - AWS/PySpark/ETL | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c208f65820392c92) | 2026-05-12 11:13 |
-| One Call | Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48a7dc9b2a0c6b63) | 2026-05-12 11:13 |
-| SilverEdge Government Solutions | Solutions Architect | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8db426b190d5761e) | 2026-05-12 11:13 |
-| Denovo Ventures | Full Stack Developer | Louisville, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83484ce8e2c739af) | 2026-05-12 11:13 |
-| BlackLine | Senior Software Engineer | Pleasanton, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48debf03335c270f) | 2026-05-12 11:13 |
-| JPMorganChase | Software Engineer III - Java, Springboot | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cb68eebaeaaf747) | 2026-05-12 11:13 |
 
 
 ---

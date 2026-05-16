@@ -885,18 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Principle Infrastructure Engineer @ Paradigm
-**Match Score:** 10.4%
-
-📍 **Location:** Virginia Beach, VA, US USA
-
-🔑 **Keywords:** RDS, Azure, Blob Storage, Dataflow, Scala, SQL Server, CI/CD, Terraform, Git, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e26a94c5a6adceae)
-
----
-
-## 82. Databricks Architect @ Onebridge
+## 81. Databricks Architect @ Onebridge
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -904,6 +893,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, Scala, Databricks Lakehouse, Data Modeling, ELT
 
 [Apply Here](https://www.indeed.com/viewjob?jk=9c95d8c1b9c6c720)
+
+---
+
+## 82. Principle Infrastructure Engineer @ Paradigm
+**Match Score:** 10.4%
+
+📍 **Location:** Virginia Beach, VA, US USA
+
+🔑 **Keywords:** RDS, Azure, Blob Storage, Dataflow, Scala, SQL Server, CI/CD, Terraform, Git, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e26a94c5a6adceae)
 
 ---
 
