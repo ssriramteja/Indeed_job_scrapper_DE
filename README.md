@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-16 14:23
+Last updated: 2026-05-16 15:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-16 15:50 |
 | Troutman Pepper Locke | Microsoft Fabric Architect | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=492db2dfac4c0f4b) | 2026-05-16 14:23 |
-| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-16 14:23 |
 | JPMorganChase | AI Software Engineer III- PySpark, Python, AWS | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=222754f51ea12be7) | 2026-05-16 10:56 |
 | CDW | Senior Platform, DevOps Engineer | Vernon Hills, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=10b5742d09907dfe) | 2026-05-16 10:56 |
 | CDW | Senior Analytics Engineer | Vernon Hills, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=526c7ffc59edd892) | 2026-05-16 10:56 |
