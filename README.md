@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-16 13:00
+Last updated: 2026-05-16 14:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-16 13:00 |
+| Troutman Pepper Locke | Microsoft Fabric Architect | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=492db2dfac4c0f4b) | 2026-05-16 14:23 |
+| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-16 14:23 |
 | JPMorganChase | AI Software Engineer III- PySpark, Python, AWS | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=222754f51ea12be7) | 2026-05-16 10:56 |
 | CDW | Senior Platform, DevOps Engineer | Vernon Hills, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=10b5742d09907dfe) | 2026-05-16 10:56 |
 | CDW | Senior Analytics Engineer | Vernon Hills, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=526c7ffc59edd892) | 2026-05-16 10:56 |
@@ -485,11 +486,6 @@ Last updated: 2026-05-16 13:00
 | Decisiv Inc | Senior Full-Stack Software Engineer (Ruby on Rails) #1148 | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f91b6ba40d79ba3) | 2026-05-12 18:51 |
 | ChainIT Pay | Senior Backend Engineer — ChainIT Pay | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=632c5a674bd9833e) | 2026-05-12 18:51 |
 | nan | Senior Software Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=569983f090ab2e02) | 2026-05-12 16:15 |
-| American business solutions inc | Data Architect | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bac5379b2ecd01c) | 2026-05-12 13:57 |
-| SYSTECH USA | Senior Data Engineer - Informatica IDMC & CDGC (Data Lineage & Data Quality) | Glendale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fe6fa1054166d69d) | 2026-05-12 13:57 |
-| Ellumen, Inc | DevOps Engineer- Ashburn, VA | Ashburn, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=797eb835c7f60f42) | 2026-05-12 13:57 |
-| SYSTECH USA | Senior Data Engineer - Informatica IDMC | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bdfba15617362e81) | 2026-05-12 13:57 |
-| nan | Software Engineer II | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87e755ed281f268b) | 2026-05-12 13:57 |
 
 
 ---
