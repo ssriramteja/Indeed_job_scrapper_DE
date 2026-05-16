@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-16 15:50
+Last updated: 2026-05-16 16:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-16 15:50 |
+| CSIK Consulting | Microsoft Azure Engineer | Alexandria, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fab3c4481b723cee) | 2026-05-16 16:47 |
 | Troutman Pepper Locke | Microsoft Fabric Architect | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=492db2dfac4c0f4b) | 2026-05-16 14:23 |
 | JPMorganChase | AI Software Engineer III- PySpark, Python, AWS | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=222754f51ea12be7) | 2026-05-16 10:56 |
 | CDW | Senior Platform, DevOps Engineer | Vernon Hills, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=10b5742d09907dfe) | 2026-05-16 10:56 |
@@ -485,7 +485,6 @@ Last updated: 2026-05-16 15:50
 | Scribd, Inc. | Senior Backend Engineer (Python) - Content Understanding | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3210e4592c9a0d4) | 2026-05-12 18:51 |
 | Decisiv Inc | Senior Full-Stack Software Engineer (Ruby on Rails) #1148 | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f91b6ba40d79ba3) | 2026-05-12 18:51 |
 | ChainIT Pay | Senior Backend Engineer — ChainIT Pay | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=632c5a674bd9833e) | 2026-05-12 18:51 |
-| nan | Senior Software Engineer | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=569983f090ab2e02) | 2026-05-12 16:15 |
 
 
 ---
