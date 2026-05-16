@@ -1,14 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-16 09:22
+Last updated: 2026-05-16 10:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | AI Software Engineer III- PySpark, Python, AWS | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=222754f51ea12be7) | 2026-05-16 10:56 |
+| CDW | Senior Platform, DevOps Engineer | Vernon Hills, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=10b5742d09907dfe) | 2026-05-16 10:56 |
+| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-16 10:56 |
+| CDW | Senior Analytics Engineer | Vernon Hills, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=526c7ffc59edd892) | 2026-05-16 10:56 |
+| Fisher Investments | Data Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1ee849cf602df7fc) | 2026-05-16 10:56 |
+| Fisher Investments | Data Engineer | Camas, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ae7f5047520b4e1a) | 2026-05-16 10:56 |
+| CDW | Senior Data Engineer | Vernon Hills, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4352558a8280bcbb) | 2026-05-16 10:56 |
 | Educology Solutions | Data Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ea52f552407f8b0e) | 2026-05-16 09:22 |
-| Cuesta Partners | Databricks Architect \| US | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a549584a5dbc708e) | 2026-05-16 09:22 |
-| Southern Trust Insurance Company | Data Engineer | Macon, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37b659efacce143d) | 2026-05-16 09:22 |
 | Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=47392e37c7d3ad6b) | 2026-05-16 09:22 |
 | Wells Fargo | Senior Software Engineer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f5c5bf25b4bcc3b) | 2026-05-16 09:22 |
 | Wells Fargo | Senior Software Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f35198cc5d5a9abe) | 2026-05-16 09:22 |
