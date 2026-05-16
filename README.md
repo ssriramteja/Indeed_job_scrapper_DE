@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-16 19:57
+Last updated: 2026-05-16 20:42
 
 ### 🚀 Daily Job Matches
 
@@ -452,19 +452,6 @@ Last updated: 2026-05-16 19:57
 | Synctera | Sr. Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de5f0f370de70f71) | 2026-05-12 22:04 |
 | Moody's | Senior Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7635d54e2c34fa9c) | 2026-05-12 22:04 |
 | cpg.io eCommerce Distributors | Senior Financial Data Engineer | Addison, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a84dfece3c2e1aec) | 2026-05-12 22:04 |
-| Qualitest | #19675 - Data Engineer | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=83236b2299aaa9b3) | 2026-05-12 20:26 |
-| Lightspeed DMS | Sr Software Engineer | South Jordan, UT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=790fd744b846b460) | 2026-05-12 20:26 |
-| Worldpay | Sr Software Engineer - Java and API Development | Cincinnati, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3110566f2bb6fb7d) | 2026-05-12 20:26 |
-| Quadrant Technologies | Sr Databricks Data Engineer(Strong Testing Experience) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f2ae1d7b6ce452d8) | 2026-05-12 20:26 |
-| Constellation Brands | Senior Database Engineer | Rochester, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d799dce46a222f6f) | 2026-05-12 20:26 |
-| Cloudera | Solutions Engineer | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b3f05e86ef2713f) | 2026-05-12 20:26 |
-| Systems Engineering Solutions Corporation | Developer (Java Full Stack) | Chantilly, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=441150d8faf9caf5) | 2026-05-12 20:26 |
-| RadCube | Senior Data Engineer | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=256f30d9aec8fc7b) | 2026-05-12 20:26 |
-| Kalven Technologies | Senior Mainframe Systems Analyst / COBOL Developer | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce9ec3911362a613) | 2026-05-12 20:26 |
-| Systems Engineering Solutions Corporation | Performance Test Engineer | Chantilly, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e993be5e41a8574) | 2026-05-12 20:26 |
-| Voxelmaps | Developer & Data Process Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=194291b22b7de57e) | 2026-05-12 20:26 |
-| Williams-Sonoma, Inc. | Business System Analyst II | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd9fce2d50998712) | 2026-05-12 20:26 |
-| Williams-Sonoma, Inc. | Business System Analyst | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cde11141186b52e3) | 2026-05-12 20:26 |
 
 
 ---
