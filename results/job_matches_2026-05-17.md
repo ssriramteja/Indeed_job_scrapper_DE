@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-17
 
-**Total Jobs Found:** 12
+**Total Jobs Found:** 11
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,18 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Microsoft Azure Engineer @ CSIK Consulting
-**Match Score:** 16.0%
-
-📍 **Location:** Alexandria, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fab3c4481b723cee)
-
----
-
-## 4. Java Full Stack Developer @ BV Teck
+## 3. Java Full Stack Developer @ BV Teck
 **Match Score:** 15.3%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Oracle Cloud Infrastructure (OCI) Engineer @ BV Teck
+## 4. Oracle Cloud Infrastructure (OCI) Engineer @ BV Teck
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Azure Cloud Engineer @ BV Teck
+## 5. Azure Cloud Engineer @ BV Teck
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Azure Fabric Engineer @ Cyberlocke, LLC
+## 6. Azure Fabric Engineer @ Cyberlocke, LLC
 **Match Score:** 13.2%
 
 📍 **Location:** McKinney, TX, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Data Platform Architect @ BV Teck
+## 7. Data Platform Architect @ BV Teck
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Analytics Engineer @ Casey's
+## 8. Analytics Engineer @ Casey's
 **Match Score:** 11.8%
 
 📍 **Location:** Ankeny, IA, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Mid-Level Azure DevOps Engineer @ Cyberlocke, LLC
+## 9. Mid-Level Azure DevOps Engineer @ Cyberlocke, LLC
 **Match Score:** 11.1%
 
 📍 **Location:** McKinney, TX, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Data Engineer III @ Simplot Company
+## 10. Data Engineer III @ Simplot Company
 **Match Score:** 10.4%
 
 📍 **Location:** Boise, ID, US USA
@@ -126,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. OpenShift Engineer @ BV Teck
+## 11. OpenShift Engineer @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
