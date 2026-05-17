@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-17
 
-**Total Jobs Found:** 13
+**Total Jobs Found:** 11
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -82,29 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Data Engineer @ Fisher Investments
-**Match Score:** 12.5%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Spark, Scala, Kafka, Oracle, SQL Server, NoSQL, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1ee849cf602df7fc)
-
----
-
-## 9. Data Engineer @ Fisher Investments
-**Match Score:** 12.5%
-
-📍 **Location:** Camas, WA, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Spark, Scala, Kafka, Oracle, SQL Server, NoSQL, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ae7f5047520b4e1a)
-
----
-
-## 10. Data Platform Architect @ BV Teck
+## 8. Data Platform Architect @ BV Teck
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -115,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Analytics Engineer @ Casey's
+## 9. Analytics Engineer @ Casey's
 **Match Score:** 11.8%
 
 📍 **Location:** Ankeny, IA, US USA
@@ -126,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Data Engineer III @ Simplot Company
+## 10. Data Engineer III @ Simplot Company
 **Match Score:** 10.4%
 
 📍 **Location:** Boise, ID, US USA
@@ -137,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. OpenShift Engineer @ BV Teck
+## 11. OpenShift Engineer @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
