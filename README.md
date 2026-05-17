@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-17 20:01
+Last updated: 2026-05-17 21:45
 
 ### 🚀 Daily Job Matches
 
@@ -343,17 +343,6 @@ Last updated: 2026-05-17 20:01
 | Amplify | Software Engineer | Brooklyn, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24cdc5d33ce531fc) | 2026-05-13 22:58 |
 | Intellibee Inc | SQL/Power BI Developer | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b078bd21fd98c8d7) | 2026-05-13 22:58 |
 | The Home Depot | Senior Software Engineer - Full stack (Angular/Java) (Remote) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7acce88de00e812) | 2026-05-13 22:58 |
-| Bridgeway Benefit Technologies | Senior Data Engineer | Maple Shade, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=93da204448eced35) | 2026-05-13 21:18 |
-| LexisNexis Risk Solutions | Data Engineer I | Alpharetta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0f6f96717fce7453) | 2026-05-13 21:18 |
-| RELX Group | Data Engineer I | Alpharetta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9a51a69b48d4433f) | 2026-05-13 21:18 |
-| Salesforce | Sr. Data Engineer, Enterprise - Slack | Herndon, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4d23fbcc1f6757ba) | 2026-05-13 21:18 |
-| Fidelity TalentSource | Full Stack Engineer | Smithfield, RI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bfb3e6d3ac433b29) | 2026-05-13 21:18 |
-| United Utility | SR. Data Architect | Palm Beach Gardens, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5e293829bcd26a4c) | 2026-05-13 21:18 |
-| Upwave | Senior Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ca8a2c5811cb8da3) | 2026-05-13 21:18 |
-| Kimball Midwest | Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b74bdf4ebde15159) | 2026-05-13 21:18 |
-| nan | Cloud Engineer IV | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cee754bcb206b7dc) | 2026-05-13 21:18 |
-| Industrial Electric Manufacturing | Analytics Engineer | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=53b1dbd9dfc660aa) | 2026-05-13 21:18 |
-| OpenAI | Data Engineer, People Innovation Labs | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24ca3431dcbcd257) | 2026-05-13 21:18 |
 
 
 ---
