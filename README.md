@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-17 22:43
+Last updated: 2026-05-17 23:50
 
 ### 🚀 Daily Job Matches
 
@@ -304,46 +304,6 @@ Last updated: 2026-05-17 22:43
 | BeyondTrust | Sr Software Development Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6715e4c4956d2eae) | 2026-05-13 23:55 |
 | Capgemini | TypeScript Backend Architect | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=806e6d1aea5231f7) | 2026-05-13 23:55 |
 | Capgemini | V&V Engineer – AI - Driven Testing & Validation | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e6e47c4f9f9521bc) | 2026-05-13 23:55 |
-| 9amHealth | Senior Data Engineer | US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=204b0fbde6acaec8) | 2026-05-13 22:58 |
-| Visa | Software Engineer, Sr. Consultant - Fullstack GenAI Enablement | Ashburn, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b9c9240c1f60b916) | 2026-05-13 22:58 |
-| CMT Services INC | Databricks Engineer | Adelphi, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=735a340ab156699c) | 2026-05-13 22:58 |
-| Surgery Partners | Data Engineer - Hybrid / Remote | Nashville, TN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=25ad143bf215dca2) | 2026-05-13 22:58 |
-| The Hartford | Sr. Full Stack AI Engineer | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=380cf25a1caed88b) | 2026-05-13 22:58 |
-| The Hartford | Sr. Full Stack AI Engineer | Hartford, CT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a7e9d4486acb8678) | 2026-05-13 22:58 |
-| The Hartford | Sr. Full Stack AI Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=37bbb011f9ed9bce) | 2026-05-13 22:58 |
-| The Hartford | Sr. Full Stack AI Engineer | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cbab770adbb8a52e) | 2026-05-13 22:58 |
-| The Hartford | Sr. Full Stack AI Engineer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a0eeb94a75d20a86) | 2026-05-13 22:58 |
-| Binary Defense | Data Scientist / Software Engineer - REMOTE | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=decf8fd160fb3bfb) | 2026-05-13 22:58 |
-| Motorola Solutions | Jr. Data Engineer | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=74de48d3af0aad60) | 2026-05-13 22:58 |
-| Motorola Solutions | Data Scientist | Schaumburg, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8955fa66fad71b11) | 2026-05-13 22:58 |
-| Electronic Arts | Senior Solutions Architect - HR Technology | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a4da44f9db3087ad) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=75411ef68bb2570e) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=476610eade6186c8) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f17865b87f690bc6) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20459d59093bf9bd) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Sacramento, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=12dec38d572dde69) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Jacksonville, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d562fe192869c0e) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Portland, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c9a1ae81f793646) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5863d525ca41f5d2) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e4cdf0234a46615) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ad137f2c49da8bb) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d002e82641911ed2) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=46fb0e086ae4f0e3) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1f6725c8d5ffa853) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=99737475fca40d8b) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4b74a0d4661cfffa) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9b8957e81f116b84) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df2181db2e5a2dcd) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7c06ae27381f690e) | 2026-05-13 22:58 |
-| Scribd, Inc. | Software Engineer (Backend, Python) - Content Understanding | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc3126e4cf6aee72) | 2026-05-13 22:58 |
-| University of Miami | DevOps Engineer | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c486a5510b1decbc) | 2026-05-13 22:58 |
-| Tata Consultancy Services (TCS) | Azure Data Engineer | Township of Hamilton, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae87fbdbeca42ee9) | 2026-05-13 22:58 |
-| Augeo Affinity Marketing, Inc. | BI Developer | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=33a301267b057586) | 2026-05-13 22:58 |
-| Paramount Global US Inc | Senior Data Scientist | Syracuse, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=741583eb645f2b61) | 2026-05-13 22:58 |
-| Surgery Partners | Reporting Engineer - Hybrid / Remote | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=963a094838b9c1b1) | 2026-05-13 22:58 |
-| Amplify | Software Engineer | Brooklyn, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24cdc5d33ce531fc) | 2026-05-13 22:58 |
-| Intellibee Inc | SQL/Power BI Developer | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b078bd21fd98c8d7) | 2026-05-13 22:58 |
-| The Home Depot | Senior Software Engineer - Full stack (Angular/Java) (Remote) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7acce88de00e812) | 2026-05-13 22:58 |
 
 
 ---
