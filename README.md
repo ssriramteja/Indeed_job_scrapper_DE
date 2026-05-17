@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-17 12:58
+Last updated: 2026-05-17 14:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-17 14:25 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=4059aa39cd3badff) | 2026-05-17 12:58 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=ae893410ec8e0efd) | 2026-05-17 12:58 |
 | BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cefea9656ea9960b) | 2026-05-17 12:58 |
@@ -25,7 +26,6 @@ Last updated: 2026-05-17 12:58
 | NTT DATA | Linux Systems Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=97dd13894809f36a) | 2026-05-17 12:58 |
 | BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ede629cfc3fb969d) | 2026-05-17 12:58 |
 | BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88ad22f9405e77ea) | 2026-05-17 12:58 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-17 12:58 |
 | BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c76fbdb48e9a34d3) | 2026-05-17 08:58 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0d65ad8442e8885d) | 2026-05-17 08:58 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=cfeff295f2019956) | 2026-05-16 18:51 |
@@ -372,11 +372,6 @@ Last updated: 2026-05-17 12:58
 | Wells Fargo | Cybersecurity Engineering Associate - .NET | Iselin, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a52de1f01371097) | 2026-05-13 17:12 |
 | Wells Fargo | Cybersecurity Engineering Associate - .NET | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22813c7deaeeb0b9) | 2026-05-13 17:12 |
 | Wells Fargo | Cybersecurity Engineering Associate - .NET | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=185fbf34ac3ae2ea) | 2026-05-13 17:12 |
-| nan | Databricks Data Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6d75dcabdd05e31b) | 2026-05-13 14:11 |
-| Cisco | Software Engineerâ€“ Full Stack | Richardson, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0cd6f9018a657390) | 2026-05-13 14:11 |
-| nan | ​Mobile Software Engineer | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e9d436fc96de41ea) | 2026-05-13 14:11 |
-| clickhouse | Senior Data Engineer - Python, CI/CD | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e080fd03b67aa874) | 2026-05-13 14:11 |
-| Securian Financial | Platform Reliability Engineer – Data, Content & Analytics (Hybrid) | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43204d9b47ac68cd) | 2026-05-13 14:11 |
 
 
 ---
