@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-17 16:46
+Last updated: 2026-05-17 17:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-17 16:46 |
+| Technology Ventures | Cloud Engineer Specialist | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=97c3d08d72035c3d) | 2026-05-17 17:50 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-17 17:50 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=4059aa39cd3badff) | 2026-05-17 12:58 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=ae893410ec8e0efd) | 2026-05-17 12:58 |
 | BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cefea9656ea9960b) | 2026-05-17 12:58 |
@@ -353,25 +354,6 @@ Last updated: 2026-05-17 16:46
 | Halff | Business Systems Data Analyst / Power BI & Fabric Developer - Various Locations! | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c78c332d8a817d3f) | 2026-05-13 19:41 |
 | Dolese Bros. | Data Engineer | Oklahoma City, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=424490df54f1f917) | 2026-05-13 19:41 |
 | Münchener Rückversicherungs-Gesellschaft | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3a2a57e7a76cf6ec) | 2026-05-13 19:41 |
-| Tata Consultancy Services (TCS) | Data Engineer | Atlanta, GA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=ce6324c917198667) | 2026-05-13 17:12 |
-| Ciklum | Senior Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a79e1bdde74b9d64) | 2026-05-13 17:12 |
-| Fustis LLC | ML (Machine Learning) Engineering Consultant | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c5732db1baec0796) | 2026-05-13 17:12 |
-| Rivian | Senior Software Engineer, MLOps | Palo Alto, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fc794d07abe54d18) | 2026-05-13 17:12 |
-| Select Computing, Inc. | Quality Assurance Automation Engineer-SBA REMOTE | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0bd90ecd4db68aaf) | 2026-05-13 17:12 |
-| Jade Global | Snowflake Presales Architect (Data & AI) | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=43b27a2ed9fce658) | 2026-05-13 17:12 |
-| CURE Auto Insurance | Data Engineer | Princeton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b8ae9e298623659d) | 2026-05-13 17:12 |
-| LTIMindtree | Cloud DevOps Engineer with Snowflake (Specialist - Architecture) | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0e85e605fbf14aff) | 2026-05-13 17:12 |
-| New York Life | MuleSoft Architect | White Plains, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=017b9ce5af5cfa1a) | 2026-05-13 17:12 |
-| Marks IT Solutions | Mainframe Professionals(Devops Architect, System automation, Performance engineer)- REMOTE | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8fd17dcf4756a3fb) | 2026-05-13 17:12 |
-| Revelation Pharma | DevOps / AgentOps Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4690228daf5da36a) | 2026-05-13 17:12 |
-| Ensono | Expert Product Architect AI/ML | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=72b34dd2c66213a7) | 2026-05-13 17:12 |
-| Northern Trust Corp. | Azure Infrastructure Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb63b2457498a97c) | 2026-05-13 17:12 |
-| American Express | Sr Software Engineer I | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a7337f694f054c6a) | 2026-05-13 17:12 |
-| objectways | Senior Data Engineer – Palantir Foundry | AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b037ba4140056f9) | 2026-05-13 17:12 |
-| BDO | Oracle Fusion Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=091a80e147261d97) | 2026-05-13 17:12 |
-| Wells Fargo | Cybersecurity Engineering Associate - .NET | Iselin, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a52de1f01371097) | 2026-05-13 17:12 |
-| Wells Fargo | Cybersecurity Engineering Associate - .NET | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22813c7deaeeb0b9) | 2026-05-13 17:12 |
-| Wells Fargo | Cybersecurity Engineering Associate - .NET | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=185fbf34ac3ae2ea) | 2026-05-13 17:12 |
 
 
 ---
