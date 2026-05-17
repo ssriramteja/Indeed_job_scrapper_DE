@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-17 18:55
+Last updated: 2026-05-17 20:01
 
 ### 🚀 Daily Job Matches
 
@@ -16,7 +16,6 @@ Last updated: 2026-05-17 18:55
 | BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=136b290a5c76ca43) | 2026-05-17 18:55 |
 | BV Teck | Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=649989a8ef5488a3) | 2026-05-17 18:55 |
 | BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b64925ef829beee) | 2026-05-17 18:55 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-17 18:55 |
 | Technology Ventures | Cloud Engineer Specialist | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=97c3d08d72035c3d) | 2026-05-17 17:50 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=4059aa39cd3badff) | 2026-05-17 12:58 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=ae893410ec8e0efd) | 2026-05-17 12:58 |
@@ -355,15 +354,6 @@ Last updated: 2026-05-17 18:55
 | nan | Cloud Engineer IV | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cee754bcb206b7dc) | 2026-05-13 21:18 |
 | Industrial Electric Manufacturing | Analytics Engineer | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=53b1dbd9dfc660aa) | 2026-05-13 21:18 |
 | OpenAI | Data Engineer, People Innovation Labs | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24ca3431dcbcd257) | 2026-05-13 21:18 |
-| Dallas County | 0000001423.AI ENGINEER II.INFO TECH - DATA AND AI | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8e292fecba5a3f54) | 2026-05-13 19:41 |
-| DELVIX EDGE | Senior Data Engineer | Los Angeles, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3059a32608f8fae5) | 2026-05-13 19:41 |
-| Kohl's | Senior Software Engineer (Data Engineering) | Menomonee Falls, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4c990ef27a139b23) | 2026-05-13 19:41 |
-| Premier Health | SENIOR DATA ARCHITECT - DIGITAL HEALTH | Dayton, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=292331db8e10cf3f) | 2026-05-13 19:41 |
-| QVC | Application Developer - ETL | West Chester, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5f171de2a8d453f8) | 2026-05-13 19:41 |
-| Halff | Business Systems Data Analyst / Power BI & Fabric Developer - Various Locations! | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15e9c504e5bf2337) | 2026-05-13 19:41 |
-| Halff | Business Systems Data Analyst / Power BI & Fabric Developer - Various Locations! | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c78c332d8a817d3f) | 2026-05-13 19:41 |
-| Dolese Bros. | Data Engineer | Oklahoma City, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=424490df54f1f917) | 2026-05-13 19:41 |
-| Münchener Rückversicherungs-Gesellschaft | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3a2a57e7a76cf6ec) | 2026-05-13 19:41 |
 
 
 ---
