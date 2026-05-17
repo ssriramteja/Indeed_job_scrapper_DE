@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-17 06:14
+Last updated: 2026-05-17 08:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-17 06:14 |
+| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c76fbdb48e9a34d3) | 2026-05-17 08:58 |
+| Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0d65ad8442e8885d) | 2026-05-17 08:58 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-17 08:58 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=cfeff295f2019956) | 2026-05-16 18:51 |
 | BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1def15e5de2b7c64) | 2026-05-16 18:51 |
 | BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=966e325f5ac56bee) | 2026-05-16 18:51 |
@@ -368,30 +370,6 @@ Last updated: 2026-05-17 06:14
 | Comcast | Software Development Engineer in Test (SDET) – ML & LLM Systems | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=33c42309195b0e99) | 2026-05-13 09:36 |
 | Comcast | Development Engineer in Test (SDET) – ML & LLM Systems | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=47435f267ff5c4f3) | 2026-05-13 09:36 |
 | Very LLC | Senior Software Engineer (.NET / Azure) - Contract (1099) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=10e8cc15987f9633) | 2026-05-13 09:36 |
-| Tata Consultancy Services (TCS) | Data Engineer | Atlanta, GA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=aec208cdfd014f62) | 2026-05-13 06:19 |
-| Tata Consultancy Services (TCS) | Data Engineer | Atlanta, GA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=f4b12692ab49b7bf) | 2026-05-13 06:19 |
-| Grainger | Data Engineer II | Lake Forest, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f200c5b28338d187) | 2026-05-13 06:19 |
-| Tesla | Data Engineer, Machine Learning, Manufacturing Quality | Fremont, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ae09bf0f698805e7) | 2026-05-13 06:19 |
-| Airbus | HR AI/ML Engineer II | Herndon, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3aa6bbabb3cbca2a) | 2026-05-13 06:19 |
-| Constellation Brands | Senior Database Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b8eb1b9b5c5757b) | 2026-05-13 06:19 |
-| Assurant | Sr Azure DevOps Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a0f808a6e0a9a9c0) | 2026-05-13 06:19 |
-| Foresite Labs | Senior Data Engineer (5+ years) | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1bd97d667dce4191) | 2026-05-13 06:19 |
-| Outlook Amusements | Senior DevOps Engineer | La Crescenta, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b2e24ee36e8cb7cb) | 2026-05-13 06:19 |
-| Tesla | Sr. Software QA Engineer, Logistics | Fremont, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3703a65a658398ce) | 2026-05-13 06:19 |
-| BlackRock | Associate, Snowflake Data Engineer – BTO | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56e3555786ca60d7) | 2026-05-13 06:19 |
-| Tesla | Software Engineer, MLOps, Manufacturing Quality | Fremont, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=552f3d2b25f75144) | 2026-05-13 06:19 |
-| Sterling Computers | Backend ML Engineer | North Sioux City, SD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4d0c294f11382975) | 2026-05-13 06:19 |
-| Sterling Computers | Backend ML Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8c8e8eb0ff879575) | 2026-05-13 06:19 |
-| Rhino | Full Stack Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=42875591a11e5caa) | 2026-05-13 06:19 |
-| Inclusion Cloud | Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f42d634adbe30d12) | 2026-05-13 06:19 |
-| Meridian Cooperative Inc | Sr. Database Administrator | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aad5be160ea34501) | 2026-05-13 06:19 |
-| Proofpoint | Sr. Data Architect, Large Scale Distributed Systems | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab772be531586550) | 2026-05-13 06:19 |
-| Love’s Travel Stops | AI Application Developer III | Oklahoma City, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9e147f982e60dddd) | 2026-05-13 06:19 |
-| Love’s Travel Stops | AI Application Developer III -Houston, TX | Oklahoma City, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ade1e18d7133f7cc) | 2026-05-13 06:19 |
-| voestalpine | Manufacturing Systems Developer | Chicago Heights, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14943e02ccca3aaf) | 2026-05-13 06:19 |
-| Niagara Bottling | Enterprise Data Foundation & Intelligent Automation Engineer II | Diamond Bar, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=601ef9d154530877) | 2026-05-13 06:19 |
-| NVIDIA | Senior System Software Engineer - DevOps and Infrastructure Automation | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53035edad0202e59) | 2026-05-13 06:19 |
-| A1fed | Business Intelligence SME – MicroStrategy | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f40722715cc5f7ec) | 2026-05-13 06:19 |
 
 
 ---
