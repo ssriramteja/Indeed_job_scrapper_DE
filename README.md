@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-16 23:42
+Last updated: 2026-05-17 02:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-16 23:42 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-17 02:08 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=cfeff295f2019956) | 2026-05-16 18:51 |
 | BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1def15e5de2b7c64) | 2026-05-16 18:51 |
 | BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=966e325f5ac56bee) | 2026-05-16 18:51 |
@@ -425,22 +425,6 @@ Last updated: 2026-05-16 23:42
 | Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f93ad8b1a8de327) | 2026-05-13 02:13 |
 | WSSC Water | Data Scientist | Laurel, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d7bca3fc6f7be967) | 2026-05-13 02:13 |
 | Pelago | Backend Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a095b7520f3a9612) | 2026-05-13 02:13 |
-| Invesco | Sr Engineer, Ent Arch | Houston, TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=618fbf33fe541db8) | 2026-05-12 23:52 |
-| mPulse Mobile | Data Engineer II | Myrtle Point, OR, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=7b20e14df8f336ad) | 2026-05-12 23:52 |
-| Creative Information Technology India | Data Engineer – Baltimore City, MD | Falls Church, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=80ac3e71ab2ea33f) | 2026-05-12 23:52 |
-| Capgemini | Java Developer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8348059168d7d3ed) | 2026-05-12 23:52 |
-| Capgemini | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=de13e412e9eb12ce) | 2026-05-12 23:52 |
-| ifm efector inc. | Data Warehouse Engineer | Malvern, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c320ee229f995ad4) | 2026-05-12 23:52 |
-| SLD TECHNOLOGIES LLC | Azure Data Fabric Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bb01ba3a845df915) | 2026-05-12 23:52 |
-| mPulse Mobile | Data Integration Engineer I | Myrtle Point, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b780cbd54e20e82) | 2026-05-12 23:52 |
-| JPMorganChase | Backend Software Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6c70bbdfbf97a8c) | 2026-05-12 23:52 |
-| Cognizant | PEGA - Sr Full Stack Engineer with AI/LLM Integrations - 00068770392 | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fe6a7bc10ac96c1a) | 2026-05-12 23:52 |
-| Cognizant | PEGA - Sr Full Stack Engineer with AI/LLM Integrations - 00068770393 | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=23c054ad41fdd40c) | 2026-05-12 23:52 |
-| Urban Dynamics | Senior Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=775f202a52a009bf) | 2026-05-12 23:52 |
-| Capgemini | Software Engineer (Python, Kafka / Confluent) | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=88b144ea348f35fc) | 2026-05-12 23:52 |
-| National Basketball Association | Senior Data Engineer - Snowflake | Secaucus, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e327a1ee260319b) | 2026-05-12 23:52 |
-| Capgemini | Junior Automation Tester (AI enabled Testing) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7a3c372f8cf8158e) | 2026-05-12 23:52 |
-| Capgemini | Python Engineer with REST & GenAI | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3132514d774e51d) | 2026-05-12 23:52 |
 
 
 ---
