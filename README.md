@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-17 02:08
+Last updated: 2026-05-17 06:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-17 02:08 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-17 06:14 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=cfeff295f2019956) | 2026-05-16 18:51 |
 | BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1def15e5de2b7c64) | 2026-05-16 18:51 |
 | BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=966e325f5ac56bee) | 2026-05-16 18:51 |
@@ -392,39 +392,6 @@ Last updated: 2026-05-17 02:08
 | Niagara Bottling | Enterprise Data Foundation & Intelligent Automation Engineer II | Diamond Bar, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=601ef9d154530877) | 2026-05-13 06:19 |
 | NVIDIA | Senior System Software Engineer - DevOps and Infrastructure Automation | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53035edad0202e59) | 2026-05-13 06:19 |
 | A1fed | Business Intelligence SME – MicroStrategy | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f40722715cc5f7ec) | 2026-05-13 06:19 |
-| GM Financial | Data Engineer | Arlington, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=569e2680cf991081) | 2026-05-13 02:13 |
-| Photon | Senior Software (API)Engineer- Dallas, TX | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8f42bf20e03caa36) | 2026-05-13 02:13 |
-| Stifel | Data Engineer III | Memphis, TN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=919dcee2ea81fef5) | 2026-05-13 02:13 |
-| Stifel | Data Engineer III | St. Louis, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a4076bfbb84ccf37) | 2026-05-13 02:13 |
-| Bank of America | Software Engineer - Java | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=242f984a6124a7d0) | 2026-05-13 02:13 |
-| Creative Realities | DevOps Specialist | Louisville, KY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e7a90989e0e0443f) | 2026-05-13 02:13 |
-| Photon | Senior Software Engineer- Dallas, TX | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=440518c253bc8566) | 2026-05-13 02:13 |
-| Photon | Senior Quality Engineer- Dallas, TX | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=84593a6570df58c9) | 2026-05-13 02:13 |
-| Microchip Technology | Senior Engineer | Chandler, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fe28b680ea7e98de) | 2026-05-13 02:13 |
-| Paramount Streaming | Sr. Data Engineer | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=930af228e501f878) | 2026-05-13 02:13 |
-| GEICO | Senior Machine Learning Engineer, AI Agent Platform | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=295e6777ea02d3a2) | 2026-05-13 02:13 |
-| Klaviyo | Software Engineer II - Identity & Access Management | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1bc0ef7396ea02ef) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a41e33720748eba0) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=66e25691f37ba504) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03c59d94b34e2f80) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Portland, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d634bbad366fe2d9) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a95d5752a8ed365a) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8aa2072bb9699937) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34eb7707f1540ab2) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=66c1c677b88a3012) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9980c298fd574440) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Sacramento, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6bfbfcb10d4bfdb6) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d91b4eab129a9ad) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a39b9f4652ab55f3) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4a83f7bb319e75be) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da0c4d8484ccceb4) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b8a87068f87af733) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=686f38dfd1f722de) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f11e909b391eb505) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b786a24cc414ec3f) | 2026-05-13 02:13 |
-| Scribd, Inc. | Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f93ad8b1a8de327) | 2026-05-13 02:13 |
-| WSSC Water | Data Scientist | Laurel, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d7bca3fc6f7be967) | 2026-05-13 02:13 |
-| Pelago | Backend Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a095b7520f3a9612) | 2026-05-13 02:13 |
 
 
 ---

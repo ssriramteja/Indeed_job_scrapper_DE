@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-17
 
-**Total Jobs Found:** 27
+**Total Jobs Found:** 21
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Senior DJI Dock 2 / Cloud API Integration Engineer @ Exponent Technology Trading company DWC LLC
-**Match Score:** 18.8%
-
-📍 **Location:** Naperville, IL, US USA
-
-🔑 **Keywords:** AWS, S3, Azure, Google Cloud Platform, GCP, Scala, Oracle, SQL Server, PostgreSQL, MySQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f4968d826aaf9e4d)
-
----
-
-## 3. AWS Cloud Engineer @ BV Teck
+## 2. AWS Cloud Engineer @ BV Teck
 **Match Score:** 18.1%
 
 📍 **Location:** Remote, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Data Engineer @ Educology Solutions
+## 3. Data Engineer @ Educology Solutions
 **Match Score:** 18.1%
 
 📍 **Location:** Remote, US USA
@@ -46,6 +35,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, S3, RDS, Azure, Databricks, Data Lake Storage, Unity Catalog, Medallion Architecture, Spark, Scala
 
 [Apply Here](https://www.indeed.com/viewjob?jk=ea52f552407f8b0e)
+
+---
+
+## 4. Microsoft Azure Engineer @ CSIK Consulting
+**Match Score:** 16.0%
+
+📍 **Location:** Alexandria, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fab3c4481b723cee)
 
 ---
 
@@ -60,18 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Microsoft Azure Engineer @ CSIK Consulting
-**Match Score:** 16.0%
-
-📍 **Location:** Alexandria, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fab3c4481b723cee)
-
----
-
-## 7. Senior Platform, DevOps Engineer @ CDW
+## 6. Senior Platform, DevOps Engineer @ CDW
 **Match Score:** 16.0%
 
 📍 **Location:** Vernon Hills, IL, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Java Full Stack Developer @ BV Teck
+## 7. Java Full Stack Developer @ BV Teck
 **Match Score:** 15.3%
 
 📍 **Location:** Remote, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Oracle Cloud Infrastructure (OCI) Engineer @ BV Teck
+## 8. Oracle Cloud Infrastructure (OCI) Engineer @ BV Teck
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -104,18 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Sr Advanced Cloud Developer @ Honeywell
-**Match Score:** 14.6%
-
-📍 **Location:** Mason, OH, US USA
-
-🔑 **Keywords:** AWS, Azure, Databricks, Event Hubs, GCP, Vertex AI, Spark, Scala, Kafka, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b77fa4bb580f7b02)
-
----
-
-## 11. Azure Cloud Engineer @ BV Teck
+## 9. Azure Cloud Engineer @ BV Teck
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -126,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Microsoft Fabric Architect @ Troutman Pepper Locke
+## 10. Microsoft Fabric Architect @ Troutman Pepper Locke
 **Match Score:** 13.9%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -137,18 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Software Engineer, AI Platform @ Fluency
-**Match Score:** 13.9%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** AWS, Lambda, Step Functions, S3, SQS, ECS, RDS, Spark, Dask, Polars
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c9835c2dd64dde09)
-
----
-
-## 14. Senior Analytics Engineer @ CDW
+## 11. Senior Analytics Engineer @ CDW
 **Match Score:** 13.2%
 
 📍 **Location:** Vernon Hills, IL, US USA
@@ -159,18 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Engineer - Agentic AI @ Tata Consultancy Services (TCS)
-**Match Score:** 13.2%
-
-📍 **Location:** Troy, MI, US USA
-
-🔑 **Keywords:** AWS, Lambda, SQS, Azure, GCP, Scala, Kafka, NoSQL, CI/CD, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3de44fa63b4b67d2)
-
----
-
-## 16. Data Engineer @ Fisher Investments
+## 12. Data Engineer @ Fisher Investments
 **Match Score:** 12.5%
 
 📍 **Location:** Plano, TX, US USA
@@ -181,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Data Engineer @ Fisher Investments
+## 13. Data Engineer @ Fisher Investments
 **Match Score:** 12.5%
 
 📍 **Location:** Camas, WA, US USA
@@ -192,29 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Engineer II, Cloud & Web Systems Software @ Masimo
-**Match Score:** 12.5%
-
-📍 **Location:** Irvine, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, SQL Server, PostgreSQL, MongoDB, NoSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5bf612beac38dd2c)
-
----
-
-## 19. Senior Data Engineer @ Verkada
-**Match Score:** 11.8%
-
-📍 **Location:** San Mateo, CA, US USA
-
-🔑 **Keywords:** RDS, Databricks, BigQuery, Scala, Snowflake, Data Modeling, ELT, dbt, Airflow, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d89303a4a06cd252)
-
----
-
-## 20. Senior Data Engineer @ CDW
+## 14. Senior Data Engineer @ CDW
 **Match Score:** 11.8%
 
 📍 **Location:** Vernon Hills, IL, US USA
@@ -225,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior Software Engineer @ Wells Fargo
+## 15. Senior Software Engineer @ Wells Fargo
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -236,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Software Engineer @ Wells Fargo
+## 16. Senior Software Engineer @ Wells Fargo
 **Match Score:** 11.1%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -247,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Senior Software Engineer @ Wells Fargo
+## 17. Senior Software Engineer @ Wells Fargo
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -258,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Senior Software Engineer @ Wells Fargo
+## 18. Senior Software Engineer @ Wells Fargo
 **Match Score:** 11.1%
 
 📍 **Location:** Irving, TX, US USA
@@ -269,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Data Engineer III @ Simplot Company
+## 19. Data Engineer III @ Simplot Company
 **Match Score:** 10.4%
 
 📍 **Location:** Boise, ID, US USA
@@ -280,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. OpenShift Engineer @ BV Teck
+## 20. OpenShift Engineer @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -291,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Claims Data Analytics Engineer @ GEICO
+## 21. Claims Data Analytics Engineer @ GEICO
 **Match Score:** 10.4%
 
 📍 **Location:** Bethesda, MD, US USA
