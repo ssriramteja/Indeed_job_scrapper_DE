@@ -1,12 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-17 11:55
+Last updated: 2026-05-17 12:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-17 11:55 |
+| BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=4059aa39cd3badff) | 2026-05-17 12:58 |
+| BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=ae893410ec8e0efd) | 2026-05-17 12:58 |
+| BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cefea9656ea9960b) | 2026-05-17 12:58 |
+| BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7748856050bcd694) | 2026-05-17 12:58 |
+| BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cc3a94d9cbf3a341) | 2026-05-17 12:58 |
+| BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6ac195f94bbb2614) | 2026-05-17 12:58 |
+| BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=40cd97c169150674) | 2026-05-17 12:58 |
+| BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=276c675b50fafca5) | 2026-05-17 12:58 |
+| BV Teck | Azure Cloud Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c19dce5d822474c8) | 2026-05-17 12:58 |
+| BV Teck | Azure Cloud Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d93ee6bda9d26db) | 2026-05-17 12:58 |
+| BV Teck | Kafka Platform Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e1c513a6cf72498c) | 2026-05-17 12:58 |
+| Cyberlocke, LLC | Azure Fabric Engineer | McKinney, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=75b1d946f299c08c) | 2026-05-17 12:58 |
+| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=740efe23eed4daac) | 2026-05-17 12:58 |
+| BV Teck | Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9a1f0ca7d370b5fc) | 2026-05-17 12:58 |
+| BV Teck | Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=36241025a2430295) | 2026-05-17 12:58 |
+| Cyberlocke, LLC | Mid-Level Azure DevOps Engineer | McKinney, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed58b32ec5793dff) | 2026-05-17 12:58 |
+| NTT DATA | Linux Systems Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=97dd13894809f36a) | 2026-05-17 12:58 |
+| BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ede629cfc3fb969d) | 2026-05-17 12:58 |
+| BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88ad22f9405e77ea) | 2026-05-17 12:58 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac7b41fce729d0ab) | 2026-05-17 12:58 |
 | BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c76fbdb48e9a34d3) | 2026-05-17 08:58 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0d65ad8442e8885d) | 2026-05-17 08:58 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=cfeff295f2019956) | 2026-05-16 18:51 |
@@ -358,15 +377,6 @@ Last updated: 2026-05-17 11:55
 | nan | ​Mobile Software Engineer | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e9d436fc96de41ea) | 2026-05-13 14:11 |
 | clickhouse | Senior Data Engineer - Python, CI/CD | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e080fd03b67aa874) | 2026-05-13 14:11 |
 | Securian Financial | Platform Reliability Engineer – Data, Content & Analytics (Hybrid) | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43204d9b47ac68cd) | 2026-05-13 14:11 |
-| RSM | Supervisor - Cyber Engineering | Chicago, IL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=b6b7c33de4d899ac) | 2026-05-13 11:56 |
-| Openkyber | API Security Engineer | AK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fcd5bf185da35fd9) | 2026-05-13 11:56 |
-| Tata Consultancy Services (TCS) | Engineer | Cleveland, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2ec1df703d4c5e04) | 2026-05-13 11:56 |
-| Openkyber | DevSecOps Engineer | AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c95e30f564154a4e) | 2026-05-13 11:56 |
-| Openkyber | Cloud Posture Management Engineer | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eff362c629e77083) | 2026-05-13 11:56 |
-| Mutual of Enumclaw Insurance | Data Analytics Engineer | Enumclaw, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cfe3ebca43d1190) | 2026-05-13 11:56 |
-| Cotiviti | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21a4c2b4ffe6da75) | 2026-05-13 11:56 |
-| EchoStar | AI Data Engineer II | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d7f0cb7dd1cecd1) | 2026-05-13 11:56 |
-| Openkyber | Workday Optimization Consultant | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=51eff55258e66e9d) | 2026-05-13 11:56 |
 
 
 ---

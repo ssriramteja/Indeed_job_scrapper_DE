@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-17
 
-**Total Jobs Found:** 11
+**Total Jobs Found:** 30
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -12,11 +12,55 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 🔑 **Keywords:** AWS, EMR, RDS, Azure, Databricks, BigQuery, Hadoop, HDFS, Hive, Sqoop
 
+[Apply Here](https://www.indeed.com/viewjob?jk=4059aa39cd3badff)
+
+---
+
+## 2. Hadoop Developer @ BV Teck
+**Match Score:** 20.8%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, RDS, Azure, Databricks, BigQuery, Hadoop, HDFS, Hive, Sqoop
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ae893410ec8e0efd)
+
+---
+
+## 3. Hadoop Developer @ BV Teck
+**Match Score:** 20.8%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, EMR, RDS, Azure, Databricks, BigQuery, Hadoop, HDFS, Hive, Sqoop
+
 [Apply Here](https://www.indeed.com/viewjob?jk=cfeff295f2019956)
 
 ---
 
-## 2. AWS Cloud Engineer @ BV Teck
+## 4. AWS Cloud Engineer @ BV Teck
+**Match Score:** 18.1%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, Kinesis, Redshift, S3, ECS, IAM, RDS, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cefea9656ea9960b)
+
+---
+
+## 5. AWS Cloud Engineer @ BV Teck
+**Match Score:** 18.1%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, Kinesis, Redshift, S3, ECS, IAM, RDS, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7748856050bcd694)
+
+---
+
+## 6. AWS Cloud Engineer @ BV Teck
 **Match Score:** 18.1%
 
 📍 **Location:** Remote, US USA
@@ -27,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Microsoft Azure Engineer @ CSIK Consulting
+## 7. Microsoft Azure Engineer @ CSIK Consulting
 **Match Score:** 16.0%
 
 📍 **Location:** Alexandria, VA, US USA
@@ -38,7 +82,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Java Full Stack Developer @ BV Teck
+## 8. Java Full Stack Developer @ BV Teck
+**Match Score:** 15.3%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Oracle, SQL Server, PostgreSQL, MySQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cc3a94d9cbf3a341)
+
+---
+
+## 9. Java Full Stack Developer @ BV Teck
+**Match Score:** 15.3%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Oracle, SQL Server, PostgreSQL, MySQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6ac195f94bbb2614)
+
+---
+
+## 10. Java Full Stack Developer @ BV Teck
 **Match Score:** 15.3%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +115,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Oracle Cloud Infrastructure (OCI) Engineer @ BV Teck
+## 11. Oracle Cloud Infrastructure (OCI) Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Hive, Scala, Oracle, MySQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=40cd97c169150674)
+
+---
+
+## 12. Oracle Cloud Infrastructure (OCI) Engineer @ BV Teck
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Hive, Scala, Oracle, MySQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=276c675b50fafca5)
+
+---
+
+## 13. Oracle Cloud Infrastructure (OCI) Engineer @ BV Teck
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +148,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Azure Cloud Engineer @ BV Teck
+## 14. Azure Cloud Engineer @ BV Teck
+**Match Score:** 13.9%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Synapse Analytics, Event Hubs, Scala, CI/CD, GitHub Actions, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c19dce5d822474c8)
+
+---
+
+## 15. Azure Cloud Engineer @ BV Teck
+**Match Score:** 13.9%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Synapse Analytics, Event Hubs, Scala, CI/CD, GitHub Actions, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8d93ee6bda9d26db)
+
+---
+
+## 16. Azure Cloud Engineer @ BV Teck
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -71,7 +181,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Microsoft Fabric Architect @ Troutman Pepper Locke
+## 17. Kafka Platform Engineer @ BV Teck
+**Match Score:** 13.9%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Event Hubs, Spark, Scala, Spark Streaming, Kafka, Kafka Connect, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e1c513a6cf72498c)
+
+---
+
+## 18. Microsoft Fabric Architect @ Troutman Pepper Locke
 **Match Score:** 13.9%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -82,7 +203,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Data Platform Architect @ BV Teck
+## 19. Azure Fabric Engineer @ Cyberlocke, LLC
+**Match Score:** 13.2%
+
+📍 **Location:** McKinney, TX, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Cloud Storage, Spark, PySpark, Scala, ETL, ELT, Power BI
+
+[Apply Here](https://www.indeed.com/viewjob?jk=75b1d946f299c08c)
+
+---
+
+## 20. Data Platform Architect @ BV Teck
+**Match Score:** 12.5%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Redshift, RDS, Azure, Databricks, Unity Catalog, GCP, BigQuery, Spark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=740efe23eed4daac)
+
+---
+
+## 21. Data Platform Architect @ BV Teck
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -93,7 +236,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Analytics Engineer @ Casey's
+## 22. Python Developer @ BV Teck
+**Match Score:** 11.8%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, S3, RDS, Scala, Oracle, SQL Server, PostgreSQL, DynamoDB, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9a1f0ca7d370b5fc)
+
+---
+
+## 23. Python Developer @ BV Teck
+**Match Score:** 11.8%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, S3, RDS, Scala, Oracle, SQL Server, PostgreSQL, DynamoDB, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=36241025a2430295)
+
+---
+
+## 24. Analytics Engineer @ Casey's
 **Match Score:** 11.8%
 
 📍 **Location:** Ankeny, IA, US USA
@@ -104,7 +269,51 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Data Engineer III @ Simplot Company
+## 25. Mid-Level Azure DevOps Engineer @ Cyberlocke, LLC
+**Match Score:** 11.1%
+
+📍 **Location:** McKinney, TX, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Medallion Architecture, ETL, ELT, Power BI, CI/CD, Azure DevOps, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ed58b32ec5793dff)
+
+---
+
+## 26. Linux Systems Engineer @ NTT DATA
+**Match Score:** 11.1%
+
+📍 **Location:** Salt Lake City, UT, US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, Scala, NoSQL, CI/CD, Jenkins, Maven, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=97dd13894809f36a)
+
+---
+
+## 27. OpenShift Engineer @ BV Teck
+**Match Score:** 10.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, CI/CD, Jenkins, Terraform, Kubernetes, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ede629cfc3fb969d)
+
+---
+
+## 28. OpenShift Engineer @ BV Teck
+**Match Score:** 10.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, CI/CD, Jenkins, Terraform, Kubernetes, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=88ad22f9405e77ea)
+
+---
+
+## 29. Data Engineer III @ Simplot Company
 **Match Score:** 10.4%
 
 📍 **Location:** Boise, ID, US USA
@@ -115,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. OpenShift Engineer @ BV Teck
+## 30. OpenShift Engineer @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
