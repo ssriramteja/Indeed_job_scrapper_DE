@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-17
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -57,6 +57,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Data Factory, Medallion Architecture, ETL, ELT, Power BI, CI/CD, Azure DevOps, Terraform
 
 [Apply Here](https://www.indeed.com/viewjob?jk=ed58b32ec5793dff)
+
+---
+
+## 6. Linux Systems Engineer @ NTT DATA
+**Match Score:** 11.1%
+
+📍 **Location:** Salt Lake City, UT, US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, Scala, NoSQL, CI/CD, Jenkins, Maven, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=97dd13894809f36a)
+
+---
+
+## 7. Data Architect @ Cisco
+**Match Score:** 10.4%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Snowflake, Data Modeling, ETL, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=49bdfaf2b8654cd8)
 
 ---
 
