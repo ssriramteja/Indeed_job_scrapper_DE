@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-17
 
-**Total Jobs Found:** 13
+**Total Jobs Found:** 12
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -115,18 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Linux Systems Engineer @ NTT DATA
-**Match Score:** 11.1%
-
-📍 **Location:** Salt Lake City, UT, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Scala, NoSQL, CI/CD, Jenkins, Maven, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=97dd13894809f36a)
-
----
-
-## 12. Data Engineer III @ Simplot Company
+## 11. Data Engineer III @ Simplot Company
 **Match Score:** 10.4%
 
 📍 **Location:** Boise, ID, US USA
@@ -137,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. OpenShift Engineer @ BV Teck
+## 12. OpenShift Engineer @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
