@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-18 22:50
+Last updated: 2026-05-18 23:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| VantageScore | Site Reliability Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=12497ac075998e0b) | 2026-05-18 23:57 |
+| Varda Space Industries | Pharma Applications Engineer | El Segundo, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f82dba2e1c1cad0d) | 2026-05-18 23:57 |
+| Stratus | Data and AI Quality Automation Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=471e912481eed840) | 2026-05-18 23:57 |
+| Hexaware Technologies | BIBA Practice - Big Data Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2a35842ddaad367b) | 2026-05-18 23:57 |
+| Visa | Senior Database Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d474f9c4c5e446c7) | 2026-05-18 23:57 |
+| Harbinger Motors Inc. | Sr. Systems Engineer | Garden Grove, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9cf02ed4b934745c) | 2026-05-18 23:57 |
+| NTT DATA | API Architect (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=463679cc517d5924) | 2026-05-18 23:57 |
+| ServiceTitan | Senior AI Engineer (Agent OS Platform) | Sacramento, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab39fae8644125cb) | 2026-05-18 23:57 |
 | Tyson Foods Incorporated | Senior IT Data Engineer (Onsite) | Springdale, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7b886774f2191937) | 2026-05-18 22:50 |
 | Pacific Consulting | Power BI Developer | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=afb97449b7ed7b0d) | 2026-05-18 22:50 |
 | Desmata Inc | Azure Data Engineer | Texas City, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b018ddcc7ace0923) | 2026-05-18 22:50 |
@@ -261,12 +269,6 @@ Last updated: 2026-05-18 22:50
 | Daniels Health | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f4c347401a04ad4) | 2026-05-15 02:13 |
 | Potawatomi Federal Solutions | Software Development Engineer in Test (SDET) | Rockville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4068381ee6ee32a7) | 2026-05-15 02:13 |
 | Command Cyber Solutions | Software Development Engineer in Test (SDET) | Rockville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6829c961c144999) | 2026-05-15 02:13 |
-| Trane Technologies | Data Engineer | Davidson, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1592c4516bdc87a8) | 2026-05-14 23:46 |
-| Edward Jones | Solutions Engineer | Tempe, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9719511fa10c7f9c) | 2026-05-14 23:46 |
-| Edward Jones | Solutions Engineer | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6df8bc0328124d57) | 2026-05-14 23:46 |
-| Lenovo | AI Application Development Engineer | Morrisville, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=581828717e283b41) | 2026-05-14 23:46 |
-| Lennar | Software Engineer II, Lennar.com | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e6bfbe4b81a06a3) | 2026-05-14 23:46 |
-| Allstate Insurance | Senior AI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2fbb73301c658fc3) | 2026-05-14 23:46 |
 
 
 ---
