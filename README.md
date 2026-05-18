@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-18 02:30
+Last updated: 2026-05-18 06:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=794bf3e65cff79af) | 2026-05-18 06:46 |
+| Boeing | Senior Cloud Solutions Architect | North Charleston, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c6b7f11613741a49) | 2026-05-18 06:46 |
+| BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=990147cfb670b11e) | 2026-05-18 06:46 |
+| BV Teck | Kafka Platform Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c9219030cb1ff76f) | 2026-05-18 06:46 |
+| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5da77bc70804a17c) | 2026-05-18 06:46 |
+| BV Teck | Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4d4445654d17d84f) | 2026-05-18 06:46 |
+| nan | Data Engineer and Developer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a627bc801113951) | 2026-05-18 06:46 |
 | BV Teck | Observability Engineer (Prometheus / Grafana / Datadog) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4bb8735550d94e63) | 2026-05-18 02:30 |
 | Cisco | Data Architect | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49bdfaf2b8654cd8) | 2026-05-17 22:43 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=8373a741b052d44b) | 2026-05-17 18:55 |
@@ -266,16 +273,6 @@ Last updated: 2026-05-18 02:30
 | State Farm | Senior AWS Infrastructure Engineer | Bloomington, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d9baca6f377f5dc3) | 2026-05-14 09:28 |
 | Cisco | Software Engineer-Infrastructure | Research Triangle Park, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0e8e5dd47c42fc9) | 2026-05-14 09:28 |
 | nan | Senior CloudOps Engineer | Alexandria, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4931dc95bcbec0b) | 2026-05-14 09:28 |
-| Vari | Analytics Engineer | Coppell, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2810f8864fd85dc6) | 2026-05-14 06:17 |
-| Arbitration Forums Inc. | Senior Cloud Data Engineer | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ca67cc261c055a24) | 2026-05-14 06:17 |
-| Board of Governors of the Federal Reserve System | Sr Data and Technology Analyst- Division of International Finance | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=777a27d0953faa85) | 2026-05-14 06:17 |
-| Evercommerce | EverCommerce - Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=158bcbd65f733f36) | 2026-05-14 06:17 |
-| GeoLogics Corporation | Data Modeler | Sterling Heights, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=987c15f4b88f3b87) | 2026-05-14 06:17 |
-| The New IEM, LLC | Analytics Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9daec59612efc459) | 2026-05-14 06:17 |
-| Pluto TV | Senior Data Engineer | West Hollywood, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24191e9278bc5735) | 2026-05-14 06:17 |
-| Illumio | Sr. Site Reliability Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a132e788c3dae9fd) | 2026-05-14 06:17 |
-| Rocket | Senior Data Engineer | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=345945d4c9f90358) | 2026-05-14 06:17 |
-| Fortinet | Cloud Field, Consulting Sales Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e2605e226b8d2e7) | 2026-05-14 06:17 |
 
 
 ---
