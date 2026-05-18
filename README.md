@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-18 06:46
+Last updated: 2026-05-18 10:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| LifeMD | DevOps Engineer | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1ba2ab0e8ae4be68) | 2026-05-18 10:59 |
+| LifeMD | DevOps Engineer | Huntington Beach, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3f2e0fa3bcda75e7) | 2026-05-18 10:59 |
+| Optimum | Data Analyst (70002877) | Long Island City, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd2e5a47e38462e2) | 2026-05-18 10:59 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Tulsa, OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af679155705e54bf) | 2026-05-18 10:59 |
+| nan | Senior Ledger Operations Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c76e3468c0010fc1) | 2026-05-18 10:59 |
 | BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=794bf3e65cff79af) | 2026-05-18 06:46 |
 | Boeing | Senior Cloud Solutions Architect | North Charleston, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c6b7f11613741a49) | 2026-05-18 06:46 |
 | BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=990147cfb670b11e) | 2026-05-18 06:46 |
@@ -270,9 +275,6 @@ Last updated: 2026-05-18 06:46
 | Tata Consultancy Services (TCS) | API Automation | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e8f6975673f15cb) | 2026-05-14 16:05 |
 | Hyperlight | Data & AI Engineer | Cambridge, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c3d8a2e8f953d307) | 2026-05-14 11:45 |
 | EchoStar | Senior AI Platform Engineer | Englewood, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f6853815a5710a2) | 2026-05-14 11:45 |
-| State Farm | Senior AWS Infrastructure Engineer | Bloomington, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d9baca6f377f5dc3) | 2026-05-14 09:28 |
-| Cisco | Software Engineer-Infrastructure | Research Triangle Park, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0e8e5dd47c42fc9) | 2026-05-14 09:28 |
-| nan | Senior CloudOps Engineer | Alexandria, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4931dc95bcbec0b) | 2026-05-14 09:28 |
 
 
 ---
