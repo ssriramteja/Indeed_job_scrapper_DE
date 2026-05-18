@@ -1,11 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-18 17:26
+Last updated: 2026-05-18 19:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cotiviti | Data and Insight Analyst | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bb46af131203645d) | 2026-05-18 19:26 |
+| Vanda Pharmaceuticals | DevOps | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f51f479af9282287) | 2026-05-18 19:26 |
+| Amway | Cloud Data Engineer | Ada, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1a2e59f6a4d8593c) | 2026-05-18 19:26 |
+| Optum | Senior Data Engineer | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fa2e0e889ce30184) | 2026-05-18 19:26 |
+| OnMed | DevOps Engineer | White Plains, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=15fa432a086d4c1f) | 2026-05-18 19:26 |
+| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Bloomfield, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac78439c3d5984bd) | 2026-05-18 19:26 |
+| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a693f67199d64d3d) | 2026-05-18 19:26 |
+| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Morris Plains, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab713a681fd0429b) | 2026-05-18 19:26 |
+| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8b99b8ea0db2061) | 2026-05-18 19:26 |
+| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5dc36c16524b514) | 2026-05-18 19:26 |
+| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Bloomington, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=281daf9216f9080a) | 2026-05-18 19:26 |
+| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c1ef5d5975efb63b) | 2026-05-18 19:26 |
+| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Bloomfield, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=36c0fd77f8d43c48) | 2026-05-18 19:26 |
+| IntegriChain | AI Data Engineer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=28193f1af5326eaa) | 2026-05-18 19:26 |
+| Visa | Sr Software Engineer | Foster City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d16f847f21e90057) | 2026-05-18 19:26 |
+| Sevita | Data Integration Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=50a46ce04515ea02) | 2026-05-18 19:26 |
+| University of Texas Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate (On-Site) | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03327cd0d2ff3bea) | 2026-05-18 19:26 |
 | Alphanumeric Systems Inc | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=aafc1066893dd26c) | 2026-05-18 17:26 |
 | Southwest Power Pool | Front-end Programmer Developer - II or Senior | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ecef2fe2fa373cd8) | 2026-05-18 17:26 |
 | RX USA LLC | Senior Cloud Engineer | Souderton, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c6f69adb5e63bee) | 2026-05-18 17:26 |
@@ -261,21 +278,6 @@ Last updated: 2026-05-18 17:26
 | Optum | Sr. Data Engineer (Hybrid In-Office / Remote) | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=291bcfc0c31c7b7b) | 2026-05-14 20:24 |
 | Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41c501bbcf2c51c1) | 2026-05-14 20:24 |
 | CrowdStrike | Sr. Automation Engineer, Falcon Complete (Remote) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdebadd59b18aca7) | 2026-05-14 20:24 |
-| Oriental Bank | Analyst, Information Technology (Data Engineer) | San Juan, PR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1fc8c26cf52dfcdf) | 2026-05-14 18:29 |
-| EXL Service | Agentic AI Data Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cf62a60610273c1a) | 2026-05-14 18:29 |
-| Progyny | Software Engineer II | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a5dcacd0f80c521d) | 2026-05-14 18:29 |
-| Capgemini | Senior Java Full Stack Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f8ce81ab377f28cb) | 2026-05-14 18:29 |
-| Cystems Logic Inc | PLTR Developer- Remote | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0eb17df245873596) | 2026-05-14 18:29 |
-| Transamerica | Senior Platform Engineer - Global CI/CD Platform | Cedar Rapids, IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9a30cd040a7f97b4) | 2026-05-14 18:29 |
-| JSR Tech Consulting | Software Engineer | Newark, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4b60af712b26a5dd) | 2026-05-14 18:29 |
-| EXL Service | Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=828e55e71d22edfc) | 2026-05-14 18:29 |
-| Riverain Technologies | Full Stack Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=077145bd3bd32de2) | 2026-05-14 18:29 |
-| Cystems Logic Inc | Tableau Developer- Remote | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f20fb10dc8288bcf) | 2026-05-14 18:29 |
-| Pacers Sports & Entertainment | Data Architect | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e91c364ef51d1d33) | 2026-05-14 18:29 |
-| NTT DATA | Linux Systems Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bdd9a77f8957015f) | 2026-05-14 18:29 |
-| Recutify Inc. | DevOps Platform Engineer (GitHub Actions & Enterprise Git Governance) | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebdb736ffad340c8) | 2026-05-14 18:29 |
-| Capgemini | Associate Test Automation Engineer | Bridgewater, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a4fe70a1dad5e45) | 2026-05-14 18:29 |
-| Alpaca | Senior Software Engineer - Tax Platform | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4beb98cf5a2cf48) | 2026-05-14 18:29 |
 
 
 ---
