@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-18 19:26
+Last updated: 2026-05-18 21:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| General Dynamics Information Technology | Data Engineer - Active TS/SCI | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f872fe833e94e41d) | 2026-05-18 21:03 |
+| Pax8 | Senior Data Engineer I | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1eb9ce5f60166ab4) | 2026-05-18 21:03 |
+| nan | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=63a798e98d1f6f78) | 2026-05-18 21:03 |
+| Bamboo Health | Cloud Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=de8ea03efdc31e4c) | 2026-05-18 21:03 |
+| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b5a60633917c610) | 2026-05-18 21:03 |
+| Industrial Scientific | Software Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=23d358fe71511f6f) | 2026-05-18 21:03 |
+| Georgia-Pacific | Sr Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69eacc98e74b3522) | 2026-05-18 21:03 |
+| GE Aerospace | Sr AI Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d002c6cfe2bf32d3) | 2026-05-18 21:03 |
 | Cotiviti | Data and Insight Analyst | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bb46af131203645d) | 2026-05-18 19:26 |
 | Vanda Pharmaceuticals | DevOps | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f51f479af9282287) | 2026-05-18 19:26 |
 | Amway | Cloud Data Engineer | Ada, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1a2e59f6a4d8593c) | 2026-05-18 19:26 |
@@ -270,14 +278,6 @@ Last updated: 2026-05-18 19:26
 | General Dynamics Information Technology | Cloud Data Architect | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=837203d21b6808cb) | 2026-05-14 22:02 |
 | nan | Software Engineer - Mid/Sr. | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ae5bcd4793ab2b8) | 2026-05-14 22:02 |
 | QIT SOLUTIONS | Senior Cloud Infrastructure Engineer (MSP Experience Required) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a59a68b637a5948) | 2026-05-14 22:02 |
-| NTT DATA | AI Architect | Auburn Hills, MI, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=e58ec0c3fb594e76) | 2026-05-14 20:24 |
-| Smile Digital Health | Senior DataOps Engineer- Remote US | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3b4e77c5e89765ba) | 2026-05-14 20:24 |
-| Visa | Senior Software Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c5fdd121cf76131f) | 2026-05-14 20:24 |
-| Capital One | Senior Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4967ce59e3591939) | 2026-05-14 20:24 |
-| Leadfeeder | Senior Data Engineer, AI & Data Platform | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b9c87ec5354ee008) | 2026-05-14 20:24 |
-| Optum | Sr. Data Engineer (Hybrid In-Office / Remote) | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=291bcfc0c31c7b7b) | 2026-05-14 20:24 |
-| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41c501bbcf2c51c1) | 2026-05-14 20:24 |
-| CrowdStrike | Sr. Automation Engineer, Falcon Complete (Remote) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdebadd59b18aca7) | 2026-05-14 20:24 |
 
 
 ---
