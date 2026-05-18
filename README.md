@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-18 21:03
+Last updated: 2026-05-18 22:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tyson Foods Incorporated | Senior IT Data Engineer (Onsite) | Springdale, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7b886774f2191937) | 2026-05-18 22:50 |
+| Pacific Consulting | Power BI Developer | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=afb97449b7ed7b0d) | 2026-05-18 22:50 |
+| Desmata Inc | Azure Data Engineer | Texas City, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b018ddcc7ace0923) | 2026-05-18 22:50 |
+| Fiduciary Tech | Business Intelligence Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bcdadb345032fb3b) | 2026-05-18 22:50 |
 | General Dynamics Information Technology | Data Engineer - Active TS/SCI | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f872fe833e94e41d) | 2026-05-18 21:03 |
 | Pax8 | Senior Data Engineer I | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1eb9ce5f60166ab4) | 2026-05-18 21:03 |
 | nan | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=63a798e98d1f6f78) | 2026-05-18 21:03 |
@@ -263,21 +267,6 @@ Last updated: 2026-05-18 21:03
 | Lenovo | AI Application Development Engineer | Morrisville, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=581828717e283b41) | 2026-05-14 23:46 |
 | Lennar | Software Engineer II, Lennar.com | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e6bfbe4b81a06a3) | 2026-05-14 23:46 |
 | Allstate Insurance | Senior AI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2fbb73301c658fc3) | 2026-05-14 23:46 |
-| Esi solutions | Industrial Data Engineer | Sisters, OR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4677bac9c152c55d) | 2026-05-14 22:02 |
-| GEODIS | Sr IT Architect- Database | Brentwood, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=383ad7639607ff42) | 2026-05-14 22:02 |
-| Qualcomm | Modem Machine Learning Engineer | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=08060b468511a1d4) | 2026-05-14 22:02 |
-| American Tower | Senior Development Security Operations Engineer | Cary, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eed0a361f2bb8836) | 2026-05-14 22:02 |
-| Kharon | Data Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fdc756e0a30786a0) | 2026-05-14 22:02 |
-| Kharon | Senior Data Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fd0eed32fbae1e5d) | 2026-05-14 22:02 |
-| Kharon | Senior Software Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=503059911980b460) | 2026-05-14 22:02 |
-| ConocoPhillips | Data and AI Architect | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=747301f11f5bc958) | 2026-05-14 22:02 |
-| ConocoPhillips | Senior Data & Security Architect | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=696a66668bdedd2b) | 2026-05-14 22:02 |
-| Kharon | Senior Site Reliability Engineer | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b525c6918aa7bd0) | 2026-05-14 22:02 |
-| Kretek International | Systems & Cloud Infrastructure Engineer | Moorpark, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e2d5b7958721b0c5) | 2026-05-14 22:02 |
-| Averna | AI Data Analyst | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09c247b71f8052bf) | 2026-05-14 22:02 |
-| General Dynamics Information Technology | Cloud Data Architect | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=837203d21b6808cb) | 2026-05-14 22:02 |
-| nan | Software Engineer - Mid/Sr. | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ae5bcd4793ab2b8) | 2026-05-14 22:02 |
-| QIT SOLUTIONS | Senior Cloud Infrastructure Engineer (MSP Experience Required) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a59a68b637a5948) | 2026-05-14 22:02 |
 
 
 ---
