@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-18
 
-**Total Jobs Found:** 11
+**Total Jobs Found:** 10
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -49,18 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Azure Fabric Engineer @ Cyberlocke, LLC
-**Match Score:** 13.2%
-
-📍 **Location:** McKinney, TX, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Cloud Storage, Spark, PySpark, Scala, ETL, ELT, Power BI
-
-[Apply Here](https://www.indeed.com/viewjob?jk=75b1d946f299c08c)
-
----
-
-## 6. Data Analyst (70002877) @ Optimum
+## 5. Data Analyst (70002877) @ Optimum
 **Match Score:** 13.2%
 
 📍 **Location:** Long Island City, NY, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Cloud Engineer Specialist @ Technology Ventures
+## 6. Cloud Engineer Specialist @ Technology Ventures
 **Match Score:** 11.8%
 
 📍 **Location:** McLean, VA, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Engineer/Sr Engineer, IT Software @ American Airlines
+## 7. Engineer/Sr Engineer, IT Software @ American Airlines
 **Match Score:** 11.8%
 
 📍 **Location:** Tulsa, OK, US USA
@@ -93,18 +82,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Mid-Level Azure DevOps Engineer @ Cyberlocke, LLC
+## 8. Platform Engineer-US @ Certinia
 **Match Score:** 11.1%
 
-📍 **Location:** McKinney, TX, US USA
+📍 **Location:** US USA
 
-🔑 **Keywords:** RDS, Azure, Data Factory, Medallion Architecture, ETL, ELT, Power BI, CI/CD, Azure DevOps, Terraform
+🔑 **Keywords:** AWS, Azure, GCP, Scala, CI/CD, Jenkins, GitHub Actions, Terraform, Kubernetes, Jenkins
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ed58b32ec5793dff)
+[Apply Here](https://www.indeed.com/viewjob?jk=ab574e0b18b6f234)
 
 ---
 
-## 10. Senior Ledger Operations Engineer @ nan
+## 9. Senior Ledger Operations Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Data Engineer and Developer @ nan
+## 10. Data Engineer and Developer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA

@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-18 10:59
+Last updated: 2026-05-18 14:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Certinia | Platform Engineer-US | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab574e0b18b6f234) | 2026-05-18 14:29 |
 | LifeMD | DevOps Engineer | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1ba2ab0e8ae4be68) | 2026-05-18 10:59 |
 | LifeMD | DevOps Engineer | Huntington Beach, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3f2e0fa3bcda75e7) | 2026-05-18 10:59 |
 | Optimum | Data Analyst (70002877) | Long Island City, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd2e5a47e38462e2) | 2026-05-18 10:59 |
@@ -273,8 +274,6 @@ Last updated: 2026-05-18 10:59
 | Tecnologix Limited | Linux CloudSystem Engineer | Plano, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e0f807a114ce5a4) | 2026-05-14 16:05 |
 | CVS Health | Senior Data Engineer | Albany, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b8369c074d102201) | 2026-05-14 16:05 |
 | Tata Consultancy Services (TCS) | API Automation | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e8f6975673f15cb) | 2026-05-14 16:05 |
-| Hyperlight | Data & AI Engineer | Cambridge, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c3d8a2e8f953d307) | 2026-05-14 11:45 |
-| EchoStar | Senior AI Platform Engineer | Englewood, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f6853815a5710a2) | 2026-05-14 11:45 |
 
 
 ---
