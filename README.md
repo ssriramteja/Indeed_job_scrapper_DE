@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-17 23:50
+Last updated: 2026-05-18 02:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BV Teck | Observability Engineer (Prometheus / Grafana / Datadog) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4bb8735550d94e63) | 2026-05-18 02:30 |
 | Cisco | Data Architect | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49bdfaf2b8654cd8) | 2026-05-17 22:43 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=8373a741b052d44b) | 2026-05-17 18:55 |
 | BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=30f833e04719a9a2) | 2026-05-17 18:55 |
@@ -275,35 +276,6 @@ Last updated: 2026-05-17 23:50
 | Illumio | Sr. Site Reliability Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a132e788c3dae9fd) | 2026-05-14 06:17 |
 | Rocket | Senior Data Engineer | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=345945d4c9f90358) | 2026-05-14 06:17 |
 | Fortinet | Cloud Field, Consulting Sales Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e2605e226b8d2e7) | 2026-05-14 06:17 |
-| Royal Caribbean Group | Senior Data Engineer | Miramar, FL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=e8b0be90fe0a7694) | 2026-05-14 02:15 |
-| Mizuho Bank | Credit Risk Technology – Risk Data Integration Engineer | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a1705eebaf5cd797) | 2026-05-14 02:15 |
-| Photon | Senior Backend Developer- Dallas, TX | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4e1c501899b24f6d) | 2026-05-14 02:15 |
-| Surgery Partners | Data Engineer - Hybrid / Remote | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1741157e1f1cd7f4) | 2026-05-14 02:15 |
-| Photon | Fullstack Engineer- Dallas, TX | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e8fb1aacdf7b0187) | 2026-05-14 02:15 |
-| Filevine | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8615d09cb38109c0) | 2026-05-14 02:15 |
-| Toyota North America | Production Engineer - Java Full Stack | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0a46943935a118c1) | 2026-05-14 02:15 |
-| V2 Strategic Advisors | Databricks Senior Data & AI Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=05f974dbef0d4638) | 2026-05-14 02:15 |
-| Colgate-Palmolive | Data Architect | Piscataway, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=977965b62176a35b) | 2026-05-14 02:15 |
-| ServiceTitan | Senior Cloud Security Engineer | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=63bd8141f670af91) | 2026-05-14 02:15 |
-| Microchip Technology | Engineer II-Software Development | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7108d25e7d7c8254) | 2026-05-14 02:15 |
-| EchoStar | Data Engineer II | Littleton, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8b3c61819ab6737c) | 2026-05-14 02:15 |
-| Dave | Senior AI Reconciliation Analyst | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0320187ce551a7ec) | 2026-05-14 02:15 |
-| Aires | Software Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2cadc43695155d56) | 2026-05-14 02:15 |
-| Surgery Partners | Reporting Engineer - Hybrid / Remote | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=432d70e30d357218) | 2026-05-14 02:15 |
-| Brillio LLC | Data Architect – R01565081 | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=331a50f67e92c5e5) | 2026-05-14 02:15 |
-| SAP | SAP NS2 Sr. Security Engineer | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca031bcce448fdbd) | 2026-05-14 02:15 |
-| 10Beauty | Senior Software Engineer - Cloud Applications | Burlington, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=cdc7cb699ca48c49) | 2026-05-13 23:55 |
-| 10Beauty | Senior Software Engineer - Cloud Applications | Boston, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=25dd86b5d7c3e977) | 2026-05-13 23:55 |
-| Capgemini | Sr. APIM Engineer | Nashville, TN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=254d152353d4fb63) | 2026-05-13 23:55 |
-| The University of Chicago | Senior Software Engineer, Backend Services | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=282052d4249e7a38) | 2026-05-13 23:55 |
-| Capgemini | Senior Java AWS Developer Payments | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e3b8be749b58fda2) | 2026-05-13 23:55 |
-| Capgemini | Majesco Migration - Data Architect | Erie, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8eef2c3133811ae9) | 2026-05-13 23:55 |
-| Hexaware Technologies | Technical Architect (BIBA) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0ada48dbcb0fb083) | 2026-05-13 23:55 |
-| Capgemini | Data Engineer (AWS Redshift/Python) | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2522a67f157402a5) | 2026-05-13 23:55 |
-| SHI International | Solutions Engineer - Data Engineering | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=53d6063859712a59) | 2026-05-13 23:55 |
-| BeyondTrust | Sr Software Development Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6715e4c4956d2eae) | 2026-05-13 23:55 |
-| Capgemini | TypeScript Backend Architect | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=806e6d1aea5231f7) | 2026-05-13 23:55 |
-| Capgemini | V&V Engineer – AI - Driven Testing & Validation | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e6e47c4f9f9521bc) | 2026-05-13 23:55 |
 
 
 ---
