@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-18
 
-**Total Jobs Found:** 10
+**Total Jobs Found:** 14
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -60,14 +60,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Cloud Engineer Specialist @ Technology Ventures
-**Match Score:** 11.8%
+## 6. Data Engineer @ Alphanumeric Systems Inc
+**Match Score:** 12.5%
 
-📍 **Location:** McLean, VA, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, S3, API Gateway, ECS, IAM, RDS, Azure, GCP, Jenkins, Terraform
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, Medallion Architecture, Spark, PySpark, Scala, Data Modeling
 
-[Apply Here](https://www.indeed.com/viewjob?jk=97c3d08d72035c3d)
+[Apply Here](https://www.indeed.com/viewjob?jk=aafc1066893dd26c)
 
 ---
 
@@ -82,7 +82,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Platform Engineer-US @ Certinia
+## 8. Front-end Programmer Developer - II or Senior @ Southwest Power Pool
+**Match Score:** 11.8%
+
+📍 **Location:** Little Rock, AR, US USA
+
+🔑 **Keywords:** S3, YARN, Scala, Oracle, MongoDB, ETL, Jenkins, Kubernetes, Jenkins, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ecef2fe2fa373cd8)
+
+---
+
+## 9. Senior Cloud Engineer @ RX USA LLC
+**Match Score:** 11.1%
+
+📍 **Location:** Souderton, PA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, Databricks, Scala, CI/CD, GitHub Actions, Azure DevOps, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5c6f69adb5e63bee)
+
+---
+
+## 10. Platform Engineer-US @ Certinia
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -93,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Ledger Operations Engineer @ nan
+## 11. Senior Ledger Operations Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -104,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Data Engineer and Developer @ nan
+## 12. Data Engineer and Developer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -112,6 +134,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, PostgreSQL, ETL, dbt, Tableau, Airflow, Apache Airflow, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=9a627bc801113951)
+
+---
+
+## 13. Security Software Engineer @ Electronic Arts
+**Match Score:** 10.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, PostgreSQL, DynamoDB, CI/CD, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e2a784d300f8363b)
+
+---
+
+## 14. Senior Data Scientist @ SUPPLIER.IO
+**Match Score:** 10.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Snowflake, Data Modeling, ETL, ELT, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=62fecc0c2154e4b1)
 
 ---
 
