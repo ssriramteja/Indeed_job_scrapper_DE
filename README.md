@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-19 10:33
+Last updated: 2026-05-19 13:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | GCP Data Engineer | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=88dfefca6da19496) | 2026-05-19 13:50 |
+| SharkNinja | Data Engineer | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4eb47d9c8a787444) | 2026-05-19 13:50 |
+| Ai Vantage | Data Engineer- Local | Vienna, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f9f567112b742a9e) | 2026-05-19 13:50 |
+| Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2f3215e173a2f079) | 2026-05-19 13:50 |
+| Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a35019214a98b077) | 2026-05-19 13:50 |
+| Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9516aa524f738d9) | 2026-05-19 13:50 |
+| Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2d5239019737c1e6) | 2026-05-19 13:50 |
+| nan | Sr Software Engineer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a89ce09999706a8d) | 2026-05-19 13:50 |
+| nan | Data Engineer II | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46f97f725c092d19) | 2026-05-19 13:50 |
+| nan | Sr Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef6f778294e73998) | 2026-05-19 13:50 |
+| American Electric Power | Solution Engineer: Enterprise GenAI & Analytics Enablement | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9df419a67df1ba59) | 2026-05-19 13:50 |
 | TCPWave | Full Stack Developer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3aa550f557c45270) | 2026-05-19 10:33 |
 | Cox Automotive | Software Engineer I | Draper, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1eaa43d2708b0fa5) | 2026-05-19 10:33 |
 | Wells Fargo | Senior .net Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f633477012d7720) | 2026-05-19 10:33 |
@@ -239,14 +250,6 @@ Last updated: 2026-05-19 10:33
 | People Inc. | JD - Senior Software Engineer 1, ML | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d672ede61ebda4d7) | 2026-05-15 15:57 |
 | itD Tech | Data Engineer III | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f778e82eb9d3a8f1) | 2026-05-15 15:57 |
 | via | Data Specialist | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc8c37d3b685ec0e) | 2026-05-15 15:57 |
-| SAP | SAP NS2 DevOps Engineer | Herndon, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1e077c2e8ed4afda) | 2026-05-15 13:43 |
-| nan | Site Reliability Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d73094e1a0a14b40) | 2026-05-15 13:43 |
-| Navar Security | senior Salesforce Administrator & Developer | Provo, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=80d5bcdaa4e911a8) | 2026-05-15 11:48 |
-| Suffolk Construction | Site AI Engineer | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e373e64c1d569cf9) | 2026-05-15 11:48 |
-| KLA | Software Engineer - Test Automation | Milpitas, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bb42007cbd45836e) | 2026-05-15 11:48 |
-| Teachers Federal Credit Union | Data Engineer (ONSITE) | Hauppauge, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2ea4f50a56e2ea5d) | 2026-05-15 11:48 |
-| JustPaid | Full Stack Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27aacac9d59c4cf3) | 2026-05-15 11:48 |
-| Tata Consultancy Services (TCS) | Data & AI Solution Architect - AWS Cloud Platforms | Edison, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=811dd7a3eedaa479) | 2026-05-15 11:48 |
 
 
 ---
