@@ -1,22 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-19 18:54
+Last updated: 2026-05-19 20:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Linstarsolution corporation | AI Full Stack Developer & Architect | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1245fb4aa0b33840) | 2026-05-19 20:25 |
+| Trinity Industries | Sr Forward Deployed Engineer (Foundry) | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7f1207216093eb19) | 2026-05-19 20:25 |
+| Success Academy Charter Schools | AI Software Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f69cae0b073ffd83) | 2026-05-19 20:25 |
+| Goodwill Industries of Ky., Inc. | Data Engineer | Louisville, KY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4de6845b355390df) | 2026-05-19 20:25 |
+| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1f1526a2cc9c583) | 2026-05-19 20:25 |
+| Bain & Company | Senior Platform Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f736568439fa09) | 2026-05-19 20:25 |
+| Bain & Company | Senior Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d38e83f9c27ee7f1) | 2026-05-19 20:25 |
+| Bain & Company | Senior Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1b55ac084d2b38e) | 2026-05-19 20:25 |
+| Bain & Company | Senior Platform Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bedeff840282078) | 2026-05-19 20:25 |
+| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4d440465d091eb4) | 2026-05-19 20:25 |
 | L.E.K. Consulting | Data & Analytics Senior Data Engineer | Boston, MA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=9ddcbcd3fcf90b62) | 2026-05-19 18:54 |
 | Sidley Austin | Senior Data Engineer | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9c24ee3772fb2025) | 2026-05-19 18:54 |
 | Sidley Austin | Senior Data Engineer - Quality | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6913762be867dbf6) | 2026-05-19 18:54 |
 | Centric Consulting | Site Reliability Engineer | Cleveland, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=46cdeb4b1af72885) | 2026-05-19 18:54 |
 | Purple Austyn Technologies | Salesforce Enterprise Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ef8a774183b65cc) | 2026-05-19 18:54 |
-| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1f1526a2cc9c583) | 2026-05-19 18:54 |
-| Bain & Company | Senior Platform Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f736568439fa09) | 2026-05-19 18:54 |
-| Bain & Company | Senior Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d38e83f9c27ee7f1) | 2026-05-19 18:54 |
-| Bain & Company | Senior Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1b55ac084d2b38e) | 2026-05-19 18:54 |
-| Bain & Company | Senior Platform Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bedeff840282078) | 2026-05-19 18:54 |
-| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4d440465d091eb4) | 2026-05-19 18:54 |
 | RA Capital Management | Data Solution Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dbb511c116964595) | 2026-05-19 18:54 |
 | Genesys | Senior Software Engineer | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be2a8db8df79df5f) | 2026-05-19 18:54 |
 | Blue Origin | Aerospace Software DevOps Engineer II | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2b1191705b29853) | 2026-05-19 18:54 |
@@ -302,25 +306,6 @@ Last updated: 2026-05-19 18:54
 | Ocrolus | Senior Machine Learning Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7c6ab699a2979fd4) | 2026-05-15 20:52 |
 | Paradigm | Principle Infrastructure Engineer | Virginia Beach, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e26a94c5a6adceae) | 2026-05-15 20:52 |
 | Onebridge | Databricks Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c95d8c1b9c6c720) | 2026-05-15 20:52 |
-| IntegriChain | Senior Database Engineer - Platform Engineering | Philadelphia, PA, US USA | 31.2% | [Apply](https://www.indeed.com/viewjob?jk=8a2a75955286c43d) | 2026-05-15 19:18 |
-| PGW Auto Glass | Data Engineer - Azure & Microsoft Fabric Platform | Cranberry Township, PA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=0d3d77615dc2cb49) | 2026-05-15 19:18 |
-| Recutify Inc. | Senior AWS Cloud Infrastructure Engineer (Terraform / IaC) | Philadelphia, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9ff5ff5e83aa53c1) | 2026-05-15 19:18 |
-| Stellantis | Senior Cloud Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=40b9f771df1c702a) | 2026-05-15 19:18 |
-| Icario | Senior Business Intelligence Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=25febc74557100c5) | 2026-05-15 19:18 |
-| Icario | Senior Business Intelligence Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=818357b4eb0b5728) | 2026-05-15 19:18 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b576f637ff969834) | 2026-05-15 19:18 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=179695ff545f1e20) | 2026-05-15 19:18 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41e7b2135c1ebf09) | 2026-05-15 19:18 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Herndon, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d929fe14c4afbac2) | 2026-05-15 19:18 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dca030c7965ce41e) | 2026-05-15 19:18 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Detroit, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5afcb01b26889c52) | 2026-05-15 19:18 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ed2747917ef629b6) | 2026-05-15 19:18 |
-| PIMCO | Product Engineer, Alternatives | Newport Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85493af98c332665) | 2026-05-15 19:18 |
-| Computer Services Inc. | Technical Product Owner II | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=844a388f6929d4ff) | 2026-05-15 19:18 |
-| Twilio | Software Engineer (L2) Segment Team | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d4f8692b1b780d5) | 2026-05-15 19:18 |
-| Twilio | Software Engineer (L2) Segment Team | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e99b00c104b625fb) | 2026-05-15 19:18 |
-| Twilio | Software Engineer (L2) Segment Team | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=411c82ee69f9645d) | 2026-05-15 19:18 |
-| Twilio | Software Engineer (L2) Segment Team | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9661a8215828cb59) | 2026-05-15 19:18 |
 
 
 ---

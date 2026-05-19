@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-19
 
-**Total Jobs Found:** 107
+**Total Jobs Found:** 106
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -49,18 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Data Engineer- Local @ Ai Vantage
-**Match Score:** 17.4%
-
-📍 **Location:** Vienna, VA, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Lambda, Redshift, Athena, Step Functions, S3, RDS, Hadoop
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f9f567112b742a9e)
-
----
-
-## 6. Senior IT Data Engineer (Onsite) @ Tyson Foods Incorporated
+## 5. Senior IT Data Engineer (Onsite) @ Tyson Foods Incorporated
 **Match Score:** 17.4%
 
 📍 **Location:** Springdale, AR, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Data Engineer @ Sidley Austin
+## 6. Senior Data Engineer @ Sidley Austin
 **Match Score:** 17.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -79,6 +68,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Data Lake Storage, Blob Storage, Unity Catalog, GCP, Spark
 
 [Apply Here](https://www.indeed.com/viewjob?jk=9c24ee3772fb2025)
+
+---
+
+## 7. Data Engineer- Local @ Ai Vantage
+**Match Score:** 17.4%
+
+📍 **Location:** Vienna, VA, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Redshift, Athena, Step Functions, S3, RDS, Hadoop
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f9f567112b742a9e)
 
 ---
 
@@ -93,18 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Data Engineer - Active TS/SCI @ General Dynamics Information Technology
-**Match Score:** 16.7%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** AWS, Lambda, Redshift, S3, SQS, SNS, RDS, Dataflow, Scala, Kafka
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f872fe833e94e41d)
-
----
-
-## 10. Cloud Engineer @ Willdan
+## 9. Cloud Engineer @ Willdan
 **Match Score:** 15.3%
 
 📍 **Location:** Anaheim, CA, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Data Integration Developer, Senior @ Blue Shield of California
+## 10. Data Integration Developer, Senior @ Blue Shield of California
 **Match Score:** 15.3%
 
 📍 **Location:** Oakland, CA, US USA
@@ -126,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Site Reliability Engineer @ VantageScore
+## 11. Site Reliability Engineer @ VantageScore
 **Match Score:** 15.3%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -137,7 +126,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Software Development Engineer @ CVS Health
+## 12. AI Full Stack Developer & Architect @ Linstarsolution corporation
+**Match Score:** 15.3%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** AWS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, Cassandra, NoSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1245fb4aa0b33840)
+
+---
+
+## 13. Sr Forward Deployed Engineer (Foundry) @ Trinity Industries
+**Match Score:** 14.6%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, PySpark, Scala, Snowflake, Oracle
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7f1207216093eb19)
+
+---
+
+## 14. Senior Software Development Engineer @ CVS Health
 **Match Score:** 14.6%
 
 📍 **Location:** TX, US USA
@@ -148,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Senior Software Development Engineer @ CVS Health
+## 15. Senior Software Development Engineer @ CVS Health
 **Match Score:** 14.6%
 
 📍 **Location:** NJ, US USA
@@ -156,17 +167,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, PostgreSQL, MongoDB, Cassandra, CI/CD, Jenkins
 
 [Apply Here](https://www.indeed.com/viewjob?jk=7b763ccac8082bb3)
-
----
-
-## 15. Senior Data Engineer I @ Pax8
-**Match Score:** 14.6%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Redshift, Athena, RDS, Azure, Google Cloud Platform, GCP, BigQuery, Spark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1eb9ce5f60166ab4)
 
 ---
 
@@ -269,18 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Senior Data Engineer @ nan
-**Match Score:** 13.2%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, Google Cloud Platform, GCP, Scala, Oracle, SQL Server
-
-[Apply Here](https://www.indeed.com/viewjob?jk=63a798e98d1f6f78)
-
----
-
-## 26. Software Engineer I @ Cox Automotive
+## 25. Software Engineer I @ Cox Automotive
 **Match Score:** 13.2%
 
 📍 **Location:** Draper, UT, US USA
@@ -291,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Data Engineer (Remote) @ FCT
+## 26. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** NM, US USA
@@ -302,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Data Engineer (Remote) @ FCT
+## 27. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -313,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Data Engineer (Remote) @ FCT
+## 28. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** MI, US USA
@@ -324,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Data Engineer (Remote) @ FCT
+## 29. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** MA, US USA
@@ -335,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Data Engineer (Remote) @ FCT
+## 30. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** AL, US USA
@@ -346,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Data Engineer (Remote) @ FCT
+## 31. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** TX, US USA
@@ -357,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Data Engineer (Remote) @ FCT
+## 32. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** MS, US USA
@@ -368,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Data Engineer (Remote) @ FCT
+## 33. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** New York, NY, US USA
@@ -379,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Data Engineer (Remote) @ FCT
+## 34. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** ME, US USA
@@ -390,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Data Engineer (Remote) @ FCT
+## 35. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** LA, US USA
@@ -401,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Data Engineer (Remote) @ FCT
+## 36. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** MT, US USA
@@ -412,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Data Engineer (Remote) @ FCT
+## 37. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** OR, US USA
@@ -423,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Data Engineer (Remote) @ FCT
+## 38. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** MO, US USA
@@ -434,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Data Engineer (Remote) @ FCT
+## 39. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** CO, US USA
@@ -445,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Data Engineer (Remote) @ FCT
+## 40. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** MD, US USA
@@ -456,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Data Engineer (Remote) @ FCT
+## 41. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** NC, US USA
@@ -467,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Data Engineer (Remote) @ FCT
+## 42. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** Rochester, MN, US USA
@@ -478,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Data Engineer (Remote) @ FCT
+## 43. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** VA, US USA
@@ -489,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Data Engineer (Remote) @ FCT
+## 44. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** CA, US USA
@@ -500,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Data Engineer (Remote) @ FCT
+## 45. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** KY, US USA
@@ -511,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Data Engineer (Remote) @ FCT
+## 46. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** RI, US USA
@@ -522,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Data Engineer (Remote) @ FCT
+## 47. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** SD, US USA
@@ -533,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Data Engineer (Remote) @ FCT
+## 48. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** IN, US USA
@@ -544,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Data Engineer (Remote) @ FCT
+## 49. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** WI, US USA
@@ -555,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Data Engineer (Remote) @ FCT
+## 50. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** WV, US USA
@@ -566,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Data Engineer (Remote) @ FCT
+## 51. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** Ketchikan, AK, US USA
@@ -577,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Data Engineer (Remote) @ FCT
+## 52. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** PA, US USA
@@ -588,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Data Engineer (Remote) @ FCT
+## 53. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** CT, US USA
@@ -599,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Data Engineer (Remote) @ FCT
+## 54. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** NE, US USA
@@ -610,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Data Engineer (Remote) @ FCT
+## 55. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** KS, US USA
@@ -621,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Data Engineer (Remote) @ FCT
+## 56. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** ND, US USA
@@ -632,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. Data Engineer (Remote) @ FCT
+## 57. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** IL, US USA
@@ -643,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. Data Engineer (Remote) @ FCT
+## 58. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** AZ, US USA
@@ -654,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. Data Engineer (Remote) @ FCT
+## 59. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** AR, US USA
@@ -665,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Data Engineer (Remote) @ FCT
+## 60. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** GA, US USA
@@ -676,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. Data Engineer (Remote) @ FCT
+## 61. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** NH, US USA
@@ -687,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Data Engineer (Remote) @ FCT
+## 62. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** Santa Ana, CA, US USA
@@ -698,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Data Engineer (Remote) @ FCT
+## 63. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** WY, US USA
@@ -709,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Data Engineer (Remote) @ FCT
+## 64. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** ID, US USA
@@ -720,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Data Engineer (Remote) @ FCT
+## 65. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** OH, US USA
@@ -731,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Data Engineer (Remote) @ FCT
+## 66. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** NV, US USA
@@ -742,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. Data Engineer (Remote) @ FCT
+## 67. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** NJ, US USA
@@ -753,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Data Engineer (Remote) @ FCT
+## 68. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** UT, US USA
@@ -764,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Data Engineer (Remote) @ FCT
+## 69. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** VT, US USA
@@ -775,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Data Engineer (Remote) @ FCT
+## 70. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** IA, US USA
@@ -786,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Data Engineer (Remote) @ FCT
+## 71. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** TN, US USA
@@ -797,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Data Engineer (Remote) @ FCT
+## 72. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** OK, US USA
@@ -808,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Data Engineer (Remote) @ FCT
+## 73. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** SC, US USA
@@ -819,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Data Engineer (Remote) @ FCT
+## 74. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** FL, US USA
@@ -830,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Data Engineer (Remote) @ FCT
+## 75. Data Engineer (Remote) @ FCT
 **Match Score:** 12.5%
 
 📍 **Location:** DE, US USA
@@ -841,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Data Engineer @ BCS Financial Corporation
+## 76. Data Engineer @ BCS Financial Corporation
 **Match Score:** 12.5%
 
 📍 **Location:** Oakbrook Terrace, IL, US USA
@@ -852,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Data and AI Quality Automation Engineer @ Stratus
+## 77. Data and AI Quality Automation Engineer @ Stratus
 **Match Score:** 12.5%
 
 📍 **Location:** Irving, TX, US USA
@@ -863,18 +852,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Cloud Engineer @ Bamboo Health
+## 78. AI Software Engineer @ Success Academy Charter Schools
 **Match Score:** 12.5%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** AWS, S3, ECS, IAM, RDS, Scala, CI/CD, Jenkins, GitHub Actions, Terraform
+🔑 **Keywords:** AWS, Lambda, Step Functions, S3, API Gateway, IAM, Azure, GCP, BigQuery, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=de8ea03efdc31e4c)
+[Apply Here](https://www.indeed.com/viewjob?jk=f69cae0b073ffd83)
 
 ---
 
-## 80. Power BI Developer @ Pacific Consulting
+## 79. Power BI Developer @ Pacific Consulting
 **Match Score:** 12.5%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -882,6 +871,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Hadoop, Hive, Spark, Scala, Oracle, SQL Server, ETL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=afb97449b7ed7b0d)
+
+---
+
+## 80. Azure Data Engineer @ Desmata Inc
+**Match Score:** 11.8%
+
+📍 **Location:** Texas City, TX, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Lake Storage, Hadoop, Hive, Spark, Scala, Oracle, SQL Server, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b018ddcc7ace0923)
 
 ---
 
@@ -896,18 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Azure Data Engineer @ Desmata Inc
-**Match Score:** 11.8%
-
-📍 **Location:** Texas City, TX, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Lake Storage, Hadoop, Hive, Spark, Scala, Oracle, SQL Server, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b018ddcc7ace0923)
-
----
-
-## 83. Sr. Software Engineer @ GoodRx
+## 82. Sr. Software Engineer @ GoodRx
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -918,18 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Sr Associate Engineer/Engineer, IT Software @ American Airlines
-**Match Score:** 11.8%
-
-📍 **Location:** Fort Worth, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Kafka, PostgreSQL, MongoDB, GitHub Actions, Azure DevOps, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7b5a60633917c610)
-
----
-
-## 85. Oracle Unity/Fusion Customer Data Platform (CDP) Developer @ Hashout Technologies, Inc.
+## 83. Oracle Unity/Fusion Customer Data Platform (CDP) Developer @ Hashout Technologies, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -940,7 +918,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Sr Software Engineer @ nan
+## 84. Data Engineer @ Goodwill Industries of Ky., Inc.
+**Match Score:** 11.1%
+
+📍 **Location:** Louisville, KY, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Scala, SQL Server, Data Modeling, Star Schema, ETL, ELT, Power BI
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4de6845b355390df)
+
+---
+
+## 85. Sr Software Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Santa Monica, CA, US USA
@@ -951,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Data Engineer II @ nan
+## 86. Data Engineer II @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -962,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Sr Data Engineer @ nan
+## 87. Sr Data Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -973,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Salesforce Enterprise Architect @ Purple Austyn Technologies
+## 88. Salesforce Enterprise Architect @ Purple Austyn Technologies
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -984,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Senior Platform Engineer @ Bain & Company
+## 89. Senior Platform Engineer @ Bain & Company
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -995,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Senior .net Software Engineer @ Wells Fargo
+## 90. Senior .net Software Engineer @ Wells Fargo
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -1006,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Sr Full Stack Developer @ Hertz
+## 91. Sr Full Stack Developer @ Hertz
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1017,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Senior Platform Engineer @ Bain & Company
+## 92. Senior Platform Engineer @ Bain & Company
 **Match Score:** 11.1%
 
 📍 **Location:** Chicago, IL, US USA
@@ -1028,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Senior Platform Engineer @ Bain & Company
+## 93. Senior Platform Engineer @ Bain & Company
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -1039,7 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Senior Platform Engineer @ Bain & Company
+## 94. Senior Platform Engineer @ Bain & Company
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -1050,7 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Senior Platform Engineer @ Bain & Company
+## 95. Senior Platform Engineer @ Bain & Company
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -1061,7 +1050,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Senior Platform Engineer @ Bain & Company
+## 96. Senior Platform Engineer @ Bain & Company
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1072,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Data Platform Architect, AI Adoption @ Tesla
+## 97. Data Platform Architect, AI Adoption @ Tesla
 **Match Score:** 11.1%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -1083,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. Epic Clinical Business Intelligence Analyst - Intermediate (On-Site) @ UT Health Science Center at San Antonio
+## 98. Epic Clinical Business Intelligence Analyst - Intermediate (On-Site) @ UT Health Science Center at San Antonio
 **Match Score:** 11.1%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -1094,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. Senior Database Engineer @ Visa
+## 99. Senior Database Engineer @ Visa
 **Match Score:** 11.1%
 
 📍 **Location:** Austin, TX, US USA
@@ -1105,7 +1094,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Data Solution Engineer @ RA Capital Management
+## 100. Data Solution Engineer @ RA Capital Management
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -1116,7 +1105,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. Senior AI & Data Engineer @ Alamar Biosciences
+## 101. Senior AI & Data Engineer @ Alamar Biosciences
 **Match Score:** 10.4%
 
 📍 **Location:** Fremont, CA, US USA
@@ -1127,7 +1116,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. Senior Cloud Engineer @ Lentech Inc.
+## 102. Senior Cloud Engineer @ Lentech Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Fort Meade, MD, US USA
@@ -1138,7 +1127,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 104. Sr. Systems Engineer @ Harbinger Motors Inc.
+## 103. Sr. Systems Engineer @ Harbinger Motors Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Garden Grove, CA, US USA
@@ -1149,7 +1138,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 105. Senior Software Engineer @ Genesys
+## 104. Senior Software Engineer @ Genesys
 **Match Score:** 10.4%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -1160,7 +1149,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 106. Aerospace Software DevOps Engineer II @ Blue Origin
+## 105. Aerospace Software DevOps Engineer II @ Blue Origin
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1171,7 +1160,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 107. Senior AI Engineer (Agent OS Platform) @ ServiceTitan
+## 106. Senior AI Engineer (Agent OS Platform) @ ServiceTitan
 **Match Score:** 10.4%
 
 📍 **Location:** Sacramento, CA, US USA
