@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-19 16:45
+Last updated: 2026-05-19 18:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| L.E.K. Consulting | Data & Analytics Senior Data Engineer | Boston, MA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=9ddcbcd3fcf90b62) | 2026-05-19 18:54 |
+| Sidley Austin | Senior Data Engineer | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9c24ee3772fb2025) | 2026-05-19 18:54 |
+| Sidley Austin | Senior Data Engineer - Quality | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6913762be867dbf6) | 2026-05-19 18:54 |
+| Centric Consulting | Site Reliability Engineer | Cleveland, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=46cdeb4b1af72885) | 2026-05-19 18:54 |
+| Purple Austyn Technologies | Salesforce Enterprise Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ef8a774183b65cc) | 2026-05-19 18:54 |
+| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1f1526a2cc9c583) | 2026-05-19 18:54 |
+| Bain & Company | Senior Platform Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f736568439fa09) | 2026-05-19 18:54 |
+| Bain & Company | Senior Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d38e83f9c27ee7f1) | 2026-05-19 18:54 |
+| Bain & Company | Senior Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1b55ac084d2b38e) | 2026-05-19 18:54 |
+| Bain & Company | Senior Platform Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bedeff840282078) | 2026-05-19 18:54 |
+| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4d440465d091eb4) | 2026-05-19 18:54 |
+| RA Capital Management | Data Solution Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dbb511c116964595) | 2026-05-19 18:54 |
+| Genesys | Senior Software Engineer | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be2a8db8df79df5f) | 2026-05-19 18:54 |
+| Blue Origin | Aerospace Software DevOps Engineer II | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2b1191705b29853) | 2026-05-19 18:54 |
 | Qode | AWS Solutions Architect | Township of Jackson, NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6caaa34875b1debe) | 2026-05-19 16:45 |
 | Qode | AWS Solutions Architect | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e5b79cbd12020dac) | 2026-05-19 16:45 |
 | Qode | AWS Solutions Architect | Fort Mill, SC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c8d6b6fd4abcdced) | 2026-05-19 16:45 |
@@ -307,11 +321,6 @@ Last updated: 2026-05-19 16:45
 | Twilio | Software Engineer (L2) Segment Team | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e99b00c104b625fb) | 2026-05-15 19:18 |
 | Twilio | Software Engineer (L2) Segment Team | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=411c82ee69f9645d) | 2026-05-15 19:18 |
 | Twilio | Software Engineer (L2) Segment Team | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9661a8215828cb59) | 2026-05-15 19:18 |
-| EXL Service | AWS Data Architect | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1cf3370540eacedd) | 2026-05-15 17:24 |
-| Stratus | Senior Data Architect and Database Engineer (Hands on) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=927d413c04d6f9fa) | 2026-05-15 17:24 |
-| EXL Service | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=64fe2438fb1b9d07) | 2026-05-15 17:24 |
-| RealTruck | Sr. Platform Engineer (AWS/Call Center) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5eacf8e440d50fc0) | 2026-05-15 17:24 |
-| Burwood Group | Consultant, Cloud Solutions | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ead15ecd3721fe70) | 2026-05-15 17:24 |
 
 
 ---
