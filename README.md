@@ -1,11 +1,78 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-19 13:50
+Last updated: 2026-05-19 16:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Qode | AWS Solutions Architect | Township of Jackson, NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6caaa34875b1debe) | 2026-05-19 16:45 |
+| Qode | AWS Solutions Architect | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e5b79cbd12020dac) | 2026-05-19 16:45 |
+| Qode | AWS Solutions Architect | Fort Mill, SC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c8d6b6fd4abcdced) | 2026-05-19 16:45 |
+| CVS Health | Senior Software Development Engineer | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=154aec3c659c637e) | 2026-05-19 16:45 |
+| CVS Health | Senior Software Development Engineer | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7b763ccac8082bb3) | 2026-05-19 16:45 |
+| Qode | .NET Architect | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c8e4611f2709de72) | 2026-05-19 16:45 |
+| Optum | Senior DevOps Engineer | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=688d23a37649aa4e) | 2026-05-19 16:45 |
+| Freddie Mac | Senior Data Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b2c6986e7938de04) | 2026-05-19 16:45 |
+| IntegraTouch | Senior Data Intregration Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=189b52949d35286b) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | NM, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a198e2f00d09e497) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac5897cf20f4924d) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6add22c42e86ee8d) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=060e90baddbaabb6) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29fa15772fc8215e) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dbeaf5356928be79) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | MS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=30aac5b70ec21742) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e1224f39b4d10142) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b20c6e56d2f2685) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | LA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=57de84d9a0a356fd) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | MT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4a7a4bbc97a4a7bf) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e0d1d3131f74e61) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=99acdc5f038ec993) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=417fe7ce0dd45b13) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0ba18545223c64cb) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b7609618f1bb60b) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | Rochester, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=42786522a873fac5) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bc1e37739c6d4489) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4837b9e4911393cf) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7a7ab2808448b848) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | RI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c440af126bc87e6f) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | SD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8aed0004eb1e73c2) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=58e007bbdf452d21) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b9b4f9cd182d1098) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | WV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=10812a5dd633ba29) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | Ketchikan, AK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5cbc2599ef10ec38) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d3c03923d226d6f) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5f0c53177d376165) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | NE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6cb2d6450935c77c) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | KS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2139a4cc82cf98d5) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | ND, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=84ec6e1b6a41c09d) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=90a8660d20e3925c) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ea946bc190711225) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | AR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=79a44a6e66a933e3) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5df6fdfb75f5432d) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c9aa599a96ed4d6c) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | Santa Ana, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=68cdb549def54218) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | WY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7272f84ff6357152) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | ID, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52db1fcf17eb0ef7) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e02b0fedb5c9b46f) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a9ccfe1a1c1f3d82) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=96157e562b62f43b) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fcfbe3b324a53aa8) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | VT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cdb0f2907c4f113d) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=81bfbbc916c4bf3d) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ae070dd661915e6c) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | OK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=836c940883a7c623) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9623f5aff1bc8e49) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d05fef2d9ced9478) | 2026-05-19 16:45 |
+| FCT | Data Engineer (Remote) | DE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e2d976dafe088343) | 2026-05-19 16:45 |
+| Hashout Technologies, Inc. | Oracle Unity/Fusion Customer Data Platform (CDP) Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05820054e138dd33) | 2026-05-19 16:45 |
+| Alamar Biosciences | Senior AI & Data Engineer | Fremont, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1884155644ac6742) | 2026-05-19 16:45 |
+| Energy Solutions | Database Administrator (New York, NY - US) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d13c0f429a80b43) | 2026-05-19 16:45 |
+| Energy Solutions | Database Administrator (Portland, OR - US) | Portland, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1df1dc65f5bf751b) | 2026-05-19 16:45 |
+| Energy Solutions | Database Administrator (Chicago, IL- US) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb65af8c43f9fc32) | 2026-05-19 16:45 |
+| Energy Solutions | Database Administrator (Orange, CA - US) | Orange, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=505e60955729c7b6) | 2026-05-19 16:45 |
+| Energy Solutions | Database Administrator (Boston,MA - US) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21538c437c55ec26) | 2026-05-19 16:45 |
+| Energy Solutions | Database Administrator (Oakland, CA - US) | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cadff332c22c58a9) | 2026-05-19 16:45 |
 | Capgemini | GCP Data Engineer | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=88dfefca6da19496) | 2026-05-19 13:50 |
 | SharkNinja | Data Engineer | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4eb47d9c8a787444) | 2026-05-19 13:50 |
 | Ai Vantage | Data Engineer- Local | Vienna, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f9f567112b742a9e) | 2026-05-19 13:50 |
@@ -245,11 +312,6 @@ Last updated: 2026-05-19 13:50
 | EXL Service | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=64fe2438fb1b9d07) | 2026-05-15 17:24 |
 | RealTruck | Sr. Platform Engineer (AWS/Call Center) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5eacf8e440d50fc0) | 2026-05-15 17:24 |
 | Burwood Group | Consultant, Cloud Solutions | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ead15ecd3721fe70) | 2026-05-15 17:24 |
-| nan | Sr Data Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5cd6dc8c3a5470cf) | 2026-05-15 15:57 |
-| Tata Consultancy Services (TCS) | Cloud Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6cd6d6bd7fa1196f) | 2026-05-15 15:57 |
-| People Inc. | JD - Senior Software Engineer 1, ML | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d672ede61ebda4d7) | 2026-05-15 15:57 |
-| itD Tech | Data Engineer III | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f778e82eb9d3a8f1) | 2026-05-15 15:57 |
-| via | Data Specialist | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc8c37d3b685ec0e) | 2026-05-15 15:57 |
 
 
 ---
