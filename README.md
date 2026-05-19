@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-19 06:41
+Last updated: 2026-05-19 10:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TCPWave | Full Stack Developer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3aa550f557c45270) | 2026-05-19 10:33 |
+| Cox Automotive | Software Engineer I | Draper, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1eaa43d2708b0fa5) | 2026-05-19 10:33 |
+| Wells Fargo | Senior .net Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f633477012d7720) | 2026-05-19 10:33 |
+| Tivity Health | Sr Engineer, Data Science & Machine Learning Operations - remote opportunity | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ba5979330da050e) | 2026-05-19 10:33 |
 | Willdan | Cloud Engineer | Anaheim, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cf4ce7bf4011426a) | 2026-05-19 06:41 |
 | Tesla | Data Platform Architect, AI Adoption | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=abf4cabe83b9851e) | 2026-05-19 06:41 |
-| Rockland Trust Company | AI Engineer | MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=26d4e78c9c5edc3b) | 2026-05-19 06:41 |
 | UT Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate (On-Site) | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be9f49babb6ca927) | 2026-05-19 06:41 |
 | Thorne | Senior DevSecOps / Security Engineer – Application & Cloud (Ecommerce) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f7be3e52d3af700) | 2026-05-19 06:41 |
 | ASPCA | Microsoft Dynamics 365 Engineer | Champaign, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1215e6b6c5c859a) | 2026-05-19 06:41 |
@@ -244,12 +247,6 @@ Last updated: 2026-05-19 06:41
 | Teachers Federal Credit Union | Data Engineer (ONSITE) | Hauppauge, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2ea4f50a56e2ea5d) | 2026-05-15 11:48 |
 | JustPaid | Full Stack Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27aacac9d59c4cf3) | 2026-05-15 11:48 |
 | Tata Consultancy Services (TCS) | Data & AI Solution Architect - AWS Cloud Platforms | Edison, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=811dd7a3eedaa479) | 2026-05-15 11:48 |
-| Adobe | Senior Data Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e0200a14e25dfc13) | 2026-05-15 09:39 |
-| LevelUp | Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8bcb8527a918f423) | 2026-05-15 09:39 |
-| Wells Fargo | Senior Software Engineer AI/Gen AI | Iselin, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7976715069e9a69) | 2026-05-15 09:39 |
-| Wells Fargo | Senior Software Engineer AI/Gen AI | Chandler, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e1a685db36736a9) | 2026-05-15 09:39 |
-| Wells Fargo | Senior Software Engineer AI/Gen AI | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c03120ae5d030db) | 2026-05-15 09:39 |
-| Wells Fargo | Senior Software Engineer AI/Gen AI | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=311bc1fef3da325e) | 2026-05-15 09:39 |
 
 
 ---
