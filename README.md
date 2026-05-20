@@ -1,31 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-20 10:20
+Last updated: 2026-05-20 13:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4d2f3a6f6a24726d) | 2026-05-20 13:31 |
+| Triwave Solutions Inc | ETL Developer | Baltimore, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=67cc5c5d1b62b505) | 2026-05-20 13:31 |
+| Barrett-Jackson Auction Company | Data Engineer (Warehouse, BI & SQL DBA) | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a2a5363a406f3ade) | 2026-05-20 13:31 |
+| Optum | Senior Software Engineer | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b8bd188504a235ef) | 2026-05-20 13:31 |
+| Ford Motor Company | AI Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6725bf29a07dcb85) | 2026-05-20 13:31 |
+| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1f1526a2cc9c583) | 2026-05-20 13:31 |
+| Bain & Company | Senior Platform Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f736568439fa09) | 2026-05-20 13:31 |
+| Bain & Company | Senior Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d38e83f9c27ee7f1) | 2026-05-20 13:31 |
+| Bain & Company | Senior Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1b55ac084d2b38e) | 2026-05-20 13:31 |
+| Bain & Company | Senior Platform Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bedeff840282078) | 2026-05-20 13:31 |
+| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4d440465d091eb4) | 2026-05-20 13:31 |
 | American Honda Motor | Senior AWS Cloud Data Engineer I | Marysville, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d17713297f88b607) | 2026-05-20 10:20 |
-| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4d2f3a6f6a24726d) | 2026-05-20 10:20 |
 | Trinity Industries | Sr Forward Deployed Engineer (Foundry) | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e98784d3b069887) | 2026-05-20 10:20 |
 | RealPage Inc | AI Engineer III HYBRID | Richardson, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=03b9bfbeef45e637) | 2026-05-20 10:20 |
 | Georgia-Pacific | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cc070bfe12f04a4e) | 2026-05-20 10:20 |
 | O'Reilly Auto Parts | System Engineer- Platform/API Gateway | Springfield, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9f3ba65fc8111094) | 2026-05-20 10:20 |
-| Barrett-Jackson Auction Company | Data Engineer (Warehouse, BI & SQL DBA) | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a2a5363a406f3ade) | 2026-05-20 10:20 |
 | National Debt Relief | Senior Machine Learning Ops Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d62f3b2380e0b366) | 2026-05-20 10:20 |
 | Halliburton | Senior Software Engineer - Landmark | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=198b17d882618b2f) | 2026-05-20 10:20 |
 | O'Reilly Auto Parts | System Engineer-Platform/Kafka/Messaging | Springfield, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7af3032d6f77f72a) | 2026-05-20 10:20 |
-| Ford Motor Company | AI Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6725bf29a07dcb85) | 2026-05-20 10:20 |
 | Halliburton | Software Engineer - Early Career - Landmark | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c2850e7510faaa4) | 2026-05-20 10:20 |
 | Intone Networks | Data Engineer | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f9d0b722ecec30e9) | 2026-05-20 10:20 |
 | Wells Fargo | Python Full Stack Developer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71f910656c4ac5af) | 2026-05-20 10:20 |
-| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1f1526a2cc9c583) | 2026-05-20 10:20 |
-| Bain & Company | Senior Platform Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f736568439fa09) | 2026-05-20 10:20 |
-| Bain & Company | Senior Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d38e83f9c27ee7f1) | 2026-05-20 10:20 |
-| Bain & Company | Senior Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1b55ac084d2b38e) | 2026-05-20 10:20 |
-| Bain & Company | Senior Platform Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bedeff840282078) | 2026-05-20 10:20 |
-| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4d440465d091eb4) | 2026-05-20 10:20 |
 | nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ee6066bc70296362) | 2026-05-20 06:41 |
 | CVS Health | Senior Software Development Engineer | MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=01411b771339e7f8) | 2026-05-20 06:41 |
 | Universal Orlando Resort | Data Engineer, Marketing Data Operations | Orlando, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=50262f2646c95e45) | 2026-05-20 06:41 |
@@ -291,12 +293,6 @@ Last updated: 2026-05-20 10:20
 | BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=080b9674fa248221) | 2026-05-16 18:51 |
 | CSIK Consulting | Microsoft Azure Engineer | Alexandria, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fab3c4481b723cee) | 2026-05-16 16:47 |
 | Troutman Pepper Locke | Microsoft Fabric Architect | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=492db2dfac4c0f4b) | 2026-05-16 14:23 |
-| JPMorganChase | AI Software Engineer III- PySpark, Python, AWS | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=222754f51ea12be7) | 2026-05-16 10:56 |
-| CDW | Senior Platform, DevOps Engineer | Vernon Hills, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=10b5742d09907dfe) | 2026-05-16 10:56 |
-| CDW | Senior Analytics Engineer | Vernon Hills, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=526c7ffc59edd892) | 2026-05-16 10:56 |
-| Fisher Investments | Data Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1ee849cf602df7fc) | 2026-05-16 10:56 |
-| Fisher Investments | Data Engineer | Camas, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ae7f5047520b4e1a) | 2026-05-16 10:56 |
-| CDW | Senior Data Engineer | Vernon Hills, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4352558a8280bcbb) | 2026-05-16 10:56 |
 
 
 ---
