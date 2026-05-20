@@ -1,17 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-20 16:46
+Last updated: 2026-05-20 19:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Goldman Sachs | Asset & Wealth Management, Business Analytics, Associate - New York | New York, NY, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=d4ad76c8612e4a09) | 2026-05-20 19:14 |
+| Xpedient Technologies | AI/ML Intern | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0f1d8e827779774e) | 2026-05-20 19:14 |
+| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1ef768a7022d9b02) | 2026-05-20 19:14 |
+| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4d2f3a6f6a24726d) | 2026-05-20 19:14 |
+| Newpage Digital Healthcare solutions | AI-Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=aa0b54505ba83c83) | 2026-05-20 19:14 |
+| Newpage Digital Healthcare solutions | AI-Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=788be6fbb8bd5c28) | 2026-05-20 19:14 |
+| Newpage Digital Healthcare solutions | AI-Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=01d2969a0188cb3d) | 2026-05-20 19:14 |
+| Barrett-Jackson Auction Company | Data Engineer (Warehouse, BI & SQL DBA) | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a2a5363a406f3ade) | 2026-05-20 19:14 |
+| Random Bit | Senior AWS Solution Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a5f8e7a290e072e8) | 2026-05-20 19:14 |
+| TD | Data Engineer II (US) | Mount Laurel, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=acd3a2400ded0ef7) | 2026-05-20 19:14 |
+| McKinsey & Company | Senior Data Engineer - Periscope | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd4f1b922a309e4) | 2026-05-20 19:14 |
+| nan | Senior Business Systems & Integrations Architect | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6abc49ee6c2f3b4f) | 2026-05-20 19:14 |
+| RevSpring, Inc | Data Engineer II - Analytics | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15bd37695704d0b2) | 2026-05-20 19:14 |
+| Gritter Francona, Inc | Informatics Architect | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da9c3829227dd781) | 2026-05-20 19:14 |
+| Gritter Francona, Inc | Informatics Architect | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65b067d12eb88dd1) | 2026-05-20 19:14 |
+| Gritter Francona, Inc | Informatics Architect | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d7ad78f557a45964) | 2026-05-20 19:14 |
+| Gritter Francona, Inc | Informatics Architect | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=acdf9d3eb5360a9e) | 2026-05-20 19:14 |
 | WinWire | AWS Data Architect | Alameda, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=94da66580e29e534) | 2026-05-20 16:46 |
 | New York Life | Senior Associate - AI Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9cc5523e609d6490) | 2026-05-20 16:46 |
 | JSR Tech Consulting | Data Engineer - AWS, python | Newark, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0fc48402a0ee4138) | 2026-05-20 16:46 |
-| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1ef768a7022d9b02) | 2026-05-20 16:46 |
-| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4d2f3a6f6a24726d) | 2026-05-20 16:46 |
-| Barrett-Jackson Auction Company | Data Engineer (Warehouse, BI & SQL DBA) | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a2a5363a406f3ade) | 2026-05-20 16:46 |
 | Total Wine & More | Sr. Analytics Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d61f658ab71dc3d) | 2026-05-20 16:46 |
 | Ideal Business Advisors | Data Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e07e4d5100d0a09) | 2026-05-20 16:46 |
 | Chiro Cat | Humbly Confident Senior Laravel Engineer | UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d426212b47f2cb5) | 2026-05-20 16:46 |
@@ -288,15 +302,6 @@ Last updated: 2026-05-20 16:46
 | BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88ad22f9405e77ea) | 2026-05-17 12:58 |
 | BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c76fbdb48e9a34d3) | 2026-05-17 08:58 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0d65ad8442e8885d) | 2026-05-17 08:58 |
-| BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=cfeff295f2019956) | 2026-05-16 18:51 |
-| BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1def15e5de2b7c64) | 2026-05-16 18:51 |
-| BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=966e325f5ac56bee) | 2026-05-16 18:51 |
-| BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=64a90374f14eb8a5) | 2026-05-16 18:51 |
-| BV Teck | Azure Cloud Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=248664e537c28c4d) | 2026-05-16 18:51 |
-| BV Teck | Kafka Platform Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=35842df306ee4c2e) | 2026-05-16 18:51 |
-| BV Teck | Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=80b4ec4ddf5614d5) | 2026-05-16 18:51 |
-| BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=080b9674fa248221) | 2026-05-16 18:51 |
-| CSIK Consulting | Microsoft Azure Engineer | Alexandria, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fab3c4481b723cee) | 2026-05-16 16:47 |
 
 
 ---
