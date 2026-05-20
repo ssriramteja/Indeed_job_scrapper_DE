@@ -1,24 +1,40 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-20 02:29
+Last updated: 2026-05-20 06:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Barrett-Jackson Auction Company | Data Engineer (Warehouse, BI & SQL DBA) | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a2a5363a406f3ade) | 2026-05-20 02:29 |
+| nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ee6066bc70296362) | 2026-05-20 06:41 |
+| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4d2f3a6f6a24726d) | 2026-05-20 06:41 |
+| CVS Health | Senior Software Development Engineer | MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=01411b771339e7f8) | 2026-05-20 06:41 |
+| Universal Orlando Resort | Data Engineer, Marketing Data Operations | Orlando, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=50262f2646c95e45) | 2026-05-20 06:41 |
+| nan | Cloud Database Administrator (DBA)/ETL Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=98b32025713e041a) | 2026-05-20 06:41 |
+| nan | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=913ce0d28b943134) | 2026-05-20 06:41 |
+| Barrett-Jackson Auction Company | Data Engineer (Warehouse, BI & SQL DBA) | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a2a5363a406f3ade) | 2026-05-20 06:41 |
+| U.S. Bank | Senior DB engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=560a0ac785ae0307) | 2026-05-20 06:41 |
+| Newity LLC | Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f118becd7bebc8f7) | 2026-05-20 06:41 |
+| Tesla | Forward Deployed Engineer, Energy | Brookshire, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ed396163c7720de0) | 2026-05-20 06:41 |
+| Ford Motor Company | AI Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6725bf29a07dcb85) | 2026-05-20 06:41 |
+| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b1897a63fde0954) | 2026-05-20 06:41 |
+| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=17aeeb541c761336) | 2026-05-20 06:41 |
+| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=637b19c57d2d2f1f) | 2026-05-20 06:41 |
+| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1f1526a2cc9c583) | 2026-05-20 06:41 |
+| Bain & Company | Senior Platform Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f736568439fa09) | 2026-05-20 06:41 |
+| Bain & Company | Senior Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d38e83f9c27ee7f1) | 2026-05-20 06:41 |
+| Bain & Company | Senior Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1b55ac084d2b38e) | 2026-05-20 06:41 |
+| Bain & Company | Senior Platform Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bedeff840282078) | 2026-05-20 06:41 |
+| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4d440465d091eb4) | 2026-05-20 06:41 |
+| Releady | Data Engineer - Consultant | Sacramento, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=26c8d9977ea88967) | 2026-05-20 06:41 |
+| Honeywell | Advanced AI Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cfea9e97e390496) | 2026-05-20 06:41 |
+| Capgemini | SRE / DevOps Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b064c172d457476) | 2026-05-20 06:41 |
+| Social Impact | Full-Stack Platform Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ecea58c06ba3a52) | 2026-05-20 06:41 |
 | Infinitive Inc | Data Engineer (Python/PySpark/Apache Spark) | Ashburn, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b4cfb81cc411bf7) | 2026-05-20 02:29 |
-| Ford Motor Company | AI Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6725bf29a07dcb85) | 2026-05-20 02:29 |
 | FinQuery | Database Engineer / Database Administrator | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=308cbdae7b1e0202) | 2026-05-20 02:29 |
 | MGM Resorts International | AI Commercial & ML Ops Engineer | Las Vegas, NV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b3de78a500e2bdfb) | 2026-05-20 02:29 |
 | Equifax | Software Engineer (Generative AI) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da1e181dd87c6910) | 2026-05-20 02:29 |
 | Everforth ECS | Junior Software Developer, Applications | O'Fallon, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=230c6608eadb69fd) | 2026-05-20 02:29 |
-| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1f1526a2cc9c583) | 2026-05-20 02:29 |
-| Bain & Company | Senior Platform Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f736568439fa09) | 2026-05-20 02:29 |
-| Bain & Company | Senior Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d38e83f9c27ee7f1) | 2026-05-20 02:29 |
-| Bain & Company | Senior Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b1b55ac084d2b38e) | 2026-05-20 02:29 |
-| Bain & Company | Senior Platform Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bedeff840282078) | 2026-05-20 02:29 |
-| Bain & Company | Senior Platform Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4d440465d091eb4) | 2026-05-20 02:29 |
 | Community Federal Savings Bank | Sr. Associate, Cloud Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6632526b69079b6f) | 2026-05-20 02:29 |
 | Recutify Inc. | Senior Data Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=28e1c461015035ce) | 2026-05-19 23:55 |
 | nan | Senior Data Engineer | Encino, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b5196076aab88a07) | 2026-05-19 23:55 |
@@ -276,14 +292,6 @@ Last updated: 2026-05-20 02:29
 | Wells Fargo | Senior Software Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f35198cc5d5a9abe) | 2026-05-16 09:22 |
 | Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6677fe87cb8cb6d6) | 2026-05-16 09:22 |
 | GEICO | Claims Data Analytics Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b781c95a46c79e5d) | 2026-05-16 07:51 |
-| nan | Senior DJI Dock 2 / Cloud API Integration Engineer | Naperville, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=f4968d826aaf9e4d) | 2026-05-16 05:46 |
-| Honeywell | Sr Advanced Cloud Developer | Mason, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b77fa4bb580f7b02) | 2026-05-16 05:46 |
-| Fluency | Software Engineer, AI Platform | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c9835c2dd64dde09) | 2026-05-16 05:46 |
-| Charles Schwab | Senior Software Engineer | Southlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2e2a80dff0ea8242) | 2026-05-16 05:46 |
-| Tata Consultancy Services (TCS) | Senior Engineer - Agentic AI | Troy, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3de44fa63b4b67d2) | 2026-05-16 05:46 |
-| Masimo | Engineer II, Cloud & Web Systems Software | Irvine, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bf612beac38dd2c) | 2026-05-16 05:46 |
-| Verkada | Senior Data Engineer | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d89303a4a06cd252) | 2026-05-16 05:46 |
-| Intuitive (Intuitive Surgical) | Machine Learning Engineer | Peachtree Corners, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3677cf32b1561e4d) | 2026-05-16 05:46 |
 
 
 ---
