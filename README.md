@@ -1,25 +1,37 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-20 21:43
+Last updated: 2026-05-20 23:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1ef768a7022d9b02) | 2026-05-20 21:43 |
-| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4d2f3a6f6a24726d) | 2026-05-20 21:43 |
+| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1ef768a7022d9b02) | 2026-05-20 23:05 |
+| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4d2f3a6f6a24726d) | 2026-05-20 23:05 |
+| Optum | Sr AI/ML Engineer - Remote Nationwide or Hybrid in MN/DC | Eden Prairie, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a5428c5fe3301bb2) | 2026-05-20 23:05 |
+| Liberty Mutual Insurance | Data Engineer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=32851dd10ee0e5da) | 2026-05-20 23:05 |
+| Liberty Mutual Insurance | Data Engineer | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=708d5186ef13d22a) | 2026-05-20 23:05 |
+| Liberty Mutual Insurance | Data Engineer | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8ab11bf9d3a0cb66) | 2026-05-20 23:05 |
+| Liberty Mutual Insurance | Data Engineer | Portsmouth, NH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bd4179f9ef43c111) | 2026-05-20 23:05 |
+| Barrett-Jackson Auction Company | Data Engineer (Warehouse, BI & SQL DBA) | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a2a5363a406f3ade) | 2026-05-20 23:05 |
+| Protiviti | Microsoft Analytics Data Engineer Senior Consultant | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2139ccd23148ef97) | 2026-05-20 23:05 |
+| Protiviti | Microsoft Analytics Data Engineer Senior Consultant | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=979fd479106b8582) | 2026-05-20 23:05 |
+| Federal Reserve Bank of New York | Cloud AWS Support Reliability Engineer (SRE) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=397e7786631910d4) | 2026-05-20 23:05 |
+| Flex | Platform Architect - AI | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e294cc6d33384a45) | 2026-05-20 23:05 |
+| CG Infinity | Data Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0a20b18aa66e51d2) | 2026-05-20 23:05 |
+| McKinsey & Company | Senior Data Engineer - Periscope | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd4f1b922a309e4) | 2026-05-20 23:05 |
+| Clayco | Platform Engineer | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6fb9d94196cc44d) | 2026-05-20 23:05 |
+| Tesla | Sr. Distributed Systems Engineer, Energy Service Engineering | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b311adc4e009a8c4) | 2026-05-20 23:05 |
 | Cardinal Health | Senior Data/AI Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6b7b2e289fa4a81b) | 2026-05-20 21:43 |
 | nan | Data Engineer/Sr. Data Engineer -ITDDP (Contractual) | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7979c28cb86f5690) | 2026-05-20 21:43 |
 | Wells Fargo | Senior Software Engineer – Data Engineering (GCP & AI) (contract) | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=864bf732311fb751) | 2026-05-20 21:43 |
 | Tata Consultancy Services (TCS) | GCP Data Eng | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4aa07fecdad59559) | 2026-05-20 21:43 |
-| Barrett-Jackson Auction Company | Data Engineer (Warehouse, BI & SQL DBA) | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a2a5363a406f3ade) | 2026-05-20 21:43 |
 | Salesforce | Software Engineer (Backend) - MTS | Redwood City, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa29de43e62d8b14) | 2026-05-20 21:43 |
 | Brooks Running | Senior Machine Learning Engineer (Temporary) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=31e77238a1b70a49) | 2026-05-20 21:43 |
 | Air Today USA | Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c73ef9f43ca54c71) | 2026-05-20 21:43 |
 | Ella Wholesales Coffee | Mid-level DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=02374e2f05fa51aa) | 2026-05-20 21:43 |
 | Cboe Global Markets | Sr Software Engineer, Build and Release Management | Kansas City, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fe77948a6745c2be) | 2026-05-20 21:43 |
 | AAA Central Penn | Business Intelligence Developer | Harrisburg, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=225bdb7f78f14470) | 2026-05-20 21:43 |
-| McKinsey & Company | Senior Data Engineer - Periscope | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd4f1b922a309e4) | 2026-05-20 21:43 |
 | LTIMindtree | Senior Specialist - Architecture | Chandler, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7dcc5ce5e437bc35) | 2026-05-20 21:43 |
 | Portfolio BI | Full Stack Quantitative Developer - NYC / Dallas / Los Angeles | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6e72e9173a4b1e5) | 2026-05-20 21:43 |
 | AAA Central Penn | Business Intelligence Analyst - Harrisburg, PA | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a7c5dcb3f5dd6592) | 2026-05-20 21:43 |
