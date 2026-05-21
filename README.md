@@ -1,22 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-21 16:36
+Last updated: 2026-05-21 18:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Autodesk | Data Engineer | CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=6664732c8e57da4b) | 2026-05-21 18:54 |
+| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2521221b0a4f471f) | 2026-05-21 18:54 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eed5e5d6e7ec548f) | 2026-05-21 18:54 |
+| Building Service 32BJ Benefit Funds | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d72bea8288f357ee) | 2026-05-21 18:54 |
+| Stellantis | Integrations Architect- Azure | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b48cfa32c4737ad6) | 2026-05-21 18:54 |
+| Ford Motor Company | Senior Software Engineer - Vehicle Cybersecurity | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dcb62768f9619d2e) | 2026-05-21 18:54 |
+| Endeavor Health | Cloud Data Engineer | Arlington Heights, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=298c4bfe00214f1f) | 2026-05-21 18:54 |
+| Tenable | Salesforce Developer (Hybrid/Columbia MD) | Columbia, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9bfd9cd9ac48b12f) | 2026-05-21 18:54 |
+| AT&T | Senior System Engineering - Engineering Operations | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cda7123f0312159f) | 2026-05-21 18:54 |
+| Frontline Education | Sr. Software Engineer (Go-To-Market AI Team) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=79da7babfe0a8608) | 2026-05-21 18:54 |
+| AT&T | Senior Software Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3d57f388e905047) | 2026-05-21 18:54 |
 | nan | DevOps Architect | Mount Pleasant, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=141602cced20c4a3) | 2026-05-21 16:36 |
 | Dimensional Fund Advisors | Senior Database Platform Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1ce4cdb2b3ab11fc) | 2026-05-21 16:36 |
 | Stellar Solutions | Data Engineer | Miami, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8ce88ab29e1bd168) | 2026-05-21 16:36 |
 | Optum | Associate AI/ML Engineer | Eden Prairie, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=64afd722e7be9329) | 2026-05-21 16:36 |
 | iWorks Corporation | Systems Engineer / GEOTAM / (Hybrid) [Contingent] | Silver Spring, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0e49c457532dc6f1) | 2026-05-21 16:36 |
 | Carrier | Data Engineer | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=389680e185ea40c1) | 2026-05-21 16:36 |
-| Ford Motor Company | Senior Software Engineer - Vehicle Cybersecurity | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dcb62768f9619d2e) | 2026-05-21 16:36 |
 | Cengage | AI/ML Engineer - Higher Ed | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4bc0ea154c64d7ab) | 2026-05-21 16:36 |
 | Cengage | AI/ML Engineer - School | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9aa5fdc8e46d58c2) | 2026-05-21 16:36 |
 | nProspect | Oracle Cloud ERP Consultant/Functional Specialist | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a98b5c8606717817) | 2026-05-21 16:36 |
-| McKinsey & Company | Senior Data Engineer - Periscope | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd4f1b922a309e4) | 2026-05-21 16:36 |
 | Sunikshainfotech | Data Engineer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ad3b306fbbf582de) | 2026-05-21 16:36 |
 | New York Life | Senior Associate - Senior AI Platform Security Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e60c5181689227fe) | 2026-05-21 16:36 |
 | Capgemini | AWS AI Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8073fabbdb00b63d) | 2026-05-21 13:56 |
@@ -384,7 +393,6 @@ Last updated: 2026-05-21 16:36
 | BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=136b290a5c76ca43) | 2026-05-17 18:55 |
 | BV Teck | Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=649989a8ef5488a3) | 2026-05-17 18:55 |
 | BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b64925ef829beee) | 2026-05-17 18:55 |
-| Technology Ventures | Cloud Engineer Specialist | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=97c3d08d72035c3d) | 2026-05-17 17:50 |
 
 
 ---
