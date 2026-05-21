@@ -1,15 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-21 13:56
+Last updated: 2026-05-21 16:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | DevOps Architect | Mount Pleasant, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=141602cced20c4a3) | 2026-05-21 16:36 |
+| Dimensional Fund Advisors | Senior Database Platform Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1ce4cdb2b3ab11fc) | 2026-05-21 16:36 |
+| Stellar Solutions | Data Engineer | Miami, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8ce88ab29e1bd168) | 2026-05-21 16:36 |
+| Optum | Associate AI/ML Engineer | Eden Prairie, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=64afd722e7be9329) | 2026-05-21 16:36 |
+| iWorks Corporation | Systems Engineer / GEOTAM / (Hybrid) [Contingent] | Silver Spring, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0e49c457532dc6f1) | 2026-05-21 16:36 |
+| Carrier | Data Engineer | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=389680e185ea40c1) | 2026-05-21 16:36 |
+| Ford Motor Company | Senior Software Engineer - Vehicle Cybersecurity | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dcb62768f9619d2e) | 2026-05-21 16:36 |
+| Cengage | AI/ML Engineer - Higher Ed | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4bc0ea154c64d7ab) | 2026-05-21 16:36 |
+| Cengage | AI/ML Engineer - School | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9aa5fdc8e46d58c2) | 2026-05-21 16:36 |
+| nProspect | Oracle Cloud ERP Consultant/Functional Specialist | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a98b5c8606717817) | 2026-05-21 16:36 |
+| McKinsey & Company | Senior Data Engineer - Periscope | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd4f1b922a309e4) | 2026-05-21 16:36 |
+| Sunikshainfotech | Data Engineer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ad3b306fbbf582de) | 2026-05-21 16:36 |
+| New York Life | Senior Associate - Senior AI Platform Security Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e60c5181689227fe) | 2026-05-21 16:36 |
 | Capgemini | AWS AI Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8073fabbdb00b63d) | 2026-05-21 13:56 |
 | Capgemini | Dot Net Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5efceacc40589d5d) | 2026-05-21 13:56 |
-| Ford Motor Company | Senior Software Engineer - Vehicle Cybersecurity | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dcb62768f9619d2e) | 2026-05-21 13:56 |
-| McKinsey & Company | Senior Data Engineer - Periscope | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd4f1b922a309e4) | 2026-05-21 13:56 |
 | nan | Sr Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef825bd9f581fc83) | 2026-05-21 13:56 |
 | Capgemini | Junior Automation Tester (AI enabled Testing) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a48d0f78302c9e9) | 2026-05-21 13:56 |
 | Ideas2IT Technologies | Senior ML Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=65ba785f54845637) | 2026-05-21 10:33 |
