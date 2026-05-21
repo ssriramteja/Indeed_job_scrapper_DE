@@ -1,25 +1,42 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-20 23:05
+Last updated: 2026-05-21 02:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1ef768a7022d9b02) | 2026-05-20 23:05 |
-| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4d2f3a6f6a24726d) | 2026-05-20 23:05 |
+| Equifax | AI Engineer | St. Louis, MO, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=62e0bd72df7d3118) | 2026-05-21 02:30 |
+| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1ef768a7022d9b02) | 2026-05-21 02:30 |
+| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4d2f3a6f6a24726d) | 2026-05-21 02:30 |
+| Guidewire | Senior Machine Learning Engineer - AI/ML | San Mateo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=37f0117f05675ce7) | 2026-05-21 02:30 |
+| Driscoll's | Sr. Data Services Developer | Watsonville, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c8cfdb0127f0b1e9) | 2026-05-21 02:30 |
+| Metropolis | Senior Machine Learning Engineer, Computer Vision | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=808de345c459337e) | 2026-05-21 02:30 |
+| Marriott International | Software Engineer | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e671763f13a7a97) | 2026-05-21 02:30 |
+| GE Aerospace | Senior Software Architect - Data Platform & AI/ML | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d2413d561f12c179) | 2026-05-21 02:30 |
+| Visa | SW Engineer | Highlands Ranch, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a04d34ff6293d7a2) | 2026-05-21 02:30 |
+| El Toro.com | Senior DevOps Engineer | Louisville, KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c3113d217a11359b) | 2026-05-21 02:30 |
+| McKinsey & Company | Senior Data Engineer - Periscope | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd4f1b922a309e4) | 2026-05-21 02:30 |
+| Dollar General | SR SOFTWARE ENGINEER | Goodlettsville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2682fedab4a2d801) | 2026-05-21 02:30 |
+| Da Vinci Software | Senior AI/ML Full Stack Engineer | Rochester, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e56c8a333352b48) | 2026-05-21 02:30 |
+| EY | Forward Deployed Engineer - Applied AI - Senior - Financial Services - Consulting | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=264d256d1f44f81a) | 2026-05-21 02:30 |
+| Keysight Technologies | Full Stack Intern | Colorado Springs, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15e62e31febbb7dd) | 2026-05-21 02:30 |
+| The University of Michigan | Quality Assurance Engineer | Ann Arbor, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=116361549f755a48) | 2026-05-21 02:30 |
+| Brandt Information Services, Inc. | Software Engineer Go Outdoors | Tallahassee, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6e38fd8d0926139) | 2026-05-21 02:30 |
+| Changeis, Inc. | Junior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=90f91c50a68c29bc) | 2026-05-21 02:30 |
+| Walkme | DevOps Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=37bee16f62d775ab) | 2026-05-21 02:30 |
+| Walkme | DevOps Engineer | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d2363b9cbfb0252a) | 2026-05-21 02:30 |
+| Walkme | DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d9f2d75fa67499b) | 2026-05-21 02:30 |
 | Optum | Sr AI/ML Engineer - Remote Nationwide or Hybrid in MN/DC | Eden Prairie, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a5428c5fe3301bb2) | 2026-05-20 23:05 |
 | Liberty Mutual Insurance | Data Engineer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=32851dd10ee0e5da) | 2026-05-20 23:05 |
 | Liberty Mutual Insurance | Data Engineer | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=708d5186ef13d22a) | 2026-05-20 23:05 |
 | Liberty Mutual Insurance | Data Engineer | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8ab11bf9d3a0cb66) | 2026-05-20 23:05 |
 | Liberty Mutual Insurance | Data Engineer | Portsmouth, NH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bd4179f9ef43c111) | 2026-05-20 23:05 |
-| Barrett-Jackson Auction Company | Data Engineer (Warehouse, BI & SQL DBA) | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a2a5363a406f3ade) | 2026-05-20 23:05 |
 | Protiviti | Microsoft Analytics Data Engineer Senior Consultant | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2139ccd23148ef97) | 2026-05-20 23:05 |
 | Protiviti | Microsoft Analytics Data Engineer Senior Consultant | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=979fd479106b8582) | 2026-05-20 23:05 |
 | Federal Reserve Bank of New York | Cloud AWS Support Reliability Engineer (SRE) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=397e7786631910d4) | 2026-05-20 23:05 |
 | Flex | Platform Architect - AI | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e294cc6d33384a45) | 2026-05-20 23:05 |
 | CG Infinity | Data Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0a20b18aa66e51d2) | 2026-05-20 23:05 |
-| McKinsey & Company | Senior Data Engineer - Periscope | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd4f1b922a309e4) | 2026-05-20 23:05 |
 | Clayco | Platform Engineer | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6fb9d94196cc44d) | 2026-05-20 23:05 |
 | Tesla | Sr. Distributed Systems Engineer, Energy Service Engineering | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b311adc4e009a8c4) | 2026-05-20 23:05 |
 | Cardinal Health | Senior Data/AI Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6b7b2e289fa4a81b) | 2026-05-20 21:43 |
