@@ -1,15 +1,38 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-21 06:43
+Last updated: 2026-05-21 10:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ideas2IT Technologies | Senior ML Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=65ba785f54845637) | 2026-05-21 10:33 |
+| Ulta | Senior Data Engineer | Bolingbrook, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=198dcb2877451402) | 2026-05-21 10:33 |
+| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1ef768a7022d9b02) | 2026-05-21 10:33 |
+| Meltwater | Senior Backend Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=85686cf3a228d676) | 2026-05-21 10:33 |
+| Meltwater | Senior Backend Engineer | Las Vegas, NV, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ee7794bd20a3609e) | 2026-05-21 10:33 |
+| Meltwater | Senior Backend Engineer | Redwood City, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8ec7d4847401afbf) | 2026-05-21 10:33 |
+| ArsenalTech | AI/ML Engineer | NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fdea458ac4b85502) | 2026-05-21 10:33 |
+| WellBe Senior Medical | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d6a2a55eff991ad8) | 2026-05-21 10:33 |
+| Wells Fargo | Senior Java Software Engineer | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cbbafc386f88b28d) | 2026-05-21 10:33 |
+| Wells Fargo | Senior Java Software Engineer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27918e064eddd213) | 2026-05-21 10:33 |
+| ZS Associates | Senior AI Engineer | South San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=62d3da9b71f09aee) | 2026-05-21 10:33 |
+| ZS Associates | AI Engineering Specialist | Evanston, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4bd7a3f312b64eb5) | 2026-05-21 10:33 |
+| EY | Service Delivery Center, Technology, Back End Developer, Senior | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9f6da938c8f9cc21) | 2026-05-21 10:33 |
+| ZS Associates | Engineering Specialist | Princeton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b4509b3b48709b4) | 2026-05-21 10:33 |
+| WellBe Senior Medical | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f1be584fe969665) | 2026-05-21 10:33 |
+| Blue Orange Digital | Senior Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0289ffc8e0d406cf) | 2026-05-21 10:33 |
+| McKinsey & Company | Senior Data Engineer - Periscope | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd4f1b922a309e4) | 2026-05-21 10:33 |
+| nan | Senior DevOps Engineer (AI/Cloud Modernization) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=30265e60609c6fee) | 2026-05-21 10:33 |
+| ArsenalTech | Senior .NET Developer - Full-time (Working from Office) | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=571f6ef27368da0b) | 2026-05-21 10:33 |
+| Ramsey Solutions | Analytics Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f836a90a9a6c4031) | 2026-05-21 10:33 |
+| Humana | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0733e6d33b962b4b) | 2026-05-21 10:33 |
+| Keysight Technologies | Full Stack Intern | Colorado Springs, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d8c15d01008f879b) | 2026-05-21 10:33 |
+| AIG | SDN Automation Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5027122dffca8482) | 2026-05-21 10:33 |
+| Tata Consultancy Services (TCS) | Data Platform Architect | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d13c7e892b0bc19) | 2026-05-21 10:33 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=cb7a229032adf836) | 2026-05-21 06:43 |
 | BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=994cd29faebe482b) | 2026-05-21 06:43 |
 | Tata Consultancy Services (TCS) | Data Engineer (AWS, Snowflake, Pyspark, SQL) | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e9b4743d0857d2b3) | 2026-05-21 06:43 |
-| The Walt Disney Company | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1ef768a7022d9b02) | 2026-05-21 06:43 |
 | BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=97dc64be66ad66cd) | 2026-05-21 06:43 |
 | BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f74dc1ef788e458e) | 2026-05-21 06:43 |
 | Weyerhaeuser | Senior Analytics Engineer | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a037ad0869b5968b) | 2026-05-21 06:43 |
@@ -24,7 +47,6 @@ Last updated: 2026-05-21 06:43
 | SolarWinds | Senior Analytics Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1c073df0d353c1af) | 2026-05-21 06:43 |
 | DriveTime Automotive Group | Senior Data Engineer (DBT) | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=74ab129070123bd2) | 2026-05-21 06:43 |
 | DriveTime Automotive Group | Senior Data Engineer (DBT) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=add6f4354189f849) | 2026-05-21 06:43 |
-| McKinsey & Company | Senior Data Engineer - Periscope | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8cd4f1b922a309e4) | 2026-05-21 06:43 |
 | Tata Consultancy Services (TCS) | Data Engineer | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=583b4c9601400970) | 2026-05-21 06:43 |
 | Intone Networks | Full Stack Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=971c26dff07c1bdc) | 2026-05-21 06:43 |
 | BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd7fe3299d9494b8) | 2026-05-21 06:43 |
@@ -367,8 +389,6 @@ Last updated: 2026-05-21 06:43
 | NTT DATA | Linux Systems Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=97dd13894809f36a) | 2026-05-17 12:58 |
 | BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ede629cfc3fb969d) | 2026-05-17 12:58 |
 | BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88ad22f9405e77ea) | 2026-05-17 12:58 |
-| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c76fbdb48e9a34d3) | 2026-05-17 08:58 |
-| Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0d65ad8442e8885d) | 2026-05-17 08:58 |
 
 
 ---
