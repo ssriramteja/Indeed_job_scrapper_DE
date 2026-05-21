@@ -1,16 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-21 20:46
+Last updated: 2026-05-21 22:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eed5e5d6e7ec548f) | 2026-05-21 22:13 |
+| Boston Energy Trading and Marketing | Senior Data Engineer | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=67ecc5a6b05e7ef0) | 2026-05-21 22:13 |
+| nan | Senior Cloud Engineer | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d5883ce98bd3b809) | 2026-05-21 22:13 |
+| Stellantis | Integrations Architect- Azure | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f4dbf1260c7d0cc0) | 2026-05-21 22:13 |
+| Stellantis | Integrations Architect- Azure | Auburn Hills, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f5b1713c37555cdd) | 2026-05-21 22:13 |
+| Stellantis | Integrations Architect- Azure | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f2d440e3e598ce5c) | 2026-05-21 22:13 |
+| Tata Consultancy Services (TCS) | Cloud Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ebda74063a09351) | 2026-05-21 22:13 |
+| Genpact | Analyst - Data Engineering 5A | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f5d7974c7f716d89) | 2026-05-21 22:13 |
+| Tech Army | Data Architect - Advanced | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2598e893f85ae2a1) | 2026-05-21 22:13 |
+| Tech Army | Data Architect - Intermediate | Tallahassee, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=53a36f9ca1924521) | 2026-05-21 22:13 |
+| Tata Consultancy Services (TCS) | Data Bricks Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c99ee79a934f0166) | 2026-05-21 22:13 |
+| Tata Consultancy Services (TCS) | Data Bricks Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=597ef21a1e4293fd) | 2026-05-21 22:13 |
+| Frontline Education | Sr. Software Engineer (Go-To-Market AI Team) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a92c59262b56cdb) | 2026-05-21 22:13 |
+| nan | Senior Software Engineer | Boulder, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=92b862d92b1cbb9d) | 2026-05-21 22:13 |
+| McKesson | Sr. Site Reliability Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae21c352f885d87b) | 2026-05-21 22:13 |
+| Vantive | Platform Engineer, IT - DevOps and Emerging Tech | Deerfield, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7a4303a949ff0206) | 2026-05-21 22:13 |
+| Octapharma | Sr. Data Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4dc84fd3a2c0c7c) | 2026-05-21 22:13 |
 | Mod Op | Sr. Marketing Data & AI Engineer | Dallas, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=1a9d4be577548066) | 2026-05-21 20:46 |
 | Securian Financial | AWS Dev Ops Engineer (Hybrid) | Saint Paul, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=42661b3f734ffd01) | 2026-05-21 20:46 |
 | Planet DDS | Data Engineer V | Irvine, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b3fecef5d75ec74d) | 2026-05-21 20:46 |
 | Viasat | Senior Architect, Software Engineering | Carlsbad, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b8220b39cfe7da8f) | 2026-05-21 20:46 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eed5e5d6e7ec548f) | 2026-05-21 20:46 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a6a79496f7a592b2) | 2026-05-21 20:46 |
 | AmpliFI Loyalty Solutions | Software Engineer | Naperville, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=63d5413692a768ae) | 2026-05-21 20:46 |
 | Halliburton | Senior Software Engineer - Landmark | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b70ae077b21d43d) | 2026-05-21 20:46 |
