@@ -1,12 +1,41 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-21 22:13
+Last updated: 2026-05-21 23:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eed5e5d6e7ec548f) | 2026-05-21 22:13 |
+| Highmark Health | Senior Data Engineer – Cloud Data Products & Analytic Enablement | PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d8824834cc316357) | 2026-05-21 23:53 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eed5e5d6e7ec548f) | 2026-05-21 23:53 |
+| Transamerica | Intermediate Quality Software Engineer | Cedar Rapids, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=559ccb02cb7d178f) | 2026-05-21 23:53 |
+| M-TECH SYSTEMS | Platform Data Architect | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0950591f503ca967) | 2026-05-21 23:53 |
+| Capgemini | Senior Data Engineer | Bridgewater, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6aa2a5e5e0026531) | 2026-05-21 23:53 |
+| Lennar | Sr Data Quality Engineer | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8363d4aab2e6b33f) | 2026-05-21 23:53 |
+| Beghou Consulting | Consultant, Data Analytics | Emeryville, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=53342a3bd9506ed9) | 2026-05-21 23:53 |
+| Beghou Consulting | Consultant, Data Analytics | Durham, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1909fc4947c01f17) | 2026-05-21 23:53 |
+| Beghou Consulting | Consultant, Data Analytics | Durham, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cde8ee2adae9b533) | 2026-05-21 23:53 |
+| Beghou Consulting | Consultant, Data Analytics | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d2caae7d9974108) | 2026-05-21 23:53 |
+| Beghou Consulting | Consultant, Data Analytics | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e47b02d035006ada) | 2026-05-21 23:53 |
+| Beghou Consulting | Consultant, Data Analytics | Rockville, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=77ed2278b7af9cc7) | 2026-05-21 23:53 |
+| Hillpointe | Full Stack Developer | Winter Park, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad3a3937b7571485) | 2026-05-21 23:53 |
+| BambooHR | Sr. Data Engineer | Draper, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0de96b3860fd283) | 2026-05-21 23:53 |
+| Verizon | Data and AI Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=efb47d2533a7c899) | 2026-05-21 23:53 |
+| Klaviyo | Software Engineer II - Identity & Access Management (Core Infra IO) | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d04be766e9c28c71) | 2026-05-21 23:53 |
+| Klaviyo | Software Engineer II - Identity & Access Management | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14aabec8dac5bd65) | 2026-05-21 23:53 |
+| Rochester Regional Health | Data Architect | Rochester, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc3a97c6dacfd5cc) | 2026-05-21 23:53 |
+| Pearson | Senior Software Engineer (Data, API & Platform Integration) | Hoboken, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f645727415a8c94) | 2026-05-21 23:53 |
+| Equifax | Senior Platform Engineer | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b332d7295b6f32a9) | 2026-05-21 23:53 |
+| Worth AI | Senior Software Engineer - Integrations | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ec6348a1a771646) | 2026-05-21 23:53 |
+| Worth AI | Senior Software Engineer - Integrations | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=add45f9e195492ab) | 2026-05-21 23:53 |
+| Worth AI | Senior Software Engineer - Integrations | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2053b2017dbd159) | 2026-05-21 23:53 |
+| Worth AI | Senior Software Engineer - Integrations | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b7845c99df3c7d7) | 2026-05-21 23:53 |
+| Cognizant | Entry-level Moment AWS Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=752a175f328041d9) | 2026-05-21 23:53 |
+| Cognizant | Entry-level Moment AWS Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d7d0c56dc9911793) | 2026-05-21 23:53 |
+| Cognizant | Entry-level Moment AWS Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2de604a499b6e351) | 2026-05-21 23:53 |
+| Cognizant | Developer II | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5477f4e7c8ef39b5) | 2026-05-21 23:53 |
+| Cognizant | Entry-level Moment AWS Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96bd9fb18e41b893) | 2026-05-21 23:53 |
+| Quisitive | Senior Consultant – Data & Analytics (Microsoft Fabric \| Power BI \| Databricks) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64e8f6244851402a) | 2026-05-21 23:53 |
 | Boston Energy Trading and Marketing | Senior Data Engineer | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=67ecc5a6b05e7ef0) | 2026-05-21 22:13 |
 | nan | Senior Cloud Engineer | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d5883ce98bd3b809) | 2026-05-21 22:13 |
 | Stellantis | Integrations Architect- Azure | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f4dbf1260c7d0cc0) | 2026-05-21 22:13 |
@@ -414,7 +443,6 @@ Last updated: 2026-05-21 22:13
 | BV Teck | Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4d4445654d17d84f) | 2026-05-18 06:46 |
 | nan | Data Engineer and Developer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9a627bc801113951) | 2026-05-18 06:46 |
 | BV Teck | Observability Engineer (Prometheus / Grafana / Datadog) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4bb8735550d94e63) | 2026-05-18 02:30 |
-| Cisco | Data Architect | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49bdfaf2b8654cd8) | 2026-05-17 22:43 |
 
 
 ---
