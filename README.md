@@ -1,13 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-22 13:24
+Last updated: 2026-05-22 16:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eed5e5d6e7ec548f) | 2026-05-22 16:16 |
+| CVS Health | Software Development Engineer | Hartford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1e1a78888adf4b70) | 2026-05-22 16:16 |
+| CVS Health | Senior Data Engineer | Wellesley, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0520872b1a01b2e9) | 2026-05-22 16:16 |
+| CVS Health | Senior Data Engineer | Wellesley, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5205a09ebe414c2e) | 2026-05-22 16:16 |
+| CVS Health | Senior Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d22035552ebbc26) | 2026-05-22 16:16 |
+| CVS Health | Senior Data Engineer | Woonsocket, RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=746fc72a8d6e25af) | 2026-05-22 16:16 |
+| CVS Health | Senior Data Engineer | Blue Bell, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f67deeebae08ffda) | 2026-05-22 16:16 |
+| CVS Health | Senior Data Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05e8bfc8a8d4b75c) | 2026-05-22 16:16 |
+| CVS Health | Senior Data Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2488c8c958f34004) | 2026-05-22 16:16 |
+| Equinix | DevSecOps Platform Engineer, AI Automation | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=093594d135187bdb) | 2026-05-22 16:16 |
+| CVS Health | Software Development Engineer | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5ee3449ed9ca504d) | 2026-05-22 16:16 |
+| CVS Health | Senior Data Engineer | Blue Bell, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1551268778a617f5) | 2026-05-22 16:16 |
+| CVS Health | Senior Data Engineer | Woonsocket, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9fbe170ed826dedf) | 2026-05-22 16:16 |
+| CVS Health | Senior Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e20797696d8c96d) | 2026-05-22 16:16 |
+| CVS Health | Senior Data Engineer | Wellesley, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a5366178ee570d26) | 2026-05-22 16:16 |
+| CVS Health | Senior Data Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=74fe95ce9dd80535) | 2026-05-22 16:16 |
+| nan | Sr Product Software Engineer | Bristol, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb4d0ffada167292) | 2026-05-22 16:16 |
+| Workday | Data Scientist - AI Platform | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2bdeb66468dd0add) | 2026-05-22 16:16 |
 | University of Utah | Data Engineer III | Salt Lake City, UT, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=4eedea720bd23228) | 2026-05-22 13:24 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eed5e5d6e7ec548f) | 2026-05-22 13:24 |
 | clickhouse | Senior Software Engineer - Data Integration & JVM Ecosystem | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c26241d9e133498f) | 2026-05-22 13:24 |
 | The New York Times | Senior Software Engineer, NYT Cooking | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=31ad8aa9682337b7) | 2026-05-22 13:24 |
 | Wipro | DEVELOPER L3(CONTRACT) | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=93f255d27a698cf1) | 2026-05-22 13:24 |
@@ -480,7 +497,6 @@ Last updated: 2026-05-22 13:24
 | RX USA LLC | Senior Cloud Engineer | Souderton, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c6f69adb5e63bee) | 2026-05-18 17:26 |
 | Electronic Arts | Security Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2a784d300f8363b) | 2026-05-18 17:26 |
 | SUPPLIER.IO | Senior Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62fecc0c2154e4b1) | 2026-05-18 17:26 |
-| Certinia | Platform Engineer-US | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab574e0b18b6f234) | 2026-05-18 14:29 |
 
 
 ---
