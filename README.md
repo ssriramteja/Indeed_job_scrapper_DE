@@ -1,16 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-22 10:17
+Last updated: 2026-05-22 13:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| University of Utah | Data Engineer III | Salt Lake City, UT, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=4eedea720bd23228) | 2026-05-22 13:24 |
+| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eed5e5d6e7ec548f) | 2026-05-22 13:24 |
+| clickhouse | Senior Software Engineer - Data Integration & JVM Ecosystem | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c26241d9e133498f) | 2026-05-22 13:24 |
+| The New York Times | Senior Software Engineer, NYT Cooking | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=31ad8aa9682337b7) | 2026-05-22 13:24 |
+| Wipro | DEVELOPER L3(CONTRACT) | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=93f255d27a698cf1) | 2026-05-22 13:24 |
 | Meltwater | Senior Backend Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=58f301bd952067c4) | 2026-05-22 10:17 |
 | Meltwater | Senior Backend Engineer | Redwood City, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bba1c0ac588dfc09) | 2026-05-22 10:17 |
 | Meltwater | Senior Backend Engineer | Las Vegas, NV, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2ec4126d57c004c0) | 2026-05-22 10:17 |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eed5e5d6e7ec548f) | 2026-05-22 10:17 |
-| Ford Motor Company | Full Stack Software Engineer | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3ac500b7f8a3d0c) | 2026-05-22 10:17 |
 | Fidelity TalentSource | Senior Cloud Engineer | Smithfield, RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=51363c57ca4af5f7) | 2026-05-22 10:17 |
 | Webcreek | Senior Java Developer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=44b17327ccbdd128) | 2026-05-22 10:17 |
 | Webcreek | Senior Golang Developer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=61f6cdaedc4aa6b4) | 2026-05-22 10:17 |
@@ -478,11 +481,6 @@ Last updated: 2026-05-22 10:17
 | Electronic Arts | Security Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2a784d300f8363b) | 2026-05-18 17:26 |
 | SUPPLIER.IO | Senior Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62fecc0c2154e4b1) | 2026-05-18 17:26 |
 | Certinia | Platform Engineer-US | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab574e0b18b6f234) | 2026-05-18 14:29 |
-| LifeMD | DevOps Engineer | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1ba2ab0e8ae4be68) | 2026-05-18 10:59 |
-| LifeMD | DevOps Engineer | Huntington Beach, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3f2e0fa3bcda75e7) | 2026-05-18 10:59 |
-| Optimum | Data Analyst (70002877) | Long Island City, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd2e5a47e38462e2) | 2026-05-18 10:59 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Tulsa, OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af679155705e54bf) | 2026-05-18 10:59 |
-| nan | Senior Ledger Operations Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c76e3468c0010fc1) | 2026-05-18 10:59 |
 
 
 ---
