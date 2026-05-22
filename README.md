@@ -1,11 +1,74 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-22 18:29
+Last updated: 2026-05-22 20:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Exaways Corporation | Copilot Studio Architect | NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8bb78da13ef87da9) | 2026-05-22 20:28 |
+| Ford Motor Company | Full Stack Software Engineer | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3ac500b7f8a3d0c) | 2026-05-22 20:28 |
+| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-22 20:28 |
+| RadCube | Associate Software Developer Intern (AI and Cloud) - Local to Indiana | Carmel, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8c69372e3345faef) | 2026-05-22 20:28 |
+| Datavant | Senior Engineer - Ingestion & Streaming Frameworks | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d6f6fac40c8e61d9) | 2026-05-22 20:28 |
+| APCO Holdings | Senior Data Developer | Ponte Vedra, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b267a98b6ca3ae0d) | 2026-05-22 20:28 |
+| APCO Holdings | Senior Data Developer | Westerville, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6eddd6eef0cda463) | 2026-05-22 20:28 |
+| APCO Holdings | Senior Data Developer | Norcross, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ff857bf8cc81feb) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dba16b9e8383c743) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4050251046e4b967) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=283ba40052ed9a1c) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85d1291f06b8c10e) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | VT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0344e8d4175ecc98) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1639ef75f537fb4f) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2fef9ac1a48db083) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | WY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e597aea8ce709e59) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf826e02da58d16b) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef975bb0a407c9a5) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | NM, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c755fa6fd83bf785) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=485880f691afee1a) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1deac2472afd5e93) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | WV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6819e25ce42fd9ee) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a950d3a005b7339) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dad01fbd8538d636) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=403b5f974e53992d) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | SD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4af30e3581decda0) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b29d5a1e72689b6a) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | ND, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d355e8488073d739) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f953dc4994c3667) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7149315a218fcccc) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b01d3b0fc61fac79) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce02ae38d2e3daf2) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34986a8a22d98000) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f53f1e2cdee1071) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | MT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c2b98a4ab60e977) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aef0c7eeacdab1d3) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b7eb216f51c52c79) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89fcdea25a777721) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=064cd527ea7f6255) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | MS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58e22727bb3d1952) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac0a6c8b5f8155e9) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eac865b8c888a303) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7d737907986f22b) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0006df8bf0dbecbc) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5fce945869a48d03) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0fa1efff4a88791) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c703a8545afdbf64) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5e2926b6cfb0d38) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | AK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45b135eda3a89ca4) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7478cd6b966a3b75) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12348259f08f22b7) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5afb48e66b9b67b6) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | HI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=474e2ea897e2c7ef) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0298e0a093f1e02) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62f956ac3c337b34) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=036d5a6fa300b4e9) | 2026-05-22 20:28 |
+| Mission Pet Health | Software Engineer | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1996653eaea87251) | 2026-05-22 20:28 |
+| Per Scholas | Technical Instructor Instructor (AWS Machine Learning) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5657fb12c61599a9) | 2026-05-22 20:28 |
+| Per Scholas | Technical Instructor Instructor (AWS Machine Learning) | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=02369e600e25dc94) | 2026-05-22 20:28 |
+| Per Scholas | Technical Instructor Instructor (AWS Machine Learning) | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1bc0b35c1a8f947) | 2026-05-22 20:28 |
+| Per Scholas | Technical Instructor Instructor (AWS Machine Learning) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8f76045b3e1a34f) | 2026-05-22 20:28 |
+| Per Scholas | Technical Instructor Instructor (AWS Machine Learning) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13e7ce1cf6e3d127) | 2026-05-22 20:28 |
+| Per Scholas | Technical Instructor Instructor (AWS Machine Learning) | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a641c5288812497c) | 2026-05-22 20:28 |
 | GuidePoint Security | Sr Technical Data Security Architect- Remote (Anywhere in the U.S.) | Remote, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=4c8acbe5f71af378) | 2026-05-22 18:29 |
 | ICF | Data Engineer | Reston, VA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b342f596ec91b873) | 2026-05-22 18:29 |
 | Ursa Space Systems | Sr. Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c1fd194e6f8429f5) | 2026-05-22 18:29 |
@@ -487,23 +550,6 @@ Last updated: 2026-05-22 18:29
 | Industrial Scientific | Software Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=23d358fe71511f6f) | 2026-05-18 21:03 |
 | Georgia-Pacific | Sr Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69eacc98e74b3522) | 2026-05-18 21:03 |
 | GE Aerospace | Sr AI Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d002c6cfe2bf32d3) | 2026-05-18 21:03 |
-| Cotiviti | Data and Insight Analyst | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bb46af131203645d) | 2026-05-18 19:26 |
-| Vanda Pharmaceuticals | DevOps | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f51f479af9282287) | 2026-05-18 19:26 |
-| Amway | Cloud Data Engineer | Ada, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1a2e59f6a4d8593c) | 2026-05-18 19:26 |
-| Optum | Senior Data Engineer | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fa2e0e889ce30184) | 2026-05-18 19:26 |
-| OnMed | DevOps Engineer | White Plains, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=15fa432a086d4c1f) | 2026-05-18 19:26 |
-| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Bloomfield, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac78439c3d5984bd) | 2026-05-18 19:26 |
-| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a693f67199d64d3d) | 2026-05-18 19:26 |
-| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Morris Plains, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab713a681fd0429b) | 2026-05-18 19:26 |
-| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8b99b8ea0db2061) | 2026-05-18 19:26 |
-| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5dc36c16524b514) | 2026-05-18 19:26 |
-| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Bloomington, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=281daf9216f9080a) | 2026-05-18 19:26 |
-| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c1ef5d5975efb63b) | 2026-05-18 19:26 |
-| The Cigna Group | Software Engineering Advisor – Data Engineer - Hybrid | Bloomfield, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=36c0fd77f8d43c48) | 2026-05-18 19:26 |
-| IntegriChain | AI Data Engineer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=28193f1af5326eaa) | 2026-05-18 19:26 |
-| Visa | Sr Software Engineer | Foster City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d16f847f21e90057) | 2026-05-18 19:26 |
-| Sevita | Data Integration Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=50a46ce04515ea02) | 2026-05-18 19:26 |
-| University of Texas Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate (On-Site) | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03327cd0d2ff3bea) | 2026-05-18 19:26 |
 
 
 ---
