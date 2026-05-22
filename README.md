@@ -1,12 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-22 16:16
+Last updated: 2026-05-22 18:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eed5e5d6e7ec548f) | 2026-05-22 16:16 |
+| GuidePoint Security | Sr Technical Data Security Architect- Remote (Anywhere in the U.S.) | Remote, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=4c8acbe5f71af378) | 2026-05-22 18:29 |
+| ICF | Data Engineer | Reston, VA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b342f596ec91b873) | 2026-05-22 18:29 |
+| Ursa Space Systems | Sr. Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c1fd194e6f8429f5) | 2026-05-22 18:29 |
+| Nightwing | Senior Cloud Platform Engineer | Sterling, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=837099917f2a5dec) | 2026-05-22 18:29 |
+| OneMain Financial | Senior Platform Engineer (Observability & Telemetry) | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e7a99e7f4abccf3) | 2026-05-22 18:29 |
+| Availity, LLC. | Senior DevOps Engineer IV | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=047dbbdf9319bbe1) | 2026-05-22 18:29 |
+| Always Compassionate Health | Senior Data Platform Engineer, Enterprise Data & Analytics | Melville, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b7d8eadc95aa5ba) | 2026-05-22 18:29 |
+| Frontline Education | Sr. Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cba127e0361a9979) | 2026-05-22 18:29 |
+| Ion Storage Systems | Data Platform Engineer | Beltsville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4850b4115d1ec83d) | 2026-05-22 18:29 |
+| Nightwing | Cloud Platform Engineer | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=157f075ed24c2620) | 2026-05-22 18:29 |
+| BlackLine | Senior Software Engineer | Pleasanton, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d530d2af319399b5) | 2026-05-22 18:29 |
+| First United Bank | Senior DevSecOps Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=795069cfefc40dca) | 2026-05-22 18:29 |
+| Burlington Stores | Data Architect | Edgewater Park, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa2aac8c72a4cdad) | 2026-05-22 18:29 |
 | CVS Health | Software Development Engineer | Hartford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1e1a78888adf4b70) | 2026-05-22 16:16 |
 | CVS Health | Senior Data Engineer | Wellesley, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0520872b1a01b2e9) | 2026-05-22 16:16 |
 | CVS Health | Senior Data Engineer | Wellesley, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5205a09ebe414c2e) | 2026-05-22 16:16 |
@@ -492,11 +504,6 @@ Last updated: 2026-05-22 16:16
 | Visa | Sr Software Engineer | Foster City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d16f847f21e90057) | 2026-05-18 19:26 |
 | Sevita | Data Integration Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=50a46ce04515ea02) | 2026-05-18 19:26 |
 | University of Texas Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate (On-Site) | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03327cd0d2ff3bea) | 2026-05-18 19:26 |
-| Alphanumeric Systems Inc | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=aafc1066893dd26c) | 2026-05-18 17:26 |
-| Southwest Power Pool | Front-end Programmer Developer - II or Senior | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ecef2fe2fa373cd8) | 2026-05-18 17:26 |
-| RX USA LLC | Senior Cloud Engineer | Souderton, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c6f69adb5e63bee) | 2026-05-18 17:26 |
-| Electronic Arts | Security Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2a784d300f8363b) | 2026-05-18 17:26 |
-| SUPPLIER.IO | Senior Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62fecc0c2154e4b1) | 2026-05-18 17:26 |
 
 
 ---
