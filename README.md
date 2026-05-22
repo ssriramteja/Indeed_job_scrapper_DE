@@ -1,21 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-22 22:00
+Last updated: 2026-05-22 23:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| True Care | Software Engineer – Healthcare Systems & Automation (On-Site Brooklyn, NY) | Brooklyn, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e93b9f3b83186e48) | 2026-05-22 23:01 |
+| Ford Motor Company | Full Stack Software Engineer | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3ac500b7f8a3d0c) | 2026-05-22 23:01 |
+| Mimecast | Senior ML Ops Engineer | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d6329c226be016e1) | 2026-05-22 23:01 |
+| Tesla | Sr. Data Engineer, Energy, Sales, & Services | Fremont, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3666b5644b9c9923) | 2026-05-22 23:01 |
+| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-22 23:01 |
+| Ibotta | Analytics Engineer, Feature Engineering | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dece9a64d002f7db) | 2026-05-22 23:01 |
+| The Hanover Insurance Group | PL Ops - Data Engineer (Worcester or Remote) | Worcester, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f8a3cd3d79aed67) | 2026-05-22 23:01 |
+| The Hanover Insurance Group | PL Ops - Data Engineer (Worcester or Remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4a15f9e5c8fce882) | 2026-05-22 23:01 |
+| Invesco | Eng., Digital Dist & Ent Eng | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1a8afa0d739e09ad) | 2026-05-22 23:01 |
+| Rocket Software | Senior Customer Solutions Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8dcefab27eeb14db) | 2026-05-22 23:01 |
 | RCR Technology | ETL/Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=9b4ed6016f6f36df) | 2026-05-22 22:00 |
 | General Motors (GM) | Senior Data Engineer | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a12b68897c303e12) | 2026-05-22 22:00 |
 | Tata Consultancy Services (TCS) | Python Developer | Pennington, NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e9e95aa7f426e979) | 2026-05-22 22:00 |
 | Weyerhaeuser | Data Engineer | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dad3302c1d85587a) | 2026-05-22 22:00 |
 | Light & Wonder | Senior Data Engineer, Agentic AI | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=04a6df7b92992269) | 2026-05-22 22:00 |
-| Ford Motor Company | Full Stack Software Engineer | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3ac500b7f8a3d0c) | 2026-05-22 22:00 |
 | Tata Consultancy Services (TCS) | Senior Developer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=08ce5092cd224c52) | 2026-05-22 22:00 |
 | Leidos | Senior Migration Architect | VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a7ff0969407ce52a) | 2026-05-22 22:00 |
 | DoorDash | Senior Software Engineer, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2b3175e4ce5d95b8) | 2026-05-22 22:00 |
-| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-22 22:00 |
 | Outcome | Cloud Infrastructure Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=afb98e31dbf7c26e) | 2026-05-22 22:00 |
 | Citizens Business Bank | Data Integration Engineer | Rancho Cucamonga, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d58fe2f79c50231d) | 2026-05-22 22:00 |
 | Wiliot | Software Engineer | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05e5a702a64a8b3b) | 2026-05-22 22:00 |
@@ -558,10 +566,6 @@ Last updated: 2026-05-22 22:00
 | Harbinger Motors Inc. | Sr. Systems Engineer | Garden Grove, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9cf02ed4b934745c) | 2026-05-18 23:57 |
 | NTT DATA | API Architect (Onsite Hybrid) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=463679cc517d5924) | 2026-05-18 23:57 |
 | ServiceTitan | Senior AI Engineer (Agent OS Platform) | Sacramento, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab39fae8644125cb) | 2026-05-18 23:57 |
-| Tyson Foods Incorporated | Senior IT Data Engineer (Onsite) | Springdale, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7b886774f2191937) | 2026-05-18 22:50 |
-| Pacific Consulting | Power BI Developer | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=afb97449b7ed7b0d) | 2026-05-18 22:50 |
-| Desmata Inc | Azure Data Engineer | Texas City, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b018ddcc7ace0923) | 2026-05-18 22:50 |
-| Fiduciary Tech | Business Intelligence Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bcdadb345032fb3b) | 2026-05-18 22:50 |
 
 
 ---
