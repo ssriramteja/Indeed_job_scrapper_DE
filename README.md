@@ -1,17 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-23 10:22
+Last updated: 2026-05-23 11:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 11:55 |
+| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-23 11:55 |
 | Bertrandt | DataOps Engineer (Local to Charlotte, NC) | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=80ffddefbdd0be19) | 2026-05-23 10:22 |
 | Eccalon | Database Engineer - onsite | Detroit, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e6063e836c57f9b5) | 2026-05-23 10:22 |
 | Bertrandt | Senior Data Ops Engineer (Local to Charlotte, NC) | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=213d2103202cab40) | 2026-05-23 10:22 |
 | People Inc. | Senior IT Infrastructure Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a00f41d32e3dd1b3) | 2026-05-23 10:22 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 10:22 |
-| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-23 10:22 |
 | People Inc. | Senior Software Engineer, 1 | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=49bacd10e684dc5f) | 2026-05-23 10:22 |
 | JPMorganChase | Finance Data Mart - Domain Data Architect | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=216cf9bc02e5f50a) | 2026-05-23 10:22 |
 | Tyler Technologies | DevOps and Cloud Engineer | Lakewood, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f7bbd2a751aa54c1) | 2026-05-23 08:22 |
@@ -740,10 +740,6 @@ Last updated: 2026-05-23 10:22
 | nan | Data Engineer II | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46f97f725c092d19) | 2026-05-19 13:50 |
 | nan | Sr Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef6f778294e73998) | 2026-05-19 13:50 |
 | American Electric Power | Solution Engineer: Enterprise GenAI & Analytics Enablement | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9df419a67df1ba59) | 2026-05-19 13:50 |
-| TCPWave | Full Stack Developer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3aa550f557c45270) | 2026-05-19 10:33 |
-| Cox Automotive | Software Engineer I | Draper, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1eaa43d2708b0fa5) | 2026-05-19 10:33 |
-| Wells Fargo | Senior .net Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f633477012d7720) | 2026-05-19 10:33 |
-| Tivity Health | Sr Engineer, Data Science & Machine Learning Operations - remote opportunity | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ba5979330da050e) | 2026-05-19 10:33 |
 
 
 ---
