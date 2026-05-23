@@ -1,13 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-23 17:56
+Last updated: 2026-05-23 18:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 17:56 |
-| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-23 17:56 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 18:57 |
 | nan | Senior Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9428fe1d5deac146) | 2026-05-23 14:54 |
 | Micron Technology | Sr Engineer - Operations Improvement | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4ba5c9bd83fc8ac) | 2026-05-23 14:54 |
 | Elekta | Software Quality Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fad5a01749b44d7e) | 2026-05-23 14:54 |
@@ -658,14 +657,6 @@ Last updated: 2026-05-23 17:56
 | Trinity Industries | Sr Forward Deployed Engineer (Foundry) | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7f1207216093eb19) | 2026-05-19 20:25 |
 | Success Academy Charter Schools | AI Software Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f69cae0b073ffd83) | 2026-05-19 20:25 |
 | Goodwill Industries of Ky., Inc. | Data Engineer | Louisville, KY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4de6845b355390df) | 2026-05-19 20:25 |
-| L.E.K. Consulting | Data & Analytics Senior Data Engineer | Boston, MA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=9ddcbcd3fcf90b62) | 2026-05-19 18:54 |
-| Sidley Austin | Senior Data Engineer | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9c24ee3772fb2025) | 2026-05-19 18:54 |
-| Sidley Austin | Senior Data Engineer - Quality | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6913762be867dbf6) | 2026-05-19 18:54 |
-| Centric Consulting | Site Reliability Engineer | Cleveland, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=46cdeb4b1af72885) | 2026-05-19 18:54 |
-| Purple Austyn Technologies | Salesforce Enterprise Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ef8a774183b65cc) | 2026-05-19 18:54 |
-| RA Capital Management | Data Solution Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dbb511c116964595) | 2026-05-19 18:54 |
-| Genesys | Senior Software Engineer | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be2a8db8df79df5f) | 2026-05-19 18:54 |
-| Blue Origin | Aerospace Software DevOps Engineer II | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2b1191705b29853) | 2026-05-19 18:54 |
 
 
 ---
