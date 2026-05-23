@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-23 21:45
+Last updated: 2026-05-23 22:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 21:45 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 22:43 |
 | nan | Data Architect | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b457a11e98e82c5e) | 2026-05-23 21:45 |
 | nan | Senior Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9428fe1d5deac146) | 2026-05-23 14:54 |
 | Micron Technology | Sr Engineer - Operations Improvement | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4ba5c9bd83fc8ac) | 2026-05-23 14:54 |
@@ -635,25 +635,6 @@ Last updated: 2026-05-23 21:45
 | Hexaware Technologies | Technical Architect (BIBA) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ffc844d637a4a899) | 2026-05-19 23:55 |
 | nan | Senior Full-Stack Software Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=07961822c801c505) | 2026-05-19 23:55 |
 | Travelers | Software Engineer II -- Enterprise AI Products Value Stream | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=72ccfb0ea0091329) | 2026-05-19 23:55 |
-| LTIMindtree | AWS Cloud Data Architect | Torrance, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e787928433fb38f9) | 2026-05-19 22:08 |
-| Visa | Senior Software Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7e02ba02243648f0) | 2026-05-19 22:08 |
-| Tata Consultancy Services (TCS) | Blockchain Java Backend Developer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6c02ad439b17c3a6) | 2026-05-19 22:08 |
-| Diné Development Corporation | Analyst / Data Engineer | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac01b3454ac02ccf) | 2026-05-19 22:08 |
-| Diné Development Corporation | Analyst / Data Engineer | Dayton, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d92003d1693fcf89) | 2026-05-19 22:08 |
-| ERCOT/Electric Reliability Council of Texas | EMS Applications Developer Sr. | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=19fd76ad63566482) | 2026-05-19 22:08 |
-| Client Resources, Inc. | Data Engineer | Omaha, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cef42acc1d37c051) | 2026-05-19 22:08 |
-| ecoATM LLC | Senior Database Engineer (AWS/Snowflake/Postgres) | San Diego, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4ea429cd1057282d) | 2026-05-19 22:08 |
-| JSR Tech Consulting | Software Engineer | Newark, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff0504cd8c91e07a) | 2026-05-19 22:08 |
-| Bedrock Data | Deployment Engineer (Infrastructure & DevOps) | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=73d8155dedb8c388) | 2026-05-19 22:08 |
-| Genpact | Analyst - Data Engineering 5A | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b591868fadbb51ae) | 2026-05-19 22:08 |
-| Interworks | Analytics Architect | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9d13d49983362928) | 2026-05-19 22:08 |
-| Interworks | Analytics Architect | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f63a609ce9a0e0e) | 2026-05-19 22:08 |
-| Tata Consultancy Services (TCS) | Platform Architect | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78ff4d06117e88a9) | 2026-05-19 22:08 |
-| Daxko | Site Reliability Engineer Remote - US • Remote | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=612993f0cf902297) | 2026-05-19 22:08 |
-| Core BTS | Senior Data Analytics Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d2c2350b85e1faca) | 2026-05-19 22:08 |
-| ServiceTitan | Senior AI Engineer (Agent OS Platform) | Sacramento, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9af2358984349df) | 2026-05-19 22:08 |
-| Nexstar Media Group, Inc. | AI/ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9158d7ecaabe631d) | 2026-05-19 22:08 |
-| Nexstar Media Group, Inc. | AI/ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=746360ee3987922f) | 2026-05-19 22:08 |
 
 
 ---

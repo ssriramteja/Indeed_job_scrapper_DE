@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-23
 
-**Total Jobs Found:** 206
+**Total Jobs Found:** 201
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -643,62 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. Senior Software Engineer @ U.S. Bank
-**Match Score:** 12.5%
-
-📍 **Location:** Hopkins, MN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, Data Modeling, Star Schema
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7681e7d24e6f7a34)
-
----
-
-## 60. Senior Software Engineer @ U.S. Bank
-**Match Score:** 12.5%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, Data Modeling, Star Schema
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5a29cd937a4a7667)
-
----
-
-## 61. Senior Software Engineer @ U.S. Bank
-**Match Score:** 12.5%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, Data Modeling, Star Schema
-
-[Apply Here](https://www.indeed.com/viewjob?jk=adedb51b7a8a32c6)
-
----
-
-## 62. Senior Software Engineer @ U.S. Bank
-**Match Score:** 12.5%
-
-📍 **Location:** Gresham, OR, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, Data Modeling, Star Schema
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d43a63e7e6f41601)
-
----
-
-## 63. Senior Software Engineer @ U.S. Bank
-**Match Score:** 12.5%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, Data Modeling, Star Schema
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e53cb1d6c5afda41)
-
----
-
-## 64. Senior Software Engineer, 1 @ People Inc.
+## 59. Senior Software Engineer, 1 @ People Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** New York, NY, US USA
@@ -709,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Data Engineer (Onsite Hybrid) @ NTT DATA
+## 60. Data Engineer (Onsite Hybrid) @ NTT DATA
 **Match Score:** 11.8%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -720,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Sr Databricks Data Engineer @ Deloitte
+## 61. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Morristown, NJ, US USA
@@ -731,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Sr Databricks Data Engineer @ Deloitte
+## 62. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Chicago, IL, US USA
@@ -742,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. Sr Databricks Data Engineer @ Deloitte
+## 63. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Boston, MA, US USA
@@ -753,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Sr Databricks Data Engineer @ Deloitte
+## 64. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -764,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Sr Databricks Data Engineer @ Deloitte
+## 65. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -775,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Sr Databricks Data Engineer @ Deloitte
+## 66. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -786,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Sr Databricks Data Engineer @ Deloitte
+## 67. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -797,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Sr Databricks Data Engineer @ Deloitte
+## 68. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -808,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Sr Databricks Data Engineer @ Deloitte
+## 69. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -819,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Sr Databricks Data Engineer @ Deloitte
+## 70. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -830,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Sr Databricks Data Engineer @ Deloitte
+## 71. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Dallas, TX, US USA
@@ -841,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Sr Databricks Data Engineer @ Deloitte
+## 72. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Denver, CO, US USA
@@ -852,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Sr Databricks Data Engineer @ Deloitte
+## 73. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -863,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Sr Databricks Data Engineer @ Deloitte
+## 74. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Seattle, WA, US USA
@@ -874,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Sr Databricks Data Engineer @ Deloitte
+## 75. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Detroit, MI, US USA
@@ -885,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Sr Databricks Data Engineer @ Deloitte
+## 76. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Columbus, OH, US USA
@@ -896,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Sr Databricks Data Engineer @ Deloitte
+## 77. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -907,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Sr Databricks Data Engineer @ Deloitte
+## 78. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Tempe, AZ, US USA
@@ -918,7 +863,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Sr Databricks Data Engineer @ Deloitte
+## 79. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -929,7 +874,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Sr Databricks Data Engineer @ Deloitte
+## 80. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** San Diego, CA, US USA
@@ -940,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Sr Databricks Data Engineer @ Deloitte
+## 81. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -951,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Sr Databricks Data Engineer @ Deloitte
+## 82. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Tampa, FL, US USA
@@ -962,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Sr Databricks Data Engineer @ Deloitte
+## 83. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Arlington, VA, US USA
@@ -973,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Sr Databricks Data Engineer @ Deloitte
+## 84. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -984,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Sr Databricks Data Engineer @ Deloitte
+## 85. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Austin, TX, US USA
@@ -995,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Sr Databricks Data Engineer @ Deloitte
+## 86. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1006,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Sr Databricks Data Engineer @ Deloitte
+## 87. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -1017,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Sr Databricks Data Engineer @ Deloitte
+## 88. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** San Jose, CA, US USA
@@ -1028,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Sr Databricks Data Engineer @ Deloitte
+## 89. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** McLean, VA, US USA
@@ -1039,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Sr Databricks Data Engineer @ Deloitte
+## 90. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Stamford, CT, US USA
@@ -1050,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Sr Databricks Data Engineer @ Deloitte
+## 91. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Houston, TX, US USA
@@ -1061,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Sr Databricks Data Engineer @ Deloitte
+## 92. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Miami, FL, US USA
@@ -1072,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Sr Databricks Data Engineer @ Deloitte
+## 93. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Nashville, TN, US USA
@@ -1083,7 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. Data Architect @ nan
+## 94. Data Architect @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Tallahassee, FL, US USA
@@ -1094,7 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 95. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tempe, AZ, US USA
@@ -1105,7 +1050,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 96. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Midland, MI, US USA
@@ -1116,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 97. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Jericho, NY, US USA
@@ -1127,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 98. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -1138,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 104. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 99. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -1149,7 +1094,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 105. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 100. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -1160,7 +1105,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 106. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 101. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Salt Lake City, UT, US USA
@@ -1171,7 +1116,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 107. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 102. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Lansing, MI, US USA
@@ -1182,7 +1127,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 108. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 103. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -1193,7 +1138,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 109. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 104. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Hermitage, TN, US USA
@@ -1204,7 +1149,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 110. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 105. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -1215,7 +1160,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 111. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 106. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Jose, CA, US USA
@@ -1226,7 +1171,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 112. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 107. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -1237,7 +1182,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 113. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 108. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** McLean, VA, US USA
@@ -1248,7 +1193,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 114. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 109. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Richmond, VA, US USA
@@ -1259,7 +1204,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 115. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 110. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Fresno, CA, US USA
@@ -1270,7 +1215,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 116. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 111. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -1281,7 +1226,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 117. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 112. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -1292,7 +1237,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 118. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 113. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Memphis, TN, US USA
@@ -1303,7 +1248,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 119. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 114. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Princeton, NJ, US USA
@@ -1314,7 +1259,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 120. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 115. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -1325,7 +1270,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 121. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 116. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Stamford, CT, US USA
@@ -1336,7 +1281,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 122. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 117. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Bellevue, WA, US USA
@@ -1347,7 +1292,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 123. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 118. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Baltimore, MD, US USA
@@ -1358,7 +1303,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 124. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 119. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Washington, DC, US USA
@@ -1369,7 +1314,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 125. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 120. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -1380,7 +1325,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 126. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 121. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -1391,7 +1336,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 127. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 122. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -1402,7 +1347,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 128. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 123. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Davenport, IA, US USA
@@ -1413,7 +1358,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 129. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 124. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Birmingham, AL, US USA
@@ -1424,7 +1369,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 130. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 125. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -1435,7 +1380,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 131. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 126. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Des Moines, IA, US USA
@@ -1446,7 +1391,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 132. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 127. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tampa, FL, US USA
@@ -1457,7 +1402,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 133. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 128. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -1468,7 +1413,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 134. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 129. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Morristown, NJ, US USA
@@ -1479,7 +1424,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 135. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 130. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Rochester, NY, US USA
@@ -1490,7 +1435,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 136. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 131. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -1501,7 +1446,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 137. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 132. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Grand Rapids, MI, US USA
@@ -1512,7 +1457,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 138. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 133. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1523,7 +1468,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 139. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 134. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -1534,7 +1479,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 140. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 135. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Louisville, KY, US USA
@@ -1545,7 +1490,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 141. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 136. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -1556,7 +1501,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 142. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 137. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Miami, FL, US USA
@@ -1567,7 +1512,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 143. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 138. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -1578,7 +1523,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 144. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 139. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Hartford, CT, US USA
@@ -1589,7 +1534,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 145. Data Engineer - Project Delivery Senior Analyst @ Deloitte
+## 140. Data Engineer - Project Delivery Senior Analyst @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Boise, ID, US USA
@@ -1600,29 +1545,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 146. Senior Product Software Engineer @ nan
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, S3, SQS, SNS, RDS, Scala, Kafka, NoSQL, CI/CD, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9428fe1d5deac146)
-
----
-
-## 147. Sr Engineer - Operations Improvement @ Micron Technology
-**Match Score:** 11.1%
-
-📍 **Location:** Boise, ID, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Snowflake, MongoDB, ETL, Tableau, Splunk, Azure DevOps, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c4ba5c9bd83fc8ac)
-
----
-
-## 148. AI Solutions Analyst @ World Bank Group
+## 141. AI Solutions Analyst @ World Bank Group
 **Match Score:** 11.1%
 
 📍 **Location:** Washington, DC, US USA
@@ -1633,7 +1556,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 149. Senior Site Reliability Engineer @ LoadUp Technologies
+## 142. Senior Product Software Engineer @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, S3, SQS, SNS, RDS, Scala, Kafka, NoSQL, CI/CD, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9428fe1d5deac146)
+
+---
+
+## 143. Sr Engineer - Operations Improvement @ Micron Technology
+**Match Score:** 11.1%
+
+📍 **Location:** Boise, ID, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Snowflake, MongoDB, ETL, Tableau, Splunk, Azure DevOps, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c4ba5c9bd83fc8ac)
+
+---
+
+## 144. Senior Site Reliability Engineer @ LoadUp Technologies
 **Match Score:** 10.4%
 
 📍 **Location:** Alpharetta, GA, US USA
@@ -1644,7 +1589,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 150. DATA ENGINEER II @ Sony Pictures Entertainment
+## 145. DATA ENGINEER II @ Sony Pictures Entertainment
 **Match Score:** 10.4%
 
 📍 **Location:** Culver City, CA, US USA
@@ -1655,7 +1600,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 151. Geospatial Data Engineer @ Pano AI
+## 146. Geospatial Data Engineer @ Pano AI
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -1666,7 +1611,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 152. Software Quality Engineer @ Elekta
+## 147. Software Quality Engineer @ Elekta
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
@@ -1677,7 +1622,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 153. Finance Data Mart - Domain Data Architect @ JPMorganChase
+## 148. Finance Data Mart - Domain Data Architect @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Wilmington, DE, US USA
@@ -1688,7 +1633,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 154. Senior Sales Automation & Integrations Engineer @ nan
+## 149. Senior Sales Automation & Integrations Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Woodstock, VT, US USA
@@ -1699,7 +1644,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 155. Senior QA Analyst/Software @ Labcorp
+## 150. Senior QA Analyst/Software @ Labcorp
 **Match Score:** 10.4%
 
 📍 **Location:** Durham, NC, US USA
@@ -1710,7 +1655,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 156. Cyber Full-Stack Software Engineer @ Deloitte
+## 151. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -1721,7 +1666,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 157. Cyber Full-Stack Software Engineer @ Deloitte
+## 152. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Memphis, TN, US USA
@@ -1732,7 +1677,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 158. Cyber Full-Stack Software Engineer @ Deloitte
+## 153. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Mechanicsburg, PA, US USA
@@ -1743,7 +1688,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 159. Cyber Full-Stack Software Engineer @ Deloitte
+## 154. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Arlington, VA, US USA
@@ -1754,7 +1699,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 160. Cyber Full-Stack Software Engineer @ Deloitte
+## 155. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Morristown, NJ, US USA
@@ -1765,7 +1710,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 161. Cyber Full-Stack Software Engineer @ Deloitte
+## 156. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Richmond, VA, US USA
@@ -1776,7 +1721,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 162. Cyber Full-Stack Software Engineer @ Deloitte
+## 157. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Nashville, TN, US USA
@@ -1787,7 +1732,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 163. Cyber Full-Stack Software Engineer @ Deloitte
+## 158. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -1798,7 +1743,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 164. Cyber Full-Stack Software Engineer @ Deloitte
+## 159. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -1809,7 +1754,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 165. Cyber Full-Stack Software Engineer @ Deloitte
+## 160. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -1820,7 +1765,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 166. Cyber Full-Stack Software Engineer @ Deloitte
+## 161. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
@@ -1831,7 +1776,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 167. Cyber Full-Stack Software Engineer @ Deloitte
+## 162. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -1842,7 +1787,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 168. Cyber Full-Stack Software Engineer @ Deloitte
+## 163. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -1853,7 +1798,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 169. Cyber Full-Stack Software Engineer @ Deloitte
+## 164. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Davenport, IA, US USA
@@ -1864,7 +1809,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 170. Cyber Full-Stack Software Engineer @ Deloitte
+## 165. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1875,7 +1820,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 171. Cyber Full-Stack Software Engineer @ Deloitte
+## 166. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -1886,7 +1831,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 172. Cyber Full-Stack Software Engineer @ Deloitte
+## 167. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Lake Mary, FL, US USA
@@ -1897,7 +1842,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 173. Cyber Full-Stack Software Engineer @ Deloitte
+## 168. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** McLean, VA, US USA
@@ -1908,7 +1853,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 174. Cyber Full-Stack Software Engineer @ Deloitte
+## 169. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -1919,7 +1864,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 175. Cyber Full-Stack Software Engineer @ Deloitte
+## 170. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Portland, OR, US USA
@@ -1930,7 +1875,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 176. Cyber Full-Stack Software Engineer @ Deloitte
+## 171. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -1941,7 +1886,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 177. Cyber Full-Stack Software Engineer @ Deloitte
+## 172. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Denver, CO, US USA
@@ -1952,7 +1897,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 178. Cyber Full-Stack Software Engineer @ Deloitte
+## 173. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -1963,7 +1908,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 179. Cyber Full-Stack Software Engineer @ Deloitte
+## 174. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Hartford, CT, US USA
@@ -1974,7 +1919,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 180. Cyber Full-Stack Software Engineer @ Deloitte
+## 175. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Hermitage, TN, US USA
@@ -1985,7 +1930,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 181. Cyber Full-Stack Software Engineer @ Deloitte
+## 176. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
@@ -1996,7 +1941,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 182. Cyber Full-Stack Software Engineer @ Deloitte
+## 177. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -2007,7 +1952,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 183. Cyber Full-Stack Software Engineer @ Deloitte
+## 178. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Rochester, NY, US USA
@@ -2018,7 +1963,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 184. Cyber Full-Stack Software Engineer @ Deloitte
+## 179. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Columbus, OH, US USA
@@ -2029,7 +1974,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 185. Cyber Full-Stack Software Engineer @ Deloitte
+## 180. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -2040,7 +1985,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 186. Cyber Full-Stack Software Engineer @ Deloitte
+## 181. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Dayton, OH, US USA
@@ -2051,7 +1996,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 187. Cyber Full-Stack Software Engineer @ Deloitte
+## 182. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -2062,7 +2007,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 188. Cyber Full-Stack Software Engineer @ Deloitte
+## 183. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Princeton, NJ, US USA
@@ -2073,7 +2018,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 189. Cyber Full-Stack Software Engineer @ Deloitte
+## 184. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -2084,7 +2029,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 190. Cyber Full-Stack Software Engineer @ Deloitte
+## 185. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -2095,7 +2040,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 191. Cyber Full-Stack Software Engineer @ Deloitte
+## 186. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -2106,7 +2051,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 192. Cyber Full-Stack Software Engineer @ Deloitte
+## 187. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Baltimore, MD, US USA
@@ -2117,7 +2062,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 193. Cyber Full-Stack Software Engineer @ Deloitte
+## 188. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Louisville, KY, US USA
@@ -2128,7 +2073,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 194. Cyber Full-Stack Software Engineer @ Deloitte
+## 189. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -2139,7 +2084,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 195. Cyber Full-Stack Software Engineer @ Deloitte
+## 190. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Jericho, NY, US USA
@@ -2150,7 +2095,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 196. Cyber Full-Stack Software Engineer @ Deloitte
+## 191. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -2161,7 +2106,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 197. Cyber Full-Stack Software Engineer @ Deloitte
+## 192. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -2172,7 +2117,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 198. Cyber Full-Stack Software Engineer @ Deloitte
+## 193. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -2183,7 +2128,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 199. Cyber Full-Stack Software Engineer @ Deloitte
+## 194. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Stamford, CT, US USA
@@ -2194,7 +2139,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 200. Cyber Full-Stack Software Engineer @ Deloitte
+## 195. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Colorado Springs, CO, US USA
@@ -2205,7 +2150,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 201. Cyber Full-Stack Software Engineer @ Deloitte
+## 196. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** New Orleans, LA, US USA
@@ -2216,7 +2161,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 202. Cyber Full-Stack Software Engineer @ Deloitte
+## 197. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Miami, FL, US USA
@@ -2227,7 +2172,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 203. Cyber Full-Stack Software Engineer @ Deloitte
+## 198. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -2238,7 +2183,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 204. Cyber Full-Stack Software Engineer @ Deloitte
+## 199. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Detroit, MI, US USA
@@ -2249,7 +2194,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 205. Cyber Full-Stack Software Engineer @ Deloitte
+## 200. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -2260,7 +2205,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 206. Cyber Full-Stack Software Engineer @ Deloitte
+## 201. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Gilbert, AZ, US USA
