@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-23 06:00
+Last updated: 2026-05-23 08:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tyler Technologies | DevOps and Cloud Engineer | Lakewood, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f7bbd2a751aa54c1) | 2026-05-23 08:22 |
+| Tyler Technologies | DevOps and Cloud Engineer | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=792a6691e358ff5f) | 2026-05-23 08:22 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 08:22 |
+| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-23 08:22 |
+| LoadUp Technologies | Senior Site Reliability Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4aa6e5d4c8040aea) | 2026-05-23 08:22 |
+| Labcorp | Senior QA Analyst/Software | Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a397b75b31e4442d) | 2026-05-23 08:22 |
 | Molex | Data Platform & Engineering Specialist | Lincoln, NE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3a9b926ab26ddab0) | 2026-05-23 06:00 |
 | Tata Consultancy Services (TCS) | Senior Engineer | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=101b904e03cc0a1b) | 2026-05-23 06:00 |
 | Deloitte | Cloud Engineer - Project Delivery Senior Analyst | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7b009b8ae81c7333) | 2026-05-23 06:00 |
@@ -56,8 +62,6 @@ Last updated: 2026-05-23 06:00
 | Deloitte | Data Engineer - Project Delivery Analyst | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1fc3eca7302ed122) | 2026-05-23 06:00 |
 | Deloitte | Data Engineer - Project Delivery Analyst | Costa Mesa, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3e7d3a92c82c7700) | 2026-05-23 06:00 |
 | Deloitte | Data Engineer - Project Delivery Analyst | Bellevue, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8a05e99de85e8ca1) | 2026-05-23 06:00 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 06:00 |
-| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-23 06:00 |
 | Deloitte | Sr Databricks Data Engineer | Morristown, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1ca8ade31010ca7) | 2026-05-23 06:00 |
 | Deloitte | Sr Databricks Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d43d2f73f3f7cb3b) | 2026-05-23 06:00 |
 | Deloitte | Sr Databricks Data Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b8a3b020afc18655) | 2026-05-23 06:00 |
@@ -734,11 +738,6 @@ Last updated: 2026-05-23 06:00
 | Cox Automotive | Software Engineer I | Draper, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1eaa43d2708b0fa5) | 2026-05-19 10:33 |
 | Wells Fargo | Senior .net Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f633477012d7720) | 2026-05-19 10:33 |
 | Tivity Health | Sr Engineer, Data Science & Machine Learning Operations - remote opportunity | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ba5979330da050e) | 2026-05-19 10:33 |
-| Willdan | Cloud Engineer | Anaheim, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cf4ce7bf4011426a) | 2026-05-19 06:41 |
-| Tesla | Data Platform Architect, AI Adoption | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=abf4cabe83b9851e) | 2026-05-19 06:41 |
-| UT Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate (On-Site) | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be9f49babb6ca927) | 2026-05-19 06:41 |
-| Thorne | Senior DevSecOps / Security Engineer – Application & Cloud (Ecommerce) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f7be3e52d3af700) | 2026-05-19 06:41 |
-| ASPCA | Microsoft Dynamics 365 Engineer | Champaign, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1215e6b6c5c859a) | 2026-05-19 06:41 |
 
 
 ---
