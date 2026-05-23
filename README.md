@@ -1,15 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-23 08:22
+Last updated: 2026-05-23 10:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bertrandt | DataOps Engineer (Local to Charlotte, NC) | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=80ffddefbdd0be19) | 2026-05-23 10:22 |
+| Eccalon | Database Engineer - onsite | Detroit, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e6063e836c57f9b5) | 2026-05-23 10:22 |
+| Bertrandt | Senior Data Ops Engineer (Local to Charlotte, NC) | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=213d2103202cab40) | 2026-05-23 10:22 |
+| People Inc. | Senior IT Infrastructure Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a00f41d32e3dd1b3) | 2026-05-23 10:22 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 10:22 |
+| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-23 10:22 |
+| People Inc. | Senior Software Engineer, 1 | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=49bacd10e684dc5f) | 2026-05-23 10:22 |
+| JPMorganChase | Finance Data Mart - Domain Data Architect | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=216cf9bc02e5f50a) | 2026-05-23 10:22 |
 | Tyler Technologies | DevOps and Cloud Engineer | Lakewood, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f7bbd2a751aa54c1) | 2026-05-23 08:22 |
 | Tyler Technologies | DevOps and Cloud Engineer | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=792a6691e358ff5f) | 2026-05-23 08:22 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 08:22 |
-| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-23 08:22 |
 | LoadUp Technologies | Senior Site Reliability Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4aa6e5d4c8040aea) | 2026-05-23 08:22 |
 | Labcorp | Senior QA Analyst/Software | Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a397b75b31e4442d) | 2026-05-23 08:22 |
 | Molex | Data Platform & Engineering Specialist | Lincoln, NE, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3a9b926ab26ddab0) | 2026-05-23 06:00 |
