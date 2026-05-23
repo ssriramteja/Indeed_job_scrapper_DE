@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-23 11:55
+Last updated: 2026-05-23 13:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 11:55 |
-| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-23 11:55 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 13:03 |
+| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-23 13:03 |
+| nan | Senior Sales Automation & Integrations Engineer | Woodstock, VT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d8721cb25b26868) | 2026-05-23 13:03 |
 | Bertrandt | DataOps Engineer (Local to Charlotte, NC) | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=80ffddefbdd0be19) | 2026-05-23 10:22 |
 | Eccalon | Database Engineer - onsite | Detroit, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e6063e836c57f9b5) | 2026-05-23 10:22 |
 | Bertrandt | Senior Data Ops Engineer (Local to Charlotte, NC) | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=213d2103202cab40) | 2026-05-23 10:22 |
