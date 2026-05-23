@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-23 20:04
+Last updated: 2026-05-23 21:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 20:04 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 21:45 |
+| nan | Data Architect | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b457a11e98e82c5e) | 2026-05-23 21:45 |
 | nan | Senior Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9428fe1d5deac146) | 2026-05-23 14:54 |
 | Micron Technology | Sr Engineer - Operations Improvement | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4ba5c9bd83fc8ac) | 2026-05-23 14:54 |
 | Elekta | Software Quality Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fad5a01749b44d7e) | 2026-05-23 14:54 |
@@ -653,10 +654,6 @@ Last updated: 2026-05-23 20:04
 | ServiceTitan | Senior AI Engineer (Agent OS Platform) | Sacramento, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9af2358984349df) | 2026-05-19 22:08 |
 | Nexstar Media Group, Inc. | AI/ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9158d7ecaabe631d) | 2026-05-19 22:08 |
 | Nexstar Media Group, Inc. | AI/ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=746360ee3987922f) | 2026-05-19 22:08 |
-| Linstarsolution corporation | AI Full Stack Developer & Architect | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1245fb4aa0b33840) | 2026-05-19 20:25 |
-| Trinity Industries | Sr Forward Deployed Engineer (Foundry) | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7f1207216093eb19) | 2026-05-19 20:25 |
-| Success Academy Charter Schools | AI Software Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f69cae0b073ffd83) | 2026-05-19 20:25 |
-| Goodwill Industries of Ky., Inc. | Data Engineer | Louisville, KY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4de6845b355390df) | 2026-05-19 20:25 |
 
 
 ---
