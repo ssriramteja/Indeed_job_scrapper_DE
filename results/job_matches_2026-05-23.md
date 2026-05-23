@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-23
 
-**Total Jobs Found:** 279
+**Total Jobs Found:** 282
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -1226,18 +1226,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 112. Cloud Infrastructure Engineer @ Outcome
-**Match Score:** 11.8%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** IAM, RDS, Google Cloud Platform, GCP, BigQuery, Scala, PostgreSQL, CI/CD, GitHub Actions, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=afb98e31dbf7c26e)
-
----
-
-## 113. Senior Software Engineer @ RPM
+## 112. Senior Software Engineer @ RPM
 **Match Score:** 11.8%
 
 📍 **Location:** Birmingham, MI, US USA
@@ -1245,6 +1234,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, API Gateway, RDS, Azure, Scala, Kafka, MongoDB, ELT, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=44fdf2eafecdc57a)
+
+---
+
+## 113. Cloud Infrastructure Engineer @ Outcome
+**Match Score:** 11.8%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** IAM, RDS, Google Cloud Platform, GCP, BigQuery, Scala, PostgreSQL, CI/CD, GitHub Actions, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=afb98e31dbf7c26e)
 
 ---
 
@@ -1798,7 +1798,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 164. AI Solutions Analyst @ World Bank Group
+## 164. Senior Product Software Engineer @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, S3, SQS, SNS, RDS, Scala, Kafka, NoSQL, CI/CD, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9428fe1d5deac146)
+
+---
+
+## 165. Sr Engineer - Operations Improvement @ Micron Technology
+**Match Score:** 11.1%
+
+📍 **Location:** Boise, ID, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Snowflake, MongoDB, ETL, Tableau, Splunk, Azure DevOps, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c4ba5c9bd83fc8ac)
+
+---
+
+## 166. AI Solutions Analyst @ World Bank Group
 **Match Score:** 11.1%
 
 📍 **Location:** Washington, DC, US USA
@@ -1809,7 +1831,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 165. Senior DevOps Engineer IV @ Availity, LLC.
+## 167. Senior DevOps Engineer IV @ Availity, LLC.
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -1820,7 +1842,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 166. Senior Data Platform Engineer, Enterprise Data & Analytics @ Always Compassionate Health
+## 168. Senior Data Platform Engineer, Enterprise Data & Analytics @ Always Compassionate Health
 **Match Score:** 11.1%
 
 📍 **Location:** Melville, NY, US USA
@@ -1831,7 +1853,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 167. Full Stack Engineer @ The University of Chicago
+## 169. Full Stack Engineer @ The University of Chicago
 **Match Score:** 11.1%
 
 📍 **Location:** Chicago, IL, US USA
@@ -1842,7 +1864,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 168. Junior SQL Developer @ nan
+## 170. Junior SQL Developer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Columbia, MD, US USA
@@ -1853,7 +1875,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 169. Senior Site Reliability Engineer @ LoadUp Technologies
+## 171. Senior Site Reliability Engineer @ LoadUp Technologies
 **Match Score:** 10.4%
 
 📍 **Location:** Alpharetta, GA, US USA
@@ -1864,7 +1886,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 170. DATA ENGINEER II @ Sony Pictures Entertainment
+## 172. DATA ENGINEER II @ Sony Pictures Entertainment
 **Match Score:** 10.4%
 
 📍 **Location:** Culver City, CA, US USA
@@ -1875,7 +1897,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 171. Geospatial Data Engineer @ Pano AI
+## 173. Geospatial Data Engineer @ Pano AI
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -1886,7 +1908,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 172. Senior Data Engineer @ First Help Financial
+## 174. Senior Data Engineer @ First Help Financial
 **Match Score:** 10.4%
 
 📍 **Location:** Needham, MA, US USA
@@ -1897,7 +1919,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 173. Software Engineer @ Mission Pet Health
+## 175. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** PA, US USA
@@ -1908,7 +1930,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 174. Software Engineer @ Mission Pet Health
+## 176. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** NJ, US USA
@@ -1919,7 +1941,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 175. Software Engineer @ Mission Pet Health
+## 177. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** NC, US USA
@@ -1930,7 +1952,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 176. Software Engineer @ Mission Pet Health
+## 178. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** TN, US USA
@@ -1941,7 +1963,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 177. Software Engineer @ Mission Pet Health
+## 179. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** VT, US USA
@@ -1952,7 +1974,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 178. Software Engineer @ Mission Pet Health
+## 180. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** WI, US USA
@@ -1963,7 +1985,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 179. Software Engineer @ Mission Pet Health
+## 181. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** OR, US USA
@@ -1974,7 +1996,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 180. Software Engineer @ Mission Pet Health
+## 182. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** WY, US USA
@@ -1985,7 +2007,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 181. Software Engineer @ Mission Pet Health
+## 183. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** VA, US USA
@@ -1996,7 +2018,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 182. Software Engineer @ Mission Pet Health
+## 184. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** RI, US USA
@@ -2007,7 +2029,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 183. Software Engineer @ Mission Pet Health
+## 185. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** NM, US USA
@@ -2018,7 +2040,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 184. Software Engineer @ Mission Pet Health
+## 186. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -2029,7 +2051,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 185. Software Engineer @ Mission Pet Health
+## 187. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** Washington, DC, US USA
@@ -2040,7 +2062,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 186. Software Engineer @ Mission Pet Health
+## 188. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** WV, US USA
@@ -2051,7 +2073,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 187. Software Engineer @ Mission Pet Health
+## 189. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** SC, US USA
@@ -2062,7 +2084,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 188. Software Engineer @ Mission Pet Health
+## 190. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** UT, US USA
@@ -2073,7 +2095,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 189. Software Engineer @ Mission Pet Health
+## 191. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** OK, US USA
@@ -2084,7 +2106,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 190. Software Engineer @ Mission Pet Health
+## 192. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** SD, US USA
@@ -2095,7 +2117,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 191. Software Engineer @ Mission Pet Health
+## 193. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** OH, US USA
@@ -2106,7 +2128,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 192. Software Engineer @ Mission Pet Health
+## 194. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** ND, US USA
@@ -2117,7 +2139,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 193. Software Engineer @ Mission Pet Health
+## 195. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** NH, US USA
@@ -2128,7 +2150,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 194. Software Engineer @ Mission Pet Health
+## 196. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** MD, US USA
@@ -2139,7 +2161,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 195. Software Engineer @ Mission Pet Health
+## 197. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -2150,7 +2172,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 196. Software Engineer @ Mission Pet Health
+## 198. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** MN, US USA
@@ -2161,7 +2183,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 197. Software Engineer @ Mission Pet Health
+## 199. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** NV, US USA
@@ -2172,7 +2194,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 198. Software Engineer @ Mission Pet Health
+## 200. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** MO, US USA
@@ -2183,7 +2205,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 199. Software Engineer @ Mission Pet Health
+## 201. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** MT, US USA
@@ -2194,7 +2216,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 200. Software Engineer @ Mission Pet Health
+## 202. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** MI, US USA
@@ -2205,7 +2227,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 201. Software Engineer @ Mission Pet Health
+## 203. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** LA, US USA
@@ -2216,7 +2238,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 202. Software Engineer @ Mission Pet Health
+## 204. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** ME, US USA
@@ -2227,7 +2249,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 203. Software Engineer @ Mission Pet Health
+## 205. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** NE, US USA
@@ -2238,7 +2260,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 204. Software Engineer @ Mission Pet Health
+## 206. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** MS, US USA
@@ -2249,7 +2271,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 205. Software Engineer @ Mission Pet Health
+## 207. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** KS, US USA
@@ -2260,7 +2282,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 206. Software Engineer @ Mission Pet Health
+## 208. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** MA, US USA
@@ -2271,7 +2293,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 207. Software Engineer @ Mission Pet Health
+## 209. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** DE, US USA
@@ -2282,7 +2304,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 208. Software Engineer @ Mission Pet Health
+## 210. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** IA, US USA
@@ -2293,51 +2315,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 209. Software Engineer @ Mission Pet Health
+## 211. Software Quality Engineer @ Elekta
 **Match Score:** 10.4%
 
-📍 **Location:** GA, US USA
+📍 **Location:** San Jose, CA, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, MongoDB, ETL, CI/CD, Terraform, Kubernetes
+🔑 **Keywords:** RDS, Azure, Scala, SQL Server, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Jenkins, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=5fce945869a48d03)
+[Apply Here](https://www.indeed.com/viewjob?jk=fad5a01749b44d7e)
 
 ---
 
-## 210. Software Engineer @ Mission Pet Health
-**Match Score:** 10.4%
-
-📍 **Location:** CT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, MongoDB, ETL, CI/CD, Terraform, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d0fa1efff4a88791)
-
----
-
-## 211. Software Engineer @ Mission Pet Health
-**Match Score:** 10.4%
-
-📍 **Location:** IL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, MongoDB, ETL, CI/CD, Terraform, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c703a8545afdbf64)
-
----
-
-## 212. Software Engineer @ Mission Pet Health
-**Match Score:** 10.4%
-
-📍 **Location:** IN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, MongoDB, ETL, CI/CD, Terraform, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a5e2926b6cfb0d38)
-
----
-
-## 213. Finance Data Mart - Domain Data Architect @ JPMorganChase
+## 212. Finance Data Mart - Domain Data Architect @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Wilmington, DE, US USA
@@ -2348,7 +2337,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 214. Senior Sales Automation & Integrations Engineer @ nan
+## 213. Senior Sales Automation & Integrations Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Woodstock, VT, US USA
@@ -2359,7 +2348,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 215. Senior QA Analyst/Software @ Labcorp
+## 214. Senior QA Analyst/Software @ Labcorp
 **Match Score:** 10.4%
 
 📍 **Location:** Durham, NC, US USA
@@ -2370,7 +2359,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 216. Senior Engineer - Ingestion & Streaming Frameworks @ Datavant
+## 215. Senior Engineer - Ingestion & Streaming Frameworks @ Datavant
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -2381,7 +2370,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 217. Senior Data Developer @ APCO Holdings
+## 216. Senior Data Developer @ APCO Holdings
 **Match Score:** 10.4%
 
 📍 **Location:** Ponte Vedra, FL, US USA
@@ -2392,7 +2381,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 218. Senior Data Developer @ APCO Holdings
+## 217. Senior Data Developer @ APCO Holdings
 **Match Score:** 10.4%
 
 📍 **Location:** Westerville, OH, US USA
@@ -2403,7 +2392,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 219. Senior Data Developer @ APCO Holdings
+## 218. Senior Data Developer @ APCO Holdings
 **Match Score:** 10.4%
 
 📍 **Location:** Norcross, GA, US USA
@@ -2414,7 +2403,51 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
+## 219. Software Engineer @ Mission Pet Health
+**Match Score:** 10.4%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, MongoDB, ETL, CI/CD, Terraform, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5fce945869a48d03)
+
+---
+
 ## 220. Software Engineer @ Mission Pet Health
+**Match Score:** 10.4%
+
+📍 **Location:** CT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, MongoDB, ETL, CI/CD, Terraform, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d0fa1efff4a88791)
+
+---
+
+## 221. Software Engineer @ Mission Pet Health
+**Match Score:** 10.4%
+
+📍 **Location:** IL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, MongoDB, ETL, CI/CD, Terraform, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c703a8545afdbf64)
+
+---
+
+## 222. Software Engineer @ Mission Pet Health
+**Match Score:** 10.4%
+
+📍 **Location:** IN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, MongoDB, ETL, CI/CD, Terraform, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a5e2926b6cfb0d38)
+
+---
+
+## 223. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** AK, US USA
@@ -2425,7 +2458,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 221. Software Engineer @ Mission Pet Health
+## 224. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** FL, US USA
@@ -2436,7 +2469,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 222. Software Engineer @ Mission Pet Health
+## 225. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** ID, US USA
@@ -2447,7 +2480,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 223. Software Engineer @ Mission Pet Health
+## 226. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** CO, US USA
@@ -2458,7 +2491,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 224. Software Engineer @ Mission Pet Health
+## 227. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** HI, US USA
@@ -2469,7 +2502,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 225. Software Engineer @ Mission Pet Health
+## 228. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** KY, US USA
@@ -2480,7 +2513,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 226. Software Engineer @ Mission Pet Health
+## 229. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** AZ, US USA
@@ -2491,7 +2524,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 227. Software Engineer @ Mission Pet Health
+## 230. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** AR, US USA
@@ -2502,7 +2535,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 228. Software Engineer @ Mission Pet Health
+## 231. Software Engineer @ Mission Pet Health
 **Match Score:** 10.4%
 
 📍 **Location:** CA, US USA
@@ -2513,7 +2546,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 229. Cyber Full-Stack Software Engineer @ Deloitte
+## 232. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -2524,7 +2557,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 230. Cyber Full-Stack Software Engineer @ Deloitte
+## 233. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Memphis, TN, US USA
@@ -2535,7 +2568,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 231. Cyber Full-Stack Software Engineer @ Deloitte
+## 234. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Mechanicsburg, PA, US USA
@@ -2546,7 +2579,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 232. Cyber Full-Stack Software Engineer @ Deloitte
+## 235. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Arlington, VA, US USA
@@ -2557,7 +2590,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 233. Cyber Full-Stack Software Engineer @ Deloitte
+## 236. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Morristown, NJ, US USA
@@ -2568,7 +2601,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 234. Cyber Full-Stack Software Engineer @ Deloitte
+## 237. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Richmond, VA, US USA
@@ -2579,7 +2612,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 235. Cyber Full-Stack Software Engineer @ Deloitte
+## 238. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Nashville, TN, US USA
@@ -2590,7 +2623,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 236. Cyber Full-Stack Software Engineer @ Deloitte
+## 239. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -2601,7 +2634,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 237. Cyber Full-Stack Software Engineer @ Deloitte
+## 240. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -2612,7 +2645,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 238. Cyber Full-Stack Software Engineer @ Deloitte
+## 241. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -2623,7 +2656,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 239. Cyber Full-Stack Software Engineer @ Deloitte
+## 242. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
@@ -2634,7 +2667,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 240. Cyber Full-Stack Software Engineer @ Deloitte
+## 243. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -2645,7 +2678,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 241. Cyber Full-Stack Software Engineer @ Deloitte
+## 244. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -2656,7 +2689,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 242. Cyber Full-Stack Software Engineer @ Deloitte
+## 245. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Davenport, IA, US USA
@@ -2667,7 +2700,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 243. Cyber Full-Stack Software Engineer @ Deloitte
+## 246. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -2678,7 +2711,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 244. Cyber Full-Stack Software Engineer @ Deloitte
+## 247. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -2689,7 +2722,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 245. Cyber Full-Stack Software Engineer @ Deloitte
+## 248. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Lake Mary, FL, US USA
@@ -2700,7 +2733,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 246. Cyber Full-Stack Software Engineer @ Deloitte
+## 249. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** McLean, VA, US USA
@@ -2711,7 +2744,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 247. Cyber Full-Stack Software Engineer @ Deloitte
+## 250. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -2722,7 +2755,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 248. Cyber Full-Stack Software Engineer @ Deloitte
+## 251. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Portland, OR, US USA
@@ -2733,7 +2766,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 249. Cyber Full-Stack Software Engineer @ Deloitte
+## 252. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -2744,7 +2777,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 250. Cyber Full-Stack Software Engineer @ Deloitte
+## 253. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Denver, CO, US USA
@@ -2755,7 +2788,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 251. Cyber Full-Stack Software Engineer @ Deloitte
+## 254. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -2766,7 +2799,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 252. Cyber Full-Stack Software Engineer @ Deloitte
+## 255. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Hartford, CT, US USA
@@ -2777,7 +2810,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 253. Cyber Full-Stack Software Engineer @ Deloitte
+## 256. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Hermitage, TN, US USA
@@ -2788,7 +2821,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 254. Cyber Full-Stack Software Engineer @ Deloitte
+## 257. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
@@ -2799,7 +2832,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 255. Cyber Full-Stack Software Engineer @ Deloitte
+## 258. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -2810,7 +2843,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 256. Cyber Full-Stack Software Engineer @ Deloitte
+## 259. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Rochester, NY, US USA
@@ -2821,7 +2854,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 257. Cyber Full-Stack Software Engineer @ Deloitte
+## 260. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Columbus, OH, US USA
@@ -2832,7 +2865,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 258. Cyber Full-Stack Software Engineer @ Deloitte
+## 261. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -2843,7 +2876,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 259. Cyber Full-Stack Software Engineer @ Deloitte
+## 262. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Dayton, OH, US USA
@@ -2854,7 +2887,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 260. Cyber Full-Stack Software Engineer @ Deloitte
+## 263. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -2865,7 +2898,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 261. Cyber Full-Stack Software Engineer @ Deloitte
+## 264. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Princeton, NJ, US USA
@@ -2876,7 +2909,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 262. Cyber Full-Stack Software Engineer @ Deloitte
+## 265. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -2887,7 +2920,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 263. Cyber Full-Stack Software Engineer @ Deloitte
+## 266. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -2898,7 +2931,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 264. Cyber Full-Stack Software Engineer @ Deloitte
+## 267. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -2909,7 +2942,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 265. Cyber Full-Stack Software Engineer @ Deloitte
+## 268. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Baltimore, MD, US USA
@@ -2920,7 +2953,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 266. Cyber Full-Stack Software Engineer @ Deloitte
+## 269. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Louisville, KY, US USA
@@ -2931,7 +2964,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 267. Cyber Full-Stack Software Engineer @ Deloitte
+## 270. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -2942,7 +2975,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 268. Cyber Full-Stack Software Engineer @ Deloitte
+## 271. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Jericho, NY, US USA
@@ -2953,7 +2986,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 269. Cyber Full-Stack Software Engineer @ Deloitte
+## 272. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -2964,7 +2997,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 270. Cyber Full-Stack Software Engineer @ Deloitte
+## 273. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -2975,7 +3008,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 271. Cyber Full-Stack Software Engineer @ Deloitte
+## 274. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -2986,7 +3019,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 272. Cyber Full-Stack Software Engineer @ Deloitte
+## 275. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Stamford, CT, US USA
@@ -2997,7 +3030,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 273. Cyber Full-Stack Software Engineer @ Deloitte
+## 276. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Colorado Springs, CO, US USA
@@ -3008,7 +3041,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 274. Cyber Full-Stack Software Engineer @ Deloitte
+## 277. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** New Orleans, LA, US USA
@@ -3019,7 +3052,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 275. Cyber Full-Stack Software Engineer @ Deloitte
+## 278. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Miami, FL, US USA
@@ -3030,7 +3063,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 276. Cyber Full-Stack Software Engineer @ Deloitte
+## 279. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -3041,7 +3074,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 277. Cyber Full-Stack Software Engineer @ Deloitte
+## 280. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Detroit, MI, US USA
@@ -3052,7 +3085,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 278. Cyber Full-Stack Software Engineer @ Deloitte
+## 281. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -3063,7 +3096,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 279. Cyber Full-Stack Software Engineer @ Deloitte
+## 282. Cyber Full-Stack Software Engineer @ Deloitte
 **Match Score:** 10.4%
 
 📍 **Location:** Gilbert, AZ, US USA

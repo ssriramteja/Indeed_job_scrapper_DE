@@ -1,13 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-23 13:03
+Last updated: 2026-05-23 14:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 13:03 |
-| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-23 13:03 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 14:54 |
+| McKinsey & Company | Data Scientist II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3d29470f2d0a62b) | 2026-05-23 14:54 |
+| nan | Senior Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9428fe1d5deac146) | 2026-05-23 14:54 |
+| Micron Technology | Sr Engineer - Operations Improvement | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4ba5c9bd83fc8ac) | 2026-05-23 14:54 |
+| Elekta | Software Quality Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fad5a01749b44d7e) | 2026-05-23 14:54 |
 | nan | Senior Sales Automation & Integrations Engineer | Woodstock, VT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d8721cb25b26868) | 2026-05-23 13:03 |
 | Bertrandt | DataOps Engineer (Local to Charlotte, NC) | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=80ffddefbdd0be19) | 2026-05-23 10:22 |
 | Eccalon | Database Engineer - onsite | Detroit, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e6063e836c57f9b5) | 2026-05-23 10:22 |
@@ -730,17 +733,6 @@ Last updated: 2026-05-23 13:03
 | Energy Solutions | Database Administrator (Orange, CA - US) | Orange, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=505e60955729c7b6) | 2026-05-19 16:45 |
 | Energy Solutions | Database Administrator (Boston,MA - US) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21538c437c55ec26) | 2026-05-19 16:45 |
 | Energy Solutions | Database Administrator (Oakland, CA - US) | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cadff332c22c58a9) | 2026-05-19 16:45 |
-| Capgemini | GCP Data Engineer | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=88dfefca6da19496) | 2026-05-19 13:50 |
-| SharkNinja | Data Engineer | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4eb47d9c8a787444) | 2026-05-19 13:50 |
-| Ai Vantage | Data Engineer- Local | Vienna, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f9f567112b742a9e) | 2026-05-19 13:50 |
-| Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2f3215e173a2f079) | 2026-05-19 13:50 |
-| Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a35019214a98b077) | 2026-05-19 13:50 |
-| Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9516aa524f738d9) | 2026-05-19 13:50 |
-| Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2d5239019737c1e6) | 2026-05-19 13:50 |
-| nan | Sr Software Engineer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a89ce09999706a8d) | 2026-05-19 13:50 |
-| nan | Data Engineer II | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46f97f725c092d19) | 2026-05-19 13:50 |
-| nan | Sr Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef6f778294e73998) | 2026-05-19 13:50 |
-| American Electric Power | Solution Engineer: Enterprise GenAI & Analytics Enablement | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9df419a67df1ba59) | 2026-05-19 13:50 |
 
 
 ---
