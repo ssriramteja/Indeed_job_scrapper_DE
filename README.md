@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-24 19:03
+Last updated: 2026-05-24 20:42
 
 ### 🚀 Daily Job Matches
 
@@ -567,19 +567,6 @@ Last updated: 2026-05-24 19:03
 | AAA Central Penn | Business Intelligence Analyst - Harrisburg, PA | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a7c5dcb3f5dd6592) | 2026-05-20 21:43 |
 | Florence HC | Field Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0f35f177eb851ec) | 2026-05-20 21:43 |
 | Clearwater Analytics (CWAN) | Senior Software Development Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4594ef27276bcddb) | 2026-05-20 21:43 |
-| Goldman Sachs | Asset & Wealth Management, Business Analytics, Associate - New York | New York, NY, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=d4ad76c8612e4a09) | 2026-05-20 19:14 |
-| Xpedient Technologies | AI/ML Intern | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0f1d8e827779774e) | 2026-05-20 19:14 |
-| Newpage Digital Healthcare solutions | AI-Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=aa0b54505ba83c83) | 2026-05-20 19:14 |
-| Newpage Digital Healthcare solutions | AI-Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=788be6fbb8bd5c28) | 2026-05-20 19:14 |
-| Newpage Digital Healthcare solutions | AI-Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=01d2969a0188cb3d) | 2026-05-20 19:14 |
-| Random Bit | Senior AWS Solution Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a5f8e7a290e072e8) | 2026-05-20 19:14 |
-| TD | Data Engineer II (US) | Mount Laurel, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=acd3a2400ded0ef7) | 2026-05-20 19:14 |
-| nan | Senior Business Systems & Integrations Architect | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6abc49ee6c2f3b4f) | 2026-05-20 19:14 |
-| RevSpring, Inc | Data Engineer II - Analytics | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15bd37695704d0b2) | 2026-05-20 19:14 |
-| Gritter Francona, Inc | Informatics Architect | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da9c3829227dd781) | 2026-05-20 19:14 |
-| Gritter Francona, Inc | Informatics Architect | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65b067d12eb88dd1) | 2026-05-20 19:14 |
-| Gritter Francona, Inc | Informatics Architect | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d7ad78f557a45964) | 2026-05-20 19:14 |
-| Gritter Francona, Inc | Informatics Architect | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=acdf9d3eb5360a9e) | 2026-05-20 19:14 |
 
 
 ---
