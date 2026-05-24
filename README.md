@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-24 15:56
+Last updated: 2026-05-24 16:54
 
 ### 🚀 Daily Job Matches
 
@@ -580,17 +580,6 @@ Last updated: 2026-05-24 15:56
 | Gritter Francona, Inc | Informatics Architect | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65b067d12eb88dd1) | 2026-05-20 19:14 |
 | Gritter Francona, Inc | Informatics Architect | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d7ad78f557a45964) | 2026-05-20 19:14 |
 | Gritter Francona, Inc | Informatics Architect | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=acdf9d3eb5360a9e) | 2026-05-20 19:14 |
-| WinWire | AWS Data Architect | Alameda, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=94da66580e29e534) | 2026-05-20 16:46 |
-| New York Life | Senior Associate - AI Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9cc5523e609d6490) | 2026-05-20 16:46 |
-| JSR Tech Consulting | Data Engineer - AWS, python | Newark, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0fc48402a0ee4138) | 2026-05-20 16:46 |
-| Total Wine & More | Sr. Analytics Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d61f658ab71dc3d) | 2026-05-20 16:46 |
-| Ideal Business Advisors | Data Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e07e4d5100d0a09) | 2026-05-20 16:46 |
-| Chiro Cat | Humbly Confident Senior Laravel Engineer | UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d426212b47f2cb5) | 2026-05-20 16:46 |
-| Weyerhaeuser | AI Architect | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d9012b2ffe5f7c5e) | 2026-05-20 16:46 |
-| Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=89d4f32f720c7b3e) | 2026-05-20 16:46 |
-| nan | Quality Assurance Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f980bce192a46430) | 2026-05-20 16:46 |
-| nan | Quality Assurance Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f42a2e47343013f) | 2026-05-20 16:46 |
-| Digital iTechnology | Full Stack Engineer - Remote -W2 Only | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef52a4058b83ad57) | 2026-05-20 16:46 |
 
 
 ---
