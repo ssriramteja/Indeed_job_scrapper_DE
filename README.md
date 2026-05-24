@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-24 02:27
+Last updated: 2026-05-24 06:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Google Cloud Data Architect & IAM Data Modernization | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3a876f1d70bf86df) | 2026-05-24 06:29 |
 | nan | Data Architect | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b457a11e98e82c5e) | 2026-05-23 21:45 |
 | nan | Senior Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9428fe1d5deac146) | 2026-05-23 14:54 |
 | Micron Technology | Sr Engineer - Operations Improvement | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4ba5c9bd83fc8ac) | 2026-05-23 14:54 |
@@ -614,12 +615,6 @@ Last updated: 2026-05-24 02:27
 | Honeywell | Advanced AI Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cfea9e97e390496) | 2026-05-20 06:41 |
 | Capgemini | SRE / DevOps Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b064c172d457476) | 2026-05-20 06:41 |
 | Social Impact | Full-Stack Platform Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ecea58c06ba3a52) | 2026-05-20 06:41 |
-| Infinitive Inc | Data Engineer (Python/PySpark/Apache Spark) | Ashburn, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b4cfb81cc411bf7) | 2026-05-20 02:29 |
-| FinQuery | Database Engineer / Database Administrator | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=308cbdae7b1e0202) | 2026-05-20 02:29 |
-| MGM Resorts International | AI Commercial & ML Ops Engineer | Las Vegas, NV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b3de78a500e2bdfb) | 2026-05-20 02:29 |
-| Equifax | Software Engineer (Generative AI) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da1e181dd87c6910) | 2026-05-20 02:29 |
-| Everforth ECS | Junior Software Developer, Applications | O'Fallon, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=230c6608eadb69fd) | 2026-05-20 02:29 |
-| Community Federal Savings Bank | Sr. Associate, Cloud Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6632526b69079b6f) | 2026-05-20 02:29 |
 
 
 ---
