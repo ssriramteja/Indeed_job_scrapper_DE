@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-24
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Data Architect @ nan
+## 2. Software Engineer II, Pricing Engineering @ Wayfair
+**Match Score:** 14.6%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** AWS, Redshift, RDS, GCP, BigQuery, Spark, Scala, Kafka, Snowflake, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3a2bac108848ff31)
+
+---
+
+## 3. Senior Java Software Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f422e5e1f7c77012)
+
+---
+
+## 4. Data Architect @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Tallahassee, FL, US USA
@@ -27,18 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Product Software Engineer @ nan
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, S3, SQS, SNS, RDS, Scala, Kafka, NoSQL, CI/CD, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9428fe1d5deac146)
-
----
-
-## 4. Senior AI/ML Scientist @ General Motors (GM)
+## 5. Senior AI/ML Scientist @ General Motors (GM)
 **Match Score:** 10.4%
 
 📍 **Location:** Milford, MI, US USA
@@ -46,6 +57,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Databricks, Hive, Spark, Scala, MLflow, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=16f0b949e7e7036a)
+
+---
+
+## 6. Software Development Engineer II, 3rd Party Fulfillment @ Wayfair
+**Match Score:** 10.4%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, CI/CD, Terraform, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ab8a84f415621d03)
 
 ---
 

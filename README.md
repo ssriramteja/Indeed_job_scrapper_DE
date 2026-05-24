@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-24 13:01
+Last updated: 2026-05-24 14:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Wayfair | Software Engineer II, Pricing Engineering | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3a2bac108848ff31) | 2026-05-24 14:55 |
+| CVS Health | Senior Java Software Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f422e5e1f7c77012) | 2026-05-24 14:55 |
+| Wayfair | Software Development Engineer II, 3rd Party Fulfillment | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab8a84f415621d03) | 2026-05-24 14:55 |
 | General Motors (GM) | Senior AI/ML Scientist | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16f0b949e7e7036a) | 2026-05-24 09:14 |
 | nan | Google Cloud Data Architect & IAM Data Modernization | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3a876f1d70bf86df) | 2026-05-24 06:29 |
 | nan | Data Architect | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b457a11e98e82c5e) | 2026-05-23 21:45 |
@@ -588,8 +591,6 @@ Last updated: 2026-05-24 13:01
 | nan | Quality Assurance Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f980bce192a46430) | 2026-05-20 16:46 |
 | nan | Quality Assurance Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f42a2e47343013f) | 2026-05-20 16:46 |
 | Digital iTechnology | Full Stack Engineer - Remote -W2 Only | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef52a4058b83ad57) | 2026-05-20 16:46 |
-| Triwave Solutions Inc | ETL Developer | Baltimore, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=67cc5c5d1b62b505) | 2026-05-20 13:31 |
-| Optum | Senior Software Engineer | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b8bd188504a235ef) | 2026-05-20 13:31 |
 
 
 ---
