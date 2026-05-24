@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-24
 
-**Total Jobs Found:** 12
+**Total Jobs Found:** 10
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -49,29 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior IT Infrastructure Engineer @ People Inc.
-**Match Score:** 13.9%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Lambda, SQS, SNS, API Gateway, RDS, Azure, GCP, Scala, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a00f41d32e3dd1b3)
-
----
-
-## 6. Senior Software Engineer, 1 @ People Inc.
-**Match Score:** 12.5%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Google Cloud Platform, GCP, Vertex AI, Spark, Scala, Kafka, MLOps, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=49bacd10e684dc5f)
-
----
-
-## 7. Data Architect @ nan
+## 5. Data Architect @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Tallahassee, FL, US USA
@@ -82,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Product Software Engineer @ nan
+## 6. Senior Product Software Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -93,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Sr Engineer - Operations Improvement @ Micron Technology
+## 7. Sr Engineer - Operations Improvement @ Micron Technology
 **Match Score:** 11.1%
 
 📍 **Location:** Boise, ID, US USA
@@ -104,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Software Quality Engineer @ Elekta
+## 8. Software Quality Engineer @ Elekta
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
@@ -115,18 +93,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Finance Data Mart - Domain Data Architect @ JPMorganChase
+## 9. Senior AI/ML Scientist @ General Motors (GM)
 **Match Score:** 10.4%
 
-📍 **Location:** Wilmington, DE, US USA
+📍 **Location:** Milford, MI, US USA
 
-🔑 **Keywords:** AWS, RDS, Databricks, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, Tableau, Git
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Hive, Spark, Scala, MLflow, Docker, Kubernetes
 
-[Apply Here](https://www.indeed.com/viewjob?jk=216cf9bc02e5f50a)
+[Apply Here](https://www.indeed.com/viewjob?jk=16f0b949e7e7036a)
 
 ---
 
-## 12. Senior Sales Automation & Integrations Engineer @ nan
+## 10. Senior Sales Automation & Integrations Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Woodstock, VT, US USA
