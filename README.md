@@ -1,12 +1,11 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-23 23:50
+Last updated: 2026-05-24 02:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df7632bc7852179f) | 2026-05-23 23:50 |
 | nan | Data Architect | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b457a11e98e82c5e) | 2026-05-23 21:45 |
 | nan | Senior Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9428fe1d5deac146) | 2026-05-23 14:54 |
 | Micron Technology | Sr Engineer - Operations Improvement | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4ba5c9bd83fc8ac) | 2026-05-23 14:54 |
@@ -621,20 +620,6 @@ Last updated: 2026-05-23 23:50
 | Equifax | Software Engineer (Generative AI) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da1e181dd87c6910) | 2026-05-20 02:29 |
 | Everforth ECS | Junior Software Developer, Applications | O'Fallon, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=230c6608eadb69fd) | 2026-05-20 02:29 |
 | Community Federal Savings Bank | Sr. Associate, Cloud Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6632526b69079b6f) | 2026-05-20 02:29 |
-| Recutify Inc. | Senior Data Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=28e1c461015035ce) | 2026-05-19 23:55 |
-| nan | Senior Data Engineer | Encino, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b5196076aab88a07) | 2026-05-19 23:55 |
-| Highbrow Technology Inc | Senior Azure Data Engineer (W2 only) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3be2ecbf806de066) | 2026-05-19 23:55 |
-| Zayo Group | Data Analytics Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fa5c60daa2eb488c) | 2026-05-19 23:55 |
-| ICW Group | MLOps Engineer II | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04c53274a80c0bed) | 2026-05-19 23:55 |
-| Cloud Aviation | Senior Software Engineer | El Monte, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1ecef5b286b3de60) | 2026-05-19 23:55 |
-| NavitasPartners | BI Developer Services – Level III - 26-05818 | Glendale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d10eba39e5e728f7) | 2026-05-19 23:55 |
-| NavitasPartners | BI Developer Services – Level III - 26-05818 | Anaheim, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=553af7a9ea2c94ac) | 2026-05-19 23:55 |
-| NavitasPartners | BI Developer Services – Level III - 26-05818 | Santa Clarita, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9008cdf9aec7fb4b) | 2026-05-19 23:55 |
-| NavitasPartners | BI Developer Services – Level III - 26-05818 | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b372a3e7801d9f67) | 2026-05-19 23:55 |
-| NavitasPartners | BI Developer Services – Level III - 26-05818 | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d45b94dc1f208983) | 2026-05-19 23:55 |
-| Hexaware Technologies | Technical Architect (BIBA) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ffc844d637a4a899) | 2026-05-19 23:55 |
-| nan | Senior Full-Stack Software Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=07961822c801c505) | 2026-05-19 23:55 |
-| Travelers | Software Engineer II -- Enterprise AI Products Value Stream | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=72ccfb0ea0091329) | 2026-05-19 23:55 |
 
 
 ---
