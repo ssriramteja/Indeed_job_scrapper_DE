@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-24 22:48
+Last updated: 2026-05-24 23:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Paramount | Senior Software Engineer (Java) in Test | Burbank, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=abeffb7fc3a2db5b) | 2026-05-24 23:52 |
 | nan | Data Engineer /Power BI Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c45a5135dc266df2) | 2026-05-24 21:46 |
 | Wayfair | Software Engineer II, Pricing Engineering | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3a2bac108848ff31) | 2026-05-24 14:55 |
 | CVS Health | Senior Java Software Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f422e5e1f7c77012) | 2026-05-24 14:55 |
@@ -541,18 +542,6 @@ Last updated: 2026-05-24 22:48
 | Walkme | DevOps Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=37bee16f62d775ab) | 2026-05-21 02:30 |
 | Walkme | DevOps Engineer | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d2363b9cbfb0252a) | 2026-05-21 02:30 |
 | Walkme | DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d9f2d75fa67499b) | 2026-05-21 02:30 |
-| Optum | Sr AI/ML Engineer - Remote Nationwide or Hybrid in MN/DC | Eden Prairie, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a5428c5fe3301bb2) | 2026-05-20 23:05 |
-| Liberty Mutual Insurance | Data Engineer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=32851dd10ee0e5da) | 2026-05-20 23:05 |
-| Liberty Mutual Insurance | Data Engineer | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=708d5186ef13d22a) | 2026-05-20 23:05 |
-| Liberty Mutual Insurance | Data Engineer | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8ab11bf9d3a0cb66) | 2026-05-20 23:05 |
-| Liberty Mutual Insurance | Data Engineer | Portsmouth, NH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bd4179f9ef43c111) | 2026-05-20 23:05 |
-| Protiviti | Microsoft Analytics Data Engineer Senior Consultant | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2139ccd23148ef97) | 2026-05-20 23:05 |
-| Protiviti | Microsoft Analytics Data Engineer Senior Consultant | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=979fd479106b8582) | 2026-05-20 23:05 |
-| Federal Reserve Bank of New York | Cloud AWS Support Reliability Engineer (SRE) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=397e7786631910d4) | 2026-05-20 23:05 |
-| Flex | Platform Architect - AI | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e294cc6d33384a45) | 2026-05-20 23:05 |
-| CG Infinity | Data Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0a20b18aa66e51d2) | 2026-05-20 23:05 |
-| Clayco | Platform Engineer | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b6fb9d94196cc44d) | 2026-05-20 23:05 |
-| Tesla | Sr. Distributed Systems Engineer, Energy Service Engineering | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b311adc4e009a8c4) | 2026-05-20 23:05 |
 
 
 ---
