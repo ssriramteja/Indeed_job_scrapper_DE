@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-24 09:14
+Last updated: 2026-05-24 11:08
 
 ### 🚀 Daily Job Matches
 
@@ -590,17 +590,6 @@ Last updated: 2026-05-24 09:14
 | Digital iTechnology | Full Stack Engineer - Remote -W2 Only | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef52a4058b83ad57) | 2026-05-20 16:46 |
 | Triwave Solutions Inc | ETL Developer | Baltimore, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=67cc5c5d1b62b505) | 2026-05-20 13:31 |
 | Optum | Senior Software Engineer | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b8bd188504a235ef) | 2026-05-20 13:31 |
-| American Honda Motor | Senior AWS Cloud Data Engineer I | Marysville, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d17713297f88b607) | 2026-05-20 10:20 |
-| Trinity Industries | Sr Forward Deployed Engineer (Foundry) | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e98784d3b069887) | 2026-05-20 10:20 |
-| RealPage Inc | AI Engineer III HYBRID | Richardson, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=03b9bfbeef45e637) | 2026-05-20 10:20 |
-| Georgia-Pacific | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cc070bfe12f04a4e) | 2026-05-20 10:20 |
-| O'Reilly Auto Parts | System Engineer- Platform/API Gateway | Springfield, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9f3ba65fc8111094) | 2026-05-20 10:20 |
-| National Debt Relief | Senior Machine Learning Ops Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d62f3b2380e0b366) | 2026-05-20 10:20 |
-| Halliburton | Senior Software Engineer - Landmark | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=198b17d882618b2f) | 2026-05-20 10:20 |
-| O'Reilly Auto Parts | System Engineer-Platform/Kafka/Messaging | Springfield, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7af3032d6f77f72a) | 2026-05-20 10:20 |
-| Halliburton | Software Engineer - Early Career - Landmark | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c2850e7510faaa4) | 2026-05-20 10:20 |
-| Intone Networks | Data Engineer | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f9d0b722ecec30e9) | 2026-05-20 10:20 |
-| Wells Fargo | Python Full Stack Developer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71f910656c4ac5af) | 2026-05-20 10:20 |
 
 
 ---
