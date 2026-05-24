@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-24
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,7 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior AI/ML Scientist @ General Motors (GM)
+## 4. Data Engineer /Power BI Developer @ nan
+**Match Score:** 13.2%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Hadoop, HDFS, Hive, Spark, Scala, Oracle, SQL Server
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c45a5135dc266df2)
+
+---
+
+## 5. Senior AI/ML Scientist @ General Motors (GM)
 **Match Score:** 10.4%
 
 📍 **Location:** Milford, MI, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Software Development Engineer II, 3rd Party Fulfillment @ Wayfair
+## 6. Software Development Engineer II, 3rd Party Fulfillment @ Wayfair
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
