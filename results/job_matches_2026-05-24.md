@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-24
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,29 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Sr Engineer - Operations Improvement @ Micron Technology
-**Match Score:** 11.1%
-
-📍 **Location:** Boise, ID, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Snowflake, MongoDB, ETL, Tableau, Splunk, Azure DevOps, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c4ba5c9bd83fc8ac)
-
----
-
-## 5. Software Quality Engineer @ Elekta
-**Match Score:** 10.4%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** RDS, Azure, Scala, SQL Server, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Jenkins, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fad5a01749b44d7e)
-
----
-
-## 6. Senior AI/ML Scientist @ General Motors (GM)
+## 4. Senior AI/ML Scientist @ General Motors (GM)
 **Match Score:** 10.4%
 
 📍 **Location:** Milford, MI, US USA
@@ -68,17 +46,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Databricks, Hive, Spark, Scala, MLflow, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=16f0b949e7e7036a)
-
----
-
-## 7. Senior Sales Automation & Integrations Engineer @ nan
-**Match Score:** 10.4%
-
-📍 **Location:** Woodstock, VT, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, API Gateway, IAM, RDS, Snowflake, DynamoDB, CI/CD, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7d8721cb25b26868)
 
 ---
 
