@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-25 07:03
+Last updated: 2026-05-25 11:43
 
 ### 🚀 Daily Job Matches
 
@@ -482,28 +482,6 @@ Last updated: 2026-05-25 07:03
 | Capgemini | Dot Net Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5efceacc40589d5d) | 2026-05-21 13:56 |
 | nan | Sr Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef825bd9f581fc83) | 2026-05-21 13:56 |
 | Capgemini | Junior Automation Tester (AI enabled Testing) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a48d0f78302c9e9) | 2026-05-21 13:56 |
-| Ideas2IT Technologies | Senior ML Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=65ba785f54845637) | 2026-05-21 10:33 |
-| Ulta | Senior Data Engineer | Bolingbrook, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=198dcb2877451402) | 2026-05-21 10:33 |
-| Meltwater | Senior Backend Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=85686cf3a228d676) | 2026-05-21 10:33 |
-| Meltwater | Senior Backend Engineer | Las Vegas, NV, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ee7794bd20a3609e) | 2026-05-21 10:33 |
-| Meltwater | Senior Backend Engineer | Redwood City, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8ec7d4847401afbf) | 2026-05-21 10:33 |
-| ArsenalTech | AI/ML Engineer | NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fdea458ac4b85502) | 2026-05-21 10:33 |
-| WellBe Senior Medical | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d6a2a55eff991ad8) | 2026-05-21 10:33 |
-| Wells Fargo | Senior Java Software Engineer | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cbbafc386f88b28d) | 2026-05-21 10:33 |
-| Wells Fargo | Senior Java Software Engineer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27918e064eddd213) | 2026-05-21 10:33 |
-| ZS Associates | Senior AI Engineer | South San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=62d3da9b71f09aee) | 2026-05-21 10:33 |
-| ZS Associates | AI Engineering Specialist | Evanston, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4bd7a3f312b64eb5) | 2026-05-21 10:33 |
-| EY | Service Delivery Center, Technology, Back End Developer, Senior | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9f6da938c8f9cc21) | 2026-05-21 10:33 |
-| ZS Associates | Engineering Specialist | Princeton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b4509b3b48709b4) | 2026-05-21 10:33 |
-| WellBe Senior Medical | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f1be584fe969665) | 2026-05-21 10:33 |
-| Blue Orange Digital | Senior Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0289ffc8e0d406cf) | 2026-05-21 10:33 |
-| nan | Senior DevOps Engineer (AI/Cloud Modernization) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=30265e60609c6fee) | 2026-05-21 10:33 |
-| ArsenalTech | Senior .NET Developer - Full-time (Working from Office) | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=571f6ef27368da0b) | 2026-05-21 10:33 |
-| Ramsey Solutions | Analytics Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f836a90a9a6c4031) | 2026-05-21 10:33 |
-| Humana | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0733e6d33b962b4b) | 2026-05-21 10:33 |
-| Keysight Technologies | Full Stack Intern | Colorado Springs, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d8c15d01008f879b) | 2026-05-21 10:33 |
-| AIG | SDN Automation Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5027122dffca8482) | 2026-05-21 10:33 |
-| Tata Consultancy Services (TCS) | Data Platform Architect | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d13c7e892b0bc19) | 2026-05-21 10:33 |
 
 
 ---
