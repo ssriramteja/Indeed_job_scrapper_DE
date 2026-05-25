@@ -1,44 +1,33 @@
 # 🎯 Daily Job Matches — 2026-05-25
 
-**Total Jobs Found:** 15
+**Total Jobs Found:** 14
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. AI Native Developer @ Newpage Digital Healthcare solutions
-**Match Score:** 14.6%
+## 1. Data Architect @ 3Pillar Global
+**Match Score:** 26.4%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, API Gateway, RDS
 
-[Apply Here](https://www.indeed.com/viewjob?jk=622e5174e22fc102)
+[Apply Here](https://www.indeed.com/viewjob?jk=c207b60a85c3ae78)
 
 ---
 
-## 2. AI Native Developer @ Newpage Digital Healthcare solutions
-**Match Score:** 14.6%
+## 2. AI Integration Specialist @ Trauma Healing Accelerated
+**Match Score:** 16.0%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, Cassandra
 
-[Apply Here](https://www.indeed.com/viewjob?jk=239176039e388a7a)
-
----
-
-## 3. AI Native Developer @ Newpage Digital Healthcare solutions
-**Match Score:** 14.6%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3ac1dcfa7fd19426)
+[Apply Here](https://www.indeed.com/viewjob?jk=fa7b42d068847f61)
 
 ---
 
-## 4. Referral Only - Senior GCP Data Engineer @ Capgemini
+## 3. Referral Only - Senior GCP Data Engineer @ Capgemini
 **Match Score:** 13.9%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Data Engineer - Egypt @ Protagona
+## 4. Data Engineer - Egypt @ Protagona
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. AI Architect @ Panasonic Automotive
+## 5. AI Architect @ Panasonic Automotive
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Full Stack Software Engineer @ Hybrid @ NextRow Digital
+## 6. Full Stack Software Engineer @ Hybrid @ NextRow Digital
 **Match Score:** 13.9%
 
 📍 **Location:** Chicago, IL, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Data Engineer /Power BI Developer @ nan
+## 7. Data Engineer /Power BI Developer @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Data Engineer @ Protagona
+## 8. Data Engineer @ Protagona
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Software Engineer (Java) in Test @ Paramount
+## 9. Senior Software Engineer (Java) in Test @ Paramount
 **Match Score:** 12.5%
 
 📍 **Location:** Burbank, CA, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Sr. Software Development Engineer 5.5 @ Adobe
+## 10. Sr. Software Development Engineer 5.5 @ Adobe
 **Match Score:** 11.1%
 
 📍 **Location:** San Jose, CA, US USA
@@ -126,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Middle–Senior Data Engineer with AI Experience @ DataArt
+## 11. Middle–Senior Data Engineer with AI Experience @ DataArt
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -137,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Data Engineer @ Vulcan Elements
+## 12. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -148,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Data Engineer @ Vulcan Elements
+## 13. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Research Triangle Park, NC, US USA
@@ -159,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Data Engineer @ Vulcan Elements
+## 14. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Durham, NC, US USA

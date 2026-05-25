@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-25 18:26
+Last updated: 2026-05-25 20:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3Pillar Global | Data Architect | Remote, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=c207b60a85c3ae78) | 2026-05-25 20:19 |
+| Trauma Healing Accelerated | AI Integration Specialist | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fa7b42d068847f61) | 2026-05-25 20:19 |
 | Capgemini | Referral Only - Senior GCP Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45b715538a1026e4) | 2026-05-25 18:26 |
 | Panasonic Automotive | AI Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0866a3cb6383e0de) | 2026-05-25 18:26 |
 | NextRow Digital | Full Stack Software Engineer @ Hybrid | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a3e5c91036a8e42a) | 2026-05-25 18:26 |
@@ -468,15 +470,6 @@ Last updated: 2026-05-25 18:26
 | Symmetry Lending | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1422b190c43693a0) | 2026-05-21 20:46 |
 | Proofpoint | Sr. Software Engineer, Threat Intelligence | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b6f6e39a72c1b8e) | 2026-05-21 20:46 |
 | Truist | Data Platform Engineer – Alteryx Platform Owner / Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61d632e85736717d) | 2026-05-21 20:46 |
-| Autodesk | Data Engineer | CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=6664732c8e57da4b) | 2026-05-21 18:54 |
-| California State Personnel Board | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2521221b0a4f471f) | 2026-05-21 18:54 |
-| Building Service 32BJ Benefit Funds | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d72bea8288f357ee) | 2026-05-21 18:54 |
-| Stellantis | Integrations Architect- Azure | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b48cfa32c4737ad6) | 2026-05-21 18:54 |
-| Endeavor Health | Cloud Data Engineer | Arlington Heights, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=298c4bfe00214f1f) | 2026-05-21 18:54 |
-| Tenable | Salesforce Developer (Hybrid/Columbia MD) | Columbia, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9bfd9cd9ac48b12f) | 2026-05-21 18:54 |
-| AT&T | Senior System Engineering - Engineering Operations | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cda7123f0312159f) | 2026-05-21 18:54 |
-| Frontline Education | Sr. Software Engineer (Go-To-Market AI Team) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=79da7babfe0a8608) | 2026-05-21 18:54 |
-| AT&T | Senior Software Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3d57f388e905047) | 2026-05-21 18:54 |
 
 
 ---
