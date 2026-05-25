@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-25 02:35
+Last updated: 2026-05-25 07:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sigma Computing | Senior Security Engineer II – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4955bf068961211) | 2026-05-25 07:03 |
+| Adobe | Sr. Software Development Engineer 5.5 | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=34da685bfe797839) | 2026-05-25 07:03 |
 | Protagona | Data Engineer - Egypt | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c80b353eec9dd01f) | 2026-05-25 02:35 |
 | Protagona | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=664ac749b66cbda9) | 2026-05-25 02:35 |
 | Paramount | Senior Software Engineer (Java) in Test | Burbank, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=abeffb7fc3a2db5b) | 2026-05-24 23:52 |
@@ -502,30 +504,6 @@ Last updated: 2026-05-25 02:35
 | Keysight Technologies | Full Stack Intern | Colorado Springs, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d8c15d01008f879b) | 2026-05-21 10:33 |
 | AIG | SDN Automation Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5027122dffca8482) | 2026-05-21 10:33 |
 | Tata Consultancy Services (TCS) | Data Platform Architect | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d13c7e892b0bc19) | 2026-05-21 10:33 |
-| BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=cb7a229032adf836) | 2026-05-21 06:43 |
-| BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=994cd29faebe482b) | 2026-05-21 06:43 |
-| Tata Consultancy Services (TCS) | Data Engineer (AWS, Snowflake, Pyspark, SQL) | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e9b4743d0857d2b3) | 2026-05-21 06:43 |
-| BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=97dc64be66ad66cd) | 2026-05-21 06:43 |
-| BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f74dc1ef788e458e) | 2026-05-21 06:43 |
-| Weyerhaeuser | Senior Analytics Engineer | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a037ad0869b5968b) | 2026-05-21 06:43 |
-| BV Teck | Azure Cloud Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d36804ce64799b9c) | 2026-05-21 06:43 |
-| BV Teck | Kafka Platform Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=20e07fcacb80c198) | 2026-05-21 06:43 |
-| Raiz Federal Credit Union | Data Engineer-Architecture | El Paso, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6b2c98f7e4333c03) | 2026-05-21 06:43 |
-| High 5 Games | DevOps Engineer - ML & Data Infrastructure | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5b06e51cccf7a7ba) | 2026-05-21 06:43 |
-| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5de3c33ef7437dd2) | 2026-05-21 06:43 |
-| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4d258aa3e235071) | 2026-05-21 06:43 |
-| BV Teck | Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=354c512d0fde6f2b) | 2026-05-21 06:43 |
-| Mastercard | Senior Software Engineer | O'Fallon, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ddd5378e4194090a) | 2026-05-21 06:43 |
-| SolarWinds | Senior Analytics Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1c073df0d353c1af) | 2026-05-21 06:43 |
-| DriveTime Automotive Group | Senior Data Engineer (DBT) | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=74ab129070123bd2) | 2026-05-21 06:43 |
-| DriveTime Automotive Group | Senior Data Engineer (DBT) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=add6f4354189f849) | 2026-05-21 06:43 |
-| Tata Consultancy Services (TCS) | Data Engineer | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=583b4c9601400970) | 2026-05-21 06:43 |
-| Intone Networks | Full Stack Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=971c26dff07c1bdc) | 2026-05-21 06:43 |
-| BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd7fe3299d9494b8) | 2026-05-21 06:43 |
-| Harbinger Motors Inc. | Sr. Systems Engineer | Garden Grove, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1042fb894a308b35) | 2026-05-21 06:43 |
-| Expleo Group | Senior AI/ML Full Stack Engineer – Generative AI | Rochester, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bd2d5932a298301) | 2026-05-21 06:43 |
-| Platform of Greatness | Senior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3a0aff866de84b2) | 2026-05-21 06:43 |
-| SpaceX | AI Software Engineer (Vehicle Engineering) | Hawthorne, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad497f523694b96c) | 2026-05-21 06:43 |
 
 
 ---
