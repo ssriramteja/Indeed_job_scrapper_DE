@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-25
 
-**Total Jobs Found:** 14
+**Total Jobs Found:** 13
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -71,18 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Data Engineer /Power BI Developer @ nan
-**Match Score:** 13.2%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Hadoop, HDFS, Hive, Spark, Scala, Oracle, SQL Server
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c45a5135dc266df2)
-
----
-
-## 8. Data Engineer @ Protagona
+## 7. Data Engineer @ Protagona
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Software Engineer (Java) in Test @ Paramount
+## 8. Senior Software Engineer (Java) in Test @ Paramount
 **Match Score:** 12.5%
 
 📍 **Location:** Burbank, CA, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Sr. Software Development Engineer 5.5 @ Adobe
+## 9. Sr. Software Development Engineer 5.5 @ Adobe
 **Match Score:** 11.1%
 
 📍 **Location:** San Jose, CA, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Middle–Senior Data Engineer with AI Experience @ DataArt
+## 10. Middle–Senior Data Engineer with AI Experience @ DataArt
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -126,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Data Engineer @ Vulcan Elements
+## 11. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -137,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Data Engineer @ Vulcan Elements
+## 12. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Research Triangle Park, NC, US USA
@@ -148,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Data Engineer @ Vulcan Elements
+## 13. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Durham, NC, US USA

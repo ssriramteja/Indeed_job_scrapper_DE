@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-25 20:19
+Last updated: 2026-05-25 22:02
 
 ### 🚀 Daily Job Matches
 
@@ -453,23 +453,6 @@ Last updated: 2026-05-25 20:19
 | McKesson | Sr. Site Reliability Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae21c352f885d87b) | 2026-05-21 22:13 |
 | Vantive | Platform Engineer, IT - DevOps and Emerging Tech | Deerfield, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7a4303a949ff0206) | 2026-05-21 22:13 |
 | Octapharma | Sr. Data Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4dc84fd3a2c0c7c) | 2026-05-21 22:13 |
-| Mod Op | Sr. Marketing Data & AI Engineer | Dallas, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=1a9d4be577548066) | 2026-05-21 20:46 |
-| Securian Financial | AWS Dev Ops Engineer (Hybrid) | Saint Paul, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=42661b3f734ffd01) | 2026-05-21 20:46 |
-| Planet DDS | Data Engineer V | Irvine, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b3fecef5d75ec74d) | 2026-05-21 20:46 |
-| Viasat | Senior Architect, Software Engineering | Carlsbad, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b8220b39cfe7da8f) | 2026-05-21 20:46 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a6a79496f7a592b2) | 2026-05-21 20:46 |
-| AmpliFI Loyalty Solutions | Software Engineer | Naperville, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=63d5413692a768ae) | 2026-05-21 20:46 |
-| Halliburton | Senior Software Engineer - Landmark | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b70ae077b21d43d) | 2026-05-21 20:46 |
-| Optum | AI/ML Engineer Remote Nationwide or Hybrid in MN/DC | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50d98338c0227a30) | 2026-05-21 20:46 |
-| General Dynamics Information Technology | Data Analytics Engineer | Chantilly, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=31c88ead1771c841) | 2026-05-21 20:46 |
-| Ventura Foods | Senior Data Engineer | Irvine, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ed6664a8282197f8) | 2026-05-21 20:46 |
-| MCG Health | Product Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=182cec56d83888e9) | 2026-05-21 20:46 |
-| Equinix | Senior DevSecOps Platform Engineer, AI Automation | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d56f369e5dbe7882) | 2026-05-21 20:46 |
-| Leidos QTC Health Services | Data Scientist Stf | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=39de61bacf1d31b2) | 2026-05-21 20:46 |
-| Stellantis | Senior Data Engineer (Foundations) | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b6fe26cff174d95) | 2026-05-21 20:46 |
-| Symmetry Lending | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1422b190c43693a0) | 2026-05-21 20:46 |
-| Proofpoint | Sr. Software Engineer, Threat Intelligence | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b6f6e39a72c1b8e) | 2026-05-21 20:46 |
-| Truist | Data Platform Engineer – Alteryx Platform Owner / Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61d632e85736717d) | 2026-05-21 20:46 |
 
 
 ---
