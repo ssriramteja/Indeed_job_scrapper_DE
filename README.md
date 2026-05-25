@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-25 11:43
+Last updated: 2026-05-25 14:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Vulcan Elements | Data Engineer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3ae715a338ce50c4) | 2026-05-25 14:35 |
+| Vulcan Elements | Data Engineer | Research Triangle Park, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=820e575795c52a30) | 2026-05-25 14:35 |
+| Vulcan Elements | Data Engineer | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48faa92f2e29036f) | 2026-05-25 14:35 |
 | Sigma Computing | Senior Security Engineer II – Cloud & Data Security | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4955bf068961211) | 2026-05-25 07:03 |
 | Adobe | Sr. Software Development Engineer 5.5 | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=34da685bfe797839) | 2026-05-25 07:03 |
 | Protagona | Data Engineer - Egypt | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c80b353eec9dd01f) | 2026-05-25 02:35 |
@@ -478,10 +481,6 @@ Last updated: 2026-05-25 11:43
 | nProspect | Oracle Cloud ERP Consultant/Functional Specialist | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a98b5c8606717817) | 2026-05-21 16:36 |
 | Sunikshainfotech | Data Engineer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ad3b306fbbf582de) | 2026-05-21 16:36 |
 | New York Life | Senior Associate - Senior AI Platform Security Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e60c5181689227fe) | 2026-05-21 16:36 |
-| Capgemini | AWS AI Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8073fabbdb00b63d) | 2026-05-21 13:56 |
-| Capgemini | Dot Net Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5efceacc40589d5d) | 2026-05-21 13:56 |
-| nan | Sr Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef825bd9f581fc83) | 2026-05-21 13:56 |
-| Capgemini | Junior Automation Tester (AI enabled Testing) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a48d0f78302c9e9) | 2026-05-21 13:56 |
 
 
 ---

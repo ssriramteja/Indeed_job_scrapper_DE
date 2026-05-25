@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-05-25
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 8
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Software Engineer II, Pricing Engineering @ Wayfair
-**Match Score:** 14.6%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** AWS, Redshift, RDS, GCP, BigQuery, Spark, Scala, Kafka, Snowflake, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3a2bac108848ff31)
-
----
-
-## 2. Data Engineer - Egypt @ Protagona
+## 1. Data Engineer - Egypt @ Protagona
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -27,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Java Software Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Dataflow, Cloud Storage, Scala, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f422e5e1f7c77012)
-
----
-
-## 4. Data Engineer /Power BI Developer @ nan
+## 2. Data Engineer /Power BI Developer @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Data Engineer @ Protagona
+## 3. Data Engineer @ Protagona
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Sr. Software Development Engineer 5.5 @ Adobe
+## 4. Senior Software Engineer (Java) in Test @ Paramount
+**Match Score:** 12.5%
+
+📍 **Location:** Burbank, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, CI/CD, Jenkins, GitHub Actions, Maven, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=abeffb7fc3a2db5b)
+
+---
+
+## 5. Sr. Software Development Engineer 5.5 @ Adobe
 **Match Score:** 11.1%
 
 📍 **Location:** San Jose, CA, US USA
@@ -71,14 +60,36 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Software Development Engineer II, 3rd Party Fulfillment @ Wayfair
-**Match Score:** 10.4%
+## 6. Data Engineer @ Vulcan Elements
+**Match Score:** 11.1%
 
-📍 **Location:** Boston, MA, US USA
+📍 **Location:** Raleigh, NC, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, CI/CD, Terraform, Docker, Kubernetes, Git
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, Data Modeling, ETL, ELT
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ab8a84f415621d03)
+[Apply Here](https://www.indeed.com/viewjob?jk=3ae715a338ce50c4)
+
+---
+
+## 7. Data Engineer @ Vulcan Elements
+**Match Score:** 11.1%
+
+📍 **Location:** Research Triangle Park, NC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, Data Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=820e575795c52a30)
+
+---
+
+## 8. Data Engineer @ Vulcan Elements
+**Match Score:** 11.1%
+
+📍 **Location:** Durham, NC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, Data Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=48faa92f2e29036f)
 
 ---
 
