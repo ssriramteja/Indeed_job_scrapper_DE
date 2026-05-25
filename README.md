@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-25 14:35
+Last updated: 2026-05-25 16:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=622e5174e22fc102) | 2026-05-25 16:59 |
+| Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=239176039e388a7a) | 2026-05-25 16:59 |
+| Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3ac1dcfa7fd19426) | 2026-05-25 16:59 |
 | Vulcan Elements | Data Engineer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3ae715a338ce50c4) | 2026-05-25 14:35 |
 | Vulcan Elements | Data Engineer | Research Triangle Park, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=820e575795c52a30) | 2026-05-25 14:35 |
 | Vulcan Elements | Data Engineer | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48faa92f2e29036f) | 2026-05-25 14:35 |
@@ -470,17 +473,6 @@ Last updated: 2026-05-25 14:35
 | AT&T | Senior System Engineering - Engineering Operations | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cda7123f0312159f) | 2026-05-21 18:54 |
 | Frontline Education | Sr. Software Engineer (Go-To-Market AI Team) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=79da7babfe0a8608) | 2026-05-21 18:54 |
 | AT&T | Senior Software Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3d57f388e905047) | 2026-05-21 18:54 |
-| nan | DevOps Architect | Mount Pleasant, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=141602cced20c4a3) | 2026-05-21 16:36 |
-| Dimensional Fund Advisors | Senior Database Platform Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1ce4cdb2b3ab11fc) | 2026-05-21 16:36 |
-| Stellar Solutions | Data Engineer | Miami, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8ce88ab29e1bd168) | 2026-05-21 16:36 |
-| Optum | Associate AI/ML Engineer | Eden Prairie, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=64afd722e7be9329) | 2026-05-21 16:36 |
-| iWorks Corporation | Systems Engineer / GEOTAM / (Hybrid) [Contingent] | Silver Spring, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0e49c457532dc6f1) | 2026-05-21 16:36 |
-| Carrier | Data Engineer | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=389680e185ea40c1) | 2026-05-21 16:36 |
-| Cengage | AI/ML Engineer - Higher Ed | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4bc0ea154c64d7ab) | 2026-05-21 16:36 |
-| Cengage | AI/ML Engineer - School | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9aa5fdc8e46d58c2) | 2026-05-21 16:36 |
-| nProspect | Oracle Cloud ERP Consultant/Functional Specialist | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a98b5c8606717817) | 2026-05-21 16:36 |
-| Sunikshainfotech | Data Engineer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ad3b306fbbf582de) | 2026-05-21 16:36 |
-| New York Life | Senior Associate - Senior AI Platform Security Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e60c5181689227fe) | 2026-05-21 16:36 |
 
 
 ---
