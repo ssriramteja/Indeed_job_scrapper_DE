@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-25
 
-**Total Jobs Found:** 11
+**Total Jobs Found:** 15
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,7 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Data Engineer - Egypt @ Protagona
+## 4. Referral Only - Senior GCP Data Engineer @ Capgemini
+**Match Score:** 13.9%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Cloud Storage, Vertex AI, Spark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=45b715538a1026e4)
+
+---
+
+## 5. Data Engineer - Egypt @ Protagona
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +60,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Data Engineer /Power BI Developer @ nan
+## 6. AI Architect @ Panasonic Automotive
+**Match Score:** 13.9%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Vertex AI, Spark, Scala, Spark Streaming, Kafka, MLOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0866a3cb6383e0de)
+
+---
+
+## 7. Full Stack Software Engineer @ Hybrid @ NextRow Digital
+**Match Score:** 13.9%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** AWS, Lambda, Redshift, S3, SQS, API Gateway, ECS, RDS, Snowflake, DynamoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a3e5c91036a8e42a)
+
+---
+
+## 8. Data Engineer /Power BI Developer @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Engineer @ Protagona
+## 9. Data Engineer @ Protagona
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -71,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Software Engineer (Java) in Test @ Paramount
+## 10. Senior Software Engineer (Java) in Test @ Paramount
 **Match Score:** 12.5%
 
 📍 **Location:** Burbank, CA, US USA
@@ -82,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Sr. Software Development Engineer 5.5 @ Adobe
+## 11. Sr. Software Development Engineer 5.5 @ Adobe
 **Match Score:** 11.1%
 
 📍 **Location:** San Jose, CA, US USA
@@ -93,7 +126,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Data Engineer @ Vulcan Elements
+## 12. Middle–Senior Data Engineer with AI Experience @ DataArt
+**Match Score:** 11.1%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, Scala, Snowflake, NoSQL, Data Modeling, ETL, ELT, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b061d0e56606ca49)
+
+---
+
+## 13. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -104,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Data Engineer @ Vulcan Elements
+## 14. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Research Triangle Park, NC, US USA
@@ -115,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Data Engineer @ Vulcan Elements
+## 15. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Durham, NC, US USA

@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-25 16:59
+Last updated: 2026-05-25 18:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Referral Only - Senior GCP Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45b715538a1026e4) | 2026-05-25 18:26 |
+| Panasonic Automotive | AI Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0866a3cb6383e0de) | 2026-05-25 18:26 |
+| NextRow Digital | Full Stack Software Engineer @ Hybrid | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a3e5c91036a8e42a) | 2026-05-25 18:26 |
+| DataArt | Middle–Senior Data Engineer with AI Experience | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b061d0e56606ca49) | 2026-05-25 18:26 |
 | Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=622e5174e22fc102) | 2026-05-25 16:59 |
 | Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=239176039e388a7a) | 2026-05-25 16:59 |
 | Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3ac1dcfa7fd19426) | 2026-05-25 16:59 |
