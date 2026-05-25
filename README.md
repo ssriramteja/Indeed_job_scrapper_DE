@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-24 23:52
+Last updated: 2026-05-25 02:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Protagona | Data Engineer - Egypt | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c80b353eec9dd01f) | 2026-05-25 02:35 |
+| Protagona | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=664ac749b66cbda9) | 2026-05-25 02:35 |
 | Paramount | Senior Software Engineer (Java) in Test | Burbank, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=abeffb7fc3a2db5b) | 2026-05-24 23:52 |
 | nan | Data Engineer /Power BI Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c45a5135dc266df2) | 2026-05-24 21:46 |
 | Wayfair | Software Engineer II, Pricing Engineering | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3a2bac108848ff31) | 2026-05-24 14:55 |
@@ -524,24 +526,6 @@ Last updated: 2026-05-24 23:52
 | Expleo Group | Senior AI/ML Full Stack Engineer – Generative AI | Rochester, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bd2d5932a298301) | 2026-05-21 06:43 |
 | Platform of Greatness | Senior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3a0aff866de84b2) | 2026-05-21 06:43 |
 | SpaceX | AI Software Engineer (Vehicle Engineering) | Hawthorne, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad497f523694b96c) | 2026-05-21 06:43 |
-| Equifax | AI Engineer | St. Louis, MO, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=62e0bd72df7d3118) | 2026-05-21 02:30 |
-| Guidewire | Senior Machine Learning Engineer - AI/ML | San Mateo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=37f0117f05675ce7) | 2026-05-21 02:30 |
-| Driscoll's | Sr. Data Services Developer | Watsonville, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c8cfdb0127f0b1e9) | 2026-05-21 02:30 |
-| Metropolis | Senior Machine Learning Engineer, Computer Vision | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=808de345c459337e) | 2026-05-21 02:30 |
-| Marriott International | Software Engineer | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e671763f13a7a97) | 2026-05-21 02:30 |
-| GE Aerospace | Senior Software Architect - Data Platform & AI/ML | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d2413d561f12c179) | 2026-05-21 02:30 |
-| Visa | SW Engineer | Highlands Ranch, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a04d34ff6293d7a2) | 2026-05-21 02:30 |
-| El Toro.com | Senior DevOps Engineer | Louisville, KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c3113d217a11359b) | 2026-05-21 02:30 |
-| Dollar General | SR SOFTWARE ENGINEER | Goodlettsville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2682fedab4a2d801) | 2026-05-21 02:30 |
-| Da Vinci Software | Senior AI/ML Full Stack Engineer | Rochester, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e56c8a333352b48) | 2026-05-21 02:30 |
-| EY | Forward Deployed Engineer - Applied AI - Senior - Financial Services - Consulting | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=264d256d1f44f81a) | 2026-05-21 02:30 |
-| Keysight Technologies | Full Stack Intern | Colorado Springs, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15e62e31febbb7dd) | 2026-05-21 02:30 |
-| The University of Michigan | Quality Assurance Engineer | Ann Arbor, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=116361549f755a48) | 2026-05-21 02:30 |
-| Brandt Information Services, Inc. | Software Engineer Go Outdoors | Tallahassee, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6e38fd8d0926139) | 2026-05-21 02:30 |
-| Changeis, Inc. | Junior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=90f91c50a68c29bc) | 2026-05-21 02:30 |
-| Walkme | DevOps Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=37bee16f62d775ab) | 2026-05-21 02:30 |
-| Walkme | DevOps Engineer | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d2363b9cbfb0252a) | 2026-05-21 02:30 |
-| Walkme | DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d9f2d75fa67499b) | 2026-05-21 02:30 |
 
 
 ---
