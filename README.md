@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-25 22:02
+Last updated: 2026-05-25 23:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bcd329279eb0cbc5) | 2026-05-25 23:56 |
+| Newpage Digital Healthcare solutions | AI-Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f5397e30a285245d) | 2026-05-25 23:56 |
+| Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a8ea8730e4cf117) | 2026-05-25 23:56 |
+| Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dbc661e109c14228) | 2026-05-25 23:56 |
+| Newpage Digital Healthcare solutions | AI-Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37bc77d9dc22a6a9) | 2026-05-25 23:56 |
+| Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c0214499e127c894) | 2026-05-25 23:56 |
+| Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3ad88277e472de1e) | 2026-05-25 23:56 |
+| Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ba608063466f07bd) | 2026-05-25 23:56 |
+| Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=36ab7b1b575050e1) | 2026-05-25 23:56 |
+| Newpage Digital Healthcare solutions | AI-Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dc95b3c395886fe7) | 2026-05-25 23:56 |
 | 3Pillar Global | Data Architect | Remote, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=c207b60a85c3ae78) | 2026-05-25 20:19 |
 | Trauma Healing Accelerated | AI Integration Specialist | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fa7b42d068847f61) | 2026-05-25 20:19 |
 | Capgemini | Referral Only - Senior GCP Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45b715538a1026e4) | 2026-05-25 18:26 |
@@ -409,50 +419,6 @@ Last updated: 2026-05-25 22:02
 | Intratek Computer | Data Architect / Data Modeling Consultant | Dallas-Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6fae39e910d8c57) | 2026-05-22 02:31 |
 | Pyramid Systems Inc | Sr. Software Automated Tester/Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f65bbafc6442ac9f) | 2026-05-22 02:31 |
 | Labcorp | Senior Data Analyst | Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3be062ecd99df873) | 2026-05-22 02:31 |
-| Highmark Health | Senior Data Engineer – Cloud Data Products & Analytic Enablement | PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d8824834cc316357) | 2026-05-21 23:53 |
-| Transamerica | Intermediate Quality Software Engineer | Cedar Rapids, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=559ccb02cb7d178f) | 2026-05-21 23:53 |
-| M-TECH SYSTEMS | Platform Data Architect | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0950591f503ca967) | 2026-05-21 23:53 |
-| Capgemini | Senior Data Engineer | Bridgewater, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6aa2a5e5e0026531) | 2026-05-21 23:53 |
-| Lennar | Sr Data Quality Engineer | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8363d4aab2e6b33f) | 2026-05-21 23:53 |
-| Beghou Consulting | Consultant, Data Analytics | Emeryville, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=53342a3bd9506ed9) | 2026-05-21 23:53 |
-| Beghou Consulting | Consultant, Data Analytics | Durham, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1909fc4947c01f17) | 2026-05-21 23:53 |
-| Beghou Consulting | Consultant, Data Analytics | Durham, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cde8ee2adae9b533) | 2026-05-21 23:53 |
-| Beghou Consulting | Consultant, Data Analytics | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d2caae7d9974108) | 2026-05-21 23:53 |
-| Beghou Consulting | Consultant, Data Analytics | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e47b02d035006ada) | 2026-05-21 23:53 |
-| Beghou Consulting | Consultant, Data Analytics | Rockville, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=77ed2278b7af9cc7) | 2026-05-21 23:53 |
-| Hillpointe | Full Stack Developer | Winter Park, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad3a3937b7571485) | 2026-05-21 23:53 |
-| BambooHR | Sr. Data Engineer | Draper, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0de96b3860fd283) | 2026-05-21 23:53 |
-| Verizon | Data and AI Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=efb47d2533a7c899) | 2026-05-21 23:53 |
-| Klaviyo | Software Engineer II - Identity & Access Management (Core Infra IO) | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d04be766e9c28c71) | 2026-05-21 23:53 |
-| Klaviyo | Software Engineer II - Identity & Access Management | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14aabec8dac5bd65) | 2026-05-21 23:53 |
-| Rochester Regional Health | Data Architect | Rochester, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc3a97c6dacfd5cc) | 2026-05-21 23:53 |
-| Pearson | Senior Software Engineer (Data, API & Platform Integration) | Hoboken, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f645727415a8c94) | 2026-05-21 23:53 |
-| Equifax | Senior Platform Engineer | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b332d7295b6f32a9) | 2026-05-21 23:53 |
-| Worth AI | Senior Software Engineer - Integrations | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ec6348a1a771646) | 2026-05-21 23:53 |
-| Worth AI | Senior Software Engineer - Integrations | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=add45f9e195492ab) | 2026-05-21 23:53 |
-| Worth AI | Senior Software Engineer - Integrations | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2053b2017dbd159) | 2026-05-21 23:53 |
-| Worth AI | Senior Software Engineer - Integrations | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b7845c99df3c7d7) | 2026-05-21 23:53 |
-| Cognizant | Entry-level Moment AWS Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=752a175f328041d9) | 2026-05-21 23:53 |
-| Cognizant | Entry-level Moment AWS Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d7d0c56dc9911793) | 2026-05-21 23:53 |
-| Cognizant | Entry-level Moment AWS Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2de604a499b6e351) | 2026-05-21 23:53 |
-| Cognizant | Developer II | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5477f4e7c8ef39b5) | 2026-05-21 23:53 |
-| Cognizant | Entry-level Moment AWS Contact Center Developer | Teaneck, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96bd9fb18e41b893) | 2026-05-21 23:53 |
-| Boston Energy Trading and Marketing | Senior Data Engineer | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=67ecc5a6b05e7ef0) | 2026-05-21 22:13 |
-| nan | Senior Cloud Engineer | Norwell, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d5883ce98bd3b809) | 2026-05-21 22:13 |
-| Stellantis | Integrations Architect- Azure | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f4dbf1260c7d0cc0) | 2026-05-21 22:13 |
-| Stellantis | Integrations Architect- Azure | Auburn Hills, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f5b1713c37555cdd) | 2026-05-21 22:13 |
-| Stellantis | Integrations Architect- Azure | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f2d440e3e598ce5c) | 2026-05-21 22:13 |
-| Tata Consultancy Services (TCS) | Cloud Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ebda74063a09351) | 2026-05-21 22:13 |
-| Genpact | Analyst - Data Engineering 5A | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f5d7974c7f716d89) | 2026-05-21 22:13 |
-| Tech Army | Data Architect - Advanced | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2598e893f85ae2a1) | 2026-05-21 22:13 |
-| Tech Army | Data Architect - Intermediate | Tallahassee, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=53a36f9ca1924521) | 2026-05-21 22:13 |
-| Tata Consultancy Services (TCS) | Data Bricks Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c99ee79a934f0166) | 2026-05-21 22:13 |
-| Tata Consultancy Services (TCS) | Data Bricks Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=597ef21a1e4293fd) | 2026-05-21 22:13 |
-| Frontline Education | Sr. Software Engineer (Go-To-Market AI Team) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a92c59262b56cdb) | 2026-05-21 22:13 |
-| nan | Senior Software Engineer | Boulder, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=92b862d92b1cbb9d) | 2026-05-21 22:13 |
-| McKesson | Sr. Site Reliability Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae21c352f885d87b) | 2026-05-21 22:13 |
-| Vantive | Platform Engineer, IT - DevOps and Emerging Tech | Deerfield, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7a4303a949ff0206) | 2026-05-21 22:13 |
-| Octapharma | Sr. Data Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4dc84fd3a2c0c7c) | 2026-05-21 22:13 |
 
 
 ---

@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-25
 
-**Total Jobs Found:** 13
+**Total Jobs Found:** 22
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,7 +27,117 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Referral Only - Senior GCP Data Engineer @ Capgemini
+## 3. AI - Native Builder @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bcd329279eb0cbc5)
+
+---
+
+## 4. AI-Native Builder @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f5397e30a285245d)
+
+---
+
+## 5. AI - Native Builder @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0a8ea8730e4cf117)
+
+---
+
+## 6. AI Native Developer @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dbc661e109c14228)
+
+---
+
+## 7. AI-Native Builder @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=37bc77d9dc22a6a9)
+
+---
+
+## 8. AI - Native Builder @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c0214499e127c894)
+
+---
+
+## 9. AI - Native Builder @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3ad88277e472de1e)
+
+---
+
+## 10. AI Native Developer @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ba608063466f07bd)
+
+---
+
+## 11. AI Native Developer @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=36ab7b1b575050e1)
+
+---
+
+## 12. AI-Native Builder @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dc95b3c395886fe7)
+
+---
+
+## 13. Referral Only - Senior GCP Data Engineer @ Capgemini
 **Match Score:** 13.9%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -38,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Data Engineer - Egypt @ Protagona
+## 14. Data Engineer - Egypt @ Protagona
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. AI Architect @ Panasonic Automotive
+## 15. AI Architect @ Panasonic Automotive
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Full Stack Software Engineer @ Hybrid @ NextRow Digital
+## 16. Full Stack Software Engineer @ Hybrid @ NextRow Digital
 **Match Score:** 13.9%
 
 📍 **Location:** Chicago, IL, US USA
@@ -71,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Data Engineer @ Protagona
+## 17. Data Engineer @ Protagona
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -82,18 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Software Engineer (Java) in Test @ Paramount
-**Match Score:** 12.5%
-
-📍 **Location:** Burbank, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, CI/CD, Jenkins, GitHub Actions, Maven, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=abeffb7fc3a2db5b)
-
----
-
-## 9. Sr. Software Development Engineer 5.5 @ Adobe
+## 18. Sr. Software Development Engineer 5.5 @ Adobe
 **Match Score:** 11.1%
 
 📍 **Location:** San Jose, CA, US USA
@@ -104,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Middle–Senior Data Engineer with AI Experience @ DataArt
+## 19. Middle–Senior Data Engineer with AI Experience @ DataArt
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -115,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Data Engineer @ Vulcan Elements
+## 20. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -126,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Data Engineer @ Vulcan Elements
+## 21. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Research Triangle Park, NC, US USA
@@ -137,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Data Engineer @ Vulcan Elements
+## 22. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Durham, NC, US USA
