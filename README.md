@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-26 02:41
+Last updated: 2026-05-26 06:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior Platform Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9f80cce2b9ebf257) | 2026-05-26 06:38 |
+| GEICO | Engineer II – Data Engineer | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3de4614253463977) | 2026-05-26 06:38 |
 | TRM Labs | Senior Software Engineer, Data Platform (Canada) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ddbaba31adfd57a) | 2026-05-26 02:41 |
 | TeraWatt Infrastructure | Senior DevOps Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab18efde0a1dd056) | 2026-05-26 02:41 |
 | Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bcd329279eb0cbc5) | 2026-05-25 23:56 |

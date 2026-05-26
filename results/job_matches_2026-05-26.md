@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-26
 
-**Total Jobs Found:** 22
+**Total Jobs Found:** 23
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -170,7 +170,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Senior Software Engineer, Data Platform (Canada) @ TRM Labs
+## 16. Senior Platform Engineer @ nan
+**Match Score:** 11.8%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, PostgreSQL, CI/CD, GitHub Actions, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9f80cce2b9ebf257)
+
+---
+
+## 17. Senior Software Engineer, Data Platform (Canada) @ TRM Labs
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -181,18 +192,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Sr. Software Development Engineer 5.5 @ Adobe
+## 18. Engineer II – Data Engineer @ GEICO
 **Match Score:** 11.1%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** Palo Alto, CA, US USA
 
-🔑 **Keywords:** AWS, RDS, Spark, Scala, Kafka, Snowflake, MongoDB, NoSQL, CI/CD, Jenkins
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Snowflake, ETL, ELT, dbt, Airflow
 
-[Apply Here](https://www.indeed.com/viewjob?jk=34da685bfe797839)
+[Apply Here](https://www.indeed.com/viewjob?jk=3de4614253463977)
 
 ---
 
-## 18. Senior DevOps Engineer @ TeraWatt Infrastructure
+## 19. Senior DevOps Engineer @ TeraWatt Infrastructure
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -203,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Middle–Senior Data Engineer with AI Experience @ DataArt
+## 20. Middle–Senior Data Engineer with AI Experience @ DataArt
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -214,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Data Engineer @ Vulcan Elements
+## 21. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -225,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Data Engineer @ Vulcan Elements
+## 22. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Research Triangle Park, NC, US USA
@@ -236,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Data Engineer @ Vulcan Elements
+## 23. Data Engineer @ Vulcan Elements
 **Match Score:** 11.1%
 
 📍 **Location:** Durham, NC, US USA
