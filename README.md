@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-25 23:56
+Last updated: 2026-05-26 02:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TRM Labs | Senior Software Engineer, Data Platform (Canada) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ddbaba31adfd57a) | 2026-05-26 02:41 |
+| TeraWatt Infrastructure | Senior DevOps Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab18efde0a1dd056) | 2026-05-26 02:41 |
 | Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bcd329279eb0cbc5) | 2026-05-25 23:56 |
 | Newpage Digital Healthcare solutions | AI-Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f5397e30a285245d) | 2026-05-25 23:56 |
 | Newpage Digital Healthcare solutions | AI - Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0a8ea8730e4cf117) | 2026-05-25 23:56 |
@@ -404,21 +406,6 @@ Last updated: 2026-05-25 23:56
 | STERIS | Enterprise Data Modeler / Data Architect | Mentor, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8fdede7f9e82d0fd) | 2026-05-22 06:41 |
 | Rocket55 | Data Analyst | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=241ee8dad1872af1) | 2026-05-22 06:41 |
 | D.R. Horton | Business Intelligence Developer II | Arlington, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba1caba29237e465) | 2026-05-22 06:41 |
-| DATAMAXIS | Senior Azure Data Engineer | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=9a3c2f00c8f14faf) | 2026-05-22 02:31 |
-| Pointwest Technologies Corp | Senior Quality Assurance Engineer | Los Angeles, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=13dcd4834939f146) | 2026-05-22 02:31 |
-| Viasat | Senior Architect, Software Engineering | Carlsbad, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a6fa49faad8ad49a) | 2026-05-22 02:31 |
-| University of Pittsburgh | Senior Data Engineer (EDGE) | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c339fd3829743220) | 2026-05-22 02:31 |
-| Sprezzatura Management Consulting | Integration Architect | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a2068100094fd3d8) | 2026-05-22 02:31 |
-| BCS Financial Corporation | Data Engineer | Oakbrook Terrace, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a602b929fa90e317) | 2026-05-22 02:31 |
-| nan | Jr Software Engineer (Automation & Tools) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=586f4250ce0182d7) | 2026-05-22 02:31 |
-| Five Below | Sr Data Architect | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=caf9e3b948b202c9) | 2026-05-22 02:31 |
-| The Hanover Insurance Group | Senior Data Engineer (HYBRID in MA or REMOTE) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f07674c9e7674b7f) | 2026-05-22 02:31 |
-| The Hanover Insurance Group | Senior Data Engineer (HYBRID in MA or REMOTE) | Worcester, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=154874ff0ca10323) | 2026-05-22 02:31 |
-| The Hanover Insurance Group | Data Engineer II (MA BASED OR REMOTE) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d32f2b5f65dde91) | 2026-05-22 02:31 |
-| The Hanover Insurance Group | Data Engineer II (MA BASED OR REMOTE) | Worcester, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=89e0515b86de94cd) | 2026-05-22 02:31 |
-| Intratek Computer | Data Architect / Data Modeling Consultant | Dallas-Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6fae39e910d8c57) | 2026-05-22 02:31 |
-| Pyramid Systems Inc | Sr. Software Automated Tester/Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f65bbafc6442ac9f) | 2026-05-22 02:31 |
-| Labcorp | Senior Data Analyst | Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3be062ecd99df873) | 2026-05-22 02:31 |
 
 
 ---
