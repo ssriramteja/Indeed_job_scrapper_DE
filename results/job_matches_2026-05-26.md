@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-26
 
-**Total Jobs Found:** 22
+**Total Jobs Found:** 23
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,18 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. AI Integration Specialist @ Trauma Healing Accelerated
-**Match Score:** 16.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, Cassandra
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fa7b42d068847f61)
-
----
-
-## 4. AI - Native Builder @ Newpage Digital Healthcare solutions
+## 3. AI - Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. AI-Native Builder @ Newpage Digital Healthcare solutions
+## 4. AI-Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. AI - Native Builder @ Newpage Digital Healthcare solutions
+## 5. AI - Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. AI Native Developer @ Newpage Digital Healthcare solutions
+## 6. AI Native Developer @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. AI-Native Builder @ Newpage Digital Healthcare solutions
+## 7. AI-Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. AI - Native Builder @ Newpage Digital Healthcare solutions
+## 8. AI - Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. AI - Native Builder @ Newpage Digital Healthcare solutions
+## 9. AI - Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. AI Native Developer @ Newpage Digital Healthcare solutions
+## 10. AI Native Developer @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -126,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. AI Native Developer @ Newpage Digital Healthcare solutions
+## 11. AI Native Developer @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -137,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. AI-Native Builder @ Newpage Digital Healthcare solutions
+## 12. AI-Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -148,40 +137,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Referral Only - Senior GCP Data Engineer @ Capgemini
-**Match Score:** 13.9%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** AWS, RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Cloud Storage, Vertex AI, Spark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=45b715538a1026e4)
-
----
-
-## 15. AI Architect @ Panasonic Automotive
-**Match Score:** 13.9%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Vertex AI, Spark, Scala, Spark Streaming, Kafka, MLOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0866a3cb6383e0de)
-
----
-
-## 16. Full Stack Software Engineer @ Hybrid @ NextRow Digital
+## 13. BI Solutions Architect @ Mars Technominds
 **Match Score:** 13.9%
 
 📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** AWS, Lambda, Redshift, S3, SQS, API Gateway, ECS, RDS, Snowflake, DynamoDB
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Hadoop, Spark, Scala, Snowflake, Data Modeling, Snowflake Schema
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a3e5c91036a8e42a)
+[Apply Here](https://www.indeed.com/viewjob?jk=aaa071bc6a31ae41)
 
 ---
 
-## 17. Senior Platform Engineer @ nan
+## 14. Sr Field Engineer @ Striim
+**Match Score:** 13.9%
+
+📍 **Location:** San Francisco, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, BigQuery, Scala, Kafka, Snowflake, Oracle
+
+[Apply Here](https://www.indeed.com/viewjob?jk=960f767365c3fdc0)
+
+---
+
+## 15. Big Data Engineer @ Allruva Technology Services
+**Match Score:** 12.5%
+
+📍 **Location:** Irving, TX, US USA
+
+🔑 **Keywords:** RDS, Databricks, Hadoop, HDFS, Hive, MapReduce, HBase, Spark, PySpark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a3fc6d4b0669cc2e)
+
+---
+
+## 16. Senior Platform Engineer @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -192,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Senior Software Engineer, Data Platform (Canada) @ TRM Labs
+## 17. Senior Software Engineer, Data Platform (Canada) @ TRM Labs
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -200,6 +189,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, BigQuery, Spark, Scala, Kafka, ETL, dbt, Terraform, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=4ddbaba31adfd57a)
+
+---
+
+## 18. Snowflake Engineer @ Smart Tech Skills LLC
+**Match Score:** 11.1%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** RDS, Scala, Snowflake, Oracle, SQL Server, Data Modeling, Dimensional Modeling, ETL, CI/CD, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=002369ff092a4302)
 
 ---
 
@@ -236,14 +236,25 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Middle–Senior Data Engineer with AI Experience @ DataArt
-**Match Score:** 11.1%
+## 22. Senior Analytics Engineer @ Fustis LLC
+**Match Score:** 10.4%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** El Paso, TX, US USA
 
-🔑 **Keywords:** AWS, Azure, GCP, Scala, Snowflake, NoSQL, Data Modeling, ETL, ELT, Airflow
+🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Scala, Snowflake, Data Modeling, ETL, Power BI, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b061d0e56606ca49)
+[Apply Here](https://www.indeed.com/viewjob?jk=2e887fffa7d23b98)
+
+---
+
+## 23. Senior Software Engineer – Backend @ Finalcover LLC
+**Match Score:** 10.4%
+
+📍 **Location:** Arlington, VA, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, RDS, Scala, DynamoDB, NoSQL, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=254d43c61e4dbbb4)
 
 ---
 
