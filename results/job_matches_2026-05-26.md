@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-26
 
-**Total Jobs Found:** 23
+**Total Jobs Found:** 22
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. AI Integration Specialist @ Trauma Healing Accelerated
+## 2. Senior Software Engineer, Backend @ nan
+**Match Score:** 16.7%
+
+📍 **Location:** Torrance, CA, US USA
+
+🔑 **Keywords:** AWS, Lambda, Step Functions, S3, SQS, SNS, API Gateway, IAM, RDS, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=36b655d5786f6e9c)
+
+---
+
+## 3. AI Integration Specialist @ Trauma Healing Accelerated
 **Match Score:** 16.0%
 
 📍 **Location:** Remote, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. AI - Native Builder @ Newpage Digital Healthcare solutions
+## 4. AI - Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. AI-Native Builder @ Newpage Digital Healthcare solutions
+## 5. AI-Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. AI - Native Builder @ Newpage Digital Healthcare solutions
+## 6. AI - Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. AI Native Developer @ Newpage Digital Healthcare solutions
+## 7. AI Native Developer @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -71,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. AI-Native Builder @ Newpage Digital Healthcare solutions
+## 8. AI-Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. AI - Native Builder @ Newpage Digital Healthcare solutions
+## 9. AI - Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. AI - Native Builder @ Newpage Digital Healthcare solutions
+## 10. AI - Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -104,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. AI Native Developer @ Newpage Digital Healthcare solutions
+## 11. AI Native Developer @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -115,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. AI Native Developer @ Newpage Digital Healthcare solutions
+## 12. AI Native Developer @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -126,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. AI-Native Builder @ Newpage Digital Healthcare solutions
+## 13. AI-Native Builder @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -137,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Referral Only - Senior GCP Data Engineer @ Capgemini
+## 14. Referral Only - Senior GCP Data Engineer @ Capgemini
 **Match Score:** 13.9%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -148,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. AI Architect @ Panasonic Automotive
+## 15. AI Architect @ Panasonic Automotive
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -159,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Full Stack Software Engineer @ Hybrid @ NextRow Digital
+## 16. Full Stack Software Engineer @ Hybrid @ NextRow Digital
 **Match Score:** 13.9%
 
 📍 **Location:** Chicago, IL, US USA
@@ -170,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Senior Platform Engineer @ nan
+## 17. Senior Platform Engineer @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -181,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Senior Software Engineer, Data Platform (Canada) @ TRM Labs
+## 18. Senior Software Engineer, Data Platform (Canada) @ TRM Labs
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -192,7 +203,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Engineer II – Data Engineer @ GEICO
+## 19. Sr Data Engineer @ Moody's
+**Match Score:** 11.1%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** AWS, Scala, Oracle, DynamoDB, NoSQL, ETL, dbt, Tableau, Git, Bitbucket
+
+[Apply Here](https://www.indeed.com/viewjob?jk=716c39142598395c)
+
+---
+
+## 20. Engineer II – Data Engineer @ GEICO
 **Match Score:** 11.1%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -203,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Senior DevOps Engineer @ TeraWatt Infrastructure
+## 21. Senior DevOps Engineer @ TeraWatt Infrastructure
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -214,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Middle–Senior Data Engineer with AI Experience @ DataArt
+## 22. Middle–Senior Data Engineer with AI Experience @ DataArt
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -222,39 +244,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, GCP, Scala, Snowflake, NoSQL, Data Modeling, ETL, ELT, Airflow
 
 [Apply Here](https://www.indeed.com/viewjob?jk=b061d0e56606ca49)
-
----
-
-## 21. Data Engineer @ Vulcan Elements
-**Match Score:** 11.1%
-
-📍 **Location:** Raleigh, NC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3ae715a338ce50c4)
-
----
-
-## 22. Data Engineer @ Vulcan Elements
-**Match Score:** 11.1%
-
-📍 **Location:** Research Triangle Park, NC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=820e575795c52a30)
-
----
-
-## 23. Data Engineer @ Vulcan Elements
-**Match Score:** 11.1%
-
-📍 **Location:** Durham, NC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=48faa92f2e29036f)
 
 ---
 
