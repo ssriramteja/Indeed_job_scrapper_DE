@@ -1,11 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-26 17:21
+Last updated: 2026-05-26 19:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Klaxon Technolgies | Senior Data Engineer | Jersey City, NJ, US USA | 39.6% | [Apply](https://www.indeed.com/viewjob?jk=3265598d80fd8a76) | 2026-05-26 19:57 |
+| Leadfeeder | Senior Data Engineer, Platform Data | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d2b659aa81b3c306) | 2026-05-26 19:57 |
+| Origence | AI Solution Architect | Irvine, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7e8da60d668640f5) | 2026-05-26 19:57 |
+| Waystar | Senior SRE I | Louisville, KY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f88f8686e04e6680) | 2026-05-26 19:57 |
+| TORC Robotics | Software Engineer, I - Data Engineering | Ann Arbor, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=196506204c7c944f) | 2026-05-26 19:57 |
+| Optum | Senior Data Engineer | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4b965cc65d75bb68) | 2026-05-26 19:57 |
+| Business Information Group, Inc. | Senior Development Consultant | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1790d3f21cf2701e) | 2026-05-26 19:57 |
+| Macmillan Publishers | Senior AI Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4eb1d2668d2c3bb3) | 2026-05-26 19:57 |
+| Openly | Site Reliability Engineer II (Remote, US) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c4c0d71f6d3e3d52) | 2026-05-26 19:57 |
+| Always Compassionate Health | Senior Data Platform Engineer, Enterprise Data & Analytics | Melville, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e602a7ae37682d44) | 2026-05-26 19:57 |
+| Bank of America | Software Engineer II - Java/Python | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e901ac4878117ce6) | 2026-05-26 19:57 |
+| McKinsey & Company | Senior Forward Deployed Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99421b7cddeacb9e) | 2026-05-26 19:57 |
+| Lila Sciences | Senior Software Engineer, App | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca392fa39b84631e) | 2026-05-26 19:57 |
+| Lila Sciences | Senior Software Engineer, App | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f024bf694f893ebe) | 2026-05-26 19:57 |
+| Recutify Inc. | Senior AI Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ee880f838d01800) | 2026-05-26 19:57 |
+| Lila Sciences | Senior Software Engineer, Data | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b975973860fe466c) | 2026-05-26 19:57 |
+| Lila Sciences | Senior Software Engineer, Data | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b47adc71ffc989c2) | 2026-05-26 19:57 |
 | Mars Technominds | BI Solutions Architect | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aaa071bc6a31ae41) | 2026-05-26 17:21 |
 | Striim | Sr Field Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=960f767365c3fdc0) | 2026-05-26 17:21 |
 | Allruva Technology Services | Big Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a3fc6d4b0669cc2e) | 2026-05-26 17:21 |
@@ -349,19 +366,6 @@ Last updated: 2026-05-26 17:21
 | Per Scholas | Technical Instructor Instructor (AWS Machine Learning) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8f76045b3e1a34f) | 2026-05-22 20:28 |
 | Per Scholas | Technical Instructor Instructor (AWS Machine Learning) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13e7ce1cf6e3d127) | 2026-05-22 20:28 |
 | Per Scholas | Technical Instructor Instructor (AWS Machine Learning) | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a641c5288812497c) | 2026-05-22 20:28 |
-| GuidePoint Security | Sr Technical Data Security Architect- Remote (Anywhere in the U.S.) | Remote, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=4c8acbe5f71af378) | 2026-05-22 18:29 |
-| ICF | Data Engineer | Reston, VA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b342f596ec91b873) | 2026-05-22 18:29 |
-| Ursa Space Systems | Sr. Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c1fd194e6f8429f5) | 2026-05-22 18:29 |
-| Nightwing | Senior Cloud Platform Engineer | Sterling, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=837099917f2a5dec) | 2026-05-22 18:29 |
-| OneMain Financial | Senior Platform Engineer (Observability & Telemetry) | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e7a99e7f4abccf3) | 2026-05-22 18:29 |
-| Availity, LLC. | Senior DevOps Engineer IV | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=047dbbdf9319bbe1) | 2026-05-22 18:29 |
-| Always Compassionate Health | Senior Data Platform Engineer, Enterprise Data & Analytics | Melville, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b7d8eadc95aa5ba) | 2026-05-22 18:29 |
-| Frontline Education | Sr. Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cba127e0361a9979) | 2026-05-22 18:29 |
-| Ion Storage Systems | Data Platform Engineer | Beltsville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4850b4115d1ec83d) | 2026-05-22 18:29 |
-| Nightwing | Cloud Platform Engineer | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=157f075ed24c2620) | 2026-05-22 18:29 |
-| BlackLine | Senior Software Engineer | Pleasanton, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d530d2af319399b5) | 2026-05-22 18:29 |
-| First United Bank | Senior DevSecOps Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=795069cfefc40dca) | 2026-05-22 18:29 |
-| Burlington Stores | Data Architect | Edgewater Park, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa2aac8c72a4cdad) | 2026-05-22 18:29 |
 
 
 ---
