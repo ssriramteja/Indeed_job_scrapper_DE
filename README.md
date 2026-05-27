@@ -1,17 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-27 10:51
+Last updated: 2026-05-27 14:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Zoetis | Data Engineer | Parsippany-Troy Hills, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=87f70fa8d4be0571) | 2026-05-27 14:20 |
+| Bounteous | Full Stack Agentic AI Developer | Rockville, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e6782ecd37a1a284) | 2026-05-27 14:20 |
+| Castlight | Software Engineer 3 | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=770d98b3f2c61a3f) | 2026-05-27 14:20 |
+| Discount Tire | Pr AI Cloud Systems Engineer (RITM0479748) | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dc9dfce7125ed878) | 2026-05-27 14:20 |
+| Humana | Senior Software Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fd51c65d58c91761) | 2026-05-27 14:20 |
+| Humana | Senior Software Engineer | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=66c6d1fd76fe3448) | 2026-05-27 14:20 |
+| LTIMindtree | Specialist - Architecture | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a0a72f863d410844) | 2026-05-27 14:20 |
+| nan | Sr Software Engineer | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e62a0487a6b58cf5) | 2026-05-27 14:20 |
+| Specialty Building Products | Senior Full Stack Application Developer | Duluth, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6435e356286a621f) | 2026-05-27 14:20 |
+| McKinsey & Company | Senior Forward Deployed Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99421b7cddeacb9e) | 2026-05-27 14:20 |
+| Oracle | Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8dc47a59b46765c) | 2026-05-27 14:20 |
+| Fullstack Academy | Instuctor , Cloud Computing & Devops(CCDO) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81ff13fcbdc21173) | 2026-05-27 14:20 |
 | nan | Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e523bf5a5bf5d62b) | 2026-05-27 10:51 |
 | Bessemer Trust | Senior Software Engineer | Woodbridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=774b596dfb394ced) | 2026-05-27 10:51 |
 | Holtzbrinck Publishing Group | Senior AI Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6553fe8d88b5cc2c) | 2026-05-27 10:51 |
 | Concentra | Engineer II, AWS Connect | Addison, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3acabec1c779e4f7) | 2026-05-27 10:51 |
 | DocuSign | Senior Software Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf6ec5c4dd06dea5) | 2026-05-27 10:51 |
-| McKinsey & Company | Senior Forward Deployed Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99421b7cddeacb9e) | 2026-05-27 10:51 |
 | Lila Sciences | Senior Software Engineer, App | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5acf07a00ef614c) | 2026-05-27 10:51 |
 | JPMorganChase | Data Scientist Associate – Product, Experience and Technology (PXT) Analytics Team | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e733ae2cd5148257) | 2026-05-27 10:51 |
 | Lila Sciences | Senior Software Engineer, Data | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e71383b94e86fbaa) | 2026-05-27 10:51 |
@@ -140,7 +151,6 @@ Last updated: 2026-05-27 10:51
 | nan | Senior Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9428fe1d5deac146) | 2026-05-23 14:54 |
 | Micron Technology | Sr Engineer - Operations Improvement | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4ba5c9bd83fc8ac) | 2026-05-23 14:54 |
 | Elekta | Software Quality Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fad5a01749b44d7e) | 2026-05-23 14:54 |
-| nan | Senior Sales Automation & Integrations Engineer | Woodstock, VT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d8721cb25b26868) | 2026-05-23 13:03 |
 
 
 ---
