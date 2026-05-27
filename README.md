@@ -1,11 +1,47 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-27 17:52
+Last updated: 2026-05-27 20:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Data Engineer (AWS Glue, Airflow, Lambda, Postgres) | Fort Mill, SC, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=acfc187789a37a56) | 2026-05-27 20:01 |
+| Capgemini | Data Engineer (AWS Glue, Airflow, Lambda, Postgres) | Fort Mill, SC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=0579b411528126ab) | 2026-05-27 20:01 |
+| Cloud data Systems US | Cloud Developer / AWS Solutions Architect with .Net integration | Sacramento, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=be4853042949bdd1) | 2026-05-27 20:01 |
+| innoVet Health, LLC | Senior DevOps Engineer – Data Engineering | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7f642c610470a071) | 2026-05-27 20:01 |
+| innoVet Health, LLC | DevOps Engineer – Data Engineering | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5c81fd4cfc405e48) | 2026-05-27 20:01 |
+| SEP | Data Engineer (in person) | Westfield, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=586f1008eb3dc860) | 2026-05-27 20:01 |
+| Optum | Senior Software Engineer - Data Engineering | Brentwood, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3ef9537310f7214) | 2026-05-27 20:01 |
+| Lenovo | AI Data Specialist | Morrisville, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c8ddb8e746b2d111) | 2026-05-27 20:01 |
+| Capgemini | Java ReactJS AWS Developer Payments | Riverwoods, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=213ccd9512c0c9dc) | 2026-05-27 20:01 |
+| LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=424703caefd6d113) | 2026-05-27 20:01 |
+| LPL Financial | Senior Software Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=101061bea2a8593b) | 2026-05-27 20:01 |
+| Optum | Senior Data Engineer | Minnetonka, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5bd094809bea2029) | 2026-05-27 20:01 |
+| Capgemini | Data Engineer (Snowflake, AWS) | Fort Mill, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e3f82c93d576f7a) | 2026-05-27 20:01 |
+| Charles River Associates | Consulting Associate/Full Stack Developer (Forensic Services practice) | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=811330ccc62c3998) | 2026-05-27 20:01 |
+| Charles River Associates | Consulting Associate/Full Stack Developer (Forensic Services practice) | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6c0c76defeb29f13) | 2026-05-27 20:01 |
+| Charles River Associates | Consulting Associate/Full Stack Developer (Forensic Services practice) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3abca339dffff6de) | 2026-05-27 20:01 |
+| Charles River Associates | Consulting Associate/Full Stack Developer (Forensic Services practice) | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=990baac9a4b4d3c5) | 2026-05-27 20:01 |
+| Charles River Associates | Consulting Associate/Full Stack Developer (Forensic Services practice) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=853dfe0e00183c55) | 2026-05-27 20:01 |
+| NTT DATA | Senior AWS Data Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=403a9d53356963ed) | 2026-05-27 20:01 |
+| Baker Tilly Canada | Data Solution Architect | Milwaukee, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c9cf0398eaa58c55) | 2026-05-27 20:01 |
+| Baker Tilly Canada | Data Solution Architect | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=16d25674f9943018) | 2026-05-27 20:01 |
+| Baker Tilly Canada | Data Solution Architect | Madison, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=709d2dc8e12638c5) | 2026-05-27 20:01 |
+| Lyra Health | Sr. Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c13b3570f31644de) | 2026-05-27 20:01 |
+| New Era Technology | Senior Azure Cloud & DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=760e0caf358fa7ba) | 2026-05-27 20:01 |
+| Baker Tilly Canada | Associate Data Engineer | Madison, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24a63124749b1283) | 2026-05-27 20:01 |
+| Baker Tilly Canada | Associate Data Engineer | Milwaukee, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ef589b39c6904ab) | 2026-05-27 20:01 |
+| Baker Tilly Canada | Associate Data Engineer | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ae687a47012d375) | 2026-05-27 20:01 |
+| Baker Tilly Canada | Associate Data Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=526789b5a039d9e4) | 2026-05-27 20:01 |
+| Baker Tilly Canada | Associate Data Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3ab868ce436a523f) | 2026-05-27 20:01 |
+| Constitution Surgery Alliance | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8e91aba2a71eea06) | 2026-05-27 20:01 |
+| Radar | Machine Learning Engineer | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f34740da82b33461) | 2026-05-27 20:01 |
+| accrete | Senior AI Platform Engineer, Infrastructure | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=16a9b21087d9070b) | 2026-05-27 20:01 |
+| Chess.com | Site Reliability Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=010c395bdcd7a30d) | 2026-05-27 20:01 |
+| Caterpillar | Senior IT Analyst Applications | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=16716305f57ba769) | 2026-05-27 20:01 |
+| Burlington Stores | Data Architect | Edgewater Park, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fc83920e558138a) | 2026-05-27 20:01 |
+| accrete | Junior AI Platform Engineer, Infrastrucure | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5496a0bc2b4bd3eb) | 2026-05-27 20:01 |
 | Transamerica | Specialist Software Engineer | Denver, CO, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6ff097337c23c8bf) | 2026-05-27 17:52 |
 | SEACORP | Data Lakehouse Architect | Manassas, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=790599fa002d6633) | 2026-05-27 17:52 |
 | TORC Robotics | Software Engineer, I - Data Engineering | Ann Arbor, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e2976c8aa5f80420) | 2026-05-27 17:52 |
@@ -24,7 +60,6 @@ Last updated: 2026-05-27 17:52
 | ICW Group | Senior Applied AI Engineer | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a1dc59f217f9fce) | 2026-05-27 17:52 |
 | Smart Tech Skills LLC | Azure Data Warehouse Architect | Tallahassee, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df60f817f0201540) | 2026-05-27 17:52 |
 | Clarity Innovations, LLC | Platform Engineering Architect - AI Automation | Jessup, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d32c274c61b107e) | 2026-05-27 17:52 |
-| McKinsey & Company | Senior Forward Deployed Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99421b7cddeacb9e) | 2026-05-27 17:52 |
 | Zoetis | Data Engineer | Parsippany-Troy Hills, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=87f70fa8d4be0571) | 2026-05-27 14:20 |
 | Bounteous | Full Stack Agentic AI Developer | Rockville, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e6782ecd37a1a284) | 2026-05-27 14:20 |
 | Castlight | Software Engineer 3 | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=770d98b3f2c61a3f) | 2026-05-27 14:20 |
