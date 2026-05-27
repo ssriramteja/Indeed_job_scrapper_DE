@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-27 20:01
+Last updated: 2026-05-27 22:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CSpring | Enterprise Data Warehouse (EDW) ETL/Data Engineer | US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=2655650a85cb9fcd) | 2026-05-27 22:25 |
+| Optum | Sr. Data Engineer | Eden Prairie, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e069ef7a7b20f315) | 2026-05-27 22:25 |
+| Tata Consultancy Services (TCS) | Java Developer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=95c2b1e94f1ace71) | 2026-05-27 22:25 |
+| Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2002a3bb054db4fd) | 2026-05-27 22:25 |
+| Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dae15109dd782046) | 2026-05-27 22:25 |
+| DNS Solutions Inc. | Power BI Developer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c46f3131e66c1a54) | 2026-05-27 22:25 |
+| Esri | Product Engineer II - Data Management | Redlands, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac5fcd43916fb352) | 2026-05-27 22:25 |
+| Optum | Sr. Data Engineer | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=903ff22fdc58906d) | 2026-05-27 22:25 |
+| Optum | Sr. Data Engineer | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fd2630a842cc6382) | 2026-05-27 22:25 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4720246dd1e23d07) | 2026-05-27 22:25 |
+| Mixpanel | Customer Success Architect | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=953ecd5971ae2bf1) | 2026-05-27 22:25 |
+| Fortegra | Senior Data Analyst | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5720513548105a7) | 2026-05-27 22:25 |
 | Capgemini | Data Engineer (AWS Glue, Airflow, Lambda, Postgres) | Fort Mill, SC, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=acfc187789a37a56) | 2026-05-27 20:01 |
 | Capgemini | Data Engineer (AWS Glue, Airflow, Lambda, Postgres) | Fort Mill, SC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=0579b411528126ab) | 2026-05-27 20:01 |
 | Cloud data Systems US | Cloud Developer / AWS Solutions Architect with .Net integration | Sacramento, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=be4853042949bdd1) | 2026-05-27 20:01 |
@@ -200,7 +212,6 @@ Last updated: 2026-05-27 20:01
 | Wayfair | Software Development Engineer II, 3rd Party Fulfillment | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab8a84f415621d03) | 2026-05-24 14:55 |
 | General Motors (GM) | Senior AI/ML Scientist | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16f0b949e7e7036a) | 2026-05-24 09:14 |
 | nan | Google Cloud Data Architect & IAM Data Modernization | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3a876f1d70bf86df) | 2026-05-24 06:29 |
-| nan | Data Architect | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b457a11e98e82c5e) | 2026-05-23 21:45 |
 
 
 ---
