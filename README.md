@@ -1,11 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-27 14:20
+Last updated: 2026-05-27 17:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Transamerica | Specialist Software Engineer | Denver, CO, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6ff097337c23c8bf) | 2026-05-27 17:52 |
+| SEACORP | Data Lakehouse Architect | Manassas, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=790599fa002d6633) | 2026-05-27 17:52 |
+| TORC Robotics | Software Engineer, I - Data Engineering | Ann Arbor, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e2976c8aa5f80420) | 2026-05-27 17:52 |
+| Castlight | Software Engineer 3 | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2322ef59d1218d09) | 2026-05-27 17:52 |
+| Grand Circle Travel | Sr Data Engineer | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=54baeed1bb9bcd57) | 2026-05-27 17:52 |
+| Keystone Sports Construction | Full Stack Developer / Cloud Engineer | Phoenixville, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62b9aa861f18b) | 2026-05-27 17:52 |
+| New Era Technology | Senior Azure Cloud & DevOps Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06c0ec6191f51dd9) | 2026-05-27 17:52 |
+| New Era Technology | Senior Azure Cloud & DevOps Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4a46908cd0a69c52) | 2026-05-27 17:52 |
+| New Era Technology | Senior Azure Cloud & DevOps Engineer | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d887191c1e6747a) | 2026-05-27 17:52 |
+| Newpage Digital Healthcare solutions | Senior Software Engineer- Forward Deployed | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bda2c2b8bdd5703d) | 2026-05-27 17:52 |
+| nan | Data Engineer | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ceb9d089a51d56c) | 2026-05-27 17:52 |
+| Cayuse Holdings | Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8383bcaf3f0d64cd) | 2026-05-27 17:52 |
+| BRUNT Workwear | Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d9a66e52ac0ae1b3) | 2026-05-27 17:52 |
+| BRUNT Workwear | Data Engineer | North Reading, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed9ff440388b3f76) | 2026-05-27 17:52 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f31a5af9350429b9) | 2026-05-27 17:52 |
+| ICW Group | Senior Applied AI Engineer | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a1dc59f217f9fce) | 2026-05-27 17:52 |
+| Smart Tech Skills LLC | Azure Data Warehouse Architect | Tallahassee, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df60f817f0201540) | 2026-05-27 17:52 |
+| Clarity Innovations, LLC | Platform Engineering Architect - AI Automation | Jessup, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d32c274c61b107e) | 2026-05-27 17:52 |
+| McKinsey & Company | Senior Forward Deployed Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99421b7cddeacb9e) | 2026-05-27 17:52 |
 | Zoetis | Data Engineer | Parsippany-Troy Hills, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=87f70fa8d4be0571) | 2026-05-27 14:20 |
 | Bounteous | Full Stack Agentic AI Developer | Rockville, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e6782ecd37a1a284) | 2026-05-27 14:20 |
 | Castlight | Software Engineer 3 | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=770d98b3f2c61a3f) | 2026-05-27 14:20 |
@@ -15,7 +34,6 @@ Last updated: 2026-05-27 14:20
 | LTIMindtree | Specialist - Architecture | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a0a72f863d410844) | 2026-05-27 14:20 |
 | nan | Sr Software Engineer | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e62a0487a6b58cf5) | 2026-05-27 14:20 |
 | Specialty Building Products | Senior Full Stack Application Developer | Duluth, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6435e356286a621f) | 2026-05-27 14:20 |
-| McKinsey & Company | Senior Forward Deployed Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99421b7cddeacb9e) | 2026-05-27 14:20 |
 | Oracle | Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8dc47a59b46765c) | 2026-05-27 14:20 |
 | Fullstack Academy | Instuctor , Cloud Computing & Devops(CCDO) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81ff13fcbdc21173) | 2026-05-27 14:20 |
 | nan | Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e523bf5a5bf5d62b) | 2026-05-27 10:51 |
@@ -148,9 +166,6 @@ Last updated: 2026-05-27 14:20
 | General Motors (GM) | Senior AI/ML Scientist | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16f0b949e7e7036a) | 2026-05-24 09:14 |
 | nan | Google Cloud Data Architect & IAM Data Modernization | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3a876f1d70bf86df) | 2026-05-24 06:29 |
 | nan | Data Architect | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b457a11e98e82c5e) | 2026-05-23 21:45 |
-| nan | Senior Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9428fe1d5deac146) | 2026-05-23 14:54 |
-| Micron Technology | Sr Engineer - Operations Improvement | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4ba5c9bd83fc8ac) | 2026-05-23 14:54 |
-| Elekta | Software Quality Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fad5a01749b44d7e) | 2026-05-23 14:54 |
 
 
 ---
