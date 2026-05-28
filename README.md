@@ -1,11 +1,72 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-27 23:55
+Last updated: 2026-05-28 02:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Marathon Petroleum | Senior Data Engineer | San Antonio, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=49edbeaf629e68cd) | 2026-05-28 02:11 |
+| RCH Solutions | Cloud Engineer & Workflow Automation Specialist | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3931a67eb51851c) | 2026-05-28 02:11 |
+| GEICO | Senior Engineer - (Java, Data, Enterprise Platforms & Systems Integration) *HYBRID* | Bethesda, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2db9971acfda0ef0) | 2026-05-28 02:11 |
+| GEICO | Sr. Software Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d9e84045e2a59c7) | 2026-05-28 02:11 |
+| SymphonyAI | Solution Architect (Remote) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=94f39d74ff9af060) | 2026-05-28 02:11 |
+| Skilled Wound Care | Full Stack Software Developer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae3088413e5cc3c7) | 2026-05-28 02:11 |
+| GEICO | Engineer II – Data Engineer | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32ed94e1f1198b9b) | 2026-05-28 02:11 |
+| GEICO | Senior Machine Learning Engineer, AI Agent Platform | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=229f3e749be7cca3) | 2026-05-28 02:11 |
+| GEICO | Solutions Engineer II - Networking | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=064413364274663f) | 2026-05-28 02:11 |
+| GEICO | Solutions Engineer II - Networking | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=51aff6d75298585b) | 2026-05-28 02:11 |
+| GEICO | Solutions Engineer II - Networking | Bethesda, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=effa4b02999ec16e) | 2026-05-28 02:11 |
+| GEICO | Solutions Engineer II - Networking | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa9f5aa1271db099) | 2026-05-28 02:11 |
+| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad9018400b489f06) | 2026-05-28 02:11 |
+| GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=164e6001b0478b70) | 2026-05-28 02:11 |
+| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=402919188bfdae39) | 2026-05-28 02:11 |
+| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=487fab5c6f99bdb0) | 2026-05-28 02:11 |
+| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=236bdbba9a2662be) | 2026-05-28 02:11 |
+| GEICO | Senior Software Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=28d9d25071f99932) | 2026-05-28 02:11 |
+| GEICO | Senior Software Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1813e12093c4b179) | 2026-05-28 02:11 |
+| GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=73073c20113d8a46) | 2026-05-28 02:11 |
+| GEICO | Senior Software Engineer - (C#/Microservices/Azure) | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af75c8c96d0f7286) | 2026-05-28 02:11 |
+| GEICO | Engineer II | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed579d893abdf468) | 2026-05-28 02:11 |
+| GEICO | Engineer II- .Net | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c629b5423aca4370) | 2026-05-28 02:11 |
+| GEICO | Engineer II- .Net | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de5e37dc37d36afe) | 2026-05-28 02:11 |
+| GEICO | Engineer II | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41ac85c48b014a3e) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d2aac28dcc0f5dc) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff4146e405f3fbdd) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | WY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03bca136c0cbbd4b) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20fb82cab981d6f6) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | WV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd6a98dbf9c8fe27) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | VT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b093881e17977137) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4dbb9ab25a3de63) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | SD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e9f24b67c3c4865) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afef59adf435c5d3) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d24847f11cdb17f) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d395603d3ca5ae4) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=74adefa45fe68b85) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0bf2b3f58c12d5e8) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fadd4b711a07ed63) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4869f36c77523299) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41f7505979d19749) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | NM, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=578382c88fd086a2) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ef8f4a759ab87ae) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | ND, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fbf49b5212a6ffd) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d436aca8295c586b) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=851b4244a09c34f1) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6439cfee5536bdc7) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d582eb6aeb90686e) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | MS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd0f36a33d79abf4) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bdf4268b4592450d) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76575c65289cbf84) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47c8a8ca939a0761) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df067d3d6da3e98c) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb7003b52e283536) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc2e3e0a28ae521e) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a53ed7ccbe8bd31d) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a77e00ed279d54c2) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=54f346d2d047be10) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e597bdb9ca96785) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ffd439e16cc7656e) | 2026-05-28 02:11 |
+| Concentrix | Python Developer (Linux exp) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc23afb90236d1db) | 2026-05-28 02:11 |
 | Capgemini | AWS Data Engineer | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2c299fe3483f84e7) | 2026-05-27 23:55 |
 | Visa | Senior Software Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9cb5a838303cab7f) | 2026-05-27 23:55 |
 | Roku | Senior Software Engineer - Data Insights | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=79537138cc31fdfa) | 2026-05-27 23:55 |
