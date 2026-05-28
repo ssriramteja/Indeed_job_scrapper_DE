@@ -1,11 +1,115 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-28 02:11
+Last updated: 2026-05-28 06:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Data Engineer - Snowflake | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6ab0c96b2af87c7f) | 2026-05-28 06:44 |
+| OSI Digital | Tableau Developer | Irvine, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b4a17fe569b55d04) | 2026-05-28 06:44 |
+| Linqd | Senior Database Analyst | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f208d9b67253c76d) | 2026-05-28 06:44 |
+| Techneaux Technology Services | Cloud Architect | Lafayette, LA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d9aa775b4df0e782) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Richmond, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=512e38e26654ac89) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Morristown, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a4f3dc197854ddef) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a70cde35cc4d9412) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | San Antonio, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=75a84a3eeebaeb7c) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ee4a43a12ff25318) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Nashville, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=34f41679b052c9ce) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=75f65db75d1108c6) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Philadelphia, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1f45269945ea9fe2) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Arlington, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=33835272b04dd982) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=df692083381730fc) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Pittsburgh, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b354f589377409f2) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Milwaukee, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6c5d497ca1536ee1) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Cleveland, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9f6391ce83cfefb0) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Rochester, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0284afbbb1c6e27c) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2ff6b4227bbd6a9b) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | New Orleans, LA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c3d477b7ef1fa32c) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Lake Mary, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b6e08e91a3fb5f16) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dbdfe43e2ebf0062) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Mechanicsburg, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e4e8221df1c3723b) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Princeton, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8c4afbb3652ab975) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Memphis, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a34d4a5c3530466d) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Dayton, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f5f98ee94e2ffe2e) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Portland, OR, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1de52551051f131f) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Kansas City, MO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=50b60aecb70333e8) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Louisville, KY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=94db75d644163fcd) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b3e0f9c0ea4636c1) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a0e856b53b948d15) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Jacksonville, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f82d19bdd1498382) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Raleigh, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7d7edf21ea6b8feb) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | San Francisco, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d4d54e37658f595d) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Cincinnati, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=23d0d09ac27ddb54) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Costa Mesa, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=48942cdfb811e061) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Detroit, MI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=635a8efd59211fcd) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Hermitage, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1d022db1481834c5) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Colorado Springs, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=11e3cd8c9574595a) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cf99ffa5bee240c6) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Baltimore, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=664253218635fdb5) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Stamford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cd722820ae31c360) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3a801d42f61b42a7) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Miami, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=10ef0c90d8f58ccf) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Las Vegas, NV, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=51dc0f54a87eacc8) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Indianapolis, IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=378564bcea2a3bd4) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Jericho, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c5333de330ea7934) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=614ad02f5e362d2b) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=48b710809dd9d7a3) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e5128593a931439c) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Los Angeles, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b84c97f734a51d32) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Gilbert, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=117ddd065e16bd17) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Davenport, IA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=aad12ab4fee4e113) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Hartford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=88e4b800ec5bccaf) | 2026-05-28 06:44 |
+| Deloitte | Cyber Full-Stack Developer/Senior Consultant | Minneapolis, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1ca37bcedb3ec5e8) | 2026-05-28 06:44 |
+| HARVEY | Software Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4c9f21bfc2c673ab) | 2026-05-28 06:44 |
+| Deloitte | Data Foundations Engineer | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=20df966ea532e3a7) | 2026-05-28 06:44 |
+| Cognizant | Sr. AWS Cloud Engineer | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=da439f0317feed08) | 2026-05-28 06:44 |
+| AmeriHealth Caritas | Application Architect | Newtown Square, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6f29250114817e7c) | 2026-05-28 06:44 |
+| Tata Consultancy Services (TCS) | Senior Solution Architect | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fbbbc6f44179a3fd) | 2026-05-28 06:44 |
+| Tata Consultancy Services (TCS) | Data Programmer ETL Data Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c57ae65da4f36e79) | 2026-05-28 06:44 |
+| TECHSTRA SOLUTIONS | Software Engineer - FICO | Pittsburgh, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5c33918a8076cae8) | 2026-05-28 06:44 |
+| Holtzbrinck Publishing Group | Senior AI Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=12fec8a549c33ab6) | 2026-05-28 06:44 |
+| BRUNT Workwear | Data Engineer | North Reading, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae09a906dc9f4095) | 2026-05-28 06:44 |
+| UChicago Medicine AdventHealth | Security Automation Engineer, 18-month Term | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a3f9e4f52b5f7087) | 2026-05-28 06:44 |
+| Intone Networks | DBA | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=edf9d5ab2f8e4574) | 2026-05-28 06:44 |
+| TECHSTRA SOLUTIONS | Software Engineer - .NET | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=721fc28eba013089) | 2026-05-28 06:44 |
+| University of Maryland Medical System | Sr Data Engineer | North Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1315a3f918392bfc) | 2026-05-28 06:44 |
+| Blackfoot Telephone Cooperative | Data Engineer | Missoula, MT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58ef3a1dce80d2c6) | 2026-05-28 06:44 |
+| Attadale Partners, LLC | Full Stack Senior Java Developer | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2519325a56ffef70) | 2026-05-28 06:44 |
+| David's Bridal | Shopify E-Commerce Architect Remote | King of Prussia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5553ffefe7bc8e69) | 2026-05-28 06:44 |
+| LSB Industries | Solution Architect - Applications & Cloud | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8008bf1ed943866c) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Tulsa, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d203c0ff61d232d4) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b6039c0cbe7afd7) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9000febff9daed1d) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=929a8e5132072847) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7773ac1a9f155496) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d892306f314dfe8) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5826adebcdccc48) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e8dd0f8cecd4b5fb) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Westlake, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4bee803e4f0dcd0) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Hermitage, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0a6c8e307c8c9a9) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64e5d2d10b77d06d) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=835bda95513a3d85) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | New Orleans, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7dc7c415d19100df) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=103fe3333c991254) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=554d9ce02a41efeb) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7213ce2aafb555d) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ba0eb498ddcf001) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5726e1ce23559cb) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d5260e3b79fcd48) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f639f656255cdfb2) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3b4d168a9aa4c0e) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7b96fb05120de77) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=949184fd246efc40) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c61c3eeec59cb3c7) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8aca5d41f260c85b) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b291eed1c513462f) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a72baf55f9ff3cc) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e9285549c4bca1a9) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Costa Mesa, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c750a47fb648633d) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba46e79152e83532) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=767a284e6cca4140) | 2026-05-28 06:44 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fbed2bdff5fcf37c) | 2026-05-28 06:44 |
 | Marathon Petroleum | Senior Data Engineer | San Antonio, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=49edbeaf629e68cd) | 2026-05-28 02:11 |
 | RCH Solutions | Cloud Engineer & Workflow Automation Specialist | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3931a67eb51851c) | 2026-05-28 02:11 |
 | GEICO | Senior Engineer - (Java, Data, Enterprise Platforms & Systems Integration) *HYBRID* | Bethesda, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2db9971acfda0ef0) | 2026-05-28 02:11 |
@@ -291,7 +395,6 @@ Last updated: 2026-05-28 02:11
 | CVS Health | Senior Java Software Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f422e5e1f7c77012) | 2026-05-24 14:55 |
 | Wayfair | Software Development Engineer II, 3rd Party Fulfillment | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab8a84f415621d03) | 2026-05-24 14:55 |
 | General Motors (GM) | Senior AI/ML Scientist | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16f0b949e7e7036a) | 2026-05-24 09:14 |
-| nan | Google Cloud Data Architect & IAM Data Modernization | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3a876f1d70bf86df) | 2026-05-24 06:29 |
 
 
 ---
