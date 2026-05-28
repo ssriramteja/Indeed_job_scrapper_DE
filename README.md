@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-28 10:46
+Last updated: 2026-05-28 14:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Purpose Financial | Data Engineer | Greenville, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8de203e89eb9c66b) | 2026-05-28 14:30 |
+| nan | Sr Product Software Engineer | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15a29d0256393717) | 2026-05-28 14:30 |
 | CVS Health | Senior Software Development Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=db288f56e48736b6) | 2026-05-28 10:46 |
 | DrFirst | PostgreSQL Database Administrator | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=90f5afd899e8dd0f) | 2026-05-28 10:46 |
 | HumanIT Solutions LLC | Cleared Mid DevSecOps Engineer | Beavercreek, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c1de8fbff52f4c) | 2026-05-28 10:46 |
