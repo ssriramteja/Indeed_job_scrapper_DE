@@ -1,11 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-28 20:12
+Last updated: 2026-05-28 22:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Senior Engineer | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e338f14503b7dadc) | 2026-05-28 22:27 |
+| Astronautics Corporation of America | Data Modeler | Oak Creek, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d5cdfdcc7f2368f7) | 2026-05-28 22:27 |
+| Clearwater Analytics (CWAN) | Senior Software Development Engineer | Boise, ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=582a5c2f09aaa3b3) | 2026-05-28 22:27 |
+| Truist | Cybersecurity Senior Engineer – Cloud Security | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b2310c9c70a69a24) | 2026-05-28 22:27 |
+| Optum | Senior Data Engineer | Brentwood, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4b48f611cc241ddd) | 2026-05-28 22:27 |
+| nan | Microsoft Azure Engineer | Ashburn, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0ae4fdc46bfe9f92) | 2026-05-28 22:27 |
+| Terzo Enterprises | Full-Stack Engineer – Platform Systems (Backend) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=016bba447faebcb6) | 2026-05-28 22:27 |
+| Metronet | Data Engineer | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa494721f4ef838f) | 2026-05-28 22:27 |
+| Diagonal Matrix Ltd | Cloud Engineer Intern | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=47d2b2ec898613d9) | 2026-05-28 22:27 |
+| 33Floors, LLC | Azure Developer | Las Vegas, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ee64cec38d7d125) | 2026-05-28 22:27 |
+| Stellantis | Senior Data Engineer – Platform Foundation | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eb0cede7ee8b6158) | 2026-05-28 22:27 |
+| RedWeek.com | Senior Data Analyst | Scottsdale, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d3398e1df9137635) | 2026-05-28 22:27 |
+| EPIC Kids | Senior Software Engineer, Full-Stack | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd379d14e18e962c) | 2026-05-28 22:27 |
+| Tata Consultancy Services (TCS) | AI Architect | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0733724faed40ddd) | 2026-05-28 22:27 |
+| MERS Missouri Goodwill Industries | Junior Data Platform Administrator | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50a28e98864b0c14) | 2026-05-28 22:27 |
+| BlueCross BlueShield of Tennessee | Associate MLOps Engineer | Chattanooga, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02b5ea8333c0d680) | 2026-05-28 22:27 |
+| Janus Henderson Investors | Data Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a70aee5dcc1b2500) | 2026-05-28 22:27 |
+| Box | Senior Software Engineer, Search Relevance | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=762e3894fad3e12a) | 2026-05-28 22:27 |
+| Ad Hoc | Senior Data Architect (LOC) | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c8355770dcb1b03) | 2026-05-28 22:27 |
+| Safan | R&T Software Engineer 3 | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca3e2857ffc20efe) | 2026-05-28 22:27 |
 | ritepros | Application Architect | Portland, ME, US USA | 28.5% | [Apply](https://www.indeed.com/viewjob?jk=62f2ea4b9227ad1a) | 2026-05-28 20:12 |
 | ritepros | Data Engineer | Portland, ME, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=0f021406866c8cb1) | 2026-05-28 20:12 |
 | ritepros | Software Developer | Portland, ME, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=e788b64bde37944b) | 2026-05-28 20:12 |
@@ -447,7 +467,6 @@ Last updated: 2026-05-28 20:12
 | Protagona | Data Engineer - Egypt | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c80b353eec9dd01f) | 2026-05-25 02:35 |
 | Protagona | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=664ac749b66cbda9) | 2026-05-25 02:35 |
 | Paramount | Senior Software Engineer (Java) in Test | Burbank, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=abeffb7fc3a2db5b) | 2026-05-24 23:52 |
-| nan | Data Engineer /Power BI Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c45a5135dc266df2) | 2026-05-24 21:46 |
 
 
 ---
