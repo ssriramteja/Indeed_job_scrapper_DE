@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-28 14:30
+Last updated: 2026-05-28 17:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Great American Insurance Group | Senior Cloud Engineer - AWS | Cincinnati, OH, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=84652629b44e36b8) | 2026-05-28 17:57 |
+| UnitedHealthcare | Senior Data Engineer | Eden Prairie, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8021a2f04b182e3d) | 2026-05-28 17:57 |
+| Federal Reserve Bank of Richmond | Alteryx Developer | Richmond, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=965d63ad9e6e8691) | 2026-05-28 17:57 |
+| West Monroe | Senior Architect, Data Engineering | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9e2de466e9ede227) | 2026-05-28 17:57 |
+| West Monroe | Senior Architect, Data Engineering | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=804201ad9e2469c9) | 2026-05-28 17:57 |
+| West Monroe | Senior Architect, Data Engineering | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b010f440df2e098) | 2026-05-28 17:57 |
+| OMG Technology | Data Architect - Iselin, NJ (Hybrid) | Summit, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e17884e139d1340) | 2026-05-28 17:57 |
+| Japan Communications, inc - US | Senior Database Administrator | Englewood, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4f30af03c6caacb) | 2026-05-28 17:57 |
+| ServiceTitan | Senior AI Engineer (Agent OS Platform) | Sacramento, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e334cbfd67078a8) | 2026-05-28 17:57 |
 | Purpose Financial | Data Engineer | Greenville, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8de203e89eb9c66b) | 2026-05-28 14:30 |
 | nan | Sr Product Software Engineer | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15a29d0256393717) | 2026-05-28 14:30 |
 | CVS Health | Senior Software Development Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=db288f56e48736b6) | 2026-05-28 10:46 |
@@ -406,9 +415,6 @@ Last updated: 2026-05-28 14:30
 | Protagona | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=664ac749b66cbda9) | 2026-05-25 02:35 |
 | Paramount | Senior Software Engineer (Java) in Test | Burbank, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=abeffb7fc3a2db5b) | 2026-05-24 23:52 |
 | nan | Data Engineer /Power BI Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c45a5135dc266df2) | 2026-05-24 21:46 |
-| Wayfair | Software Engineer II, Pricing Engineering | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3a2bac108848ff31) | 2026-05-24 14:55 |
-| CVS Health | Senior Java Software Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f422e5e1f7c77012) | 2026-05-24 14:55 |
-| Wayfair | Software Development Engineer II, 3rd Party Fulfillment | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab8a84f415621d03) | 2026-05-24 14:55 |
 
 
 ---
