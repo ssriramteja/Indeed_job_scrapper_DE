@@ -1,11 +1,42 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-29 09:37
+Last updated: 2026-05-29 12:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=e6865e731762837d) | 2026-05-29 12:42 |
+| BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5e5dbf3e1be29598) | 2026-05-29 12:42 |
+| Suffolk Construction | AI Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6bc40683645d5866) | 2026-05-29 12:42 |
+| BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7be7c12c113c7f4c) | 2026-05-29 12:42 |
+| Photon | Sr. CRM Engineer \| Cleveland, OH | OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=58b880cbe2164f42) | 2026-05-29 12:42 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=88e4adfa75de057b) | 2026-05-29 12:42 |
+| BV Teck | Azure Cloud Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5bbe1624133d599a) | 2026-05-29 12:42 |
+| Panasonic Automotive | AI Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b251bad156120ee9) | 2026-05-29 12:42 |
+| Suffolk Construction | Site AI Engineer - New Haven, CT | New Haven, CT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d29adf993445f0bd) | 2026-05-29 12:42 |
+| Suffolk Construction | Site AI Engineer - Boston, MA | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bcf91e3de3b3cfaa) | 2026-05-29 12:42 |
+| Suffolk Construction | Site AI Engineer - Temple, TX | Temple, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=02502cf23954a80e) | 2026-05-29 12:42 |
+| Suffolk Construction | Site AI Engineer - Las Vegas, NV | Las Vegas, NV, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=71a6429c12809608) | 2026-05-29 12:42 |
+| Suffolk Construction | Site AI Engineer - Dallas, TX | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=94942178e7603ad0) | 2026-05-29 12:42 |
+| Suffolk Construction | Site AI Engineer - Fort Meyers, FL | Fort Myers, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1119ddab775a5553) | 2026-05-29 12:42 |
+| Suffolk Construction | Site AI Engineer - USVI | Charlotte Amalie, VI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d2dcedc535de31f7) | 2026-05-29 12:42 |
+| Faraday Future | Data Engineer (Agent Systems) | El Segundo, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3701c804c9b0b189) | 2026-05-29 12:42 |
+| Hiro Talent Solutions | Azure Full Stack Engineer | Columbia, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c770b1c4f512c431) | 2026-05-29 12:42 |
+| Fiserv | Sr Software Engineer (React, JavaScript, .net) | Hagerstown, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4cc464898e64c2d7) | 2026-05-29 12:42 |
+| BV Teck | Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2099233b2412293a) | 2026-05-29 12:42 |
+| Panasonic Automotive | Senior AI Full Stack Engineer | Farmington Hills, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=825e221841f6b0ce) | 2026-05-29 12:42 |
+| Yale New Haven Health | AI Automation Developer II | Stratford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b4f3e15b0e54b1c) | 2026-05-29 12:42 |
+| ATI Physical Therapy | BI Developer | Oak Brook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=15f9e3e8db4c59f0) | 2026-05-29 12:42 |
+| Enlyte | Senior Full Stack .NET Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24937a6185650d43) | 2026-05-29 12:42 |
+| ATI Physical Therapy | Database Engineer | Oak Brook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e4139ecd61ccea47) | 2026-05-29 12:42 |
+| BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dcdf9728d516c153) | 2026-05-29 12:42 |
+| CVS Health | Senior Software Development Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09edda39b98ef300) | 2026-05-29 12:42 |
+| CVS Health | Senior Software Development Engineer | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b96821caf0970503) | 2026-05-29 12:42 |
+| The New York Times | Senior Software Engineer, Community | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2507171317a26faf) | 2026-05-29 12:42 |
+| Suffolk Construction | Senior Software Engineer, SharePoint | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e8916dfa1faff9d0) | 2026-05-29 12:42 |
+| Suffolk Construction | AI Systems Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16c48102f3cbafa7) | 2026-05-29 12:42 |
+| BNH | Digital Enterprise DevSecOps Engineer | Arnold AFB, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9f43023d7db0b07) | 2026-05-29 12:42 |
 | nan | Azure Data Engineer | Jersey City, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=bad92e6915049edc) | 2026-05-29 09:37 |
 | Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | Earth City, MO, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e3ddd82b2a383f38) | 2026-05-29 09:37 |
 | Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | Brentwood, TN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=197d18130a300324) | 2026-05-29 09:37 |
@@ -13,8 +44,6 @@ Last updated: 2026-05-29 09:37
 | Lakeview Loan Servicing | Data Engineer, Mortgage Servicing | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=621d8acb024a7258) | 2026-05-29 09:37 |
 | Capgemini | Full Stack Java Developer | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=30f59e2bfb4a8152) | 2026-05-29 09:37 |
 | East Penn Manufacturing | Senior DevOps Programmer | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7d1f2f6dd069879a) | 2026-05-29 09:37 |
-| Photon | Sr. CRM Engineer \| Cleveland, OH | OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=58b880cbe2164f42) | 2026-05-29 09:37 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=88e4adfa75de057b) | 2026-05-29 09:37 |
 | Navitus Health Solutions / Lumicera Health Services | Engineer, Development Operations - Archimedes | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1558bff9d1119b05) | 2026-05-29 09:37 |
 | Master Electronics | Data Scientist II | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d73436e1b1cecb10) | 2026-05-29 09:37 |
 | Faraday Future | Data Engineer (Agent Systems) | El Segundo, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5592fc9e666f0b6d) | 2026-05-29 09:37 |
