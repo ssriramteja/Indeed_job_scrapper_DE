@@ -1,17 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-29 12:42
+Last updated: 2026-05-29 16:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Republic Services | Sr. Data Modeler | Phoenix, AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=633c48c04bec794a) | 2026-05-29 16:37 |
+| Mindex | Data Architect - Remote | Rochester, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4c32603ea351f9bf) | 2026-05-29 16:37 |
+| Photon | Sr. CRM Engineer \| Cleveland, OH | OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=58b880cbe2164f42) | 2026-05-29 16:37 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=88e4adfa75de057b) | 2026-05-29 16:37 |
+| Mindex | Data Engineer - Remote | Rochester, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a88dfb056c5c3b9b) | 2026-05-29 16:37 |
+| The Hartford | AI Platform Engineer (Google Cloud Platform) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3be471e01eea2f2a) | 2026-05-29 16:37 |
+| The Hartford | AI Platform Engineer (Google Cloud Platform) | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bb8f91201caafc33) | 2026-05-29 16:37 |
+| The Hartford | AI Platform Engineer (Google Cloud Platform) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29a68b9b44071451) | 2026-05-29 16:37 |
+| The Hartford | AI Platform Engineer (Google Cloud Platform) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=34d8a92dff07ca15) | 2026-05-29 16:37 |
+| Key Prediction | Senior Machine Learning Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b5586ae9539a9ac2) | 2026-05-29 16:37 |
+| Temporal Technologies | Senior Software Engineer, Cloud Applications New | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b0c42ad13150702) | 2026-05-29 16:37 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=e6865e731762837d) | 2026-05-29 12:42 |
 | BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5e5dbf3e1be29598) | 2026-05-29 12:42 |
 | Suffolk Construction | AI Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6bc40683645d5866) | 2026-05-29 12:42 |
 | BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7be7c12c113c7f4c) | 2026-05-29 12:42 |
-| Photon | Sr. CRM Engineer \| Cleveland, OH | OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=58b880cbe2164f42) | 2026-05-29 12:42 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=88e4adfa75de057b) | 2026-05-29 12:42 |
 | BV Teck | Azure Cloud Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5bbe1624133d599a) | 2026-05-29 12:42 |
 | Panasonic Automotive | AI Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b251bad156120ee9) | 2026-05-29 12:42 |
 | Suffolk Construction | Site AI Engineer - New Haven, CT | New Haven, CT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d29adf993445f0bd) | 2026-05-29 12:42 |
@@ -611,9 +620,6 @@ Last updated: 2026-05-29 12:42
 | Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=622e5174e22fc102) | 2026-05-25 16:59 |
 | Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=239176039e388a7a) | 2026-05-25 16:59 |
 | Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3ac1dcfa7fd19426) | 2026-05-25 16:59 |
-| Vulcan Elements | Data Engineer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3ae715a338ce50c4) | 2026-05-25 14:35 |
-| Vulcan Elements | Data Engineer | Research Triangle Park, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=820e575795c52a30) | 2026-05-25 14:35 |
-| Vulcan Elements | Data Engineer | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48faa92f2e29036f) | 2026-05-25 14:35 |
 
 
 ---
