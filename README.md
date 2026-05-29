@@ -1,11 +1,38 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-28 22:27
+Last updated: 2026-05-29 00:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bread Financial | Data Engineer | Columbus, OH, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=beb7f5541ed44f4f) | 2026-05-29 00:03 |
+| Federal Home Loan Bank of Pittsburgh | DevOps Engineer | Pittsburgh, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=706e45c82f6dc417) | 2026-05-29 00:03 |
+| West Virginia University | (On-site) Biomedical Data Engineer - Rockefeller Neuroscience Institute | Morgantown, WV, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2b89c5e1fd6c9b22) | 2026-05-29 00:03 |
+| Creative Information Technology India | Data Architect – Washington, DC | Falls Church, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a9de31c9e29a5b9e) | 2026-05-29 00:03 |
+| DriveTime Automotive Group | Data Engineer | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=30c5e927e6d68165) | 2026-05-29 00:03 |
+| DriveTime Automotive Group | Data Engineer | Tempe, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9d25c9c531d22c59) | 2026-05-29 00:03 |
+| NavitasPartners | Senior Data Architect / Data Engineer - 26-06256 | Arlington, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=059e365e3de8e316) | 2026-05-29 00:03 |
+| NavitasPartners | Senior Data Architect / Data Engineer - 26-06256 | Alexandria, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ee533d88723392eb) | 2026-05-29 00:03 |
+| NavitasPartners | Senior Data Architect / Data Engineer - 26-06256 | Centreville, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=38fd78df3d590a31) | 2026-05-29 00:03 |
+| NavitasPartners | Senior Data Architect / Data Engineer - 26-06256 | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f19599523bbd9a1a) | 2026-05-29 00:03 |
+| Abbott | Senior Cloud Solutions Architect | Santa Clara, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=641ce19efe0be7f4) | 2026-05-29 00:03 |
+| JLL | Senior Data Engineer | Westmont, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a981c9a05200e9ee) | 2026-05-29 00:03 |
+| Cognizant | DataBricks Data engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c253ac2f4a87b389) | 2026-05-29 00:03 |
+| Tesla | Data Engineer, Fleet Analytics, Cell Quality & Field Reliability | Fremont, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c653f5b18c837aab) | 2026-05-29 00:03 |
+| Cognizant | Sr. Full Stack Developer – Java & Spring Boot, Angular and AWS(Hybrid) | Orlando, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=649cdcb93d0df1cb) | 2026-05-29 00:03 |
+| U.S. Bank | SoftSoftware Engineer 2 Software Engineer 2 (API /NodeJS /Javascript) | Hopkins, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e100201c444a83c) | 2026-05-29 00:03 |
+| U.S. Bank | SoftSoftware Engineer 2 Software Engineer 2 (API /NodeJS /Javascript) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea0e7d846c8a2243) | 2026-05-29 00:03 |
+| U.S. Bank | SoftSoftware Engineer 2 Software Engineer 2 (API /NodeJS /Javascript) | Gresham, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7dbbfbfd6ef656e4) | 2026-05-29 00:03 |
+| U.S. Bank | SoftSoftware Engineer 2 Software Engineer 2 (API /NodeJS /Javascript) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dca22b19d31d8387) | 2026-05-29 00:03 |
+| U.S. Bank | SoftSoftware Engineer 2 Software Engineer 2 (API /NodeJS /Javascript) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7dd2508274e7a97e) | 2026-05-29 00:03 |
+| U.S. Bank | SoftSoftware Engineer 2 Software Engineer 2 (API /NodeJS /Javascript) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=744e9b68aa73ba93) | 2026-05-29 00:03 |
+| Equifax | Senior Data Engineer | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c584f61b31ffef2) | 2026-05-29 00:03 |
+| Tebra | AI Automation Engineer | Corona del Mar, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1e951e309584aa9a) | 2026-05-29 00:03 |
+| Paramount | Senior Software Engineer | Burbank, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b95a170038319d8) | 2026-05-29 00:03 |
+| PlayStation | Senior Analytics & Activation Engineer | San Mateo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=31e4e54b6bcc6235) | 2026-05-29 00:03 |
+| RCN Capital, LLC | Senior Software Engineer | South Windsor, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c25277a0adce5e4c) | 2026-05-29 00:03 |
+| Eastman Chemical | Systems Analyst | Longview, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2ab255a6d7bb4e9) | 2026-05-29 00:03 |
 | Tata Consultancy Services (TCS) | Senior Engineer | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e338f14503b7dadc) | 2026-05-28 22:27 |
 | Astronautics Corporation of America | Data Modeler | Oak Creek, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d5cdfdcc7f2368f7) | 2026-05-28 22:27 |
 | Clearwater Analytics (CWAN) | Senior Software Development Engineer | Boise, ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=582a5c2f09aaa3b3) | 2026-05-28 22:27 |
@@ -466,7 +493,6 @@ Last updated: 2026-05-28 22:27
 | Adobe | Sr. Software Development Engineer 5.5 | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=34da685bfe797839) | 2026-05-25 07:03 |
 | Protagona | Data Engineer - Egypt | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c80b353eec9dd01f) | 2026-05-25 02:35 |
 | Protagona | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=664ac749b66cbda9) | 2026-05-25 02:35 |
-| Paramount | Senior Software Engineer (Java) in Test | Burbank, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=abeffb7fc3a2db5b) | 2026-05-24 23:52 |
 
 
 ---
