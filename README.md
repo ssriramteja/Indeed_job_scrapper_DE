@@ -1,16 +1,45 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-29 19:28
+Last updated: 2026-05-29 21:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Neomax | Software Developer | McLean, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7d54cb6fb55273d2) | 2026-05-29 21:46 |
+| U.S. Venture, Inc. | Senior Data Engineer - IGEN | Appleton, WI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ad0ca36351ff88fb) | 2026-05-29 21:46 |
+| Neomax | Systems Engineer | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0761c7021676d118) | 2026-05-29 21:46 |
+| The Jackson Laboratory | Informatica Product Owner - Remote | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1cd40cf715d1757e) | 2026-05-29 21:46 |
+| The Jackson Laboratory | Informatica Product Owner - Remote | Portland, ME, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c3efe7a4e50700ee) | 2026-05-29 21:46 |
+| The Jackson Laboratory | Informatica Product Owner - Remote | Alachua, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3185efffc8151880) | 2026-05-29 21:46 |
+| The Jackson Laboratory | Informatica Product Owner - Remote | Bar Harbor, ME, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b53f7ddb0026dea4) | 2026-05-29 21:46 |
+| The Jackson Laboratory | Informatica Product Owner - Remote | Farmington, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bbf3b9815a50b381) | 2026-05-29 21:46 |
+| Photon | Sr. CRM Engineer \| Cleveland, OH | OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=58b880cbe2164f42) | 2026-05-29 21:46 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Tulsa, OK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17cb9776bd0e7f4a) | 2026-05-29 21:46 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=88e4adfa75de057b) | 2026-05-29 21:46 |
+| Echo Global Logistics | Sr Data Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eae8bcb49c9597d5) | 2026-05-29 21:46 |
+| andrew morgan | AI Engineer/Solution Architect | Arlington, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7604b89af99ba406) | 2026-05-29 21:46 |
+| Metropolis | Senior Software Engineer, Product Foundations | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dd2bfc17d54981e1) | 2026-05-29 21:46 |
+| Metropolis | Senior Software Engineer, Product Foundations | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0277abc185dfb7c6) | 2026-05-29 21:46 |
+| Castlight | Software Engineer 4 | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ce519e36124f5ab) | 2026-05-29 21:46 |
+| Global Payments | Full Stack Developer -In office, Alpharetta, GA | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=adcfd5cf564b5b00) | 2026-05-29 21:46 |
+| Alliance Health Plan | Cloud Data Architect (Full-time Remote, NC Based) | Morrisville, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cb114578f5bf1e9) | 2026-05-29 21:46 |
+| Castlight | Software Engineer 4 | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b5023cf7cd4ba777) | 2026-05-29 21:46 |
+| Fivetran | Senior Sales Engineer, Commercial | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b6c3be2d26b87a0) | 2026-05-29 21:46 |
+| Encoura | DevOps Engineer, II | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=22172251f6a1ea83) | 2026-05-29 21:46 |
+| Crane Worldwide Logistics | Sr. Integration Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=606aeb761182bb83) | 2026-05-29 21:46 |
+| Neomax | Systems Engineer | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a2644095339b05a5) | 2026-05-29 21:46 |
+| General Motors (GM) | Cost Engineer – Data Analytics | Warren, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69730719f6ab06e5) | 2026-05-29 21:46 |
+| PACIFIC STATES MARINE FISHERIES COMMISSION | Data Engineer / Database Management Specialist for Fish Data | Portland, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=47ce35760bca7d80) | 2026-05-29 21:46 |
+| American Airlines | Sr Associate Engineer, IT Software | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fda6cb70fb70e09) | 2026-05-29 21:46 |
+| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ebd22b9c4b47341c) | 2026-05-29 21:46 |
+| U.S. Venture, Inc. | Senior BI Analyst - IGEN | Appleton, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=acd6baf60c6afe77) | 2026-05-29 21:46 |
+| Alight Solutions | Azure DevOps Engineer | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b971d4cbb76a50f0) | 2026-05-29 21:46 |
+| AssistRx | Senior Data Analyst, Data Transfer Agreement, Gap Analysis, Data SQL Skills | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=315a3a380566a99f) | 2026-05-29 21:46 |
+| Teza Technologies | DevOps Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8521b827213a9dde) | 2026-05-29 21:46 |
 | SunnyData | Solutions Architect - Platform, Cloud Infrastructure and Security | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=47aa02c81d1c7a60) | 2026-05-29 19:28 |
 | Sightview Software | Software Engineer III - Big Data | Tampa, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=102fc288fbb9abdd) | 2026-05-29 19:28 |
 | Innovative Solutions | Cloud Engineer - DevOps | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=521ed8a47e56a014) | 2026-05-29 19:28 |
-| Photon | Sr. CRM Engineer \| Cleveland, OH | OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=58b880cbe2164f42) | 2026-05-29 19:28 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=88e4adfa75de057b) | 2026-05-29 19:28 |
 | Copart, Inc | Data & AI Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b9832efe0efb1942) | 2026-05-29 19:28 |
 | Recutify Inc. | Senior Application Security Engineer / AppSec Architect | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9c8e7995889e5f42) | 2026-05-29 19:28 |
 | KeyBank | Senior Database Administrator (Automation, Cloud & Data Analytics) | Brooklyn, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bfec1ad6856f8bb4) | 2026-05-29 19:28 |
@@ -627,8 +656,6 @@ Last updated: 2026-05-29 19:28
 | Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ba608063466f07bd) | 2026-05-25 23:56 |
 | Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=36ab7b1b575050e1) | 2026-05-25 23:56 |
 | Newpage Digital Healthcare solutions | AI-Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dc95b3c395886fe7) | 2026-05-25 23:56 |
-| 3Pillar Global | Data Architect | Remote, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=c207b60a85c3ae78) | 2026-05-25 20:19 |
-| Trauma Healing Accelerated | AI Integration Specialist | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fa7b42d068847f61) | 2026-05-25 20:19 |
 
 
 ---
