@@ -1,15 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-29 16:37
+Last updated: 2026-05-29 19:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SunnyData | Solutions Architect - Platform, Cloud Infrastructure and Security | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=47aa02c81d1c7a60) | 2026-05-29 19:28 |
+| Sightview Software | Software Engineer III - Big Data | Tampa, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=102fc288fbb9abdd) | 2026-05-29 19:28 |
+| Innovative Solutions | Cloud Engineer - DevOps | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=521ed8a47e56a014) | 2026-05-29 19:28 |
+| Photon | Sr. CRM Engineer \| Cleveland, OH | OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=58b880cbe2164f42) | 2026-05-29 19:28 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=88e4adfa75de057b) | 2026-05-29 19:28 |
+| Copart, Inc | Data & AI Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b9832efe0efb1942) | 2026-05-29 19:28 |
+| Recutify Inc. | Senior Application Security Engineer / AppSec Architect | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9c8e7995889e5f42) | 2026-05-29 19:28 |
+| KeyBank | Senior Database Administrator (Automation, Cloud & Data Analytics) | Brooklyn, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bfec1ad6856f8bb4) | 2026-05-29 19:28 |
+| SAP | Forward Deployed Data Scientist Expert | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c8fd2bca70b00b83) | 2026-05-29 19:28 |
+| SAP | Forward Deployed Data Scientist Expert | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d5c7f6ae9c7f0ac) | 2026-05-29 19:28 |
+| SAP | Forward Deployed Data Engineer Expert | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb1f104bd0b18db7) | 2026-05-29 19:28 |
+| nan | Data Engineer | Irvington, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a189ac16e1f72f61) | 2026-05-29 19:28 |
+| Mimecast | Software Engineer II | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca736f22eed6fef2) | 2026-05-29 19:28 |
+| Auctane | Full Stack Software Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b98655cee0687224) | 2026-05-29 19:28 |
+| SmartAsset | Senior ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4f326fc2210a7954) | 2026-05-29 19:28 |
+| SAP | SAP NS2 Sr. Cloud Engineer - SAP Platforms | Herndon, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89dd9964d8bd40d3) | 2026-05-29 19:28 |
+| Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db40921aad59c33b) | 2026-05-29 19:28 |
+| Open Lending | Software Engineer II | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=02227c456a2f4e76) | 2026-05-29 19:28 |
 | Republic Services | Sr. Data Modeler | Phoenix, AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=633c48c04bec794a) | 2026-05-29 16:37 |
 | Mindex | Data Architect - Remote | Rochester, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4c32603ea351f9bf) | 2026-05-29 16:37 |
-| Photon | Sr. CRM Engineer \| Cleveland, OH | OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=58b880cbe2164f42) | 2026-05-29 16:37 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=88e4adfa75de057b) | 2026-05-29 16:37 |
 | Mindex | Data Engineer - Remote | Rochester, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a88dfb056c5c3b9b) | 2026-05-29 16:37 |
 | The Hartford | AI Platform Engineer (Google Cloud Platform) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3be471e01eea2f2a) | 2026-05-29 16:37 |
 | The Hartford | AI Platform Engineer (Google Cloud Platform) | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bb8f91201caafc33) | 2026-05-29 16:37 |
@@ -613,13 +629,6 @@ Last updated: 2026-05-29 16:37
 | Newpage Digital Healthcare solutions | AI-Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dc95b3c395886fe7) | 2026-05-25 23:56 |
 | 3Pillar Global | Data Architect | Remote, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=c207b60a85c3ae78) | 2026-05-25 20:19 |
 | Trauma Healing Accelerated | AI Integration Specialist | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fa7b42d068847f61) | 2026-05-25 20:19 |
-| Capgemini | Referral Only - Senior GCP Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45b715538a1026e4) | 2026-05-25 18:26 |
-| Panasonic Automotive | AI Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0866a3cb6383e0de) | 2026-05-25 18:26 |
-| NextRow Digital | Full Stack Software Engineer @ Hybrid | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a3e5c91036a8e42a) | 2026-05-25 18:26 |
-| DataArt | Middle–Senior Data Engineer with AI Experience | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b061d0e56606ca49) | 2026-05-25 18:26 |
-| Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=622e5174e22fc102) | 2026-05-25 16:59 |
-| Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=239176039e388a7a) | 2026-05-25 16:59 |
-| Newpage Digital Healthcare solutions | AI Native Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3ac1dcfa7fd19426) | 2026-05-25 16:59 |
 
 
 ---
