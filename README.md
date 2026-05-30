@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-30 11:13
+Last updated: 2026-05-30 13:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Data Engineer with AI/ML | Minnetonka, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=836bfed93aa23557) | 2026-05-30 13:05 |
+| Fivetran | Senior Sales Engineer, Commercial | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0487f884b026bec9) | 2026-05-30 13:05 |
 | First Command Financial Services | Data Architect | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a2bba3746f32469) | 2026-05-30 09:10 |
 | Uber Freight | Sr. Software Engineer | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b1465e42f01feff) | 2026-05-30 09:10 |
 | CVS Health | Senior Software Development Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53279f54b14e6849) | 2026-05-30 09:10 |
