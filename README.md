@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-30 20:45
+Last updated: 2026-05-30 21:53
 
 ### 🚀 Daily Job Matches
 
@@ -851,24 +851,6 @@ Last updated: 2026-05-30 20:45
 | Kohl's | Senior Data Engineer | Menomonee Falls, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=877d45e3d1a625d6) | 2026-05-26 23:02 |
 | Pearson | Data Engineer II | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b8a567bdd35f252) | 2026-05-26 23:02 |
 | Nexstar Media Group, Inc. | AI/ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b532541851ceb06) | 2026-05-26 23:02 |
-| Tata Consultancy Services (TCS) | Senior Data Architect | Irving, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=366df588234a7c92) | 2026-05-26 21:39 |
-| Goldman Sachs | Controllers, Software Engineering, Salt Lake City, Associate | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=81361a25f18bfa9e) | 2026-05-26 21:39 |
-| Natera | Software Engineer III, Voice AI | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2ff57ba86e213734) | 2026-05-26 21:39 |
-| John Deere | 2026012 - Senior Software Analyst | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=59907092ed75df82) | 2026-05-26 21:39 |
-| Quarterhill | DevOps Engineer | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a5b056aa8ae1df1b) | 2026-05-26 21:39 |
-| SOCOTEC Group | Copy of Senior Data Engineer (Azure & Databricks) | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=634ea8c9beab0812) | 2026-05-26 21:39 |
-| SOCOTEC Group | Senior Data Engineer (Azure & Databricks) | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dd215d5414c53bc0) | 2026-05-26 21:39 |
-| Empower | Senior Solutions Architect - Emerging Technologies (AI, GenAI, ML) | Greenwood Village, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21e1b2180a79f7cc) | 2026-05-26 21:39 |
-| Prime Cargo People Logistics | Full Stack Software Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c504b34cabd6342d) | 2026-05-26 21:39 |
-| Nordstrom | Senior Engineer 2: AI Agentic Solutions (Hybrid - Seattle, WA) | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1942d9ec58e935c) | 2026-05-26 21:39 |
-| Techtorch | Full Stack AI + Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6740052e5af1c2fe) | 2026-05-26 21:39 |
-| John Deere | 2026011 - Operations Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=21cc17fa6fcb98f8) | 2026-05-26 21:39 |
-| Chesapeake Utilities Corporation | Senior Power BI Developer | Newark, DE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1985124aab93f8b5) | 2026-05-26 21:39 |
-| Butler Till | Software Engineer III | Rochester, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b50977d506f8a126) | 2026-05-26 21:39 |
-| Kinsale Management Inc | Senior Data Architect | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a938739108dd1870) | 2026-05-26 21:39 |
-| Quanex | Senior Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f22e7be74451275b) | 2026-05-26 21:39 |
-| Charles Schwab | Senior Data Engineer - Cloud Data Platform | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de80a4e1ea3c7456) | 2026-05-26 21:39 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e70cddc4d406c6fc) | 2026-05-26 21:39 |
 
 
 ---
