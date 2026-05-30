@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-30 21:53
+Last updated: 2026-05-30 22:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Diverse Agile Solutions | Senior IT Data Engineer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a442a59c169c0e12) | 2026-05-30 22:49 |
+| Diverse Agile Solutions | Senior IT Big Data Developer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=37fb3c3c32f07e3a) | 2026-05-30 22:49 |
+| itheroes inc | Data Engineer Remote - w2 | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=22ba56caa4808317) | 2026-05-30 22:49 |
 | The Vomela Companies | Sr. Product Mgr. & Enterprise App Developer | Elk Grove Village, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f0c1cd41ea8edf5b) | 2026-05-30 19:09 |
 | nan | Sr Product Software Engineer | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9ab00f608359b4fd) | 2026-05-30 14:59 |
 | Optum | Data Engineer with AI/ML | Minnetonka, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=836bfed93aa23557) | 2026-05-30 13:05 |
