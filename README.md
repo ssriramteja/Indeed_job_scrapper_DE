@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-30 19:09
+Last updated: 2026-05-30 20:45
 
 ### 🚀 Daily Job Matches
 
@@ -869,22 +869,6 @@ Last updated: 2026-05-30 19:09
 | Quanex | Senior Data Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f22e7be74451275b) | 2026-05-26 21:39 |
 | Charles Schwab | Senior Data Engineer - Cloud Data Platform | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de80a4e1ea3c7456) | 2026-05-26 21:39 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e70cddc4d406c6fc) | 2026-05-26 21:39 |
-| Klaxon Technolgies | Senior Data Engineer | Jersey City, NJ, US USA | 39.6% | [Apply](https://www.indeed.com/viewjob?jk=3265598d80fd8a76) | 2026-05-26 19:57 |
-| Leadfeeder | Senior Data Engineer, Platform Data | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d2b659aa81b3c306) | 2026-05-26 19:57 |
-| Origence | AI Solution Architect | Irvine, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7e8da60d668640f5) | 2026-05-26 19:57 |
-| Waystar | Senior SRE I | Louisville, KY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f88f8686e04e6680) | 2026-05-26 19:57 |
-| TORC Robotics | Software Engineer, I - Data Engineering | Ann Arbor, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=196506204c7c944f) | 2026-05-26 19:57 |
-| Optum | Senior Data Engineer | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4b965cc65d75bb68) | 2026-05-26 19:57 |
-| Business Information Group, Inc. | Senior Development Consultant | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1790d3f21cf2701e) | 2026-05-26 19:57 |
-| Macmillan Publishers | Senior AI Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4eb1d2668d2c3bb3) | 2026-05-26 19:57 |
-| Openly | Site Reliability Engineer II (Remote, US) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c4c0d71f6d3e3d52) | 2026-05-26 19:57 |
-| Always Compassionate Health | Senior Data Platform Engineer, Enterprise Data & Analytics | Melville, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e602a7ae37682d44) | 2026-05-26 19:57 |
-| Bank of America | Software Engineer II - Java/Python | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e901ac4878117ce6) | 2026-05-26 19:57 |
-| Lila Sciences | Senior Software Engineer, App | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca392fa39b84631e) | 2026-05-26 19:57 |
-| Lila Sciences | Senior Software Engineer, App | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f024bf694f893ebe) | 2026-05-26 19:57 |
-| Recutify Inc. | Senior AI Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ee880f838d01800) | 2026-05-26 19:57 |
-| Lila Sciences | Senior Software Engineer, Data | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b975973860fe466c) | 2026-05-26 19:57 |
-| Lila Sciences | Senior Software Engineer, Data | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b47adc71ffc989c2) | 2026-05-26 19:57 |
 
 
 ---
