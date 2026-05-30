@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-30 17:58
+Last updated: 2026-05-30 19:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Vomela Companies | Sr. Product Mgr. & Enterprise App Developer | Elk Grove Village, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f0c1cd41ea8edf5b) | 2026-05-30 19:09 |
 | nan | Sr Product Software Engineer | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9ab00f608359b4fd) | 2026-05-30 14:59 |
 | Optum | Data Engineer with AI/ML | Minnetonka, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=836bfed93aa23557) | 2026-05-30 13:05 |
 | Fivetran | Senior Sales Engineer, Commercial | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0487f884b026bec9) | 2026-05-30 13:05 |
