@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-30 06:16
+Last updated: 2026-05-30 09:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| First Command Financial Services | Data Architect | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a2bba3746f32469) | 2026-05-30 09:10 |
+| Uber Freight | Sr. Software Engineer | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b1465e42f01feff) | 2026-05-30 09:10 |
+| CVS Health | Senior Software Development Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53279f54b14e6849) | 2026-05-30 09:10 |
+| CVS Health | Senior Software Development Engineer | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a92d266fe841f72) | 2026-05-30 09:10 |
+| nan | Senior CloudOps Engineer | Alexandria, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0fb0b209468363aa) | 2026-05-30 09:10 |
+| HeroDevs | Sr. Software Engineer - Shared Services | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6847e3d78dab687e) | 2026-05-30 09:10 |
+| Nalley Consulting | DevOps Engineer - Mid | Doral, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35023775c057de52) | 2026-05-30 09:10 |
 | Boeing | Associate Data Solutions Architect | Dallas, TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=c6c665018c2e31d8) | 2026-05-30 06:16 |
 | CarParts.com | Full Stack Developer / AI Focused | Long Beach, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c61c6b86bc3293d8) | 2026-05-30 06:16 |
 | Diality | Cloud & Digital Platform DevSecOps Engineer | Irvine, CA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=905414e7ceb13800) | 2026-05-30 06:16 |
@@ -882,8 +889,6 @@ Last updated: 2026-05-30 06:16
 | Finalcover LLC | Senior Software Engineer – Backend | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=254d43c61e4dbbb4) | 2026-05-26 17:21 |
 | nan | Senior Software Engineer, Backend | Torrance, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=36b655d5786f6e9c) | 2026-05-26 13:48 |
 | Moody's | Sr Data Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=716c39142598395c) | 2026-05-26 13:48 |
-| nan | Senior Platform Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9f80cce2b9ebf257) | 2026-05-26 06:38 |
-| GEICO | Engineer II – Data Engineer | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3de4614253463977) | 2026-05-26 06:38 |
 
 
 ---
