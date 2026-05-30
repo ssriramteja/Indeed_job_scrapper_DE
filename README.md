@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-30 13:05
+Last updated: 2026-05-30 14:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Sr Product Software Engineer | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9ab00f608359b4fd) | 2026-05-30 14:59 |
 | Optum | Data Engineer with AI/ML | Minnetonka, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=836bfed93aa23557) | 2026-05-30 13:05 |
 | Fivetran | Senior Sales Engineer, Commercial | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0487f884b026bec9) | 2026-05-30 13:05 |
 | First Command Financial Services | Data Architect | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a2bba3746f32469) | 2026-05-30 09:10 |
@@ -889,8 +890,6 @@ Last updated: 2026-05-30 13:05
 | Smart Tech Skills LLC | Snowflake Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=002369ff092a4302) | 2026-05-26 17:21 |
 | Fustis LLC | Senior Analytics Engineer | El Paso, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e887fffa7d23b98) | 2026-05-26 17:21 |
 | Finalcover LLC | Senior Software Engineer – Backend | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=254d43c61e4dbbb4) | 2026-05-26 17:21 |
-| nan | Senior Software Engineer, Backend | Torrance, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=36b655d5786f6e9c) | 2026-05-26 13:48 |
-| Moody's | Sr Data Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=716c39142598395c) | 2026-05-26 13:48 |
 
 
 ---
