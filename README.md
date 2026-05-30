@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-30 16:06
+Last updated: 2026-05-30 17:58
 
 ### 🚀 Daily Job Matches
 
@@ -884,12 +884,6 @@ Last updated: 2026-05-30 16:06
 | Recutify Inc. | Senior AI Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ee880f838d01800) | 2026-05-26 19:57 |
 | Lila Sciences | Senior Software Engineer, Data | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b975973860fe466c) | 2026-05-26 19:57 |
 | Lila Sciences | Senior Software Engineer, Data | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b47adc71ffc989c2) | 2026-05-26 19:57 |
-| Mars Technominds | BI Solutions Architect | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aaa071bc6a31ae41) | 2026-05-26 17:21 |
-| Striim | Sr Field Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=960f767365c3fdc0) | 2026-05-26 17:21 |
-| Allruva Technology Services | Big Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a3fc6d4b0669cc2e) | 2026-05-26 17:21 |
-| Smart Tech Skills LLC | Snowflake Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=002369ff092a4302) | 2026-05-26 17:21 |
-| Fustis LLC | Senior Analytics Engineer | El Paso, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e887fffa7d23b98) | 2026-05-26 17:21 |
-| Finalcover LLC | Senior Software Engineer – Backend | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=254d43c61e4dbbb4) | 2026-05-26 17:21 |
 
 
 ---
