@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-30 22:49
+Last updated: 2026-05-30 23:53
 
 ### 🚀 Daily Job Matches
 
@@ -850,10 +850,6 @@ Last updated: 2026-05-30 22:49
 | Replit | Security Engineer - Vuln Management (Infra) | Foster City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06f8e63a431463bc) | 2026-05-27 02:35 |
 | Trillium Health Resources | Business Informatics Support Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed909357965ec568) | 2026-05-27 02:35 |
 | Trillium Health Resources | Business Informatics Support Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a49347bb46652a75) | 2026-05-27 02:35 |
-| Rockwell Automation | Senior Agentic AI Architect/Engineer | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cc83cb585d053a0f) | 2026-05-26 23:02 |
-| Kohl's | Senior Data Engineer | Menomonee Falls, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=877d45e3d1a625d6) | 2026-05-26 23:02 |
-| Pearson | Data Engineer II | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b8a567bdd35f252) | 2026-05-26 23:02 |
-| Nexstar Media Group, Inc. | AI/ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b532541851ceb06) | 2026-05-26 23:02 |
 
 
 ---
