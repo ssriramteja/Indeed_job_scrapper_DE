@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-31 02:36
+Last updated: 2026-05-31 06:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Guidewire | Senior AI/ML Platform Engineer | San Mateo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c8ebbbc1d7b8af0a) | 2026-05-31 06:51 |
 | Deloitte | Software Engineer III- AI & Engineering/Software as a Service | Arlington, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb5357934afa21e5) | 2026-05-31 02:36 |
 | Deloitte | Software Engineer III- AI & Engineering/Software as a Service | Fort Worth, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d6c4a730c4213f26) | 2026-05-31 02:36 |
 | Deloitte | Software Engineer III- AI & Engineering/Software as a Service | Wichita, KS, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=496001bd37adfeff) | 2026-05-31 02:36 |

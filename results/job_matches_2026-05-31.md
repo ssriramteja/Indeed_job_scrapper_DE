@@ -1,44 +1,11 @@
 # 🎯 Daily Job Matches — 2026-05-31
 
-**Total Jobs Found:** 104
+**Total Jobs Found:** 99
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Associate Data Solutions Architect @ Boeing
-**Match Score:** 22.9%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, Kinesis, Redshift, S3, RDS, Google Cloud Platform, GCP, BigQuery
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c6c665018c2e31d8)
-
----
-
-## 2. Full Stack Developer / AI Focused @ CarParts.com
-**Match Score:** 19.4%
-
-📍 **Location:** Long Beach, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, Scala, Kafka, PostgreSQL, MySQL, MongoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c61c6b86bc3293d8)
-
----
-
-## 3. Cloud & Digital Platform DevSecOps Engineer @ Diality
-**Match Score:** 18.8%
-
-📍 **Location:** Irvine, CA, US USA
-
-🔑 **Keywords:** AWS, Lambda, Redshift, S3, SQS, SNS, API Gateway, ECS, IAM, RDS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=905414e7ceb13800)
-
----
-
-## 4. Senior IT Data Engineer @ Diverse Agile Solutions
+## 1. Senior IT Data Engineer @ Diverse Agile Solutions
 **Match Score:** 16.7%
 
 📍 **Location:** Washington, DC, US USA
@@ -49,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior IT Big Data Developer @ Diverse Agile Solutions
+## 2. Senior IT Big Data Developer @ Diverse Agile Solutions
 **Match Score:** 16.7%
 
 📍 **Location:** Washington, DC, US USA
@@ -60,7 +27,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 3. Senior AI/ML Platform Engineer @ Guidewire
+**Match Score:** 15.3%
+
+📍 **Location:** San Mateo, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Vertex AI, Spark, Scala, Kafka, MLOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c8ebbbc1d7b8af0a)
+
+---
+
+## 4. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Arlington, VA, US USA
@@ -71,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 5. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -82,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 6. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Wichita, KS, US USA
@@ -93,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 7. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Richmond, VA, US USA
@@ -104,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 8. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Morristown, NJ, US USA
@@ -115,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 9. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** McLean, VA, US USA
@@ -126,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 10. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -137,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 11. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Seattle, WA, US USA
@@ -148,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 12. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Houston, TX, US USA
@@ -159,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 13. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Hermitage, TN, US USA
@@ -170,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 14. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Nashville, TN, US USA
@@ -181,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 15. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Austin, TX, US USA
@@ -192,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 16. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -203,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 17. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Dallas, TX, US USA
@@ -214,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 18. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -225,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 19. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Portland, OR, US USA
@@ -236,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 20. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Columbus, OH, US USA
@@ -247,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 21. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -258,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 22. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Dayton, OH, US USA
@@ -269,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 23. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Tulsa, OK, US USA
@@ -280,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 24. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -291,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 25. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Princeton, NJ, US USA
@@ -302,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 26. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -313,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 27. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -324,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 28. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** New York, NY, US USA
@@ -335,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 29. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Lansing, MI, US USA
@@ -346,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 30. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -357,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 31. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -368,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 32. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Chicago, IL, US USA
@@ -379,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 33. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Detroit, MI, US USA
@@ -390,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 34. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -401,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 35. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Boston, MA, US USA
@@ -412,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 36. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Baltimore, MD, US USA
@@ -423,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 37. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Grand Rapids, MI, US USA
@@ -434,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 38. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -445,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 39. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Miami, FL, US USA
@@ -456,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 40. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Des Moines, IA, US USA
@@ -467,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 41. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -478,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 42. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Tampa, FL, US USA
@@ -489,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 43. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -500,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 44. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Louisville, KY, US USA
@@ -511,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 45. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -522,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 46. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Boise, ID, US USA
@@ -533,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 47. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Stamford, CT, US USA
@@ -544,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 48. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Denver, CO, US USA
@@ -555,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 49. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Hartford, CT, US USA
@@ -566,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 50. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Fresno, CA, US USA
@@ -577,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 51. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -588,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 52. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Birmingham, AL, US USA
@@ -599,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 53. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Colorado Springs, CO, US USA
@@ -610,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
+## 54. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
 **Match Score:** 14.6%
 
 📍 **Location:** Huntsville, AL, US USA
@@ -621,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Data Engineer with AI/ML @ Optum
+## 55. Data Engineer with AI/ML @ Optum
 **Match Score:** 13.9%
 
 📍 **Location:** Minnetonka, MN, US USA
@@ -632,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. MLOps Engineer @ Entarian
+## 56. MLOps Engineer @ Entarian
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -643,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. Artificial Intelligence Integration Engineer @ Entarian
+## 57. Artificial Intelligence Integration Engineer @ Entarian
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -654,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. Artificial Intelligence Cybersecurity Engineer @ Entarian
+## 58. Artificial Intelligence Cybersecurity Engineer @ Entarian
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -665,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. MLOps Engineer @ Entarian
+## 59. MLOps Engineer @ Entarian
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -676,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. MLOps Engineer @ Entarian
+## 60. MLOps Engineer @ Entarian
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -687,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Senior Machine Learning Ops Engineer @ National Debt Relief
+## 61. Senior Machine Learning Ops Engineer @ National Debt Relief
 **Match Score:** 13.2%
 
 📍 **Location:** US USA
@@ -698,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Data Engineer Remote - w2 @ itheroes inc
+## 62. Data Engineer Remote - w2 @ itheroes inc
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -709,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Sr Product Software Engineer @ nan
+## 63. Sr Product Software Engineer @ nan
 **Match Score:** 12.5%
 
 📍 **Location:** Glendale, CA, US USA
@@ -720,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Senior Sales Engineer, Commercial @ Fivetran
+## 64. Senior Sales Engineer, Commercial @ Fivetran
 **Match Score:** 12.5%
 
 📍 **Location:** Denver, CO, US USA
@@ -731,18 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Senior Associate, Data Analytics Engineering @ Options Clearing Corporation
-**Match Score:** 11.8%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Snowflake, Data Modeling, ETL, dbt, Tableau, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1ad61eb5cd2a5633)
-
----
-
-## 68. BI Developer @ The Joint Commission
+## 65. BI Developer @ The Joint Commission
 **Match Score:** 11.1%
 
 📍 **Location:** Oak Brook, IL, US USA
@@ -753,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Software Engineer II- Full-stack Developer @ Deloitte
+## 66. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -764,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Software Engineer II- Full-stack Developer @ Deloitte
+## 67. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -775,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Software Engineer II- Full-stack Developer @ Deloitte
+## 68. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -786,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Software Engineer II- Full-stack Developer @ Deloitte
+## 69. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Richmond, VA, US USA
@@ -797,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Software Engineer II- Full-stack Developer @ Deloitte
+## 70. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -808,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Software Engineer II- Full-stack Developer @ Deloitte
+## 71. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Nashville, TN, US USA
@@ -819,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Software Engineer II- Full-stack Developer @ Deloitte
+## 72. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -830,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Software Engineer II- Full-stack Developer @ Deloitte
+## 73. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** McLean, VA, US USA
@@ -841,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Software Engineer II- Full-stack Developer @ Deloitte
+## 74. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Seattle, WA, US USA
@@ -852,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Software Engineer II- Full-stack Developer @ Deloitte
+## 75. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -863,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Software Engineer II- Full-stack Developer @ Deloitte
+## 76. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -874,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Software Engineer II- Full-stack Developer @ Deloitte
+## 77. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -885,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Software Engineer II- Full-stack Developer @ Deloitte
+## 78. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -896,7 +863,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Software Engineer II- Full-stack Developer @ Deloitte
+## 79. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -907,7 +874,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Software Engineer II- Full-stack Developer @ Deloitte
+## 80. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -918,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Software Engineer II- Full-stack Developer @ Deloitte
+## 81. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Detroit, MI, US USA
@@ -929,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Software Engineer II- Full-stack Developer @ Deloitte
+## 82. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -940,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Software Engineer II- Full-stack Developer @ Deloitte
+## 83. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -951,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Software Engineer II- Full-stack Developer @ Deloitte
+## 84. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Denver, CO, US USA
@@ -962,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Software Engineer II- Full-stack Developer @ Deloitte
+## 85. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Jose, CA, US USA
@@ -973,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Software Engineer II- Full-stack Developer @ Deloitte
+## 86. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tampa, FL, US USA
@@ -984,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Software Engineer II- Full-stack Developer @ Deloitte
+## 87. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Miami, FL, US USA
@@ -995,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Software Engineer II- Full-stack Developer @ Deloitte
+## 88. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Stamford, CT, US USA
@@ -1006,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Software Engineer II- Full-stack Developer @ Deloitte
+## 89. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -1017,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Software Engineer II- Full-stack Developer @ Deloitte
+## 90. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -1028,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Software Engineer II- Full-stack Developer @ Deloitte
+## 91. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -1039,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Software Engineer II- Full-stack Developer @ Deloitte
+## 92. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -1050,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Software Engineer II- Full-stack Developer @ Deloitte
+## 93. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Hartford, CT, US USA
@@ -1061,7 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Software Engineer II- Full-stack Developer @ Deloitte
+## 94. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1072,7 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Software Engineer II- Full-stack Developer @ Deloitte
+## 95. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Chicago, IL, US USA
@@ -1083,7 +1050,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. Database Engineer @ The Joint Commission
+## 96. Database Engineer @ The Joint Commission
 **Match Score:** 11.1%
 
 📍 **Location:** Oak Brook, IL, US USA
@@ -1094,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. Senior Software Development Engineer @ CVS Health
+## 97. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -1105,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Senior Software Development Engineer @ CVS Health
+## 98. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** NC, US USA
@@ -1116,29 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. DevOps Engineer - Mid @ Nalley Consulting
-**Match Score:** 10.4%
-
-📍 **Location:** Doral, FL, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Scala, CI/CD, Jenkins, AWS CodePipeline, Azure DevOps, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=35023775c057de52)
-
----
-
-## 103. Sr. Software Engineer - Shared Services @ HeroDevs
-**Match Score:** 10.4%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Scala, PostgreSQL, MySQL, NoSQL, CI/CD, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6847e3d78dab687e)
-
----
-
-## 104. Senior Software Engineer @ HealthEdge Software, Inc.
+## 99. Senior Software Engineer @ HealthEdge Software, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
