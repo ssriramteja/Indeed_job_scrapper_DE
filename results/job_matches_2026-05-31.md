@@ -687,18 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Analytics Engineer @ DoorDash
-**Match Score:** 13.2%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** Redshift, S3, RDS, Databricks, Hive, Spark, Scala, Snowflake, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f50dd3b28c07a04c)
-
----
-
-## 64. Software Engineer II, Data Engineering @ DoorDash
+## 63. Software Engineer II, Data Engineering @ DoorDash
 **Match Score:** 13.2%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -706,6 +695,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Redshift, RDS, GCP, Hive, Oozie, Spark, Scala, Kafka, Snowflake
 
 [Apply Here](https://www.indeed.com/viewjob?jk=cc30e0ac9bbb52ca)
+
+---
+
+## 64. Analytics Engineer @ DoorDash
+**Match Score:** 13.2%
+
+📍 **Location:** San Francisco, CA, US USA
+
+🔑 **Keywords:** Redshift, S3, RDS, Databricks, Hive, Spark, Scala, Snowflake, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f50dd3b28c07a04c)
 
 ---
 
