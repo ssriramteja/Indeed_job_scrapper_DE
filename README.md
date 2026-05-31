@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-31 13:16
+Last updated: 2026-05-31 15:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Wellhub | Senior Backend Software Engineer \| Achievements & Gamification | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa0b96826660e4c2) | 2026-05-31 13:16 |
+| Wellhub | Senior Backend Software Engineer \| Achievements & Gamification | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa0b96826660e4c2) | 2026-05-31 15:12 |
 | Peloton | Sr. SaaS Solutions Architect | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4058b3adc556b797) | 2026-05-31 09:43 |
 | DoorDash | Senior Software Engineer, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b0e08e23d0eaf7fd) | 2026-05-31 09:43 |
 | DoorDash | Software Engineer II, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cc30e0ac9bbb52ca) | 2026-05-31 09:43 |
@@ -897,17 +897,6 @@ Last updated: 2026-05-31 13:16
 | ICW Group | Senior Applied AI Engineer | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a1dc59f217f9fce) | 2026-05-27 17:52 |
 | Smart Tech Skills LLC | Azure Data Warehouse Architect | Tallahassee, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df60f817f0201540) | 2026-05-27 17:52 |
 | Clarity Innovations, LLC | Platform Engineering Architect - AI Automation | Jessup, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d32c274c61b107e) | 2026-05-27 17:52 |
-| Zoetis | Data Engineer | Parsippany-Troy Hills, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=87f70fa8d4be0571) | 2026-05-27 14:20 |
-| Bounteous | Full Stack Agentic AI Developer | Rockville, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e6782ecd37a1a284) | 2026-05-27 14:20 |
-| Castlight | Software Engineer 3 | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=770d98b3f2c61a3f) | 2026-05-27 14:20 |
-| Discount Tire | Pr AI Cloud Systems Engineer (RITM0479748) | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dc9dfce7125ed878) | 2026-05-27 14:20 |
-| Humana | Senior Software Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fd51c65d58c91761) | 2026-05-27 14:20 |
-| Humana | Senior Software Engineer | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=66c6d1fd76fe3448) | 2026-05-27 14:20 |
-| LTIMindtree | Specialist - Architecture | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a0a72f863d410844) | 2026-05-27 14:20 |
-| nan | Sr Software Engineer | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e62a0487a6b58cf5) | 2026-05-27 14:20 |
-| Specialty Building Products | Senior Full Stack Application Developer | Duluth, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6435e356286a621f) | 2026-05-27 14:20 |
-| Oracle | Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8dc47a59b46765c) | 2026-05-27 14:20 |
-| Fullstack Academy | Instuctor , Cloud Computing & Devops(CCDO) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81ff13fcbdc21173) | 2026-05-27 14:20 |
 
 
 ---
