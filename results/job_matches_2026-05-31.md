@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-05-31
 
-**Total Jobs Found:** 103
+**Total Jobs Found:** 104
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -610,7 +610,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. MLOps Engineer @ Entarian
+## 56. MS Server/Networking @ nan
+**Match Score:** 13.9%
+
+📍 **Location:** La Mesa, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=29bfb74f7babb87c)
+
+---
+
+## 57. MLOps Engineer @ Entarian
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -621,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Artificial Intelligence Integration Engineer @ Entarian
+## 58. Artificial Intelligence Integration Engineer @ Entarian
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -632,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. Artificial Intelligence Cybersecurity Engineer @ Entarian
+## 59. Artificial Intelligence Cybersecurity Engineer @ Entarian
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -643,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. MLOps Engineer @ Entarian
+## 60. MLOps Engineer @ Entarian
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -654,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. MLOps Engineer @ Entarian
+## 61. MLOps Engineer @ Entarian
 **Match Score:** 13.9%
 
 📍 **Location:** Arlington, VA, US USA
@@ -665,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Senior Software Engineer, Data Engineering @ DoorDash
+## 62. Senior Software Engineer, Data Engineering @ DoorDash
 **Match Score:** 13.2%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -673,17 +684,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Redshift, RDS, GCP, Hive, Oozie, Spark, Scala, Kafka, Snowflake
 
 [Apply Here](https://www.indeed.com/viewjob?jk=b0e08e23d0eaf7fd)
-
----
-
-## 62. Software Engineer II, Data Engineering @ DoorDash
-**Match Score:** 13.2%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** AWS, Redshift, RDS, GCP, Hive, Oozie, Spark, Scala, Kafka, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cc30e0ac9bbb52ca)
 
 ---
 
@@ -698,7 +698,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Senior Machine Learning Ops Engineer @ National Debt Relief
+## 64. Software Engineer II, Data Engineering @ DoorDash
+**Match Score:** 13.2%
+
+📍 **Location:** San Francisco, CA, US USA
+
+🔑 **Keywords:** AWS, Redshift, RDS, GCP, Hive, Oozie, Spark, Scala, Kafka, Snowflake
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cc30e0ac9bbb52ca)
+
+---
+
+## 65. Senior Machine Learning Ops Engineer @ National Debt Relief
 **Match Score:** 13.2%
 
 📍 **Location:** US USA
@@ -709,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Data Engineer Remote - w2 @ itheroes inc
+## 66. Data Engineer Remote - w2 @ itheroes inc
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -720,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Senior Machine Learning Engineer, Shield @ Box
+## 67. Senior Machine Learning Engineer, Shield @ Box
 **Match Score:** 11.8%
 
 📍 **Location:** Redwood City, CA, US USA
@@ -731,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. BI Developer @ The Joint Commission
+## 68. BI Developer @ The Joint Commission
 **Match Score:** 11.1%
 
 📍 **Location:** Oak Brook, IL, US USA
@@ -742,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. Solutions Integration Engineer IV @ Samsara
+## 69. Solutions Integration Engineer IV @ Samsara
 **Match Score:** 11.1%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -753,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Software Engineer II- Full-stack Developer @ Deloitte
+## 70. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -764,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Software Engineer II- Full-stack Developer @ Deloitte
+## 71. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -775,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Software Engineer II- Full-stack Developer @ Deloitte
+## 72. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -786,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Software Engineer II- Full-stack Developer @ Deloitte
+## 73. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Richmond, VA, US USA
@@ -797,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Software Engineer II- Full-stack Developer @ Deloitte
+## 74. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -808,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Software Engineer II- Full-stack Developer @ Deloitte
+## 75. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Nashville, TN, US USA
@@ -819,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Software Engineer II- Full-stack Developer @ Deloitte
+## 76. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -830,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Software Engineer II- Full-stack Developer @ Deloitte
+## 77. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** McLean, VA, US USA
@@ -841,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Software Engineer II- Full-stack Developer @ Deloitte
+## 78. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Seattle, WA, US USA
@@ -852,7 +863,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Software Engineer II- Full-stack Developer @ Deloitte
+## 79. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -863,7 +874,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Software Engineer II- Full-stack Developer @ Deloitte
+## 80. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -874,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Software Engineer II- Full-stack Developer @ Deloitte
+## 81. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -885,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Software Engineer II- Full-stack Developer @ Deloitte
+## 82. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -896,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Software Engineer II- Full-stack Developer @ Deloitte
+## 83. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -907,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Software Engineer II- Full-stack Developer @ Deloitte
+## 84. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -918,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Software Engineer II- Full-stack Developer @ Deloitte
+## 85. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Detroit, MI, US USA
@@ -929,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Software Engineer II- Full-stack Developer @ Deloitte
+## 86. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -940,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Software Engineer II- Full-stack Developer @ Deloitte
+## 87. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -951,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Software Engineer II- Full-stack Developer @ Deloitte
+## 88. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Denver, CO, US USA
@@ -962,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Software Engineer II- Full-stack Developer @ Deloitte
+## 89. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Jose, CA, US USA
@@ -973,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Software Engineer II- Full-stack Developer @ Deloitte
+## 90. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tampa, FL, US USA
@@ -984,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Software Engineer II- Full-stack Developer @ Deloitte
+## 91. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Miami, FL, US USA
@@ -995,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Software Engineer II- Full-stack Developer @ Deloitte
+## 92. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Stamford, CT, US USA
@@ -1006,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Software Engineer II- Full-stack Developer @ Deloitte
+## 93. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -1017,7 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Software Engineer II- Full-stack Developer @ Deloitte
+## 94. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -1028,7 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Software Engineer II- Full-stack Developer @ Deloitte
+## 95. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -1039,7 +1050,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Software Engineer II- Full-stack Developer @ Deloitte
+## 96. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -1050,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Software Engineer II- Full-stack Developer @ Deloitte
+## 97. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Hartford, CT, US USA
@@ -1061,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Software Engineer II- Full-stack Developer @ Deloitte
+## 98. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1072,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Software Engineer II- Full-stack Developer @ Deloitte
+## 99. Software Engineer II- Full-stack Developer @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Chicago, IL, US USA
@@ -1083,7 +1094,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. Senior Software Engineer, Search Relevance @ Box
+## 100. Senior Software Engineer, Search Relevance @ Box
 **Match Score:** 10.4%
 
 📍 **Location:** Redwood City, CA, US USA
@@ -1094,7 +1105,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. Applications Engineer, Full Stack - People @ DoorDash
+## 101. Applications Engineer, Full Stack - People @ DoorDash
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1105,7 +1116,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Senior Backend Software Engineer | Achievements & Gamification @ Wellhub
+## 102. Senior Backend Software Engineer | Achievements & Gamification @ Wellhub
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1116,7 +1127,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. Senior Software Engineer @ HealthEdge Software, Inc.
+## 103. Senior Software Engineer @ HealthEdge Software, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1127,7 +1138,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. AI Software Engineer (Vehicle Engineering) @ SpaceX
+## 104. AI Software Engineer (Vehicle Engineering) @ SpaceX
 **Match Score:** 10.4%
 
 📍 **Location:** Hawthorne, CA, US USA

@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-31 16:57
+Last updated: 2026-05-31 17:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Wellhub | Senior Backend Software Engineer \| Achievements & Gamification | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa0b96826660e4c2) | 2026-05-31 16:57 |
+| nan | MS Server/Networking | La Mesa, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=29bfb74f7babb87c) | 2026-05-31 17:58 |
+| Wellhub | Senior Backend Software Engineer \| Achievements & Gamification | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa0b96826660e4c2) | 2026-05-31 17:58 |
 | Peloton | Sr. SaaS Solutions Architect | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4058b3adc556b797) | 2026-05-31 09:43 |
 | DoorDash | Senior Software Engineer, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b0e08e23d0eaf7fd) | 2026-05-31 09:43 |
 | DoorDash | Software Engineer II, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cc30e0ac9bbb52ca) | 2026-05-31 09:43 |
@@ -879,24 +880,6 @@ Last updated: 2026-05-31 16:57
 | Caterpillar | Senior IT Analyst Applications | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=16716305f57ba769) | 2026-05-27 20:01 |
 | Burlington Stores | Data Architect | Edgewater Park, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fc83920e558138a) | 2026-05-27 20:01 |
 | accrete | Junior AI Platform Engineer, Infrastrucure | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5496a0bc2b4bd3eb) | 2026-05-27 20:01 |
-| Transamerica | Specialist Software Engineer | Denver, CO, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6ff097337c23c8bf) | 2026-05-27 17:52 |
-| SEACORP | Data Lakehouse Architect | Manassas, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=790599fa002d6633) | 2026-05-27 17:52 |
-| TORC Robotics | Software Engineer, I - Data Engineering | Ann Arbor, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e2976c8aa5f80420) | 2026-05-27 17:52 |
-| Castlight | Software Engineer 3 | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2322ef59d1218d09) | 2026-05-27 17:52 |
-| Grand Circle Travel | Sr Data Engineer | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=54baeed1bb9bcd57) | 2026-05-27 17:52 |
-| Keystone Sports Construction | Full Stack Developer / Cloud Engineer | Phoenixville, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a6a62b9aa861f18b) | 2026-05-27 17:52 |
-| New Era Technology | Senior Azure Cloud & DevOps Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06c0ec6191f51dd9) | 2026-05-27 17:52 |
-| New Era Technology | Senior Azure Cloud & DevOps Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4a46908cd0a69c52) | 2026-05-27 17:52 |
-| New Era Technology | Senior Azure Cloud & DevOps Engineer | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d887191c1e6747a) | 2026-05-27 17:52 |
-| Newpage Digital Healthcare solutions | Senior Software Engineer- Forward Deployed | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bda2c2b8bdd5703d) | 2026-05-27 17:52 |
-| nan | Data Engineer | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ceb9d089a51d56c) | 2026-05-27 17:52 |
-| Cayuse Holdings | Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8383bcaf3f0d64cd) | 2026-05-27 17:52 |
-| BRUNT Workwear | Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d9a66e52ac0ae1b3) | 2026-05-27 17:52 |
-| BRUNT Workwear | Data Engineer | North Reading, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed9ff440388b3f76) | 2026-05-27 17:52 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f31a5af9350429b9) | 2026-05-27 17:52 |
-| ICW Group | Senior Applied AI Engineer | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a1dc59f217f9fce) | 2026-05-27 17:52 |
-| Smart Tech Skills LLC | Azure Data Warehouse Architect | Tallahassee, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df60f817f0201540) | 2026-05-27 17:52 |
-| Clarity Innovations, LLC | Platform Engineering Architect - AI Automation | Jessup, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d32c274c61b107e) | 2026-05-27 17:52 |
 
 
 ---
