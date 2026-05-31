@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-31 22:51
+Last updated: 2026-05-31 23:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Wellhub | Senior Backend Software Engineer \| Achievements & Gamification | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa0b96826660e4c2) | 2026-05-31 22:51 |
+| Wellhub | Senior Backend Software Engineer \| Achievements & Gamification | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa0b96826660e4c2) | 2026-05-31 23:59 |
 | SYSTECH USA | Senior DevOps Engineer | Glendale, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9e1fdd788472d792) | 2026-05-31 20:50 |
 | nan | MS Server/Networking | La Mesa, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=29bfb74f7babb87c) | 2026-05-31 17:58 |
 | Peloton | Sr. SaaS Solutions Architect | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4058b3adc556b797) | 2026-05-31 09:43 |
@@ -814,25 +814,6 @@ Last updated: 2026-05-31 22:51
 | Concentrix | Python Developer (Linux exp) | AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e597bdb9ca96785) | 2026-05-28 02:11 |
 | Concentrix | Python Developer (Linux exp) | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ffd439e16cc7656e) | 2026-05-28 02:11 |
 | Concentrix | Python Developer (Linux exp) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc23afb90236d1db) | 2026-05-28 02:11 |
-| Capgemini | AWS Data Engineer | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2c299fe3483f84e7) | 2026-05-27 23:55 |
-| Visa | Senior Software Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9cb5a838303cab7f) | 2026-05-27 23:55 |
-| Roku | Senior Software Engineer - Data Insights | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=79537138cc31fdfa) | 2026-05-27 23:55 |
-| American Bureau of Shipping (ABS) | Senior, Agentic AI Engineer | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c3681d29da27c86c) | 2026-05-27 23:55 |
-| Vanda Pharmaceuticals | Back End Developer | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=94127b7cba7e23df) | 2026-05-27 23:55 |
-| Snowflake | Senior Data Engineer - Product | Menlo Park, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d76a9122ce202148) | 2026-05-27 23:55 |
-| Capgemini | Dot Net Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=771ada6d7a170a6d) | 2026-05-27 23:55 |
-| OXIO | Site Reliability Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f004fa27cdbd27bd) | 2026-05-27 23:55 |
-| VeeRteq Solutions Inc. | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e5bdaa12fae92021) | 2026-05-27 23:55 |
-| Rivian | Senior Platform Engineer | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=affa4e6360039969) | 2026-05-27 23:55 |
-| National Carwash Solutions, Inc. | Senior Data Engineer | Wells, ME, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b93670fdfe811fb) | 2026-05-27 23:55 |
-| Availity, LLC. | DevOps Engineer V | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e68650fbc89cc24) | 2026-05-27 23:55 |
-| Dallas College | Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=555365aa6be21a1c) | 2026-05-27 23:55 |
-| Capgemini | Cloud Migration Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9cca8004915611a) | 2026-05-27 23:55 |
-| Capgemini | Senior Software Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=74971fc125810e95) | 2026-05-27 23:55 |
-| Allstate Insurance | Managing Engineer , Database & Platform - Remote | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d30f4ab12fb26c2) | 2026-05-27 23:55 |
-| SitelogIQ | Senior Data and Solutions Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cefa075363914f8) | 2026-05-27 23:55 |
-| Capgemini | SAS Developer (with Admin Background) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e1d837eef2e008b) | 2026-05-27 23:55 |
-| MongoDB | Software Engineer, Data Migration | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4cc849c83d3469f7) | 2026-05-27 23:55 |
 
 
 ---
