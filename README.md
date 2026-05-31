@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-31 21:51
+Last updated: 2026-05-31 22:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Wellhub | Senior Backend Software Engineer \| Achievements & Gamification | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa0b96826660e4c2) | 2026-05-31 21:51 |
+| Wellhub | Senior Backend Software Engineer \| Achievements & Gamification | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa0b96826660e4c2) | 2026-05-31 22:51 |
 | SYSTECH USA | Senior DevOps Engineer | Glendale, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9e1fdd788472d792) | 2026-05-31 20:50 |
 | nan | MS Server/Networking | La Mesa, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=29bfb74f7babb87c) | 2026-05-31 17:58 |
 | Peloton | Sr. SaaS Solutions Architect | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4058b3adc556b797) | 2026-05-31 09:43 |
@@ -833,18 +833,6 @@ Last updated: 2026-05-31 21:51
 | SitelogIQ | Senior Data and Solutions Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cefa075363914f8) | 2026-05-27 23:55 |
 | Capgemini | SAS Developer (with Admin Background) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e1d837eef2e008b) | 2026-05-27 23:55 |
 | MongoDB | Software Engineer, Data Migration | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4cc849c83d3469f7) | 2026-05-27 23:55 |
-| CSpring | Enterprise Data Warehouse (EDW) ETL/Data Engineer | US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=2655650a85cb9fcd) | 2026-05-27 22:25 |
-| Optum | Sr. Data Engineer | Eden Prairie, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e069ef7a7b20f315) | 2026-05-27 22:25 |
-| Tata Consultancy Services (TCS) | Java Developer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=95c2b1e94f1ace71) | 2026-05-27 22:25 |
-| Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2002a3bb054db4fd) | 2026-05-27 22:25 |
-| Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dae15109dd782046) | 2026-05-27 22:25 |
-| DNS Solutions Inc. | Power BI Developer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c46f3131e66c1a54) | 2026-05-27 22:25 |
-| Esri | Product Engineer II - Data Management | Redlands, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac5fcd43916fb352) | 2026-05-27 22:25 |
-| Optum | Sr. Data Engineer | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=903ff22fdc58906d) | 2026-05-27 22:25 |
-| Optum | Sr. Data Engineer | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fd2630a842cc6382) | 2026-05-27 22:25 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4720246dd1e23d07) | 2026-05-27 22:25 |
-| Mixpanel | Customer Success Architect | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=953ecd5971ae2bf1) | 2026-05-27 22:25 |
-| Fortegra | Senior Data Analyst | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5720513548105a7) | 2026-05-27 22:25 |
 
 
 ---
