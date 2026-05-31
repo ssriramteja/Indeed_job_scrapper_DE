@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-31 09:43
+Last updated: 2026-05-31 11:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Wellhub | Senior Backend Software Engineer \| Achievements & Gamification | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa0b96826660e4c2) | 2026-05-31 11:28 |
 | Peloton | Sr. SaaS Solutions Architect | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4058b3adc556b797) | 2026-05-31 09:43 |
 | DoorDash | Senior Software Engineer, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b0e08e23d0eaf7fd) | 2026-05-31 09:43 |
 | DoorDash | Software Engineer II, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cc30e0ac9bbb52ca) | 2026-05-31 09:43 |
@@ -16,7 +17,6 @@ Last updated: 2026-05-31 09:43
 | Axon | Software Engineer II, Cloud Engineering | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5b1a6d36f2381e4) | 2026-05-31 09:43 |
 | Box | Senior Software Engineer, Search Relevance | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=46e11d1a4c8f8f51) | 2026-05-31 09:43 |
 | DoorDash | Applications Engineer, Full Stack - People | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d67500eca1ae208b) | 2026-05-31 09:43 |
-| Wellhub | Senior Backend Software Engineer \| Achievements & Gamification | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa0b96826660e4c2) | 2026-05-31 09:43 |
 | Datadog | Senior Developer Advocate - Data Observability | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24166b9fe873f35e) | 2026-05-31 09:43 |
 | SpaceX | AI Software Engineer (Vehicle Engineering) | Hawthorne, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ae57e531c0d4208e) | 2026-05-31 09:43 |
 | Guidewire | Senior AI/ML Platform Engineer | San Mateo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c8ebbbc1d7b8af0a) | 2026-05-31 06:51 |
@@ -908,14 +908,6 @@ Last updated: 2026-05-31 09:43
 | Specialty Building Products | Senior Full Stack Application Developer | Duluth, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6435e356286a621f) | 2026-05-27 14:20 |
 | Oracle | Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8dc47a59b46765c) | 2026-05-27 14:20 |
 | Fullstack Academy | Instuctor , Cloud Computing & Devops(CCDO) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81ff13fcbdc21173) | 2026-05-27 14:20 |
-| nan | Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e523bf5a5bf5d62b) | 2026-05-27 10:51 |
-| Bessemer Trust | Senior Software Engineer | Woodbridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=774b596dfb394ced) | 2026-05-27 10:51 |
-| Holtzbrinck Publishing Group | Senior AI Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6553fe8d88b5cc2c) | 2026-05-27 10:51 |
-| Concentra | Engineer II, AWS Connect | Addison, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3acabec1c779e4f7) | 2026-05-27 10:51 |
-| DocuSign | Senior Software Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf6ec5c4dd06dea5) | 2026-05-27 10:51 |
-| Lila Sciences | Senior Software Engineer, App | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5acf07a00ef614c) | 2026-05-27 10:51 |
-| JPMorganChase | Data Scientist Associate – Product, Experience and Technology (PXT) Analytics Team | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e733ae2cd5148257) | 2026-05-27 10:51 |
-| Lila Sciences | Senior Software Engineer, Data | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e71383b94e86fbaa) | 2026-05-27 10:51 |
 
 
 ---
