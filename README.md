@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-05-31 06:51
+Last updated: 2026-05-31 09:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Peloton | Sr. SaaS Solutions Architect | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4058b3adc556b797) | 2026-05-31 09:43 |
+| DoorDash | Senior Software Engineer, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b0e08e23d0eaf7fd) | 2026-05-31 09:43 |
+| DoorDash | Software Engineer II, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cc30e0ac9bbb52ca) | 2026-05-31 09:43 |
+| DoorDash | Analytics Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f50dd3b28c07a04c) | 2026-05-31 09:43 |
+| Box | Senior Machine Learning Engineer, Shield | Redwood City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27d59ed7af29cac4) | 2026-05-31 09:43 |
+| Axon | Sr. Software Engineer I, Applied AI | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=405b65a4422a7305) | 2026-05-31 09:43 |
+| Samsara | Solutions Integration Engineer IV | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=865b851048dc7b7f) | 2026-05-31 09:43 |
+| Axon | Software Engineer II, Cloud Engineering | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5b1a6d36f2381e4) | 2026-05-31 09:43 |
+| Box | Senior Software Engineer, Search Relevance | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=46e11d1a4c8f8f51) | 2026-05-31 09:43 |
+| DoorDash | Applications Engineer, Full Stack - People | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d67500eca1ae208b) | 2026-05-31 09:43 |
+| Wellhub | Senior Backend Software Engineer \| Achievements & Gamification | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa0b96826660e4c2) | 2026-05-31 09:43 |
+| Datadog | Senior Developer Advocate - Data Observability | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24166b9fe873f35e) | 2026-05-31 09:43 |
+| SpaceX | AI Software Engineer (Vehicle Engineering) | Hawthorne, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ae57e531c0d4208e) | 2026-05-31 09:43 |
 | Guidewire | Senior AI/ML Platform Engineer | San Mateo, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c8ebbbc1d7b8af0a) | 2026-05-31 06:51 |
 | Deloitte | Software Engineer III- AI & Engineering/Software as a Service | Arlington, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb5357934afa21e5) | 2026-05-31 02:36 |
 | Deloitte | Software Engineer III- AI & Engineering/Software as a Service | Fort Worth, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d6c4a730c4213f26) | 2026-05-31 02:36 |
@@ -903,13 +916,6 @@ Last updated: 2026-05-31 06:51
 | Lila Sciences | Senior Software Engineer, App | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5acf07a00ef614c) | 2026-05-27 10:51 |
 | JPMorganChase | Data Scientist Associate – Product, Experience and Technology (PXT) Analytics Team | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e733ae2cd5148257) | 2026-05-27 10:51 |
 | Lila Sciences | Senior Software Engineer, Data | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e71383b94e86fbaa) | 2026-05-27 10:51 |
-| Qualcomm | Modem Machine Learning Engineer | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ed3f6235da80ec1d) | 2026-05-27 06:56 |
-| NTT DATA | AWS Data Engineer (Cloud Data Platform & Pipeline Specialist) (FTE / Onsite) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2feefef0c932976c) | 2026-05-27 06:56 |
-| Nordstrom | Senior Full Stack Software Engineer - Catalogs, Hierarchy & OrgMDM (Hybrid - Seattle, WA) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=83f82aaa0bacb5b1) | 2026-05-27 06:56 |
-| Capgemini | Senior DevOps Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab4df4e36af097a7) | 2026-05-27 06:56 |
-| Tata Consultancy Services (TCS) | Senior Full Stack Engineer | Mason, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=78902f746ba9d9e9) | 2026-05-27 06:56 |
-| Tata Consultancy Services (TCS) | Kafka Developer | Strongsville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cd25b4ca05cd6b8c) | 2026-05-27 06:56 |
-| CVS Health | Senior Software Development Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0f6f76b9337a13b3) | 2026-05-27 06:56 |
 
 
 ---
