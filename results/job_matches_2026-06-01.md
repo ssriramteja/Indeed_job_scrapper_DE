@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-06-01
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 8
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. MS Server/Networking @ nan
+## 1. Data Platform Engineer @ Block Labs
+**Match Score:** 18.8%
+
+📍 **Location:** Malta, MT, US USA
+
+🔑 **Keywords:** AWS, Glue, Redshift, Athena, S3, ECS, IAM, RDS, BigQuery, Spark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a8521c97662c0b57)
+
+---
+
+## 2. MS Server/Networking @ nan
 **Match Score:** 13.9%
 
 📍 **Location:** La Mesa, CA, US USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Data Architect - C2H - Onsite @ TEEMA
+## 3. Data Architect - C2H - Onsite @ TEEMA
 **Match Score:** 13.2%
 
 📍 **Location:** Flower Mound, TX, US USA
@@ -27,7 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior DevOps Engineer @ SYSTECH USA
+## 4. Senior DevOps Engineer @ William Blair & Company
+**Match Score:** 13.2%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, Scala, CI/CD, GitHub Actions, Azure DevOps, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=03c04b4f9272c367)
+
+---
+
+## 5. Senior DevOps Engineer @ SYSTECH USA
 **Match Score:** 13.2%
 
 📍 **Location:** Glendale, CA, US USA
@@ -38,14 +60,36 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Applied AI Engineer @ Paramount
-**Match Score:** 12.5%
+## 6. Senior Data & AI Engineer @ Material Bank
+**Match Score:** 10.4%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Boca Raton, FL, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, BigQuery, Vertex AI, Scala, MLOps, MLflow
+🔑 **Keywords:** AWS, Lambda, S3, ECS, IAM, RDS, Scala, Snowflake, Data Modeling, Dimensional Modeling
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c3a65fdc259b09f3)
+[Apply Here](https://www.indeed.com/viewjob?jk=a125832a9faf2b6d)
+
+---
+
+## 7. Senior Data & AI Engineer @ Material Bank
+**Match Score:** 10.4%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, ECS, IAM, RDS, Scala, Snowflake, Data Modeling, Dimensional Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=13f4639de61892c3)
+
+---
+
+## 8. Senior Data & AI Engineer @ Material Bank
+**Match Score:** 10.4%
+
+📍 **Location:** Fort Lauderdale, FL, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, ECS, IAM, RDS, Scala, Snowflake, Data Modeling, Dimensional Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=aaf0998b173a8e22)
 
 ---
 

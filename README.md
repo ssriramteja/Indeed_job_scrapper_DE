@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-01 09:28
+Last updated: 2026-06-01 15:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Block Labs | Data Platform Engineer | Malta, MT, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a8521c97662c0b57) | 2026-06-01 15:48 |
+| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03c04b4f9272c367) | 2026-06-01 15:48 |
+| Material Bank | Senior Data & AI Engineer | Boca Raton, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a125832a9faf2b6d) | 2026-06-01 15:48 |
+| Material Bank | Senior Data & AI Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13f4639de61892c3) | 2026-06-01 15:48 |
+| Material Bank | Senior Data & AI Engineer | Fort Lauderdale, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aaf0998b173a8e22) | 2026-06-01 15:48 |
 | TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c8b7749106eebc9f) | 2026-06-01 09:28 |
 | Paramount | Senior Applied AI Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3a65fdc259b09f3) | 2026-06-01 09:28 |
 | SYSTECH USA | Senior DevOps Engineer | Glendale, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9e1fdd788472d792) | 2026-05-31 20:50 |
@@ -635,21 +640,6 @@ Last updated: 2026-06-01 09:28
 | OMG Technology | Data Architect - Iselin, NJ (Hybrid) | Summit, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e17884e139d1340) | 2026-05-28 17:57 |
 | Japan Communications, inc - US | Senior Database Administrator | Englewood, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4f30af03c6caacb) | 2026-05-28 17:57 |
 | ServiceTitan | Senior AI Engineer (Agent OS Platform) | Sacramento, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e334cbfd67078a8) | 2026-05-28 17:57 |
-| Purpose Financial | Data Engineer | Greenville, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8de203e89eb9c66b) | 2026-05-28 14:30 |
-| nan | Sr Product Software Engineer | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15a29d0256393717) | 2026-05-28 14:30 |
-| CVS Health | Senior Software Development Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=db288f56e48736b6) | 2026-05-28 10:46 |
-| DrFirst | PostgreSQL Database Administrator | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=90f5afd899e8dd0f) | 2026-05-28 10:46 |
-| HumanIT Solutions LLC | Cleared Mid DevSecOps Engineer | Beavercreek, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c1de8fbff52f4c) | 2026-05-28 10:46 |
-| Law School Admission Council | Data Architect | Newtown, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4de630e39f231f22) | 2026-05-28 10:46 |
-| RadNet | Analytics Data Scientist | MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5374b0f8b1e51540) | 2026-05-28 10:46 |
-| CommunityAmerica Credit Union | Data Engineer | Lenexa, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e91167fb94b36fc) | 2026-05-28 10:46 |
-| Quarterhill | Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4949636e6e78aeb4) | 2026-05-28 10:46 |
-| Bloomberg Industry Group | Web Application Architect 4 (INDG) | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af35e473b5aa0bae) | 2026-05-28 10:46 |
-| GEICO | Machine Learning Engineer II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ccd38d8e3aeaa20) | 2026-05-28 10:46 |
-| GEICO | Machine Learning Engineer II | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97eeacc3f75acc9d) | 2026-05-28 10:46 |
-| GEICO | Machine Learning Engineer II | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cde0876b01f2068e) | 2026-05-28 10:46 |
-| Varda Space Industries | Applications Engineer - Engineering | El Segundo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=981c857c080d7a22) | 2026-05-28 10:46 |
-| Varda Space Industries | Applications Engineer - General | El Segundo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4033ae48b4f5a15) | 2026-05-28 10:46 |
 
 
 ---
