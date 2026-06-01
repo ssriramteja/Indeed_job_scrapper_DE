@@ -1,13 +1,41 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-01 15:48
+Last updated: 2026-06-01 20:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EXL Service | AWS DevOps Engineer | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=d8cb8e3e7f036669) | 2026-06-01 20:11 |
+| ICW Group | Data Engineer III | San Diego, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=727aba117da7b7a0) | 2026-06-01 20:11 |
+| Brillio LLC | AWS Kinesis Developer – R01565561 | St. Louis, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d5b01bb5faaa172a) | 2026-06-01 20:11 |
+| nan | Healthcare Integration Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3653f445e14812b8) | 2026-06-01 20:11 |
+| SmartTIX | Full Stack Software Developer | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a65fe6b467bcebd9) | 2026-06-01 20:11 |
+| Edgewater Federal Solutions | Senior IT Data Engineer | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=db0719f5d865d28c) | 2026-06-01 20:11 |
+| The Evolvers Group | Data Architect | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8263a31ade65f67d) | 2026-06-01 20:11 |
+| The Jackson Laboratory | Informatica Product Owner - Remote | Bar Harbor, ME, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=db23110a8baa26ec) | 2026-06-01 20:11 |
+| The Jackson Laboratory | Informatica Product Owner - Remote | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f22eadc10f98f86e) | 2026-06-01 20:11 |
+| The Jackson Laboratory | Informatica Product Owner - Remote | Farmington, CT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bc73b585f3756066) | 2026-06-01 20:11 |
+| The Jackson Laboratory | Informatica Product Owner - Remote | Alachua, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=031cba0efbfb272c) | 2026-06-01 20:11 |
+| The Jackson Laboratory | Informatica Product Owner - Remote | Portland, ME, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=356fb2d131354301) | 2026-06-01 20:11 |
+| Copart, Inc | Data & AI Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e70e856c1968e4a1) | 2026-06-01 20:11 |
+| SkySlope | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d3139e590b6a0719) | 2026-06-01 20:11 |
+| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03c04b4f9272c367) | 2026-06-01 20:11 |
+| Apollo Technology Solutions LLC | Cloud Engineer | Mechanicsburg, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b20eb19409e2893) | 2026-06-01 20:11 |
+| Ribbon Communications | Software Engineer (Co-op) | Westford, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a073e33a9128dc9) | 2026-06-01 20:11 |
+| nan | Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d60d1f21a4e182da) | 2026-06-01 20:11 |
+| Liberty Mutual Insurance | Senior Data Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d74fea61e0c268af) | 2026-06-01 20:11 |
+| Brotherhood Mutual Insurance Company | Data Engineer II | Fort Wayne, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae07d8ce5e9b6c72) | 2026-06-01 20:11 |
+| Epsilon | Senior Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55697a169692173b) | 2026-06-01 20:11 |
+| EDB | Solutions Engineer(Python/Airflow) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebdbfaeb882fcaf7) | 2026-06-01 20:11 |
+| First Orion | Cloud & DevOps Engineer | North Little Rock, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53bbcc678b9b2126) | 2026-06-01 20:11 |
+| AIG GLOBAL OPERATIONS, INC. | SDN Automation Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=924a8a8705d9e686) | 2026-06-01 20:11 |
+| AIG GLOBAL OPERATIONS, INC. | SDN Automation Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07cd611e4010c8c8) | 2026-06-01 20:11 |
+| AIG GLOBAL OPERATIONS, INC. | SDN Automation Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d9430066096f6a2) | 2026-06-01 20:11 |
+| AIG GLOBAL OPERATIONS, INC. | SDN Automation Engineer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e809e3665c70de7d) | 2026-06-01 20:11 |
+| jamf | Senior Site Reliability Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=476d52c54642bad6) | 2026-06-01 20:11 |
+| Bloomberg | Senior Software Engineer – ClickHouse Infrastructure | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d09956aa680bb5f9) | 2026-06-01 20:11 |
 | Block Labs | Data Platform Engineer | Malta, MT, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a8521c97662c0b57) | 2026-06-01 15:48 |
-| William Blair & Company | Senior DevOps Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03c04b4f9272c367) | 2026-06-01 15:48 |
 | Material Bank | Senior Data & AI Engineer | Boca Raton, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a125832a9faf2b6d) | 2026-06-01 15:48 |
 | Material Bank | Senior Data & AI Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13f4639de61892c3) | 2026-06-01 15:48 |
 | Material Bank | Senior Data & AI Engineer | Fort Lauderdale, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aaf0998b173a8e22) | 2026-06-01 15:48 |
@@ -631,15 +659,6 @@ Last updated: 2026-06-01 15:48
 | ritepros | Data Engineer | Portland, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dcc9efb7bf0927cb) | 2026-05-28 20:12 |
 | The Carlyle Group | Data & AI Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=528c2154e24d1767) | 2026-05-28 20:12 |
 | accrete | Junior DevOps Engineer, AI Platform | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a73266d2d7d833b4) | 2026-05-28 20:12 |
-| Great American Insurance Group | Senior Cloud Engineer - AWS | Cincinnati, OH, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=84652629b44e36b8) | 2026-05-28 17:57 |
-| UnitedHealthcare | Senior Data Engineer | Eden Prairie, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8021a2f04b182e3d) | 2026-05-28 17:57 |
-| Federal Reserve Bank of Richmond | Alteryx Developer | Richmond, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=965d63ad9e6e8691) | 2026-05-28 17:57 |
-| West Monroe | Senior Architect, Data Engineering | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9e2de466e9ede227) | 2026-05-28 17:57 |
-| West Monroe | Senior Architect, Data Engineering | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=804201ad9e2469c9) | 2026-05-28 17:57 |
-| West Monroe | Senior Architect, Data Engineering | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b010f440df2e098) | 2026-05-28 17:57 |
-| OMG Technology | Data Architect - Iselin, NJ (Hybrid) | Summit, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e17884e139d1340) | 2026-05-28 17:57 |
-| Japan Communications, inc - US | Senior Database Administrator | Englewood, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4f30af03c6caacb) | 2026-05-28 17:57 |
-| ServiceTitan | Senior AI Engineer (Agent OS Platform) | Sacramento, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e334cbfd67078a8) | 2026-05-28 17:57 |
 
 
 ---
