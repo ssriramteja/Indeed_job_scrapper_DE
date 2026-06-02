@@ -1,13 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-02 21:42
+Last updated: 2026-06-02 23:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Emmes Company, LLC | AI Data Engineer | Rockville, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=34ab205482e4b0a3) | 2026-06-02 23:28 |
+| CareMetx, LLC | Senior Engineer I, DevOps | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f1f343c9a6ac4261) | 2026-06-02 23:28 |
+| Amphenol | Data Engineer | Nashua, NH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=324835225383dd25) | 2026-06-02 23:28 |
+| Konexus, Inc. | Junior DevOps Engineer | Eagle, ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=01891cd9bc4d364f) | 2026-06-02 23:28 |
+| Warner Bros. Discovery | Senior Full Stack JS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff84a48bf7f2b214) | 2026-06-02 23:28 |
+| Warner Bros. Discovery | Senior Full Stack JS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2a341fbae4ab3a40) | 2026-06-02 23:28 |
+| Warner Bros. Discovery | Senior Full Stack JS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2d370271ca54d590) | 2026-06-02 23:28 |
+| Warner Bros. Discovery | Senior Full Stack JS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8dc0480a620e54b0) | 2026-06-02 23:28 |
+| Warner Bros. Discovery | Senior Full Stack JS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=aa8f514248ec1f9f) | 2026-06-02 23:28 |
+| Regions Financial | Cloud DevSecOps Engineer | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2907e0725b12b84d) | 2026-06-02 23:28 |
+| Hilton | Data Engineer (contract) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=09530a3bb367b138) | 2026-06-02 23:28 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de8841e4e75fbe68) | 2026-06-02 23:28 |
+| NTT DATA | Senior Cloud Technical Architect | Southfield, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5cc613361b67cb34) | 2026-06-02 23:28 |
+| Five Below | Solutions Architect - AI | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=538c5daa04e61b19) | 2026-06-02 23:28 |
+| Roche | AI Full Stack Engineer | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5a65f6db57ee3cc) | 2026-06-02 23:28 |
+| Capgemini | Java Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6e1b874414bff22) | 2026-06-02 23:28 |
+| Ford Motor Company | Senior Software Engineer -Ford Pro Intelligence | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48384f9bd2f18aa4) | 2026-06-02 23:28 |
 | Mayo Clinic | Senior Data Engineer - API Platform Engineer - CDH | Rochester, MN, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d846903d81c33e82) | 2026-06-02 21:42 |
-| The Emmes Company, LLC | AI Data Engineer | Rockville, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=34ab205482e4b0a3) | 2026-06-02 21:42 |
 | Optum | Full Stack and AI Engineer | Basking Ridge, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6f94b5acff92730) | 2026-06-02 21:42 |
 | Varonis Systems | DevOps Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d05047e3838d26d9) | 2026-06-02 21:42 |
 | Mayo Clinic | Data Engineer - API Platform Engineer - CDH | Rochester, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=edb333da77c178b4) | 2026-06-02 21:42 |
@@ -22,7 +38,6 @@ Last updated: 2026-06-02 21:42
 | SOSi | Data Layer Engineer | Doral, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e045fbd4ef10a7c1) | 2026-06-02 21:42 |
 | Visa | Sr. SW Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d05d8b56b72079c9) | 2026-06-02 21:42 |
 | Fashion Nova | Senior Data Engineer | Beverly Hills, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b80f5d754f1ffd13) | 2026-06-02 21:42 |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de8841e4e75fbe68) | 2026-06-02 21:42 |
 | Innodata | Data Engineer | Ridgefield Park, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0ca03311ac42217) | 2026-06-02 21:42 |
 | Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b9faea0d55a841c9) | 2026-06-02 21:42 |
 | Wells Fargo | Senior Software Engineer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2abbc5f73ae2028d) | 2026-06-02 21:42 |
@@ -36,7 +51,6 @@ Last updated: 2026-06-02 21:42
 | NTT DATA | .Net Fullstack Developer | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d011c6ed693c14f) | 2026-06-02 21:42 |
 | Capgemini | Data Engineer (Snowflake, AWS Glue Specialist) | Fort Mill, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b40fca841a484a98) | 2026-06-02 21:42 |
 | Franciscan Health | Data System Engineer | Mishawaka, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29a623330902562d) | 2026-06-02 21:42 |
-| Ford Motor Company | Senior Software Engineer -Ford Pro Intelligence | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48384f9bd2f18aa4) | 2026-06-02 21:42 |
 | Hilton | Cloud & AI Platform Architect (contract) | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4035741c18917073) | 2026-06-02 18:32 |
 | Volantsoft Inc | AWS Full Stack Developer W Amazon Kinesis & AWS Connect - Remote Role | Lawrenceville, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e182003963ce0897) | 2026-06-02 18:32 |
 | United Concordia Dental | Senior Data Engineer | PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8fc2c674a4afffb4) | 2026-06-02 18:32 |
@@ -601,100 +615,6 @@ Last updated: 2026-06-02 21:42
 | Five Below | Ai Architect | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45b842ee858dea9c) | 2026-05-30 02:10 |
 | Databricks | Senior Software Engineer - Application Traffic team | Mountain View, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dc893f4e11c92275) | 2026-05-30 02:10 |
 | nan | Senior Applied AI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3ac436669ece2e5) | 2026-05-30 02:10 |
-| FCT | Senior Data Engineer (Remote in CA) | Santa Ana, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=096ec33d45508f2d) | 2026-05-29 23:04 |
-| FCT | Senior Data Engineer (Remote in CA) | CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b88c69f0d47a40e9) | 2026-05-29 23:04 |
-| Databricks | Specialist Solutions Architect - Data Engineering & Warehousing | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=47fb9412169ca299) | 2026-05-29 23:04 |
-| Boeing | Senior Data Solutions Architect | Tukwila, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9bd4faeed9a50a59) | 2026-05-29 23:04 |
-| Harley-Davidson, Inc. | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8cd2d99f50f24a3c) | 2026-05-29 23:04 |
-| Databricks | Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences) | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1aa9a1ae247379c0) | 2026-05-29 23:04 |
-| Aptean | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ef802648dc8c758d) | 2026-05-29 23:04 |
-| nan | Sr. DevOps Engineer- Snowflake & Azure | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=763fd8f53ea47c3f) | 2026-05-29 23:04 |
-| Databricks | Sr. Solutions Architect - Emerging | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7afdce6cf8faaddf) | 2026-05-29 23:04 |
-| Databricks | Sr. Solutions Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c8ce1a2957006a72) | 2026-05-29 23:04 |
-| Databricks | Specialist Solutions Architect - Cloud Infrastructure & Platform | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee0bc73a9e9547ac) | 2026-05-29 23:04 |
-| Walgreens | Software Engineer II - Full Stack Java | Deerfield, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2c274b0f05e69603) | 2026-05-29 23:04 |
-| NRCCUA | DevOps Engineer, II | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e257db597eccae8d) | 2026-05-29 23:04 |
-| Databricks | Sr. Solutions Engineer - GSI's and FinTech Data | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=44ec35e1f7566eb4) | 2026-05-29 23:04 |
-| Databricks | Solutions Architect - Emerging Enterprise (Startups) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f72901b7b29fed1) | 2026-05-29 23:04 |
-| Databricks | Sr. Solutions Engineer - Financial Services (Insurance) | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df17d8e1960c7150) | 2026-05-29 23:04 |
-| Databricks | Solutions Architect - Emerging Enterprise | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05e7797d12dd5834) | 2026-05-29 23:04 |
-| Databricks | Sr. Solutions Architect - Financial Services (Wealth and Asset Management) | MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b25a6a580453b9d6) | 2026-05-29 23:04 |
-| Databricks | Solutions Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7a9b5d614307098) | 2026-05-29 23:04 |
-| Databricks | Solutions Architect - MFG | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4aad818a2ea4d82e) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Digital Native Business | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=604425795ad5683a) | 2026-05-29 23:04 |
-| Databricks | Solutions Architect - Public Sector (SLED) | Central, LA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ff1bc3eed7d9ae60) | 2026-05-29 23:04 |
-| Databricks | Sr. Solutions Architect - Public Sector (SLED) | NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a7b19a38637eb42) | 2026-05-29 23:04 |
-| Databricks | Sr. Solutions Architect - Public Sector (SLED) | IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c37498a6699ecacb) | 2026-05-29 23:04 |
-| Costco Wholesale | BI Engineer - Data Analytics | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca97d35c293c8ce6) | 2026-05-29 23:04 |
-| Gesa Credit Union | Sr. Data Engineer | Spokane Valley, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05b11f37b58c06df) | 2026-05-29 23:04 |
-| Gesa Credit Union | Sr. Data Engineer | Renton, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e166dda8b8fb2c2) | 2026-05-29 23:04 |
-| Gesa Credit Union | Sr. Data Engineer | Richland, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=38d66edddd66e10c) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85ead362a062186e) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Manufacturing | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a09c3cec51934e4) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=38625ef404e5c4f3) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7e1163fe26a7f0c) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Healthcare & Life Sciences | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=300acc8c1eb7c502) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f223dfd349f07c12) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Financial Services | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=91a31dc96a52eccd) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7db4000add37c391) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Healthcare & Life Sciences | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7770787ca90c8b1) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Manufacturing | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bab1eb82e51a467) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Financial Services | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=427fc18bf3e71e29) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Manufacturing | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a54c94417b741d3) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Financial Services | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9586c99c5eb6653) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=37f9f241665f8f25) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdd06f296c307d2e) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4297244e8d171dc) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Financial Services | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e6fbdbfa7f478c1e) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0759cd4fbd6bdac8) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Financial Services | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94317beda0e6b715) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b8ceabdc300636a) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=822d767e26112ada) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Healthcare & Life Sciences | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81b64f7562795fab) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Healthcare & Life Sciences | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d113953416ca6dbb) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Manufacturing | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0fc84e05f0d0c4f9) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Financial Services | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1ed17e2895f23aa) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Healthcare & Life Sciences | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9519050e585036f9) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=22686cead31117d5) | 2026-05-29 23:04 |
-| Databricks | Sr. Resident Solutions Architect | Central, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75153db402f3d420) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e46c18319f67321a) | 2026-05-29 23:04 |
-| Databricks | Resident Solutions Architect - Communications, Media, Entertainment & Games | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=687bf527e281aa97) | 2026-05-29 23:04 |
-| McKesson | Database Architect | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64c482ee7d2fd8be) | 2026-05-29 23:04 |
-| Databricks | Solutions Architect - Digital Native Business, Strategic | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42e61be032685e36) | 2026-05-29 23:04 |
-| Databricks | Sr. Solutions Architect - Strategic AI Native | AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e74525fcfa96e5a) | 2026-05-29 23:04 |
-| Databricks | Sr. Solutions Engineer - AI Natives Business | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d884fcaeec353d16) | 2026-05-29 23:04 |
-| Databricks | Sr. Solutions Architect - AI Natives Business | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29b6a8557301e33c) | 2026-05-29 23:04 |
-| PNC Financial Services Group | Software Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80790f8d8ef27b8d) | 2026-05-29 23:04 |
-| Zoom Communications | Software Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6b981d8b3e30244) | 2026-05-29 23:04 |
-| Neomax | Software Developer | McLean, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7d54cb6fb55273d2) | 2026-05-29 21:46 |
-| U.S. Venture, Inc. | Senior Data Engineer - IGEN | Appleton, WI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ad0ca36351ff88fb) | 2026-05-29 21:46 |
-| Neomax | Systems Engineer | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0761c7021676d118) | 2026-05-29 21:46 |
-| The Jackson Laboratory | Informatica Product Owner - Remote | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1cd40cf715d1757e) | 2026-05-29 21:46 |
-| The Jackson Laboratory | Informatica Product Owner - Remote | Portland, ME, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c3efe7a4e50700ee) | 2026-05-29 21:46 |
-| The Jackson Laboratory | Informatica Product Owner - Remote | Alachua, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3185efffc8151880) | 2026-05-29 21:46 |
-| The Jackson Laboratory | Informatica Product Owner - Remote | Bar Harbor, ME, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b53f7ddb0026dea4) | 2026-05-29 21:46 |
-| The Jackson Laboratory | Informatica Product Owner - Remote | Farmington, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bbf3b9815a50b381) | 2026-05-29 21:46 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Tulsa, OK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=17cb9776bd0e7f4a) | 2026-05-29 21:46 |
-| Echo Global Logistics | Sr Data Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eae8bcb49c9597d5) | 2026-05-29 21:46 |
-| andrew morgan | AI Engineer/Solution Architect | Arlington, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7604b89af99ba406) | 2026-05-29 21:46 |
-| Metropolis | Senior Software Engineer, Product Foundations | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dd2bfc17d54981e1) | 2026-05-29 21:46 |
-| Metropolis | Senior Software Engineer, Product Foundations | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0277abc185dfb7c6) | 2026-05-29 21:46 |
-| Castlight | Software Engineer 4 | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ce519e36124f5ab) | 2026-05-29 21:46 |
-| Global Payments | Full Stack Developer -In office, Alpharetta, GA | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=adcfd5cf564b5b00) | 2026-05-29 21:46 |
-| Alliance Health Plan | Cloud Data Architect (Full-time Remote, NC Based) | Morrisville, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cb114578f5bf1e9) | 2026-05-29 21:46 |
-| Castlight | Software Engineer 4 | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b5023cf7cd4ba777) | 2026-05-29 21:46 |
-| Fivetran | Senior Sales Engineer, Commercial | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b6c3be2d26b87a0) | 2026-05-29 21:46 |
-| Encoura | DevOps Engineer, II | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=22172251f6a1ea83) | 2026-05-29 21:46 |
-| Crane Worldwide Logistics | Sr. Integration Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=606aeb761182bb83) | 2026-05-29 21:46 |
-| Neomax | Systems Engineer | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a2644095339b05a5) | 2026-05-29 21:46 |
-| General Motors (GM) | Cost Engineer – Data Analytics | Warren, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69730719f6ab06e5) | 2026-05-29 21:46 |
-| PACIFIC STATES MARINE FISHERIES COMMISSION | Data Engineer / Database Management Specialist for Fish Data | Portland, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=47ce35760bca7d80) | 2026-05-29 21:46 |
-| American Airlines | Sr Associate Engineer, IT Software | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fda6cb70fb70e09) | 2026-05-29 21:46 |
-| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ebd22b9c4b47341c) | 2026-05-29 21:46 |
-| U.S. Venture, Inc. | Senior BI Analyst - IGEN | Appleton, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=acd6baf60c6afe77) | 2026-05-29 21:46 |
-| Alight Solutions | Azure DevOps Engineer | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b971d4cbb76a50f0) | 2026-05-29 21:46 |
-| AssistRx | Senior Data Analyst, Data Transfer Agreement, Gap Analysis, Data SQL Skills | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=315a3a380566a99f) | 2026-05-29 21:46 |
-| Teza Technologies | DevOps Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8521b827213a9dde) | 2026-05-29 21:46 |
 
 
 ---
