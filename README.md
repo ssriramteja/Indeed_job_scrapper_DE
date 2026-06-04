@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-04 19:14
+Last updated: 2026-06-04 21:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Lavisee Technologies | Oracle HCM Developer | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cac70b1298ea5c9e) | 2026-06-04 21:25 |
+| State Street | Senior Data Engineer-Onsite | Quincy, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=79f877445f165bc2) | 2026-06-04 21:25 |
+| clickhouse | Senior Cloud Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a0162d13045a3367) | 2026-06-04 21:25 |
+| Concept Plus | Tech Debt / Refresh Engineer | Dayton, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c7cd058ee0887b50) | 2026-06-04 21:25 |
+| Vforce Infotech | Data Engineer | Edison, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bd033c06ef261546) | 2026-06-04 21:25 |
+| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad0333886fec2326) | 2026-06-04 21:25 |
+| Demand Works Media LLC | DevOps Engineer | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=26540d1cf37e6176) | 2026-06-04 21:25 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4da87067b7b52c98) | 2026-06-04 21:25 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=936e44ddac734d7b) | 2026-06-04 21:25 |
+| nan | Application Engineer IV | Fort Meade, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9da97f7358a9449) | 2026-06-04 21:25 |
+| COMMUNITY BEHAVIORAL HEALTH | Sr. Programmer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=93628dfc1ed2e57f) | 2026-06-04 21:25 |
+| Databricks | Lakebase Sales Specialist | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd9c11c9c5d79b69) | 2026-06-04 21:25 |
 | BONbLOC | Data Architect | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=203332422aec13ef) | 2026-06-04 19:14 |
 | Symhas | AI Applied Architect (.NET & Databricks) | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c3c1f686434a6c4c) | 2026-06-04 19:14 |
 | Decision Foundry | DevOps | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4373bea89867ea0b) | 2026-06-04 19:14 |
@@ -19,7 +31,6 @@ Last updated: 2026-06-04 19:14
 | EY | EY-Parthenon - Strategy and Execution - Growth Platforms - Data Scientist - Sr Associate/Consultant | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=06f1573e4d5b380e) | 2026-06-04 19:14 |
 | MFour Mobile Research, Inc. | Data Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fde4359b0781ac36) | 2026-06-04 19:14 |
 | Troon | Senior Data Platform Architect | Scottsdale, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d00826f43274ea34) | 2026-06-04 19:14 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=936e44ddac734d7b) | 2026-06-04 19:14 |
 | Ion Storage Systems | Manufacturing Data Systems Engineer | Beltsville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2cfacddbdda92507) | 2026-06-04 19:14 |
 | Nextech Systems | Data Engineer (Remote - United States) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c0a946d2db71d280) | 2026-06-04 19:14 |
 | Omnicell | Engineer III, Platform Engineering | Cranberry Township, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0ef9b73a4ad4b77) | 2026-06-04 19:14 |
@@ -518,7 +529,6 @@ Last updated: 2026-06-04 19:14
 | Material Bank | Senior Data & AI Engineer | Fort Lauderdale, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aaf0998b173a8e22) | 2026-06-01 15:48 |
 | TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c8b7749106eebc9f) | 2026-06-01 09:28 |
 | Paramount | Senior Applied AI Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3a65fdc259b09f3) | 2026-06-01 09:28 |
-| SYSTECH USA | Senior DevOps Engineer | Glendale, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9e1fdd788472d792) | 2026-05-31 20:50 |
 
 
 ---
