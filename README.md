@@ -1,18 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-04 07:16
+Last updated: 2026-06-04 10:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| World Bank Group | E T Consultant | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3d019be2ca0c38b6) | 2026-06-04 10:55 |
+| Anduril | Senior Systems Administrator | Ashville, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c6c796f5ba5948fe) | 2026-06-04 10:55 |
+| Qualcomm | Modem Machine Learning Engineer | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=63cf613962496b27) | 2026-06-04 10:55 |
+| Fidelity TalentSource | Senior Data Engineer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=60aa962ac2f33982) | 2026-06-04 10:55 |
+| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ddf7449abdd32b05) | 2026-06-04 10:55 |
+| carnaby fox | Senior Software Engineer, ML Platform \| Parafin | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4377663fa2ea1245) | 2026-06-04 10:55 |
+| Benda Infotech | Software Engineer - Full Stack Developer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c284602b40afa505) | 2026-06-04 10:55 |
+| Databricks | Resident Solutions Architect - Digital Native Business | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dec276bec6c38a67) | 2026-06-04 10:55 |
+| Databricks | Resident Solutions Architect - Digital Native Business | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=377873b4a91a42db) | 2026-06-04 10:55 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=936e44ddac734d7b) | 2026-06-04 10:55 |
+| Quisitive | Senior Data Consultant – Data Engineer & GovernanceNew | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=69dc7b2b5de56422) | 2026-06-04 10:55 |
+| State Farm | Software Engineer - Finance Modernization | Bloomington, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15ee917ec6e025e8) | 2026-06-04 10:55 |
+| NeuraFlash, Part of Accenture | Salesforce Technical Architect, Data & AI | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3420dddc661e222d) | 2026-06-04 10:55 |
 | Glint Tech Solutions | Python Data Engineer | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=da84632d9568dfce) | 2026-06-04 07:16 |
 | Bambee | Data Architect | Glendale, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3e3ad167874c8532) | 2026-06-04 07:16 |
 | ICAT Logistics, Inc. | Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7dfde2e65a7bc1cc) | 2026-06-04 07:16 |
 | Rediantt | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=60d3683730583b9c) | 2026-06-04 07:16 |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ddf7449abdd32b05) | 2026-06-04 07:16 |
 | TP-LINK | Senior Cloud Software Engineer - Database | Irvine, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c97fb5b4fe767905) | 2026-06-04 07:16 |
-| carnaby fox | Senior Software Engineer, ML Platform \| Parafin | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4377663fa2ea1245) | 2026-06-04 07:16 |
 | Point Wild | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e2022ce8366d457) | 2026-06-04 07:16 |
 | Point Wild | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=71457be51c270627) | 2026-06-04 07:16 |
 | Point Wild | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ccc6509aa3c8ec42) | 2026-06-04 07:16 |
@@ -20,7 +31,6 @@ Last updated: 2026-06-04 07:16
 | Point Wild | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7f99d76959b32539) | 2026-06-04 07:16 |
 | Tata Consultancy Services (TCS) | AI ML Data Scientist | Westlake Village, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce609bae5ee0d5a2) | 2026-06-04 07:16 |
 | Andreessen Horowitz | DevX / Developer Operations (Partner 16, Partner 18), ASG | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2570942407162c4a) | 2026-06-04 07:16 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=936e44ddac734d7b) | 2026-06-04 07:16 |
 | CarParts.com | Sr. Full Stack Engineer - AI Forward Engineer | Long Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=81e7e89cef9a97da) | 2026-06-04 07:16 |
 | Cognizant | Java Developer (Connected Services) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa3dcc861e4ac768) | 2026-06-04 07:16 |
 | Sigma Computing | Solution Architect | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f16a0fa5da61102a) | 2026-06-04 07:16 |
@@ -485,18 +495,6 @@ Last updated: 2026-06-04 07:16
 | Paramount | Senior Applied AI Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3a65fdc259b09f3) | 2026-06-01 09:28 |
 | SYSTECH USA | Senior DevOps Engineer | Glendale, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9e1fdd788472d792) | 2026-05-31 20:50 |
 | nan | MS Server/Networking | La Mesa, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=29bfb74f7babb87c) | 2026-05-31 17:58 |
-| Peloton | Sr. SaaS Solutions Architect | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4058b3adc556b797) | 2026-05-31 09:43 |
-| DoorDash | Senior Software Engineer, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b0e08e23d0eaf7fd) | 2026-05-31 09:43 |
-| DoorDash | Software Engineer II, Data Engineering | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cc30e0ac9bbb52ca) | 2026-05-31 09:43 |
-| DoorDash | Analytics Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f50dd3b28c07a04c) | 2026-05-31 09:43 |
-| Box | Senior Machine Learning Engineer, Shield | Redwood City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27d59ed7af29cac4) | 2026-05-31 09:43 |
-| Axon | Sr. Software Engineer I, Applied AI | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=405b65a4422a7305) | 2026-05-31 09:43 |
-| Samsara | Solutions Integration Engineer IV | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=865b851048dc7b7f) | 2026-05-31 09:43 |
-| Axon | Software Engineer II, Cloud Engineering | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5b1a6d36f2381e4) | 2026-05-31 09:43 |
-| Box | Senior Software Engineer, Search Relevance | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=46e11d1a4c8f8f51) | 2026-05-31 09:43 |
-| DoorDash | Applications Engineer, Full Stack - People | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d67500eca1ae208b) | 2026-05-31 09:43 |
-| Datadog | Senior Developer Advocate - Data Observability | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24166b9fe873f35e) | 2026-05-31 09:43 |
-| SpaceX | AI Software Engineer (Vehicle Engineering) | Hawthorne, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ae57e531c0d4208e) | 2026-05-31 09:43 |
 
 
 ---
