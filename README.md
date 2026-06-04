@@ -1,16 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-04 13:53
+Last updated: 2026-06-04 16:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| National Information Solutions Cooperative (NISC) | Software Developer II - Meter Data Management Software (Full Stack, Databricks) | St. Louis, MO, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=3267639dd0ee93d7) | 2026-06-04 16:46 |
+| BridgeNexus Technologies Inc | Automation Architect – AI, Cloud & Quality Engineering | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8019de144986634a) | 2026-06-04 16:46 |
+| Teachers Retirement System | Senior AWS Engineer | Manhattan, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fdb97cb6b9e8a913) | 2026-06-04 16:46 |
+| Darkk Alpha Capital | Senior Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f68d653a407d3790) | 2026-06-04 16:46 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=936e44ddac734d7b) | 2026-06-04 16:46 |
+| endava | Data Architect | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=163d2dba42ea7b46) | 2026-06-04 16:46 |
+| Algorized | Senior DevOps/MLOps Engineer | Campbell, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0c88a8d02f220104) | 2026-06-04 16:46 |
+| LTIMindtree | Senior Specialist - Quality Engineering | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53ced3da28996aca) | 2026-06-04 16:46 |
 | AFL | Senior ETL Developer (Azure & MDM/Reltio Focus) | Duncan, SC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6bde84b2e0c4d7b5) | 2026-06-04 13:53 |
 | EchoStar | Senior Automation Platform Engineer | Littleton, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bc94922007c35c18) | 2026-06-04 13:53 |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ddf7449abdd32b05) | 2026-06-04 13:53 |
-| carnaby fox | Senior Software Engineer, ML Platform \| Parafin | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4377663fa2ea1245) | 2026-06-04 13:53 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=936e44ddac734d7b) | 2026-06-04 13:53 |
 | World Bank Group | E T Consultant | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3d019be2ca0c38b6) | 2026-06-04 10:55 |
 | Anduril | Senior Systems Administrator | Ashville, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c6c796f5ba5948fe) | 2026-06-04 10:55 |
 | Qualcomm | Modem Machine Learning Engineer | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=63cf613962496b27) | 2026-06-04 10:55 |
