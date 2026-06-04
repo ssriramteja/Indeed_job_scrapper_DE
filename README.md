@@ -1,21 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-04 10:55
+Last updated: 2026-06-04 13:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| AFL | Senior ETL Developer (Azure & MDM/Reltio Focus) | Duncan, SC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6bde84b2e0c4d7b5) | 2026-06-04 13:53 |
+| EchoStar | Senior Automation Platform Engineer | Littleton, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bc94922007c35c18) | 2026-06-04 13:53 |
+| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ddf7449abdd32b05) | 2026-06-04 13:53 |
+| carnaby fox | Senior Software Engineer, ML Platform \| Parafin | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4377663fa2ea1245) | 2026-06-04 13:53 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=936e44ddac734d7b) | 2026-06-04 13:53 |
 | World Bank Group | E T Consultant | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3d019be2ca0c38b6) | 2026-06-04 10:55 |
 | Anduril | Senior Systems Administrator | Ashville, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c6c796f5ba5948fe) | 2026-06-04 10:55 |
 | Qualcomm | Modem Machine Learning Engineer | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=63cf613962496b27) | 2026-06-04 10:55 |
 | Fidelity TalentSource | Senior Data Engineer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=60aa962ac2f33982) | 2026-06-04 10:55 |
-| The Coca-Cola Company | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ddf7449abdd32b05) | 2026-06-04 10:55 |
-| carnaby fox | Senior Software Engineer, ML Platform \| Parafin | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4377663fa2ea1245) | 2026-06-04 10:55 |
 | Benda Infotech | Software Engineer - Full Stack Developer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c284602b40afa505) | 2026-06-04 10:55 |
 | Databricks | Resident Solutions Architect - Digital Native Business | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dec276bec6c38a67) | 2026-06-04 10:55 |
 | Databricks | Resident Solutions Architect - Digital Native Business | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=377873b4a91a42db) | 2026-06-04 10:55 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=936e44ddac734d7b) | 2026-06-04 10:55 |
 | Quisitive | Senior Data Consultant – Data Engineer & GovernanceNew | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=69dc7b2b5de56422) | 2026-06-04 10:55 |
 | State Farm | Software Engineer - Finance Modernization | Bloomington, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15ee917ec6e025e8) | 2026-06-04 10:55 |
 | NeuraFlash, Part of Accenture | Salesforce Technical Architect, Data & AI | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3420dddc661e222d) | 2026-06-04 10:55 |
