@@ -1,23 +1,51 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-04 23:02
+Last updated: 2026-06-05 02:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Transflo | Data Scientist / Data Analytics Engineer | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=8c69d5a1a971e22e) | 2026-06-05 02:33 |
+| Atlassian | Senior Backend Software Engineer | Seattle, WA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5772ff395b2cde45) | 2026-06-05 02:33 |
+| NavitasPartners | Senior Data Integration Engineer – Credit Risk - SDIE 26-06669 | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8ad46bda20740e85) | 2026-06-05 02:33 |
+| NavitasPartners | Senior Data Integration Engineer – Credit Risk - SDIE 26-06669 | Hempstead, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f474c30f7d29a034) | 2026-06-05 02:33 |
+| NavitasPartners | Senior Data Integration Engineer – Credit Risk - SDIE 26-06669 | Brooklyn, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4e15a4878d8c2188) | 2026-06-05 02:33 |
+| NavitasPartners | Senior Data Integration Engineer – Credit Risk - SDIE 26-06669 | Bronx, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=68aba97affeb5808) | 2026-06-05 02:33 |
+| NavitasPartners | Senior Data Integration Engineer – Credit Risk - SDIE 26-06669 | Yonkers, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8305c2858081dfcf) | 2026-06-05 02:33 |
+| Opiniion | Full Stack Developer (Integrations & Data Focus) | Lehi, UT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f3d9ad5ad2072263) | 2026-06-05 02:33 |
+| American Express | Software Engineer II, Full Stack - Global Servicing Technology | Sunrise, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6e5b5d3254dd04f4) | 2026-06-05 02:33 |
+| Manscaped | Senior Systems & Platform Engineer, Enterprise Apps | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=78dc384749455c9e) | 2026-06-05 02:33 |
+| Blue Origin | Sr SW Engineer | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=af90d11c5660ec74) | 2026-06-05 02:33 |
+| JPMorganChase | Software Engineer III - PySpark/AWS | Wilmington, DE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a573fb5cab0a9820) | 2026-06-05 02:33 |
+| JPMorganChase | Software Engineer III - PySpark/AWS | Wilmington, DE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4090e7484beae777) | 2026-06-05 02:33 |
+| BV Teck | AI/ML Engineer with Drone Imagery | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=21ff0351d35be0f9) | 2026-06-05 02:33 |
+| HDI Global Insurance Company | Solutions Architect | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=094f4152c1c3b844) | 2026-06-05 02:33 |
+| CADRE GOVERNMENT SOLUTIONS | Java Full Stack Engineer (Fintech) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2939e578451e049f) | 2026-06-05 02:33 |
+| Radian Group Inc. | Data Scientist II | Bethesda, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e3a20fd70866cf85) | 2026-06-05 02:33 |
+| NavitasPartners | Credit Risk Data Engineer - New York, NY - RDE26-06669 | White Plains, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=385dd5972eb6dd82) | 2026-06-05 02:33 |
+| NavitasPartners | Credit Risk Data Engineer - New York, NY - RDE26-06669 | Newburgh, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7a61e6df431f6147) | 2026-06-05 02:33 |
+| NavitasPartners | Credit Risk Data Engineer - New York, NY - RDE26-06669 | New Rochelle, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1f2149793d5db9d1) | 2026-06-05 02:33 |
+| NavitasPartners | Credit Risk Data Engineer - New York, NY - RDE26-06669 | Yonkers, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8767e19975ee4ce6) | 2026-06-05 02:33 |
+| NavitasPartners | Credit Risk Data Engineer - New York, NY - RDE26-06669 | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=14789b3132768e61) | 2026-06-05 02:33 |
+| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad0333886fec2326) | 2026-06-05 02:33 |
+| PlayStation | Senior Software Development Engineer In Test, ML/AI | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5b49d9429473d67) | 2026-06-05 02:33 |
+| Opiniion | Full Stack Developer (Platform & Backend Focus) | Lehi, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e87a97e8641f456) | 2026-06-05 02:33 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4da87067b7b52c98) | 2026-06-05 02:33 |
+| Ulta | Sr. Software Developer | Bolingbrook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a5e66ee1c26d4fc) | 2026-06-05 02:33 |
+| Cognizant | Java Developer (Connected Services) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b01571494179411) | 2026-06-05 02:33 |
+| CoorsTek | Forward Deployed Data Engineer | Golden, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fbe256f9b09a7e0e) | 2026-06-05 02:33 |
+| In-N-Out Burger | Data Engineer III | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d8e13676bc61f2f) | 2026-06-05 02:33 |
+| Nexxen | Senior Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a96178a2a524d96e) | 2026-06-05 02:33 |
 | Bilink Corp | Databricks Expert / Data Lakehouse Consultant | Chicago, IL, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=6ef7670a3dacf51f) | 2026-06-04 23:02 |
 | JPMorganChase | Software Engineer III - Data Platform | Austin, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=d2aebd4405215d87) | 2026-06-04 23:02 |
 | Tata Consultancy Services (TCS) | Blockchain Java Backend Developer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d3b304f9c143a865) | 2026-06-04 23:02 |
 | eHub | Senior Data Engineer | Sandy, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a462b164d07d7ba9) | 2026-06-04 23:02 |
 | Vizient, Inc. | Sr Software Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9e053efd9a837ce7) | 2026-06-04 23:02 |
 | CG Infinity | Tableau Developer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5e7f11b8f38a8ecd) | 2026-06-04 23:02 |
-| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad0333886fec2326) | 2026-06-04 23:02 |
 | PlayStation | Senior Software Development Engineer In Test, ML/AI | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea671c360a6a09f8) | 2026-06-04 23:02 |
 | Paramount Global US Inc | Senior Data Engineer | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ce5b8ffd36870fad) | 2026-06-04 23:02 |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4da87067b7b52c98) | 2026-06-04 23:02 |
 | David's Bridal | Data Analyst — AI-Driven Insights | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e573f908d6ce2f1d) | 2026-06-04 23:02 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=936e44ddac734d7b) | 2026-06-04 23:02 |
 | SoFi | Senior Software Engineer, Data Trust | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6704fd5656501c07) | 2026-06-04 23:02 |
 | MetLife | Junior Software Engineer | Bridgewater, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5ac532ab4d53203) | 2026-06-04 23:02 |
 | Lavisee Technologies | Oracle HCM Developer | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cac70b1298ea5c9e) | 2026-06-04 21:25 |
