@@ -1,12 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-05 10:47
+Last updated: 2026-06-05 13:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| HDI Global Insurance Company | Solutions Architect | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=094f4152c1c3b844) | 2026-06-05 10:47 |
+| Wipro | DEVELOPER L3(CONTRACT) | Wayne, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3612b0fc8bfb6ab5) | 2026-06-05 13:49 |
+| Madagoni LLC | Data Engineer | Trenton, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dd3ec55ccf11bf4e) | 2026-06-05 13:49 |
+| HDI Global Insurance Company | Solutions Architect | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=094f4152c1c3b844) | 2026-06-05 13:49 |
+| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad0333886fec2326) | 2026-06-05 13:49 |
+| New York Life | Associate - Full Stack Developer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d9923838d6f3cba) | 2026-06-05 13:49 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4da87067b7b52c98) | 2026-06-05 13:49 |
+| David Joseph & Company | AI Engineer — RapidCanvas | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82825a4b70114e5d) | 2026-06-05 13:49 |
+| JPMorganChase | Business Analyst, Senior Associate | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ef62050b69ea736) | 2026-06-05 13:49 |
+| Barclays | Application Support Analyst | Whippany, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99c7aecf044086c2) | 2026-06-05 13:49 |
+| Carbo Ceramics, LLC | Senior Data Analyst | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7d10e8fe29e20e2) | 2026-06-05 13:49 |
 | CVS Health | Senior Software Development Engineer – Imaging Platform | MS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7404c3655de04dd7) | 2026-06-05 10:47 |
 | CVS Health | Senior Software Development Engineer – Imaging Platform | VT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bcd1876902912f2) | 2026-06-05 10:47 |
 | CVS Health | Senior Software Development Engineer – Imaging Platform | IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4a9b38178b754383) | 2026-06-05 10:47 |
@@ -56,11 +65,8 @@ Last updated: 2026-06-05 10:47
 | CVS Health | Senior Software Development Engineer – Imaging Platform | NE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e6a0794cdf7814e0) | 2026-06-05 10:47 |
 | CVS Health | Senior Software Development Engineer – Imaging Platform | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=edd03a4989d1f2d2) | 2026-06-05 10:47 |
 | CVS Health | Senior Software Development Engineer – Imaging Platform | PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=77011faf16332680) | 2026-06-05 10:47 |
-| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad0333886fec2326) | 2026-06-05 10:47 |
 | Sunward | Cloud Infrastructure Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d80ccc2355815fc) | 2026-06-05 10:47 |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4da87067b7b52c98) | 2026-06-05 10:47 |
 | URBN | URBN Senior DevOps Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=535d8204a8558bb3) | 2026-06-05 10:47 |
-| David Joseph & Company | AI Engineer — RapidCanvas | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82825a4b70114e5d) | 2026-06-05 10:47 |
 | Portfolio BI | Full Stack Quantitative Developer - Capital Markets - NYC / Dallas / Los | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48345cae6728d8ac) | 2026-06-05 10:47 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d419b71a5a3ad5ab) | 2026-06-05 06:59 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=35e6a0def13e14e8) | 2026-06-05 06:59 |
