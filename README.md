@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-05 20:46
+Last updated: 2026-06-05 22:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charles Schwab | Cloud Data Engineer | Southlake, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=53ff12a0a5a571cd) | 2026-06-05 22:10 |
+| nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4b03d7c92e1f21c5) | 2026-06-05 22:10 |
+| nan | Senior AI Data Engineer | San Diego, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=17b7a7675d2646cd) | 2026-06-05 22:10 |
+| Stellar Solutions | Data Engineer | Miami, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ba9d8e9033d19ed9) | 2026-06-05 22:10 |
+| Lincoln Financial Group | Associate ETL Developer | Radnor, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=646a3daa8dc34065) | 2026-06-05 22:10 |
+| Family Dollar | Integration Engineer | Chesapeake, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=02f7a82ae76adde3) | 2026-06-05 22:10 |
+| Fidelity Investments | Senior Data Engineer - Power BI | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7d20bf479b606085) | 2026-06-05 22:10 |
+| TG Administration LLC | Data Engineer | Scottsdale, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e9e73f395d9ef664) | 2026-06-05 22:10 |
+| Nexzentek | SDET AI Architect role | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c169be2658178cd6) | 2026-06-05 22:10 |
+| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82fe8f468cf74df4) | 2026-06-05 22:10 |
+| General Motors (GM) | Senior Software Engineer, Full Stack Web Development – GCP & Vertex AI Focus | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ecb968fef1744db) | 2026-06-05 22:10 |
+| Qnity | Senior Cloud Engineer | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f794016856a71562) | 2026-06-05 22:10 |
+| Child Mind Institute | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b5783dbfc8eb97f) | 2026-06-05 22:10 |
+| Samsara | People Analytics AI Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=085b37bc2f384dd8) | 2026-06-05 22:10 |
 | nan | AI/ML Architect with Databricks , AWS | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=830c3438f0d2663d) | 2026-06-05 20:46 |
 | nan | Senior Data Engineer - INDIA | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0cc95db0c4e95e26) | 2026-06-05 20:46 |
 | Luxoft | Senior AI Engineer | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ba4b877f69f2d40c) | 2026-06-05 20:46 |
@@ -17,7 +31,6 @@ Last updated: 2026-06-05 20:46
 | Huron Consulting Group | Senior Data Platform Integration Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d21417725ec301b) | 2026-06-05 20:46 |
 | Caterpillar | Senior Data Scientist | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=301853b8fccc1809) | 2026-06-05 20:46 |
 | Trianz | BI and AI Automation Engineer | Overland Park, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9063c5940585caea) | 2026-06-05 20:46 |
-| David Joseph & Company | AI Engineer — RapidCanvas | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82825a4b70114e5d) | 2026-06-05 20:46 |
 | IntelliDyne | Python Web Application Developer | Tysons Corner, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68462d5c7447b1bc) | 2026-06-05 20:46 |
 | nan | Software Engineer III | Fort Meade, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7083633f75338f3) | 2026-06-05 20:46 |
 | Concentrix | Python Developer (Linux exp) | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f0ad9dd289acaf4) | 2026-06-05 20:46 |
