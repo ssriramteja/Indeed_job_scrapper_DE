@@ -1,19 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-05 16:26
+Last updated: 2026-06-05 18:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Symhas | Senior Data Engineer (.NET / Azure) | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e69f8437775af7c1) | 2026-06-05 18:55 |
+| Synstack Technologies | Data Engineer | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6f22b99fcc46a1ed) | 2026-06-05 18:55 |
+| Vantive | Integration Technical Architect (AWS/AI) | Deerfield, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6eff26eac5f1144c) | 2026-06-05 18:55 |
+| Progspectra | Databricks Solutions Architect (Remote, US Only) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55ed86a960ce796d) | 2026-06-05 18:55 |
+| Huron Consulting Group | Azure Engineer (Associate) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19e98785342dc04b) | 2026-06-05 18:55 |
+| FIS | Senior Data Scientist | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b6f3b09a9c1f5b31) | 2026-06-05 18:55 |
+| American Express | Senior Software Engineer, Digital Banking & Payments | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=77bbcfafb38b8635) | 2026-06-05 18:55 |
+| David Joseph & Company | AI Engineer — RapidCanvas | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82825a4b70114e5d) | 2026-06-05 18:55 |
+| Bosch | Data Engineer Associate | Roseville, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64684543a43aac31) | 2026-06-05 18:55 |
+| Plymouth Rock Assurance | Data Engineer Intern/Co-op | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19ed2769c487c743) | 2026-06-05 18:55 |
+| Samsara | People Analytics AI Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b3fd2f9a605cf45) | 2026-06-05 18:55 |
+| Utah Valley University | Site Reliability Engineer I- Operations | Orem, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aafdc7b6e7a9e469) | 2026-06-05 18:55 |
 | MINDBRIDGE SOLUTIONS INC | Data Solutions Architect – Azure Databricks | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=31e70c6ae374fe7d) | 2026-06-05 16:26 |
 | Department of City Planning | Data Engineer | Manhattan, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=997ff73d3d72b982) | 2026-06-05 16:26 |
 | Inclusion Cloud | Full Stack Developer (.NET & Angular) – Azure Cloud | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5741e2b48538b3e9) | 2026-06-05 16:26 |
 | LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=242b4333150528fa) | 2026-06-05 16:26 |
-| HDI Global Insurance Company | Solutions Architect | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=094f4152c1c3b844) | 2026-06-05 16:26 |
-| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad0333886fec2326) | 2026-06-05 16:26 |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4da87067b7b52c98) | 2026-06-05 16:26 |
-| David Joseph & Company | AI Engineer — RapidCanvas | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82825a4b70114e5d) | 2026-06-05 16:26 |
 | Wipro | DEVELOPER L3(CONTRACT) | Wayne, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3612b0fc8bfb6ab5) | 2026-06-05 13:49 |
 | Madagoni LLC | Data Engineer | Trenton, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dd3ec55ccf11bf4e) | 2026-06-05 13:49 |
 | New York Life | Associate - Full Stack Developer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d9923838d6f3cba) | 2026-06-05 13:49 |
