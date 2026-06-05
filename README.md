@@ -1,18 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-05 13:49
+Last updated: 2026-06-05 16:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| MINDBRIDGE SOLUTIONS INC | Data Solutions Architect – Azure Databricks | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=31e70c6ae374fe7d) | 2026-06-05 16:26 |
+| Department of City Planning | Data Engineer | Manhattan, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=997ff73d3d72b982) | 2026-06-05 16:26 |
+| Inclusion Cloud | Full Stack Developer (.NET & Angular) – Azure Cloud | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5741e2b48538b3e9) | 2026-06-05 16:26 |
+| LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=242b4333150528fa) | 2026-06-05 16:26 |
+| HDI Global Insurance Company | Solutions Architect | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=094f4152c1c3b844) | 2026-06-05 16:26 |
+| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad0333886fec2326) | 2026-06-05 16:26 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4da87067b7b52c98) | 2026-06-05 16:26 |
+| David Joseph & Company | AI Engineer — RapidCanvas | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82825a4b70114e5d) | 2026-06-05 16:26 |
 | Wipro | DEVELOPER L3(CONTRACT) | Wayne, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3612b0fc8bfb6ab5) | 2026-06-05 13:49 |
 | Madagoni LLC | Data Engineer | Trenton, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dd3ec55ccf11bf4e) | 2026-06-05 13:49 |
-| HDI Global Insurance Company | Solutions Architect | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=094f4152c1c3b844) | 2026-06-05 13:49 |
-| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad0333886fec2326) | 2026-06-05 13:49 |
 | New York Life | Associate - Full Stack Developer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d9923838d6f3cba) | 2026-06-05 13:49 |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4da87067b7b52c98) | 2026-06-05 13:49 |
-| David Joseph & Company | AI Engineer — RapidCanvas | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82825a4b70114e5d) | 2026-06-05 13:49 |
 | JPMorganChase | Business Analyst, Senior Associate | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ef62050b69ea736) | 2026-06-05 13:49 |
 | Barclays | Application Support Analyst | Whippany, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99c7aecf044086c2) | 2026-06-05 13:49 |
 | Carbo Ceramics, LLC | Senior Data Analyst | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7d10e8fe29e20e2) | 2026-06-05 13:49 |
@@ -683,10 +687,6 @@ Last updated: 2026-06-05 13:49
 | AIG GLOBAL OPERATIONS, INC. | SDN Automation Engineer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e809e3665c70de7d) | 2026-06-01 20:11 |
 | jamf | Senior Site Reliability Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=476d52c54642bad6) | 2026-06-01 20:11 |
 | Bloomberg | Senior Software Engineer – ClickHouse Infrastructure | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d09956aa680bb5f9) | 2026-06-01 20:11 |
-| Block Labs | Data Platform Engineer | Malta, MT, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a8521c97662c0b57) | 2026-06-01 15:48 |
-| Material Bank | Senior Data & AI Engineer | Boca Raton, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a125832a9faf2b6d) | 2026-06-01 15:48 |
-| Material Bank | Senior Data & AI Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13f4639de61892c3) | 2026-06-01 15:48 |
-| Material Bank | Senior Data & AI Engineer | Fort Lauderdale, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aaf0998b173a8e22) | 2026-06-01 15:48 |
 
 
 ---
