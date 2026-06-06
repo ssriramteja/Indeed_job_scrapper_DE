@@ -1,20 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-06 06:47
+Last updated: 2026-06-06 09:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f4d5b6c0ea750fd) | 2026-06-06 09:18 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d) | 2026-06-06 09:18 |
+| Sfklogix LLC | 1. Front-End Web Developer(FE) \| Back-End Web Developer (BE) \| Content Designer (CD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4) | 2026-06-06 09:18 |
 | FocusKPI Inc. | Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=fbdbfc37bf1ca190) | 2026-06-06 06:47 |
 | Citizens | Sr Data Engineer- Data Platform & AI Enablement | Johnston, RI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=18c6ead6041dd8b2) | 2026-06-06 06:47 |
 | Tata Consultancy Services (TCS) | Data Bricks Migration and Support engineer | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6f646314becd0f4e) | 2026-06-06 06:47 |
 | Tata Consultancy Services (TCS) | Data Bricks Migration and Support engineer | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=be6dc96e2f68af48) | 2026-06-06 06:47 |
 | Charles Schwab | Senior Kafka Platform Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=26482741958a217b) | 2026-06-06 06:47 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d) | 2026-06-06 06:47 |
 | BlackRock | Backend Java Engineer - Post Trade Accounting, Associate | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a70a6a9d580d712) | 2026-06-06 06:47 |
 | Tata Consultancy Services (TCS) | HR -Data Scientist | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a457b4897928b47) | 2026-06-06 06:47 |
-| Sfklogix LLC | 1. Front-End Web Developer(FE) \| Back-End Web Developer (BE) \| Content Designer (CD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4) | 2026-06-06 06:47 |
 | Trianz | AWS Data Architect | Clinton, NJ, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=4383b83bebf58ee2) | 2026-06-06 03:37 |
 | New York Blood Center | Senior Data Engineer | Rye, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=558c0c0c483e56c0) | 2026-06-06 03:37 |
 | ActiveProspect, Inc. | Senior Platform Engineer (DevOps) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a17efe4f6a851376) | 2026-06-06 03:37 |
