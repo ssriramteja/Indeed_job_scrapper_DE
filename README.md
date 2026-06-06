@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-05 22:10
+Last updated: 2026-06-06 00:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bluebird Fiber | Data Architect | Kansas City, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ec84abb9723f3323) | 2026-06-06 00:00 |
+| Bluebird Fiber | Data Architect | Independence, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6038be7764e9b130) | 2026-06-06 00:00 |
+| Wells Fargo | Senior .net Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac08d38f082053ce) | 2026-06-06 00:00 |
+| ASM | Data & Digital Solutions Engineer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=54570e15fbd26f96) | 2026-06-06 00:00 |
+| Sfklogix LLC | 1. Front-End Web Developer(FE) \| Back-End Web Developer (BE) \| Content Designer (CD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4) | 2026-06-06 00:00 |
 | Charles Schwab | Cloud Data Engineer | Southlake, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=53ff12a0a5a571cd) | 2026-06-05 22:10 |
 | nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4b03d7c92e1f21c5) | 2026-06-05 22:10 |
 | nan | Senior AI Data Engineer | San Diego, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=17b7a7675d2646cd) | 2026-06-05 22:10 |
@@ -689,47 +694,6 @@ Last updated: 2026-06-05 22:10
 | Infor | ERP Data Management Architect | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dcaf6daec0d7c9d8) | 2026-06-02 00:08 |
 | Per Scholas | Instructional Assistant (Cloud Systems Engineering) | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=27337ed48c446924) | 2026-06-02 00:08 |
 | Shelter Insurance | Enterprise Data Engineer | Columbia, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e77849a606bd380) | 2026-06-02 00:08 |
-| Boeing | Mid-Level Business Intelligence Analyst | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=bd8003ebc53d5ab3) | 2026-06-01 22:56 |
-| Justhire Technology | DevOps Cloud Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bde27c3a7c822c19) | 2026-06-01 22:56 |
-| Agilent Technologies | DevOps & Platform Engineer (AWS / CI/CD) | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=27d70a9322c9786b) | 2026-06-01 22:56 |
-| EXL Service | Senior Data Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2623aa90a431c062) | 2026-06-01 22:56 |
-| Newpage Digital Healthcare solutions | Full Stack AI Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fa5b7f70487a08c4) | 2026-06-01 22:56 |
-| Snowflake | Senior Solution Engineer | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a5ca6c0823ba9179) | 2026-06-01 22:56 |
-| MindCare Solutions Group | Senior Data Platform & Healthcare AI Analytics Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e4a9a916464c719) | 2026-06-01 22:56 |
-| MindCare Solutions Group | Senior Data Platform & Healthcare AI Analytics Engineer | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d6c563ff6c6c61af) | 2026-06-01 22:56 |
-| Knott Cleaning | Full Stack Software Engineer - Java | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c1a5aeeb93f9ed7b) | 2026-06-01 22:56 |
-| Norstella | RWD Delivery Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=480648c59cb92063) | 2026-06-01 22:56 |
-| Edlio LLC | DevOps Engineer - Security / PCI and Compliance | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=324d5a4d0e21543e) | 2026-06-01 22:56 |
-| AllCloud | Machine Learning Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=34260a70256866e8) | 2026-06-01 22:56 |
-| Socure | Data Scientist II - Big Data R&D, Identity Graph & KYC | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a382e3d5a9c0a8a) | 2026-06-01 22:56 |
-| Socure | Data Scientist II - Big Data R&D, Identity Graph & KYC | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff7e9e84a12c3534) | 2026-06-01 22:56 |
-| Socure | Data Scientist II - Big Data R&D, Identity Graph & KYC | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a75befce9107331c) | 2026-06-01 22:56 |
-| Socure | Data Scientist II - Big Data R&D, Identity Graph & KYC | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=14cc48e7f7f837c5) | 2026-06-01 22:56 |
-| EXL Service | Senior GCP Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2564466ca73964ed) | 2026-06-01 22:56 |
-| Wells Fargo | Senior Data Engineer - GCP Platform Services & Frameworks | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02afe5b9fb166a85) | 2026-06-01 22:56 |
-| Wells Fargo | Senior Data Engineer - GCP Platform Services & Frameworks | Iselin, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e63d448fe3a8c008) | 2026-06-01 22:56 |
-| Wells Fargo | Senior Data Engineer - GCP Platform Services & Frameworks | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e29f217984e78bba) | 2026-06-01 22:56 |
-| Socure | Senior Data Scientist - International eKYC, Identity Graph | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3d9272c185c23e1a) | 2026-06-01 22:56 |
-| Socure | Senior Data Scientist - International eKYC, Identity Graph | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=580e242948a318a3) | 2026-06-01 22:56 |
-| Socure | Senior Data Scientist - International eKYC, Identity Graph | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d8c35a8039f2d699) | 2026-06-01 22:56 |
-| Socure | Senior Data Scientist - International eKYC, Identity Graph | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ec4cb44123f0e681) | 2026-06-01 22:56 |
-| Barclays | L2 Application Support Senior Analyst | Whippany, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9e03b026a5da4056) | 2026-06-01 22:56 |
-| Bass Pro Shops | Senior AI Engineer | Springfield, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=150c1c460a8f2243) | 2026-06-01 22:56 |
-| Fustis LLC | AL/ML Engineer / Azure Policy, AWS SCP | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c3a5d8cf56d01694) | 2026-06-01 22:56 |
-| Socure | Senior Data Scientist - Big Data R&D, Identity Graph & KYC | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b255f7cfbea2f42a) | 2026-06-01 22:56 |
-| Socure | Senior Data Scientist - Big Data R&D, Identity Graph & KYC | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=21d42f664c1bc212) | 2026-06-01 22:56 |
-| Socure | Senior Data Scientist - Big Data R&D, Identity Graph & KYC | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b23576df86210e6a) | 2026-06-01 22:56 |
-| Socure | Senior Data Scientist - Big Data R&D, Identity Graph & KYC | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=268739eff36de340) | 2026-06-01 22:56 |
-| Optum | Senior Data Engineer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4ec0556f52ecfdf) | 2026-06-01 22:56 |
-| Chrome Hearts | Senior Software Developer - Retail Technology & Platform Engineering | Hollywood, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bdd17c64ea657ee3) | 2026-06-01 22:56 |
-| UniFirst | MuleSoft QA Engineer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fbe31b446b710556) | 2026-06-01 22:56 |
-| Ziosk | Full-Stack Data BI Engineer (on-site) | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83d0f91e0077746c) | 2026-06-01 22:56 |
-| Ziosk | Full-Stack Data BI Engineer (on-site) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bd42e61b1f00ae70) | 2026-06-01 22:56 |
-| UniFirst | MuleSoft Developer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a3430d97e76b325) | 2026-06-01 22:56 |
-| Databricks | Lakebase Sales Specialist - Retail | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2fa83c7a2449f337) | 2026-06-01 22:56 |
-| Applied Information Sciences | Application Integration Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=91d2fa8b6f031cc8) | 2026-06-01 22:56 |
-| Global Payments | Senior GTM Data Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=73a48857d65986eb) | 2026-06-01 22:56 |
-| SOSi | DevOps Engineer-WO-003 | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ecd5f96e1434ab45) | 2026-06-01 22:56 |
 
 
 ---
