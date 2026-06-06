@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-06-06
 
-**Total Jobs Found:** 148
+**Total Jobs Found:** 159
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Cloud Data Engineer @ Charles Schwab
+## 1. AWS Data Architect @ Trianz
+**Match Score:** 21.5%
+
+📍 **Location:** Clinton, NJ, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Step Functions, S3, IAM, RDS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4383b83bebf58ee2)
+
+---
+
+## 2. Cloud Data Engineer @ Charles Schwab
 **Match Score:** 19.4%
 
 📍 **Location:** Southlake, TX, US USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Data Solutions Architect – Azure Databricks @ MINDBRIDGE SOLUTIONS INC
+## 3. Data Solutions Architect – Azure Databricks @ MINDBRIDGE SOLUTIONS INC
 **Match Score:** 18.8%
 
 📍 **Location:** Remote, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Software Engineer (API Integrations) @ nan
+## 4. Senior Software Engineer (API Integrations) @ nan
 **Match Score:** 17.4%
 
 📍 **Location:** Davie, FL, US USA
@@ -35,17 +46,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, Kinesis, S3, SQS, SNS, API Gateway, ECS, RDS, Kafka
 
 [Apply Here](https://www.indeed.com/viewjob?jk=4b03d7c92e1f21c5)
-
----
-
-## 4. Senior Backend Software Engineer @ Atlassian
-**Match Score:** 17.4%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** AWS, Lambda, Kinesis, SQS, SNS, IAM, RDS, Scala, Kafka, DynamoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5772ff395b2cde45)
 
 ---
 
@@ -93,7 +93,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Data Engineer @ Stellar Solutions
+## 9. Senior Data Engineer @ New York Blood Center
+**Match Score:** 15.3%
+
+📍 **Location:** Rye, NY, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Synapse Analytics, Databricks, Data Lake Storage, Medallion Architecture, Spark, PySpark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=558c0c0c483e56c0)
+
+---
+
+## 10. Data Engineer @ Stellar Solutions
 **Match Score:** 15.3%
 
 📍 **Location:** Miami, FL, US USA
@@ -101,17 +112,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Redshift, IAM, Azure, GCP, BigQuery, Cloud Storage, Kafka, Snowflake, Data Modeling
 
 [Apply Here](https://www.indeed.com/viewjob?jk=ba9d8e9033d19ed9)
-
----
-
-## 10. Product Engineer – Java Spring Boot w/ Full Stack Option @ Allstate Insurance
-**Match Score:** 15.3%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, MongoDB, NoSQL, ELT, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dc2626116e7624e8)
 
 ---
 
@@ -126,14 +126,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior AI Engineer @ Luxoft
+## 12. Product Engineer – Java Spring Boot w/ Full Stack Option @ Allstate Insurance
 **Match Score:** 15.3%
 
-📍 **Location:** Houston, TX, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, ECS, Azure, Vertex AI, Spark, Scala, NoSQL, ETL, MLOps, CI/CD
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, MongoDB, NoSQL, ELT, CI/CD, Jenkins
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ba4b877f69f2d40c)
+[Apply Here](https://www.indeed.com/viewjob?jk=dc2626116e7624e8)
 
 ---
 
@@ -159,18 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. ReactJS with Azure developer @ Tata Consultancy Services (TCS)
-**Match Score:** 13.9%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** Azure, Blob Storage, Spark, PySpark, Scala, ETL, CI/CD, GitHub Actions, Azure DevOps, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fcb8dd8900af0c8a)
-
----
-
-## 16. Data Platform Engineer @ Living Spaces
+## 15. Data Platform Engineer @ Living Spaces
 **Match Score:** 13.9%
 
 📍 **Location:** La Mirada, CA, US USA
@@ -181,18 +170,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Senior Systems & Platform Engineer, Enterprise Apps @ Manscaped
+## 16. Senior Platform Engineer (DevOps) @ ActiveProspect, Inc.
 **Match Score:** 13.9%
 
-📍 **Location:** San Diego, CA, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Event Hubs, GCP, Scala, Kafka, ETL, CI/CD
+🔑 **Keywords:** AWS, Lambda, RDS, Kafka, PostgreSQL, MySQL, MongoDB, DynamoDB, CI/CD, GitHub Actions
 
-[Apply Here](https://www.indeed.com/viewjob?jk=78dc384749455c9e)
+[Apply Here](https://www.indeed.com/viewjob?jk=a17efe4f6a851376)
 
 ---
 
-## 18. Full Stack Developer (.NET & Angular) – Azure Cloud @ Inclusion Cloud
+## 17. Full Stack Developer (.NET & Angular) – Azure Cloud @ Inclusion Cloud
 **Match Score:** 13.9%
 
 📍 **Location:** Dallas, TX, US USA
@@ -203,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Data Architect @ Bluebird Fiber
+## 18. Data Architect @ Bluebird Fiber
 **Match Score:** 13.2%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -214,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Data Architect @ Bluebird Fiber
+## 19. Data Architect @ Bluebird Fiber
 **Match Score:** 13.2%
 
 📍 **Location:** Independence, OH, US USA
@@ -225,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior Data Engineer - Power BI @ Fidelity Investments
+## 20. Senior Data Engineer - Power BI @ Fidelity Investments
 **Match Score:** 13.2%
 
 📍 **Location:** Durham, NC, US USA
@@ -236,18 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior AWS Data Engineer @ Cognizant
-**Match Score:** 13.2%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, Spark, PySpark
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2eaba1f6b997fc8a)
-
----
-
-## 23. Data Engineer @ Madagoni LLC
+## 21. Data Engineer @ Madagoni LLC
 **Match Score:** 12.5%
 
 📍 **Location:** Trenton, NJ, US USA
@@ -255,6 +233,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Hadoop, HDFS, Hive, Spark, Scala, Oracle, SQL Server
 
 [Apply Here](https://www.indeed.com/viewjob?jk=dd3ec55ccf11bf4e)
+
+---
+
+## 22. Senior Data Engineer @ Audacy, Inc.
+**Match Score:** 12.5%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** AWS, RDS, GCP, BigQuery, Dataflow, Scala, Snowflake, Data Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=415deca736697451)
+
+---
+
+## 23. Cloud DevOps Engineer (Remote) @ nan
+**Match Score:** 12.5%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, ECS, RDS, Azure, Scala, CI/CD, Jenkins, GitHub Actions, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fa8681c5568e6fb0)
 
 ---
 
@@ -291,18 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Sr. Data Engineer @ Samsung Electronics
-**Match Score:** 12.5%
-
-📍 **Location:** Mountain View, CA, US USA
-
-🔑 **Keywords:** AWS, Kinesis, RDS, Spark, Scala, Kafka, Snowflake, Data Modeling, CI/CD, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ddb410896822ce80)
-
----
-
-## 28. Software Engineer II @ Chewy
+## 27. Software Engineer II @ Chewy
 **Match Score:** 12.5%
 
 📍 **Location:** Boston, MA, US USA
@@ -313,568 +302,128 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Integration Technical Architect (AWS/AI) @ Vantive
+## 28. Senior Analyst, Data & Analytics (AI) @ Palm Tree
 **Match Score:** 12.5%
 
-📍 **Location:** Deerfield, IL, US USA
+📍 **Location:** Los Angeles, CA, US USA
 
-🔑 **Keywords:** AWS, Lambda, Step Functions, S3, SQS, SNS, API Gateway, ECS, RDS, DynamoDB
+🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Scala, Snowflake, ETL, ELT, Power BI, Tableau
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6eff26eac5f1144c)
+[Apply Here](https://www.indeed.com/viewjob?jk=80c89a4a908e9bdf)
 
 ---
 
-## 30. Data Scientist II @ Radian Group Inc.
-**Match Score:** 12.5%
-
-📍 **Location:** Bethesda, MD, US USA
-
-🔑 **Keywords:** AWS, Lambda, Step Functions, S3, RDS, Snowflake, MLflow, CI/CD, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e3a20fd70866cf85)
-
----
-
-## 31. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** MS, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7404c3655de04dd7)
-
----
-
-## 32. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** VT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3bcd1876902912f2)
-
----
-
-## 33. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** IA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4a9b38178b754383)
-
----
-
-## 34. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** OK, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e82b6e9e211f61d4)
-
----
-
-## 35. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** IL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a620a55e826a673d)
-
----
-
-## 36. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=902e213debac8809)
-
----
-
-## 37. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** ND, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1016648c0f0d5d0b)
-
----
-
-## 38. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** IN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8cc1d5f8003f7600)
-
----
-
-## 39. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** MA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=74fbd56cbb6e1afe)
-
----
-
-## 40. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** FL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=17103584ffb6e509)
-
----
-
-## 41. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** NC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c9cd476fc679a04a)
-
----
-
-## 42. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** NJ, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4fb9b103396ef75e)
-
----
-
-## 43. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** MD, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1885c3e7464f9bc2)
-
----
-
-## 44. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** ID, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fb8189bb7df0daff)
-
----
-
-## 45. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** WV, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7d53b87a5ed021b7)
-
----
-
-## 46. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** ME, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=85395c75059dc994)
-
----
-
-## 47. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** AL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0b92f217fa630744)
-
----
-
-## 48. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** CO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8564e7eebd81568f)
-
----
-
-## 49. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** NH, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c751ca8403940e46)
-
----
-
-## 50. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** MO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6ec5266cd24c2dd6)
-
----
-
-## 51. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** OR, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=265bf1290caccb77)
-
----
-
-## 52. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** MI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d24914a82cfe666e)
-
----
-
-## 53. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** RI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=05705973a9378d80)
-
----
-
-## 54. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** MT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=795911acb1bee51f)
-
----
-
-## 55. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** UT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0a0942fc02191a0c)
-
----
-
-## 56. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** WI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=617495dbf623e38c)
-
----
-
-## 57. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** LA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e52f3fc7ec6df2ba)
-
----
-
-## 58. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f14a4b93989e7d84)
-
----
-
-## 59. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** WY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4581cdcaed5f9f0c)
-
----
-
-## 60. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** NV, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c766afcec299ad51)
-
----
-
-## 61. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=77cb2c150ee12d87)
-
----
-
-## 62. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** WA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7d75093b6fcd02c5)
-
----
-
-## 63. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** CT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=676f9ebac1172832)
-
----
-
-## 64. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** TN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=454de9f58fa31614)
-
----
-
-## 65. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** DE, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ba87ffa60d4ea16b)
-
----
-
-## 66. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** OH, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=954bc66fa74e678c)
-
----
-
-## 67. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d3adae39628854eb)
-
----
-
-## 68. Senior Software Development Engineer – Imaging Platform @ CVS Health
+## 29. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
 📍 **Location:** KY, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+🔑 **Keywords:** AWS, Redshift, Azure, GCP, Kafka, PostgreSQL, MySQL, Terraform, Docker, Kubernetes
 
-[Apply Here](https://www.indeed.com/viewjob?jk=9a7a440e90ffe87a)
-
----
-
-## 69. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bdd03d55c286c7fd)
+[Apply Here](https://www.indeed.com/viewjob?jk=e22d14682cc7c157)
 
 ---
 
-## 70. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** SD, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a5e7399fcd292254)
-
----
-
-## 71. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** MN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=693602db725cd736)
-
----
-
-## 72. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** SC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=059b9c50895f7fee)
-
----
-
-## 73. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** AR, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e189e5672a8c8a33)
-
----
-
-## 74. Senior Software Development Engineer – Imaging Platform @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** KS, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=de9c5376661bd35b)
-
----
-
-## 75. Senior Software Development Engineer – Imaging Platform @ CVS Health
+## 30. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
 📍 **Location:** AZ, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+🔑 **Keywords:** AWS, Redshift, Azure, GCP, Kafka, PostgreSQL, MySQL, Terraform, Docker, Kubernetes
 
-[Apply Here](https://www.indeed.com/viewjob?jk=adba19e5f6f34e9a)
+[Apply Here](https://www.indeed.com/viewjob?jk=ff6a02642c276bf4)
 
 ---
 
-## 76. Senior Software Development Engineer – Imaging Platform @ CVS Health
+## 31. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
-📍 **Location:** NM, US USA
+📍 **Location:** KS, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+🔑 **Keywords:** AWS, Redshift, Azure, GCP, Kafka, PostgreSQL, MySQL, Terraform, Docker, Kubernetes
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0494adf7cd3b47d6)
+[Apply Here](https://www.indeed.com/viewjob?jk=70afb87e4855ee97)
 
 ---
 
-## 77. Senior Software Development Engineer – Imaging Platform @ CVS Health
+## 32. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
-📍 **Location:** NE, US USA
+📍 **Location:** GA, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+🔑 **Keywords:** AWS, Redshift, Azure, GCP, Kafka, PostgreSQL, MySQL, Terraform, Docker, Kubernetes
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e6a0794cdf7814e0)
+[Apply Here](https://www.indeed.com/viewjob?jk=2f4478af45a9bae5)
 
 ---
 
-## 78. Senior Software Development Engineer – Imaging Platform @ CVS Health
+## 33. Engineering - Agentic AI Engineer (Junior) @ Aline
+**Match Score:** 12.5%
+
+📍 **Location:** FL, US USA
+
+🔑 **Keywords:** AWS, Redshift, Azure, GCP, Kafka, PostgreSQL, MySQL, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a4d17985a6e35637)
+
+---
+
+## 34. Engineering - Agentic AI Engineer (Junior) @ Aline
+**Match Score:** 12.5%
+
+📍 **Location:** IN, US USA
+
+🔑 **Keywords:** AWS, Redshift, Azure, GCP, Kafka, PostgreSQL, MySQL, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b5a2598e1734a29f)
+
+---
+
+## 35. Engineering - Agentic AI Engineer (Junior) @ Aline
+**Match Score:** 12.5%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Redshift, Azure, GCP, Kafka, PostgreSQL, MySQL, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=731dfd555cf56cb1)
+
+---
+
+## 36. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
 📍 **Location:** TX, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+🔑 **Keywords:** AWS, Redshift, Azure, GCP, Kafka, PostgreSQL, MySQL, Terraform, Docker, Kubernetes
 
-[Apply Here](https://www.indeed.com/viewjob?jk=edd03a4989d1f2d2)
+[Apply Here](https://www.indeed.com/viewjob?jk=c6c97680def5315c)
 
 ---
 
-## 79. Senior Software Development Engineer – Imaging Platform @ CVS Health
+## 37. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
-📍 **Location:** PA, US USA
+📍 **Location:** CO, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+🔑 **Keywords:** AWS, Redshift, Azure, GCP, Kafka, PostgreSQL, MySQL, Terraform, Docker, Kubernetes
 
-[Apply Here](https://www.indeed.com/viewjob?jk=77011faf16332680)
+[Apply Here](https://www.indeed.com/viewjob?jk=96784c2186363543)
 
 ---
 
-## 80. Data Engineer @ AutoSavvy
+## 38. Engineering - Agentic AI Engineer (Junior) @ Aline
+**Match Score:** 12.5%
+
+📍 **Location:** AL, US USA
+
+🔑 **Keywords:** AWS, Redshift, Azure, GCP, Kafka, PostgreSQL, MySQL, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d109e7ef208735a6)
+
+---
+
+## 39. Data Engineer @ AutoSavvy
 **Match Score:** 12.5%
 
 📍 **Location:** Woods Cross, UT, US USA
@@ -885,7 +434,546 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Software Development Engineer @ Adobe
+## 40. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** MS, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7404c3655de04dd7)
+
+---
+
+## 41. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** VT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3bcd1876902912f2)
+
+---
+
+## 42. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** IA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4a9b38178b754383)
+
+---
+
+## 43. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** OK, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e82b6e9e211f61d4)
+
+---
+
+## 44. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** IL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a620a55e826a673d)
+
+---
+
+## 45. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** Washington, DC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=902e213debac8809)
+
+---
+
+## 46. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** ND, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1016648c0f0d5d0b)
+
+---
+
+## 47. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** IN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8cc1d5f8003f7600)
+
+---
+
+## 48. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** MA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=74fbd56cbb6e1afe)
+
+---
+
+## 49. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=17103584ffb6e509)
+
+---
+
+## 50. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** NC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c9cd476fc679a04a)
+
+---
+
+## 51. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** NJ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4fb9b103396ef75e)
+
+---
+
+## 52. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** MD, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1885c3e7464f9bc2)
+
+---
+
+## 53. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** ID, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fb8189bb7df0daff)
+
+---
+
+## 54. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** WV, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7d53b87a5ed021b7)
+
+---
+
+## 55. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** ME, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=85395c75059dc994)
+
+---
+
+## 56. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** AL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0b92f217fa630744)
+
+---
+
+## 57. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** CO, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8564e7eebd81568f)
+
+---
+
+## 58. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** NH, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c751ca8403940e46)
+
+---
+
+## 59. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** MO, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6ec5266cd24c2dd6)
+
+---
+
+## 60. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** OR, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=265bf1290caccb77)
+
+---
+
+## 61. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** MI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d24914a82cfe666e)
+
+---
+
+## 62. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** RI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=05705973a9378d80)
+
+---
+
+## 63. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** MT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=795911acb1bee51f)
+
+---
+
+## 64. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** UT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0a0942fc02191a0c)
+
+---
+
+## 65. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** WI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=617495dbf623e38c)
+
+---
+
+## 66. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** LA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e52f3fc7ec6df2ba)
+
+---
+
+## 67. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f14a4b93989e7d84)
+
+---
+
+## 68. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** WY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4581cdcaed5f9f0c)
+
+---
+
+## 69. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** NV, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c766afcec299ad51)
+
+---
+
+## 70. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=77cb2c150ee12d87)
+
+---
+
+## 71. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** WA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7d75093b6fcd02c5)
+
+---
+
+## 72. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** CT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=676f9ebac1172832)
+
+---
+
+## 73. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** TN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=454de9f58fa31614)
+
+---
+
+## 74. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** DE, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ba87ffa60d4ea16b)
+
+---
+
+## 75. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** OH, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=954bc66fa74e678c)
+
+---
+
+## 76. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d3adae39628854eb)
+
+---
+
+## 77. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** KY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9a7a440e90ffe87a)
+
+---
+
+## 78. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bdd03d55c286c7fd)
+
+---
+
+## 79. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** SD, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a5e7399fcd292254)
+
+---
+
+## 80. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** MN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=693602db725cd736)
+
+---
+
+## 81. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** SC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=059b9c50895f7fee)
+
+---
+
+## 82. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** AR, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e189e5672a8c8a33)
+
+---
+
+## 83. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** KS, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=de9c5376661bd35b)
+
+---
+
+## 84. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** AZ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=adba19e5f6f34e9a)
+
+---
+
+## 85. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** NM, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0494adf7cd3b47d6)
+
+---
+
+## 86. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** NE, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e6a0794cdf7814e0)
+
+---
+
+## 87. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=edd03a4989d1f2d2)
+
+---
+
+## 88. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 12.5%
+
+📍 **Location:** PA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Google Cloud Platform, GCP, Cloud Storage, Scala, PostgreSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=77011faf16332680)
+
+---
+
+## 89. Software Development Engineer @ Adobe
 **Match Score:** 11.8%
 
 📍 **Location:** San Jose, CA, US USA
@@ -896,7 +984,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Data Engineer @ TG Administration LLC
+## 90. Data Systems Engineer @ Central Health
+**Match Score:** 11.8%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Scala, Snowflake, SQL Server, Data Modeling, Snowflake Schema, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=69e406b4cb8e2231)
+
+---
+
+## 91. Data Engineer @ TG Administration LLC
 **Match Score:** 11.8%
 
 📍 **Location:** Scottsdale, AZ, US USA
@@ -907,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Azure Engineer (Associate) @ Huron Consulting Group
+## 92. Azure Engineer (Associate) @ Huron Consulting Group
 **Match Score:** 11.8%
 
 📍 **Location:** Chicago, IL, US USA
@@ -918,7 +1017,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. SDET AI Architect role @ Nexzentek
+## 93. Software Engineer @ Tyto Athene
+**Match Score:** 11.8%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Jenkins, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a7e23acbb45cb289)
+
+---
+
+## 94. Sr. Software Engineer II, BS Solutions @ Frontline Education
+**Match Score:** 11.8%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, RDS, Scala, Kafka, SQL Server, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2f921dcd48bc6177)
+
+---
+
+## 95. Software Site Reliability Engineer @ CoorsTek
+**Match Score:** 11.8%
+
+📍 **Location:** Golden, CO, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Unity Catalog, Spark, PySpark, Scala, ELT, CI/CD, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=088f92fa01dbe0cb)
+
+---
+
+## 96. SDET AI Architect role @ Nexzentek
 **Match Score:** 11.8%
 
 📍 **Location:** Chicago, IL, US USA
@@ -929,29 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. BI and AI Automation Engineer @ Trianz
-**Match Score:** 11.8%
-
-📍 **Location:** Overland Park, KS, US USA
-
-🔑 **Keywords:** AWS, Glue, Redshift, Athena, S3, RDS, Scala, Snowflake, Data Modeling, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9063c5940585caea)
-
----
-
-## 86. Senior Software Development Engineer In Test, ML/AI @ PlayStation
-**Match Score:** 11.8%
-
-📍 **Location:** San Mateo, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Databricks, GCP, Scala, CI/CD, Jenkins, GitHub Actions, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c5b49d9429473d67)
-
----
-
-## 87. Associate - Full Stack Developer @ New York Life
+## 97. Associate - Full Stack Developer @ New York Life
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -962,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Senior Software Engineer, Digital Banking & Payments @ American Express
+## 98. Senior Software Engineer, Digital Banking & Payments @ American Express
 **Match Score:** 11.1%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -973,7 +1083,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Cloud Infrastructure Engineer @ Sunward
+## 99. Full Stack Data Engineer @ Ford Motor Company
+**Match Score:** 11.1%
+
+📍 **Location:** Dearborn, MI, US USA
+
+🔑 **Keywords:** RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Cloud Storage, Scala, Kafka, CI/CD, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d)
+
+---
+
+## 100. Cloud Infrastructure Engineer @ Sunward
 **Match Score:** 11.1%
 
 📍 **Location:** Albuquerque, NM, US USA
@@ -984,18 +1105,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Data Engineer @ Cayuse Holdings
-**Match Score:** 11.1%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** Scala, Snowflake, Informatica PowerCenter, Oracle, SQL Server, ETL, ELT, Tableau, CI/CD, GitHub Actions
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f660da5ba96d068e)
-
----
-
-## 91. Senior .net Software Engineer @ Wells Fargo
+## 101. Senior .net Software Engineer @ Wells Fargo
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -1006,29 +1116,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Sr Associate Engineer/Engineer, IT Software @ American Airlines
+## 102. Devops Engineer @ Foxconn Industrial Internet - FII
 **Match Score:** 11.1%
 
-📍 **Location:** Fort Worth, TX, US USA
+📍 **Location:** Houston, TX, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Kafka, PostgreSQL, MongoDB, GitHub Actions, Azure DevOps, Docker, Kubernetes
+🔑 **Keywords:** AWS, RDS, Azure, Kafka, Oracle, SQL Server, PostgreSQL, CI/CD, Jenkins, Azure DevOps
 
-[Apply Here](https://www.indeed.com/viewjob?jk=82fe8f468cf74df4)
+[Apply Here](https://www.indeed.com/viewjob?jk=ca9ed805cf135ece)
 
 ---
 
-## 93. Senior Software Engineer, Full Stack Web Development – GCP & Vertex AI Focus @ General Motors (GM)
-**Match Score:** 11.1%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, BigQuery, Cloud Storage, Vertex AI, Scala, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1ecb968fef1744db)
-
----
-
-## 94. Business Analyst, Senior Associate @ JPMorganChase
+## 103. Business Analyst, Senior Associate @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** Wilmington, DE, US USA
@@ -1039,7 +1138,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Full Stack Quantitative Developer - Capital Markets - NYC / Dallas / Los Angeles @ Portfolio BI
+## 104. Sr Associate Engineer/Engineer, IT Software @ American Airlines
+**Match Score:** 11.1%
+
+📍 **Location:** Fort Worth, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Kafka, PostgreSQL, MongoDB, GitHub Actions, Azure DevOps, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=82fe8f468cf74df4)
+
+---
+
+## 105. Senior Software Engineer, Full Stack Web Development – GCP & Vertex AI Focus @ General Motors (GM)
+**Match Score:** 11.1%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, BigQuery, Cloud Storage, Vertex AI, Scala, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1ecb968fef1744db)
+
+---
+
+## 106. Full Stack Quantitative Developer - Capital Markets - NYC / Dallas / Los Angeles @ Portfolio BI
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -1050,7 +1171,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Senior Software Engineer, Scientific System of Record @ Lila Sciences
+## 107. Senior Software Engineer, Scientific System of Record @ Lila Sciences
 **Match Score:** 11.1%
 
 📍 **Location:** Cambridge, MA, US USA
@@ -1061,7 +1182,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. URBN Senior DevOps Engineer @ URBN
+## 108. URBN Senior DevOps Engineer @ URBN
 **Match Score:** 11.1%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -1072,7 +1193,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Data & Digital Solutions Engineer @ ASM
+## 109. Data & Digital Solutions Engineer @ ASM
+**Match Score:** 10.4%
+
+📍 **Location:** Phoenix, AZ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, NoSQL, Data Modeling, ETL, ELT, Power BI, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=02fdb552c664e0b2)
+
+---
+
+## 110. Data & Digital Solutions Engineer @ ASM
 **Match Score:** 10.4%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -1083,7 +1215,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. Senior Cloud Engineer @ Qnity
+## 111. Senior Cloud Engineer @ Qnity
 **Match Score:** 10.4%
 
 📍 **Location:** Wilmington, DE, US USA
@@ -1094,7 +1226,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. Data Engineer Associate @ Bosch
+## 112. Data Engineer Associate @ Bosch
 **Match Score:** 10.4%
 
 📍 **Location:** Roseville, CA, US USA
@@ -1105,7 +1237,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Data Engineer @ Child Mind Institute
+## 113. Data Engineer @ Child Mind Institute
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -1116,7 +1248,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. Data Engineer Intern/Co-op @ Plymouth Rock Assurance
+## 114. Data Engineer Intern/Co-op @ Plymouth Rock Assurance
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -1127,7 +1259,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. Senior Data Engineer @ nan
+## 115. Senior Data Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -1138,29 +1270,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 104. Managed Services Engineer III @ Deloitte
+## 116. Distinguished Engineer, Data Platform @ CloudZero
 **Match Score:** 10.4%
 
-📍 **Location:** Louisville, KY, US USA
+📍 **Location:** Boston, MA, US USA
 
-🔑 **Keywords:** Azure, Data Factory, Synapse Analytics, Databricks, Data Lake Storage, Spark, Scala, Dimensional Modeling, ETL, ELT
+🔑 **Keywords:** AWS, Kinesis, Redshift, Azure, GCP, BigQuery, Spark, Spark Streaming, Kafka, Snowflake
 
-[Apply Here](https://www.indeed.com/viewjob?jk=01d223961163a5b9)
+[Apply Here](https://www.indeed.com/viewjob?jk=25ec3ffd343b6320)
 
 ---
 
-## 105. Forward Deployed Data Engineer @ CoorsTek
-**Match Score:** 10.4%
-
-📍 **Location:** Golden, CO, US USA
-
-🔑 **Keywords:** RDS, Azure, Databricks, Unity Catalog, Spark, PySpark, Data Modeling, ETL, ELT, Power BI
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fbe256f9b09a7e0e)
-
----
-
-## 106. People Analytics AI Engineer @ Samsara
+## 117. People Analytics AI Engineer @ Samsara
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1171,7 +1292,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 107. Python Web Application Developer @ IntelliDyne
+## 118. Python Web Application Developer @ IntelliDyne
 **Match Score:** 10.4%
 
 📍 **Location:** Tysons Corner, VA, US USA
@@ -1182,7 +1303,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 108. People Analytics AI Engineer @ Samsara
+## 119. People Analytics AI Engineer @ Samsara
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1193,7 +1314,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 109. Site Reliability Engineer I- Operations @ Utah Valley University
+## 120. Site Reliability Engineer I- Operations @ Utah Valley University
 **Match Score:** 10.4%
 
 📍 **Location:** Orem, UT, US USA
@@ -1204,7 +1325,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 110. Data Scientist - Sr. Associate - Product, Experience and Technology (PXT) Analytics Team @ JPMorganChase
+## 121. Data Scientist - Sr. Associate - Product, Experience and Technology (PXT) Analytics Team @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Plano, TX, US USA
@@ -1215,29 +1336,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 111. 1. Front-End Web Developer(FE) | Back-End Web Developer (BE) | Content Designer (CD) @ Sfklogix LLC
-**Match Score:** 10.4%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, Scala, SQL Server, PostgreSQL, MySQL, CI/CD, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4)
-
----
-
-## 112. Software Engineer III @ nan
-**Match Score:** 10.4%
-
-📍 **Location:** Fort Meade, MD, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Scala, Kafka, MLOps, CI/CD, Terraform, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e7083633f75338f3)
-
----
-
-## 113. Python Developer (Linux exp) @ Concentrix
+## 122. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -1248,7 +1347,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 114. Python Developer (Linux exp) @ Concentrix
+## 123. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** WV, US USA
@@ -1259,7 +1358,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 115. Python Developer (Linux exp) @ Concentrix
+## 124. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** WY, US USA
@@ -1270,7 +1369,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 116. Python Developer (Linux exp) @ Concentrix
+## 125. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** SC, US USA
@@ -1281,7 +1380,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 117. Python Developer (Linux exp) @ Concentrix
+## 126. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** UT, US USA
@@ -1292,7 +1391,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 118. Python Developer (Linux exp) @ Concentrix
+## 127. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** TN, US USA
@@ -1303,7 +1402,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 119. Python Developer (Linux exp) @ Concentrix
+## 128. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** VT, US USA
@@ -1314,7 +1413,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 120. Python Developer (Linux exp) @ Concentrix
+## 129. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** WI, US USA
@@ -1325,7 +1424,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 121. Python Developer (Linux exp) @ Concentrix
+## 130. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** VA, US USA
@@ -1336,7 +1435,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 122. Python Developer (Linux exp) @ Concentrix
+## 131. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** ND, US USA
@@ -1347,7 +1446,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 123. Python Developer (Linux exp) @ Concentrix
+## 132. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** AL, US USA
@@ -1358,7 +1457,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 124. Python Developer (Linux exp) @ Concentrix
+## 133. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** NE, US USA
@@ -1369,7 +1468,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 125. Python Developer (Linux exp) @ Concentrix
+## 134. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** MO, US USA
@@ -1380,7 +1479,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 126. Python Developer (Linux exp) @ Concentrix
+## 135. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** OK, US USA
@@ -1391,7 +1490,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 127. Python Developer (Linux exp) @ Concentrix
+## 136. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** CO, US USA
@@ -1402,7 +1501,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 128. Python Developer (Linux exp) @ Concentrix
+## 137. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** ME, US USA
@@ -1413,7 +1512,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 129. Python Developer (Linux exp) @ Concentrix
+## 138. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** PA, US USA
@@ -1424,7 +1523,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 130. Python Developer (Linux exp) @ Concentrix
+## 139. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** IN, US USA
@@ -1435,7 +1534,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 131. Python Developer (Linux exp) @ Concentrix
+## 140. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** NC, US USA
@@ -1446,7 +1545,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 132. Python Developer (Linux exp) @ Concentrix
+## 141. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** IA, US USA
@@ -1457,7 +1556,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 133. Python Developer (Linux exp) @ Concentrix
+## 142. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** KY, US USA
@@ -1468,7 +1567,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 134. Python Developer (Linux exp) @ Concentrix
+## 143. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** MN, US USA
@@ -1479,7 +1578,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 135. Python Developer (Linux exp) @ Concentrix
+## 144. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** SD, US USA
@@ -1490,7 +1589,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 136. Python Developer (Linux exp) @ Concentrix
+## 145. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** KS, US USA
@@ -1501,7 +1600,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 137. Python Developer (Linux exp) @ Concentrix
+## 146. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** LA, US USA
@@ -1512,7 +1611,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 138. Python Developer (Linux exp) @ Concentrix
+## 147. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** RI, US USA
@@ -1523,7 +1622,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 139. Python Developer (Linux exp) @ Concentrix
+## 148. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** NM, US USA
@@ -1534,7 +1633,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 140. Python Developer (Linux exp) @ Concentrix
+## 149. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** FL, US USA
@@ -1545,7 +1644,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 141. Python Developer (Linux exp) @ Concentrix
+## 150. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** GA, US USA
@@ -1556,7 +1655,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 142. Python Developer (Linux exp) @ Concentrix
+## 151. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** OH, US USA
@@ -1567,7 +1666,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 143. Python Developer (Linux exp) @ Concentrix
+## 152. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** MS, US USA
@@ -1578,7 +1677,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 144. Python Developer (Linux exp) @ Concentrix
+## 153. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** AR, US USA
@@ -1589,7 +1688,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 145. Python Developer (Linux exp) @ Concentrix
+## 154. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** NV, US USA
@@ -1600,7 +1699,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 146. Python Developer (Linux exp) @ Concentrix
+## 155. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** AZ, US USA
@@ -1611,7 +1710,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 147. Python Developer (Linux exp) @ Concentrix
+## 156. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** ID, US USA
@@ -1622,7 +1721,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 148. Python Developer (Linux exp) @ Concentrix
+## 157. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** MI, US USA
@@ -1630,6 +1729,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, Kafka, PostgreSQL, MySQL, ETL, CI/CD, Terraform, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=fdc98d9c47321a48)
+
+---
+
+## 158. 1. Front-End Web Developer(FE) | Back-End Web Developer (BE) | Content Designer (CD) @ Sfklogix LLC
+**Match Score:** 10.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, Scala, SQL Server, PostgreSQL, MySQL, CI/CD, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4)
+
+---
+
+## 159. Software Engineer III @ nan
+**Match Score:** 10.4%
+
+📍 **Location:** Fort Meade, MD, US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, Scala, Kafka, MLOps, CI/CD, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e7083633f75338f3)
 
 ---
 

@@ -1,16 +1,40 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-06 00:00
+Last updated: 2026-06-06 03:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Trianz | AWS Data Architect | Clinton, NJ, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=4383b83bebf58ee2) | 2026-06-06 03:37 |
+| New York Blood Center | Senior Data Engineer | Rye, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=558c0c0c483e56c0) | 2026-06-06 03:37 |
+| ActiveProspect, Inc. | Senior Platform Engineer (DevOps) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a17efe4f6a851376) | 2026-06-06 03:37 |
+| Audacy, Inc. | Senior Data Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=415deca736697451) | 2026-06-06 03:37 |
+| nan | Cloud DevOps Engineer (Remote) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fa8681c5568e6fb0) | 2026-06-06 03:37 |
+| Palm Tree | Senior Analyst, Data & Analytics (AI) | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=80c89a4a908e9bdf) | 2026-06-06 03:37 |
+| Aline | Engineering - Agentic AI Engineer (Junior) | KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e22d14682cc7c157) | 2026-06-06 03:37 |
+| Aline | Engineering - Agentic AI Engineer (Junior) | AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff6a02642c276bf4) | 2026-06-06 03:37 |
+| Aline | Engineering - Agentic AI Engineer (Junior) | KS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=70afb87e4855ee97) | 2026-06-06 03:37 |
+| Aline | Engineering - Agentic AI Engineer (Junior) | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f4478af45a9bae5) | 2026-06-06 03:37 |
+| Aline | Engineering - Agentic AI Engineer (Junior) | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a4d17985a6e35637) | 2026-06-06 03:37 |
+| Aline | Engineering - Agentic AI Engineer (Junior) | IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b5a2598e1734a29f) | 2026-06-06 03:37 |
+| Aline | Engineering - Agentic AI Engineer (Junior) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=731dfd555cf56cb1) | 2026-06-06 03:37 |
+| Aline | Engineering - Agentic AI Engineer (Junior) | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c6c97680def5315c) | 2026-06-06 03:37 |
+| Aline | Engineering - Agentic AI Engineer (Junior) | CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=96784c2186363543) | 2026-06-06 03:37 |
+| Aline | Engineering - Agentic AI Engineer (Junior) | AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d109e7ef208735a6) | 2026-06-06 03:37 |
+| Central Health | Data Systems Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=69e406b4cb8e2231) | 2026-06-06 03:37 |
+| Tyto Athene | Software Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7e23acbb45cb289) | 2026-06-06 03:37 |
+| Frontline Education | Sr. Software Engineer II, BS Solutions | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2f921dcd48bc6177) | 2026-06-06 03:37 |
+| CoorsTek | Software Site Reliability Engineer | Golden, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=088f92fa01dbe0cb) | 2026-06-06 03:37 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d) | 2026-06-06 03:37 |
+| Foxconn Industrial Internet - FII | Devops Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca9ed805cf135ece) | 2026-06-06 03:37 |
+| ASM | Data & Digital Solutions Engineer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=02fdb552c664e0b2) | 2026-06-06 03:37 |
+| CloudZero | Distinguished Engineer, Data Platform | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=25ec3ffd343b6320) | 2026-06-06 03:37 |
+| Sfklogix LLC | 1. Front-End Web Developer(FE) \| Back-End Web Developer (BE) \| Content Designer (CD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4) | 2026-06-06 03:37 |
 | Bluebird Fiber | Data Architect | Kansas City, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ec84abb9723f3323) | 2026-06-06 00:00 |
 | Bluebird Fiber | Data Architect | Independence, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6038be7764e9b130) | 2026-06-06 00:00 |
 | Wells Fargo | Senior .net Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac08d38f082053ce) | 2026-06-06 00:00 |
 | ASM | Data & Digital Solutions Engineer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=54570e15fbd26f96) | 2026-06-06 00:00 |
-| Sfklogix LLC | 1. Front-End Web Developer(FE) \| Back-End Web Developer (BE) \| Content Designer (CD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4) | 2026-06-06 00:00 |
 | Charles Schwab | Cloud Data Engineer | Southlake, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=53ff12a0a5a571cd) | 2026-06-05 22:10 |
 | nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4b03d7c92e1f21c5) | 2026-06-05 22:10 |
 | nan | Senior AI Data Engineer | San Diego, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=17b7a7675d2646cd) | 2026-06-05 22:10 |
@@ -690,10 +714,6 @@ Last updated: 2026-06-06 00:00
 | LoadUp Technologies | Senior Software Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4a9537487871ae7) | 2026-06-02 05:24 |
 | Ketch | Backend Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=710a102d3715faa8) | 2026-06-02 05:24 |
 | Commerce | Senior Data Solutions Developer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00b9a152574ef319) | 2026-06-02 05:24 |
-| Electronic Arts | Senior Data Engineer | Austin, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c0f811fcc1e86b90) | 2026-06-02 00:08 |
-| Infor | ERP Data Management Architect | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dcaf6daec0d7c9d8) | 2026-06-02 00:08 |
-| Per Scholas | Instructional Assistant (Cloud Systems Engineering) | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=27337ed48c446924) | 2026-06-02 00:08 |
-| Shelter Insurance | Enterprise Data Engineer | Columbia, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e77849a606bd380) | 2026-06-02 00:08 |
 
 
 ---
