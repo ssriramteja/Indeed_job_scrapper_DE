@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-06 20:55
+Last updated: 2026-06-06 21:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d) | 2026-06-06 20:55 |
-| Sfklogix LLC | 1. Front-End Web Developer(FE) \| Back-End Web Developer (BE) \| Content Designer (CD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4) | 2026-06-06 20:55 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d) | 2026-06-06 21:57 |
+| Sfklogix LLC | 1. Front-End Web Developer(FE) \| Back-End Web Developer (BE) \| Content Designer (CD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4) | 2026-06-06 21:57 |
 | NSV IT SOLUTIONS | Sr Confluent Kafka Architect | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=3731032ae0f7a545) | 2026-06-06 19:06 |
 | nan | OpenText xECM Administrator | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=789eced375518056) | 2026-06-06 19:06 |
 | SmithRx | Senior Cloud Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d83253303e037541) | 2026-06-06 17:01 |
@@ -515,34 +515,6 @@ Last updated: 2026-06-06 20:55
 | Five Below | Solutions Architect - AI | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=538c5daa04e61b19) | 2026-06-02 23:28 |
 | Roche | AI Full Stack Engineer | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5a65f6db57ee3cc) | 2026-06-02 23:28 |
 | Capgemini | Java Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6e1b874414bff22) | 2026-06-02 23:28 |
-| Mayo Clinic | Senior Data Engineer - API Platform Engineer - CDH | Rochester, MN, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d846903d81c33e82) | 2026-06-02 21:42 |
-| Optum | Full Stack and AI Engineer | Basking Ridge, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6f94b5acff92730) | 2026-06-02 21:42 |
-| Varonis Systems | DevOps Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d05047e3838d26d9) | 2026-06-02 21:42 |
-| Mayo Clinic | Data Engineer - API Platform Engineer - CDH | Rochester, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=edb333da77c178b4) | 2026-06-02 21:42 |
-| MITSUBISHI ELECTRIC ICONICS DIGITAL SOLUTIONS | Senior Software Development Engineer | Cambridge, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e6b0d07da6ac2093) | 2026-06-02 21:42 |
-| Direct Travel | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=32b2c7b0108f721a) | 2026-06-02 21:42 |
-| Hollstadt Consulting | Senior Data Engineer | MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7c4f516403858ed9) | 2026-06-02 21:42 |
-| DocuSign | Senior Software Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=25b51410dd8ffd88) | 2026-06-02 21:42 |
-| DocuSign | Senior Software Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e5fed518d6fe919b) | 2026-06-02 21:42 |
-| OneTrust | Senior Software Engineer - SRE | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c48d396577280e6f) | 2026-06-02 21:42 |
-| Steerbridge | Informatics Architect | Vienna, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8c1e23f8adfafe11) | 2026-06-02 21:42 |
-| Visa | SW Engineer | Highlands Ranch, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0f8a17e02da010e4) | 2026-06-02 21:42 |
-| SOSi | Data Layer Engineer | Doral, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e045fbd4ef10a7c1) | 2026-06-02 21:42 |
-| Visa | Sr. SW Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d05d8b56b72079c9) | 2026-06-02 21:42 |
-| Fashion Nova | Senior Data Engineer | Beverly Hills, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b80f5d754f1ffd13) | 2026-06-02 21:42 |
-| Innodata | Data Engineer | Ridgefield Park, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0ca03311ac42217) | 2026-06-02 21:42 |
-| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b9faea0d55a841c9) | 2026-06-02 21:42 |
-| Wells Fargo | Senior Software Engineer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2abbc5f73ae2028d) | 2026-06-02 21:42 |
-| Wells Fargo | Senior Software Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=33de66454718a7f8) | 2026-06-02 21:42 |
-| Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f96d64f561456df6) | 2026-06-02 21:42 |
-| David's Bridal | Data Analyst — AI-Driven Insights | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a585d9e5f8d2b5e) | 2026-06-02 21:42 |
-| Nabis | Senior DevOps Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e75782fef7c9f07) | 2026-06-02 21:42 |
-| Appex Innovation | Sr AI Platform Engineer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e01343345f387b3) | 2026-06-02 21:42 |
-| Trane Technologies | Senior Data Modeler | Davidson, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=745e80023e3ea1c3) | 2026-06-02 21:42 |
-| AMH | Site Reliability Engineer | Draper, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef553cc1ace7891e) | 2026-06-02 21:42 |
-| NTT DATA | .Net Fullstack Developer | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d011c6ed693c14f) | 2026-06-02 21:42 |
-| Capgemini | Data Engineer (Snowflake, AWS Glue Specialist) | Fort Mill, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b40fca841a484a98) | 2026-06-02 21:42 |
-| Franciscan Health | Data System Engineer | Mishawaka, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29a623330902562d) | 2026-06-02 21:42 |
 
 
 ---
