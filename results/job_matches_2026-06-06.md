@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-06-06
 
-**Total Jobs Found:** 106
+**Total Jobs Found:** 103
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. AWS Data Architect @ Trianz
-**Match Score:** 21.5%
-
-📍 **Location:** Clinton, NJ, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Step Functions, S3, IAM, RDS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4383b83bebf58ee2)
-
----
-
-## 2. Database Engineer/Architect @ ron turley associates
+## 1. Database Engineer/Architect @ ron turley associates
 **Match Score:** 20.8%
 
 📍 **Location:** Glendale, AZ, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Cloud Data Engineer @ Charles Schwab
+## 2. Cloud Data Engineer @ Charles Schwab
 **Match Score:** 19.4%
 
 📍 **Location:** Southlake, TX, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Data Solutions Architect – Azure Databricks @ MINDBRIDGE SOLUTIONS INC
+## 3. Data Solutions Architect – Azure Databricks @ MINDBRIDGE SOLUTIONS INC
 **Match Score:** 18.8%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Data Engineer @ FocusKPI Inc.
+## 4. Data Engineer @ FocusKPI Inc.
 **Match Score:** 17.4%
 
 📍 **Location:** New York, NY, US USA
@@ -57,6 +46,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, EMR, Lambda, Redshift, S3, SQS, SNS, RDS, Hive, Spark
 
 [Apply Here](https://www.indeed.com/viewjob?jk=fbdbfc37bf1ca190)
+
+---
+
+## 5. Senior AI Data Engineer @ nan
+**Match Score:** 16.7%
+
+📍 **Location:** San Diego, CA, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, Kinesis, Redshift, Athena, S3, RDS, Azure, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=17b7a7675d2646cd)
 
 ---
 
@@ -71,18 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior AI Data Engineer @ nan
-**Match Score:** 16.7%
-
-📍 **Location:** San Diego, CA, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, Kinesis, Redshift, Athena, S3, RDS, Azure, Kafka
-
-[Apply Here](https://www.indeed.com/viewjob?jk=17b7a7675d2646cd)
-
----
-
-## 8. Data Bricks Migration and Support engineer @ Tata Consultancy Services (TCS)
+## 7. Data Bricks Migration and Support engineer @ Tata Consultancy Services (TCS)
 **Match Score:** 16.0%
 
 📍 **Location:** Seattle, WA, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Data Bricks Migration and Support engineer @ Tata Consultancy Services (TCS)
+## 8. Data Bricks Migration and Support engineer @ Tata Consultancy Services (TCS)
 **Match Score:** 16.0%
 
 📍 **Location:** Seattle, WA, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Data Engineer - INDIA @ nan
+## 9. Senior Data Engineer - INDIA @ nan
 **Match Score:** 16.0%
 
 📍 **Location:** Dallas, TX, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Data Engineer (.NET / Azure) @ Symhas
+## 10. Senior Data Engineer (.NET / Azure) @ Symhas
 **Match Score:** 16.0%
 
 📍 **Location:** Dallas, TX, US USA
@@ -126,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Data Engineer @ New York Blood Center
+## 11. Senior Data Engineer @ New York Blood Center
 **Match Score:** 15.3%
 
 📍 **Location:** Rye, NY, US USA
@@ -137,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Data Engineer @ Stellar Solutions
+## 12. Data Engineer @ Stellar Solutions
 **Match Score:** 15.3%
 
 📍 **Location:** Miami, FL, US USA
@@ -148,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Product Engineer – Java Spring Boot w/ Full Stack Option @ Allstate Insurance
+## 13. Product Engineer – Java Spring Boot w/ Full Stack Option @ Allstate Insurance
 **Match Score:** 15.3%
 
 📍 **Location:** Remote, US USA
@@ -159,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Associate ETL Developer @ Lincoln Financial Group
+## 14. Associate ETL Developer @ Lincoln Financial Group
 **Match Score:** 15.3%
 
 📍 **Location:** Radnor, PA, US USA
@@ -167,6 +156,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Glue, Lambda, Redshift, S3, RDS, Hive, Scala, Snowflake, Oracle
 
 [Apply Here](https://www.indeed.com/viewjob?jk=646a3daa8dc34065)
+
+---
+
+## 15. Data Engineer @ Department of City Planning
+**Match Score:** 13.9%
+
+📍 **Location:** Manhattan, NY, US USA
+
+🔑 **Keywords:** AWS, Redshift, Azure, GCP, BigQuery, Spark, Snowflake, PostgreSQL, MySQL, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=997ff73d3d72b982)
 
 ---
 
@@ -181,18 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Data Engineer @ Department of City Planning
-**Match Score:** 13.9%
-
-📍 **Location:** Manhattan, NY, US USA
-
-🔑 **Keywords:** AWS, Redshift, Azure, GCP, BigQuery, Spark, Snowflake, PostgreSQL, MySQL, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=997ff73d3d72b982)
-
----
-
-## 18. Senior Platform Engineer (DevOps) @ ActiveProspect, Inc.
+## 17. Senior Platform Engineer (DevOps) @ ActiveProspect, Inc.
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -203,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Full Stack Developer (.NET & Angular) – Azure Cloud @ Inclusion Cloud
+## 18. Full Stack Developer (.NET & Angular) – Azure Cloud @ Inclusion Cloud
 **Match Score:** 13.9%
 
 📍 **Location:** Dallas, TX, US USA
@@ -214,18 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Senior Data Engineer - Power BI @ Fidelity Investments
-**Match Score:** 13.2%
-
-📍 **Location:** Durham, NC, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Scala, Snowflake, Oracle, SQL Server, Data Modeling, Star Schema, dbt
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7d20bf479b606085)
-
----
-
-## 21. Data Architect @ Bluebird Fiber
+## 19. Data Architect @ Bluebird Fiber
 **Match Score:** 13.2%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -236,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Data Architect @ Bluebird Fiber
+## 20. Data Architect @ Bluebird Fiber
 **Match Score:** 13.2%
 
 📍 **Location:** Independence, OH, US USA
@@ -244,6 +222,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Hadoop, Spark, Scala, NoSQL, Data Modeling
 
 [Apply Here](https://www.indeed.com/viewjob?jk=6038be7764e9b130)
+
+---
+
+## 21. Senior Data Engineer - Power BI @ Fidelity Investments
+**Match Score:** 13.2%
+
+📍 **Location:** Durham, NC, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Scala, Snowflake, Oracle, SQL Server, Data Modeling, Star Schema, dbt
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7d20bf479b606085)
+
+---
+
+## 22. Senior Data Engineer @ Audacy, Inc.
+**Match Score:** 12.5%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** AWS, RDS, GCP, BigQuery, Dataflow, Scala, Snowflake, Data Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=415deca736697451)
 
 ---
 
@@ -291,18 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Senior Data Engineer @ Audacy, Inc.
-**Match Score:** 12.5%
-
-📍 **Location:** Denver, CO, US USA
-
-🔑 **Keywords:** AWS, RDS, GCP, BigQuery, Dataflow, Scala, Snowflake, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=415deca736697451)
-
----
-
-## 28. Senior Analyst, Data & Analytics (AI) @ Palm Tree
+## 27. Senior Analyst, Data & Analytics (AI) @ Palm Tree
 **Match Score:** 12.5%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -313,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Engineering - Agentic AI Engineer (Junior) @ Aline
+## 28. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
 📍 **Location:** KY, US USA
@@ -324,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Engineering - Agentic AI Engineer (Junior) @ Aline
+## 29. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
 📍 **Location:** AZ, US USA
@@ -335,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Engineering - Agentic AI Engineer (Junior) @ Aline
+## 30. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
 📍 **Location:** KS, US USA
@@ -346,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Engineering - Agentic AI Engineer (Junior) @ Aline
+## 31. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
 📍 **Location:** GA, US USA
@@ -357,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Engineering - Agentic AI Engineer (Junior) @ Aline
+## 32. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
 📍 **Location:** FL, US USA
@@ -368,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Engineering - Agentic AI Engineer (Junior) @ Aline
+## 33. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
 📍 **Location:** IN, US USA
@@ -379,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Engineering - Agentic AI Engineer (Junior) @ Aline
+## 34. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -390,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Engineering - Agentic AI Engineer (Junior) @ Aline
+## 35. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
 📍 **Location:** TX, US USA
@@ -401,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Engineering - Agentic AI Engineer (Junior) @ Aline
+## 36. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
 📍 **Location:** CO, US USA
@@ -412,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Engineering - Agentic AI Engineer (Junior) @ Aline
+## 37. Engineering - Agentic AI Engineer (Junior) @ Aline
 **Match Score:** 12.5%
 
 📍 **Location:** AL, US USA
@@ -423,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Senior Data Engineer @ Mustang Cat
+## 38. Senior Data Engineer @ Mustang Cat
 **Match Score:** 12.5%
 
 📍 **Location:** Houston, TX, US USA
@@ -434,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Senior Kafka Platform Engineer @ Charles Schwab
+## 39. Senior Kafka Platform Engineer @ Charles Schwab
 **Match Score:** 11.8%
 
 📍 **Location:** Austin, TX, US USA
@@ -445,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Data Systems Engineer @ Central Health
+## 40. Data Systems Engineer @ Central Health
 **Match Score:** 11.8%
 
 📍 **Location:** Austin, TX, US USA
@@ -456,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Data Engineer @ TG Administration LLC
+## 41. Data Engineer @ TG Administration LLC
 **Match Score:** 11.8%
 
 📍 **Location:** Scottsdale, AZ, US USA
@@ -467,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Azure Engineer (Associate) @ Huron Consulting Group
+## 42. Azure Engineer (Associate) @ Huron Consulting Group
 **Match Score:** 11.8%
 
 📍 **Location:** Chicago, IL, US USA
@@ -478,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Sr. Software Engineer II, BS Solutions @ Frontline Education
+## 43. Sr. Software Engineer II, BS Solutions @ Frontline Education
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -489,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Software Site Reliability Engineer @ CoorsTek
+## 44. Software Site Reliability Engineer @ CoorsTek
 **Match Score:** 11.8%
 
 📍 **Location:** Golden, CO, US USA
@@ -500,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Sr. Software Engineer II, BS Solutions @ Frontline Education
+## 45. Sr. Software Engineer II, BS Solutions @ Frontline Education
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -511,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Software Engineer @ Tyto Athene
+## 46. Software Engineer @ Tyto Athene
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -522,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Analytics Engineer @ Casey's
+## 47. Analytics Engineer @ Casey's
 **Match Score:** 11.8%
 
 📍 **Location:** Ankeny, IA, US USA
@@ -533,29 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Associate - Full Stack Developer @ New York Life
-**Match Score:** 11.8%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, Lambda, Step Functions, S3, API Gateway, ECS, RDS, Scala, DynamoDB, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6d9923838d6f3cba)
-
----
-
-## 50. Full Stack Data Engineer @ Ford Motor Company
-**Match Score:** 11.1%
-
-📍 **Location:** Dearborn, MI, US USA
-
-🔑 **Keywords:** RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Cloud Storage, Scala, Kafka, CI/CD, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d)
-
----
-
-## 51. Senior Software Engineer, Digital Banking & Payments @ American Express
+## 48. Senior Software Engineer, Digital Banking & Payments @ American Express
 **Match Score:** 11.1%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -566,7 +533,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Devops Engineer @ Foxconn Industrial Internet - FII
+## 49. Full Stack Data Engineer @ Ford Motor Company
+**Match Score:** 11.1%
+
+📍 **Location:** Dearborn, MI, US USA
+
+🔑 **Keywords:** RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Cloud Storage, Scala, Kafka, CI/CD, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d)
+
+---
+
+## 50. Devops Engineer @ Foxconn Industrial Internet - FII
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -577,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Data Scientist, Marketing Analytics & Measurement @ Staples
+## 51. Data Scientist, Marketing Analytics & Measurement @ Staples
 **Match Score:** 11.1%
 
 📍 **Location:** Framingham, MA, US USA
@@ -588,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Senior .net Software Engineer @ Wells Fargo
+## 52. Senior .net Software Engineer @ Wells Fargo
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -599,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Sr Associate Engineer/Engineer, IT Software @ American Airlines
+## 53. Sr Associate Engineer/Engineer, IT Software @ American Airlines
 **Match Score:** 11.1%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -610,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Senior Software Engineer, Full Stack Web Development – GCP & Vertex AI Focus @ General Motors (GM)
+## 54. Senior Software Engineer, Full Stack Web Development – GCP & Vertex AI Focus @ General Motors (GM)
 **Match Score:** 11.1%
 
 📍 **Location:** Austin, TX, US USA
@@ -621,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Backend Java Engineer - Post Trade Accounting, Associate @ BlackRock
+## 55. Backend Java Engineer - Post Trade Accounting, Associate @ BlackRock
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -632,18 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. Business Analyst, Senior Associate @ JPMorganChase
-**Match Score:** 11.1%
-
-📍 **Location:** Wilmington, DE, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, Snowflake, Data Modeling, ETL, Tableau, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1ef62050b69ea736)
-
----
-
-## 59. Data & Digital Solutions Engineer @ ASM
+## 56. Data & Digital Solutions Engineer @ ASM
 **Match Score:** 10.4%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -654,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. Data & Digital Solutions Engineer @ ASM
+## 57. Data & Digital Solutions Engineer @ ASM
 **Match Score:** 10.4%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -665,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Senior Cloud Engineer @ Qnity
+## 58. Senior Cloud Engineer @ Qnity
 **Match Score:** 10.4%
 
 📍 **Location:** Wilmington, DE, US USA
@@ -676,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. Data Engineer Associate @ Bosch
+## 59. Data Engineer Associate @ Bosch
 **Match Score:** 10.4%
 
 📍 **Location:** Roseville, CA, US USA
@@ -687,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Data Engineer @ Child Mind Institute
+## 60. Data Engineer @ Child Mind Institute
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -698,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Data Engineer Intern/Co-op @ Plymouth Rock Assurance
+## 61. Data Engineer Intern/Co-op @ Plymouth Rock Assurance
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -709,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Distinguished Engineer, Data Platform @ CloudZero
+## 62. Distinguished Engineer, Data Platform @ CloudZero
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -720,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. People Analytics AI Engineer @ Samsara
+## 63. People Analytics AI Engineer @ Samsara
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -731,29 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. 1. Front-End Web Developer(FE) | Back-End Web Developer (BE) | Content Designer (CD) @ Sfklogix LLC
-**Match Score:** 10.4%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, Scala, SQL Server, PostgreSQL, MySQL, CI/CD, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4)
-
----
-
-## 68. Software Engineer III @ nan
-**Match Score:** 10.4%
-
-📍 **Location:** Fort Meade, MD, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Scala, Kafka, MLOps, CI/CD, Terraform, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e7083633f75338f3)
-
----
-
-## 69. People Analytics AI Engineer @ Samsara
+## 64. People Analytics AI Engineer @ Samsara
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -764,7 +709,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. HR -Data Scientist @ Tata Consultancy Services (TCS)
+## 65. 1. Front-End Web Developer(FE) | Back-End Web Developer (BE) | Content Designer (CD) @ Sfklogix LLC
+**Match Score:** 10.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, Scala, SQL Server, PostgreSQL, MySQL, CI/CD, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4)
+
+---
+
+## 66. Software Engineer III @ nan
+**Match Score:** 10.4%
+
+📍 **Location:** Fort Meade, MD, US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, Scala, Kafka, MLOps, CI/CD, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e7083633f75338f3)
+
+---
+
+## 67. HR -Data Scientist @ Tata Consultancy Services (TCS)
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
@@ -775,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Python Developer (Linux exp) @ Concentrix
+## 68. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -786,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Python Developer (Linux exp) @ Concentrix
+## 69. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** WV, US USA
@@ -797,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Python Developer (Linux exp) @ Concentrix
+## 70. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** WY, US USA
@@ -808,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Python Developer (Linux exp) @ Concentrix
+## 71. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** SC, US USA
@@ -819,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Python Developer (Linux exp) @ Concentrix
+## 72. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** UT, US USA
@@ -830,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Python Developer (Linux exp) @ Concentrix
+## 73. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** TN, US USA
@@ -841,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Python Developer (Linux exp) @ Concentrix
+## 74. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** VT, US USA
@@ -852,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Python Developer (Linux exp) @ Concentrix
+## 75. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** WI, US USA
@@ -863,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Python Developer (Linux exp) @ Concentrix
+## 76. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** VA, US USA
@@ -874,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Python Developer (Linux exp) @ Concentrix
+## 77. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** ND, US USA
@@ -885,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Python Developer (Linux exp) @ Concentrix
+## 78. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** AL, US USA
@@ -896,7 +863,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Python Developer (Linux exp) @ Concentrix
+## 79. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** NE, US USA
@@ -907,7 +874,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Python Developer (Linux exp) @ Concentrix
+## 80. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** MO, US USA
@@ -918,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Python Developer (Linux exp) @ Concentrix
+## 81. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** OK, US USA
@@ -929,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Python Developer (Linux exp) @ Concentrix
+## 82. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** CO, US USA
@@ -940,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Python Developer (Linux exp) @ Concentrix
+## 83. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** ME, US USA
@@ -951,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Python Developer (Linux exp) @ Concentrix
+## 84. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** PA, US USA
@@ -962,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Python Developer (Linux exp) @ Concentrix
+## 85. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** IN, US USA
@@ -973,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Python Developer (Linux exp) @ Concentrix
+## 86. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** NC, US USA
@@ -984,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Python Developer (Linux exp) @ Concentrix
+## 87. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** IA, US USA
@@ -995,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Python Developer (Linux exp) @ Concentrix
+## 88. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** KY, US USA
@@ -1006,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Python Developer (Linux exp) @ Concentrix
+## 89. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** MN, US USA
@@ -1017,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Python Developer (Linux exp) @ Concentrix
+## 90. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** SD, US USA
@@ -1028,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Python Developer (Linux exp) @ Concentrix
+## 91. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** KS, US USA
@@ -1039,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Python Developer (Linux exp) @ Concentrix
+## 92. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** LA, US USA
@@ -1050,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Python Developer (Linux exp) @ Concentrix
+## 93. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** RI, US USA
@@ -1061,7 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Python Developer (Linux exp) @ Concentrix
+## 94. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** NM, US USA
@@ -1072,7 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Python Developer (Linux exp) @ Concentrix
+## 95. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** FL, US USA
@@ -1083,7 +1050,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. Python Developer (Linux exp) @ Concentrix
+## 96. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** GA, US USA
@@ -1094,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. Python Developer (Linux exp) @ Concentrix
+## 97. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** OH, US USA
@@ -1105,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Python Developer (Linux exp) @ Concentrix
+## 98. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** MS, US USA
@@ -1116,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. Python Developer (Linux exp) @ Concentrix
+## 99. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** AR, US USA
@@ -1127,7 +1094,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. Python Developer (Linux exp) @ Concentrix
+## 100. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** NV, US USA
@@ -1138,7 +1105,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 104. Python Developer (Linux exp) @ Concentrix
+## 101. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** AZ, US USA
@@ -1149,7 +1116,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 105. Python Developer (Linux exp) @ Concentrix
+## 102. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** ID, US USA
@@ -1160,7 +1127,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 106. Python Developer (Linux exp) @ Concentrix
+## 103. Python Developer (Linux exp) @ Concentrix
 **Match Score:** 10.4%
 
 📍 **Location:** MI, US USA

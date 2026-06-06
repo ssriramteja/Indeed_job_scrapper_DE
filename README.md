@@ -1,17 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-06 11:17
+Last updated: 2026-06-06 13:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d) | 2026-06-06 13:10 |
+| Sfklogix LLC | 1. Front-End Web Developer(FE) \| Back-End Web Developer (BE) \| Content Designer (CD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4) | 2026-06-06 13:10 |
 | ron turley associates | Database Engineer/Architect | Glendale, AZ, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=38fb9ceb49a96b57) | 2026-06-06 11:17 |
 | Mustang Cat | Senior Data Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=94f8c84cd358c94d) | 2026-06-06 11:17 |
 | Frontline Education | Sr. Software Engineer II, BS Solutions | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e2da1cdaefbd7649) | 2026-06-06 11:17 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d) | 2026-06-06 11:17 |
 | Staples | Data Scientist, Marketing Analytics & Measurement | Framingham, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1861d953a806a35d) | 2026-06-06 11:17 |
-| Sfklogix LLC | 1. Front-End Web Developer(FE) \| Back-End Web Developer (BE) \| Content Designer (CD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4) | 2026-06-06 11:17 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f4d5b6c0ea750fd) | 2026-06-06 09:18 |
 | FocusKPI Inc. | Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=fbdbfc37bf1ca190) | 2026-06-06 06:47 |
 | Citizens | Sr Data Engineer- Data Platform & AI Enablement | Johnston, RI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=18c6ead6041dd8b2) | 2026-06-06 06:47 |
