@@ -1,14 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-06 09:18
+Last updated: 2026-06-06 11:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ron turley associates | Database Engineer/Architect | Glendale, AZ, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=38fb9ceb49a96b57) | 2026-06-06 11:17 |
+| Mustang Cat | Senior Data Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=94f8c84cd358c94d) | 2026-06-06 11:17 |
+| Frontline Education | Sr. Software Engineer II, BS Solutions | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e2da1cdaefbd7649) | 2026-06-06 11:17 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d) | 2026-06-06 11:17 |
+| Staples | Data Scientist, Marketing Analytics & Measurement | Framingham, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1861d953a806a35d) | 2026-06-06 11:17 |
+| Sfklogix LLC | 1. Front-End Web Developer(FE) \| Back-End Web Developer (BE) \| Content Designer (CD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4) | 2026-06-06 11:17 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f4d5b6c0ea750fd) | 2026-06-06 09:18 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d) | 2026-06-06 09:18 |
-| Sfklogix LLC | 1. Front-End Web Developer(FE) \| Back-End Web Developer (BE) \| Content Designer (CD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4) | 2026-06-06 09:18 |
 | FocusKPI Inc. | Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=fbdbfc37bf1ca190) | 2026-06-06 06:47 |
 | Citizens | Sr Data Engineer- Data Platform & AI Enablement | Johnston, RI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=18c6ead6041dd8b2) | 2026-06-06 06:47 |
 | Tata Consultancy Services (TCS) | Data Bricks Migration and Support engineer | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6f646314becd0f4e) | 2026-06-06 06:47 |
@@ -683,17 +687,6 @@ Last updated: 2026-06-06 09:18
 | Deloitte | Finance Analytics & AI Senior Consultant | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d8a3699e30c2caf7) | 2026-06-02 14:43 |
 | Deloitte | Finance Analytics & AI Senior Consultant | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b2694b298c133118) | 2026-06-02 14:43 |
 | Deloitte | Finance Analytics & AI Senior Consultant | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=31a495d44eb4372b) | 2026-06-02 14:43 |
-| Capstone Logistics, LLC | Sr. Data Engineer | Peachtree Corners, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5a7e3e5bab34cec5) | 2026-06-02 10:05 |
-| Databricks | Specialist Solutions Architect - Data Engineering & Observability | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=04cf0c668327fad5) | 2026-06-02 10:05 |
-| RHP Properties | Data Platform Engineer | Farmington Hills, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=71e4e883bfa671e3) | 2026-06-02 10:05 |
-| Pyramid Systems Inc | Senior AI Software Developer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5afa70752c2ff290) | 2026-06-02 10:05 |
-| Cisco | Site Reliability Engineer | Research Triangle Park, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2cac809c2033ba77) | 2026-06-02 10:05 |
-| Optum | AI Architect - Enterprise AI & Generative AI Platforms - Multiple locations; Remote | Schaumburg, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=77b44ab330bb3208) | 2026-06-02 10:05 |
-| Scorpion | Senior AI Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e05c14e44f4d784f) | 2026-06-02 10:05 |
-| Scorpion | Senior AI Data Engineer | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ca72623b1ecda0c) | 2026-06-02 10:05 |
-| Scorpion | Senior AI Data Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b567dc076f197de9) | 2026-06-02 10:05 |
-| nan | .NET Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fde32c0099d09aeb) | 2026-06-02 10:05 |
-| Commerce | Senior Data Solutions Developer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f28d1a195e234e3a) | 2026-06-02 10:05 |
 
 
 ---
