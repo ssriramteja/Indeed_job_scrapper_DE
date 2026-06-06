@@ -1,16 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-06 17:01
+Last updated: 2026-06-06 19:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NSV IT SOLUTIONS | Sr Confluent Kafka Architect | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=3731032ae0f7a545) | 2026-06-06 19:06 |
+| nan | OpenText xECM Administrator | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=789eced375518056) | 2026-06-06 19:06 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d) | 2026-06-06 19:06 |
+| Sfklogix LLC | 1. Front-End Web Developer(FE) \| Back-End Web Developer (BE) \| Content Designer (CD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4) | 2026-06-06 19:06 |
 | SmithRx | Senior Cloud Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d83253303e037541) | 2026-06-06 17:01 |
 | SmithRx | Senior DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a26b1a617031dc58) | 2026-06-06 17:01 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d) | 2026-06-06 17:01 |
 | County of Orange | Business Services Developer (Business Services Analyst) | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab95d16515240126) | 2026-06-06 17:01 |
-| Sfklogix LLC | 1. Front-End Web Developer(FE) \| Back-End Web Developer (BE) \| Content Designer (CD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00720fd3b058f6e4) | 2026-06-06 17:01 |
 | nan | Sr Data Engineer | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=99c05afb61055331) | 2026-06-06 15:06 |
 | Oracle | Sr Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4c495635e58d0e5) | 2026-06-06 15:06 |
 | ron turley associates | Database Engineer/Architect | Glendale, AZ, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=38fb9ceb49a96b57) | 2026-06-06 11:17 |
@@ -541,19 +543,6 @@ Last updated: 2026-06-06 17:01
 | NTT DATA | .Net Fullstack Developer | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d011c6ed693c14f) | 2026-06-02 21:42 |
 | Capgemini | Data Engineer (Snowflake, AWS Glue Specialist) | Fort Mill, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b40fca841a484a98) | 2026-06-02 21:42 |
 | Franciscan Health | Data System Engineer | Mishawaka, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29a623330902562d) | 2026-06-02 21:42 |
-| Hilton | Cloud & AI Platform Architect (contract) | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4035741c18917073) | 2026-06-02 18:32 |
-| Volantsoft Inc | AWS Full Stack Developer W Amazon Kinesis & AWS Connect - Remote Role | Lawrenceville, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e182003963ce0897) | 2026-06-02 18:32 |
-| United Concordia Dental | Senior Data Engineer | PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8fc2c674a4afffb4) | 2026-06-02 18:32 |
-| Optum | Data Engineer | Eden Prairie, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dbda51fe27c52909) | 2026-06-02 18:32 |
-| QVC | Data Engineer | West Chester, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=837c797913f92786) | 2026-06-02 18:32 |
-| Accenture Federal Services | Java Developer (Secret) | Arlington, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6dfc2ced04d49bd7) | 2026-06-02 18:32 |
-| OneMain Financial | Senior Platform Engineer (Observability & Telemetry) | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=494dfe5922212ee2) | 2026-06-02 18:32 |
-| Availity, LLC. | Analytics Software Engineer IV | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=93d71aec8bc25826) | 2026-06-02 18:32 |
-| General Intuition & Medal | Site Reliability / Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=235e8563d0407abd) | 2026-06-02 18:32 |
-| Medal | Site Reliability / Infrastructure Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7dd6b80058693cb4) | 2026-06-02 18:32 |
-| NDWA | Senior Engineer, Digital Products | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=807809781a081dc7) | 2026-06-02 18:32 |
-| AMH | Site Reliability Engineer | Draper, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=26e873e4dbdd44d8) | 2026-06-02 18:32 |
-| Blue Ridge Care | Data Engineer (Azure Focus) | Winchester, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f1ec025d7ae1b86) | 2026-06-02 18:32 |
 
 
 ---
