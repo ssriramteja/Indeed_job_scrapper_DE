@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-07 17:05
+Last updated: 2026-06-07 19:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05d964f0d99760fd) | 2026-06-07 17:05 |
+| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05d964f0d99760fd) | 2026-06-07 19:06 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b1fdc7b0acc6f95) | 2026-06-07 08:45 |
 | ATVIO Biotech | Database Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6ac69009cfd6f44c) | 2026-06-07 05:16 |
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10e4d2d78aad0fb7) | 2026-06-07 05:16 |
@@ -508,26 +508,6 @@ Last updated: 2026-06-07 17:05
 | Baylor Miraca Genetics Laboratories LLC | Technical Scrum Master | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3405192fd1717731) | 2026-06-03 21:43 |
 | Natera | Senior AI/ML Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14d57e3def97a538) | 2026-06-03 21:43 |
 | Databricks | Lakebase Sales Specialist- Financial Services | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d86224c98360290) | 2026-06-03 21:43 |
-| nan | Full Stack Data Engineer | Morrisville, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eba11dc550c0d956) | 2026-06-03 18:17 |
-| Ryan Companies US, Inc. | Data Engineer | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eea1d0eeb00ba384) | 2026-06-03 18:17 |
-| Anteriad | Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5a53981dcd494255) | 2026-06-03 18:17 |
-| Hi Marley | Sr. Software Engineer II (DevOps) | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=57e6ba06d3a7b30f) | 2026-06-03 18:17 |
-| Applied Information Sciences | Data Engineer | VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0b4d756dafb24330) | 2026-06-03 18:17 |
-| Capgemini | Data Engineer | Bridgewater, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7433f9b8b5c4a5a6) | 2026-06-03 18:17 |
-| Noise Consulting Group | Data Engineer - III | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2baa480224d46766) | 2026-06-03 18:17 |
-| Walker & Dunlop | Senior BI Analyst | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=827ebbc8cea913b8) | 2026-06-03 18:17 |
-| Sinclair Broadcast Group | Software Development Engineer â€“ Backend / Platform | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41a635808e4af271) | 2026-06-03 18:17 |
-| Mayer Brown LLP | Architect: Enterprise Data | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d1633dd04465309) | 2026-06-03 18:17 |
-| Accenture | Informatica ETL Developer - 6326296 | Morristown, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1a17c04578e9be3) | 2026-06-03 18:17 |
-| Accenture | Informatica ETL Developer - 6326296 | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=21eab84e17f0b1ac) | 2026-06-03 18:17 |
-| Lila Sciences | Senior Software Engineer, Scientific System of Record | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0a083efe79b22465) | 2026-06-03 18:17 |
-| Lila Sciences | Senior Software Engineer, Scientific System of Record | Cambridge, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=233d27bbc07fd70f) | 2026-06-03 18:17 |
-| Tata Consultancy Services (TCS) | Senior AI Engineer | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=252de2ad1a0af01a) | 2026-06-03 18:17 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf1b5426a6197ba8) | 2026-06-03 18:17 |
-| Safelease | Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6884b300f1b32ae4) | 2026-06-03 18:17 |
-| The Akanksha LLC | Full Stack Cloud Engineer | Edison, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aaf16acc114cd913) | 2026-06-03 18:17 |
-| Sigma Computing | Solution Architect | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=90a874d216618930) | 2026-06-03 18:17 |
-| Cleveland Clinic | AI Software Engineer - Center for Diagnostics and Artificial Intelligence | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=10aaff122c10f274) | 2026-06-03 18:17 |
 
 
 ---
