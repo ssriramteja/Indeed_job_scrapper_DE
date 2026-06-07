@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-06 22:59
+Last updated: 2026-06-07 00:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d) | 2026-06-06 22:59 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5db37bdf41206f3d) | 2026-06-07 00:05 |
 | NSV IT SOLUTIONS | Sr Confluent Kafka Architect | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=3731032ae0f7a545) | 2026-06-06 19:06 |
 | nan | OpenText xECM Administrator | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=789eced375518056) | 2026-06-06 19:06 |
 | SmithRx | Senior Cloud Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d83253303e037541) | 2026-06-06 17:01 |
@@ -500,20 +500,6 @@ Last updated: 2026-06-06 22:59
 | Databricks | Lakebase Sales Specialist, Healthcare & Life Sciences | Central, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa967f56c6eb5ef3) | 2026-06-03 02:51 |
 | Sidley Austin | Senior Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0414967af8c69f06) | 2026-06-03 02:51 |
 | eBay | Senior Systems Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b57ff87e9fa89ed9) | 2026-06-03 02:51 |
-| CareMetx, LLC | Senior Engineer I, DevOps | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f1f343c9a6ac4261) | 2026-06-02 23:28 |
-| Amphenol | Data Engineer | Nashua, NH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=324835225383dd25) | 2026-06-02 23:28 |
-| Konexus, Inc. | Junior DevOps Engineer | Eagle, ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=01891cd9bc4d364f) | 2026-06-02 23:28 |
-| Warner Bros. Discovery | Senior Full Stack JS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff84a48bf7f2b214) | 2026-06-02 23:28 |
-| Warner Bros. Discovery | Senior Full Stack JS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2a341fbae4ab3a40) | 2026-06-02 23:28 |
-| Warner Bros. Discovery | Senior Full Stack JS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2d370271ca54d590) | 2026-06-02 23:28 |
-| Warner Bros. Discovery | Senior Full Stack JS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8dc0480a620e54b0) | 2026-06-02 23:28 |
-| Warner Bros. Discovery | Senior Full Stack JS Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=aa8f514248ec1f9f) | 2026-06-02 23:28 |
-| Regions Financial | Cloud DevSecOps Engineer | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2907e0725b12b84d) | 2026-06-02 23:28 |
-| Hilton | Data Engineer (contract) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=09530a3bb367b138) | 2026-06-02 23:28 |
-| NTT DATA | Senior Cloud Technical Architect | Southfield, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5cc613361b67cb34) | 2026-06-02 23:28 |
-| Five Below | Solutions Architect - AI | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=538c5daa04e61b19) | 2026-06-02 23:28 |
-| Roche | AI Full Stack Engineer | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5a65f6db57ee3cc) | 2026-06-02 23:28 |
-| Capgemini | Java Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6e1b874414bff22) | 2026-06-02 23:28 |
 
 
 ---
