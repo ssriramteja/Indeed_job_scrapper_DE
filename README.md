@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-07 05:16
+Last updated: 2026-06-07 08:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05d964f0d99760fd) | 2026-06-07 08:45 |
+| Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b1fdc7b0acc6f95) | 2026-06-07 08:45 |
 | ATVIO Biotech | Database Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6ac69009cfd6f44c) | 2026-06-07 05:16 |
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10e4d2d78aad0fb7) | 2026-06-07 05:16 |
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Arlington, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=08dac6e8a6a35c88) | 2026-06-07 05:16 |
@@ -37,7 +39,6 @@ Last updated: 2026-06-07 05:16
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | San Diego, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9bb4026df23eb97b) | 2026-06-07 05:16 |
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Sacramento, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c93475e7d040c153) | 2026-06-07 05:16 |
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=456f8fa32939f19b) | 2026-06-07 05:16 |
-| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05d964f0d99760fd) | 2026-06-07 05:16 |
 | Deloitte | Senior Product Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dcfb9a55bfdcda15) | 2026-06-07 05:16 |
 | Deloitte | Senior Product Architect | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1c661fd3d1a35149) | 2026-06-07 05:16 |
 | Deloitte | Senior Product Architect | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3af5dbc4a7642e17) | 2026-06-07 05:16 |
@@ -534,19 +535,6 @@ Last updated: 2026-06-07 05:16
 | Bitscopic | Senior Data Engineer (Oracle) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b698f84637b7e148) | 2026-06-03 13:08 |
 | Kirkland & Ellis | AI Engineer II | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5518f07c3a7fbfc2) | 2026-06-03 13:08 |
 | Kirkland & Ellis | AI Engineer II | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0219ec8577fe8e4c) | 2026-06-03 13:08 |
-| IKS Health | Senior Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1f6b03669fcb256f) | 2026-06-03 08:08 |
-| Bennett Family of Companies | Data Platform Engineer | McDonough, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=3ce5cf18206c40a5) | 2026-06-03 08:08 |
-| Tata Consultancy Services (TCS) | Senior Engineer, AI Data Management | Seattle, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6ae6b623863032dc) | 2026-06-03 08:08 |
-| TRAX USA Corp. | Data Scientist - Airvoyant | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f54bacadbab2a4ac) | 2026-06-03 08:08 |
-| Lasting Change Inc | Fabric Data Engineer | Fort Wayne, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b3a86d1b4b4bd7e7) | 2026-06-03 08:08 |
-| Softchoice | Sr. Technical Solutions Architect | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2514cb3d6eaca2b7) | 2026-06-03 08:08 |
-| Amphenol | Data Engineer | Nashua, NH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=70728c10caf53950) | 2026-06-03 08:08 |
-| TRAX USA Corp. | Full Stack Developer - Airvoyant | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dc1046b4cc869c21) | 2026-06-03 08:08 |
-| AmaWaterways | Cloud Engineer | Calabasas, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c980ae96d7c71b5b) | 2026-06-03 08:08 |
-| Logic, Inc. | Informatica ETL Developer - 6326296 | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=40516db2dcf106b5) | 2026-06-03 08:08 |
-| Skechers | Data Scientist | Hermosa Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69b02ec8d04b37bb) | 2026-06-03 08:08 |
-| Arbitration Forums Inc. | MLOps Engineer | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=213170f837efaaa7) | 2026-06-03 08:08 |
-| Appex Innovation | Sr AI Platform Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5f8d87a308d60fa) | 2026-06-03 08:08 |
 
 
 ---
