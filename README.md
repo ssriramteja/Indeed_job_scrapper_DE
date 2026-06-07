@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-07 11:01
+Last updated: 2026-06-07 13:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05d964f0d99760fd) | 2026-06-07 11:01 |
+| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05d964f0d99760fd) | 2026-06-07 13:22 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b1fdc7b0acc6f95) | 2026-06-07 08:45 |
 | ATVIO Biotech | Database Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6ac69009cfd6f44c) | 2026-06-07 05:16 |
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10e4d2d78aad0fb7) | 2026-06-07 05:16 |
@@ -528,13 +528,6 @@ Last updated: 2026-06-07 11:01
 | The Akanksha LLC | Full Stack Cloud Engineer | Edison, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aaf16acc114cd913) | 2026-06-03 18:17 |
 | Sigma Computing | Solution Architect | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=90a874d216618930) | 2026-06-03 18:17 |
 | Cleveland Clinic | AI Software Engineer - Center for Diagnostics and Artificial Intelligence | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=10aaff122c10f274) | 2026-06-03 18:17 |
-| JPMorganChase | Quant Analytics Associate Sr - DART | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5c6bfdcf8cff2c35) | 2026-06-03 13:08 |
-| McKinney | Senior Platform Engineer, Data & AI Infrastructure | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fad3b7a6b278561a) | 2026-06-03 13:08 |
-| Astrana Health | Data Engineer (Multiple Levels) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c749a4ea9071424) | 2026-06-03 13:08 |
-| Grainger | Data Engineer III | Lake Forest, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=564f104de61b3f0a) | 2026-06-03 13:08 |
-| Bitscopic | Senior Data Engineer (Oracle) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b698f84637b7e148) | 2026-06-03 13:08 |
-| Kirkland & Ellis | AI Engineer II | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5518f07c3a7fbfc2) | 2026-06-03 13:08 |
-| Kirkland & Ellis | AI Engineer II | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0219ec8577fe8e4c) | 2026-06-03 13:08 |
 
 
 ---
