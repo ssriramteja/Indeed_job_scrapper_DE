@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-07 21:01
+Last updated: 2026-06-07 22:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05d964f0d99760fd) | 2026-06-07 21:01 |
+| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05d964f0d99760fd) | 2026-06-07 22:54 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b1fdc7b0acc6f95) | 2026-06-07 08:45 |
 | ATVIO Biotech | Database Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6ac69009cfd6f44c) | 2026-06-07 05:16 |
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10e4d2d78aad0fb7) | 2026-06-07 05:16 |
@@ -479,35 +479,6 @@ Last updated: 2026-06-07 21:01
 | NTT DATA | Software Engineer - Java & OpenText Extreme | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bd6ce5169df5e00d) | 2026-06-03 23:27 |
 | Copperleaf Technologies Inc. | Data Engineer - Java - Loops | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe4ff78e6fcedc19) | 2026-06-03 23:27 |
 | Quisitive | Senior Data Consultant – Data Engineer & Governance | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cd77d29cb01573c) | 2026-06-03 23:27 |
-| AEM Corporation | ETL/ELT Developer | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a4c2c00b592047da) | 2026-06-03 21:43 |
-| Tata Consultancy Services (TCS) | Data Engineer (AWS, Snowflake, Pyspark, SQL) | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b9f4e94883170da4) | 2026-06-03 21:43 |
-| AFL | Senior ETL Developer (Azure & MDM/Reltio Focus) | Duncan, SC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=feaf489696c6ebd7) | 2026-06-03 21:43 |
-| nan | Data Engineer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ac18de92e2d0da2c) | 2026-06-03 21:43 |
-| Tunnl | Senior DevOps Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b66532c29a2d2fb3) | 2026-06-03 21:43 |
-| GEICO | Senior Engineer - Data | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d784ad2795e0379d) | 2026-06-03 21:43 |
-| Tata Consultancy Services (TCS) | Gen AI Architect | Seattle, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6bfe18dbf4b291f3) | 2026-06-03 21:43 |
-| Hollstadt Consulting | Senior Data Engineer | MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=336bfe0af38918a1) | 2026-06-03 21:43 |
-| SIGNITIVES | GCP Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=afef76c3c4cb302e) | 2026-06-03 21:43 |
-| LTIMindtree | Senior Snowflake Data Engineer | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a5cff3964beedb24) | 2026-06-03 21:43 |
-| Tata Consultancy Services (TCS) | AWS Architect | Foster City, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=723c6fbf1e8f4749) | 2026-06-03 21:43 |
-| Artisan Studios, LLC DBA Amy Howard At Home & A Makers' Studio | Generative AI Engineer | Asheville, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7350027af6d67644) | 2026-06-03 21:43 |
-| Innodata | Agentic AI Engineer | Ridgefield Park, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=34430b584944faaf) | 2026-06-03 21:43 |
-| Stellantis | Integrations Architect- Azure | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a988b9cc3e868674) | 2026-06-03 21:43 |
-| The Hartford | Senior Security Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=47eb49ae40d3103f) | 2026-06-03 21:43 |
-| The Hartford | Senior Security Engineer | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=837b89c39e0b1f1d) | 2026-06-03 21:43 |
-| The Hartford | Senior Security Engineer | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=101a2c6e0c8a3069) | 2026-06-03 21:43 |
-| KPMG | Application Architect (contract) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b2c4dc6b11200157) | 2026-06-03 21:43 |
-| Brillio LLC | Contact Center Architect – Healthcare & Amazon Connect – R01566032 | St. Louis, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=baab0523b145fc75) | 2026-06-03 21:43 |
-| Labcorp | Senior Data Scientist | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e888182752c6207b) | 2026-06-03 21:43 |
-| Hollstadt Consulting | Data Engineer | MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1849a5b7a2f2af9b) | 2026-06-03 21:43 |
-| Smart Tech Skills LLC | AWS Developer / Administrator | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9a3c84e2687fbb09) | 2026-06-03 21:43 |
-| Bank of America | Data Engineer â€“ Python/AI | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb44a4b768419ca2) | 2026-06-03 21:43 |
-| Wells Fargo | Software Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d604ebca572d9a0d) | 2026-06-03 21:43 |
-| Wells Fargo | Software Engineer | West Des Moines, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=244f96a693bca9f8) | 2026-06-03 21:43 |
-| Wells Fargo | Software Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4229f7f9f0a4e0f7) | 2026-06-03 21:43 |
-| Baylor Miraca Genetics Laboratories LLC | Technical Scrum Master | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3405192fd1717731) | 2026-06-03 21:43 |
-| Natera | Senior AI/ML Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14d57e3def97a538) | 2026-06-03 21:43 |
-| Databricks | Lakebase Sales Specialist- Financial Services | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d86224c98360290) | 2026-06-03 21:43 |
 
 
 ---
