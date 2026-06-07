@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-07 22:54
+Last updated: 2026-06-07 23:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05d964f0d99760fd) | 2026-06-07 22:54 |
+| Modine Manufacturing Company | Senior AI Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05d964f0d99760fd) | 2026-06-07 23:59 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b1fdc7b0acc6f95) | 2026-06-07 08:45 |
 | ATVIO Biotech | Database Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6ac69009cfd6f44c) | 2026-06-07 05:16 |
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10e4d2d78aad0fb7) | 2026-06-07 05:16 |
@@ -451,34 +451,6 @@ Last updated: 2026-06-07 22:54
 | EvergreenHealth | Business Intelligence Developer - Analytics | Kirkland, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=847c2fe533f1ec86) | 2026-06-04 02:47 |
 | Vertafore | Sr. Software Engineer (React/Typescript) | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=757afec97d5d27e0) | 2026-06-04 02:47 |
 | Siemens Healthineers | AI LLM Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=77cc10c4736bb6e5) | 2026-06-04 02:47 |
-| IKS Health | Senior Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=f18524a0d1c2e02e) | 2026-06-03 23:27 |
-| Cognizant | Sr. AWS Data Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d62532bd79c16947) | 2026-06-03 23:27 |
-| TikTok | Full Stack Software Engineer, Security & Information Technology - USDS | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b8131bdacb963c45) | 2026-06-03 23:27 |
-| Neuberger Berman | Senior Developer I - Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b4e3803b26dd25a2) | 2026-06-03 23:27 |
-| ICAT Logistics, Inc. | Platform Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=490396287ca9423d) | 2026-06-03 23:27 |
-| TikTok | Data Engineer, Data Engineering and Analytics - USDS | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5b155ae7711afa6e) | 2026-06-03 23:27 |
-| Regions Financial | Sr. Data Engineer - Cloud & AI Platform [On-Site] | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f7ba4a006c4d066d) | 2026-06-03 23:27 |
-| Crown Equipment | Data Engineer - Data Services | New Bremen, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=426a2df1dcd32427) | 2026-06-03 23:27 |
-| The Hanover Insurance Group | Associate Data Engineer (REMOTE) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f62c64972906caa0) | 2026-06-03 23:27 |
-| The Hanover Insurance Group | Associate Data Engineer (REMOTE) | Worcester, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ad092c66101d7698) | 2026-06-03 23:27 |
-| Ensono | AWS Public Cloud Senior Consultant | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6eb217da2e922612) | 2026-06-03 23:27 |
-| TikTok | Data Engineer, Data Engineering and Analytics - USDS | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d72ef2291619fe5e) | 2026-06-03 23:27 |
-| Verification Technologies LLC | Python Developer | Henderson, NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=97a02535a97e1c4c) | 2026-06-03 23:27 |
-| TikTok | Data Analytical Engineer, Payment Data Intelligence - USDS | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a567c2b339c20c2f) | 2026-06-03 23:27 |
-| Fiserv | Azure Databricks Platform Engineer | Berkeley Heights, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=809ad06a2b50c327) | 2026-06-03 23:27 |
-| Intellibee Inc | AWS Architect | Columbia, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45e8be79fa6bbbf1) | 2026-06-03 23:27 |
-| DPL Trading Inc | Business Intelligence Analyst | Montclair, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=55a4531f3c73b952) | 2026-06-03 23:27 |
-| TikTok | Software Engineer, Data Privacy & Infrastructure - USDS | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=625f5552fcee590f) | 2026-06-03 23:27 |
-| Vytl Controls Group | Data Systems Engineer | Baton Rouge, LA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2f97f2d7c736b559) | 2026-06-03 23:27 |
-| U.S. Bank | Sr. Info Security Engineer (Netskope ZTNA platform) | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f8fd7f561e18c20) | 2026-06-03 23:27 |
-| U.S. Bank | Sr. Info Security Engineer (Netskope ZTNA platform) | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f368e82295b031ae) | 2026-06-03 23:27 |
-| U.S. Bank | Sr. Info Security Engineer (Netskope ZTNA platform) | Hopkins, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bdf2be9c62be8976) | 2026-06-03 23:27 |
-| U.S. Bank | Sr. Info Security Engineer (Netskope ZTNA platform) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c7c8b6554940fe0) | 2026-06-03 23:27 |
-| U.S. Bank | Sr. Info Security Engineer (Netskope ZTNA platform) | Portland, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de008b9b9a2a19be) | 2026-06-03 23:27 |
-| Adyen | Senior Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd69f161aa8e715c) | 2026-06-03 23:27 |
-| NTT DATA | Software Engineer - Java & OpenText Extreme | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bd6ce5169df5e00d) | 2026-06-03 23:27 |
-| Copperleaf Technologies Inc. | Data Engineer - Java - Loops | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe4ff78e6fcedc19) | 2026-06-03 23:27 |
-| Quisitive | Senior Data Consultant – Data Engineer & Governance | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cd77d29cb01573c) | 2026-06-03 23:27 |
 
 
 ---
