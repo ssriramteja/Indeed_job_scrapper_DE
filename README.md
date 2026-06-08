@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-08 22:19
+Last updated: 2026-06-08 23:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HealthPartners | Data Engineer Senior | Bloomington, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=d18ea85c2c928c35) | 2026-06-08 23:58 |
+| Roku | Senior Machine Learning Engineer | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e2b721d35d7a5a7) | 2026-06-08 23:58 |
+| EXL Service | Cloud Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7cd0ed9ff6e64aa7) | 2026-06-08 23:58 |
+| Wells Fargo | Senior Data Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=10ead8343cec4879) | 2026-06-08 23:58 |
+| Wells Fargo | Senior Data Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=162c2ab9f292809c) | 2026-06-08 23:58 |
+| Wells Fargo | Senior Data Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d7be54a20fbf4431) | 2026-06-08 23:58 |
+| NBCUniversal | Sr Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6773c1c434a7ae57) | 2026-06-08 23:58 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d135475bf2adc12) | 2026-06-08 23:58 |
+| Huron Consulting Group | Azure Engineer (Associate) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9dbe236b626e4a53) | 2026-06-08 23:58 |
+| Rise Collective | Senior Full-Stack Software Engineer | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ff3b252b91a197e5) | 2026-06-08 23:58 |
+| Snooze an AM Eatery | Senior Data Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65eaed35b3d68901) | 2026-06-08 23:58 |
 | Tata Consultancy Services (TCS) | DevOps Engineer | Charlotte, NC, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2da5893cfc35a86b) | 2026-06-08 22:19 |
 | Palo Alto Networks | Distinguished Software Engineer (Big Data & AI) | Santa Clara, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a981ef29c01bf602) | 2026-06-08 22:19 |
 | PGIM | Senior Data Engineer - PGIM Technology (Hybrid - Newark, NJ) | Newark, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b7feca5e666659d5) | 2026-06-08 22:19 |
@@ -404,17 +415,6 @@ Last updated: 2026-06-08 22:19
 | CoorsTek | Forward Deployed Data Engineer | Golden, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fbe256f9b09a7e0e) | 2026-06-05 02:33 |
 | In-N-Out Burger | Data Engineer III | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d8e13676bc61f2f) | 2026-06-05 02:33 |
 | Nexxen | Senior Software Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a96178a2a524d96e) | 2026-06-05 02:33 |
-| Bilink Corp | Databricks Expert / Data Lakehouse Consultant | Chicago, IL, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=6ef7670a3dacf51f) | 2026-06-04 23:02 |
-| JPMorganChase | Software Engineer III - Data Platform | Austin, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=d2aebd4405215d87) | 2026-06-04 23:02 |
-| Tata Consultancy Services (TCS) | Blockchain Java Backend Developer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d3b304f9c143a865) | 2026-06-04 23:02 |
-| eHub | Senior Data Engineer | Sandy, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a462b164d07d7ba9) | 2026-06-04 23:02 |
-| Vizient, Inc. | Sr Software Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9e053efd9a837ce7) | 2026-06-04 23:02 |
-| CG Infinity | Tableau Developer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5e7f11b8f38a8ecd) | 2026-06-04 23:02 |
-| PlayStation | Senior Software Development Engineer In Test, ML/AI | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea671c360a6a09f8) | 2026-06-04 23:02 |
-| Paramount Global US Inc | Senior Data Engineer | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ce5b8ffd36870fad) | 2026-06-04 23:02 |
-| David's Bridal | Data Analyst — AI-Driven Insights | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e573f908d6ce2f1d) | 2026-06-04 23:02 |
-| SoFi | Senior Software Engineer, Data Trust | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6704fd5656501c07) | 2026-06-04 23:02 |
-| MetLife | Junior Software Engineer | Bridgewater, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5ac532ab4d53203) | 2026-06-04 23:02 |
 
 
 ---
