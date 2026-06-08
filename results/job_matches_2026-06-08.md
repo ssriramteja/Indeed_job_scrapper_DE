@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-06-08
 
-**Total Jobs Found:** 3
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,7 +27,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior System Software Engineer - DevOps and Infrastructure Automation @ NVIDIA
+## 3. Software Developer @ Oracle
+**Match Score:** 10.4%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, Scala, Kafka, Oracle, Data Modeling, ETL, ELT, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=953100d783ca43ac)
+
+---
+
+## 4. Software Developer @ Oracle
+**Match Score:** 10.4%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, Scala, Kafka, Oracle, Data Modeling, ETL, ELT, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=72b083a5bbeb1232)
+
+---
+
+## 5. Senior System Software Engineer - DevOps and Infrastructure Automation @ NVIDIA
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
