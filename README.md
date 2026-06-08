@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-08 04:12
+Last updated: 2026-06-08 09:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior Data Engineer | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d5b9e1941fe0d4ca) | 2026-06-08 09:18 |
+| Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92370ed8cefd2963) | 2026-06-08 09:18 |
+| NVIDIA | Senior System Software Engineer - DevOps and Infrastructure Automation | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c72aec67782f8030) | 2026-06-08 09:18 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b1fdc7b0acc6f95) | 2026-06-07 08:45 |
 | ATVIO Biotech | Database Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6ac69009cfd6f44c) | 2026-06-07 05:16 |
 | Deloitte | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=10e4d2d78aad0fb7) | 2026-06-07 05:16 |
@@ -406,24 +409,6 @@ Last updated: 2026-06-08 04:12
 | Quisitive | Senior Data Consultant – Data Engineer & GovernanceNew | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=69dc7b2b5de56422) | 2026-06-04 10:55 |
 | State Farm | Software Engineer - Finance Modernization | Bloomington, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15ee917ec6e025e8) | 2026-06-04 10:55 |
 | NeuraFlash, Part of Accenture | Salesforce Technical Architect, Data & AI | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3420dddc661e222d) | 2026-06-04 10:55 |
-| Glint Tech Solutions | Python Data Engineer | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=da84632d9568dfce) | 2026-06-04 07:16 |
-| Bambee | Data Architect | Glendale, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3e3ad167874c8532) | 2026-06-04 07:16 |
-| ICAT Logistics, Inc. | Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7dfde2e65a7bc1cc) | 2026-06-04 07:16 |
-| Rediantt | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=60d3683730583b9c) | 2026-06-04 07:16 |
-| TP-LINK | Senior Cloud Software Engineer - Database | Irvine, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c97fb5b4fe767905) | 2026-06-04 07:16 |
-| Point Wild | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e2022ce8366d457) | 2026-06-04 07:16 |
-| Point Wild | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=71457be51c270627) | 2026-06-04 07:16 |
-| Point Wild | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ccc6509aa3c8ec42) | 2026-06-04 07:16 |
-| Point Wild | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d8f514785edf8fdc) | 2026-06-04 07:16 |
-| Point Wild | DevOps Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7f99d76959b32539) | 2026-06-04 07:16 |
-| Tata Consultancy Services (TCS) | AI ML Data Scientist | Westlake Village, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce609bae5ee0d5a2) | 2026-06-04 07:16 |
-| Andreessen Horowitz | DevX / Developer Operations (Partner 16, Partner 18), ASG | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2570942407162c4a) | 2026-06-04 07:16 |
-| CarParts.com | Sr. Full Stack Engineer - AI Forward Engineer | Long Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=81e7e89cef9a97da) | 2026-06-04 07:16 |
-| Cognizant | Java Developer (Connected Services) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa3dcc861e4ac768) | 2026-06-04 07:16 |
-| Sigma Computing | Solution Architect | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f16a0fa5da61102a) | 2026-06-04 07:16 |
-| Block | Senior Machine Learning Engineer, Model Risk Management | San Francisco Bay Area, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b4b8c7a56e0e088) | 2026-06-04 07:16 |
-| Capgemini | SAS Developer (with Admin Background) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f708bb2089c8e37e) | 2026-06-04 07:16 |
-| Capgemini | SAS Developer (with Admin Background) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b030dd9a627fd2c) | 2026-06-04 07:16 |
 
 
 ---
