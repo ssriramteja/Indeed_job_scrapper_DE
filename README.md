@@ -1,25 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-09 10:29
+Last updated: 2026-06-09 13:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Newpage Digital Healthcare solutions | AI Solution Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f647259c84954990) | 2026-06-09 13:38 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d135475bf2adc12) | 2026-06-09 13:38 |
+| Ford Motor Company | Senior Data Engineer | Redford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c29332168c78c58c) | 2026-06-09 13:38 |
 | CVS Health | Senior Data Engineer (Requiring GCP) | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cfe57c8aa77945) | 2026-06-09 10:29 |
 | CVS Health | Senior Data Engineer (Requiring GCP) | Hartford, CT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=546ae471f5ede086) | 2026-06-09 10:29 |
 | CVS Health | Senior Data Engineer (Requiring GCP) | Scottsdale, AZ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1c811d03d5aca192) | 2026-06-09 10:29 |
 | CVS Health | Senior Data Engineer (Requiring GCP) | Farmers Branch, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=0b6a62dfef2d6dab) | 2026-06-09 10:29 |
 | CVS Health | Senior Data Engineer (Requiring GCP) | Tallahassee, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f8656393b23155db) | 2026-06-09 10:29 |
 | Capstone Logistics, LLC | Sr. Data Engineer | Peachtree Corners, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=30d85c0bd52ccea6) | 2026-06-09 10:29 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d135475bf2adc12) | 2026-06-09 10:29 |
 | Carollo Engineers, Inc. | Azure Cloud Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ab80492ce8c08674) | 2026-06-09 10:29 |
 | Syniti | Sr. Engineer, Site Reliability | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0a9aaaa695359595) | 2026-06-09 10:29 |
 | Viasat | CD&A Data Engineer | Carlsbad, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=54bc52360158a211) | 2026-06-09 10:29 |
 | BMW Group | Production Digitalization Intern (Fall 2026) | Woodruff, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d2c3fbbbf2753ab) | 2026-06-09 10:29 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=257bf20abcf10b52) | 2026-06-09 10:29 |
 | Hussmann | Sr. Power BI Engineer | Bridgeton, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=454d2924e4649642) | 2026-06-09 10:29 |
-| Ford Motor Company | Senior Data Engineer | Redford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c29332168c78c58c) | 2026-06-09 10:29 |
 | Colorado Access | API Integrations Developer | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3dea7c38b1b46e2c) | 2026-06-09 06:41 |
 | HealthStream | Senior Developer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c6929e10d2183d6c) | 2026-06-09 06:41 |
 | Digital Consultants | Full-Stack Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d5b05b32ba6e729a) | 2026-06-09 06:41 |
@@ -323,58 +324,6 @@ Last updated: 2026-06-09 10:29
 | JPMorganChase | Business Analyst, Senior Associate | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ef62050b69ea736) | 2026-06-05 13:49 |
 | Barclays | Application Support Analyst | Whippany, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99c7aecf044086c2) | 2026-06-05 13:49 |
 | Carbo Ceramics, LLC | Senior Data Analyst | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7d10e8fe29e20e2) | 2026-06-05 13:49 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | MS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7404c3655de04dd7) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | VT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bcd1876902912f2) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4a9b38178b754383) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | OK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e82b6e9e211f61d4) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a620a55e826a673d) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=902e213debac8809) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | ND, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1016648c0f0d5d0b) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cc1d5f8003f7600) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=74fbd56cbb6e1afe) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=17103584ffb6e509) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c9cd476fc679a04a) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4fb9b103396ef75e) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1885c3e7464f9bc2) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | ID, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb8189bb7df0daff) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | WV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d53b87a5ed021b7) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=85395c75059dc994) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b92f217fa630744) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8564e7eebd81568f) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c751ca8403940e46) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6ec5266cd24c2dd6) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=265bf1290caccb77) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d24914a82cfe666e) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | RI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=05705973a9378d80) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | MT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=795911acb1bee51f) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0a0942fc02191a0c) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=617495dbf623e38c) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | LA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e52f3fc7ec6df2ba) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f14a4b93989e7d84) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | WY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4581cdcaed5f9f0c) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c766afcec299ad51) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=77cb2c150ee12d87) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d75093b6fcd02c5) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=676f9ebac1172832) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=454de9f58fa31614) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | DE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ba87ffa60d4ea16b) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=954bc66fa74e678c) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d3adae39628854eb) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9a7a440e90ffe87a) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdd03d55c286c7fd) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | SD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a5e7399fcd292254) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=693602db725cd736) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=059b9c50895f7fee) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | AR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e189e5672a8c8a33) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | KS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=de9c5376661bd35b) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=adba19e5f6f34e9a) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | NM, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0494adf7cd3b47d6) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | NE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e6a0794cdf7814e0) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=edd03a4989d1f2d2) | 2026-06-05 10:47 |
-| CVS Health | Senior Software Development Engineer – Imaging Platform | PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=77011faf16332680) | 2026-06-05 10:47 |
-| Sunward | Cloud Infrastructure Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d80ccc2355815fc) | 2026-06-05 10:47 |
-| URBN | URBN Senior DevOps Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=535d8204a8558bb3) | 2026-06-05 10:47 |
-| Portfolio BI | Full Stack Quantitative Developer - Capital Markets - NYC / Dallas / Los | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48345cae6728d8ac) | 2026-06-05 10:47 |
 
 
 ---
