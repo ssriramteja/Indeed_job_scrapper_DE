@@ -1,19 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-09 06:41
+Last updated: 2026-06-09 10:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CVS Health | Senior Data Engineer (Requiring GCP) | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cfe57c8aa77945) | 2026-06-09 10:29 |
+| CVS Health | Senior Data Engineer (Requiring GCP) | Hartford, CT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=546ae471f5ede086) | 2026-06-09 10:29 |
+| CVS Health | Senior Data Engineer (Requiring GCP) | Scottsdale, AZ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1c811d03d5aca192) | 2026-06-09 10:29 |
+| CVS Health | Senior Data Engineer (Requiring GCP) | Farmers Branch, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=0b6a62dfef2d6dab) | 2026-06-09 10:29 |
+| CVS Health | Senior Data Engineer (Requiring GCP) | Tallahassee, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f8656393b23155db) | 2026-06-09 10:29 |
+| Capstone Logistics, LLC | Sr. Data Engineer | Peachtree Corners, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=30d85c0bd52ccea6) | 2026-06-09 10:29 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d135475bf2adc12) | 2026-06-09 10:29 |
+| Carollo Engineers, Inc. | Azure Cloud Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ab80492ce8c08674) | 2026-06-09 10:29 |
+| Syniti | Sr. Engineer, Site Reliability | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0a9aaaa695359595) | 2026-06-09 10:29 |
+| Viasat | CD&A Data Engineer | Carlsbad, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=54bc52360158a211) | 2026-06-09 10:29 |
+| BMW Group | Production Digitalization Intern (Fall 2026) | Woodruff, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d2c3fbbbf2753ab) | 2026-06-09 10:29 |
+| Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=257bf20abcf10b52) | 2026-06-09 10:29 |
+| Hussmann | Sr. Power BI Engineer | Bridgeton, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=454d2924e4649642) | 2026-06-09 10:29 |
+| Ford Motor Company | Senior Data Engineer | Redford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c29332168c78c58c) | 2026-06-09 10:29 |
 | Colorado Access | API Integrations Developer | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3dea7c38b1b46e2c) | 2026-06-09 06:41 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d135475bf2adc12) | 2026-06-09 06:41 |
 | HealthStream | Senior Developer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c6929e10d2183d6c) | 2026-06-09 06:41 |
 | Digital Consultants | Full-Stack Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d5b05b32ba6e729a) | 2026-06-09 06:41 |
 | SWBC | Sr. DevOps Engineer | San Antonio, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=075826e3e1704244) | 2026-06-09 06:41 |
 | Tata Consultancy Services (TCS) | AI/ML Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e5abed50f2367d51) | 2026-06-09 06:41 |
 | Wayfair | Software Engineer II, Wayfair Sponsored Shops | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1700b3ad8a2acabe) | 2026-06-09 06:41 |
-| Ford Motor Company | Senior Data Engineer | Redford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c29332168c78c58c) | 2026-06-09 06:41 |
 | Mastercard | Senior Software Engineer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=debc73a0a4d41c46) | 2026-06-09 06:41 |
 | Tata Consultancy Services (TCS) | HR -Data Scientist | Renton, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b5d60890bd05332) | 2026-06-09 06:41 |
 | The Motley Fool | Senior Data Engineer | Washington, DC, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=76c7190df188f528) | 2026-06-09 02:51 |
@@ -363,68 +375,6 @@ Last updated: 2026-06-09 06:41
 | Sunward | Cloud Infrastructure Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d80ccc2355815fc) | 2026-06-05 10:47 |
 | URBN | URBN Senior DevOps Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=535d8204a8558bb3) | 2026-06-05 10:47 |
 | Portfolio BI | Full Stack Quantitative Developer - Capital Markets - NYC / Dallas / Los | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48345cae6728d8ac) | 2026-06-05 10:47 |
-| BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d419b71a5a3ad5ab) | 2026-06-05 06:59 |
-| BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=35e6a0def13e14e8) | 2026-06-05 06:59 |
-| BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=778c7417749e5f6c) | 2026-06-05 06:59 |
-| BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3cd53c43d1a2a4e5) | 2026-06-05 06:59 |
-| Tergar International | Data Engineer | MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b7eec213f6c00cd9) | 2026-06-05 06:59 |
-| BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f856ad60bd043712) | 2026-06-05 06:59 |
-| BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53d88228d05e3236) | 2026-06-05 06:59 |
-| BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3945a7642806e1c2) | 2026-06-05 06:59 |
-| BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=de9d58d7eace2bbb) | 2026-06-05 06:59 |
-| Tata Consultancy Services (TCS) | ReactJS with Azure developer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fcb8dd8900af0c8a) | 2026-06-05 06:59 |
-| BV Teck | Azure Cloud Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=80a7c0cf27c653aa) | 2026-06-05 06:59 |
-| BV Teck | Azure Cloud Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b24821c22dce160) | 2026-06-05 06:59 |
-| BV Teck | Kafka Platform Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3b2fcea5b61df0eb) | 2026-06-05 06:59 |
-| BV Teck | Kafka Platform Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b8a5812a0d08b16b) | 2026-06-05 06:59 |
-| Cognizant | Senior AWS Data Engineer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2eaba1f6b997fc8a) | 2026-06-05 06:59 |
-| Samsung Electronics | Sr. Data Engineer | Mountain View, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ddb410896822ce80) | 2026-06-05 06:59 |
-| Chewy | Software Engineer II | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b09ade6f09c89eb1) | 2026-06-05 06:59 |
-| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f743bc33db99ea9d) | 2026-06-05 06:59 |
-| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7dda9069c1d0d6e5) | 2026-06-05 06:59 |
-| Cognizant | Senior AWS Data Architect | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f79ec357fcd98fdf) | 2026-06-05 06:59 |
-| AutoSavvy | Data Engineer | Woods Cross, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0e22d9b89413d8e9) | 2026-06-05 06:59 |
-| Adobe | Software Development Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b59f3b1d389f972e) | 2026-06-05 06:59 |
-| BV Teck | Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6a7e8374973c1f3) | 2026-06-05 06:59 |
-| BV Teck | Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ea9c4a4c56af0d7) | 2026-06-05 06:59 |
-| Cayuse Holdings | Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f660da5ba96d068e) | 2026-06-05 06:59 |
-| Lila Sciences | Senior Software Engineer, Scientific System of Record | Cambridge, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e75312efc2a4179) | 2026-06-05 06:59 |
-| BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=02fe9ec908f659c8) | 2026-06-05 06:59 |
-| BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59f16b492e7cc754) | 2026-06-05 06:59 |
-| nan | Senior Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1623a93394ec68b8) | 2026-06-05 06:59 |
-| Deloitte | Managed Services Engineer III | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01d223961163a5b9) | 2026-06-05 06:59 |
-| VetsEZ | Senior Software Product Engineer (Remote Opportunitty) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba4a60afd289d560) | 2026-06-05 06:59 |
-| JPMorganChase | Data Scientist Associate - Product, Experience and Technology (PXT) Analytics Team | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97504e4a10013b10) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5d8d0b561c6c008) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Sacramento, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=23d7e6a1de777704) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=930d2726ed50d1a0) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0066d0bcfffab778) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a84eebc46b7bb45a) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6166003e4d083c6) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=970c4df1d0044efd) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07fca26cae287b9f) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=25f4db2419f6936e) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=373c81834c6c47aa) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f047826ac4929ff2) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a77683d18934edc) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b3df4cadd2708adf) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e331a82a4ab0113) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0fa148b4d76cb12) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0941e3a211072d2c) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=82e649d860885dd8) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3e8e06e7d196990) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=408d36db3edc62d2) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55d828aded70aa48) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57fb0b293b6e45b0) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7d3f157d5d4e121) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2eb49350fc0c3bff) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Kansas City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1c2051a8e908817c) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff83660440c0810b) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Stamford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5263c067a9d93c2) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c0254aaa4115a0f3) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d6ce4a2306c3a92) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Costa Mesa, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a4128a682c7bf9f) | 2026-06-05 06:59 |
-| Deloitte | Integration Engineer II- AI & Engineering | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5b0a184e6ed2c87) | 2026-06-05 06:59 |
 
 
 ---
