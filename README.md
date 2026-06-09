@@ -1,24 +1,37 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-09 19:08
+Last updated: 2026-06-09 21:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Data Engineer | Orlando, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e9c144461aa2d176) | 2026-06-09 21:42 |
+| Travelers | Senior Data Engineer (AWS, Databricks) | Hartford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=74c4df1b9aa839f0) | 2026-06-09 21:42 |
+| Bain & Company | Full Stack AI Product Engineer (DataEdge) | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=caded7b3c6bfb312) | 2026-06-09 21:42 |
+| Bain & Company | Full Stack AI Product Engineer (DataEdge) | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b469cfbb95e6de2a) | 2026-06-09 21:42 |
+| Bain & Company | Full Stack AI Product Engineer (DataEdge) | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=35ffec2079d73b49) | 2026-06-09 21:42 |
+| Bain & Company | Full Stack AI Product Engineer (DataEdge) | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8dd7c29dab24b04e) | 2026-06-09 21:42 |
+| Bain & Company | Full Stack AI Product Engineer (DataEdge) | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c3c936d966c8b145) | 2026-06-09 21:42 |
+| The Coca-Cola Company | Senior Data/Machine Learning Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=260e9231f9bc608e) | 2026-06-09 21:42 |
+| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d135475bf2adc12) | 2026-06-09 21:42 |
+| SBA Communications | Databricks Engineer | Boca Raton, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2d82e34990aaa316) | 2026-06-09 21:42 |
+| Ford Motor Company | Full-Stack Software Engineer – Vehicle Software Engineering Services | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e1e3f3d87b0c456d) | 2026-06-09 21:42 |
+| AAA Central Penn | Business Intelligence Developer | Harrisburg, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1173e19ebe24ce7c) | 2026-06-09 21:42 |
+| Visa | Sr. Data Engineer | Foster City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fda9e03abcd1738f) | 2026-06-09 21:42 |
+| AAA Central Penn | Business Intelligence Analyst - Harrisburg, PA | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9519db94431c20fc) | 2026-06-09 21:42 |
+| ARUP Laboratories | Senior Analytics Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86a7c255f0579591) | 2026-06-09 21:42 |
+| Ford Motor Company | Senior Data Engineer | Redford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c29332168c78c58c) | 2026-06-09 21:42 |
+| Harris Computer | Expert Site Reliability Engineer | KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=920841329b7f6367) | 2026-06-09 21:42 |
 | Exaways Corporation | AWS Data Architect | Alameda, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=bf85c1090a97cd0a) | 2026-06-09 19:08 |
 | Cayuse Holdings | AI Software Engineer, Senior | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=212d73dd2934b416) | 2026-06-09 19:08 |
 | Samsara | Senior Software Engineer - Data Platform | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ae38a9c283b62879) | 2026-06-09 19:08 |
-| The Coca-Cola Company | Senior Data/Machine Learning Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=260e9231f9bc608e) | 2026-06-09 19:08 |
 | Acrisure LLC | Software Engineer, Data | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e55aae80dce9806) | 2026-06-09 19:08 |
-| The Coca-Cola Company | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d135475bf2adc12) | 2026-06-09 19:08 |
 | Verana Health | Senior Software Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b898217d67c6bb05) | 2026-06-09 19:08 |
 | Rippling | Data Engineer - GTM Team | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=71238d288bcde281) | 2026-06-09 19:08 |
 | Rippling | Data Engineer - GTM Team | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=97105581153651c2) | 2026-06-09 19:08 |
-| Ford Motor Company | Full-Stack Software Engineer – Vehicle Software Engineering Services | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e1e3f3d87b0c456d) | 2026-06-09 19:08 |
 | SportsBiz Group Inc | Senior Full Stack AI Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eecd0ded4500842f) | 2026-06-09 19:08 |
 | Capnexus | AWS Serverless Full Stack Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=38feb710a36ff9f4) | 2026-06-09 19:08 |
-| Ford Motor Company | Senior Data Engineer | Redford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c29332168c78c58c) | 2026-06-09 19:08 |
 | nan | Data Engineer- Hybrid Onsite Des Moines, Iowa | Des Moines, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81029ffa4d7910b4) | 2026-06-09 19:08 |
 | Optum | AI Engineer - AI/ML | Minnetonka, MN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=603c741187a35795) | 2026-06-09 16:26 |
 | Tata Consultancy Services (TCS) | Data Bricks Migration and Support engineer | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f89526bd8706b6bf) | 2026-06-09 16:26 |
@@ -279,55 +292,6 @@ Last updated: 2026-06-09 19:08
 | Qnity | Senior Cloud Engineer | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f794016856a71562) | 2026-06-05 22:10 |
 | Child Mind Institute | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b5783dbfc8eb97f) | 2026-06-05 22:10 |
 | Samsara | People Analytics AI Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=085b37bc2f384dd8) | 2026-06-05 22:10 |
-| nan | AI/ML Architect with Databricks , AWS | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=830c3438f0d2663d) | 2026-06-05 20:46 |
-| nan | Senior Data Engineer - INDIA | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0cc95db0c4e95e26) | 2026-06-05 20:46 |
-| Luxoft | Senior AI Engineer | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ba4b877f69f2d40c) | 2026-06-05 20:46 |
-| Allstate Insurance | Product Engineer – Java Spring Boot w/ Full Stack Option | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dc2626116e7624e8) | 2026-06-05 20:46 |
-| Living Spaces | Data Platform Engineer | La Mirada, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=174248a1c04ee5d1) | 2026-06-05 20:46 |
-| Aureon | Data Architect | West Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d34924c7fa34c06a) | 2026-06-05 20:46 |
-| Edurech Technoogy | Data Engineer | Texas City, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=82f7476cf0abb572) | 2026-06-05 20:46 |
-| Huron Consulting Group | Data Platform Integration Engineer (Senior Associate) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21ffac673f9e5e45) | 2026-06-05 20:46 |
-| Huron Consulting Group | Senior Data Platform Integration Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d21417725ec301b) | 2026-06-05 20:46 |
-| Caterpillar | Senior Data Scientist | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=301853b8fccc1809) | 2026-06-05 20:46 |
-| Trianz | BI and AI Automation Engineer | Overland Park, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9063c5940585caea) | 2026-06-05 20:46 |
-| IntelliDyne | Python Web Application Developer | Tysons Corner, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68462d5c7447b1bc) | 2026-06-05 20:46 |
-| nan | Software Engineer III | Fort Meade, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7083633f75338f3) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f0ad9dd289acaf4) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | WV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=adcfd80d8ddd1797) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | WY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9bb4ff161f79eb97) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5831cc5d3ed71831) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9fb1a59f2ca0aeb7) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac92f9aded586f7f) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | VT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65400d21e4dfaa86) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=907d088ad4ce8817) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef81c336a7e79cf0) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | ND, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61595787db57fa06) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf665a655bb76a60) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=226a2a348809de06) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=902f62fb402f51b6) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=390f0e5e656d9f53) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd0a54957f419fd6) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8487f3d26792e9c7) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d3775900918d6f3) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d7bba88de037d9fe) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a22f7446a850802) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac6674e24dedb4bb) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=73face8a34de6a5a) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5621a1c72043ad69) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | SD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20019031158d9ceb) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a58fac0f49f9d30) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4086f935d5f155c7) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8501f1696a12916f) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | NM, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0fbc505460e5f197) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e72d71a6e24e91f2) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76d1a5cf74c11970) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f78682532bd90175) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | MS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35b0d779964d6040) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff13af8a1356cc7b) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06ccd6e8311d5e0c) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd9d4ddad5f8751a) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=121a767a69ec77df) | 2026-06-05 20:46 |
-| Concentrix | Python Developer (Linux exp) | MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdc98d9c47321a48) | 2026-06-05 20:46 |
 
 
 ---
