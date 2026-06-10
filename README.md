@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-10 07:00
+Last updated: 2026-06-10 10:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Edgewell Personal Care | Senior Data Engineer, Growth, Insights & Analytics | Shelton, CT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4935b0927c3cb923) | 2026-06-10 10:57 |
+| Capstone Logistics, LLC | Sr. Data Engineer | Peachtree Corners, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d5c118f0ba65ed66) | 2026-06-10 10:57 |
+| Ernest Talent | AWS Data Engineer (Glue / Redshift / Python) | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2bfe418b1f9d88e0) | 2026-06-10 10:57 |
+| Comcast | GoLang Software Engineer, Identity Service- Freewheel | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=911264091d15f95e) | 2026-06-10 10:57 |
+| Chewy | Software Engineer III | Plantation, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=519f9316645f657a) | 2026-06-10 10:57 |
+| Chewy | Software Engineer III | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d7737db6448a1bfd) | 2026-06-10 10:57 |
+| Cisco | Software Engineer | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=362f92d7582e4290) | 2026-06-10 10:57 |
+| Cisco | Software Engineer | Research Triangle Park, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a831ef17147e5fb9) | 2026-06-10 10:57 |
+| Granite Telecommunications | Senior Cloud Data Ops Engineer | Quincy, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fb54c0674ca604fd) | 2026-06-10 10:57 |
+| TIAA | Ping Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aeb29602a924466f) | 2026-06-10 10:57 |
+| Educology Solutions | Sr. QA Automation Engineer- Enterprise Data & Analytics | Adelphi, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7952f8ac317de390) | 2026-06-10 10:57 |
+| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4c8004a61ef0799f) | 2026-06-10 10:57 |
+| International Logic Systems, Inc. | Senior OAS/ODI Developer | Fairfax, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f802008269dcfdc8) | 2026-06-10 10:57 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed5c02fbbb94f50e) | 2026-06-10 10:57 |
 | JPMorganChase | Software Engineer III - Data Platform | Austin, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=85cdeb8503f6c459) | 2026-06-10 07:00 |
 | IDEXX Laboratories | Senior Site Reliability Engineer | Westbrook, ME, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bdcf77e4be9df296) | 2026-06-10 07:00 |
 | Technology Ventures | Developer-Full Stack Professional | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cbd682ad6ededbf7) | 2026-06-10 07:00 |
@@ -336,7 +350,6 @@ Last updated: 2026-06-10 07:00
 | Mustang Cat | Senior Data Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=94f8c84cd358c94d) | 2026-06-06 11:17 |
 | Frontline Education | Sr. Software Engineer II, BS Solutions | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e2da1cdaefbd7649) | 2026-06-06 11:17 |
 | Staples | Data Scientist, Marketing Analytics & Measurement | Framingham, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1861d953a806a35d) | 2026-06-06 11:17 |
-| Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f4d5b6c0ea750fd) | 2026-06-06 09:18 |
 
 
 ---
