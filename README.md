@@ -1,14 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-11 14:31
+Last updated: 2026-06-11 18:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Stitch Consulting Services, Inc. | Senior Databricks Architect | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9d09a1b90b86ef4e) | 2026-06-11 18:07 |
+| Seattle Children's | Data Engineer/Associate | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cfe630ebf9cbab80) | 2026-06-11 18:07 |
+| Scigon | Databricks Developer | Franklin Park, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6ec9eccd457d1c7e) | 2026-06-11 18:07 |
+| LTIMindtree | Specialist - Data Engineering | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dcf6f0e1abb4826a) | 2026-06-11 18:07 |
+| I2E Consulting Pvt Ltd | Snowflake Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=650af1c5e8c39884) | 2026-06-11 18:07 |
+| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1dac519c3d40790) | 2026-06-11 18:07 |
+| Creative Information Technology India | Back-End Developer – Remote | Falls Church, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=323c21bf380dde66) | 2026-06-11 18:07 |
+| micro1 | Software Engineer, Financial Platform | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9dda4e17d3658df2) | 2026-06-11 18:07 |
+| The Hartford | Sr. Data Engineer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac20b554f3336983) | 2026-06-11 18:07 |
+| AlpacaJapan株式会社 | Senior Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45b7132352f20af8) | 2026-06-11 18:07 |
+| Shell Energy Retail | Sr. AI & Data Engineer–Trading Analytics | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f379cc52c6dc1b7b) | 2026-06-11 18:07 |
+| Sound Physicians | BI Developer II | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34aa94cc9031fce2) | 2026-06-11 18:07 |
+| AlpacaJapan株式会社 | Senior Analytics Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5f9bcf7a0cd9dbd) | 2026-06-11 18:07 |
+| AlpacaJapan株式会社 | Senior Software Engineer - Tax Platform | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b6ade65b566a785) | 2026-06-11 18:07 |
 | Foxit | Data Engineer-Marketing Technology | Alpharetta, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=66618d4a082a7f22) | 2026-06-11 14:31 |
 | nan | Solutions Architect | Wilmington, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=99ffb50aa63952c2) | 2026-06-11 14:31 |
-| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1dac519c3d40790) | 2026-06-11 14:31 |
 | Qode | DevOps & Tools Engineer | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6f00f70f3712a077) | 2026-06-11 14:31 |
 | Qode | DevOps & Tools Engineer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c8c9c5b96552b007) | 2026-06-11 14:31 |
 | Qode | DevOps & Tools Engineer | Camas, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2ab3fddd487ed32) | 2026-06-11 14:31 |
