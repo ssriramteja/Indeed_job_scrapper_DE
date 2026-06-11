@@ -1,20 +1,58 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-10 22:48
+Last updated: 2026-06-11 00:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| State of Arizona | Enterprise Data & AI Platform Architect | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5428d278da22bd02) | 2026-06-11 00:09 |
+| Capgemini | Mid-Level -Looker Developer -Google | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d33054d955a48903) | 2026-06-11 00:09 |
+| Esri | Java Software Engineer II - ArcGIS Enterprise | Redlands, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4a9bbdc8248adbd) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d4e1129e4812bf7b) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=997076f3557b3e9a) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=238647c47b19c8eb) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e0cc8aa5b1145a0c) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ceb941ff0fd6a0cb) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c5bb07c7a07be0e6) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f2b5b0b8e3011dcc) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=607b48f21698f142) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=04f973f7323057e9) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=34950007f8bb9798) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e2ea390592236764) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ba7ea7b918227421) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee458103ff1c70bf) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2ba57da018df901c) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9c4b77209f1232dd) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d73d871e1deea61) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=47efa737e9fc9146) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=61f05a66307eff77) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=430a6f1d83e30529) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a5f9980f2267fe92) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d54c7515a609d437) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d97025c53dc8097b) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1424c80ddb92ac16) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=45f7a92cd47c388f) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9a23c7934cd38108) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11758c6720edfe8c) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=947d34a5cd743710) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=58fd2bc0f706a630) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52beb77333c9d632) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2d94aabbffe9af4) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=de5882845fc94868) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=026d02e8ce3baa47) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b3ff5ee4ac14175f) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=84726e340de9d703) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cdc593c9088c2ea6) | 2026-06-11 00:09 |
+| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac8f53db9ad25323) | 2026-06-11 00:09 |
+| Availity, LLC. | Identity Management Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=35969c0f5a1196e5) | 2026-06-11 00:09 |
+| Zillow | Senior Software Development Engineer, Agentic AI Data Services | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11a6e83b8ea37c39) | 2026-06-11 00:09 |
+| Ollion | Data Insights - Intern | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=54b659e64be3d4e6) | 2026-06-11 00:09 |
+| AeroVironment | Machine Learning Engineer | Jessup, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=890d98929cfcbadb) | 2026-06-11 00:09 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed5c02fbbb94f50e) | 2026-06-11 00:09 |
 | CareFirst BlueCross BlueShield | Software Engineer - Java, Microservices, MuleSoft & API Development (Remote) | Baltimore, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c2e12084d35df615) | 2026-06-10 22:48 |
 | nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1badc32639c60a3b) | 2026-06-10 22:48 |
 | EXL Service | Senior ML Engineer / MLOps Engineer | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8577c851254cde7a) | 2026-06-10 22:48 |
-| Bain & Company | Full Stack Engineer (Delivery Toolkit) | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=caf37a9b3156f8dd) | 2026-06-10 22:48 |
-| Bain & Company | Full Stack Engineer (Delivery Toolkit) | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9bcb0ad10b28a6f6) | 2026-06-10 22:48 |
-| Bain & Company | Full Stack Engineer (Delivery Toolkit) | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=38db06205a3e4bf5) | 2026-06-10 22:48 |
-| Bain & Company | Full Stack Engineer (Delivery Toolkit) | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e7b6929e731217b8) | 2026-06-10 22:48 |
-| Bain & Company | Full Stack Engineer (Delivery Toolkit) | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e1f1182f80665686) | 2026-06-10 22:48 |
-| Bain & Company | Full Stack Engineer (Delivery Toolkit) | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1adbdb2bdac0514f) | 2026-06-10 22:48 |
 | Citi | Senior Python Engineer - Applications Development Sr Programmer Analyst - C12 - RUTHERFORD | Rutherford, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2a79fada7aa22173) | 2026-06-10 22:48 |
 | Citi | Senior Python Engineer - Applications Development Sr Programmer Analyst - C12 - RUTHERFORD | Rutherford, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=58f9563a68281f5f) | 2026-06-10 22:48 |
 | UCLA Health | Cloud Engineer | Los Angeles, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=479163dbba877015) | 2026-06-10 22:48 |
@@ -38,7 +76,6 @@ Last updated: 2026-06-10 22:48
 | Ad Hoc | Senior DevOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b31841b8cf3b4d68) | 2026-06-10 22:48 |
 | Ad Hoc | Senior DevOps Engineer | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ded756039a0a140f) | 2026-06-10 22:48 |
 | Recursion Technologies, Inc | Systems Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f69f1e8adbaaa70b) | 2026-06-10 22:48 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed5c02fbbb94f50e) | 2026-06-10 22:48 |
 | Rivian | Software Engineer, Engineering Applications | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1752866836309783) | 2026-06-10 22:48 |
 | Symhas | RELTIO INTEGRATION HUB ENGINEER | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e45fa699f911621) | 2026-06-10 20:13 |
 | Academy Bank | Full Stack Developer | Kansas City, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=141e5928a75e80ea) | 2026-06-10 20:13 |
