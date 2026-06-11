@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-11 05:22
+Last updated: 2026-06-11 10:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| WaFd Bank | Senior Data Engineer (Hybrid Eligible*) | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=676157bc1afd24c8) | 2026-06-11 10:07 |
+| o9 Solutions | Senior Technical Architect | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bf300316a739534d) | 2026-06-11 10:07 |
+| Glint Tech Solutions | Data Engineer with Python and React - Remote | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8bc2b0d080f003ed) | 2026-06-11 10:07 |
+| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1dac519c3d40790) | 2026-06-11 10:07 |
+| Dayforce | Database Platform Distinguished Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a1878bb369b786a4) | 2026-06-11 10:07 |
+| Inabia Software & Consulting Inc. | Senior Software Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9277248c547d05a6) | 2026-06-11 10:07 |
+| California Institute of Technology | Application Developer | Pasadena, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1fb4f31db86d8854) | 2026-06-11 10:07 |
+| U.S. Bank | Software Engineer 2(Java/SpringBoot/Microservices/Kafka) | Brookfield, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a77f7fc0875b8913) | 2026-06-11 10:07 |
+| U.S. Bank | Software Engineer 2(Java/SpringBoot/Microservices/Kafka) | Hopkins, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fae5dae15c5081c) | 2026-06-11 10:07 |
 | CVS Health | Senior Software Development/Data Engineer | Hartford, CT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3530403779aaafd2) | 2026-06-11 05:22 |
 | Deloitte | Senior Data Engineer | Morristown, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d490a5e4c58ea8d3) | 2026-06-11 05:22 |
 | Deloitte | Senior Data Engineer | Hartford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d5c32bcb8a5f4e0f) | 2026-06-11 05:22 |
@@ -30,7 +39,6 @@ Last updated: 2026-06-11 05:22
 | Inn-Flow Inc. | Snowflake Data Engineer | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9d9dd2a0e256d891) | 2026-06-11 05:22 |
 | Living Spaces | Data Platform Engineer | La Mirada, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=19137d32d78cfe84) | 2026-06-11 05:22 |
 | McKesson | Sr Data Architect, Databricks | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f4998cd152a5e1f6) | 2026-06-11 05:22 |
-| The Clearing House Payments Company | Cloud Database Administrator (DBA) Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=edc462ae0be8211d) | 2026-06-11 05:22 |
 | Axiom Bank | Platform Architect | Maitland, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b276af599e88a7af) | 2026-06-11 05:22 |
 | CVS Health | Senior Software Development Engineer | CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ea8932a72fefee23) | 2026-06-11 05:22 |
 | The Hanover Insurance Group | Senior Data Engineer (REMOTE OR MA BASED) | Worcester, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f1b152b5aa55d165) | 2026-06-11 05:22 |
@@ -38,7 +46,6 @@ Last updated: 2026-06-11 05:22
 | The Hanover Insurance Group | Senior Data Engineer (REMOTE OR MA BASED) | Worcester, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b0edad65551ccdff) | 2026-06-11 05:22 |
 | The Hanover Insurance Group | Senior Data Engineer (REMOTE OR MA BASED) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=613c249c08b74171) | 2026-06-11 05:22 |
 | ERCOT/Electric Reliability Council of Texas | EMS Systems Analyst Sr | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4e9787cfc7115385) | 2026-06-11 05:22 |
-| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1dac519c3d40790) | 2026-06-11 05:22 |
 | Humana | Sr Full Stack Software Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b576fbb7c24544a9) | 2026-06-11 05:22 |
 | Humana | Sr Full Stack Software Engineer | TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6cd643ae862f32c6) | 2026-06-11 05:22 |
 | Humana | Sr Full Stack Software Engineer | KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56f77ff3e5347e0c) | 2026-06-11 05:22 |
@@ -56,7 +63,6 @@ Last updated: 2026-06-11 05:22
 | VetsEZ | Senior Software Product Engineer (Remote Opportunity) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2546b11c9cac9972) | 2026-06-11 05:22 |
 | UserGems | Senior Security Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc9835c6151bce1e) | 2026-06-11 05:22 |
 | California Institute of Technology | Application Developer | Pasadena, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d616f14c352000bb) | 2026-06-11 05:22 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed5c02fbbb94f50e) | 2026-06-11 05:22 |
 | State of Arizona | Enterprise Data & AI Platform Architect | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5428d278da22bd02) | 2026-06-11 00:09 |
 | Capgemini | Mid-Level -Looker Developer -Google | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d33054d955a48903) | 2026-06-11 00:09 |
 | Esri | Java Software Engineer II - ArcGIS Enterprise | Redlands, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4a9bbdc8248adbd) | 2026-06-11 00:09 |
@@ -434,7 +440,6 @@ Last updated: 2026-06-11 05:22
 | nan | Senior Data Engineer | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d5b9e1941fe0d4ca) | 2026-06-08 09:18 |
 | Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92370ed8cefd2963) | 2026-06-08 09:18 |
 | NVIDIA | Senior System Software Engineer - DevOps and Infrastructure Automation | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c72aec67782f8030) | 2026-06-08 09:18 |
-| Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b1fdc7b0acc6f95) | 2026-06-07 08:45 |
 
 
 ---
