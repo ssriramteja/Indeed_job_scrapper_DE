@@ -1,17 +1,40 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-11 18:07
+Last updated: 2026-06-11 21:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cwill | Data Engineer - Bilingual Mandarin required | Cary, NC, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=bda129dc1d7139ca) | 2026-06-11 21:13 |
+| Cwill | Data Engineer - Bilingual Mandarin required | Los Angeles, CA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=718307efaaa14959) | 2026-06-11 21:13 |
+| Personalis | Sr. Software Engineer, Cloud Infrastructure | Fremont, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=bb348c14b73d98a3) | 2026-06-11 21:13 |
+| Allied Solutions | Data Solution Architect | Carmel, IN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=444d7dbb36b2d6fc) | 2026-06-11 21:13 |
+| JPMorganChase | Software Engineer II - AI/ML Engineer | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1460aeeac19aef46) | 2026-06-11 21:13 |
+| Visa | Senior Data Engineer | Foster City, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d1491ce2afe6000a) | 2026-06-11 21:13 |
+| Ford Motor Company | Sr. Specialist, Yield Management - GTM AA Software Engineer | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=22786462c04357ed) | 2026-06-11 21:13 |
+| REPLY | Senior Data Engineer | Atlanta, KS, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bdf8e3f6e4538a3e) | 2026-06-11 21:13 |
+| Ragle Inc | Data Engineer | North Richland Hills, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=287c3f75cf52bffd) | 2026-06-11 21:13 |
+| MCLEOD SOFTWARE | Analyst, Enterprise Data | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca341483d10ac32d) | 2026-06-11 21:13 |
+| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1dac519c3d40790) | 2026-06-11 21:13 |
+| Gap Inc. | Sr. ML Engineer – ML & Applied AI | SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7037bbae043a99c0) | 2026-06-11 21:13 |
+| Makpar Corporation | Appian Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c14a2b6762683cda) | 2026-06-11 21:13 |
+| The Hartford | Sr. Data Engineer (Hartford, CT) | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=74d3e7e600902d7a) | 2026-06-11 21:13 |
+| General Motors (GM) | Senior Data Engineer | Warren, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6c0e35184f1405f1) | 2026-06-11 21:13 |
+| Texas Farm Bureau - Insurance Agents | Data Engineer I | Waco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c98ea64c47e01e6) | 2026-06-11 21:13 |
+| AssetMark | Cloud Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6ff9fec023b73eaf) | 2026-06-11 21:13 |
+| MERS Missouri Goodwill Industries | Junior Data Platform Administrator | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=44bb3c31f7951efa) | 2026-06-11 21:13 |
+| The Hartford | Sr. Data Engineer (Charlotte, NC) | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a0624efc6db4599e) | 2026-06-11 21:13 |
+| Rochester Electronics | Enterprise Data Architect | Newburyport, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4eb77a558047a211) | 2026-06-11 21:13 |
+| Presidio | Associate Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dcc977ad560dcdfe) | 2026-06-11 21:13 |
+| Centurion Health | IT Software Application Developer II | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab8d8cc229c57ccb) | 2026-06-11 21:13 |
+| Centurion Health | IT Software Application Developer II | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eee9029e7c364607) | 2026-06-11 21:13 |
+| Walkme | DevOps Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1af1cdb9613b93fd) | 2026-06-11 21:13 |
 | Stitch Consulting Services, Inc. | Senior Databricks Architect | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9d09a1b90b86ef4e) | 2026-06-11 18:07 |
 | Seattle Children's | Data Engineer/Associate | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cfe630ebf9cbab80) | 2026-06-11 18:07 |
 | Scigon | Databricks Developer | Franklin Park, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6ec9eccd457d1c7e) | 2026-06-11 18:07 |
 | LTIMindtree | Specialist - Data Engineering | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dcf6f0e1abb4826a) | 2026-06-11 18:07 |
 | I2E Consulting Pvt Ltd | Snowflake Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=650af1c5e8c39884) | 2026-06-11 18:07 |
-| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1dac519c3d40790) | 2026-06-11 18:07 |
 | Creative Information Technology India | Back-End Developer – Remote | Falls Church, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=323c21bf380dde66) | 2026-06-11 18:07 |
 | micro1 | Software Engineer, Financial Platform | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9dda4e17d3658df2) | 2026-06-11 18:07 |
 | The Hartford | Sr. Data Engineer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac20b554f3336983) | 2026-06-11 18:07 |
