@@ -1,18 +1,64 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-12 02:40
+Last updated: 2026-06-12 07:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer II: Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a43228eca462ffe2) | 2026-06-12 07:14 |
+| State of Washington | IT Data Architect (Senior/Specialist) | Tumwater, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=147df69fbd3dc06f) | 2026-06-12 07:14 |
+| Ford Motor Company | Sr. Specialist, Yield Management - GTM AA Software Engineer | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=22786462c04357ed) | 2026-06-12 07:14 |
+| Full Swing Golf Inc | Senior AWS Infrastructure / Dev Ops Engineer | Carlsbad, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b2e2bb60d0f9bd54) | 2026-06-12 07:14 |
+| EMC Insurance | Data Engineer III | Des Moines, IA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=04ed95a8ab7c02d2) | 2026-06-12 07:14 |
+| iManage | Senior Data Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0c8a78f0b7d9a954) | 2026-06-12 07:14 |
+| GetWellNetwork | Cloud Security Engineer/DevSecOps Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=68f8ca36b295c24d) | 2026-06-12 07:14 |
+| Texas Instruments | AWS Architect | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3b5608a7f41b4e3) | 2026-06-12 07:14 |
+| Visa | SW Engineer | Highlands Ranch, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df58d72b6ebba2f5) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dcffbd042483fd6d) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a73bb9e4fcd1194d) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a2ef01ac70d36eca) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af0f3caaa77dc460) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c6411ff02f3373c0) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3fe5dcd6edbb6191) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4406ca67f5f7436a) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c6a5b0eda2e3405) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71f5e7eba845df7f) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=382e7b658e71f3b4) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f91e0a343a737cd) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=875b6972437ebd32) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f876573743957d0) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4d7303d62b7d5ce7) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c62cabc105423e67) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0f98fa430296daa1) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d944735358e10029) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0a780fbab7d5b68) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bdf18b0ca49d35a5) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dfe164b5bf5a40b2) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50a9d70f95366aad) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0a6dcd0a14bbb7a4) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=310b89f9a79e8382) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1db2de5436b0de47) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=300d9f4832f7d438) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c506c367da32e3ea) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e19fb7c6ebabd01) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=456fb35d0f2a345e) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b69e6b49a8c83225) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=44f6f18e275bf4f7) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=be8586386e048813) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1bf6a320af2700c2) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=037518cf796f2c26) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=90ea1fa1ffbbfbda) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=22ef31fe96b1f9e8) | 2026-06-12 07:14 |
+| Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5ed4c13455f9ce86) | 2026-06-12 07:14 |
+| Palo Alto Networks | DevOps Engineer | Santa Clara, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e0436b74d002fd0) | 2026-06-12 07:14 |
+| Optum | Senior Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a51301d84047381d) | 2026-06-12 07:14 |
 | VTG Defense | Systems Engineer SME | Tysons Corner, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=8e2e0f9df5247042) | 2026-06-12 02:40 |
 | Target | Data Engineer - Target Tech and AI | Minneapolis, MN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=23d858bb54be62b7) | 2026-06-12 02:40 |
 | Systems Development and Analysis | Senior Big Data Engineer (Java, Kafka, Spark, ETL) | Arlington, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4101b4f33c020b4b) | 2026-06-12 02:40 |
 | Sprouts Farmers Market | Platform Architect | Phoenix, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=be1d2f0b19c98908) | 2026-06-12 02:40 |
 | JLL | Senior Software Engineer | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b8327d885674c2cb) | 2026-06-12 02:40 |
 | Vertiv | Platform Operations Engineer (Site Reliability Engineer) | Westerville, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0928cac745f837eb) | 2026-06-12 02:40 |
-| Ford Motor Company | Sr. Specialist, Yield Management - GTM AA Software Engineer | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=22786462c04357ed) | 2026-06-12 02:40 |
 | Akumin | Senior Data Engineer | Daytona Beach, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=adaf2ea98a3a0c98) | 2026-06-12 02:40 |
 | Akumin | Senior Data Engineer | West Des Moines, IA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b51bef44ce851670) | 2026-06-12 02:40 |
 | Akumin | Senior Data Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=572a735d26988840) | 2026-06-12 02:40 |
