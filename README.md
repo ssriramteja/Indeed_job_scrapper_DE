@@ -1,13 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-12 11:36
+Last updated: 2026-06-12 14:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III: Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5309dfbe88757dfa) | 2026-06-12 14:36 |
+| Ford Motor Company | Sr. Specialist, Yield Management - GTM AA Software Engineer | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=22786462c04357ed) | 2026-06-12 14:36 |
+| Broadmind INC | Senior Backend AWS Engineer (Python) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d50ab53a04614947) | 2026-06-12 14:36 |
+| nan | Sr Data Engineer | Santa Monica, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20c20616163c8dea) | 2026-06-12 14:36 |
+| nan | Sr Data Engineer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cac895741d0c5e1) | 2026-06-12 14:36 |
+| nan | Sr Data Engineer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=324abf6ed6a12661) | 2026-06-12 14:36 |
+| Mango Chamba, LLC | Data Architect (Snowflake) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=495f4d3d488629b9) | 2026-06-12 14:36 |
+| nan | Sr Product Software Engineer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=799f6c78471ba72a) | 2026-06-12 14:36 |
+| nan | Product Software Engineer II | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46198227fa92bca6) | 2026-06-12 14:36 |
+| nan | Sr Software Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0fb03ca29667d8d5) | 2026-06-12 14:36 |
+| CrowdStrike | Software Engineer, Cloud - E2E Test | Redmond, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=126f8c878f1253f3) | 2026-06-12 14:36 |
 | Motorola Solutions | Sr Software Engineer - Python / DevOps / Message Brokers | Richardson, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e7ccd83a736eef1f) | 2026-06-12 11:36 |
-| Ford Motor Company | Sr. Specialist, Yield Management - GTM AA Software Engineer | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=22786462c04357ed) | 2026-06-12 11:36 |
 | TC Energy | Application Developer – Data & Digital Solutions | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87b192109a8d9de9) | 2026-06-12 11:36 |
 | OMS Medical Billing | Python Developer | Addison, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f6f2596747788c4e) | 2026-06-12 11:36 |
 | Bridgepointe Technologies | Senior Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7e6e1623e260b65) | 2026-06-12 11:36 |
@@ -622,8 +632,6 @@ Last updated: 2026-06-12 11:36
 | Everforth ECS | Data Scientist | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ec915a33af5dd7f) | 2026-06-08 17:23 |
 | Milwaukee Tool | Sales Operations - Business Intelligence Engineer II | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=82347e7049db91bd) | 2026-06-08 17:23 |
 | Northeastern University | Machine Learning Engineer, AI Solutions Hub (AISH) | Portland, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ceb267d00866d172) | 2026-06-08 17:23 |
-| Oracle | Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=953100d783ca43ac) | 2026-06-08 13:59 |
-| Oracle | Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=72b083a5bbeb1232) | 2026-06-08 13:59 |
 
 
 ---
