@@ -1,13 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-12 14:36
+Last updated: 2026-06-12 17:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Rysun labs | Data Engineer | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2b9e656d2a85bee5) | 2026-06-12 17:32 |
+| Ford Motor Company | Sr. Specialist, Yield Management - GTM AA Software Engineer | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=22786462c04357ed) | 2026-06-12 17:32 |
+| K&L GATES | Senior Data Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=30803e9edf7f7cc6) | 2026-06-12 17:32 |
+| Scientific Games | Senior Data Engineer | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=418149d6683bca23) | 2026-06-12 17:32 |
+| GEM Technologies, Inc. | Sr. Solutions Architect | Los Alamos, NM, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a20d25715f64218c) | 2026-06-12 17:32 |
+| Rysun labs | Technical Architect | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0d22bd46597ab543) | 2026-06-12 17:32 |
+| Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=919305a6d33188b3) | 2026-06-12 17:32 |
+| Guidewire | Software Engineer II - UnderwritingCenter | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=14b18b7116a0216a) | 2026-06-12 17:32 |
+| The Hartford | Sr. Data Engineer (Hartford, CT) | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e768638b0d15ea6f) | 2026-06-12 17:32 |
+| Paylink Direct | Cloud Infrastructure Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d48ca7baf014b40f) | 2026-06-12 17:32 |
+| Datadog | Senior Services Architect - New York | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a22e754adf0a78bd) | 2026-06-12 17:32 |
+| Netbuilder | Full-Stack Developer (Java, React, Oracle/MySQL, DevOps) | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b19eed4d204d2f13) | 2026-06-12 17:32 |
+| USI Insurance Services | Data Warehouse Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2106609d886859e3) | 2026-06-12 17:32 |
 | JPMorganChase | Software Engineer III: Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5309dfbe88757dfa) | 2026-06-12 14:36 |
-| Ford Motor Company | Sr. Specialist, Yield Management - GTM AA Software Engineer | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=22786462c04357ed) | 2026-06-12 14:36 |
 | Broadmind INC | Senior Backend AWS Engineer (Python) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d50ab53a04614947) | 2026-06-12 14:36 |
 | nan | Sr Data Engineer | Santa Monica, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20c20616163c8dea) | 2026-06-12 14:36 |
 | nan | Sr Data Engineer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cac895741d0c5e1) | 2026-06-12 14:36 |
@@ -617,21 +629,6 @@ Last updated: 2026-06-12 14:36
 | Databricks | Lakebase Sales Specialist-Manufacturing | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=50ab1973f17e0989) | 2026-06-08 20:02 |
 | Citco | Position 616-05 | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2ccb465cac7664e) | 2026-06-08 20:02 |
 | Riot Games | Software Engineer, Payments Checkouts - Publishing Platform | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64dd743e4a8a5177) | 2026-06-08 20:02 |
-| The Cigna Group | Software Engineering Senior Advisor- Hybrid | Raleigh, NC, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=8d42d7af82b11801) | 2026-06-08 17:23 |
-| Quest Global | Techno Functional Solutions Architect | Santa Clara, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2e6462d7517c54df) | 2026-06-08 17:23 |
-| Capnexus | Senior Data/ML Engineer (AWS) | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bb618ea44d30c0e0) | 2026-06-08 17:23 |
-| Invesco | Senior Engineer, Engineering Services | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e247743b45089523) | 2026-06-08 17:23 |
-| Symplore Inc | Sr. Java Developer | Texas City, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3af98f3363aa097a) | 2026-06-08 17:23 |
-| Fidelity Investments | Data Engineer | Westlake, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2f72dbc4b18bcb75) | 2026-06-08 17:23 |
-| Fidelity Investments | Data Engineer | Smithfield, RI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=86d4421552e0b63d) | 2026-06-08 17:23 |
-| MOEV Inc. | Software Engineer | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=33470d4830492356) | 2026-06-08 17:23 |
-| The Cigna Group | Software Engineering Senior Advisor- Hybrid | St. Louis, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ceca754c6b6fbfd5) | 2026-06-08 17:23 |
-| nan | Senior Blockchain Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=678a055b3ce18049) | 2026-06-08 17:23 |
-| Metronet | Analytics Engineer | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8988ab1d912fc2fc) | 2026-06-08 17:23 |
-| Wowza Media Systems | Senior Software Engineer, Data Platforms & Monetization | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa5b3c703b2170b9) | 2026-06-08 17:23 |
-| Everforth ECS | Data Scientist | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ec915a33af5dd7f) | 2026-06-08 17:23 |
-| Milwaukee Tool | Sales Operations - Business Intelligence Engineer II | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=82347e7049db91bd) | 2026-06-08 17:23 |
-| Northeastern University | Machine Learning Engineer, AI Solutions Hub (AISH) | Portland, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ceb267d00866d172) | 2026-06-08 17:23 |
 
 
 ---
