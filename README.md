@@ -1,14 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-12 07:14
+Last updated: 2026-06-12 11:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Motorola Solutions | Sr Software Engineer - Python / DevOps / Message Brokers | Richardson, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e7ccd83a736eef1f) | 2026-06-12 11:36 |
+| Ford Motor Company | Sr. Specialist, Yield Management - GTM AA Software Engineer | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=22786462c04357ed) | 2026-06-12 11:36 |
+| TC Energy | Application Developer – Data & Digital Solutions | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87b192109a8d9de9) | 2026-06-12 11:36 |
+| OMS Medical Billing | Python Developer | Addison, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f6f2596747788c4e) | 2026-06-12 11:36 |
+| Bridgepointe Technologies | Senior Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7e6e1623e260b65) | 2026-06-12 11:36 |
+| Universal Orlando Resort | Internship – Data Engineer, Commercial Audience Science (Spring 2027) | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c29c16dbcddbb923) | 2026-06-12 11:36 |
 | JPMorganChase | Software Engineer II: Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a43228eca462ffe2) | 2026-06-12 07:14 |
 | State of Washington | IT Data Architect (Senior/Specialist) | Tumwater, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=147df69fbd3dc06f) | 2026-06-12 07:14 |
-| Ford Motor Company | Sr. Specialist, Yield Management - GTM AA Software Engineer | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=22786462c04357ed) | 2026-06-12 07:14 |
 | Full Swing Golf Inc | Senior AWS Infrastructure / Dev Ops Engineer | Carlsbad, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b2e2bb60d0f9bd54) | 2026-06-12 07:14 |
 | EMC Insurance | Data Engineer III | Des Moines, IA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=04ed95a8ab7c02d2) | 2026-06-12 07:14 |
 | iManage | Senior Data Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0c8a78f0b7d9a954) | 2026-06-12 07:14 |
@@ -619,9 +624,6 @@ Last updated: 2026-06-12 07:14
 | Northeastern University | Machine Learning Engineer, AI Solutions Hub (AISH) | Portland, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ceb267d00866d172) | 2026-06-08 17:23 |
 | Oracle | Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=953100d783ca43ac) | 2026-06-08 13:59 |
 | Oracle | Software Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=72b083a5bbeb1232) | 2026-06-08 13:59 |
-| nan | Senior Data Engineer | Fort Worth, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d5b9e1941fe0d4ca) | 2026-06-08 09:18 |
-| Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92370ed8cefd2963) | 2026-06-08 09:18 |
-| NVIDIA | Senior System Software Engineer - DevOps and Infrastructure Automation | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c72aec67782f8030) | 2026-06-08 09:18 |
 
 
 ---
