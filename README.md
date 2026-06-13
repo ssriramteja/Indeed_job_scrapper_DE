@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-13 15:26
+Last updated: 2026-06-13 17:13
 
 ### 🚀 Daily Job Matches
 
@@ -629,19 +629,6 @@ Last updated: 2026-06-13 15:26
 | SportsBiz Group Inc | Senior Full Stack AI Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eecd0ded4500842f) | 2026-06-09 19:08 |
 | Capnexus | AWS Serverless Full Stack Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=38feb710a36ff9f4) | 2026-06-09 19:08 |
 | nan | Data Engineer- Hybrid Onsite Des Moines, Iowa | Des Moines, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81029ffa4d7910b4) | 2026-06-09 19:08 |
-| Optum | AI Engineer - AI/ML | Minnetonka, MN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=603c741187a35795) | 2026-06-09 16:26 |
-| Tata Consultancy Services (TCS) | Data Bricks Migration and Support engineer | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f89526bd8706b6bf) | 2026-06-09 16:26 |
-| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9652a3e159336480) | 2026-06-09 16:26 |
-| Optum | Senior Software Engineer | Basking Ridge, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4e1214688100a67a) | 2026-06-09 16:26 |
-| Optum | Senior Software Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=34801161eca101a2) | 2026-06-09 16:26 |
-| Stellantis | Powertrain Embedded ASW , DevOps and Compiler Toolchain Engineer | Auburn Hills, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=022045c10afd20b1) | 2026-06-09 16:26 |
-| Optum | Associate Site Reliability Engineer | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f990189dc2794b76) | 2026-06-09 16:26 |
-| Vizient, Inc. | Senior Software Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa97fcdc7f844184) | 2026-06-09 16:26 |
-| Optum | Associate Software Engineer | Cypress, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=be2ef33d0192f63d) | 2026-06-09 16:26 |
-| Rise Collective | Senior Full-Stack Software Engineer | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f9745f84cfd688af) | 2026-06-09 16:26 |
-| nan | Sr Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4fcfc8455bb28a5a) | 2026-06-09 16:26 |
-| The Home Depot | Data Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3775c83bc5fdd8c7) | 2026-06-09 16:26 |
-| VSG Business Solutions | Cloud Network Engineer | Farmington Hills, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=affe8303aaf58004) | 2026-06-09 16:26 |
 
 
 ---

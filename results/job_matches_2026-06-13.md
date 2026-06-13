@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-06-13
 
-**Total Jobs Found:** 103
+**Total Jobs Found:** 99
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -379,18 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Senior Data Engineer @ Scientific Games
-**Match Score:** 13.2%
-
-📍 **Location:** Alpharetta, GA, US USA
-
-🔑 **Keywords:** AWS, Glue, Redshift, RDS, Databricks, Spark, Scala, Kafka, Snowflake, Data Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=418149d6683bca23)
-
----
-
-## 36. Senior Migration Architect @ Leidos
+## 35. Senior Migration Architect @ Leidos
 **Match Score:** 13.2%
 
 📍 **Location:** VA, US USA
@@ -401,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME @ Workday
+## 36. Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME @ Workday
 **Match Score:** 12.5%
 
 📍 **Location:** Reston, VA, US USA
@@ -412,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Data Engineer - Azure & Microsoft Fabric @ Quisitive
+## 37. Data Engineer - Azure & Microsoft Fabric @ Quisitive
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -423,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Software Engineer @ iHeartMedia
+## 38. Software Engineer @ iHeartMedia
 **Match Score:** 12.5%
 
 📍 **Location:** NY, US USA
@@ -434,18 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Senior Data Engineer @ K&L GATES
-**Match Score:** 12.5%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Medallion Architecture, Dataflow, Spark, Scala, Dimensional Modeling, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=30803e9edf7f7cc6)
-
----
-
-## 41. Sr. Data Engineer @ Kobie Marketing
+## 39. Sr. Data Engineer @ Kobie Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Richmond, VA, US USA
@@ -456,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Sr. Data Engineer @ Kobie Marketing
+## 40. Sr. Data Engineer @ Kobie Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -467,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Sr. Data Engineer @ Kobie Marketing
+## 41. Sr. Data Engineer @ Kobie Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Detroit, MI, US USA
@@ -478,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Sr. Data Engineer @ Kobie Marketing
+## 42. Sr. Data Engineer @ Kobie Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -489,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Sr. Data Engineer @ Kobie Marketing
+## 43. Sr. Data Engineer @ Kobie Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -500,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Sr. Data Engineer @ Kobie Marketing
+## 44. Sr. Data Engineer @ Kobie Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -511,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Sr. Data Engineer @ Kobie Marketing
+## 45. Sr. Data Engineer @ Kobie Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Saint Petersburg, FL, US USA
@@ -522,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Sr. Data Engineer @ Kobie Marketing
+## 46. Sr. Data Engineer @ Kobie Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -533,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Forward Deployed Software Engineer (FDE), Advanced @ Zebra Technologies
+## 47. Forward Deployed Software Engineer (FDE), Advanced @ Zebra Technologies
 **Match Score:** 12.5%
 
 📍 **Location:** Holtsville, NY, US USA
@@ -544,18 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Senior Backend Engineer (Java/Kotlin, Microservices) @ Cognizant
-**Match Score:** 12.5%
-
-📍 **Location:** Salt Lake City, UT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, PostgreSQL, MongoDB, NoSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3d77b44f4a3db0af)
-
----
-
-## 51. Senior Data Transformation Data Architect @ Patriot Bank, N.A.
+## 48. Senior Data Transformation Data Architect @ Patriot Bank, N.A.
 **Match Score:** 12.5%
 
 📍 **Location:** US USA
@@ -566,7 +533,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Sr Platform Engineer-1 @ Flexential
+## 49. Senior Backend Engineer (Java/Kotlin, Microservices) @ Cognizant
+**Match Score:** 12.5%
+
+📍 **Location:** Salt Lake City, UT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, PostgreSQL, MongoDB, NoSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3d77b44f4a3db0af)
+
+---
+
+## 50. Sr Platform Engineer-1 @ Flexential
 **Match Score:** 11.8%
 
 📍 **Location:** Centennial, CO, US USA
@@ -577,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Senior Data Engineer @ WhiteWater Express Car Wash
+## 51. Senior Data Engineer @ WhiteWater Express Car Wash
 **Match Score:** 11.8%
 
 📍 **Location:** Houston, TX, US USA
@@ -588,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Software Engineer @ Marathon Health
+## 52. Software Engineer @ Marathon Health
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -599,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. DevOps Software Engineer (Hybrid) @ Tommy Car Wash
+## 53. DevOps Software Engineer (Hybrid) @ Tommy Car Wash
 **Match Score:** 11.8%
 
 📍 **Location:** Holland, MI, US USA
@@ -610,29 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Software Developer Sr. - AI-Native .NET/ Azure (Cloud Platform) @ Dayforce
-**Match Score:** 11.8%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Azure, Scala, Kafka, MongoDB, Azure Cosmos DB, NoSQL, CI/CD, GitHub Actions, Azure DevOps, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=db55be048a80c25e)
-
----
-
-## 57. Software Engineer II - UnderwritingCenter @ Guidewire
-**Match Score:** 11.8%
-
-📍 **Location:** San Mateo, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Oracle, PostgreSQL, DynamoDB, NoSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=14b18b7116a0216a)
-
----
-
-## 58. Data Engineer - Operational Support (Co-op) @ Campbell's
+## 54. Data Engineer - Operational Support (Co-op) @ Campbell's
 **Match Score:** 11.1%
 
 📍 **Location:** Camden, NJ, US USA
@@ -643,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. Data Engineer – Agentic AI & ML Ops (Co-op) @ Campbell's
+## 55. Data Engineer – Agentic AI & ML Ops (Co-op) @ Campbell's
 **Match Score:** 11.1%
 
 📍 **Location:** Camden, NJ, US USA
@@ -654,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. AI Architect @ Koch
+## 56. AI Architect @ Koch
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -665,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Enterprise Architect @ Koch
+## 57. Enterprise Architect @ Koch
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -676,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. AI Architect @ Koch
+## 58. AI Architect @ Koch
 **Match Score:** 11.1%
 
 📍 **Location:** Tulsa, OK, US USA
@@ -687,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Enterprise Architect @ Koch
+## 59. Enterprise Architect @ Koch
 **Match Score:** 11.1%
 
 📍 **Location:** Tulsa, OK, US USA
@@ -698,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Enterprise Architect @ Koch
+## 60. Enterprise Architect @ Koch
 **Match Score:** 11.1%
 
 📍 **Location:** Wichita, KS, US USA
@@ -709,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. AI Architect @ Koch
+## 61. AI Architect @ Koch
 **Match Score:** 11.1%
 
 📍 **Location:** Wichita, KS, US USA
@@ -720,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Data Modeler @ GeoLogics Corporation
+## 62. Data Modeler @ GeoLogics Corporation
 **Match Score:** 11.1%
 
 📍 **Location:** Sterling Heights, MI, US USA
@@ -731,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Bioinformatics Software Engineer II, Pathology and Lab Medicine @ Memorial Sloan Kettering Cancer Center
+## 63. Bioinformatics Software Engineer II, Pathology and Lab Medicine @ Memorial Sloan Kettering Cancer Center
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -742,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
+## 64. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** Mountain View, CA, US USA
@@ -753,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
+## 65. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** Denver, CO, US USA
@@ -764,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
+## 66. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
@@ -775,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
+## 67. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** Washington, DC, US USA
@@ -786,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Sr. Forward Deployed Engineer- Communications, Media, Entertainment & Games @ Databricks
+## 68. Sr. Forward Deployed Engineer- Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -797,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
+## 69. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -808,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
+## 70. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -819,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
+## 71. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -830,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
+## 72. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -841,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
+## 73. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** Seattle, WA, US USA
@@ -852,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
+## 74. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -863,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
+## 75. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -874,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
+## 76. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -885,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
+## 77. Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -896,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Sr. Forward Deployed Engineer-Communications, Media, Entertainment & Games @ Databricks
+## 78. Sr. Forward Deployed Engineer-Communications, Media, Entertainment & Games @ Databricks
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -907,7 +863,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Jr Data Engineer @ AmeriGas
+## 79. Jr Data Engineer @ AmeriGas
 **Match Score:** 10.4%
 
 📍 **Location:** King of Prussia, PA, US USA
@@ -918,7 +874,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Site Reliability Engineer III @ JPMorganChase
+## 80. Site Reliability Engineer III @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -929,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Data Engineer @ Cain Watters & Associates
+## 81. Data Engineer @ Cain Watters & Associates
 **Match Score:** 10.4%
 
 📍 **Location:** Frisco, TX, US USA
@@ -940,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Data Engineer - Fabric @ JSR Tech Consulting
+## 82. Data Engineer - Fabric @ JSR Tech Consulting
 **Match Score:** 10.4%
 
 📍 **Location:** Tampa, FL, US USA
@@ -951,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Enterprise Architect, AI Health Cloud @ BrightSpring Health Services
+## 83. Enterprise Architect, AI Health Cloud @ BrightSpring Health Services
 **Match Score:** 10.4%
 
 📍 **Location:** Louisville, KY, US USA
@@ -962,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Senior Software Architect @ CVS Health
+## 84. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Tallahassee, FL, US USA
@@ -973,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Senior Software Architect @ CVS Health
+## 85. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -984,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Senior Software Architect @ CVS Health
+## 86. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Springfield, IL, US USA
@@ -995,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Senior Software Architect @ CVS Health
+## 87. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Harrisburg, PA, US USA
@@ -1006,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Senior Software Architect @ CVS Health
+## 88. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -1017,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Senior Software Architect @ CVS Health
+## 89. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Denver, CO, US USA
@@ -1028,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Senior Software Architect @ CVS Health
+## 90. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Albany, NY, US USA
@@ -1039,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Senior Software Architect @ CVS Health
+## 91. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Trenton, NJ, US USA
@@ -1050,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Senior Software Architect @ CVS Health
+## 92. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Providence, RI, US USA
@@ -1061,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Senior Software Architect @ CVS Health
+## 93. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1072,7 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Senior Software Architect @ CVS Health
+## 94. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Little Rock, AR, US USA
@@ -1083,7 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. Senior Software Architect @ CVS Health
+## 95. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Hartford, CT, US USA
@@ -1094,7 +1050,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. Senior Software Architect @ CVS Health
+## 96. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Boston, MA, US USA
@@ -1105,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Senior Software Architect @ CVS Health
+## 97. Senior Software Architect @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Annapolis, MD, US USA
@@ -1116,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. MS Fabric @ Tata Consultancy Services (TCS)
+## 98. MS Fabric @ Tata Consultancy Services (TCS)
 **Match Score:** 10.4%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -1127,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. SQL AND ETL DEVELOPER @ Capgemini
+## 99. SQL AND ETL DEVELOPER @ Capgemini
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
