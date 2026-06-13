@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-13 06:50
+Last updated: 2026-06-13 09:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Koch | AI Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea0905912913a35c) | 2026-06-13 09:51 |
+| Koch | Enterprise Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eb5b987c1cb763e9) | 2026-06-13 09:51 |
+| Koch | AI Architect | Tulsa, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=19fa9727f194c93a) | 2026-06-13 09:51 |
+| Koch | Enterprise Architect | Tulsa, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f89fd566c7357b0a) | 2026-06-13 09:51 |
+| Koch | Enterprise Architect | Wichita, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0be12bfd78e5a42) | 2026-06-13 09:51 |
+| Koch | AI Architect | Wichita, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa18885de990da95) | 2026-06-13 09:51 |
+| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d1f4a5314135b71) | 2026-06-13 09:51 |
 | Workday | Senior Cybersecurity Data Engineer - AI/ML SME | Reston, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=599be78bf8533a28) | 2026-06-13 06:50 |
 | QuidelOrtho Corporation | AI/ML Data Engineer (Databricks) | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=83b31d482e2d3c8b) | 2026-06-13 06:50 |
 | QuidelOrtho Corporation | AI/ML Data Engineer (Databricks) | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=859e7ca77b35594f) | 2026-06-13 06:50 |
