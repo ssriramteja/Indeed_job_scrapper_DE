@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-13 21:03
+Last updated: 2026-06-13 22:54
 
 ### 🚀 Daily Job Matches
 
@@ -612,14 +612,6 @@ Last updated: 2026-06-13 21:03
 | Mazzella Companies | Data Engineer | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3a5d0fafb158752) | 2026-06-09 23:12 |
 | Signet Jewelers | Customer Data Platform Data Engineer (Hybrid) | Coppell, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6303a5693fb08b9) | 2026-06-09 23:12 |
 | Tata Consultancy Services (TCS) | Resiliency and Recovery Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f30acbe9dfb62b5) | 2026-06-09 23:12 |
-| nan | Data Engineer | Orlando, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e9c144461aa2d176) | 2026-06-09 21:42 |
-| Travelers | Senior Data Engineer (AWS, Databricks) | Hartford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=74c4df1b9aa839f0) | 2026-06-09 21:42 |
-| SBA Communications | Databricks Engineer | Boca Raton, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2d82e34990aaa316) | 2026-06-09 21:42 |
-| AAA Central Penn | Business Intelligence Developer | Harrisburg, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1173e19ebe24ce7c) | 2026-06-09 21:42 |
-| Visa | Sr. Data Engineer | Foster City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fda9e03abcd1738f) | 2026-06-09 21:42 |
-| AAA Central Penn | Business Intelligence Analyst - Harrisburg, PA | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9519db94431c20fc) | 2026-06-09 21:42 |
-| ARUP Laboratories | Senior Analytics Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86a7c255f0579591) | 2026-06-09 21:42 |
-| Harris Computer | Expert Site Reliability Engineer | KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=920841329b7f6367) | 2026-06-09 21:42 |
 
 
 ---
