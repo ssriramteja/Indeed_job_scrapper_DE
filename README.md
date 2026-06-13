@@ -1,11 +1,38 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-12 23:08
+Last updated: 2026-06-13 02:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Acentra Health | Data Engineer, Mid | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ef6f9d2703398a29) | 2026-06-13 02:32 |
+| Kaizen Analytix LLC | Experienced AWS Solutions Architect and Data Architect | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c0f364a3ec32fde4) | 2026-06-13 02:32 |
+| WaFd Bank | Senior Data Engineer (Hybrid Eligible*) | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c1dd83ec2340a8ca) | 2026-06-13 02:32 |
+| Tyler Technologies | Cloud DevOps Engineer | Latham, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=30db4d87acabac99) | 2026-06-13 02:32 |
+| Wells Fargo | Senior Data Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7edd80e431e58210) | 2026-06-13 02:32 |
+| Wells Fargo | Senior Data Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7af97ac7780e4ad6) | 2026-06-13 02:32 |
+| uShip | Software Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ae560083a24a530c) | 2026-06-13 02:32 |
+| Caloptima | Data Engineer, Platform Modernization (Data Warehouse Programmer/Analyst) | Orange, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0dfe4169ae274aad) | 2026-06-13 02:32 |
+| Flexential | Sr Platform Engineer-1 | Centennial, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c7e7de43eaf74c1c) | 2026-06-13 02:32 |
+| WhiteWater Express Car Wash | Senior Data Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4d14a0ff9f2e641c) | 2026-06-13 02:32 |
+| Cain Watters & Associates | Data Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fb96a8e880376758) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Mountain View, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e01850979279f2ef) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd07ce23f5dbdf19) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac3c789356f7e994) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b48cbc8763181388) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer- Communications, Media, Entertainment & Games | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d10bc804849af5b) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba4b28274046d1cf) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=701386709cebcaa7) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab6a37901eceddb0) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e8565e46d3855261) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87ed73484e13493c) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c40c2dde7ced96f7) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f8b6ce56a857473e) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0ef8be0e5e3f6ad) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e929d104585ce86) | 2026-06-13 02:32 |
+| Databricks | Sr. Forward Deployed Engineer-Communications, Media, Entertainment & Games | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da83569333ee939a) | 2026-06-13 02:32 |
+| BrightSpring Health Services | Enterprise Architect, AI Health Cloud | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fafad05a90c901ac) | 2026-06-13 02:32 |
 | Tata Consultancy Services (TCS) | Senior PySpark Data Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=461cc5e336726e29) | 2026-06-12 23:08 |
 | Tata Consultancy Services (TCS) | AWS Data Engineer | Irving, TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=041571d1844e3878) | 2026-06-12 23:08 |
 | Tata Consultancy Services (TCS) | Databricks Data Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=35e6f9d91bf791b1) | 2026-06-12 23:08 |
@@ -641,16 +668,6 @@ Last updated: 2026-06-12 23:08
 | JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d23e98febb4af71d) | 2026-06-09 02:51 |
 | PwC | Data Engineer - Senior Associate | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b998a3d5965b93e8) | 2026-06-09 02:51 |
 | Analog Devices | Senior Engineer, AI/ML Software | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=664a13900407cad4) | 2026-06-09 02:51 |
-| HealthPartners | Data Engineer Senior | Bloomington, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=d18ea85c2c928c35) | 2026-06-08 23:58 |
-| Roku | Senior Machine Learning Engineer | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e2b721d35d7a5a7) | 2026-06-08 23:58 |
-| EXL Service | Cloud Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7cd0ed9ff6e64aa7) | 2026-06-08 23:58 |
-| Wells Fargo | Senior Data Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=10ead8343cec4879) | 2026-06-08 23:58 |
-| Wells Fargo | Senior Data Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=162c2ab9f292809c) | 2026-06-08 23:58 |
-| Wells Fargo | Senior Data Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d7be54a20fbf4431) | 2026-06-08 23:58 |
-| NBCUniversal | Sr Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6773c1c434a7ae57) | 2026-06-08 23:58 |
-| Huron Consulting Group | Azure Engineer (Associate) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9dbe236b626e4a53) | 2026-06-08 23:58 |
-| Rise Collective | Senior Full-Stack Software Engineer | Saint Petersburg, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ff3b252b91a197e5) | 2026-06-08 23:58 |
-| Snooze an AM Eatery | Senior Data Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65eaed35b3d68901) | 2026-06-08 23:58 |
 
 
 ---
