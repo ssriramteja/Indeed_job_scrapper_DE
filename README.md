@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-13 09:51
+Last updated: 2026-06-13 11:48
 
 ### 🚀 Daily Job Matches
 
@@ -641,18 +641,6 @@ Last updated: 2026-06-13 09:51
 | The Home Depot | Data Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3775c83bc5fdd8c7) | 2026-06-09 16:26 |
 | VSG Business Solutions | Cloud Network Engineer | Farmington Hills, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=affe8303aaf58004) | 2026-06-09 16:26 |
 | Newpage Digital Healthcare solutions | AI Solution Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f647259c84954990) | 2026-06-09 13:38 |
-| CVS Health | Senior Data Engineer (Requiring GCP) | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cfe57c8aa77945) | 2026-06-09 10:29 |
-| CVS Health | Senior Data Engineer (Requiring GCP) | Hartford, CT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=546ae471f5ede086) | 2026-06-09 10:29 |
-| CVS Health | Senior Data Engineer (Requiring GCP) | Scottsdale, AZ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1c811d03d5aca192) | 2026-06-09 10:29 |
-| CVS Health | Senior Data Engineer (Requiring GCP) | Farmers Branch, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=0b6a62dfef2d6dab) | 2026-06-09 10:29 |
-| CVS Health | Senior Data Engineer (Requiring GCP) | Tallahassee, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f8656393b23155db) | 2026-06-09 10:29 |
-| Capstone Logistics, LLC | Sr. Data Engineer | Peachtree Corners, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=30d85c0bd52ccea6) | 2026-06-09 10:29 |
-| Carollo Engineers, Inc. | Azure Cloud Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ab80492ce8c08674) | 2026-06-09 10:29 |
-| Syniti | Sr. Engineer, Site Reliability | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0a9aaaa695359595) | 2026-06-09 10:29 |
-| Viasat | CD&A Data Engineer | Carlsbad, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=54bc52360158a211) | 2026-06-09 10:29 |
-| BMW Group | Production Digitalization Intern (Fall 2026) | Woodruff, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d2c3fbbbf2753ab) | 2026-06-09 10:29 |
-| Casey's | Analytics Engineer | Ankeny, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=257bf20abcf10b52) | 2026-06-09 10:29 |
-| Hussmann | Sr. Power BI Engineer | Bridgeton, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=454d2924e4649642) | 2026-06-09 10:29 |
 
 
 ---
