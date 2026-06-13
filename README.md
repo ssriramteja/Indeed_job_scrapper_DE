@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-13 17:13
+Last updated: 2026-06-13 19:09
 
 ### 🚀 Daily Job Matches
 
@@ -619,16 +619,6 @@ Last updated: 2026-06-13 17:13
 | AAA Central Penn | Business Intelligence Analyst - Harrisburg, PA | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9519db94431c20fc) | 2026-06-09 21:42 |
 | ARUP Laboratories | Senior Analytics Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86a7c255f0579591) | 2026-06-09 21:42 |
 | Harris Computer | Expert Site Reliability Engineer | KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=920841329b7f6367) | 2026-06-09 21:42 |
-| Exaways Corporation | AWS Data Architect | Alameda, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=bf85c1090a97cd0a) | 2026-06-09 19:08 |
-| Cayuse Holdings | AI Software Engineer, Senior | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=212d73dd2934b416) | 2026-06-09 19:08 |
-| Samsara | Senior Software Engineer - Data Platform | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ae38a9c283b62879) | 2026-06-09 19:08 |
-| Acrisure LLC | Software Engineer, Data | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e55aae80dce9806) | 2026-06-09 19:08 |
-| Verana Health | Senior Software Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b898217d67c6bb05) | 2026-06-09 19:08 |
-| Rippling | Data Engineer - GTM Team | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=71238d288bcde281) | 2026-06-09 19:08 |
-| Rippling | Data Engineer - GTM Team | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=97105581153651c2) | 2026-06-09 19:08 |
-| SportsBiz Group Inc | Senior Full Stack AI Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eecd0ded4500842f) | 2026-06-09 19:08 |
-| Capnexus | AWS Serverless Full Stack Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=38feb710a36ff9f4) | 2026-06-09 19:08 |
-| nan | Data Engineer- Hybrid Onsite Des Moines, Iowa | Des Moines, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81029ffa4d7910b4) | 2026-06-09 19:08 |
 
 
 ---
