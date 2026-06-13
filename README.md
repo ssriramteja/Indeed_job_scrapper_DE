@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-13 13:27
+Last updated: 2026-06-13 15:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NYC Human Resources Administration | DEVOPS ENGINEER | Brooklyn, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1766fc067ea2cb5c) | 2026-06-13 15:26 |
+| Cargill | Sr. Data Engineer - Ag & Trading | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a8edb3b00b860017) | 2026-06-13 15:26 |
 | Koch | AI Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea0905912913a35c) | 2026-06-13 09:51 |
 | Koch | Enterprise Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eb5b987c1cb763e9) | 2026-06-13 09:51 |
 | Koch | AI Architect | Tulsa, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=19fa9727f194c93a) | 2026-06-13 09:51 |
@@ -640,7 +642,6 @@ Last updated: 2026-06-13 13:27
 | nan | Sr Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4fcfc8455bb28a5a) | 2026-06-09 16:26 |
 | The Home Depot | Data Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3775c83bc5fdd8c7) | 2026-06-09 16:26 |
 | VSG Business Solutions | Cloud Network Engineer | Farmington Hills, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=affe8303aaf58004) | 2026-06-09 16:26 |
-| Newpage Digital Healthcare solutions | AI Solution Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f647259c84954990) | 2026-06-09 13:38 |
 
 
 ---
