@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-13 19:09
+Last updated: 2026-06-13 21:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Orange County's Credit Union | Cloud Systems Engineer III | Santa Ana, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9554665f7af0eaf0) | 2026-06-13 21:03 |
 | NYC Human Resources Administration | DEVOPS ENGINEER | Brooklyn, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1766fc067ea2cb5c) | 2026-06-13 15:26 |
 | Cargill | Sr. Data Engineer - Ag & Trading | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a8edb3b00b860017) | 2026-06-13 15:26 |
 | Koch | AI Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea0905912913a35c) | 2026-06-13 09:51 |
