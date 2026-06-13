@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-13 22:54
+Last updated: 2026-06-13 23:59
 
 ### 🚀 Daily Job Matches
 
@@ -596,22 +596,6 @@ Last updated: 2026-06-13 22:54
 | Deloitte | Senior Product Architect | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a90f94e3442f55d) | 2026-06-10 02:34 |
 | Deloitte | Senior Product Architect | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39c2bb9cf80e320f) | 2026-06-10 02:34 |
 | Deloitte | Senior Product Architect | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ddef646960a8a8d3) | 2026-06-10 02:34 |
-| Cdai | SENIOR DATA ENGINEER-REMOTE | GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8d77a89c68dff947) | 2026-06-09 23:12 |
-| Textron | Data Engineer II | Providence, RI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dd6d1c7f44e0199d) | 2026-06-09 23:12 |
-| Optum | Sr Software Engineer - Remote | Eden Prairie, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3567b4ad9115c5bb) | 2026-06-09 23:12 |
-| Medisolv Inc | Data Engineer | Clarksville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=535ccfe8a6691562) | 2026-06-09 23:12 |
-| Fiserv | Web Full Stack Developer | Hagerstown, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9c5c8643ddfaf00e) | 2026-06-09 23:12 |
-| nan | Senior, Software Engineer - Web/OL | Bellevue, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=91781f5b6a2f9315) | 2026-06-09 23:12 |
-| Tata Consultancy Services (TCS) | Mongo Data Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04eada00b787baf8) | 2026-06-09 23:12 |
-| PineCone | Senior Data Platform Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fb6aa5155c88f566) | 2026-06-09 23:12 |
-| Tata Consultancy Services (TCS) | Engineer | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=70f560ecbc79fa34) | 2026-06-09 23:12 |
-| Fiddler AI | Solutions Architect, Customer Success - US (Remote) | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e29186d332dfa69) | 2026-06-09 23:12 |
-| Tesla | Data Engineer, Supply Chain | Fremont, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=216432e17bbf1a19) | 2026-06-09 23:12 |
-| Workday | Sr Software Development Engineer - Core Platform Integration | Pleasanton, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66f1bbfba1ba3212) | 2026-06-09 23:12 |
-| Mazzella Companies | Data Engineer | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=90fd8da4ec416c70) | 2026-06-09 23:12 |
-| Mazzella Companies | Data Engineer | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3a5d0fafb158752) | 2026-06-09 23:12 |
-| Signet Jewelers | Customer Data Platform Data Engineer (Hybrid) | Coppell, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6303a5693fb08b9) | 2026-06-09 23:12 |
-| Tata Consultancy Services (TCS) | Resiliency and Recovery Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f30acbe9dfb62b5) | 2026-06-09 23:12 |
 
 
 ---
