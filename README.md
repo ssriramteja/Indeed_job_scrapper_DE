@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-14 11:24
+Last updated: 2026-06-14 13:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| American Software Solutions INC | Senior Kubernetes Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=efb0cc4e514cfd3d) | 2026-06-14 13:29 |
 | Loftware | Enterprise Data Architect | Portsmouth, NH, US USA | 32.6% | [Apply](https://www.indeed.com/viewjob?jk=328900ab048cf04d) | 2026-06-14 08:36 |
 | Cisco | Data Architect | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b2097aeafe81a958) | 2026-06-14 08:36 |
 | Orange County's Credit Union | Cloud Systems Engineer III | Santa Ana, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9554665f7af0eaf0) | 2026-06-13 21:03 |
