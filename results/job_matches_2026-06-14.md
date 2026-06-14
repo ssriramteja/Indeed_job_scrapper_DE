@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-06-14
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,29 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. DEVOPS ENGINEER @ NYC Human Resources Administration
-**Match Score:** 13.9%
-
-📍 **Location:** Brooklyn, NY, US USA
-
-🔑 **Keywords:** AWS, S3, IAM, RDS, Azure, Scala, ELT, Splunk, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1766fc067ea2cb5c)
-
----
-
-## 4. Sr. Data Engineer - Ag & Trading @ Cargill
-**Match Score:** 13.2%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** AWS, Glue, Azure, GCP, Spark, Scala, Kafka, Snowflake, Data Modeling, dbt
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a8edb3b00b860017)
-
----
-
-## 5. Data Architect @ Cisco
+## 3. Data Architect @ Cisco
 **Match Score:** 11.8%
 
 📍 **Location:** San Jose, CA, US USA
@@ -60,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Cloud Systems Engineer III @ Orange County's Credit Union
+## 4. Cloud Systems Engineer III @ Orange County's Credit Union
 **Match Score:** 11.8%
 
 📍 **Location:** Santa Ana, CA, US USA

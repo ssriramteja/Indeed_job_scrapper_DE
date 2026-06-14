@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-14 13:29
+Last updated: 2026-06-14 15:42
 
 ### 🚀 Daily Job Matches
 
@@ -494,12 +494,6 @@ Last updated: 2026-06-14 13:29
 | Kuvare Holdings LLC | Data Platform Solution Architect | Rosemont, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9c51cbcb2f04411) | 2026-06-10 17:52 |
 | nan | Application Developer – Microsoft .NET (Remote) | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24964e45ccf8da68) | 2026-06-10 17:52 |
 | Lower | Senior Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=295d5c0c3c32b524) | 2026-06-10 17:52 |
-| Cox Automotive | Senior Site Reliability Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=67874b8838f9d9a8) | 2026-06-10 14:20 |
-| Qeexo, Co. | Data Engineering Intern | San Clemente, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=30ae3ce2014da6b2) | 2026-06-10 14:20 |
-| First Horizon Bank | Data Scientist | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e93e19b901655965) | 2026-06-10 14:20 |
-| Cotality | Senior Software Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c2b7127a83949ff) | 2026-06-10 14:20 |
-| Newpage Digital Healthcare solutions | Full Stack- FDE EST | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a24df4c2a49d56a) | 2026-06-10 14:20 |
-| Capgemini | Java Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6aab560446e2d8ff) | 2026-06-10 14:20 |
 
 
 ---
