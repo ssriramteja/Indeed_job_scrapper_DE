@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-14 17:09
+Last updated: 2026-06-14 19:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Full Stack Python Engineer, Senior Associate | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc9571f04802a53b) | 2026-06-14 19:10 |
 | American Software Solutions INC | Senior Kubernetes Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=efb0cc4e514cfd3d) | 2026-06-14 13:29 |
 | Loftware | Enterprise Data Architect | Portsmouth, NH, US USA | 32.6% | [Apply](https://www.indeed.com/viewjob?jk=328900ab048cf04d) | 2026-06-14 08:36 |
 | Cisco | Data Architect | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b2097aeafe81a958) | 2026-06-14 08:36 |
@@ -470,30 +471,6 @@ Last updated: 2026-06-14 17:09
 | EY | CT_NITRO Experimental AI Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fa4878c1c49568b) | 2026-06-10 20:13 |
 | EY | FSO LABS - AI Developer - Senior - Bay Area | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15b1ff233b5557ad) | 2026-06-10 20:13 |
 | Western Governors University | Senior Database Administrator | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fc5438c12ec9d4a) | 2026-06-10 20:13 |
-| Pavago | Data Engineer | US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=424cfabc18b01038) | 2026-06-10 17:52 |
-| Symhas | GCP DATA ENGINEER | Denver, CO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e23ead1703b573ed) | 2026-06-10 17:52 |
-| Luminie Studio | Data Architect | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=11fa7f32e5b49cfa) | 2026-06-10 17:52 |
-| Luminie Studio | AWS Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=aa9362720734adf0) | 2026-06-10 17:52 |
-| AXIAN | Senior Engineer .Net Full-Stack | Portland, OR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d8584f1ea91ecab5) | 2026-06-10 17:52 |
-| Public Storage | Senior Software Engineer | Frisco, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=73c5e09077e276bd) | 2026-06-10 17:52 |
-| Walgreens | Senior Software Engineer II | Deerfield, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b13d0a86ba86e6de) | 2026-06-10 17:52 |
-| Academy Bank | Full Stack Developer | Kansas City, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7624f31e61cc7e2c) | 2026-06-10 17:52 |
-| Trulieve | Senior Data Engineer | Tallahassee, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=86122b093407c7a5) | 2026-06-10 17:52 |
-| Walgreens | Software Engineer I | Deerfield, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4b89eb69d33d55d4) | 2026-06-10 17:52 |
-| RE/SPEC Inc | Cloud Solutions Architect 3 (Contractor) 529701735 | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1b55eb58f3e1bbe2) | 2026-06-10 17:52 |
-| nan | Senior Data Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dc750ce13952bfd8) | 2026-06-10 17:52 |
-| Capgemini | Java Full Stack Senior Developer/Architect | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e3684f4d626ff94f) | 2026-06-10 17:52 |
-| Capgemini | Java Full Stack Senior Developer/Architect | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b0e87ee2317bc76f) | 2026-06-10 17:52 |
-| Holistic Partners | Data Modeler | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7377fccc8d51edec) | 2026-06-10 17:52 |
-| nan | Data Engineer – Data Integration (Remote) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b640e4ee2cfb05a2) | 2026-06-10 17:52 |
-| AssistRx | Senior Manger, Data Engineering | Maitland, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7740c86dd5cb35b) | 2026-06-10 17:52 |
-| Restaurant Brands International | Sr. AI Enablement Engineer | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c9edd09020b660c4) | 2026-06-10 17:52 |
-| Kuvare Holdings LLC | Data Platform Solution Architect | Baton Rouge, LA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a659bfcc72ba800b) | 2026-06-10 17:52 |
-| Kuvare Holdings LLC | Data Platform Solution Architect | Cedar Rapids, IA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=000fc01861314bf7) | 2026-06-10 17:52 |
-| Kuvare Holdings LLC | Data Platform Solution Architect | Des Moines, IA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7c5be0d66e619d6c) | 2026-06-10 17:52 |
-| Kuvare Holdings LLC | Data Platform Solution Architect | Rosemont, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9c51cbcb2f04411) | 2026-06-10 17:52 |
-| nan | Application Developer – Microsoft .NET (Remote) | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24964e45ccf8da68) | 2026-06-10 17:52 |
-| Lower | Senior Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=295d5c0c3c32b524) | 2026-06-10 17:52 |
 
 
 ---

@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-06-14
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,7 +27,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Cloud Systems Engineer III @ Orange County's Credit Union
+## 3. Data Architect @ Cisco
+**Match Score:** 11.8%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, Scala, Snowflake, Oracle, SQL Server, Data Modeling, ETL, Talend
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b2097aeafe81a958)
+
+---
+
+## 4. Cloud Systems Engineer III @ Orange County's Credit Union
 **Match Score:** 11.8%
 
 📍 **Location:** Santa Ana, CA, US USA
@@ -38,14 +49,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Data Architect @ Cisco
-**Match Score:** 11.8%
+## 5. Full Stack Python Engineer, Senior Associate @ JPMorganChase
+**Match Score:** 11.1%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** Boston, MA, US USA
 
-🔑 **Keywords:** AWS, Azure, GCP, Scala, Snowflake, Oracle, SQL Server, Data Modeling, ETL, Talend
+🔑 **Keywords:** AWS, Lambda, S3, RDS, Polars, PostgreSQL, CI/CD, Jenkins, Terraform, Jenkins
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b2097aeafe81a958)
+[Apply Here](https://www.indeed.com/viewjob?jk=cc9571f04802a53b)
 
 ---
 
