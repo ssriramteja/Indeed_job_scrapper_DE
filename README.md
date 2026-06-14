@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-14 19:10
+Last updated: 2026-06-14 21:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Senior Solution Developer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6c823da42c3926a3) | 2026-06-14 21:00 |
 | JPMorganChase | Full Stack Python Engineer, Senior Associate | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc9571f04802a53b) | 2026-06-14 19:10 |
 | American Software Solutions INC | Senior Kubernetes Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=efb0cc4e514cfd3d) | 2026-06-14 13:29 |
 | Loftware | Enterprise Data Architect | Portsmouth, NH, US USA | 32.6% | [Apply](https://www.indeed.com/viewjob?jk=328900ab048cf04d) | 2026-06-14 08:36 |
@@ -455,22 +456,6 @@ Last updated: 2026-06-14 19:10
 | Ad Hoc | Senior DevOps Engineer | VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ded756039a0a140f) | 2026-06-10 22:48 |
 | Recursion Technologies, Inc | Systems Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f69f1e8adbaaa70b) | 2026-06-10 22:48 |
 | Rivian | Software Engineer, Engineering Applications | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1752866836309783) | 2026-06-10 22:48 |
-| Symhas | RELTIO INTEGRATION HUB ENGINEER | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e45fa699f911621) | 2026-06-10 20:13 |
-| Academy Bank | Full Stack Developer | Kansas City, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=141e5928a75e80ea) | 2026-06-10 20:13 |
-| BNY | Senior Java Full Stack Developer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f55460d0e88e7e6b) | 2026-06-10 20:13 |
-| Teambuilder | Senior DevOps Engineer (Cloud Platform) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b7d34ade42ca5e88) | 2026-06-10 20:13 |
-| NavitasPartners | Cloud Solutions Architect 3 - CSA 26-06952 | Cedar Park, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e500cf88e638ac7b) | 2026-06-10 20:13 |
-| NavitasPartners | Cloud Solutions Architect 3 - CSA 26-06952 | Georgetown, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8ef1bee76953de15) | 2026-06-10 20:13 |
-| NavitasPartners | Cloud Solutions Architect 3 - CSA 26-06952 | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f9e996475c9120b1) | 2026-06-10 20:13 |
-| NavitasPartners | Cloud Solutions Architect 3 - CSA 26-06952 | Round Rock, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50c95bf56aa2f1bd) | 2026-06-10 20:13 |
-| New York Cancer and Blood Specialists | Senior DevOps Engineer (On Site-Only) | Ridge, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=89a332b33f5699d4) | 2026-06-10 20:13 |
-| McAfee | Full Stack Software Developer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eec78473856de0af) | 2026-06-10 20:13 |
-| Cayuse Holdings | Systems Analyst III | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2afd97da1e4e911f) | 2026-06-10 20:13 |
-| cybertechnologyinnovations | Systems Administrator | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f0e1a7ccf1662daf) | 2026-06-10 20:13 |
-| Cayuse Holdings | Systems Analyst III | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=118bece3c3bca18b) | 2026-06-10 20:13 |
-| EY | CT_NITRO Experimental AI Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fa4878c1c49568b) | 2026-06-10 20:13 |
-| EY | FSO LABS - AI Developer - Senior - Bay Area | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15b1ff233b5557ad) | 2026-06-10 20:13 |
-| Western Governors University | Senior Database Administrator | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fc5438c12ec9d4a) | 2026-06-10 20:13 |
 
 
 ---

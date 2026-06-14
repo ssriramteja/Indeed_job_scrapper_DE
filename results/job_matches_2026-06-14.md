@@ -38,18 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Cloud Systems Engineer III @ Orange County's Credit Union
-**Match Score:** 11.8%
-
-📍 **Location:** Santa Ana, CA, US USA
-
-🔑 **Keywords:** AWS, API Gateway, IAM, RDS, Azure, Scala, ELT, CI/CD, Terraform, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9554665f7af0eaf0)
-
----
-
-## 5. Full Stack Python Engineer, Senior Associate @ JPMorganChase
+## 4. Full Stack Python Engineer, Senior Associate @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -57,6 +46,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, S3, RDS, Polars, PostgreSQL, CI/CD, Jenkins, Terraform, Jenkins
 
 [Apply Here](https://www.indeed.com/viewjob?jk=cc9571f04802a53b)
+
+---
+
+## 5. Senior Solution Developer @ Optum
+**Match Score:** 10.4%
+
+📍 **Location:** Eden Prairie, MN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Scala, Snowflake, SQL Server, Data Modeling, ETL, Power BI
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6c823da42c3926a3)
 
 ---
 
