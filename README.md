@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-14 04:09
+Last updated: 2026-06-14 08:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Loftware | Enterprise Data Architect | Portsmouth, NH, US USA | 32.6% | [Apply](https://www.indeed.com/viewjob?jk=328900ab048cf04d) | 2026-06-14 08:36 |
+| Cisco | Data Architect | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b2097aeafe81a958) | 2026-06-14 08:36 |
 | Orange County's Credit Union | Cloud Systems Engineer III | Santa Ana, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9554665f7af0eaf0) | 2026-06-13 21:03 |
 | NYC Human Resources Administration | DEVOPS ENGINEER | Brooklyn, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1766fc067ea2cb5c) | 2026-06-13 15:26 |
 | Cargill | Sr. Data Engineer - Ag & Trading | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a8edb3b00b860017) | 2026-06-13 15:26 |
@@ -510,18 +512,6 @@ Last updated: 2026-06-14 04:09
 | Educology Solutions | Sr. QA Automation Engineer- Enterprise Data & Analytics | Adelphi, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7952f8ac317de390) | 2026-06-10 10:57 |
 | Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4c8004a61ef0799f) | 2026-06-10 10:57 |
 | International Logic Systems, Inc. | Senior OAS/ODI Developer | Fairfax, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f802008269dcfdc8) | 2026-06-10 10:57 |
-| JPMorganChase | Software Engineer III - Data Platform | Austin, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=85cdeb8503f6c459) | 2026-06-10 07:00 |
-| IDEXX Laboratories | Senior Site Reliability Engineer | Westbrook, ME, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bdcf77e4be9df296) | 2026-06-10 07:00 |
-| Technology Ventures | Developer-Full Stack Professional | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cbd682ad6ededbf7) | 2026-06-10 07:00 |
-| Technology Ventures | Developer-Full Stack Senior | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cc2f3d539abd0b18) | 2026-06-10 07:00 |
-| Booker DiMaio, LLC | Senior Databricks Data Engineer (AWS) - Remote Opportunity | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c211bb96fa54e53d) | 2026-06-10 07:00 |
-| Expertshub | Senior Backend Engineer | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d4975b9a0985a5be) | 2026-06-10 07:00 |
-| Nitka Technologies | Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=37d92c5876961093) | 2026-06-10 07:00 |
-| ClickUp | GTM DevOps Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=63688985684ac528) | 2026-06-10 07:00 |
-| Ascendion | Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=048294938645b656) | 2026-06-10 07:00 |
-| PaceMate™ | Associate Application Engineer – AI & Data | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b381a515ef90e8e) | 2026-06-10 07:00 |
-| Booker DiMaio, LLC | Cloud Engineer (AWS) - Remote Opportunity | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d8e2e1dcd00563f9) | 2026-06-10 07:00 |
-| Priwils | Senior QA Automation Engineer – Enterprise Data & Analytics Platform | Adelphi, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b5210b167a792ee) | 2026-06-10 07:00 |
 
 
 ---
