@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-15 06:15
+Last updated: 2026-06-15 12:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=617f19a79feb89ac) | 2026-06-15 12:58 |
+| JPMorganChase | Data Visualization Senior Associate - Home Lending Data & Analytics | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7b6aec0750240018) | 2026-06-15 12:58 |
+| Capgemini | GCP Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=abd68b0031f7b250) | 2026-06-15 12:58 |
+| Objectways Technologies | Python-AI_ML-GenAI- Senior Engineer | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c1f451b2d6561869) | 2026-06-15 12:58 |
+| Instacart | Senior Software Engineer, Data Governance & Foundations | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=50dcbfff992c7b48) | 2026-06-15 12:58 |
 | Chewy | Data Engineer II | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d25e28b9d0e31a69) | 2026-06-15 06:15 |
 | ValueBase Consulting | Data Engineer (AWS & Python) | Des Moines, IA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=204e1619685f0b7c) | 2026-06-15 00:02 |
 | Optum | Senior Solution Developer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6c823da42c3926a3) | 2026-06-14 21:00 |
@@ -332,14 +337,6 @@ Last updated: 2026-06-15 06:15
 | CVS Health | Senior Software Engineer | ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98bc7ef959a956c2) | 2026-06-11 14:31 |
 | CVS Health | Senior Software Engineer | MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=360f723cdd8aa089) | 2026-06-11 14:31 |
 | NetApp | Full Stack Engineer - Active IQ Engineering | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f92b98f547184206) | 2026-06-11 14:31 |
-| WaFd Bank | Senior Data Engineer (Hybrid Eligible*) | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=676157bc1afd24c8) | 2026-06-11 10:07 |
-| o9 Solutions | Senior Technical Architect | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bf300316a739534d) | 2026-06-11 10:07 |
-| Glint Tech Solutions | Data Engineer with Python and React - Remote | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8bc2b0d080f003ed) | 2026-06-11 10:07 |
-| Dayforce | Database Platform Distinguished Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a1878bb369b786a4) | 2026-06-11 10:07 |
-| Inabia Software & Consulting Inc. | Senior Software Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9277248c547d05a6) | 2026-06-11 10:07 |
-| California Institute of Technology | Application Developer | Pasadena, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1fb4f31db86d8854) | 2026-06-11 10:07 |
-| U.S. Bank | Software Engineer 2(Java/SpringBoot/Microservices/Kafka) | Brookfield, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a77f7fc0875b8913) | 2026-06-11 10:07 |
-| U.S. Bank | Software Engineer 2(Java/SpringBoot/Microservices/Kafka) | Hopkins, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fae5dae15c5081c) | 2026-06-11 10:07 |
 
 
 ---
