@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-15 00:02
+Last updated: 2026-06-15 06:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Chewy | Data Engineer II | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d25e28b9d0e31a69) | 2026-06-15 06:15 |
 | ValueBase Consulting | Data Engineer (AWS & Python) | Des Moines, IA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=204e1619685f0b7c) | 2026-06-15 00:02 |
 | Optum | Senior Solution Developer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6c823da42c3926a3) | 2026-06-14 21:00 |
 | JPMorganChase | Full Stack Python Engineer, Senior Associate | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc9571f04802a53b) | 2026-06-14 19:10 |
@@ -339,97 +340,6 @@ Last updated: 2026-06-15 00:02
 | California Institute of Technology | Application Developer | Pasadena, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1fb4f31db86d8854) | 2026-06-11 10:07 |
 | U.S. Bank | Software Engineer 2(Java/SpringBoot/Microservices/Kafka) | Brookfield, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a77f7fc0875b8913) | 2026-06-11 10:07 |
 | U.S. Bank | Software Engineer 2(Java/SpringBoot/Microservices/Kafka) | Hopkins, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fae5dae15c5081c) | 2026-06-11 10:07 |
-| CVS Health | Senior Software Development/Data Engineer | Hartford, CT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3530403779aaafd2) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Morristown, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d490a5e4c58ea8d3) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Hartford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d5c32bcb8a5f4e0f) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Huntsville, AL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c67e8ee6944e7422) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1723ae89a5522b2d) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4b3cc2eabeb984da) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Princeton, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bbc281ddfed2fedf) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Baltimore, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d4dbe167ef434fbe) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Arlington Heights, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f20c87cd67103293) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0489c28254bf28c2) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4b657969134175f5) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Arlington, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6c9711c1c833a779) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Stamford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9c16bad14518ebb2) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Milwaukee, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c39d786e572ba861) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4e4e2fb0cb7c99c8) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0c4adb015bcb158) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=30b9d54ecb204c84) | 2026-06-11 05:22 |
-| Deloitte | Senior Data Engineer | Miami, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f00c9a373cde3271) | 2026-06-11 05:22 |
-| HealthEdge Software, Inc. | DevOps Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=631e7de01157a1c2) | 2026-06-11 05:22 |
-| Origami Risk LLC | DevOps Engineer, Infrastructure | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=41fb38294434e54f) | 2026-06-11 05:22 |
-| LTIMindtree | Azure Databrciks Architect | Raleigh, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ee2056a1e51decf7) | 2026-06-11 05:22 |
-| Inn-Flow Inc. | Snowflake Data Engineer | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9d9dd2a0e256d891) | 2026-06-11 05:22 |
-| Living Spaces | Data Platform Engineer | La Mirada, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=19137d32d78cfe84) | 2026-06-11 05:22 |
-| McKesson | Sr Data Architect, Databricks | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f4998cd152a5e1f6) | 2026-06-11 05:22 |
-| Axiom Bank | Platform Architect | Maitland, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b276af599e88a7af) | 2026-06-11 05:22 |
-| CVS Health | Senior Software Development Engineer | CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ea8932a72fefee23) | 2026-06-11 05:22 |
-| The Hanover Insurance Group | Senior Data Engineer (REMOTE OR MA BASED) | Worcester, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f1b152b5aa55d165) | 2026-06-11 05:22 |
-| The Hanover Insurance Group | Senior Data Engineer (REMOTE OR MA BASED) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9873a5dcfe8027b5) | 2026-06-11 05:22 |
-| The Hanover Insurance Group | Senior Data Engineer (REMOTE OR MA BASED) | Worcester, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b0edad65551ccdff) | 2026-06-11 05:22 |
-| The Hanover Insurance Group | Senior Data Engineer (REMOTE OR MA BASED) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=613c249c08b74171) | 2026-06-11 05:22 |
-| ERCOT/Electric Reliability Council of Texas | EMS Systems Analyst Sr | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4e9787cfc7115385) | 2026-06-11 05:22 |
-| Humana | Sr Full Stack Software Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b576fbb7c24544a9) | 2026-06-11 05:22 |
-| Humana | Sr Full Stack Software Engineer | TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6cd643ae862f32c6) | 2026-06-11 05:22 |
-| Humana | Sr Full Stack Software Engineer | KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56f77ff3e5347e0c) | 2026-06-11 05:22 |
-| Sifted | Product Engineer Data & AI | Overland Park, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0a86b284f45948d1) | 2026-06-11 05:22 |
-| Arctiq | ETL Developer - On-Site Contract | Duluth, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e87af5630fd7111) | 2026-06-11 05:22 |
-| Truist | Cloud Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3bfba46a758bb1aa) | 2026-06-11 05:22 |
-| Class Boxes Technologies | AI Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=10ffab2e7330a09b) | 2026-06-11 05:22 |
-| Tulane University | Infrastructure Engineer III | New Orleans, LA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb2618a71765f12c) | 2026-06-11 05:22 |
-| Lamb Weston | Technology Data Analyst | Eagle, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=819a863aec01dded) | 2026-06-11 05:22 |
-| Metropolis | Senior Central Cloud Infrastructure Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=18e899cdb3d7157c) | 2026-06-11 05:22 |
-| Metropolis | Senior Central Cloud Infrastructure Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2c99139af7425e56) | 2026-06-11 05:22 |
-| Metropolis | Senior Central Cloud Infrastructure Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f1cd60dbc92b91f5) | 2026-06-11 05:22 |
-| CoorsTek | Cloud Engineer II | Golden, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7366c85417c3b87e) | 2026-06-11 05:22 |
-| VetsEZ | Senior Software Product Engineer (Remote Opportunity) | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2833a5e5ddb82e5b) | 2026-06-11 05:22 |
-| VetsEZ | Senior Software Product Engineer (Remote Opportunity) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2546b11c9cac9972) | 2026-06-11 05:22 |
-| UserGems | Senior Security Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc9835c6151bce1e) | 2026-06-11 05:22 |
-| California Institute of Technology | Application Developer | Pasadena, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d616f14c352000bb) | 2026-06-11 05:22 |
-| State of Arizona | Enterprise Data & AI Platform Architect | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5428d278da22bd02) | 2026-06-11 00:09 |
-| Capgemini | Mid-Level -Looker Developer -Google | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d33054d955a48903) | 2026-06-11 00:09 |
-| Esri | Java Software Engineer II - ArcGIS Enterprise | Redlands, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4a9bbdc8248adbd) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d4e1129e4812bf7b) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=997076f3557b3e9a) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=238647c47b19c8eb) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e0cc8aa5b1145a0c) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ceb941ff0fd6a0cb) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c5bb07c7a07be0e6) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f2b5b0b8e3011dcc) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=607b48f21698f142) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=04f973f7323057e9) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=34950007f8bb9798) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e2ea390592236764) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ba7ea7b918227421) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee458103ff1c70bf) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2ba57da018df901c) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9c4b77209f1232dd) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d73d871e1deea61) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=47efa737e9fc9146) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=61f05a66307eff77) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=430a6f1d83e30529) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a5f9980f2267fe92) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d54c7515a609d437) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d97025c53dc8097b) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1424c80ddb92ac16) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=45f7a92cd47c388f) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9a23c7934cd38108) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11758c6720edfe8c) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=947d34a5cd743710) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=58fd2bc0f706a630) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52beb77333c9d632) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2d94aabbffe9af4) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=de5882845fc94868) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=026d02e8ce3baa47) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b3ff5ee4ac14175f) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=84726e340de9d703) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cdc593c9088c2ea6) | 2026-06-11 00:09 |
-| Concentrix | AWS MLOps Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac8f53db9ad25323) | 2026-06-11 00:09 |
-| Availity, LLC. | Identity Management Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=35969c0f5a1196e5) | 2026-06-11 00:09 |
-| Zillow | Senior Software Development Engineer, Agentic AI Data Services | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11a6e83b8ea37c39) | 2026-06-11 00:09 |
-| Ollion | Data Insights - Intern | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=54b659e64be3d4e6) | 2026-06-11 00:09 |
-| AeroVironment | Machine Learning Engineer | Jessup, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=890d98929cfcbadb) | 2026-06-11 00:09 |
 
 
 ---

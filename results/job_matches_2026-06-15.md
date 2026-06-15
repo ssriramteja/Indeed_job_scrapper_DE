@@ -5,18 +5,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Enterprise Data Architect @ Loftware
-**Match Score:** 32.6%
-
-📍 **Location:** Portsmouth, NH, US USA
-
-🔑 **Keywords:** AWS, Glue, Redshift, S3, RDS, Azure, Data Factory, Databricks, Event Hubs, BigQuery
-
-[Apply Here](https://www.indeed.com/viewjob?jk=328900ab048cf04d)
-
----
-
-## 2. Data Engineer (AWS & Python) @ ValueBase Consulting
+## 1. Data Engineer (AWS & Python) @ ValueBase Consulting
 **Match Score:** 18.1%
 
 📍 **Location:** Des Moines, IA, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Kubernetes Engineer @ American Software Solutions INC
+## 2. Senior Kubernetes Engineer @ American Software Solutions INC
 **Match Score:** 16.7%
 
 📍 **Location:** Remote, US USA
@@ -35,6 +24,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Scala, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, NoSQL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=efb0cc4e514cfd3d)
+
+---
+
+## 3. Data Engineer II @ Chewy
+**Match Score:** 13.9%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Redshift, S3, Spark, Scala, Snowflake, Data Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d25e28b9d0e31a69)
 
 ---
 
