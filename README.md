@@ -1,11 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-16 17:55
+Last updated: 2026-06-16 20:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| UnitedHealthcare | Software Engineer | Omaha, NE, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d0d3a6f7a359f862) | 2026-06-16 20:39 |
+| Blue Cross Blue Shield | Data Engineer (AI/ML) | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c16f06452db6a0f0) | 2026-06-16 20:39 |
+| TECHNOLOGENT | Senior Cassandra Database Engineer | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a1c8c2058057ef3c) | 2026-06-16 20:39 |
+| American Institutes for Research | Data Engineer Associate | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=57ff148546ca71ca) | 2026-06-16 20:39 |
+| Booz Allen Hamilton | ML Administrator | Doral, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=60de930626b03451) | 2026-06-16 20:39 |
+| LTIMindtree | Senior Data Engineer | Marysville, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6aeea00b4604b283) | 2026-06-16 20:39 |
+| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04544f5c224d0e1b) | 2026-06-16 20:39 |
+| McKinsey & Company | Software Delivery Analyst - Social, Healthcare and Public Entities | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=48b95397ee215eb4) | 2026-06-16 20:39 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09d61f4f25722f32) | 2026-06-16 20:39 |
+| Databricks | Forward Deployed Engineer - FDE (Fullstack) - Digital Native Business | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e2bd7502c607488) | 2026-06-16 20:39 |
+| Ford Motor Company | Specialist, Yield Management - GTM AA Data Scientist | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3afc7189fd75646) | 2026-06-16 20:39 |
+| Capgemini | AWS Devops - AOM | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b7b33dd94cf4d6d3) | 2026-06-16 20:39 |
+| ARMADA | Data Engineer | Wexford, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bec0e3cae26d6c7f) | 2026-06-16 20:39 |
+| INTRAFI | Software Architect (Java, AWS, & AI) | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b35823372d99142) | 2026-06-16 20:39 |
+| Capgemini | Ab Initio Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f1d1d8b402f1a5e3) | 2026-06-16 20:39 |
 | AAA The Auto Club Group | Applications Consultant | MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=904c19f690af9670) | 2026-06-16 17:55 |
 | Ellipsis Health | Senior Data Platform Engineer | San Francisco, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=791f6ef1e634abe3) | 2026-06-16 17:55 |
 | Tyson Foods Incorporated | Senior IT Data Engineer - Python/SQL (Onsite) | Springdale, AR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=350b75002f62845f) | 2026-06-16 17:55 |
@@ -21,7 +36,6 @@ Last updated: 2026-06-16 17:55
 | Stradit | Looker & Quicksight Admin | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=14fc862e5d3c6940) | 2026-06-16 17:55 |
 | Frontline Education | Senior Software Engineer I or II- Data Platform | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e00fbc81ded39bdf) | 2026-06-16 17:55 |
 | Otoe Missouria Group | Cloud Engineer (AWS) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b2bbecc8dae238d3) | 2026-06-16 17:55 |
-| Tms Llc | Senior Software Engineer (Backend) \| .Net \| Onsite \| Local to Tennessee \| Onsite \| 10 years exp. | Mount Juliet, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=40aed3ab499de0ef) | 2026-06-16 17:55 |
 | LG Ad Solutions | Senior Software Engineer, Measurement & Reporting | New York, NY, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=43e6726a3896fe03) | 2026-06-16 12:04 |
 | nan | Co-Founder & Database Engineer | Bellevue, WA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=b3136af621d112cd) | 2026-06-16 12:04 |
 | Bounteous | Databricks Solution Architect | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2337ec4ff54764f0) | 2026-06-16 12:04 |
@@ -233,23 +247,6 @@ Last updated: 2026-06-16 17:55
 | Databricks | Specialist Solutions Architect - GCP Infrastructure | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5f18ddccc944039f) | 2026-06-12 21:25 |
 | JSR Tech Consulting | Data Engineer - Fabric | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e00b7b67359ffc44) | 2026-06-12 21:25 |
 | Kash Tech | Business Intelligence Architect | Lake Mary, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06ab6dcdf3386d55) | 2026-06-12 21:25 |
-| American Express | Sr Software Engineer I - Java - International Card Risk Services Technology | Phoenix, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c5ea3d9a3991748c) | 2026-06-12 19:54 |
-| BV Teck | Azure Cloud Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=06003d92ed7c2087) | 2026-06-12 19:54 |
-| Kobie Marketing | Sr. Data Engineer | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5ccd2e06fdde37fe) | 2026-06-12 19:54 |
-| Kobie Marketing | Sr. Data Engineer | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=adebbeb79bcc9a1c) | 2026-06-12 19:54 |
-| Kobie Marketing | Sr. Data Engineer | Detroit, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bf9760e71980916f) | 2026-06-12 19:54 |
-| Kobie Marketing | Sr. Data Engineer | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=94cb48d5ed1c52af) | 2026-06-12 19:54 |
-| Kobie Marketing | Sr. Data Engineer | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fbc89f3bdee8ad93) | 2026-06-12 19:54 |
-| Kobie Marketing | Sr. Data Engineer | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4c02b3eae0c4832e) | 2026-06-12 19:54 |
-| Kobie Marketing | Sr. Data Engineer | Saint Petersburg, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=da723ed84459a1ba) | 2026-06-12 19:54 |
-| Kobie Marketing | Sr. Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fd2dcb8f1f90f8bd) | 2026-06-12 19:54 |
-| ADNET Systems, Inc | GD169 Senior Software Systems Engineer & Architect | Greenbelt, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f02363682eba87a1) | 2026-06-12 19:54 |
-| Dayforce | Software Developer Sr. - AI-Native .NET/ Azure (Cloud Platform) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=db55be048a80c25e) | 2026-06-12 19:54 |
-| Tommy Car Wash | DevOps Software Engineer (Hybrid) | Holland, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=191abb774c4fc1ef) | 2026-06-12 19:54 |
-| Campbell's | Data Engineer - Operational Support (Co-op) | Camden, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1ad7172da2d3793) | 2026-06-12 19:54 |
-| Campbell's | Data Engineer – Agentic AI & ML Ops (Co-op) | Camden, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50bca42b0ee032c9) | 2026-06-12 19:54 |
-| AmeriGas | Jr Data Engineer | King of Prussia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb83a57c0a41012e) | 2026-06-12 19:54 |
-| Capgemini | SQL AND ETL DEVELOPER | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de66891cd1166601) | 2026-06-12 19:54 |
 
 
 ---
