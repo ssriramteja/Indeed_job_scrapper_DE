@@ -1,22 +1,37 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-16 20:39
+Last updated: 2026-06-16 22:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Penn Mutual | Senior Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=bb438bd3c8e9afd7) | 2026-06-16 22:49 |
+| Program Management Solutions | Ruby on Rails Engineer | Baltimore, MD, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=51965b97284dee62) | 2026-06-16 22:49 |
+| Tata Consultancy Services (TCS) | Full Stack Engineer | Irving, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a06c99225161e1ab) | 2026-06-16 22:49 |
+| Optimus Health Analytics | Data Engineer | Bronx, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4b9c73bd92ec32bb) | 2026-06-16 22:49 |
+| Visibol | Software Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=82b0ee3ccd5cda5d) | 2026-06-16 22:49 |
+| Tata Consultancy Services (TCS) | Engineer | Addison, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e78837301757164c) | 2026-06-16 22:49 |
+| Mike Albert Leasing, Inc | Sr. Site Reliability Engineer | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5b10fbdd189c8206) | 2026-06-16 22:49 |
+| Mojo Family of Brands | Junior Full Stack Data Engineer | Alcoa, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1b317dade1a4e740) | 2026-06-16 22:49 |
+| AKUNA CAPITAL | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cc6681b1e5ed6ead) | 2026-06-16 22:49 |
+| RADIX INTERNATIONAL CONSULTING | MuleSoft Consultant | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=151dfd13a3d3fb99) | 2026-06-16 22:49 |
+| Dentsu | Sr. Data Engineer | MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=489f25c5230f04c5) | 2026-06-16 22:49 |
+| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04544f5c224d0e1b) | 2026-06-16 22:49 |
+| ASSA ABLOY Group | Sr. Data Governance Engineer | New Haven, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1f812d27f7580652) | 2026-06-16 22:49 |
+| American Airlines | Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=46bb1265645f6218) | 2026-06-16 22:49 |
+| eClinical Solutions, LLC | Senior Data Engineer | Mansfield, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1df8e9d2986ffdcc) | 2026-06-16 22:49 |
+| The Hartford | Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af85563e825137c3) | 2026-06-16 22:49 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09d61f4f25722f32) | 2026-06-16 22:49 |
+| Ford Motor Company | Specialist, Yield Management - GTM AA Data Scientist | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3afc7189fd75646) | 2026-06-16 22:49 |
+| Tra'Bian Enterprises | Azure DevOps Engineer & Administrator | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=658850a071f96269) | 2026-06-16 22:49 |
 | UnitedHealthcare | Software Engineer | Omaha, NE, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d0d3a6f7a359f862) | 2026-06-16 20:39 |
 | Blue Cross Blue Shield | Data Engineer (AI/ML) | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c16f06452db6a0f0) | 2026-06-16 20:39 |
 | TECHNOLOGENT | Senior Cassandra Database Engineer | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a1c8c2058057ef3c) | 2026-06-16 20:39 |
 | American Institutes for Research | Data Engineer Associate | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=57ff148546ca71ca) | 2026-06-16 20:39 |
 | Booz Allen Hamilton | ML Administrator | Doral, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=60de930626b03451) | 2026-06-16 20:39 |
 | LTIMindtree | Senior Data Engineer | Marysville, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6aeea00b4604b283) | 2026-06-16 20:39 |
-| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04544f5c224d0e1b) | 2026-06-16 20:39 |
-| McKinsey & Company | Software Delivery Analyst - Social, Healthcare and Public Entities | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=48b95397ee215eb4) | 2026-06-16 20:39 |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09d61f4f25722f32) | 2026-06-16 20:39 |
 | Databricks | Forward Deployed Engineer - FDE (Fullstack) - Digital Native Business | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e2bd7502c607488) | 2026-06-16 20:39 |
-| Ford Motor Company | Specialist, Yield Management - GTM AA Data Scientist | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3afc7189fd75646) | 2026-06-16 20:39 |
 | Capgemini | AWS Devops - AOM | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b7b33dd94cf4d6d3) | 2026-06-16 20:39 |
 | ARMADA | Data Engineer | Wexford, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bec0e3cae26d6c7f) | 2026-06-16 20:39 |
 | INTRAFI | Software Architect (Java, AWS, & AI) | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b35823372d99142) | 2026-06-16 20:39 |
@@ -234,19 +249,6 @@ Last updated: 2026-06-16 20:39
 | CVS Health | Senior Software Architect | Annapolis, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3e749bf18c9ccc1) | 2026-06-12 23:08 |
 | MACOM Technology Solutions | Data Systems Architect | Lowell, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=022e7efd7d261246) | 2026-06-12 23:08 |
 | Tata Consultancy Services (TCS) | MS Fabric | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ec086aef45de637) | 2026-06-12 23:08 |
-| ProcyonIT | Data Engineer | Pittsburgh, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=816452e4692ec940) | 2026-06-12 21:25 |
-| Cisco | AI Automation Engineer | Research Triangle Park, NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=36099f55f9dfc1ab) | 2026-06-12 21:25 |
-| nan | Data & Software Engineer | Chantilly, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8627b9fa5d939b34) | 2026-06-12 21:25 |
-| Intelex | Senior Cloud Architect | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f9addd16d08dc466) | 2026-06-12 21:25 |
-| Xylem | Software Engineer | Davis, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cc6c83582ab47968) | 2026-06-12 21:25 |
-| Hiring Group | Senior AWS Full Stack Software Engineer | Greenville, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fc54c80bec441143) | 2026-06-12 21:25 |
-| Civitech | Software Engineer, Geospatial Data | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b9d28890cbb8b4f4) | 2026-06-12 21:25 |
-| Quisitive | Data Engineer - Azure & Microsoft Fabric | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=56fe4f99d705b6f4) | 2026-06-12 21:25 |
-| iHeartMedia | Software Engineer | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=356a68911d5f594b) | 2026-06-12 21:25 |
-| Comtek Intl | AI QA Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=956ec640e084971c) | 2026-06-12 21:25 |
-| Databricks | Specialist Solutions Architect - GCP Infrastructure | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5f18ddccc944039f) | 2026-06-12 21:25 |
-| JSR Tech Consulting | Data Engineer - Fabric | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e00b7b67359ffc44) | 2026-06-12 21:25 |
-| Kash Tech | Business Intelligence Architect | Lake Mary, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06ab6dcdf3386d55) | 2026-06-12 21:25 |
 
 
 ---
