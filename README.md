@@ -1,11 +1,39 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-16 00:26
+Last updated: 2026-06-16 06:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Prodapt Solutions | Business Intelligence Analyst | Portland, OR, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=d3c843452e183915) | 2026-06-16 06:26 |
+| nan | DevOps Engineer | Louisville, KY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=6c6519ef075cdcd8) | 2026-06-16 06:26 |
+| Nova Web Technologies | Data Engineer (Palantir Foundry + TypeScript) | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=36ee9522c44ebe65) | 2026-06-16 06:26 |
+| Regeneron | Senior Developer - Research and Development | Tarrytown, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dfed31703370bf21) | 2026-06-16 06:26 |
+| savantys solutions | Data Engineer (Databricks / Spark) | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7a88bae140fdb8d9) | 2026-06-16 06:26 |
+| HHAeXchange | Platform Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=af21378ee051eb56) | 2026-06-16 06:26 |
+| Lazer | Senior Infrastructure/ DevOps Engineer, Fintech | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e1782bdcb28d52c8) | 2026-06-16 06:26 |
+| Vynca | Site Reliability Engineer | San Mateo, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=77837a031fc53f9f) | 2026-06-16 06:26 |
+| CVS Health | Associate Cloud Data Engineer ( SQL , Python , ETL, Cloud ) | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04316e8a847eb128) | 2026-06-16 06:26 |
+| Magpie Health Analytics | DevSecOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae1aa5ffe62a0a2d) | 2026-06-16 06:26 |
+| Cognizant | Senior Full Stack Developer – Java & Spring Boot and Angular (Hybrid) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=486cc12b5b77f742) | 2026-06-16 06:26 |
+| Cognizant | Senior Full Stack Developer – Java & Spring Boot and Angular(Hybrid) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07c86f48f87c65a4) | 2026-06-16 06:26 |
+| Citizens | Data Management Specialist | Johnston, RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fcb73c05264420df) | 2026-06-16 06:26 |
+| BMG360 | Agentic Solutions Engineer | Shelton, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5585f87e4193e6a) | 2026-06-16 06:26 |
+| NYU Langone Health | Senior Cloud Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c1c9f0a5349817ae) | 2026-06-16 06:26 |
+| Monks | Senior DevOps Engineer | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e28f968a50a71646) | 2026-06-16 06:26 |
+| Monks | Senior DevOps Engineer | Cupertino, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d3009a7e9a55c62) | 2026-06-16 06:26 |
+| Monks | Senior DevOps Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b8b21c3d1ca0b67) | 2026-06-16 06:26 |
+| Cognizant | Senior Backend Java Engineer (Microservices & Kafka) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1f21cc269f972fa3) | 2026-06-16 06:26 |
+| Cognizant | Senior Backend Java Engineer (Microservices & Kafka) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a03b545f1650339) | 2026-06-16 06:26 |
+| Photon | QA Automation - Plano, TX | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d328429d08cb4a5) | 2026-06-16 06:26 |
+| Hyosung | Manufacturing Data Architect | Memphis, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2c2d36d7fdf653b) | 2026-06-16 06:26 |
+| Aritzia | Digital - Senior Data Engineer / Data Engineer, Digital Technology | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4183e5f7054ce4c5) | 2026-06-16 06:26 |
+| Coloplast | Data Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6916823099c42d89) | 2026-06-16 06:26 |
+| Global Partners LP | Analytics Engineer | Waltham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76d360efd4d04f3c) | 2026-06-16 06:26 |
+| Rochester Regional Health | Data Architect | Rochester, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0ef994aa063803e) | 2026-06-16 06:26 |
+| Association of Universities for Research in Astronomy | Senior Software Engineer | HI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea84ae0bf135a727) | 2026-06-16 06:26 |
+| Atlas Travel & Technology Group, Inc. | Senior DevSecOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1d1a20831f41bca) | 2026-06-16 06:26 |
 | IKS Health | Senior Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1a12a261b9e6a632) | 2026-06-16 00:26 |
 | NTT DATA | Data Engineer - Hybrid | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0d5ad316f0925858) | 2026-06-16 00:26 |
 | Lockheed Martin | AI Machine Learning Engineer | Bethesda, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=407650b6fa832e4b) | 2026-06-16 00:26 |
@@ -268,35 +296,6 @@ Last updated: 2026-06-16 00:26
 | Concentrix | Senior Data Analyst | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5ed4c13455f9ce86) | 2026-06-12 07:14 |
 | Palo Alto Networks | DevOps Engineer | Santa Clara, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e0436b74d002fd0) | 2026-06-12 07:14 |
 | Optum | Senior Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a51301d84047381d) | 2026-06-12 07:14 |
-| VTG Defense | Systems Engineer SME | Tysons Corner, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=8e2e0f9df5247042) | 2026-06-12 02:40 |
-| Target | Data Engineer - Target Tech and AI | Minneapolis, MN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=23d858bb54be62b7) | 2026-06-12 02:40 |
-| Systems Development and Analysis | Senior Big Data Engineer (Java, Kafka, Spark, ETL) | Arlington, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4101b4f33c020b4b) | 2026-06-12 02:40 |
-| Sprouts Farmers Market | Platform Architect | Phoenix, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=be1d2f0b19c98908) | 2026-06-12 02:40 |
-| JLL | Senior Software Engineer | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b8327d885674c2cb) | 2026-06-12 02:40 |
-| Vertiv | Platform Operations Engineer (Site Reliability Engineer) | Westerville, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0928cac745f837eb) | 2026-06-12 02:40 |
-| Akumin | Senior Data Engineer | Daytona Beach, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=adaf2ea98a3a0c98) | 2026-06-12 02:40 |
-| Akumin | Senior Data Engineer | West Des Moines, IA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b51bef44ce851670) | 2026-06-12 02:40 |
-| Akumin | Senior Data Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=572a735d26988840) | 2026-06-12 02:40 |
-| Akumin | Senior Data Engineer | Hazleton, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ea308d3aa4efb3a6) | 2026-06-12 02:40 |
-| Akumin | Senior Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=17688e9ed438da93) | 2026-06-12 02:40 |
-| Akumin | Senior Data Engineer | Owosso, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=625378a8c8feabb6) | 2026-06-12 02:40 |
-| Akumin | Senior Data Engineer | Crown Point, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4edea8f81b8bef39) | 2026-06-12 02:40 |
-| Akumin | Senior Data Engineer | Pinehurst, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a345b3fc59984aa6) | 2026-06-12 02:40 |
-| Akumin | Senior Data Engineer | Florence, AL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=539dcfcd9f0b442c) | 2026-06-12 02:40 |
-| Akumin | Senior Data Engineer | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0eda110060bcf3d5) | 2026-06-12 02:40 |
-| Akumin | Senior Data Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=007b85bce01910b5) | 2026-06-12 02:40 |
-| Akumin | Senior Data Engineer | Ashland, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2d6b68e20522b555) | 2026-06-12 02:40 |
-| Akumin | Senior Data Engineer | Charleston, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3f193252272c1cfe) | 2026-06-12 02:40 |
-| Acrisure LLC | Software Engineer, Data | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f66d572a44ce5cb0) | 2026-06-12 02:40 |
-| U.S. Venture, Inc. | Cloud Architect (IGEN) | Appleton, WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=657d301f2f1b7537) | 2026-06-12 02:40 |
-| Western Governors University | Senior Quality Engineer | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2b38a31f90568f6) | 2026-06-12 02:40 |
-| MPR Management | Data Analytics Engineer | Flint, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6631941e87630a58) | 2026-06-12 02:40 |
-| Allianz | Senior Platform Engineer (AI & Analytics) - Hybrid | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e156b33a61bb6c4) | 2026-06-12 02:40 |
-| Brillio LLC | Enterprise Architect – R01566150 | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ac2a0315c25f7a8) | 2026-06-12 02:40 |
-| Stock Yards Bank & Trust | Data Engineer | Louisville, KY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ce0334c84fa0af8d) | 2026-06-12 02:40 |
-| TECHNOLOGENT | Software Engineers (Golang/Java) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f9dbff6f9b9b55eb) | 2026-06-12 02:40 |
-| Calder | Senior Software Engineer - Platform | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4f8d0096c255500e) | 2026-06-12 02:40 |
-| Peterson Holding | Data & Analytics Engineer | San Leandro, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=645b5d2c574a7492) | 2026-06-12 02:40 |
 
 
 ---
