@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-15 22:57
+Last updated: 2026-06-16 00:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| IKS Health | Senior Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1a12a261b9e6a632) | 2026-06-16 00:26 |
+| NTT DATA | Data Engineer - Hybrid | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0d5ad316f0925858) | 2026-06-16 00:26 |
+| Lockheed Martin | AI Machine Learning Engineer | Bethesda, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=407650b6fa832e4b) | 2026-06-16 00:26 |
+| Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fc40f95617fae929) | 2026-06-16 00:26 |
+| signitives IT Solutions | Data Engineer – GCP | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6a567e58b2e46721) | 2026-06-16 00:26 |
+| Frontline Education | Senior Software Engineer I & II - Platform, Identity | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ac1575e4dc7d31dc) | 2026-06-16 00:26 |
+| Frontline Education | Senior Software Engineer I or II- Data Platform | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=893d5e6eb990356d) | 2026-06-16 00:26 |
+| NavitasPartners | Data Engineer | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a2017737c2d0bf38) | 2026-06-16 00:26 |
+| Capgemini | Solution Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8cc9c15fd9f327ad) | 2026-06-16 00:26 |
+| CSG | Operational Engineer II | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e6cb5b5519b1508) | 2026-06-16 00:26 |
+| Axon | Software Engineer II, Cloud Engineering | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5535a7227c62c60b) | 2026-06-16 00:26 |
+| Capgemini | Data Engineer - Azure, Databricks | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb5a8c81763658a8) | 2026-06-16 00:26 |
+| Texas Comptroller of Public Accounts | GLO - Senior Data Engineer (Programmer V) | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b3e9f76b8e11395) | 2026-06-16 00:26 |
 | Tata Consultancy Services (TCS) | Senior PySpark Data Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=b8b0a40d5ab0154f) | 2026-06-15 22:57 |
 | Tata Consultancy Services (TCS) | AWS Data Engineer | Irving, TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=af67504e645c60dd) | 2026-06-15 22:57 |
 | Tata Consultancy Services (TCS) | Databricks Data Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c12ffd5ffac2fa61) | 2026-06-15 22:57 |
@@ -284,21 +297,6 @@ Last updated: 2026-06-15 22:57
 | TECHNOLOGENT | Software Engineers (Golang/Java) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f9dbff6f9b9b55eb) | 2026-06-12 02:40 |
 | Calder | Senior Software Engineer - Platform | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4f8d0096c255500e) | 2026-06-12 02:40 |
 | Peterson Holding | Data & Analytics Engineer | San Leandro, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=645b5d2c574a7492) | 2026-06-12 02:40 |
-| Vizient, Inc. | Senior Software Engineer | Irving, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f94a8c00b79278f0) | 2026-06-11 23:15 |
-| MEDecision | Senior Software Engineer, Data Platform | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=19beaee823c8d513) | 2026-06-11 23:15 |
-| Riot Platforms, Inc. | Senior Data Analytics Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4eb33b9b74da3225) | 2026-06-11 23:15 |
-| Recursion Technologies, Inc | Systems Engineer | Richardson, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=52874955a1d8a7f4) | 2026-06-11 23:15 |
-| Workday | Sr. Software Development Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cfbd6697aef07bb4) | 2026-06-11 23:15 |
-| CDK Global | Sr. Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=928d0dbf6d50f764) | 2026-06-11 23:15 |
-| Worth AI | Quality Assurance (QA) Engineer | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=47abd28c0aa248a7) | 2026-06-11 23:15 |
-| Worth AI | Quality Assurance (QA) Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=973ffbc88d0c427a) | 2026-06-11 23:15 |
-| Worth AI | Quality Assurance (QA) Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bbf0524e41351a6c) | 2026-06-11 23:15 |
-| Worth AI | Quality Assurance (QA) Engineer | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b91c9d41b3a88a9c) | 2026-06-11 23:15 |
-| Constellation Software, Inc. | Senior Data Scientist | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b3da1bd303b951ea) | 2026-06-11 23:15 |
-| Texas Farm Bureau and Affiliated Companies | Data Engineer I | Waco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c035ca05535e9d0) | 2026-06-11 23:15 |
-| DoubleVerify | Sr. Analytics Data Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d60b7462f872f2e3) | 2026-06-11 23:15 |
-| Tata Consultancy Services (TCS) | Senior PySpark Data Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d57a86fed30272e5) | 2026-06-11 23:15 |
-| Ion Storage Systems | Data Platform Engineer (Manufacturing) | Beltsville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a4bbea5d38dc11d) | 2026-06-11 23:15 |
 
 
 ---
