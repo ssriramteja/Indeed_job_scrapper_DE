@@ -1,17 +1,42 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-17 14:52
+Last updated: 2026-06-17 17:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Transamerica | Senior Software Engineer – API & Cloud Integrations (Java, AWS) | Denver, CO, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=526bcf8fe154368e) | 2026-06-17 17:45 |
+| IvoryCloud | Senior Data Engineer | Rockville, MD, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=4bd4b580c9734c2d) | 2026-06-17 17:45 |
+| IKS Health | Senior Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=44b12b716db62c5d) | 2026-06-17 17:45 |
+| Core Alliance Group Inc. | Java AWS Developer - Face to Face Interview | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9911b4ea00661e78) | 2026-06-17 17:45 |
+| Techtorch | Full Stack AI Engineer (Data) | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ced4fe089b71c6d6) | 2026-06-17 17:45 |
+| nan | Database Administrator/ETL & Data Integration Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=00de8f5aef404a5c) | 2026-06-17 17:45 |
+| EMERY SAPP & SONS | Senior Data Engineer | Kansas City, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a1d02124b3f54b0e) | 2026-06-17 17:45 |
+| PNC Financial Services Group | Infrastructure Engineer Sr (Infrastructure Software Engineer) | Pittsburgh, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e1dee59f259bc35d) | 2026-06-17 17:45 |
+| Convey | Senior Software Engineer - LSP | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=140694c2c64613b5) | 2026-06-17 17:45 |
+| Convey | Senior Software Engineer - LSP | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8ac8053306bec847) | 2026-06-17 17:45 |
+| Convey | Senior Software Engineer - LSP | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9110ee049f04d732) | 2026-06-17 17:45 |
+| project44 | Senior Software Engineer - LSP | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2d6c0d2095fec46b) | 2026-06-17 17:45 |
+| project44 | Senior Software Engineer - LSP | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f423198fafbbced4) | 2026-06-17 17:45 |
+| project44 | Senior Software Engineer - LSP | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8d6c34af7f7ba0c5) | 2026-06-17 17:45 |
+| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04544f5c224d0e1b) | 2026-06-17 17:45 |
+| Office Ally | Senior Integration Engineer | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5ab07eb4acffa0b) | 2026-06-17 17:45 |
+| Office Ally | Senior Integration Engineer | Portland, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5b45b6e8aa67df7c) | 2026-06-17 17:45 |
+| Office Ally | Senior Integration Engineer | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d16dbeaec3930ca) | 2026-06-17 17:45 |
+| Office Ally | Senior Integration Engineer | Lehi, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=90ab5e0fe05ad0e3) | 2026-06-17 17:45 |
+| Office Ally | Senior Integration Engineer | Vancouver, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c80d6271afc8362) | 2026-06-17 17:45 |
+| Office Ally | Senior Integration Engineer | Brentwood, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45618c98009db818) | 2026-06-17 17:45 |
+| Office Ally | Senior Integration Engineer | Concord, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9716207967dcb05a) | 2026-06-17 17:45 |
+| Nationwide Mutual Insurance Company | Consultant, Product Architect (P&C Data) | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0537b6f1de175b28) | 2026-06-17 17:45 |
+| The Brite Group | Mid Level Software Engineer | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=00fcfcdc16ea146b) | 2026-06-17 17:45 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09d61f4f25722f32) | 2026-06-17 17:45 |
+| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3749a31d1864c73) | 2026-06-17 17:45 |
+| sdq | Infrastructure Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ffd021f83c93fff) | 2026-06-17 17:45 |
+| Bealls Inc. | Associate Developer | Bradenton, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b3cc4c50738fa61) | 2026-06-17 17:45 |
+| NavitasPartners | Integration Developer (Java) - JIDEV 26-07339 | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfbf6df684aee028) | 2026-06-17 17:45 |
 | JPMorganChase | Data Visualization Senior Associate - Home Lending Data & Analytics | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f4af50f2bafbc222) | 2026-06-17 14:52 |
 | The Linux Foundation | Senior Cloud Operations Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0523d8a73b455a89) | 2026-06-17 14:52 |
-| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04544f5c224d0e1b) | 2026-06-17 14:52 |
-| Nationwide Mutual Insurance Company | Consultant, Product Architect (P&C Data) | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0537b6f1de175b28) | 2026-06-17 14:52 |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09d61f4f25722f32) | 2026-06-17 14:52 |
-| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3749a31d1864c73) | 2026-06-17 14:52 |
 | The Hartford | Senior Software Engineer - Quality | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a50810716b56812) | 2026-06-17 14:52 |
 | The Hartford | Senior Software Engineer - Quality | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=463f4a84c24c11ac) | 2026-06-17 14:52 |
 | The Hartford | Senior Software Engineer - Quality | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7a77f7327e40f07c) | 2026-06-17 14:52 |
@@ -224,8 +249,6 @@ Last updated: 2026-06-17 14:52
 | Loftware | Enterprise Data Architect | Portsmouth, NH, US USA | 32.6% | [Apply](https://www.indeed.com/viewjob?jk=328900ab048cf04d) | 2026-06-14 08:36 |
 | Cisco | Data Architect | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b2097aeafe81a958) | 2026-06-14 08:36 |
 | Orange County's Credit Union | Cloud Systems Engineer III | Santa Ana, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9554665f7af0eaf0) | 2026-06-13 21:03 |
-| NYC Human Resources Administration | DEVOPS ENGINEER | Brooklyn, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1766fc067ea2cb5c) | 2026-06-13 15:26 |
-| Cargill | Sr. Data Engineer - Ag & Trading | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a8edb3b00b860017) | 2026-06-13 15:26 |
 
 
 ---
