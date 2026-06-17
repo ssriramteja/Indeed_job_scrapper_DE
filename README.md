@@ -1,11 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-17 06:01
+Last updated: 2026-06-17 11:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Data - Archimedes | US USA | 30.6% | [Apply](https://www.indeed.com/viewjob?jk=42d62482ae7cddd2) | 2026-06-17 11:28 |
+| State Farm | Data Engineer | Bloomington, IL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=7934dbb22311939d) | 2026-06-17 11:28 |
+| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Development Operations - Archimedes | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=871f64414211ac77) | 2026-06-17 11:28 |
+| Cloudforce | Cloud Engineer - Data | National Harbor, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=582d2762175caa3d) | 2026-06-17 11:28 |
+| EchoStar | Senior Data Engineer | Littleton, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=99f33a43b908e634) | 2026-06-17 11:28 |
+| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Cloud - Archimedes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7cda1d43e4d0c490) | 2026-06-17 11:28 |
+| Navitus Health Solutions / Lumicera Health Services | Sr. Architect, Enterprise - Archimedes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f4967475cc257ea6) | 2026-06-17 11:28 |
+| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Software - Archimedes | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1cc9016a88e96d04) | 2026-06-17 11:28 |
+| Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=922392e2e4746be9) | 2026-06-17 11:28 |
+| Cognizant | Generative AI Developer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=28b48675e2894e6f) | 2026-06-17 11:28 |
+| HCLTech | AWS AI Architect | Hudson, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3db11b97dc614b82) | 2026-06-17 11:28 |
+| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04544f5c224d0e1b) | 2026-06-17 11:28 |
+| Nationwide Mutual Insurance Company | Consultant, Product Architect (P&C Data) | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0537b6f1de175b28) | 2026-06-17 11:28 |
+| PlayStation | Software Development Engineer in Test, ML/AI | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6bcc722d28f0fd1) | 2026-06-17 11:28 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09d61f4f25722f32) | 2026-06-17 11:28 |
+| Litera | Software Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96177e962e8cc454) | 2026-06-17 11:28 |
+| Arizona Public Service (APS) | Data Scientist / Data Scientist, Senior | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48779fae100c0244) | 2026-06-17 11:28 |
+| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3749a31d1864c73) | 2026-06-17 11:28 |
+| Edgewater Federal Solutions | Solutions Architect 4 | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3dfc48a9ef7a026) | 2026-06-17 11:28 |
 | Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | US USA | 29.9% | [Apply](https://www.indeed.com/viewjob?jk=a78e7dca5038b723) | 2026-06-17 06:01 |
 | Bitus Labs LLC | Senior Data Engineer (Chinese Mandarin Speaker) | Irvine, CA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=38690ace7c9a024c) | 2026-06-17 06:01 |
 | Navitus Health Solutions / Lumicera Health Services | Engineer, Development Operations - Archimedes | US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=03af74475287b0ba) | 2026-06-17 06:01 |
@@ -20,15 +39,11 @@ Last updated: 2026-06-17 06:01
 | Intellivo | Senior Data Engineer | Memphis, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af7d8d9f65b102c2) | 2026-06-17 06:01 |
 | ADM | Software Engineer - Chicago, IL | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b1773eff14944c55) | 2026-06-17 06:01 |
 | LVT (LiveView Technologies) | Senior SDET II | American Fork, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=805612b772f38e45) | 2026-06-17 06:01 |
-| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04544f5c224d0e1b) | 2026-06-17 06:01 |
 | PlayStation | Software Development Engineer in Test, ML/AI | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0092170302c322f0) | 2026-06-17 06:01 |
 | Restaurant Brands International | Sr. AI Enablement Engineer | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11c1ddb2ef420b3d) | 2026-06-17 06:01 |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09d61f4f25722f32) | 2026-06-17 06:01 |
 | HCLTech | Solution Architect - GenAI | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2127fb9204606d87) | 2026-06-17 06:01 |
 | Labcorp | Software Development Engineer III | Burlington, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=938814309f98f913) | 2026-06-17 06:01 |
-| Ford Motor Company | Specialist, Yield Management - GTM AA Data Scientist | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3afc7189fd75646) | 2026-06-17 06:01 |
 | nan | Senior Data Engineer (Azure and Databricks) | New Brunswick, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af43569fb68ff56a) | 2026-06-17 06:01 |
-| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3749a31d1864c73) | 2026-06-17 06:01 |
 | Oracle | Oracle Data Platform Multi-Cloud Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ff1ae859febc505) | 2026-06-17 06:01 |
 | Bitus Labs LLC | Data Analyst — Game Analytics (Chinese Mandarin Speaker) | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b6505d408020fe2) | 2026-06-17 06:01 |
 | DUO2 LLC | Data engineer | Minnesota City, MN, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=8d2f0e62d788eb2c) | 2026-06-17 00:10 |
@@ -204,28 +219,6 @@ Last updated: 2026-06-17 06:01
 | Orange County's Credit Union | Cloud Systems Engineer III | Santa Ana, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9554665f7af0eaf0) | 2026-06-13 21:03 |
 | NYC Human Resources Administration | DEVOPS ENGINEER | Brooklyn, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1766fc067ea2cb5c) | 2026-06-13 15:26 |
 | Cargill | Sr. Data Engineer - Ag & Trading | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a8edb3b00b860017) | 2026-06-13 15:26 |
-| Koch | AI Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea0905912913a35c) | 2026-06-13 09:51 |
-| Koch | Enterprise Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eb5b987c1cb763e9) | 2026-06-13 09:51 |
-| Koch | AI Architect | Tulsa, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=19fa9727f194c93a) | 2026-06-13 09:51 |
-| Koch | Enterprise Architect | Tulsa, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f89fd566c7357b0a) | 2026-06-13 09:51 |
-| Koch | Enterprise Architect | Wichita, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0be12bfd78e5a42) | 2026-06-13 09:51 |
-| Koch | AI Architect | Wichita, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa18885de990da95) | 2026-06-13 09:51 |
-| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d1f4a5314135b71) | 2026-06-13 09:51 |
-| Workday | Senior Cybersecurity Data Engineer - AI/ML SME | Reston, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=599be78bf8533a28) | 2026-06-13 06:50 |
-| QuidelOrtho Corporation | AI/ML Data Engineer (Databricks) | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=83b31d482e2d3c8b) | 2026-06-13 06:50 |
-| QuidelOrtho Corporation | AI/ML Data Engineer (Databricks) | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=859e7ca77b35594f) | 2026-06-13 06:50 |
-| Midrex Technologies Inc | Data Architect | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=06f7fe854f6a6907) | 2026-06-13 06:50 |
-| U.S. Bank | Data Solutions & Enablement Consultant | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6b4b729357fee0da) | 2026-06-13 06:50 |
-| U.S. Bank | Data Solutions & Enablement Consultant | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0a5860ee0655d6fc) | 2026-06-13 06:50 |
-| U.S. Bank | Data Solutions & Enablement Consultant | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d3e67b07fb6f9c29) | 2026-06-13 06:50 |
-| U.S. Bank | Data Solutions & Enablement Consultant | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=18ebd82ca33ca821) | 2026-06-13 06:50 |
-| Leidos | Senior Migration Architect | VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=88c5b3637f5dab83) | 2026-06-13 06:50 |
-| Workday | Senior Cybersecurity Data Engineer - Data Platform & Lakehouse SME | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=544d4f30509bbb06) | 2026-06-13 06:50 |
-| Zebra Technologies | Forward Deployed Software Engineer (FDE), Advanced | Holtsville, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3cbdae324f66576f) | 2026-06-13 06:50 |
-| Patriot Bank, N.A. | Senior Data Transformation Data Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9ee61801e58afe80) | 2026-06-13 06:50 |
-| Cognizant | Senior Backend Engineer (Java/Kotlin, Microservices) | Salt Lake City, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d77b44f4a3db0af) | 2026-06-13 06:50 |
-| GeoLogics Corporation | Data Modeler | Sterling Heights, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b66dbbf4e5b40d68) | 2026-06-13 06:50 |
-| Memorial Sloan Kettering Cancer Center | Bioinformatics Software Engineer II, Pathology and Lab Medicine | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13e882519ae5da00) | 2026-06-13 06:50 |
 
 
 ---
