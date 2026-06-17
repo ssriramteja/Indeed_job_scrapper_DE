@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-17 17:45
+Last updated: 2026-06-17 20:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CPI Security | Senior Data Engineer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fbb6fa8346777685) | 2026-06-17 20:01 |
+| eBusiness Solutions Inc. | Senior MuleSoft Architect | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5a2933456811155d) | 2026-06-17 20:01 |
+| Atash Enterprises LLC | Senior MuleSoft Integration Developer | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=15a88924ef9fe1db) | 2026-06-17 20:01 |
+| Aureon | Data Architect | West Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2fbb9632408d5e35) | 2026-06-17 20:01 |
+| Brown Advisory | Canoe Platform Data / Integration Engineer | Baltimore, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8d5ac4383e90fa07) | 2026-06-17 20:01 |
+| Caterpillar | Senior Software Engineer | Peoria, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e64812442158df91) | 2026-06-17 20:01 |
+| Caterpillar | Software Engineer | Peoria, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1e7a63b818631ba0) | 2026-06-17 20:01 |
+| Western Union | Senior Architect, Software Engineering — Gateway Platform | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1df263ef60a18bdf) | 2026-06-17 20:01 |
+| Nationwide Mutual Insurance Company | Consultant, Product Architect (P&C Data) | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0537b6f1de175b28) | 2026-06-17 20:01 |
+| Streamline Defense | ML Administrator | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d6229fcbca69a9f2) | 2026-06-17 20:01 |
+| nan | Data Engineer | Louisville, KY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea1e8505433b954b) | 2026-06-17 20:01 |
+| Motion | Software Engineer IV - Sales Domain (Java / Google Cloud) | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=612dbd60844ef3cc) | 2026-06-17 20:01 |
+| accrete | Senior DevOps Engineer, AI Platform | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=89c3141caec45eab) | 2026-06-17 20:01 |
+| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3749a31d1864c73) | 2026-06-17 20:01 |
+| Health Data Analytics Institute | Senior Cloud Engineer | Dedham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=366c81cd8f5e4e58) | 2026-06-17 20:01 |
+| Brown Advisory | Technical Architect, Integration Development | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d41ed71ea14382d) | 2026-06-17 20:01 |
 | Transamerica | Senior Software Engineer – API & Cloud Integrations (Java, AWS) | Denver, CO, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=526bcf8fe154368e) | 2026-06-17 17:45 |
 | IvoryCloud | Senior Data Engineer | Rockville, MD, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=4bd4b580c9734c2d) | 2026-06-17 17:45 |
 | IKS Health | Senior Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=44b12b716db62c5d) | 2026-06-17 17:45 |
@@ -20,7 +36,6 @@ Last updated: 2026-06-17 17:45
 | project44 | Senior Software Engineer - LSP | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2d6c0d2095fec46b) | 2026-06-17 17:45 |
 | project44 | Senior Software Engineer - LSP | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f423198fafbbced4) | 2026-06-17 17:45 |
 | project44 | Senior Software Engineer - LSP | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8d6c34af7f7ba0c5) | 2026-06-17 17:45 |
-| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04544f5c224d0e1b) | 2026-06-17 17:45 |
 | Office Ally | Senior Integration Engineer | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5ab07eb4acffa0b) | 2026-06-17 17:45 |
 | Office Ally | Senior Integration Engineer | Portland, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5b45b6e8aa67df7c) | 2026-06-17 17:45 |
 | Office Ally | Senior Integration Engineer | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d16dbeaec3930ca) | 2026-06-17 17:45 |
@@ -28,10 +43,7 @@ Last updated: 2026-06-17 17:45
 | Office Ally | Senior Integration Engineer | Vancouver, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c80d6271afc8362) | 2026-06-17 17:45 |
 | Office Ally | Senior Integration Engineer | Brentwood, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45618c98009db818) | 2026-06-17 17:45 |
 | Office Ally | Senior Integration Engineer | Concord, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9716207967dcb05a) | 2026-06-17 17:45 |
-| Nationwide Mutual Insurance Company | Consultant, Product Architect (P&C Data) | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0537b6f1de175b28) | 2026-06-17 17:45 |
 | The Brite Group | Mid Level Software Engineer | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=00fcfcdc16ea146b) | 2026-06-17 17:45 |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09d61f4f25722f32) | 2026-06-17 17:45 |
-| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3749a31d1864c73) | 2026-06-17 17:45 |
 | sdq | Infrastructure Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ffd021f83c93fff) | 2026-06-17 17:45 |
 | Bealls Inc. | Associate Developer | Bradenton, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b3cc4c50738fa61) | 2026-06-17 17:45 |
 | NavitasPartners | Integration Developer (Java) - JIDEV 26-07339 | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfbf6df684aee028) | 2026-06-17 17:45 |
