@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-16 22:49
+Last updated: 2026-06-17 00:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| DUO2 LLC | Data engineer | Minnesota City, MN, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=8d2f0e62d788eb2c) | 2026-06-17 00:10 |
+| Lennar | Sr Data Engineer | Miami, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c25c9deba0321e91) | 2026-06-17 00:10 |
+| Lockheed Martin | AI Machine Learning Engineer Sr. (mid-career) | Bethesda, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e592e82101f13d55) | 2026-06-17 00:10 |
+| VeeRteq Solutions Inc. | Data Engineer | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7df728be8d71a21c) | 2026-06-17 00:10 |
+| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04544f5c224d0e1b) | 2026-06-17 00:10 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09d61f4f25722f32) | 2026-06-17 00:10 |
+| Rochester Regional Health | Software Developer - DevOps Engineer | Rochester, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=52267d9be69a9eef) | 2026-06-17 00:10 |
+| Rochester Regional Health | Software Developer - DevOps Engineer | Rochester, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50eb133c7651d099) | 2026-06-17 00:10 |
+| Ford Motor Company | Specialist, Yield Management - GTM AA Data Scientist | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3afc7189fd75646) | 2026-06-17 00:10 |
+| Indeed | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f23f48667102b94a) | 2026-06-17 00:10 |
+| Bayer | Data Analyst | Creve Coeur, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79969044de77605a) | 2026-06-17 00:10 |
+| Capgemini | Ab Initio Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=329cce0cc21f01c1) | 2026-06-17 00:10 |
+| Carnival Cruise Line | Full Stack Web Developer, Fuel Performance & Decarbonization | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b01aaa96bfc055c) | 2026-06-17 00:10 |
 | Penn Mutual | Senior Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=bb438bd3c8e9afd7) | 2026-06-16 22:49 |
 | Program Management Solutions | Ruby on Rails Engineer | Baltimore, MD, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=51965b97284dee62) | 2026-06-16 22:49 |
 | Tata Consultancy Services (TCS) | Full Stack Engineer | Irving, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a06c99225161e1ab) | 2026-06-16 22:49 |
@@ -17,13 +30,10 @@ Last updated: 2026-06-16 22:49
 | AKUNA CAPITAL | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cc6681b1e5ed6ead) | 2026-06-16 22:49 |
 | RADIX INTERNATIONAL CONSULTING | MuleSoft Consultant | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=151dfd13a3d3fb99) | 2026-06-16 22:49 |
 | Dentsu | Sr. Data Engineer | MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=489f25c5230f04c5) | 2026-06-16 22:49 |
-| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04544f5c224d0e1b) | 2026-06-16 22:49 |
 | ASSA ABLOY Group | Sr. Data Governance Engineer | New Haven, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1f812d27f7580652) | 2026-06-16 22:49 |
 | American Airlines | Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=46bb1265645f6218) | 2026-06-16 22:49 |
 | eClinical Solutions, LLC | Senior Data Engineer | Mansfield, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1df8e9d2986ffdcc) | 2026-06-16 22:49 |
 | The Hartford | Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af85563e825137c3) | 2026-06-16 22:49 |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09d61f4f25722f32) | 2026-06-16 22:49 |
-| Ford Motor Company | Specialist, Yield Management - GTM AA Data Scientist | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3afc7189fd75646) | 2026-06-16 22:49 |
 | Tra'Bian Enterprises | Azure DevOps Engineer & Administrator | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=658850a071f96269) | 2026-06-16 22:49 |
 | UnitedHealthcare | Software Engineer | Omaha, NE, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d0d3a6f7a359f862) | 2026-06-16 20:39 |
 | Blue Cross Blue Shield | Data Engineer (AI/ML) | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c16f06452db6a0f0) | 2026-06-16 20:39 |
@@ -221,34 +231,6 @@ Last updated: 2026-06-16 22:49
 | Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e929d104585ce86) | 2026-06-13 02:32 |
 | Databricks | Sr. Forward Deployed Engineer-Communications, Media, Entertainment & Games | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da83569333ee939a) | 2026-06-13 02:32 |
 | BrightSpring Health Services | Enterprise Architect, AI Health Cloud | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fafad05a90c901ac) | 2026-06-13 02:32 |
-| Tata Consultancy Services (TCS) | Senior PySpark Data Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=461cc5e336726e29) | 2026-06-12 23:08 |
-| Tata Consultancy Services (TCS) | AWS Data Engineer | Irving, TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=041571d1844e3878) | 2026-06-12 23:08 |
-| Tata Consultancy Services (TCS) | Databricks Data Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=35e6f9d91bf791b1) | 2026-06-12 23:08 |
-| Scicom Infrastructure Services | Databricks SME | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=41d30cbd51be105d) | 2026-06-12 23:08 |
-| Cognizant | Azure Data Architect | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f08447131564025e) | 2026-06-12 23:08 |
-| Brookfield Properties | Senior Data Engineer | Charleston, SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eb497e82428572d4) | 2026-06-12 23:08 |
-| Illumen Group | Senior Python & SAS Developer (Data Modernization) | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d892ead602b58795) | 2026-06-12 23:08 |
-| K&L GATES | Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37aff8f440d6ba6d) | 2026-06-12 23:08 |
-| Cognizant | AWS Data Architect | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df86eb0af63d38af) | 2026-06-12 23:08 |
-| Marathon Health | Software Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=66ed44d25f7a706b) | 2026-06-12 23:08 |
-| International Paper | IT Platform Architect - Network | Memphis, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e4d26050fc54720f) | 2026-06-12 23:08 |
-| Zoom Communications | DevOps Engineer | VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7287ccdf3b9a75d9) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Tallahassee, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=920269b0f09e721a) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3da2910a4a341974) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Springfield, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58b9443c79a19e0d) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b88f4a4b03b9105e) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ec034d4d2c0659b) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c012e7a73c63b98f) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Albany, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8efd67ad513c0fe2) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Trenton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ff87cc807f59577) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Providence, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=44a0a9b3d5879441) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=874c25ddadc07b4c) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Little Rock, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf72861040f23682) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=91f24b220aab5d6c) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99c249a8e72b3138) | 2026-06-12 23:08 |
-| CVS Health | Senior Software Architect | Annapolis, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3e749bf18c9ccc1) | 2026-06-12 23:08 |
-| MACOM Technology Solutions | Data Systems Architect | Lowell, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=022e7efd7d261246) | 2026-06-12 23:08 |
-| Tata Consultancy Services (TCS) | MS Fabric | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ec086aef45de637) | 2026-06-12 23:08 |
 
 
 ---
