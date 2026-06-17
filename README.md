@@ -1,20 +1,42 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-17 00:10
+Last updated: 2026-06-17 06:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | US USA | 29.9% | [Apply](https://www.indeed.com/viewjob?jk=a78e7dca5038b723) | 2026-06-17 06:01 |
+| Bitus Labs LLC | Senior Data Engineer (Chinese Mandarin Speaker) | Irvine, CA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=38690ace7c9a024c) | 2026-06-17 06:01 |
+| Navitus Health Solutions / Lumicera Health Services | Engineer, Development Operations - Archimedes | US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=03af74475287b0ba) | 2026-06-17 06:01 |
+| Navitus Health Solutions / Lumicera Health Services | Engineer, Cloud - Archimedes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=351fc9ced107d0b6) | 2026-06-17 06:01 |
+| Caterpillar | Data Engineer | Peoria, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6c524210e9570a9a) | 2026-06-17 06:01 |
+| Family Dollar | Integration Engineer | Chesapeake, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7aa38d65a2e3ff72) | 2026-06-17 06:01 |
+| Tailored Brands | Sr Full Stack Customer Data Developer | Dublin, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cdc517f42c43516c) | 2026-06-17 06:01 |
+| CCC Intelligent Solutions | Senior Data Engineers | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cf338e67f727fc56) | 2026-06-17 06:01 |
+| Navitus Health Solutions / Lumicera Health Services | Engineer, Data Integration - Archimedes | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bb61f925af04493f) | 2026-06-17 06:01 |
+| Epsilon | Software Engineer | Westminster, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4983335721888ff) | 2026-06-17 06:01 |
+| Radiant Logistics | Cloud DevAI Ops Engineer | Renton, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0af3939a216a2d74) | 2026-06-17 06:01 |
+| Intellivo | Senior Data Engineer | Memphis, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af7d8d9f65b102c2) | 2026-06-17 06:01 |
+| ADM | Software Engineer - Chicago, IL | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b1773eff14944c55) | 2026-06-17 06:01 |
+| LVT (LiveView Technologies) | Senior SDET II | American Fork, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=805612b772f38e45) | 2026-06-17 06:01 |
+| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04544f5c224d0e1b) | 2026-06-17 06:01 |
+| PlayStation | Software Development Engineer in Test, ML/AI | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0092170302c322f0) | 2026-06-17 06:01 |
+| Restaurant Brands International | Sr. AI Enablement Engineer | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11c1ddb2ef420b3d) | 2026-06-17 06:01 |
+| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09d61f4f25722f32) | 2026-06-17 06:01 |
+| HCLTech | Solution Architect - GenAI | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2127fb9204606d87) | 2026-06-17 06:01 |
+| Labcorp | Software Development Engineer III | Burlington, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=938814309f98f913) | 2026-06-17 06:01 |
+| Ford Motor Company | Specialist, Yield Management - GTM AA Data Scientist | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3afc7189fd75646) | 2026-06-17 06:01 |
+| nan | Senior Data Engineer (Azure and Databricks) | New Brunswick, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af43569fb68ff56a) | 2026-06-17 06:01 |
+| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3749a31d1864c73) | 2026-06-17 06:01 |
+| Oracle | Oracle Data Platform Multi-Cloud Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ff1ae859febc505) | 2026-06-17 06:01 |
+| Bitus Labs LLC | Data Analyst — Game Analytics (Chinese Mandarin Speaker) | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b6505d408020fe2) | 2026-06-17 06:01 |
 | DUO2 LLC | Data engineer | Minnesota City, MN, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=8d2f0e62d788eb2c) | 2026-06-17 00:10 |
 | Lennar | Sr Data Engineer | Miami, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c25c9deba0321e91) | 2026-06-17 00:10 |
 | Lockheed Martin | AI Machine Learning Engineer Sr. (mid-career) | Bethesda, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e592e82101f13d55) | 2026-06-17 00:10 |
 | VeeRteq Solutions Inc. | Data Engineer | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7df728be8d71a21c) | 2026-06-17 00:10 |
-| McKinsey & Company | Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04544f5c224d0e1b) | 2026-06-17 00:10 |
-| McKinsey & Company | Senior Data Engineer I - QuantumBlack, AI by McKinsey (Critical Industries) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09d61f4f25722f32) | 2026-06-17 00:10 |
 | Rochester Regional Health | Software Developer - DevOps Engineer | Rochester, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=52267d9be69a9eef) | 2026-06-17 00:10 |
 | Rochester Regional Health | Software Developer - DevOps Engineer | Rochester, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50eb133c7651d099) | 2026-06-17 00:10 |
-| Ford Motor Company | Specialist, Yield Management - GTM AA Data Scientist | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3afc7189fd75646) | 2026-06-17 00:10 |
 | Indeed | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f23f48667102b94a) | 2026-06-17 00:10 |
 | Bayer | Data Analyst | Creve Coeur, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79969044de77605a) | 2026-06-17 00:10 |
 | Capgemini | Ab Initio Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=329cce0cc21f01c1) | 2026-06-17 00:10 |
@@ -204,33 +226,6 @@ Last updated: 2026-06-17 00:10
 | Cognizant | Senior Backend Engineer (Java/Kotlin, Microservices) | Salt Lake City, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d77b44f4a3db0af) | 2026-06-13 06:50 |
 | GeoLogics Corporation | Data Modeler | Sterling Heights, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b66dbbf4e5b40d68) | 2026-06-13 06:50 |
 | Memorial Sloan Kettering Cancer Center | Bioinformatics Software Engineer II, Pathology and Lab Medicine | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13e882519ae5da00) | 2026-06-13 06:50 |
-| Acentra Health | Data Engineer, Mid | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ef6f9d2703398a29) | 2026-06-13 02:32 |
-| Kaizen Analytix LLC | Experienced AWS Solutions Architect and Data Architect | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c0f364a3ec32fde4) | 2026-06-13 02:32 |
-| WaFd Bank | Senior Data Engineer (Hybrid Eligible*) | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c1dd83ec2340a8ca) | 2026-06-13 02:32 |
-| Tyler Technologies | Cloud DevOps Engineer | Latham, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=30db4d87acabac99) | 2026-06-13 02:32 |
-| Wells Fargo | Senior Data Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7edd80e431e58210) | 2026-06-13 02:32 |
-| Wells Fargo | Senior Data Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7af97ac7780e4ad6) | 2026-06-13 02:32 |
-| uShip | Software Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ae560083a24a530c) | 2026-06-13 02:32 |
-| Caloptima | Data Engineer, Platform Modernization (Data Warehouse Programmer/Analyst) | Orange, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0dfe4169ae274aad) | 2026-06-13 02:32 |
-| Flexential | Sr Platform Engineer-1 | Centennial, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c7e7de43eaf74c1c) | 2026-06-13 02:32 |
-| WhiteWater Express Car Wash | Senior Data Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4d14a0ff9f2e641c) | 2026-06-13 02:32 |
-| Cain Watters & Associates | Data Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fb96a8e880376758) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Mountain View, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e01850979279f2ef) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd07ce23f5dbdf19) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac3c789356f7e994) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b48cbc8763181388) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer- Communications, Media, Entertainment & Games | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d10bc804849af5b) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba4b28274046d1cf) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=701386709cebcaa7) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab6a37901eceddb0) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e8565e46d3855261) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87ed73484e13493c) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c40c2dde7ced96f7) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f8b6ce56a857473e) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0ef8be0e5e3f6ad) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e929d104585ce86) | 2026-06-13 02:32 |
-| Databricks | Sr. Forward Deployed Engineer-Communications, Media, Entertainment & Games | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da83569333ee939a) | 2026-06-13 02:32 |
-| BrightSpring Health Services | Enterprise Architect, AI Health Cloud | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fafad05a90c901ac) | 2026-06-13 02:32 |
 
 
 ---
