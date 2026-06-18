@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-18 10:05
+Last updated: 2026-06-18 13:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Walgreens | Data Engineer II | Deerfield, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=18acf0e8544b3a5b) | 2026-06-18 13:56 |
+| nan | Sr Product Software Engineer | Bristol, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2df35197e791e2f5) | 2026-06-18 13:56 |
+| CBRE | Software Engineer | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0c96ade68c1d70c6) | 2026-06-18 13:56 |
+| Optum | IO Engineer | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f9a972802f7925c4) | 2026-06-18 13:56 |
+| Capgemini | Senior Data Engineer / Analytics Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=33f06818ad11d5ab) | 2026-06-18 13:56 |
+| Palmer Holland | AI Engineer | Westlake, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d8cea13d9bb9795e) | 2026-06-18 13:56 |
+| OnMed | Senior Data Engineer | White Plains, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2e252cb63f4e5fb) | 2026-06-18 13:56 |
+| nan | Product Software Engineer II | Bristol, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bac3831ddf5c36a7) | 2026-06-18 13:56 |
 | Federal Soft Systems | Software Developer (Job Code: 1104) | Bentonville, AR, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e6b47572932e8bfd) | 2026-06-18 10:05 |
 | Adobe | Data Science Engineer | San Jose, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=47fe33d6ae05c1e9) | 2026-06-18 10:05 |
 | Applied Systems | Sr. Cloud Platform Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ef7408f2457ea00a) | 2026-06-18 10:05 |
@@ -387,7 +395,6 @@ Last updated: 2026-06-18 10:05
 | ValueBase Consulting | Data Engineer (AWS & Python) | Des Moines, IA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=204e1619685f0b7c) | 2026-06-15 00:02 |
 | Optum | Senior Solution Developer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6c823da42c3926a3) | 2026-06-14 21:00 |
 | JPMorganChase | Full Stack Python Engineer, Senior Associate | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc9571f04802a53b) | 2026-06-14 19:10 |
-| American Software Solutions INC | Senior Kubernetes Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=efb0cc4e514cfd3d) | 2026-06-14 13:29 |
 
 
 ---
