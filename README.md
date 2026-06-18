@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-18 13:56
+Last updated: 2026-06-18 16:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ollion | Specialist Engineer- Data | Austin, TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=a967b71634e71edd) | 2026-06-18 16:53 |
+| Kepler22 LLC | Associate Software Engineer | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=dde168972f7d9f8a) | 2026-06-18 16:53 |
+| NorthStar Advisory | Data Engineer | St. Louis, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3cb780a0adb5f2e5) | 2026-06-18 16:53 |
+| nan | Professional Services Consultant | Louisville, KY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a103a483832a643b) | 2026-06-18 16:53 |
+| Optum | Quality Engineer | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dd72966a9cf0f195) | 2026-06-18 16:53 |
+| Ginkgo BioWorks | Senior Software Engineer, Autonomous Lab | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7be02d1647d171ab) | 2026-06-18 16:53 |
+| rSTAR Technologies | Sr. Fullstack Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b9e0222ee1ad2ca4) | 2026-06-18 16:53 |
+| Colgate-Palmolive | Machine Learning Engineer (174332) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eca1a5640b3249e8) | 2026-06-18 16:53 |
+| Creative Information Technology India | Databricks Migration Engineer – Hybrid- Laurel, MD | Falls Church, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b0f8b1a3c45c2297) | 2026-06-18 16:53 |
+| Six Feet Up Inc. | Senior Data Engineer | Windermere, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1f51e7d95dba89e) | 2026-06-18 16:53 |
+| XoriantːUS | Sr. Software Engineer | Edison, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebfd4178b2db6eeb) | 2026-06-18 16:53 |
+| EisnerAmper | AI Solution Architect | Iselin, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20cd86556e8fae62) | 2026-06-18 16:53 |
+| CloudSecurityweb | SQL Server Developer | Rancho Cucamonga, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48fa998d6825ef93) | 2026-06-18 16:53 |
 | Walgreens | Data Engineer II | Deerfield, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=18acf0e8544b3a5b) | 2026-06-18 13:56 |
 | nan | Sr Product Software Engineer | Bristol, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2df35197e791e2f5) | 2026-06-18 13:56 |
 | CBRE | Software Engineer | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0c96ade68c1d70c6) | 2026-06-18 13:56 |
