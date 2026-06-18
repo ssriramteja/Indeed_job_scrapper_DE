@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-18 21:58
+Last updated: 2026-06-18 23:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EXL Service | Senior Databricks Engineer | US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8dce8d9e924a15a0) | 2026-06-18 23:43 |
+| Sumter Electric Cooperative, Inc | Data Engineer | Sumterville, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=05a5a8eaa7d566a4) | 2026-06-18 23:43 |
+| Capgemini | GCP /Python Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d45beb918f8f1155) | 2026-06-18 23:43 |
+| Sony | Sr. Software Engineer, AI Native | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d6dbb89d7f07724) | 2026-06-18 23:43 |
+| State Street | Software Engineer, CRD- New Graduate | Burlington, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6b3715d19461c0fd) | 2026-06-18 23:43 |
+| mSupply | Machine Learning Engineer\| AI - US | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46b7a8d8a75a3102) | 2026-06-18 23:43 |
+| Transamerica | Senior Quality Engineer -Test Governance & Standards | Cedar Rapids, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bf4dab9e3ca16af) | 2026-06-18 23:43 |
 | BetMGM LLC | Senior Data Engineer | NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f66557aa16a0d567) | 2026-06-18 21:58 |
 | Matrix Global | Application Integration Architect (MuleSoft) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2b723b38fa8fbc83) | 2026-06-18 21:58 |
 | Tata Consultancy Services (TCS) | Python Sr Developer | Des Moines, IA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b6eaa505c1c3eb5b) | 2026-06-18 21:58 |
@@ -25,7 +32,6 @@ Last updated: 2026-06-18 21:58
 | Verily | Cloud Engineer III | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac5d1120e69e2978) | 2026-06-18 21:58 |
 | Tata Consultancy Services (TCS) | JAVA Developer with Python | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=89b20777bda6e070) | 2026-06-18 21:58 |
 | Roadrunner | Data Engineer | Downers Grove, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ae18f46c8596540) | 2026-06-18 21:58 |
-| mSupply | Machine Learning Engineer\| AI - US | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46b7a8d8a75a3102) | 2026-06-18 21:58 |
 | Gainwell Technologies LLC | Experienced Solution Architect | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7addd26aa01f45d) | 2026-06-18 21:58 |
 | Horizon Surgical Systems | Data Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f9c92b446fa7e41) | 2026-06-18 21:58 |
 | COLORADO SCHOOL OF MINES | Data Integration Engineer | Golden, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80e36579a37632f2) | 2026-06-18 21:58 |
