@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-18 16:53
+Last updated: 2026-06-18 19:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Data Engineer - Snowflake | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9616981e1f2836ce) | 2026-06-18 19:17 |
+| BKV Corporation | Senior Solutions Engineer | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a9d3ae64d2ffc86a) | 2026-06-18 19:17 |
+| Capgemini | GCP Python Data Engineer | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c4ec5924f2fb72de) | 2026-06-18 19:17 |
+| Vantage Data Centers | Senior Data Engineer, Global | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3a8a93ff78250e07) | 2026-06-18 19:17 |
+| Capgemini | GCP /Python Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7204d512f6fb7e2) | 2026-06-18 19:17 |
+| ICF | Full-Stack Developer – Websites (On Call - Remote) | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ca49d6a6128d3ac) | 2026-06-18 19:17 |
+| Stevens Transport | Senior Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ec5a3b6fdcf0fb47) | 2026-06-18 19:17 |
+| Versant | Sr. Site Reliability Engineer | Orlando, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=078bbf0fc22f4951) | 2026-06-18 19:17 |
+| IvoryCloud | ETL Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=210a28a4f5a7d059) | 2026-06-18 19:17 |
+| IvoryCloud | Senior Data Warehouse Specialist | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=94376982bbadef2c) | 2026-06-18 19:17 |
+| Wells Fargo | Senior Software Engineer (Req. #001109) | Iselin, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cf1c33a51cd10735) | 2026-06-18 19:17 |
+| Telit Wireless Solutions | UI Software Developer | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48589f399d5e9f07) | 2026-06-18 19:17 |
+| mSupply | Machine Learning Engineer\| AI - US | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46b7a8d8a75a3102) | 2026-06-18 19:17 |
+| REGARD | Data Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d8e6412b9b83a76) | 2026-06-18 19:17 |
+| REGARD | Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ccb3bea9b095d4ae) | 2026-06-18 19:17 |
+| Quantiphi | Associate Technical Architect - SD .Net | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db9f9b4a776fe557) | 2026-06-18 19:17 |
 | Ollion | Specialist Engineer- Data | Austin, TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=a967b71634e71edd) | 2026-06-18 16:53 |
 | Kepler22 LLC | Associate Software Engineer | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=dde168972f7d9f8a) | 2026-06-18 16:53 |
 | NorthStar Advisory | Data Engineer | St. Louis, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3cb780a0adb5f2e5) | 2026-06-18 16:53 |
@@ -407,7 +423,6 @@ Last updated: 2026-06-18 16:53
 | Chewy | Data Engineer II | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d25e28b9d0e31a69) | 2026-06-15 06:15 |
 | ValueBase Consulting | Data Engineer (AWS & Python) | Des Moines, IA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=204e1619685f0b7c) | 2026-06-15 00:02 |
 | Optum | Senior Solution Developer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6c823da42c3926a3) | 2026-06-14 21:00 |
-| JPMorganChase | Full Stack Python Engineer, Senior Associate | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc9571f04802a53b) | 2026-06-14 19:10 |
 
 
 ---
