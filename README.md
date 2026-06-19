@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-19 03:00
+Last updated: 2026-06-19 08:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charles Schwab | Software Engineer- Investment Research and Data | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2f71b2d395389103) | 2026-06-19 08:34 |
+| Bertrandt | Senior Cloud Platform Engineer | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=261057ab4b84e0de) | 2026-06-19 08:34 |
+| BizTech Fusion | ML Engineer ((GCP) – Finance Data & AI Platform) | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=08ee595f70e46b33) | 2026-06-19 08:34 |
+| nan | Senior Analytics Engineer (Data + BI) — Healthcare | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e342cff8300db11b) | 2026-06-19 08:34 |
+| hr@brxio.com | Power Automate - Contract | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=02612783f72a36f6) | 2026-06-19 08:34 |
+| Adobe | Senior Data Science Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a2b31f13d8496041) | 2026-06-19 08:34 |
+| Hermitage Info Tech Llc | Sr Snowflake/DWH/ETL Informatica Consultant | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb7813160ee888e4) | 2026-06-19 08:34 |
+| BlackRock | Associate, Software Engineer, Applications | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=956dc941dad64afb) | 2026-06-19 08:34 |
+| Comcast | Data Engineer 3 - Reston, VA - Freewheel | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24d54b28b92ef5c9) | 2026-06-19 08:34 |
+| American Family Insurance | Senior Data Engineer (Hybrid) | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef9add9193adcfdd) | 2026-06-19 08:34 |
+| JLL | DevFinOps Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84a584e2ae5c7382) | 2026-06-19 08:34 |
+| BECU | Sr. Software Engineer - AI Innovation Team | WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=893eebcde0f6a410) | 2026-06-19 08:34 |
 | BV Teck | Hadoop Developer | Remote, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=bdecfd54adac1039) | 2026-06-19 03:00 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=55aa01c630cde774) | 2026-06-19 03:00 |
 | BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=89409de13fc01583) | 2026-06-19 03:00 |
@@ -515,7 +527,6 @@ Last updated: 2026-06-19 03:00
 | Capgemini | GCP Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=abd68b0031f7b250) | 2026-06-15 12:58 |
 | Objectways Technologies | Python-AI_ML-GenAI- Senior Engineer | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c1f451b2d6561869) | 2026-06-15 12:58 |
 | Instacart | Senior Software Engineer, Data Governance & Foundations | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=50dcbfff992c7b48) | 2026-06-15 12:58 |
-| Chewy | Data Engineer II | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d25e28b9d0e31a69) | 2026-06-15 06:15 |
 
 
 ---
