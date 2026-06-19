@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-19 12:41
+Last updated: 2026-06-19 15:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| UnitedHealthcare | Senior Data Engineer | Eden Prairie, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=60c093da65d37212) | 2026-06-19 15:56 |
+| Chuwa America | Data Engineer/Database Administrator_ (Only W2) | Bellevue, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=adac783343467c24) | 2026-06-19 15:56 |
+| Wellmark Blue Cross and Blue Shield | Senior Software Engineer - Information Products Team | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=59625199b42cb5da) | 2026-06-19 15:56 |
+| Convey | Senior Software Engineer - LSP | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=46e5e7f505da6aea) | 2026-06-19 15:56 |
+| nan | Product Software Engineer I | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c5d705afdfcef3f) | 2026-06-19 15:56 |
 | Thermo Fisher Scientific | Sr. Developer | MA, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=3a73d712d100166c) | 2026-06-19 12:41 |
 | Optum | Senior Software Engineer | Brentwood, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d6a583130162de58) | 2026-06-19 12:41 |
 | CVS Health | Digital Provider Software Development Engineer | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c8e58013e22bddb4) | 2026-06-19 12:41 |
@@ -532,11 +537,6 @@ Last updated: 2026-06-19 12:41
 | Eli Lilly | Engineer - MLOps & Scientific Platforms - Data Foundry | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d8fe151d5009e163) | 2026-06-15 17:59 |
 | LPL Financial | Senior API Engineer (Python / AWS) | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4f878ef67cdc8cf7) | 2026-06-15 17:59 |
 | DailyPay Inc | Senior Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df14fd351162190b) | 2026-06-15 17:59 |
-| TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=617f19a79feb89ac) | 2026-06-15 12:58 |
-| JPMorganChase | Data Visualization Senior Associate - Home Lending Data & Analytics | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7b6aec0750240018) | 2026-06-15 12:58 |
-| Capgemini | GCP Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=abd68b0031f7b250) | 2026-06-15 12:58 |
-| Objectways Technologies | Python-AI_ML-GenAI- Senior Engineer | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c1f451b2d6561869) | 2026-06-15 12:58 |
-| Instacart | Senior Software Engineer, Data Governance & Foundations | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=50dcbfff992c7b48) | 2026-06-15 12:58 |
 
 
 ---
