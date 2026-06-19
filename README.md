@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-19 15:56
+Last updated: 2026-06-19 17:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Senior Data Scientist - Remote | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a42ad39cb3a040ff) | 2026-06-19 17:49 |
+| project44 | Senior Software Engineer - LSP | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d185ef3015154b1f) | 2026-06-19 17:49 |
+| APLOMB Technologies | Senior Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45738cf915b51235) | 2026-06-19 17:49 |
+| Roadrunner | Data Engineer | Downers Grove, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02fed8f682ea9929) | 2026-06-19 17:49 |
+| Cloud and Things | Integration Developer - (8+ years w Java/Spring Boot Framework) | Brooklyn, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ef55b38d756ce85) | 2026-06-19 17:49 |
 | UnitedHealthcare | Senior Data Engineer | Eden Prairie, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=60c093da65d37212) | 2026-06-19 15:56 |
 | Chuwa America | Data Engineer/Database Administrator_ (Only W2) | Bellevue, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=adac783343467c24) | 2026-06-19 15:56 |
 | Wellmark Blue Cross and Blue Shield | Senior Software Engineer - Information Products Team | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=59625199b42cb5da) | 2026-06-19 15:56 |
