@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-19 08:34
+Last updated: 2026-06-19 12:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Thermo Fisher Scientific | Sr. Developer | MA, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=3a73d712d100166c) | 2026-06-19 12:41 |
+| Optum | Senior Software Engineer | Brentwood, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d6a583130162de58) | 2026-06-19 12:41 |
+| CVS Health | Digital Provider Software Development Engineer | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c8e58013e22bddb4) | 2026-06-19 12:41 |
+| JPMorganChase | Backend Java Software Engineer III | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9251732e66580bb6) | 2026-06-19 12:41 |
+| Blackhawk Network | Sr. Software Engineer | Pleasanton, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b3ee41a8c52420bf) | 2026-06-19 12:41 |
+| CVS Health | Senior Software Development Engineer (Site Reliability) | Scottsdale, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56047e794a998d7c) | 2026-06-19 12:41 |
+| CVS Health | Senior Software Development Engineer (Site Reliability) | Northbrook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=728e137e29293bde) | 2026-06-19 12:41 |
+| CVS Health | Senior Software Development Engineer (Site Reliability) | Richardson, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=297ddc2108f979e1) | 2026-06-19 12:41 |
+| New York Life | Senior Associate - Enterprise Intelligence Analytics Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f738fb7e1c97b094) | 2026-06-19 12:41 |
+| New York Life | Senior Associate - Senior Associate, Analytics Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e6fe876bea05203) | 2026-06-19 12:41 |
 | Charles Schwab | Software Engineer- Investment Research and Data | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2f71b2d395389103) | 2026-06-19 08:34 |
 | Bertrandt | Senior Cloud Platform Engineer | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=261057ab4b84e0de) | 2026-06-19 08:34 |
 | BizTech Fusion | ML Engineer ((GCP) – Finance Data & AI Platform) | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=08ee595f70e46b33) | 2026-06-19 08:34 |
