@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-19 21:02
+Last updated: 2026-06-19 22:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McKesson | Sr. Associate, Site Reliability Engineering | Irving, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1d58654d97d98c4a) | 2026-06-19 22:44 |
+| McKesson | Sr. Software Engineer | Irving, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f2637106dd2c7c5c) | 2026-06-19 22:44 |
+| EXL Service | Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=372d6a67c10b163b) | 2026-06-19 22:44 |
+| Grainger | Data Engineer III | Lake Forest, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da3c07885d8b3693) | 2026-06-19 22:44 |
+| Intellisoft Technologies | Senior Data Engineer | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8c473d3620c861ac) | 2026-06-19 22:44 |
+| Blue Learning | Data Engineer | Lewisville, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1e8db13fab29835e) | 2026-06-19 22:44 |
+| GCON Inc | BI Developer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9b57204f314618a) | 2026-06-19 22:44 |
 | J&B Medical | DevOps Engineer - IN PERSON - WIXOM MI | Wixom, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b2db67e76b3a6ec5) | 2026-06-19 21:02 |
 | Diverse Agile Solutions | Senior IT Big Data Developer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6a6a3f2e51311a48) | 2026-06-19 21:02 |
 | Triade Flevoland | Consultant — System Integration & MDM | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d22f323af4989133) | 2026-06-19 21:02 |
