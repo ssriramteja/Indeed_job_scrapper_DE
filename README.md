@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-19 17:49
+Last updated: 2026-06-19 19:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| UDR | Senior Data Platform Engineer | Highlands Ranch, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1fb77bd035c0b222) | 2026-06-19 19:26 |
 | Optum | Senior Data Scientist - Remote | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a42ad39cb3a040ff) | 2026-06-19 17:49 |
 | project44 | Senior Software Engineer - LSP | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d185ef3015154b1f) | 2026-06-19 17:49 |
 | APLOMB Technologies | Senior Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45738cf915b51235) | 2026-06-19 17:49 |
@@ -531,17 +532,6 @@ Last updated: 2026-06-19 17:49
 | EY | Databricks Data Engineer - Senior - Consulting - Location OPEN | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4f330adaec1c495e) | 2026-06-15 20:46 |
 | Capgemini | Data Engineer - Azure, Databricks | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4cd7bc7854e61f88) | 2026-06-15 20:46 |
 | Databricks | Lakebase Sales Specialist-MFG | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a58245b44978dc16) | 2026-06-15 20:46 |
-| Fustis LLC | Senior Big Data Developer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d11a857f86418907) | 2026-06-15 17:59 |
-| Eli Lilly | Software Engineer, AI & Clinical Applications | Indianapolis, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=afc93472e6a09eb2) | 2026-06-15 17:59 |
-| UnitedHealthcare | Data Engineer - Remote | Minnetonka, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f023a5570dfcdab7) | 2026-06-15 17:59 |
-| Millicom | Ingeniero SR de Herramientas de Datos | Mora, LA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4de52afff18be3da) | 2026-06-15 17:59 |
-| Eli Lilly | Data Architect, Data Foundry | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=41a54aeef7c675fb) | 2026-06-15 17:59 |
-| Eli Lilly | Advisor - Data Architect, Data Foundry | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2c0373d1531b5796) | 2026-06-15 17:59 |
-| Techster IT Services | Site AI Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3e422f581c3da41) | 2026-06-15 17:59 |
-| Availity, LLC. | Application Support Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=027585aac274810e) | 2026-06-15 17:59 |
-| Eli Lilly | Engineer - MLOps & Scientific Platforms - Data Foundry | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d8fe151d5009e163) | 2026-06-15 17:59 |
-| LPL Financial | Senior API Engineer (Python / AWS) | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4f878ef67cdc8cf7) | 2026-06-15 17:59 |
-| DailyPay Inc | Senior Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df14fd351162190b) | 2026-06-15 17:59 |
 
 
 ---
