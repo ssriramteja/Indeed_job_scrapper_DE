@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-19 19:26
+Last updated: 2026-06-19 21:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| J&B Medical | DevOps Engineer - IN PERSON - WIXOM MI | Wixom, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b2db67e76b3a6ec5) | 2026-06-19 21:02 |
+| Diverse Agile Solutions | Senior IT Big Data Developer | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6a6a3f2e51311a48) | 2026-06-19 21:02 |
+| Triade Flevoland | Consultant — System Integration & MDM | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d22f323af4989133) | 2026-06-19 21:02 |
+| Magnaflow | Database Developer | Oceanside, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3505e51fdb71a895) | 2026-06-19 21:02 |
+| Salesforce | Data Engineer (SMTS / LMTS) - MDM | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50844673569c1fb8) | 2026-06-19 21:02 |
+| Global Payments | Full Stack Developer -In office, Alpharetta, GA | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=789775eb6e130995) | 2026-06-19 21:02 |
+| LTIMindtree | Data Engineer | Marysville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c9c434dda73e4155) | 2026-06-19 21:02 |
+| Capgemini | Platform Engineer SOW198 Datahub Platform | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fab0a2c9cd2208f) | 2026-06-19 21:02 |
 | UDR | Senior Data Platform Engineer | Highlands Ranch, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1fb77bd035c0b222) | 2026-06-19 19:26 |
 | Optum | Senior Data Scientist - Remote | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a42ad39cb3a040ff) | 2026-06-19 17:49 |
 | project44 | Senior Software Engineer - LSP | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d185ef3015154b1f) | 2026-06-19 17:49 |
@@ -504,34 +512,6 @@ Last updated: 2026-06-19 19:26
 | Fidelity Investments | Senior Site Reliability Engineer | Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88e56d3a3b1f5f32) | 2026-06-15 22:57 |
 | Nebius | Azure Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=31f00e6c0725b88e) | 2026-06-15 22:57 |
 | Cognizant | Senior Solutions Architect (Microservices & Event-Driven Platforms) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7618d6a6e8a161c3) | 2026-06-15 22:57 |
-| Ollion | Delivery Engineer - Data | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=445761cb9a4d745b) | 2026-06-15 20:46 |
-| Cardinal Health | Data/AI Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1a2ad5c9440bf6f4) | 2026-06-15 20:46 |
-| Velir | Senior Data and Analytics Engineer (Hybrid) | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e06ff1e4f7c4be37) | 2026-06-15 20:46 |
-| Velir | Senior Data and Analytics Engineer (Hybrid) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f0afe24b56752f5e) | 2026-06-15 20:46 |
-| Velir | Senior Data and Analytics Engineer (Hybrid) | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2fac56f9c738b06f) | 2026-06-15 20:46 |
-| Velir | Senior Data and Analytics Engineer (Hybrid) | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=705c948fee159e46) | 2026-06-15 20:46 |
-| Capgemini | GCP Cloud Architect | Bridgewater, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e132f20ebda73040) | 2026-06-15 20:46 |
-| NTT DATA | Data Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4d72a782e1d37555) | 2026-06-15 20:46 |
-| Heritage Construction + Materials | Data Engineer - Databricks (No Sponsorship Available) | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ac337d846258b00f) | 2026-06-15 20:46 |
-| Vertiv | Full Stack Developer (React) | Westerville, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=81c8bd0e76c2eafa) | 2026-06-15 20:46 |
-| Travelers | Senior Software Engineer - Enterprise AI Products | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=83d2add02c5d6a67) | 2026-06-15 20:46 |
-| AbbVie | Senior Engineer, Applied AI & Engineering Platforms | North Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7772b1f0bcb3a34f) | 2026-06-15 20:46 |
-| NTT DATA | DevOps Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15f01adfcabdb36b) | 2026-06-15 20:46 |
-| LiveRamp | Senior Big Data Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=315e465df1337d36) | 2026-06-15 20:46 |
-| spire | Software Engineer - RFGL Systems | Boulder, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4182e14591bf9062) | 2026-06-15 20:46 |
-| Vertiv | AI / ML Platform Engineer | Westerville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=62f90292ebb892f9) | 2026-06-15 20:46 |
-| nan | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7aa2706b744b073) | 2026-06-15 20:46 |
-| WPP | Solutions Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3786b5f0ad1a17e8) | 2026-06-15 20:46 |
-| Capgemini | Senior Tool / Platform Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f32d27ff410b6716) | 2026-06-15 20:46 |
-| The Cincinnati Insurance Companies | IT - Developer II - IV (Remote) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3c8fa791c147f481) | 2026-06-15 20:46 |
-| NTT DATA | SDET Consultant | Brookfield, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6636661aa7abd3c3) | 2026-06-15 20:46 |
-| Cisco | Data Engineer | Research Triangle Park, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac67a8cdebaece5b) | 2026-06-15 20:46 |
-| Neomax | Systems Engineer | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b27c4c94d4bb1096) | 2026-06-15 20:46 |
-| EY | Databricks Data Engineer - Senior - Consulting - Miami | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8b3acf52fb0bcdd6) | 2026-06-15 20:46 |
-| Databricks | Sr. Solutions Architect - Public Sector (LEAPS) | MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3b11dc54127b1ef5) | 2026-06-15 20:46 |
-| EY | Databricks Data Engineer - Senior - Consulting - Location OPEN | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4f330adaec1c495e) | 2026-06-15 20:46 |
-| Capgemini | Data Engineer - Azure, Databricks | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4cd7bc7854e61f88) | 2026-06-15 20:46 |
-| Databricks | Lakebase Sales Specialist-MFG | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a58245b44978dc16) | 2026-06-15 20:46 |
 
 
 ---
