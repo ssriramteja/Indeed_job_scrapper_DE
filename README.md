@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-20 11:08
+Last updated: 2026-06-20 13:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Codoxo | Data Engineer- Full Time Opportunity, NOT C2C | Duluth, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=780ec295f6bacdf5) | 2026-06-20 13:29 |
 | JPMorganChase | Software Engineer III - AWS Glue / Data Engineer | Irvine, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4944b59a58404b8f) | 2026-06-20 11:08 |
 | CVS Health | Machine Learning Engineer | IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6c2d8e205af354cd) | 2026-06-20 11:08 |
 | Intone Networks | Sr Fullstack Developer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e08b28ff2bdfcb80) | 2026-06-20 11:08 |
@@ -483,17 +484,6 @@ Last updated: 2026-06-20 11:08
 | Stradit | Looker & Quicksight Admin | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=14fc862e5d3c6940) | 2026-06-16 17:55 |
 | Frontline Education | Senior Software Engineer I or II- Data Platform | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e00fbc81ded39bdf) | 2026-06-16 17:55 |
 | Otoe Missouria Group | Cloud Engineer (AWS) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b2bbecc8dae238d3) | 2026-06-16 17:55 |
-| LG Ad Solutions | Senior Software Engineer, Measurement & Reporting | New York, NY, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=43e6726a3896fe03) | 2026-06-16 12:04 |
-| nan | Co-Founder & Database Engineer | Bellevue, WA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=b3136af621d112cd) | 2026-06-16 12:04 |
-| Bounteous | Databricks Solution Architect | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2337ec4ff54764f0) | 2026-06-16 12:04 |
-| Ideas2IT | ML Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=58202b65be5a1bb5) | 2026-06-16 12:04 |
-| Primoris Services Corporation | Databricks Senior Architect | TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e6748d22408c01a3) | 2026-06-16 12:04 |
-| Dynatrace | Sr Data Engineer | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e40e1e6f5dca3a9f) | 2026-06-16 12:04 |
-| NTT DATA | Digital Site Reliability Sr Engg. | Memphis, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=43a12edd3543ad18) | 2026-06-16 12:04 |
-| NYU Langone Health | Senior Cloud Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d04a3373d05f9f44) | 2026-06-16 12:04 |
-| Jaggaer | Cloud Engineer | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7169dd4a9327364) | 2026-06-16 12:04 |
-| CVS Health | Software Development Engineer | Farmers Branch, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1f1fbccd2f80abc) | 2026-06-16 12:04 |
-| Association of Universities for Research in Astronomy | Senior Software Engineer | HI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=009b9d64b783c574) | 2026-06-16 12:04 |
 
 
 ---
