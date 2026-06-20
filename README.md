@@ -1,11 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-20 00:01
+Last updated: 2026-06-20 05:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Data Engineer C1 | Bellevue, WA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=bd7a10fab4aead6b) | 2026-06-20 05:04 |
+| EXL Service | Sr. Feature Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b8442abf91777c1a) | 2026-06-20 05:04 |
+| IntelliLink Technologies | Software Production Support Engineer | Princeton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=416511572a3a38ba) | 2026-06-20 05:04 |
+| Arc Technologies Group | Cloud Engineer | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af690b2327755c54) | 2026-06-20 05:04 |
+| EXL Service | Jr. Feature Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6a3a9fd6adbb852f) | 2026-06-20 05:04 |
+| nan | Fabric Platform Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3c7b8660e24dfc38) | 2026-06-20 05:04 |
+| RAZR Marketing, Inc. | Senior AWS Cloud Engineer | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7fde30b21f3e7647) | 2026-06-20 05:04 |
+| Molex | Technical Architect | Lisle, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=461471cb36992ab7) | 2026-06-20 05:04 |
+| BlackRock | Associate | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=54b42443ee3c4437) | 2026-06-20 05:04 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Des Moines, IA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bc4bd1d0f1519ea1) | 2026-06-20 05:04 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cf3f2dbb3812e475) | 2026-06-20 05:04 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Lincoln, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eeb8ab90439d98b8) | 2026-06-20 05:04 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea6ecf773d8deb21) | 2026-06-20 05:04 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Kearney, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1d8f5634d6f6d76) | 2026-06-20 05:04 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Grand Island, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2ccaa9de6cb6d799) | 2026-06-20 05:04 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Overland Park, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=47d6b37f8d80d085) | 2026-06-20 05:04 |
+| Caterpillar | Data Engineer, Cat Digital Data & AI | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=826181dbe0e126ae) | 2026-06-20 05:04 |
+| Atrium Health | IT Data Solutions Developer - Intermediate | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c5097ade3e79b6c) | 2026-06-20 05:04 |
+| Mayo Clinic | Senior Software Engineer - Hybrid | Rochester, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4c67eab5c67331a9) | 2026-06-20 05:04 |
+| loanDepot | Senior Cloud Solutions Engineer | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=275de5114fc3f721) | 2026-06-20 05:04 |
+| NTT DATA | Shopify Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bc5601c059bd73a) | 2026-06-20 05:04 |
 | McKesson | Sr. Associate, Site Reliability Engineering | Irving, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1d58654d97d98c4a) | 2026-06-19 22:44 |
 | McKesson | Sr. Software Engineer | Irving, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f2637106dd2c7c5c) | 2026-06-19 22:44 |
 | EXL Service | Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=372d6a67c10b163b) | 2026-06-19 22:44 |
@@ -491,19 +512,6 @@ Last updated: 2026-06-20 00:01
 | Rochester Regional Health | Data Architect | Rochester, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0ef994aa063803e) | 2026-06-16 06:26 |
 | Association of Universities for Research in Astronomy | Senior Software Engineer | HI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea84ae0bf135a727) | 2026-06-16 06:26 |
 | Atlas Travel & Technology Group, Inc. | Senior DevSecOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1d1a20831f41bca) | 2026-06-16 06:26 |
-| IKS Health | Senior Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=1a12a261b9e6a632) | 2026-06-16 00:26 |
-| NTT DATA | Data Engineer - Hybrid | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0d5ad316f0925858) | 2026-06-16 00:26 |
-| Lockheed Martin | AI Machine Learning Engineer | Bethesda, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=407650b6fa832e4b) | 2026-06-16 00:26 |
-| Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fc40f95617fae929) | 2026-06-16 00:26 |
-| signitives IT Solutions | Data Engineer – GCP | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6a567e58b2e46721) | 2026-06-16 00:26 |
-| Frontline Education | Senior Software Engineer I & II - Platform, Identity | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ac1575e4dc7d31dc) | 2026-06-16 00:26 |
-| Frontline Education | Senior Software Engineer I or II- Data Platform | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=893d5e6eb990356d) | 2026-06-16 00:26 |
-| NavitasPartners | Data Engineer | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a2017737c2d0bf38) | 2026-06-16 00:26 |
-| Capgemini | Solution Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8cc9c15fd9f327ad) | 2026-06-16 00:26 |
-| CSG | Operational Engineer II | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e6cb5b5519b1508) | 2026-06-16 00:26 |
-| Axon | Software Engineer II, Cloud Engineering | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5535a7227c62c60b) | 2026-06-16 00:26 |
-| Capgemini | Data Engineer - Azure, Databricks | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb5a8c81763658a8) | 2026-06-16 00:26 |
-| Texas Comptroller of Public Accounts | GLO - Senior Data Engineer (Programmer V) | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b3e9f76b8e11395) | 2026-06-16 00:26 |
 
 
 ---
