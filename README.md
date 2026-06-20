@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-20 05:04
+Last updated: 2026-06-20 08:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bounteous | Senior Databricks Engineer | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=f289865d551fa1a3) | 2026-06-20 08:41 |
+| Bounteous | Senior Snowflake Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cf016976f76e7f0a) | 2026-06-20 08:41 |
+| Vasa Fitness | Senior Software Engineer | Englewood, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ee3a253ea4b50de) | 2026-06-20 08:41 |
 | Capgemini | Data Engineer C1 | Bellevue, WA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=bd7a10fab4aead6b) | 2026-06-20 05:04 |
 | EXL Service | Sr. Feature Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b8442abf91777c1a) | 2026-06-20 05:04 |
 | IntelliLink Technologies | Software Production Support Engineer | Princeton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=416511572a3a38ba) | 2026-06-20 05:04 |
@@ -484,34 +487,6 @@ Last updated: 2026-06-20 05:04
 | Jaggaer | Cloud Engineer | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7169dd4a9327364) | 2026-06-16 12:04 |
 | CVS Health | Software Development Engineer | Farmers Branch, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1f1fbccd2f80abc) | 2026-06-16 12:04 |
 | Association of Universities for Research in Astronomy | Senior Software Engineer | HI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=009b9d64b783c574) | 2026-06-16 12:04 |
-| Prodapt Solutions | Business Intelligence Analyst | Portland, OR, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=d3c843452e183915) | 2026-06-16 06:26 |
-| nan | DevOps Engineer | Louisville, KY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=6c6519ef075cdcd8) | 2026-06-16 06:26 |
-| Nova Web Technologies | Data Engineer (Palantir Foundry + TypeScript) | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=36ee9522c44ebe65) | 2026-06-16 06:26 |
-| Regeneron | Senior Developer - Research and Development | Tarrytown, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dfed31703370bf21) | 2026-06-16 06:26 |
-| savantys solutions | Data Engineer (Databricks / Spark) | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7a88bae140fdb8d9) | 2026-06-16 06:26 |
-| HHAeXchange | Platform Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=af21378ee051eb56) | 2026-06-16 06:26 |
-| Lazer | Senior Infrastructure/ DevOps Engineer, Fintech | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e1782bdcb28d52c8) | 2026-06-16 06:26 |
-| Vynca | Site Reliability Engineer | San Mateo, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=77837a031fc53f9f) | 2026-06-16 06:26 |
-| CVS Health | Associate Cloud Data Engineer ( SQL , Python , ETL, Cloud ) | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04316e8a847eb128) | 2026-06-16 06:26 |
-| Magpie Health Analytics | DevSecOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae1aa5ffe62a0a2d) | 2026-06-16 06:26 |
-| Cognizant | Senior Full Stack Developer – Java & Spring Boot and Angular (Hybrid) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=486cc12b5b77f742) | 2026-06-16 06:26 |
-| Cognizant | Senior Full Stack Developer – Java & Spring Boot and Angular(Hybrid) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07c86f48f87c65a4) | 2026-06-16 06:26 |
-| Citizens | Data Management Specialist | Johnston, RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fcb73c05264420df) | 2026-06-16 06:26 |
-| BMG360 | Agentic Solutions Engineer | Shelton, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5585f87e4193e6a) | 2026-06-16 06:26 |
-| NYU Langone Health | Senior Cloud Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c1c9f0a5349817ae) | 2026-06-16 06:26 |
-| Monks | Senior DevOps Engineer | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e28f968a50a71646) | 2026-06-16 06:26 |
-| Monks | Senior DevOps Engineer | Cupertino, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d3009a7e9a55c62) | 2026-06-16 06:26 |
-| Monks | Senior DevOps Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b8b21c3d1ca0b67) | 2026-06-16 06:26 |
-| Cognizant | Senior Backend Java Engineer (Microservices & Kafka) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1f21cc269f972fa3) | 2026-06-16 06:26 |
-| Cognizant | Senior Backend Java Engineer (Microservices & Kafka) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a03b545f1650339) | 2026-06-16 06:26 |
-| Photon | QA Automation - Plano, TX | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d328429d08cb4a5) | 2026-06-16 06:26 |
-| Hyosung | Manufacturing Data Architect | Memphis, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2c2d36d7fdf653b) | 2026-06-16 06:26 |
-| Aritzia | Digital - Senior Data Engineer / Data Engineer, Digital Technology | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4183e5f7054ce4c5) | 2026-06-16 06:26 |
-| Coloplast | Data Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6916823099c42d89) | 2026-06-16 06:26 |
-| Global Partners LP | Analytics Engineer | Waltham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76d360efd4d04f3c) | 2026-06-16 06:26 |
-| Rochester Regional Health | Data Architect | Rochester, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0ef994aa063803e) | 2026-06-16 06:26 |
-| Association of Universities for Research in Astronomy | Senior Software Engineer | HI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea84ae0bf135a727) | 2026-06-16 06:26 |
-| Atlas Travel & Technology Group, Inc. | Senior DevSecOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1d1a20831f41bca) | 2026-06-16 06:26 |
 
 
 ---
