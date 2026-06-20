@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-20 21:04
+Last updated: 2026-06-20 22:58
 
 ### 🚀 Daily Job Matches
 
@@ -445,22 +445,6 @@ Last updated: 2026-06-20 21:04
 | Bayer | Data Analyst | Creve Coeur, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79969044de77605a) | 2026-06-17 00:10 |
 | Capgemini | Ab Initio Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=329cce0cc21f01c1) | 2026-06-17 00:10 |
 | Carnival Cruise Line | Full Stack Web Developer, Fuel Performance & Decarbonization | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b01aaa96bfc055c) | 2026-06-17 00:10 |
-| Penn Mutual | Senior Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=bb438bd3c8e9afd7) | 2026-06-16 22:49 |
-| Program Management Solutions | Ruby on Rails Engineer | Baltimore, MD, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=51965b97284dee62) | 2026-06-16 22:49 |
-| Tata Consultancy Services (TCS) | Full Stack Engineer | Irving, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a06c99225161e1ab) | 2026-06-16 22:49 |
-| Optimus Health Analytics | Data Engineer | Bronx, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4b9c73bd92ec32bb) | 2026-06-16 22:49 |
-| Visibol | Software Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=82b0ee3ccd5cda5d) | 2026-06-16 22:49 |
-| Tata Consultancy Services (TCS) | Engineer | Addison, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e78837301757164c) | 2026-06-16 22:49 |
-| Mike Albert Leasing, Inc | Sr. Site Reliability Engineer | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5b10fbdd189c8206) | 2026-06-16 22:49 |
-| Mojo Family of Brands | Junior Full Stack Data Engineer | Alcoa, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1b317dade1a4e740) | 2026-06-16 22:49 |
-| AKUNA CAPITAL | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cc6681b1e5ed6ead) | 2026-06-16 22:49 |
-| RADIX INTERNATIONAL CONSULTING | MuleSoft Consultant | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=151dfd13a3d3fb99) | 2026-06-16 22:49 |
-| Dentsu | Sr. Data Engineer | MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=489f25c5230f04c5) | 2026-06-16 22:49 |
-| ASSA ABLOY Group | Sr. Data Governance Engineer | New Haven, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1f812d27f7580652) | 2026-06-16 22:49 |
-| American Airlines | Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=46bb1265645f6218) | 2026-06-16 22:49 |
-| eClinical Solutions, LLC | Senior Data Engineer | Mansfield, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1df8e9d2986ffdcc) | 2026-06-16 22:49 |
-| The Hartford | Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af85563e825137c3) | 2026-06-16 22:49 |
-| Tra'Bian Enterprises | Azure DevOps Engineer & Administrator | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=658850a071f96269) | 2026-06-16 22:49 |
 
 
 ---
