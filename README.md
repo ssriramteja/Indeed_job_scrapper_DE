@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-20 13:29
+Last updated: 2026-06-20 15:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Fabric Platform Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b1831e001122e4d) | 2026-06-20 15:29 |
 | Codoxo | Data Engineer- Full Time Opportunity, NOT C2C | Duluth, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=780ec295f6bacdf5) | 2026-06-20 13:29 |
 | JPMorganChase | Software Engineer III - AWS Glue / Data Engineer | Irvine, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4944b59a58404b8f) | 2026-06-20 11:08 |
 | CVS Health | Machine Learning Engineer | IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6c2d8e205af354cd) | 2026-06-20 11:08 |
