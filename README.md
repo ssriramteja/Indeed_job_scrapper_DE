@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-20 08:41
+Last updated: 2026-06-20 11:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III - AWS Glue / Data Engineer | Irvine, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4944b59a58404b8f) | 2026-06-20 11:08 |
+| CVS Health | Machine Learning Engineer | IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6c2d8e205af354cd) | 2026-06-20 11:08 |
+| Intone Networks | Sr Fullstack Developer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e08b28ff2bdfcb80) | 2026-06-20 11:08 |
+| JPMorganChase | Software Engineer III - Data, AWS, ETL, Java/Python, | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d97244cd7329e73) | 2026-06-20 11:08 |
+| JPMorganChase | Software Engineer III - Python/PySpark/AWS | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7758e2775271790b) | 2026-06-20 11:08 |
+| Attain Finance | Senior Site Reliability Engineer | Greenville, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb4fd37f5d5683cc) | 2026-06-20 11:08 |
+| JPMorganChase | WFP Senior Data Scientist | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=644f70485107abbe) | 2026-06-20 11:08 |
 | Bounteous | Senior Databricks Engineer | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=f289865d551fa1a3) | 2026-06-20 08:41 |
 | Bounteous | Senior Snowflake Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cf016976f76e7f0a) | 2026-06-20 08:41 |
 | Vasa Fitness | Senior Software Engineer | Englewood, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ee3a253ea4b50de) | 2026-06-20 08:41 |
