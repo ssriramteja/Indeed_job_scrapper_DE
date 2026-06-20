@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-20 19:10
+Last updated: 2026-06-20 21:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 7-Eleven | Fresh Food QA Technician | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4195bab3d9303fad) | 2026-06-20 21:04 |
 | nan | Full Stack Developer React/ Java/ Python | Middletown, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d29d621da3e9a4ef) | 2026-06-20 17:16 |
 | nan | Fabric Platform Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b1831e001122e4d) | 2026-06-20 15:29 |
 | Codoxo | Data Engineer- Full Time Opportunity, NOT C2C | Duluth, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=780ec295f6bacdf5) | 2026-06-20 13:29 |
@@ -460,17 +461,6 @@ Last updated: 2026-06-20 19:10
 | eClinical Solutions, LLC | Senior Data Engineer | Mansfield, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1df8e9d2986ffdcc) | 2026-06-16 22:49 |
 | The Hartford | Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af85563e825137c3) | 2026-06-16 22:49 |
 | Tra'Bian Enterprises | Azure DevOps Engineer & Administrator | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=658850a071f96269) | 2026-06-16 22:49 |
-| UnitedHealthcare | Software Engineer | Omaha, NE, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d0d3a6f7a359f862) | 2026-06-16 20:39 |
-| Blue Cross Blue Shield | Data Engineer (AI/ML) | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c16f06452db6a0f0) | 2026-06-16 20:39 |
-| TECHNOLOGENT | Senior Cassandra Database Engineer | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a1c8c2058057ef3c) | 2026-06-16 20:39 |
-| American Institutes for Research | Data Engineer Associate | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=57ff148546ca71ca) | 2026-06-16 20:39 |
-| Booz Allen Hamilton | ML Administrator | Doral, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=60de930626b03451) | 2026-06-16 20:39 |
-| LTIMindtree | Senior Data Engineer | Marysville, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6aeea00b4604b283) | 2026-06-16 20:39 |
-| Databricks | Forward Deployed Engineer - FDE (Fullstack) - Digital Native Business | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e2bd7502c607488) | 2026-06-16 20:39 |
-| Capgemini | AWS Devops - AOM | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b7b33dd94cf4d6d3) | 2026-06-16 20:39 |
-| ARMADA | Data Engineer | Wexford, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bec0e3cae26d6c7f) | 2026-06-16 20:39 |
-| INTRAFI | Software Architect (Java, AWS, & AI) | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b35823372d99142) | 2026-06-16 20:39 |
-| Capgemini | Ab Initio Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f1d1d8b402f1a5e3) | 2026-06-16 20:39 |
 
 
 ---
