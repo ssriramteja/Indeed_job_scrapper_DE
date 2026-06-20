@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-20 17:16
+Last updated: 2026-06-20 19:10
 
 ### 🚀 Daily Job Matches
 
@@ -471,21 +471,6 @@ Last updated: 2026-06-20 17:16
 | ARMADA | Data Engineer | Wexford, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bec0e3cae26d6c7f) | 2026-06-16 20:39 |
 | INTRAFI | Software Architect (Java, AWS, & AI) | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b35823372d99142) | 2026-06-16 20:39 |
 | Capgemini | Ab Initio Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f1d1d8b402f1a5e3) | 2026-06-16 20:39 |
-| AAA The Auto Club Group | Applications Consultant | MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=904c19f690af9670) | 2026-06-16 17:55 |
-| Ellipsis Health | Senior Data Platform Engineer | San Francisco, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=791f6ef1e634abe3) | 2026-06-16 17:55 |
-| Tyson Foods Incorporated | Senior IT Data Engineer - Python/SQL (Onsite) | Springdale, AR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=350b75002f62845f) | 2026-06-16 17:55 |
-| Vantage Data Centers | Senior Data Engineer, Global | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e3db9298181de6d4) | 2026-06-16 17:55 |
-| Vantage Data Centers | Senior Data Engineer, Global | CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8e5216b64d140d5e) | 2026-06-16 17:55 |
-| Public Storage | Senior Software Engineer | Frisco, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=806890b9c74306d9) | 2026-06-16 17:55 |
-| CarMax | Engineer II, Data | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d27cedf4e30a5878) | 2026-06-16 17:55 |
-| CarMax | Engineer II, Data | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=81630a7975019375) | 2026-06-16 17:55 |
-| Signifyd | Senior Software Engineer, Cloud Platform | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bf19cbf47cdf97d9) | 2026-06-16 17:55 |
-| Frontline Education | Senior Software Engineer I & II - Platform, Identity | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1a94bccdecb17d2) | 2026-06-16 17:55 |
-| Wellington Management | Senior Software Engineer | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cfe1b53272b4fe0d) | 2026-06-16 17:55 |
-| Stradit | Looker & Quicksight Admin | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50b38fe2a532eb0d) | 2026-06-16 17:55 |
-| Stradit | Looker & Quicksight Admin | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=14fc862e5d3c6940) | 2026-06-16 17:55 |
-| Frontline Education | Senior Software Engineer I or II- Data Platform | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e00fbc81ded39bdf) | 2026-06-16 17:55 |
-| Otoe Missouria Group | Cloud Engineer (AWS) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b2bbecc8dae238d3) | 2026-06-16 17:55 |
 
 
 ---
