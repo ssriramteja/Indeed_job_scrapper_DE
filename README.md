@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-21 05:53
+Last updated: 2026-06-21 09:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Camden Property Trust | Microsoft Fabric Engineer \| Camden Corporate Office | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-21 09:36 |
+| Ingram Micro | Software Engineer - AI | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=da688748068d58e3) | 2026-06-21 09:36 |
 | HCLTech | Full Stack Java Technical Specialist - React.js | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=86a514b2ddb169b4) | 2026-06-21 05:53 |
 | LTIMindtree | Specialist - Data Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4405fe7120dba5a) | 2026-06-21 05:53 |
 | 7-Eleven | Fresh Food QA Technician | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4195bab3d9303fad) | 2026-06-20 21:04 |
@@ -416,27 +418,6 @@ Last updated: 2026-06-21 05:53
 | Litera | Software Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96177e962e8cc454) | 2026-06-17 11:28 |
 | Arizona Public Service (APS) | Data Scientist / Data Scientist, Senior | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48779fae100c0244) | 2026-06-17 11:28 |
 | Edgewater Federal Solutions | Solutions Architect 4 | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3dfc48a9ef7a026) | 2026-06-17 11:28 |
-| Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | US USA | 29.9% | [Apply](https://www.indeed.com/viewjob?jk=a78e7dca5038b723) | 2026-06-17 06:01 |
-| Bitus Labs LLC | Senior Data Engineer (Chinese Mandarin Speaker) | Irvine, CA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=38690ace7c9a024c) | 2026-06-17 06:01 |
-| Navitus Health Solutions / Lumicera Health Services | Engineer, Development Operations - Archimedes | US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=03af74475287b0ba) | 2026-06-17 06:01 |
-| Navitus Health Solutions / Lumicera Health Services | Engineer, Cloud - Archimedes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=351fc9ced107d0b6) | 2026-06-17 06:01 |
-| Caterpillar | Data Engineer | Peoria, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6c524210e9570a9a) | 2026-06-17 06:01 |
-| Family Dollar | Integration Engineer | Chesapeake, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7aa38d65a2e3ff72) | 2026-06-17 06:01 |
-| Tailored Brands | Sr Full Stack Customer Data Developer | Dublin, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cdc517f42c43516c) | 2026-06-17 06:01 |
-| CCC Intelligent Solutions | Senior Data Engineers | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cf338e67f727fc56) | 2026-06-17 06:01 |
-| Navitus Health Solutions / Lumicera Health Services | Engineer, Data Integration - Archimedes | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bb61f925af04493f) | 2026-06-17 06:01 |
-| Epsilon | Software Engineer | Westminster, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4983335721888ff) | 2026-06-17 06:01 |
-| Radiant Logistics | Cloud DevAI Ops Engineer | Renton, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0af3939a216a2d74) | 2026-06-17 06:01 |
-| Intellivo | Senior Data Engineer | Memphis, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af7d8d9f65b102c2) | 2026-06-17 06:01 |
-| ADM | Software Engineer - Chicago, IL | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b1773eff14944c55) | 2026-06-17 06:01 |
-| LVT (LiveView Technologies) | Senior SDET II | American Fork, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=805612b772f38e45) | 2026-06-17 06:01 |
-| PlayStation | Software Development Engineer in Test, ML/AI | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0092170302c322f0) | 2026-06-17 06:01 |
-| Restaurant Brands International | Sr. AI Enablement Engineer | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11c1ddb2ef420b3d) | 2026-06-17 06:01 |
-| HCLTech | Solution Architect - GenAI | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2127fb9204606d87) | 2026-06-17 06:01 |
-| Labcorp | Software Development Engineer III | Burlington, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=938814309f98f913) | 2026-06-17 06:01 |
-| nan | Senior Data Engineer (Azure and Databricks) | New Brunswick, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af43569fb68ff56a) | 2026-06-17 06:01 |
-| Oracle | Oracle Data Platform Multi-Cloud Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ff1ae859febc505) | 2026-06-17 06:01 |
-| Bitus Labs LLC | Data Analyst — Game Analytics (Chinese Mandarin Speaker) | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b6505d408020fe2) | 2026-06-17 06:01 |
 
 
 ---
