@@ -1,12 +1,61 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-21 19:16
+Last updated: 2026-06-21 21:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Camden Property Trust | Microsoft Fabric Engineer \| Camden Corporate Office | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-21 19:16 |
+| CVS Health | Sr. Software Development Engineer | AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=87befe694c7b985a) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | Irving, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=be71c50bf15a0668) | 2026-06-21 21:05 |
+| CVS Health | Cloud Engineer | RI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3437af494333f678) | 2026-06-21 21:05 |
+| CVS Health | Sr. Data Engineer | TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=54cb5839d7f1ff18) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | CT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0a852273f7c50ace) | 2026-06-21 21:05 |
+| Camden Property Trust | Microsoft Fabric Engineer \| Camden Corporate Office | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b23c16e9f7fa792e) | 2026-06-21 21:05 |
+| CVS Health | Sr. Data Engineer | TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ac9dc3219cfc4a0f) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2266c4dba2263dcf) | 2026-06-21 21:05 |
+| CVS Health | Sr. Data Engineer | RI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5c005a7e163f3e45) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | RI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2138ac157376b704) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | RI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=330a92d6908ce8a5) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | Richardson, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=957be306b670cbe5) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=113b681733f9747f) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=258440f6c426d01d) | 2026-06-21 21:05 |
+| CVS Health | Software Development Engineer | RI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8c56d229b10aedad) | 2026-06-21 21:05 |
+| CVS Health | Sr Software Development Engineer | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9d0cbcd1f68bbd17) | 2026-06-21 21:05 |
+| CVS Health | Sr. Data Engineer | MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dad2dad57da48016) | 2026-06-21 21:05 |
+| CVS Health | Associate Data Engineer | RI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0a30d714c22c8735) | 2026-06-21 21:05 |
+| CVS Health | Sr Data Engineer | RI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=668fd578e5ad205b) | 2026-06-21 21:05 |
+| CVS Health | Sr. Data Engineer | RI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1eaf063221a10b37) | 2026-06-21 21:05 |
+| CVS Health | Cloud Engineer | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0ce59f430b705383) | 2026-06-21 21:05 |
+| CVS Health | Sr. Cloud Engineer | RI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=afe0d6afd5890323) | 2026-06-21 21:05 |
+| CVS Health | Sr. Data Engineer | RI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce50156e09e284be) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6205d2f26b1a8bd9) | 2026-06-21 21:05 |
+| CVS Health | Sr. Data Engineer | RI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=da39ecae1ec3ea0f) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=24ae1753ad2a27d5) | 2026-06-21 21:05 |
+| CVS Health | Sr. Data Engineer | MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e96a792ded5789cd) | 2026-06-21 21:05 |
+| CVS Health | Sr. Data Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=53032a4f73d83e5c) | 2026-06-21 21:05 |
+| CVS Health | Sr. Cloud Engineer | RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f4919174f0cd9fd1) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=562e8a2839504d14) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a64bab937e1605b3) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c8efbd88a354542d) | 2026-06-21 21:05 |
+| CVS Health | Sr. Software Development Engineer | RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1479a392d9628a14) | 2026-06-21 21:05 |
+| CVS Health | Sr. Software Development Engineer | RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e185b13ff1bfe4c) | 2026-06-21 21:05 |
+| CVS Health | Sr. BI Engineer | AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b570e647466948e) | 2026-06-21 21:05 |
+| CVS Health | Sr. Data Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83344ad97f6d0723) | 2026-06-21 21:05 |
+| CVS Health | Sr Machine Learning Engineer | RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e2d6f5314015483d) | 2026-06-21 21:05 |
+| CVS Health | Sr Security Engineer | RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=975ac3cab8fe8b4d) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=684ac425090f80d4) | 2026-06-21 21:05 |
+| CVS Health | Sr Software Development Engineer | RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f36b69a2642649b) | 2026-06-21 21:05 |
+| CVS Health | Data Engineer | RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=576587c3beb8fa6e) | 2026-06-21 21:05 |
+| CVS Health | Sr. Data Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6c8e2f411bfd2f2d) | 2026-06-21 21:05 |
+| CVS Health | Sr. Cloud Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c50166ea86bb9965) | 2026-06-21 21:05 |
+| CVS Health | Software Development Engineer | MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b786d28f512935cf) | 2026-06-21 21:05 |
+| CVS Health | Quality Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5b71213ece018bb) | 2026-06-21 21:05 |
+| CVS Health | Sr Data Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e43322fd80b5294) | 2026-06-21 21:05 |
+| CVS Health | Sr. Software Development Engineer | RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=edf61855d4ab5e16) | 2026-06-21 21:05 |
+| CVS Health | Sr Software Development Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32f351a5adb8088f) | 2026-06-21 21:05 |
+| CVS Health | Senior Data Scientist | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b38ea20568618d5) | 2026-06-21 21:05 |
 | nan | Databricks Data Engineer | Aldie, VA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0215398446cd7f0b) | 2026-06-21 17:19 |
 | HCLTech | GCP Application Technical Specialist | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b49ae82a293e4f9) | 2026-06-21 17:19 |
 | nan | Sr Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed47cf62aeed008b) | 2026-06-21 15:06 |
@@ -360,20 +409,6 @@ Last updated: 2026-06-21 19:16
 | PlayStation | Senior Full Stack Software Engineer (Contract Role) | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f0edabd1040dd11) | 2026-06-17 22:04 |
 | Solventum | Advanced Software Architect (Remote - United States) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e39da103dc0a30b) | 2026-06-17 22:04 |
 | nan | Full Stack Developer | Branchburg, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e1bf3669af20ddd) | 2026-06-17 22:04 |
-| CPI Security | Senior Data Engineer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fbb6fa8346777685) | 2026-06-17 20:01 |
-| eBusiness Solutions Inc. | Senior MuleSoft Architect | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5a2933456811155d) | 2026-06-17 20:01 |
-| Atash Enterprises LLC | Senior MuleSoft Integration Developer | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=15a88924ef9fe1db) | 2026-06-17 20:01 |
-| Aureon | Data Architect | West Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2fbb9632408d5e35) | 2026-06-17 20:01 |
-| Brown Advisory | Canoe Platform Data / Integration Engineer | Baltimore, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8d5ac4383e90fa07) | 2026-06-17 20:01 |
-| Caterpillar | Senior Software Engineer | Peoria, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e64812442158df91) | 2026-06-17 20:01 |
-| Caterpillar | Software Engineer | Peoria, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1e7a63b818631ba0) | 2026-06-17 20:01 |
-| Western Union | Senior Architect, Software Engineering — Gateway Platform | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1df263ef60a18bdf) | 2026-06-17 20:01 |
-| Streamline Defense | ML Administrator | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d6229fcbca69a9f2) | 2026-06-17 20:01 |
-| nan | Data Engineer | Louisville, KY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea1e8505433b954b) | 2026-06-17 20:01 |
-| Motion | Software Engineer IV - Sales Domain (Java / Google Cloud) | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=612dbd60844ef3cc) | 2026-06-17 20:01 |
-| accrete | Senior DevOps Engineer, AI Platform | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=89c3141caec45eab) | 2026-06-17 20:01 |
-| Health Data Analytics Institute | Senior Cloud Engineer | Dedham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=366c81cd8f5e4e58) | 2026-06-17 20:01 |
-| Brown Advisory | Technical Architect, Integration Development | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d41ed71ea14382d) | 2026-06-17 20:01 |
 
 
 ---
