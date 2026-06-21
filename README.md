@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-21 00:04
+Last updated: 2026-06-21 05:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HCLTech | Full Stack Java Technical Specialist - React.js | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=86a514b2ddb169b4) | 2026-06-21 05:53 |
+| LTIMindtree | Specialist - Data Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4405fe7120dba5a) | 2026-06-21 05:53 |
 | 7-Eleven | Fresh Food QA Technician | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4195bab3d9303fad) | 2026-06-20 21:04 |
 | nan | Full Stack Developer React/ Java/ Python | Middletown, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d29d621da3e9a4ef) | 2026-06-20 17:16 |
 | nan | Fabric Platform Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b1831e001122e4d) | 2026-06-20 15:29 |
@@ -435,16 +437,6 @@ Last updated: 2026-06-21 00:04
 | nan | Senior Data Engineer (Azure and Databricks) | New Brunswick, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af43569fb68ff56a) | 2026-06-17 06:01 |
 | Oracle | Oracle Data Platform Multi-Cloud Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ff1ae859febc505) | 2026-06-17 06:01 |
 | Bitus Labs LLC | Data Analyst — Game Analytics (Chinese Mandarin Speaker) | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b6505d408020fe2) | 2026-06-17 06:01 |
-| DUO2 LLC | Data engineer | Minnesota City, MN, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=8d2f0e62d788eb2c) | 2026-06-17 00:10 |
-| Lennar | Sr Data Engineer | Miami, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c25c9deba0321e91) | 2026-06-17 00:10 |
-| Lockheed Martin | AI Machine Learning Engineer Sr. (mid-career) | Bethesda, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e592e82101f13d55) | 2026-06-17 00:10 |
-| VeeRteq Solutions Inc. | Data Engineer | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7df728be8d71a21c) | 2026-06-17 00:10 |
-| Rochester Regional Health | Software Developer - DevOps Engineer | Rochester, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=52267d9be69a9eef) | 2026-06-17 00:10 |
-| Rochester Regional Health | Software Developer - DevOps Engineer | Rochester, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50eb133c7651d099) | 2026-06-17 00:10 |
-| Indeed | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f23f48667102b94a) | 2026-06-17 00:10 |
-| Bayer | Data Analyst | Creve Coeur, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79969044de77605a) | 2026-06-17 00:10 |
-| Capgemini | Ab Initio Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=329cce0cc21f01c1) | 2026-06-17 00:10 |
-| Carnival Cruise Line | Full Stack Web Developer, Fuel Performance & Decarbonization | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b01aaa96bfc055c) | 2026-06-17 00:10 |
 
 
 ---
