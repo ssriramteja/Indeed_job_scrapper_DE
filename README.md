@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-21 09:36
+Last updated: 2026-06-21 12:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Camden Property Trust | Microsoft Fabric Engineer \| Camden Corporate Office | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-21 09:36 |
+| Camden Property Trust | Microsoft Fabric Engineer \| Camden Corporate Office | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-21 12:05 |
 | Ingram Micro | Software Engineer - AI | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=da688748068d58e3) | 2026-06-21 09:36 |
 | HCLTech | Full Stack Java Technical Specialist - React.js | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=86a514b2ddb169b4) | 2026-06-21 05:53 |
 | LTIMindtree | Specialist - Data Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4405fe7120dba5a) | 2026-06-21 05:53 |
@@ -403,21 +403,6 @@ Last updated: 2026-06-21 09:36
 | The Hartford | Senior Software Engineer - Quality | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7a77f7327e40f07c) | 2026-06-17 14:52 |
 | The Hartford | Senior Software Engineer - Quality | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e77d1040263feaf) | 2026-06-17 14:52 |
 | Moody's | Senior Software Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=162039f0a05caca1) | 2026-06-17 14:52 |
-| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Data - Archimedes | US USA | 30.6% | [Apply](https://www.indeed.com/viewjob?jk=42d62482ae7cddd2) | 2026-06-17 11:28 |
-| State Farm | Data Engineer | Bloomington, IL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=7934dbb22311939d) | 2026-06-17 11:28 |
-| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Development Operations - Archimedes | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=871f64414211ac77) | 2026-06-17 11:28 |
-| Cloudforce | Cloud Engineer - Data | National Harbor, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=582d2762175caa3d) | 2026-06-17 11:28 |
-| EchoStar | Senior Data Engineer | Littleton, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=99f33a43b908e634) | 2026-06-17 11:28 |
-| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Cloud - Archimedes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7cda1d43e4d0c490) | 2026-06-17 11:28 |
-| Navitus Health Solutions / Lumicera Health Services | Sr. Architect, Enterprise - Archimedes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f4967475cc257ea6) | 2026-06-17 11:28 |
-| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Software - Archimedes | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1cc9016a88e96d04) | 2026-06-17 11:28 |
-| Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=922392e2e4746be9) | 2026-06-17 11:28 |
-| Cognizant | Generative AI Developer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=28b48675e2894e6f) | 2026-06-17 11:28 |
-| HCLTech | AWS AI Architect | Hudson, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3db11b97dc614b82) | 2026-06-17 11:28 |
-| PlayStation | Software Development Engineer in Test, ML/AI | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6bcc722d28f0fd1) | 2026-06-17 11:28 |
-| Litera | Software Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96177e962e8cc454) | 2026-06-17 11:28 |
-| Arizona Public Service (APS) | Data Scientist / Data Scientist, Senior | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48779fae100c0244) | 2026-06-17 11:28 |
-| Edgewater Federal Solutions | Solutions Architect 4 | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3dfc48a9ef7a026) | 2026-06-17 11:28 |
 
 
 ---

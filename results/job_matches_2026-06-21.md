@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-06-21
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Data Engineer- Full Time Opportunity, NOT C2C @ Codoxo
-**Match Score:** 15.3%
-
-📍 **Location:** Duluth, GA, US USA
-
-🔑 **Keywords:** AWS, Glue, S3, IAM, RDS, Spark, PySpark, Scala, PostgreSQL, Dimensional Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=780ec295f6bacdf5)
-
----
-
-## 3. Full Stack Developer React/ Java/ Python @ nan
+## 2. Full Stack Developer React/ Java/ Python @ nan
 **Match Score:** 15.3%
 
 📍 **Location:** Middletown, NJ, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Software Engineer - AI @ Ingram Micro
+## 3. Software Engineer - AI @ Ingram Micro
 **Match Score:** 13.9%
 
 📍 **Location:** Irvine, CA, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Full Stack Java Technical Specialist - React.js @ HCLTech
+## 4. Full Stack Java Technical Specialist - React.js @ HCLTech
 **Match Score:** 13.2%
 
 📍 **Location:** Durham, NC, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Fabric Platform Engineer @ nan
+## 5. Fabric Platform Engineer @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Specialist - Data Engineering @ LTIMindtree
+## 6. Specialist - Data Engineering @ LTIMindtree
 **Match Score:** 10.4%
 
 📍 **Location:** Tampa, FL, US USA
