@@ -49,14 +49,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Fabric Platform Engineer @ nan
-**Match Score:** 11.8%
+## 5. Sr Product Software Engineer @ nan
+**Match Score:** 11.1%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Medallion Architecture, Spark, PySpark, Scala, Data Modeling, ETL
+🔑 **Keywords:** AWS, Kinesis, SQS, RDS, Azure, Scala, Kafka, Splunk, CI/CD, Jenkins
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7b1831e001122e4d)
+[Apply Here](https://www.indeed.com/viewjob?jk=ed47cf62aeed008b)
 
 ---
 

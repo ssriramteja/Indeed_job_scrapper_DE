@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-21 12:05
+Last updated: 2026-06-21 15:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Camden Property Trust | Microsoft Fabric Engineer \| Camden Corporate Office | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-21 12:05 |
+| Camden Property Trust | Microsoft Fabric Engineer \| Camden Corporate Office | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-21 15:06 |
+| nan | Sr Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed47cf62aeed008b) | 2026-06-21 15:06 |
 | Ingram Micro | Software Engineer - AI | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=da688748068d58e3) | 2026-06-21 09:36 |
 | HCLTech | Full Stack Java Technical Specialist - React.js | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=86a514b2ddb169b4) | 2026-06-21 05:53 |
 | LTIMindtree | Specialist - Data Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4405fe7120dba5a) | 2026-06-21 05:53 |
@@ -396,13 +397,6 @@ Last updated: 2026-06-21 12:05
 | sdq | Infrastructure Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ffd021f83c93fff) | 2026-06-17 17:45 |
 | Bealls Inc. | Associate Developer | Bradenton, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b3cc4c50738fa61) | 2026-06-17 17:45 |
 | NavitasPartners | Integration Developer (Java) - JIDEV 26-07339 | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfbf6df684aee028) | 2026-06-17 17:45 |
-| JPMorganChase | Data Visualization Senior Associate - Home Lending Data & Analytics | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f4af50f2bafbc222) | 2026-06-17 14:52 |
-| The Linux Foundation | Senior Cloud Operations Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0523d8a73b455a89) | 2026-06-17 14:52 |
-| The Hartford | Senior Software Engineer - Quality | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a50810716b56812) | 2026-06-17 14:52 |
-| The Hartford | Senior Software Engineer - Quality | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=463f4a84c24c11ac) | 2026-06-17 14:52 |
-| The Hartford | Senior Software Engineer - Quality | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7a77f7327e40f07c) | 2026-06-17 14:52 |
-| The Hartford | Senior Software Engineer - Quality | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e77d1040263feaf) | 2026-06-17 14:52 |
-| Moody's | Senior Software Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=162039f0a05caca1) | 2026-06-17 14:52 |
 
 
 ---
