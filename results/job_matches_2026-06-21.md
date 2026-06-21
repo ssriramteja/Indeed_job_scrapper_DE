@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-06-21
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Microsoft Fabric Engineer | Camden Corporate Office @ Camden Property Trust
+## 1. Databricks Data Engineer @ nan
+**Match Score:** 19.4%
+
+📍 **Location:** Aldie, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, Delta Live Tables, Photon, Spark, PySpark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0215398446cd7f0b)
+
+---
+
+## 2. Microsoft Fabric Engineer | Camden Corporate Office @ Camden Property Trust
 **Match Score:** 16.0%
 
 📍 **Location:** Houston, TX, US USA
@@ -13,17 +24,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Medallion Architecture, Dataflow, Spark, PySpark, Scala, SQL Server
 
 [Apply Here](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e)
-
----
-
-## 2. Full Stack Developer React/ Java/ Python @ nan
-**Match Score:** 15.3%
-
-📍 **Location:** Middletown, NJ, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Kafka, Oracle, PostgreSQL, MySQL, MongoDB, NoSQL, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d29d621da3e9a4ef)
 
 ---
 
@@ -49,7 +49,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Sr Product Software Engineer @ nan
+## 5. GCP Application Technical Specialist @ HCLTech
+**Match Score:** 11.8%
+
+📍 **Location:** FL, US USA
+
+🔑 **Keywords:** IAM, GCP, BigQuery, Scala, Kafka, NoSQL, CI/CD, Jenkins, Maven, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6b49ae82a293e4f9)
+
+---
+
+## 6. Sr Product Software Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Specialist - Data Engineering @ LTIMindtree
+## 7. Specialist - Data Engineering @ LTIMindtree
 **Match Score:** 10.4%
 
 📍 **Location:** Tampa, FL, US USA

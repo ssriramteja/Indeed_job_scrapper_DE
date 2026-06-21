@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-21 15:06
+Last updated: 2026-06-21 17:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Camden Property Trust | Microsoft Fabric Engineer \| Camden Corporate Office | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-21 15:06 |
+| nan | Databricks Data Engineer | Aldie, VA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0215398446cd7f0b) | 2026-06-21 17:19 |
+| Camden Property Trust | Microsoft Fabric Engineer \| Camden Corporate Office | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-21 17:19 |
+| HCLTech | GCP Application Technical Specialist | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b49ae82a293e4f9) | 2026-06-21 17:19 |
 | nan | Sr Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed47cf62aeed008b) | 2026-06-21 15:06 |
 | Ingram Micro | Software Engineer - AI | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=da688748068d58e3) | 2026-06-21 09:36 |
 | HCLTech | Full Stack Java Technical Specialist - React.js | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=86a514b2ddb169b4) | 2026-06-21 05:53 |
