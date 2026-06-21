@@ -1,17 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-21 21:05
+Last updated: 2026-06-21 23:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Camden Property Trust | Microsoft Fabric Engineer \| Camden Corporate Office | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-21 23:00 |
+| Markel Corporation | Senior Azure Data Engineer - State National | Bedford, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cb58a77c3b1339a) | 2026-06-21 23:00 |
 | CVS Health | Sr. Software Development Engineer | AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=87befe694c7b985a) | 2026-06-21 21:05 |
 | CVS Health | Data Engineer | Irving, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=be71c50bf15a0668) | 2026-06-21 21:05 |
 | CVS Health | Cloud Engineer | RI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3437af494333f678) | 2026-06-21 21:05 |
 | CVS Health | Sr. Data Engineer | TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=54cb5839d7f1ff18) | 2026-06-21 21:05 |
 | CVS Health | Data Engineer | CT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0a852273f7c50ace) | 2026-06-21 21:05 |
-| Camden Property Trust | Microsoft Fabric Engineer \| Camden Corporate Office | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-21 21:05 |
 | CVS Health | Data Engineer | TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b23c16e9f7fa792e) | 2026-06-21 21:05 |
 | CVS Health | Sr. Data Engineer | TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ac9dc3219cfc4a0f) | 2026-06-21 21:05 |
 | CVS Health | Data Engineer | NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2266c4dba2263dcf) | 2026-06-21 21:05 |
@@ -386,29 +387,6 @@ Last updated: 2026-06-21 21:05
 | JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea51c9c1feafe089) | 2026-06-18 00:08 |
 | datAvail | Senior Data Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bae8f41ca2bcca01) | 2026-06-18 00:08 |
 | KnowBe4 | Software Engineer Intern (Hybrid) | Clearwater, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dadf60f6511d26fa) | 2026-06-18 00:08 |
-| Versant | Senior Full Stack Engineer | Orlando, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=82bd622b5093a1e0) | 2026-06-17 22:04 |
-| Hunt Military Communities | Senior Full Stack Engineer | Alpharetta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5a3ae634771f2ca2) | 2026-06-17 22:04 |
-| Tata Consultancy Services (TCS) | Blockchain Java Backend Developer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c3f9fb6b17436490) | 2026-06-17 22:04 |
-| WesTech Engineering, LLC | Data Engineer | Salt Lake City, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ff9d72c37ab8ce9) | 2026-06-17 22:04 |
-| Buyers Edge Platform | Junior Developer - Python & Go | Waltham, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=173ef8abe0493c5a) | 2026-06-17 22:04 |
-| Visa | Data Engineer - Sr. Consultant level | Foster City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a36b85a7a883f151) | 2026-06-17 22:04 |
-| Visa | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b02d7e468d7513ac) | 2026-06-17 22:04 |
-| Tata Consultancy Services (TCS) | Databricks Developer | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea896dc6fd17cc57) | 2026-06-17 22:04 |
-| Merkle, Inc. | Sr. Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=669552ac14abe463) | 2026-06-17 22:04 |
-| Tata Consultancy Services (TCS) | Data Architect | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e5e31041a5ff01e) | 2026-06-17 22:04 |
-| Buyers Edge Platform | Tableau Data Architect | Waltham, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=46da1e8652df6dcf) | 2026-06-17 22:04 |
-| Imperial PFS | Analytics Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd58ffff39c916df) | 2026-06-17 22:04 |
-| The Hartford | Data Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd4c09f4dfc51429) | 2026-06-17 22:04 |
-| The Hartford | Data Engineer | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7abd08cb282d025e) | 2026-06-17 22:04 |
-| FlagStar Bank | BSA/AML Modeling Analyst | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=db3e11992e605627) | 2026-06-17 22:04 |
-| Stratus | Senior Data Architect (Hands on) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c050b08ab3289d5) | 2026-06-17 22:04 |
-| State Street | AI Engineer – GenAI & Agentic Systems (Officer) | Quincy, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f141152a08943a9a) | 2026-06-17 22:04 |
-| eSentire | Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=790560588950d4a1) | 2026-06-17 22:04 |
-| ProFocus | Data & Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c00f6c0c52409982) | 2026-06-17 22:04 |
-| Experian | Analytics Engineer (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d5759e4c33fa3eaf) | 2026-06-17 22:04 |
-| PlayStation | Senior Full Stack Software Engineer (Contract Role) | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f0edabd1040dd11) | 2026-06-17 22:04 |
-| Solventum | Advanced Software Architect (Remote - United States) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e39da103dc0a30b) | 2026-06-17 22:04 |
-| nan | Full Stack Developer | Branchburg, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e1bf3669af20ddd) | 2026-06-17 22:04 |
 
 
 ---
