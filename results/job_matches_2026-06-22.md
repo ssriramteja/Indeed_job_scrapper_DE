@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-06-22
 
-**Total Jobs Found:** 53
+**Total Jobs Found:** 71
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Databricks Data Engineer @ nan
-**Match Score:** 19.4%
-
-📍 **Location:** Aldie, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, Delta Live Tables, Photon, Spark, PySpark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0215398446cd7f0b)
-
----
-
-## 2. Sr. Software Development Engineer @ CVS Health
+## 1. Sr. Software Development Engineer @ CVS Health
 **Match Score:** 18.8%
 
 📍 **Location:** AZ, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Data Engineer @ CVS Health
+## 2. Data Engineer @ CVS Health
 **Match Score:** 17.4%
 
 📍 **Location:** Irving, TX, US USA
@@ -38,14 +27,25 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Platform Engineer @ nan
+## 3. AI/ML Engineer @ BDO
+**Match Score:** 17.4%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** AWS, Glue, Kinesis, Redshift, Athena, S3, RDS, Azure, Data Factory, Databricks
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2fe3e1ce3f976c6b)
+
+---
+
+## 4. Cloud Database Engineer @ Nomura
 **Match Score:** 16.7%
 
-📍 **Location:** US USA
+📍 **Location:** Philadelphia, PA, US USA
 
-🔑 **Keywords:** AWS, Azure, Google Cloud Platform, GCP, Scala, Oracle, SQL Server, PostgreSQL, MySQL, Cassandra
+🔑 **Keywords:** AWS, EMR, Redshift, S3, IAM, RDS, Scala, SQL Server, PostgreSQL, MySQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6b4d18e65e5f0b78)
+[Apply Here](https://www.indeed.com/viewjob?jk=1489cddaebca9c0c)
 
 ---
 
@@ -181,29 +181,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Sr Software Development Engineer @ CVS Health
-**Match Score:** 13.9%
+## 17. Distinguished Engineer @ Citizens
+**Match Score:** 14.6%
 
-📍 **Location:** TX, US USA
+📍 **Location:** Johnston, RI, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Hive, Oracle, MySQL, Cassandra, NoSQL
+🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, API Gateway, IAM, RDS, Scala, Kafka
 
-[Apply Here](https://www.indeed.com/viewjob?jk=9d0cbcd1f68bbd17)
-
----
-
-## 18. Sr. Data Engineer @ CVS Health
-**Match Score:** 13.9%
-
-📍 **Location:** MA, US USA
-
-🔑 **Keywords:** AWS, RDS, Hadoop, HDFS, Spark, PySpark, Scala, Kafka, MySQL, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dad2dad57da48016)
+[Apply Here](https://www.indeed.com/viewjob?jk=513e4c068f57c27c)
 
 ---
 
-## 19. Software Development Engineer @ CVS Health
+## 18. Senior Full Stack Software Engineer @ Optum
+**Match Score:** 14.6%
+
+📍 **Location:** Basking Ridge, NJ, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, API Gateway, ECS, RDS, Scala, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8e317b647d670c88)
+
+---
+
+## 19. Software Engineer Associate - Full Stack (ETF Focused) @ Nomura
+**Match Score:** 14.6%
+
+📍 **Location:** Philadelphia, PA, US USA
+
+🔑 **Keywords:** AWS, Lambda, Redshift, S3, SQS, SNS, RDS, Scala, Snowflake, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=af2f21ad2271e214)
+
+---
+
+## 20. Software Development Engineer @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** RI, US USA
@@ -214,7 +225,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Associate Data Engineer @ CVS Health
+## 21. Sr Software Development Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Hive, Oracle, MySQL, Cassandra, NoSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9d0cbcd1f68bbd17)
+
+---
+
+## 22. Sr. Data Engineer @ CVS Health
+**Match Score:** 13.9%
+
+📍 **Location:** MA, US USA
+
+🔑 **Keywords:** AWS, RDS, Hadoop, HDFS, Spark, PySpark, Scala, Kafka, MySQL, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dad2dad57da48016)
+
+---
+
+## 23. Agentic AI Engineer II - Cyber Analytics @ American Express
+**Match Score:** 13.2%
+
+📍 **Location:** Phoenix, AZ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Spark, Scala, Kafka, NoSQL, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=705011c4830be681)
+
+---
+
+## 24. Associate Data Engineer @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** RI, US USA
@@ -225,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Sr Data Engineer @ CVS Health
+## 25. Sr Data Engineer @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** RI, US USA
@@ -236,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Sr. Data Engineer @ CVS Health
+## 26. Sr. Data Engineer @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** RI, US USA
@@ -247,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Cloud Engineer @ CVS Health
+## 27. Cloud Engineer @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** Hartford, CT, US USA
@@ -258,7 +302,51 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Sr. Cloud Engineer @ CVS Health
+## 28. Systems Engineer @ Gray Operations Group, Inc.
+**Match Score:** 13.2%
+
+📍 **Location:** Aberdeen, MD, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3dac14b064b52504)
+
+---
+
+## 29. Full Stack Java Developer @ COTOC LLC
+**Match Score:** 13.2%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, S3, Scala, Oracle, SQL Server, PostgreSQL, MongoDB, NoSQL, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f8b0a9b3e3d1d545)
+
+---
+
+## 30. Software Engineer Associate - Full Stack @ Nomura
+**Match Score:** 13.2%
+
+📍 **Location:** Philadelphia, PA, US USA
+
+🔑 **Keywords:** AWS, Lambda, Redshift, S3, SQS, SNS, RDS, Scala, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ab09e0090bf42cf7)
+
+---
+
+## 31. AWS Cloud Engineer - Storage Specialist @ Nomura
+**Match Score:** 12.5%
+
+📍 **Location:** Philadelphia, PA, US USA
+
+🔑 **Keywords:** AWS, S3, IAM, RDS, Cloud Storage, Scala, CI/CD, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b5184de3aab6b232)
+
+---
+
+## 32. Sr. Cloud Engineer @ CVS Health
 **Match Score:** 12.5%
 
 📍 **Location:** RI, US USA
@@ -269,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Sr. Data Engineer @ CVS Health
+## 33. Sr. Data Engineer @ CVS Health
 **Match Score:** 12.5%
 
 📍 **Location:** RI, US USA
@@ -280,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Data Engineer @ CVS Health
+## 34. Data Engineer @ CVS Health
 **Match Score:** 12.5%
 
 📍 **Location:** Irving, TX, US USA
@@ -291,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Sr. Data Engineer @ CVS Health
+## 35. Sr. Data Engineer @ CVS Health
 **Match Score:** 12.5%
 
 📍 **Location:** RI, US USA
@@ -302,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. SENIOR PYTHON DEVELOPER @ nan
+## 36. SENIOR PYTHON DEVELOPER @ nan
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -313,7 +401,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Data Engineer @ CVS Health
+## 37. Website Developer (4+ Yrs.) @ Bluestage
+**Match Score:** 12.5%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, SQL Server, PostgreSQL, MySQL, MongoDB, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=76195dce425feed6)
+
+---
+
+## 38. Data Engineer @ CVS Health
 **Match Score:** 12.5%
 
 📍 **Location:** Irving, TX, US USA
@@ -324,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Sr. Data Engineer @ CVS Health
+## 39. Sr. Data Engineer @ CVS Health
 **Match Score:** 11.8%
 
 📍 **Location:** MA, US USA
@@ -335,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Sr. Data Engineer @ CVS Health
+## 40. Sr. Data Engineer @ CVS Health
 **Match Score:** 11.8%
 
 📍 **Location:** TX, US USA
@@ -346,7 +445,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Sr. Cloud Engineer @ CVS Health
+## 41. Data Engineer @ Seurat Technologies
+**Match Score:** 11.8%
+
+📍 **Location:** Wilmington, MA, US USA
+
+🔑 **Keywords:** Kinesis, Redshift, S3, RDS, Databricks, Photon, BigQuery, Scala, Kafka, Snowflake
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e1efe0d50d8101c2)
+
+---
+
+## 42. Sr. Cloud Engineer @ CVS Health
 **Match Score:** 11.8%
 
 📍 **Location:** RI, US USA
@@ -357,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Data Engineer @ CVS Health
+## 43. Data Engineer @ CVS Health
 **Match Score:** 11.8%
 
 📍 **Location:** Irving, TX, US USA
@@ -368,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Data Engineer @ CVS Health
+## 44. Data Engineer @ CVS Health
 **Match Score:** 11.8%
 
 📍 **Location:** MA, US USA
@@ -379,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Data Engineer @ CVS Health
+## 45. Data Engineer @ CVS Health
 **Match Score:** 11.8%
 
 📍 **Location:** TX, US USA
@@ -390,18 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Sr. Software Development Engineer @ CVS Health
-**Match Score:** 11.8%
-
-📍 **Location:** RI, US USA
-
-🔑 **Keywords:** AWS, RDS, HBase, Spark, Kafka, Oracle, MySQL, NoSQL, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5e185b13ff1bfe4c)
-
----
-
-## 37. Sr. Software Development Engineer @ CVS Health
+## 46. Sr. Software Development Engineer @ CVS Health
 **Match Score:** 11.8%
 
 📍 **Location:** RI, US USA
@@ -412,7 +511,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Sr. BI Engineer @ CVS Health
+## 47. Sr. Software Development Engineer @ CVS Health
+**Match Score:** 11.8%
+
+📍 **Location:** RI, US USA
+
+🔑 **Keywords:** AWS, RDS, HBase, Spark, Kafka, Oracle, MySQL, NoSQL, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5e185b13ff1bfe4c)
+
+---
+
+## 48. Sr. BI Engineer @ CVS Health
 **Match Score:** 11.1%
 
 📍 **Location:** AZ, US USA
@@ -423,7 +533,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Sr. Data Engineer @ CVS Health
+## 49. Associate - Data Engineer @ Nomura
+**Match Score:** 11.1%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** RDS, Dataflow, Snowflake, Oracle, SQL Server, Data Modeling, ETL, ELT, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d897690a96d924bc)
+
+---
+
+## 50. Sr. Data Engineer @ CVS Health
 **Match Score:** 11.1%
 
 📍 **Location:** TX, US USA
@@ -434,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Sr Machine Learning Engineer @ CVS Health
+## 51. Sr Machine Learning Engineer @ CVS Health
 **Match Score:** 11.1%
 
 📍 **Location:** RI, US USA
@@ -445,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Sr Security Engineer @ CVS Health
+## 52. Sr Security Engineer @ CVS Health
 **Match Score:** 11.1%
 
 📍 **Location:** RI, US USA
@@ -456,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Data Engineer @ CVS Health
+## 53. Data Engineer @ CVS Health
 **Match Score:** 11.1%
 
 📍 **Location:** RI, US USA
@@ -467,7 +588,73 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Sr Software Development Engineer @ CVS Health
+## 54. Data Engineer @ PrizePicks
+**Match Score:** 10.4%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, Kafka, ETL, ELT, dbt, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8c328c7448124caa)
+
+---
+
+## 55. Data Engineer @ PrizePicks
+**Match Score:** 10.4%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, Kafka, ETL, ELT, dbt, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=03a2f833ade47dc6)
+
+---
+
+## 56. Data Engineer @ PrizePicks
+**Match Score:** 10.4%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, Kafka, ETL, ELT, dbt, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6a05c65027f02540)
+
+---
+
+## 57. Data Engineer @ PrizePicks
+**Match Score:** 10.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, Kafka, ETL, ELT, dbt, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cea857b2446e2cf4)
+
+---
+
+## 58. Data Engineer @ PrizePicks
+**Match Score:** 10.4%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, Kafka, ETL, ELT, dbt, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f98a7522f331ea86)
+
+---
+
+## 59. Data Engineer @ PrizePicks
+**Match Score:** 10.4%
+
+📍 **Location:** Miami, FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, Kafka, ETL, ELT, dbt, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=55fa1a739f4dfcad)
+
+---
+
+## 60. Sr Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** RI, US USA
@@ -478,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Data Engineer @ CVS Health
+## 61. Data Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** RI, US USA
@@ -489,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Sr. Data Engineer @ CVS Health
+## 62. Sr. Data Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -500,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Senior Azure Data Engineer - State National @ Markel Corporation
+## 63. Senior Azure Data Engineer - State National @ Markel Corporation
 **Match Score:** 10.4%
 
 📍 **Location:** Bedford, TX, US USA
@@ -511,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Sr. Cloud Engineer @ CVS Health
+## 64. Sr. Cloud Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -522,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Software Development Engineer @ CVS Health
+## 65. Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** MA, US USA
@@ -533,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Quality Engineer @ CVS Health
+## 66. Quality Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -544,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Sr Data Engineer @ CVS Health
+## 67. Sr Data Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -555,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Sr. Software Development Engineer @ CVS Health
+## 68. Sr. Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** RI, US USA
@@ -566,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Sr Software Development Engineer @ CVS Health
+## 69. Sr Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -577,14 +764,25 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Senior Data Scientist @ CVS Health
+## 70. Sr Software Engineer I - Java - Ace Studio Platform @ American Express
 **Match Score:** 10.4%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Sunrise, FL, US USA
 
-🔑 **Keywords:** AWS, RDS, Hive, MySQL, Cassandra, NoSQL, Data Modeling, Tableau, Docker, Kubernetes
+🔑 **Keywords:** AWS, HBase, Spark, Kafka, Cassandra, Jenkins, Maven, Docker, Kubernetes, Jenkins
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3b38ea20568618d5)
+[Apply Here](https://www.indeed.com/viewjob?jk=61154a8efcdc6de3)
+
+---
+
+## 71. Information Protection Senior Advisor - (Cloud Vulnerability Management) @ The Cigna Group
+**Match Score:** 10.4%
+
+📍 **Location:** Bloomington, MN, US USA
+
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Scala, CI/CD, Jenkins, Docker, Kubernetes, Jenkins, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=59fa7e96028f2f89)
 
 ---
 

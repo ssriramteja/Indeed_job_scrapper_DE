@@ -1,11 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-22 14:27
+Last updated: 2026-06-22 18:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BDO | AI/ML Engineer | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2fe3e1ce3f976c6b) | 2026-06-22 18:40 |
+| Nomura | Cloud Database Engineer | Philadelphia, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1489cddaebca9c0c) | 2026-06-22 18:40 |
+| Citizens | Distinguished Engineer | Johnston, RI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=513e4c068f57c27c) | 2026-06-22 18:40 |
+| Optum | Senior Full Stack Software Engineer | Basking Ridge, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8e317b647d670c88) | 2026-06-22 18:40 |
+| Nomura | Software Engineer Associate - Full Stack (ETF Focused) | Philadelphia, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=af2f21ad2271e214) | 2026-06-22 18:40 |
+| American Express | Agentic AI Engineer II - Cyber Analytics | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=705011c4830be681) | 2026-06-22 18:40 |
+| Gray Operations Group, Inc. | Systems Engineer | Aberdeen, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3dac14b064b52504) | 2026-06-22 18:40 |
+| COTOC LLC | Full Stack Java Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f8b0a9b3e3d1d545) | 2026-06-22 18:40 |
+| Nomura | Software Engineer Associate - Full Stack | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ab09e0090bf42cf7) | 2026-06-22 18:40 |
+| Nomura | AWS Cloud Engineer - Storage Specialist | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b5184de3aab6b232) | 2026-06-22 18:40 |
+| Bluestage | Website Developer (4+ Yrs.) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=76195dce425feed6) | 2026-06-22 18:40 |
+| Seurat Technologies | Data Engineer | Wilmington, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e1efe0d50d8101c2) | 2026-06-22 18:40 |
+| Nomura | Associate - Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d897690a96d924bc) | 2026-06-22 18:40 |
+| PrizePicks | Data Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c328c7448124caa) | 2026-06-22 18:40 |
+| PrizePicks | Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03a2f833ade47dc6) | 2026-06-22 18:40 |
+| PrizePicks | Data Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a05c65027f02540) | 2026-06-22 18:40 |
+| PrizePicks | Data Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cea857b2446e2cf4) | 2026-06-22 18:40 |
+| PrizePicks | Data Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f98a7522f331ea86) | 2026-06-22 18:40 |
+| PrizePicks | Data Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55fa1a739f4dfcad) | 2026-06-22 18:40 |
+| American Express | Sr Software Engineer I - Java - Ace Studio Platform | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61154a8efcdc6de3) | 2026-06-22 18:40 |
+| The Cigna Group | Information Protection Senior Advisor - (Cloud Vulnerability Management) | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59fa7e96028f2f89) | 2026-06-22 18:40 |
 | nan | SENIOR PYTHON DEVELOPER | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=25e80cbc986d4ce6) | 2026-06-22 14:27 |
 | nan | Platform Engineer | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6b4d18e65e5f0b78) | 2026-06-22 08:49 |
 | Markel Corporation | Senior Azure Data Engineer - State National | Bedford, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cb58a77c3b1339a) | 2026-06-21 23:00 |
@@ -258,19 +279,6 @@ Last updated: 2026-06-22 14:27
 | REGARD | Data Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d8e6412b9b83a76) | 2026-06-18 19:17 |
 | REGARD | Data Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ccb3bea9b095d4ae) | 2026-06-18 19:17 |
 | Quantiphi | Associate Technical Architect - SD .Net | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db9f9b4a776fe557) | 2026-06-18 19:17 |
-| Ollion | Specialist Engineer- Data | Austin, TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=a967b71634e71edd) | 2026-06-18 16:53 |
-| Kepler22 LLC | Associate Software Engineer | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=dde168972f7d9f8a) | 2026-06-18 16:53 |
-| NorthStar Advisory | Data Engineer | St. Louis, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3cb780a0adb5f2e5) | 2026-06-18 16:53 |
-| nan | Professional Services Consultant | Louisville, KY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a103a483832a643b) | 2026-06-18 16:53 |
-| Optum | Quality Engineer | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dd72966a9cf0f195) | 2026-06-18 16:53 |
-| Ginkgo BioWorks | Senior Software Engineer, Autonomous Lab | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7be02d1647d171ab) | 2026-06-18 16:53 |
-| rSTAR Technologies | Sr. Fullstack Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b9e0222ee1ad2ca4) | 2026-06-18 16:53 |
-| Colgate-Palmolive | Machine Learning Engineer (174332) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eca1a5640b3249e8) | 2026-06-18 16:53 |
-| Creative Information Technology India | Databricks Migration Engineer – Hybrid- Laurel, MD | Falls Church, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b0f8b1a3c45c2297) | 2026-06-18 16:53 |
-| Six Feet Up Inc. | Senior Data Engineer | Windermere, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1f51e7d95dba89e) | 2026-06-18 16:53 |
-| XoriantːUS | Sr. Software Engineer | Edison, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebfd4178b2db6eeb) | 2026-06-18 16:53 |
-| EisnerAmper | AI Solution Architect | Iselin, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20cd86556e8fae62) | 2026-06-18 16:53 |
-| CloudSecurityweb | SQL Server Developer | Rancho Cucamonga, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48fa998d6825ef93) | 2026-06-18 16:53 |
 
 
 ---
