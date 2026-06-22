@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-21 23:00
+Last updated: 2026-06-22 02:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Camden Property Trust | Microsoft Fabric Engineer \| Camden Corporate Office | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-21 23:00 |
+| Camden Property Trust | Microsoft Fabric Engineer \| Camden Corporate Office | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-22 02:50 |
 | Markel Corporation | Senior Azure Data Engineer - State National | Bedford, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cb58a77c3b1339a) | 2026-06-21 23:00 |
 | CVS Health | Sr. Software Development Engineer | AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=87befe694c7b985a) | 2026-06-21 21:05 |
 | CVS Health | Data Engineer | Irving, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=be71c50bf15a0668) | 2026-06-21 21:05 |
@@ -371,22 +371,6 @@ Last updated: 2026-06-21 23:00
 | Deloitte | Project Delivery Senior Analyst - API & Azure DevOps Developer - Remote | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75fa0e025deb7ffa) | 2026-06-18 05:29 |
 | PlayStation | Senior Full Stack Software Engineer (Contract Role) | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94d9392fb73f5bb3) | 2026-06-18 05:29 |
 | Mastercard | Site Reliability Engineer II | O'Fallon, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=030ed8e9753c3192) | 2026-06-18 05:29 |
-| McKesson | Senior Data Engineer | Irving, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b22a15a4ec114479) | 2026-06-18 00:08 |
-| Walgreens | Senior Software Engineer II | Deerfield, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=09394d29337f2aa6) | 2026-06-18 00:08 |
-| Alignment Healthcare | AI Automation Engineer | Orange, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d876dbf0ef129abd) | 2026-06-18 00:08 |
-| NTT DATA | Digital Site Reliability Sr Engineer - Remote | Memphis, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=02dd332b5bab760b) | 2026-06-18 00:08 |
-| WorkCog | AI Engineer - Senior | Comfort, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f795da03d0dac54f) | 2026-06-18 00:08 |
-| Solifi | Senior Software Engineer | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=babc3334dbca037a) | 2026-06-18 00:08 |
-| JPMorganChase | Analytics Solutions Associate Senior - DART | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28c45d7cba759cd0) | 2026-06-18 00:08 |
-| FreshDirect | Senior Data Engineer | Bronx, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b5a95adb8844b24) | 2026-06-18 00:08 |
-| nan | AI Engineer | Davie, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f453eb1bd89d09d) | 2026-06-18 00:08 |
-| Sigma Computing | Forward Deployed Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2a69480e4fa81c61) | 2026-06-18 00:08 |
-| Zayo Group | Data Analytics Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c02c2c6f52869df) | 2026-06-18 00:08 |
-| Sumter Electric Cooperative, Inc | Grid Data Analyst | Sumterville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a0d8ee680ad7a2b) | 2026-06-18 00:08 |
-| Experian | Analytics Engineer (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d94eaa0b111276c) | 2026-06-18 00:08 |
-| JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea51c9c1feafe089) | 2026-06-18 00:08 |
-| datAvail | Senior Data Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bae8f41ca2bcca01) | 2026-06-18 00:08 |
-| KnowBe4 | Software Engineer Intern (Hybrid) | Clearwater, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dadf60f6511d26fa) | 2026-06-18 00:08 |
 
 
 ---
