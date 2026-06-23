@@ -1,11 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-23 13:37
+Last updated: 2026-06-23 16:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Liberty Mutual Insurance | Senior Full Stack Software Engineer - Claims Technology | Indianapolis, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4fd3b089b8e85de9) | 2026-06-23 16:21 |
+| Liberty Mutual Insurance | Senior Full Stack Software Engineer - Claims Technology | Plano, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=047ca970efc97204) | 2026-06-23 16:21 |
+| Liberty Mutual Insurance | Senior Full Stack Software Engineer - Claims Technology | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a768e6f7c8f1f47f) | 2026-06-23 16:21 |
+| Liberty Mutual Insurance | Senior Full Stack Software Engineer - Claims Technology | Portsmouth, NH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c64b08e271f522f6) | 2026-06-23 16:21 |
+| Liberty Mutual Insurance | Senior Full Stack Software Engineer - Claims Technology | Boston, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=26fefc6c4e81a9d3) | 2026-06-23 16:21 |
+| Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=34d52a48551c1790) | 2026-06-23 16:21 |
+| Syngenta | Senior Data Engineer | Durham, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ea54597079589d42) | 2026-06-23 16:21 |
+| nan | Data Engineer II | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5edf6d865535d8fc) | 2026-06-23 16:21 |
+| Rysun labs | Data Technical Architect | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=43d82f1543437048) | 2026-06-23 16:21 |
+| Derex Technologies inc | Databricks Architect with P&C | Michigan City, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f2920f81c9f2b0e5) | 2026-06-23 16:21 |
+| CRYOPORT SYSTEMS | Senior DevOps Engineer - Contingent | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a8dc6c2590850a50) | 2026-06-23 16:21 |
+| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7488931bef280ccd) | 2026-06-23 16:21 |
+| Regions Financial | Cloud DevSecOps Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f4c94314064b7f8f) | 2026-06-23 16:21 |
+| nan | Data Engineer | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=230f2097d39a709c) | 2026-06-23 16:21 |
+| nan | Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2cfab581c91ff74c) | 2026-06-23 16:21 |
+| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1eedaa2000347db1) | 2026-06-23 16:21 |
+| IQVIA | Senior Software Engineer | Red Bank, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05fc6cb7a47df4b7) | 2026-06-23 16:21 |
+| Intuit | Senior Software Engineer, Payments | Mountain View, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3572e441b7b83887) | 2026-06-23 16:21 |
+| Axon Networks | Web Application Engineer (Irvine, US) | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f78a4c688172469a) | 2026-06-23 16:21 |
 | eClerx | Site Reliability / DevOps Engineer | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=daa7abd37eec3291) | 2026-06-23 13:37 |
 | Franciscan Health | Data Analytics Engineer | Mishawaka, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=04e2255548fb7bbc) | 2026-06-23 10:28 |
 | Databricks | Sr. Forward Deployed Engineer (FDE)- Manufacturing | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de0ec3a9fcc76260) | 2026-06-23 10:28 |
@@ -237,11 +256,6 @@ Last updated: 2026-06-23 13:37
 | APLOMB Technologies | Senior Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45738cf915b51235) | 2026-06-19 17:49 |
 | Roadrunner | Data Engineer | Downers Grove, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02fed8f682ea9929) | 2026-06-19 17:49 |
 | Cloud and Things | Integration Developer - (8+ years w Java/Spring Boot Framework) | Brooklyn, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ef55b38d756ce85) | 2026-06-19 17:49 |
-| UnitedHealthcare | Senior Data Engineer | Eden Prairie, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=60c093da65d37212) | 2026-06-19 15:56 |
-| Chuwa America | Data Engineer/Database Administrator_ (Only W2) | Bellevue, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=adac783343467c24) | 2026-06-19 15:56 |
-| Wellmark Blue Cross and Blue Shield | Senior Software Engineer - Information Products Team | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=59625199b42cb5da) | 2026-06-19 15:56 |
-| Convey | Senior Software Engineer - LSP | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=46e5e7f505da6aea) | 2026-06-19 15:56 |
-| nan | Product Software Engineer I | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c5d705afdfcef3f) | 2026-06-19 15:56 |
 
 
 ---
