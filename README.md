@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-23 10:28
+Last updated: 2026-06-23 13:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| eClerx | Site Reliability / DevOps Engineer | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=daa7abd37eec3291) | 2026-06-23 13:37 |
 | Franciscan Health | Data Analytics Engineer | Mishawaka, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=04e2255548fb7bbc) | 2026-06-23 10:28 |
 | Databricks | Sr. Forward Deployed Engineer (FDE)- Manufacturing | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de0ec3a9fcc76260) | 2026-06-23 10:28 |
 | Databricks | Sr. Forward Deployed Engineer (FDE) - Manufacturing | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb0d50c9545da3ef) | 2026-06-23 10:28 |
@@ -241,16 +242,6 @@ Last updated: 2026-06-23 10:28
 | Wellmark Blue Cross and Blue Shield | Senior Software Engineer - Information Products Team | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=59625199b42cb5da) | 2026-06-19 15:56 |
 | Convey | Senior Software Engineer - LSP | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=46e5e7f505da6aea) | 2026-06-19 15:56 |
 | nan | Product Software Engineer I | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c5d705afdfcef3f) | 2026-06-19 15:56 |
-| Thermo Fisher Scientific | Sr. Developer | MA, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=3a73d712d100166c) | 2026-06-19 12:41 |
-| Optum | Senior Software Engineer | Brentwood, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d6a583130162de58) | 2026-06-19 12:41 |
-| CVS Health | Digital Provider Software Development Engineer | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c8e58013e22bddb4) | 2026-06-19 12:41 |
-| JPMorganChase | Backend Java Software Engineer III | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9251732e66580bb6) | 2026-06-19 12:41 |
-| Blackhawk Network | Sr. Software Engineer | Pleasanton, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b3ee41a8c52420bf) | 2026-06-19 12:41 |
-| CVS Health | Senior Software Development Engineer (Site Reliability) | Scottsdale, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56047e794a998d7c) | 2026-06-19 12:41 |
-| CVS Health | Senior Software Development Engineer (Site Reliability) | Northbrook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=728e137e29293bde) | 2026-06-19 12:41 |
-| CVS Health | Senior Software Development Engineer (Site Reliability) | Richardson, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=297ddc2108f979e1) | 2026-06-19 12:41 |
-| New York Life | Senior Associate - Enterprise Intelligence Analytics Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f738fb7e1c97b094) | 2026-06-19 12:41 |
-| New York Life | Senior Associate - Senior Associate, Analytics Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e6fe876bea05203) | 2026-06-19 12:41 |
 
 
 ---
