@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-23 21:24
+Last updated: 2026-06-23 23:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | AI Automation Developer & Data Scientist | Morrisville, NC, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=8315a758255bb079) | 2026-06-23 23:00 |
+| HealthPartners | Data Engineer Senior | Bloomington, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=a11738879dff288c) | 2026-06-23 23:00 |
+| JSR Tech Consulting | Data Engineer - AWS | Newark, NJ, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=f9e78104b24dec2f) | 2026-06-23 23:00 |
+| CCMSI | Senior Data Engineer – Insurance Data Platform | Danville, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bc118c13047230ec) | 2026-06-23 23:00 |
+| Liquidity Services, Inc. | Engineer II, Dev.Ops | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=796db8b56cef3134) | 2026-06-23 23:00 |
+| Navteca | Business Intelligence Architect / Developer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a903253fe750059f) | 2026-06-23 23:00 |
+| NTT DATA | Senior Java Cloud Migration Engineer (OpenShift / Infrastructure & Application Modernization) | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d63f649b6edb613b) | 2026-06-23 23:00 |
+| Amerisure | Cloud Network Engineer II | Farmington Hills, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98627ffbde1c523b) | 2026-06-23 23:00 |
 | Intone Networks | Full Stack Data Engineer | Sunnyvale, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=727cbe7cc2d8d727) | 2026-06-23 21:24 |
 | Optum | Associate Data Engineer | Minnetonka, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d917a7b6e943564a) | 2026-06-23 21:24 |
 | ClearpointCo | Microsoft Fabric Engineer | Houston, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=35d60eb49ba0667d) | 2026-06-23 21:24 |
@@ -275,13 +283,6 @@ Last updated: 2026-06-23 21:24
 | Mayo Clinic | Senior Software Engineer - Hybrid | Rochester, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4c67eab5c67331a9) | 2026-06-20 05:04 |
 | loanDepot | Senior Cloud Solutions Engineer | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=275de5114fc3f721) | 2026-06-20 05:04 |
 | NTT DATA | Shopify Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bc5601c059bd73a) | 2026-06-20 05:04 |
-| McKesson | Sr. Associate, Site Reliability Engineering | Irving, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1d58654d97d98c4a) | 2026-06-19 22:44 |
-| McKesson | Sr. Software Engineer | Irving, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f2637106dd2c7c5c) | 2026-06-19 22:44 |
-| EXL Service | Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=372d6a67c10b163b) | 2026-06-19 22:44 |
-| Grainger | Data Engineer III | Lake Forest, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da3c07885d8b3693) | 2026-06-19 22:44 |
-| Intellisoft Technologies | Senior Data Engineer | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8c473d3620c861ac) | 2026-06-19 22:44 |
-| Blue Learning | Data Engineer | Lewisville, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1e8db13fab29835e) | 2026-06-19 22:44 |
-| GCON Inc | BI Developer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9b57204f314618a) | 2026-06-19 22:44 |
 
 
 ---
