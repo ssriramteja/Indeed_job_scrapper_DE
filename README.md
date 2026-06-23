@@ -1,11 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-23 16:21
+Last updated: 2026-06-23 19:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Samsara | Senior Data Engineer | Los Angeles, CA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=933ab6807d4d8842) | 2026-06-23 19:04 |
+| SRS Acquiom | Senior Data Engineer | Denver, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e597d94585a188c3) | 2026-06-23 19:04 |
+| SRS Acquiom | Data Engineer | Denver, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45c1cc0f0a35f6a1) | 2026-06-23 19:04 |
+| LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d633e19b2a078926) | 2026-06-23 19:04 |
+| Syngenta | Senior Data Engineer | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ca154f0e79d5d8b7) | 2026-06-23 19:04 |
+| American Public Media | Data Engineer | Saint Paul, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8390039bc78bb15) | 2026-06-23 19:04 |
+| Faro Health Inc. | Senior DevOps Engineer | San Diego, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e75e8818d349ed7c) | 2026-06-23 19:04 |
+| Office Ally | Senior Full Stack Engineer (Core Engine) | Concord, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cf87bc8d4644326b) | 2026-06-23 19:04 |
+| Office Ally | Senior Full Stack Engineer (Core Engine) | Salt Lake City, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff3e7b36fe0eff89) | 2026-06-23 19:04 |
+| Office Ally | Senior Full Stack Engineer (Core Engine) | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0d3309aad7167c95) | 2026-06-23 19:04 |
+| Office Ally | Senior Full Stack Engineer (Core Engine) | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af85de8b2a3ab880) | 2026-06-23 19:04 |
+| Office Ally | Senior Full Stack Engineer (Core Engine) | Berkeley, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff044df5cff76741) | 2026-06-23 19:04 |
+| Office Ally | Senior Full Stack Engineer (Core Engine) | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=544039c92cd95980) | 2026-06-23 19:04 |
+| LPL Financial | Senior Software Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50c0af65411f0014) | 2026-06-23 19:04 |
+| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=189e85b9aadd7294) | 2026-06-23 19:04 |
+| endava | Sr. Developer | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b23744e6c4bc494) | 2026-06-23 19:04 |
+| University of Alabama, Birmingham | INTELLIGENCE APPLICATION DEVELOPER | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a6fbff522d2790e) | 2026-06-23 19:04 |
+| Roadrunner | Data Engineer | Downers Grove, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9167fc909538321d) | 2026-06-23 19:04 |
+| Cetera Financial Group | Software Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=177f839eafc70423) | 2026-06-23 19:04 |
 | Liberty Mutual Insurance | Senior Full Stack Software Engineer - Claims Technology | Indianapolis, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4fd3b089b8e85de9) | 2026-06-23 16:21 |
 | Liberty Mutual Insurance | Senior Full Stack Software Engineer - Claims Technology | Plano, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=047ca970efc97204) | 2026-06-23 16:21 |
 | Liberty Mutual Insurance | Senior Full Stack Software Engineer - Claims Technology | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a768e6f7c8f1f47f) | 2026-06-23 16:21 |
@@ -251,11 +270,6 @@ Last updated: 2026-06-23 16:21
 | LTIMindtree | Data Engineer | Marysville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c9c434dda73e4155) | 2026-06-19 21:02 |
 | Capgemini | Platform Engineer SOW198 Datahub Platform | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fab0a2c9cd2208f) | 2026-06-19 21:02 |
 | UDR | Senior Data Platform Engineer | Highlands Ranch, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1fb77bd035c0b222) | 2026-06-19 19:26 |
-| Optum | Senior Data Scientist - Remote | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a42ad39cb3a040ff) | 2026-06-19 17:49 |
-| project44 | Senior Software Engineer - LSP | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d185ef3015154b1f) | 2026-06-19 17:49 |
-| APLOMB Technologies | Senior Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45738cf915b51235) | 2026-06-19 17:49 |
-| Roadrunner | Data Engineer | Downers Grove, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02fed8f682ea9929) | 2026-06-19 17:49 |
-| Cloud and Things | Integration Developer - (8+ years w Java/Spring Boot Framework) | Brooklyn, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ef55b38d756ce85) | 2026-06-19 17:49 |
 
 
 ---
