@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-23 02:26
+Last updated: 2026-06-23 06:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fervo Energy | Data Engineer | Houston, TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=c0394f69da3f3e0c) | 2026-06-23 06:40 |
+| American Airlines | Engineer/Sr Engineer, IT Data | Fort Worth, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0995774c98d8f64) | 2026-06-23 06:40 |
+| U.S. Bank | Senior DB engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0a302dc9c31a0f30) | 2026-06-23 06:40 |
+| Userpilot | Senior Software Engineer - Core Team | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=262ca056c2ac8629) | 2026-06-23 06:40 |
+| ClearCaptions, LLC | Data Engineer - Fabric (100% Remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6333130bee69ff29) | 2026-06-23 06:40 |
+| Sun World International, LLC | Senior Full Stack Developer - Agri -Tech - US | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4091f0c081992e7e) | 2026-06-23 06:40 |
+| American Airlines | Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0df6d60888f81ff6) | 2026-06-23 06:40 |
+| MeridianLink | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7920243ccd6b53ee) | 2026-06-23 06:40 |
+| Intone Networks | Full Stack Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b5c0a9a146a70778) | 2026-06-23 06:40 |
+| Tata Consultancy Services (TCS) | Data Analytics & BI with Tableau | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca8022623046b6d8) | 2026-06-23 06:40 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=55ce642aeddf1f8f) | 2026-06-23 02:26 |
 | BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=e5c56ac0ca901604) | 2026-06-23 02:26 |
 | Blue Acorn iCi | Backend Developer (Data Layer / API Specialist) | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=425ea68f605d30dd) | 2026-06-23 02:26 |
@@ -238,71 +248,6 @@ Last updated: 2026-06-23 02:26
 | American Family Insurance | Senior Data Engineer (Hybrid) | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef9add9193adcfdd) | 2026-06-19 08:34 |
 | JLL | DevFinOps Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84a584e2ae5c7382) | 2026-06-19 08:34 |
 | BECU | Sr. Software Engineer - AI Innovation Team | WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=893eebcde0f6a410) | 2026-06-19 08:34 |
-| BV Teck | Hadoop Developer | Remote, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=bdecfd54adac1039) | 2026-06-19 03:00 |
-| BV Teck | Hadoop Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=55aa01c630cde774) | 2026-06-19 03:00 |
-| BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=89409de13fc01583) | 2026-06-19 03:00 |
-| PlayStation | Data Platform Engineer | San Mateo, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5c248fdc62311341) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b09c16289d91a9c2) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Tempe, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=36c5a207a5141493) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Seattle, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=75337eae4d7f1ca4) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3778a847e69710fd) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6ce419a88fc032ba) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Milwaukee, WI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2228b29878769f7c) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Morristown, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d37d79e2a41923a0) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Philadelphia, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=58947e3b3990b58a) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Pittsburgh, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=74d31ddfd51c98d4) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=be3fa46940f05bde) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=96ba9f5e4d52822c) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Cleveland, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d2c36b54a1aabffc) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Cincinnati, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=07707c89f2c2beaf) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Raleigh, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e2773697f2a464bd) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=aca527a7ca4ae8cc) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0668436ba0d957fa) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Portland, OR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=56e75a9810e146b9) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e376f34a2464492) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Kansas City, MO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b599a8fb3b53dca2) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0666b2ee03b1b4ed) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=210574454b039b8d) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=01334b7e21714bf3) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b5758da877fbc35e) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Stamford, CT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7b88cc808352c6ed) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | St. Louis, MO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e98cca52bbe68424) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Sacramento, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2c2e0cd792417383) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Indianapolis, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9920b9b0db4e2308) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=94af0e0a513dab44) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Costa Mesa, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9da85b011f3c9bb7) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Detroit, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4f747e8cd9f65503) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6e6716e1346a404f) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Tampa, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f32c63274ea61adf) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Miami, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ed88553db5377339) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | San Diego, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cc602142c0dc423a) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=69d3c14f109508ef) | 2026-06-19 03:00 |
-| Deloitte | AI Engineer - SFL Scientific | Los Angeles, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=29431c61744eb526) | 2026-06-19 03:00 |
-| BV Teck | Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=61f2f9934b2c6800) | 2026-06-19 03:00 |
-| BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2fa5033561f10144) | 2026-06-19 03:00 |
-| BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3868dfba8a9504d2) | 2026-06-19 03:00 |
-| BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=66cb4927a8da8cba) | 2026-06-19 03:00 |
-| BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=30dc61dd52578570) | 2026-06-19 03:00 |
-| BV Teck | Oracle Cloud Infrastructure (OCI) Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a2960be221fd1140) | 2026-06-19 03:00 |
-| TECHSTRA SOLUTIONS | Java Full Stack Developer (Senior) | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2fbec198465e3aa0) | 2026-06-19 03:00 |
-| Marriott International | Senior Systems Engineer - FinOps | Bethesda, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6922cd9384b21595) | 2026-06-19 03:00 |
-| Epsilon | Senior Software Engineer | Westminster, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6311a108ad80bb92) | 2026-06-19 03:00 |
-| Chipotle Mexican Grill | Database Administrator | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=22024abdb3ab3a83) | 2026-06-19 03:00 |
-| Rocket Lab USA | Senior Analytics Engineer I | Long Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=51beaa63af71a055) | 2026-06-19 03:00 |
-| Global Payments | Full Stack Developer -In office, Alpharetta, GA | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c9260b2578b52c9d) | 2026-06-19 03:00 |
-| E Source | Databricks Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7cf3a91683e2fbee) | 2026-06-19 03:00 |
-| E Source | Software Engineer II or III | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ab1bd8dcae6ad9c) | 2026-06-19 03:00 |
-| nan | Data Engineer | Mountain View, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=690e477dea973841) | 2026-06-19 03:00 |
-| Global Technology Solutions Inc | GCP DevOps Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d25188e3882df38f) | 2026-06-19 03:00 |
-| Sunwest Bank | Mid Level Software Engineer | Sandy, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f3fc340c895d6105) | 2026-06-19 03:00 |
-| Blue Cross of Idaho | dbt Engineer | Meridian, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cfe4cac7fc101255) | 2026-06-19 03:00 |
-| nan | Software Engineer, Fullstack and Developer Experience | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bea3e6c2fbbe5741) | 2026-06-19 03:00 |
-| Waystar | Software Engineer II | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e379b3e4a12afd8) | 2026-06-19 03:00 |
-| VivSoft technologies | Senior Data Warehouse Specialist/ETL Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b90d1672fb94862c) | 2026-06-19 03:00 |
-| Royal Caribbean Group | Senior Engineer, Site Reliability | Miramar, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=72414f98b9232ff5) | 2026-06-19 03:00 |
-| University of Utah | Software Dev. Eng. III | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24a2bf76319d1fb7) | 2026-06-19 03:00 |
-| BV Teck | OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f08e0faf895418f5) | 2026-06-19 03:00 |
-| Genpact | Sr. Developer - Application Development JAVA N 4B | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b3d7faea93986590) | 2026-06-19 03:00 |
 
 
 ---
