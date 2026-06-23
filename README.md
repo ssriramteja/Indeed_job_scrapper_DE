@@ -1,11 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-23 06:40
+Last updated: 2026-06-23 10:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Franciscan Health | Data Analytics Engineer | Mishawaka, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=04e2255548fb7bbc) | 2026-06-23 10:28 |
+| Databricks | Sr. Forward Deployed Engineer (FDE)- Manufacturing | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de0ec3a9fcc76260) | 2026-06-23 10:28 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Manufacturing | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb0d50c9545da3ef) | 2026-06-23 10:28 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Manufacturing | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=537c1d9db4a843d8) | 2026-06-23 10:28 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Manufacturing | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9c79f2bb16cdec7) | 2026-06-23 10:28 |
+| Databricks | Solutions Architect - Strategic AI Natives | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc4bfc56c9a786d6) | 2026-06-23 10:28 |
+| Sargent & Lundy | Infrastructure & Cloud Systems Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6aad263f77591b1) | 2026-06-23 10:28 |
+| Databricks | Sr. Forward Deployed Engineer (FDE)- Healthcare & Life Sciences | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=450a6ad725be6599) | 2026-06-23 10:28 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ae1e67e26f0646cd) | 2026-06-23 10:28 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=993d9698a9b37218) | 2026-06-23 10:28 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=82a2681ff687132c) | 2026-06-23 10:28 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f4e2d1576186543) | 2026-06-23 10:28 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fbaa870dc0932a19) | 2026-06-23 10:28 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4cda2fa218c4511) | 2026-06-23 10:28 |
+| Amplify | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a9c44451a9ac3ee8) | 2026-06-23 10:28 |
 | Fervo Energy | Data Engineer | Houston, TX, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=c0394f69da3f3e0c) | 2026-06-23 06:40 |
 | American Airlines | Engineer/Sr Engineer, IT Data | Fort Worth, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f0995774c98d8f64) | 2026-06-23 06:40 |
 | U.S. Bank | Senior DB engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0a302dc9c31a0f30) | 2026-06-23 06:40 |
@@ -236,18 +251,6 @@ Last updated: 2026-06-23 06:40
 | CVS Health | Senior Software Development Engineer (Site Reliability) | Richardson, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=297ddc2108f979e1) | 2026-06-19 12:41 |
 | New York Life | Senior Associate - Enterprise Intelligence Analytics Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f738fb7e1c97b094) | 2026-06-19 12:41 |
 | New York Life | Senior Associate - Senior Associate, Analytics Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e6fe876bea05203) | 2026-06-19 12:41 |
-| Charles Schwab | Software Engineer- Investment Research and Data | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2f71b2d395389103) | 2026-06-19 08:34 |
-| Bertrandt | Senior Cloud Platform Engineer | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=261057ab4b84e0de) | 2026-06-19 08:34 |
-| BizTech Fusion | ML Engineer ((GCP) – Finance Data & AI Platform) | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=08ee595f70e46b33) | 2026-06-19 08:34 |
-| nan | Senior Analytics Engineer (Data + BI) — Healthcare | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e342cff8300db11b) | 2026-06-19 08:34 |
-| hr@brxio.com | Power Automate - Contract | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=02612783f72a36f6) | 2026-06-19 08:34 |
-| Adobe | Senior Data Science Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a2b31f13d8496041) | 2026-06-19 08:34 |
-| Hermitage Info Tech Llc | Sr Snowflake/DWH/ETL Informatica Consultant | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb7813160ee888e4) | 2026-06-19 08:34 |
-| BlackRock | Associate, Software Engineer, Applications | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=956dc941dad64afb) | 2026-06-19 08:34 |
-| Comcast | Data Engineer 3 - Reston, VA - Freewheel | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24d54b28b92ef5c9) | 2026-06-19 08:34 |
-| American Family Insurance | Senior Data Engineer (Hybrid) | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef9add9193adcfdd) | 2026-06-19 08:34 |
-| JLL | DevFinOps Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84a584e2ae5c7382) | 2026-06-19 08:34 |
-| BECU | Sr. Software Engineer - AI Innovation Team | WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=893eebcde0f6a410) | 2026-06-19 08:34 |
 
 
 ---
