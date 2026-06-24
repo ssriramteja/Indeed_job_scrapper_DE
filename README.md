@@ -1,15 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-24 14:08
+Last updated: 2026-06-24 16:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cummins | Data Architect | IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c67ad259f5f7452d) | 2026-06-24 16:59 |
+| HCLTech | Python Technical Specialist - Data Analysis, SQL | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7208f4d9e700b7c7) | 2026-06-24 16:59 |
+| MEDIIT | Data Architect – Capital Markets Domain | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0df069435d852166) | 2026-06-24 16:59 |
+| HCLTech | Azure Senior Data Architect | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5d5a70d178b56c84) | 2026-06-24 16:59 |
+| CarMax | Engineer II, Data | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9b737dc154be64ce) | 2026-06-24 16:59 |
+| CarMax | Engineer II, Data | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c416514550780a5b) | 2026-06-24 16:59 |
+| National Grid | Senior Data Engineer | Waltham, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=342d1ce362be0803) | 2026-06-24 16:59 |
+| MTC Corporation | ERP Implementation Consultant | Fountain Valley, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7270db5358b5fcdd) | 2026-06-24 16:59 |
+| Wellington Management | Senior Software Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e2eb7f5e0e5869a) | 2026-06-24 16:59 |
+| OneMain Financial | Senior Platform Engineer (Observability & Telemetry) | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c0edcab6ac0afe9c) | 2026-06-24 16:59 |
+| HCLTech | GCP Senior Data Architect | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29c5430e519b8187) | 2026-06-24 16:59 |
+| PI Technologies LLC | MDM/DG SME/Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=869da5c5f350a735) | 2026-06-24 16:59 |
+| Valtech Group | Platform Database Engineer (MONGO DB) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2103580026ffe43a) | 2026-06-24 16:59 |
+| Vectra AI | Software Engineer II | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e361ec91914e9985) | 2026-06-24 16:59 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e26fb0df2e45c4d) | 2026-06-24 16:59 |
+| Audible | Senior Analyst, Audible People & Places | Newark, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c33bf2564ac4df12) | 2026-06-24 16:59 |
+| Aivra Health | Junior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=69a2a743f46a4e4c) | 2026-06-24 16:59 |
 | CVS Health | Data Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b5702d9e6e218aec) | 2026-06-24 14:08 |
 | CVS Health | Data Engineer | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6f7aabeaaea6b41) | 2026-06-24 14:08 |
 | Optum | Software Engineer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=513b06edfb3e0c5a) | 2026-06-24 14:08 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e26fb0df2e45c4d) | 2026-06-24 14:08 |
 | Curana Health | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cff67fb969376c22) | 2026-06-24 14:08 |
 | Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Data - Archimedes | US USA | 30.6% | [Apply](https://www.indeed.com/viewjob?jk=00efdae7133cac10) | 2026-06-24 11:39 |
 | Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | US USA | 29.9% | [Apply](https://www.indeed.com/viewjob?jk=06ac01a3b37b1411) | 2026-06-24 11:39 |
@@ -375,7 +391,6 @@ Last updated: 2026-06-24 14:08
 | LTIMindtree | Specialist - Data Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4405fe7120dba5a) | 2026-06-21 05:53 |
 | 7-Eleven | Fresh Food QA Technician | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4195bab3d9303fad) | 2026-06-20 21:04 |
 | nan | Full Stack Developer React/ Java/ Python | Middletown, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d29d621da3e9a4ef) | 2026-06-20 17:16 |
-| nan | Fabric Platform Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b1831e001122e4d) | 2026-06-20 15:29 |
 
 
 ---
