@@ -1,11 +1,79 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-24 00:01
+Last updated: 2026-06-24 04:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2f587376655a4150) | 2026-06-24 04:58 |
+| CCMSI | Senior Data Engineer – Insurance Data Platform | Danville, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=db60959b33c4c354) | 2026-06-24 04:58 |
+| REI Systems | Solution Architect | Sterling, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e0f17df007528af5) | 2026-06-24 04:58 |
+| Capgemini | DevOps Engineer (Terraform) | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=98afda0b4cf6550d) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Fort Worth, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f32c71c2e3662129) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Bellevue, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e7ef84ae10230ce5) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Richmond, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5ae99da36b10a91f) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | McLean, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=43537078d05f52d7) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Tempe, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=500172c72664351c) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Morristown, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=db223ccd85851123) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Milwaukee, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e365bb25b28383b8) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=45ac0cea83dd4b59) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Cleveland, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=23bb86b7e4435095) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Philadelphia, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9afd9bf6d062fb6c) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5fb7336f0c30d74f) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9b32e77094fc38b3) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Lansing, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e0068341c421b0e) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=42ca7c646de21592) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Jericho, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=73b69a1946f6cb7a) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Rochester, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=24b52ccd3e5ef2d7) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Princeton, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1c3eca5ae1f3a135) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Hermitage, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=106c2a749ba684d1) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Kansas City, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c1702c469b845a5e) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Las Vegas, NV, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=64f67e4a68fb0eb0) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Baltimore, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=02768662d448cc7f) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=18fc3e2e1eb7e56b) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Midland, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3c23c68d6476ca61) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Cincinnati, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=da7a37890804c399) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Des Moines, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9236f6af20587bb8) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Stamford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0d5ebdf6ceba2297) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Sacramento, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ccc4791b066386ed) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Davenport, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=50fee0dffd0c3200) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=14dd375c81fdeb91) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Memphis, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c43f1dc11c4fbf8a) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Grand Rapids, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d6ad085e389cd274) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | St. Louis, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0cb90114693a1860) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Jacksonville, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0ec03f1c02e756ae) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Raleigh, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d9c4a54736321cbe) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Miami, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=72febf5f9f66a41b) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8691478fd49d352d) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d805172dec7d7078) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Fresno, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0b66de8fcf2854a1) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=484812e5c48ae21b) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=338fa8ccf0de120a) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Boise, ID, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8a65983537d0239f) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Hartford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1b36750075fd1b8f) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Louisville, KY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=44601ffec076b0c9) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Birmingham, AL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16e7b426df8f6eb9) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Costa Mesa, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5fe244724e210118) | 2026-06-24 04:58 |
+| Deloitte | Project - Data Engineer | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=848503ba4cc3d31c) | 2026-06-24 04:58 |
+| Karsun Solutions LLC | Senior AI Data Engineer | Herndon, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=af06f826ddb18214) | 2026-06-24 04:58 |
+| Salute Mission Inc. | Full Stack Data Science Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fd8c87a29c46c748) | 2026-06-24 04:58 |
+| CVS Health | Software Development Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3b5790ca62d52326) | 2026-06-24 04:58 |
+| Spotify | Data Engineer, Ads Product & Tech | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=59eacac00c3d239a) | 2026-06-24 04:58 |
+| nan | Engineering AI Product Engineer (LLM Systems & DevOps) | Kirkland, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6785b8905e84e888) | 2026-06-24 04:58 |
+| Expleo Group | Senior Software Engineer | Rochester, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b14b20fe70c62919) | 2026-06-24 04:58 |
+| Salute Mission Inc. | Full Stack Software Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=99f913f3ad94b805) | 2026-06-24 04:58 |
+| Tata Consultancy Services (TCS) | Machine learning Engineer | Pennington, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e556b519575fbce1) | 2026-06-24 04:58 |
+| Texas Farm Bureau - Insurance Agents | Data Engineering Supervisor | Waco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ee927092c8f7b416) | 2026-06-24 04:58 |
+| Texas Farm Bureau - Insurance Agents | Data Engineering Supervisor | Waco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07d134831487c656) | 2026-06-24 04:58 |
+| Blue Origin | Software Engineer III Core Platform | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5bb8a3c0862e3915) | 2026-06-24 04:58 |
+| Tata Consultancy Services (TCS) | Databricks Devops | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6dec79ae33f75455) | 2026-06-24 04:58 |
+| Central Garden & Pet | Data Platform Engineer | Schaumburg, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66b66189499b2fbd) | 2026-06-24 04:58 |
+| Central Garden & Pet | Data Platform Engineer | Walnut Creek, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=28d4e6eca38676f5) | 2026-06-24 04:58 |
+| Tata Consultancy Services (TCS) | Anaplan Architect | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8de2684c6f92101f) | 2026-06-24 04:58 |
+| Nordstrom | Engineer 2 | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6936a8a4f52ab947) | 2026-06-24 04:58 |
+| EMCOR | Data Analytics Engineer | Tonawanda, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b33584297ea5a4c) | 2026-06-24 04:58 |
+| Vuori | Sr. Software Engineer, Digital Engineering | Carlsbad, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=874d1c8eb2f55d75) | 2026-06-24 04:58 |
 | LTIMindtree | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=039085eefda4910b) | 2026-06-24 00:01 |
 | LTIMindtree | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=1c0ab289cd7fe039) | 2026-06-24 00:01 |
 | LTIMindtree | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=419482d1afcd3dfa) | 2026-06-24 00:01 |
