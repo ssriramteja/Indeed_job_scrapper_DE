@@ -1,18 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-24 08:20
+Last updated: 2026-06-24 11:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Data - Archimedes | US USA | 30.6% | [Apply](https://www.indeed.com/viewjob?jk=00efdae7133cac10) | 2026-06-24 11:39 |
+| Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | US USA | 29.9% | [Apply](https://www.indeed.com/viewjob?jk=06ac01a3b37b1411) | 2026-06-24 11:39 |
+| Navitus Health Solutions / Lumicera Health Services | Engineer, Development Operations - Archimedes | US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=ea98351890cb41a5) | 2026-06-24 11:39 |
+| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Development Operations - Archimedes | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=849fb6429e007fcd) | 2026-06-24 11:39 |
+| Navitus Health Solutions / Lumicera Health Services | Engineer, Cloud - Archimedes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0c2f878a6cd6c513) | 2026-06-24 11:39 |
+| Navitus Health Solutions / Lumicera Health Services | Sr. Architect, Enterprise - Archimedes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=096a8034fe908404) | 2026-06-24 11:39 |
+| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Cloud - Archimedes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b7995f8317591305) | 2026-06-24 11:39 |
+| Navitus Health Solutions / Lumicera Health Services | Engineer, Development Operations - Archimedes | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8da20c80b6159763) | 2026-06-24 11:39 |
+| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Software - Archimedes | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=084467bb5807c6b5) | 2026-06-24 11:39 |
+| Navitus Health Solutions / Lumicera Health Services | Engineer, Data Integration - Archimedes | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9a819a6db45f8192) | 2026-06-24 11:39 |
+| HCLTech | Data Architect | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2876f4244aa1e51) | 2026-06-24 11:39 |
+| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e26fb0df2e45c4d) | 2026-06-24 11:39 |
 | Comcast | Python or GoLang Software Engineer - 2 days onsite (Chicago, IL) - FreeWheel | Chicago, IL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=2e805afd8491439b) | 2026-06-24 08:20 |
 | ATG | DevOps Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4751e9b6daa317e5) | 2026-06-24 08:20 |
 | Alignment Healthcare | Senior Engineer & Data Architect, Financial Systems | Orange, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=81ca06fa6ac3ac22) | 2026-06-24 08:20 |
 | Capgemini | ML Ops and Model accuracy Engineer | Salem, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b36b244637e89a0) | 2026-06-24 08:20 |
 | Trend Micro Inc. | Senior Data Engineer - Austin, TX | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f2319340732e3c2) | 2026-06-24 08:20 |
 | TruStage | Sr Data Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=402264050a42b554) | 2026-06-24 08:20 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e26fb0df2e45c4d) | 2026-06-24 08:20 |
 | nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2f587376655a4150) | 2026-06-24 04:58 |
 | CCMSI | Senior Data Engineer – Insurance Data Platform | Danville, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=db60959b33c4c354) | 2026-06-24 04:58 |
 | REI Systems | Solution Architect | Sterling, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e0f17df007528af5) | 2026-06-24 04:58 |
@@ -362,16 +373,6 @@ Last updated: 2026-06-24 08:20
 | nan | Full Stack Developer React/ Java/ Python | Middletown, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d29d621da3e9a4ef) | 2026-06-20 17:16 |
 | nan | Fabric Platform Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b1831e001122e4d) | 2026-06-20 15:29 |
 | Codoxo | Data Engineer- Full Time Opportunity, NOT C2C | Duluth, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=780ec295f6bacdf5) | 2026-06-20 13:29 |
-| JPMorganChase | Software Engineer III - AWS Glue / Data Engineer | Irvine, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4944b59a58404b8f) | 2026-06-20 11:08 |
-| CVS Health | Machine Learning Engineer | IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6c2d8e205af354cd) | 2026-06-20 11:08 |
-| Intone Networks | Sr Fullstack Developer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e08b28ff2bdfcb80) | 2026-06-20 11:08 |
-| JPMorganChase | Software Engineer III - Data, AWS, ETL, Java/Python, | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d97244cd7329e73) | 2026-06-20 11:08 |
-| JPMorganChase | Software Engineer III - Python/PySpark/AWS | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7758e2775271790b) | 2026-06-20 11:08 |
-| Attain Finance | Senior Site Reliability Engineer | Greenville, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb4fd37f5d5683cc) | 2026-06-20 11:08 |
-| JPMorganChase | WFP Senior Data Scientist | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=644f70485107abbe) | 2026-06-20 11:08 |
-| Bounteous | Senior Databricks Engineer | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=f289865d551fa1a3) | 2026-06-20 08:41 |
-| Bounteous | Senior Snowflake Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cf016976f76e7f0a) | 2026-06-20 08:41 |
-| Vasa Fitness | Senior Software Engineer | Englewood, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ee3a253ea4b50de) | 2026-06-20 08:41 |
 
 
 ---
