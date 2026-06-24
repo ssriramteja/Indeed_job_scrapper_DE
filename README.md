@@ -1,16 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-24 18:52
+Last updated: 2026-06-24 20:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NinjaTrader | Sr. Data Engineer | Chicago, IL, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c77bde68b2f181a8) | 2026-06-24 20:28 |
+| Watchguard Technologies | Senior Data Engineer | Seattle, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5c9c70888519239b) | 2026-06-24 20:28 |
+| Watchguard Technologies | Senior Data Engineer | Miami, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0779aea1cfbfb91d) | 2026-06-24 20:28 |
+| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7efd71fe94ac695) | 2026-06-24 20:28 |
+| CarMax | Engineer II, Data | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=db84cd672ebc6eb6) | 2026-06-24 20:28 |
+| CarMax | Engineer II, Data | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=85a73b9bce9a26b4) | 2026-06-24 20:28 |
+| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b141aab9409e42fc) | 2026-06-24 20:28 |
+| Jonas Software | Software Engineer - Intern | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef996c4dca600f0c) | 2026-06-24 20:28 |
+| Arrive Logistics | Senior Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c8f68d352133895) | 2026-06-24 20:28 |
+| University of Utah | Cloud Platform Engineer II | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e33085bec67c090e) | 2026-06-24 20:28 |
+| Crane Worldwide Logistics | Business Intelligence Engineer II | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=803ae398014df5d9) | 2026-06-24 20:28 |
+| Dexter Systems Inc | Data Warehouse Developer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=740c65f047ff500a) | 2026-06-24 20:28 |
+| Esri | Product Engineer II - Cloud Infrastructure | Redlands, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4172ffc795a8a9ef) | 2026-06-24 20:28 |
 | GM Financial | Data Engineer-Adobe Exp Platform | Irving, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2b2fc4d359a22654) | 2026-06-24 18:52 |
 | iEnjoy Home | Senior Data Engineer | Clearwater, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=105d305fcaa2ff1b) | 2026-06-24 18:52 |
 | GM Financial | SDE I- Adobe Exp Platform | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e5cf1edb1b7ec954) | 2026-06-24 18:52 |
 | PitchBook | Sr. Software Development Engineer, Platform Engineering | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e6071131867132b) | 2026-06-24 18:52 |
-| Ford Motor Company | Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e26fb0df2e45c4d) | 2026-06-24 18:52 |
 | Rochester Electronics | Analytics and AI Developer | Newburyport, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7c295c697727454) | 2026-06-24 18:52 |
 | Cummins | Data Architect | IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c67ad259f5f7452d) | 2026-06-24 16:59 |
 | HCLTech | Python Technical Specialist - Data Analysis, SQL | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7208f4d9e700b7c7) | 2026-06-24 16:59 |
