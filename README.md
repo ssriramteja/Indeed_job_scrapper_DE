@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-25 21:23
+Last updated: 2026-06-25 23:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TAN45 TECH | PLM Teamcenter Solution Architect - Siemens | Frisco, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=747fddb8b55540ea) | 2026-06-25 23:08 |
+| PowerSecure Inc. | Data Solutions Engineer - Hybrid/Durham,NC | Durham, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f85d13cad9b24073) | 2026-06-25 23:08 |
+| HCLTech | GCP Technical Specialist | Philadelphia, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a829451037364106) | 2026-06-25 23:08 |
+| JSR Tech Consulting | Full Stack Developer | NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fd415a132048d89a) | 2026-06-25 23:08 |
+| Cognizant | Sr. AWS Data Architect (Remote) | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=436457a82fb3e61d) | 2026-06-25 23:08 |
+| nan | AI Engineer | Davie, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2fdb23c6c263875) | 2026-06-25 23:08 |
+| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2ec42f2e29989e) | 2026-06-25 23:08 |
+| Applied Information Sciences | Sr. Software Architect | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef11c58ff0ce6339) | 2026-06-25 23:08 |
+| McKesson | Sr. Associate Software Engineer (Healthcare Data Integration) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5cc7c095dc341df) | 2026-06-25 23:08 |
+| AiPrise | Senior Software Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=321ab7e09526522f) | 2026-06-25 23:08 |
+| The Walt Disney Company | Senior Application Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b1d7e70102157f1) | 2026-06-25 23:08 |
+| Medical Mutual of Ohio | Data Exchange Engineer | Dublin, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=faa9119731d42f84) | 2026-06-25 23:08 |
 | IvoryCloud | Senior Data Engineer | Rockville, MD, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=c61bc90da42df2de) | 2026-06-25 21:23 |
 | ComplexCare Solutions | Senior Software Data Engineer (Contract) | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a32a20237152630a) | 2026-06-25 21:23 |
 | Atlas Group LLC | Cloud Engineer | Wichita, KS, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=96986685e9f66259) | 2026-06-25 21:23 |
@@ -17,11 +29,9 @@ Last updated: 2026-06-25 21:23
 | Capgemini | Data Engineer (Python, AWS Glue, Airflow, Lambda) | Fort Mill, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d02b49a1ca173ef5) | 2026-06-25 21:23 |
 | Motion | Data Engineer, Finance | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a49c234a0c6d1d83) | 2026-06-25 21:23 |
 | Crate and Barrel | Senior Data Engineer | Northbrook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7e58f6e8fec3f48d) | 2026-06-25 21:23 |
-| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2ec42f2e29989e) | 2026-06-25 21:23 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=93bbd1487e7d0fd7) | 2026-06-25 21:23 |
 | Hydrafacial | Sr. Business Intelligence Engineer - Long Beach, CA | Long Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e11fa47875d4b9f) | 2026-06-25 21:23 |
 | ELEVI Associates, LLC | Sr Software Developer | Fort Meade, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bef5e0cbd24f1e8d) | 2026-06-25 21:23 |
-| The Walt Disney Company | Senior Application Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b1d7e70102157f1) | 2026-06-25 21:23 |
 | Palmetto Tech | Databricks Data Engineer - Remote | US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d57ef47d055269a5) | 2026-06-25 19:02 |
 | Dematic | Senior Data Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f9bde3d8a51e4f79) | 2026-06-25 19:02 |
 | Prodapt Solutions | GCP Spanner Data Engineer | Richardson, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=76401a227b65d3e8) | 2026-06-25 19:02 |
@@ -453,7 +463,6 @@ Last updated: 2026-06-25 21:23
 | The Cigna Group | Information Protection Senior Advisor - (Cloud Vulnerability Management) | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59fa7e96028f2f89) | 2026-06-22 18:40 |
 | nan | SENIOR PYTHON DEVELOPER | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=25e80cbc986d4ce6) | 2026-06-22 14:27 |
 | nan | Platform Engineer | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6b4d18e65e5f0b78) | 2026-06-22 08:49 |
-| Markel Corporation | Senior Azure Data Engineer - State National | Bedford, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8cb58a77c3b1339a) | 2026-06-21 23:00 |
 
 
 ---
