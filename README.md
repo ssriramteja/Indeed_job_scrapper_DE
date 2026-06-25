@@ -1,13 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-25 03:42
+Last updated: 2026-06-25 07:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Data Engineer | Minneapolis, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=90aa58aa706914e5) | 2026-06-25 07:35 |
+| AbbVie | Senior Architect, Technology I | Mettawa, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6bde36b833417f68) | 2026-06-25 07:35 |
+| LexisNexis Risk Solutions | Software Architect | Alpharetta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9143d5f91657ba93) | 2026-06-25 07:35 |
+| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7efd71fe94ac695) | 2026-06-25 07:35 |
+| CoStar Group | LoopNet - Senior Software Engineer | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1582817466d60077) | 2026-06-25 07:35 |
+| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b141aab9409e42fc) | 2026-06-25 07:35 |
+| JPMorganChase | Software Engineer III - Big Data & AWS | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e8a9e089237396a3) | 2026-06-25 07:35 |
+| EXL Service | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=426cdfa391f3efd4) | 2026-06-25 07:35 |
+| Optum | Senior Site Reliability Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf6dc9ebd6a9ade1) | 2026-06-25 07:35 |
+| Collectors | Senior Software Engineer, Back-End (Payments) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebeb2570baaf1984) | 2026-06-25 07:35 |
 | RELX Group | Software Architect | Alpharetta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7fcb837d7fc08d9c) | 2026-06-25 03:42 |
-| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7efd71fe94ac695) | 2026-06-25 03:42 |
 | Alignment Healthcare | Senior Engineer & Data Architect, Financial Systems | Orange, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3bdaf4ef4ebe2d43) | 2026-06-25 03:42 |
 | Pedigree Technologies LLC | Software Engineer II | Fargo, ND, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2f9914638c19a8a4) | 2026-06-25 03:42 |
 | Humana | Senior Backend Developer/ DevSecOps Engineer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7a810b0c25679667) | 2026-06-25 03:42 |
@@ -19,7 +28,6 @@ Last updated: 2026-06-25 03:42
 | Humana | Senior Backend Developer/ DevSecOps Engineer | Louisville, KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0e0cff1fdf275be1) | 2026-06-25 03:42 |
 | Humana | Senior Backend Developer/ DevSecOps Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1d6003e0cc9fff47) | 2026-06-25 03:42 |
 | Thermo Fisher Scientific | Scientist III, Software Engineer, Upstream Process Development | Grand Island, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff0934ab4205ec3f) | 2026-06-25 03:42 |
-| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b141aab9409e42fc) | 2026-06-25 03:42 |
 | Nimble Robotics | Data Engineer II/III | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b93268a5d9a09415) | 2026-06-25 03:42 |
 | PlayStation | Sr. Software Engineer | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a364410377394ad4) | 2026-06-25 03:42 |
 | Databricks | Solutions Architect - Financial Services (Asset and Wealth Management) | Central, LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d7090362d091f78) | 2026-06-25 03:42 |
@@ -449,8 +457,6 @@ Last updated: 2026-06-25 03:42
 | HCLTech | GCP Application Technical Specialist | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b49ae82a293e4f9) | 2026-06-21 17:19 |
 | nan | Sr Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed47cf62aeed008b) | 2026-06-21 15:06 |
 | Ingram Micro | Software Engineer - AI | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=da688748068d58e3) | 2026-06-21 09:36 |
-| HCLTech | Full Stack Java Technical Specialist - React.js | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=86a514b2ddb169b4) | 2026-06-21 05:53 |
-| LTIMindtree | Specialist - Data Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4405fe7120dba5a) | 2026-06-21 05:53 |
 
 
 ---
