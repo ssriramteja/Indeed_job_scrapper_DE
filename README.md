@@ -1,17 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-25 07:35
+Last updated: 2026-06-25 10:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Comcast | Sr. Site Reliability Engineer, Data - FreeWheel | Reston, VA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=9de4453bf3c4212f) | 2026-06-25 10:35 |
+| Cox Automotive | Business Intelligence Sr Analyst | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0e1d0952eadd1803) | 2026-06-25 10:35 |
+| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7efd71fe94ac695) | 2026-06-25 10:35 |
+| Comcast | Sr. Site Reliability Engineer, Data - FreeWheel | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e360f490049f028c) | 2026-06-25 10:35 |
+| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b141aab9409e42fc) | 2026-06-25 10:35 |
+| Tata Consultancy Services (TCS) | Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b74098577c0fc14) | 2026-06-25 10:35 |
 | nan | Data Engineer | Minneapolis, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=90aa58aa706914e5) | 2026-06-25 07:35 |
 | AbbVie | Senior Architect, Technology I | Mettawa, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6bde36b833417f68) | 2026-06-25 07:35 |
 | LexisNexis Risk Solutions | Software Architect | Alpharetta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9143d5f91657ba93) | 2026-06-25 07:35 |
-| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7efd71fe94ac695) | 2026-06-25 07:35 |
 | CoStar Group | LoopNet - Senior Software Engineer | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1582817466d60077) | 2026-06-25 07:35 |
-| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b141aab9409e42fc) | 2026-06-25 07:35 |
 | JPMorganChase | Software Engineer III - Big Data & AWS | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e8a9e089237396a3) | 2026-06-25 07:35 |
 | EXL Service | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=426cdfa391f3efd4) | 2026-06-25 07:35 |
 | Optum | Senior Site Reliability Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf6dc9ebd6a9ade1) | 2026-06-25 07:35 |
@@ -456,7 +460,6 @@ Last updated: 2026-06-25 07:35
 | nan | Databricks Data Engineer | Aldie, VA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0215398446cd7f0b) | 2026-06-21 17:19 |
 | HCLTech | GCP Application Technical Specialist | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b49ae82a293e4f9) | 2026-06-21 17:19 |
 | nan | Sr Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed47cf62aeed008b) | 2026-06-21 15:06 |
-| Ingram Micro | Software Engineer - AI | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=da688748068d58e3) | 2026-06-21 09:36 |
 
 
 ---
