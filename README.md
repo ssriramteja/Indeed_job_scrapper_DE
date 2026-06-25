@@ -1,13 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-25 13:11
+Last updated: 2026-06-25 16:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7efd71fe94ac695) | 2026-06-25 13:11 |
-| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b141aab9409e42fc) | 2026-06-25 13:11 |
+| Derex Technologies inc | Artificial Intelligence/Machine Learning Engineer | Austin, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a074a785ce24052f) | 2026-06-25 16:16 |
+| Globant | Data Scientist | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0725cc4f521729f5) | 2026-06-25 16:16 |
+| Qode | DevOps Engineer with Java | Basking Ridge, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=91621af2058bcdaf) | 2026-06-25 16:16 |
+| Qode | DevOps Engineer with Java | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e4043bb7b561d2d9) | 2026-06-25 16:16 |
+| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7efd71fe94ac695) | 2026-06-25 16:16 |
+| Kyndryl | Software Engineer - Application Consultant | Research Triangle Park, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=649b76151ccd01db) | 2026-06-25 16:16 |
+| Kyndryl | Software Engineer - Application Consultant | Research Triangle Park, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e983e1a21daa953c) | 2026-06-25 16:16 |
+| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b141aab9409e42fc) | 2026-06-25 16:16 |
+| NMI | Senior Software Engineer (PHP) | Schaumburg, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4716c280fcc00d98) | 2026-06-25 16:16 |
+| MESTEK INC | Alteryx Developer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1b49305ad894f414) | 2026-06-25 16:16 |
+| Globant | Python Engineer | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6d21f70ad7aca36) | 2026-06-25 16:16 |
+| Axon | Senior Platform Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c66d1722dc1904af) | 2026-06-25 16:16 |
+| The Walt Disney Company | Senior Application Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b1d7e70102157f1) | 2026-06-25 16:16 |
+| Coralogix | Technical Support Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35aecec750568de1) | 2026-06-25 16:16 |
+| Oracle | [Remote] Senior FullStack Platform Software Engineer- Clinical Digital Assistant | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1a152297c2ff6df) | 2026-06-25 16:16 |
 | New York Life | Associate - Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cab0fb5e8b841018) | 2026-06-25 13:11 |
 | Comcast | Sr. Site Reliability Engineer, Data - FreeWheel | Reston, VA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=9de4453bf3c4212f) | 2026-06-25 10:35 |
 | Cox Automotive | Business Intelligence Sr Analyst | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0e1d0952eadd1803) | 2026-06-25 10:35 |
@@ -460,7 +473,6 @@ Last updated: 2026-06-25 13:11
 | CVS Health | Senior Data Scientist | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b38ea20568618d5) | 2026-06-21 21:05 |
 | nan | Databricks Data Engineer | Aldie, VA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0215398446cd7f0b) | 2026-06-21 17:19 |
 | HCLTech | GCP Application Technical Specialist | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b49ae82a293e4f9) | 2026-06-21 17:19 |
-| nan | Sr Product Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed47cf62aeed008b) | 2026-06-21 15:06 |
 
 
 ---
