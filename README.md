@@ -1,15 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-24 22:08
+Last updated: 2026-06-25 00:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ziosk | Senior Data Engineer on-site) | Plano, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3c91ab31afe36f91) | 2026-06-25 00:00 |
+| Ziosk | Senior Data Engineer on-site) | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=13b180e2e10be4d8) | 2026-06-25 00:00 |
+| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7efd71fe94ac695) | 2026-06-25 00:00 |
+| Fidelity Investments | Senior Platform Engineer (Cloud / Kubernetes / Java) | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=008b7c533fc81ed0) | 2026-06-25 00:00 |
+| Fidelity Investments | Senior Platform Engineer (Cloud / Kubernetes / Java) | Covington, KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37ce86d12ab5f536) | 2026-06-25 00:00 |
+| DataArt | Middle–Senior Software / Data Engineer, AI Enablement & Data Platform Migration | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3094b458dcbd5120) | 2026-06-25 00:00 |
+| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b141aab9409e42fc) | 2026-06-25 00:00 |
+| Five Below | Sr Solutions Architect - Omnichannel | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f058ca30d1bcc8cd) | 2026-06-25 00:00 |
+| MetLife | Junior Software Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=80744870ee084082) | 2026-06-25 00:00 |
+| nan | Data Migration Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6708bcfc3951fe3e) | 2026-06-25 00:00 |
+| Keeper Security, Inc. | Senior Demo Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=269d03aac02123d7) | 2026-06-25 00:00 |
+| AGFA | DevOps Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e2924b464417a6f) | 2026-06-25 00:00 |
 | Topgolf | Data Engineer II | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=97eae083068a3900) | 2026-06-24 22:08 |
-| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7efd71fe94ac695) | 2026-06-24 22:08 |
 | EWC Corporate LLC | Senior Data Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0244beb9aaca2837) | 2026-06-24 22:08 |
-| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b141aab9409e42fc) | 2026-06-24 22:08 |
 | Vforce Infotech | Data Engineer | Edison, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8ae211082b475d14) | 2026-06-24 22:08 |
 | Digital Realty | Data Workflow Engineer – AI & Automation Focus | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=461aa75a8d591411) | 2026-06-24 22:08 |
 | ClearCaptions, LLC | Sr. Data Engineer - Fabric (100% Remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50b81073918a7625) | 2026-06-24 22:08 |
