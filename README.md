@@ -1,16 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-25 10:35
+Last updated: 2026-06-25 13:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7efd71fe94ac695) | 2026-06-25 13:11 |
+| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b141aab9409e42fc) | 2026-06-25 13:11 |
+| New York Life | Associate - Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cab0fb5e8b841018) | 2026-06-25 13:11 |
 | Comcast | Sr. Site Reliability Engineer, Data - FreeWheel | Reston, VA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=9de4453bf3c4212f) | 2026-06-25 10:35 |
 | Cox Automotive | Business Intelligence Sr Analyst | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0e1d0952eadd1803) | 2026-06-25 10:35 |
-| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7efd71fe94ac695) | 2026-06-25 10:35 |
 | Comcast | Sr. Site Reliability Engineer, Data - FreeWheel | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e360f490049f028c) | 2026-06-25 10:35 |
-| Ford Motor Company | Full Stack Software Engineer - Ford Pro | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b141aab9409e42fc) | 2026-06-25 10:35 |
 | Tata Consultancy Services (TCS) | Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b74098577c0fc14) | 2026-06-25 10:35 |
 | nan | Data Engineer | Minneapolis, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=90aa58aa706914e5) | 2026-06-25 07:35 |
 | AbbVie | Senior Architect, Technology I | Mettawa, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6bde36b833417f68) | 2026-06-25 07:35 |
