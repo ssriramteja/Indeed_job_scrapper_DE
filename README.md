@@ -1,12 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-26 20:27
+Last updated: 2026-06-26 22:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Scientist – Manufacturing Intelligence, Machine Learning & AI | Wa-Ni Village, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2ab95f94071e971b) | 2026-06-26 20:27 |
+| American Airlines | Engineer/Sr Engineer, IT Data | Fort Worth, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0631739ce734e7c7) | 2026-06-26 22:03 |
+| NSV IT SOLUTIONS | Mainframe Analyst (Healthcare) | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=529186dc1f0e5461) | 2026-06-26 22:03 |
+| Colgate-Palmolive | Data Architect (173743) | Piscataway, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c9545b3f6e705f68) | 2026-06-26 22:03 |
+| Optum | Senior Data Engineer - Remote | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=861d82e3c9e267af) | 2026-06-26 22:03 |
+| nan | Senior Cloud Engineer | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=32c289c0954d3b83) | 2026-06-26 22:03 |
+| Fubo | Software Engineer, Data Engineering | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0e24be3cd83341f1) | 2026-06-26 22:03 |
+| Eli Lilly | Site Reliability Engineer – Oracle DB | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=caa3611b23da5c7d) | 2026-06-26 22:03 |
+| Arvest Bank | Senior Data Engineer - Orchestration | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e8fe7267b8b9de10) | 2026-06-26 22:03 |
+| The Hartford | Senior Software Engineer - Hybrid | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6c3e33c47a701cd2) | 2026-06-26 22:03 |
+| The Hartford | Senior Software Engineer - Hybrid | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03e620dabe0cd123) | 2026-06-26 22:03 |
+| ExtraHop Networks | Senior Software Engineer \| Middleware | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=111ecbafdd773723) | 2026-06-26 22:03 |
+| Blood Cancer United | Data Engineer - 2 Openings | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd9f154e39bab643) | 2026-06-26 22:03 |
+| Newsbreak | Senior Data Infra Engineer | Mountain View, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0bce72fe2aabb677) | 2026-06-26 22:03 |
+| Cohere Health | Software Engineer ll, Data Platform | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80e694b601457a09) | 2026-06-26 22:03 |
+| The Walt Disney Company | Data Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0309d0101fc2195f) | 2026-06-26 22:03 |
+| Cognizant | Snowflake Architect | Blaine, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=171a3405a6bf87d5) | 2026-06-26 22:03 |
 | WSSC Water | Data Architect | Laurel, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=efacd6764e780443) | 2026-06-26 20:27 |
 | Centurion Consulting Group | Senior IT Big Data Developer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ae26c12caca27959) | 2026-06-26 20:27 |
 | Centurion Consulting Group | Senior IT Data Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=efb360d7f7dedcd5) | 2026-06-26 20:27 |
@@ -15,7 +30,6 @@ Last updated: 2026-06-26 20:27
 | Arc Technologies Group | Cloud Engineer | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8ccc63169a66ef59) | 2026-06-26 20:27 |
 | Transcor Data Services | Developer Operations Engineer I | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b84e13a37c8822b9) | 2026-06-26 20:27 |
 | Univision Communications Inc | Senior Data Engineer | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b2f885fbfd483879) | 2026-06-26 20:27 |
-| The Walt Disney Company | Data Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0309d0101fc2195f) | 2026-06-26 20:27 |
 | ACA Group | Ruby on Rails Developer | Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=055ba32ff0f18bd8) | 2026-06-26 20:27 |
 | Lennar | Data Engineer II | Miami, FL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=d8b8b3a8aa7e371a) | 2026-06-26 18:23 |
 | BV Teck | AWS Cloud | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9e552055c9acf50c) | 2026-06-26 18:23 |
@@ -528,40 +542,6 @@ Last updated: 2026-06-26 20:27
 | The Cigna Group | Information Protection Senior Advisor - (Cloud Vulnerability Management) | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=36165d879b274964) | 2026-06-22 23:13 |
 | LendingTree | Senior Business Analyst | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a21b8846522997bd) | 2026-06-22 23:13 |
 | Citian | DevOps Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b974af9691c4f73) | 2026-06-22 23:13 |
-| Skillable | Data Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=311fae6e7852845c) | 2026-06-22 21:28 |
-| Kemper | Senior Data Systems Analyst | Jacksonville, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=901037a80c58288a) | 2026-06-22 21:28 |
-| Kemper | Senior Data Systems Analyst | Downers Grove, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cdaf9fb3151d6e1d) | 2026-06-22 21:28 |
-| Kemper | Senior Data Systems Analyst | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b9ee45bf9eb0ffba) | 2026-06-22 21:28 |
-| Kemper | Senior Data Systems Analyst | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d55836148ef2a5d2) | 2026-06-22 21:28 |
-| Kemper | Senior Data Systems Analyst | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c6e4e7d744b937a4) | 2026-06-22 21:28 |
-| Kemper | Senior Data Systems Analyst | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6a97de4c50830683) | 2026-06-22 21:28 |
-| Kemper | Senior Data Systems Analyst | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6adcbc9e8685b739) | 2026-06-22 21:28 |
-| Caterpillar | Data Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=da7ab691a0b00d67) | 2026-06-22 21:28 |
-| Interra Health | Senior Data Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1318e82a9a194375) | 2026-06-22 21:28 |
-| Caris Life Sciences | Senior Performance Database Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e4925c6e7012876a) | 2026-06-22 21:28 |
-| KPMG | Application Architect (contract) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f4005e09738f87b) | 2026-06-22 21:28 |
-| UC San Diego | Systems Integration Engineer 3 | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=656b4089fd66ca54) | 2026-06-22 21:28 |
-| SS&C | Senior AI Platform Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=679b995b3aa9e079) | 2026-06-22 21:28 |
-| Health Catalyst | Sr Data Engineer- Integrations | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c6de5fb7f1d0546) | 2026-06-22 21:28 |
-| Acima Leasing | Platform Engineer II | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5562bfd4f998c118) | 2026-06-22 21:28 |
-| Braze | Senior Data Engineer II | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ecf6407a53ab4b9) | 2026-06-22 21:28 |
-| LPL Financial | Senior Software Engineer - Backend (Python & AWS) | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=394b99227e255a87) | 2026-06-22 21:28 |
-| Cardinal Health | Consultant, Strategy and Business Analytics | Dublin, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=34a7ab2b3bfa1663) | 2026-06-22 21:28 |
-| Southern New Hampshire University | Senior AI Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1105ec475da982ae) | 2026-06-22 21:28 |
-| Databricks | Sr. Forward Deployed Engineer - Financial Services | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5604c52f06d0ee25) | 2026-06-22 21:28 |
-| Databricks | Sr. Forward Deployed Engineer - Financial Services | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=66c9d330852f409d) | 2026-06-22 21:28 |
-| Databricks | Sr. Forward Deployed Engineer - Financial Services | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a5a3081bc81bfba1) | 2026-06-22 21:28 |
-| Databricks | Sr. Forward Deployed Engineer - Financial Services | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ded0c7a9dceb7dc8) | 2026-06-22 21:28 |
-| Databricks | Sr. Forward Deployed Engineer - Financial Services | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=860741b7d7b95265) | 2026-06-22 21:28 |
-| Databricks | Sr. Forward Deployed Engineer - Financial Services | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b223dc2b5127ecf4) | 2026-06-22 21:28 |
-| Databricks | Sr. Forward Deployed Engineer - Financial Services | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4b9420fc6b40ef2) | 2026-06-22 21:28 |
-| Databricks | Sr. Forward Deployed Engineer - Financial Services | Central, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eefa74af3d61ebf7) | 2026-06-22 21:28 |
-| Databricks | Sr. Forward Deployed Engineer - Financial Services | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=724915d9ab75c4bc) | 2026-06-22 21:28 |
-| Charles River Analytics | UX Software Engineer | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c9d974e64a10e28) | 2026-06-22 21:28 |
-| Texas Instruments | System Architect – Platform Engineering | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f81a3257ca39d82e) | 2026-06-22 21:28 |
-| Okta | Enterprise Architect, Finance & Legal Systems | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=619827434d7e7a20) | 2026-06-22 21:28 |
-| Okta | Enterprise Architect, Finance & Legal Systems | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dea59b60f49359e2) | 2026-06-22 21:28 |
-| Southern New Hampshire University | AI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12abd2998788b1bc) | 2026-06-22 21:28 |
 
 
 ---
