@@ -1,14 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-26 06:44
+Last updated: 2026-06-26 10:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Senior Data Scientist – Manufacturing Intelligence, Machine Learning & AI | Wa-Ni Village, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2ab95f94071e971b) | 2026-06-26 10:15 |
+| U.S. Financial Technology | DevOps Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a593e5a13bf91848) | 2026-06-26 10:15 |
+| General Motors (GM) | Senior Robotics Data Engineer/Data Scientist | Warren, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f7d4e995adafbb96) | 2026-06-26 10:15 |
+| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2ec42f2e29989e) | 2026-06-26 10:15 |
+| The Walt Disney Company | Senior Application Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b1d7e70102157f1) | 2026-06-26 10:15 |
 | American Airlines | Engineer/Sr Engineer, IT Data | Tulsa, OK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=171509f615b5daa2) | 2026-06-26 06:44 |
 | BDO | Advisory Associate, AI - Summer 2026 (Houston) | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3f5fd57bbd10ca27) | 2026-06-26 06:44 |
-| Ford Motor Company | Senior Data Scientist – Manufacturing Intelligence, Machine Learning & AI | Wa-Ni Village, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2ab95f94071e971b) | 2026-06-26 06:44 |
 | Shearwater Health | Technology Architect - Product Development | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53d40e3111fd3799) | 2026-06-26 06:44 |
 | Labcorp | Senior Java Engineer | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ec4bd51618d0a580) | 2026-06-26 06:44 |
 | McKesson | Full-Stack Java Developer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=651520622efc1265) | 2026-06-26 06:44 |
@@ -63,10 +67,8 @@ Last updated: 2026-06-26 06:44
 | CVS Health | Software Engineer - Search and Personalization | CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cdeb6923f62c2160) | 2026-06-26 06:44 |
 | CVS Health | Software Engineer - Search and Personalization | RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e8bc2ea076a0ded7) | 2026-06-26 06:44 |
 | CVS Health | Software Engineer - Search and Personalization | MT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ee0fd3306ac2ce34) | 2026-06-26 06:44 |
-| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2ec42f2e29989e) | 2026-06-26 06:44 |
 | NewYork-Presbyterian Hospital | Analytics Developer, Enterprise Analytics (Data Shared Services) | Manhattan, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a889968da2ddc13e) | 2026-06-26 06:44 |
 | oura | Senior Data Analyst - Corporate Financial | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0d0e3250352dd44) | 2026-06-26 06:44 |
-| The Walt Disney Company | Senior Application Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b1d7e70102157f1) | 2026-06-26 06:44 |
 | Maverick Payments | Data Warehouse Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f9912f562ebafa77) | 2026-06-26 02:31 |
 | Vida Health | Senior Backend Software Engineer IV | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3a816a575de11cfe) | 2026-06-26 02:31 |
 | Coastal | Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a700c4126f5f39e0) | 2026-06-26 02:31 |
@@ -551,7 +553,6 @@ Last updated: 2026-06-26 06:44
 | American Express | Sr Software Engineer I - Java - Ace Studio Platform | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61154a8efcdc6de3) | 2026-06-22 18:40 |
 | The Cigna Group | Information Protection Senior Advisor - (Cloud Vulnerability Management) | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59fa7e96028f2f89) | 2026-06-22 18:40 |
 | nan | SENIOR PYTHON DEVELOPER | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=25e80cbc986d4ce6) | 2026-06-22 14:27 |
-| nan | Platform Engineer | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6b4d18e65e5f0b78) | 2026-06-22 08:49 |
 
 
 ---
