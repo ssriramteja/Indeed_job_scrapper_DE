@@ -1,16 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-26 10:15
+Last updated: 2026-06-26 13:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Scientist – Manufacturing Intelligence, Machine Learning & AI | Wa-Ni Village, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2ab95f94071e971b) | 2026-06-26 10:15 |
+| Ford Motor Company | Senior Data Scientist – Manufacturing Intelligence, Machine Learning & AI | Wa-Ni Village, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2ab95f94071e971b) | 2026-06-26 13:03 |
+| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2ec42f2e29989e) | 2026-06-26 13:03 |
+| Alternative Information Systems | Systems Administrator - Junior | Buffalo, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87325485029af851) | 2026-06-26 13:03 |
+| The Walt Disney Company | Senior Application Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b1d7e70102157f1) | 2026-06-26 13:03 |
 | U.S. Financial Technology | DevOps Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a593e5a13bf91848) | 2026-06-26 10:15 |
 | General Motors (GM) | Senior Robotics Data Engineer/Data Scientist | Warren, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f7d4e995adafbb96) | 2026-06-26 10:15 |
-| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2ec42f2e29989e) | 2026-06-26 10:15 |
-| The Walt Disney Company | Senior Application Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b1d7e70102157f1) | 2026-06-26 10:15 |
 | American Airlines | Engineer/Sr Engineer, IT Data | Tulsa, OK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=171509f615b5daa2) | 2026-06-26 06:44 |
 | BDO | Advisory Associate, AI - Summer 2026 (Houston) | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3f5fd57bbd10ca27) | 2026-06-26 06:44 |
 | Shearwater Health | Technology Architect - Product Development | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53d40e3111fd3799) | 2026-06-26 06:44 |
