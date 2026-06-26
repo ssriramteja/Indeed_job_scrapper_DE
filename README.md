@@ -1,22 +1,53 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-25 23:08
+Last updated: 2026-06-26 02:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Maverick Payments | Data Warehouse Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f9912f562ebafa77) | 2026-06-26 02:31 |
+| Ford Motor Company | Senior Data Scientist – Manufacturing Intelligence, Machine Learning & AI | Wa-Ni Village, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2ab95f94071e971b) | 2026-06-26 02:31 |
+| Vida Health | Senior Backend Software Engineer IV | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3a816a575de11cfe) | 2026-06-26 02:31 |
+| Coastal | Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a700c4126f5f39e0) | 2026-06-26 02:31 |
+| Cumming Group | Junior Data Engineer | Murrieta, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c2c1772ff77b54bf) | 2026-06-26 02:31 |
+| ServiceTitan | Senior Integration Engineer | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ce4996222dad233) | 2026-06-26 02:31 |
+| American Express | Data Engineer II - Global Servicing Technology | Sunrise, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6c63a2ab17c26b27) | 2026-06-26 02:31 |
+| Databricks | Solutions Architect - Financial Services (Insurance) | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c2e4b10d02c9169d) | 2026-06-26 02:31 |
+| Databricks | Sr. Solutions Architect - Financial Services (Wealth and Asset Management) | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f8502da83b9f3f55) | 2026-06-26 02:31 |
+| Office Ally | Senior Guidewire Integration Engineer | Walnut Creek, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8e37631ce8845786) | 2026-06-26 02:31 |
+| Office Ally | Senior Guidewire Integration Engineer | Concord, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0e4bf24557f7446) | 2026-06-26 02:31 |
+| Office Ally | Senior Guidewire Integration Engineer | Clayton, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=943f1767bc3da17e) | 2026-06-26 02:31 |
+| Office Ally | Senior Guidewire Integration Engineer | Antioch, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=55a3ba405f74d032) | 2026-06-26 02:31 |
+| Office Ally | Senior Guidewire Integration Engineer | Martinez, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=53e9315332f2ea0c) | 2026-06-26 02:31 |
+| Office Ally | Senior Guidewire Integration Engineer | Pleasant Hill, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae88819d628f2aed) | 2026-06-26 02:31 |
+| Office Ally | Senior Guidewire Integration Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=48ff3521016f8dd5) | 2026-06-26 02:31 |
+| Aqua Finance | Snowflake Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc4122f34f0b0a80) | 2026-06-26 02:31 |
+| Brown & Brown Insurance | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f55a36c486ae8573) | 2026-06-26 02:31 |
+| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2ec42f2e29989e) | 2026-06-26 02:31 |
+| Office Ally | Senior Integration Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=797e64bcb8624035) | 2026-06-26 02:31 |
+| Office Ally | Senior Integration Engineer | Concord, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eefab3368870cfd6) | 2026-06-26 02:31 |
+| Office Ally | Senior Integration Engineer | Clayton, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=992d1d915f9d6362) | 2026-06-26 02:31 |
+| Office Ally | Senior Integration Engineer | Pleasant Hill, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=654b2f67eee1d48c) | 2026-06-26 02:31 |
+| Office Ally | Senior Integration Engineer | Berkeley, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=438aec656ad718b9) | 2026-06-26 02:31 |
+| Office Ally | Senior Integration Engineer | Walnut Creek, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f9d760938954181) | 2026-06-26 02:31 |
+| Office Ally | Senior Integration Engineer | Martinez, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a6d712eb3900bf51) | 2026-06-26 02:31 |
+| Visa | Sr. SW Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fd564ef34bae6dc8) | 2026-06-26 02:31 |
+| StandardAero | Computer Data Engineering Intern/Co-Op | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a982d1d82cbd60b) | 2026-06-26 02:31 |
+| Blue Cross Blue Shield of Arizona | Data Engineer (Business Intelligence) - Hybrid | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b876b640329d1da8) | 2026-06-26 02:31 |
+| inversion | Senior Platform Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5fdf01ee46ca5c04) | 2026-06-26 02:31 |
+| Knowtion Health | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe12ac26edf139f6) | 2026-06-26 02:31 |
+| The Walt Disney Company | Senior Application Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b1d7e70102157f1) | 2026-06-26 02:31 |
+| JetBlue | Storage Engineer | Long Island City, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5431a909ca95c9b1) | 2026-06-26 02:31 |
 | TAN45 TECH | PLM Teamcenter Solution Architect - Siemens | Frisco, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=747fddb8b55540ea) | 2026-06-25 23:08 |
 | PowerSecure Inc. | Data Solutions Engineer - Hybrid/Durham,NC | Durham, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f85d13cad9b24073) | 2026-06-25 23:08 |
 | HCLTech | GCP Technical Specialist | Philadelphia, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a829451037364106) | 2026-06-25 23:08 |
 | JSR Tech Consulting | Full Stack Developer | NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fd415a132048d89a) | 2026-06-25 23:08 |
 | Cognizant | Sr. AWS Data Architect (Remote) | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=436457a82fb3e61d) | 2026-06-25 23:08 |
 | nan | AI Engineer | Davie, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2fdb23c6c263875) | 2026-06-25 23:08 |
-| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2ec42f2e29989e) | 2026-06-25 23:08 |
 | Applied Information Sciences | Sr. Software Architect | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef11c58ff0ce6339) | 2026-06-25 23:08 |
 | McKesson | Sr. Associate Software Engineer (Healthcare Data Integration) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5cc7c095dc341df) | 2026-06-25 23:08 |
 | AiPrise | Senior Software Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=321ab7e09526522f) | 2026-06-25 23:08 |
-| The Walt Disney Company | Senior Application Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b1d7e70102157f1) | 2026-06-25 23:08 |
 | Medical Mutual of Ohio | Data Exchange Engineer | Dublin, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=faa9119731d42f84) | 2026-06-25 23:08 |
 | IvoryCloud | Senior Data Engineer | Rockville, MD, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=c61bc90da42df2de) | 2026-06-25 21:23 |
 | ComplexCare Solutions | Senior Software Data Engineer (Contract) | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a32a20237152630a) | 2026-06-25 21:23 |
