@@ -1,15 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-26 13:03
+Last updated: 2026-06-26 16:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Scientist – Manufacturing Intelligence, Machine Learning & AI | Wa-Ni Village, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2ab95f94071e971b) | 2026-06-26 13:03 |
-| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2ec42f2e29989e) | 2026-06-26 13:03 |
+| Ford Motor Company | Senior Data Scientist – Manufacturing Intelligence, Machine Learning & AI | Wa-Ni Village, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2ab95f94071e971b) | 2026-06-26 16:07 |
+| PNC Financial Services Group | Data Engineer Senior - Big Data Platform Team | Farmers Branch, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0bd359ddd135794e) | 2026-06-26 16:07 |
+| New York City Department of Sanitation | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f58c8be3a69d599b) | 2026-06-26 16:07 |
+| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2ec42f2e29989e) | 2026-06-26 16:07 |
+| Optum | Senior Software Engineer | Wausau, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2a4a5c971b6dae8) | 2026-06-26 16:07 |
+| Rivian | Sr. Software Engineer, Enterprise Software | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=424a613517dace69) | 2026-06-26 16:07 |
+| The Walt Disney Company | Data Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0309d0101fc2195f) | 2026-06-26 16:07 |
 | Alternative Information Systems | Systems Administrator - Junior | Buffalo, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87325485029af851) | 2026-06-26 13:03 |
-| The Walt Disney Company | Senior Application Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b1d7e70102157f1) | 2026-06-26 13:03 |
 | U.S. Financial Technology | DevOps Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a593e5a13bf91848) | 2026-06-26 10:15 |
 | General Motors (GM) | Senior Robotics Data Engineer/Data Scientist | Warren, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f7d4e995adafbb96) | 2026-06-26 10:15 |
 | American Airlines | Engineer/Sr Engineer, IT Data | Tulsa, OK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=171509f615b5daa2) | 2026-06-26 06:44 |
@@ -553,7 +557,6 @@ Last updated: 2026-06-26 13:03
 | PrizePicks | Data Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55fa1a739f4dfcad) | 2026-06-22 18:40 |
 | American Express | Sr Software Engineer I - Java - Ace Studio Platform | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61154a8efcdc6de3) | 2026-06-22 18:40 |
 | The Cigna Group | Information Protection Senior Advisor - (Cloud Vulnerability Management) | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59fa7e96028f2f89) | 2026-06-22 18:40 |
-| nan | SENIOR PYTHON DEVELOPER | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=25e80cbc986d4ce6) | 2026-06-22 14:27 |
 
 
 ---
