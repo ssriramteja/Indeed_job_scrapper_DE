@@ -1,13 +1,73 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-26 02:31
+Last updated: 2026-06-26 06:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| American Airlines | Engineer/Sr Engineer, IT Data | Tulsa, OK, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=171509f615b5daa2) | 2026-06-26 06:44 |
+| BDO | Advisory Associate, AI - Summer 2026 (Houston) | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3f5fd57bbd10ca27) | 2026-06-26 06:44 |
+| Ford Motor Company | Senior Data Scientist – Manufacturing Intelligence, Machine Learning & AI | Wa-Ni Village, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2ab95f94071e971b) | 2026-06-26 06:44 |
+| Shearwater Health | Technology Architect - Product Development | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53d40e3111fd3799) | 2026-06-26 06:44 |
+| Labcorp | Senior Java Engineer | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ec4bd51618d0a580) | 2026-06-26 06:44 |
+| McKesson | Full-Stack Java Developer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=651520622efc1265) | 2026-06-26 06:44 |
+| MNTN | Senior Software Engineer - Data Platform | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3610cfdfc0364b8e) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | AK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b9a38e235659081) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cd0775a42f899524) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b33138f7850dfefc) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a342726a84e27f8e) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c186d8b7ac65fdf8) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95cc142f3e2617a6) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=db16f20add9ea986) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | MS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1382d06b80fb6867) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bcad5c4e643319ff) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40e64526422d931b) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e4d627fd3422104c) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fab8211cf6bde1e0) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05bab721c73d545f) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85a706af297ba804) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | ND, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=13401bc8d0f3279e) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=31032458d140d1ae) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=115cfe00112809d8) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=031a5b8865d1f458) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=65c6bb88e77fa7e3) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0426526011ecf8ab) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e2f4ae59bb2e76db) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | DE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc596e52195e0933) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=44f8b5180e01e140) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af0b8f364ebc3247) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef9c01896959f630) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=271061dada6a961f) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1faf6e04fa2bbdcf) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f9794568eb039870) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1560887d7cb316fd) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bdd4ac5f09111b4e) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | NV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dee274917e4b9029) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2c1f0804f082a435) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | WY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2bcfef10dd24abe4) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71d3b83605c8a2df) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=940dcb7683294d7b) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fbb60bebb7779e64) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | SD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c37d2114cee6dba4) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c39c8b726cdb22aa) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bd9a756aa23e011c) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | WV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=22d070dab1e1cb93) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4045cf1c680be7b6) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | ID, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d5f4daad7fda9ff7) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d0671107537ae859) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | ME, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a057a8d1dc27a54f) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3ec8eebe082d41ed) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3912346602551520) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c6b2ae9b514e3c3) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cdeb6923f62c2160) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e8bc2ea076a0ded7) | 2026-06-26 06:44 |
+| CVS Health | Software Engineer - Search and Personalization | MT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ee0fd3306ac2ce34) | 2026-06-26 06:44 |
+| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2ec42f2e29989e) | 2026-06-26 06:44 |
+| NewYork-Presbyterian Hospital | Analytics Developer, Enterprise Analytics (Data Shared Services) | Manhattan, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a889968da2ddc13e) | 2026-06-26 06:44 |
+| oura | Senior Data Analyst - Corporate Financial | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0d0e3250352dd44) | 2026-06-26 06:44 |
+| The Walt Disney Company | Senior Application Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b1d7e70102157f1) | 2026-06-26 06:44 |
 | Maverick Payments | Data Warehouse Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f9912f562ebafa77) | 2026-06-26 02:31 |
-| Ford Motor Company | Senior Data Scientist – Manufacturing Intelligence, Machine Learning & AI | Wa-Ni Village, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2ab95f94071e971b) | 2026-06-26 02:31 |
 | Vida Health | Senior Backend Software Engineer IV | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3a816a575de11cfe) | 2026-06-26 02:31 |
 | Coastal | Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a700c4126f5f39e0) | 2026-06-26 02:31 |
 | Cumming Group | Junior Data Engineer | Murrieta, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c2c1772ff77b54bf) | 2026-06-26 02:31 |
@@ -24,7 +84,6 @@ Last updated: 2026-06-26 02:31
 | Office Ally | Senior Guidewire Integration Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=48ff3521016f8dd5) | 2026-06-26 02:31 |
 | Aqua Finance | Snowflake Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc4122f34f0b0a80) | 2026-06-26 02:31 |
 | Brown & Brown Insurance | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f55a36c486ae8573) | 2026-06-26 02:31 |
-| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2ec42f2e29989e) | 2026-06-26 02:31 |
 | Office Ally | Senior Integration Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=797e64bcb8624035) | 2026-06-26 02:31 |
 | Office Ally | Senior Integration Engineer | Concord, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eefab3368870cfd6) | 2026-06-26 02:31 |
 | Office Ally | Senior Integration Engineer | Clayton, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=992d1d915f9d6362) | 2026-06-26 02:31 |
@@ -37,7 +96,6 @@ Last updated: 2026-06-26 02:31
 | Blue Cross Blue Shield of Arizona | Data Engineer (Business Intelligence) - Hybrid | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b876b640329d1da8) | 2026-06-26 02:31 |
 | inversion | Senior Platform Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5fdf01ee46ca5c04) | 2026-06-26 02:31 |
 | Knowtion Health | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe12ac26edf139f6) | 2026-06-26 02:31 |
-| The Walt Disney Company | Senior Application Engineer | Lake Buena Vista, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b1d7e70102157f1) | 2026-06-26 02:31 |
 | JetBlue | Storage Engineer | Long Island City, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5431a909ca95c9b1) | 2026-06-26 02:31 |
 | TAN45 TECH | PLM Teamcenter Solution Architect - Siemens | Frisco, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=747fddb8b55540ea) | 2026-06-25 23:08 |
 | PowerSecure Inc. | Data Solutions Engineer - Hybrid/Durham,NC | Durham, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f85d13cad9b24073) | 2026-06-25 23:08 |
