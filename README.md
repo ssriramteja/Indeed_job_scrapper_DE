@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-27 13:11
+Last updated: 2026-06-27 15:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Developer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac0b8be0e4857da6) | 2026-06-27 13:11 |
-| ExtraHop Networks | Senior Software Engineer \| Middleware | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=111ecbafdd773723) | 2026-06-27 13:11 |
+| Fairfax County Government | Data Engineer (Business Analyst IV) | Fairfax, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=414e38f5ca1fe7f7) | 2026-06-27 15:08 |
+| Ford Motor Company | Software Developer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac0b8be0e4857da6) | 2026-06-27 15:08 |
+| ExtraHop Networks | Senior Software Engineer \| Middleware | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=111ecbafdd773723) | 2026-06-27 15:08 |
 | Networking for Future, Inc. | Data Architect | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0b36615465054406) | 2026-06-27 11:21 |
 | Foundation Building Materials | Senior BI Developer | Santa Ana, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=25c1cd979546661c) | 2026-06-27 11:21 |
 | JPMorganChase | Quant Analytics Associate Sr - DART | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=958563c6ca41d7c8) | 2026-06-27 09:23 |
@@ -545,7 +546,6 @@ Last updated: 2026-06-27 13:11
 | IQVIA | Senior Software Engineer | Red Bank, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05fc6cb7a47df4b7) | 2026-06-23 16:21 |
 | Intuit | Senior Software Engineer, Payments | Mountain View, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3572e441b7b83887) | 2026-06-23 16:21 |
 | Axon Networks | Web Application Engineer (Irvine, US) | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f78a4c688172469a) | 2026-06-23 16:21 |
-| eClerx | Site Reliability / DevOps Engineer | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=daa7abd37eec3291) | 2026-06-23 13:37 |
 
 
 ---
