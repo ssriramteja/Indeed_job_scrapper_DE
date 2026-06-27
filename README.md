@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-27 22:55
+Last updated: 2026-06-27 23:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Developer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac0b8be0e4857da6) | 2026-06-27 22:55 |
+| Ford Motor Company | Software Developer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac0b8be0e4857da6) | 2026-06-27 23:55 |
 | Metropolitan Council of the Twin Cities | Prin Software Engineer - AFS | Saint Paul, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4459c55264602070) | 2026-06-27 20:03 |
 | Zafran Security | Senior DevOps Engineer, US Production | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab3c0d8531de480d) | 2026-06-27 18:02 |
 | Tata Consultancy Services (TCS) | AWS Data Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9d2302c7e6b6aaf2) | 2026-06-27 16:58 |
@@ -482,14 +482,6 @@ Last updated: 2026-06-27 22:55
 | Amplify | Software Engineer | Brooklyn, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57316bd44c07be7d) | 2026-06-24 00:01 |
 | BV Teck | OpenShift Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9b6e8852617ed98) | 2026-06-24 00:01 |
 | BV Teck | OpenShift Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41be2609894619fb) | 2026-06-24 00:01 |
-| Tata Consultancy Services (TCS) | AI Automation Developer & Data Scientist | Morrisville, NC, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=8315a758255bb079) | 2026-06-23 23:00 |
-| HealthPartners | Data Engineer Senior | Bloomington, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=a11738879dff288c) | 2026-06-23 23:00 |
-| JSR Tech Consulting | Data Engineer - AWS | Newark, NJ, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=f9e78104b24dec2f) | 2026-06-23 23:00 |
-| CCMSI | Senior Data Engineer – Insurance Data Platform | Danville, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bc118c13047230ec) | 2026-06-23 23:00 |
-| Liquidity Services, Inc. | Engineer II, Dev.Ops | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=796db8b56cef3134) | 2026-06-23 23:00 |
-| Navteca | Business Intelligence Architect / Developer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a903253fe750059f) | 2026-06-23 23:00 |
-| NTT DATA | Senior Java Cloud Migration Engineer (OpenShift / Infrastructure & Application Modernization) | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d63f649b6edb613b) | 2026-06-23 23:00 |
-| Amerisure | Cloud Network Engineer II | Farmington Hills, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98627ffbde1c523b) | 2026-06-23 23:00 |
 
 
 ---
