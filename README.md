@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-27 18:02
+Last updated: 2026-06-27 20:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Software Developer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac0b8be0e4857da6) | 2026-06-27 18:02 |
+| Metropolitan Council of the Twin Cities | Prin Software Engineer - AFS | Saint Paul, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4459c55264602070) | 2026-06-27 20:03 |
+| Ford Motor Company | Software Developer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac0b8be0e4857da6) | 2026-06-27 20:03 |
+| ExtraHop Networks | Senior Software Engineer \| Middleware | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=111ecbafdd773723) | 2026-06-27 20:03 |
 | Zafran Security | Senior DevOps Engineer, US Production | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab3c0d8531de480d) | 2026-06-27 18:02 |
-| ExtraHop Networks | Senior Software Engineer \| Middleware | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=111ecbafdd773723) | 2026-06-27 18:02 |
 | Tata Consultancy Services (TCS) | AWS Data Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9d2302c7e6b6aaf2) | 2026-06-27 16:58 |
 | Tata Consultancy Services (TCS) | Data Bricks Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=834e54031f069664) | 2026-06-27 16:58 |
 | Fairfax County Government | Data Engineer (Business Analyst IV) | Fairfax, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=414e38f5ca1fe7f7) | 2026-06-27 15:08 |
@@ -511,25 +512,6 @@ Last updated: 2026-06-27 18:02
 | Common Objects | Systems Administrator/Platform Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b75462d74808ea8) | 2026-06-23 21:24 |
 | Keenfinity | Associate DevOps Software Engineer | Fairport, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9dd7c7be3ac15aed) | 2026-06-23 21:24 |
 | Diverse Agile Solutions | Senior IT. SecDevOps Architect | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=40347d597108dbff) | 2026-06-23 21:24 |
-| Samsara | Senior Data Engineer | Los Angeles, CA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=933ab6807d4d8842) | 2026-06-23 19:04 |
-| SRS Acquiom | Senior Data Engineer | Denver, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e597d94585a188c3) | 2026-06-23 19:04 |
-| SRS Acquiom | Data Engineer | Denver, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45c1cc0f0a35f6a1) | 2026-06-23 19:04 |
-| LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d633e19b2a078926) | 2026-06-23 19:04 |
-| Syngenta | Senior Data Engineer | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ca154f0e79d5d8b7) | 2026-06-23 19:04 |
-| American Public Media | Data Engineer | Saint Paul, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8390039bc78bb15) | 2026-06-23 19:04 |
-| Faro Health Inc. | Senior DevOps Engineer | San Diego, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e75e8818d349ed7c) | 2026-06-23 19:04 |
-| Office Ally | Senior Full Stack Engineer (Core Engine) | Concord, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cf87bc8d4644326b) | 2026-06-23 19:04 |
-| Office Ally | Senior Full Stack Engineer (Core Engine) | Salt Lake City, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff3e7b36fe0eff89) | 2026-06-23 19:04 |
-| Office Ally | Senior Full Stack Engineer (Core Engine) | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0d3309aad7167c95) | 2026-06-23 19:04 |
-| Office Ally | Senior Full Stack Engineer (Core Engine) | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af85de8b2a3ab880) | 2026-06-23 19:04 |
-| Office Ally | Senior Full Stack Engineer (Core Engine) | Berkeley, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff044df5cff76741) | 2026-06-23 19:04 |
-| Office Ally | Senior Full Stack Engineer (Core Engine) | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=544039c92cd95980) | 2026-06-23 19:04 |
-| LPL Financial | Senior Software Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50c0af65411f0014) | 2026-06-23 19:04 |
-| Altom Transport, Inc. | Software Engineer (Cloud, Cross-Platform & .NET Systems) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=189e85b9aadd7294) | 2026-06-23 19:04 |
-| endava | Sr. Developer | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b23744e6c4bc494) | 2026-06-23 19:04 |
-| University of Alabama, Birmingham | INTELLIGENCE APPLICATION DEVELOPER | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a6fbff522d2790e) | 2026-06-23 19:04 |
-| Roadrunner | Data Engineer | Downers Grove, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9167fc909538321d) | 2026-06-23 19:04 |
-| Cetera Financial Group | Software Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=177f839eafc70423) | 2026-06-23 19:04 |
 
 
 ---
