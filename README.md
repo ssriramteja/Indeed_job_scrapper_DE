@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-27 15:08
+Last updated: 2026-06-27 16:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Software Developer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac0b8be0e4857da6) | 2026-06-27 16:58 |
+| Tata Consultancy Services (TCS) | AWS Data Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9d2302c7e6b6aaf2) | 2026-06-27 16:58 |
+| ExtraHop Networks | Senior Software Engineer \| Middleware | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=111ecbafdd773723) | 2026-06-27 16:58 |
+| Tata Consultancy Services (TCS) | Data Bricks Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=834e54031f069664) | 2026-06-27 16:58 |
 | Fairfax County Government | Data Engineer (Business Analyst IV) | Fairfax, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=414e38f5ca1fe7f7) | 2026-06-27 15:08 |
-| Ford Motor Company | Software Developer | Dearborn, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac0b8be0e4857da6) | 2026-06-27 15:08 |
-| ExtraHop Networks | Senior Software Engineer \| Middleware | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=111ecbafdd773723) | 2026-06-27 15:08 |
 | Networking for Future, Inc. | Data Architect | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0b36615465054406) | 2026-06-27 11:21 |
 | Foundation Building Materials | Senior BI Developer | Santa Ana, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=25c1cd979546661c) | 2026-06-27 11:21 |
 | JPMorganChase | Quant Analytics Associate Sr - DART | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=958563c6ca41d7c8) | 2026-06-27 09:23 |
@@ -527,25 +529,6 @@ Last updated: 2026-06-27 15:08
 | University of Alabama, Birmingham | INTELLIGENCE APPLICATION DEVELOPER | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a6fbff522d2790e) | 2026-06-23 19:04 |
 | Roadrunner | Data Engineer | Downers Grove, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9167fc909538321d) | 2026-06-23 19:04 |
 | Cetera Financial Group | Software Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=177f839eafc70423) | 2026-06-23 19:04 |
-| Liberty Mutual Insurance | Senior Full Stack Software Engineer - Claims Technology | Indianapolis, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4fd3b089b8e85de9) | 2026-06-23 16:21 |
-| Liberty Mutual Insurance | Senior Full Stack Software Engineer - Claims Technology | Plano, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=047ca970efc97204) | 2026-06-23 16:21 |
-| Liberty Mutual Insurance | Senior Full Stack Software Engineer - Claims Technology | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a768e6f7c8f1f47f) | 2026-06-23 16:21 |
-| Liberty Mutual Insurance | Senior Full Stack Software Engineer - Claims Technology | Portsmouth, NH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c64b08e271f522f6) | 2026-06-23 16:21 |
-| Liberty Mutual Insurance | Senior Full Stack Software Engineer - Claims Technology | Boston, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=26fefc6c4e81a9d3) | 2026-06-23 16:21 |
-| Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=34d52a48551c1790) | 2026-06-23 16:21 |
-| Syngenta | Senior Data Engineer | Durham, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ea54597079589d42) | 2026-06-23 16:21 |
-| nan | Data Engineer II | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5edf6d865535d8fc) | 2026-06-23 16:21 |
-| Rysun labs | Data Technical Architect | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=43d82f1543437048) | 2026-06-23 16:21 |
-| Derex Technologies inc | Databricks Architect with P&C | Michigan City, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f2920f81c9f2b0e5) | 2026-06-23 16:21 |
-| CRYOPORT SYSTEMS | Senior DevOps Engineer - Contingent | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a8dc6c2590850a50) | 2026-06-23 16:21 |
-| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7488931bef280ccd) | 2026-06-23 16:21 |
-| Regions Financial | Cloud DevSecOps Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f4c94314064b7f8f) | 2026-06-23 16:21 |
-| nan | Data Engineer | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=230f2097d39a709c) | 2026-06-23 16:21 |
-| nan | Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2cfab581c91ff74c) | 2026-06-23 16:21 |
-| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1eedaa2000347db1) | 2026-06-23 16:21 |
-| IQVIA | Senior Software Engineer | Red Bank, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05fc6cb7a47df4b7) | 2026-06-23 16:21 |
-| Intuit | Senior Software Engineer, Payments | Mountain View, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3572e441b7b83887) | 2026-06-23 16:21 |
-| Axon Networks | Web Application Engineer (Irvine, US) | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f78a4c688172469a) | 2026-06-23 16:21 |
 
 
 ---
