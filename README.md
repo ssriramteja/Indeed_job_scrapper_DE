@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-28 20:06
+Last updated: 2026-06-28 21:54
 
 ### 🚀 Daily Job Matches
 
@@ -331,17 +331,6 @@ Last updated: 2026-06-28 20:06
 | Peraton | ForgeRock Federation Engineer | Chantilly, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1df9b945be5959e8) | 2026-06-24 22:08 |
 | HP | DataOS Data Engineer | Vancouver, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3ae32622f84d5fcf) | 2026-06-24 22:08 |
 | Finance of America | Python Developer II | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21327b99c0a351e9) | 2026-06-24 22:08 |
-| NinjaTrader | Sr. Data Engineer | Chicago, IL, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c77bde68b2f181a8) | 2026-06-24 20:28 |
-| Watchguard Technologies | Senior Data Engineer | Seattle, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5c9c70888519239b) | 2026-06-24 20:28 |
-| Watchguard Technologies | Senior Data Engineer | Miami, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0779aea1cfbfb91d) | 2026-06-24 20:28 |
-| CarMax | Engineer II, Data | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=db84cd672ebc6eb6) | 2026-06-24 20:28 |
-| CarMax | Engineer II, Data | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=85a73b9bce9a26b4) | 2026-06-24 20:28 |
-| Jonas Software | Software Engineer - Intern | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef996c4dca600f0c) | 2026-06-24 20:28 |
-| Arrive Logistics | Senior Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c8f68d352133895) | 2026-06-24 20:28 |
-| University of Utah | Cloud Platform Engineer II | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e33085bec67c090e) | 2026-06-24 20:28 |
-| Crane Worldwide Logistics | Business Intelligence Engineer II | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=803ae398014df5d9) | 2026-06-24 20:28 |
-| Dexter Systems Inc | Data Warehouse Developer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=740c65f047ff500a) | 2026-06-24 20:28 |
-| Esri | Product Engineer II - Cloud Infrastructure | Redlands, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4172ffc795a8a9ef) | 2026-06-24 20:28 |
 
 
 ---
