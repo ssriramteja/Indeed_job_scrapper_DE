@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-28 09:53
+Last updated: 2026-06-28 11:42
 
 ### 🚀 Daily Job Matches
 
@@ -367,17 +367,6 @@ Last updated: 2026-06-28 09:53
 | CVS Health | Data Engineer | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6f7aabeaaea6b41) | 2026-06-24 14:08 |
 | Optum | Software Engineer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=513b06edfb3e0c5a) | 2026-06-24 14:08 |
 | Curana Health | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cff67fb969376c22) | 2026-06-24 14:08 |
-| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Data - Archimedes | US USA | 30.6% | [Apply](https://www.indeed.com/viewjob?jk=00efdae7133cac10) | 2026-06-24 11:39 |
-| Navitus Health Solutions / Lumicera Health Services | Data Engineer - Archimedes | US USA | 29.9% | [Apply](https://www.indeed.com/viewjob?jk=06ac01a3b37b1411) | 2026-06-24 11:39 |
-| Navitus Health Solutions / Lumicera Health Services | Engineer, Development Operations - Archimedes | US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=ea98351890cb41a5) | 2026-06-24 11:39 |
-| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Development Operations - Archimedes | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=849fb6429e007fcd) | 2026-06-24 11:39 |
-| Navitus Health Solutions / Lumicera Health Services | Engineer, Cloud - Archimedes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0c2f878a6cd6c513) | 2026-06-24 11:39 |
-| Navitus Health Solutions / Lumicera Health Services | Sr. Architect, Enterprise - Archimedes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=096a8034fe908404) | 2026-06-24 11:39 |
-| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Cloud - Archimedes | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b7995f8317591305) | 2026-06-24 11:39 |
-| Navitus Health Solutions / Lumicera Health Services | Engineer, Development Operations - Archimedes | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8da20c80b6159763) | 2026-06-24 11:39 |
-| Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Software - Archimedes | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=084467bb5807c6b5) | 2026-06-24 11:39 |
-| Navitus Health Solutions / Lumicera Health Services | Engineer, Data Integration - Archimedes | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9a819a6db45f8192) | 2026-06-24 11:39 |
-| HCLTech | Data Architect | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2876f4244aa1e51) | 2026-06-24 11:39 |
 
 
 ---
