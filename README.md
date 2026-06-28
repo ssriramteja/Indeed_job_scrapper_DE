@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-28 15:12
+Last updated: 2026-06-28 16:59
 
 ### 🚀 Daily Job Matches
 
@@ -347,22 +347,6 @@ Last updated: 2026-06-28 15:12
 | GM Financial | SDE I- Adobe Exp Platform | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e5cf1edb1b7ec954) | 2026-06-24 18:52 |
 | PitchBook | Sr. Software Development Engineer, Platform Engineering | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e6071131867132b) | 2026-06-24 18:52 |
 | Rochester Electronics | Analytics and AI Developer | Newburyport, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7c295c697727454) | 2026-06-24 18:52 |
-| Cummins | Data Architect | IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c67ad259f5f7452d) | 2026-06-24 16:59 |
-| HCLTech | Python Technical Specialist - Data Analysis, SQL | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7208f4d9e700b7c7) | 2026-06-24 16:59 |
-| MEDIIT | Data Architect – Capital Markets Domain | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0df069435d852166) | 2026-06-24 16:59 |
-| HCLTech | Azure Senior Data Architect | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5d5a70d178b56c84) | 2026-06-24 16:59 |
-| CarMax | Engineer II, Data | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9b737dc154be64ce) | 2026-06-24 16:59 |
-| CarMax | Engineer II, Data | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c416514550780a5b) | 2026-06-24 16:59 |
-| National Grid | Senior Data Engineer | Waltham, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=342d1ce362be0803) | 2026-06-24 16:59 |
-| MTC Corporation | ERP Implementation Consultant | Fountain Valley, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7270db5358b5fcdd) | 2026-06-24 16:59 |
-| Wellington Management | Senior Software Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e2eb7f5e0e5869a) | 2026-06-24 16:59 |
-| OneMain Financial | Senior Platform Engineer (Observability & Telemetry) | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c0edcab6ac0afe9c) | 2026-06-24 16:59 |
-| HCLTech | GCP Senior Data Architect | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29c5430e519b8187) | 2026-06-24 16:59 |
-| PI Technologies LLC | MDM/DG SME/Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=869da5c5f350a735) | 2026-06-24 16:59 |
-| Valtech Group | Platform Database Engineer (MONGO DB) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2103580026ffe43a) | 2026-06-24 16:59 |
-| Vectra AI | Software Engineer II | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e361ec91914e9985) | 2026-06-24 16:59 |
-| Audible | Senior Analyst, Audible People & Places | Newark, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c33bf2564ac4df12) | 2026-06-24 16:59 |
-| Aivra Health | Junior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=69a2a743f46a4e4c) | 2026-06-24 16:59 |
 
 
 ---

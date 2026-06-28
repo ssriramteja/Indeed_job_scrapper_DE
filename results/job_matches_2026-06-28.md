@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-06-28
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -60,18 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior DevOps Engineer, US Production @ Zafran Security
-**Match Score:** 11.8%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Scala, CI/CD, Jenkins, GitHub Actions, Terraform, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ab3c0d8531de480d)
-
----
-
-## 7. Sr Full Stack Engineer @ Fiserv
+## 6. Sr Full Stack Engineer @ Fiserv
 **Match Score:** 11.1%
 
 📍 **Location:** Sunnyvale, CA, US USA
