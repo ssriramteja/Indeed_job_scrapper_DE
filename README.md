@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-28 13:18
+Last updated: 2026-06-28 15:12
 
 ### 🚀 Daily Job Matches
 
@@ -363,10 +363,6 @@ Last updated: 2026-06-28 13:18
 | Vectra AI | Software Engineer II | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e361ec91914e9985) | 2026-06-24 16:59 |
 | Audible | Senior Analyst, Audible People & Places | Newark, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c33bf2564ac4df12) | 2026-06-24 16:59 |
 | Aivra Health | Junior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=69a2a743f46a4e4c) | 2026-06-24 16:59 |
-| CVS Health | Data Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b5702d9e6e218aec) | 2026-06-24 14:08 |
-| CVS Health | Data Engineer | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6f7aabeaaea6b41) | 2026-06-24 14:08 |
-| Optum | Software Engineer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=513b06edfb3e0c5a) | 2026-06-24 14:08 |
-| Curana Health | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cff67fb969376c22) | 2026-06-24 14:08 |
 
 
 ---

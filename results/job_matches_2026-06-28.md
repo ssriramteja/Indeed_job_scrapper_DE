@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-06-28
 
-**Total Jobs Found:** 8
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer (Business Analyst IV) @ Fairfax County Government
-**Match Score:** 18.1%
-
-📍 **Location:** Fairfax, VA, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, Data Factory, BigQuery, Cloud Storage, Hadoop, Spark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=414e38f5ca1fe7f7)
-
----
-
-## 2. Google Data Engineer @ Tata Consultancy Services (TCS)
+## 1. Google Data Engineer @ Tata Consultancy Services (TCS)
 **Match Score:** 14.6%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Sr Data Engineer @ MidAmerican Energy
+## 2. Sr Data Engineer @ MidAmerican Energy
 **Match Score:** 13.2%
 
 📍 **Location:** Des Moines, IA, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Application Developer @ City of Rockville
+## 3. Senior Application Developer @ City of Rockville
 **Match Score:** 13.2%
 
 📍 **Location:** Rockville, MD, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Prin Software Engineer - AFS @ Metropolitan Council of the Twin Cities
+## 4. Prin Software Engineer - AFS @ Metropolitan Council of the Twin Cities
 **Match Score:** 12.5%
 
 📍 **Location:** Saint Paul, MN, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Engineer, League Analytics & Infrastructure @ Major League Baseball (MLB)
+## 5. Data Engineer, League Analytics & Infrastructure @ Major League Baseball (MLB)
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior DevOps Engineer, US Production @ Zafran Security
+## 6. Senior DevOps Engineer, US Production @ Zafran Security
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Sr Full Stack Engineer @ Fiserv
+## 7. Sr Full Stack Engineer @ Fiserv
 **Match Score:** 11.1%
 
 📍 **Location:** Sunnyvale, CA, US USA
