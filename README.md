@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-28 18:05
+Last updated: 2026-06-28 20:06
 
 ### 🚀 Daily Job Matches
 
@@ -342,11 +342,6 @@ Last updated: 2026-06-28 18:05
 | Crane Worldwide Logistics | Business Intelligence Engineer II | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=803ae398014df5d9) | 2026-06-24 20:28 |
 | Dexter Systems Inc | Data Warehouse Developer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=740c65f047ff500a) | 2026-06-24 20:28 |
 | Esri | Product Engineer II - Cloud Infrastructure | Redlands, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4172ffc795a8a9ef) | 2026-06-24 20:28 |
-| GM Financial | Data Engineer-Adobe Exp Platform | Irving, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2b2fc4d359a22654) | 2026-06-24 18:52 |
-| iEnjoy Home | Senior Data Engineer | Clearwater, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=105d305fcaa2ff1b) | 2026-06-24 18:52 |
-| GM Financial | SDE I- Adobe Exp Platform | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e5cf1edb1b7ec954) | 2026-06-24 18:52 |
-| PitchBook | Sr. Software Development Engineer, Platform Engineering | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e6071131867132b) | 2026-06-24 18:52 |
-| Rochester Electronics | Analytics and AI Developer | Newburyport, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7c295c697727454) | 2026-06-24 18:52 |
 
 
 ---

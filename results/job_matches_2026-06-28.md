@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-06-28
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,18 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Prin Software Engineer - AFS @ Metropolitan Council of the Twin Cities
-**Match Score:** 12.5%
-
-📍 **Location:** Saint Paul, MN, US USA
-
-🔑 **Keywords:** AWS, S3, API Gateway, RDS, Azure, Scala, SQL Server, CI/CD, Azure DevOps, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4459c55264602070)
-
----
-
-## 5. Data Engineer, League Analytics & Infrastructure @ Major League Baseball (MLB)
+## 4. Data Engineer, League Analytics & Infrastructure @ Major League Baseball (MLB)
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Sr Full Stack Engineer @ Fiserv
+## 5. Sr Full Stack Engineer @ Fiserv
 **Match Score:** 11.1%
 
 📍 **Location:** Sunnyvale, CA, US USA
