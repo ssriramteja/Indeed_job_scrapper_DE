@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-28 21:54
+Last updated: 2026-06-28 22:55
 
 ### 🚀 Daily Job Matches
 
@@ -317,20 +317,6 @@ Last updated: 2026-06-28 21:54
 | nan | Data Migration Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6708bcfc3951fe3e) | 2026-06-25 00:00 |
 | Keeper Security, Inc. | Senior Demo Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=269d03aac02123d7) | 2026-06-25 00:00 |
 | AGFA | DevOps Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e2924b464417a6f) | 2026-06-25 00:00 |
-| Topgolf | Data Engineer II | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=97eae083068a3900) | 2026-06-24 22:08 |
-| EWC Corporate LLC | Senior Data Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0244beb9aaca2837) | 2026-06-24 22:08 |
-| Vforce Infotech | Data Engineer | Edison, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8ae211082b475d14) | 2026-06-24 22:08 |
-| Digital Realty | Data Workflow Engineer – AI & Automation Focus | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=461aa75a8d591411) | 2026-06-24 22:08 |
-| ClearCaptions, LLC | Sr. Data Engineer - Fabric (100% Remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50b81073918a7625) | 2026-06-24 22:08 |
-| nan | Senior Software Engineer (Space Communications) | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a53c3e01ff8163a0) | 2026-06-24 22:08 |
-| nan | Senior Software Engineer (Space Communications) | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0d634387249ab8ad) | 2026-06-24 22:08 |
-| Regions Financial | AI Identity Security Engineer (SailPoint) | Hoover, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=436cf493867e94e5) | 2026-06-24 22:08 |
-| Mayo Clinic | Software Engineer - Limited Tenure - Hybrid | Rochester, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e43e4fbeec2a74d) | 2026-06-24 22:08 |
-| Tata Consultancy Services (TCS) | Engineer | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04f1431d2e065885) | 2026-06-24 22:08 |
-| Chess.com | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fe70c0ae09b9a043) | 2026-06-24 22:08 |
-| Peraton | ForgeRock Federation Engineer | Chantilly, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1df9b945be5959e8) | 2026-06-24 22:08 |
-| HP | DataOS Data Engineer | Vancouver, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3ae32622f84d5fcf) | 2026-06-24 22:08 |
-| Finance of America | Python Developer II | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=21327b99c0a351e9) | 2026-06-24 22:08 |
 
 
 ---
