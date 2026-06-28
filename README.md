@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-28 06:55
+Last updated: 2026-06-28 09:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Google Data Engineer | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=063d41992d4b3402) | 2026-06-28 09:53 |
+| City of Rockville | Senior Application Developer | Rockville, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6ffba52098259ac2) | 2026-06-28 09:53 |
+| Fiserv | Sr Full Stack Engineer | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b55caa3b9d44424) | 2026-06-28 09:53 |
 | MidAmerican Energy | Sr Data Engineer | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4e1c45f198f8f88f) | 2026-06-28 06:55 |
 | Major League Baseball (MLB) | Data Engineer, League Analytics & Infrastructure | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40ae4dfa2efb93cb) | 2026-06-28 06:55 |
 | Tata Consultancy Services (TCS) | Ansible Automation Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a397c14cbf510e63) | 2026-06-28 06:55 |
@@ -375,12 +378,6 @@ Last updated: 2026-06-28 06:55
 | Navitus Health Solutions / Lumicera Health Services | Sr. Engineer, Software - Archimedes | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=084467bb5807c6b5) | 2026-06-24 11:39 |
 | Navitus Health Solutions / Lumicera Health Services | Engineer, Data Integration - Archimedes | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9a819a6db45f8192) | 2026-06-24 11:39 |
 | HCLTech | Data Architect | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2876f4244aa1e51) | 2026-06-24 11:39 |
-| Comcast | Python or GoLang Software Engineer - 2 days onsite (Chicago, IL) - FreeWheel | Chicago, IL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=2e805afd8491439b) | 2026-06-24 08:20 |
-| ATG | DevOps Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4751e9b6daa317e5) | 2026-06-24 08:20 |
-| Alignment Healthcare | Senior Engineer & Data Architect, Financial Systems | Orange, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=81ca06fa6ac3ac22) | 2026-06-24 08:20 |
-| Capgemini | ML Ops and Model accuracy Engineer | Salem, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b36b244637e89a0) | 2026-06-24 08:20 |
-| Trend Micro Inc. | Senior Data Engineer - Austin, TX | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f2319340732e3c2) | 2026-06-24 08:20 |
-| TruStage | Sr Data Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=402264050a42b554) | 2026-06-24 08:20 |
 
 
 ---
