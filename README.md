@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-29 10:22
+Last updated: 2026-06-29 14:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Neubus, Inc. | AWS SysOp Admin/DevOps Engineer | Round Rock, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b45e55bba1cdc0f9) | 2026-06-29 14:42 |
+| Optum | Software Engineer - 2373611 | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=54e4cfd29eb8d796) | 2026-06-29 14:42 |
+| VINMAR INTERNATIONAL | AI Systems Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81e20cb883b5bbbb) | 2026-06-29 14:42 |
 | Tech Scalerz | Senior Data Engineer (Azure Databricks, Spark, PySpark, Scala) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f5d65dc21087a459) | 2026-06-29 10:22 |
 | Astronomer | Senior Solutions Architect - Airflow (East Coast) | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0732c17d73a147f5) | 2026-06-29 10:22 |
 | TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdfee67e7ec30f9c) | 2026-06-29 10:22 |
@@ -281,11 +284,6 @@ Last updated: 2026-06-29 10:22
 | Axon | Senior Platform Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c66d1722dc1904af) | 2026-06-25 16:16 |
 | Coralogix | Technical Support Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35aecec750568de1) | 2026-06-25 16:16 |
 | Oracle | [Remote] Senior FullStack Platform Software Engineer- Clinical Digital Assistant | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1a152297c2ff6df) | 2026-06-25 16:16 |
-| New York Life | Associate - Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cab0fb5e8b841018) | 2026-06-25 13:11 |
-| Comcast | Sr. Site Reliability Engineer, Data - FreeWheel | Reston, VA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=9de4453bf3c4212f) | 2026-06-25 10:35 |
-| Cox Automotive | Business Intelligence Sr Analyst | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0e1d0952eadd1803) | 2026-06-25 10:35 |
-| Comcast | Sr. Site Reliability Engineer, Data - FreeWheel | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e360f490049f028c) | 2026-06-25 10:35 |
-| Tata Consultancy Services (TCS) | Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b74098577c0fc14) | 2026-06-25 10:35 |
 
 
 ---
