@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-29 19:43
+Last updated: 2026-06-29 21:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Senior Cloud Architect | Fort Mill, SC, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=ef4c425e913ad44b) | 2026-06-29 21:17 |
+| Caterpillar | Senior Software Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3a31d611f67e9e2c) | 2026-06-29 21:17 |
 | Green Mountain Power | Data Engineer | Colchester, VT, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=3d9f58a4baa94d06) | 2026-06-29 19:43 |
 | Diversified Services Network, Inc. | Senior Software Engineer (Java & AWS) | Peoria, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=960399573e934589) | 2026-06-29 19:43 |
 | Diversified Services Network, Inc. | Senior Software Engineer (Java & AWS) | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=51349eeea9315e96) | 2026-06-29 19:43 |
