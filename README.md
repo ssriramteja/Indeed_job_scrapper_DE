@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-29 17:28
+Last updated: 2026-06-29 19:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Green Mountain Power | Data Engineer | Colchester, VT, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=3d9f58a4baa94d06) | 2026-06-29 19:43 |
+| Diversified Services Network, Inc. | Senior Software Engineer (Java & AWS) | Peoria, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=960399573e934589) | 2026-06-29 19:43 |
+| Diversified Services Network, Inc. | Senior Software Engineer (Java & AWS) | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=51349eeea9315e96) | 2026-06-29 19:43 |
+| Nanobiosym | Software Engineer: Full-Stack Web Developer | Cambridge, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3bf49a9803268a39) | 2026-06-29 19:43 |
+| Diversified Services Network, Inc. | Senior Scala Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=99b1c920fa5438bf) | 2026-06-29 19:43 |
+| Optum | Data Engineer | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d57566bba0a6ced1) | 2026-06-29 19:43 |
+| Team Velocity Marketing | Senior Data Scientist | Herndon, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d7e753d624ac7894) | 2026-06-29 19:43 |
+| Tenable | Salesforce Developer (Hybrid/Columbia MD or Boston MA) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2103938d18681ae1) | 2026-06-29 19:43 |
+| DAS Federal | Senior Systems Engineer (Ansible Automation Platform / Hybrid Cloud) | Gaithersburg, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c50a892c497ffe06) | 2026-06-29 19:43 |
+| ZENO Group | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf46770fd8ff6a55) | 2026-06-29 19:43 |
+| Optum | Senior Software Engineer - 2373638 | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=333af030098f9b44) | 2026-06-29 19:43 |
 | PBK Architects | Data Engineer | Berkeley, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5ea10b210ba9e582) | 2026-06-29 17:28 |
 | Scigon | Java Developer | Oak Brook, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b5b0482fe6c4872a) | 2026-06-29 17:28 |
 | RAPSYS TECHNOLOGIES PTE. LTD. | Salesforce Architect | Schaumburg, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6a013e1c627f048a) | 2026-06-29 17:28 |
@@ -271,25 +282,6 @@ Last updated: 2026-06-29 17:28
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=93bbd1487e7d0fd7) | 2026-06-25 21:23 |
 | Hydrafacial | Sr. Business Intelligence Engineer - Long Beach, CA | Long Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e11fa47875d4b9f) | 2026-06-25 21:23 |
 | ELEVI Associates, LLC | Sr Software Developer | Fort Meade, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bef5e0cbd24f1e8d) | 2026-06-25 21:23 |
-| Palmetto Tech | Databricks Data Engineer - Remote | US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d57ef47d055269a5) | 2026-06-25 19:02 |
-| Dematic | Senior Data Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f9bde3d8a51e4f79) | 2026-06-25 19:02 |
-| Prodapt Solutions | GCP Spanner Data Engineer | Richardson, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=76401a227b65d3e8) | 2026-06-25 19:02 |
-| Mindful Support Services | Senior Database Engineer - Mountlake Terrace, WA | Mountlake Terrace, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=650467e40b62799c) | 2026-06-25 19:02 |
-| Optum | Senior Software Engineer - 2373458 | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ff932a257a601c95) | 2026-06-25 19:02 |
-| AT&T | Senior Software Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b16300c5f378062d) | 2026-06-25 19:02 |
-| EXL Service | Full Stack Software Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6ed62df8d733ccc6) | 2026-06-25 19:02 |
-| Escalent | AI Infrastructure Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=72ced5e68aed0c4e) | 2026-06-25 19:02 |
-| ExtraHop Networks | Sr Software Engineer, Data Science | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a0e77b1dd58e37d2) | 2026-06-25 19:02 |
-| American Express | Sr Software Engineer I | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b11810a6c43504b5) | 2026-06-25 19:02 |
-| Moody's | Senior Software Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=76da2dc311d12db7) | 2026-06-25 19:02 |
-| EXL Service | Data Engineer | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=58e6cb2128aca867) | 2026-06-25 19:02 |
-| Sonny's Enterprises, Inc | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f7c892f9988b1e9) | 2026-06-25 19:02 |
-| Menards | IS Quality Assurance Engineer | Eau Claire, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8e8cc0d2a437f129) | 2026-06-25 19:02 |
-| ID.me | Threat Detection Engineer – Security Operations | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c29685a938223251) | 2026-06-25 19:02 |
-| ID.me | Threat Detection Engineer – Security Operations | Mountain View, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92a7ce3bbe941f36) | 2026-06-25 19:02 |
-| ID.me | Threat Detection Engineer – Security Operations | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1a2f78c4c8ef75c2) | 2026-06-25 19:02 |
-| Stellantis | Ontology Engineer | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=178a5e6f1886f45d) | 2026-06-25 19:02 |
-| Invovia | Full Stack AI Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e01424994cfb3518) | 2026-06-25 19:02 |
 
 
 ---
