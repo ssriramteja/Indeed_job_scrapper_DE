@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-29 05:22
+Last updated: 2026-06-29 10:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tech Scalerz | Senior Data Engineer (Azure Databricks, Spark, PySpark, Scala) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f5d65dc21087a459) | 2026-06-29 10:22 |
+| Astronomer | Senior Solutions Architect - Airflow (East Coast) | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0732c17d73a147f5) | 2026-06-29 10:22 |
+| TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdfee67e7ec30f9c) | 2026-06-29 10:22 |
+| Cisco | Software Engineer | Knoxville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6f0f3ea5b712aaf6) | 2026-06-29 10:22 |
+| Astronomer | Customer Reliability Engineer, Airflow | Philadelphia, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a297ffaf533cd380) | 2026-06-29 10:22 |
+| bet365 | Machine Learning Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=408ab6603d114356) | 2026-06-29 10:22 |
 | HCLTech | Senior Solution Architect | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d3bab45b84b040d) | 2026-06-29 05:22 |
 | HCLTech | Sr AI/ML Solutions Architect - PostgreSQL | Virginia Beach, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e876a85ca956607c) | 2026-06-29 05:22 |
 | Tata Consultancy Services (TCS) | Google Data Engineer | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=063d41992d4b3402) | 2026-06-28 09:53 |
@@ -280,14 +286,6 @@ Last updated: 2026-06-29 05:22
 | Cox Automotive | Business Intelligence Sr Analyst | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0e1d0952eadd1803) | 2026-06-25 10:35 |
 | Comcast | Sr. Site Reliability Engineer, Data - FreeWheel | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e360f490049f028c) | 2026-06-25 10:35 |
 | Tata Consultancy Services (TCS) | Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b74098577c0fc14) | 2026-06-25 10:35 |
-| nan | Data Engineer | Minneapolis, MN, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=90aa58aa706914e5) | 2026-06-25 07:35 |
-| AbbVie | Senior Architect, Technology I | Mettawa, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6bde36b833417f68) | 2026-06-25 07:35 |
-| LexisNexis Risk Solutions | Software Architect | Alpharetta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9143d5f91657ba93) | 2026-06-25 07:35 |
-| CoStar Group | LoopNet - Senior Software Engineer | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1582817466d60077) | 2026-06-25 07:35 |
-| JPMorganChase | Software Engineer III - Big Data & AWS | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e8a9e089237396a3) | 2026-06-25 07:35 |
-| EXL Service | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=426cdfa391f3efd4) | 2026-06-25 07:35 |
-| Optum | Senior Site Reliability Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf6dc9ebd6a9ade1) | 2026-06-25 07:35 |
-| Collectors | Senior Software Engineer, Back-End (Payments) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebeb2570baaf1984) | 2026-06-25 07:35 |
 
 
 ---
