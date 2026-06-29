@@ -1,33 +1,11 @@
 # 🎯 Daily Job Matches — 2026-06-29
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Google Data Engineer @ Tata Consultancy Services (TCS)
-**Match Score:** 14.6%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** IAM, GCP, BigQuery, Cloud Storage, Hive, Spark, Scala, Kafka, NoSQL, Data Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=063d41992d4b3402)
-
----
-
-## 2. Sr Data Engineer @ MidAmerican Energy
-**Match Score:** 13.2%
-
-📍 **Location:** Des Moines, IA, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Unity Catalog, Medallion Architecture, Cloud Storage, Spark, PySpark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4e1c45f198f8f88f)
-
----
-
-## 3. Senior Application Developer @ City of Rockville
+## 1. Senior Application Developer @ City of Rockville
 **Match Score:** 13.2%
 
 📍 **Location:** Rockville, MD, US USA
@@ -38,18 +16,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Data Engineer, League Analytics & Infrastructure @ Major League Baseball (MLB)
-**Match Score:** 11.8%
+## 2. Senior Solution Architect @ HCLTech
+**Match Score:** 12.5%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, BigQuery, Dataflow, Vertex AI, dbt, CI/CD
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, Delta Live Tables, GCP, Spark, PySpark, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=40ae4dfa2efb93cb)
+[Apply Here](https://www.indeed.com/viewjob?jk=3d3bab45b84b040d)
 
 ---
 
-## 5. Sr Full Stack Engineer @ Fiserv
+## 3. Sr AI/ML Solutions Architect - PostgreSQL @ HCLTech
+**Match Score:** 11.1%
+
+📍 **Location:** Virginia Beach, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Databricks, Spark, Scala, Kafka, PostgreSQL, MySQL, Airflow, Apache Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e876a85ca956607c)
+
+---
+
+## 4. Sr Full Stack Engineer @ Fiserv
 **Match Score:** 11.1%
 
 📍 **Location:** Sunnyvale, CA, US USA

@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-29 00:01
+Last updated: 2026-06-29 05:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HCLTech | Senior Solution Architect | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d3bab45b84b040d) | 2026-06-29 05:22 |
+| HCLTech | Sr AI/ML Solutions Architect - PostgreSQL | Virginia Beach, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e876a85ca956607c) | 2026-06-29 05:22 |
 | Tata Consultancy Services (TCS) | Google Data Engineer | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=063d41992d4b3402) | 2026-06-28 09:53 |
 | City of Rockville | Senior Application Developer | Rockville, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6ffba52098259ac2) | 2026-06-28 09:53 |
 | Fiserv | Sr Full Stack Engineer | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b55caa3b9d44424) | 2026-06-28 09:53 |
@@ -286,27 +288,6 @@ Last updated: 2026-06-29 00:01
 | EXL Service | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=426cdfa391f3efd4) | 2026-06-25 07:35 |
 | Optum | Senior Site Reliability Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf6dc9ebd6a9ade1) | 2026-06-25 07:35 |
 | Collectors | Senior Software Engineer, Back-End (Payments) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebeb2570baaf1984) | 2026-06-25 07:35 |
-| RELX Group | Software Architect | Alpharetta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7fcb837d7fc08d9c) | 2026-06-25 03:42 |
-| Alignment Healthcare | Senior Engineer & Data Architect, Financial Systems | Orange, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3bdaf4ef4ebe2d43) | 2026-06-25 03:42 |
-| Pedigree Technologies LLC | Software Engineer II | Fargo, ND, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2f9914638c19a8a4) | 2026-06-25 03:42 |
-| Humana | Senior Backend Developer/ DevSecOps Engineer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7a810b0c25679667) | 2026-06-25 03:42 |
-| Humana | Senior Backend Developer/ DevSecOps Engineer | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ec8dc06684d4c96d) | 2026-06-25 03:42 |
-| Humana | Senior Backend Developer/ DevSecOps Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=57a85653fa31d9ca) | 2026-06-25 03:42 |
-| Humana | Senior Backend Developer/ DevSecOps Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=709864093f47bded) | 2026-06-25 03:42 |
-| Humana | Senior Backend Developer/ DevSecOps Engineer | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f2c3cd7f51666769) | 2026-06-25 03:42 |
-| Humana | Senior Backend Developer/ DevSecOps Engineer | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a9facc91ff9daf6d) | 2026-06-25 03:42 |
-| Humana | Senior Backend Developer/ DevSecOps Engineer | Louisville, KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0e0cff1fdf275be1) | 2026-06-25 03:42 |
-| Humana | Senior Backend Developer/ DevSecOps Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1d6003e0cc9fff47) | 2026-06-25 03:42 |
-| Thermo Fisher Scientific | Scientist III, Software Engineer, Upstream Process Development | Grand Island, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff0934ab4205ec3f) | 2026-06-25 03:42 |
-| Nimble Robotics | Data Engineer II/III | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b93268a5d9a09415) | 2026-06-25 03:42 |
-| PlayStation | Sr. Software Engineer | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a364410377394ad4) | 2026-06-25 03:42 |
-| Databricks | Solutions Architect - Financial Services (Asset and Wealth Management) | Central, LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d7090362d091f78) | 2026-06-25 03:42 |
-| Databricks | Specialist Solutions Architect - Google Cloud Platform & Infrastructure | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8a3f2a51e0f48a69) | 2026-06-25 03:42 |
-| Charles Schwab | Sr. Production Support Engineer | Southlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=05e52cde67bec12e) | 2026-06-25 03:42 |
-| Navy Federal Credit Union | Data Engineer | Vienna, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78973ff1bb73f687) | 2026-06-25 03:42 |
-| Empower | Software Engineer | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebe81f601d9ad5b4) | 2026-06-25 03:42 |
-| LeMaitre Vascular | Sr. Business Applications Developer | Burlington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a14f1f112ff2b5af) | 2026-06-25 03:42 |
-| Mad Mobile | Software Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=912fd59f7f797fb3) | 2026-06-25 03:42 |
 
 
 ---
