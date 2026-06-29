@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-28 22:55
+Last updated: 2026-06-29 00:01
 
 ### 🚀 Daily Job Matches
 
@@ -307,16 +307,6 @@ Last updated: 2026-06-28 22:55
 | Empower | Software Engineer | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebe81f601d9ad5b4) | 2026-06-25 03:42 |
 | LeMaitre Vascular | Sr. Business Applications Developer | Burlington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a14f1f112ff2b5af) | 2026-06-25 03:42 |
 | Mad Mobile | Software Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=912fd59f7f797fb3) | 2026-06-25 03:42 |
-| Ziosk | Senior Data Engineer on-site) | Plano, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3c91ab31afe36f91) | 2026-06-25 00:00 |
-| Ziosk | Senior Data Engineer on-site) | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=13b180e2e10be4d8) | 2026-06-25 00:00 |
-| Fidelity Investments | Senior Platform Engineer (Cloud / Kubernetes / Java) | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=008b7c533fc81ed0) | 2026-06-25 00:00 |
-| Fidelity Investments | Senior Platform Engineer (Cloud / Kubernetes / Java) | Covington, KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37ce86d12ab5f536) | 2026-06-25 00:00 |
-| DataArt | Middle–Senior Software / Data Engineer, AI Enablement & Data Platform Migration | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3094b458dcbd5120) | 2026-06-25 00:00 |
-| Five Below | Sr Solutions Architect - Omnichannel | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f058ca30d1bcc8cd) | 2026-06-25 00:00 |
-| MetLife | Junior Software Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=80744870ee084082) | 2026-06-25 00:00 |
-| nan | Data Migration Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6708bcfc3951fe3e) | 2026-06-25 00:00 |
-| Keeper Security, Inc. | Senior Demo Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=269d03aac02123d7) | 2026-06-25 00:00 |
-| AGFA | DevOps Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e2924b464417a6f) | 2026-06-25 00:00 |
 
 
 ---
