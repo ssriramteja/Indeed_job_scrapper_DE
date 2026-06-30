@@ -1,19 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-30 06:48
+Last updated: 2026-06-30 10:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Edgewater Federal Solutions | Senior IT Big Data Engineer | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=805d9159d3aff63f) | 2026-06-30 10:26 |
+| Willdan | Cloud Engineer | Anaheim, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8020391c43706e33) | 2026-06-30 10:26 |
+| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c44ee92aa2c8400) | 2026-06-30 10:26 |
+| Acrisure LLC | Software Engineer, Data (L1) | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=de33f3f460768669) | 2026-06-30 10:26 |
+| Acrisure LLC | Software Engineer, Data (L1) | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5a58fca26aa0b565) | 2026-06-30 10:26 |
+| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65c09af802c5ffa3) | 2026-06-30 10:26 |
+| Thermo Fisher Scientific | Data Engineer III, Development | Carlsbad, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f5f5ff112c1e4fbb) | 2026-06-30 10:26 |
+| Kohl's | MLOps Engineer II | Menomonee Falls, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dae99e1ea457637a) | 2026-06-30 10:26 |
+| Entiovi Technologies Private Limited | Backend Engineer | Bengal, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f89dc1b57a628321) | 2026-06-30 10:26 |
+| National Debt Relief | Senior Platform Engineer, Data & AI | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f70e3e5b69eb2b62) | 2026-06-30 10:26 |
 | Subway | Sr Data Engineer | Shelton, CT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c9fc4b01a8878948) | 2026-06-30 06:48 |
 | Subway | Sr Data Engineer | Shelton, CT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=de1fca8ed87b85de) | 2026-06-30 06:48 |
-| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c44ee92aa2c8400) | 2026-06-30 06:48 |
 | Newpage Digital Healthcare solutions | AI Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d734e7ef9a655ae9) | 2026-06-30 06:48 |
 | Newpage Digital Healthcare solutions | AI Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8ebf4addde4aec8c) | 2026-06-30 06:48 |
 | Newpage Digital Healthcare solutions | AI Native Builder | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=64c15efcfbb29edc) | 2026-06-30 06:48 |
 | nan | Software Engineer | North Andover, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5eb2133b885b233e) | 2026-06-30 06:48 |
-| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65c09af802c5ffa3) | 2026-06-30 06:48 |
 | Optum | Senior Software Engineer | Union City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d2d63ab0e4452de4) | 2026-06-30 06:48 |
 | American Airlines | Sr Associate Engineer/Engineer, IT Software | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f587f9ae6e2cdaae) | 2026-06-30 06:48 |
 | American Credit Acceptance | Sr. Database Administrator | Meridian, ID, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7e55ba17244aa18c) | 2026-06-30 06:48 |
@@ -273,8 +281,6 @@ Last updated: 2026-06-30 06:48
 | Optum | Senior Software Engineer | Wausau, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2a4a5c971b6dae8) | 2026-06-26 16:07 |
 | Rivian | Sr. Software Engineer, Enterprise Software | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=424a613517dace69) | 2026-06-26 16:07 |
 | Alternative Information Systems | Systems Administrator - Junior | Buffalo, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87325485029af851) | 2026-06-26 13:03 |
-| U.S. Financial Technology | DevOps Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a593e5a13bf91848) | 2026-06-26 10:15 |
-| General Motors (GM) | Senior Robotics Data Engineer/Data Scientist | Warren, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f7d4e995adafbb96) | 2026-06-26 10:15 |
 
 
 ---
