@@ -1,13 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-30 18:29
+Last updated: 2026-06-30 20:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c44ee92aa2c8400) | 2026-06-30 18:29 |
-| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65c09af802c5ffa3) | 2026-06-30 18:29 |
+| HP | Data Engineer - CSS, AIP and HPX Analytics | Vancouver, WA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=3a78dd582651cf84) | 2026-06-30 20:51 |
+| Meridian Systematics | Senior Data Engineer | Springfield, VA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=86f4cd04f1d7226b) | 2026-06-30 20:51 |
+| Merkle, Inc. | Data Engineer - Temporary Worker | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=fd3608ce8fafa5b9) | 2026-06-30 20:51 |
+| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c44ee92aa2c8400) | 2026-06-30 20:51 |
+| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65c09af802c5ffa3) | 2026-06-30 20:51 |
+| STAND TOGETHER | Senior Full-Stack Software Engineer – Back-End Focused | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=27c394a83edfce01) | 2026-06-30 20:51 |
+| Western Alliance Bank | Senior Data Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=34c193d803b2a019) | 2026-06-30 20:51 |
+| QualityAI | Gen AI Architect | Baltimore, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dd6f26d72223ee99) | 2026-06-30 20:51 |
+| LPL Financial | Senior Engineer, Software Development Test QE | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56447c16c3ba977a) | 2026-06-30 20:51 |
+| BlueSight | Senior Full Stack Software Engineer - CostCheck | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c7b724f0ef5f1675) | 2026-06-30 20:51 |
+| Versant | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46176023248faed5) | 2026-06-30 20:51 |
+| MediaRadar | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=180b2fb1ba9c363d) | 2026-06-30 20:51 |
+| Aimpoint Digital | Senior AI Engineer 2026 - US | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13884b1c57640398) | 2026-06-30 20:51 |
+| SIGNITIVES | IOS Developer + Node.js | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5fe2db57addb7567) | 2026-06-30 20:51 |
+| DB | DevOps Engineer - International Project | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e71d6f8a3530ffa9) | 2026-06-30 20:51 |
+| NTT DATA | Senior Java Developer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4c51ea63d2c9240e) | 2026-06-30 20:51 |
 | Solvstaff | AWS Databricks Architect | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5a9a04b047de59e9) | 2026-06-30 18:29 |
 | Fingerprint | Senior Backend Engineer, Core APIs | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=89f151cbc6d5b613) | 2026-06-30 18:29 |
 | TD | Software Engineer II (US) | Mount Laurel, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2048b8f9fc33e871) | 2026-06-30 18:29 |
@@ -260,15 +274,6 @@ Last updated: 2026-06-30 18:29
 | Newsbreak | Senior Data Infra Engineer | Mountain View, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0bce72fe2aabb677) | 2026-06-26 22:03 |
 | Cohere Health | Software Engineer ll, Data Platform | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80e694b601457a09) | 2026-06-26 22:03 |
 | Cognizant | Snowflake Architect | Blaine, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=171a3405a6bf87d5) | 2026-06-26 22:03 |
-| WSSC Water | Data Architect | Laurel, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=efacd6764e780443) | 2026-06-26 20:27 |
-| Centurion Consulting Group | Senior IT Big Data Developer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ae26c12caca27959) | 2026-06-26 20:27 |
-| Centurion Consulting Group | Senior IT Data Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=efb360d7f7dedcd5) | 2026-06-26 20:27 |
-| West Monroe | Senior Consultant- Data/AI Due Diligence-MTS | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7b6bc1ec4cda3c8e) | 2026-06-26 20:27 |
-| nan | Professional Services Consultant | New Orleans, LA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9ba41961ffb1881c) | 2026-06-26 20:27 |
-| Arc Technologies Group | Cloud Engineer | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8ccc63169a66ef59) | 2026-06-26 20:27 |
-| Transcor Data Services | Developer Operations Engineer I | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b84e13a37c8822b9) | 2026-06-26 20:27 |
-| Univision Communications Inc | Senior Data Engineer | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b2f885fbfd483879) | 2026-06-26 20:27 |
-| ACA Group | Ruby on Rails Developer | Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=055ba32ff0f18bd8) | 2026-06-26 20:27 |
 
 
 ---
