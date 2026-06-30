@@ -1,13 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-30 16:17
+Last updated: 2026-06-30 18:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c44ee92aa2c8400) | 2026-06-30 16:17 |
-| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65c09af802c5ffa3) | 2026-06-30 16:17 |
+| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c44ee92aa2c8400) | 2026-06-30 18:29 |
+| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65c09af802c5ffa3) | 2026-06-30 18:29 |
+| Solvstaff | AWS Databricks Architect | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5a9a04b047de59e9) | 2026-06-30 18:29 |
+| Fingerprint | Senior Backend Engineer, Core APIs | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=89f151cbc6d5b613) | 2026-06-30 18:29 |
+| TD | Software Engineer II (US) | Mount Laurel, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2048b8f9fc33e871) | 2026-06-30 18:29 |
+| FIS | DevOps Software Engineer Specialists | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=06e65c0f51719bda) | 2026-06-30 18:29 |
+| 6sense | Software Engineer III | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=05703cc8519b448f) | 2026-06-30 18:29 |
 | ADG Tech Consulting | Senior Data Engineer - DevOps | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e9b07407edcc90ef) | 2026-06-30 16:17 |
 | Colgate-Palmolive | Machine Learning Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64cfca332d489410) | 2026-06-30 16:17 |
 | Ascendion | IAM Operations Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1efb9ed7d3c48c5) | 2026-06-30 16:17 |
@@ -264,24 +269,6 @@ Last updated: 2026-06-30 16:17
 | Transcor Data Services | Developer Operations Engineer I | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b84e13a37c8822b9) | 2026-06-26 20:27 |
 | Univision Communications Inc | Senior Data Engineer | Miami, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b2f885fbfd483879) | 2026-06-26 20:27 |
 | ACA Group | Ruby on Rails Developer | Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=055ba32ff0f18bd8) | 2026-06-26 20:27 |
-| Lennar | Data Engineer II | Miami, FL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=d8b8b3a8aa7e371a) | 2026-06-26 18:23 |
-| BV Teck | AWS Cloud | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9e552055c9acf50c) | 2026-06-26 18:23 |
-| BV Teck | OCI Cloud Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c928b0a2d4a9c5fb) | 2026-06-26 18:23 |
-| TD | Software Engineer III (US) | Mount Laurel, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3f872ac99e6bd1a) | 2026-06-26 18:23 |
-| Wellmark Blue Cross and Blue Shield | Senior Software Engineer - Enterprise Data Services | Des Moines, IA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=96ed3a70f59cd7a0) | 2026-06-26 18:23 |
-| BV Teck | Kafka Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a7d027e8fdfa98b9) | 2026-06-26 18:23 |
-| Cloud Data Vision | Remote Kubernetes Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b5be313cc3b61a58) | 2026-06-26 18:23 |
-| Lennar | Sr Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d54d860c68542f20) | 2026-06-26 18:23 |
-| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c2c3ec644d917447) | 2026-06-26 18:23 |
-| Major League Baseball | Data Engineer, League Analytics & Infrastructure | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e63e2ea97ff196b) | 2026-06-26 18:23 |
-| Bosch | Senior AI Software Engineer | Plymouth, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f03c5058699b33f7) | 2026-06-26 18:23 |
-| Optum | Senior Software Engineer | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=276c91b178e50bc3) | 2026-06-26 18:23 |
-| Wells Fargo | Senior .net Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2ec84c14bbe42215) | 2026-06-26 18:23 |
-| BV Teck | OpenShift Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8bfc9d48bb1fdefc) | 2026-06-26 18:23 |
-| Capgemini | Sustainability Data and AI Consultant | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7976a31d4fb905fe) | 2026-06-26 18:23 |
-| BlackLine | Senior Software Engineer - Python/Agentic AI | Pleasanton, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f2ba4e75ec79621) | 2026-06-26 18:23 |
-| Midwest Tape | SecOps Engineer | Holland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=965702c6436d9964) | 2026-06-26 18:23 |
-| Sunrise Banks | Software Engineering Supervisor - Hybrid | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=853197679fd8570c) | 2026-06-26 18:23 |
 
 
 ---
