@@ -1,17 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-30 10:26
+Last updated: 2026-06-30 13:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c44ee92aa2c8400) | 2026-06-30 13:04 |
+| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65c09af802c5ffa3) | 2026-06-30 13:04 |
+| AmaWaterways | Senior Full Stack Developer | Calabasas, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9ba93b8542af918) | 2026-06-30 13:04 |
 | Edgewater Federal Solutions | Senior IT Big Data Engineer | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=805d9159d3aff63f) | 2026-06-30 10:26 |
 | Willdan | Cloud Engineer | Anaheim, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8020391c43706e33) | 2026-06-30 10:26 |
-| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c44ee92aa2c8400) | 2026-06-30 10:26 |
 | Acrisure LLC | Software Engineer, Data (L1) | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=de33f3f460768669) | 2026-06-30 10:26 |
 | Acrisure LLC | Software Engineer, Data (L1) | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5a58fca26aa0b565) | 2026-06-30 10:26 |
-| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65c09af802c5ffa3) | 2026-06-30 10:26 |
 | Thermo Fisher Scientific | Data Engineer III, Development | Carlsbad, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f5f5ff112c1e4fbb) | 2026-06-30 10:26 |
 | Kohl's | MLOps Engineer II | Menomonee Falls, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dae99e1ea457637a) | 2026-06-30 10:26 |
 | Entiovi Technologies Private Limited | Backend Engineer | Bengal, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f89dc1b57a628321) | 2026-06-30 10:26 |
@@ -280,7 +281,6 @@ Last updated: 2026-06-30 10:26
 | New York City Department of Sanitation | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f58c8be3a69d599b) | 2026-06-26 16:07 |
 | Optum | Senior Software Engineer | Wausau, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2a4a5c971b6dae8) | 2026-06-26 16:07 |
 | Rivian | Sr. Software Engineer, Enterprise Software | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=424a613517dace69) | 2026-06-26 16:07 |
-| Alternative Information Systems | Systems Administrator - Junior | Buffalo, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=87325485029af851) | 2026-06-26 13:03 |
 
 
 ---
