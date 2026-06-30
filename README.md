@@ -1,13 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-06-30 13:04
+Last updated: 2026-06-30 16:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c44ee92aa2c8400) | 2026-06-30 13:04 |
-| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65c09af802c5ffa3) | 2026-06-30 13:04 |
+| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5c44ee92aa2c8400) | 2026-06-30 16:17 |
+| Circana | Sr. Big Data Engineers*\| HQ: Chicago, IL | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65c09af802c5ffa3) | 2026-06-30 16:17 |
+| ADG Tech Consulting | Senior Data Engineer - DevOps | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e9b07407edcc90ef) | 2026-06-30 16:17 |
+| Colgate-Palmolive | Machine Learning Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64cfca332d489410) | 2026-06-30 16:17 |
+| Ascendion | IAM Operations Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1efb9ed7d3c48c5) | 2026-06-30 16:17 |
+| NFI Industries | Senior Data Engineer | Camden, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab9c3d571174ee0c) | 2026-06-30 16:17 |
+| Ticket Takedown LLC | Senior Product Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55148fbc10cb871e) | 2026-06-30 16:17 |
 | AmaWaterways | Senior Full Stack Developer | Calabasas, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9ba93b8542af918) | 2026-06-30 13:04 |
 | Edgewater Federal Solutions | Senior IT Big Data Engineer | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=805d9159d3aff63f) | 2026-06-30 10:26 |
 | Willdan | Cloud Engineer | Anaheim, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8020391c43706e33) | 2026-06-30 10:26 |
@@ -277,10 +282,6 @@ Last updated: 2026-06-30 13:04
 | BlackLine | Senior Software Engineer - Python/Agentic AI | Pleasanton, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f2ba4e75ec79621) | 2026-06-26 18:23 |
 | Midwest Tape | SecOps Engineer | Holland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=965702c6436d9964) | 2026-06-26 18:23 |
 | Sunrise Banks | Software Engineering Supervisor - Hybrid | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=853197679fd8570c) | 2026-06-26 18:23 |
-| PNC Financial Services Group | Data Engineer Senior - Big Data Platform Team | Farmers Branch, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0bd359ddd135794e) | 2026-06-26 16:07 |
-| New York City Department of Sanitation | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f58c8be3a69d599b) | 2026-06-26 16:07 |
-| Optum | Senior Software Engineer | Wausau, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2a4a5c971b6dae8) | 2026-06-26 16:07 |
-| Rivian | Sr. Software Engineer, Enterprise Software | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=424a613517dace69) | 2026-06-26 16:07 |
 
 
 ---
