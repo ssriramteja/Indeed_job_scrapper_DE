@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-01 08:04
+Last updated: 2026-07-01 11:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cognizant | Azure Databricks Admin | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=30458fe3d780cd5e) | 2026-07-01 11:51 |
+| BlackLine | Senior Software Engineer AI | Pleasanton, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f069643153aaaa93) | 2026-07-01 11:51 |
+| McAfee | Senior AI Engineer, MarTech | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e0a8b4ddc2c212a6) | 2026-07-01 11:51 |
+| BlackLine | Software Engineer AI/ML Ops | Pleasanton, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=817383301a886adf) | 2026-07-01 11:51 |
+| McAfee | Full Stack Software Developer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=712497bf338832f5) | 2026-07-01 11:51 |
+| Cognizant | Snowflake DBT Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e25f819418a170c2) | 2026-07-01 11:51 |
+| Cognizant | Sr. AI Architect | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c30f9895c7415caa) | 2026-07-01 11:51 |
+| McAfee | Data Analyst / Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bff5e93f15d9f562) | 2026-07-01 11:51 |
 | Carnegie Mellon University | Sr. Database Administrator - Computing Services | Pittsburgh, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e6cbf718cd9aac73) | 2026-07-01 08:04 |
 | MiniMed | AI/Data Science Engineer II | Northridge, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=aa4914e8c40e18d9) | 2026-07-01 08:04 |
 | CVS Health | Senior Data engineer | TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=56ed3caee5240d78) | 2026-07-01 08:04 |
@@ -288,12 +296,6 @@ Last updated: 2026-07-01 08:04
 | Tata Consultancy Services (TCS) | AWS Data Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9d2302c7e6b6aaf2) | 2026-06-27 16:58 |
 | Tata Consultancy Services (TCS) | Data Bricks Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=834e54031f069664) | 2026-06-27 16:58 |
 | Fairfax County Government | Data Engineer (Business Analyst IV) | Fairfax, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=414e38f5ca1fe7f7) | 2026-06-27 15:08 |
-| Networking for Future, Inc. | Data Architect | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0b36615465054406) | 2026-06-27 11:21 |
-| Foundation Building Materials | Senior BI Developer | Santa Ana, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=25c1cd979546661c) | 2026-06-27 11:21 |
-| JPMorganChase | Quant Analytics Associate Sr - DART | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=958563c6ca41d7c8) | 2026-06-27 09:23 |
-| nan | Data Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=90ffeeb2227958d7) | 2026-06-27 09:23 |
-| Ulta | Cloud Security Engineer | Bolingbrook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=371cb08487cb7590) | 2026-06-27 09:23 |
-| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=08f29a39eb33f231) | 2026-06-27 09:23 |
 
 
 ---
