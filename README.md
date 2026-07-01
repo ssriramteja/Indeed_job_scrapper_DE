@@ -1,11 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-01 14:09
+Last updated: 2026-07-01 17:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| RectorSeal | Senior Data Engineer (Remote) | US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b9a61d914fd12568) | 2026-07-01 17:07 |
+| Qode | Senior SDET | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ad0c1dbb6abf6b0e) | 2026-07-01 17:07 |
+| Qode | Senior SDET | Fort Mill, SC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8ac5da3fd48d3bd5) | 2026-07-01 17:07 |
+| Tesla | Data Engineer, Training Transformation | Buffalo, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d2acffa5291128c4) | 2026-07-01 17:07 |
+| PNC Financial Services Group | Software Engineer Sr (Java) | Pittsburgh, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d6c1b0c25c4f79fb) | 2026-07-01 17:07 |
+| HCA Healthcare | Senior Application System Engineer | Nashville, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1d25899ee1f9c7e2) | 2026-07-01 17:07 |
+| Qode | Senior Databricks Architect | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=12f702690763987d) | 2026-07-01 17:07 |
+| Core specialty | Business Application Developer - Fullstack | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4f3fc8579b2391c2) | 2026-07-01 17:07 |
+| Curriculum Associates | Senior Software Engineer III | MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5f46ca1a397036c7) | 2026-07-01 17:07 |
+| McKesson | Sr. Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=17aa6109dc953b4d) | 2026-07-01 17:07 |
+| Sigma Software Group | Senior Java Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8987bf2e6d7d503e) | 2026-07-01 17:07 |
+| Optum | Software Engineer | Basking Ridge, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bd85dafda269f4cd) | 2026-07-01 17:07 |
+| Tata Consultancy Services (TCS) | Senior OpenTelemetry Engineer | Woodland Hills, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dcdf51b6ddf79c84) | 2026-07-01 17:07 |
+| V4C.ai | Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cf3c7bdde5b4d60) | 2026-07-01 17:07 |
+| Datavault AI | DevOps Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9677be782841e9b3) | 2026-07-01 17:07 |
 | Strategy Inc | Senior Software Engineer | Tysons, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=23c2424743b671f3) | 2026-07-01 14:09 |
 | nan | Senior Product Software Engineer - Linear Advertising Platform | Bristol, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=59abce8159d1399a) | 2026-07-01 14:09 |
 | Cognizant | Azure Databricks Admin | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=30458fe3d780cd5e) | 2026-07-01 11:51 |
@@ -295,9 +310,6 @@ Last updated: 2026-07-01 14:09
 | Tata Consultancy Services (TCS) | Ansible Automation Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a397c14cbf510e63) | 2026-06-28 06:55 |
 | Metropolitan Council of the Twin Cities | Prin Software Engineer - AFS | Saint Paul, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4459c55264602070) | 2026-06-27 20:03 |
 | Zafran Security | Senior DevOps Engineer, US Production | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab3c0d8531de480d) | 2026-06-27 18:02 |
-| Tata Consultancy Services (TCS) | AWS Data Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9d2302c7e6b6aaf2) | 2026-06-27 16:58 |
-| Tata Consultancy Services (TCS) | Data Bricks Data Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=834e54031f069664) | 2026-06-27 16:58 |
-| Fairfax County Government | Data Engineer (Business Analyst IV) | Fairfax, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=414e38f5ca1fe7f7) | 2026-06-27 15:08 |
 
 
 ---
