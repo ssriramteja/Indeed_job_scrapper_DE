@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-02 09:53
+Last updated: 2026-07-02 12:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d89b3b31bb1d57b2) | 2026-07-02 12:03 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-02 12:03 |
 | Origami Risk LLC | Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b121742c1c0a0e0c) | 2026-07-02 09:53 |
 | 7-Eleven | QA Automation Engineer II | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b7c2109709d0fb65) | 2026-07-02 09:53 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-02 09:53 |
 | NIKE | Software Engineer | Beaverton, OR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ddd7a8d512b43154) | 2026-07-02 06:31 |
 | JPMorganChase | Software Engineer III: Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=53d5f21773f04216) | 2026-07-02 06:31 |
 | Fannie Mae | Advisor Software Engineer (AI/ML) | Reston, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=76ab24dd411e42cd) | 2026-07-02 06:31 |
