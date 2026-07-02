@@ -1,11 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-01 23:04
+Last updated: 2026-07-02 02:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Data Software Engineer II | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e9365b54c99b47a) | 2026-07-02 02:27 |
+| Blue Cross of Idaho | Snowflake Engineer | Meridian, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1b17a37638efda50) | 2026-07-02 02:27 |
+| Fuel Cycle | Senior Data Engineer | Los Angeles, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1d74bc8a5c70207a) | 2026-07-02 02:27 |
+| First Orion | Software Engineer | North Little Rock, AR, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=951fa7de8103bfe6) | 2026-07-02 02:27 |
+| LaunchDarkly | Senior Backend Engineer, Data Platform | Oakland, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=69cd71d265ff36ca) | 2026-07-02 02:27 |
+| TECHSTRA SOLUTIONS | Java Full Stack Developer (Senior) | Cleveland, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b8d0e2593357ebfc) | 2026-07-02 02:27 |
+| Brillio LLC | Architect – R01566974 | Princeton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6d2571b229b6c0e6) | 2026-07-02 02:27 |
+| MetLife | Azure Data Engineer | Cary, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b33cebafd850a30b) | 2026-07-02 02:27 |
+| Cayuse | Senior DevSecOps Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f334fbdcdef23c84) | 2026-07-02 02:27 |
+| Recutify Inc. | Data Engineer - GCP services | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=025b24fecbfea56e) | 2026-07-02 02:27 |
+| brightwheel | Senior AI Software Engineer, Product | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e3b0e5fc443be597) | 2026-07-02 02:27 |
+| JBI Software | Oracle Human Capital Management Analyst | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2278e5694be1021c) | 2026-07-02 02:27 |
+| Hightower Advisors | Senior Data Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3efc2581c2e7798d) | 2026-07-02 02:27 |
+| ImagineX Consulting | Senior Azure DevOps Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8717662758adb1bf) | 2026-07-02 02:27 |
+| SEI Investments Developments | Senior Software Engineer | Oaks, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=38dd4d1666578a1d) | 2026-07-02 02:27 |
+| RiskSpan | AI Engineer – Financial Services Hybrid | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7a4a74bffab03834) | 2026-07-02 02:27 |
+| Genworth | Platform Engineer, Azure / DevOps | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cfa5ed5e8c3010c) | 2026-07-02 02:27 |
+| Zoetis | Technical Architect, Dairy Predictive Solutions | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60290cbd30568673) | 2026-07-02 02:27 |
 | SunnyData | Data Solutions Architect (Financial Services) | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b839de2e42fa796c) | 2026-07-01 23:04 |
 | EXL Service | Platform Engineer - Databricks and Cloud | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a907408dc33d66c2) | 2026-07-01 23:04 |
 | Vantage Data Centers | Senior Data Engineer, Global | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=edba7e9ad21f7227) | 2026-07-01 23:04 |
