@@ -1,16 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-02 22:00
+Last updated: 2026-07-02 23:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d89b3b31bb1d57b2) | 2026-07-02 23:10 |
+| Idaho Power Company | Data Engineer - Senior Application Development Analyst | Boise, ID, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c327c9f4e800b849) | 2026-07-02 23:10 |
+| Allstate Insurance | Managing Engineer - Risk Insights and Risk Engineering (Remote, US) | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bfcda73cc0a3e91) | 2026-07-02 23:10 |
+| Highmark Health | Senior Analytic Data Engineer – Cloud Data Products & Analytic Enablement | PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e42d51f202bdd1cd) | 2026-07-02 23:10 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-02 23:10 |
+| Sunrise Banks | MGR - SOFTWARE ENGINEERING | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47845127b8be02d7) | 2026-07-02 23:10 |
+| Ford Motor Company | Frontend Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a18622e2ae9229fa) | 2026-07-02 23:10 |
 | Tata Consultancy Services (TCS) | Engineer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c12624733c865304) | 2026-07-02 22:00 |
 | VSP Vision | Data Engineer (Snowflake/DataStage) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=13d171a250563755) | 2026-07-02 22:00 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d89b3b31bb1d57b2) | 2026-07-02 22:00 |
 | Career TEAM | DevOps Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=759bc95f0f620a8d) | 2026-07-02 22:00 |
-| Idaho Power Company | Data Engineer - Senior Application Development Analyst | Boise, ID, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c327c9f4e800b849) | 2026-07-02 22:00 |
 | Blue Cross and Blue Shield of Kansas | Solutions Architect | Topeka, KS, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=443de50c84ec577c) | 2026-07-02 22:00 |
 | PayCargo LLC | Senior Engineer, DevOps/Platform Reliability | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7d70c76f7b619354) | 2026-07-02 22:00 |
 | Kemper | Senior Data Systems Analyst | Omaha, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=95b0ec5a73d05efa) | 2026-07-02 22:00 |
@@ -23,9 +28,7 @@ Last updated: 2026-07-02 22:00
 | Ross Dress For Less | Engineer II | Dublin, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c10db4f3f98dced0) | 2026-07-02 22:00 |
 | Penn Interactive Ventures | Software Engineer, Sportsbook Platform | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e68bea5c8b6f32f3) | 2026-07-02 22:00 |
 | Data Ninjas Inc. | Snowflake Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=124e0eb6378e523b) | 2026-07-02 22:00 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-02 22:00 |
 | oura | Senior Data Analyst, Hardware & Supply Chain | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c0c6767bdba48a7e) | 2026-07-02 22:00 |
-| Ford Motor Company | Frontend Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a18622e2ae9229fa) | 2026-07-02 22:00 |
 | Barnes Aerospace | Data Engineer | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=7a6c863fad4f5188) | 2026-07-02 20:55 |
 | American Airlines | Developer/Sr Developer, IT Applications | Fort Worth, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b9553c5cf6b0e55e) | 2026-07-02 20:55 |
 | EMERY SAPP & SONS | Senior Data Engineer | Kansas City, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0d1c2968e4c859ad) | 2026-07-02 20:55 |
