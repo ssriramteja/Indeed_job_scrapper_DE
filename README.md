@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-02 06:31
+Last updated: 2026-07-02 09:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Origami Risk LLC | Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b121742c1c0a0e0c) | 2026-07-02 09:53 |
+| 7-Eleven | QA Automation Engineer II | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b7c2109709d0fb65) | 2026-07-02 09:53 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-02 09:53 |
 | NIKE | Software Engineer | Beaverton, OR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ddd7a8d512b43154) | 2026-07-02 06:31 |
 | JPMorganChase | Software Engineer III: Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=53d5f21773f04216) | 2026-07-02 06:31 |
 | Fannie Mae | Advisor Software Engineer (AI/ML) | Reston, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=76ab24dd411e42cd) | 2026-07-02 06:31 |
@@ -419,12 +422,6 @@ Last updated: 2026-07-02 06:31
 | bet365 | Machine Learning Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=408ab6603d114356) | 2026-06-29 10:22 |
 | HCLTech | Senior Solution Architect | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d3bab45b84b040d) | 2026-06-29 05:22 |
 | HCLTech | Sr AI/ML Solutions Architect - PostgreSQL | Virginia Beach, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e876a85ca956607c) | 2026-06-29 05:22 |
-| Tata Consultancy Services (TCS) | Google Data Engineer | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=063d41992d4b3402) | 2026-06-28 09:53 |
-| City of Rockville | Senior Application Developer | Rockville, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6ffba52098259ac2) | 2026-06-28 09:53 |
-| Fiserv | Sr Full Stack Engineer | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b55caa3b9d44424) | 2026-06-28 09:53 |
-| MidAmerican Energy | Sr Data Engineer | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4e1c45f198f8f88f) | 2026-06-28 06:55 |
-| Major League Baseball (MLB) | Data Engineer, League Analytics & Infrastructure | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40ae4dfa2efb93cb) | 2026-06-28 06:55 |
-| Tata Consultancy Services (TCS) | Ansible Automation Platform Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a397c14cbf510e63) | 2026-06-28 06:55 |
 
 
 ---
