@@ -1,17 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-02 19:10
+Last updated: 2026-07-02 20:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d89b3b31bb1d57b2) | 2026-07-02 19:10 |
+| Barnes Aerospace | Data Engineer | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=7a6c863fad4f5188) | 2026-07-02 20:55 |
+| American Airlines | Developer/Sr Developer, IT Applications | Fort Worth, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b9553c5cf6b0e55e) | 2026-07-02 20:55 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d89b3b31bb1d57b2) | 2026-07-02 20:55 |
+| Idaho Power Company | Data Engineer - Senior Application Development Analyst | Boise, ID, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c327c9f4e800b849) | 2026-07-02 20:55 |
+| EMERY SAPP & SONS | Senior Data Engineer | Kansas City, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0d1c2968e4c859ad) | 2026-07-02 20:55 |
+| EMERY SAPP & SONS | Senior Data Engineer | Columbia, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1c6be32f39256627) | 2026-07-02 20:55 |
+| Mount Sinai Health System | Machine Learning Engineer I - Large Language Models - AI & Human Health Research | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cf467b81837982e7) | 2026-07-02 20:55 |
+| Stellantis | ICT Data Engineer | Auburn Hills, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a2029636ab554fae) | 2026-07-02 20:55 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0c24ef6b14853f5) | 2026-07-02 20:55 |
+| Fidelity TalentSource | Full Stack Engineer | Westlake, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24ff39b093bcf7a5) | 2026-07-02 20:55 |
+| Bass Pro Shops | Sr Engineer, BI - Onsite | Springfield, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb1698466286ec42) | 2026-07-02 20:55 |
+| Colorado Public Employees' Retirement Association | Database & Data Platform Administrator | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=25fd1065a8aec697) | 2026-07-02 20:55 |
+| Cisco | Senior Database Engineer (DBRE) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dac21e8c2033fca7) | 2026-07-02 20:55 |
+| Sunsoft Services Inc | Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f0b9cecc2115912) | 2026-07-02 20:55 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-02 20:55 |
+| Optum | Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa146328f582d2ee) | 2026-07-02 20:55 |
+| AssetMark | Associate Data Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9931af3931ffd36f) | 2026-07-02 20:55 |
+| Ford Motor Company | Frontend Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a18622e2ae9229fa) | 2026-07-02 20:55 |
 | JPMorganChase | Security Engineer III - AI/ML | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0732962234af33bb) | 2026-07-02 19:10 |
-| Idaho Power Company | Data Engineer - Senior Application Development Analyst | Boise, ID, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c327c9f4e800b849) | 2026-07-02 19:10 |
 | NuAxis Innovations | Senior Data Architect | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4737707c3f640d35) | 2026-07-02 19:10 |
 | EXL Service | Data Engineer | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8fc9a6e5f3db9370) | 2026-07-02 19:10 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-02 19:10 |
 | Optum | Software Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=501ec28aee7919fd) | 2026-07-02 19:10 |
 | NBME | Senior Data Engineer (Customer Data Products) | Philadelphia, PA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=cce51fb4ed88355c) | 2026-07-02 17:27 |
 | Dorleco | Data Engineer | Columbus, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e2316c19c169e1b3) | 2026-07-02 17:27 |
