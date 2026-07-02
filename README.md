@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-02 02:27
+Last updated: 2026-07-02 06:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NIKE | Software Engineer | Beaverton, OR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ddd7a8d512b43154) | 2026-07-02 06:31 |
+| JPMorganChase | Software Engineer III: Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=53d5f21773f04216) | 2026-07-02 06:31 |
+| Fannie Mae | Advisor Software Engineer (AI/ML) | Reston, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=76ab24dd411e42cd) | 2026-07-02 06:31 |
+| Anthropic | [P] Data Engineer, Safeguards | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=baef6db4055ef653) | 2026-07-02 06:31 |
+| Tata Consultancy Services (TCS) | Developer | Des Moines, IA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1440a2d2356cbc69) | 2026-07-02 06:31 |
+| Tata Consultancy Services (TCS) | Senior Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a3070c24cd1abbb2) | 2026-07-02 06:31 |
+| MetLife | Azure Data Engineer | Cary, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1777ba7f513541b1) | 2026-07-02 06:31 |
+| I8IS INC. | Data Engineer - GCP services | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b1d438cb8109fa60) | 2026-07-02 06:31 |
+| Cognizant | Snowflake Data Architect | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=19f4dff8bd114365) | 2026-07-02 06:31 |
 | JPMorganChase | Data Software Engineer II | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e9365b54c99b47a) | 2026-07-02 02:27 |
 | Blue Cross of Idaho | Snowflake Engineer | Meridian, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1b17a37638efda50) | 2026-07-02 02:27 |
 | Fuel Cycle | Senior Data Engineer | Los Angeles, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1d74bc8a5c70207a) | 2026-07-02 02:27 |
