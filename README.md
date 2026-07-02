@@ -1,17 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-02 17:27
+Last updated: 2026-07-02 19:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d89b3b31bb1d57b2) | 2026-07-02 19:10 |
+| JPMorganChase | Security Engineer III - AI/ML | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0732962234af33bb) | 2026-07-02 19:10 |
+| Idaho Power Company | Data Engineer - Senior Application Development Analyst | Boise, ID, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c327c9f4e800b849) | 2026-07-02 19:10 |
+| NuAxis Innovations | Senior Data Architect | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4737707c3f640d35) | 2026-07-02 19:10 |
+| EXL Service | Data Engineer | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8fc9a6e5f3db9370) | 2026-07-02 19:10 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-02 19:10 |
+| Optum | Software Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=501ec28aee7919fd) | 2026-07-02 19:10 |
 | NBME | Senior Data Engineer (Customer Data Products) | Philadelphia, PA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=cce51fb4ed88355c) | 2026-07-02 17:27 |
 | Dorleco | Data Engineer | Columbus, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e2316c19c169e1b3) | 2026-07-02 17:27 |
 | AdventHealth Corporate | Cloud Data Platform Architect | Altamonte Springs, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0b49a29e977cbd0a) | 2026-07-02 17:27 |
 | Stellantis | Data Engineer | Auburn Hills, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1b4b5a191541e3b8) | 2026-07-02 17:27 |
 | Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ea57d1c34ac586d9) | 2026-07-02 17:27 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d89b3b31bb1d57b2) | 2026-07-02 17:27 |
 | EMERY SAPP & SONS | Senior Data Engineer | Kansas City, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=667f77c9d7a9c12e) | 2026-07-02 17:27 |
 | EMERY SAPP & SONS | Senior Data Engineer | Columbia, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c9629f01e9f1302a) | 2026-07-02 17:27 |
 | Cloudflare | Senior Machine Learning Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=138ef0c74c45d8c4) | 2026-07-02 17:27 |
@@ -20,7 +26,6 @@ Last updated: 2026-07-02 17:27
 | Snowflake | Senior Solutions Architect - AI/ML - Services Delivery | NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1440e5e9f75e65a5) | 2026-07-02 17:27 |
 | nan | Senior AI Engineer | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67c5b2c44ca61f78) | 2026-07-02 17:27 |
 | PNC Financial Services Group | Senior Software Engineer - J2EE / Jenkins / Spring Boot | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea107a3e8076230f) | 2026-07-02 17:27 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-02 17:27 |
 | Alarm.com | Senior Software Engineer | Tysons Corner, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da1d5852709519d3) | 2026-07-02 17:27 |
 | SAVISHTY | AWS Data Engineer | Frisco, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=580224382e8a12e0) | 2026-07-02 15:06 |
 | SAVISHTY | Site Reliability Engineer | Frisco, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6f5de4f159f9c510) | 2026-07-02 15:06 |
