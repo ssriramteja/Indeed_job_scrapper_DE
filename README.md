@@ -1,19 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-02 15:06
+Last updated: 2026-07-02 17:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NBME | Senior Data Engineer (Customer Data Products) | Philadelphia, PA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=cce51fb4ed88355c) | 2026-07-02 17:27 |
+| Dorleco | Data Engineer | Columbus, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e2316c19c169e1b3) | 2026-07-02 17:27 |
+| AdventHealth Corporate | Cloud Data Platform Architect | Altamonte Springs, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0b49a29e977cbd0a) | 2026-07-02 17:27 |
+| Stellantis | Data Engineer | Auburn Hills, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1b4b5a191541e3b8) | 2026-07-02 17:27 |
+| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ea57d1c34ac586d9) | 2026-07-02 17:27 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d89b3b31bb1d57b2) | 2026-07-02 17:27 |
+| EMERY SAPP & SONS | Senior Data Engineer | Kansas City, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=667f77c9d7a9c12e) | 2026-07-02 17:27 |
+| EMERY SAPP & SONS | Senior Data Engineer | Columbia, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c9629f01e9f1302a) | 2026-07-02 17:27 |
+| Cloudflare | Senior Machine Learning Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=138ef0c74c45d8c4) | 2026-07-02 17:27 |
+| Moody's | Senior Software Engineer- Generative AI | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1547cee06d0bb3ab) | 2026-07-02 17:27 |
+| Indiana University Health | Senior Information Services Developer- Databricks | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f46d509d8362d109) | 2026-07-02 17:27 |
+| Snowflake | Senior Solutions Architect - AI/ML - Services Delivery | NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1440e5e9f75e65a5) | 2026-07-02 17:27 |
+| nan | Senior AI Engineer | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67c5b2c44ca61f78) | 2026-07-02 17:27 |
+| PNC Financial Services Group | Senior Software Engineer - J2EE / Jenkins / Spring Boot | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea107a3e8076230f) | 2026-07-02 17:27 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-02 17:27 |
+| Alarm.com | Senior Software Engineer | Tysons Corner, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da1d5852709519d3) | 2026-07-02 17:27 |
 | SAVISHTY | AWS Data Engineer | Frisco, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=580224382e8a12e0) | 2026-07-02 15:06 |
 | SAVISHTY | Site Reliability Engineer | Frisco, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6f5de4f159f9c510) | 2026-07-02 15:06 |
 | Nlineaxis It Solutions | Site Reliability Engineer | Frisco, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bcac5ba7033fe638) | 2026-07-02 15:06 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d89b3b31bb1d57b2) | 2026-07-02 15:06 |
 | Luxoft | Senior Calypso Technical Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a8903d4fd47c4bc1) | 2026-07-02 15:06 |
 | nan | Sr Product Software Engineer | Santa Monica, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce82a6c8b0ad6bef) | 2026-07-02 15:06 |
 | Blue Orange Digital | Senior Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99a36241acc2482c) | 2026-07-02 15:06 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-02 15:06 |
 | Origami Risk LLC | Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b121742c1c0a0e0c) | 2026-07-02 09:53 |
 | 7-Eleven | QA Automation Engineer II | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b7c2109709d0fb65) | 2026-07-02 09:53 |
 | NIKE | Software Engineer | Beaverton, OR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ddd7a8d512b43154) | 2026-07-02 06:31 |
