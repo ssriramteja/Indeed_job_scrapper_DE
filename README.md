@@ -1,13 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-02 12:03
+Last updated: 2026-07-02 15:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d89b3b31bb1d57b2) | 2026-07-02 12:03 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-02 12:03 |
+| SAVISHTY | AWS Data Engineer | Frisco, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=580224382e8a12e0) | 2026-07-02 15:06 |
+| SAVISHTY | Site Reliability Engineer | Frisco, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6f5de4f159f9c510) | 2026-07-02 15:06 |
+| Nlineaxis It Solutions | Site Reliability Engineer | Frisco, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bcac5ba7033fe638) | 2026-07-02 15:06 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d89b3b31bb1d57b2) | 2026-07-02 15:06 |
+| Luxoft | Senior Calypso Technical Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a8903d4fd47c4bc1) | 2026-07-02 15:06 |
+| nan | Sr Product Software Engineer | Santa Monica, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce82a6c8b0ad6bef) | 2026-07-02 15:06 |
+| Blue Orange Digital | Senior Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99a36241acc2482c) | 2026-07-02 15:06 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-02 15:06 |
 | Origami Risk LLC | Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b121742c1c0a0e0c) | 2026-07-02 09:53 |
 | 7-Eleven | QA Automation Engineer II | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b7c2109709d0fb65) | 2026-07-02 09:53 |
 | NIKE | Software Engineer | Beaverton, OR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ddd7a8d512b43154) | 2026-07-02 06:31 |
