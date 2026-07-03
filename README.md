@@ -1,15 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-03 19:03
+Last updated: 2026-07-03 20:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer - Spark, Hadoop, Ozone CH, Flink \| Berkley Heights, NJ (Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=54cabd90bb4fcf14) | 2026-07-03 19:03 |
-| Tampa Electric Company | IT Architect (ADI) | Brandon, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e9d3910b5fff7ee) | 2026-07-03 19:03 |
+| Next Gen Software Solutions | Data Engineer - Spark, Hadoop, Ozone CH, Flink \| Berkley Heights, NJ (Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=54cabd90bb4fcf14) | 2026-07-03 20:53 |
+| Tampa Electric Company | IT Architect (ADI) | Brandon, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e9d3910b5fff7ee) | 2026-07-03 20:53 |
+| Tricon Solutions | Snowflake Architect – AWS & Data Governance \| Oil & Gas Domain \| Houston, TX \| Full-Time | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6d27ed14ea847a8) | 2026-07-03 20:53 |
+| Whatfix | Software Engineer (Level 3 / E3) - Core Platform | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e46ba444bbad5fd) | 2026-07-03 20:53 |
+| Whatfix | Software Engineer (Level 4 / E4) - Core Platform | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ffad5f6aac08e5a) | 2026-07-03 20:53 |
 | Hudson River Community Credit Union | Data Engineer | Corinth, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f7fcbb496808adb) | 2026-07-03 19:03 |
-| Ford Motor Company | Frontend Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a18622e2ae9229fa) | 2026-07-03 19:03 |
 | Altak Group | Ab Initio Developer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3375df1916d0dbd2) | 2026-07-03 17:14 |
 | CNH Industrial | Senior Software Engineer - SRE Focus | Oak Brook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cc9b9608e126cebe) | 2026-07-03 17:14 |
 | Awesome Motive Inc. | AI Developer | Miami Beach, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98f33599b59c5df8) | 2026-07-03 17:14 |
@@ -480,17 +482,6 @@ Last updated: 2026-07-03 19:03
 | CADRE GOVERNMENT SOLUTIONS | Kafka Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a874a7bc98d4c6bb) | 2026-06-29 22:47 |
 | Capgemini | Senior Cloud Architect | Fort Mill, SC, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=ef4c425e913ad44b) | 2026-06-29 21:17 |
 | Caterpillar | Senior Software Engineer | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3a31d611f67e9e2c) | 2026-06-29 21:17 |
-| Green Mountain Power | Data Engineer | Colchester, VT, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=3d9f58a4baa94d06) | 2026-06-29 19:43 |
-| Diversified Services Network, Inc. | Senior Software Engineer (Java & AWS) | Peoria, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=960399573e934589) | 2026-06-29 19:43 |
-| Diversified Services Network, Inc. | Senior Software Engineer (Java & AWS) | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=51349eeea9315e96) | 2026-06-29 19:43 |
-| Nanobiosym | Software Engineer: Full-Stack Web Developer | Cambridge, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3bf49a9803268a39) | 2026-06-29 19:43 |
-| Diversified Services Network, Inc. | Senior Scala Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=99b1c920fa5438bf) | 2026-06-29 19:43 |
-| Optum | Data Engineer | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d57566bba0a6ced1) | 2026-06-29 19:43 |
-| Team Velocity Marketing | Senior Data Scientist | Herndon, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d7e753d624ac7894) | 2026-06-29 19:43 |
-| Tenable | Salesforce Developer (Hybrid/Columbia MD or Boston MA) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2103938d18681ae1) | 2026-06-29 19:43 |
-| DAS Federal | Senior Systems Engineer (Ansible Automation Platform / Hybrid Cloud) | Gaithersburg, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c50a892c497ffe06) | 2026-06-29 19:43 |
-| ZENO Group | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf46770fd8ff6a55) | 2026-06-29 19:43 |
-| Optum | Senior Software Engineer - 2373638 | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=333af030098f9b44) | 2026-06-29 19:43 |
 
 
 ---
