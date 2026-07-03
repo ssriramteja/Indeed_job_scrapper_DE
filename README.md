@@ -1,17 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-03 17:14
+Last updated: 2026-07-03 19:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Next Gen Software Solutions | Data Engineer - Spark, Hadoop, Ozone CH, Flink \| Berkley Heights, NJ (Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=54cabd90bb4fcf14) | 2026-07-03 19:03 |
+| Tampa Electric Company | IT Architect (ADI) | Brandon, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e9d3910b5fff7ee) | 2026-07-03 19:03 |
+| Hudson River Community Credit Union | Data Engineer | Corinth, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f7fcbb496808adb) | 2026-07-03 19:03 |
+| Ford Motor Company | Frontend Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a18622e2ae9229fa) | 2026-07-03 19:03 |
 | Altak Group | Ab Initio Developer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3375df1916d0dbd2) | 2026-07-03 17:14 |
-| Next Gen Software Solutions | Data Engineer - Spark, Hadoop, Ozone CH, Flink \| Berkley Heights, NJ (Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=54cabd90bb4fcf14) | 2026-07-03 17:14 |
-| Tampa Electric Company | IT Architect (ADI) | Brandon, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e9d3910b5fff7ee) | 2026-07-03 17:14 |
-| Idaho Power Company | Data Engineer - Senior Application Development Analyst | Boise, ID, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c327c9f4e800b849) | 2026-07-03 17:14 |
 | CNH Industrial | Senior Software Engineer - SRE Focus | Oak Brook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cc9b9608e126cebe) | 2026-07-03 17:14 |
-| Ford Motor Company | Frontend Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a18622e2ae9229fa) | 2026-07-03 17:14 |
 | Awesome Motive Inc. | AI Developer | Miami Beach, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98f33599b59c5df8) | 2026-07-03 17:14 |
 | 7-Eleven | Software Engineer II - Python | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb780f85c387dcda) | 2026-07-03 15:02 |
 | Genpact | Campus DTAI Track – Data, Tech & AI | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6629e5da1fcb9599) | 2026-07-03 15:02 |
@@ -491,24 +491,6 @@ Last updated: 2026-07-03 17:14
 | DAS Federal | Senior Systems Engineer (Ansible Automation Platform / Hybrid Cloud) | Gaithersburg, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c50a892c497ffe06) | 2026-06-29 19:43 |
 | ZENO Group | Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf46770fd8ff6a55) | 2026-06-29 19:43 |
 | Optum | Senior Software Engineer - 2373638 | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=333af030098f9b44) | 2026-06-29 19:43 |
-| PBK Architects | Data Engineer | Berkeley, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5ea10b210ba9e582) | 2026-06-29 17:28 |
-| Scigon | Java Developer | Oak Brook, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b5b0482fe6c4872a) | 2026-06-29 17:28 |
-| RAPSYS TECHNOLOGIES PTE. LTD. | Salesforce Architect | Schaumburg, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6a013e1c627f048a) | 2026-06-29 17:28 |
-| nan | Data Engineer/Architect - MS Fabric | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=baea501e7691a719) | 2026-06-29 17:28 |
-| Optum | Senior Software Engineer - Austin, TX - 2373630 | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5ecbcebb77acdc85) | 2026-06-29 17:28 |
-| Alignment Healthcare | Senior Engineer & Data Architect, Financial Systems | Orange, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ecbc7c313d9e51ca) | 2026-06-29 17:28 |
-| Kemper | Senior Data Systems Analyst | Omaha, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=20fc46279f198efe) | 2026-06-29 17:28 |
-| Kemper | Senior Data Systems Analyst | Bloomington, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bec039b9620a5fef) | 2026-06-29 17:28 |
-| Kemper | Senior Data Systems Analyst | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c48eb68de5366b63) | 2026-06-29 17:28 |
-| Kemper | Senior Data Systems Analyst | Downers Grove, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=212a79337c567fc4) | 2026-06-29 17:28 |
-| Kemper | Senior Data Systems Analyst | San Antonio, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3048911b0454e84c) | 2026-06-29 17:28 |
-| Kemper | Senior Data Systems Analyst | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=02430a3484af15a3) | 2026-06-29 17:28 |
-| The University of Michigan | Data Architect | Ann Arbor, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=95668eacef5ebd13) | 2026-06-29 17:28 |
-| Okta | Senior Site Reliability Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=33da34be38b547b0) | 2026-06-29 17:28 |
-| Trulieve | Platform Engineer | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2502fbaa4654c499) | 2026-06-29 17:28 |
-| OneMain Financial | Senior Platform Engineer (Observability & Telemetry) | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0440c7931c20ebe0) | 2026-06-29 17:28 |
-| Intone Networks | Sr Software Engineer | Dunwoody, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc7e459625948137) | 2026-06-29 17:28 |
-| JELLYFISH | Senior Data and AI Platform Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6845c8c42d45017a) | 2026-06-29 17:28 |
 
 
 ---
