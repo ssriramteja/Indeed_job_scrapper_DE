@@ -1,16 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-03 12:01
+Last updated: 2026-07-03 15:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer - Spark, Hadoop, Ozone CH, Flink \| Berkley Heights, NJ (Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=54cabd90bb4fcf14) | 2026-07-03 12:01 |
-| Tampa Electric Company | IT Architect (ADI) | Brandon, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e9d3910b5fff7ee) | 2026-07-03 12:01 |
-| Idaho Power Company | Data Engineer - Senior Application Development Analyst | Boise, ID, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c327c9f4e800b849) | 2026-07-03 12:01 |
+| Next Gen Software Solutions | Data Engineer - Spark, Hadoop, Ozone CH, Flink \| Berkley Heights, NJ (Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=54cabd90bb4fcf14) | 2026-07-03 15:02 |
+| Tampa Electric Company | IT Architect (ADI) | Brandon, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e9d3910b5fff7ee) | 2026-07-03 15:02 |
+| Idaho Power Company | Data Engineer - Senior Application Development Analyst | Boise, ID, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c327c9f4e800b849) | 2026-07-03 15:02 |
+| 7-Eleven | Software Engineer II - Python | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb780f85c387dcda) | 2026-07-03 15:02 |
+| Genpact | Campus DTAI Track – Data, Tech & AI | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6629e5da1fcb9599) | 2026-07-03 15:02 |
+| Ford Motor Company | Frontend Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a18622e2ae9229fa) | 2026-07-03 15:02 |
 | Genpact | Campus DTAI Track – Data, Tech & AI | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=81913d589c038b43) | 2026-07-03 12:01 |
-| Ford Motor Company | Frontend Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a18622e2ae9229fa) | 2026-07-03 12:01 |
 | CVS Health | DevOps Engineer (Remote) | MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=78392f2d9015aeeb) | 2026-07-03 09:50 |
 | McAfee | Senior AI Engineer, MarTech | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28bb6b860bdff8b3) | 2026-07-03 09:50 |
 | The Hillman Group | Analytics Engineer | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9726119dcb779aff) | 2026-07-03 09:50 |
@@ -504,9 +506,6 @@ Last updated: 2026-07-03 12:01
 | OneMain Financial | Senior Platform Engineer (Observability & Telemetry) | Baltimore, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0440c7931c20ebe0) | 2026-06-29 17:28 |
 | Intone Networks | Sr Software Engineer | Dunwoody, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc7e459625948137) | 2026-06-29 17:28 |
 | JELLYFISH | Senior Data and AI Platform Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6845c8c42d45017a) | 2026-06-29 17:28 |
-| Neubus, Inc. | AWS SysOp Admin/DevOps Engineer | Round Rock, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b45e55bba1cdc0f9) | 2026-06-29 14:42 |
-| Optum | Software Engineer - 2373611 | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=54e4cfd29eb8d796) | 2026-06-29 14:42 |
-| VINMAR INTERNATIONAL | AI Systems Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81e20cb883b5bbbb) | 2026-06-29 14:42 |
 
 
 ---
