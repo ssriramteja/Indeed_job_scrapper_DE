@@ -1,18 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-03 21:57
+Last updated: 2026-07-03 22:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer - Spark, Hadoop, Ozone CH, Flink \| Berkley Heights, NJ (Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=54cabd90bb4fcf14) | 2026-07-03 21:57 |
-| Tampa Electric Company | IT Architect (ADI) | Brandon, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e9d3910b5fff7ee) | 2026-07-03 21:57 |
+| Tampa Electric Company | IT Architect (ADI) | Brandon, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e9d3910b5fff7ee) | 2026-07-03 22:58 |
+| nan | Software Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=22049ffcc6bb4062) | 2026-07-03 22:58 |
+| OnMed | DevOps Engineer | White Plains, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=33f34675d6b944c5) | 2026-07-03 22:58 |
+| Pearson | Senior Quality Assurance Engineer | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6eb29d3e19caf513) | 2026-07-03 22:58 |
+| Tricon Solutions | Snowflake Architect – AWS & Data Governance \| Oil & Gas Domain \| Houston, TX \| Full-Time | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6d27ed14ea847a8) | 2026-07-03 22:58 |
 | Climb | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f49fab7756cd40ca) | 2026-07-03 21:57 |
 | Climb | Data Architect | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=64b506ee2b284700) | 2026-07-03 21:57 |
 | CADRE GOVERNMENT SOLUTIONS | Java Full Stack Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e2099b5430245346) | 2026-07-03 21:57 |
 | nan | Senior Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc379557ac7b50a7) | 2026-07-03 21:57 |
-| Tricon Solutions | Snowflake Architect – AWS & Data Governance \| Oil & Gas Domain \| Houston, TX \| Full-Time | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6d27ed14ea847a8) | 2026-07-03 21:57 |
 | Whatfix | Software Engineer (Level 3 / E3) - Core Platform | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e46ba444bbad5fd) | 2026-07-03 20:53 |
 | Whatfix | Software Engineer (Level 4 / E4) - Core Platform | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ffad5f6aac08e5a) | 2026-07-03 20:53 |
 | Hudson River Community Credit Union | Data Engineer | Corinth, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f7fcbb496808adb) | 2026-07-03 19:03 |
@@ -464,26 +466,6 @@ Last updated: 2026-07-03 21:57
 | GreenBox Capital | Senior Backend Engineer - US | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d0eba562e0eef18) | 2026-06-29 23:55 |
 | Cognizant | Agentic AI Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da0e10d1b2e6cc95) | 2026-06-29 23:55 |
 | Capgemini | Power BI Developer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99dcfa53429fedf3) | 2026-06-29 23:55 |
-| nan | Data Scientist | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0d49a70c4f87ce0f) | 2026-06-29 22:47 |
-| Consumer Cellular | Senior Engineer, DevOps | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d3933dfeda45c057) | 2026-06-29 22:47 |
-| Avaya | Senior Data Engineer | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=626f550b7d7b1c09) | 2026-06-29 22:47 |
-| nan | IT Administrator | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=56a11b4a8e808497) | 2026-06-29 22:47 |
-| Charles Schwab | Specialist - Software Development & Engineering | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fb4a561dc1cddafc) | 2026-06-29 22:47 |
-| nan | Software Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=baf9b523ed48e61a) | 2026-06-29 22:47 |
-| Cushman & Wakefield | Senior Engineer | Creve Coeur, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3fed8aee2bab65bb) | 2026-06-29 22:47 |
-| JCTM | ETL/Data Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=84b5e94eddb1f9ba) | 2026-06-29 22:47 |
-| APLOMB Technologies | Senior Data Engineer | New Boston, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=021284abbf4c58c0) | 2026-06-29 22:47 |
-| SCAN Health Plan | Full Stack, Data & Analytics Engineer (Agency Temp) | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1ec69ba27334413b) | 2026-06-29 22:47 |
-| Five Below | Solutions Architect II - Omnichannel | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=51e91e41bcce9db6) | 2026-06-29 22:47 |
-| JCTM | Data Architect | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0f1d90a9441d225d) | 2026-06-29 22:47 |
-| Wells Fargo | Database Engineer (contract) | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7bbb3ea9ee7ee707) | 2026-06-29 22:47 |
-| Compass Group USA | Senior Developer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=56503a1394bbff7d) | 2026-06-29 22:47 |
-| Coverys | Data Architect | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c259b85236c51107) | 2026-06-29 22:47 |
-| Wildfire Defense Systems | Associate Actuary | Bozeman, MT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6d2413f123744bc5) | 2026-06-29 22:47 |
-| Wildfire Defense Systems | Associate Actuary | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45e40dedeb41804c) | 2026-06-29 22:47 |
-| Rad Cube LLC | Intern - Full Stack Developer | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ceebe7f570acd23b) | 2026-06-29 22:47 |
-| Alternate Solutions Health Network | Data & Integrations Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68e7d8a3a432eba9) | 2026-06-29 22:47 |
-| CADRE GOVERNMENT SOLUTIONS | Kafka Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a874a7bc98d4c6bb) | 2026-06-29 22:47 |
 
 
 ---
