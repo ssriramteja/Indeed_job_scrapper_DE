@@ -1,17 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-03 15:02
+Last updated: 2026-07-03 17:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Next Gen Software Solutions | Data Engineer - Spark, Hadoop, Ozone CH, Flink \| Berkley Heights, NJ (Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=54cabd90bb4fcf14) | 2026-07-03 15:02 |
-| Tampa Electric Company | IT Architect (ADI) | Brandon, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e9d3910b5fff7ee) | 2026-07-03 15:02 |
-| Idaho Power Company | Data Engineer - Senior Application Development Analyst | Boise, ID, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c327c9f4e800b849) | 2026-07-03 15:02 |
+| Altak Group | Ab Initio Developer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3375df1916d0dbd2) | 2026-07-03 17:14 |
+| Next Gen Software Solutions | Data Engineer - Spark, Hadoop, Ozone CH, Flink \| Berkley Heights, NJ (Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=54cabd90bb4fcf14) | 2026-07-03 17:14 |
+| Tampa Electric Company | IT Architect (ADI) | Brandon, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e9d3910b5fff7ee) | 2026-07-03 17:14 |
+| Idaho Power Company | Data Engineer - Senior Application Development Analyst | Boise, ID, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c327c9f4e800b849) | 2026-07-03 17:14 |
+| CNH Industrial | Senior Software Engineer - SRE Focus | Oak Brook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cc9b9608e126cebe) | 2026-07-03 17:14 |
+| Ford Motor Company | Frontend Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a18622e2ae9229fa) | 2026-07-03 17:14 |
+| Awesome Motive Inc. | AI Developer | Miami Beach, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98f33599b59c5df8) | 2026-07-03 17:14 |
 | 7-Eleven | Software Engineer II - Python | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb780f85c387dcda) | 2026-07-03 15:02 |
 | Genpact | Campus DTAI Track – Data, Tech & AI | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6629e5da1fcb9599) | 2026-07-03 15:02 |
-| Ford Motor Company | Frontend Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a18622e2ae9229fa) | 2026-07-03 15:02 |
 | Genpact | Campus DTAI Track – Data, Tech & AI | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=81913d589c038b43) | 2026-07-03 12:01 |
 | CVS Health | DevOps Engineer (Remote) | MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=78392f2d9015aeeb) | 2026-07-03 09:50 |
 | McAfee | Senior AI Engineer, MarTech | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28bb6b860bdff8b3) | 2026-07-03 09:50 |
