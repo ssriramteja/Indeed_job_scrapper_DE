@@ -1,25 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-03 06:22
+Last updated: 2026-07-03 09:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Next Gen Software Solutions | Data Engineer - Spark, Hadoop, Ozone CH, Flink \| Berkley Heights, NJ (Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=54cabd90bb4fcf14) | 2026-07-03 09:50 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d89b3b31bb1d57b2) | 2026-07-03 09:50 |
+| Tampa Electric Company | IT Architect (ADI) | Brandon, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e9d3910b5fff7ee) | 2026-07-03 09:50 |
+| Idaho Power Company | Data Engineer - Senior Application Development Analyst | Boise, ID, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c327c9f4e800b849) | 2026-07-03 09:50 |
+| CVS Health | DevOps Engineer (Remote) | MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=78392f2d9015aeeb) | 2026-07-03 09:50 |
+| McAfee | Senior AI Engineer, MarTech | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28bb6b860bdff8b3) | 2026-07-03 09:50 |
+| The Hillman Group | Analytics Engineer | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9726119dcb779aff) | 2026-07-03 09:50 |
+| JPMorganChase | Software Engineer III - J2EE/Spring Boot | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4275ed2bedf6106) | 2026-07-03 09:50 |
+| McAfee | Full Stack Software Developer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=03ff02de6ff660e7) | 2026-07-03 09:50 |
+| McAfee | Data Analyst / Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24abff5e97729f1e) | 2026-07-03 09:50 |
+| Ford Motor Company | Frontend Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a18622e2ae9229fa) | 2026-07-03 09:50 |
 | OSI Digital | DBT Developer | Irvine, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c8765bd1c65b5570) | 2026-07-03 06:22 |
 | Cornerstone OnDemand | Data Engineer | Dublin, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d7dce5ca3032b2ad) | 2026-07-03 06:22 |
-| Next Gen Software Solutions | Data Engineer - Spark, Hadoop, Ozone CH, Flink \| Berkley Heights, NJ (Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=54cabd90bb4fcf14) | 2026-07-03 06:22 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d89b3b31bb1d57b2) | 2026-07-03 06:22 |
-| Tampa Electric Company | IT Architect (ADI) | Brandon, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8e9d3910b5fff7ee) | 2026-07-03 06:22 |
-| Idaho Power Company | Data Engineer - Senior Application Development Analyst | Boise, ID, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c327c9f4e800b849) | 2026-07-03 06:22 |
 | American Civil Liberties Union | Data Architect | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fef81ca1522be027) | 2026-07-03 06:22 |
 | 27Global | Software Engineer II | Leawood, KS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6b9f6c24003c9c4e) | 2026-07-03 06:22 |
 | Intone Networks | Big Data / AWS Software Engineer | Rockville, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85e1e53cf29b5e7c) | 2026-07-03 06:22 |
 | Logisnext Americas Inc | Artificial Intelligence Data Architect and Engineer | Grand Rapids, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9442e33d8fc54bc7) | 2026-07-03 06:22 |
 | Logisnext Americas Inc | Artificial Intelligence Data Architect and Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e3c56a8e57b8b032) | 2026-07-03 06:22 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Life New Business Production Support (Java) | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bcf50a63e39efffc) | 2026-07-03 06:22 |
 | General Dynamics Information Technology | Software Engineer - TS/SCI with Polygraph | Chantilly, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac3d72a08dea6d97) | 2026-07-03 06:22 |
-| Ford Motor Company | Frontend Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a18622e2ae9229fa) | 2026-07-03 06:22 |
 | BV Teck | Senior Data Engineer | Remote, US USA | 31.9% | [Apply](https://www.indeed.com/viewjob?jk=2a3d22f079d54bf0) | 2026-07-03 02:02 |
 | BV Teck | Senior Data Scientist | Remote, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=38b39caa4351d1c5) | 2026-07-03 02:02 |
 | HCLTech | Senior Technical Specialist | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=16c83b1e95fee975) | 2026-07-03 02:02 |
