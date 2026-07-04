@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-07-04
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Full Stack Engineer @ WhiteWater Express Car Wash
-**Match Score:** 13.9%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, API Gateway, ECS, RDS, Scala, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=85da536c77d90e54)
-
----
-
-## 2. Senior Software Engineer, Backend @ AmaWaterways
+## 1. Senior Software Engineer, Backend @ AmaWaterways
 **Match Score:** 11.8%
 
 📍 **Location:** Calabasas, CA, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) @ Expleo Group
+## 2. Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) @ Expleo Group
 **Match Score:** 11.1%
 
 📍 **Location:** Rochester, MN, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Data Architect - Long Beach, CA @ Hydrafacial
+## 3. Senior Data Architect - Long Beach, CA @ Hydrafacial
 **Match Score:** 11.1%
 
 📍 **Location:** Long Beach, CA, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Data Engineer @ Nicklaus Children's Health System
+## 4. Data Engineer @ Nicklaus Children's Health System
 **Match Score:** 10.4%
 
 📍 **Location:** Miami, FL, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Group AI/ML Sol Architect - PostgreSQL @ HCLTech
+## 5. Group AI/ML Sol Architect - PostgreSQL @ HCLTech
 **Match Score:** 10.4%
 
 📍 **Location:** Virginia Beach, VA, US USA
