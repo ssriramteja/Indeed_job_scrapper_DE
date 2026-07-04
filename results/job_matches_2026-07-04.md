@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. DBT Developer @ OSI Digital
-**Match Score:** 19.4%
-
-📍 **Location:** Irvine, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Google Cloud Platform, Scala, Snowflake, Time Travel, Data Modeling, Star Schema
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c8765bd1c65b5570)
-
----
-
-## 3. Full Stack Engineer @ WhiteWater Express Car Wash
+## 2. Full Stack Engineer @ WhiteWater Express Car Wash
 **Match Score:** 13.9%
 
 📍 **Location:** Houston, TX, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. DevOps Engineer (Remote) @ CVS Health
+## 3. DevOps Engineer (Remote) @ CVS Health
 **Match Score:** 13.9%
 
 📍 **Location:** MD, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Data Engineer @ Climb
+## 4. Senior Data Engineer @ Climb
 **Match Score:** 13.2%
 
 📍 **Location:** US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Architect @ Climb
+## 5. Data Architect @ Climb
 **Match Score:** 13.2%
 
 📍 **Location:** US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior AI Engineer, MarTech @ McAfee
+## 6. Senior AI Engineer, MarTech @ McAfee
 **Match Score:** 13.2%
 
 📍 **Location:** San Jose, CA, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Data Engineer @ nan
+## 7. Data Engineer @ nan
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Software Engineer @ nan
+## 8. Software Engineer @ nan
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Java Full Stack Engineer @ CADRE GOVERNMENT SOLUTIONS
+## 9. Java Full Stack Engineer @ CADRE GOVERNMENT SOLUTIONS
 **Match Score:** 12.5%
 
 📍 **Location:** US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Data Engineer @ Hudson River Community Credit Union
+## 10. Data Engineer @ Hudson River Community Credit Union
 **Match Score:** 11.8%
 
 📍 **Location:** Corinth, NY, US USA
@@ -126,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Software Engineer II - Python @ 7-Eleven
+## 11. Software Engineer II - Python @ 7-Eleven
 **Match Score:** 11.8%
 
 📍 **Location:** Irving, TX, US USA
@@ -134,6 +123,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, SQS, API Gateway, ECS, RDS, Scala, NoSQL, CI/CD, Docker
 
 [Apply Here](https://www.indeed.com/viewjob?jk=eb780f85c387dcda)
+
+---
+
+## 12. Senior Software Engineer - SRE Focus @ CNH Industrial
+**Match Score:** 11.8%
+
+📍 **Location:** Oak Brook, IL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, PostgreSQL, MongoDB, ELT, CI/CD, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cc9b9608e126cebe)
 
 ---
 
@@ -170,18 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. DevOps Engineer @ OnMed
-**Match Score:** 11.1%
-
-📍 **Location:** White Plains, NY, US USA
-
-🔑 **Keywords:** Azure, Scala, CI/CD, GitHub Actions, Azure DevOps, Maven, Terraform, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=33f34675d6b944c5)
-
----
-
-## 17. Senior Data Architect - Long Beach, CA @ Hydrafacial
+## 16. Senior Data Architect - Long Beach, CA @ Hydrafacial
 **Match Score:** 11.1%
 
 📍 **Location:** Long Beach, CA, US USA
@@ -189,6 +178,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Snowflake, Oracle, Data Modeling, Dimensional Modeling, dbt
 
 [Apply Here](https://www.indeed.com/viewjob?jk=67e127e3639656d8)
+
+---
+
+## 17. DevOps Engineer @ OnMed
+**Match Score:** 11.1%
+
+📍 **Location:** White Plains, NY, US USA
+
+🔑 **Keywords:** Azure, Scala, CI/CD, GitHub Actions, Azure DevOps, Maven, Terraform, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=33f34675d6b944c5)
 
 ---
 
@@ -258,18 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Software Engineer (Level 4 / E4) - Core Platform @ Whatfix
-**Match Score:** 10.4%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, MongoDB, Cassandra, NoSQL, CI/CD, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7ffad5f6aac08e5a)
-
----
-
-## 25. Software Engineer (Level 3 / E3) - Core Platform @ Whatfix
+## 24. Software Engineer (Level 3 / E3) - Core Platform @ Whatfix
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
@@ -277,6 +266,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Scala, MongoDB, Cassandra, NoSQL, CI/CD, Docker, Kubernetes, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=4e46ba444bbad5fd)
+
+---
+
+## 25. Software Engineer (Level 4 / E4) - Core Platform @ Whatfix
+**Match Score:** 10.4%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, MongoDB, Cassandra, NoSQL, CI/CD, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7ffad5f6aac08e5a)
 
 ---
 
