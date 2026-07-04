@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-04 10:00
+Last updated: 2026-07-04 11:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tricon Solutions | Snowflake Architect – AWS & Data Governance \| Oil & Gas Domain \| Houston, TX \| Full-Time | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6d27ed14ea847a8) | 2026-07-04 10:00 |
+| Tricon Solutions | Snowflake Architect – AWS & Data Governance \| Oil & Gas Domain \| Houston, TX \| Full-Time | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6d27ed14ea847a8) | 2026-07-04 11:34 |
 | WhiteWater Express Car Wash | Full Stack Engineer | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85da536c77d90e54) | 2026-07-04 04:28 |
 | Expleo Group | Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) | Rochester, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b8537a55ac652d5) | 2026-07-04 04:28 |
 | Hydrafacial | Senior Data Architect - Long Beach, CA | Long Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67e127e3639656d8) | 2026-07-04 04:28 |
@@ -381,14 +381,6 @@ Last updated: 2026-07-04 10:00
 | NFI Industries | Senior Data Engineer | Camden, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab9c3d571174ee0c) | 2026-06-30 16:17 |
 | Ticket Takedown LLC | Senior Product Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55148fbc10cb871e) | 2026-06-30 16:17 |
 | AmaWaterways | Senior Full Stack Developer | Calabasas, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9ba93b8542af918) | 2026-06-30 13:04 |
-| Edgewater Federal Solutions | Senior IT Big Data Engineer | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=805d9159d3aff63f) | 2026-06-30 10:26 |
-| Willdan | Cloud Engineer | Anaheim, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8020391c43706e33) | 2026-06-30 10:26 |
-| Acrisure LLC | Software Engineer, Data (L1) | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=de33f3f460768669) | 2026-06-30 10:26 |
-| Acrisure LLC | Software Engineer, Data (L1) | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5a58fca26aa0b565) | 2026-06-30 10:26 |
-| Thermo Fisher Scientific | Data Engineer III, Development | Carlsbad, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f5f5ff112c1e4fbb) | 2026-06-30 10:26 |
-| Kohl's | MLOps Engineer II | Menomonee Falls, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dae99e1ea457637a) | 2026-06-30 10:26 |
-| Entiovi Technologies Private Limited | Backend Engineer | Bengal, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f89dc1b57a628321) | 2026-06-30 10:26 |
-| National Debt Relief | Senior Platform Engineer, Data & AI | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f70e3e5b69eb2b62) | 2026-06-30 10:26 |
 
 
 ---

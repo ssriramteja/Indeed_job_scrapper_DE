@@ -159,18 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Quality Assurance Engineer @ Pearson
-**Match Score:** 11.1%
-
-📍 **Location:** IN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, SQL Server, PostgreSQL, MySQL, CI/CD, GitHub Actions, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6eb29d3e19caf513)
-
----
-
-## 16. Campus DTAI Track – Data, Tech & AI @ Genpact
+## 15. Campus DTAI Track – Data, Tech & AI @ Genpact
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -178,6 +167,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, Scala, Oracle, Power BI, Tableau
 
 [Apply Here](https://www.indeed.com/viewjob?jk=6629e5da1fcb9599)
+
+---
+
+## 16. Senior Quality Assurance Engineer @ Pearson
+**Match Score:** 11.1%
+
+📍 **Location:** IN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, SQL Server, PostgreSQL, MySQL, CI/CD, GitHub Actions, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6eb29d3e19caf513)
 
 ---
 
@@ -203,18 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Software Engineer (Level 3 / E3) - Core Platform @ Whatfix
-**Match Score:** 10.4%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, MongoDB, Cassandra, NoSQL, CI/CD, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4e46ba444bbad5fd)
-
----
-
-## 20. AI Developer @ Awesome Motive Inc.
+## 19. AI Developer @ Awesome Motive Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Miami Beach, FL, US USA
@@ -222,6 +211,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, Databricks, GCP, Spark, MLOps, MLflow, Docker, Kubernetes, AKS
 
 [Apply Here](https://www.indeed.com/viewjob?jk=98f33599b59c5df8)
+
+---
+
+## 20. Software Engineer (Level 3 / E3) - Core Platform @ Whatfix
+**Match Score:** 10.4%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, MongoDB, Cassandra, NoSQL, CI/CD, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4e46ba444bbad5fd)
 
 ---
 
