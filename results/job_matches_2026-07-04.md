@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-04
 
-**Total Jobs Found:** 19
+**Total Jobs Found:** 17
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -115,18 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Data Engineer @ nan
-**Match Score:** 11.1%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, Snowflake, SQL Server, Data Modeling, Dimensional Modeling, ETL, Airflow, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cc379557ac7b50a7)
-
----
-
-## 12. DevOps Engineer @ OnMed
+## 11. DevOps Engineer @ OnMed
 **Match Score:** 11.1%
 
 📍 **Location:** White Plains, NY, US USA
@@ -137,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Data Architect - Long Beach, CA @ Hydrafacial
+## 12. Senior Data Architect - Long Beach, CA @ Hydrafacial
 **Match Score:** 11.1%
 
 📍 **Location:** Long Beach, CA, US USA
@@ -148,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Senior Quality Assurance Engineer @ Pearson
+## 13. Senior Quality Assurance Engineer @ Pearson
 **Match Score:** 11.1%
 
 📍 **Location:** IN, US USA
@@ -159,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Snowflake Architect – AWS & Data Governance | Oil & Gas Domain | Houston, TX | Full-Time @ Tricon Solutions
+## 14. Snowflake Architect – AWS & Data Governance | Oil & Gas Domain | Houston, TX | Full-Time @ Tricon Solutions
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
@@ -170,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Group AI/ML Sol Architect - PostgreSQL @ HCLTech
+## 15. Group AI/ML Sol Architect - PostgreSQL @ HCLTech
 **Match Score:** 10.4%
 
 📍 **Location:** Virginia Beach, VA, US USA
@@ -181,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Software Engineer (Level 3 / E3) - Core Platform @ Whatfix
+## 16. Software Engineer (Level 3 / E3) - Core Platform @ Whatfix
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
@@ -192,18 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. AI Developer @ Awesome Motive Inc.
-**Match Score:** 10.4%
-
-📍 **Location:** Miami Beach, FL, US USA
-
-🔑 **Keywords:** AWS, Azure, Databricks, GCP, Spark, MLOps, MLflow, Docker, Kubernetes, AKS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=98f33599b59c5df8)
-
----
-
-## 19. Software Engineer (Level 4 / E4) - Core Platform @ Whatfix
+## 17. Software Engineer (Level 4 / E4) - Core Platform @ Whatfix
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
