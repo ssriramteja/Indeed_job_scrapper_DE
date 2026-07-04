@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-04 13:01
+Last updated: 2026-07-04 14:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tricon Solutions | Snowflake Architect – AWS & Data Governance \| Oil & Gas Domain \| Houston, TX \| Full-Time | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6d27ed14ea847a8) | 2026-07-04 14:58 |
 | AmaWaterways | Senior Software Engineer, Backend | Calabasas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02cd4ab61a45abcd) | 2026-07-04 13:01 |
-| Tricon Solutions | Snowflake Architect – AWS & Data Governance \| Oil & Gas Domain \| Houston, TX \| Full-Time | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6d27ed14ea847a8) | 2026-07-04 13:01 |
 | WhiteWater Express Car Wash | Full Stack Engineer | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85da536c77d90e54) | 2026-07-04 04:28 |
 | Expleo Group | Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) | Rochester, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b8537a55ac652d5) | 2026-07-04 04:28 |
 | Hydrafacial | Senior Data Architect - Long Beach, CA | Long Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67e127e3639656d8) | 2026-07-04 04:28 |
@@ -381,7 +381,6 @@ Last updated: 2026-07-04 13:01
 | Ascendion | IAM Operations Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1efb9ed7d3c48c5) | 2026-06-30 16:17 |
 | NFI Industries | Senior Data Engineer | Camden, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab9c3d571174ee0c) | 2026-06-30 16:17 |
 | Ticket Takedown LLC | Senior Product Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55148fbc10cb871e) | 2026-06-30 16:17 |
-| AmaWaterways | Senior Full Stack Developer | Calabasas, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9ba93b8542af918) | 2026-06-30 13:04 |
 
 
 ---
