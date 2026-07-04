@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-04
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,29 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Data Engineer @ nan
-**Match Score:** 12.5%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Snowflake, Oracle, SQL Server, PostgreSQL, MySQL, Data Modeling, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=92331c671f336d40)
-
----
-
-## 3. Software Engineer @ nan
-**Match Score:** 12.5%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, API Gateway, Azure, Scala, Oracle, SQL Server, MongoDB, CI/CD, Jenkins, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=22049ffcc6bb4062)
-
----
-
-## 4. Senior Software Engineer, Backend @ AmaWaterways
+## 2. Senior Software Engineer, Backend @ AmaWaterways
 **Match Score:** 11.8%
 
 📍 **Location:** Calabasas, CA, US USA
@@ -49,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) @ Expleo Group
+## 3. Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) @ Expleo Group
 **Match Score:** 11.1%
 
 📍 **Location:** Rochester, MN, US USA
@@ -60,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Data Architect - Long Beach, CA @ Hydrafacial
+## 4. Senior Data Architect - Long Beach, CA @ Hydrafacial
 **Match Score:** 11.1%
 
 📍 **Location:** Long Beach, CA, US USA
@@ -71,18 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Quality Assurance Engineer @ Pearson
-**Match Score:** 11.1%
-
-📍 **Location:** IN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, SQL Server, PostgreSQL, MySQL, CI/CD, GitHub Actions, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6eb29d3e19caf513)
-
----
-
-## 8. Data Engineer @ Nicklaus Children's Health System
+## 5. Data Engineer @ Nicklaus Children's Health System
 **Match Score:** 10.4%
 
 📍 **Location:** Miami, FL, US USA
@@ -93,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Group AI/ML Sol Architect - PostgreSQL @ HCLTech
+## 6. Group AI/ML Sol Architect - PostgreSQL @ HCLTech
 **Match Score:** 10.4%
 
 📍 **Location:** Virginia Beach, VA, US USA

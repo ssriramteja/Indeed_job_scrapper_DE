@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-04 21:49
+Last updated: 2026-07-04 22:48
 
 ### 🚀 Daily Job Matches
 
@@ -345,18 +345,6 @@ Last updated: 2026-07-04 21:49
 | Cherokee Nation Businesses | Sr BI Developer | Catoosa, OK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f5ec894200ccbed7) | 2026-06-30 23:59 |
 | Medical Mutual of Ohio | Application Security & DevSecOps Architect | Dublin, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fdf4cefc84dbe107) | 2026-06-30 23:59 |
 | Crunchyroll | Senior Database Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af01fcb1c7730c1d) | 2026-06-30 23:59 |
-| Sunbelt Rentals | Senior Development Ops Engineer | Fort Mill, SC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b43701e8a621c350) | 2026-06-30 22:09 |
-| Dentsu | Data Engineer - Temporary Worker | MD, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=f79b9ae386c30e15) | 2026-06-30 22:09 |
-| 84.51° | Data Architect (P4642) | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1660a4cf0a8045d0) | 2026-06-30 22:09 |
-| 84.51° | Data Architect (P4642) | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39b5a4b6b25e561f) | 2026-06-30 22:09 |
-| MidAmerican Energy | Sr Data Engineer | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=80f0c72a3fb65e08) | 2026-06-30 22:09 |
-| Fidelity Investments | Software Engineer | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=675596684c392e8e) | 2026-06-30 22:09 |
-| Expedia Group | Data Engineer III | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e4db27c4a07cdc78) | 2026-06-30 22:09 |
-| Thomas Jefferson University & Jefferson Health | Expert Analyst Data Management (Epic ODBA Cert Req'd) | PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b4bf16bfeb52f1c) | 2026-06-30 22:09 |
-| LogicMonitor | Sr. Software Engineer - AI | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=951fb41e37160d69) | 2026-06-30 22:09 |
-| Mastercard | Senior Platform Engineer – Database Administration (AWS Focus) | O'Fallon, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a8c07785abe3a74) | 2026-06-30 22:09 |
-| Flock Safety | Senior Software Engineer, Pipeline | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af3cae7b79ecbc73) | 2026-06-30 22:09 |
-| Flock | Senior Software Engineer, Pipeline | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1419caf3acf86f5e) | 2026-06-30 22:09 |
 
 
 ---
