@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-04 20:06
+Last updated: 2026-07-04 21:49
 
 ### 🚀 Daily Job Matches
 
@@ -357,20 +357,6 @@ Last updated: 2026-07-04 20:06
 | Mastercard | Senior Platform Engineer – Database Administration (AWS Focus) | O'Fallon, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a8c07785abe3a74) | 2026-06-30 22:09 |
 | Flock Safety | Senior Software Engineer, Pipeline | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af3cae7b79ecbc73) | 2026-06-30 22:09 |
 | Flock | Senior Software Engineer, Pipeline | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1419caf3acf86f5e) | 2026-06-30 22:09 |
-| HP | Data Engineer - CSS, AIP and HPX Analytics | Vancouver, WA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=3a78dd582651cf84) | 2026-06-30 20:51 |
-| Meridian Systematics | Senior Data Engineer | Springfield, VA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=86f4cd04f1d7226b) | 2026-06-30 20:51 |
-| Merkle, Inc. | Data Engineer - Temporary Worker | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=fd3608ce8fafa5b9) | 2026-06-30 20:51 |
-| STAND TOGETHER | Senior Full-Stack Software Engineer – Back-End Focused | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=27c394a83edfce01) | 2026-06-30 20:51 |
-| Western Alliance Bank | Senior Data Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=34c193d803b2a019) | 2026-06-30 20:51 |
-| QualityAI | Gen AI Architect | Baltimore, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dd6f26d72223ee99) | 2026-06-30 20:51 |
-| LPL Financial | Senior Engineer, Software Development Test QE | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56447c16c3ba977a) | 2026-06-30 20:51 |
-| BlueSight | Senior Full Stack Software Engineer - CostCheck | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c7b724f0ef5f1675) | 2026-06-30 20:51 |
-| Versant | Sr Data Engineer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46176023248faed5) | 2026-06-30 20:51 |
-| MediaRadar | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=180b2fb1ba9c363d) | 2026-06-30 20:51 |
-| Aimpoint Digital | Senior AI Engineer 2026 - US | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13884b1c57640398) | 2026-06-30 20:51 |
-| SIGNITIVES | IOS Developer + Node.js | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5fe2db57addb7567) | 2026-06-30 20:51 |
-| DB | DevOps Engineer - International Project | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e71d6f8a3530ffa9) | 2026-06-30 20:51 |
-| NTT DATA | Senior Java Developer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4c51ea63d2c9240e) | 2026-06-30 20:51 |
 
 
 ---
