@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-04
 
-**Total Jobs Found:** 14
+**Total Jobs Found:** 13
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -126,7 +126,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Group AI/ML Sol Architect - PostgreSQL @ HCLTech
+## 12. Data Engineer @ Nicklaus Children's Health System
+**Match Score:** 10.4%
+
+📍 **Location:** Miami, FL, US USA
+
+🔑 **Keywords:** AWS, Azure, Scala, Oracle, SQL Server, NoSQL, ETL, ELT, Power BI, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5ab45996cd47738b)
+
+---
+
+## 13. Group AI/ML Sol Architect - PostgreSQL @ HCLTech
 **Match Score:** 10.4%
 
 📍 **Location:** Virginia Beach, VA, US USA
@@ -134,28 +145,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Databricks, Spark, Scala, Kafka, PostgreSQL, MySQL, Airflow, Python
 
 [Apply Here](https://www.indeed.com/viewjob?jk=4500ad04a6fe0400)
-
----
-
-## 13. Software Engineer (Level 3 / E3) - Core Platform @ Whatfix
-**Match Score:** 10.4%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, MongoDB, Cassandra, NoSQL, CI/CD, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4e46ba444bbad5fd)
-
----
-
-## 14. Software Engineer (Level 4 / E4) - Core Platform @ Whatfix
-**Match Score:** 10.4%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, MongoDB, Cassandra, NoSQL, CI/CD, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7ffad5f6aac08e5a)
 
 ---
 
