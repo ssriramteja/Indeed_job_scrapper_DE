@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-04 11:34
+Last updated: 2026-07-04 13:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tricon Solutions | Snowflake Architect – AWS & Data Governance \| Oil & Gas Domain \| Houston, TX \| Full-Time | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6d27ed14ea847a8) | 2026-07-04 11:34 |
+| AmaWaterways | Senior Software Engineer, Backend | Calabasas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02cd4ab61a45abcd) | 2026-07-04 13:01 |
+| Tricon Solutions | Snowflake Architect – AWS & Data Governance \| Oil & Gas Domain \| Houston, TX \| Full-Time | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6d27ed14ea847a8) | 2026-07-04 13:01 |
 | WhiteWater Express Car Wash | Full Stack Engineer | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85da536c77d90e54) | 2026-07-04 04:28 |
 | Expleo Group | Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) | Rochester, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b8537a55ac652d5) | 2026-07-04 04:28 |
 | Hydrafacial | Senior Data Architect - Long Beach, CA | Long Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67e127e3639656d8) | 2026-07-04 04:28 |

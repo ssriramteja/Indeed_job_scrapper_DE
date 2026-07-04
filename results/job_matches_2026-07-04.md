@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-04
 
-**Total Jobs Found:** 21
+**Total Jobs Found:** 20
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -93,14 +93,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Software Engineer II - Python @ 7-Eleven
+## 9. Senior Software Engineer, Backend @ AmaWaterways
 **Match Score:** 11.8%
 
-📍 **Location:** Irving, TX, US USA
+📍 **Location:** Calabasas, CA, US USA
 
-🔑 **Keywords:** AWS, Lambda, SQS, API Gateway, ECS, RDS, Scala, NoSQL, CI/CD, Docker
+🔑 **Keywords:** AWS, RDS, Azure, Scala, SQL Server, PostgreSQL, NoSQL, ELT, CI/CD, GitHub Actions
 
-[Apply Here](https://www.indeed.com/viewjob?jk=eb780f85c387dcda)
+[Apply Here](https://www.indeed.com/viewjob?jk=02cd4ab61a45abcd)
 
 ---
 
@@ -159,18 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Campus DTAI Track – Data, Tech & AI @ Genpact
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, Scala, Oracle, Power BI, Tableau
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6629e5da1fcb9599)
-
----
-
-## 16. Senior Quality Assurance Engineer @ Pearson
+## 15. Senior Quality Assurance Engineer @ Pearson
 **Match Score:** 11.1%
 
 📍 **Location:** IN, US USA
@@ -181,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Snowflake Architect – AWS & Data Governance | Oil & Gas Domain | Houston, TX | Full-Time @ Tricon Solutions
+## 16. Snowflake Architect – AWS & Data Governance | Oil & Gas Domain | Houston, TX | Full-Time @ Tricon Solutions
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
@@ -192,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Group AI/ML Sol Architect - PostgreSQL @ HCLTech
+## 17. Group AI/ML Sol Architect - PostgreSQL @ HCLTech
 **Match Score:** 10.4%
 
 📍 **Location:** Virginia Beach, VA, US USA
@@ -203,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. AI Developer @ Awesome Motive Inc.
+## 18. AI Developer @ Awesome Motive Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Miami Beach, FL, US USA
@@ -214,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Software Engineer (Level 3 / E3) - Core Platform @ Whatfix
+## 19. Software Engineer (Level 3 / E3) - Core Platform @ Whatfix
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
@@ -225,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Software Engineer (Level 4 / E4) - Core Platform @ Whatfix
+## 20. Software Engineer (Level 4 / E4) - Core Platform @ Whatfix
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
