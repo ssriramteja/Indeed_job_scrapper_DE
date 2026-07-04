@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-04 16:00
+Last updated: 2026-07-04 17:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tricon Solutions | Snowflake Architect – AWS & Data Governance \| Oil & Gas Domain \| Houston, TX \| Full-Time | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6d27ed14ea847a8) | 2026-07-04 16:00 |
+| Tricon Solutions | Snowflake Architect – AWS & Data Governance \| Oil & Gas Domain \| Houston, TX \| Full-Time | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6d27ed14ea847a8) | 2026-07-04 17:09 |
 | AmaWaterways | Senior Software Engineer, Backend | Calabasas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02cd4ab61a45abcd) | 2026-07-04 13:01 |
 | WhiteWater Express Car Wash | Full Stack Engineer | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85da536c77d90e54) | 2026-07-04 04:28 |
 | Expleo Group | Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) | Rochester, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b8537a55ac652d5) | 2026-07-04 04:28 |
@@ -376,11 +376,6 @@ Last updated: 2026-07-04 16:00
 | TD | Software Engineer II (US) | Mount Laurel, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2048b8f9fc33e871) | 2026-06-30 18:29 |
 | FIS | DevOps Software Engineer Specialists | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=06e65c0f51719bda) | 2026-06-30 18:29 |
 | 6sense | Software Engineer III | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=05703cc8519b448f) | 2026-06-30 18:29 |
-| ADG Tech Consulting | Senior Data Engineer - DevOps | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e9b07407edcc90ef) | 2026-06-30 16:17 |
-| Colgate-Palmolive | Machine Learning Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64cfca332d489410) | 2026-06-30 16:17 |
-| Ascendion | IAM Operations Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1efb9ed7d3c48c5) | 2026-06-30 16:17 |
-| NFI Industries | Senior Data Engineer | Camden, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab9c3d571174ee0c) | 2026-06-30 16:17 |
-| Ticket Takedown LLC | Senior Product Engineer | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55148fbc10cb871e) | 2026-06-30 16:17 |
 
 
 ---

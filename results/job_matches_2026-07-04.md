@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-04
 
-**Total Jobs Found:** 17
+**Total Jobs Found:** 15
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -71,18 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Data Engineer @ Hudson River Community Credit Union
-**Match Score:** 11.8%
-
-📍 **Location:** Corinth, NY, US USA
-
-🔑 **Keywords:** AWS, Glue, RDS, Azure, Data Factory, Databricks, Scala, Snowflake, ELT, dbt
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8f7fcbb496808adb)
-
----
-
-## 8. Senior Software Engineer, Backend @ AmaWaterways
+## 7. Senior Software Engineer, Backend @ AmaWaterways
 **Match Score:** 11.8%
 
 📍 **Location:** Calabasas, CA, US USA
@@ -93,18 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Software Engineer - SRE Focus @ CNH Industrial
-**Match Score:** 11.8%
-
-📍 **Location:** Oak Brook, IL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, PostgreSQL, MongoDB, ELT, CI/CD, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cc9b9608e126cebe)
-
----
-
-## 10. Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) @ Expleo Group
+## 8. Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) @ Expleo Group
 **Match Score:** 11.1%
 
 📍 **Location:** Rochester, MN, US USA
@@ -115,18 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. DevOps Engineer @ OnMed
-**Match Score:** 11.1%
-
-📍 **Location:** White Plains, NY, US USA
-
-🔑 **Keywords:** Azure, Scala, CI/CD, GitHub Actions, Azure DevOps, Maven, Terraform, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=33f34675d6b944c5)
-
----
-
-## 12. Senior Data Architect - Long Beach, CA @ Hydrafacial
+## 9. Senior Data Architect - Long Beach, CA @ Hydrafacial
 **Match Score:** 11.1%
 
 📍 **Location:** Long Beach, CA, US USA
@@ -137,7 +104,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Quality Assurance Engineer @ Pearson
+## 10. DevOps Engineer @ OnMed
+**Match Score:** 11.1%
+
+📍 **Location:** White Plains, NY, US USA
+
+🔑 **Keywords:** Azure, Scala, CI/CD, GitHub Actions, Azure DevOps, Maven, Terraform, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=33f34675d6b944c5)
+
+---
+
+## 11. Senior Quality Assurance Engineer @ Pearson
 **Match Score:** 11.1%
 
 📍 **Location:** IN, US USA
@@ -148,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Snowflake Architect – AWS & Data Governance | Oil & Gas Domain | Houston, TX | Full-Time @ Tricon Solutions
+## 12. Snowflake Architect – AWS & Data Governance | Oil & Gas Domain | Houston, TX | Full-Time @ Tricon Solutions
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
@@ -159,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Group AI/ML Sol Architect - PostgreSQL @ HCLTech
+## 13. Group AI/ML Sol Architect - PostgreSQL @ HCLTech
 **Match Score:** 10.4%
 
 📍 **Location:** Virginia Beach, VA, US USA
@@ -170,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Software Engineer (Level 3 / E3) - Core Platform @ Whatfix
+## 14. Software Engineer (Level 3 / E3) - Core Platform @ Whatfix
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
@@ -181,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Software Engineer (Level 4 / E4) - Core Platform @ Whatfix
+## 15. Software Engineer (Level 4 / E4) - Core Platform @ Whatfix
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
