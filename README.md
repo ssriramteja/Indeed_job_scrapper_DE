@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-05 19:10
+Last updated: 2026-07-05 20:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2f34724a0fb298dd) | 2026-07-05 20:47 |
+| Magnite | Engineer II, Data Engineering | Broomfield, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f56661e330370a6d) | 2026-07-05 20:47 |
 | nan | AI Developer and Fintech | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=15009df8a39ab559) | 2026-07-05 02:07 |
 | Nicklaus Children's Health System | Data Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ab45996cd47738b) | 2026-07-04 20:06 |
 | AmaWaterways | Senior Software Engineer, Backend | Calabasas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02cd4ab61a45abcd) | 2026-07-04 13:01 |
@@ -222,22 +224,6 @@ Last updated: 2026-07-05 19:10
 | Zoetis | Technical Architect, Dairy Predictive Solutions | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33652e6c92967b96) | 2026-07-01 21:18 |
 | Clever Devices | DevOps Engineer | Apex, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c95fd730b43f96dc) | 2026-07-01 21:18 |
 | Clever Devices | DevOps Engineer | Woodbury, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c115acdaa57dbce) | 2026-07-01 21:18 |
-| Heluna Health | Data/Analytics Engineer | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2c0b7cd5c47cd65a) | 2026-07-01 19:40 |
-| Data Ninjas Inc. | AWS Architect | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1bf99ed11d3323d5) | 2026-07-01 19:40 |
-| Khoj Information Technology, Inc. | MongoDB Architect (SQL to MongoDB Migration Specialist) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6a1fd822e8cfcad0) | 2026-07-01 19:40 |
-| LegitScript | Sr Data Science Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=580347ece6eeeb68) | 2026-07-01 19:40 |
-| Pyramid Systems Inc | Senior AI Software Developer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a84346c1964ec20) | 2026-07-01 19:40 |
-| Data Ninjas Inc. | Databricks Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=749f3eb9090b4ec7) | 2026-07-01 19:40 |
-| CERTIFID | Data Engineer | Grand Rapids, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2ea249ca23dcb7b) | 2026-07-01 19:40 |
-| CERTIFID | Data Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a78d1198797715b3) | 2026-07-01 19:40 |
-| FocusPointSAP | Cloud Infrastructure Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b64c9105e7675d73) | 2026-07-01 19:40 |
-| MHK TECH | Data Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb4348c2e52b6813) | 2026-07-01 19:40 |
-| FINRA | Senior Software Engineer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3b3768e1a09d9081) | 2026-07-01 19:40 |
-| FINRA | Senior Software Engineer | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d03c61711e39cecb) | 2026-07-01 19:40 |
-| FINRA | Senior Software Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a5c30ca545147b0) | 2026-07-01 19:40 |
-| Optum | Software Engineer | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd1988f00e94a6dc) | 2026-07-01 19:40 |
-| Precision CastParts | Senior AI App Developer | Clackamas, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5197a4f7fe1f8f98) | 2026-07-01 19:40 |
-| Bharathvio Technologies | Data Engineer | Kent, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a669b5372e08d533) | 2026-07-01 19:40 |
 
 
 ---
