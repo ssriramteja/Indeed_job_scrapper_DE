@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-05 20:47
+Last updated: 2026-07-05 21:52
 
 ### 🚀 Daily Job Matches
 
@@ -210,20 +210,6 @@ Last updated: 2026-07-05 20:47
 | Kenneth Copeland Ministries | AI Specialist | Newark, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5ce92c0fbadcfe0f) | 2026-07-01 23:04 |
 | Bectran Inc | Cyber Security Engineer | Schaumburg, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d55d6bf14862ee19) | 2026-07-01 23:04 |
 | Highmark Health | Senior Software Engineer | PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fbcc02e72366f37a) | 2026-07-01 23:04 |
-| nan | cloud solution engineer | Mexico, MO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b0262593736bdcb9) | 2026-07-01 21:18 |
-| Intuitive (Intuitive Surgical) | Platform automation Engineer | Sunnyvale, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c42a5bdcf2411ca5) | 2026-07-01 21:18 |
-| PowerSecure Inc. | Data Solutions Engineer - Databricks | Durham, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f0dda8e4da07c78b) | 2026-07-01 21:18 |
-| Derex Technologies inc | Senior MS Fabric Data Engineer - Azure | St. Louis, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cf586f663393905d) | 2026-07-01 21:18 |
-| Rediantt | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e3427cac673c0828) | 2026-07-01 21:18 |
-| nan | GCP Cloud Engineer | Canada, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d6c855924cfe57ea) | 2026-07-01 21:18 |
-| Intone Networks | Python Developer | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c2d1da01ac9b72b4) | 2026-07-01 21:18 |
-| HealthMark Group | Senior Software Engineer - Interop | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=877588695da3d179) | 2026-07-01 21:18 |
-| Excellis Consulting Corporation | Full Stack Developer: Ai Enablement and Agentic Develoopment | King of Prussia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca9aedd178e13717) | 2026-07-01 21:18 |
-| Intone Networks | Data Engineer/Sr. BI Developer | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55e2a13c922c77db) | 2026-07-01 21:18 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b0f4cd7071264d74) | 2026-07-01 21:18 |
-| Zoetis | Technical Architect, Dairy Predictive Solutions | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33652e6c92967b96) | 2026-07-01 21:18 |
-| Clever Devices | DevOps Engineer | Apex, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c95fd730b43f96dc) | 2026-07-01 21:18 |
-| Clever Devices | DevOps Engineer | Woodbury, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c115acdaa57dbce) | 2026-07-01 21:18 |
 
 
 ---
