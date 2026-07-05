@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-05 13:09
+Last updated: 2026-07-05 15:06
 
 ### 🚀 Daily Job Matches
 
@@ -253,8 +253,6 @@ Last updated: 2026-07-05 13:09
 | Tata Consultancy Services (TCS) | Senior OpenTelemetry Engineer | Woodland Hills, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dcdf51b6ddf79c84) | 2026-07-01 17:07 |
 | V4C.ai | Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cf3c7bdde5b4d60) | 2026-07-01 17:07 |
 | Datavault AI | DevOps Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9677be782841e9b3) | 2026-07-01 17:07 |
-| Strategy Inc | Senior Software Engineer | Tysons, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=23c2424743b671f3) | 2026-07-01 14:09 |
-| nan | Senior Product Software Engineer - Linear Advertising Platform | Bristol, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=59abce8159d1399a) | 2026-07-01 14:09 |
 
 
 ---
