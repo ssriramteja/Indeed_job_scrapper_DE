@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-05 06:30
+Last updated: 2026-07-05 09:34
 
 ### 🚀 Daily Job Matches
 
@@ -263,16 +263,6 @@ Last updated: 2026-07-05 06:30
 | Cognizant | Snowflake DBT Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e25f819418a170c2) | 2026-07-01 11:51 |
 | Cognizant | Sr. AI Architect | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c30f9895c7415caa) | 2026-07-01 11:51 |
 | McAfee | Data Analyst / Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bff5e93f15d9f562) | 2026-07-01 11:51 |
-| Carnegie Mellon University | Sr. Database Administrator - Computing Services | Pittsburgh, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e6cbf718cd9aac73) | 2026-07-01 08:04 |
-| MiniMed | AI/Data Science Engineer II | Northridge, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=aa4914e8c40e18d9) | 2026-07-01 08:04 |
-| CVS Health | Senior Data engineer | TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=56ed3caee5240d78) | 2026-07-01 08:04 |
-| CVS Health | Senior Software Development Engineer | TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=008ddae8bcb982b7) | 2026-07-01 08:04 |
-| Recutify Inc. | System Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c42117b5a31b019c) | 2026-07-01 08:04 |
-| AtkinsRéalis | AI Solutions Software Developer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6623209a0f6f745a) | 2026-07-01 08:04 |
-| Grace Hill | Sr. AI Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1e61e632ba68e42b) | 2026-07-01 08:04 |
-| Optum | Senior Software Engineer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d8e3324089b2ba14) | 2026-07-01 08:04 |
-| Equifax | Financial Data Engineer | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d56390aee6504595) | 2026-07-01 08:04 |
-| NTT DATA | Java Developer - HYBRID | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd52425ff4c524df) | 2026-07-01 08:04 |
 
 
 ---
