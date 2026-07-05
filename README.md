@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-05 16:56
+Last updated: 2026-07-05 17:57
 
 ### 🚀 Daily Job Matches
 
@@ -238,21 +238,6 @@ Last updated: 2026-07-05 16:56
 | Optum | Software Engineer | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd1988f00e94a6dc) | 2026-07-01 19:40 |
 | Precision CastParts | Senior AI App Developer | Clackamas, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5197a4f7fe1f8f98) | 2026-07-01 19:40 |
 | Bharathvio Technologies | Data Engineer | Kent, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a669b5372e08d533) | 2026-07-01 19:40 |
-| RectorSeal | Senior Data Engineer (Remote) | US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b9a61d914fd12568) | 2026-07-01 17:07 |
-| Qode | Senior SDET | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ad0c1dbb6abf6b0e) | 2026-07-01 17:07 |
-| Qode | Senior SDET | Fort Mill, SC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8ac5da3fd48d3bd5) | 2026-07-01 17:07 |
-| Tesla | Data Engineer, Training Transformation | Buffalo, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d2acffa5291128c4) | 2026-07-01 17:07 |
-| PNC Financial Services Group | Software Engineer Sr (Java) | Pittsburgh, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d6c1b0c25c4f79fb) | 2026-07-01 17:07 |
-| HCA Healthcare | Senior Application System Engineer | Nashville, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1d25899ee1f9c7e2) | 2026-07-01 17:07 |
-| Qode | Senior Databricks Architect | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=12f702690763987d) | 2026-07-01 17:07 |
-| Core specialty | Business Application Developer - Fullstack | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4f3fc8579b2391c2) | 2026-07-01 17:07 |
-| Curriculum Associates | Senior Software Engineer III | MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5f46ca1a397036c7) | 2026-07-01 17:07 |
-| McKesson | Sr. Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=17aa6109dc953b4d) | 2026-07-01 17:07 |
-| Sigma Software Group | Senior Java Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8987bf2e6d7d503e) | 2026-07-01 17:07 |
-| Optum | Software Engineer | Basking Ridge, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bd85dafda269f4cd) | 2026-07-01 17:07 |
-| Tata Consultancy Services (TCS) | Senior OpenTelemetry Engineer | Woodland Hills, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dcdf51b6ddf79c84) | 2026-07-01 17:07 |
-| V4C.ai | Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cf3c7bdde5b4d60) | 2026-07-01 17:07 |
-| Datavault AI | DevOps Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9677be782841e9b3) | 2026-07-01 17:07 |
 
 
 ---
