@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-04 23:53
+Last updated: 2026-07-05 02:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | AI Developer and Fintech | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=15009df8a39ab559) | 2026-07-05 02:07 |
 | Nicklaus Children's Health System | Data Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ab45996cd47738b) | 2026-07-04 20:06 |
 | AmaWaterways | Senior Software Engineer, Backend | Calabasas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02cd4ab61a45abcd) | 2026-07-04 13:01 |
 | WhiteWater Express Car Wash | Full Stack Engineer | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85da536c77d90e54) | 2026-07-04 04:28 |
@@ -340,11 +341,6 @@ Last updated: 2026-07-04 23:53
 | Pacific Life | Data Engineer II | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9eb0d78e2e37acc8) | 2026-07-01 03:50 |
 | ExxonMobil | Sr. Fullstack Developer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=524cc51479b950ac) | 2026-07-01 03:50 |
 | WEX Inc. | Site Reliability Engineer 1 | Portland, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5e1d20485e6d34c) | 2026-07-01 03:50 |
-| Capgemini | Database Engineer - SQL & Oracle PL/SQL | Irving, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd734f22170030b0) | 2026-06-30 23:59 |
-| APLOMB Technologies | Senior Java Developer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a78649b3c052ca64) | 2026-06-30 23:59 |
-| Cherokee Nation Businesses | Sr BI Developer | Catoosa, OK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f5ec894200ccbed7) | 2026-06-30 23:59 |
-| Medical Mutual of Ohio | Application Security & DevSecOps Architect | Dublin, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fdf4cefc84dbe107) | 2026-06-30 23:59 |
-| Crunchyroll | Senior Database Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af01fcb1c7730c1d) | 2026-06-30 23:59 |
 
 
 ---
