@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-05 11:23
+Last updated: 2026-07-05 13:09
 
 ### 🚀 Daily Job Matches
 
@@ -255,14 +255,6 @@ Last updated: 2026-07-05 11:23
 | Datavault AI | DevOps Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9677be782841e9b3) | 2026-07-01 17:07 |
 | Strategy Inc | Senior Software Engineer | Tysons, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=23c2424743b671f3) | 2026-07-01 14:09 |
 | nan | Senior Product Software Engineer - Linear Advertising Platform | Bristol, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=59abce8159d1399a) | 2026-07-01 14:09 |
-| Cognizant | Azure Databricks Admin | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=30458fe3d780cd5e) | 2026-07-01 11:51 |
-| BlackLine | Senior Software Engineer AI | Pleasanton, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f069643153aaaa93) | 2026-07-01 11:51 |
-| McAfee | Senior AI Engineer, MarTech | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e0a8b4ddc2c212a6) | 2026-07-01 11:51 |
-| BlackLine | Software Engineer AI/ML Ops | Pleasanton, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=817383301a886adf) | 2026-07-01 11:51 |
-| McAfee | Full Stack Software Developer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=712497bf338832f5) | 2026-07-01 11:51 |
-| Cognizant | Snowflake DBT Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e25f819418a170c2) | 2026-07-01 11:51 |
-| Cognizant | Sr. AI Architect | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c30f9895c7415caa) | 2026-07-01 11:51 |
-| McAfee | Data Analyst / Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bff5e93f15d9f562) | 2026-07-01 11:51 |
 
 
 ---
