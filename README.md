@@ -1,15 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-06 22:06
+Last updated: 2026-07-06 23:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cwill | Data Engineer (Bilingual Mandarin Required) | City of Industry, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=83640374dcc1134d) | 2026-07-06 23:59 |
+| Cwill | Data Engineer (Bilingual Mandarin Required) | Cary, NC, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=bf10f975373c2da2) | 2026-07-06 23:59 |
+| L&T Technology Services Ltd. | Data Engineer | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8b1d05903802863d) | 2026-07-06 23:59 |
+| Neuberger Berman | Senior Technologist - Institutional Operations Technology | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1cf6b377d6b97198) | 2026-07-06 23:59 |
+| Siemens | Senior Software Engineer – Cloud-Native Applications | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=61eba61db8d1d33f) | 2026-07-06 23:59 |
+| Grid Elevated | Software Engineer | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=618a1dbe7d6ef58d) | 2026-07-06 23:59 |
+| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-06 23:59 |
+| Bristol Myers Squibb | Data Engineer, Clinical Operations | Princeton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d3a0103edeceecc7) | 2026-07-06 23:59 |
+| Synapse Health | Senior QA Engineer | Skokie, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=38a6c99045779145) | 2026-07-06 23:59 |
+| FINRA | Senior Software Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=101ca2c1e32226ed) | 2026-07-06 23:59 |
+| FINRA | Senior Software Engineer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=faae996969c3b654) | 2026-07-06 23:59 |
+| FINRA | Senior Software Engineer | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb292e68230c43cd) | 2026-07-06 23:59 |
+| Capgemini | Java Angular Developer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2513c2da5e1dcae7) | 2026-07-06 23:59 |
+| Associated Bank | Technical Product Owner - Snowflake | WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee15581de1910c63) | 2026-07-06 23:59 |
+| FHLBank San Francisco | Sr. Data Engineer II, Assoc.Dir. | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=959dfa60ea3aa32b) | 2026-07-06 23:59 |
 | Tata Consultancy Services (TCS) | Software Developer, Business Intelligence Analyst | Apex, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cf35f133cdd540ed) | 2026-07-06 22:06 |
 | Blue Sentry Cloud | Senior Engineer (Azure, Terraform, Kubernetes) | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=adfc859f88eb2915) | 2026-07-06 22:06 |
 | Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=63633a8200979a09) | 2026-07-06 22:06 |
-| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-06 22:06 |
 | R1 RCM | Sr. Analytics Analyst | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1d98ab236da7f358) | 2026-07-06 22:06 |
 | Tata Consultancy Services (TCS) | Software Developer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6266f795f6f70349) | 2026-07-06 22:06 |
 | Amplify | Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=660813ceffa3da5b) | 2026-07-06 22:06 |
@@ -102,9 +116,6 @@ Last updated: 2026-07-06 22:06
 | Stellantis | Engineer - Integrations | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a06dfc03b28a69bc) | 2026-07-03 02:02 |
 | Stellantis | Engineer - Integrations | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=03c10f6c53157629) | 2026-07-03 02:02 |
 | Stellantis | Engineer - Integrations | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=080d7069ccfb891a) | 2026-07-03 02:02 |
-| Allstate Insurance | Managing Engineer - Risk Insights and Risk Engineering (Remote, US) | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bfcda73cc0a3e91) | 2026-07-02 23:10 |
-| Highmark Health | Senior Analytic Data Engineer – Cloud Data Products & Analytic Enablement | PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e42d51f202bdd1cd) | 2026-07-02 23:10 |
-| Sunrise Banks | MGR - SOFTWARE ENGINEERING | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47845127b8be02d7) | 2026-07-02 23:10 |
 
 
 ---
