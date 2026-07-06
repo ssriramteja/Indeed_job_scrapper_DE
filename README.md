@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-06 11:56
+Last updated: 2026-07-06 15:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Luxoft | Senior Data Engineer | Salisbury, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebaeeabafbe5553f) | 2026-07-06 15:15 |
+| Luxoft | Senior Data Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c36cf1a20fa03687) | 2026-07-06 15:15 |
+| Luxoft | Senior Data Engineer | Quincy, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=104030bc904b311c) | 2026-07-06 15:15 |
+| CareScout | Senior ML/AI Engineer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2d7ecec511e40ddd) | 2026-07-06 15:15 |
+| JPS Tech Solutions pvt ltd | Senior Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eeca00e004c5b061) | 2026-07-06 15:15 |
+| Infor | Software Engineer, Associate | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0971a287a1cb34b9) | 2026-07-06 15:15 |
+| CareScout | Senior Data Engineer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd4120e8feb4ee57) | 2026-07-06 15:15 |
 | Ciklum | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3be0a56ac2778b38) | 2026-07-06 11:56 |
 | Ciklum | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ea4b690f84b839f4) | 2026-07-06 11:56 |
 | Colgate-Palmolive | Data Architect | Piscataway, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f573c104948a88be) | 2026-07-06 11:56 |
@@ -118,12 +125,6 @@ Last updated: 2026-07-06 11:56
 | nan | Senior AI Engineer | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67c5b2c44ca61f78) | 2026-07-02 17:27 |
 | PNC Financial Services Group | Senior Software Engineer - J2EE / Jenkins / Spring Boot | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea107a3e8076230f) | 2026-07-02 17:27 |
 | Alarm.com | Senior Software Engineer | Tysons Corner, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da1d5852709519d3) | 2026-07-02 17:27 |
-| SAVISHTY | AWS Data Engineer | Frisco, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=580224382e8a12e0) | 2026-07-02 15:06 |
-| SAVISHTY | Site Reliability Engineer | Frisco, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6f5de4f159f9c510) | 2026-07-02 15:06 |
-| Nlineaxis It Solutions | Site Reliability Engineer | Frisco, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bcac5ba7033fe638) | 2026-07-02 15:06 |
-| Luxoft | Senior Calypso Technical Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a8903d4fd47c4bc1) | 2026-07-02 15:06 |
-| nan | Sr Product Software Engineer | Santa Monica, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce82a6c8b0ad6bef) | 2026-07-02 15:06 |
-| Blue Orange Digital | Senior Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99a36241acc2482c) | 2026-07-02 15:06 |
 
 
 ---
