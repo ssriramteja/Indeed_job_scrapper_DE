@@ -1,16 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-06 18:05
+Last updated: 2026-07-06 20:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 84.51° | Senior Data Engineer (P1692) | Cincinnati, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=22049a363074e096) | 2026-07-06 20:46 |
+| SailPoint Technologies | Senior Data Engineer (FedRAMP) | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56f839f1132ce8cf) | 2026-07-06 20:46 |
+| EnsoData | Backend Software Engineer | Madison, WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8c200b9c6c495978) | 2026-07-06 20:46 |
+| Stellantis | Senior Embedded Software & DevOps Engineer – Powertrain | Auburn Hills, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b3f0c89d04dc203d) | 2026-07-06 20:46 |
+| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-06 20:46 |
+| NOV | Data Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=925e821925ed2bce) | 2026-07-06 20:46 |
+| Fidelity TalentSource | Full Stack Engineer | Westlake, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=747068d5750d5c05) | 2026-07-06 20:46 |
+| Nephrocare Dialysis, LLC | Healthcare Software Engineer | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=35a391cf99eaaca4) | 2026-07-06 20:46 |
+| Flexjet, LLC. | AI Engineer | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b221db76d815c26f) | 2026-07-06 20:46 |
+| Fidelity TalentSource | Full Stack Engineer | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ded9cd3a78dfa855) | 2026-07-06 20:46 |
+| Stellantis | AI & Automation Engineer | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e687931092830755) | 2026-07-06 20:46 |
+| Canary Technologies | Senior Application Security Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4fd8be2ac2acbae) | 2026-07-06 20:46 |
+| Charter Schools USA | Cloud Solutions Associate | Fort Lauderdale, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09dfaa59c130fbb8) | 2026-07-06 20:46 |
+| nan | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3665a915e740dcb6) | 2026-07-06 20:46 |
+| Fidelity TalentSource | Power BI Developer | Westlake, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f427c7860949a82) | 2026-07-06 20:46 |
+| Flexjet, LLC. | Senior Data Scientist | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ec02878ccd2d529) | 2026-07-06 20:46 |
 | DailyPay Inc | Senior Machine Learning Engineer | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=fdb05c2c61999715) | 2026-07-06 18:05 |
 | Neptune Technology Group | Senior Data Engineer - Technology | Duluth, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=29bdb97431796fc6) | 2026-07-06 18:05 |
 | MITSUBISHI ELECTRIC ICONICS DIGITAL SOLUTIONS | Senior Software Development Engineer | Cambridge, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d912db59816e5636) | 2026-07-06 18:05 |
 | Qode | Senior Databricks Architect | Almont, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=01bd0155c82472f6) | 2026-07-06 18:05 |
-| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-06 18:05 |
 | Koya Consulting | Functional Netsuite Developer | Garden Grove, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b420712f769081b2) | 2026-07-06 18:05 |
 | Qarbon Aerospace | IT Business Intelligence Engineer | Red Oak, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=753cae0999113ea0) | 2026-07-06 18:05 |
 | Luxoft | Senior Data Engineer | Salisbury, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebaeeabafbe5553f) | 2026-07-06 15:15 |
@@ -114,10 +129,6 @@ Last updated: 2026-07-06 18:05
 | Sunsoft Services Inc | Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f0b9cecc2115912) | 2026-07-02 20:55 |
 | Optum | Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa146328f582d2ee) | 2026-07-02 20:55 |
 | AssetMark | Associate Data Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9931af3931ffd36f) | 2026-07-02 20:55 |
-| JPMorganChase | Security Engineer III - AI/ML | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0732962234af33bb) | 2026-07-02 19:10 |
-| NuAxis Innovations | Senior Data Architect | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4737707c3f640d35) | 2026-07-02 19:10 |
-| EXL Service | Data Engineer | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8fc9a6e5f3db9370) | 2026-07-02 19:10 |
-| Optum | Software Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=501ec28aee7919fd) | 2026-07-02 19:10 |
 
 
 ---
