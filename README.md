@@ -1,16 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-06 20:46
+Last updated: 2026-07-06 22:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Software Developer, Business Intelligence Analyst | Apex, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cf35f133cdd540ed) | 2026-07-06 22:06 |
+| Blue Sentry Cloud | Senior Engineer (Azure, Terraform, Kubernetes) | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=adfc859f88eb2915) | 2026-07-06 22:06 |
+| Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=63633a8200979a09) | 2026-07-06 22:06 |
+| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-06 22:06 |
+| R1 RCM | Sr. Analytics Analyst | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1d98ab236da7f358) | 2026-07-06 22:06 |
+| Tata Consultancy Services (TCS) | Software Developer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6266f795f6f70349) | 2026-07-06 22:06 |
+| Amplify | Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=660813ceffa3da5b) | 2026-07-06 22:06 |
 | 84.51° | Senior Data Engineer (P1692) | Cincinnati, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=22049a363074e096) | 2026-07-06 20:46 |
 | SailPoint Technologies | Senior Data Engineer (FedRAMP) | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56f839f1132ce8cf) | 2026-07-06 20:46 |
 | EnsoData | Backend Software Engineer | Madison, WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8c200b9c6c495978) | 2026-07-06 20:46 |
 | Stellantis | Senior Embedded Software & DevOps Engineer – Powertrain | Auburn Hills, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b3f0c89d04dc203d) | 2026-07-06 20:46 |
-| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-06 20:46 |
 | NOV | Data Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=925e821925ed2bce) | 2026-07-06 20:46 |
 | Fidelity TalentSource | Full Stack Engineer | Westlake, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=747068d5750d5c05) | 2026-07-06 20:46 |
 | Nephrocare Dialysis, LLC | Healthcare Software Engineer | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=35a391cf99eaaca4) | 2026-07-06 20:46 |
@@ -99,36 +105,6 @@ Last updated: 2026-07-06 20:46
 | Allstate Insurance | Managing Engineer - Risk Insights and Risk Engineering (Remote, US) | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bfcda73cc0a3e91) | 2026-07-02 23:10 |
 | Highmark Health | Senior Analytic Data Engineer – Cloud Data Products & Analytic Enablement | PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e42d51f202bdd1cd) | 2026-07-02 23:10 |
 | Sunrise Banks | MGR - SOFTWARE ENGINEERING | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47845127b8be02d7) | 2026-07-02 23:10 |
-| Tata Consultancy Services (TCS) | Engineer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c12624733c865304) | 2026-07-02 22:00 |
-| VSP Vision | Data Engineer (Snowflake/DataStage) | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=13d171a250563755) | 2026-07-02 22:00 |
-| Career TEAM | DevOps Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=759bc95f0f620a8d) | 2026-07-02 22:00 |
-| Blue Cross and Blue Shield of Kansas | Solutions Architect | Topeka, KS, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=443de50c84ec577c) | 2026-07-02 22:00 |
-| PayCargo LLC | Senior Engineer, DevOps/Platform Reliability | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7d70c76f7b619354) | 2026-07-02 22:00 |
-| Kemper | Senior Data Systems Analyst | Omaha, NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=95b0ec5a73d05efa) | 2026-07-02 22:00 |
-| Kemper | Senior Data Systems Analyst | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=51215c06b0d02407) | 2026-07-02 22:00 |
-| Kemper | Senior Data Systems Analyst | Bloomington, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=888fa8c7756a9624) | 2026-07-02 22:00 |
-| Kemper | Senior Data Systems Analyst | Downers Grove, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6cd33c14edf293d6) | 2026-07-02 22:00 |
-| Kemper | Senior Data Systems Analyst | San Antonio, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=95779ab6f886353b) | 2026-07-02 22:00 |
-| Kemper | Senior Data Systems Analyst | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1db80fe1bd8cd1b) | 2026-07-02 22:00 |
-| Hilton | Senior Analyst, Project Support - Strategic Operations | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7144fb702e855f6c) | 2026-07-02 22:00 |
-| Ross Dress For Less | Engineer II | Dublin, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c10db4f3f98dced0) | 2026-07-02 22:00 |
-| Penn Interactive Ventures | Software Engineer, Sportsbook Platform | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e68bea5c8b6f32f3) | 2026-07-02 22:00 |
-| Data Ninjas Inc. | Snowflake Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=124e0eb6378e523b) | 2026-07-02 22:00 |
-| oura | Senior Data Analyst, Hardware & Supply Chain | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c0c6767bdba48a7e) | 2026-07-02 22:00 |
-| Barnes Aerospace | Data Engineer | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=7a6c863fad4f5188) | 2026-07-02 20:55 |
-| American Airlines | Developer/Sr Developer, IT Applications | Fort Worth, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b9553c5cf6b0e55e) | 2026-07-02 20:55 |
-| EMERY SAPP & SONS | Senior Data Engineer | Kansas City, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0d1c2968e4c859ad) | 2026-07-02 20:55 |
-| EMERY SAPP & SONS | Senior Data Engineer | Columbia, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1c6be32f39256627) | 2026-07-02 20:55 |
-| Mount Sinai Health System | Machine Learning Engineer I - Large Language Models - AI & Human Health Research | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cf467b81837982e7) | 2026-07-02 20:55 |
-| Stellantis | ICT Data Engineer | Auburn Hills, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a2029636ab554fae) | 2026-07-02 20:55 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0c24ef6b14853f5) | 2026-07-02 20:55 |
-| Fidelity TalentSource | Full Stack Engineer | Westlake, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24ff39b093bcf7a5) | 2026-07-02 20:55 |
-| Bass Pro Shops | Sr Engineer, BI - Onsite | Springfield, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb1698466286ec42) | 2026-07-02 20:55 |
-| Colorado Public Employees' Retirement Association | Database & Data Platform Administrator | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=25fd1065a8aec697) | 2026-07-02 20:55 |
-| Cisco | Senior Database Engineer (DBRE) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dac21e8c2033fca7) | 2026-07-02 20:55 |
-| Sunsoft Services Inc | Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f0b9cecc2115912) | 2026-07-02 20:55 |
-| Optum | Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa146328f582d2ee) | 2026-07-02 20:55 |
-| AssetMark | Associate Data Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9931af3931ffd36f) | 2026-07-02 20:55 |
 
 
 ---
