@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-06 15:15
+Last updated: 2026-07-06 18:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| DailyPay Inc | Senior Machine Learning Engineer | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=fdb05c2c61999715) | 2026-07-06 18:05 |
+| Neptune Technology Group | Senior Data Engineer - Technology | Duluth, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=29bdb97431796fc6) | 2026-07-06 18:05 |
+| MITSUBISHI ELECTRIC ICONICS DIGITAL SOLUTIONS | Senior Software Development Engineer | Cambridge, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d912db59816e5636) | 2026-07-06 18:05 |
+| Qode | Senior Databricks Architect | Almont, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=01bd0155c82472f6) | 2026-07-06 18:05 |
+| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-06 18:05 |
+| Koya Consulting | Functional Netsuite Developer | Garden Grove, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b420712f769081b2) | 2026-07-06 18:05 |
+| Qarbon Aerospace | IT Business Intelligence Engineer | Red Oak, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=753cae0999113ea0) | 2026-07-06 18:05 |
 | Luxoft | Senior Data Engineer | Salisbury, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebaeeabafbe5553f) | 2026-07-06 15:15 |
 | Luxoft | Senior Data Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c36cf1a20fa03687) | 2026-07-06 15:15 |
 | Luxoft | Senior Data Engineer | Quincy, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=104030bc904b311c) | 2026-07-06 15:15 |
@@ -111,20 +118,6 @@ Last updated: 2026-07-06 15:15
 | NuAxis Innovations | Senior Data Architect | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4737707c3f640d35) | 2026-07-02 19:10 |
 | EXL Service | Data Engineer | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8fc9a6e5f3db9370) | 2026-07-02 19:10 |
 | Optum | Software Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=501ec28aee7919fd) | 2026-07-02 19:10 |
-| NBME | Senior Data Engineer (Customer Data Products) | Philadelphia, PA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=cce51fb4ed88355c) | 2026-07-02 17:27 |
-| Dorleco | Data Engineer | Columbus, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e2316c19c169e1b3) | 2026-07-02 17:27 |
-| AdventHealth Corporate | Cloud Data Platform Architect | Altamonte Springs, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0b49a29e977cbd0a) | 2026-07-02 17:27 |
-| Stellantis | Data Engineer | Auburn Hills, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1b4b5a191541e3b8) | 2026-07-02 17:27 |
-| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ea57d1c34ac586d9) | 2026-07-02 17:27 |
-| EMERY SAPP & SONS | Senior Data Engineer | Kansas City, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=667f77c9d7a9c12e) | 2026-07-02 17:27 |
-| EMERY SAPP & SONS | Senior Data Engineer | Columbia, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c9629f01e9f1302a) | 2026-07-02 17:27 |
-| Cloudflare | Senior Machine Learning Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=138ef0c74c45d8c4) | 2026-07-02 17:27 |
-| Moody's | Senior Software Engineer- Generative AI | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1547cee06d0bb3ab) | 2026-07-02 17:27 |
-| Indiana University Health | Senior Information Services Developer- Databricks | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f46d509d8362d109) | 2026-07-02 17:27 |
-| Snowflake | Senior Solutions Architect - AI/ML - Services Delivery | NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1440e5e9f75e65a5) | 2026-07-02 17:27 |
-| nan | Senior AI Engineer | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67c5b2c44ca61f78) | 2026-07-02 17:27 |
-| PNC Financial Services Group | Senior Software Engineer - J2EE / Jenkins / Spring Boot | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea107a3e8076230f) | 2026-07-02 17:27 |
-| Alarm.com | Senior Software Engineer | Tysons Corner, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da1d5852709519d3) | 2026-07-02 17:27 |
 
 
 ---
