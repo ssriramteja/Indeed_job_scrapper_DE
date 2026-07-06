@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-06 07:03
+Last updated: 2026-07-06 11:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ciklum | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3be0a56ac2778b38) | 2026-07-06 11:56 |
+| Ciklum | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ea4b690f84b839f4) | 2026-07-06 11:56 |
+| Colgate-Palmolive | Data Architect | Piscataway, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f573c104948a88be) | 2026-07-06 11:56 |
 | Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2f34724a0fb298dd) | 2026-07-05 20:47 |
 | Magnite | Engineer II, Data Engineering | Broomfield, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f56661e330370a6d) | 2026-07-05 20:47 |
 | nan | AI Developer and Fintech | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=15009df8a39ab559) | 2026-07-05 02:07 |
@@ -121,8 +124,6 @@ Last updated: 2026-07-06 07:03
 | Luxoft | Senior Calypso Technical Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a8903d4fd47c4bc1) | 2026-07-02 15:06 |
 | nan | Sr Product Software Engineer | Santa Monica, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce82a6c8b0ad6bef) | 2026-07-02 15:06 |
 | Blue Orange Digital | Senior Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99a36241acc2482c) | 2026-07-02 15:06 |
-| Origami Risk LLC | Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b121742c1c0a0e0c) | 2026-07-02 09:53 |
-| 7-Eleven | QA Automation Engineer II | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b7c2109709d0fb65) | 2026-07-02 09:53 |
 
 
 ---
