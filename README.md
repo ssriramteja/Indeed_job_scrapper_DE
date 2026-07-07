@@ -1,18 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-07 03:23
+Last updated: 2026-07-07 07:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cummins | Data Engineer - Senior | IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f98bbbcdc847f11c) | 2026-07-07 07:29 |
+| Capgemini | GCP Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=22caac5643ade2f5) | 2026-07-07 07:29 |
+| Pero Family Farms | AI Application Developer | Delray Beach, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c027e67f35f12298) | 2026-07-07 07:29 |
+| Capgemini | Google Cloud Native Architect | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1e83a17dc9fa84d8) | 2026-07-07 07:29 |
+| ProCare solutions | Senior Software Engineer | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7c3650e6daa027c0) | 2026-07-07 07:29 |
+| Capgemini | GCP Data Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8965662ac1318ff5) | 2026-07-07 07:29 |
+| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-07 07:29 |
+| I8IS INC. | Data Engineer | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=15e79c2801587703) | 2026-07-07 07:29 |
 | Intone Networks | AWS Data Engineer | Newark, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=aa70a2067bf29ca9) | 2026-07-07 03:23 |
 | Intone Networks | Data engineer | Newark, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8a8f9f1d8dd81324) | 2026-07-07 03:23 |
 | Capgemini | GCP Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=41ede77cba151aef) | 2026-07-07 03:23 |
 | Zagg | Solution Architect - Enterprise Systems | Midvale, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=db19210234d99ea0) | 2026-07-07 03:23 |
 | Capgemini | GCP Data Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cdbdbd7af12024ce) | 2026-07-07 03:23 |
 | Stellantis | Full Stack Engineer | Auburn Hills, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cef824e8a5755511) | 2026-07-07 03:23 |
-| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-07 03:23 |
 | Intone Networks | Full Stack Software Developer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b5e6092f64fb827) | 2026-07-07 03:23 |
 | Intone Networks | Senior Platform Software Engineer | San Mateo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55cc546d0261279c) | 2026-07-07 03:23 |
 | CONFIDO | Senior ML Ops Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e79e6e2ca3d5c032) | 2026-07-07 03:23 |
@@ -104,14 +111,6 @@ Last updated: 2026-07-07 03:23
 | JPMorganChase | Software Engineer III - J2EE/Spring Boot | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4275ed2bedf6106) | 2026-07-03 09:50 |
 | McAfee | Full Stack Software Developer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=03ff02de6ff660e7) | 2026-07-03 09:50 |
 | McAfee | Data Analyst / Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24abff5e97729f1e) | 2026-07-03 09:50 |
-| OSI Digital | DBT Developer | Irvine, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c8765bd1c65b5570) | 2026-07-03 06:22 |
-| Cornerstone OnDemand | Data Engineer | Dublin, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d7dce5ca3032b2ad) | 2026-07-03 06:22 |
-| American Civil Liberties Union | Data Architect | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fef81ca1522be027) | 2026-07-03 06:22 |
-| 27Global | Software Engineer II | Leawood, KS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6b9f6c24003c9c4e) | 2026-07-03 06:22 |
-| Intone Networks | Big Data / AWS Software Engineer | Rockville, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85e1e53cf29b5e7c) | 2026-07-03 06:22 |
-| Logisnext Americas Inc | Artificial Intelligence Data Architect and Engineer | Grand Rapids, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9442e33d8fc54bc7) | 2026-07-03 06:22 |
-| Logisnext Americas Inc | Artificial Intelligence Data Architect and Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e3c56a8e57b8b032) | 2026-07-03 06:22 |
-| General Dynamics Information Technology | Software Engineer - TS/SCI with Polygraph | Chantilly, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac3d72a08dea6d97) | 2026-07-03 06:22 |
 
 
 ---
