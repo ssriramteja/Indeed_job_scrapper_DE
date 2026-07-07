@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-07 20:45
+Last updated: 2026-07-07 22:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2d7891b7fbaff3f7) | 2026-07-07 22:05 |
+| Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4a787addd6be5560) | 2026-07-07 22:05 |
+| American Cancer Society | Research Application Support Engineer - Remote | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=60c86e0a3c8c7263) | 2026-07-07 22:05 |
+| Pacific Consulting | MuleSoft Developer | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8257cbceb473c52a) | 2026-07-07 22:05 |
+| Sorenson Communications | Machine Learning Engineer II | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5ab41305de4a58ac) | 2026-07-07 22:05 |
+| MetLife | Business Systems Analyst - Semantic Layer | Cary, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ac3ffb67df20da06) | 2026-07-07 22:05 |
+| The Hartford | GIS Software Engineer | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8d8c2320056095b2) | 2026-07-07 22:05 |
+| Virtusa | Data Architect | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2bf6fb4571a3c426) | 2026-07-07 22:05 |
+| TLN Worldwide Enterprises Inc | Data Engineer – Advanced Analytics & Fraud Detection | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=97e726717dc24fb3) | 2026-07-07 22:05 |
+| Grainger | Data Engineer III | Lake Forest, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=18521f120cecfb99) | 2026-07-07 22:05 |
+| Cognizant | Sr. Software Engineer-Java, Spring Boot (Onsite) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c7f4539113a6169) | 2026-07-07 22:05 |
+| Tata Consultancy Services (TCS) | Network Engineer | Cary, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7cbdf8c3d5d2aa6) | 2026-07-07 22:05 |
+| Cognizant | Data Scientist – Demand Forecasting | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fbd0bba4b9b97da0) | 2026-07-07 22:05 |
+| IMA Financial Group | Business Intelligence Developer | Wichita, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=64c474cf1adc8532) | 2026-07-07 22:05 |
+| Zelis Healthcare | Cost Engineer | MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=078e1151a7e26811) | 2026-07-07 22:05 |
+| Cognizant | Senior Java Backend Engineer/ Java Microservices Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=71b106990543174f) | 2026-07-07 22:05 |
 | Quality Bicycle Products GBC / QBP | Sr Data Engineer BI | Bloomington, MN, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2bcb545e0d7339df) | 2026-07-07 20:45 |
 | nan | DevOps Engineer II - Data and Analytics | Oklahoma City, OK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53108c9bd68716fa) | 2026-07-07 20:45 |
 | nan | DevOps Engineer II - Data and Analytics | Oklahoma City, OK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f2217093bc52c879) | 2026-07-07 20:45 |
@@ -137,12 +153,6 @@ Last updated: 2026-07-07 20:45
 | nan | Software Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=22049ffcc6bb4062) | 2026-07-03 22:58 |
 | OnMed | DevOps Engineer | White Plains, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=33f34675d6b944c5) | 2026-07-03 22:58 |
 | Pearson | Senior Quality Assurance Engineer | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6eb29d3e19caf513) | 2026-07-03 22:58 |
-| Climb | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f49fab7756cd40ca) | 2026-07-03 21:57 |
-| Climb | Data Architect | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=64b506ee2b284700) | 2026-07-03 21:57 |
-| CADRE GOVERNMENT SOLUTIONS | Java Full Stack Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e2099b5430245346) | 2026-07-03 21:57 |
-| nan | Senior Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cc379557ac7b50a7) | 2026-07-03 21:57 |
-| Whatfix | Software Engineer (Level 3 / E3) - Core Platform | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e46ba444bbad5fd) | 2026-07-03 20:53 |
-| Whatfix | Software Engineer (Level 4 / E4) - Core Platform | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ffad5f6aac08e5a) | 2026-07-03 20:53 |
 
 
 ---
