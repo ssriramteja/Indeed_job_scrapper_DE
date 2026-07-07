@@ -1,14 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-07 16:18
+Last updated: 2026-07-07 18:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HAVI | Data Engineer | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=14e0af7fcb6718f5) | 2026-07-07 18:55 |
+| HAVI Logistics GmbH | Data Engineer | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1f7eb8898b893b80) | 2026-07-07 18:55 |
+| Transamerica | Specialist Software Engineering | Cedar Rapids, IA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e3bbc064985e6d03) | 2026-07-07 18:55 |
+| Dell Technologies | Senior Systems Engineer | NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2f059896b1dc8546) | 2026-07-07 18:55 |
+| nan | Agentic AI Engineer (AWS & Azure) | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ffc8098824f5428a) | 2026-07-07 18:55 |
+| Credit Acceptance | Senior Database Reliability Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f1770e68ca0a7f94) | 2026-07-07 18:55 |
+| itD Tech | Data Engineer IV (6226) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=966a231d0ac3ac5d) | 2026-07-07 18:55 |
+| IPolarity LLC | Senior Full Stack Developer - New York | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e5159354fa31a01) | 2026-07-07 18:55 |
+| NuAxis Innovations | Senior Data Architect | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f1f6d405ab4fefc) | 2026-07-07 18:55 |
+| CrowdStrike | Senior AI Infrastructure Engineer, LLM/AI Platforms | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3629f388c5998ab1) | 2026-07-07 18:55 |
+| BusPatrol | Senior Software Development Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=68a96aefdc270e6c) | 2026-07-07 18:55 |
+| GRP Solutions | Data Engineer | Dayton, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f578efcb4c089b6) | 2026-07-07 18:55 |
+| Forman Technology Group | Data Scientist | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b706dbf028db0cd8) | 2026-07-07 18:55 |
+| Park Place Technologies | Software Engineer | Highland Heights, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1f86de95c2e4071) | 2026-07-07 18:55 |
+| CrowdStrike | Software Engineer III - Cloud Security - FCS Registration (Hybrid) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e288afbe233b4df) | 2026-07-07 18:55 |
 | ComplexCare Solutions | Senior Software Data Architect (Phoenix) | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0402f3ddd34aabe8) | 2026-07-07 16:18 |
 | Capgemini | Data Architect | Arlington, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=748c7729e8f9ad32) | 2026-07-07 16:18 |
-| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-07 16:18 |
 | CSL Plasma | Co-Op Data Science/Analytics | King of Prussia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04d905bcd26c07f0) | 2026-07-07 16:18 |
 | Concept Plus | Data Integration Engineer / ETL Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=744245d6362a34a8) | 2026-07-07 16:18 |
 | nan | Power BI Architect - Pharma domain- W2 | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de37c16d0b1d6f5c) | 2026-07-07 16:18 |
@@ -107,9 +121,6 @@ Last updated: 2026-07-07 16:18
 | Whatfix | Software Engineer (Level 3 / E3) - Core Platform | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e46ba444bbad5fd) | 2026-07-03 20:53 |
 | Whatfix | Software Engineer (Level 4 / E4) - Core Platform | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ffad5f6aac08e5a) | 2026-07-03 20:53 |
 | Hudson River Community Credit Union | Data Engineer | Corinth, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f7fcbb496808adb) | 2026-07-03 19:03 |
-| Altak Group | Ab Initio Developer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3375df1916d0dbd2) | 2026-07-03 17:14 |
-| CNH Industrial | Senior Software Engineer - SRE Focus | Oak Brook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cc9b9608e126cebe) | 2026-07-03 17:14 |
-| Awesome Motive Inc. | AI Developer | Miami Beach, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98f33599b59c5df8) | 2026-07-03 17:14 |
 
 
 ---
