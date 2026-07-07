@@ -1,12 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-07 13:11
+Last updated: 2026-07-07 16:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-07 13:11 |
+| ComplexCare Solutions | Senior Software Data Architect (Phoenix) | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0402f3ddd34aabe8) | 2026-07-07 16:18 |
+| Capgemini | Data Architect | Arlington, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=748c7729e8f9ad32) | 2026-07-07 16:18 |
+| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-07 16:18 |
+| CSL Plasma | Co-Op Data Science/Analytics | King of Prussia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04d905bcd26c07f0) | 2026-07-07 16:18 |
+| Concept Plus | Data Integration Engineer / ETL Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=744245d6362a34a8) | 2026-07-07 16:18 |
+| nan | Power BI Architect - Pharma domain- W2 | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de37c16d0b1d6f5c) | 2026-07-07 16:18 |
 | Emory University | Data Engineer II - OIT | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=09fc6de306f65311) | 2026-07-07 10:46 |
 | Acceldata | Sales Engineer - Hadoop Observability & Open Data Platform | Washington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3a16dbc986934bf) | 2026-07-07 10:46 |
 | 7-Eleven | Software Engineer - Backend Developer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=badbffd0b2447e21) | 2026-07-07 10:46 |
@@ -105,8 +110,6 @@ Last updated: 2026-07-07 13:11
 | Altak Group | Ab Initio Developer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=3375df1916d0dbd2) | 2026-07-03 17:14 |
 | CNH Industrial | Senior Software Engineer - SRE Focus | Oak Brook, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cc9b9608e126cebe) | 2026-07-03 17:14 |
 | Awesome Motive Inc. | AI Developer | Miami Beach, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98f33599b59c5df8) | 2026-07-03 17:14 |
-| 7-Eleven | Software Engineer II - Python | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb780f85c387dcda) | 2026-07-03 15:02 |
-| Genpact | Campus DTAI Track – Data, Tech & AI | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6629e5da1fcb9599) | 2026-07-03 15:02 |
 
 
 ---
