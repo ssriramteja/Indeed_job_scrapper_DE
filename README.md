@@ -1,18 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-07 07:29
+Last updated: 2026-07-07 10:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Emory University | Data Engineer II - OIT | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=09fc6de306f65311) | 2026-07-07 10:46 |
+| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-07 10:46 |
+| Acceldata | Sales Engineer - Hadoop Observability & Open Data Platform | Washington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3a16dbc986934bf) | 2026-07-07 10:46 |
+| 7-Eleven | Software Engineer - Backend Developer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=badbffd0b2447e21) | 2026-07-07 10:46 |
 | Cummins | Data Engineer - Senior | IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f98bbbcdc847f11c) | 2026-07-07 07:29 |
 | Capgemini | GCP Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=22caac5643ade2f5) | 2026-07-07 07:29 |
 | Pero Family Farms | AI Application Developer | Delray Beach, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c027e67f35f12298) | 2026-07-07 07:29 |
 | Capgemini | Google Cloud Native Architect | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1e83a17dc9fa84d8) | 2026-07-07 07:29 |
 | ProCare solutions | Senior Software Engineer | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7c3650e6daa027c0) | 2026-07-07 07:29 |
 | Capgemini | GCP Data Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8965662ac1318ff5) | 2026-07-07 07:29 |
-| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-07 07:29 |
 | I8IS INC. | Data Engineer | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=15e79c2801587703) | 2026-07-07 07:29 |
 | Intone Networks | AWS Data Engineer | Newark, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=aa70a2067bf29ca9) | 2026-07-07 03:23 |
 | Intone Networks | Data engineer | Newark, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8a8f9f1d8dd81324) | 2026-07-07 03:23 |
@@ -105,12 +108,6 @@ Last updated: 2026-07-07 07:29
 | 7-Eleven | Software Engineer II - Python | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb780f85c387dcda) | 2026-07-03 15:02 |
 | Genpact | Campus DTAI Track – Data, Tech & AI | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6629e5da1fcb9599) | 2026-07-03 15:02 |
 | Genpact | Campus DTAI Track – Data, Tech & AI | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=81913d589c038b43) | 2026-07-03 12:01 |
-| CVS Health | DevOps Engineer (Remote) | MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=78392f2d9015aeeb) | 2026-07-03 09:50 |
-| McAfee | Senior AI Engineer, MarTech | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28bb6b860bdff8b3) | 2026-07-03 09:50 |
-| The Hillman Group | Analytics Engineer | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9726119dcb779aff) | 2026-07-03 09:50 |
-| JPMorganChase | Software Engineer III - J2EE/Spring Boot | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4275ed2bedf6106) | 2026-07-03 09:50 |
-| McAfee | Full Stack Software Developer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=03ff02de6ff660e7) | 2026-07-03 09:50 |
-| McAfee | Data Analyst / Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24abff5e97729f1e) | 2026-07-03 09:50 |
 
 
 ---
