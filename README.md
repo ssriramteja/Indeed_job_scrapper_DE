@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-07 10:46
+Last updated: 2026-07-07 13:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-07 13:11 |
 | Emory University | Data Engineer II - OIT | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=09fc6de306f65311) | 2026-07-07 10:46 |
-| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b36b3a62dfe376d5) | 2026-07-07 10:46 |
 | Acceldata | Sales Engineer - Hadoop Observability & Open Data Platform | Washington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3a16dbc986934bf) | 2026-07-07 10:46 |
 | 7-Eleven | Software Engineer - Backend Developer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=badbffd0b2447e21) | 2026-07-07 10:46 |
 | Cummins | Data Engineer - Senior | IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f98bbbcdc847f11c) | 2026-07-07 07:29 |
@@ -107,7 +107,6 @@ Last updated: 2026-07-07 10:46
 | Awesome Motive Inc. | AI Developer | Miami Beach, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98f33599b59c5df8) | 2026-07-03 17:14 |
 | 7-Eleven | Software Engineer II - Python | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb780f85c387dcda) | 2026-07-03 15:02 |
 | Genpact | Campus DTAI Track – Data, Tech & AI | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6629e5da1fcb9599) | 2026-07-03 15:02 |
-| Genpact | Campus DTAI Track – Data, Tech & AI | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=81913d589c038b43) | 2026-07-03 12:01 |
 
 
 ---
