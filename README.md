@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-07 22:05
+Last updated: 2026-07-07 23:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ZoomInfo | DevOps Engineer III | Waltham, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5db19e3a9cbf828d) | 2026-07-07 23:48 |
+| Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ee3824264dc26ac6) | 2026-07-07 23:48 |
+| Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2265ad8dcef15915) | 2026-07-07 23:48 |
+| Floor & Decor | Senior Developer – Connected Customer (Loyalty Platform) | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=764638c30ee52f22) | 2026-07-07 23:48 |
+| Cloud Destinations | System Integration SME – Public Safety Systems Upgrade | Los Angeles, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2f88e375562aa037) | 2026-07-07 23:48 |
+| Varsity Brands | Cloud Engineer III | Farmers Branch, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=668ddb7fa648f79b) | 2026-07-07 23:48 |
+| MetLife | Business Systems Analyst - Semantic Layer | Cary, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=97283fc0220405a0) | 2026-07-07 23:48 |
+| JPMorganChase | Software Engineer II-Python/PySpark | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c18066ab7c80217) | 2026-07-07 23:48 |
+| Visa | SW Engineer - Sr. Consultant level | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d54c186e0fe4fd8f) | 2026-07-07 23:48 |
+| EnergyHub | Senior Software Engineer, C&I | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a602fd90cf822f8c) | 2026-07-07 23:48 |
+| EnergyHub | Senior Software Engineer, C&I | Burlington, VT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=095f422ac934ee58) | 2026-07-07 23:48 |
+| EnergyHub | Senior Software Engineer, C&I | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=deaff1cd6031383e) | 2026-07-07 23:48 |
+| EnergyHub | Senior Software Engineer, C&I | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=253a1410e2b36c94) | 2026-07-07 23:48 |
+| EnergyHub | Senior Software Engineer, C&I | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33fd0b602811c81f) | 2026-07-07 23:48 |
 | Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2d7891b7fbaff3f7) | 2026-07-07 22:05 |
 | Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4a787addd6be5560) | 2026-07-07 22:05 |
 | American Cancer Society | Research Application Support Engineer - Remote | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=60c86e0a3c8c7263) | 2026-07-07 22:05 |
@@ -150,9 +164,6 @@ Last updated: 2026-07-07 22:05
 | Hydrafacial | Senior Data Architect - Long Beach, CA | Long Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67e127e3639656d8) | 2026-07-04 04:28 |
 | HCLTech | Group AI/ML Sol Architect - PostgreSQL | Virginia Beach, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4500ad04a6fe0400) | 2026-07-04 04:28 |
 | nan | Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92331c671f336d40) | 2026-07-04 00:03 |
-| nan | Software Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=22049ffcc6bb4062) | 2026-07-03 22:58 |
-| OnMed | DevOps Engineer | White Plains, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=33f34675d6b944c5) | 2026-07-03 22:58 |
-| Pearson | Senior Quality Assurance Engineer | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6eb29d3e19caf513) | 2026-07-03 22:58 |
 
 
 ---
