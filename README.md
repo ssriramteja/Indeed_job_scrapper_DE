@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-08 01:49
+Last updated: 2026-07-08 05:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Intone Networks | AWS Data Engineer | Newark, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=39735e72a86863ee) | 2026-07-08 05:12 |
+| Tata Consultancy Services (TCS) | Engineer | Cleveland, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=639185415ab38daf) | 2026-07-08 05:12 |
+| Advanced Drainage Systems | Senior Data Engineer | Hilliard, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b6fa63afaad1ae0c) | 2026-07-08 05:12 |
+| Tata Consultancy Services (TCS) | Angular Developer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bfb27c1a96af1b03) | 2026-07-08 05:12 |
+| Together AI | Senior Software Engineer, Observability | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7798608e6c8e6d0a) | 2026-07-08 05:12 |
+| Tata Consultancy Services (TCS) | Software Developer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ec07f9df27cc65f) | 2026-07-08 05:12 |
+| Oracle | Oracle Data Platform Multi-Cloud Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe4922b6f5fcc6c2) | 2026-07-08 05:12 |
+| Oracle | Oracle Data Platform Multi-Cloud Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db92aa655f31f542) | 2026-07-08 05:12 |
 | Cutsforth | Senior Azure Cloud Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=76920144878d961b) | 2026-07-08 01:49 |
 | McAfee | Senior AI Engineer, MarTech | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5af6295655240418) | 2026-07-08 01:49 |
 | Mastercard | Senior Software Engineer | O'Fallon, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=831c607d5c0b6d42) | 2026-07-08 01:49 |
@@ -172,10 +180,6 @@ Last updated: 2026-07-08 01:49
 | nan | AI Developer and Fintech | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=15009df8a39ab559) | 2026-07-05 02:07 |
 | Nicklaus Children's Health System | Data Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ab45996cd47738b) | 2026-07-04 20:06 |
 | AmaWaterways | Senior Software Engineer, Backend | Calabasas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02cd4ab61a45abcd) | 2026-07-04 13:01 |
-| WhiteWater Express Car Wash | Full Stack Engineer | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85da536c77d90e54) | 2026-07-04 04:28 |
-| Expleo Group | Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) | Rochester, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b8537a55ac652d5) | 2026-07-04 04:28 |
-| Hydrafacial | Senior Data Architect - Long Beach, CA | Long Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67e127e3639656d8) | 2026-07-04 04:28 |
-| HCLTech | Group AI/ML Sol Architect - PostgreSQL | Virginia Beach, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4500ad04a6fe0400) | 2026-07-04 04:28 |
 
 
 ---
