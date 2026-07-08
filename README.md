@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-08 05:12
+Last updated: 2026-07-08 08:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9e9837b40940e11e) | 2026-07-08 08:09 |
+| nan | Senior Forward Deployed Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=56e0ecb5d10c6090) | 2026-07-08 08:09 |
+| nan | AI Engineer | Davie, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c8d1b1575f8a785c) | 2026-07-08 08:09 |
+| Smart Warehousing | SOFTWARE ENGINEER | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15f94818bca4bdbf) | 2026-07-08 08:09 |
+| CVS Health | Site Reliability Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d6804b567301e090) | 2026-07-08 08:09 |
+| CVS Health | Site Reliability Engineer | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1642810b5caddca1) | 2026-07-08 08:09 |
+| CVS Health | Site Reliability Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ecc3514eaff8e4f) | 2026-07-08 08:09 |
+| CVS Health | Site Reliability Engineer | Woonsocket, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6fe23fcfe31a209) | 2026-07-08 08:09 |
+| CVS Health | Site Reliability Engineer | Buffalo Grove, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e100b09f562b47a9) | 2026-07-08 08:09 |
 | Intone Networks | AWS Data Engineer | Newark, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=39735e72a86863ee) | 2026-07-08 05:12 |
 | Tata Consultancy Services (TCS) | Engineer | Cleveland, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=639185415ab38daf) | 2026-07-08 05:12 |
 | Advanced Drainage Systems | Senior Data Engineer | Hilliard, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b6fa63afaad1ae0c) | 2026-07-08 05:12 |
