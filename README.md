@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-08 10:55
+Last updated: 2026-07-08 12:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Moneyling | Senior Google Workspace Integration Engineer (Google Classroom Add-on) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a8912d706dfda61a) | 2026-07-08 12:15 |
+| nan | Senior Data Engineer | Oak Ridge, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=280abe19b99935bf) | 2026-07-08 12:15 |
+| nan | Senior Data Engineer | Allen, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=988ab78691107dc1) | 2026-07-08 12:15 |
 | New York Life | Senior Associate - DevOps Engineer / DevOps Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=19e39bb741b6ed38) | 2026-07-08 10:55 |
 | SAS | Software Developer – Data Services | Cary, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=46136a65c93b5dcc) | 2026-07-08 10:55 |
 | Ashra Technology | ETL Informatica Developer | Piscataway, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d6850ff8414aeb49) | 2026-07-08 10:55 |
