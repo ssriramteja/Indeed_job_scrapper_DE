@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-08 12:15
+Last updated: 2026-07-08 15:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nordstrom | Data Engineer 2 | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c045f1d95301aef) | 2026-07-08 15:10 |
+| Portfolio BI | Full Stack Quantitative Developer - Capital Markets - NYC / Dallas / Los Angelas | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=40c58ef4f6c13dc4) | 2026-07-08 15:10 |
 | Moneyling | Senior Google Workspace Integration Engineer (Google Classroom Add-on) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a8912d706dfda61a) | 2026-07-08 12:15 |
 | nan | Senior Data Engineer | Oak Ridge, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=280abe19b99935bf) | 2026-07-08 12:15 |
 | nan | Senior Data Engineer | Allen, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=988ab78691107dc1) | 2026-07-08 12:15 |
@@ -197,7 +199,6 @@ Last updated: 2026-07-08 12:15
 | Magnite | Engineer II, Data Engineering | Broomfield, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f56661e330370a6d) | 2026-07-05 20:47 |
 | nan | AI Developer and Fintech | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=15009df8a39ab559) | 2026-07-05 02:07 |
 | Nicklaus Children's Health System | Data Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ab45996cd47738b) | 2026-07-04 20:06 |
-| AmaWaterways | Senior Software Engineer, Backend | Calabasas, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02cd4ab61a45abcd) | 2026-07-04 13:01 |
 
 
 ---
