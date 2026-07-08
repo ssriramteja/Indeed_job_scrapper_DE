@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-07 23:48
+Last updated: 2026-07-08 01:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cutsforth | Senior Azure Cloud Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=76920144878d961b) | 2026-07-08 01:49 |
+| McAfee | Senior AI Engineer, MarTech | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5af6295655240418) | 2026-07-08 01:49 |
+| Mastercard | Senior Software Engineer | O'Fallon, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=831c607d5c0b6d42) | 2026-07-08 01:49 |
+| nan | Software Engineer II | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3a78dbf7c446b6db) | 2026-07-08 01:49 |
+| nan | Software Engineer II | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cd5e4db31e26c352) | 2026-07-08 01:49 |
+| McAfee | Full Stack Software Developer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=05b4090a8f2d81cf) | 2026-07-08 01:49 |
+| Flosports | Senior Engineer, Live Streaming Video Specialist | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fd48b1457269a43) | 2026-07-08 01:49 |
+| Tigunia | Business Intelligence Analyst- Data Engineering Specialist | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a37f78119027aa2) | 2026-07-08 01:49 |
+| NTT DATA | Linux Systems Engineer (Onsite Full-Time) | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=77d9c2b3b4d47a50) | 2026-07-08 01:49 |
+| Sherwin-Williams | Senior Digital Analytics Engineer - Customer Experience | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7638fd3897d48107) | 2026-07-08 01:49 |
+| McAfee | Data Analyst / Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c97a5a60ec969e45) | 2026-07-08 01:49 |
+| Precisely | Associate Software Engineer – Java (AI First) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35674fb556e44dc3) | 2026-07-08 01:49 |
+| Cerby | Senior Backend Engineer (Access Management) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d31da1d032a50af) | 2026-07-08 01:49 |
 | ZoomInfo | DevOps Engineer III | Waltham, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5db19e3a9cbf828d) | 2026-07-07 23:48 |
 | Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ee3824264dc26ac6) | 2026-07-07 23:48 |
 | Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2265ad8dcef15915) | 2026-07-07 23:48 |
@@ -163,7 +176,6 @@ Last updated: 2026-07-07 23:48
 | Expleo Group | Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) | Rochester, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b8537a55ac652d5) | 2026-07-04 04:28 |
 | Hydrafacial | Senior Data Architect - Long Beach, CA | Long Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67e127e3639656d8) | 2026-07-04 04:28 |
 | HCLTech | Group AI/ML Sol Architect - PostgreSQL | Virginia Beach, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4500ad04a6fe0400) | 2026-07-04 04:28 |
-| nan | Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92331c671f336d40) | 2026-07-04 00:03 |
 
 
 ---
