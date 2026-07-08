@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-08 15:10
+Last updated: 2026-07-08 17:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TELUS Digital | L4 Software Developer | Ontario, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=df470ff40ed8b797) | 2026-07-08 17:20 |
+| Techtorch | Data Architect | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=976253ecfe9e19de) | 2026-07-08 17:20 |
+| CS Disco | Senior Engineer, DevOps - US | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8780f8e65e58dbf5) | 2026-07-08 17:20 |
+| nan | AI Systems Engineer | Cupertino, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=13202823e54f41d9) | 2026-07-08 17:20 |
+| VNS Health | Data Architect | Manhattan, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f6b2954d105ec3b4) | 2026-07-08 17:20 |
+| BNY | Senior Specialist, Full-Stack Engineer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ce95c35e291923d6) | 2026-07-08 17:20 |
+| Presidio | Associate Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b36e132a1cd0c73) | 2026-07-08 17:20 |
+| Lexi Global | IT System Administrator | Upland, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85847771373bf53f) | 2026-07-08 17:20 |
+| Axon | Senior Site Reliability Engineer I | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=435f09808948c67f) | 2026-07-08 17:20 |
 | Nordstrom | Data Engineer 2 | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c045f1d95301aef) | 2026-07-08 15:10 |
 | Portfolio BI | Full Stack Quantitative Developer - Capital Markets - NYC / Dallas / Los Angelas | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=40c58ef4f6c13dc4) | 2026-07-08 15:10 |
 | Moneyling | Senior Google Workspace Integration Engineer (Google Classroom Add-on) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a8912d706dfda61a) | 2026-07-08 12:15 |
