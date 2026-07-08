@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-08 17:20
+Last updated: 2026-07-08 19:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SynergenX Health Holdings | Junior Data Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b36799dfc012672) | 2026-07-08 19:08 |
+| CoStar Group | Senior DevOps Engineer- Atlanta, GA | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f88ad68d887d399c) | 2026-07-08 19:08 |
+| NTT DATA | Remote Data Engineer - & Modeler Informatica | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c8a88f61dc550d6) | 2026-07-08 19:08 |
+| Optum | Senior Software Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ae7a2dd93d0c527) | 2026-07-08 19:08 |
 | TELUS Digital | L4 Software Developer | Ontario, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=df470ff40ed8b797) | 2026-07-08 17:20 |
 | Techtorch | Data Architect | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=976253ecfe9e19de) | 2026-07-08 17:20 |
 | CS Disco | Senior Engineer, DevOps - US | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8780f8e65e58dbf5) | 2026-07-08 17:20 |
