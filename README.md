@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-08 19:08
+Last updated: 2026-07-08 20:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| California Coast Credit Union | Data Engineer | San Diego, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=19e3275d263cd408) | 2026-07-08 20:57 |
+| Upbound Group | Data Engineer IV | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0f96ecf719dda765) | 2026-07-08 20:57 |
+| Airbyte | Senior Software Engineer, Integrations (Databases) - Hiring Sprint | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0caaaf2a7e72b6eb) | 2026-07-08 20:57 |
+| General Motors (GM) | Senior Business Intelligence Data Engineer | Warren, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f54c187f37e51c2) | 2026-07-08 20:57 |
+| Diverse Agile Solutions | NYS ITS HBITS Senior IT Specialist | Albany, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1457cdbfc218d897) | 2026-07-08 20:57 |
+| Jobility | Data Engineer II | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1690dbadbec022c5) | 2026-07-08 20:57 |
+| United Airlines | Senior Analyst - Cargo Business Intelligence | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=583377447f74582c) | 2026-07-08 20:57 |
 | SynergenX Health Holdings | Junior Data Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b36799dfc012672) | 2026-07-08 19:08 |
 | CoStar Group | Senior DevOps Engineer- Atlanta, GA | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f88ad68d887d399c) | 2026-07-08 19:08 |
 | NTT DATA | Remote Data Engineer - & Modeler Informatica | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c8a88f61dc550d6) | 2026-07-08 19:08 |
@@ -211,7 +218,6 @@ Last updated: 2026-07-08 19:08
 | Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2f34724a0fb298dd) | 2026-07-05 20:47 |
 | Magnite | Engineer II, Data Engineering | Broomfield, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f56661e330370a6d) | 2026-07-05 20:47 |
 | nan | AI Developer and Fintech | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=15009df8a39ab559) | 2026-07-05 02:07 |
-| Nicklaus Children's Health System | Data Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ab45996cd47738b) | 2026-07-04 20:06 |
 
 
 ---
