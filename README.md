@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-08 08:09
+Last updated: 2026-07-08 10:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| New York Life | Senior Associate - DevOps Engineer / DevOps Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=19e39bb741b6ed38) | 2026-07-08 10:55 |
+| SAS | Software Developer – Data Services | Cary, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=46136a65c93b5dcc) | 2026-07-08 10:55 |
+| Ashra Technology | ETL Informatica Developer | Piscataway, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d6850ff8414aeb49) | 2026-07-08 10:55 |
+| nan | DevOps Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c79ddc7b9618c2a8) | 2026-07-08 10:55 |
+| GovCon Growth Solutions | Data Engineer — Healthcare / CMS Data / Snowflake / Python | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=efa1dfe09ae658ff) | 2026-07-08 10:55 |
+| mLabs | Senior Infrastructure Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bad4b3cca781fe4) | 2026-07-08 10:55 |
 | nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9e9837b40940e11e) | 2026-07-08 08:09 |
 | nan | Senior Forward Deployed Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=56e0ecb5d10c6090) | 2026-07-08 08:09 |
 | nan | AI Engineer | Davie, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c8d1b1575f8a785c) | 2026-07-08 08:09 |
