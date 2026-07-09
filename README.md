@@ -1,11 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-09 03:36
+Last updated: 2026-07-09 07:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Simbex | Senior Software Engineer - Cloud Services | Lebanon, NH, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2b9529a493965b7b) | 2026-07-09 07:35 |
+| Fitch Ratings | Senior Engineer - Data Platforms & Full Stack Applications | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=20da1d593ffe4713) | 2026-07-09 07:35 |
+| Citi | Head Universal Banker, One California Branch | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fc1688b5b79437db) | 2026-07-09 07:35 |
+| West Monroe | Software Engineer- Tech Ex AI Assets Foundry Team | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=843e1428f95c6703) | 2026-07-09 07:35 |
+| ProCare solutions | Software Engineer | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=59621637da2df488) | 2026-07-09 07:35 |
+| Humana | Senior Software Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=05d26e9d276de69c) | 2026-07-09 07:35 |
+| Humana | Senior Software Engineer | Louisville, KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c3e03f61f231e6f7) | 2026-07-09 07:35 |
+| Humana | Senior Software Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fc3d7f6b293b8798) | 2026-07-09 07:35 |
+| Humana | Senior Software Engineer | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c9c60c8af1cd2657) | 2026-07-09 07:35 |
+| West Monroe | Senior Software Engineer-Tech Ex AI Assets Foundry Team | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b83db5488d77940) | 2026-07-09 07:35 |
+| LendingTree | Platform Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c279a3c045a08727) | 2026-07-09 07:35 |
+| JPMorganChase | Software Engineer III - J2EE/Spring Boot | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea46fe6dc4046714) | 2026-07-09 07:35 |
+| Early Warning Services | Senior Cloud Engineer - Contract | Scottsdale, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df19e7dbad1a512f) | 2026-07-09 07:35 |
+| Brook INC | Data Engineer | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d754b9ca64323d6e) | 2026-07-09 07:35 |
+| JM Eagle | Enterprise Applications Architect | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d392d906a4f4d8ad) | 2026-07-09 07:35 |
+| JPMorganChase | Business Analyst, Senior Associate | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ad0e3fa860fcbe7e) | 2026-07-09 07:35 |
+| Next Gen Software Solutions | Data Engineer (Ab Initio, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff199be74bdba33) | 2026-07-09 07:35 |
+| Global Partners LP | Analytics Engineer | Waltham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d677323b8f1a2636) | 2026-07-09 07:35 |
+| U.S. Bank | Software Engineer 2 | Hopkins, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8bee7f3b1d3558f3) | 2026-07-09 07:35 |
+| U.S. Bank | Software Engineer 2 | Englewood, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5331edf6c905499e) | 2026-07-09 07:35 |
+| U.S. Bank | Software Engineer 2 | Earth City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bd3b8341850dde41) | 2026-07-09 07:35 |
 | Allocate | Sr. Data Engineer | Palo Alto, CA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=53d67e2c6a917d94) | 2026-07-09 03:36 |
 | Schneider Electric | Associate Data Engineer | Franklin, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=33d347250384414c) | 2026-07-09 03:36 |
 | Fox Corporation | Senior Data Engineer | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2b7c5ebe00eaa753) | 2026-07-09 03:36 |
@@ -17,7 +38,6 @@ Last updated: 2026-07-09 03:36
 | AlixPartners | Data Insights & Analytics Senior Data Engineer (Contract) | Southfield, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e3a4117d82354a9) | 2026-07-09 03:36 |
 | University of Wisconsin–Madison | Data Scientist II | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=139ae06dd742f9ff) | 2026-07-09 03:36 |
 | JPMorganChase | Software Engineer III - Python/PySpark/AWS | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=886d622b68bd75e5) | 2026-07-09 03:36 |
-| Next Gen Software Solutions | Data Engineer (Ab Initio, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff199be74bdba33) | 2026-07-09 03:36 |
 | Urology Centers of Alabama | Data Engineer | Homewood, AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c61588a41f9c88e4) | 2026-07-09 03:36 |
 | Edward Jones | Engineer III | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e65e864080e6f228) | 2026-07-09 03:36 |
 | Edward Jones | Engineer III | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=379a672460ecff73) | 2026-07-09 03:36 |
