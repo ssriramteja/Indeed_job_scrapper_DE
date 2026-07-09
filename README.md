@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-09 22:14
+Last updated: 2026-07-09 23:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| RectorSeal | Senior Data Engineer (Hybrid, Houston based) | Houston, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=56bf46bcdf3a7d3e) | 2026-07-09 23:58 |
+| Dominion Energy | Senior Data Engineer/ Data Engineer (RICHMOND, VA, US, 23219) | Richmond, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a62b0f3021eecff3) | 2026-07-09 23:58 |
+| AmeriHealth Caritas | Data Management Business Systems Analyst Senior | Newtown Square, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ffe8b4359c9f57e8) | 2026-07-09 23:58 |
+| Genentech | Machine Learning Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b13e9ac170037a33) | 2026-07-09 23:58 |
+| K2 Space | Senior Application Data Engineer | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6c71baf7b7eedd7) | 2026-07-09 23:58 |
+| Intellibee Inc | Infrastructure Solutions Architect | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b21a772800827417) | 2026-07-09 23:58 |
+| Salas O'Brien | Senior Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c4a147881279cc0) | 2026-07-09 23:58 |
+| nSCALE | Operational Data & Observability Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c0a5446b79f2284f) | 2026-07-09 23:58 |
 | JSR Tech Consulting | Data Engineer | NJ, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=e477d5aaf587262c) | 2026-07-09 22:14 |
 | Cognizant | Snowflake Architect - DBT and Cortex AI | Mettawa, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=aed7e6578e3c4d9c) | 2026-07-09 22:14 |
 | American Heart Association | Data Warehouse Developer | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a03496283ad3b0d9) | 2026-07-09 22:14 |
@@ -23,7 +31,6 @@ Last updated: 2026-07-09 22:14
 | MetLife | Junior Software Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8b802a7acff1d5ad) | 2026-07-09 22:14 |
 | cyber technology innovations | IT System Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=70eeb725c73e2eb3) | 2026-07-09 22:14 |
 | Discogs | Senior Site Reliability Engineer (REMOTE) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5a924459fc3278a) | 2026-07-09 22:14 |
-| Next Gen Software Solutions | Data Engineer (Ab Initio, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff199be74bdba33) | 2026-07-09 22:14 |
 | Anthropic | Finance Systems Integration Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc59d1bea902c70f) | 2026-07-09 22:14 |
 | Cognizant | Snowflake Administrator | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=92f1cdeea67d5c58) | 2026-07-09 22:14 |
 | General Dynamics Information Technology | Penetration Tester | IN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8b2d7835a40e0de0) | 2026-07-09 20:42 |
