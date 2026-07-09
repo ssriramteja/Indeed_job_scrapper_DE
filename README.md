@@ -1,17 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-09 13:44
+Last updated: 2026-07-09 16:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Alarm.com | DevOps Engineer | Tysons Corner, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=481d923fb039795b) | 2026-07-09 16:23 |
+| Alarm.com | DevOps Engineer | Lawrence, KS, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=41414a51a1f25bae) | 2026-07-09 16:23 |
+| Capgemini | Python Data Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a6b715c5b39bb01) | 2026-07-09 16:23 |
+| nan | Data Infrastructure Architect | Manhattan, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5b2d6340b7dbd35b) | 2026-07-09 16:23 |
+| Tata Consultancy Services (TCS) | Python AI Engineer | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e793e39138e9c31) | 2026-07-09 16:23 |
+| nan | Senior Product Software Engineer | Glendale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc5c72de81426773) | 2026-07-09 16:23 |
+| Next Gen Software Solutions | Data Engineer (Ab Initio, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff199be74bdba33) | 2026-07-09 16:23 |
 | Capgemini | Data / Database Engineer - SQL, Oracle, PL/SQL, Informatica, ETL, Powercenter | Irving, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=331ee6d2b9af53d4) | 2026-07-09 13:44 |
 | Capgemini | Google Cloud Native Architect | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bbc9bd01410ee94e) | 2026-07-09 13:44 |
 | Sonar | Cloud Platform Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1137912cd4930b5c) | 2026-07-09 13:44 |
 | mhtechin | Software Engineer – MHTECHIN (USA) | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b83f09563e0a3d38) | 2026-07-09 13:44 |
 | Capgemini | Java Angular Developer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b8a6f2b73f1fc2e3) | 2026-07-09 13:44 |
-| Next Gen Software Solutions | Data Engineer (Ab Initio, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff199be74bdba33) | 2026-07-09 13:44 |
 | Capgemini | Software Engineer - Java and Spring WebFlux | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94facea91683e65c) | 2026-07-09 13:44 |
 | Walgreens | Senior Software Engineer I | Deerfield, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=fab088046f1d5891) | 2026-07-09 10:51 |
 | Red Hat | Software Engineer | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e93e4cf30b4bd0a5) | 2026-07-09 10:51 |
