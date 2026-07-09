@@ -1,16 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-09 10:51
+Last updated: 2026-07-09 13:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Data / Database Engineer - SQL, Oracle, PL/SQL, Informatica, ETL, Powercenter | Irving, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=331ee6d2b9af53d4) | 2026-07-09 13:44 |
+| Capgemini | Google Cloud Native Architect | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bbc9bd01410ee94e) | 2026-07-09 13:44 |
+| Sonar | Cloud Platform Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1137912cd4930b5c) | 2026-07-09 13:44 |
+| mhtechin | Software Engineer – MHTECHIN (USA) | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b83f09563e0a3d38) | 2026-07-09 13:44 |
+| Capgemini | Java Angular Developer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b8a6f2b73f1fc2e3) | 2026-07-09 13:44 |
+| Next Gen Software Solutions | Data Engineer (Ab Initio, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff199be74bdba33) | 2026-07-09 13:44 |
+| Capgemini | Software Engineer - Java and Spring WebFlux | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94facea91683e65c) | 2026-07-09 13:44 |
 | Walgreens | Senior Software Engineer I | Deerfield, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=fab088046f1d5891) | 2026-07-09 10:51 |
 | Red Hat | Software Engineer | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e93e4cf30b4bd0a5) | 2026-07-09 10:51 |
 | Databricks | Sr. Forward Deployed Engineer - FDE - Digital Native Business | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43640f8dedff80ae) | 2026-07-09 10:51 |
 | Early Warning Services | Senior Cloud Engineer - Contract | Scottsdale, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d2f3fb5c23b3945) | 2026-07-09 10:51 |
-| Next Gen Software Solutions | Data Engineer (Ab Initio, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff199be74bdba33) | 2026-07-09 10:51 |
 | nan | Senior Analytics Engineer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e936a38ae1e760a) | 2026-07-09 10:51 |
 | Simbex | Senior Software Engineer - Cloud Services | Lebanon, NH, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2b9529a493965b7b) | 2026-07-09 07:35 |
 | Fitch Ratings | Senior Engineer - Data Platforms & Full Stack Applications | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=20da1d593ffe4713) | 2026-07-09 07:35 |
