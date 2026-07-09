@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-09 18:46
+Last updated: 2026-07-09 20:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| General Dynamics Information Technology | Penetration Tester | IN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8b2d7835a40e0de0) | 2026-07-09 20:42 |
+| TIAA | Sr. AI/ML Engineer | Iselin, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4952bffe58e2575f) | 2026-07-09 20:42 |
+| Infor | Cloud Database Administrator, Sr. | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e485e5057086c57b) | 2026-07-09 20:42 |
+| IGT | Data Engineer II | Providence, RI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ccfeb0ae91c8b22c) | 2026-07-09 20:42 |
+| Coastal | Data Platform Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4f8ebe939dba44ab) | 2026-07-09 20:42 |
+| Compass Group USA | SENIOR DEVELOPER, BUSINESS INTELLIGENCE & PROJECTS (CHARLOTTE, NC) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a6eb4884631c4944) | 2026-07-09 20:42 |
+| Next Gen Software Solutions | Data Engineer (Ab Initio, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff199be74bdba33) | 2026-07-09 20:42 |
 | Qode | Java Application Developer | Township of Jackson, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=26394a63af389d62) | 2026-07-09 18:46 |
 | Qode | Java Application Developer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2ba1ec9e7778b066) | 2026-07-09 18:46 |
 | Master Electronics | Data Scientist II | Phoenix, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8c73446a5f5a2ca0) | 2026-07-09 18:46 |
@@ -16,7 +23,6 @@ Last updated: 2026-07-09 18:46
 | MetLife | Junior Software Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6efe4d9a822bce57) | 2026-07-09 18:46 |
 | Crider Foods | Data Analytics Developer | Stillmore, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b4013e80d3a58db) | 2026-07-09 18:46 |
 | HCLTech | Senior Solution Architect | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=28f2d5502617e455) | 2026-07-09 18:46 |
-| Next Gen Software Solutions | Data Engineer (Ab Initio, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff199be74bdba33) | 2026-07-09 18:46 |
 | Toyota North America | Data Scientist - Optimization | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d14e0caa3293192) | 2026-07-09 18:46 |
 | Core specialty | IT Enterprise Architect | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a94b4fce819533c6) | 2026-07-09 18:46 |
 | NCSA College Recruiting | Fullstack Engineer, Marketing | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f9f56162e38c2b1) | 2026-07-09 18:46 |
