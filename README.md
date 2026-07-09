@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-08 22:02
+Last updated: 2026-07-09 00:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Senior Software Engineer | Basking Ridge, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=71f5c842f42b9fab) | 2026-07-09 00:00 |
+| Travelers | Senior Software Engineer (AWS, Node) | Saint Paul, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d7fbe872d043151b) | 2026-07-09 00:00 |
+| New Relic | Implementation Solutions Architect | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d70cdcaee06adcf4) | 2026-07-09 00:00 |
+| BehaviorSpan | Acquire-Site Reliability Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cccf8a44263a0130) | 2026-07-09 00:00 |
+| NTT DATA | Data Engineer - Oracle data integrato and BI | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea82fd770b87f655) | 2026-07-09 00:00 |
+| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32c645cbff1d3870) | 2026-07-09 00:00 |
+| Wells Fargo | Senior Software Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4d24d0af560e9bfb) | 2026-07-09 00:00 |
+| Wells Fargo | Senior Software Engineer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9885cdd8f6f0e5fc) | 2026-07-09 00:00 |
+| Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=98424ae5c6548f2d) | 2026-07-09 00:00 |
+| Costco Wholesale | BI Engineer - Data Analytics | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2771eb078ba01ae6) | 2026-07-09 00:00 |
+| Copart, Inc | DevOps Engineering Intern | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c3c1a2d78dbef72) | 2026-07-09 00:00 |
+| Next Gen Software Solutions | Data Engineer (Ab Initio, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff199be74bdba33) | 2026-07-09 00:00 |
 | Tata Consultancy Services (TCS) | Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=e3863b07cca34df6) | 2026-07-08 22:02 |
 | Tata Consultancy Services (TCS) | AI Enterprise Architect | Seattle, WA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2bf6ebaa193170fe) | 2026-07-08 22:02 |
 | Alchemy | GCP Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e852f89aa147a38) | 2026-07-08 22:02 |
