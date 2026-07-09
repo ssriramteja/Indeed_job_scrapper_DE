@@ -1,18 +1,34 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-09 16:23
+Last updated: 2026-07-09 18:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Qode | Java Application Developer | Township of Jackson, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=26394a63af389d62) | 2026-07-09 18:46 |
+| Qode | Java Application Developer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2ba1ec9e7778b066) | 2026-07-09 18:46 |
+| Master Electronics | Data Scientist II | Phoenix, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8c73446a5f5a2ca0) | 2026-07-09 18:46 |
+| HCLTech | Senior Solution Architect | Jersey City, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1bdb739be063e00a) | 2026-07-09 18:46 |
+| HCLTech | AI/ML Solutions Architect - PostgreSQL | San Antonio, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4d883bc65769a81) | 2026-07-09 18:46 |
+| Paychex, Inc. | Data Solutions Engineer | Rochester, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3044d3acb77883ad) | 2026-07-09 18:46 |
+| CSAA Insurance Group, a AAA Insurer | API/Microservices/AWS Software Engineer - Remote | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=12e8643c707d53bb) | 2026-07-09 18:46 |
+| MetLife | Junior Software Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6efe4d9a822bce57) | 2026-07-09 18:46 |
+| Crider Foods | Data Analytics Developer | Stillmore, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b4013e80d3a58db) | 2026-07-09 18:46 |
+| HCLTech | Senior Solution Architect | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=28f2d5502617e455) | 2026-07-09 18:46 |
+| Next Gen Software Solutions | Data Engineer (Ab Initio, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff199be74bdba33) | 2026-07-09 18:46 |
+| Toyota North America | Data Scientist - Optimization | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d14e0caa3293192) | 2026-07-09 18:46 |
+| Core specialty | IT Enterprise Architect | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a94b4fce819533c6) | 2026-07-09 18:46 |
+| NCSA College Recruiting | Fullstack Engineer, Marketing | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f9f56162e38c2b1) | 2026-07-09 18:46 |
+| NCSA College Recruiting | Fullstack Engineer, Marketing | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c291169defa77d17) | 2026-07-09 18:46 |
+| IMG Academy | Fullstack Engineer, Marketing | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=362edf60a4890cb4) | 2026-07-09 18:46 |
+| IMG Academy | Fullstack Engineer, Marketing | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=442d3e11f0a53f4c) | 2026-07-09 18:46 |
 | Alarm.com | DevOps Engineer | Tysons Corner, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=481d923fb039795b) | 2026-07-09 16:23 |
 | Alarm.com | DevOps Engineer | Lawrence, KS, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=41414a51a1f25bae) | 2026-07-09 16:23 |
 | Capgemini | Python Data Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a6b715c5b39bb01) | 2026-07-09 16:23 |
 | nan | Data Infrastructure Architect | Manhattan, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5b2d6340b7dbd35b) | 2026-07-09 16:23 |
 | Tata Consultancy Services (TCS) | Python AI Engineer | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e793e39138e9c31) | 2026-07-09 16:23 |
 | nan | Senior Product Software Engineer | Glendale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc5c72de81426773) | 2026-07-09 16:23 |
-| Next Gen Software Solutions | Data Engineer (Ab Initio, Flink) \| Berkeley Heights, NJ (5 Days Onsite) \| Contract W2 only | Berkeley Heights, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff199be74bdba33) | 2026-07-09 16:23 |
 | Capgemini | Data / Database Engineer - SQL, Oracle, PL/SQL, Informatica, ETL, Powercenter | Irving, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=331ee6d2b9af53d4) | 2026-07-09 13:44 |
 | Capgemini | Google Cloud Native Architect | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bbc9bd01410ee94e) | 2026-07-09 13:44 |
 | Sonar | Cloud Platform Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1137912cd4930b5c) | 2026-07-09 13:44 |
