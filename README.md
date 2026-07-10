@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-10 13:05
+Last updated: 2026-07-10 16:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Virtualan Software | Data Warehouse Architect | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7cf961188cdaacb2) | 2026-07-10 16:15 |
+| IPolarity LLC | AWS Backend Engineer Charlotte NC Hybrid or remote EST hours | Whippany, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4dea8d177ae32964) | 2026-07-10 16:15 |
+| Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3bbc3e06adaa2abd) | 2026-07-10 16:15 |
+| Dexter Systems Inc | VDH Oracle OCI Cloud Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2f9f08ad500594a0) | 2026-07-10 16:15 |
+| Apollo Technology Solutions LLC | Oracle OCI Cloud Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=417e45e2898523c2) | 2026-07-10 16:15 |
+| KBR | Senior Power BI Developer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a875401eb258187) | 2026-07-10 16:15 |
+| nan | Product Software Engineer I | Bristol, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff3a46155c05ef2) | 2026-07-10 16:15 |
+| I20 Technologies | Mainframe Programmer-Only W2 | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=653c4bccd321e6c0) | 2026-07-10 16:15 |
 | spire | Software Engineer - RFGL Systems | Vienna, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=89801ccb77279e9e) | 2026-07-10 13:05 |
 | EPAM Systems | Senior Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a4e2d662db85631) | 2026-07-10 13:05 |
 | EPAM Systems | Senior Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab4f84010a2ac741) | 2026-07-10 13:05 |
@@ -404,13 +412,6 @@ Last updated: 2026-07-10 13:05
 | Qode | Senior Databricks Architect | Almont, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=01bd0155c82472f6) | 2026-07-06 18:05 |
 | Koya Consulting | Functional Netsuite Developer | Garden Grove, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b420712f769081b2) | 2026-07-06 18:05 |
 | Qarbon Aerospace | IT Business Intelligence Engineer | Red Oak, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=753cae0999113ea0) | 2026-07-06 18:05 |
-| Luxoft | Senior Data Engineer | Salisbury, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebaeeabafbe5553f) | 2026-07-06 15:15 |
-| Luxoft | Senior Data Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c36cf1a20fa03687) | 2026-07-06 15:15 |
-| Luxoft | Senior Data Engineer | Quincy, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=104030bc904b311c) | 2026-07-06 15:15 |
-| CareScout | Senior ML/AI Engineer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2d7ecec511e40ddd) | 2026-07-06 15:15 |
-| JPS Tech Solutions pvt ltd | Senior Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eeca00e004c5b061) | 2026-07-06 15:15 |
-| Infor | Software Engineer, Associate | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0971a287a1cb34b9) | 2026-07-06 15:15 |
-| CareScout | Senior Data Engineer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd4120e8feb4ee57) | 2026-07-06 15:15 |
 
 
 ---
