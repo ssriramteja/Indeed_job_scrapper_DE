@@ -1,11 +1,48 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-10 02:51
+Last updated: 2026-07-10 06:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Pyspark Developer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=a82f91b9a65887ff) | 2026-07-10 06:34 |
+| BV Teck | Hadoop Big Data Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=196ccad2f6f2f3d2) | 2026-07-10 06:34 |
+| BV Teck | Hadoop Solutions Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=9395d6c7357009c6) | 2026-07-10 06:34 |
+| CSW Industrials | Senior Data Engineer (Hybrid, Houston based) | Houston, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=53bfcfec62e19f29) | 2026-07-10 06:34 |
+| Tata Consultancy Services (TCS) | AWS Infrastructure Administrator | San Francisco, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=cefedbcaa538cf57) | 2026-07-10 06:34 |
+| Capgemini | AWS Data Engineer | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=62196b8dbe66970e) | 2026-07-10 06:34 |
+| Samsung Electronics | Sr. Data Engineer | Los Angeles, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1140218fae3fb0d5) | 2026-07-10 06:34 |
+| Sakata Seed America | Data Engineer | Woodland, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c1e7d9e5049677eb) | 2026-07-10 06:34 |
+| Sakata Seed America | Data Engineer | Burlington, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f85a5637990f1a7b) | 2026-07-10 06:34 |
+| Allianz | Senior Consultant - Data & AI Solutions | Minneapolis, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=372415265e34d8ed) | 2026-07-10 06:34 |
+| BV Teck | Senior Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0a5e9d5cba26954e) | 2026-07-10 06:34 |
+| BV Teck | OCI Cloud Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d12c26eacfb536a8) | 2026-07-10 06:34 |
+| BV Teck | OCI Solutions Architect | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=36b12e3c131ec5cd) | 2026-07-10 06:34 |
+| BV Teck | Kafka Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=413403577257e647) | 2026-07-10 06:34 |
+| Capgemini | Microsoft Fabric Expert with Data Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a4a226f53d4c7a4f) | 2026-07-10 06:34 |
+| Intone Networks | Senior AWS Platform Engineer | Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa20e78aa361630b) | 2026-07-10 06:34 |
+| Capgemini | Azure Databrick with Anaplan | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=855e7c38ba45b423) | 2026-07-10 06:34 |
+| Samsung Electronics | Sr. Data Engineer | Mountain View, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c5023af7cec558f8) | 2026-07-10 06:34 |
+| BV Teck | Enterprise Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8f84b9c269d8e5a4) | 2026-07-10 06:34 |
+| Capgemini | Java Full Stack Senior Developer/Architect | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e99915da50a7bb6f) | 2026-07-10 06:34 |
+| Capgemini | Java Full Stack Senior Developer/Architect | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a200f94e750ddac1) | 2026-07-10 06:34 |
+| Capgemini | AWS Data Scientist | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=91a211ab014dbb4d) | 2026-07-10 06:34 |
+| Capgemini | AWS Data Scientist | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=39cf159ea2d58917) | 2026-07-10 06:34 |
+| Capgemini | Associate Data Engineer- GCP | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f4a31dee92110efa) | 2026-07-10 06:34 |
+| Commerce | Cloud Integration Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c04f106fe6e2d145) | 2026-07-10 06:34 |
+| Commerce | Cloud Integration Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=101d501682b81b7d) | 2026-07-10 06:34 |
+| Mando Technologies | Junior Data Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3d2a0ae912a8fa54) | 2026-07-10 06:34 |
+| BV Teck | Senior Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a8ee8d8c39ebb4d7) | 2026-07-10 06:34 |
+| BV Teck | Python Software Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=007b8f6862521e51) | 2026-07-10 06:34 |
+| GM Financial | DevOps Automation Engineer III | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=825f817628cb4742) | 2026-07-10 06:34 |
+| JPMorganChase | AI Developer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ff40ea722f15df2) | 2026-07-10 06:34 |
+| Milwaukee Tool | Business Intelligence Engineer | Menomonee Falls, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f03558ae01650be1) | 2026-07-10 06:34 |
+| BV Teck | OpenShift Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=271dcdc0e7909a8b) | 2026-07-10 06:34 |
+| BV Teck | OpenShift Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85153896cc342db7) | 2026-07-10 06:34 |
+| BV Teck | Container Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=745d465581f34366) | 2026-07-10 06:34 |
+| Cognizant | Data Scientist with strong Algorithm experience | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b6714d23df870368) | 2026-07-10 06:34 |
+| SchoolsFirst Federal Credit Union | Splunk Administrator (Site Reliability Engineer) | Tustin, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb8c3e2d1baf5021) | 2026-07-10 06:34 |
 | Gen Digital Inc. | Senior Data Engineer - Data Platform & Martech Engineering | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5c5cb397b1e7e030) | 2026-07-10 02:51 |
 | Spire Orthopedic Partners | BI Engineer | Stamford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=97ca3daded6ed547) | 2026-07-10 02:51 |
 | Capgemini | System Engineer US L4 | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0e58ba3dd4322234) | 2026-07-10 02:51 |
