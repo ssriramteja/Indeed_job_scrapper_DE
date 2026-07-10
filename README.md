@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-10 06:34
+Last updated: 2026-07-10 10:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | FullStack Engineer (AWS AI) | Malvern, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bfeac083f625981a) | 2026-07-10 10:15 |
+| Site Technologies | Senior Backend Software Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c49ace417083d1b7) | 2026-07-10 10:15 |
+| Rocket | Data Engineer II | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ae380943be2d74d9) | 2026-07-10 10:15 |
+| Spire Global | Software Engineer - RFGL Systems | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2c0258502fd0ff63) | 2026-07-10 10:15 |
+| Capgemini | AWS Data Scientist | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0e66310e18f4395c) | 2026-07-10 10:15 |
+| nan | Software Engineer II - AI Solutions | King of Prussia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7c3bb69b56a9898d) | 2026-07-10 10:15 |
+| Wayfair | Software Engineer II, Search and Recommendations | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=061f6f2d8cb79161) | 2026-07-10 10:15 |
+| Wayfair | Software Engineer II, Search and Recommendations | Mountain View, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fce26e8abb6b4999) | 2026-07-10 10:15 |
+| Boston University | LEARNING FACILITATOR, Office of the Provost | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6964850806458d5d) | 2026-07-10 10:15 |
+| Scotiabank | Senior Software Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb1f2f31f27654c4) | 2026-07-10 10:15 |
+| Cotiviti | Software Engineer-Java / Drools/ Bitbucket | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7696896ee985fdf6) | 2026-07-10 10:15 |
+| Photon | API Developer - Springfield, USA | Springfield, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df731ec2d7c03c42) | 2026-07-10 10:15 |
 | Tata Consultancy Services (TCS) | Pyspark Developer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=a82f91b9a65887ff) | 2026-07-10 06:34 |
 | BV Teck | Hadoop Big Data Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=196ccad2f6f2f3d2) | 2026-07-10 06:34 |
 | BV Teck | Hadoop Solutions Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=9395d6c7357009c6) | 2026-07-10 06:34 |
