@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-10 16:15
+Last updated: 2026-07-10 18:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| IPolarity LLC | Senior AWS Data Engineer-Cloud Data Engineer | Whippany, NJ, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=60269398d79f897f) | 2026-07-10 18:17 |
+| JPMorganChase | Software Engineer III-Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=c568f2158282b6b6) | 2026-07-10 18:17 |
+| Capgemini | Senior Java Full Stack React JS Developer | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=edf4fcd75c4cabd0) | 2026-07-10 18:17 |
+| EXL | Senior Data Engineer-Databricks | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5d62bcdf946e0e2c) | 2026-07-10 18:17 |
+| KPIT Technologies | Sr. Data Engineer | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=04e3e46ee8cd3dca) | 2026-07-10 18:17 |
+| Voya Financial | Sr Solutions Architect – Digital/Data Platforms (Azure & Databricks) | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fa96bcf178495d44) | 2026-07-10 18:17 |
+| nan | Senior Solutions Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c2a4a548edfa2d2) | 2026-07-10 18:17 |
+| CSafe Global | Data Engineer | Monroe, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=16156455b2efb342) | 2026-07-10 18:17 |
+| The Misch Group | Software Architect | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=16bc903fb906c0bd) | 2026-07-10 18:17 |
+| Verisk | Sr. QA Analyst | Woburn, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=accd204a168b9099) | 2026-07-10 18:17 |
+| Restaurant Brands International | Sr. AI Enablement Engineer | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be4e4b82078b11e4) | 2026-07-10 18:17 |
+| TDS Global Solutions | Customer Experience (CX) Technology, Engineering & Product Professionals | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c6599b1124e4e45f) | 2026-07-10 18:17 |
+| Smart Tech Skills LLC | Supply Chain Business Analyst | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f19070dba73bb1c5) | 2026-07-10 18:17 |
+| The McPherson Companies, Inc | Data Engineer / API Integration Developer | Trussville, AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=971c85159c133be2) | 2026-07-10 18:17 |
+| KBR | Senior Power BI Developer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dedb843e72fa5a35) | 2026-07-10 18:17 |
+| KBR | Senior Power BI Developer | Chantilly, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b07c53e098cdc93c) | 2026-07-10 18:17 |
 | Virtualan Software | Data Warehouse Architect | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7cf961188cdaacb2) | 2026-07-10 16:15 |
 | IPolarity LLC | AWS Backend Engineer Charlotte NC Hybrid or remote EST hours | Whippany, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4dea8d177ae32964) | 2026-07-10 16:15 |
 | Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3bbc3e06adaa2abd) | 2026-07-10 16:15 |
@@ -406,12 +422,6 @@ Last updated: 2026-07-10 16:15
 | nan | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3665a915e740dcb6) | 2026-07-06 20:46 |
 | Fidelity TalentSource | Power BI Developer | Westlake, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f427c7860949a82) | 2026-07-06 20:46 |
 | Flexjet, LLC. | Senior Data Scientist | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ec02878ccd2d529) | 2026-07-06 20:46 |
-| DailyPay Inc | Senior Machine Learning Engineer | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=fdb05c2c61999715) | 2026-07-06 18:05 |
-| Neptune Technology Group | Senior Data Engineer - Technology | Duluth, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=29bdb97431796fc6) | 2026-07-06 18:05 |
-| MITSUBISHI ELECTRIC ICONICS DIGITAL SOLUTIONS | Senior Software Development Engineer | Cambridge, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d912db59816e5636) | 2026-07-06 18:05 |
-| Qode | Senior Databricks Architect | Almont, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=01bd0155c82472f6) | 2026-07-06 18:05 |
-| Koya Consulting | Functional Netsuite Developer | Garden Grove, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b420712f769081b2) | 2026-07-06 18:05 |
-| Qarbon Aerospace | IT Business Intelligence Engineer | Red Oak, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=753cae0999113ea0) | 2026-07-06 18:05 |
 
 
 ---
