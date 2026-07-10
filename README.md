@@ -1,11 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-09 23:58
+Last updated: 2026-07-10 02:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Gen Digital Inc. | Senior Data Engineer - Data Platform & Martech Engineering | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5c5cb397b1e7e030) | 2026-07-10 02:51 |
+| Spire Orthopedic Partners | BI Engineer | Stamford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=97ca3daded6ed547) | 2026-07-10 02:51 |
+| Capgemini | System Engineer US L4 | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0e58ba3dd4322234) | 2026-07-10 02:51 |
+| Capgemini | AWS Data Scientist | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9d078162c8ac8e2b) | 2026-07-10 02:51 |
+| Coreforce | Senior Data Architect | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=88ee86c32dd547a8) | 2026-07-10 02:51 |
+| Ad Hoc | Senior Cloud Network Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f9b291edd09486e1) | 2026-07-10 02:51 |
+| Deloitte | Software Engineer III- AI & Engineering/Software as a Service | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=948a2c5f37b820dc) | 2026-07-10 02:51 |
+| NVIDIA | Senior Data Engineer, Engineering Data Analytics | Santa Clara, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=391a7c687426739b) | 2026-07-10 02:51 |
+| NVIDIA | Senior Databricks Developer, SAP S/4 Data Products and Governance | Santa Clara, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee20fa8ee7d3e166) | 2026-07-10 02:51 |
+| Capgemini | Data Engineer (AWS & Snowflake) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8aa1ab37d34c6e8f) | 2026-07-10 02:51 |
+| Strada Education Network | Associate Client Data Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=03bec2c752012f13) | 2026-07-10 02:51 |
+| General Motors (GM) | Sr Software Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50a380c35ffe71f3) | 2026-07-10 02:51 |
+| Capgemini | Senior Data Engineer / Analytics Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=075b3631b7fd3201) | 2026-07-10 02:51 |
+| Sonora Quest Laboratories | Software Engineer II | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=908b181e68af5318) | 2026-07-10 02:51 |
+| Banner Health | Software Engineer II | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83d5ef8294abc2e4) | 2026-07-10 02:51 |
+| Soulside AI | Full Stack Developer (USA, Remote) | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad3f3e0423505c3f) | 2026-07-10 02:51 |
+| Lowenstein Sandler | Senior Software Engineer | Roseland, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b7443df35076432f) | 2026-07-10 02:51 |
 | RectorSeal | Senior Data Engineer (Hybrid, Houston based) | Houston, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=56bf46bcdf3a7d3e) | 2026-07-09 23:58 |
 | Dominion Energy | Senior Data Engineer/ Data Engineer (RICHMOND, VA, US, 23219) | Richmond, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a62b0f3021eecff3) | 2026-07-09 23:58 |
 | AmeriHealth Caritas | Data Management Business Systems Analyst Senior | Newtown Square, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ffe8b4359c9f57e8) | 2026-07-09 23:58 |
