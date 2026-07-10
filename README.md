@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-10 21:52
+Last updated: 2026-07-10 22:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tesla | Data Engineer | Sparks, NV, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c8e383943021fcf6) | 2026-07-10 22:52 |
+| Bhuvi IT Solutions | Full Stack Java Developer | Cincinnati, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=234f12eba397b477) | 2026-07-10 22:52 |
+| South College | Database Engineer | Knoxville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7ec2a4011d2b744c) | 2026-07-10 22:52 |
+| Fidelity Investments | Senior Software engineer | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c7eaaaa4374b1b66) | 2026-07-10 22:52 |
+| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-10 22:52 |
+| JPMorganChase | Software Engineer II - Big Data & AWS | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cff2100868d24cad) | 2026-07-10 22:52 |
+| Textron | Developer II | Providence, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2fd891eedd7d004) | 2026-07-10 22:52 |
 | Tata Consultancy Services (TCS) | Developer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=2e8567ad208bdc93) | 2026-07-10 21:52 |
 | RWE | Senior Software Engineer II | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=094b99fc9faf620d) | 2026-07-10 21:52 |
 | Pantherx Specialty Llc | Senior Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=248b5eaae24b8d28) | 2026-07-10 21:52 |
@@ -25,7 +32,6 @@ Last updated: 2026-07-10 21:52
 | Moxie Pest Control | System Engineer - Automation | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d86659fb0c9981b7) | 2026-07-10 21:52 |
 | Delinea | Senior Software Engineer – Platform Services | Redwood City, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4f0a023332a0c5fd) | 2026-07-10 21:52 |
 | Pantherx Specialty Llc | Senior Analytics Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=31c0459cc1b7e4dd) | 2026-07-10 21:52 |
-| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-10 21:52 |
 | Marana Health | Information Technology - Senior Data Engineer | Marana, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=521143d7768e20ca) | 2026-07-10 21:52 |
 | Tiger Analytics | GCP Data Engineer | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40622e5a0a996f23) | 2026-07-10 21:52 |
 | Tata Consultancy Services (TCS) | Java Backend developer | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a04605f9f4b5ba99) | 2026-07-10 21:52 |
@@ -434,12 +440,6 @@ Last updated: 2026-07-10 21:52
 | Capgemini | Java Angular Developer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2513c2da5e1dcae7) | 2026-07-06 23:59 |
 | Associated Bank | Technical Product Owner - Snowflake | WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee15581de1910c63) | 2026-07-06 23:59 |
 | FHLBank San Francisco | Sr. Data Engineer II, Assoc.Dir. | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=959dfa60ea3aa32b) | 2026-07-06 23:59 |
-| Tata Consultancy Services (TCS) | Software Developer, Business Intelligence Analyst | Apex, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cf35f133cdd540ed) | 2026-07-06 22:06 |
-| Blue Sentry Cloud | Senior Engineer (Azure, Terraform, Kubernetes) | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=adfc859f88eb2915) | 2026-07-06 22:06 |
-| Tata Consultancy Services (TCS) | Engineer | Pittsburgh, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=63633a8200979a09) | 2026-07-06 22:06 |
-| R1 RCM | Sr. Analytics Analyst | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1d98ab236da7f358) | 2026-07-06 22:06 |
-| Tata Consultancy Services (TCS) | Software Developer | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6266f795f6f70349) | 2026-07-06 22:06 |
-| Amplify | Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=660813ceffa3da5b) | 2026-07-06 22:06 |
 
 
 ---
