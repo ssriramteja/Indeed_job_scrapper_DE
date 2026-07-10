@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-10 10:15
+Last updated: 2026-07-10 13:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| spire | Software Engineer - RFGL Systems | Vienna, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=89801ccb77279e9e) | 2026-07-10 13:05 |
+| EPAM Systems | Senior Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a4e2d662db85631) | 2026-07-10 13:05 |
+| EPAM Systems | Senior Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab4f84010a2ac741) | 2026-07-10 13:05 |
+| Edward Jones | Engineer III | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53d30893c6d70cfe) | 2026-07-10 13:05 |
 | Capgemini | FullStack Engineer (AWS AI) | Malvern, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bfeac083f625981a) | 2026-07-10 10:15 |
 | Site Technologies | Senior Backend Software Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c49ace417083d1b7) | 2026-07-10 10:15 |
 | Rocket | Data Engineer II | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ae380943be2d74d9) | 2026-07-10 10:15 |
@@ -407,9 +411,6 @@ Last updated: 2026-07-10 10:15
 | JPS Tech Solutions pvt ltd | Senior Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eeca00e004c5b061) | 2026-07-06 15:15 |
 | Infor | Software Engineer, Associate | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0971a287a1cb34b9) | 2026-07-06 15:15 |
 | CareScout | Senior Data Engineer | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd4120e8feb4ee57) | 2026-07-06 15:15 |
-| Ciklum | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3be0a56ac2778b38) | 2026-07-06 11:56 |
-| Ciklum | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ea4b690f84b839f4) | 2026-07-06 11:56 |
-| Colgate-Palmolive | Data Architect | Piscataway, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f573c104948a88be) | 2026-07-06 11:56 |
 
 
 ---
