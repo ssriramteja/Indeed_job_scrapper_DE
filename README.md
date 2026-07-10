@@ -1,16 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-10 22:52
+Last updated: 2026-07-10 23:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Senior Java Full Stack React JS Developer | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0649029a69d1d2a1) | 2026-07-10 23:50 |
+| Newpage Digital Healthcare solutions | AI Native Builder-Europe | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=117cf58c0cc74040) | 2026-07-10 23:50 |
+| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-10 23:50 |
+| Pindrop | Senior Software Engineer (Platform Core) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0ca782c004240a6c) | 2026-07-10 23:50 |
+| Electronic Arts | AI Solution Architect - Enterprise Intelligence | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a3913715bcf2ea8f) | 2026-07-10 23:50 |
+| Brigham Young University | Full-Stack Software Developer | Provo, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=927a1a9e76672e0a) | 2026-07-10 23:50 |
+| Zensar Technologies | Computer Programmer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f7b6f75590ec5d1) | 2026-07-10 23:50 |
 | Tesla | Data Engineer | Sparks, NV, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c8e383943021fcf6) | 2026-07-10 22:52 |
 | Bhuvi IT Solutions | Full Stack Java Developer | Cincinnati, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=234f12eba397b477) | 2026-07-10 22:52 |
 | South College | Database Engineer | Knoxville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7ec2a4011d2b744c) | 2026-07-10 22:52 |
 | Fidelity Investments | Senior Software engineer | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c7eaaaa4374b1b66) | 2026-07-10 22:52 |
-| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-10 22:52 |
 | JPMorganChase | Software Engineer II - Big Data & AWS | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cff2100868d24cad) | 2026-07-10 22:52 |
 | Textron | Developer II | Providence, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2fd891eedd7d004) | 2026-07-10 22:52 |
 | Tata Consultancy Services (TCS) | Developer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=2e8567ad208bdc93) | 2026-07-10 21:52 |
