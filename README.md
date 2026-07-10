@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-10 18:17
+Last updated: 2026-07-10 20:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Polar Semiconductor | Sr. Financial Systems Analyst | Bloomington, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23d719ff138e1d) | 2026-07-10 20:14 |
+| Salesforce | Full-Stack Developer - Platform Services SMTS | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=77306632aba3d62a) | 2026-07-10 20:14 |
+| Wipro | GCP Data Engineer | Santa Clara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca8d0f916325965c) | 2026-07-10 20:14 |
+| RUSSELL INVESTMENTS | Data Platform Engineer II | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7647430742e0e326) | 2026-07-10 20:14 |
+| Two Six Technologies | Data Collection Engineer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4fa42b4ae7575796) | 2026-07-10 20:14 |
 | IPolarity LLC | Senior AWS Data Engineer-Cloud Data Engineer | Whippany, NJ, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=60269398d79f897f) | 2026-07-10 18:17 |
 | JPMorganChase | Software Engineer III-Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=c568f2158282b6b6) | 2026-07-10 18:17 |
 | Capgemini | Senior Java Full Stack React JS Developer | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=edf4fcd75c4cabd0) | 2026-07-10 18:17 |
