@@ -1,12 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-11 07:06
+Last updated: 2026-07-11 09:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-11 07:06 |
+| General Motors (GM) | Software Engineer | Warren, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ba2f5df91db55ec9) | 2026-07-11 09:18 |
+| General Motors (GM) | Senior Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c380088294d31182) | 2026-07-11 09:18 |
+| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-11 09:18 |
+| Point One Navigation | Senior DevOps Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b1b105ae72cedfb) | 2026-07-11 09:18 |
+| Point One Navigation | Senior DevOps Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=894f57d9a1c304cf) | 2026-07-11 09:18 |
+| Plymouth Rock Assurance | Data Engineer Intern/Co-op | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2bafe231fd54f8af) | 2026-07-11 09:18 |
+| Plymouth Rock Assurance | Senior AWS Cloud Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1641a10b9bb89296) | 2026-07-11 09:18 |
 | Elevate Aviation Group | Data Engineer | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9383db09846c90f4) | 2026-07-11 04:55 |
 | Intone Networks | DevOps Architect | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c1f3cc801c79c8e7) | 2026-07-11 04:55 |
 | nan | Senior Data Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=939e008d96e1a463) | 2026-07-11 04:55 |
@@ -439,13 +445,6 @@ Last updated: 2026-07-11 07:06
 | Emory University | Data Engineer II - OIT | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=09fc6de306f65311) | 2026-07-07 10:46 |
 | Acceldata | Sales Engineer - Hadoop Observability & Open Data Platform | Washington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3a16dbc986934bf) | 2026-07-07 10:46 |
 | 7-Eleven | Software Engineer - Backend Developer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=badbffd0b2447e21) | 2026-07-07 10:46 |
-| Cummins | Data Engineer - Senior | IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f98bbbcdc847f11c) | 2026-07-07 07:29 |
-| Capgemini | GCP Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=22caac5643ade2f5) | 2026-07-07 07:29 |
-| Pero Family Farms | AI Application Developer | Delray Beach, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c027e67f35f12298) | 2026-07-07 07:29 |
-| Capgemini | Google Cloud Native Architect | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1e83a17dc9fa84d8) | 2026-07-07 07:29 |
-| ProCare solutions | Senior Software Engineer | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7c3650e6daa027c0) | 2026-07-07 07:29 |
-| Capgemini | GCP Data Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8965662ac1318ff5) | 2026-07-07 07:29 |
-| I8IS INC. | Data Engineer | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=15e79c2801587703) | 2026-07-07 07:29 |
 
 
 ---
