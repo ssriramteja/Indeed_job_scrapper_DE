@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-11 15:45
+Last updated: 2026-07-11 16:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Airbus | HR AI/ML Engineer II | Herndon, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7aee672823e50ae6) | 2026-07-11 16:44 |
+| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-11 16:44 |
 | nan | Data Engineer II | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=565b08a71b6647d2) | 2026-07-11 15:45 |
-| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-11 15:45 |
 | JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e6a9633dc466a51) | 2026-07-11 12:57 |
 | RWE | Senior Software Engineer II | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=275b7a8c06aa4c7e) | 2026-07-11 10:55 |
 | New York Life | Senior Associate - Full Stack Developer - Wealth Management Technology | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8bc74ef26d52ec8e) | 2026-07-11 10:55 |
@@ -442,11 +443,6 @@ Last updated: 2026-07-11 15:45
 | Forman Technology Group | Data Scientist | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b706dbf028db0cd8) | 2026-07-07 18:55 |
 | Park Place Technologies | Software Engineer | Highland Heights, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1f86de95c2e4071) | 2026-07-07 18:55 |
 | CrowdStrike | Software Engineer III - Cloud Security - FCS Registration (Hybrid) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e288afbe233b4df) | 2026-07-07 18:55 |
-| ComplexCare Solutions | Senior Software Data Architect (Phoenix) | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0402f3ddd34aabe8) | 2026-07-07 16:18 |
-| Capgemini | Data Architect | Arlington, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=748c7729e8f9ad32) | 2026-07-07 16:18 |
-| CSL Plasma | Co-Op Data Science/Analytics | King of Prussia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04d905bcd26c07f0) | 2026-07-07 16:18 |
-| Concept Plus | Data Integration Engineer / ETL Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=744245d6362a34a8) | 2026-07-07 16:18 |
-| nan | Power BI Architect - Pharma domain- W2 | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de37c16d0b1d6f5c) | 2026-07-07 16:18 |
 
 
 ---
