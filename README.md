@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-11 19:59
+Last updated: 2026-07-11 20:50
 
 ### 🚀 Daily Job Matches
 
@@ -405,29 +405,6 @@ Last updated: 2026-07-11 19:59
 | IMA Financial Group | Business Intelligence Developer | Wichita, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=64c474cf1adc8532) | 2026-07-07 22:05 |
 | Zelis Healthcare | Cost Engineer | MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=078e1151a7e26811) | 2026-07-07 22:05 |
 | Cognizant | Senior Java Backend Engineer/ Java Microservices Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=71b106990543174f) | 2026-07-07 22:05 |
-| Quality Bicycle Products GBC / QBP | Sr Data Engineer BI | Bloomington, MN, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2bcb545e0d7339df) | 2026-07-07 20:45 |
-| nan | DevOps Engineer II - Data and Analytics | Oklahoma City, OK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53108c9bd68716fa) | 2026-07-07 20:45 |
-| nan | DevOps Engineer II - Data and Analytics | Oklahoma City, OK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f2217093bc52c879) | 2026-07-07 20:45 |
-| HP | Senior DevOps Engineer | Fort Collins, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7744c06eb8bcb1d6) | 2026-07-07 20:45 |
-| Kemper | Data Quality Engineer | Jacksonville, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bc73a795e20ebb26) | 2026-07-07 20:45 |
-| Kemper | Data Quality Engineer | Trenton, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f293050f94f852b1) | 2026-07-07 20:45 |
-| Kemper | Data Quality Engineer | Harrisburg, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b685af16a4e1a32c) | 2026-07-07 20:45 |
-| Kemper | Data Quality Engineer | Downers Grove, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=401ff47825aadd13) | 2026-07-07 20:45 |
-| Kemper | Data Quality Engineer | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cb43d49de8a46b2a) | 2026-07-07 20:45 |
-| Kemper | Data Quality Engineer | Birmingham, AL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f9fb77a8047e2cb8) | 2026-07-07 20:45 |
-| Kemper | Data Quality Engineer | Providence, RI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=72319d23cc87f97d) | 2026-07-07 20:45 |
-| Kemper | Data Quality Engineer | Alpharetta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bad85604b0a1225d) | 2026-07-07 20:45 |
-| Kemper | Data Quality Engineer | Richmond, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=af5d8aeb243630fb) | 2026-07-07 20:45 |
-| Kemper | Data Quality Engineer | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fad39d3239661981) | 2026-07-07 20:45 |
-| Kemper | Data Quality Engineer | Hartford, CT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6cbd10dae618111f) | 2026-07-07 20:45 |
-| Cranial Technologies | Site Reliability Software Engineer (Hybrid) | Tempe, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6409177a32a82f42) | 2026-07-07 20:45 |
-| CS Disco | Engineer, DevOps - Austin | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8b4fabdb31d720bc) | 2026-07-07 20:45 |
-| nan | AI Developer and Fintech | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=94608c3ac7b4dac5) | 2026-07-07 20:45 |
-| Exiger | Senior Database Administrator | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=859a8b68a930992d) | 2026-07-07 20:45 |
-| Exiger | Senior Database Administrator | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9d34fc4ec0585703) | 2026-07-07 20:45 |
-| Exiger | Senior Database Administrator | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ccc4b2641f8512d) | 2026-07-07 20:45 |
-| NFI Industries | Senior Data Engineer | Camden, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=850828fdab44abc4) | 2026-07-07 20:45 |
-| nProspect | Data Engineer - Senior | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59d7a15394ef2be5) | 2026-07-07 20:45 |
 
 
 ---
