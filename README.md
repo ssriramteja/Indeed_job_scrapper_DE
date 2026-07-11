@@ -1,13 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-11 18:46
+Last updated: 2026-07-11 19:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Ross Dress For Less | Engineer III | Dublin, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a1d894dc94f127d6) | 2026-07-11 18:46 |
-| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-11 18:46 |
 | Airbus | HR AI/ML Engineer II | Herndon, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7aee672823e50ae6) | 2026-07-11 16:44 |
 | nan | Data Engineer II | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=565b08a71b6647d2) | 2026-07-11 15:45 |
 | JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e6a9633dc466a51) | 2026-07-11 12:57 |
@@ -429,21 +428,6 @@ Last updated: 2026-07-11 18:46
 | Exiger | Senior Database Administrator | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ccc4b2641f8512d) | 2026-07-07 20:45 |
 | NFI Industries | Senior Data Engineer | Camden, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=850828fdab44abc4) | 2026-07-07 20:45 |
 | nProspect | Data Engineer - Senior | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59d7a15394ef2be5) | 2026-07-07 20:45 |
-| HAVI | Data Engineer | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=14e0af7fcb6718f5) | 2026-07-07 18:55 |
-| HAVI Logistics GmbH | Data Engineer | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1f7eb8898b893b80) | 2026-07-07 18:55 |
-| Transamerica | Specialist Software Engineering | Cedar Rapids, IA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e3bbc064985e6d03) | 2026-07-07 18:55 |
-| Dell Technologies | Senior Systems Engineer | NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2f059896b1dc8546) | 2026-07-07 18:55 |
-| nan | Agentic AI Engineer (AWS & Azure) | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ffc8098824f5428a) | 2026-07-07 18:55 |
-| Credit Acceptance | Senior Database Reliability Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f1770e68ca0a7f94) | 2026-07-07 18:55 |
-| itD Tech | Data Engineer IV (6226) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=966a231d0ac3ac5d) | 2026-07-07 18:55 |
-| IPolarity LLC | Senior Full Stack Developer - New York | Whippany, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8e5159354fa31a01) | 2026-07-07 18:55 |
-| NuAxis Innovations | Senior Data Architect | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f1f6d405ab4fefc) | 2026-07-07 18:55 |
-| CrowdStrike | Senior AI Infrastructure Engineer, LLM/AI Platforms | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3629f388c5998ab1) | 2026-07-07 18:55 |
-| BusPatrol | Senior Software Development Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=68a96aefdc270e6c) | 2026-07-07 18:55 |
-| GRP Solutions | Data Engineer | Dayton, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f578efcb4c089b6) | 2026-07-07 18:55 |
-| Forman Technology Group | Data Scientist | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b706dbf028db0cd8) | 2026-07-07 18:55 |
-| Park Place Technologies | Software Engineer | Highland Heights, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1f86de95c2e4071) | 2026-07-07 18:55 |
-| CrowdStrike | Software Engineer III - Cloud Security - FCS Registration (Hybrid) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e288afbe233b4df) | 2026-07-07 18:55 |
 
 
 ---
