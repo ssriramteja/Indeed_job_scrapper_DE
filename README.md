@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-11 09:18
+Last updated: 2026-07-11 10:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| RWE | Senior Software Engineer II | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=275b7a8c06aa4c7e) | 2026-07-11 10:55 |
+| New York Life | Senior Associate - Full Stack Developer - Wealth Management Technology | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8bc74ef26d52ec8e) | 2026-07-11 10:55 |
+| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-11 10:55 |
+| HCLTech | Senior Solution Architect | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b6f9e26dbe6cc6c) | 2026-07-11 10:55 |
 | General Motors (GM) | Software Engineer | Warren, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ba2f5df91db55ec9) | 2026-07-11 09:18 |
 | General Motors (GM) | Senior Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c380088294d31182) | 2026-07-11 09:18 |
-| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-11 09:18 |
 | Point One Navigation | Senior DevOps Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b1b105ae72cedfb) | 2026-07-11 09:18 |
 | Point One Navigation | Senior DevOps Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=894f57d9a1c304cf) | 2026-07-11 09:18 |
 | Plymouth Rock Assurance | Data Engineer Intern/Co-op | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2bafe231fd54f8af) | 2026-07-11 09:18 |
@@ -442,9 +445,6 @@ Last updated: 2026-07-11 09:18
 | CSL Plasma | Co-Op Data Science/Analytics | King of Prussia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04d905bcd26c07f0) | 2026-07-07 16:18 |
 | Concept Plus | Data Integration Engineer / ETL Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=744245d6362a34a8) | 2026-07-07 16:18 |
 | nan | Power BI Architect - Pharma domain- W2 | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de37c16d0b1d6f5c) | 2026-07-07 16:18 |
-| Emory University | Data Engineer II - OIT | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=09fc6de306f65311) | 2026-07-07 10:46 |
-| Acceldata | Sales Engineer - Hadoop Observability & Open Data Platform | Washington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a3a16dbc986934bf) | 2026-07-07 10:46 |
-| 7-Eleven | Software Engineer - Backend Developer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=badbffd0b2447e21) | 2026-07-07 10:46 |
 
 
 ---
