@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-11 04:55
+Last updated: 2026-07-11 07:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-11 07:06 |
 | Elevate Aviation Group | Data Engineer | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9383db09846c90f4) | 2026-07-11 04:55 |
 | Intone Networks | DevOps Architect | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c1f3cc801c79c8e7) | 2026-07-11 04:55 |
-| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-11 04:55 |
 | nan | Senior Data Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=939e008d96e1a463) | 2026-07-11 04:55 |
 | MTN | DevOps Engineer | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a1e14429b49571c) | 2026-07-11 04:55 |
 | Coreforce | Senior Software Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9969ce677805a3b0) | 2026-07-11 04:55 |
