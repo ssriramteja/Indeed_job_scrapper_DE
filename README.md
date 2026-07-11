@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-11 10:55
+Last updated: 2026-07-11 11:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-11 11:44 |
 | RWE | Senior Software Engineer II | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=275b7a8c06aa4c7e) | 2026-07-11 10:55 |
 | New York Life | Senior Associate - Full Stack Developer - Wealth Management Technology | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8bc74ef26d52ec8e) | 2026-07-11 10:55 |
-| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-11 10:55 |
 | HCLTech | Senior Solution Architect | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b6f9e26dbe6cc6c) | 2026-07-11 10:55 |
 | General Motors (GM) | Software Engineer | Warren, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ba2f5df91db55ec9) | 2026-07-11 09:18 |
 | General Motors (GM) | Senior Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c380088294d31182) | 2026-07-11 09:18 |
