@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-11 21:40
+Last updated: 2026-07-11 22:38
 
 ### 🚀 Daily Job Matches
 
@@ -389,22 +389,6 @@ Last updated: 2026-07-11 21:40
 | EnergyHub | Senior Software Engineer, C&I | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=deaff1cd6031383e) | 2026-07-07 23:48 |
 | EnergyHub | Senior Software Engineer, C&I | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=253a1410e2b36c94) | 2026-07-07 23:48 |
 | EnergyHub | Senior Software Engineer, C&I | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33fd0b602811c81f) | 2026-07-07 23:48 |
-| Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2d7891b7fbaff3f7) | 2026-07-07 22:05 |
-| Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4a787addd6be5560) | 2026-07-07 22:05 |
-| American Cancer Society | Research Application Support Engineer - Remote | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=60c86e0a3c8c7263) | 2026-07-07 22:05 |
-| Pacific Consulting | MuleSoft Developer | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8257cbceb473c52a) | 2026-07-07 22:05 |
-| Sorenson Communications | Machine Learning Engineer II | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5ab41305de4a58ac) | 2026-07-07 22:05 |
-| MetLife | Business Systems Analyst - Semantic Layer | Cary, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ac3ffb67df20da06) | 2026-07-07 22:05 |
-| The Hartford | GIS Software Engineer | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8d8c2320056095b2) | 2026-07-07 22:05 |
-| Virtusa | Data Architect | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2bf6fb4571a3c426) | 2026-07-07 22:05 |
-| TLN Worldwide Enterprises Inc | Data Engineer – Advanced Analytics & Fraud Detection | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=97e726717dc24fb3) | 2026-07-07 22:05 |
-| Grainger | Data Engineer III | Lake Forest, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=18521f120cecfb99) | 2026-07-07 22:05 |
-| Cognizant | Sr. Software Engineer-Java, Spring Boot (Onsite) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c7f4539113a6169) | 2026-07-07 22:05 |
-| Tata Consultancy Services (TCS) | Network Engineer | Cary, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7cbdf8c3d5d2aa6) | 2026-07-07 22:05 |
-| Cognizant | Data Scientist – Demand Forecasting | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fbd0bba4b9b97da0) | 2026-07-07 22:05 |
-| IMA Financial Group | Business Intelligence Developer | Wichita, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=64c474cf1adc8532) | 2026-07-07 22:05 |
-| Zelis Healthcare | Cost Engineer | MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=078e1151a7e26811) | 2026-07-07 22:05 |
-| Cognizant | Senior Java Backend Engineer/ Java Microservices Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=71b106990543174f) | 2026-07-07 22:05 |
 
 
 ---
