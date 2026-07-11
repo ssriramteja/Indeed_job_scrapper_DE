@@ -1,14 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-10 23:50
+Last updated: 2026-07-11 01:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Samsara | Senior Data Engineer II | Austin, TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=9b63e4891d06d760) | 2026-07-11 01:48 |
+| GEICO | Senior Data Engineer | Bethesda, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=adbee2c9c0e985dc) | 2026-07-11 01:48 |
+| nan | Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=057c8f8e8ea92f8c) | 2026-07-11 01:48 |
+| Analytica | Senior Data Engineer | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=da635d22afcd5e76) | 2026-07-11 01:48 |
+| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-11 01:48 |
+| Travelers | Sr Software Engineer | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d59203a860169de9) | 2026-07-11 01:48 |
+| Genentech | Machine Learning Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f19fe0e24c9417c4) | 2026-07-11 01:48 |
+| nan | Cloud Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ffb9a704d3643de) | 2026-07-11 01:48 |
+| Handshake | Senior Software Engineer, Machine Learning Infrastructure | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c5f1eb5fe027fb0) | 2026-07-11 01:48 |
+| Handshake | Senior Software Engineer, Machine Learning Infrastructure | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c03ea918065ec279) | 2026-07-11 01:48 |
+| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c55ccf18cdc7f7b) | 2026-07-11 01:48 |
+| L.A. Care Health Plan | Information Technology Development Operations Engineer II | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b16ef14984de3ac1) | 2026-07-11 01:48 |
+| Aivra Health | Junior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=651e0dbd42a31f53) | 2026-07-11 01:48 |
 | Capgemini | Senior Java Full Stack React JS Developer | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0649029a69d1d2a1) | 2026-07-10 23:50 |
 | Newpage Digital Healthcare solutions | AI Native Builder-Europe | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=117cf58c0cc74040) | 2026-07-10 23:50 |
-| AutoIQ - An Imperial Quest, LLC. Company | Full Stack Web Developer (Junior–Mid) | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29d2f14db96d8d8c) | 2026-07-10 23:50 |
 | Pindrop | Senior Software Engineer (Platform Core) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0ca782c004240a6c) | 2026-07-10 23:50 |
 | Electronic Arts | AI Solution Architect - Enterprise Intelligence | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a3913715bcf2ea8f) | 2026-07-10 23:50 |
 | Brigham Young University | Full-Stack Software Developer | Provo, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=927a1a9e76672e0a) | 2026-07-10 23:50 |
@@ -432,20 +444,6 @@ Last updated: 2026-07-10 23:50
 | PEARLY | Senior Software Engineer - Full Stack | Santa Barbara, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62e1461b847fc38f) | 2026-07-07 03:23 |
 | PEARLY | Senior Software Engineer - Full Stack | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0fb523a054e4136) | 2026-07-07 03:23 |
 | Amplify | Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=108facbefb6d2545) | 2026-07-07 03:23 |
-| Cwill | Data Engineer (Bilingual Mandarin Required) | City of Industry, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=83640374dcc1134d) | 2026-07-06 23:59 |
-| Cwill | Data Engineer (Bilingual Mandarin Required) | Cary, NC, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=bf10f975373c2da2) | 2026-07-06 23:59 |
-| L&T Technology Services Ltd. | Data Engineer | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8b1d05903802863d) | 2026-07-06 23:59 |
-| Neuberger Berman | Senior Technologist - Institutional Operations Technology | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1cf6b377d6b97198) | 2026-07-06 23:59 |
-| Siemens | Senior Software Engineer – Cloud-Native Applications | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=61eba61db8d1d33f) | 2026-07-06 23:59 |
-| Grid Elevated | Software Engineer | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=618a1dbe7d6ef58d) | 2026-07-06 23:59 |
-| Bristol Myers Squibb | Data Engineer, Clinical Operations | Princeton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d3a0103edeceecc7) | 2026-07-06 23:59 |
-| Synapse Health | Senior QA Engineer | Skokie, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=38a6c99045779145) | 2026-07-06 23:59 |
-| FINRA | Senior Software Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=101ca2c1e32226ed) | 2026-07-06 23:59 |
-| FINRA | Senior Software Engineer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=faae996969c3b654) | 2026-07-06 23:59 |
-| FINRA | Senior Software Engineer | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb292e68230c43cd) | 2026-07-06 23:59 |
-| Capgemini | Java Angular Developer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2513c2da5e1dcae7) | 2026-07-06 23:59 |
-| Associated Bank | Technical Product Owner - Snowflake | WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee15581de1910c63) | 2026-07-06 23:59 |
-| FHLBank San Francisco | Sr. Data Engineer II, Assoc.Dir. | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=959dfa60ea3aa32b) | 2026-07-06 23:59 |
 
 
 ---
