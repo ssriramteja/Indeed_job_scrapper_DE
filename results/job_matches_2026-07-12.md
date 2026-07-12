@@ -5,14 +5,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Java Technical Architect @ nan
-**Match Score:** 13.2%
+## 1. Data and Analytics Engineer @ Digital Strategy LLC
+**Match Score:** 15.3%
 
-📍 **Location:** Jersey City, NJ, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, ECS, GCP, Kafka, Oracle, MongoDB, Cassandra, NoSQL, Jenkins, Maven
+🔑 **Keywords:** AWS, S3, IAM, RDS, Databricks, Unity Catalog, Spark, PySpark, Scala, Snowflake
 
-[Apply Here](https://www.indeed.com/viewjob?jk=1dd56339bfa2aac5)
+[Apply Here](https://www.indeed.com/viewjob?jk=cd127ae8715c196f)
 
 ---
 

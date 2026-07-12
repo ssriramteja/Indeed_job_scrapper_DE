@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-12 18:52
+Last updated: 2026-07-12 20:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Digital Strategy LLC | Data and Analytics Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cd127ae8715c196f) | 2026-07-12 20:02 |
 | nan | Java Technical Architect | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1dd56339bfa2aac5) | 2026-07-12 14:25 |
 | Lateral Insights | Oracle OCI Cloud Engineer | Great Falls, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ed69d2e91eede4e0) | 2026-07-12 11:05 |
 | Ross Dress For Less | Engineer III | Dublin, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a1d894dc94f127d6) | 2026-07-11 18:46 |
@@ -323,10 +324,6 @@ Last updated: 2026-07-12 18:52
 | Diverse Agile Solutions | NYS ITS HBITS Senior IT Specialist | Albany, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1457cdbfc218d897) | 2026-07-08 20:57 |
 | Jobility | Data Engineer II | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1690dbadbec022c5) | 2026-07-08 20:57 |
 | United Airlines | Senior Analyst - Cargo Business Intelligence | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=583377447f74582c) | 2026-07-08 20:57 |
-| SynergenX Health Holdings | Junior Data Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b36799dfc012672) | 2026-07-08 19:08 |
-| CoStar Group | Senior DevOps Engineer- Atlanta, GA | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f88ad68d887d399c) | 2026-07-08 19:08 |
-| NTT DATA | Remote Data Engineer - & Modeler Informatica | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c8a88f61dc550d6) | 2026-07-08 19:08 |
-| Optum | Senior Software Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ae7a2dd93d0c527) | 2026-07-08 19:08 |
 
 
 ---
