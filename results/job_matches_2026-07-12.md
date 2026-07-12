@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-12
 
-**Total Jobs Found:** 12
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -60,18 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Software Engineer @ General Motors (GM)
-**Match Score:** 13.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, PostgreSQL, CI/CD, Jenkins, GitHub Actions
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c380088294d31182)
-
----
-
-## 7. Engineer III @ Ross Dress For Less
+## 6. Engineer III @ Ross Dress For Less
 **Match Score:** 13.2%
 
 📍 **Location:** Dublin, CA, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior DevOps Engineer @ Point One Navigation
+## 7. Senior DevOps Engineer @ Point One Navigation
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior DevOps Engineer @ Point One Navigation
+## 8. Senior DevOps Engineer @ Point One Navigation
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Software Engineer II - Platform Engineer/Databricks @ JPMorganChase
+## 9. Software Engineer II - Platform Engineer/Databricks @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -112,28 +101,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Databricks, Spark, Scala, Jenkins, Maven, Terraform, Jenkins, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=3e6a9633dc466a51)
-
----
-
-## 11. Data Engineer Intern/Co-op @ Plymouth Rock Assurance
-**Match Score:** 10.4%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** AWS, Glue, Step Functions, S3, RDS, Scala, SQL Server, CI/CD, Git, CloudWatch
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2bafe231fd54f8af)
-
----
-
-## 12. Senior AWS Cloud Engineer @ Plymouth Rock Assurance
-**Match Score:** 10.4%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, IAM, RDS, Jenkins, Terraform, Docker, Kubernetes, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1641a10b9bb89296)
 
 ---
 
