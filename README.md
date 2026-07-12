@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-12 01:50
+Last updated: 2026-07-12 05:18
 
 ### 🚀 Daily Job Matches
 
@@ -354,14 +354,6 @@ Last updated: 2026-07-12 01:50
 | CVS Health | Site Reliability Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ecc3514eaff8e4f) | 2026-07-08 08:09 |
 | CVS Health | Site Reliability Engineer | Woonsocket, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6fe23fcfe31a209) | 2026-07-08 08:09 |
 | CVS Health | Site Reliability Engineer | Buffalo Grove, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e100b09f562b47a9) | 2026-07-08 08:09 |
-| Intone Networks | AWS Data Engineer | Newark, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=39735e72a86863ee) | 2026-07-08 05:12 |
-| Tata Consultancy Services (TCS) | Engineer | Cleveland, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=639185415ab38daf) | 2026-07-08 05:12 |
-| Advanced Drainage Systems | Senior Data Engineer | Hilliard, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b6fa63afaad1ae0c) | 2026-07-08 05:12 |
-| Tata Consultancy Services (TCS) | Angular Developer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bfb27c1a96af1b03) | 2026-07-08 05:12 |
-| Together AI | Senior Software Engineer, Observability | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7798608e6c8e6d0a) | 2026-07-08 05:12 |
-| Tata Consultancy Services (TCS) | Software Developer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ec07f9df27cc65f) | 2026-07-08 05:12 |
-| Oracle | Oracle Data Platform Multi-Cloud Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe4922b6f5fcc6c2) | 2026-07-08 05:12 |
-| Oracle | Oracle Data Platform Multi-Cloud Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db92aa655f31f542) | 2026-07-08 05:12 |
 
 
 ---
