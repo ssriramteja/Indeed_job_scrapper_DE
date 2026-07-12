@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-12
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,7 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Software Engineer II - Platform Engineer/Databricks @ JPMorganChase
+## 4. Oracle OCI Cloud Engineer @ Lateral Insights
+**Match Score:** 11.8%
+
+📍 **Location:** Great Falls, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Oracle, SQL Server, CI/CD, Jenkins, Docker, Kubernetes, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ed69d2e91eede4e0)
+
+---
+
+## 5. Software Engineer II - Platform Engineer/Databricks @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA

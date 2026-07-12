@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-12 09:54
+Last updated: 2026-07-12 11:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Lateral Insights | Oracle OCI Cloud Engineer | Great Falls, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ed69d2e91eede4e0) | 2026-07-12 11:05 |
 | Ross Dress For Less | Engineer III | Dublin, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a1d894dc94f127d6) | 2026-07-11 18:46 |
 | Airbus | HR AI/ML Engineer II | Herndon, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7aee672823e50ae6) | 2026-07-11 16:44 |
 | nan | Data Engineer II | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=565b08a71b6647d2) | 2026-07-11 15:45 |
@@ -339,12 +340,6 @@ Last updated: 2026-07-12 09:54
 | Moneyling | Senior Google Workspace Integration Engineer (Google Classroom Add-on) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a8912d706dfda61a) | 2026-07-08 12:15 |
 | nan | Senior Data Engineer | Oak Ridge, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=280abe19b99935bf) | 2026-07-08 12:15 |
 | nan | Senior Data Engineer | Allen, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=988ab78691107dc1) | 2026-07-08 12:15 |
-| New York Life | Senior Associate - DevOps Engineer / DevOps Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=19e39bb741b6ed38) | 2026-07-08 10:55 |
-| SAS | Software Developer – Data Services | Cary, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=46136a65c93b5dcc) | 2026-07-08 10:55 |
-| Ashra Technology | ETL Informatica Developer | Piscataway, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d6850ff8414aeb49) | 2026-07-08 10:55 |
-| nan | DevOps Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c79ddc7b9618c2a8) | 2026-07-08 10:55 |
-| GovCon Growth Solutions | Data Engineer — Healthcare / CMS Data / Snowflake / Python | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=efa1dfe09ae658ff) | 2026-07-08 10:55 |
-| mLabs | Senior Infrastructure Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bad4b3cca781fe4) | 2026-07-08 10:55 |
 
 
 ---
