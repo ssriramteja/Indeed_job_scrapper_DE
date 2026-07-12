@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-11 23:44
+Last updated: 2026-07-12 01:50
 
 ### 🚀 Daily Job Matches
 
@@ -362,33 +362,6 @@ Last updated: 2026-07-11 23:44
 | Tata Consultancy Services (TCS) | Software Developer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ec07f9df27cc65f) | 2026-07-08 05:12 |
 | Oracle | Oracle Data Platform Multi-Cloud Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe4922b6f5fcc6c2) | 2026-07-08 05:12 |
 | Oracle | Oracle Data Platform Multi-Cloud Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db92aa655f31f542) | 2026-07-08 05:12 |
-| Cutsforth | Senior Azure Cloud Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=76920144878d961b) | 2026-07-08 01:49 |
-| McAfee | Senior AI Engineer, MarTech | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5af6295655240418) | 2026-07-08 01:49 |
-| Mastercard | Senior Software Engineer | O'Fallon, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=831c607d5c0b6d42) | 2026-07-08 01:49 |
-| nan | Software Engineer II | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3a78dbf7c446b6db) | 2026-07-08 01:49 |
-| nan | Software Engineer II | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cd5e4db31e26c352) | 2026-07-08 01:49 |
-| McAfee | Full Stack Software Developer | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=05b4090a8f2d81cf) | 2026-07-08 01:49 |
-| Flosports | Senior Engineer, Live Streaming Video Specialist | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fd48b1457269a43) | 2026-07-08 01:49 |
-| Tigunia | Business Intelligence Analyst- Data Engineering Specialist | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a37f78119027aa2) | 2026-07-08 01:49 |
-| NTT DATA | Linux Systems Engineer (Onsite Full-Time) | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=77d9c2b3b4d47a50) | 2026-07-08 01:49 |
-| Sherwin-Williams | Senior Digital Analytics Engineer - Customer Experience | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7638fd3897d48107) | 2026-07-08 01:49 |
-| McAfee | Data Analyst / Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c97a5a60ec969e45) | 2026-07-08 01:49 |
-| Precisely | Associate Software Engineer – Java (AI First) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35674fb556e44dc3) | 2026-07-08 01:49 |
-| Cerby | Senior Backend Engineer (Access Management) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d31da1d032a50af) | 2026-07-08 01:49 |
-| ZoomInfo | DevOps Engineer III | Waltham, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5db19e3a9cbf828d) | 2026-07-07 23:48 |
-| Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ee3824264dc26ac6) | 2026-07-07 23:48 |
-| Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2265ad8dcef15915) | 2026-07-07 23:48 |
-| Floor & Decor | Senior Developer – Connected Customer (Loyalty Platform) | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=764638c30ee52f22) | 2026-07-07 23:48 |
-| Cloud Destinations | System Integration SME – Public Safety Systems Upgrade | Los Angeles, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2f88e375562aa037) | 2026-07-07 23:48 |
-| Varsity Brands | Cloud Engineer III | Farmers Branch, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=668ddb7fa648f79b) | 2026-07-07 23:48 |
-| MetLife | Business Systems Analyst - Semantic Layer | Cary, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=97283fc0220405a0) | 2026-07-07 23:48 |
-| JPMorganChase | Software Engineer II-Python/PySpark | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c18066ab7c80217) | 2026-07-07 23:48 |
-| Visa | SW Engineer - Sr. Consultant level | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d54c186e0fe4fd8f) | 2026-07-07 23:48 |
-| EnergyHub | Senior Software Engineer, C&I | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a602fd90cf822f8c) | 2026-07-07 23:48 |
-| EnergyHub | Senior Software Engineer, C&I | Burlington, VT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=095f422ac934ee58) | 2026-07-07 23:48 |
-| EnergyHub | Senior Software Engineer, C&I | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=deaff1cd6031383e) | 2026-07-07 23:48 |
-| EnergyHub | Senior Software Engineer, C&I | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=253a1410e2b36c94) | 2026-07-07 23:48 |
-| EnergyHub | Senior Software Engineer, C&I | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33fd0b602811c81f) | 2026-07-07 23:48 |
 
 
 ---
