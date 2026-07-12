@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-12 20:02
+Last updated: 2026-07-12 21:39
 
 ### 🚀 Daily Job Matches
 
@@ -317,13 +317,6 @@ Last updated: 2026-07-12 20:02
 | Signet Jewelers | Cloud Solutions Architect (Remote) | Akron, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4082cc434145a52) | 2026-07-08 22:02 |
 | Thomas Jefferson University & Jefferson Health | Integration Architect | PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e8cd2537dc81bb4) | 2026-07-08 22:02 |
 | nan | Senior Software Engineer, Backend | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79af0156b1e69d17) | 2026-07-08 22:02 |
-| California Coast Credit Union | Data Engineer | San Diego, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=19e3275d263cd408) | 2026-07-08 20:57 |
-| Upbound Group | Data Engineer IV | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0f96ecf719dda765) | 2026-07-08 20:57 |
-| Airbyte | Senior Software Engineer, Integrations (Databases) - Hiring Sprint | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0caaaf2a7e72b6eb) | 2026-07-08 20:57 |
-| General Motors (GM) | Senior Business Intelligence Data Engineer | Warren, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f54c187f37e51c2) | 2026-07-08 20:57 |
-| Diverse Agile Solutions | NYS ITS HBITS Senior IT Specialist | Albany, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1457cdbfc218d897) | 2026-07-08 20:57 |
-| Jobility | Data Engineer II | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1690dbadbec022c5) | 2026-07-08 20:57 |
-| United Airlines | Senior Analyst - Cargo Business Intelligence | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=583377447f74582c) | 2026-07-08 20:57 |
 
 
 ---
