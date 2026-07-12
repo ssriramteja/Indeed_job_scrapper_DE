@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-12 12:57
+Last updated: 2026-07-12 14:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Java Technical Architect | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1dd56339bfa2aac5) | 2026-07-12 14:25 |
 | Lateral Insights | Oracle OCI Cloud Engineer | Great Falls, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ed69d2e91eede4e0) | 2026-07-12 11:05 |
 | Ross Dress For Less | Engineer III | Dublin, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a1d894dc94f127d6) | 2026-07-11 18:46 |
 | Airbus | HR AI/ML Engineer II | Herndon, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7aee672823e50ae6) | 2026-07-11 16:44 |

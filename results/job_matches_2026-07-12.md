@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-12
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,7 +27,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Engineer III @ Ross Dress For Less
+## 3. Java Technical Architect @ nan
+**Match Score:** 13.2%
+
+📍 **Location:** Jersey City, NJ, US USA
+
+🔑 **Keywords:** AWS, ECS, GCP, Kafka, Oracle, MongoDB, Cassandra, NoSQL, Jenkins, Maven
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1dd56339bfa2aac5)
+
+---
+
+## 4. Engineer III @ Ross Dress For Less
 **Match Score:** 13.2%
 
 📍 **Location:** Dublin, CA, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Oracle OCI Cloud Engineer @ Lateral Insights
+## 5. Oracle OCI Cloud Engineer @ Lateral Insights
 **Match Score:** 11.8%
 
 📍 **Location:** Great Falls, VA, US USA
