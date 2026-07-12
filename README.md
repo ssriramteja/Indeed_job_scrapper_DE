@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-12 14:25
+Last updated: 2026-07-12 15:50
 
 ### 🚀 Daily Job Matches
 
@@ -336,8 +336,6 @@ Last updated: 2026-07-12 14:25
 | Presidio | Associate Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b36e132a1cd0c73) | 2026-07-08 17:20 |
 | Lexi Global | IT System Administrator | Upland, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85847771373bf53f) | 2026-07-08 17:20 |
 | Axon | Senior Site Reliability Engineer I | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=435f09808948c67f) | 2026-07-08 17:20 |
-| Nordstrom | Data Engineer 2 | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c045f1d95301aef) | 2026-07-08 15:10 |
-| Portfolio BI | Full Stack Quantitative Developer - Capital Markets - NYC / Dallas / Los Angelas | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=40c58ef4f6c13dc4) | 2026-07-08 15:10 |
 
 
 ---
