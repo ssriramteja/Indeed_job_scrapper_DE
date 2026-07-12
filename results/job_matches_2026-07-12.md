@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-12
 
-**Total Jobs Found:** 3
+**Total Jobs Found:** 2
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Engineer III @ Ross Dress For Less
-**Match Score:** 13.2%
-
-📍 **Location:** Dublin, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, Azure Cosmos DB, NoSQL, Data Modeling, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a1d894dc94f127d6)
-
----
-
-## 3. Oracle OCI Cloud Engineer @ Lateral Insights
+## 2. Oracle OCI Cloud Engineer @ Lateral Insights
 **Match Score:** 11.8%
 
 📍 **Location:** Great Falls, VA, US USA
