@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-12 21:39
+Last updated: 2026-07-12 22:38
 
 ### 🚀 Daily Job Matches
 
@@ -300,23 +300,6 @@ Last updated: 2026-07-12 21:39
 | Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=98424ae5c6548f2d) | 2026-07-09 00:00 |
 | Costco Wholesale | BI Engineer - Data Analytics | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2771eb078ba01ae6) | 2026-07-09 00:00 |
 | Copart, Inc | DevOps Engineering Intern | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c3c1a2d78dbef72) | 2026-07-09 00:00 |
-| Tata Consultancy Services (TCS) | Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=e3863b07cca34df6) | 2026-07-08 22:02 |
-| Tata Consultancy Services (TCS) | AI Enterprise Architect | Seattle, WA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2bf6ebaa193170fe) | 2026-07-08 22:02 |
-| Alchemy | GCP Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e852f89aa147a38) | 2026-07-08 22:02 |
-| Vedant Technologies | Data Architect | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4e22844d35ce2e4d) | 2026-07-08 22:02 |
-| FINRA | Senior Software Engineer | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=28a164543501fa9e) | 2026-07-08 22:02 |
-| FINRA | Senior Software Engineer | Rockville, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6f23c8279b155ead) | 2026-07-08 22:02 |
-| LTM Limited | Specialist - Data Engineering | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=011271d67e943842) | 2026-07-08 22:02 |
-| LTM Limited | Specialist - Data Engineering | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=60655318e3ac9ca5) | 2026-07-08 22:02 |
-| Curinos | Senior Engineer, ML Engineering (Databricks) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=12981bc42f8d0ef2) | 2026-07-08 22:02 |
-| LG Energy Solution Michigan | Senior Data Scientist (Remote) | Westborough, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8866a7feb2242432) | 2026-07-08 22:02 |
-| Tata Consultancy Services (TCS) | Software Developer | Orlando, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5010db1afd8a4a00) | 2026-07-08 22:02 |
-| Tata Consultancy Services (TCS) | Software Developer | Winston-Salem, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=598b7862841558a5) | 2026-07-08 22:02 |
-| Intone Networks | Software Engineer | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd483611d5daf4ad) | 2026-07-08 22:02 |
-| Tata Consultancy Services (TCS) | Software Developer | Morrisville, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8883e9946b234da5) | 2026-07-08 22:02 |
-| Signet Jewelers | Cloud Solutions Architect (Remote) | Akron, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4082cc434145a52) | 2026-07-08 22:02 |
-| Thomas Jefferson University & Jefferson Health | Integration Architect | PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e8cd2537dc81bb4) | 2026-07-08 22:02 |
-| nan | Senior Software Engineer, Backend | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79af0156b1e69d17) | 2026-07-08 22:02 |
 
 
 ---
