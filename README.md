@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-12 08:00
+Last updated: 2026-07-12 09:54
 
 ### 🚀 Daily Job Matches
 
@@ -345,15 +345,6 @@ Last updated: 2026-07-12 08:00
 | nan | DevOps Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c79ddc7b9618c2a8) | 2026-07-08 10:55 |
 | GovCon Growth Solutions | Data Engineer — Healthcare / CMS Data / Snowflake / Python | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=efa1dfe09ae658ff) | 2026-07-08 10:55 |
 | mLabs | Senior Infrastructure Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bad4b3cca781fe4) | 2026-07-08 10:55 |
-| nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9e9837b40940e11e) | 2026-07-08 08:09 |
-| nan | Senior Forward Deployed Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=56e0ecb5d10c6090) | 2026-07-08 08:09 |
-| nan | AI Engineer | Davie, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c8d1b1575f8a785c) | 2026-07-08 08:09 |
-| Smart Warehousing | SOFTWARE ENGINEER | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15f94818bca4bdbf) | 2026-07-08 08:09 |
-| CVS Health | Site Reliability Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d6804b567301e090) | 2026-07-08 08:09 |
-| CVS Health | Site Reliability Engineer | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1642810b5caddca1) | 2026-07-08 08:09 |
-| CVS Health | Site Reliability Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ecc3514eaff8e4f) | 2026-07-08 08:09 |
-| CVS Health | Site Reliability Engineer | Woonsocket, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6fe23fcfe31a209) | 2026-07-08 08:09 |
-| CVS Health | Site Reliability Engineer | Buffalo Grove, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e100b09f562b47a9) | 2026-07-08 08:09 |
 
 
 ---
