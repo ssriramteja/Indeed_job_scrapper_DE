@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-13
 
-**Total Jobs Found:** 20
+**Total Jobs Found:** 22
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -126,7 +126,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Data Solutions Engineer @ Publicis Groupe
+## 12. Senior Software Engineer (Big Data) @ Smart Apply Test Company
+**Match Score:** 11.8%
+
+📍 **Location:** Westminster, CO, US USA
+
+🔑 **Keywords:** AWS, RDS, Databricks, Hadoop, Hive, Spark, Scala, Data Modeling, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=17f9d9276b923717)
+
+---
+
+## 13. Data Solutions Engineer @ Publicis Groupe
 **Match Score:** 11.8%
 
 📍 **Location:** Chicago, IL, US USA
@@ -134,17 +145,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Databricks, Hadoop, HDFS, Spark, Scala, Kafka, CI/CD, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=ad3836b0fc7c4571)
-
----
-
-## 13. Oracle OCI Cloud Engineer @ Lateral Insights
-**Match Score:** 11.8%
-
-📍 **Location:** Great Falls, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Oracle, SQL Server, CI/CD, Jenkins, Docker, Kubernetes, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ed69d2e91eede4e0)
 
 ---
 
@@ -159,7 +159,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Analyst, Data Engineering @ Publicis Groupe
+## 15. Application Developer @ Applied Medical
+**Match Score:** 11.8%
+
+📍 **Location:** Rancho Santa Margarita, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, YARN, SQL Server, PostgreSQL, Azure Cosmos DB, NoSQL, CI/CD, GitHub Actions
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c3004d47870448a1)
+
+---
+
+## 16. Senior Analyst, Data Engineering @ Publicis Groupe
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -170,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Software Engineer @ Publicis Groupe
+## 17. Software Engineer @ Publicis Groupe
 **Match Score:** 11.1%
 
 📍 **Location:** Irving, TX, US USA
@@ -181,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Software Engineer @ Publicis Groupe
+## 18. Software Engineer @ Publicis Groupe
 **Match Score:** 11.1%
 
 📍 **Location:** Irving, TX, US USA
@@ -192,7 +203,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Software Engineer @ Publicis Groupe
+## 19. Software Engineer @ Smart Apply Test Company
+**Match Score:** 10.4%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** AWS, Azure, Databricks, GCP, Hadoop, Hive, Spark, Scala, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2d697f334d121ec3)
+
+---
+
+## 20. Software Engineer @ Publicis Groupe
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -203,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Senior AI & Cloud Engineer @ Publicis Groupe
+## 21. Senior AI & Cloud Engineer @ Publicis Groupe
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -214,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Full Stack Mid-level Java Software Engineer @ WSFS Bank
+## 22. Full Stack Mid-level Java Software Engineer @ WSFS Bank
 **Match Score:** 10.4%
 
 📍 **Location:** Wilmington, DE, US USA
