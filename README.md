@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-12 23:43
+Last updated: 2026-07-13 01:52
 
 ### 🚀 Daily Job Matches
 
@@ -289,17 +289,6 @@ Last updated: 2026-07-12 23:43
 | Edward Jones | Engineer III | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e65e864080e6f228) | 2026-07-09 03:36 |
 | Edward Jones | Engineer III | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=379a672460ecff73) | 2026-07-09 03:36 |
 | Nextech Systems | Software Engineer in Test – Performance Testing (Remote - US) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ece1679bb1b68d39) | 2026-07-09 03:36 |
-| Optum | Senior Software Engineer | Basking Ridge, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=71f5c842f42b9fab) | 2026-07-09 00:00 |
-| Travelers | Senior Software Engineer (AWS, Node) | Saint Paul, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d7fbe872d043151b) | 2026-07-09 00:00 |
-| New Relic | Implementation Solutions Architect | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d70cdcaee06adcf4) | 2026-07-09 00:00 |
-| BehaviorSpan | Acquire-Site Reliability Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cccf8a44263a0130) | 2026-07-09 00:00 |
-| NTT DATA | Data Engineer - Oracle data integrato and BI | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea82fd770b87f655) | 2026-07-09 00:00 |
-| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32c645cbff1d3870) | 2026-07-09 00:00 |
-| Wells Fargo | Senior Software Engineer | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4d24d0af560e9bfb) | 2026-07-09 00:00 |
-| Wells Fargo | Senior Software Engineer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9885cdd8f6f0e5fc) | 2026-07-09 00:00 |
-| Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=98424ae5c6548f2d) | 2026-07-09 00:00 |
-| Costco Wholesale | BI Engineer - Data Analytics | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2771eb078ba01ae6) | 2026-07-09 00:00 |
-| Copart, Inc | DevOps Engineering Intern | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c3c1a2d78dbef72) | 2026-07-09 00:00 |
 
 
 ---
