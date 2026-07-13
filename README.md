@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-13 11:52
+Last updated: 2026-07-13 14:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Smart Apply Test Company | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f9d9276b923717) | 2026-07-13 11:52 |
+| VIVA | Databricks Engineer | Clifton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=009aa09bd21a9217) | 2026-07-13 14:07 |
+| Smart Apply Test Company | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f9d9276b923717) | 2026-07-13 14:07 |
+| American business solutions inc | Oracle OCI Cloud Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05cf4bb1193bec3f) | 2026-07-13 14:07 |
+| Smart Apply Test Company | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d697f334d121ec3) | 2026-07-13 14:07 |
 | Applied Medical | Application Developer | Rancho Santa Margarita, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c3004d47870448a1) | 2026-07-13 11:52 |
-| Smart Apply Test Company | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d697f334d121ec3) | 2026-07-13 11:52 |
 | Publicis Groupe | Senior Software Engineer – Full Stack (Java, AWS, React) | Boston, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d0f99e44e51085df) | 2026-07-13 08:50 |
 | Astronautics Corporation of America | Data Modeler | Oak Creek, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9d06ee741990db6b) | 2026-07-13 08:50 |
 | Publicis Groupe | Senior Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2afd6091c64d55df) | 2026-07-13 08:50 |
@@ -264,12 +266,6 @@ Last updated: 2026-07-13 11:52
 | nan | Data Infrastructure Architect | Manhattan, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5b2d6340b7dbd35b) | 2026-07-09 16:23 |
 | Tata Consultancy Services (TCS) | Python AI Engineer | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e793e39138e9c31) | 2026-07-09 16:23 |
 | nan | Senior Product Software Engineer | Glendale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc5c72de81426773) | 2026-07-09 16:23 |
-| Capgemini | Data / Database Engineer - SQL, Oracle, PL/SQL, Informatica, ETL, Powercenter | Irving, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=331ee6d2b9af53d4) | 2026-07-09 13:44 |
-| Capgemini | Google Cloud Native Architect | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bbc9bd01410ee94e) | 2026-07-09 13:44 |
-| Sonar | Cloud Platform Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1137912cd4930b5c) | 2026-07-09 13:44 |
-| mhtechin | Software Engineer – MHTECHIN (USA) | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b83f09563e0a3d38) | 2026-07-09 13:44 |
-| Capgemini | Java Angular Developer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b8a6f2b73f1fc2e3) | 2026-07-09 13:44 |
-| Capgemini | Software Engineer - Java and Spring WebFlux | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94facea91683e65c) | 2026-07-09 13:44 |
 
 
 ---
