@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-13
 
-**Total Jobs Found:** 2
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Oracle OCI Cloud Engineer @ Lateral Insights
+## 2. Reliability Engineer, Battery Module @ Tesla
+**Match Score:** 14.6%
+
+📍 **Location:** Sparks, NV, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, Scala, dbt, Power BI, Tableau, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3af907c177dd5fdb)
+
+---
+
+## 3. SQL Developer @ We Are Recruiting
+**Match Score:** 13.9%
+
+📍 **Location:** Foley, AL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Hadoop, HDFS, Hive, Spark, Scala, Oracle, SQL Server
+
+[Apply Here](https://www.indeed.com/viewjob?jk=39a0bb69f0f00f0c)
+
+---
+
+## 4. Oracle OCI Cloud Engineer @ Lateral Insights
 **Match Score:** 11.8%
 
 📍 **Location:** Great Falls, VA, US USA
