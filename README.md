@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-13 05:27
+Last updated: 2026-07-13 08:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Publicis Groupe | Senior Software Engineer – Full Stack (Java, AWS, React) | Boston, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d0f99e44e51085df) | 2026-07-13 08:50 |
+| Astronautics Corporation of America | Data Modeler | Oak Creek, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9d06ee741990db6b) | 2026-07-13 08:50 |
+| Publicis Groupe | Senior Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2afd6091c64d55df) | 2026-07-13 08:50 |
+| Publicis Groupe | Senior Software Engineer | Westminster, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=26c2fa1d45c9055b) | 2026-07-13 08:50 |
+| Publicis Groupe | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b4d8e19f0fb16bc7) | 2026-07-13 08:50 |
+| TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e7356e10af404cb1) | 2026-07-13 08:50 |
+| Kimball Midwest | Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2dd6388cdeebf986) | 2026-07-13 08:50 |
+| Publicis Groupe | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=622d3a3e3c903762) | 2026-07-13 08:50 |
+| Publicis Groupe | Data Solutions Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad3836b0fc7c4571) | 2026-07-13 08:50 |
+| Publicis Groupe | Senior Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57668a6af42a8310) | 2026-07-13 08:50 |
+| Publicis Groupe | Senior Analyst, Data Engineering | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=29d151c251dc07f6) | 2026-07-13 08:50 |
+| Publicis Groupe | Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5962ad63a23cfa81) | 2026-07-13 08:50 |
+| Publicis Groupe | Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=083794db905029d1) | 2026-07-13 08:50 |
+| Publicis Groupe | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81752facbba9d16c) | 2026-07-13 08:50 |
+| Publicis Groupe | Senior AI & Cloud Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e3b212b4def3f9f) | 2026-07-13 08:50 |
+| WSFS Bank | Full Stack Mid-level Java Software Engineer | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78f65e99062ef281) | 2026-07-13 08:50 |
 | Tesla | Reliability Engineer, Battery Module | Sparks, NV, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3af907c177dd5fdb) | 2026-07-13 05:27 |
 | We Are Recruiting | SQL Developer | Foley, AL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=39a0bb69f0f00f0c) | 2026-07-13 05:27 |
 | Digital Strategy LLC | Data and Analytics Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cd127ae8715c196f) | 2026-07-12 20:02 |
@@ -256,26 +272,6 @@ Last updated: 2026-07-13 05:27
 | Databricks | Sr. Forward Deployed Engineer - FDE - Digital Native Business | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43640f8dedff80ae) | 2026-07-09 10:51 |
 | Early Warning Services | Senior Cloud Engineer - Contract | Scottsdale, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d2f3fb5c23b3945) | 2026-07-09 10:51 |
 | nan | Senior Analytics Engineer | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e936a38ae1e760a) | 2026-07-09 10:51 |
-| Simbex | Senior Software Engineer - Cloud Services | Lebanon, NH, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=2b9529a493965b7b) | 2026-07-09 07:35 |
-| Fitch Ratings | Senior Engineer - Data Platforms & Full Stack Applications | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=20da1d593ffe4713) | 2026-07-09 07:35 |
-| Citi | Head Universal Banker, One California Branch | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fc1688b5b79437db) | 2026-07-09 07:35 |
-| West Monroe | Software Engineer- Tech Ex AI Assets Foundry Team | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=843e1428f95c6703) | 2026-07-09 07:35 |
-| ProCare solutions | Software Engineer | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=59621637da2df488) | 2026-07-09 07:35 |
-| Humana | Senior Software Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=05d26e9d276de69c) | 2026-07-09 07:35 |
-| Humana | Senior Software Engineer | Louisville, KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c3e03f61f231e6f7) | 2026-07-09 07:35 |
-| Humana | Senior Software Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fc3d7f6b293b8798) | 2026-07-09 07:35 |
-| Humana | Senior Software Engineer | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c9c60c8af1cd2657) | 2026-07-09 07:35 |
-| West Monroe | Senior Software Engineer-Tech Ex AI Assets Foundry Team | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b83db5488d77940) | 2026-07-09 07:35 |
-| LendingTree | Platform Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c279a3c045a08727) | 2026-07-09 07:35 |
-| JPMorganChase | Software Engineer III - J2EE/Spring Boot | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea46fe6dc4046714) | 2026-07-09 07:35 |
-| Early Warning Services | Senior Cloud Engineer - Contract | Scottsdale, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df19e7dbad1a512f) | 2026-07-09 07:35 |
-| Brook INC | Data Engineer | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d754b9ca64323d6e) | 2026-07-09 07:35 |
-| JM Eagle | Enterprise Applications Architect | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d392d906a4f4d8ad) | 2026-07-09 07:35 |
-| JPMorganChase | Business Analyst, Senior Associate | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ad0e3fa860fcbe7e) | 2026-07-09 07:35 |
-| Global Partners LP | Analytics Engineer | Waltham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d677323b8f1a2636) | 2026-07-09 07:35 |
-| U.S. Bank | Software Engineer 2 | Hopkins, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8bee7f3b1d3558f3) | 2026-07-09 07:35 |
-| U.S. Bank | Software Engineer 2 | Englewood, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5331edf6c905499e) | 2026-07-09 07:35 |
-| U.S. Bank | Software Engineer 2 | Earth City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bd3b8341850dde41) | 2026-07-09 07:35 |
 
 
 ---
