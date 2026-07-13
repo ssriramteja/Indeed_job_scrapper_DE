@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-13 17:07
+Last updated: 2026-07-13 19:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Vytalize Health | DevOps Engineer | KS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=439c58ad35a8bb78) | 2026-07-13 19:12 |
+| VIVA | Technical Specialist | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=91e03219acd75f33) | 2026-07-13 19:12 |
+| Mount Sinai Health System | Data Engineer I-Pathology Molecular and Cell Based Medicine | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1f1090f617db00fd) | 2026-07-13 19:12 |
+| VIVA | Technical Specialist - Senior | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9cfb170c35e948ca) | 2026-07-13 19:12 |
+| Smart Apply Test Company | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f9d9276b923717) | 2026-07-13 19:12 |
+| NYSTEC | Data Engineer | Albany, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e43f810dbefdcbc9) | 2026-07-13 19:12 |
+| Cornell University | Data Engineer | Ithaca, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91f681ba8c58e14f) | 2026-07-13 19:12 |
+| Empower | Architect of Data Architecture | Greenwood Village, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a69b442d48a997e) | 2026-07-13 19:12 |
+| Smart Apply Test Company | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d697f334d121ec3) | 2026-07-13 19:12 |
+| Zoox | Senior Data Engineer – Enterprise, Data & AI | Foster City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=303390f40d7bb17a) | 2026-07-13 19:12 |
+| NTT DATA | Data Engineer - & Modeler Informatica | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aebf504e442ce2f2) | 2026-07-13 19:12 |
 | Aurora Innovation | Senior Software Engineer (Data Engineering and Infrastructure) | Pittsburgh, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b6b8b74c1db36b82) | 2026-07-13 17:07 |
 | Aurora Innovation | Software Engineer I (Data Eng infra) | Mountain View, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=490f497f5639497d) | 2026-07-13 17:07 |
 | Versant Power | DATABASE ADMINISTRATOR | Bangor, ME, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e0bb056d66ba0554) | 2026-07-13 17:07 |
@@ -18,7 +29,6 @@ Last updated: 2026-07-13 17:07
 | Intellibee Inc | Technical Specialist - Senior | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=51d97fe985e82f06) | 2026-07-13 17:07 |
 | University Federal Credit Union | Mgr, Data Platform Engineering | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4a64cdbde4f50734) | 2026-07-13 17:07 |
 | Molina Healthcare | Senior Data Scientist - GenAI/Agentic AI - Remote | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=34b1a1a8543d5bde) | 2026-07-13 17:07 |
-| Smart Apply Test Company | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f9d9276b923717) | 2026-07-13 17:07 |
 | ID.me | Threat Detection Engineer – Security Operations | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=845986ee9c384d0c) | 2026-07-13 17:07 |
 | ID.me | Threat Detection Engineer – Security Operations | Mountain View, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb9bc641ca30ce01) | 2026-07-13 17:07 |
 | NTT DATA | Data Engineer - Oracle data integrator and BI | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b40de561865171b) | 2026-07-13 17:07 |
@@ -28,7 +38,6 @@ Last updated: 2026-07-13 17:07
 | City of Philadelphia, PA | Data Architect / Quality Assurance Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d0882144e65f22c) | 2026-07-13 17:07 |
 | C.H. Robinson | Software Engineer III | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c90454ed63602f69) | 2026-07-13 17:07 |
 | Afficiency | Generative AI Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be5a298b53e539ed) | 2026-07-13 17:07 |
-| Smart Apply Test Company | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d697f334d121ec3) | 2026-07-13 17:07 |
 | Northeastern University | Senior Data Integration Operations Engineerr | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=748fc639b3268939) | 2026-07-13 17:07 |
 | nan | Level 2 – Technical Support Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f92c2bb95c010dd6) | 2026-07-13 17:07 |
 | Cloud and Things | Bi Developer | Albany, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b85dd5750a229b32) | 2026-07-13 17:07 |
@@ -268,22 +277,6 @@ Last updated: 2026-07-13 17:07
 | IGT | Data Engineer II | Providence, RI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ccfeb0ae91c8b22c) | 2026-07-09 20:42 |
 | Coastal | Data Platform Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4f8ebe939dba44ab) | 2026-07-09 20:42 |
 | Compass Group USA | SENIOR DEVELOPER, BUSINESS INTELLIGENCE & PROJECTS (CHARLOTTE, NC) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a6eb4884631c4944) | 2026-07-09 20:42 |
-| Qode | Java Application Developer | Township of Jackson, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=26394a63af389d62) | 2026-07-09 18:46 |
-| Qode | Java Application Developer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2ba1ec9e7778b066) | 2026-07-09 18:46 |
-| Master Electronics | Data Scientist II | Phoenix, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8c73446a5f5a2ca0) | 2026-07-09 18:46 |
-| HCLTech | Senior Solution Architect | Jersey City, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1bdb739be063e00a) | 2026-07-09 18:46 |
-| HCLTech | AI/ML Solutions Architect - PostgreSQL | San Antonio, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4d883bc65769a81) | 2026-07-09 18:46 |
-| Paychex, Inc. | Data Solutions Engineer | Rochester, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3044d3acb77883ad) | 2026-07-09 18:46 |
-| CSAA Insurance Group, a AAA Insurer | API/Microservices/AWS Software Engineer - Remote | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=12e8643c707d53bb) | 2026-07-09 18:46 |
-| MetLife | Junior Software Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6efe4d9a822bce57) | 2026-07-09 18:46 |
-| Crider Foods | Data Analytics Developer | Stillmore, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b4013e80d3a58db) | 2026-07-09 18:46 |
-| HCLTech | Senior Solution Architect | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=28f2d5502617e455) | 2026-07-09 18:46 |
-| Toyota North America | Data Scientist - Optimization | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d14e0caa3293192) | 2026-07-09 18:46 |
-| Core specialty | IT Enterprise Architect | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a94b4fce819533c6) | 2026-07-09 18:46 |
-| NCSA College Recruiting | Fullstack Engineer, Marketing | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f9f56162e38c2b1) | 2026-07-09 18:46 |
-| NCSA College Recruiting | Fullstack Engineer, Marketing | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c291169defa77d17) | 2026-07-09 18:46 |
-| IMG Academy | Fullstack Engineer, Marketing | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=362edf60a4890cb4) | 2026-07-09 18:46 |
-| IMG Academy | Fullstack Engineer, Marketing | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=442d3e11f0a53f4c) | 2026-07-09 18:46 |
 
 
 ---
