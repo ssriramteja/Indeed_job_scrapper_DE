@@ -1,14 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-13 21:45
+Last updated: 2026-07-13 22:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bloomberg | Senior Data Management Professional - Data Engineering - Entities | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=44d437f6ae16eb4d) | 2026-07-13 22:45 |
+| Affinity Solutions | Data Quality AI Intern (61_2026.3) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8cc7c811d1c4b67c) | 2026-07-13 22:45 |
+| NBME | AWS Severless Software Engineer III | Philadelphia, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ce2dc4576aaa8a2e) | 2026-07-13 22:45 |
+| Newpage Digital Healthcare solutions | AI Native Builder_EU | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0ea4fc6a360496ad) | 2026-07-13 22:45 |
+| Newpage Digital Healthcare solutions | Forward Deployed Engineer-Specialist | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2df1f2e18d690c4a) | 2026-07-13 22:45 |
+| Newpage Digital Healthcare solutions | Forward Deployed Engineer-Specialist | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d896c15ac717e14c) | 2026-07-13 22:45 |
+| Newpage Digital Healthcare solutions | Forward Deployed Engineer-Specialist | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=db4fe4e7c9a86b11) | 2026-07-13 22:45 |
+| EXL Service | Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6310ba46fd00a82c) | 2026-07-13 22:45 |
+| C2FO | Senior Data Engineer I | Kansas City, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e3a710f918b88f2b) | 2026-07-13 22:45 |
+| Smart Apply Test Company | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f9d9276b923717) | 2026-07-13 22:45 |
+| Hightower Advisors | Senior Data Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=487e755470e0a906) | 2026-07-13 22:45 |
+| Paylocity | Senior Security Architect(AI) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b6040d8fca19b2e) | 2026-07-13 22:45 |
+| Smart Apply Test Company | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d697f334d121ec3) | 2026-07-13 22:45 |
+| Logistic Solutions Inc | Cloud Architect @ Dallas, TX | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1ffb721ba3a7f68) | 2026-07-13 22:45 |
 | Dave | Sr. Machine Learning Platform Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c40b7d898d0faad8) | 2026-07-13 21:45 |
 | nan | Analytics Engineer | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=898a5660007f1525) | 2026-07-13 21:45 |
-| Smart Apply Test Company | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f9d9276b923717) | 2026-07-13 21:45 |
 | Building Service 32BJ Benefit Funds | Azure DevOps Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d7f6a3d55e28770) | 2026-07-13 21:45 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bc63eb13d50f0ab) | 2026-07-13 21:45 |
 | Invovia | Forward Deployed Engineer (AI) - Frisco, TX | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f8e491698172a68a) | 2026-07-13 21:45 |
@@ -17,7 +30,6 @@ Last updated: 2026-07-13 21:45
 | Tata Consultancy Services (TCS) | Network Engineer | Research Triangle Park, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd021ef938d1ce24) | 2026-07-13 21:45 |
 | Tata Consultancy Services (TCS) | Software Developer | Research Triangle Park, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a2f1102b97c2bd1) | 2026-07-13 21:45 |
 | Velera | Data Engineer IV (Snowflake/Databricks) - REMOTE | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd204a1167efc6a3) | 2026-07-13 21:45 |
-| Smart Apply Test Company | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d697f334d121ec3) | 2026-07-13 21:45 |
 | Illumio | Sr. Site Reliability Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ce6ace065c9b44a) | 2026-07-13 21:45 |
 | Pano AI | Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4aab6a4a6b438005) | 2026-07-13 21:45 |
 | Bounteous | Databricks Solution Architect | US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=95200cc7178deeb2) | 2026-07-13 20:50 |
@@ -281,25 +293,6 @@ Last updated: 2026-07-13 21:45
 | Intellibee Inc | Infrastructure Solutions Architect | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b21a772800827417) | 2026-07-09 23:58 |
 | Salas O'Brien | Senior Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c4a147881279cc0) | 2026-07-09 23:58 |
 | nSCALE | Operational Data & Observability Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c0a5446b79f2284f) | 2026-07-09 23:58 |
-| JSR Tech Consulting | Data Engineer | NJ, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=e477d5aaf587262c) | 2026-07-09 22:14 |
-| Cognizant | Snowflake Architect - DBT and Cortex AI | Mettawa, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=aed7e6578e3c4d9c) | 2026-07-09 22:14 |
-| American Heart Association | Data Warehouse Developer | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a03496283ad3b0d9) | 2026-07-09 22:14 |
-| Pediatric Associates Family of Companies | Data Engineer | San Pedro, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a3d1995eaa448212) | 2026-07-09 22:14 |
-| Eli Lilly | Agentic AI Data Engineer - CMC Data Integration | Indianapolis, IN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=39a6a17108976060) | 2026-07-09 22:14 |
-| Blue Cross and Blue Shield of Kansas | Solutions Architect | Topeka, KS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=72543b6e05cc0162) | 2026-07-09 22:14 |
-| Hudson Manpower | Data Engineer III | Cincinnati, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e033630afa658f8c) | 2026-07-09 22:14 |
-| Cognizant | Sr. Cloud Architect | Addison, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b090e1238aa6584f) | 2026-07-09 22:14 |
-| University of Texas at Austin | R&D Cloud Engineering Scientist | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ef81130977825ed1) | 2026-07-09 22:14 |
-| Vedan Technologies | Data Architect | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6f7dd9d12dec5e95) | 2026-07-09 22:14 |
-| OFFICE HOURS | Platform Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=af024982951791dc) | 2026-07-09 22:14 |
-| Fidelity Investments | Senior Data Engineer | Durham, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bd8de92e982af67) | 2026-07-09 22:14 |
-| Fidelity Investments | Senior Data Engineer | Merrimack, NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=87615fc3fda41da1) | 2026-07-09 22:14 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ce6e57ea03bfddf) | 2026-07-09 22:14 |
-| MetLife | Junior Software Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8b802a7acff1d5ad) | 2026-07-09 22:14 |
-| cyber technology innovations | IT System Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=70eeb725c73e2eb3) | 2026-07-09 22:14 |
-| Discogs | Senior Site Reliability Engineer (REMOTE) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5a924459fc3278a) | 2026-07-09 22:14 |
-| Anthropic | Finance Systems Integration Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc59d1bea902c70f) | 2026-07-09 22:14 |
-| Cognizant | Snowflake Administrator | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=92f1cdeea67d5c58) | 2026-07-09 22:14 |
 
 
 ---
