@@ -1,11 +1,43 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-14 01:29
+Last updated: 2026-07-14 04:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tata Consultancy Services (TCS) | Engineer | Irving, TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=3e278e0dc4824974) | 2026-07-14 04:42 |
+| Tata Consultancy Services (TCS) | Software Developer, Business Intelligence Analyst | Research Triangle Park, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c01d88d0c47a7625) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=59be0306e4985a52) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=12264a4762b0f153) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4741b2aaf2ec4639) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c8379cf1d692d007) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Nashville, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9696f4f0c31fbf12) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=23fcdad233ea5e6d) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=12bdc06f31387ddb) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Fort Lauderdale, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7f457f2be81b9770) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f2c8bee941837486) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6bce80595c811362) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3d0cf43be3ae79d3) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ade89b18f313e675) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cfddcbf296252d6b) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0aae1d49cd9474ec) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Fort Lauderdale, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e2866e598e580305) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c2ffd4ec0a1a5c3a) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=534c078f01ee2602) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a5d39a911901dc6d) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Louisville, KY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a72c1fe63174bbb8) | 2026-07-14 04:42 |
+| Humana | Junior Software Engineer- Cloud Cost Optimization | Nashville, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4bdbc801745a49ec) | 2026-07-14 04:42 |
+| Entertainment Partners | Sr. Full Stack Engineer | Tempe, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e42eebf957e43408) | 2026-07-14 04:42 |
+| Cognizant | AWS Data Engineer | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b7ec36958a4f20d5) | 2026-07-14 04:42 |
+| LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d0cafea3b627d6c7) | 2026-07-14 04:42 |
+| Smart Apply Test Company | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f9d9276b923717) | 2026-07-14 04:42 |
+| Charles Schwab | Java Software Engineer | Southlake, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8102d30c9db848fa) | 2026-07-14 04:42 |
+| Regions Financial | Sr. Data Engineer - Cloud, AWS and Snowflake | Hoover, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4be1c8e67e2a1f2) | 2026-07-14 04:42 |
+| Entertainment Partners | AI Engineer | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=597ab0eb363227ed) | 2026-07-14 04:42 |
+| Dental Care Alliance | Full Stack Developer | Sarasota, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f835ab35442d7c1) | 2026-07-14 04:42 |
+| Smart Apply Test Company | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d697f334d121ec3) | 2026-07-14 04:42 |
+| Ford Motor Company | Senior Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff9ef03bf06139c6) | 2026-07-14 04:42 |
 | BankUnited | Cloud Data Engineer II | Miami Lakes, FL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=c7dee1b85cc76fb8) | 2026-07-14 01:29 |
 | VIVA | Senior Data Scientist - AI/ML | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aa005e3343082c96) | 2026-07-14 01:29 |
 | Centurion Consulting Group | Artificial Intelligence (AI) Senior Data Scientist | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9f9ea8d31a8815a9) | 2026-07-14 01:29 |
@@ -14,13 +46,11 @@ Last updated: 2026-07-14 01:29
 | Verizon | Princ Engr-Ntwk Engring | Basking Ridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4e6dbfd3d963c65c) | 2026-07-14 01:29 |
 | JPMorganChase | Analytics Solutions Associate Senior - DART | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1af5fc2a067c379) | 2026-07-14 01:29 |
 | Hunter Industries | Senior Software Engineer - Backend / Cloud Services | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=18a96d284c8c6745) | 2026-07-14 01:29 |
-| Smart Apply Test Company | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f9d9276b923717) | 2026-07-14 01:29 |
 | PI Security LLC | Forward Deployed Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed01df22f7b5ad6f) | 2026-07-14 01:29 |
 | Pano AI | Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2df343ab9d22ccf) | 2026-07-14 01:29 |
 | SugarAI | Senior Data Engineer - Databricks | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=51c067e768a2b9f2) | 2026-07-14 01:29 |
 | FIS | Data Engineer Seniors III (Databricks) | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89625a5f68a2c750) | 2026-07-14 01:29 |
 | LTM Limited | Specialist - Data Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c629002dbb52205d) | 2026-07-14 01:29 |
-| Smart Apply Test Company | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d697f334d121ec3) | 2026-07-14 01:29 |
 | Aledade, Inc. | Senior Software Engineer I- Data & Insights Engineering | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15c358b482d33d6d) | 2026-07-14 01:29 |
 | Safelite | Senior Data Engineer | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eab9b545c0f88523) | 2026-07-13 23:43 |
 | U.S. Bank | Data Engineering Architect | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8a16e3ffc1c278fc) | 2026-07-13 23:43 |
@@ -288,23 +318,6 @@ Last updated: 2026-07-14 01:29
 | BV Teck | Container Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=745d465581f34366) | 2026-07-10 06:34 |
 | Cognizant | Data Scientist with strong Algorithm experience | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b6714d23df870368) | 2026-07-10 06:34 |
 | SchoolsFirst Federal Credit Union | Splunk Administrator (Site Reliability Engineer) | Tustin, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb8c3e2d1baf5021) | 2026-07-10 06:34 |
-| Gen Digital Inc. | Senior Data Engineer - Data Platform & Martech Engineering | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5c5cb397b1e7e030) | 2026-07-10 02:51 |
-| Spire Orthopedic Partners | BI Engineer | Stamford, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=97ca3daded6ed547) | 2026-07-10 02:51 |
-| Capgemini | System Engineer US L4 | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0e58ba3dd4322234) | 2026-07-10 02:51 |
-| Capgemini | AWS Data Scientist | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9d078162c8ac8e2b) | 2026-07-10 02:51 |
-| Coreforce | Senior Data Architect | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=88ee86c32dd547a8) | 2026-07-10 02:51 |
-| Ad Hoc | Senior Cloud Network Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f9b291edd09486e1) | 2026-07-10 02:51 |
-| Deloitte | Software Engineer III- AI & Engineering/Software as a Service | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=948a2c5f37b820dc) | 2026-07-10 02:51 |
-| NVIDIA | Senior Data Engineer, Engineering Data Analytics | Santa Clara, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=391a7c687426739b) | 2026-07-10 02:51 |
-| NVIDIA | Senior Databricks Developer, SAP S/4 Data Products and Governance | Santa Clara, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee20fa8ee7d3e166) | 2026-07-10 02:51 |
-| Capgemini | Data Engineer (AWS & Snowflake) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8aa1ab37d34c6e8f) | 2026-07-10 02:51 |
-| Strada Education Network | Associate Client Data Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=03bec2c752012f13) | 2026-07-10 02:51 |
-| General Motors (GM) | Sr Software Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50a380c35ffe71f3) | 2026-07-10 02:51 |
-| Capgemini | Senior Data Engineer / Analytics Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=075b3631b7fd3201) | 2026-07-10 02:51 |
-| Sonora Quest Laboratories | Software Engineer II | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=908b181e68af5318) | 2026-07-10 02:51 |
-| Banner Health | Software Engineer II | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83d5ef8294abc2e4) | 2026-07-10 02:51 |
-| Soulside AI | Full Stack Developer (USA, Remote) | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad3f3e0423505c3f) | 2026-07-10 02:51 |
-| Lowenstein Sandler | Senior Software Engineer | Roseland, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b7443df35076432f) | 2026-07-10 02:51 |
 
 
 ---
