@@ -1,17 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-13 23:43
+Last updated: 2026-07-14 01:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BankUnited | Cloud Data Engineer II | Miami Lakes, FL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=c7dee1b85cc76fb8) | 2026-07-14 01:29 |
+| VIVA | Senior Data Scientist - AI/ML | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aa005e3343082c96) | 2026-07-14 01:29 |
+| Centurion Consulting Group | Artificial Intelligence (AI) Senior Data Scientist | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9f9ea8d31a8815a9) | 2026-07-14 01:29 |
+| CoStar Group | LoopNet - Senior Software Engineer | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=84ef94552c14d9bd) | 2026-07-14 01:29 |
+| TD | Software Engineer II (US) | Mount Laurel, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2633a0f0dff514a6) | 2026-07-14 01:29 |
+| Verizon | Princ Engr-Ntwk Engring | Basking Ridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4e6dbfd3d963c65c) | 2026-07-14 01:29 |
+| JPMorganChase | Analytics Solutions Associate Senior - DART | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1af5fc2a067c379) | 2026-07-14 01:29 |
+| Hunter Industries | Senior Software Engineer - Backend / Cloud Services | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=18a96d284c8c6745) | 2026-07-14 01:29 |
+| Smart Apply Test Company | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f9d9276b923717) | 2026-07-14 01:29 |
+| PI Security LLC | Forward Deployed Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed01df22f7b5ad6f) | 2026-07-14 01:29 |
+| Pano AI | Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2df343ab9d22ccf) | 2026-07-14 01:29 |
+| SugarAI | Senior Data Engineer - Databricks | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=51c067e768a2b9f2) | 2026-07-14 01:29 |
+| FIS | Data Engineer Seniors III (Databricks) | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89625a5f68a2c750) | 2026-07-14 01:29 |
+| LTM Limited | Specialist - Data Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c629002dbb52205d) | 2026-07-14 01:29 |
+| Smart Apply Test Company | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d697f334d121ec3) | 2026-07-14 01:29 |
+| Aledade, Inc. | Senior Software Engineer I- Data & Insights Engineering | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15c358b482d33d6d) | 2026-07-14 01:29 |
 | Safelite | Senior Data Engineer | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eab9b545c0f88523) | 2026-07-13 23:43 |
-| Smart Apply Test Company | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f9d9276b923717) | 2026-07-13 23:43 |
 | U.S. Bank | Data Engineering Architect | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8a16e3ffc1c278fc) | 2026-07-13 23:43 |
 | LPL Financial | Senior Software Engineer - Backend (Python & AWS) | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f6911722171aa1c) | 2026-07-13 23:43 |
 | Safelite | Senior Business Intelligence Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89f11f71a1c806a8) | 2026-07-13 23:43 |
-| Smart Apply Test Company | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d697f334d121ec3) | 2026-07-13 23:43 |
 | U.S. Bank | Sr. Data Engineering Architect | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b6af42e024fb5358) | 2026-07-13 23:43 |
 | Insight | Data Architect | Chandler, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=445e8b11f533b240) | 2026-07-13 23:43 |
 | Bloomberg | Senior Data Management Professional - Data Engineering - Entities | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=44d437f6ae16eb4d) | 2026-07-13 22:45 |
@@ -291,14 +305,6 @@ Last updated: 2026-07-13 23:43
 | Banner Health | Software Engineer II | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83d5ef8294abc2e4) | 2026-07-10 02:51 |
 | Soulside AI | Full Stack Developer (USA, Remote) | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad3f3e0423505c3f) | 2026-07-10 02:51 |
 | Lowenstein Sandler | Senior Software Engineer | Roseland, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b7443df35076432f) | 2026-07-10 02:51 |
-| RectorSeal | Senior Data Engineer (Hybrid, Houston based) | Houston, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=56bf46bcdf3a7d3e) | 2026-07-09 23:58 |
-| Dominion Energy | Senior Data Engineer/ Data Engineer (RICHMOND, VA, US, 23219) | Richmond, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a62b0f3021eecff3) | 2026-07-09 23:58 |
-| AmeriHealth Caritas | Data Management Business Systems Analyst Senior | Newtown Square, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ffe8b4359c9f57e8) | 2026-07-09 23:58 |
-| Genentech | Machine Learning Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b13e9ac170037a33) | 2026-07-09 23:58 |
-| K2 Space | Senior Application Data Engineer | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6c71baf7b7eedd7) | 2026-07-09 23:58 |
-| Intellibee Inc | Infrastructure Solutions Architect | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b21a772800827417) | 2026-07-09 23:58 |
-| Salas O'Brien | Senior Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c4a147881279cc0) | 2026-07-09 23:58 |
-| nSCALE | Operational Data & Observability Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c0a5446b79f2284f) | 2026-07-09 23:58 |
 
 
 ---
