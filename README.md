@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-14 11:18
+Last updated: 2026-07-14 13:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Buckeye Express | Systems Administrator | Northwood, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1a019537c9558853) | 2026-07-14 13:10 |
+| Capgemini | Spark Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2cb65007f4e4e07a) | 2026-07-14 13:10 |
+| Ford Motor Company | Senior Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff9ef03bf06139c6) | 2026-07-14 13:10 |
 | Capgemini | Spark Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7beab78b75a48b8) | 2026-07-14 11:18 |
 | Tesla | Sr. Software Engineer, Quality Engineering, Energy | Brookshire, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e3e988ed0beac81e) | 2026-07-14 11:18 |
-| Ford Motor Company | Senior Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff9ef03bf06139c6) | 2026-07-14 11:18 |
 | nan | Application Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=53d521f5fad271b9) | 2026-07-14 09:47 |
 | nan | Data Engineer | Grand Rapids, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=82d983a063892214) | 2026-07-14 09:47 |
 | Match Made Tech | Data Engineer- Hybrid | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=936d9e38993af00c) | 2026-07-14 09:47 |
@@ -273,10 +275,6 @@ Last updated: 2026-07-14 11:18
 | KBR | Senior Power BI Developer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a875401eb258187) | 2026-07-10 16:15 |
 | nan | Product Software Engineer I | Bristol, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff3a46155c05ef2) | 2026-07-10 16:15 |
 | I20 Technologies | Mainframe Programmer-Only W2 | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=653c4bccd321e6c0) | 2026-07-10 16:15 |
-| spire | Software Engineer - RFGL Systems | Vienna, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=89801ccb77279e9e) | 2026-07-10 13:05 |
-| EPAM Systems | Senior Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a4e2d662db85631) | 2026-07-10 13:05 |
-| EPAM Systems | Senior Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab4f84010a2ac741) | 2026-07-10 13:05 |
-| Edward Jones | Engineer III | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53d30893c6d70cfe) | 2026-07-10 13:05 |
 
 
 ---
