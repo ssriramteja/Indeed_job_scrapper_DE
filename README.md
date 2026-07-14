@@ -1,18 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-14 07:04
+Last updated: 2026-07-14 09:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Application Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=53d521f5fad271b9) | 2026-07-14 09:47 |
+| nan | Data Engineer | Grand Rapids, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=82d983a063892214) | 2026-07-14 09:47 |
+| Match Made Tech | Data Engineer- Hybrid | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=936d9e38993af00c) | 2026-07-14 09:47 |
+| giggs | Software Developer Engineer | Studio City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ac26f490d494d59) | 2026-07-14 09:47 |
+| Ford Motor Company | Senior Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff9ef03bf06139c6) | 2026-07-14 09:47 |
 | Winfo Solutions | Databricks Architect | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0c1691b4d7b52de9) | 2026-07-14 07:04 |
 | IDEXX Laboratories | Senior Data Engineer, AWS Data Platform | Westbrook, ME, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cfb146f53215cc2b) | 2026-07-14 07:04 |
-| Smart Apply Test Company | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17f9d9276b923717) | 2026-07-14 07:04 |
 | Nightwing | Senior Cloud Platform Engineer | Sterling, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=33124af211245233) | 2026-07-14 07:04 |
 | Nightwing | Cloud Platform Engineer | Sterling, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3979f77f1eb1efbc) | 2026-07-14 07:04 |
-| Smart Apply Test Company | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d697f334d121ec3) | 2026-07-14 07:04 |
-| Ford Motor Company | Senior Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff9ef03bf06139c6) | 2026-07-14 07:04 |
 | Tata Consultancy Services (TCS) | Engineer | Irving, TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=3e278e0dc4824974) | 2026-07-14 04:42 |
 | Tata Consultancy Services (TCS) | Software Developer, Business Intelligence Analyst | Research Triangle Park, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c01d88d0c47a7625) | 2026-07-14 04:42 |
 | Humana | Junior Software Engineer- Cloud Cost Optimization | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=59be0306e4985a52) | 2026-07-14 04:42 |
