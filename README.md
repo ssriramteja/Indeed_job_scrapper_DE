@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-14 22:48
+Last updated: 2026-07-14 23:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Matrix International Financial Services | Azure Data Architect | US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b9c9310d05771935) | 2026-07-14 23:43 |
+| Rippling | Senior .NET Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=52c472962c791de2) | 2026-07-14 23:43 |
+| Beghou Consulting | Consultant, Data Analytics | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6c4d9af5a8a63484) | 2026-07-14 23:43 |
+| Mercedes-Benz Group | Quality and Data Engineer | Vance, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a36a0ff08797a70) | 2026-07-14 23:43 |
+| Re:Build Manufacturing | Senior Software Engineer – Product | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61d08f5c56b39289) | 2026-07-14 23:43 |
+| U.S. Bank | Senior Data Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ebbf24573d559b5) | 2026-07-14 23:43 |
+| TTX | Senior Development Operations Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=730302ab09184768) | 2026-07-14 23:43 |
 | Fidelity Investments | Senior Data Engineer | Westlake, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3720530c1ac33814) | 2026-07-14 22:48 |
 | Aktra Inc | AI & Financial Engineering Developer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=241a34851225e025) | 2026-07-14 22:48 |
 | Astronomer | Senior Solutions Architect - Airflow (West Coast) | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=563d41613641e2d6) | 2026-07-14 22:48 |
@@ -351,12 +358,6 @@ Last updated: 2026-07-14 22:48
 | Electronic Arts | AI Solution Architect - Enterprise Intelligence | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a3913715bcf2ea8f) | 2026-07-10 23:50 |
 | Brigham Young University | Full-Stack Software Developer | Provo, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=927a1a9e76672e0a) | 2026-07-10 23:50 |
 | Zensar Technologies | Computer Programmer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f7b6f75590ec5d1) | 2026-07-10 23:50 |
-| Tesla | Data Engineer | Sparks, NV, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c8e383943021fcf6) | 2026-07-10 22:52 |
-| Bhuvi IT Solutions | Full Stack Java Developer | Cincinnati, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=234f12eba397b477) | 2026-07-10 22:52 |
-| South College | Database Engineer | Knoxville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7ec2a4011d2b744c) | 2026-07-10 22:52 |
-| Fidelity Investments | Senior Software engineer | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c7eaaaa4374b1b66) | 2026-07-10 22:52 |
-| JPMorganChase | Software Engineer II - Big Data & AWS | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cff2100868d24cad) | 2026-07-10 22:52 |
-| Textron | Developer II | Providence, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2fd891eedd7d004) | 2026-07-10 22:52 |
 
 
 ---
