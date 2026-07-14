@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-14 15:17
+Last updated: 2026-07-14 17:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bloomberg | Senior Data Management Professional - Data Engineering - Entities | Princeton, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=00a24491194c9938) | 2026-07-14 17:03 |
+| Arbitration Forums Inc. | Senior Software Engineer | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0c27f2a9eec45412) | 2026-07-14 17:03 |
+| Newpage Digital Healthcare solutions | AI Native Developer- Europe | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=444a0e6bd539f82b) | 2026-07-14 17:03 |
+| Newpage Digital Healthcare solutions | AI Native Builder-Europe | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ae934e8451ebc14c) | 2026-07-14 17:03 |
+| iHerb | Sr. Data Engineer I | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=67dc4ab0c6df1a50) | 2026-07-14 17:03 |
+| Optum | Technical Product Management - Cloud Optimization - Remote | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8490d129696b2471) | 2026-07-14 17:03 |
+| New England Life Care | Data Warehouse Developer | Scarborough, ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fe69cd7125f7a833) | 2026-07-14 17:03 |
+| New England Life Care | Data Warehouse Developer | Concord, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c09787e1cb8cb395) | 2026-07-14 17:03 |
+| New England Life Care | Data Warehouse Developer | Woburn, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a4ad7ea1b58a31e) | 2026-07-14 17:03 |
+| New England Life Care | Data Warehouse Developer | Canton, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1cc726639aa959a6) | 2026-07-14 17:03 |
+| Optum | RPA Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=74fd1f39f284ae52) | 2026-07-14 17:03 |
+| Verisure | Software Engineer | Uniontown, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c374eb71cdd5829a) | 2026-07-14 17:03 |
+| Asurion | Software Engineer 2 - Internal Development Platform (IDP) | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4a35189b0c83845) | 2026-07-14 17:03 |
 | News Corp | Azure Data Architect (remote US) | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d584a94be46cf8b0) | 2026-07-14 15:17 |
 | Charles Schwab | Specialist, Retirement Investment Analytics | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ea8b523875ba47e1) | 2026-07-14 15:17 |
 | Oracle | [REMOTE] Senior Platform Software Engineer- Oracle Clinical Digital Assistant | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=23f3fde4ed90357e) | 2026-07-14 15:17 |
@@ -270,14 +283,6 @@ Last updated: 2026-07-14 15:17
 | The McPherson Companies, Inc | Data Engineer / API Integration Developer | Trussville, AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=971c85159c133be2) | 2026-07-10 18:17 |
 | KBR | Senior Power BI Developer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dedb843e72fa5a35) | 2026-07-10 18:17 |
 | KBR | Senior Power BI Developer | Chantilly, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b07c53e098cdc93c) | 2026-07-10 18:17 |
-| Virtualan Software | Data Warehouse Architect | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7cf961188cdaacb2) | 2026-07-10 16:15 |
-| IPolarity LLC | AWS Backend Engineer Charlotte NC Hybrid or remote EST hours | Whippany, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4dea8d177ae32964) | 2026-07-10 16:15 |
-| Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3bbc3e06adaa2abd) | 2026-07-10 16:15 |
-| Dexter Systems Inc | VDH Oracle OCI Cloud Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2f9f08ad500594a0) | 2026-07-10 16:15 |
-| Apollo Technology Solutions LLC | Oracle OCI Cloud Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=417e45e2898523c2) | 2026-07-10 16:15 |
-| KBR | Senior Power BI Developer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a875401eb258187) | 2026-07-10 16:15 |
-| nan | Product Software Engineer I | Bristol, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eff3a46155c05ef2) | 2026-07-10 16:15 |
-| I20 Technologies | Mainframe Programmer-Only W2 | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=653c4bccd321e6c0) | 2026-07-10 16:15 |
 
 
 ---
