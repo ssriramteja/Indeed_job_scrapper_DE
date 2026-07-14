@@ -1,16 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-14 09:47
+Last updated: 2026-07-14 11:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Spark Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7beab78b75a48b8) | 2026-07-14 11:18 |
+| Tesla | Sr. Software Engineer, Quality Engineering, Energy | Brookshire, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e3e988ed0beac81e) | 2026-07-14 11:18 |
+| Ford Motor Company | Senior Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff9ef03bf06139c6) | 2026-07-14 11:18 |
 | nan | Application Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=53d521f5fad271b9) | 2026-07-14 09:47 |
 | nan | Data Engineer | Grand Rapids, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=82d983a063892214) | 2026-07-14 09:47 |
 | Match Made Tech | Data Engineer- Hybrid | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=936d9e38993af00c) | 2026-07-14 09:47 |
 | giggs | Software Developer Engineer | Studio City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ac26f490d494d59) | 2026-07-14 09:47 |
-| Ford Motor Company | Senior Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff9ef03bf06139c6) | 2026-07-14 09:47 |
 | Winfo Solutions | Databricks Architect | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0c1691b4d7b52de9) | 2026-07-14 07:04 |
 | IDEXX Laboratories | Senior Data Engineer, AWS Data Platform | Westbrook, ME, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cfb146f53215cc2b) | 2026-07-14 07:04 |
 | Nightwing | Senior Cloud Platform Engineer | Sterling, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=33124af211245233) | 2026-07-14 07:04 |
@@ -275,18 +277,6 @@ Last updated: 2026-07-14 09:47
 | EPAM Systems | Senior Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a4e2d662db85631) | 2026-07-10 13:05 |
 | EPAM Systems | Senior Salesforce Data Cloud Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab4f84010a2ac741) | 2026-07-10 13:05 |
 | Edward Jones | Engineer III | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53d30893c6d70cfe) | 2026-07-10 13:05 |
-| Capgemini | FullStack Engineer (AWS AI) | Malvern, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bfeac083f625981a) | 2026-07-10 10:15 |
-| Site Technologies | Senior Backend Software Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c49ace417083d1b7) | 2026-07-10 10:15 |
-| Rocket | Data Engineer II | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ae380943be2d74d9) | 2026-07-10 10:15 |
-| Spire Global | Software Engineer - RFGL Systems | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2c0258502fd0ff63) | 2026-07-10 10:15 |
-| Capgemini | AWS Data Scientist | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0e66310e18f4395c) | 2026-07-10 10:15 |
-| nan | Software Engineer II - AI Solutions | King of Prussia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7c3bb69b56a9898d) | 2026-07-10 10:15 |
-| Wayfair | Software Engineer II, Search and Recommendations | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=061f6f2d8cb79161) | 2026-07-10 10:15 |
-| Wayfair | Software Engineer II, Search and Recommendations | Mountain View, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fce26e8abb6b4999) | 2026-07-10 10:15 |
-| Boston University | LEARNING FACILITATOR, Office of the Provost | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6964850806458d5d) | 2026-07-10 10:15 |
-| Scotiabank | Senior Software Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb1f2f31f27654c4) | 2026-07-10 10:15 |
-| Cotiviti | Software Engineer-Java / Drools/ Bitbucket | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7696896ee985fdf6) | 2026-07-10 10:15 |
-| Photon | API Developer - Springfield, USA | Springfield, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df731ec2d7c03c42) | 2026-07-10 10:15 |
 
 
 ---
