@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-14 19:03
+Last updated: 2026-07-14 20:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Junior Architect / Senior Data Engineer - Remote | Schaumburg, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7e53a2ba6f9a4021) | 2026-07-14 20:50 |
+| Optum | Senior Cloud Data Engineer - Remote | Las Vegas, NV, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0426c9944a6312e8) | 2026-07-14 20:50 |
+| Western Governors University | Senior Quality Engineer - FY27 | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=754540310d15df69) | 2026-07-14 20:50 |
+| El Toro.com | Senior DevOps Engineer | Louisville, KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d42d84e2b583adb0) | 2026-07-14 20:50 |
+| Chevron | 2026-2027 Information Technology - Software Engineer - Full-Time | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6578ea1eb5e5142) | 2026-07-14 20:50 |
+| Chevron | 2026-2027 Information Technology - Software Engineer - Intern | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eab14599c79da82b) | 2026-07-14 20:50 |
+| Aivra Health | Junior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7dbdf6ce237b13d) | 2026-07-14 20:50 |
 | RSM | Cloud Transformation Senior Consultant | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=57362c44cdaea54f) | 2026-07-14 19:03 |
 | Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b9be95a71934961d) | 2026-07-14 19:03 |
 | Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bcf05ce3284e6a20) | 2026-07-14 19:03 |
@@ -288,11 +295,6 @@ Last updated: 2026-07-14 19:03
 | Wells Fargo | Senior Full Stack Software Engineer (contract) | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cbe5ac9ecb45aa70) | 2026-07-10 21:52 |
 | Pacific Life | Data Engineer II | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9058e1e39a092453) | 2026-07-10 21:52 |
 | Technuf LLC | Enterprise Solution Architect - AWS Modernization & Legacy Transformation | Suitland, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdc502578017bc82) | 2026-07-10 21:52 |
-| Polar Semiconductor | Sr. Financial Systems Analyst | Bloomington, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23d719ff138e1d) | 2026-07-10 20:14 |
-| Salesforce | Full-Stack Developer - Platform Services SMTS | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=77306632aba3d62a) | 2026-07-10 20:14 |
-| Wipro | GCP Data Engineer | Santa Clara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca8d0f916325965c) | 2026-07-10 20:14 |
-| RUSSELL INVESTMENTS | Data Platform Engineer II | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7647430742e0e326) | 2026-07-10 20:14 |
-| Two Six Technologies | Data Collection Engineer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4fa42b4ae7575796) | 2026-07-10 20:14 |
 
 
 ---
