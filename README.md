@@ -1,18 +1,36 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-15 20:03
+Last updated: 2026-07-15 21:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | AI Engineer | Fort Worth, TX, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=bd9e10d0ccdb5375) | 2026-07-15 21:49 |
+| AEM Corporation | Data Engineer | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=cb427fa873ed5fed) | 2026-07-15 21:49 |
+| Core BTS | GCP Solutions Architect | Menasha, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a104f9a2c71e1bcc) | 2026-07-15 21:49 |
+| Core BTS | GCP Data Engineer | Menasha, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dd5be7395930eac9) | 2026-07-15 21:49 |
+| VetsEZ | Senior Azure Integration Engineer (Remote Opportunity) | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d20671f1ab98e5aa) | 2026-07-15 21:49 |
+| VetsEZ | Senior Azure Integration Engineer (Remote Opportunity) | Philadelphia, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d2fc45b22c56ab74) | 2026-07-15 21:49 |
+| Microtek Learning | Data Engineer | Silver Spring, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=35646364ed8f5219) | 2026-07-15 21:49 |
+| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-15 21:49 |
+| iHeartMedia | Full-Stack Software Developer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=30ce4ef971ec1d26) | 2026-07-15 21:49 |
+| Southern Company | Application Solutions Architect | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=510eace270c01417) | 2026-07-15 21:49 |
+| Intuitive (Intuitive Surgical) | Software Engineer | Peachtree Corners, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f24000cfeb877020) | 2026-07-15 21:49 |
+| Handshake | Senior Software Engineer, Coding | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f8090825b16fc51e) | 2026-07-15 21:49 |
+| Omada Health | Senior Software Engineer, Data & AI Platform | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=94f84eddf97cd2cd) | 2026-07-15 21:49 |
+| iHealth Innovative Solutions | Azure Cloud Architect | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed2e1c4a44c21b22) | 2026-07-15 21:49 |
+| Bazz Houston International Manufacturing Solutions | Senior Quality Assurance Engineer | Garden Grove, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5348150d7c9589e6) | 2026-07-15 21:49 |
+| Coreforce | Senior Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5dcbaf4daad4fc7) | 2026-07-15 21:49 |
+| Arista Networks | Technical Architect - Enterprise Data | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2e22338b7c0517c) | 2026-07-15 21:49 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-15 21:49 |
+| nan | Full Stack \| AI Developer | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80c4b497c4690c21) | 2026-07-15 21:49 |
 | Capgemini | AWS Data Engineer | Hanover, NH, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=1faf9fe4c0bcd7c6) | 2026-07-15 20:03 |
 | Axiomatic AI | Senior Platform Engineer | Cambridge, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=675661d633a7ce19) | 2026-07-15 20:03 |
 | Coastal | Data Platform Engineer (Data 360) | Indianapolis, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=25f44870043020f2) | 2026-07-15 20:03 |
 | Intelligent Medical Objects | Sr. Software Engineer - AI Platforms and Automation | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=60174baa1f0aad14) | 2026-07-15 20:03 |
 | Moderna | Senior AI Engineer | Cambridge, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d9727f7b8e7ba49f) | 2026-07-15 20:03 |
 | Fieldwire | Data Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52528f466514c758) | 2026-07-15 20:03 |
-| Southern Company | Application Solutions Architect | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=510eace270c01417) | 2026-07-15 20:03 |
 | Aperia | DevOps Engineer | Omaha, NE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e9074111e1ca6eb3) | 2026-07-15 20:03 |
 | CONNEXUS CREDIT UNION | Business Intelligence Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17489ce3b83eeabe) | 2026-07-15 20:03 |
 | Primoris Services Corporation | Data Engineer - Business Analytics | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=33816acdbf998550) | 2026-07-15 20:03 |
@@ -22,7 +40,6 @@ Last updated: 2026-07-15 20:03
 | Capgemini | AWS Devops - AOM | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe4c170529e0e9c9) | 2026-07-15 20:03 |
 | City IT | Senior AWS Software Engineer (Integrations Team) | Marshfield, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4a82bf3693f26a75) | 2026-07-15 20:03 |
 | City IT | Senior AWS Software Engineer (Integrations Team) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=948d5244cfe1a3f8) | 2026-07-15 20:03 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-15 20:03 |
 | WSSC Water | Data Architect | Laurel, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a77df08519b290c1) | 2026-07-15 18:56 |
 | Vytalize Health | Full Stack Engineer, Data Services | KS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=adcff14ee1b8e664) | 2026-07-15 18:56 |
 | Mass General Brigham | Data Engineer | Somerville, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0a26b0635f31911) | 2026-07-15 18:56 |
