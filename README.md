@@ -1,18 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-15 07:07
+Last updated: 2026-07-15 09:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Edgewater Federal Solutions | Artificial Intelligence Senior Data Scientist | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4a48e7242a74c765) | 2026-07-15 09:51 |
+| Diversified Gas & Oil | Data Engineer- BI Developer | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d9cd4d53bb42fc00) | 2026-07-15 09:51 |
+| Granite Telecommunications | Senior Cloud Data Ops Engineer | Quincy, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f722c5b892610593) | 2026-07-15 09:51 |
+| Datadrive | Analytics Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5f20a50010d3a4e) | 2026-07-15 09:51 |
+| ServiceLink | Performance Engineer, Information technology | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3af50fd888d2a26) | 2026-07-15 09:51 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-15 09:51 |
 | JPMorganChase | Software Engineer III - Glue/Python/Pyspark | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0bd064010356a824) | 2026-07-15 07:07 |
 | Ideas2IT Technology Services | Power BI Developer | Tennyson, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3c514f50b938a8dc) | 2026-07-15 07:07 |
 | AutoSavvy | Data Engineer | Woods Cross, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7481c6f102626c6e) | 2026-07-15 07:07 |
 | DriveTime Automotive Group | Senior Data Engineer (DBT) | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be21268d9d981efd) | 2026-07-15 07:07 |
 | DriveTime Automotive Group | Senior Data Engineer (DBT) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f756de42016efc57) | 2026-07-15 07:07 |
 | Gulfstream Aerospace | Reporting Developer III - Cloud Analytics Data Engineer | Savannah, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=abc756e24b7ebb78) | 2026-07-15 07:07 |
-| Hewlett Packard Enterprise \| HPE | Senior Solutions Designer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42d7826852e5a12b) | 2026-07-15 07:07 |
 | Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=588555361d1bf2c2) | 2026-07-15 04:42 |
 | Daxko | Senior Data Engineer Remote - US • Remote | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=d212feaf575e2588) | 2026-07-15 04:42 |
 | Daxko | Senior Data Engineer | Birmingham, AL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=419f9c53a083aba9) | 2026-07-15 04:42 |
@@ -343,12 +348,6 @@ Last updated: 2026-07-15 07:07
 | RWE | Senior Software Engineer II | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=275b7a8c06aa4c7e) | 2026-07-11 10:55 |
 | New York Life | Senior Associate - Full Stack Developer - Wealth Management Technology | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8bc74ef26d52ec8e) | 2026-07-11 10:55 |
 | HCLTech | Senior Solution Architect | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b6f9e26dbe6cc6c) | 2026-07-11 10:55 |
-| General Motors (GM) | Software Engineer | Warren, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ba2f5df91db55ec9) | 2026-07-11 09:18 |
-| General Motors (GM) | Senior Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c380088294d31182) | 2026-07-11 09:18 |
-| Point One Navigation | Senior DevOps Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b1b105ae72cedfb) | 2026-07-11 09:18 |
-| Point One Navigation | Senior DevOps Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=894f57d9a1c304cf) | 2026-07-11 09:18 |
-| Plymouth Rock Assurance | Data Engineer Intern/Co-op | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2bafe231fd54f8af) | 2026-07-11 09:18 |
-| Plymouth Rock Assurance | Senior AWS Cloud Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1641a10b9bb89296) | 2026-07-11 09:18 |
 
 
 ---
