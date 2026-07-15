@@ -1,17 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-15 09:51
+Last updated: 2026-07-15 11:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Berkley | Senior Data Scientist | Glen Allen, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7656191539f10c8f) | 2026-07-15 11:22 |
+| NextAmp LLC | Data Analyst | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=112573c8edf11915) | 2026-07-15 11:22 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-15 11:22 |
 | Edgewater Federal Solutions | Artificial Intelligence Senior Data Scientist | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4a48e7242a74c765) | 2026-07-15 09:51 |
 | Diversified Gas & Oil | Data Engineer- BI Developer | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d9cd4d53bb42fc00) | 2026-07-15 09:51 |
 | Granite Telecommunications | Senior Cloud Data Ops Engineer | Quincy, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f722c5b892610593) | 2026-07-15 09:51 |
 | Datadrive | Analytics Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5f20a50010d3a4e) | 2026-07-15 09:51 |
 | ServiceLink | Performance Engineer, Information technology | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3af50fd888d2a26) | 2026-07-15 09:51 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-15 09:51 |
 | JPMorganChase | Software Engineer III - Glue/Python/Pyspark | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0bd064010356a824) | 2026-07-15 07:07 |
 | Ideas2IT Technology Services | Power BI Developer | Tennyson, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3c514f50b938a8dc) | 2026-07-15 07:07 |
 | AutoSavvy | Data Engineer | Woods Cross, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7481c6f102626c6e) | 2026-07-15 07:07 |
@@ -345,9 +347,6 @@ Last updated: 2026-07-15 09:51
 | Airbus | HR AI/ML Engineer II | Herndon, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7aee672823e50ae6) | 2026-07-11 16:44 |
 | nan | Data Engineer II | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=565b08a71b6647d2) | 2026-07-11 15:45 |
 | JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e6a9633dc466a51) | 2026-07-11 12:57 |
-| RWE | Senior Software Engineer II | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=275b7a8c06aa4c7e) | 2026-07-11 10:55 |
-| New York Life | Senior Associate - Full Stack Developer - Wealth Management Technology | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8bc74ef26d52ec8e) | 2026-07-11 10:55 |
-| HCLTech | Senior Solution Architect | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b6f9e26dbe6cc6c) | 2026-07-11 10:55 |
 
 
 ---
