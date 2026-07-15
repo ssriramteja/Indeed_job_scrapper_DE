@@ -1,14 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-15 22:50
+Last updated: 2026-07-15 23:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Esri | Sr. Software Engineer - ArcGIS Enterprise | Redlands, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=239b32e292b68704) | 2026-07-15 23:51 |
+| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-15 23:51 |
+| Southern Company | Application Solutions Architect | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=510eace270c01417) | 2026-07-15 23:51 |
+| Münchener Rückversicherungs-Gesellschaft | Senior DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eae68457635010f5) | 2026-07-15 23:51 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-15 23:51 |
+| nan | Full Stack \| AI Developer | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80c4b497c4690c21) | 2026-07-15 23:51 |
 | JPMorganChase | Software Engineer III - C# / Java | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bd35c029ba02435f) | 2026-07-15 22:50 |
-| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-15 22:50 |
-| Southern Company | Application Solutions Architect | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=510eace270c01417) | 2026-07-15 22:50 |
 | Nestlé Purina | Data Scientist | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=788999513395c430) | 2026-07-15 22:50 |
 | RBC | Sr. Data Scientist | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=70b73d6d3922b6ec) | 2026-07-15 22:50 |
 | Varsity Spirit | Senior Full Stack Developer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6bbf57b26961dcb5) | 2026-07-15 22:50 |
@@ -17,8 +21,6 @@ Last updated: 2026-07-15 22:50
 | Vacatia, Inc. | Cloud Infrastructure Engineer | Fort Lauderdale, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=808d72606614c9b0) | 2026-07-15 22:50 |
 | Betsol | CCaaS GCP Product Owner | Broomfield, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e12026ecbd107234) | 2026-07-15 22:50 |
 | Nestlé Purina | Expert Data Scientist | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9492d4954650eb7f) | 2026-07-15 22:50 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-15 22:50 |
-| nan | Full Stack \| AI Developer | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80c4b497c4690c21) | 2026-07-15 22:50 |
 | nan | AI Engineer | Fort Worth, TX, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=bd9e10d0ccdb5375) | 2026-07-15 21:49 |
 | AEM Corporation | Data Engineer | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=cb427fa873ed5fed) | 2026-07-15 21:49 |
 | Core BTS | GCP Solutions Architect | Menasha, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a104f9a2c71e1bcc) | 2026-07-15 21:49 |

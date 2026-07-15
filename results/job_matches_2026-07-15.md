@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-15
 
-**Total Jobs Found:** 80
+**Total Jobs Found:** 78
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -258,18 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Artificial Intelligence Senior Data Scientist @ Edgewater Federal Solutions
-**Match Score:** 13.2%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, ECS, RDS, Azure, Databricks, Scala, Power BI, Tableau
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4a48e7242a74c765)
-
----
-
-## 25. Power BI Developer @ Ideas2IT Technology Services
+## 24. Power BI Developer @ Ideas2IT Technology Services
 **Match Score:** 13.2%
 
 📍 **Location:** Tennyson, IN, US USA
@@ -280,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Full Stack Engineer, Data Services @ Vytalize Health
+## 25. Full Stack Engineer, Data Services @ Vytalize Health
 **Match Score:** 13.2%
 
 📍 **Location:** KS, US USA
@@ -291,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Data Engineer @ Fieldwire
+## 26. Data Engineer @ Fieldwire
 **Match Score:** 12.5%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -302,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Senior Cloud Engineer - Azure @ CCC Intelligent Solutions
+## 27. Senior Cloud Engineer - Azure @ CCC Intelligent Solutions
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -313,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Data Engineer- BI Developer @ Diversified Gas & Oil
+## 28. Data Engineer- BI Developer @ Diversified Gas & Oil
 **Match Score:** 12.5%
 
 📍 **Location:** Birmingham, AL, US USA
@@ -321,6 +310,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Medallion Architecture, Scala, Snowflake, Data Modeling, ETL, ELT, dbt, Power BI
 
 [Apply Here](https://www.indeed.com/viewjob?jk=d9cd4d53bb42fc00)
+
+---
+
+## 29. Sr. Software Engineer - ArcGIS Enterprise @ Esri
+**Match Score:** 12.5%
+
+📍 **Location:** Redlands, CA, US USA
+
+🔑 **Keywords:** AWS, S3, SQS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, Maven
+
+[Apply Here](https://www.indeed.com/viewjob?jk=239b32e292b68704)
 
 ---
 
@@ -434,29 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Sr. Data Scientist @ RBC
-**Match Score:** 11.8%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** RDS, Databricks, Spark, PySpark, Scala, Snowflake, NoSQL, ETL, Power BI, Tableau
-
-[Apply Here](https://www.indeed.com/viewjob?jk=70b73d6d3922b6ec)
-
----
-
-## 41. Senior Full Stack Developer @ Varsity Spirit
-**Match Score:** 11.8%
-
-📍 **Location:** TX, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, ECS, RDS, Oracle, PostgreSQL, Power BI
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6bbf57b26961dcb5)
-
----
-
-## 42. Senior Data Engineer @ LINEVISION
+## 40. Senior Data Engineer @ LINEVISION
 **Match Score:** 11.8%
 
 📍 **Location:** Boston, MA, US USA
@@ -464,6 +442,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Glue, Lambda, Athena, SQS, RDS, Scala, Data Modeling, ETL, Power BI
 
 [Apply Here](https://www.indeed.com/viewjob?jk=2dc506bd6bbd7df1)
+
+---
+
+## 41. Data engineer @ Biztec Global
+**Match Score:** 11.8%
+
+📍 **Location:** Glendale, CA, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, RDS, Scala, Snowflake, Data Modeling, Dimensional Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f1dd7af4bac5667f)
+
+---
+
+## 42. Senior Full Stack Developer @ Varsity Spirit
+**Match Score:** 11.8%
+
+📍 **Location:** TX, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, ECS, RDS, Oracle, PostgreSQL, Power BI
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6bbf57b26961dcb5)
 
 ---
 
@@ -478,18 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Data engineer @ Biztec Global
-**Match Score:** 11.8%
-
-📍 **Location:** Glendale, CA, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, RDS, Scala, Snowflake, Data Modeling, Dimensional Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f1dd7af4bac5667f)
-
----
-
-## 45. API/Microservices/AWS Software Engineer - Remote @ CSAA Insurance Group, a AAA Insurer
+## 44. API/Microservices/AWS Software Engineer - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 11.8%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -497,6 +486,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, Scala, MongoDB, DynamoDB, NoSQL, Splunk, Jenkins, Maven, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=d840931b85553d6b)
+
+---
+
+## 45. Sr. Data Scientist @ RBC
+**Match Score:** 11.8%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** RDS, Databricks, Spark, PySpark, Scala, Snowflake, NoSQL, ETL, Power BI, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=70b73d6d3922b6ec)
 
 ---
 
@@ -709,7 +709,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Snowflake Architect @ Biztec Global
+## 65. Senior DevOps Engineer @ Münchener Rückversicherungs-Gesellschaft
+**Match Score:** 10.4%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, ELT, CI/CD, GitHub Actions, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eae68457635010f5)
+
+---
+
+## 66. Snowflake Architect @ Biztec Global
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
@@ -720,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Associate Data Engineer @ Vytalize Health
+## 67. Associate Data Engineer @ Vytalize Health
 **Match Score:** 10.4%
 
 📍 **Location:** KS, US USA
@@ -731,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Analytics Engineer @ Datadrive
+## 68. Analytics Engineer @ Datadrive
 **Match Score:** 10.4%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -742,84 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. CCaaS GCP Product Owner @ Betsol
-**Match Score:** 10.4%
-
-📍 **Location:** Broomfield, CO, US USA
-
-🔑 **Keywords:** IAM, RDS, Google Cloud Platform, GCP, BigQuery, Cloud Storage, Vertex AI, Kafka, Power BI, Tableau
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e12026ecbd107234)
-
----
-
-## 69. Expert Data Scientist @ Nestlé Purina
-**Match Score:** 10.4%
-
-📍 **Location:** St. Louis, MO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Hadoop, Spark, Scala, NoSQL, MLOps, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9492d4954650eb7f)
-
----
-
-## 70. Technical Architect - Enterprise Data @ Arista Networks
-**Match Score:** 10.4%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** RDS, Azure, Spark, PySpark, Scala, Data Modeling, ETL, ELT, Power BI, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a2e22338b7c0517c)
-
----
-
-## 71. Data Warehouse Architect @ Avid Technology
-**Match Score:** 10.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** RDS, Scala, Snowflake, Data Modeling, Dimensional Modeling, Star Schema, ETL, ELT, Power BI, Tableau
-
-[Apply Here](https://www.indeed.com/viewjob?jk=42278e3835861af7)
-
----
-
-## 72. Senior UX Software Engineer @ Charles River Analytics
-**Match Score:** 10.4%
-
-📍 **Location:** Cambridge, MA, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, YARN, Scala, SQL Server, MySQL, MongoDB, Docker, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e62e78236a52a218)
-
----
-
-## 73. Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) @ Nationwide Mutual Insurance Company
-**Match Score:** 10.4%
-
-📍 **Location:** Columbus, OH, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, Kafka, CI/CD, Jenkins, GitHub Actions, Kubernetes, Jenkins, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1)
-
----
-
-## 74. Performance Engineer, Information technology @ ServiceLink
-**Match Score:** 10.4%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** API Gateway, RDS, Azure, Event Hubs, Scala, PostgreSQL, CI/CD, GitHub Actions, Azure DevOps, AKS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f3af50fd888d2a26)
-
----
-
-## 75. AWS Devops - AOM @ Capgemini
+## 69. AWS Devops - AOM @ Capgemini
 **Match Score:** 10.4%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -830,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Senior AWS Software Engineer (Integrations Team) @ City IT
+## 70. Senior AWS Software Engineer (Integrations Team) @ City IT
 **Match Score:** 10.4%
 
 📍 **Location:** Marshfield, MA, US USA
@@ -841,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Senior AWS Software Engineer (Integrations Team) @ City IT
+## 71. Senior AWS Software Engineer (Integrations Team) @ City IT
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
@@ -852,7 +786,62 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Business Intelligence Analyst I - REMOTE @ Net Health
+## 72. CCaaS GCP Product Owner @ Betsol
+**Match Score:** 10.4%
+
+📍 **Location:** Broomfield, CO, US USA
+
+🔑 **Keywords:** IAM, RDS, Google Cloud Platform, GCP, BigQuery, Cloud Storage, Vertex AI, Kafka, Power BI, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e12026ecbd107234)
+
+---
+
+## 73. Technical Architect - Enterprise Data @ Arista Networks
+**Match Score:** 10.4%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** RDS, Azure, Spark, PySpark, Scala, Data Modeling, ETL, ELT, Power BI, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a2e22338b7c0517c)
+
+---
+
+## 74. Data Warehouse Architect @ Avid Technology
+**Match Score:** 10.4%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** RDS, Scala, Snowflake, Data Modeling, Dimensional Modeling, Star Schema, ETL, ELT, Power BI, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=42278e3835861af7)
+
+---
+
+## 75. Senior UX Software Engineer @ Charles River Analytics
+**Match Score:** 10.4%
+
+📍 **Location:** Cambridge, MA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, YARN, Scala, SQL Server, MySQL, MongoDB, Docker, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e62e78236a52a218)
+
+---
+
+## 76. Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) @ Nationwide Mutual Insurance Company
+**Match Score:** 10.4%
+
+📍 **Location:** Columbus, OH, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Kafka, CI/CD, Jenkins, GitHub Actions, Kubernetes, Jenkins, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1)
+
+---
+
+## 77. Business Intelligence Analyst I - REMOTE @ Net Health
 **Match Score:** 10.4%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -863,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Full Stack | AI Developer @ nan
+## 78. Full Stack | AI Developer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Orlando, FL, US USA
@@ -871,17 +860,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, Scala, PostgreSQL, MySQL, CI/CD, Jenkins, Azure DevOps, Jenkins, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=80c4b497c4690c21)
-
----
-
-## 80. Forward Deployed Engineer @ VINMAR INTERNATIONAL
-**Match Score:** 10.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, SQS, SNS, ECS, IAM, RDS, Scala, PostgreSQL, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=43aa1a5e37a0ff4a)
 
 ---
 
