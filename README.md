@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-15 04:42
+Last updated: 2026-07-15 07:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III - Glue/Python/Pyspark | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0bd064010356a824) | 2026-07-15 07:07 |
+| Ideas2IT Technology Services | Power BI Developer | Tennyson, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3c514f50b938a8dc) | 2026-07-15 07:07 |
+| AutoSavvy | Data Engineer | Woods Cross, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7481c6f102626c6e) | 2026-07-15 07:07 |
+| DriveTime Automotive Group | Senior Data Engineer (DBT) | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be21268d9d981efd) | 2026-07-15 07:07 |
+| DriveTime Automotive Group | Senior Data Engineer (DBT) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f756de42016efc57) | 2026-07-15 07:07 |
+| Gulfstream Aerospace | Reporting Developer III - Cloud Analytics Data Engineer | Savannah, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=abc756e24b7ebb78) | 2026-07-15 07:07 |
+| Hewlett Packard Enterprise \| HPE | Senior Solutions Designer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42d7826852e5a12b) | 2026-07-15 07:07 |
 | Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=588555361d1bf2c2) | 2026-07-15 04:42 |
 | Daxko | Senior Data Engineer Remote - US • Remote | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=d212feaf575e2588) | 2026-07-15 04:42 |
 | Daxko | Senior Data Engineer | Birmingham, AL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=419f9c53a083aba9) | 2026-07-15 04:42 |
@@ -16,7 +23,6 @@ Last updated: 2026-07-15 04:42
 | VetsEZ | Senior Software Product Engineer (Remote Opportunity) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eeb8dc7b4cca4c33) | 2026-07-15 04:42 |
 | VetsEZ | Senior Software Product Engineer (Remote Opportunity) | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7bee4a1e548e177) | 2026-07-15 04:42 |
 | VetsEZ | Senior Software Product Engineer (Remote Opportunity) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a54ac0922147b15) | 2026-07-15 04:42 |
-| Hewlett Packard Enterprise \| HPE | Senior Solutions Designer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42d7826852e5a12b) | 2026-07-15 04:42 |
 | STAND TOGETHER | Senior Full-Stack Software Engineer - Front-End Focused | Arlington, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3221281fdf023197) | 2026-07-15 01:26 |
 | Fiddler AI | Senior AI Solutions Engineer | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c44bbcac30a87c2) | 2026-07-15 01:26 |
 | Fiddler AI | Senior AI Solutions Engineer | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5bc37b1c10548573) | 2026-07-15 01:26 |
@@ -343,22 +349,6 @@ Last updated: 2026-07-15 04:42
 | Point One Navigation | Senior DevOps Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=894f57d9a1c304cf) | 2026-07-11 09:18 |
 | Plymouth Rock Assurance | Data Engineer Intern/Co-op | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2bafe231fd54f8af) | 2026-07-11 09:18 |
 | Plymouth Rock Assurance | Senior AWS Cloud Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1641a10b9bb89296) | 2026-07-11 09:18 |
-| Elevate Aviation Group | Data Engineer | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9383db09846c90f4) | 2026-07-11 04:55 |
-| Intone Networks | DevOps Architect | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c1f3cc801c79c8e7) | 2026-07-11 04:55 |
-| nan | Senior Data Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=939e008d96e1a463) | 2026-07-11 04:55 |
-| MTN | DevOps Engineer | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a1e14429b49571c) | 2026-07-11 04:55 |
-| Coreforce | Senior Software Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9969ce677805a3b0) | 2026-07-11 04:55 |
-| LifeWave | Analytics Data Engineer (BI/Fabric) | Draper, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=116ca6571d543788) | 2026-07-11 04:55 |
-| Axos Bank | Data Engineer | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8c60e10a1b6481c3) | 2026-07-11 04:55 |
-| Adidev Technologies Inc | Machine Learning Engineer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=521e9a8cf4de7cf2) | 2026-07-11 04:55 |
-| Adidev Technologies Inc | ML/AI Engineers | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ab9861ce9c451ec) | 2026-07-11 04:55 |
-| Adidev Technologies Inc | Jr - Mid Level Machine Learning Engineer | Edison, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e63c93a86a5d45e) | 2026-07-11 04:55 |
-| Adidev Technologies Inc | Machine Learning Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=783b7f98787ded08) | 2026-07-11 04:55 |
-| Michael Baker International | Full Stack Product Builder | Newark, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3934e1788c4103b9) | 2026-07-11 04:55 |
-| Expleo Group | Enterprise Application & Data Architect | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee4e35be75f84fcc) | 2026-07-11 04:55 |
-| Lifetime Brands | BI Reporting Engineer | Garden City, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c21b9e62ae83831d) | 2026-07-11 04:55 |
-| United Airlines | Senior Developer - IT | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=74d1ed54fce13fb1) | 2026-07-11 04:55 |
-| Fox Corporation | Senior Broadcast Reliability Engineer | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98d6ac80c240f5cd) | 2026-07-11 04:55 |
 
 
 ---
