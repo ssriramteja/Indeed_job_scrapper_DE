@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-14 23:43
+Last updated: 2026-07-15 01:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| STAND TOGETHER | Senior Full-Stack Software Engineer - Front-End Focused | Arlington, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3221281fdf023197) | 2026-07-15 01:26 |
+| Fiddler AI | Senior AI Solutions Engineer | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c44bbcac30a87c2) | 2026-07-15 01:26 |
+| Fiddler AI | Senior AI Solutions Engineer | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5bc37b1c10548573) | 2026-07-15 01:26 |
+| Luxoft | Senior AI Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=221a044944e1b41d) | 2026-07-15 01:26 |
+| Ahead | Forward Deployed Engineer - AI SOC | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=29fa83f558965646) | 2026-07-15 01:26 |
+| WSSC Water | Advanced Metering Infrastructure (AMI) Engineer | Laurel, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=decf563d2df9d00c) | 2026-07-15 01:26 |
+| Wayfair | Software Engineer II, Search and Recommendations | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ebba4b09c33f10f3) | 2026-07-15 01:26 |
+| Wayfair | Software Engineer II, Search & Recommendations | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce142e0b825940e6) | 2026-07-15 01:26 |
 | Matrix International Financial Services | Azure Data Architect | US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b9c9310d05771935) | 2026-07-14 23:43 |
 | Rippling | Senior .NET Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=52c472962c791de2) | 2026-07-14 23:43 |
 | Beghou Consulting | Consultant, Data Analytics | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6c4d9af5a8a63484) | 2026-07-14 23:43 |
@@ -352,12 +360,6 @@ Last updated: 2026-07-14 23:43
 | GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c55ccf18cdc7f7b) | 2026-07-11 01:48 |
 | L.A. Care Health Plan | Information Technology Development Operations Engineer II | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b16ef14984de3ac1) | 2026-07-11 01:48 |
 | Aivra Health | Junior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=651e0dbd42a31f53) | 2026-07-11 01:48 |
-| Capgemini | Senior Java Full Stack React JS Developer | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0649029a69d1d2a1) | 2026-07-10 23:50 |
-| Newpage Digital Healthcare solutions | AI Native Builder-Europe | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=117cf58c0cc74040) | 2026-07-10 23:50 |
-| Pindrop | Senior Software Engineer (Platform Core) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0ca782c004240a6c) | 2026-07-10 23:50 |
-| Electronic Arts | AI Solution Architect - Enterprise Intelligence | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a3913715bcf2ea8f) | 2026-07-10 23:50 |
-| Brigham Young University | Full-Stack Software Developer | Provo, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=927a1a9e76672e0a) | 2026-07-10 23:50 |
-| Zensar Technologies | Computer Programmer | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f7b6f75590ec5d1) | 2026-07-10 23:50 |
 
 
 ---
