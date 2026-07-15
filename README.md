@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-15 01:26
+Last updated: 2026-07-15 04:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=588555361d1bf2c2) | 2026-07-15 04:42 |
+| Daxko | Senior Data Engineer Remote - US • Remote | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=d212feaf575e2588) | 2026-07-15 04:42 |
+| Daxko | Senior Data Engineer | Birmingham, AL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=419f9c53a083aba9) | 2026-07-15 04:42 |
+| Diverse Agile Solutions | Senior Data Scientist - Artificial Intelligence | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7cf8977f54a3cd6f) | 2026-07-15 04:42 |
+| Caterpillar | Senior Data Engineer | Peoria, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d6f5d11d7b626cfc) | 2026-07-15 04:42 |
+| United Airlines | Senior Developer - IT | Arlington Heights, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=23c6690878cc61dc) | 2026-07-15 04:42 |
+| Securian Financial | Senior Snowflake Data Platform Engineer (Hybrid) | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6a8050d86dd2bf8) | 2026-07-15 04:42 |
+| VetsEZ | Senior Software Product Engineer (Remote Opportunity) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eeb8dc7b4cca4c33) | 2026-07-15 04:42 |
+| VetsEZ | Senior Software Product Engineer (Remote Opportunity) | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7bee4a1e548e177) | 2026-07-15 04:42 |
+| VetsEZ | Senior Software Product Engineer (Remote Opportunity) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a54ac0922147b15) | 2026-07-15 04:42 |
+| Hewlett Packard Enterprise \| HPE | Senior Solutions Designer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42d7826852e5a12b) | 2026-07-15 04:42 |
 | STAND TOGETHER | Senior Full-Stack Software Engineer - Front-End Focused | Arlington, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3221281fdf023197) | 2026-07-15 01:26 |
 | Fiddler AI | Senior AI Solutions Engineer | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c44bbcac30a87c2) | 2026-07-15 01:26 |
 | Fiddler AI | Senior AI Solutions Engineer | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5bc37b1c10548573) | 2026-07-15 01:26 |
@@ -348,18 +359,6 @@ Last updated: 2026-07-15 01:26
 | Lifetime Brands | BI Reporting Engineer | Garden City, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c21b9e62ae83831d) | 2026-07-11 04:55 |
 | United Airlines | Senior Developer - IT | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=74d1ed54fce13fb1) | 2026-07-11 04:55 |
 | Fox Corporation | Senior Broadcast Reliability Engineer | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98d6ac80c240f5cd) | 2026-07-11 04:55 |
-| Samsara | Senior Data Engineer II | Austin, TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=9b63e4891d06d760) | 2026-07-11 01:48 |
-| GEICO | Senior Data Engineer | Bethesda, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=adbee2c9c0e985dc) | 2026-07-11 01:48 |
-| nan | Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=057c8f8e8ea92f8c) | 2026-07-11 01:48 |
-| Analytica | Senior Data Engineer | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=da635d22afcd5e76) | 2026-07-11 01:48 |
-| Travelers | Sr Software Engineer | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d59203a860169de9) | 2026-07-11 01:48 |
-| Genentech | Machine Learning Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f19fe0e24c9417c4) | 2026-07-11 01:48 |
-| nan | Cloud Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ffb9a704d3643de) | 2026-07-11 01:48 |
-| Handshake | Senior Software Engineer, Machine Learning Infrastructure | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c5f1eb5fe027fb0) | 2026-07-11 01:48 |
-| Handshake | Senior Software Engineer, Machine Learning Infrastructure | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c03ea918065ec279) | 2026-07-11 01:48 |
-| GEICO | Senior Engineer | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c55ccf18cdc7f7b) | 2026-07-11 01:48 |
-| L.A. Care Health Plan | Information Technology Development Operations Engineer II | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b16ef14984de3ac1) | 2026-07-11 01:48 |
-| Aivra Health | Junior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=651e0dbd42a31f53) | 2026-07-11 01:48 |
 
 
 ---
