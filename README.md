@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-15 11:22
+Last updated: 2026-07-15 13:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Moffitt Cancer Center | DATA ENGINEER I | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a407a20c56f80680) | 2026-07-15 13:14 |
+| NetApp | Senior Software Engineer | Bellevue, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9690379ea46f2be7) | 2026-07-15 13:14 |
+| Technology Ventures | Developer-Full Stack Senior | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45e9f859d9d42bd7) | 2026-07-15 13:14 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-15 13:14 |
 | Berkley | Senior Data Scientist | Glen Allen, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7656191539f10c8f) | 2026-07-15 11:22 |
 | NextAmp LLC | Data Analyst | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=112573c8edf11915) | 2026-07-15 11:22 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-15 11:22 |
 | Edgewater Federal Solutions | Artificial Intelligence Senior Data Scientist | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4a48e7242a74c765) | 2026-07-15 09:51 |
 | Diversified Gas & Oil | Data Engineer- BI Developer | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d9cd4d53bb42fc00) | 2026-07-15 09:51 |
 | Granite Telecommunications | Senior Cloud Data Ops Engineer | Quincy, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f722c5b892610593) | 2026-07-15 09:51 |
@@ -346,7 +349,6 @@ Last updated: 2026-07-15 11:22
 | Ross Dress For Less | Engineer III | Dublin, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a1d894dc94f127d6) | 2026-07-11 18:46 |
 | Airbus | HR AI/ML Engineer II | Herndon, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7aee672823e50ae6) | 2026-07-11 16:44 |
 | nan | Data Engineer II | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=565b08a71b6647d2) | 2026-07-11 15:45 |
-| JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e6a9633dc466a51) | 2026-07-11 12:57 |
 
 
 ---
