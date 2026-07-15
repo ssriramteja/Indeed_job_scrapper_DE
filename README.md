@@ -1,16 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-15 15:19
+Last updated: 2026-07-15 17:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Application Solutions Architect | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=510eace270c01417) | 2026-07-15 15:19 |
+| Hilton | FinOps Engineer (contract) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba947e467674b693) | 2026-07-15 17:06 |
+| Digital Dhara LLC | JBoss Apache Fuse Engineer with Healthcare (RCM) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bdef99a180f7357d) | 2026-07-15 17:06 |
+| IT Shoulders, Inc. | Technical Solution Architect - Salesforce Service Cloud | Allen, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6285bc228bba1070) | 2026-07-15 17:06 |
+| Dominion Energy | Solutions Architect (RICHMOND, VA, US, 23219) | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ebe9bd2b5131f29d) | 2026-07-15 17:06 |
+| CCC Intelligent Solutions | Senior Cloud Engineer - Azure | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5df64a9e9d059759) | 2026-07-15 17:06 |
+| nan | Knowledge Graph Engineer/Semantic Web Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f1326954160b9d00) | 2026-07-15 17:06 |
+| Southern Company | Application Solutions Architect | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=510eace270c01417) | 2026-07-15 17:06 |
+| CSAA Insurance Group, a AAA Insurer | API/Microservices/AWS Software Engineer - Remote | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d840931b85553d6b) | 2026-07-15 17:06 |
+| Leverege | Senior DevOps/MLOps Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc2c5ef617a021a1) | 2026-07-15 17:06 |
+| MagicForce | Semantic Web Engineer or knowledge graph Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d42f448146cc2551) | 2026-07-15 17:06 |
+| Net Health | Business Intelligence Analyst I - REMOTE | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2050bd296e3aa9f7) | 2026-07-15 17:06 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-15 17:06 |
 | Value Truck of Arizona | Senior Business Intelligence Analyst | South Jordan, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=49ae49eef7db6241) | 2026-07-15 15:19 |
 | ThesisGrid | Software Development Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d06761e86ca4aeca) | 2026-07-15 15:19 |
 | Charles River Analytics | Senior UX Software Engineer | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e62e78236a52a218) | 2026-07-15 15:19 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-15 15:19 |
 | Moffitt Cancer Center | DATA ENGINEER I | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a407a20c56f80680) | 2026-07-15 13:14 |
 | NetApp | Senior Software Engineer | Bellevue, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9690379ea46f2be7) | 2026-07-15 13:14 |
 | Technology Ventures | Developer-Full Stack Senior | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45e9f859d9d42bd7) | 2026-07-15 13:14 |
@@ -351,8 +361,6 @@ Last updated: 2026-07-15 15:19
 | nan | Java Technical Architect | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1dd56339bfa2aac5) | 2026-07-12 14:25 |
 | Lateral Insights | Oracle OCI Cloud Engineer | Great Falls, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ed69d2e91eede4e0) | 2026-07-12 11:05 |
 | Ross Dress For Less | Engineer III | Dublin, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a1d894dc94f127d6) | 2026-07-11 18:46 |
-| Airbus | HR AI/ML Engineer II | Herndon, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7aee672823e50ae6) | 2026-07-11 16:44 |
-| nan | Data Engineer II | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=565b08a71b6647d2) | 2026-07-11 15:45 |
 
 
 ---
