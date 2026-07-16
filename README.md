@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-16 07:16
+Last updated: 2026-07-16 09:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III : AI/ML Solutions | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34888fd616464280) | 2026-07-16 09:58 |
+| nan | Systems Administrator | Maitland, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=062dd989576d1fde) | 2026-07-16 09:58 |
+| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-16 09:58 |
+| JPMorganChase | Software Engineer III - Full Stack Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e30419cda8d1db5a) | 2026-07-16 09:58 |
+| JPMorganChase | Software Engineer II - Full Stack Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dc4a46b9a6c0e288) | 2026-07-16 09:58 |
+| JPMorganChase | Software Engineer II - Big Data & AWS | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=58aaf39fa0b76436) | 2026-07-16 09:58 |
+| Target | Data Engineer - Finance Technology Solutions | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=573f480e3a91503b) | 2026-07-16 09:58 |
+| nan | Data Engineer | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=22cdb1faed561dfa) | 2026-07-16 09:58 |
+| JPMorganChase | Software Engineer II - Python, ETL, AWS, Kubernetes | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5d743bfeeb8fa203) | 2026-07-16 09:58 |
+| AMD | Senior Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee248da0e115e2d7) | 2026-07-16 09:58 |
+| nan | AI/ML Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=937091ef92a9caaa) | 2026-07-16 09:58 |
 | VeeRteq Solutions Inc. | AWS Engineer | Chicago, IL, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=1b22cbf19f8a0047) | 2026-07-16 07:16 |
 | BV Teck | Data Platform Engineer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=c01844276a565bcb) | 2026-07-16 07:16 |
 | PNC Financial Services Group | Software Engineer - iOS/Android | Birmingham, AL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ea7bf7c8fec07038) | 2026-07-16 07:16 |
@@ -14,10 +25,8 @@ Last updated: 2026-07-16 07:16
 | PNC Financial Services Group | Software Engineer - iOS/Android | Strongsville, OH, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bdde81364ace6b88) | 2026-07-16 07:16 |
 | LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8bcb623acf634f6d) | 2026-07-16 07:16 |
 | BV Teck | Big Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7429468ddade56be) | 2026-07-16 07:16 |
-| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-16 07:16 |
 | Capgemini | Power BI Developer | Bridgewater, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c55b1cfe2c90261) | 2026-07-16 07:16 |
 | BV Teck | Red Hat OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe00c00e240051b6) | 2026-07-16 07:16 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-16 07:16 |
 | DocuSign | Sr. Data Engineer | San Francisco, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3ba9a5d942e523c5) | 2026-07-16 04:52 |
 | Intone Networks | Azure Data Engineer – AI & Data Platform | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=60ea6d5281a59460) | 2026-07-16 04:52 |
 | Batchelor & Kimball | Database Engineer | Conyers, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f1aa0d9278ba8fe) | 2026-07-16 04:52 |
