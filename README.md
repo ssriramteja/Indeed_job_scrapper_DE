@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-16 22:51
+Last updated: 2026-07-16 23:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EPIC Kids | Senior Site Reliability Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91144e00c41e59f6) | 2026-07-16 23:52 |
+| Cambia Health Solutions | Senior Data Platform Engineer / SDE | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=229b2a31ef020c77) | 2026-07-16 23:52 |
 | Build-A-Bear Workshop | Data Engineer | St. Louis, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a7e0d6b0fa569854) | 2026-07-16 22:51 |
 | nan | Data Engineer | Westerville, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3338bda845b857ff) | 2026-07-16 22:51 |
 | Synopsys | Full Stack Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ba2d09365f6ee5a) | 2026-07-16 22:51 |
