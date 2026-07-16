@@ -1,13 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-16 19:57
+Last updated: 2026-07-16 20:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Databricks | Solutions Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7b05fe1f7203164) | 2026-07-16 20:53 |
+| NBCUniversal | Software Engineer | Universal City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6537fbdf744212f8) | 2026-07-16 20:53 |
+| College Board | Senior Workday Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a180802b9be9366) | 2026-07-16 20:53 |
 | Verily | Technical Solutions Engineer - Pre | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c7071bed5dd02b5) | 2026-07-16 19:57 |
-| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-16 19:57 |
 | Capgemini | COE QE DevOps role - C1 | Grand Rapids, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=046b8c112407479b) | 2026-07-16 19:57 |
 | Enterprise Knowledge | Full Stack Developer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e841fc413765b399) | 2026-07-16 19:57 |
 | DISTILLERY | Devops – Azure | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=eb316c4d0d8d4a0b) | 2026-07-16 18:57 |
@@ -544,7 +546,6 @@ Last updated: 2026-07-16 19:57
 | WSFS Bank | Full Stack Mid-level Java Software Engineer | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78f65e99062ef281) | 2026-07-13 08:50 |
 | Tesla | Reliability Engineer, Battery Module | Sparks, NV, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3af907c177dd5fdb) | 2026-07-13 05:27 |
 | We Are Recruiting | SQL Developer | Foley, AL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=39a0bb69f0f00f0c) | 2026-07-13 05:27 |
-| Digital Strategy LLC | Data and Analytics Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cd127ae8715c196f) | 2026-07-12 20:02 |
 
 
 ---
