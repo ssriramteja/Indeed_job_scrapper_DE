@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-16 21:56
+Last updated: 2026-07-16 22:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Build-A-Bear Workshop | Data Engineer | St. Louis, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a7e0d6b0fa569854) | 2026-07-16 22:51 |
+| nan | Data Engineer | Westerville, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3338bda845b857ff) | 2026-07-16 22:51 |
+| Synopsys | Full Stack Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ba2d09365f6ee5a) | 2026-07-16 22:51 |
+| Barclays | Software Engineer/Full Stack Developer | Whippany, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6bf986da2977e0aa) | 2026-07-16 22:51 |
 | Echo Global Logistics | Sr. Data Engineer | Reno, NV, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e0626708bd8ee16) | 2026-07-16 21:56 |
 | STORD Warehouse | Senior Site Reliability Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=669c1fb330a3b757) | 2026-07-16 21:56 |
 | Cognizant | Senior Java Developer | Iselin, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af1b6ba41a8a56f2) | 2026-07-16 21:56 |
