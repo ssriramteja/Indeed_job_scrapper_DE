@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-16 01:47
+Last updated: 2026-07-16 04:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| DocuSign | Sr. Data Engineer | San Francisco, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3ba9a5d942e523c5) | 2026-07-16 04:52 |
+| Intone Networks | Azure Data Engineer – AI & Data Platform | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=60ea6d5281a59460) | 2026-07-16 04:52 |
+| Batchelor & Kimball | Database Engineer | Conyers, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f1aa0d9278ba8fe) | 2026-07-16 04:52 |
+| Mastercard | Senior Data Engineer | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d957259a91025ff3) | 2026-07-16 04:52 |
+| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-16 04:52 |
+| iClassPro, Inc. | DevOps Engineer | Longview, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bdf4ebf8be88af31) | 2026-07-16 04:52 |
+| Intone Networks | Cloudera/hadoop specialist. | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c169f4920a033c0c) | 2026-07-16 04:52 |
+| Salesforce | Senior Site Reliability Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd5a50150ef4b66b) | 2026-07-16 04:52 |
+| CVS Health | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf8fe7381654ca4f) | 2026-07-16 04:52 |
+| CVS Health | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53b79d933c22cf0c) | 2026-07-16 04:52 |
+| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-16 04:52 |
+| nan | Full Stack \| AI Developer | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80c4b497c4690c21) | 2026-07-16 04:52 |
 | BV Teck | Big Data Application Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=dd0eb18b3d5109ba) | 2026-07-16 01:47 |
 | BV Teck | Senior AWS Consultant | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5bcb64699ea21836) | 2026-07-16 01:47 |
 | BV Teck | Cloud Infrastructure Engineer – AWS | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=422dd8e9c739fe77) | 2026-07-16 01:47 |
@@ -18,7 +30,6 @@ Last updated: 2026-07-16 01:47
 | BV Teck | Microsoft Azure Specialist | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aeb930b934fbc187) | 2026-07-16 01:47 |
 | THEMESOFT | Onsite_Azure Data Engineer _Chicago, IL | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c37a2ee36d7cc270) | 2026-07-16 01:47 |
 | NTT DATA | Sr. QA Automation Engineer - Brokerage / Financial Services Domain (FTE / Hybrid) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dafc948111731821) | 2026-07-16 01:47 |
-| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-16 01:47 |
 | Cayuse Holdings | AI Software Engineer - Regrello | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2390c7a2ebafd009) | 2026-07-16 01:47 |
 | Cayuse Holdings | AI Test Automation Engineer - Regrello | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4b704bbe9b05b2c6) | 2026-07-16 01:47 |
 | Capgemini | Power BI Developer | Bridgewater, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2d59725cfe157aa7) | 2026-07-16 01:47 |
@@ -26,9 +37,7 @@ Last updated: 2026-07-16 01:47
 | Handshake | Senior Software Engineer, Coding | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d5f90da901c6ba2a) | 2026-07-16 01:47 |
 | Hitachi Energy | AWS Full Stack Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e407fb3775f7a9c) | 2026-07-16 01:47 |
 | Williams-Sonoma, Inc. | Business System Analyst II | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d96dc7676fb3c20) | 2026-07-16 01:47 |
-| Nationwide Mutual Insurance Company | Specialist, Software Engineer - Test Automation Developer (Ruby & Playwright) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f00ee1189eddb9b1) | 2026-07-16 01:47 |
 | nan | AI Software Engineer Intern- Bastazo | Bentonville, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3da3d0ba53df0f86) | 2026-07-16 01:47 |
-| nan | Full Stack \| AI Developer | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80c4b497c4690c21) | 2026-07-16 01:47 |
 | Esri | Sr. Software Engineer - ArcGIS Enterprise | Redlands, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=239b32e292b68704) | 2026-07-15 23:51 |
 | Münchener Rückversicherungs-Gesellschaft | Senior DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eae68457635010f5) | 2026-07-15 23:51 |
 | JPMorganChase | Software Engineer III - C# / Java | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bd35c029ba02435f) | 2026-07-15 22:50 |
