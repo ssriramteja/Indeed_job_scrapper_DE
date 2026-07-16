@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-16 18:57
+Last updated: 2026-07-16 19:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Verily | Technical Solutions Engineer - Pre | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c7071bed5dd02b5) | 2026-07-16 19:57 |
+| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-16 19:57 |
+| Capgemini | COE QE DevOps role - C1 | Grand Rapids, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=046b8c112407479b) | 2026-07-16 19:57 |
+| Enterprise Knowledge | Full Stack Developer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e841fc413765b399) | 2026-07-16 19:57 |
 | DISTILLERY | Devops – Azure | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=eb316c4d0d8d4a0b) | 2026-07-16 18:57 |
 | Excel Sports Management | Data Engineer | Chicago, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=54c48dbd46696795) | 2026-07-16 18:57 |
 | BV Teck | Full Stack Solutions Developer – Java | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=111eb98b6df0e036) | 2026-07-16 18:57 |
@@ -13,7 +17,6 @@ Last updated: 2026-07-16 18:57
 | Capgemini | Managing Solution Architect | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2640726ebc83e1eb) | 2026-07-16 18:57 |
 | nan | AI DevOps Engineer (Global) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8eac67db313991b1) | 2026-07-16 18:57 |
 | Agilify | Data Platform Engineer – Microsoft Fabric | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=58d5075d31f14eb7) | 2026-07-16 18:57 |
-| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-16 18:57 |
 | Carrington Mortgage Services, LLC | Senior, Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e557799b2576af0) | 2026-07-16 18:57 |
 | Synopsys | Software Engineering, Sr Engineer | Santa Fe, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cfc96f041f6b858) | 2026-07-16 18:57 |
 | JSSA | BI & Analytics Analyst/Data Engineer | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ff471a82f0fd616b) | 2026-07-16 18:57 |
