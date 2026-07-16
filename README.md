@@ -1,11 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-16 15:26
+Last updated: 2026-07-16 17:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| LTM Limited | AI / ML Engineer | Raritan, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ca3a80ab86734aea) | 2026-07-16 17:04 |
+| PNC Financial Services Group | Senior Data Engineer - Hadoop/Spark/OCP/Big Data | Pittsburgh, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8aa14baaf9fd7957) | 2026-07-16 17:04 |
+| Essent Guaranty, Inc. | Senior Power BI Data Architect | Radnor, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1b04eecb0db1a644) | 2026-07-16 17:04 |
+| JUUL Labs | Senior Site Reliability Engineer | Durham, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c1c7b5c770c1535f) | 2026-07-16 17:04 |
+| JUUL Labs | Senior Site Reliability Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bf29b9a8949927c0) | 2026-07-16 17:04 |
+| JUUL Labs | Senior Site Reliability Engineer | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3e9ac43a4c79de0) | 2026-07-16 17:04 |
+| Lens Technology Inc. | Data Platform Engineer – Robotics & AI | Sunnyvale, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=605d83d5c08b6a96) | 2026-07-16 17:04 |
+| Capgemini | Managing Solution Architect | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=99663228cfbf0951) | 2026-07-16 17:04 |
+| Astronomer | Senior Solutions Architect - Airflow (East Coast) | Philadelphia, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=74680d3dc9bafe7a) | 2026-07-16 17:04 |
+| Dell Technologies | Senior Analyst, Data Engineering | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9620442cd266fbc0) | 2026-07-16 17:04 |
+| Dell Technologies | Senior Analyst, Data Engineering | Hopkinton, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d564a48f723ff138) | 2026-07-16 17:04 |
+| NTT DATA | Sr. QA Automation Engineer - Brokerage / Financial Services Domain (FTE / Hybrid) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=62912356a020a29b) | 2026-07-16 17:04 |
+| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-16 17:04 |
+| Simpson Strong-Tie | Senior Software Engineer — Cloud Services & API Platform (C#/Azure Track) | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5eb4473110232100) | 2026-07-16 17:04 |
+| AdventHealth Corporate | IT Data Scientist | Altamonte Springs, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ac351039409cb17) | 2026-07-16 17:04 |
+| Capgemini | Senior Grafana Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e03542dca349b173) | 2026-07-16 17:04 |
+| Stellar Solutions | Sr. System Administrator | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61836c41197600ef) | 2026-07-16 17:04 |
 | Hack The Box | Senior Data Engineer | FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ebeade119569bbf7) | 2026-07-16 15:26 |
 | Hack The Box | Senior Data Engineer | NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=93edda5c98f4cdb4) | 2026-07-16 15:26 |
 | Hack The Box | Senior Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2e1cdcb324b377bf) | 2026-07-16 15:26 |
@@ -14,7 +31,6 @@ Last updated: 2026-07-16 15:26
 | Hack The Box | Senior Data Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5b1bb8e723d49656) | 2026-07-16 15:26 |
 | The Baer Group | Data Engineering - Architecture (Snowflake) BI Consultant | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6c52c5d83c6a50fb) | 2026-07-16 15:26 |
 | Disney Parks, Experiences and Products | Sr. Solutions Analyst | Lake Buena Vista, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1a5be813c11826da) | 2026-07-16 15:26 |
-| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-16 15:26 |
 | Learn Beyond Consulting | GCP Data Engineer | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=75af597329b51c24) | 2026-07-16 15:26 |
 | Audible | Senior Analyst, Audible People & Places | Newark, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=761fd113897ed8f1) | 2026-07-16 15:26 |
 | Williams-Sonoma, Inc. | Business System Analyst II | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9527921e8a58fef3) | 2026-07-16 15:26 |
