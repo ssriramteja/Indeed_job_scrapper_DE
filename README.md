@@ -1,11 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-16 20:53
+Last updated: 2026-07-16 21:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Echo Global Logistics | Sr. Data Engineer | Reno, NV, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e0626708bd8ee16) | 2026-07-16 21:56 |
+| STORD Warehouse | Senior Site Reliability Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=669c1fb330a3b757) | 2026-07-16 21:56 |
+| Cognizant | Senior Java Developer | Iselin, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af1b6ba41a8a56f2) | 2026-07-16 21:56 |
+| Cognizant | Senior Java Developer | Iselin, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a7d95cae4e2d404f) | 2026-07-16 21:56 |
+| Cognizant | Senior Java Developer | Iselin, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c221ea0da8a688bf) | 2026-07-16 21:56 |
+| Whatnot | Software Engineer, Data Foundations | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8913f49306655da8) | 2026-07-16 21:56 |
+| Clarity Innovations, LLC | Junior Platform Engineer | Columbia, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=10ffa9f861947b9c) | 2026-07-16 21:56 |
+| Hyatt | Cloud Solution Architect (Remote) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=80add1c41e0267a1) | 2026-07-16 21:56 |
+| Wellvana Health | Sr. Data Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99417876eae24963) | 2026-07-16 21:56 |
+| Off Duty Management | Backend Software Engineer (API-focused) | Katy, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=251cca66de6f3b4e) | 2026-07-16 21:56 |
+| Nuclear | Project Controls, Database Administrator (DBA) | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b5f66e61d041240a) | 2026-07-16 21:56 |
+| Nuclear | Project Controls, Database Administrator (DBA) | Columbia, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df8062c19c4d1d41) | 2026-07-16 21:56 |
+| Honeywell | Software Engineer II - SRE | Township of Hamilton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eed2932ed5336a95) | 2026-07-16 21:56 |
+| Defense Unicorns | Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdace3d6595cd399) | 2026-07-16 21:56 |
+| Defense Unicorns | Software Engineer | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ceb06467c9c6ec61) | 2026-07-16 21:56 |
+| Softpath System LLC | Senior Full Stack Java Architect | Newark, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64c763f434149f33) | 2026-07-16 21:56 |
+| Enterprise Knowledge | Senior Full Stack Developer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f31219c1b20278a2) | 2026-07-16 21:56 |
+| Intone Networks | Senior Tableau & Alteryx Administrator (Cloud + DevOps Expertise) | Winterville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=653b8eca70818820) | 2026-07-16 21:56 |
 | Databricks | Solutions Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7b05fe1f7203164) | 2026-07-16 20:53 |
 | NBCUniversal | Software Engineer | Universal City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6537fbdf744212f8) | 2026-07-16 20:53 |
 | College Board | Senior Workday Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a180802b9be9366) | 2026-07-16 20:53 |
