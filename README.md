@@ -1,12 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-16 13:22
+Last updated: 2026-07-16 15:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-16 13:22 |
+| Hack The Box | Senior Data Engineer | FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ebeade119569bbf7) | 2026-07-16 15:26 |
+| Hack The Box | Senior Data Engineer | NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=93edda5c98f4cdb4) | 2026-07-16 15:26 |
+| Hack The Box | Senior Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2e1cdcb324b377bf) | 2026-07-16 15:26 |
+| Hack The Box | Senior Data Engineer | NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=06bc1107dcef567b) | 2026-07-16 15:26 |
+| Hack The Box | Senior Data Engineer | VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ecfab6ea52221dfe) | 2026-07-16 15:26 |
+| Hack The Box | Senior Data Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5b1bb8e723d49656) | 2026-07-16 15:26 |
+| The Baer Group | Data Engineering - Architecture (Snowflake) BI Consultant | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6c52c5d83c6a50fb) | 2026-07-16 15:26 |
+| Disney Parks, Experiences and Products | Sr. Solutions Analyst | Lake Buena Vista, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1a5be813c11826da) | 2026-07-16 15:26 |
+| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-16 15:26 |
+| Learn Beyond Consulting | GCP Data Engineer | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=75af597329b51c24) | 2026-07-16 15:26 |
+| Audible | Senior Analyst, Audible People & Places | Newark, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=761fd113897ed8f1) | 2026-07-16 15:26 |
+| Williams-Sonoma, Inc. | Business System Analyst II | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9527921e8a58fef3) | 2026-07-16 15:26 |
 | CVS Health | Senior Software Development Engineer | Topeka, KS, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5e6f565a0cba9b6c) | 2026-07-16 11:38 |
 | CVS Health | Senior Software Development Engineer | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a93a6382b79298c2) | 2026-07-16 11:38 |
 | CVS Health | Senior Software Development Engineer | Montpelier, VT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f2c55cbc7a32077d) | 2026-07-16 11:38 |
@@ -503,7 +514,6 @@ Last updated: 2026-07-16 13:22
 | Tesla | Reliability Engineer, Battery Module | Sparks, NV, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3af907c177dd5fdb) | 2026-07-13 05:27 |
 | We Are Recruiting | SQL Developer | Foley, AL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=39a0bb69f0f00f0c) | 2026-07-13 05:27 |
 | Digital Strategy LLC | Data and Analytics Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cd127ae8715c196f) | 2026-07-12 20:02 |
-| nan | Java Technical Architect | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1dd56339bfa2aac5) | 2026-07-12 14:25 |
 
 
 ---
