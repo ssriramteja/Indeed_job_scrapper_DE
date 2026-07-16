@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-16 11:38
+Last updated: 2026-07-16 13:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-16 13:22 |
 | CVS Health | Senior Software Development Engineer | Topeka, KS, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5e6f565a0cba9b6c) | 2026-07-16 11:38 |
 | CVS Health | Senior Software Development Engineer | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a93a6382b79298c2) | 2026-07-16 11:38 |
 | CVS Health | Senior Software Development Engineer | Montpelier, VT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f2c55cbc7a32077d) | 2026-07-16 11:38 |
@@ -55,7 +56,6 @@ Last updated: 2026-07-16 11:38
 | CVS Health | Senior Software Development Engineer | Salem, OR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=92b4c29a1cbe80d1) | 2026-07-16 11:38 |
 | CVS Health | Senior Software Development Engineer | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2ed68905fe7cf4c8) | 2026-07-16 11:38 |
 | CVS Health | Senior Software Development Engineer | Frankfort, KY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a0cd86430f84239c) | 2026-07-16 11:38 |
-| Nationwide Mutual Insurance Company | Sr Engineer, Software Engineer - Angular and Java | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dffa9c2d3180f00) | 2026-07-16 11:38 |
 | JPMorganChase | Software Engineer III : AI/ML Solutions | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34888fd616464280) | 2026-07-16 09:58 |
 | nan | Systems Administrator | Maitland, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=062dd989576d1fde) | 2026-07-16 09:58 |
 | JPMorganChase | Software Engineer III - Full Stack Engineer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e30419cda8d1db5a) | 2026-07-16 09:58 |
