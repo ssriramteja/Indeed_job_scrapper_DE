@@ -1,11 +1,54 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-17 01:50
+Last updated: 2026-07-17 04:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fidelity TalentSource | Reliability Engineer | Westlake, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3b0948bec3ed1512) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9409951346a7ad0d) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=af009d50d9ce471a) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b475180d99aecacf) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Cleveland, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=772d08b80e754e75) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e3fd193c06ae0581) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2b65c34e565b992c) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Tempe, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0779fe138ded484b) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Sacramento, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cb1c755d148975ff) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Kansas City, MO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=613cd064c5c54a4c) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Stamford, CT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=120779d15d1fcfb6) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Nashville, TN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=67914dd58a58a8d4) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Los Angeles, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a31d4f4143f7cb28) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Indianapolis, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4a5289604bca0cff) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f3fe4280a2c93391) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cae284e6548c3258) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fbe9517a3231d13b) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Costa Mesa, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=425185029b9803cd) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=05e4cfd7cccd7103) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ee699af0925dbbc0) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | San Diego, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=beebec88652a0ad1) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d241129f70a15de3) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Philadelphia, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=811f9831e5bf2622) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Morristown, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=48d5324a2b8a1805) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Arlington, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=50f7ae8262615bc7) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=13b295f641478562) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Detroit, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7c092bdfadcd07b8) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Cincinnati, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e4028439241ee86b) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Tampa, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f7c190952f3113a4) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f3d90ab183a51383) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Pittsburgh, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c10752c112f86257) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Miami, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=523d0e5286ecdc4d) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=40492208ab43d208) | 2026-07-17 04:55 |
+| Deloitte | Sr Databricks Data Engineer | Seattle, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6b7cd193841933bb) | 2026-07-17 04:55 |
+| MetLife | Senior Data Engineer | Cary, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a7f1eb8e2a6e504b) | 2026-07-17 04:55 |
+| MetLife | Senior Data Engineer | Cary, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=587249eddf698e94) | 2026-07-17 04:55 |
+| Lumen | Software Developer II | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=98975d1b0220f278) | 2026-07-17 04:55 |
+| Kyndryl | Data Engineer, Forward Deployed Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e265a7ba14741f6) | 2026-07-17 04:55 |
+| American Airlines | Senior Engineer, IT Data | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3952890269a6ed2b) | 2026-07-17 04:55 |
+| Plan A Technologies | Senior Java Engineer with NetSuite Experience | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e906b63eead3804) | 2026-07-17 04:55 |
+| Truist | Senior Associate Software Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d97138d9df18fcba) | 2026-07-17 04:55 |
+| Merck KGaA | Software Engineer | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3ab4243907f18fee) | 2026-07-17 04:55 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa01236e58a71dfc) | 2026-07-17 04:55 |
 | BV Teck | Senior Data Engineer | Remote, US USA | 31.9% | [Apply](https://www.indeed.com/viewjob?jk=8d76ba5e0a95c573) | 2026-07-17 01:50 |
 | BV Teck | Senior Data Scientist | Remote, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=dd9020dafbdc31c1) | 2026-07-17 01:50 |
 | Tailored Brands | Sr Data Engineer | Houston, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=ba13c042faeff40f) | 2026-07-17 01:50 |
