@@ -1,12 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-17 22:40
+Last updated: 2026-07-17 23:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-17 22:40 |
+| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-17 23:43 |
+| Transamerica | Senior Quality Software Engineer | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d99840edec18518b) | 2026-07-17 23:43 |
+| Akumin | Senior Data Engineer | Owosso, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=12ca711587212e11) | 2026-07-17 23:43 |
+| Akumin | Senior Data Engineer | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=98d050e61b349b91) | 2026-07-17 23:43 |
+| Akumin | Senior Data Engineer | Pinehurst, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6319ba31cc07061f) | 2026-07-17 23:43 |
+| Akumin | Senior Data Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=77e9a5ce95c56bfb) | 2026-07-17 23:43 |
+| Akumin | Senior Data Engineer | Daytona Beach, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5a93f66d14f89beb) | 2026-07-17 23:43 |
+| Akumin | Senior Data Engineer | West Des Moines, IA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=061674d48a1eefb7) | 2026-07-17 23:43 |
+| Akumin | Senior Data Engineer | Ashland, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=31eb096c82914b29) | 2026-07-17 23:43 |
+| Akumin | Senior Data Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cb374443c0f901f2) | 2026-07-17 23:43 |
+| Akumin | Senior Data Engineer | Crown Point, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=68ae7ec766fbf140) | 2026-07-17 23:43 |
+| Akumin | Senior Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0b0bb70235da5a47) | 2026-07-17 23:43 |
+| Akumin | Senior Data Engineer | Hazleton, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0220b66ac51d5270) | 2026-07-17 23:43 |
+| Akumin | Senior Data Engineer | Charleston, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b17e7aa08bf0b3e8) | 2026-07-17 23:43 |
+| Akumin | Senior Data Engineer | Florence, AL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=717ebd9b68e70cff) | 2026-07-17 23:43 |
+| Capgemini | AWS Cloud Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b8c2d52cb360b4df) | 2026-07-17 23:43 |
+| Marathon Health | Software Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=620b819414083bf3) | 2026-07-17 23:43 |
+| T. Rowe Price | Full Stack Senior Software Engineer– Investment Risk Technology | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2371f7d678098e5e) | 2026-07-17 23:43 |
+| Travel + Leisure Co. | Senior Consultant, Mobile App Engineer | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e06ab8da47aa242b) | 2026-07-17 23:43 |
+| GRVTY | Senior UX Software Engineer 7.26 | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f861df8f0188deee) | 2026-07-17 23:43 |
+| GRVTY | UX Software Engineer 6.2026 | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2c8b4ddce2746f6) | 2026-07-17 23:43 |
 | EXL Service | AI Forward Deployment Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b33f87f7b4775762) | 2026-07-17 22:40 |
 | University of Southern California | Data Scientist (ITS) | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b012c06dfa5e0cae) | 2026-07-17 22:40 |
 | Early Warning Services | Sr. DevOps Engineer - Digital Assets | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7f0528faeb6919f2) | 2026-07-17 22:40 |
@@ -615,24 +635,6 @@ Last updated: 2026-07-17 22:40
 | FIS | Data Engineer Seniors III (Databricks) | Jacksonville, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89625a5f68a2c750) | 2026-07-14 01:29 |
 | LTM Limited | Specialist - Data Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c629002dbb52205d) | 2026-07-14 01:29 |
 | Aledade, Inc. | Senior Software Engineer I- Data & Insights Engineering | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15c358b482d33d6d) | 2026-07-14 01:29 |
-| Safelite | Senior Data Engineer | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eab9b545c0f88523) | 2026-07-13 23:43 |
-| U.S. Bank | Data Engineering Architect | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8a16e3ffc1c278fc) | 2026-07-13 23:43 |
-| LPL Financial | Senior Software Engineer - Backend (Python & AWS) | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f6911722171aa1c) | 2026-07-13 23:43 |
-| Safelite | Senior Business Intelligence Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89f11f71a1c806a8) | 2026-07-13 23:43 |
-| U.S. Bank | Sr. Data Engineering Architect | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b6af42e024fb5358) | 2026-07-13 23:43 |
-| Insight | Data Architect | Chandler, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=445e8b11f533b240) | 2026-07-13 23:43 |
-| Bloomberg | Senior Data Management Professional - Data Engineering - Entities | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=44d437f6ae16eb4d) | 2026-07-13 22:45 |
-| Affinity Solutions | Data Quality AI Intern (61_2026.3) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8cc7c811d1c4b67c) | 2026-07-13 22:45 |
-| NBME | AWS Severless Software Engineer III | Philadelphia, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ce2dc4576aaa8a2e) | 2026-07-13 22:45 |
-| Newpage Digital Healthcare solutions | AI Native Builder_EU | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0ea4fc6a360496ad) | 2026-07-13 22:45 |
-| Newpage Digital Healthcare solutions | Forward Deployed Engineer-Specialist | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2df1f2e18d690c4a) | 2026-07-13 22:45 |
-| Newpage Digital Healthcare solutions | Forward Deployed Engineer-Specialist | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d896c15ac717e14c) | 2026-07-13 22:45 |
-| Newpage Digital Healthcare solutions | Forward Deployed Engineer-Specialist | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=db4fe4e7c9a86b11) | 2026-07-13 22:45 |
-| EXL Service | Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6310ba46fd00a82c) | 2026-07-13 22:45 |
-| C2FO | Senior Data Engineer I | Kansas City, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e3a710f918b88f2b) | 2026-07-13 22:45 |
-| Hightower Advisors | Senior Data Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=487e755470e0a906) | 2026-07-13 22:45 |
-| Paylocity | Senior Security Architect(AI) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b6040d8fca19b2e) | 2026-07-13 22:45 |
-| Logistic Solutions Inc | Cloud Architect @ Dallas, TX | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1ffb721ba3a7f68) | 2026-07-13 22:45 |
 
 
 ---
