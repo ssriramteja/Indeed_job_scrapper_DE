@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-17 15:06
+Last updated: 2026-07-17 17:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Meso Scale Diagnostics | Senior Data Engineer | MD, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=040188cbf02542cc) | 2026-07-17 17:01 |
+| Bloomerang | Sr. Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=aa0fe96b9bdbba45) | 2026-07-17 17:01 |
+| EXL Service | Data and Cloud Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=88e13cb45435ccdd) | 2026-07-17 17:01 |
+| NAVA TECH LLC | Jr Data Engineer | Baltimore, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1da4ecc01920f955) | 2026-07-17 17:01 |
+| MITRE | DevOps/AI Engineer | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=42ab7ebc9d293399) | 2026-07-17 17:01 |
+| Softpath System LLC | Senior Full Stack Java Architect | Newark, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe74c0137bb982fb) | 2026-07-17 17:01 |
 | Infoville, Inc | Senior Business Systems Analyst | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f9d7fde96960560b) | 2026-07-17 15:06 |
 | Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0e7b564fddd4b752) | 2026-07-17 15:06 |
 | pointer infotech L.L.C | Senior Data Engineer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0669283adb0994ba) | 2026-07-17 15:06 |
