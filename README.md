@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-17 19:59
+Last updated: 2026-07-17 20:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-17 20:54 |
+| Nordstrom | Senior Engineer 2, Merchandise Planning - (Hybrid, Seattle) | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=976583714f7e7238) | 2026-07-17 20:54 |
+| Databricks | Sr. Solutions Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc0a76a95748095f) | 2026-07-17 20:54 |
+| Keck Medicine of USC | Data Scientist (ITS) | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d2509a4fb0efe928) | 2026-07-17 20:54 |
+| Preferred Credit, Inc. | Data Engineer | Saint Cloud, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5191b8d6d8df363b) | 2026-07-17 20:54 |
+| American Airlines | Associate Developer, IT Applications | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01f79cbad8ac813d) | 2026-07-17 20:54 |
 | BrightVine Solutions | Software Architect | SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=24293ea9e15ad0ca) | 2026-07-17 19:59 |
 | Patient Funding Alternatives | Founding Data Engineer | Woburn, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4e6660d1abd6eeb) | 2026-07-17 19:59 |
 | Nitor Infotech | Technical Architect | Duluth, GA, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=9691a4b3c751e344) | 2026-07-17 18:53 |
@@ -620,23 +626,6 @@ Last updated: 2026-07-17 19:59
 | Velera | Data Engineer IV (Snowflake/Databricks) - REMOTE | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd204a1167efc6a3) | 2026-07-13 21:45 |
 | Illumio | Sr. Site Reliability Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ce6ace065c9b44a) | 2026-07-13 21:45 |
 | Pano AI | Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4aab6a4a6b438005) | 2026-07-13 21:45 |
-| Bounteous | Databricks Solution Architect | US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=95200cc7178deeb2) | 2026-07-13 20:50 |
-| ENGIE | AWS Data Engineering Advisor | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=088581dbc2434494) | 2026-07-13 20:50 |
-| The Research Foundation for The State University of New York at Stony Brook | Senior Financial Data & Analytics Engineer | Stony Brook, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=05c72e69c8d1b5df) | 2026-07-13 20:50 |
-| Caterpillar | Analytics Data Engineer, Cat Digital | Peoria, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4ba56e26d2f7d66e) | 2026-07-13 20:50 |
-| FirstDay Foundation | Senior Analytics Engineer | San Antonio, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d797cade2cc30f67) | 2026-07-13 20:50 |
-| Allstate Insurance | Managing Engineer - Fusion GRC Platform | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fb8c6087cd256e74) | 2026-07-13 20:50 |
-| nan | Sr. IT Data Engineer | Palo Alto, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0debfb86cec6f81) | 2026-07-13 20:50 |
-| Stellar Solutions | Data Engineer | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=18e522d64598216a) | 2026-07-13 20:50 |
-| Phase2 | Marketing Technology Strategist | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08cde2c4527579db) | 2026-07-13 20:50 |
-| Databricks | Solutions Architect - Financial Services (Hunter) | GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b1f7af295967ab5) | 2026-07-13 20:50 |
-| Paylocity | Senior Security Architect(AI) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ffe1515831234d9) | 2026-07-13 20:50 |
-| Allstate Insurance | Product Engineer - Fusion GRC Platform | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ef44df6379fa49ce) | 2026-07-13 20:50 |
-| Bitscopic | Site Reliability Engineer - SRE | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=91f2cb5787bcd07a) | 2026-07-13 20:50 |
-| Health Data Analytics Institute | Senior Cloud Engineer | Dedham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=073c59c0c666dd26) | 2026-07-13 20:50 |
-| Bitscopic | Senior Data Engineer (Oracle) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7673be72cf2a7f02) | 2026-07-13 20:50 |
-| Consumer Cellular | Senior AI Engineer | Scottsdale, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2545dd224fcef4a) | 2026-07-13 20:50 |
-| Inspira Financial | Sr. Cloud Security Engineer (Remote) | Oak Brook, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47913b36a9ddd604) | 2026-07-13 20:50 |
 
 
 ---
