@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-17 18:53
+Last updated: 2026-07-17 19:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BrightVine Solutions | Software Architect | SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=24293ea9e15ad0ca) | 2026-07-17 19:59 |
+| Patient Funding Alternatives | Founding Data Engineer | Woburn, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4e6660d1abd6eeb) | 2026-07-17 19:59 |
 | Nitor Infotech | Technical Architect | Duluth, GA, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=9691a4b3c751e344) | 2026-07-17 18:53 |
 | Cohere Health | Site Reliability Engineer ll | Boston, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=72289279cfc2dcd3) | 2026-07-17 18:53 |
 | BV Teck | Azure Infrastructure Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0e9e63e01e919be7) | 2026-07-17 18:53 |
@@ -635,15 +637,6 @@ Last updated: 2026-07-17 18:53
 | Bitscopic | Senior Data Engineer (Oracle) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7673be72cf2a7f02) | 2026-07-13 20:50 |
 | Consumer Cellular | Senior AI Engineer | Scottsdale, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2545dd224fcef4a) | 2026-07-13 20:50 |
 | Inspira Financial | Sr. Cloud Security Engineer (Remote) | Oak Brook, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47913b36a9ddd604) | 2026-07-13 20:50 |
-| Vytalize Health | DevOps Engineer | KS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=439c58ad35a8bb78) | 2026-07-13 19:12 |
-| VIVA | Technical Specialist | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=91e03219acd75f33) | 2026-07-13 19:12 |
-| Mount Sinai Health System | Data Engineer I-Pathology Molecular and Cell Based Medicine | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1f1090f617db00fd) | 2026-07-13 19:12 |
-| VIVA | Technical Specialist - Senior | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9cfb170c35e948ca) | 2026-07-13 19:12 |
-| NYSTEC | Data Engineer | Albany, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e43f810dbefdcbc9) | 2026-07-13 19:12 |
-| Cornell University | Data Engineer | Ithaca, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91f681ba8c58e14f) | 2026-07-13 19:12 |
-| Empower | Architect of Data Architecture | Greenwood Village, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a69b442d48a997e) | 2026-07-13 19:12 |
-| Zoox | Senior Data Engineer – Enterprise, Data & AI | Foster City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=303390f40d7bb17a) | 2026-07-13 19:12 |
-| NTT DATA | Data Engineer - & Modeler Informatica | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aebf504e442ce2f2) | 2026-07-13 19:12 |
 
 
 ---
