@@ -1,12 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-17 20:54
+Last updated: 2026-07-17 21:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-17 20:54 |
+| Hilti Group | Senior Data Architect | Plano, TX, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=0a8b281e1b138c8f) | 2026-07-17 21:43 |
+| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-17 21:43 |
+| Quizlet | Sr Backend Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fe7cb3f6930d19e7) | 2026-07-17 21:43 |
+| Quizlet | Sr Backend Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a846c2cc34851159) | 2026-07-17 21:43 |
+| Clearwater Analytics (CWAN) | Senior Software Development Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=866e6df739eb8ef0) | 2026-07-17 21:43 |
+| Eli Lilly | Data Engineer - Lilly Medicine Foundry | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=49198e624e4c8e3b) | 2026-07-17 21:43 |
+| Rippling | Senior Data Scientist | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6891f17a3e96ad61) | 2026-07-17 21:43 |
+| Prove | Senior Software Engineer, Identity Platform | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b10fd66ef196fc72) | 2026-07-17 21:43 |
+| UKG | Software Engineer III- Eng | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05bd024ab0dc6ddf) | 2026-07-17 21:43 |
 | Nordstrom | Senior Engineer 2, Merchandise Planning - (Hybrid, Seattle) | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=976583714f7e7238) | 2026-07-17 20:54 |
 | Databricks | Sr. Solutions Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc0a76a95748095f) | 2026-07-17 20:54 |
 | Keck Medicine of USC | Data Scientist (ITS) | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d2509a4fb0efe928) | 2026-07-17 20:54 |
