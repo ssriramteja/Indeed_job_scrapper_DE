@@ -1,13 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-17 21:43
+Last updated: 2026-07-17 22:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-17 22:40 |
+| EXL Service | AI Forward Deployment Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b33f87f7b4775762) | 2026-07-17 22:40 |
+| University of Southern California | Data Scientist (ITS) | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b012c06dfa5e0cae) | 2026-07-17 22:40 |
+| Early Warning Services | Sr. DevOps Engineer - Digital Assets | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7f0528faeb6919f2) | 2026-07-17 22:40 |
+| Cognizant | Sr. Java/React FSE | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7523ee959e30aea8) | 2026-07-17 22:40 |
+| Cognizant | Sr. Java/React FSE | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ddfa043b9e204f89) | 2026-07-17 22:40 |
+| TriWest Healthcare Alliance | Sr Salesforce HealthCloud Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e4ae0d314a98a06b) | 2026-07-17 22:40 |
+| Boeing | Greenfield Associate Full Stack Developer | Tukwila, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c851b36997bd8584) | 2026-07-17 22:40 |
+| Early Warning Services | Site Reliability Engineer II | Scottsdale, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76369b84a3e2fbc3) | 2026-07-17 22:40 |
+| KPIT Technologies | MMOTA Automation & Analytics Engineer | Sunrise, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e5f370160e1fb6f3) | 2026-07-17 22:40 |
+| PNC Financial Services Group | Senior Software Engineer - Full Stack | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be7881568795588b) | 2026-07-17 22:40 |
+| PNC Financial Services Group | Software Engineer - Full Stack | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d33a8b4b4f37df9a) | 2026-07-17 22:40 |
 | Hilti Group | Senior Data Architect | Plano, TX, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=0a8b281e1b138c8f) | 2026-07-17 21:43 |
-| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-17 21:43 |
 | Quizlet | Sr Backend Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fe7cb3f6930d19e7) | 2026-07-17 21:43 |
 | Quizlet | Sr Backend Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a846c2cc34851159) | 2026-07-17 21:43 |
 | Clearwater Analytics (CWAN) | Senior Software Development Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=866e6df739eb8ef0) | 2026-07-17 21:43 |
@@ -622,18 +633,6 @@ Last updated: 2026-07-17 21:43
 | Hightower Advisors | Senior Data Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=487e755470e0a906) | 2026-07-13 22:45 |
 | Paylocity | Senior Security Architect(AI) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b6040d8fca19b2e) | 2026-07-13 22:45 |
 | Logistic Solutions Inc | Cloud Architect @ Dallas, TX | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1ffb721ba3a7f68) | 2026-07-13 22:45 |
-| Dave | Sr. Machine Learning Platform Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c40b7d898d0faad8) | 2026-07-13 21:45 |
-| nan | Analytics Engineer | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=898a5660007f1525) | 2026-07-13 21:45 |
-| Building Service 32BJ Benefit Funds | Azure DevOps Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d7f6a3d55e28770) | 2026-07-13 21:45 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7bc63eb13d50f0ab) | 2026-07-13 21:45 |
-| Invovia | Forward Deployed Engineer (AI) - Frisco, TX | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f8e491698172a68a) | 2026-07-13 21:45 |
-| Invovia | Forward Deployed Engineer (AI) | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9389c7fce7ffb417) | 2026-07-13 21:45 |
-| Pacific Life | Sr. Software Engineer- Data & Integration | Newport Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cccab38c68c6dc6f) | 2026-07-13 21:45 |
-| Tata Consultancy Services (TCS) | Network Engineer | Research Triangle Park, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd021ef938d1ce24) | 2026-07-13 21:45 |
-| Tata Consultancy Services (TCS) | Software Developer | Research Triangle Park, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a2f1102b97c2bd1) | 2026-07-13 21:45 |
-| Velera | Data Engineer IV (Snowflake/Databricks) - REMOTE | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd204a1167efc6a3) | 2026-07-13 21:45 |
-| Illumio | Sr. Site Reliability Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ce6ace065c9b44a) | 2026-07-13 21:45 |
-| Pano AI | Platform Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4aab6a4a6b438005) | 2026-07-13 21:45 |
 
 
 ---
