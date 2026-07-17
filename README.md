@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-17 04:55
+Last updated: 2026-07-17 07:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BV Teck | Big Data Engineer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=387fc6b51ae76f3d) | 2026-07-17 07:12 |
+| Modivcare | MDM Architect | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a9c2c9fdda4f8d1c) | 2026-07-17 07:12 |
+| Adobe | Senior Data Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=82541ee7f79e647f) | 2026-07-17 07:12 |
+| BV Teck | Oracle Cloud Infrastructure Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=baafd5f75dd4402a) | 2026-07-17 07:12 |
+| nan | Analytics Platform Engineer Alteryx | Garland, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8d9998dda2a0296a) | 2026-07-17 07:12 |
+| BV Teck | Apache Kafka Developer | Gilbert, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=60ffb92f7d3b11c8) | 2026-07-17 07:12 |
+| BV Teck | Apache Kafka Developer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6e02731878163cc8) | 2026-07-17 07:12 |
+| Experian | Database Developer Expert | Costa Mesa, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=92128339a573b187) | 2026-07-17 07:12 |
+| BV Teck | OpenShift Administrator | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ad761b4ec5135c9) | 2026-07-17 07:12 |
 | Fidelity TalentSource | Reliability Engineer | Westlake, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3b0948bec3ed1512) | 2026-07-17 04:55 |
 | Deloitte | Sr Databricks Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9409951346a7ad0d) | 2026-07-17 04:55 |
 | Deloitte | Sr Databricks Data Engineer | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=af009d50d9ce471a) | 2026-07-17 04:55 |
@@ -640,8 +649,6 @@ Last updated: 2026-07-17 04:55
 | Publicis Groupe | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81752facbba9d16c) | 2026-07-13 08:50 |
 | Publicis Groupe | Senior AI & Cloud Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e3b212b4def3f9f) | 2026-07-13 08:50 |
 | WSFS Bank | Full Stack Mid-level Java Software Engineer | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78f65e99062ef281) | 2026-07-13 08:50 |
-| Tesla | Reliability Engineer, Battery Module | Sparks, NV, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3af907c177dd5fdb) | 2026-07-13 05:27 |
-| We Are Recruiting | SQL Developer | Foley, AL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=39a0bb69f0f00f0c) | 2026-07-13 05:27 |
 
 
 ---
