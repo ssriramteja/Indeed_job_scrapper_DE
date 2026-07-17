@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-17 09:48
+Last updated: 2026-07-17 11:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| U.S. Financial Technology | Cloud Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=aac712b4e1b735d4) | 2026-07-17 11:15 |
+| DysrupIT | Databricks Developer (Unity Catalog Migration) | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b253191bad860e34) | 2026-07-17 11:15 |
+| ritepros | Application Development and Implementation Engineer | Portland, ME, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dd02376babaa3dee) | 2026-07-17 11:15 |
 | Chewy | Backend Software Engineer III | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=efd7f5b9b5f1900d) | 2026-07-17 09:48 |
 | New Era Technology | Senior AWS Platform Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=10d3c2eb2b954cb6) | 2026-07-17 09:48 |
 | New Era Technology | Senior AWS Platform Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14312f1b5ae1eee7) | 2026-07-17 09:48 |
