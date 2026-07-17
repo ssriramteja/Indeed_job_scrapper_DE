@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-17 07:12
+Last updated: 2026-07-17 09:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Chewy | Backend Software Engineer III | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=efd7f5b9b5f1900d) | 2026-07-17 09:48 |
+| New Era Technology | Senior AWS Platform Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=10d3c2eb2b954cb6) | 2026-07-17 09:48 |
+| New Era Technology | Senior AWS Platform Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14312f1b5ae1eee7) | 2026-07-17 09:48 |
+| New Era Technology | Senior AWS Platform Engineer | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34542792a9682496) | 2026-07-17 09:48 |
+| Moody's | Asst Dir-DevOps Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4f20f826b053e576) | 2026-07-17 09:48 |
 | BV Teck | Big Data Engineer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=387fc6b51ae76f3d) | 2026-07-17 07:12 |
 | Modivcare | MDM Architect | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a9c2c9fdda4f8d1c) | 2026-07-17 07:12 |
 | Adobe | Senior Data Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=82541ee7f79e647f) | 2026-07-17 07:12 |
@@ -633,22 +638,6 @@ Last updated: 2026-07-17 07:12
 | VIVA | Databricks Engineer | Clifton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=009aa09bd21a9217) | 2026-07-13 14:07 |
 | American business solutions inc | Oracle OCI Cloud Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05cf4bb1193bec3f) | 2026-07-13 14:07 |
 | Applied Medical | Application Developer | Rancho Santa Margarita, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c3004d47870448a1) | 2026-07-13 11:52 |
-| Publicis Groupe | Senior Software Engineer – Full Stack (Java, AWS, React) | Boston, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d0f99e44e51085df) | 2026-07-13 08:50 |
-| Astronautics Corporation of America | Data Modeler | Oak Creek, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9d06ee741990db6b) | 2026-07-13 08:50 |
-| Publicis Groupe | Senior Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2afd6091c64d55df) | 2026-07-13 08:50 |
-| Publicis Groupe | Senior Software Engineer | Westminster, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=26c2fa1d45c9055b) | 2026-07-13 08:50 |
-| Publicis Groupe | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b4d8e19f0fb16bc7) | 2026-07-13 08:50 |
-| TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e7356e10af404cb1) | 2026-07-13 08:50 |
-| Kimball Midwest | Data Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2dd6388cdeebf986) | 2026-07-13 08:50 |
-| Publicis Groupe | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=622d3a3e3c903762) | 2026-07-13 08:50 |
-| Publicis Groupe | Data Solutions Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad3836b0fc7c4571) | 2026-07-13 08:50 |
-| Publicis Groupe | Senior Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=57668a6af42a8310) | 2026-07-13 08:50 |
-| Publicis Groupe | Senior Analyst, Data Engineering | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=29d151c251dc07f6) | 2026-07-13 08:50 |
-| Publicis Groupe | Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5962ad63a23cfa81) | 2026-07-13 08:50 |
-| Publicis Groupe | Software Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=083794db905029d1) | 2026-07-13 08:50 |
-| Publicis Groupe | Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81752facbba9d16c) | 2026-07-13 08:50 |
-| Publicis Groupe | Senior AI & Cloud Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e3b212b4def3f9f) | 2026-07-13 08:50 |
-| WSFS Bank | Full Stack Mid-level Java Software Engineer | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78f65e99062ef281) | 2026-07-13 08:50 |
 
 
 ---
