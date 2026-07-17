@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-17 11:15
+Last updated: 2026-07-17 13:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BV Teck | Streaming Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b6de0bab061bc9cb) | 2026-07-17 13:06 |
+| New York Life | Senior Associate - Analytics Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4413578cebf7d25) | 2026-07-17 13:06 |
 | U.S. Financial Technology | Cloud Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=aac712b4e1b735d4) | 2026-07-17 11:15 |
 | DysrupIT | Databricks Developer (Unity Catalog Migration) | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b253191bad860e34) | 2026-07-17 11:15 |
 | ritepros | Application Development and Implementation Engineer | Portland, ME, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dd02376babaa3dee) | 2026-07-17 11:15 |
@@ -640,7 +642,6 @@ Last updated: 2026-07-17 11:15
 | Cloud and Things | Bi Developer | Albany, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b85dd5750a229b32) | 2026-07-13 17:07 |
 | VIVA | Databricks Engineer | Clifton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=009aa09bd21a9217) | 2026-07-13 14:07 |
 | American business solutions inc | Oracle OCI Cloud Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05cf4bb1193bec3f) | 2026-07-13 14:07 |
-| Applied Medical | Application Developer | Rancho Santa Margarita, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c3004d47870448a1) | 2026-07-13 11:52 |
 
 
 ---
