@@ -1,11 +1,40 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-16 23:52
+Last updated: 2026-07-17 01:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BV Teck | Senior Data Engineer | Remote, US USA | 31.9% | [Apply](https://www.indeed.com/viewjob?jk=8d76ba5e0a95c573) | 2026-07-17 01:50 |
+| BV Teck | Senior Data Scientist | Remote, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=dd9020dafbdc31c1) | 2026-07-17 01:50 |
+| Tailored Brands | Sr Data Engineer | Houston, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=ba13c042faeff40f) | 2026-07-17 01:50 |
+| BV Teck | Senior Data Engineer – Hadoop | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=12d58810cbcb954b) | 2026-07-17 01:50 |
+| BV Teck | AWS Platform Specialist | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=30dc1ebf3576193b) | 2026-07-17 01:50 |
+| Toyota North America | Senior Software Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bd9b93bfe4203dee) | 2026-07-17 01:50 |
+| BV Teck | Senior Devops Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3eda973817d320c4) | 2026-07-17 01:50 |
+| Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebd0df0dccdfb9f2) | 2026-07-17 01:50 |
+| BV Teck | Azure Platform Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fee0e6ad03a3ec1a) | 2026-07-17 01:50 |
+| BV Teck | OIC Platform Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=05b23a0e4bd54aca) | 2026-07-17 01:50 |
+| Pitch Aeronautics | Devops Engineer (remote) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8d06989f63f80692) | 2026-07-17 01:50 |
+| Pitch Aeronautics | DevOps Engineer (local) | Boise, ID, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=05962395e65b1886) | 2026-07-17 01:50 |
+| BV Teck | Real-Time Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=90e8597c74939cd5) | 2026-07-17 01:50 |
+| BV Teck | Cloud Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=59d42e314159c908) | 2026-07-17 01:50 |
+| Data Meaning | MicroStrategy Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f44493866380de3d) | 2026-07-17 01:50 |
+| Whatnot | Software Engineer, Data Foundations | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85a5a7b7163788ca) | 2026-07-17 01:50 |
+| Whatnot | Software Engineer, Data Foundations | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=100f0edfd16804d0) | 2026-07-17 01:50 |
+| Whatnot | Software Engineer, Data Foundations | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6c73fdab7d4125b5) | 2026-07-17 01:50 |
+| Whatnot | Software Engineer, Data Foundations | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=589d96f5043796e6) | 2026-07-17 01:50 |
+| CVS Health | Senior Site Reliability Engineer (SRE) | Scottsdale, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=870693935117a1a7) | 2026-07-17 01:50 |
+| CVS Health | Senior Site Reliability Engineer (SRE) | Woonsocket, RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1a69e4ca3aede317) | 2026-07-17 01:50 |
+| Inabia Software & Consulting Inc. | QA Automation Engineer - Brokerage/ Financial domain | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7e248d1d788eee10) | 2026-07-17 01:50 |
+| Stellantis | Senior Data Engineer – Platform Foundation | Auburn Hills, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=062b0a0b038ae28f) | 2026-07-17 01:50 |
+| Capgemini | Informatica Intelligent Data Management Cloud | Schaumburg, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b14760973f99a8d6) | 2026-07-17 01:50 |
+| MiniMed | Senior AI/Data Science Engineer – Manufacturing & Operations | Northridge, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb0006d33139e7b7) | 2026-07-17 01:50 |
+| BNY | Senior Specialist, Application Development | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=326667fe25b59e3f) | 2026-07-17 01:50 |
+| CrowdStrike | Engineer II, Advanced Research (Remote) | MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e40cb2a69d120f5) | 2026-07-17 01:50 |
+| Pacific Life | Data Engineer II | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fb4947a8fe12af52) | 2026-07-17 01:50 |
+| BNY | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea5c95d18f76d05a) | 2026-07-17 01:50 |
 | EPIC Kids | Senior Site Reliability Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91144e00c41e59f6) | 2026-07-16 23:52 |
 | Cambia Health Solutions | Senior Data Platform Engineer / SDE | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=229b2a31ef020c77) | 2026-07-16 23:52 |
 | Build-A-Bear Workshop | Data Engineer | St. Louis, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a7e0d6b0fa569854) | 2026-07-16 22:51 |
