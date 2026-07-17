@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-17 13:06
+Last updated: 2026-07-17 15:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Infoville, Inc | Senior Business Systems Analyst | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f9d7fde96960560b) | 2026-07-17 15:06 |
+| Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0e7b564fddd4b752) | 2026-07-17 15:06 |
+| pointer infotech L.L.C | Senior Data Engineer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0669283adb0994ba) | 2026-07-17 15:06 |
+| Databricks | Sr. Solutions Architect | Palo Alto, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f8ca9e790778786) | 2026-07-17 15:06 |
+| Databricks | Sr. Solutions Architect | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4ba9b17426b74a1b) | 2026-07-17 15:06 |
+| CVS Health | Senior Software Development Engineer | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b8ad5ccbc04e6be) | 2026-07-17 15:06 |
+| Digital Dhara LLC | .NET Engineer with Dicom | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=416c7d1cd0685efb) | 2026-07-17 15:06 |
+| Johnson Controls | Ai Engineer | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=245ecaddb1985ea7) | 2026-07-17 15:06 |
 | BV Teck | Streaming Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b6de0bab061bc9cb) | 2026-07-17 13:06 |
 | New York Life | Senior Associate - Analytics Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4413578cebf7d25) | 2026-07-17 13:06 |
 | U.S. Financial Technology | Cloud Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=aac712b4e1b735d4) | 2026-07-17 11:15 |
@@ -640,8 +648,6 @@ Last updated: 2026-07-17 13:06
 | Northeastern University | Senior Data Integration Operations Engineerr | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=748fc639b3268939) | 2026-07-13 17:07 |
 | nan | Level 2 – Technical Support Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f92c2bb95c010dd6) | 2026-07-13 17:07 |
 | Cloud and Things | Bi Developer | Albany, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b85dd5750a229b32) | 2026-07-13 17:07 |
-| VIVA | Databricks Engineer | Clifton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=009aa09bd21a9217) | 2026-07-13 14:07 |
-| American business solutions inc | Oracle OCI Cloud Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=05cf4bb1193bec3f) | 2026-07-13 14:07 |
 
 
 ---
