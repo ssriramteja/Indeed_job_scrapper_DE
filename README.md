@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-18 18:48
+Last updated: 2026-07-18 19:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-18 18:48 |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 18:48 |
+| Toll Brothers | Integration Services Engineer | Fort Washington, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=163762cb42bc6d83) | 2026-07-18 19:59 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 19:59 |
 | PNC Financial Services Group | Quality Assurance Architect - Hadoop / Big Data / Python | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40430f432f2963a7) | 2026-07-18 16:45 |
 | University of Southern California | Data Scientist (ITS) | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8ea9a719ad357a71) | 2026-07-18 15:45 |
 | Intercontinental Exchange | Senior Developer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8062146e14fcc8f8) | 2026-07-18 10:10 |
@@ -621,32 +621,6 @@ Last updated: 2026-07-18 18:48
 | Chevron | 2026-2027 Information Technology - Software Engineer - Full-Time | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6578ea1eb5e5142) | 2026-07-14 20:50 |
 | Chevron | 2026-2027 Information Technology - Software Engineer - Intern | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eab14599c79da82b) | 2026-07-14 20:50 |
 | Aivra Health | Junior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7dbdf6ce237b13d) | 2026-07-14 20:50 |
-| RSM | Cloud Transformation Senior Consultant | Atlanta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=57362c44cdaea54f) | 2026-07-14 19:03 |
-| Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b9be95a71934961d) | 2026-07-14 19:03 |
-| Modivcare | Cloud Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bcf05ce3284e6a20) | 2026-07-14 19:03 |
-| Itero Group | Senior Snowflake Data Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e304be37d5897728) | 2026-07-14 19:03 |
-| Itero Group | Senior Snowflake Data Engineer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9724f20b3e8cf9d3) | 2026-07-14 19:03 |
-| Abrigo | Senior Cloud Database Operations Engineer | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d7fae8116d2ca386) | 2026-07-14 19:03 |
-| Abrigo | Senior Cloud Database Operations Engineer | Raleigh, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3e9a8697ac906001) | 2026-07-14 19:03 |
-| Abrigo | Senior Cloud Database Operations Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0dae3ed04ad2bede) | 2026-07-14 19:03 |
-| Charter Manufacturing | Data Architect | Mequon, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=284985e81accb0a4) | 2026-07-14 19:03 |
-| Perforce Software | Sr Sales Engineer - US-East | Miami, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fc6cc2f265b558a0) | 2026-07-14 19:03 |
-| Perforce Software | Sr Sales Engineer - US-East | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1e4b3c9272c2a259) | 2026-07-14 19:03 |
-| Perforce Software | Sr Sales Engineer - US-East | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4036bfdc733445b6) | 2026-07-14 19:03 |
-| NuAxis Innovations | DataHub Developer | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5423277344900438) | 2026-07-14 19:03 |
-| Escalent | AI Infrastructure Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=45d62ba2dc0bd875) | 2026-07-14 19:03 |
-| Tachyon Technologies | Sigma Report Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac8d0798b16bd29a) | 2026-07-14 19:03 |
-| CVS Health | Senior Data Engineer | CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4223c8030b51f20b) | 2026-07-14 19:03 |
-| Neuberger Berman | Full Stack Developer III - Private Markets Applications | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04f2e93224c9a790) | 2026-07-14 19:03 |
-| nan | Senior .NET and SSRS Developer | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d3c8883b0dd19abf) | 2026-07-14 19:03 |
-| U.S. Bank | Software Engineer 2 (Backend AI) | Earth City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=032b8db4bfd5e6d8) | 2026-07-14 19:03 |
-| U.S. Bank | Software Engineer 2 (Backend AI) | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=46f856d080d24d05) | 2026-07-14 19:03 |
-| U.S. Bank | Software Engineer 2 (Backend AI) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=19153bb3202f8519) | 2026-07-14 19:03 |
-| U.S. Bank | Software Engineer 2 (Backend AI) | Brookfield, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee7a2d23cf0b0fbe) | 2026-07-14 19:03 |
-| U.S. Bank | Software Engineer 2 (Backend AI) | Hopkins, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=00a3e62df8c707d8) | 2026-07-14 19:03 |
-| U.S. Bank | Software Engineer 2 (Backend AI) | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=779a1a0a5eccc32e) | 2026-07-14 19:03 |
-| U.S. Bank | Software Engineer 2 (Backend AI) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8993a2c0de0e70e1) | 2026-07-14 19:03 |
-| SHI International | Solutions Engineer - Data Visualization | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7cfe4bd64f8f496f) | 2026-07-14 19:03 |
 
 
 ---
