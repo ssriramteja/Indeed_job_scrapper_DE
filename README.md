@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-18 16:45
+Last updated: 2026-07-18 17:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-18 16:45 |
+| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-18 17:48 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 17:48 |
 | PNC Financial Services Group | Quality Assurance Architect - Hadoop / Big Data / Python | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40430f432f2963a7) | 2026-07-18 16:45 |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 16:45 |
 | University of Southern California | Data Scientist (ITS) | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8ea9a719ad357a71) | 2026-07-18 15:45 |
 | Intercontinental Exchange | Senior Developer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8062146e14fcc8f8) | 2026-07-18 10:10 |
 | nan | Senior Cloud Engineer | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3d96ea8e9dc36fab) | 2026-07-18 08:43 |
@@ -647,19 +647,6 @@ Last updated: 2026-07-18 16:45
 | U.S. Bank | Software Engineer 2 (Backend AI) | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=779a1a0a5eccc32e) | 2026-07-14 19:03 |
 | U.S. Bank | Software Engineer 2 (Backend AI) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8993a2c0de0e70e1) | 2026-07-14 19:03 |
 | SHI International | Solutions Engineer - Data Visualization | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7cfe4bd64f8f496f) | 2026-07-14 19:03 |
-| Bloomberg | Senior Data Management Professional - Data Engineering - Entities | Princeton, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=00a24491194c9938) | 2026-07-14 17:03 |
-| Arbitration Forums Inc. | Senior Software Engineer | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0c27f2a9eec45412) | 2026-07-14 17:03 |
-| Newpage Digital Healthcare solutions | AI Native Developer- Europe | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=444a0e6bd539f82b) | 2026-07-14 17:03 |
-| Newpage Digital Healthcare solutions | AI Native Builder-Europe | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ae934e8451ebc14c) | 2026-07-14 17:03 |
-| iHerb | Sr. Data Engineer I | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=67dc4ab0c6df1a50) | 2026-07-14 17:03 |
-| Optum | Technical Product Management - Cloud Optimization - Remote | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8490d129696b2471) | 2026-07-14 17:03 |
-| New England Life Care | Data Warehouse Developer | Scarborough, ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fe69cd7125f7a833) | 2026-07-14 17:03 |
-| New England Life Care | Data Warehouse Developer | Concord, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c09787e1cb8cb395) | 2026-07-14 17:03 |
-| New England Life Care | Data Warehouse Developer | Woburn, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a4ad7ea1b58a31e) | 2026-07-14 17:03 |
-| New England Life Care | Data Warehouse Developer | Canton, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1cc726639aa959a6) | 2026-07-14 17:03 |
-| Optum | RPA Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=74fd1f39f284ae52) | 2026-07-14 17:03 |
-| Verisure | Software Engineer | Uniontown, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c374eb71cdd5829a) | 2026-07-14 17:03 |
-| Asurion | Software Engineer 2 - Internal Development Platform (IDP) | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4a35189b0c83845) | 2026-07-14 17:03 |
 
 
 ---
