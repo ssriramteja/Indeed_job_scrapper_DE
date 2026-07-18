@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-18 12:53
+Last updated: 2026-07-18 14:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-18 12:53 |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 12:53 |
+| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-18 14:16 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 14:16 |
 | Intercontinental Exchange | Senior Developer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8062146e14fcc8f8) | 2026-07-18 10:10 |
 | nan | Senior Cloud Engineer | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3d96ea8e9dc36fab) | 2026-07-18 08:43 |
 | Glint Tech Solutions | Sr. Data Scientist | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd979a0715c09dce) | 2026-07-18 08:43 |
@@ -662,8 +662,6 @@ Last updated: 2026-07-18 12:53
 | Charles Schwab | Specialist, Retirement Investment Analytics | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ea8b523875ba47e1) | 2026-07-14 15:17 |
 | Oracle | [REMOTE] Senior Platform Software Engineer- Oracle Clinical Digital Assistant | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=23f3fde4ed90357e) | 2026-07-14 15:17 |
 | Department of Finance | Appian Dev-Reporting & Analytics | Manhattan, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88aacc0c7f29344d) | 2026-07-14 15:17 |
-| Buckeye Express | Systems Administrator | Northwood, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1a019537c9558853) | 2026-07-14 13:10 |
-| Capgemini | Spark Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2cb65007f4e4e07a) | 2026-07-14 13:10 |
 
 
 ---
