@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-18 22:39
+Last updated: 2026-07-18 23:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 22:39 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 23:43 |
 | Toll Brothers | Integration Services Engineer | Fort Washington, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=163762cb42bc6d83) | 2026-07-18 19:59 |
 | PNC Financial Services Group | Quality Assurance Architect - Hadoop / Big Data / Python | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40430f432f2963a7) | 2026-07-18 16:45 |
 | University of Southern California | Data Scientist (ITS) | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8ea9a719ad357a71) | 2026-07-18 15:45 |
@@ -518,22 +518,6 @@ Last updated: 2026-07-18 22:39
 | WSSC Water | Advanced Metering Infrastructure (AMI) Engineer | Laurel, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=decf563d2df9d00c) | 2026-07-15 01:26 |
 | Wayfair | Software Engineer II, Search and Recommendations | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ebba4b09c33f10f3) | 2026-07-15 01:26 |
 | Wayfair | Software Engineer II, Search & Recommendations | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce142e0b825940e6) | 2026-07-15 01:26 |
-| Matrix International Financial Services | Azure Data Architect | US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b9c9310d05771935) | 2026-07-14 23:43 |
-| Rippling | Senior .NET Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=52c472962c791de2) | 2026-07-14 23:43 |
-| Beghou Consulting | Consultant, Data Analytics | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6c4d9af5a8a63484) | 2026-07-14 23:43 |
-| Mercedes-Benz Group | Quality and Data Engineer | Vance, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a36a0ff08797a70) | 2026-07-14 23:43 |
-| Re:Build Manufacturing | Senior Software Engineer – Product | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61d08f5c56b39289) | 2026-07-14 23:43 |
-| U.S. Bank | Senior Data Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ebbf24573d559b5) | 2026-07-14 23:43 |
-| TTX | Senior Development Operations Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=730302ab09184768) | 2026-07-14 23:43 |
-| Fidelity Investments | Senior Data Engineer | Westlake, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3720530c1ac33814) | 2026-07-14 22:48 |
-| Aktra Inc | AI & Financial Engineering Developer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=241a34851225e025) | 2026-07-14 22:48 |
-| Astronomer | Senior Solutions Architect - Airflow (West Coast) | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=563d41613641e2d6) | 2026-07-14 22:48 |
-| NTT DATA | Systems Integration Senior Specialist | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=73592828eec12b39) | 2026-07-14 22:48 |
-| JPMorganChase | Software Engineer III - Full Stack | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a457abd93bdf7c3a) | 2026-07-14 22:48 |
-| Barclays | Data Scientist, Analytics and Modelling | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9439d62d21cdb7b2) | 2026-07-14 22:48 |
-| Tesla | Data Engineer | Fremont, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=020e432808447458) | 2026-07-14 22:48 |
-| Betsol | CCaaS GCP Product Owner | Broomfield, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14af21d8d4a25c44) | 2026-07-14 22:48 |
-| CCSI | Network/Systems Engineer/DBA | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=82f25ac0bbe1b8ca) | 2026-07-14 22:48 |
 
 
 ---
