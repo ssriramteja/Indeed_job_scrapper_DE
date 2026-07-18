@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-18 20:48
+Last updated: 2026-07-18 21:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 20:48 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 21:41 |
 | Toll Brothers | Integration Services Engineer | Fort Washington, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=163762cb42bc6d83) | 2026-07-18 19:59 |
 | PNC Financial Services Group | Quality Assurance Architect - Hadoop / Big Data / Python | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40430f432f2963a7) | 2026-07-18 16:45 |
 | University of Southern California | Data Scientist (ITS) | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8ea9a719ad357a71) | 2026-07-18 15:45 |
@@ -614,13 +614,6 @@ Last updated: 2026-07-18 20:48
 | GEICO | Senior Engineer | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e7fd121bc0e2325) | 2026-07-14 21:48 |
 | GEICO | Senior Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f41d2b8270473c0a) | 2026-07-14 21:48 |
 | GEICO | Senior Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a6494cda8c81441) | 2026-07-14 21:48 |
-| Optum | Junior Architect / Senior Data Engineer - Remote | Schaumburg, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7e53a2ba6f9a4021) | 2026-07-14 20:50 |
-| Optum | Senior Cloud Data Engineer - Remote | Las Vegas, NV, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0426c9944a6312e8) | 2026-07-14 20:50 |
-| Western Governors University | Senior Quality Engineer - FY27 | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=754540310d15df69) | 2026-07-14 20:50 |
-| El Toro.com | Senior DevOps Engineer | Louisville, KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d42d84e2b583adb0) | 2026-07-14 20:50 |
-| Chevron | 2026-2027 Information Technology - Software Engineer - Full-Time | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6578ea1eb5e5142) | 2026-07-14 20:50 |
-| Chevron | 2026-2027 Information Technology - Software Engineer - Intern | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eab14599c79da82b) | 2026-07-14 20:50 |
-| Aivra Health | Junior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7dbdf6ce237b13d) | 2026-07-14 20:50 |
 
 
 ---
