@@ -1,12 +1,36 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-18 01:40
+Last updated: 2026-07-18 04:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-18 01:40 |
+| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-18 04:40 |
+| Symhas | GCP Data Engineer – Data Warehouse Migration (Contract) | Denver, CO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=db29dad2b864cc94) | 2026-07-18 04:40 |
+| nan | Python Engineer | Milwaukee, WI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0c4b06e145d564d5) | 2026-07-18 04:40 |
+| Fractal Analytics | Senior Data Engineer | CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0031fd954f123a0a) | 2026-07-18 04:40 |
+| Fractal Analytics | Onshore - Sr Engg_CurationSup | CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3043110bea025f7e) | 2026-07-18 04:40 |
+| Fractal Analytics | Solution Architect | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3fe3c3c98332bc48) | 2026-07-18 04:40 |
+| Fractal Analytics | Senior Data Ops Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=092a3008f1f3de0c) | 2026-07-18 04:40 |
+| El Car Wash | Data Engineer | Doral, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2854d60d8b9f2853) | 2026-07-18 04:40 |
+| Fractal Analytics | MLOps Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=486a846548c8944d) | 2026-07-18 04:40 |
+| Intone Networks | Senior Data Engineer | Malvern, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d34de94764adcf6e) | 2026-07-18 04:40 |
+| Oracle | Senior Platform Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eb99900659461c29) | 2026-07-18 04:40 |
+| COLLETTE TRAVEL SERVICE INC | Sr. Data Warehouse Architect | Pawtucket, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ab0dc1d3377ff12) | 2026-07-18 04:40 |
+| Databricks | Specialist Solutions Architect - Azure Cloud Platform & Infrastructure | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3578fc92cb1c9a9a) | 2026-07-18 04:40 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 04:40 |
+| Fractal Analytics | Senior Power BI Developer | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db2f326c8638e9dd) | 2026-07-18 04:40 |
+| Deloitte | Applied AI Engineer II - Encore Program | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9578c5ee6ff86e13) | 2026-07-18 04:40 |
+| Deloitte | Applied AI Engineer II - Encore Program | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ad76db08f630b6c) | 2026-07-18 04:40 |
+| Deloitte | Applied AI Engineer II - Encore Program | Stamford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1d43ce86d90bed8) | 2026-07-18 04:40 |
+| Deloitte | Applied AI Engineer II - Encore Program | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06f4175ce14c5277) | 2026-07-18 04:40 |
+| Deloitte | Applied AI Engineer II - Encore Program | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=477ade6f9df74158) | 2026-07-18 04:40 |
+| Deloitte | Applied AI Engineer II | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48d45f63d627c354) | 2026-07-18 04:40 |
+| Deloitte | Applied AI Engineer II | Stamford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=08e63d65ec993a4f) | 2026-07-18 04:40 |
+| Deloitte | Applied AI Engineer II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9ac57f31d83fabb) | 2026-07-18 04:40 |
+| Deloitte | Applied AI Engineer II | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7770acdfe63142da) | 2026-07-18 04:40 |
+| Deloitte | Applied AI Engineer II | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35403b174dad896e) | 2026-07-18 04:40 |
 | American Express | Sr. Software Engineer I - Global Servicing Technology | Charlotte, NC, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3f892fe903a7c319) | 2026-07-18 01:40 |
 | Capgemini | Java Platform Architect / Spring Integration Architect | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2e659cdd95ef50fa) | 2026-07-18 01:40 |
 | Skechers | Sr. Data Architect | Hermosa Beach, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5b35736fa253152e) | 2026-07-18 01:40 |
