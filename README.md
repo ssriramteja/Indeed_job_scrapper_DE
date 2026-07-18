@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-18 08:43
+Last updated: 2026-07-18 10:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-18 08:43 |
+| Ford Motor Company | AI/ML Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=8ed5e67a7bd26cdb) | 2026-07-18 10:10 |
+| Intercontinental Exchange | Senior Developer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8062146e14fcc8f8) | 2026-07-18 10:10 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 10:10 |
 | nan | Senior Cloud Engineer | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3d96ea8e9dc36fab) | 2026-07-18 08:43 |
 | Glint Tech Solutions | Sr. Data Scientist | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd979a0715c09dce) | 2026-07-18 08:43 |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 08:43 |
 | Target | Senior AI Engineer – Apply For CircleCard | Brooklyn Park, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1593657cd51d3c9f) | 2026-07-18 08:43 |
 | Envision Healthcare | DEV OPS ENGINEER IV | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=234470a5d086eaec) | 2026-07-18 06:53 |
 | Symhas | GCP Data Engineer – Data Warehouse Migration (Contract) | Denver, CO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=db29dad2b864cc94) | 2026-07-18 04:40 |
@@ -665,10 +666,6 @@ Last updated: 2026-07-18 08:43
 | Capgemini | Spark Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2cb65007f4e4e07a) | 2026-07-14 13:10 |
 | Capgemini | Spark Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7beab78b75a48b8) | 2026-07-14 11:18 |
 | Tesla | Sr. Software Engineer, Quality Engineering, Energy | Brookshire, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e3e988ed0beac81e) | 2026-07-14 11:18 |
-| nan | Application Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=53d521f5fad271b9) | 2026-07-14 09:47 |
-| nan | Data Engineer | Grand Rapids, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=82d983a063892214) | 2026-07-14 09:47 |
-| Match Made Tech | Data Engineer- Hybrid | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=936d9e38993af00c) | 2026-07-14 09:47 |
-| giggs | Software Developer Engineer | Studio City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ac26f490d494d59) | 2026-07-14 09:47 |
 
 
 ---
