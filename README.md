@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-19 16:45
+Last updated: 2026-07-19 17:50
 
 ### 🚀 Daily Job Matches
 
@@ -561,16 +561,6 @@ Last updated: 2026-07-19 16:45
 | Vytalize Health | Associate Data Engineer | KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b121c03b7571c591) | 2026-07-15 18:56 |
 | Avid Technology | Data Warehouse Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42278e3835861af7) | 2026-07-15 18:56 |
 | VINMAR INTERNATIONAL | Forward Deployed Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43aa1a5e37a0ff4a) | 2026-07-15 18:56 |
-| Hilton | FinOps Engineer (contract) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba947e467674b693) | 2026-07-15 17:06 |
-| Digital Dhara LLC | JBoss Apache Fuse Engineer with Healthcare (RCM) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bdef99a180f7357d) | 2026-07-15 17:06 |
-| IT Shoulders, Inc. | Technical Solution Architect - Salesforce Service Cloud | Allen, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6285bc228bba1070) | 2026-07-15 17:06 |
-| Dominion Energy | Solutions Architect (RICHMOND, VA, US, 23219) | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ebe9bd2b5131f29d) | 2026-07-15 17:06 |
-| CCC Intelligent Solutions | Senior Cloud Engineer - Azure | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5df64a9e9d059759) | 2026-07-15 17:06 |
-| nan | Knowledge Graph Engineer/Semantic Web Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f1326954160b9d00) | 2026-07-15 17:06 |
-| CSAA Insurance Group, a AAA Insurer | API/Microservices/AWS Software Engineer - Remote | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d840931b85553d6b) | 2026-07-15 17:06 |
-| Leverege | Senior DevOps/MLOps Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc2c5ef617a021a1) | 2026-07-15 17:06 |
-| MagicForce | Semantic Web Engineer or knowledge graph Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d42f448146cc2551) | 2026-07-15 17:06 |
-| Net Health | Business Intelligence Analyst I - REMOTE | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2050bd296e3aa9f7) | 2026-07-15 17:06 |
 
 
 ---
