@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-18 23:43
+Last updated: 2026-07-19 01:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-18 23:43 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb03759ca911a7c8) | 2026-07-19 01:48 |
 | Toll Brothers | Integration Services Engineer | Fort Washington, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=163762cb42bc6d83) | 2026-07-18 19:59 |
 | PNC Financial Services Group | Quality Assurance Architect - Hadoop / Big Data / Python | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40430f432f2963a7) | 2026-07-18 16:45 |
 | University of Southern California | Data Scientist (ITS) | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8ea9a719ad357a71) | 2026-07-18 15:45 |
@@ -510,14 +510,6 @@ Last updated: 2026-07-18 23:43
 | VetsEZ | Senior Software Product Engineer (Remote Opportunity) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eeb8dc7b4cca4c33) | 2026-07-15 04:42 |
 | VetsEZ | Senior Software Product Engineer (Remote Opportunity) | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7bee4a1e548e177) | 2026-07-15 04:42 |
 | VetsEZ | Senior Software Product Engineer (Remote Opportunity) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a54ac0922147b15) | 2026-07-15 04:42 |
-| STAND TOGETHER | Senior Full-Stack Software Engineer - Front-End Focused | Arlington, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3221281fdf023197) | 2026-07-15 01:26 |
-| Fiddler AI | Senior AI Solutions Engineer | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c44bbcac30a87c2) | 2026-07-15 01:26 |
-| Fiddler AI | Senior AI Solutions Engineer | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5bc37b1c10548573) | 2026-07-15 01:26 |
-| Luxoft | Senior AI Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=221a044944e1b41d) | 2026-07-15 01:26 |
-| Ahead | Forward Deployed Engineer - AI SOC | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=29fa83f558965646) | 2026-07-15 01:26 |
-| WSSC Water | Advanced Metering Infrastructure (AMI) Engineer | Laurel, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=decf563d2df9d00c) | 2026-07-15 01:26 |
-| Wayfair | Software Engineer II, Search and Recommendations | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ebba4b09c33f10f3) | 2026-07-15 01:26 |
-| Wayfair | Software Engineer II, Search & Recommendations | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce142e0b825940e6) | 2026-07-15 01:26 |
 
 
 ---
