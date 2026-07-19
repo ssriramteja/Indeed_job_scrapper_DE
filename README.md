@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-19 12:55
+Last updated: 2026-07-19 14:20
 
 ### 🚀 Daily Job Matches
 
@@ -526,9 +526,6 @@ Last updated: 2026-07-19 12:55
 | Value Truck of Arizona | Senior Business Intelligence Analyst | South Jordan, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=49ae49eef7db6241) | 2026-07-15 15:19 |
 | ThesisGrid | Software Development Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d06761e86ca4aeca) | 2026-07-15 15:19 |
 | Charles River Analytics | Senior UX Software Engineer | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e62e78236a52a218) | 2026-07-15 15:19 |
-| Moffitt Cancer Center | DATA ENGINEER I | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a407a20c56f80680) | 2026-07-15 13:14 |
-| NetApp | Senior Software Engineer | Bellevue, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9690379ea46f2be7) | 2026-07-15 13:14 |
-| Technology Ventures | Developer-Full Stack Senior | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45e9f859d9d42bd7) | 2026-07-15 13:14 |
 
 
 ---
