@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-19 05:13
+Last updated: 2026-07-19 08:00
 
 ### 🚀 Daily Job Matches
 
@@ -536,12 +536,6 @@ Last updated: 2026-07-19 05:13
 | Granite Telecommunications | Senior Cloud Data Ops Engineer | Quincy, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f722c5b892610593) | 2026-07-15 09:51 |
 | Datadrive | Analytics Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5f20a50010d3a4e) | 2026-07-15 09:51 |
 | ServiceLink | Performance Engineer, Information technology | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3af50fd888d2a26) | 2026-07-15 09:51 |
-| JPMorganChase | Software Engineer III - Glue/Python/Pyspark | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0bd064010356a824) | 2026-07-15 07:07 |
-| Ideas2IT Technology Services | Power BI Developer | Tennyson, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3c514f50b938a8dc) | 2026-07-15 07:07 |
-| AutoSavvy | Data Engineer | Woods Cross, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7481c6f102626c6e) | 2026-07-15 07:07 |
-| DriveTime Automotive Group | Senior Data Engineer (DBT) | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be21268d9d981efd) | 2026-07-15 07:07 |
-| DriveTime Automotive Group | Senior Data Engineer (DBT) | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f756de42016efc57) | 2026-07-15 07:07 |
-| Gulfstream Aerospace | Reporting Developer III - Cloud Analytics Data Engineer | Savannah, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=abc756e24b7ebb78) | 2026-07-15 07:07 |
 
 
 ---
