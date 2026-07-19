@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-19 11:04
+Last updated: 2026-07-19 12:55
 
 ### 🚀 Daily Job Matches
 
@@ -529,8 +529,6 @@ Last updated: 2026-07-19 11:04
 | Moffitt Cancer Center | DATA ENGINEER I | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a407a20c56f80680) | 2026-07-15 13:14 |
 | NetApp | Senior Software Engineer | Bellevue, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9690379ea46f2be7) | 2026-07-15 13:14 |
 | Technology Ventures | Developer-Full Stack Senior | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45e9f859d9d42bd7) | 2026-07-15 13:14 |
-| Berkley | Senior Data Scientist | Glen Allen, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7656191539f10c8f) | 2026-07-15 11:22 |
-| NextAmp LLC | Data Analyst | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=112573c8edf11915) | 2026-07-15 11:22 |
 
 
 ---
