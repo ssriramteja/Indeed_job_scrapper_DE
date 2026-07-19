@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-19 08:00
+Last updated: 2026-07-19 09:54
 
 ### 🚀 Daily Job Matches
 
@@ -531,11 +531,6 @@ Last updated: 2026-07-19 08:00
 | Technology Ventures | Developer-Full Stack Senior | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45e9f859d9d42bd7) | 2026-07-15 13:14 |
 | Berkley | Senior Data Scientist | Glen Allen, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7656191539f10c8f) | 2026-07-15 11:22 |
 | NextAmp LLC | Data Analyst | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=112573c8edf11915) | 2026-07-15 11:22 |
-| Edgewater Federal Solutions | Artificial Intelligence Senior Data Scientist | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4a48e7242a74c765) | 2026-07-15 09:51 |
-| Diversified Gas & Oil | Data Engineer- BI Developer | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d9cd4d53bb42fc00) | 2026-07-15 09:51 |
-| Granite Telecommunications | Senior Cloud Data Ops Engineer | Quincy, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f722c5b892610593) | 2026-07-15 09:51 |
-| Datadrive | Analytics Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5f20a50010d3a4e) | 2026-07-15 09:51 |
-| ServiceLink | Performance Engineer, Information technology | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3af50fd888d2a26) | 2026-07-15 09:51 |
 
 
 ---
