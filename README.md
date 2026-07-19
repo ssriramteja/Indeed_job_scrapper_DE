@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-19 18:52
+Last updated: 2026-07-19 20:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Neomax | Systems Engineer | Chantilly, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0162590b4bca3d10) | 2026-07-19 20:02 |
 | CVS Health | Software Development Engineer | KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d44fe55ea5358c0) | 2026-07-19 15:47 |
 | CVS Health | Software Development Engineer | NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=90259e539c619c3a) | 2026-07-19 15:47 |
 | CVS Health | Software Development Engineer | WY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3745a4ff718ce48f) | 2026-07-19 15:47 |
@@ -554,13 +555,6 @@ Last updated: 2026-07-19 18:52
 | Capgemini | AWS Devops - AOM | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe4c170529e0e9c9) | 2026-07-15 20:03 |
 | City IT | Senior AWS Software Engineer (Integrations Team) | Marshfield, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4a82bf3693f26a75) | 2026-07-15 20:03 |
 | City IT | Senior AWS Software Engineer (Integrations Team) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=948d5244cfe1a3f8) | 2026-07-15 20:03 |
-| WSSC Water | Data Architect | Laurel, MD, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a77df08519b290c1) | 2026-07-15 18:56 |
-| Vytalize Health | Full Stack Engineer, Data Services | KS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=adcff14ee1b8e664) | 2026-07-15 18:56 |
-| Mass General Brigham | Data Engineer | Somerville, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0a26b0635f31911) | 2026-07-15 18:56 |
-| Hitachi Rail | AWS Full Stack Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e284c3a4db13c5e) | 2026-07-15 18:56 |
-| Vytalize Health | Associate Data Engineer | KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b121c03b7571c591) | 2026-07-15 18:56 |
-| Avid Technology | Data Warehouse Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42278e3835861af7) | 2026-07-15 18:56 |
-| VINMAR INTERNATIONAL | Forward Deployed Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43aa1a5e37a0ff4a) | 2026-07-15 18:56 |
 
 
 ---
