@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-19 20:02
+Last updated: 2026-07-19 21:41
 
 ### 🚀 Daily Job Matches
 
@@ -540,21 +540,6 @@ Last updated: 2026-07-19 20:02
 | Bazz Houston International Manufacturing Solutions | Senior Quality Assurance Engineer | Garden Grove, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5348150d7c9589e6) | 2026-07-15 21:49 |
 | Coreforce | Senior Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5dcbaf4daad4fc7) | 2026-07-15 21:49 |
 | Arista Networks | Technical Architect - Enterprise Data | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2e22338b7c0517c) | 2026-07-15 21:49 |
-| Capgemini | AWS Data Engineer | Hanover, NH, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=1faf9fe4c0bcd7c6) | 2026-07-15 20:03 |
-| Axiomatic AI | Senior Platform Engineer | Cambridge, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=675661d633a7ce19) | 2026-07-15 20:03 |
-| Coastal | Data Platform Engineer (Data 360) | Indianapolis, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=25f44870043020f2) | 2026-07-15 20:03 |
-| Intelligent Medical Objects | Sr. Software Engineer - AI Platforms and Automation | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=60174baa1f0aad14) | 2026-07-15 20:03 |
-| Moderna | Senior AI Engineer | Cambridge, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d9727f7b8e7ba49f) | 2026-07-15 20:03 |
-| Fieldwire | Data Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52528f466514c758) | 2026-07-15 20:03 |
-| Aperia | DevOps Engineer | Omaha, NE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e9074111e1ca6eb3) | 2026-07-15 20:03 |
-| CONNEXUS CREDIT UNION | Business Intelligence Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17489ce3b83eeabe) | 2026-07-15 20:03 |
-| Primoris Services Corporation | Data Engineer - Business Analytics | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=33816acdbf998550) | 2026-07-15 20:03 |
-| Primoris Services Corporation | AI Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6e899285a709ae99) | 2026-07-15 20:03 |
-| Biztec Global | Data engineer | Glendale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f1dd7af4bac5667f) | 2026-07-15 20:03 |
-| Biztec Global | Snowflake Architect | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34d1cfa7ddeeb193) | 2026-07-15 20:03 |
-| Capgemini | AWS Devops - AOM | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe4c170529e0e9c9) | 2026-07-15 20:03 |
-| City IT | Senior AWS Software Engineer (Integrations Team) | Marshfield, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4a82bf3693f26a75) | 2026-07-15 20:03 |
-| City IT | Senior AWS Software Engineer (Integrations Team) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=948d5244cfe1a3f8) | 2026-07-15 20:03 |
 
 
 ---
