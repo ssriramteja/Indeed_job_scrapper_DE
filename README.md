@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-19 21:41
+Last updated: 2026-07-19 22:41
 
 ### 🚀 Daily Job Matches
 
@@ -525,21 +525,6 @@ Last updated: 2026-07-19 21:41
 | Vacatia, Inc. | Cloud Infrastructure Engineer | Fort Lauderdale, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=808d72606614c9b0) | 2026-07-15 22:50 |
 | Betsol | CCaaS GCP Product Owner | Broomfield, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e12026ecbd107234) | 2026-07-15 22:50 |
 | Nestlé Purina | Expert Data Scientist | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9492d4954650eb7f) | 2026-07-15 22:50 |
-| nan | AI Engineer | Fort Worth, TX, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=bd9e10d0ccdb5375) | 2026-07-15 21:49 |
-| AEM Corporation | Data Engineer | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=cb427fa873ed5fed) | 2026-07-15 21:49 |
-| Core BTS | GCP Solutions Architect | Menasha, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a104f9a2c71e1bcc) | 2026-07-15 21:49 |
-| Core BTS | GCP Data Engineer | Menasha, WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dd5be7395930eac9) | 2026-07-15 21:49 |
-| VetsEZ | Senior Azure Integration Engineer (Remote Opportunity) | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d20671f1ab98e5aa) | 2026-07-15 21:49 |
-| VetsEZ | Senior Azure Integration Engineer (Remote Opportunity) | Philadelphia, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d2fc45b22c56ab74) | 2026-07-15 21:49 |
-| Microtek Learning | Data Engineer | Silver Spring, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=35646364ed8f5219) | 2026-07-15 21:49 |
-| iHeartMedia | Full-Stack Software Developer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=30ce4ef971ec1d26) | 2026-07-15 21:49 |
-| Intuitive (Intuitive Surgical) | Software Engineer | Peachtree Corners, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f24000cfeb877020) | 2026-07-15 21:49 |
-| Handshake | Senior Software Engineer, Coding | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f8090825b16fc51e) | 2026-07-15 21:49 |
-| Omada Health | Senior Software Engineer, Data & AI Platform | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=94f84eddf97cd2cd) | 2026-07-15 21:49 |
-| iHealth Innovative Solutions | Azure Cloud Architect | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ed2e1c4a44c21b22) | 2026-07-15 21:49 |
-| Bazz Houston International Manufacturing Solutions | Senior Quality Assurance Engineer | Garden Grove, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5348150d7c9589e6) | 2026-07-15 21:49 |
-| Coreforce | Senior Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5dcbaf4daad4fc7) | 2026-07-15 21:49 |
-| Arista Networks | Technical Architect - Enterprise Data | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2e22338b7c0517c) | 2026-07-15 21:49 |
 
 
 ---
