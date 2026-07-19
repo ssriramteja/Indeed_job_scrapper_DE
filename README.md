@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-19 22:41
+Last updated: 2026-07-19 23:48
 
 ### 🚀 Daily Job Matches
 
@@ -516,15 +516,6 @@ Last updated: 2026-07-19 22:41
 | nan | AI Software Engineer Intern- Bastazo | Bentonville, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3da3d0ba53df0f86) | 2026-07-16 01:47 |
 | Esri | Sr. Software Engineer - ArcGIS Enterprise | Redlands, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=239b32e292b68704) | 2026-07-15 23:51 |
 | Münchener Rückversicherungs-Gesellschaft | Senior DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eae68457635010f5) | 2026-07-15 23:51 |
-| JPMorganChase | Software Engineer III - C# / Java | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bd35c029ba02435f) | 2026-07-15 22:50 |
-| Nestlé Purina | Data Scientist | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=788999513395c430) | 2026-07-15 22:50 |
-| RBC | Sr. Data Scientist | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=70b73d6d3922b6ec) | 2026-07-15 22:50 |
-| Varsity Spirit | Senior Full Stack Developer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6bbf57b26961dcb5) | 2026-07-15 22:50 |
-| LINEVISION | Senior Data Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2dc506bd6bbd7df1) | 2026-07-15 22:50 |
-| Early Warning Services | Sr. Software Engineer - Data Engineering | Scottsdale, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d8a80a61bba60366) | 2026-07-15 22:50 |
-| Vacatia, Inc. | Cloud Infrastructure Engineer | Fort Lauderdale, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=808d72606614c9b0) | 2026-07-15 22:50 |
-| Betsol | CCaaS GCP Product Owner | Broomfield, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e12026ecbd107234) | 2026-07-15 22:50 |
-| Nestlé Purina | Expert Data Scientist | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9492d4954650eb7f) | 2026-07-15 22:50 |
 
 
 ---
