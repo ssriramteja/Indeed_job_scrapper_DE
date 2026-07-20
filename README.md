@@ -1,11 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-20 17:23
+Last updated: 2026-07-20 19:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Rippling | Sr. Data Engineer | Irving, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=07c6726c35ad8fa5) | 2026-07-20 19:25 |
+| CrossCountry Mortgage, LLC | Data Engineer | Charlotte, NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=704b1f0ab6bff192) | 2026-07-20 19:25 |
+| Hunt Military Communities | Senior Full Stack Engineer | Alpharetta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=29325c8c8e335924) | 2026-07-20 19:25 |
+| CrossCountry Mortgage, LLC | Senior Data Engineer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=26d0c8a6b975fef0) | 2026-07-20 19:25 |
+| Bloomerang | Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0eff179e948461c2) | 2026-07-20 19:25 |
+| NetApp | Software Engineer | Morrisville, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0844aea628b28dab) | 2026-07-20 19:25 |
+| GeekSoft Consulting | SAP FICO Architect | Carmel, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f7242710483aaa20) | 2026-07-20 19:25 |
+| CoStar Group | LoopNet - Software Engineer II | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=51f6585eaae3edd6) | 2026-07-20 19:25 |
+| Capgemini | Informatica Cloud Data Engineer (IDMC/IICS) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2526f9ca235bb42c) | 2026-07-20 19:25 |
+| FEED THE CHILDREN | Data Architect | Oklahoma City, OK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d4416990cb07c5b) | 2026-07-20 19:25 |
+| Qureos | Data Engineer | Kansas City, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3c91b09d863e5b13) | 2026-07-20 19:25 |
+| Agilify | AI Solution Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=173deae55fc0fc11) | 2026-07-20 19:25 |
+| Texas A&M AgriLife Extension | Systems Engineer I | College Station, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a99f136d94c9eab9) | 2026-07-20 19:25 |
+| Texas A&M AgriLife Extension | Systems Engineer I | College Station, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b951b068dc32695) | 2026-07-20 19:25 |
+| Stake Center Locating | Software Engineer- Greensboro, NC | Greensboro, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2c8332d54e7fcd1c) | 2026-07-20 19:25 |
+| RE/SPEC Inc | Database Developer (Contractor) - MNSITE-3762 | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bac2143c91f124e3) | 2026-07-20 19:25 |
+| Hollstadt Consulting | Database Developer | MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bdef6e08804da8cc) | 2026-07-20 19:25 |
+| VIVA | Database Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2bf8e77549f4b069) | 2026-07-20 19:25 |
 | Transamerica | Specialist Software Engineer | Cedar Rapids, IA, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=3cf053b4e78a7784) | 2026-07-20 17:23 |
 | Nine Core Technologies | Data Architect (Azure + Databricks) | Milpitas, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=118ef7e12d0743d7) | 2026-07-20 17:23 |
 | Aktra Inc | Senior Quantitative Developer | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b6a4d190221fd911) | 2026-07-20 17:23 |
@@ -443,18 +461,6 @@ Last updated: 2026-07-20 17:23
 | Verily | Technical Solutions Engineer - Pre | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c7071bed5dd02b5) | 2026-07-16 19:57 |
 | Capgemini | COE QE DevOps role - C1 | Grand Rapids, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=046b8c112407479b) | 2026-07-16 19:57 |
 | Enterprise Knowledge | Full Stack Developer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e841fc413765b399) | 2026-07-16 19:57 |
-| DISTILLERY | Devops – Azure | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=eb316c4d0d8d4a0b) | 2026-07-16 18:57 |
-| Excel Sports Management | Data Engineer | Chicago, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=54c48dbd46696795) | 2026-07-16 18:57 |
-| BV Teck | Full Stack Solutions Developer – Java | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=111eb98b6df0e036) | 2026-07-16 18:57 |
-| AT&T | Senior Software Enginnering | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=141b4548c3e837f3) | 2026-07-16 18:57 |
-| Capgemini | Managing Solution Architect | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2640726ebc83e1eb) | 2026-07-16 18:57 |
-| nan | AI DevOps Engineer (Global) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8eac67db313991b1) | 2026-07-16 18:57 |
-| Agilify | Data Platform Engineer – Microsoft Fabric | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=58d5075d31f14eb7) | 2026-07-16 18:57 |
-| Carrington Mortgage Services, LLC | Senior, Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e557799b2576af0) | 2026-07-16 18:57 |
-| Synopsys | Software Engineering, Sr Engineer | Santa Fe, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cfc96f041f6b858) | 2026-07-16 18:57 |
-| JSSA | BI & Analytics Analyst/Data Engineer | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ff471a82f0fd616b) | 2026-07-16 18:57 |
-| Capgemini | Senior Grafana Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=383f30b24c7b48b8) | 2026-07-16 18:57 |
-| Dynamo Technologies | Business Intelligence Developer | Aberdeen Proving Ground, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=522e7d02e7987862) | 2026-07-16 18:57 |
 
 
 ---
