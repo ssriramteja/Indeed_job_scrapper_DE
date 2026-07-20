@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-20 05:59
+Last updated: 2026-07-20 09:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| State of Minnesota - Minnesota IT Services | Data Engineer - ITS4 | Saint Paul, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb33eaf3683a2fd9) | 2026-07-20 09:19 |
+| Texas Instruments | AI/ML Engineer | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2ee93c84147c4e9c) | 2026-07-20 09:19 |
 | nProspect | AWS DevOps Engineer Experience in Pega Platform EKS with Jenkins and Terraform DevOps OnlyUS Citizen | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1c8c651e8e033eb5) | 2026-07-20 05:59 |
 | Neomax | Systems Engineer | Chantilly, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0162590b4bca3d10) | 2026-07-19 20:02 |
 | CVS Health | Software Development Engineer | KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d44fe55ea5358c0) | 2026-07-19 15:47 |
@@ -476,16 +478,6 @@ Last updated: 2026-07-20 05:59
 | JPMorganChase | Software Engineer II - Python, ETL, AWS, Kubernetes | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5d743bfeeb8fa203) | 2026-07-16 09:58 |
 | AMD | Senior Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee248da0e115e2d7) | 2026-07-16 09:58 |
 | nan | AI/ML Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=937091ef92a9caaa) | 2026-07-16 09:58 |
-| VeeRteq Solutions Inc. | AWS Engineer | Chicago, IL, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=1b22cbf19f8a0047) | 2026-07-16 07:16 |
-| BV Teck | Data Platform Engineer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=c01844276a565bcb) | 2026-07-16 07:16 |
-| PNC Financial Services Group | Software Engineer - iOS/Android | Birmingham, AL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ea7bf7c8fec07038) | 2026-07-16 07:16 |
-| PNC Financial Services Group | Software Engineer - iOS/Android | Lakewood, CO, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=d004a662bac9f5e2) | 2026-07-16 07:16 |
-| PNC Financial Services Group | Software Engineer - iOS/Android | Pittsburgh, PA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=c7aaa1ab54a6fb47) | 2026-07-16 07:16 |
-| PNC Financial Services Group | Software Engineer - iOS/Android | Strongsville, OH, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bdde81364ace6b88) | 2026-07-16 07:16 |
-| LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8bcb623acf634f6d) | 2026-07-16 07:16 |
-| BV Teck | Big Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7429468ddade56be) | 2026-07-16 07:16 |
-| Capgemini | Power BI Developer | Bridgewater, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c55b1cfe2c90261) | 2026-07-16 07:16 |
-| BV Teck | Red Hat OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe00c00e240051b6) | 2026-07-16 07:16 |
 
 
 ---
