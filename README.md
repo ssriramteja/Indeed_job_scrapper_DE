@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-20 02:04
+Last updated: 2026-07-20 05:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nProspect | AWS DevOps Engineer Experience in Pega Platform EKS with Jenkins and Terraform DevOps OnlyUS Citizen | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1c8c651e8e033eb5) | 2026-07-20 05:59 |
 | Neomax | Systems Engineer | Chantilly, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0162590b4bca3d10) | 2026-07-19 20:02 |
 | CVS Health | Software Development Engineer | KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d44fe55ea5358c0) | 2026-07-19 15:47 |
 | CVS Health | Software Development Engineer | NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=90259e539c619c3a) | 2026-07-19 15:47 |
@@ -485,15 +486,6 @@ Last updated: 2026-07-20 02:04
 | BV Teck | Big Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7429468ddade56be) | 2026-07-16 07:16 |
 | Capgemini | Power BI Developer | Bridgewater, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c55b1cfe2c90261) | 2026-07-16 07:16 |
 | BV Teck | Red Hat OpenShift Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe00c00e240051b6) | 2026-07-16 07:16 |
-| DocuSign | Sr. Data Engineer | San Francisco, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3ba9a5d942e523c5) | 2026-07-16 04:52 |
-| Intone Networks | Azure Data Engineer – AI & Data Platform | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=60ea6d5281a59460) | 2026-07-16 04:52 |
-| Batchelor & Kimball | Database Engineer | Conyers, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f1aa0d9278ba8fe) | 2026-07-16 04:52 |
-| Mastercard | Senior Data Engineer | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d957259a91025ff3) | 2026-07-16 04:52 |
-| iClassPro, Inc. | DevOps Engineer | Longview, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bdf4ebf8be88af31) | 2026-07-16 04:52 |
-| Intone Networks | Cloudera/hadoop specialist. | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c169f4920a033c0c) | 2026-07-16 04:52 |
-| Salesforce | Senior Site Reliability Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd5a50150ef4b66b) | 2026-07-16 04:52 |
-| CVS Health | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf8fe7381654ca4f) | 2026-07-16 04:52 |
-| CVS Health | Senior Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=53b79d933c22cf0c) | 2026-07-16 04:52 |
 
 
 ---
