@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-20 22:48
+Last updated: 2026-07-20 23:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| iSynergy IT | Data Engineer | New York, NY, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=64aa04af21957dc5) | 2026-07-20 23:48 |
+| nan | AI Systems Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2cdfcb7d4f8c3b02) | 2026-07-20 23:48 |
+| LTM Limited | Senior Software Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b1d1f01448956ac8) | 2026-07-20 23:48 |
+| LTM Limited | Senior Software Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c9d86fee622b07b) | 2026-07-20 23:48 |
+| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60db44428bef76ed) | 2026-07-20 23:48 |
+| Equifax | Senior Data Engineer | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6c875e063114bb1c) | 2026-07-20 23:48 |
+| Zensar Technologies | Solution Architect – Data Migration & Analytics | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1f7b9a9c0a9082ee) | 2026-07-20 23:48 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3b598b8c3673649) | 2026-07-20 23:48 |
+| The Standard Insurance | AI Software Engineer IV | Portland, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b3c232645c82fc83) | 2026-07-20 23:48 |
+| Auto.Live | Senior Software Engineer IV / V (Java, React, AWS) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42c2207352100be0) | 2026-07-20 23:48 |
+| Mass General Brigham | Senior Architect | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dccbfd697359c720) | 2026-07-20 23:48 |
 | megan soft | Senior Machine Learning Engineer | Dearborn, MI, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=74f99ec032c2a050) | 2026-07-20 22:48 |
 | Workday | Cybersecurity Engineer | Reston, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=278c7726eee6f36f) | 2026-07-20 22:48 |
 | PowerSecure Inc. | Data Solutions Engineer - HYBRID/NC RESIDENTS ONLY | Durham, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dc9b66f689cbeefb) | 2026-07-20 22:48 |
@@ -17,7 +28,6 @@ Last updated: 2026-07-20 22:48
 | Foley | Senior Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb528101e5b7e6f0) | 2026-07-20 22:48 |
 | SpyCloud | Senior Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8b990fe917577735) | 2026-07-20 22:48 |
 | SpyCloud | Security Data Analyst - Parsing | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=171de003fe5563fb) | 2026-07-20 22:48 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3b598b8c3673649) | 2026-07-20 22:48 |
 | JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4448bee09655101c) | 2026-07-20 22:48 |
 | Papa John's | Senior Engineer, Corp Solutions | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ae25ca0f2bd81f6) | 2026-07-20 22:48 |
 | TELUS Digital | Senior Amazon Connect Application Architect | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=feceaa7f623de4d6) | 2026-07-20 22:48 |
@@ -466,10 +476,6 @@ Last updated: 2026-07-20 22:48
 | BNY | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea5c95d18f76d05a) | 2026-07-17 01:50 |
 | EPIC Kids | Senior Site Reliability Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91144e00c41e59f6) | 2026-07-16 23:52 |
 | Cambia Health Solutions | Senior Data Platform Engineer / SDE | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=229b2a31ef020c77) | 2026-07-16 23:52 |
-| Build-A-Bear Workshop | Data Engineer | St. Louis, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a7e0d6b0fa569854) | 2026-07-16 22:51 |
-| nan | Data Engineer | Westerville, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3338bda845b857ff) | 2026-07-16 22:51 |
-| Synopsys | Full Stack Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ba2d09365f6ee5a) | 2026-07-16 22:51 |
-| Barclays | Software Engineer/Full Stack Developer | Whippany, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6bf986da2977e0aa) | 2026-07-16 22:51 |
 
 
 ---
