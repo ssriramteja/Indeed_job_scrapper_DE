@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-20 19:25
+Last updated: 2026-07-20 21:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cactus Wellhead LLC | Cactus Wellhead - Sr. Full Stack Developer | Houston, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=54c54e6d23a07fa0) | 2026-07-20 21:02 |
+| Hitachi Energy | Reporting Engineer | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=59ef3d85179316f9) | 2026-07-20 21:02 |
+| Equinox | Sr. Data Engineer (HYBRID) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=22216c34e7397891) | 2026-07-20 21:02 |
+| nan | Salesforce Business Systems Analyst | Sunnyvale, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cb817b0533864176) | 2026-07-20 21:02 |
+| nan | Salesforce Business Systems Analyst | Sunnyvale, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7b799aca0d95f271) | 2026-07-20 21:02 |
+| Airbnb | Operations Engineer, BizTech | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=40f9eb2ccac23ae0) | 2026-07-20 21:02 |
+| Bavel systems LLP | Data Bricks Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2d997e2a6aa4fbed) | 2026-07-20 21:02 |
+| JSR Tech Consulting | Full Stack Developer | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=253a6ac52702e640) | 2026-07-20 21:02 |
+| J2B GLOBAL LLC | Full Stack .NET Developer – C#, React, Azure/AWS | Sacramento, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ceec9a4f672d1616) | 2026-07-20 21:02 |
+| State Street | Platform Engineer | Quincy, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb61fc433cd2352b) | 2026-07-20 21:02 |
+| Office Ally | Senior Full Stack Engineer (Payments) | Vancouver, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7956002449dfcaf4) | 2026-07-20 21:02 |
+| Office Ally | Senior Full Stack Engineer (Payments) | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3915e239710ba577) | 2026-07-20 21:02 |
 | Rippling | Sr. Data Engineer | Irving, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=07c6726c35ad8fa5) | 2026-07-20 19:25 |
 | CrossCountry Mortgage, LLC | Data Engineer | Charlotte, NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=704b1f0ab6bff192) | 2026-07-20 19:25 |
 | Hunt Military Communities | Senior Full Stack Engineer | Alpharetta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=29325c8c8e335924) | 2026-07-20 19:25 |
@@ -455,12 +467,6 @@ Last updated: 2026-07-20 19:25
 | Softpath System LLC | Senior Full Stack Java Architect | Newark, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64c763f434149f33) | 2026-07-16 21:56 |
 | Enterprise Knowledge | Senior Full Stack Developer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f31219c1b20278a2) | 2026-07-16 21:56 |
 | Intone Networks | Senior Tableau & Alteryx Administrator (Cloud + DevOps Expertise) | Winterville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=653b8eca70818820) | 2026-07-16 21:56 |
-| Databricks | Solutions Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7b05fe1f7203164) | 2026-07-16 20:53 |
-| NBCUniversal | Software Engineer | Universal City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6537fbdf744212f8) | 2026-07-16 20:53 |
-| College Board | Senior Workday Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a180802b9be9366) | 2026-07-16 20:53 |
-| Verily | Technical Solutions Engineer - Pre | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c7071bed5dd02b5) | 2026-07-16 19:57 |
-| Capgemini | COE QE DevOps role - C1 | Grand Rapids, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=046b8c112407479b) | 2026-07-16 19:57 |
-| Enterprise Knowledge | Full Stack Developer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e841fc413765b399) | 2026-07-16 19:57 |
 
 
 ---
