@@ -1,17 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-21 10:57
+Last updated: 2026-07-21 12:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60db44428bef76ed) | 2026-07-21 12:20 |
+| SpyCloud | Security Data Analyst - Parsing | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=589dd47eef0f8740) | 2026-07-21 12:20 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3b598b8c3673649) | 2026-07-21 12:20 |
+| Equifax | Generative AI Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4413ec7a4b00d4ae) | 2026-07-21 12:20 |
+| Equifax | Generative AI Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e48a5b4af545b7e) | 2026-07-21 12:20 |
 | MetLife | Data Engineer II | Bridgewater, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7567cb365890dc6b) | 2026-07-21 10:57 |
 | State of Minnesota - Minnesota IT Services | Senior Data Engineer - ITS4 | Saint Paul, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1054e208948fd6fb) | 2026-07-21 10:57 |
 | Newpage Digital Healthcare solutions | AI Native Developer- EST | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37e94025d78d00b3) | 2026-07-21 10:57 |
 | MetLife | Data Engineer I | Bridgewater, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=786fbdb63698b11b) | 2026-07-21 10:57 |
-| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60db44428bef76ed) | 2026-07-21 10:57 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3b598b8c3673649) | 2026-07-21 10:57 |
 | VeeRteq Solutions Inc. | Azure Databricks Architect Healthcare Payer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5652d49391bd82a2) | 2026-07-21 08:09 |
 | VeeRteq Solutions Inc. | Data Modeler | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=99058f5a757f5431) | 2026-07-21 08:09 |
 | State Street | Senior AI Security Automation Engineer | Quincy, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1063ffb870d53611) | 2026-07-21 08:09 |
@@ -447,9 +450,6 @@ Last updated: 2026-07-21 10:57
 | Johnson Controls | Ai Engineer | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=245ecaddb1985ea7) | 2026-07-17 15:06 |
 | BV Teck | Streaming Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b6de0bab061bc9cb) | 2026-07-17 13:06 |
 | New York Life | Senior Associate - Analytics Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4413578cebf7d25) | 2026-07-17 13:06 |
-| U.S. Financial Technology | Cloud Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=aac712b4e1b735d4) | 2026-07-17 11:15 |
-| DysrupIT | Databricks Developer (Unity Catalog Migration) | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b253191bad860e34) | 2026-07-17 11:15 |
-| ritepros | Application Development and Implementation Engineer | Portland, ME, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dd02376babaa3dee) | 2026-07-17 11:15 |
 
 
 ---
