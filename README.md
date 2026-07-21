@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-21 08:09
+Last updated: 2026-07-21 10:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| MetLife | Data Engineer II | Bridgewater, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7567cb365890dc6b) | 2026-07-21 10:57 |
+| State of Minnesota - Minnesota IT Services | Senior Data Engineer - ITS4 | Saint Paul, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1054e208948fd6fb) | 2026-07-21 10:57 |
+| Newpage Digital Healthcare solutions | AI Native Developer- EST | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37e94025d78d00b3) | 2026-07-21 10:57 |
+| MetLife | Data Engineer I | Bridgewater, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=786fbdb63698b11b) | 2026-07-21 10:57 |
+| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60db44428bef76ed) | 2026-07-21 10:57 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3b598b8c3673649) | 2026-07-21 10:57 |
 | VeeRteq Solutions Inc. | Azure Databricks Architect Healthcare Payer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5652d49391bd82a2) | 2026-07-21 08:09 |
 | VeeRteq Solutions Inc. | Data Modeler | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=99058f5a757f5431) | 2026-07-21 08:09 |
 | State Street | Senior AI Security Automation Engineer | Quincy, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1063ffb870d53611) | 2026-07-21 08:09 |
@@ -14,8 +20,6 @@ Last updated: 2026-07-21 08:09
 | U.S. Bank | Senior Software Engineer - Full Stack | Hopkins, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=caea23a7afe82982) | 2026-07-21 08:09 |
 | U.S. Bank | Senior Software Engineer - Full Stack | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2c6c9dc97e7a8c55) | 2026-07-21 08:09 |
 | U.S. Bank | Senior Software Engineer - Full Stack | Brookfield, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=97ef6349d26627c1) | 2026-07-21 08:09 |
-| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60db44428bef76ed) | 2026-07-21 08:09 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3b598b8c3673649) | 2026-07-21 08:09 |
 | Steampunk | Data Engineer - Databricks | McLean, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d8b9759a865fb48a) | 2026-07-21 05:12 |
 | Mayo Clinic | Senior Data Engineer - Digital Pathology (Hybrid) | Rochester, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=761b34bda9b68b66) | 2026-07-21 05:12 |
 | MetLife | Data Engineer II | Bridgewater, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=177a0dfa7a7c2758) | 2026-07-21 05:12 |
@@ -446,11 +450,6 @@ Last updated: 2026-07-21 08:09
 | U.S. Financial Technology | Cloud Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=aac712b4e1b735d4) | 2026-07-17 11:15 |
 | DysrupIT | Databricks Developer (Unity Catalog Migration) | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b253191bad860e34) | 2026-07-17 11:15 |
 | ritepros | Application Development and Implementation Engineer | Portland, ME, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dd02376babaa3dee) | 2026-07-17 11:15 |
-| Chewy | Backend Software Engineer III | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=efd7f5b9b5f1900d) | 2026-07-17 09:48 |
-| New Era Technology | Senior AWS Platform Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=10d3c2eb2b954cb6) | 2026-07-17 09:48 |
-| New Era Technology | Senior AWS Platform Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14312f1b5ae1eee7) | 2026-07-17 09:48 |
-| New Era Technology | Senior AWS Platform Engineer | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=34542792a9682496) | 2026-07-17 09:48 |
-| Moody's | Asst Dir-DevOps Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4f20f826b053e576) | 2026-07-17 09:48 |
 
 
 ---
