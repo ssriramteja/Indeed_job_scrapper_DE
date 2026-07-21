@@ -1,14 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-21 12:20
+Last updated: 2026-07-21 14:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60db44428bef76ed) | 2026-07-21 12:20 |
+| ARANGO | Customer Solution Architect — Arango AI Product Suite | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=632508141e5e7e23) | 2026-07-21 14:56 |
+| Pfizer | Senior Snowflake Platform Engineer | Groton, CT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c5ad590ea8a95921) | 2026-07-21 14:56 |
+| Traackr | Software Engineer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=df567011cf662897) | 2026-07-21 14:56 |
+| Ford Motor Company | Powertrain Applications Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af00d281c82c2777) | 2026-07-21 14:56 |
+| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60db44428bef76ed) | 2026-07-21 14:56 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3b598b8c3673649) | 2026-07-21 14:56 |
 | SpyCloud | Security Data Analyst - Parsing | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=589dd47eef0f8740) | 2026-07-21 12:20 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3b598b8c3673649) | 2026-07-21 12:20 |
 | Equifax | Generative AI Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4413ec7a4b00d4ae) | 2026-07-21 12:20 |
 | Equifax | Generative AI Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e48a5b4af545b7e) | 2026-07-21 12:20 |
 | MetLife | Data Engineer II | Bridgewater, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7567cb365890dc6b) | 2026-07-21 10:57 |
@@ -448,8 +452,6 @@ Last updated: 2026-07-21 12:20
 | CVS Health | Senior Software Development Engineer | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b8ad5ccbc04e6be) | 2026-07-17 15:06 |
 | Digital Dhara LLC | .NET Engineer with Dicom | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=416c7d1cd0685efb) | 2026-07-17 15:06 |
 | Johnson Controls | Ai Engineer | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=245ecaddb1985ea7) | 2026-07-17 15:06 |
-| BV Teck | Streaming Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b6de0bab061bc9cb) | 2026-07-17 13:06 |
-| New York Life | Senior Associate - Analytics Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b4413578cebf7d25) | 2026-07-17 13:06 |
 
 
 ---
