@@ -1,20 +1,34 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-21 18:10
+Last updated: 2026-07-21 20:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Luxoft | Senior AI Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8438fc0eeeabc119) | 2026-07-21 20:14 |
+| Caterpillar | Software Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1916ff73e89dbf5f) | 2026-07-21 20:14 |
+| American Express | Software Engineer III - Risk Decision Technology | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9cecf643a53b2209) | 2026-07-21 20:14 |
+| Amway | Associate Cloud Data Engineer II | Ada, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ab4ff42758b01e3c) | 2026-07-21 20:14 |
+| State Street | Senior AI Security Automation Engineer | Quincy, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1acc92079f390921) | 2026-07-21 20:14 |
+| Fairlife, LLC | Senior Data Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34038fa38ced9dcd) | 2026-07-21 20:14 |
+| Indigenous Pact PBC | Data Platform & Analytics Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d8deaa38cca423e7) | 2026-07-21 20:14 |
+| Indigenous Pact PBC | Data Platform & Analytics Engineer | San Diego, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1649dc6e6d00bbb) | 2026-07-21 20:14 |
+| Indigenous Pact PBC | Data Platform & Analytics Engineer | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4211cb353fe7a94e) | 2026-07-21 20:14 |
+| Indigenous Pact PBC | Data Platform & Analytics Engineer | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=24f9b2c310f5bfa3) | 2026-07-21 20:14 |
+| Indigenous Pact PBC | Data Platform & Analytics Engineer | Portland, OR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=58f8c703d51d3a40) | 2026-07-21 20:14 |
+| Ford Motor Company | Powertrain Applications Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af00d281c82c2777) | 2026-07-21 20:14 |
+| Salesforce | Software Engineer, MTS, Enterprise Security, Identity & Access Management | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08079db08d267e47) | 2026-07-21 20:14 |
+| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60db44428bef76ed) | 2026-07-21 20:14 |
+| Wpromote, LLC | Reporting Solutions Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1cad2ebf6af99a7d) | 2026-07-21 20:14 |
+| Databricks | Sr. Solutions Architect - Public Sector (SLED) | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=deaebb012d17a528) | 2026-07-21 20:14 |
 | National Information Solutions Cooperative (NISC) | Software Developer II - Meter Data Management Software (Full Stack, Databricks) | Bismarck, ND, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=09a0c773ba869ab2) | 2026-07-21 18:10 |
 | National Information Solutions Cooperative (NISC) | Software Developer II - Meter Data Management Software (Full Stack, Databricks) | Cedar Rapids, IA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=33143989f3362efb) | 2026-07-21 18:10 |
 | National Information Solutions Cooperative (NISC) | Software Developer II - Meter Data Management Software (Full Stack, Databricks) | Lake Saint Louis, MO, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=0b784c8205aa1d58) | 2026-07-21 18:10 |
 | Broadridge | Sr. Software Engineer (AWS / Java / Node.js / Python) CONTRACT | Edgewood, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=98d7e7ab4a96ab08) | 2026-07-21 18:10 |
 | Neo4j | Senior AI Solutions Architect | San Mateo, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0dbb073f20120e13) | 2026-07-21 18:10 |
-| Ford Motor Company | Powertrain Applications Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af00d281c82c2777) | 2026-07-21 18:10 |
 | LTM Limited | Specialist - Data Engineering | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55c8d9fe21fbf89b) | 2026-07-21 18:10 |
 | Mastronardi Produce | Cloud DevOps Engineer | Livonia, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7fa1ca8e2ddf6df8) | 2026-07-21 18:10 |
-| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60db44428bef76ed) | 2026-07-21 18:10 |
 | Availity, LLC. | Application Support Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b138daabe966037) | 2026-07-21 18:10 |
 | Mindex | Data Engineer (Azure & Snowflake) - Remote | PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=329cdc7ca8132e90) | 2026-07-21 18:10 |
 | Mindex | Data Engineer (Azure & Snowflake) - Remote | MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7a4ebf0e5f5c11c0) | 2026-07-21 18:10 |
@@ -449,22 +463,6 @@ Last updated: 2026-07-21 18:10
 | Keck Medicine of USC | Data Scientist (ITS) | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d2509a4fb0efe928) | 2026-07-17 20:54 |
 | Preferred Credit, Inc. | Data Engineer | Saint Cloud, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5191b8d6d8df363b) | 2026-07-17 20:54 |
 | American Airlines | Associate Developer, IT Applications | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01f79cbad8ac813d) | 2026-07-17 20:54 |
-| BrightVine Solutions | Software Architect | SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=24293ea9e15ad0ca) | 2026-07-17 19:59 |
-| Patient Funding Alternatives | Founding Data Engineer | Woburn, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4e6660d1abd6eeb) | 2026-07-17 19:59 |
-| Nitor Infotech | Technical Architect | Duluth, GA, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=9691a4b3c751e344) | 2026-07-17 18:53 |
-| Cohere Health | Site Reliability Engineer ll | Boston, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=72289279cfc2dcd3) | 2026-07-17 18:53 |
-| BV Teck | Azure Infrastructure Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0e9e63e01e919be7) | 2026-07-17 18:53 |
-| BV Teck | OCI Solutions Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8b9675535a55f10) | 2026-07-17 18:53 |
-| BV Teck | Enterprise Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e2e51b418f356104) | 2026-07-17 18:53 |
-| BV Teck | Data Solutions Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e47ba33b8611514) | 2026-07-17 18:53 |
-| AbbVie | Senior Engineer, Technology II (Data Engineering & Architecture) | North Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=85923548cee90695) | 2026-07-17 18:53 |
-| City of Worcester | DATA AND ANALYTICS ARCHITECT | Worcester, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=31049f7721c1b664) | 2026-07-17 18:53 |
-| Blue Shield of California | Data Engineer, Senior | Oakland, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b14758f985fc54f2) | 2026-07-17 18:53 |
-| nan | Senior Backend Engineer (Payments and POS Integrations) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71273f666eda5a97) | 2026-07-17 18:53 |
-| Berkshire Hathaway Specialty Insurance | Data Scientist / Senior Data Scientist (Risk Modeling) | San Ramon, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=670377e753372f6a) | 2026-07-17 18:53 |
-| Vantage Bank Texas | Data Quality Engineer | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5a20dc79ac25721) | 2026-07-17 18:53 |
-| Office Ally | Senior Full Stack Engineer (Payments) | Concord, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=096faff176ae84dc) | 2026-07-17 18:53 |
-| International SOS | Data Analyst | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0629dbf3bccdd418) | 2026-07-17 18:53 |
 
 
 ---
