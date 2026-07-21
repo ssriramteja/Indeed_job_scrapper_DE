@@ -1,17 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-21 14:56
+Last updated: 2026-07-21 16:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Teradyne | Software Engineer, New College Graduate, | North Reading, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4a9c723d1fa4a196) | 2026-07-21 16:16 |
+| Ford Motor Company | Powertrain Applications Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af00d281c82c2777) | 2026-07-21 16:16 |
+| datAvail | Data Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b02e7a9293c05e9) | 2026-07-21 16:16 |
+| Securiport | Software Engineer - .NET / SES | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e73c19b70ff97730) | 2026-07-21 16:16 |
+| Securiport | Software Engineer - .NET / APIS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8a904215046786df) | 2026-07-21 16:16 |
+| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60db44428bef76ed) | 2026-07-21 16:16 |
+| Techfield | Junior Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95557e0528468ca2) | 2026-07-21 16:16 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3b598b8c3673649) | 2026-07-21 16:16 |
 | ARANGO | Customer Solution Architect — Arango AI Product Suite | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=632508141e5e7e23) | 2026-07-21 14:56 |
 | Pfizer | Senior Snowflake Platform Engineer | Groton, CT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c5ad590ea8a95921) | 2026-07-21 14:56 |
 | Traackr | Software Engineer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=df567011cf662897) | 2026-07-21 14:56 |
-| Ford Motor Company | Powertrain Applications Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af00d281c82c2777) | 2026-07-21 14:56 |
-| The Coca-Cola Company | Data Analyst (Data Solutions) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60db44428bef76ed) | 2026-07-21 14:56 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3b598b8c3673649) | 2026-07-21 14:56 |
 | SpyCloud | Security Data Analyst - Parsing | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=589dd47eef0f8740) | 2026-07-21 12:20 |
 | Equifax | Generative AI Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4413ec7a4b00d4ae) | 2026-07-21 12:20 |
 | Equifax | Generative AI Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e48a5b4af545b7e) | 2026-07-21 12:20 |
@@ -444,14 +449,6 @@ Last updated: 2026-07-21 14:56
 | NAVA TECH LLC | Jr Data Engineer | Baltimore, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1da4ecc01920f955) | 2026-07-17 17:01 |
 | MITRE | DevOps/AI Engineer | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=42ab7ebc9d293399) | 2026-07-17 17:01 |
 | Softpath System LLC | Senior Full Stack Java Architect | Newark, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe74c0137bb982fb) | 2026-07-17 17:01 |
-| Infoville, Inc | Senior Business Systems Analyst | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f9d7fde96960560b) | 2026-07-17 15:06 |
-| Ness Digital Engineering | Sr. Streaming Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0e7b564fddd4b752) | 2026-07-17 15:06 |
-| pointer infotech L.L.C | Senior Data Engineer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0669283adb0994ba) | 2026-07-17 15:06 |
-| Databricks | Sr. Solutions Architect | Palo Alto, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f8ca9e790778786) | 2026-07-17 15:06 |
-| Databricks | Sr. Solutions Architect | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4ba9b17426b74a1b) | 2026-07-17 15:06 |
-| CVS Health | Senior Software Development Engineer | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b8ad5ccbc04e6be) | 2026-07-17 15:06 |
-| Digital Dhara LLC | .NET Engineer with Dicom | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=416c7d1cd0685efb) | 2026-07-17 15:06 |
-| Johnson Controls | Ai Engineer | Milwaukee, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=245ecaddb1985ea7) | 2026-07-17 15:06 |
 
 
 ---
