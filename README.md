@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-22 21:58
+Last updated: 2026-07-22 22:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Vision Radiology | Sr. Data Engineer (Remote) | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ea77e5dc301d8192) | 2026-07-22 22:59 |
+| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 22:59 |
+| sssssss | Engineer | Hillsboro, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24dde647fb9dfea1) | 2026-07-22 22:59 |
+| Zoom Communications | DevOps Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b184430c41a2294c) | 2026-07-22 22:59 |
+| United Power | Data Engineer I-II | Brighton, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d42cdf36323593a) | 2026-07-22 22:59 |
 | Otomeshan technology | Java Backend Developer | New York, NY, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=05dceb327eaee169) | 2026-07-22 21:58 |
 | Conduit services | Data Engineer | Houston, TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=1ff1b649e399da37) | 2026-07-22 21:58 |
 | Legrand | Azure Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4981bd5c543f4424) | 2026-07-22 21:58 |
@@ -13,8 +18,6 @@ Last updated: 2026-07-22 21:58
 | SANTEE COOPER | DATA SCIENTIST | Moncks Corner, SC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5384d191c57a074d) | 2026-07-22 21:58 |
 | Risepoint | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=87068c1cc4a7e538) | 2026-07-22 21:58 |
 | Lincoln Financial | Associate ETL Developer | Radnor, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d5c3da01dbb88956) | 2026-07-22 21:58 |
-| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 21:58 |
-| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 21:58 |
 | LSEG (London Stock Exchange Group) | Senior Software Engineer | St. Louis, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3aada6e7b7a0a352) | 2026-07-22 21:58 |
 | University Federal Credit Union | Senior Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d5cfb563279695cc) | 2026-07-22 21:58 |
 | Science Systems and Applications, Inc. | Software Developer II (Mid-level, Full-stack) | Lanham, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f769425f85072466) | 2026-07-22 21:58 |
