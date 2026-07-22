@@ -1,15 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-22 14:57
+Last updated: 2026-07-22 16:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | AI Ops / DevOps Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d7c47ddb67ad7812) | 2026-07-22 16:17 |
+| Anthropic | [C] Data Engineer, Safeguards | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=623cec7f1ca0a4a6) | 2026-07-22 16:17 |
+| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 16:17 |
+| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 16:17 |
+| Five Below | Solutions Architect - AI | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1663c481c335933) | 2026-07-22 16:17 |
 | Orlando Utilities Commission | Senior Cloud Engineer | Orlando, FL, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=716f1c8a10b20d9b) | 2026-07-22 14:57 |
-| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 14:57 |
 | Equinox | Sr. Data Engineer (HYBRID) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bc72e4bf4365c113) | 2026-07-22 14:57 |
-| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 14:57 |
 | CVS Health | Software Engineer | CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ca85bb90457e515) | 2026-07-22 14:57 |
 | CVS Health | Software Engineer | NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e2bf1384f6dd310) | 2026-07-22 14:57 |
 | CVS Health | Software Engineer | MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=56331cd42e8dcfbc) | 2026-07-22 14:57 |
@@ -525,7 +528,6 @@ Last updated: 2026-07-22 14:57
 | Deloitte | Applied AI Engineer II | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=365840ba6be285e4) | 2026-07-19 05:13 |
 | Toll Brothers | Integration Services Engineer | Fort Washington, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=163762cb42bc6d83) | 2026-07-18 19:59 |
 | PNC Financial Services Group | Quality Assurance Architect - Hadoop / Big Data / Python | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40430f432f2963a7) | 2026-07-18 16:45 |
-| University of Southern California | Data Scientist (ITS) | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8ea9a719ad357a71) | 2026-07-18 15:45 |
 
 
 ---
