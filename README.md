@@ -1,20 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-21 23:49
+Last updated: 2026-07-22 01:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TECHSTRA SOLUTIONS | Databricks Engineer | Pittsburgh, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f6cb2faf83c978e0) | 2026-07-22 01:47 |
+| Left Field Labs | Senior Software Engineer, Backend | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e15a7800e885fb97) | 2026-07-22 01:47 |
+| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 01:47 |
+| MedVet | Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=eaf547f655867771) | 2026-07-22 01:47 |
+| L.A. Care Health Plan | Enterprise Architect Integration Engineer II | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f999b434638c38c3) | 2026-07-22 01:47 |
+| JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91e7dfe61ee7b587) | 2026-07-22 01:47 |
+| JPMorganChase | Software Engineer III - Python/PySpark/Databricks/AWS | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=057666b67f419a52) | 2026-07-22 01:47 |
+| Dell Technologies | Sr. Consultant Machine Learning & Knowledge Graph Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97f00350dc1cf2cb) | 2026-07-22 01:47 |
+| Fooda | Senior DevOps Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d47b872c6cd26d11) | 2026-07-22 01:47 |
 | Deltek | Sr Data Engineer | Herndon, VA, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=2bf953a2c9ee5bf5) | 2026-07-21 23:49 |
 | Deltek | Sr Data Engineer | Herndon, VA, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=9bc6276c79dcfd60) | 2026-07-21 23:49 |
 | Dominion Energy | Data Engineer (RICHMOND, VA, US, 23219) | Richmond, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=78b18ba5356fc564) | 2026-07-21 23:49 |
 | GE HealthCare | Research Engineer II - ML Ops | Cleveland, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=03cffd0794f9ae1f) | 2026-07-21 23:49 |
-| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-21 23:49 |
 | J&T Business Consulting | Senior Data Science Engineer (With TS/SCI Clearance and a current Full Scope Poly) | Annapolis Junction, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=439377efddb3496b) | 2026-07-21 23:49 |
 | Caris Life Sciences | Senior DevOps Engineer (EKS/Kubernetes) | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0028549706f10f55) | 2026-07-21 23:49 |
 | NRG Energy | Data Science Analyst - Agentic AI Developer | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e70aff22bb7641b9) | 2026-07-21 23:49 |
-| Ford Motor Company | Powertrain Applications Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af00d281c82c2777) | 2026-07-21 23:49 |
 | iSynergy Information Technologies | Senior Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21910689207bf63d) | 2026-07-21 23:49 |
 | CCC Intelligent Solutions | Senior Cloud Engineer - Azure | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4665edec79f4e66b) | 2026-07-21 23:49 |
 | VeeRteq Solutions Inc. | AI Architect | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8574e7ed96b2d014) | 2026-07-21 23:49 |
@@ -401,59 +408,6 @@ Last updated: 2026-07-21 23:49
 | Deloitte | Applied AI Engineer II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9ac57f31d83fabb) | 2026-07-18 04:40 |
 | Deloitte | Applied AI Engineer II | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7770acdfe63142da) | 2026-07-18 04:40 |
 | Deloitte | Applied AI Engineer II | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=35403b174dad896e) | 2026-07-18 04:40 |
-| American Express | Sr. Software Engineer I - Global Servicing Technology | Charlotte, NC, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3f892fe903a7c319) | 2026-07-18 01:40 |
-| Capgemini | Java Platform Architect / Spring Integration Architect | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2e659cdd95ef50fa) | 2026-07-18 01:40 |
-| Skechers | Sr. Data Architect | Hermosa Beach, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5b35736fa253152e) | 2026-07-18 01:40 |
-| American Express | Software Engineer II - Global Servicing Technology | Sunrise, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=07502c293eb31de6) | 2026-07-18 01:40 |
-| American Express | Software Engineer III - Global Servicing Technology | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=55a217df198f7ff1) | 2026-07-18 01:40 |
-| Cadent | DevOps Engineer | Philadelphia, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=351e23716b572507) | 2026-07-18 01:40 |
-| Aivra Health | Senior Data Engineer | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=80caa3599c5e547f) | 2026-07-18 01:40 |
-| JPMorganChase | Data Engineer III - Python, Databricks | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=897b25c8ee04bb95) | 2026-07-18 01:40 |
-| Capgemini | AWS Cloud Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3992a4ede9127d14) | 2026-07-18 01:40 |
-| American Express | Sr. Software Engineer II - Global Servicing Technology | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=be6e357f2771355c) | 2026-07-18 01:40 |
-| American Express | Sr. Software Engineer II - Global Servicing Technology | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2799dc6e072791b7) | 2026-07-18 01:40 |
-| onXmaps | Site Reliability Engineer III | Bozeman, MT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b29b361d2f6dec61) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c65fae4e16438f4c) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3641db5c989e42f2) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dbff08fed60018ea) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5fba274cb5136e65) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cf57f598f9ea7423) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c96a903a5487c1a) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca217f385c40b797) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f16272bedb7606a7) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86c97ae16fb951f4) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1ed34d678e13777) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1676f8c172d66f91) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=54040855b7650ac2) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1f27858614b5afc6) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd3bfec25e76a502) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=79b417ce1eb08163) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5bdeea52df6e9ba8) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f422a8b80a284d47) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a6098fb5d33d5791) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=edaa8ea774783d39) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a791e0784bb1333) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f11b57c1855a365) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=db1ac67fa5959580) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3730115583549ffb) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7994302f2196481d) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2fbf8d362e5c3c20) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2430f2e385edbe08) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=54c29b1afc2b6ebe) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=990f6cc0f56df974) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=554ecdd2fa876e22) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4855bcc2cd682464) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=49fbb2bff93a4f21) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa9fb94e3ff6a4f9) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6725ee8dab2d001) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b80e8d6c4de7c94b) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bafebea4648af5d1) | 2026-07-18 01:40 |
-| Concentrix | Databricks Data Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4ce8b9543319149) | 2026-07-18 01:40 |
-| Constellation Energy | Sr Software Engineer, AI | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af68bea7b4753eb9) | 2026-07-18 01:40 |
-| Huntington Bank | Senior Application Architect - Test Data Management | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e69eb5b3992ac74) | 2026-07-18 01:40 |
-| BV Teck | Automation Framework Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c357e7ee9bbbd601) | 2026-07-18 01:40 |
-| Illumio | Site Reliability Engineer II | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da83fdc5e998cf41) | 2026-07-18 01:40 |
-| JPMorganChase | Data Scientist Senior Associate, PXT Analytics | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1f479479b7e0ed2b) | 2026-07-18 01:40 |
 
 
 ---
