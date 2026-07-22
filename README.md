@@ -1,18 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-22 05:00
+Last updated: 2026-07-22 07:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 07:35 |
+| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 07:35 |
+| Revenue Management Solutions | Quality Assurance Engineer | Oklahoma City, OK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d9a966c05563f98c) | 2026-07-22 07:35 |
+| JPMorganChase | Software Engineer III (Java/Spring/SQL) | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2acea18330940b12) | 2026-07-22 07:35 |
+| JPMorganChase | Cloud Infrastructure/DevOps Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f59c82228d31cc82) | 2026-07-22 07:35 |
+| JPMorganChase | Data Engineer III - (Pyspark/databricks/Mongo/Sql/Python) | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1eb4970ab969926f) | 2026-07-22 07:35 |
 | University of Texas at Austin | Data Engineer I | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=acd667536ab6444e) | 2026-07-22 05:00 |
 | Niagara Bottling | Machine Learning Engineer II | Diamond Bar, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ee6929ba2eeed1b8) | 2026-07-22 05:00 |
 | Sedgwick | Data Engineer | TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=95ed4554e9125c0a) | 2026-07-22 05:00 |
 | nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4a29827250f0150e) | 2026-07-22 05:00 |
 | nan | Senior Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e3fddfc784d8dfed) | 2026-07-22 05:00 |
-| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 05:00 |
-| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 05:00 |
 | Smart Tech Skills LLC | Senior AWS Developer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cea3b78846f75e27) | 2026-07-22 05:00 |
 | Qualcomm | Senior Full Stack Software Engineer – CAD Infrastructure Team | Folsom, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=524c59d936a754bb) | 2026-07-22 05:00 |
 | Qualcomm | Senior Full Stack Software Engineer – CAD Infrastructure Team | Santa Clara, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7b12976fb7bd11e7) | 2026-07-22 05:00 |
@@ -410,7 +414,6 @@ Last updated: 2026-07-22 05:00
 | nan | Senior Cloud Engineer | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3d96ea8e9dc36fab) | 2026-07-18 08:43 |
 | Glint Tech Solutions | Sr. Data Scientist | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd979a0715c09dce) | 2026-07-18 08:43 |
 | Target | Senior AI Engineer – Apply For CircleCard | Brooklyn Park, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1593657cd51d3c9f) | 2026-07-18 08:43 |
-| Envision Healthcare | DEV OPS ENGINEER IV | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=234470a5d086eaec) | 2026-07-18 06:53 |
 
 
 ---
