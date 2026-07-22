@@ -1,15 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-22 10:15
+Last updated: 2026-07-22 12:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 12:22 |
+| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 12:22 |
+| Ai Vantage | Data Engineer | Vienna, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee377598f848d9cc) | 2026-07-22 12:22 |
+| Expleo Group | Database Developer | Saint Paul, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=43b6a924924be72b) | 2026-07-22 12:22 |
+| CalAmp | Software Engineer III | Carlsbad, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d50e5d82f58dbed7) | 2026-07-22 12:22 |
 | WIS International | Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=8f5e10429558c3d9) | 2026-07-22 10:15 |
 | Left Field Labs | Senior Backend Software Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=97efab58cd263135) | 2026-07-22 10:15 |
-| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 10:15 |
-| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 10:15 |
 | Jabil | Programmer Analyst III | Saint Petersburg, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9d2473aefc906ea6) | 2026-07-22 10:15 |
 | Optum | Sr Data Engineer | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=306b6fefd175d426) | 2026-07-22 10:15 |
 | Total Wine & More | Sr. Analytics Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e0ea90716b5e5176) | 2026-07-22 10:15 |
