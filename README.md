@@ -1,15 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-22 18:02
+Last updated: 2026-07-22 20:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Senior Software Engineer - 2378720 | MN, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=4a79ad3ad8ee3cf8) | 2026-07-22 20:07 |
+| Capgemini | Java Microservices Engineer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d5e170e5d541b6f7) | 2026-07-22 20:07 |
+| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 20:07 |
+| EvolutionIQ | Senior Analytics Engineer (AI Insurance SaaS) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c5f178ece3a91c11) | 2026-07-22 20:07 |
+| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 20:07 |
+| nan | AI/ML Engineer | Bridgewater, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba77f8c3e7eac143) | 2026-07-22 20:07 |
+| Capgemini | Data Modeler | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21c9762fb6f0e415) | 2026-07-22 20:07 |
+| Databricks | Sr. Solutions Architect - Financial Services (Fintech / Data Providers) | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cfda330d88e5394e) | 2026-07-22 20:07 |
+| MCAConnect | Microsoft Data & AI Services Solution Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f08ca180466ecf65) | 2026-07-22 20:07 |
+| Millennium Management | Cloud Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4743ecd6e6d322f1) | 2026-07-22 20:07 |
+| Corning | Database Architect | Tewksbury, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e937495306ed591b) | 2026-07-22 20:07 |
+| Databricks | Sr. Forward Deployed Engineer-Retail | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e3a8591136d286e) | 2026-07-22 20:07 |
+| Databricks | Sr. Forward Deployed Engineer-Retail | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=69be0bf694e2c4f3) | 2026-07-22 20:07 |
+| Databricks | Sr. Forward Deployed Engineer-Retail | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=10660dc7b9459d79) | 2026-07-22 20:07 |
+| Databricks | Sr. Forward Deployed Engineer-Retail | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81fada79a0fdb321) | 2026-07-22 20:07 |
+| Databricks | Sr. Forward Deployed Engineer-Retail | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4359bfbc2f710789) | 2026-07-22 20:07 |
+| Databricks | Sr. Forward Deployed Engineer-Retail | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=993ef220ab5ba1b7) | 2026-07-22 20:07 |
+| Databricks | Sr. Forward Deployed Engineer-Retail | Central, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3bec0ebeeca3759) | 2026-07-22 20:07 |
+| Databricks | Sr. Solutions Architect - Digital Native Business, Strategics | NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=905e4e31b6a4eb13) | 2026-07-22 20:07 |
+| Databricks | Sr. Forward Deployed Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ec4d249ca819f87) | 2026-07-22 20:07 |
 | Mercedes-Benz Group | IT Data Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7d9b00ff42cf98f0) | 2026-07-22 18:02 |
-| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 18:02 |
 | Green Courte Residential Holdings | Data Engineer (Backend Python Development) | Clearwater, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8581636bcd3b21c7) | 2026-07-22 18:02 |
-| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 18:02 |
 | ConsumerAffairs | AI Native, Tech Ops Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a04a08795fba7ff8) | 2026-07-22 18:02 |
 | NTT DATA | AI Ops / DevOps Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d7c47ddb67ad7812) | 2026-07-22 16:17 |
 | Anthropic | [C] Data Engineer, Safeguards | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=623cec7f1ca0a4a6) | 2026-07-22 16:17 |
@@ -529,7 +547,6 @@ Last updated: 2026-07-22 18:02
 | Deloitte | Applied AI Engineer II | Hermitage, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c910ea741626def) | 2026-07-19 05:13 |
 | Deloitte | Applied AI Engineer II | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b63b1ead449795e5) | 2026-07-19 05:13 |
 | Deloitte | Applied AI Engineer II | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=365840ba6be285e4) | 2026-07-19 05:13 |
-| Toll Brothers | Integration Services Engineer | Fort Washington, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=163762cb42bc6d83) | 2026-07-18 19:59 |
 
 
 ---
