@@ -1,16 +1,37 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-22 20:07
+Last updated: 2026-07-22 21:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Otomeshan technology | Java Backend Developer | New York, NY, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=05dceb327eaee169) | 2026-07-22 21:58 |
+| Conduit services | Data Engineer | Houston, TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=1ff1b649e399da37) | 2026-07-22 21:58 |
+| Legrand | Azure Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4981bd5c543f4424) | 2026-07-22 21:58 |
+| LSEG (London Stock Exchange Group) | Site Reliability Engineer | St. Louis, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1c4e902c4bf7accf) | 2026-07-22 21:58 |
+| SANTEE COOPER | DATA SCIENTIST | Moncks Corner, SC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5384d191c57a074d) | 2026-07-22 21:58 |
+| Risepoint | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=87068c1cc4a7e538) | 2026-07-22 21:58 |
+| Lincoln Financial | Associate ETL Developer | Radnor, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d5c3da01dbb88956) | 2026-07-22 21:58 |
+| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 21:58 |
+| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 21:58 |
+| LSEG (London Stock Exchange Group) | Senior Software Engineer | St. Louis, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3aada6e7b7a0a352) | 2026-07-22 21:58 |
+| University Federal Credit Union | Senior Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d5cfb563279695cc) | 2026-07-22 21:58 |
+| Science Systems and Applications, Inc. | Software Developer II (Mid-level, Full-stack) | Lanham, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f769425f85072466) | 2026-07-22 21:58 |
+| Kiewit Corporation | Sr Cloud Engineer | Omaha, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08a0f24c148c6273) | 2026-07-22 21:58 |
+| Compass Group | Senior Software Engineer II - Streaming and Durability | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f34e5f97d02e5021) | 2026-07-22 21:58 |
+| Compass Group | Senior Software Engineer II - Streaming and Durability | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853d0155af0fe88a) | 2026-07-22 21:58 |
+| Compass | Senior Software Engineer II - Streaming and Durability | Morristown, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=025149537375b19e) | 2026-07-22 21:58 |
+| Compass | Senior Software Engineer II- Streaming and Durability | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2aaa5458d436295c) | 2026-07-22 21:58 |
+| Compass | Senior Software Engineer II - Streaming and Durability | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7d4086a87728e295) | 2026-07-22 21:58 |
+| Compass | Senior Software Engineer II- Streaming and Durability | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e37397e5a5a0fd15) | 2026-07-22 21:58 |
+| Capacity | IT Solutions Architect III | North Brunswick, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d1b2254b13ddb4d) | 2026-07-22 21:58 |
+| Boston Scientific | Senior Data Scientist | Marlboro, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=23d224fc86dd31d3) | 2026-07-22 21:58 |
+| NATIONMIND LLC | QE Architect | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf751a8cb9bbc437) | 2026-07-22 21:58 |
+| Wider Security LLC | Backend Engineer/Data Engineer/Aspiring AI Generalist | Newport, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da73b50279ff0b8d) | 2026-07-22 21:58 |
 | Optum | Senior Software Engineer - 2378720 | MN, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=4a79ad3ad8ee3cf8) | 2026-07-22 20:07 |
 | Capgemini | Java Microservices Engineer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d5e170e5d541b6f7) | 2026-07-22 20:07 |
-| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 20:07 |
 | EvolutionIQ | Senior Analytics Engineer (AI Insurance SaaS) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c5f178ece3a91c11) | 2026-07-22 20:07 |
-| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 20:07 |
 | nan | AI/ML Engineer | Bridgewater, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ba77f8c3e7eac143) | 2026-07-22 20:07 |
 | Capgemini | Data Modeler | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21c9762fb6f0e415) | 2026-07-22 20:07 |
 | Databricks | Sr. Solutions Architect - Financial Services (Fintech / Data Providers) | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cfda330d88e5394e) | 2026-07-22 20:07 |
