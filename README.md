@@ -1,13 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-22 07:35
+Last updated: 2026-07-22 10:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 07:35 |
-| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 07:35 |
+| WIS International | Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=8f5e10429558c3d9) | 2026-07-22 10:15 |
+| Left Field Labs | Senior Backend Software Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=97efab58cd263135) | 2026-07-22 10:15 |
+| Texas Mutual Insurance Company | Senior DevOps Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6430dfa06f6062e) | 2026-07-22 10:15 |
+| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 10:15 |
+| Jabil | Programmer Analyst III | Saint Petersburg, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9d2473aefc906ea6) | 2026-07-22 10:15 |
+| Optum | Sr Data Engineer | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=306b6fefd175d426) | 2026-07-22 10:15 |
+| Total Wine & More | Sr. Analytics Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e0ea90716b5e5176) | 2026-07-22 10:15 |
+| EchoStar | Senior Data Scientist | Littleton, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=34ccee570c0b2629) | 2026-07-22 10:15 |
+| Marathon Health | Software Engineer | Pearl City, HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20a0e05716125fb7) | 2026-07-22 10:15 |
+| Marathon Health | Software Engineer | Pearl City, HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c02a271654e63003) | 2026-07-22 10:15 |
+| Enlyte | Junior Full Stack .NET Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=47735df267dc44af) | 2026-07-22 10:15 |
+| Vinik Sports Group | Sr. Software Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d085c6d211bbf396) | 2026-07-22 10:15 |
 | Revenue Management Solutions | Quality Assurance Engineer | Oklahoma City, OK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d9a966c05563f98c) | 2026-07-22 07:35 |
 | JPMorganChase | Software Engineer III (Java/Spring/SQL) | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2acea18330940b12) | 2026-07-22 07:35 |
 | JPMorganChase | Cloud Infrastructure/DevOps Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f59c82228d31cc82) | 2026-07-22 07:35 |
@@ -410,10 +420,6 @@ Last updated: 2026-07-22 07:35
 | Toll Brothers | Integration Services Engineer | Fort Washington, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=163762cb42bc6d83) | 2026-07-18 19:59 |
 | PNC Financial Services Group | Quality Assurance Architect - Hadoop / Big Data / Python | Pittsburgh, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40430f432f2963a7) | 2026-07-18 16:45 |
 | University of Southern California | Data Scientist (ITS) | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8ea9a719ad357a71) | 2026-07-18 15:45 |
-| Intercontinental Exchange | Senior Developer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8062146e14fcc8f8) | 2026-07-18 10:10 |
-| nan | Senior Cloud Engineer | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3d96ea8e9dc36fab) | 2026-07-18 08:43 |
-| Glint Tech Solutions | Sr. Data Scientist | Reston, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd979a0715c09dce) | 2026-07-18 08:43 |
-| Target | Senior AI Engineer – Apply For CircleCard | Brooklyn Park, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1593657cd51d3c9f) | 2026-07-18 08:43 |
 
 
 ---
