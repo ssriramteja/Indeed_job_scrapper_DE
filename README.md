@@ -1,13 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-22 22:59
+Last updated: 2026-07-23 00:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Senior Data Engineer | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=63c45c243678d800) | 2026-07-23 00:00 |
+| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-23 00:00 |
+| The Cigna Group | Software Engineering Advisor – Data & Analytics Engineering | Kansas City, KS, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=86ed035997b1513d) | 2026-07-23 00:00 |
+| Mercedes-Benz Group | AI Productization Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85be9fd2c83ec659) | 2026-07-23 00:00 |
+| MidFirst Bank | Applied Data Engineer | Oklahoma City, OK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7989a774ac69e3c4) | 2026-07-23 00:00 |
+| Fischer Homes | SENIOR DATA ENGINEER | Erlanger, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2efeb3f6963e2ac9) | 2026-07-23 00:00 |
+| Capgemini | Senior ETL Developer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=211d3a103ab1d78e) | 2026-07-23 00:00 |
+| Cadence Design Systems | Cloud Security Operations Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e5fdfed8670f70b) | 2026-07-23 00:00 |
+| Evercommerce | EverHealth - Software Engineer (Remote, US) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=964a319d38182888) | 2026-07-23 00:00 |
 | Vision Radiology | Sr. Data Engineer (Remote) | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ea77e5dc301d8192) | 2026-07-22 22:59 |
-| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-22 22:59 |
 | sssssss | Engineer | Hillsboro, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24dde647fb9dfea1) | 2026-07-22 22:59 |
 | Zoom Communications | DevOps Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b184430c41a2294c) | 2026-07-22 22:59 |
 | United Power | Data Engineer I-II | Brighton, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d42cdf36323593a) | 2026-07-22 22:59 |
