@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-23 21:57
+Last updated: 2026-07-23 22:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| UCLA Health | Senior Data Engineer | Los Angeles, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d071a80499173a38) | 2026-07-23 22:52 |
+| TRAX USA Corp. | Senior QA Engineer - Airvoyant | Coral Gables, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=38ee81c497706d67) | 2026-07-23 22:52 |
+| Rippling | DevOps Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b6e8b25e2f2a2f9a) | 2026-07-23 22:52 |
+| Boston Medical Center | AWS Cloud AI Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c7b96f6d08eb2e5b) | 2026-07-23 22:52 |
+| Veryon | Software Engineer – AI & Machine Learning | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=426013248af00194) | 2026-07-23 22:52 |
+| Workday | Software Development Engineer - Workday Everywhere | Boulder, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=609d27118699b077) | 2026-07-23 22:52 |
+| Bloomberg | Senior Software Engineer - Analytics Platform | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=52bd230153d8b27f) | 2026-07-23 22:52 |
+| McKesson | Sr. Associate Data Engineer | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=037b9d029a6c32da) | 2026-07-23 22:52 |
 | Kemper | Senior Data Engineer | Alpharetta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=12a7366a5fe55ec4) | 2026-07-23 21:57 |
 | Kemper | Senior Data Engineer | Chicago, IL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=5543ba0ab775d610) | 2026-07-23 21:57 |
 | Kemper | Senior Data Engineer | Downers Grove, IL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=a077af88e8069ec7) | 2026-07-23 21:57 |
