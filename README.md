@@ -1,11 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-23 17:10
+Last updated: 2026-07-23 19:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Washington Post | Senior Backend Software Engineer | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cc1bf7c13d30efa0) | 2026-07-23 19:00 |
+| Capgemini | Sr JAVA Full Stack - Lake Mary, FL (Onsite) | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3d3af2808d31529e) | 2026-07-23 19:00 |
+| LTM Limited | Specialist - Architecture | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=760cf46880d813e3) | 2026-07-23 19:00 |
+| FanDuel | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b0124c68aa711e39) | 2026-07-23 19:00 |
+| FanDuel | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7403c7f190048d2a) | 2026-07-23 19:00 |
+| FanDuel | Senior Data Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4b26575de63e016) | 2026-07-23 19:00 |
+| FanDuel | Senior Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=22d4db52b41a4c7e) | 2026-07-23 19:00 |
+| Ragle Inc | Data Engineer | North Richland Hills, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d53fa67d1e5eb8e1) | 2026-07-23 19:00 |
+| RSM | Enterprise Data Integration & Migration Senior Associate | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ec8e3aded50f9da6) | 2026-07-23 19:00 |
+| Kemper | SQL Server DBA | Downers Grove, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1296ebd08a57d7ad) | 2026-07-23 19:00 |
+| Kemper | SQL Server DBA | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95bb71d7121f8589) | 2026-07-23 19:00 |
+| Bevi | Senior Data Platform Engineer | Charlestown, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88024c4609faee60) | 2026-07-23 19:00 |
+| Capgemini | Senior MuleSoft Developer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d311b8910fe0706e) | 2026-07-23 19:00 |
+| Capgemini | Senior MuleSoft Developer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=736fe20d94693dbe) | 2026-07-23 19:00 |
+| Capgemini | Senior Java Platform Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d3dc1e92354e313) | 2026-07-23 19:00 |
+| Capgemini | Senior Java Platform Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b6bf738c60c62b8d) | 2026-07-23 19:00 |
+| Capgemini | Java Platform Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5588d97b0802dcb7) | 2026-07-23 19:00 |
+| Capgemini | Java Platform Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76a0805af660a7db) | 2026-07-23 19:00 |
 | CVS Health | Data Engineer | SD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5f87cbef2e8672c3) | 2026-07-23 17:10 |
 | CVS Health | Data Engineer | AZ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7d0ffa581a9806f2) | 2026-07-23 17:10 |
 | CVS Health | Data Engineer | WY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a371c6a757e7cc60) | 2026-07-23 17:10 |
