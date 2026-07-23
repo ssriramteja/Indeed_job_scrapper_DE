@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-23 22:52
+Last updated: 2026-07-23 23:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Booz Allen Hamilton | Data Engineer, Senior | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c25594297d7dcd08) | 2026-07-23 23:53 |
+| Capgemini | Sr JAVA Full Stack - Lake Mary, FL (Onsite) | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0071b97226cb4875) | 2026-07-23 23:53 |
+| ecoATM LLC | Senior Data Scientist | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=462774f83d88a209) | 2026-07-23 23:53 |
+| FINRA | Senior Software Engineer | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f57865e75c379265) | 2026-07-23 23:53 |
+| FINRA | Senior Software Engineer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55f8300de4fecb0f) | 2026-07-23 23:53 |
+| FINRA | Senior Software Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45adc4c2b25c26f7) | 2026-07-23 23:53 |
+| LTM Limited | Senior Specialist - Architecture | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bc906c390155312) | 2026-07-23 23:53 |
 | UCLA Health | Senior Data Engineer | Los Angeles, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d071a80499173a38) | 2026-07-23 22:52 |
 | TRAX USA Corp. | Senior QA Engineer - Airvoyant | Coral Gables, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=38ee81c497706d67) | 2026-07-23 22:52 |
 | Rippling | DevOps Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b6e8b25e2f2a2f9a) | 2026-07-23 22:52 |
