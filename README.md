@@ -1,11 +1,54 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-23 19:00
+Last updated: 2026-07-23 20:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Optimum Data Modeler - BSS Transformation | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5993c3ad81ad4c85) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Digital Native Business | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11faba3dd5ac31a8) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Digital Native Business | Mountain View, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c66df27b133d802) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=07d9c465438bd1d6) | 2026-07-23 20:14 |
+| Vulcan Elements | Applied Machine Learning Engineer | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b234271097cd37b1) | 2026-07-23 20:14 |
+| Vulcan Elements | Applied Machine Learning Engineer | Benson, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=16fc450b1d33691a) | 2026-07-23 20:14 |
+| Egen Solutions Inc | Senior Application Engineer- Python/JavaScript/Typescript | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b50cf2a5112831c1) | 2026-07-23 20:14 |
+| accrete | Senior DevOps Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cf2219ca946f5e65) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9aaae90b6827622e) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ebcd57b3de525cca) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2695d1c25372f189) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Retail | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a70f58838e2cd34a) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c76908ce37a5afa9) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Manufacturing | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=711e6d671e6ce6cc) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f8ecd830bc50ddf8) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c89d85a8acffb186) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Retail | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62aa67ffee10afa8) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Retail | Central, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=51ee72135fd523f3) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Retail | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=65c6771565c401be) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3a205268ca815d6) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e4df7b403eedd3f2) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Retail | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1d5ec05338e5307) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a27f3fed1cb92a2) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | Mountain View, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8697154f8ab7b59) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2febc928d422bbaf) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c0a886cb5fb87382) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=577681ccb90f5217) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Retail | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9cd6a537b32a4a4c) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Retail | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e122255a8b305e22) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=775df9e7531fdd50) | 2026-07-23 20:14 |
+| Syracuse University | AI Data Engineer | Syracuse, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0dfd015014ed5a6b) | 2026-07-23 20:14 |
+| Optum | Senior AI ML Software Engineer - Data Platforms - Remote Nationwide or Hybrid in MN or DC | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afcebdc1e96b80ec) | 2026-07-23 20:14 |
+| INROADS | Data Engineer I | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=293dbef0165a4bbf) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19f65e5ec0ffd488) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=431da68150f3291d) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3272846d5260e885) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=44a83bfac7754702) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d6c5660e8705aa9c) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services | Central, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cc9a7a66d97e77e2) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57a2a930cddd393d) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bcc8dd4d32558374) | 2026-07-23 20:14 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f91c24f3a7633e7) | 2026-07-23 20:14 |
+| Bealls Inc. | Associate Developer | Bradenton, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=723d8dc3606ce87f) | 2026-07-23 20:14 |
 | The Washington Post | Senior Backend Software Engineer | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cc1bf7c13d30efa0) | 2026-07-23 19:00 |
 | Capgemini | Sr JAVA Full Stack - Lake Mary, FL (Onsite) | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3d3af2808d31529e) | 2026-07-23 19:00 |
 | LTM Limited | Specialist - Architecture | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=760cf46880d813e3) | 2026-07-23 19:00 |
@@ -633,7 +676,6 @@ Last updated: 2026-07-23 19:00
 | State of Minnesota - Minnesota IT Services | Data Engineer - ITS4 | Saint Paul, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb33eaf3683a2fd9) | 2026-07-20 09:19 |
 | Texas Instruments | AI/ML Engineer | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2ee93c84147c4e9c) | 2026-07-20 09:19 |
 | nProspect | AWS DevOps Engineer Experience in Pega Platform EKS with Jenkins and Terraform DevOps OnlyUS Citizen | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1c8c651e8e033eb5) | 2026-07-20 05:59 |
-| Neomax | Systems Engineer | Chantilly, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0162590b4bca3d10) | 2026-07-19 20:02 |
 
 
 ---
