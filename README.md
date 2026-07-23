@@ -1,11 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-23 20:14
+Last updated: 2026-07-23 21:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Kemper | Senior Data Engineer | Alpharetta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=12a7366a5fe55ec4) | 2026-07-23 21:57 |
+| Kemper | Senior Data Engineer | Chicago, IL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=5543ba0ab775d610) | 2026-07-23 21:57 |
+| Kemper | Senior Data Engineer | Downers Grove, IL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=a077af88e8069ec7) | 2026-07-23 21:57 |
+| Kemper | Senior Data Engineer | Jacksonville, FL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=76143d39ee35b355) | 2026-07-23 21:57 |
+| Kemper | Senior Data Engineer | Annapolis, MD, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=f4ed12d88cc2e877) | 2026-07-23 21:57 |
+| Kemper | Senior Data Engineer | Providence, RI, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=eee1d8b4f35568a7) | 2026-07-23 21:57 |
+| Kemper | Senior Data Engineer | Richmond, VA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=be6ca4cb28d4f2ab) | 2026-07-23 21:57 |
+| Kemper | Senior Data Engineer | Columbus, OH, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=820aad6a65dfbe24) | 2026-07-23 21:57 |
+| Kemper | Senior Data Engineer | Birmingham, AL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=bc1bab104e859e83) | 2026-07-23 21:57 |
+| Kemper | Senior Data Engineer | Hartford, CT, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=bdd44ba9ec2abfb8) | 2026-07-23 21:57 |
+| Kemper | Senior Data Engineer | St. Louis, MO, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=e5737811adca0295) | 2026-07-23 21:57 |
+| Kemper | Senior Data Engineer | Harrisburg, PA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=5dee030b01228d0d) | 2026-07-23 21:57 |
+| Kemper | Senior Data Engineer | Dallas, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=02eb3eef526fbc7e) | 2026-07-23 21:57 |
+| Booz Allen Hamilton | Data Engineer, Senior | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4043ee460a725672) | 2026-07-23 21:57 |
+| People Data Labs | Senior Software Engineer, Data Acquisition | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5ce03f58dc0c9d18) | 2026-07-23 21:57 |
+| New York City Department of Citywide Administrative Services | Senior Application Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8959b284cfe01ae8) | 2026-07-23 21:57 |
+| Charles Schwab | AI/ML Ops and Data Engineer | Southlake, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cdb594873fc1ad66) | 2026-07-23 21:57 |
+| Charles Schwab | Machine Learning Ops Data Engineer | Southlake, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=33e84a2e009cf57d) | 2026-07-23 21:57 |
+| ZoomInfo | Software Engineer III - PA085 | Waltham, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c411d19dcc80f29) | 2026-07-23 21:57 |
+| Honeywell | Advanced Data Scientist | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1fb5bccfe96e2cd1) | 2026-07-23 21:57 |
+| Sona | Software Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f41a26b73335bac) | 2026-07-23 21:57 |
 | Capgemini | Optimum Data Modeler - BSS Transformation | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5993c3ad81ad4c85) | 2026-07-23 20:14 |
 | Databricks | Sr. Forward Deployed Engineer (FDE) - Digital Native Business | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11faba3dd5ac31a8) | 2026-07-23 20:14 |
 | Databricks | Sr. Forward Deployed Engineer (FDE) - Digital Native Business | Mountain View, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c66df27b133d802) | 2026-07-23 20:14 |
