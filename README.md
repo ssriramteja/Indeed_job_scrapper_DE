@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-23 02:58
+Last updated: 2026-07-23 05:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| American Airlines | Engineer/Sr Engineer, IT Data | Fort Worth, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3e670639c0e140f2) | 2026-07-23 05:51 |
+| Charles Schwab | Senior Site Reliability Engineer ( SRE) | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1c1097e65f054454) | 2026-07-23 05:51 |
+| Kahala Management LLC | Data Quality Analyst | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a5698b7be59595f7) | 2026-07-23 05:51 |
+| Mercedes-Benz Group | AI/ML Platform Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=acd1f12311583f7b) | 2026-07-23 05:51 |
+| CSpring | Azure Data Engineer | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b0cb38eb50869058) | 2026-07-23 05:51 |
+| U.S. Bank | Software Engineer 1 (React + API + Cloud Migration) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1feab28b0c3d3479) | 2026-07-23 05:51 |
+| U.S. Bank | Software Engineer 1 (React + API + Cloud Migration) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c64848853e9c5d68) | 2026-07-23 05:51 |
+| Mastercard | Senior Platform Architect | O'Fallon, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=74e541c1dbebcfd9) | 2026-07-23 05:51 |
 | AmpliFI Loyalty Solutions | Enterprise Data Architect | Naperville, IL, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=677e0ea1946500b5) | 2026-07-23 02:58 |
 | TELUS Digital | GCP Data Engineer | Ontario, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=671918da9a59fae2) | 2026-07-23 02:58 |
 | Capgemini | Senior Data Engineer | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4b55a448295d9621) | 2026-07-23 02:58 |
@@ -24,7 +32,6 @@ Last updated: 2026-07-23 02:58
 | Vynca | Senior Software Engineer | AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cae138f9046f28a0) | 2026-07-23 02:58 |
 | Vynca | Senior Software Engineer | NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ea174bb985cdf126) | 2026-07-23 02:58 |
 | HEB | Senior Cloud Engineer | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8fc5301813e35e61) | 2026-07-23 02:58 |
-| Hewlett Packard Enterprise \| HPE | Cloud and AI Ops Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=45248088909a2e31) | 2026-07-23 02:58 |
 | The Cigna Group | Software Engineering Advisor – Data & Analytics Engineering | Kansas City, KS, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4e4857d47bb28188) | 2026-07-23 02:58 |
 | Blue Acorn iCi | AEP Data Architect Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0df0b0eaf5027bc0) | 2026-07-23 02:58 |
 | eBay | Software Engineer 3 | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ff6fde999db22d09) | 2026-07-23 02:58 |
@@ -583,49 +590,6 @@ Last updated: 2026-07-23 02:58
 | CVS Health | Software Development Engineer | SD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8fa84bf5bd57711a) | 2026-07-19 15:47 |
 | CVS Health | Software Development Engineer | NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ef90d605a9f8edf) | 2026-07-19 15:47 |
 | CVS Health | Software Development Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc1ceec59ac88d89) | 2026-07-19 15:47 |
-| Deloitte | Databricks Data Engineer II | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9d92e12b65009362) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Arlington, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cde8aceb659b7851) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Morristown, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=323b12004fd1fa17) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ddde05a799d0e50f) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6e54319cb7bfa838) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9892f5c3468ad608) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73a45b153230dc4d) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d71599297538b2a) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=432634e664780bce) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a64444682287c104) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=530638f3e1daf38d) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14c62fa36d929316) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=70f14cf3390679d5) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24044e6dca60597c) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0eddd74c6020e60d) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=882a8e1d53732532) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Stamford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43664ccf89ac9845) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=75900edce4a3140c) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=61bd23c88ade521e) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c70c7100dc6891fd) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f9e9959edbf67f2) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eba7cfb89bad5673) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32643431aa45b014) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=54b8c2e010e3c30e) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b3cee7777b3be3e) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=934e77f21c46da71) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bdb0a98c0d3edce) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7314558051799a4) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=977374dcac480610) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=07bcb5ba3fa3bcdf) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2b3bad974d3cce6) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fbb994ffce3e09da) | 2026-07-19 05:13 |
-| Deloitte | Databricks Data Engineer II | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d8b975518822603) | 2026-07-19 05:13 |
-| Deloitte | Applied AI Engineer I | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01965fadde442044) | 2026-07-19 05:13 |
-| Deloitte | Applied AI Engineer I | Hermitage, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da13b00a43473377) | 2026-07-19 05:13 |
-| Deloitte | Applied AI Engineer I | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78531d1019f4b8d6) | 2026-07-19 05:13 |
-| Deloitte | Applied AI Engineer I | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b47fc7d04ca49300) | 2026-07-19 05:13 |
-| Deloitte | Applied AI Engineer I | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42e4270a4174f66d) | 2026-07-19 05:13 |
-| Deloitte | Applied AI Engineer II | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16c9e1dd0a8fd75b) | 2026-07-19 05:13 |
-| Deloitte | Applied AI Engineer II | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09676da45784cdfc) | 2026-07-19 05:13 |
-| Deloitte | Applied AI Engineer II | Hermitage, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c910ea741626def) | 2026-07-19 05:13 |
-| Deloitte | Applied AI Engineer II | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b63b1ead449795e5) | 2026-07-19 05:13 |
-| Deloitte | Applied AI Engineer II | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=365840ba6be285e4) | 2026-07-19 05:13 |
 
 
 ---
