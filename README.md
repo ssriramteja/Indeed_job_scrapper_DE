@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-23 08:12
+Last updated: 2026-07-23 11:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Universal Background Screening | Software Engineer (Remote Opportunity) | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b6b2caf1308dae3d) | 2026-07-23 11:01 |
+| JPMorganChase | Data Scientist Senior Associate | San Antonio, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a82cedf3a5c098bf) | 2026-07-23 11:01 |
+| Cognizant | GCP Data Architect | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8fc84a59c47b9041) | 2026-07-23 11:01 |
+| JPMorganChase | Software Engineer III - Java/Python/AWS | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dbd1082ecbb4b77c) | 2026-07-23 11:01 |
+| State of Minnesota - Minnesota IT Services | Data Engineer - ITS4 | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=541fc9f247e24d24) | 2026-07-23 11:01 |
+| Rocket | Senior Systems Engineer | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b6b13a7348518f4) | 2026-07-23 11:01 |
 | eBay | Software Engineer 3 | San Jose, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=dd1589aadea1bbd4) | 2026-07-23 08:12 |
 | Photon | Sr Java API Developer - New York | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=67c166482beff6ee) | 2026-07-23 08:12 |
 | Northramp | Full Stack Developer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8fe02b7c8ca17adb) | 2026-07-23 08:12 |
