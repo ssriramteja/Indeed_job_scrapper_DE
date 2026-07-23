@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-23 11:01
+Last updated: 2026-07-23 13:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Infotron | Senior Data Engineer | Berkeley, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fa3ab05c9087dbd4) | 2026-07-23 13:25 |
+| West Monroe | Agentic AI Architect-Google Cloud | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9c971721d216ef56) | 2026-07-23 13:25 |
+| Optum | Senior Data Engineer (DBA) | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=016a0bed58fb8f12) | 2026-07-23 13:25 |
 | Universal Background Screening | Software Engineer (Remote Opportunity) | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b6b2caf1308dae3d) | 2026-07-23 11:01 |
 | JPMorganChase | Data Scientist Senior Associate | San Antonio, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a82cedf3a5c098bf) | 2026-07-23 11:01 |
 | Cognizant | GCP Data Architect | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8fc84a59c47b9041) | 2026-07-23 11:01 |
