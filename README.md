@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-23 05:51
+Last updated: 2026-07-23 08:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| eBay | Software Engineer 3 | San Jose, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=dd1589aadea1bbd4) | 2026-07-23 08:12 |
+| Photon | Sr Java API Developer - New York | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=67c166482beff6ee) | 2026-07-23 08:12 |
+| Northramp | Full Stack Developer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8fe02b7c8ca17adb) | 2026-07-23 08:12 |
+| Cisco | Software Engineer, Structured Storage | Research Triangle Park, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2ffb8f2b64505893) | 2026-07-23 08:12 |
+| Cisco | Software Engineer | Research Triangle Park, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=893e910c3bd5c112) | 2026-07-23 08:12 |
+| Magnite | Senior Big Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0141781c1f467720) | 2026-07-23 08:12 |
+| eBay | Software Engineer 3 | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=41c7d8075142645e) | 2026-07-23 08:12 |
 | American Airlines | Engineer/Sr Engineer, IT Data | Fort Worth, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3e670639c0e140f2) | 2026-07-23 05:51 |
 | Charles Schwab | Senior Site Reliability Engineer ( SRE) | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1c1097e65f054454) | 2026-07-23 05:51 |
 | Kahala Management LLC | Data Quality Analyst | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a5698b7be59595f7) | 2026-07-23 05:51 |
