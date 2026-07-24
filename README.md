@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-24 05:12
+Last updated: 2026-07-24 08:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | Senior AI DevOps Engineer (AI Ops / Platform Engineering) (Hybrid) | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=179f845817d9c394) | 2026-07-24 08:08 |
+| Cisco | Software Engineerâ€“ Full Stack | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=845b1ae798305d08) | 2026-07-24 08:08 |
+| FFF Enterprises | Senior Software Developer, Automation | Temecula, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=36278831392884e9) | 2026-07-24 08:08 |
+| Love’s Travel Stops | Data Engineer III | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fcbdf62f4fcd37bb) | 2026-07-24 08:08 |
+| Glint Tech Solutions | AWS/EKS Platform Engineer | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1db2cf8626316dc6) | 2026-07-24 08:08 |
+| Cuesta Partners | AI Solutions Architect \| US | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=96a29f61f02164cc) | 2026-07-24 08:08 |
+| LangChain | Solutions Architect (Remote) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=23122d038602c127) | 2026-07-24 08:08 |
+| LangChain | Solutions Architect (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed4c550bf8810c96) | 2026-07-24 08:08 |
+| LangChain | Solutions Architect (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb19fdabfeceb391) | 2026-07-24 08:08 |
+| Hewlett Packard Enterprise \| HPE | Senior AI Driven Test Automation Architect | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4dccf85cb629f63b) | 2026-07-24 08:08 |
+| nan | Software Engineer – Remote Opportunities | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a59520fbf843f452) | 2026-07-24 08:08 |
 | Continuum Media Network Inc | Data Engineer | Denver, CO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9d00a5640ed9db41) | 2026-07-24 05:12 |
 | University of Colorado | Senior Cloud Data Engineer | Aurora, CO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b0851f406bcf6538) | 2026-07-24 05:12 |
 | Bagel Brands | Data Architect | Brooklyn Center, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4192bfe41a15fbd0) | 2026-07-24 05:12 |
@@ -20,7 +31,6 @@ Last updated: 2026-07-24 05:12
 | United Concordia Dental | Senior Architect | PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=894c050699a8cfaa) | 2026-07-24 05:12 |
 | Frontline Education | Senior Software Engineer I-II, Integration Platform Engineering | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5777ab28ff195025) | 2026-07-24 05:12 |
 | Kyocera Document Solutions America, Inc. | Integration Developer | Fairfield, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c00d2e785c66cbb4) | 2026-07-24 05:12 |
-| Hewlett Packard Enterprise \| HPE | Senior AI Driven Test Automation Architect | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4dccf85cb629f63b) | 2026-07-24 05:12 |
 | Kuehne+Nagel | IT Database Engineer | Naugatuck, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c73cae1a3da2412) | 2026-07-24 05:12 |
 | Databricks | Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81cea3875bd25185) | 2026-07-24 05:12 |
 | RELI Group Inc | Quality Assurance Specialist | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3691bd3a3b5f022b) | 2026-07-24 05:12 |
@@ -737,7 +747,6 @@ Last updated: 2026-07-24 05:12
 | Qureos | Software Engineer | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad6582003e647074) | 2026-07-20 12:09 |
 | State of Minnesota - Minnesota IT Services | Data Engineer - ITS4 | Saint Paul, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb33eaf3683a2fd9) | 2026-07-20 09:19 |
 | Texas Instruments | AI/ML Engineer | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2ee93c84147c4e9c) | 2026-07-20 09:19 |
-| nProspect | AWS DevOps Engineer Experience in Pega Platform EKS with Jenkins and Terraform DevOps OnlyUS Citizen | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1c8c651e8e033eb5) | 2026-07-20 05:59 |
 
 
 ---
