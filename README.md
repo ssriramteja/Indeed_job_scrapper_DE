@@ -1,16 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-24 12:13
+Last updated: 2026-07-24 14:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CVS Health | Senior GCP Data Engineer for Patient Safety Measure Engine | Boston, MA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6d3f3d22744f5363) | 2026-07-24 14:45 |
+| Domino's | Senior Data Engineer | Ann Arbor, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8d0c84a27d084fd0) | 2026-07-24 14:45 |
+| Cuesta Partners | AI Solutions Architect \| US | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=96a29f61f02164cc) | 2026-07-24 14:45 |
+| Hewlett Packard Enterprise \| HPE | Senior AI Driven Test Automation Architect | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4dccf85cb629f63b) | 2026-07-24 14:45 |
 | JPMorganChase | Software Engineer III-Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=4788de97836b6e30) | 2026-07-24 12:13 |
 | JPMorganChase | Software Engineer III | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4beac6cc3645a53b) | 2026-07-24 12:13 |
-| Cuesta Partners | AI Solutions Architect \| US | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=96a29f61f02164cc) | 2026-07-24 12:13 |
 | nan | Senior Systems & Backend Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=844436f2f472f5b1) | 2026-07-24 12:13 |
-| Hewlett Packard Enterprise \| HPE | Senior AI Driven Test Automation Architect | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4dccf85cb629f63b) | 2026-07-24 12:13 |
 | JPMorganChase | Data Engineer III - (Pyspark/databricks/Mongo/Sql/Python) | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=820ae5b00199f1e8) | 2026-07-24 12:13 |
 | First Citizens Bank | Data Engineer II | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=34ac40ad9509eb3e) | 2026-07-24 10:54 |
 | One Call | Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=454dc6c270b9d674) | 2026-07-24 10:54 |
