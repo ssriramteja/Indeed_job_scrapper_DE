@@ -1,11 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-24 01:51
+Last updated: 2026-07-24 05:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Continuum Media Network Inc | Data Engineer | Denver, CO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9d00a5640ed9db41) | 2026-07-24 05:12 |
+| University of Colorado | Senior Cloud Data Engineer | Aurora, CO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b0851f406bcf6538) | 2026-07-24 05:12 |
+| Bagel Brands | Data Architect | Brooklyn Center, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4192bfe41a15fbd0) | 2026-07-24 05:12 |
+| Citizens | Technology Risk Senior Analyst- Data, AI and Emerging Technology | Johnston, RI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e522509d51c4142a) | 2026-07-24 05:12 |
+| Chipotle Mexican Grill | Database Administrator | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1c47582fc7c2ae03) | 2026-07-24 05:12 |
+| Zebra Technologies | Forward Deployed Software Engineer (FDE) | Holtsville, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cb34fa941aa1af4f) | 2026-07-24 05:12 |
+| Applied Medical | Application Developer | Rancho Santa Margarita, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4fc216d4e8e348b) | 2026-07-24 05:12 |
+| Cronisys IT LLC | Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c38a539ce614bcac) | 2026-07-24 05:12 |
+| Cronisys IT LLC | Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b7d3c5854895a0d) | 2026-07-24 05:12 |
+| Avature | Full Stack Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d8ad65ea2360e07e) | 2026-07-24 05:12 |
+| H&R Block | Senior Software Engineer-Data Operations (Databricks/AI) | MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=22eb530ec4c57c3c) | 2026-07-24 05:12 |
+| United Concordia Dental | Senior Architect | PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=894c050699a8cfaa) | 2026-07-24 05:12 |
+| Frontline Education | Senior Software Engineer I-II, Integration Platform Engineering | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5777ab28ff195025) | 2026-07-24 05:12 |
+| Kyocera Document Solutions America, Inc. | Integration Developer | Fairfield, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c00d2e785c66cbb4) | 2026-07-24 05:12 |
+| Hewlett Packard Enterprise \| HPE | Senior AI Driven Test Automation Architect | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4dccf85cb629f63b) | 2026-07-24 05:12 |
+| Kuehne+Nagel | IT Database Engineer | Naugatuck, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c73cae1a3da2412) | 2026-07-24 05:12 |
+| Databricks | Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81cea3875bd25185) | 2026-07-24 05:12 |
+| RELI Group Inc | Quality Assurance Specialist | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3691bd3a3b5f022b) | 2026-07-24 05:12 |
 | TELEWORLD SOLUTIONS INC | Data Analyst IV/ Data Scientist AI/ML Specialist | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=968b86a37881afb4) | 2026-07-24 01:51 |
 | Best Buy | Senior Data Engineer - Ad Serving | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3751536eef408193) | 2026-07-24 01:51 |
 | Capgemini | Platform Engineer IV | St. Louis, MO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3a6f5499c457885c) | 2026-07-24 01:51 |
