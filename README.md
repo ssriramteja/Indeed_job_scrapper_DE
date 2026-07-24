@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-23 23:53
+Last updated: 2026-07-24 01:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TELEWORLD SOLUTIONS INC | Data Analyst IV/ Data Scientist AI/ML Specialist | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=968b86a37881afb4) | 2026-07-24 01:51 |
+| Best Buy | Senior Data Engineer - Ad Serving | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3751536eef408193) | 2026-07-24 01:51 |
+| Capgemini | Platform Engineer IV | St. Louis, MO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3a6f5499c457885c) | 2026-07-24 01:51 |
+| BBQ Holdings | Data Quality Analyst | Minnetonka, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=43dc646411602558) | 2026-07-24 01:51 |
+| eBay | Software Engineer - 3 | Bellevue, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=57e3d41ef9d854b4) | 2026-07-24 01:51 |
+| GM Financial | Software Development Engineer II | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=025ebe3ef0840042) | 2026-07-24 01:51 |
+| Orion Innovation | Data Engineer | Montvale, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e0ce9990f1abbe3) | 2026-07-24 01:51 |
+| GM Financial | Software Development Engineer II - Gen AI and Innovation Team | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ebdcb0ba13a35657) | 2026-07-24 01:51 |
 | Booz Allen Hamilton | Data Engineer, Senior | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c25594297d7dcd08) | 2026-07-23 23:53 |
 | Capgemini | Sr JAVA Full Stack - Lake Mary, FL (Onsite) | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0071b97226cb4875) | 2026-07-23 23:53 |
 | ecoATM LLC | Senior Data Scientist | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=462774f83d88a209) | 2026-07-23 23:53 |
