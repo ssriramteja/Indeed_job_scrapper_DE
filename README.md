@@ -1,17 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-24 22:56
+Last updated: 2026-07-24 23:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Macy's | Business Analyst Specialist | Johns Creek, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=fa6a87768d5aab6f) | 2026-07-24 23:56 |
+| Guidewire | Software Engineer III - Cloud Data Platform | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=26ac8e996e1bb5d6) | 2026-07-24 23:56 |
+| Cuesta Partners | AI Solutions Architect \| US | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=96a29f61f02164cc) | 2026-07-24 23:56 |
+| Medica Services Company LLC | Senior Platform & Integration Engineer (Kafka) | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a1e479ebfe2163b) | 2026-07-24 23:56 |
+| Simpson Strong-Tie | Senior Software Engineer — Cloud Services & API Platform (C#/Azure Track) | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b066ce08bf22f47c) | 2026-07-24 23:56 |
+| Great Gray Trust Company | Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d12b3ac28ec908f) | 2026-07-24 23:56 |
 | J&B Medical | DevOps Engineer Live Streaming- Wixom, MI | Wixom, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=41ea01c619cf5f4e) | 2026-07-24 22:56 |
 | Intellibee Inc | Data engineer (Power BI) | Raleigh, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b1c4bb478a10661f) | 2026-07-24 22:56 |
-| Cuesta Partners | AI Solutions Architect \| US | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=96a29f61f02164cc) | 2026-07-24 22:56 |
-| Medica Services Company LLC | Senior Platform & Integration Engineer (Kafka) | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a1e479ebfe2163b) | 2026-07-24 22:56 |
 | M2S Group | Artificial Intelligence Architect | Highland Park, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dde1cd623d007554) | 2026-07-24 22:56 |
-| Great Gray Trust Company | Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d12b3ac28ec908f) | 2026-07-24 22:56 |
 | Cloud and Things | Azure Cloud Architect | New York, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6e5bb3180486d837) | 2026-07-24 21:56 |
 | Cloud and Things | AWS Cloud Architect | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e3a616293a442292) | 2026-07-24 21:56 |
 | Pyx Health | Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8ea50071b5800db9) | 2026-07-24 21:56 |
@@ -687,15 +690,6 @@ Last updated: 2026-07-24 22:56
 | Fivetran | Senior R&D Software Engineer, Fivetran AI | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=30bf0451dbc419d1) | 2026-07-21 01:48 |
 | Fivetran | Senior R&D Software Engineer, Fivetran AI | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=501671e22555fe5c) | 2026-07-21 01:48 |
 | Fivetran | Senior R&D Software Engineer, Fivetran AI | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f8b8baa922f2b05a) | 2026-07-21 01:48 |
-| iSynergy IT | Data Engineer | New York, NY, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=64aa04af21957dc5) | 2026-07-20 23:48 |
-| nan | AI Systems Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2cdfcb7d4f8c3b02) | 2026-07-20 23:48 |
-| LTM Limited | Senior Software Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b1d1f01448956ac8) | 2026-07-20 23:48 |
-| LTM Limited | Senior Software Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c9d86fee622b07b) | 2026-07-20 23:48 |
-| Equifax | Senior Data Engineer | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6c875e063114bb1c) | 2026-07-20 23:48 |
-| Zensar Technologies | Solution Architect – Data Migration & Analytics | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1f7b9a9c0a9082ee) | 2026-07-20 23:48 |
-| The Standard Insurance | AI Software Engineer IV | Portland, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b3c232645c82fc83) | 2026-07-20 23:48 |
-| Auto.Live | Senior Software Engineer IV / V (Java, React, AWS) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42c2207352100be0) | 2026-07-20 23:48 |
-| Mass General Brigham | Senior Architect | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dccbfd697359c720) | 2026-07-20 23:48 |
 
 
 ---
