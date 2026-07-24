@@ -1,20 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-24 10:54
+Last updated: 2026-07-24 12:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III-Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=4788de97836b6e30) | 2026-07-24 12:13 |
+| JPMorganChase | Software Engineer III | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4beac6cc3645a53b) | 2026-07-24 12:13 |
+| Cuesta Partners | AI Solutions Architect \| US | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=96a29f61f02164cc) | 2026-07-24 12:13 |
+| nan | Senior Systems & Backend Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=844436f2f472f5b1) | 2026-07-24 12:13 |
+| Hewlett Packard Enterprise \| HPE | Senior AI Driven Test Automation Architect | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4dccf85cb629f63b) | 2026-07-24 12:13 |
+| JPMorganChase | Data Engineer III - (Pyspark/databricks/Mongo/Sql/Python) | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=820ae5b00199f1e8) | 2026-07-24 12:13 |
 | First Citizens Bank | Data Engineer II | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=34ac40ad9509eb3e) | 2026-07-24 10:54 |
-| Cuesta Partners | AI Solutions Architect \| US | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=96a29f61f02164cc) | 2026-07-24 10:54 |
 | One Call | Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=454dc6c270b9d674) | 2026-07-24 10:54 |
 | Oregon Health & Science University | Clinical Data Engineer (Application Engineer) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4baa56a62cb41945) | 2026-07-24 10:54 |
 | JPMorganChase | Software Engineer III - Frontend, Monday.com, AWS | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e21285074de6c55) | 2026-07-24 10:54 |
 | Visa | SW Engineer - Sr. Consultant level | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9957a07b3110fb6) | 2026-07-24 10:54 |
 | JPMorganChase | Software Engineer II (Python/Java/AWS/Pyspark) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=175150f6472dcabf) | 2026-07-24 10:54 |
 | Hackensack Meridian Health | IT Cloud Architect | Iselin, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c748d45f480e02e9) | 2026-07-24 10:54 |
-| Hewlett Packard Enterprise \| HPE | Senior AI Driven Test Automation Architect | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4dccf85cb629f63b) | 2026-07-24 10:54 |
 | NTT DATA | Senior AI DevOps Engineer (AI Ops / Platform Engineering) (Hybrid) | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=179f845817d9c394) | 2026-07-24 08:08 |
 | Cisco | Software Engineerâ€“ Full Stack | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=845b1ae798305d08) | 2026-07-24 08:08 |
 | FFF Enterprises | Senior Software Developer, Automation | Temecula, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=36278831392884e9) | 2026-07-24 08:08 |
@@ -751,7 +755,6 @@ Last updated: 2026-07-24 10:54
 | American Red Cross | Business Intelligence Architect | OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b3d5c88d17dccb4) | 2026-07-20 17:23 |
 | Health Data Analytics Institute | Senior Software Engineer Backend Systems | Dedham, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=620bf1fdfb70a395) | 2026-07-20 17:23 |
 | Citizens | Software Engineer II | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=69fdb765742c8dbb) | 2026-07-20 17:23 |
-| Qureos | Software Engineer | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad6582003e647074) | 2026-07-20 12:09 |
 
 
 ---
