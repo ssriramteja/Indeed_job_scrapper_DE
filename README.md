@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-25 15:57
+Last updated: 2026-07-25 16:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Medica Services Company LLC | Senior Platform & Integration Engineer (Kafka) | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a1e479ebfe2163b) | 2026-07-25 16:52 |
+| Great Gray Trust Company | Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d12b3ac28ec908f) | 2026-07-25 16:52 |
 | Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bdb09774bada084) | 2026-07-25 15:57 |
-| Medica Services Company LLC | Senior Platform & Integration Engineer (Kafka) | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a1e479ebfe2163b) | 2026-07-25 15:57 |
-| Great Gray Trust Company | Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d12b3ac28ec908f) | 2026-07-25 15:57 |
 | Cactus Wellhead | Cactus Wellhead - Data Engineer & Architect | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=35a580479028c129) | 2026-07-25 09:28 |
 | DC PUBLIC CHARTER SCHOOL BOARD | Data Engineer- Analytics Products | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6722d6963193ac95) | 2026-07-25 07:51 |
 | Unlimited Systems | DevOps Engineer (Hybrid) | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e19d2be5d242f190) | 2026-07-25 07:51 |
@@ -661,11 +661,6 @@ Last updated: 2026-07-25 15:57
 | TaxSlayer | Software Developer | Aiken, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39572bc0cbf1e1ab) | 2026-07-21 18:10 |
 | TaxSlayer | Software Developer | Grovetown, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f96379913f2a0b13) | 2026-07-21 18:10 |
 | Integres, LLC | Database Developer | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cc8d97653729dfa4) | 2026-07-21 18:10 |
-| Teradyne | Software Engineer, New College Graduate, | North Reading, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4a9c723d1fa4a196) | 2026-07-21 16:16 |
-| datAvail | Data Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b02e7a9293c05e9) | 2026-07-21 16:16 |
-| Securiport | Software Engineer - .NET / SES | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e73c19b70ff97730) | 2026-07-21 16:16 |
-| Securiport | Software Engineer - .NET / APIS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8a904215046786df) | 2026-07-21 16:16 |
-| Techfield | Junior Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95557e0528468ca2) | 2026-07-21 16:16 |
 
 
 ---
