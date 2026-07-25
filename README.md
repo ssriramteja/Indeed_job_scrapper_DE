@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-25 20:06
+Last updated: 2026-07-25 21:44
 
 ### 🚀 Daily Job Matches
 
@@ -624,20 +624,6 @@ Last updated: 2026-07-25 20:06
 | Vytalize Health | Platform Engineer, Data Services | KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00036ac2c3d4f673) | 2026-07-21 21:55 |
 | College Board | Senior Full Stack Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78ac72ba3ec01f22) | 2026-07-21 21:55 |
 | Rhodes Financial Services | Software Developer | Augusta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=291d753a3842da49) | 2026-07-21 21:55 |
-| Luxoft | Senior AI Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8438fc0eeeabc119) | 2026-07-21 20:14 |
-| Caterpillar | Software Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1916ff73e89dbf5f) | 2026-07-21 20:14 |
-| American Express | Software Engineer III - Risk Decision Technology | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9cecf643a53b2209) | 2026-07-21 20:14 |
-| Amway | Associate Cloud Data Engineer II | Ada, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ab4ff42758b01e3c) | 2026-07-21 20:14 |
-| State Street | Senior AI Security Automation Engineer | Quincy, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1acc92079f390921) | 2026-07-21 20:14 |
-| Fairlife, LLC | Senior Data Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34038fa38ced9dcd) | 2026-07-21 20:14 |
-| Indigenous Pact PBC | Data Platform & Analytics Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d8deaa38cca423e7) | 2026-07-21 20:14 |
-| Indigenous Pact PBC | Data Platform & Analytics Engineer | San Diego, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1649dc6e6d00bbb) | 2026-07-21 20:14 |
-| Indigenous Pact PBC | Data Platform & Analytics Engineer | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4211cb353fe7a94e) | 2026-07-21 20:14 |
-| Indigenous Pact PBC | Data Platform & Analytics Engineer | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=24f9b2c310f5bfa3) | 2026-07-21 20:14 |
-| Indigenous Pact PBC | Data Platform & Analytics Engineer | Portland, OR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=58f8c703d51d3a40) | 2026-07-21 20:14 |
-| Salesforce | Software Engineer, MTS, Enterprise Security, Identity & Access Management | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08079db08d267e47) | 2026-07-21 20:14 |
-| Wpromote, LLC | Reporting Solutions Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1cad2ebf6af99a7d) | 2026-07-21 20:14 |
-| Databricks | Sr. Solutions Architect - Public Sector (SLED) | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=deaebb012d17a528) | 2026-07-21 20:14 |
 
 
 ---
