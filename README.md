@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-25 21:44
+Last updated: 2026-07-25 22:43
 
 ### 🚀 Daily Job Matches
 
@@ -607,23 +607,6 @@ Last updated: 2026-07-25 21:44
 | nan | Power BI Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f950c716669dfe8d) | 2026-07-21 22:46 |
 | University of Idaho | Data Engineer | Moscow, ID, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c2714c15bcc60033) | 2026-07-21 22:46 |
 | Pearson | Advanced Specialist, Data Engineering | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d1ad3be6df1730a) | 2026-07-21 22:46 |
-| Sedgwick | Data Engineer | TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0c782baa6dabb867) | 2026-07-21 21:55 |
-| Sedgwick | Data Engineer | TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=377853022880bb36) | 2026-07-21 21:55 |
-| Sedgwick | Data Engineer | TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f2003e26eeb22b6c) | 2026-07-21 21:55 |
-| Element 84 | Senior DevOps Engineer (NOAA badge required) | Alexandria, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=034929104db4d3fc) | 2026-07-21 21:55 |
-| nan | .Net Engineer-Data Engineering | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=90c0e5d8f944baf1) | 2026-07-21 21:55 |
-| Leidos | Cybersecurity Engineer | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=baa14defff29cc46) | 2026-07-21 21:55 |
-| Onebridge | AWS Devops Cloud Engineer | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9b690190bc20de39) | 2026-07-21 21:55 |
-| Securiport | Software Engineer - .NET / APIS | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3893b067061f946) | 2026-07-21 21:55 |
-| Securiport | Software Engineer - .NET / SES | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=93ea5f1fa5709b99) | 2026-07-21 21:55 |
-| Betis Group, Inc. | DBHDS - SQL Database Administrator | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b671e1c355c84c5) | 2026-07-21 21:55 |
-| Ubiety | Senior Backend Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fd4531981abb3e6) | 2026-07-21 21:55 |
-| Databricks | Solutions Architect - Public Sector (SLED) | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9d898f82946c9db3) | 2026-07-21 21:55 |
-| We Write Code | Platform Engineer | Des Moines, IA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0821497679584e2d) | 2026-07-21 21:55 |
-| Unum | Site Reliability Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04a647a34b37a72a) | 2026-07-21 21:55 |
-| Vytalize Health | Platform Engineer, Data Services | KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=00036ac2c3d4f673) | 2026-07-21 21:55 |
-| College Board | Senior Full Stack Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78ac72ba3ec01f22) | 2026-07-21 21:55 |
-| Rhodes Financial Services | Software Developer | Augusta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=291d753a3842da49) | 2026-07-21 21:55 |
 
 
 ---
