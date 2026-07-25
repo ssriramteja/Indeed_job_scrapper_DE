@@ -1,18 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-25 07:51
+Last updated: 2026-07-25 09:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cactus Wellhead | Cactus Wellhead - Data Engineer & Architect | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=35a580479028c129) | 2026-07-25 09:28 |
+| Medica Services Company LLC | Senior Platform & Integration Engineer (Kafka) | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a1e479ebfe2163b) | 2026-07-25 09:28 |
+| Great Gray Trust Company | Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d12b3ac28ec908f) | 2026-07-25 09:28 |
 | DC PUBLIC CHARTER SCHOOL BOARD | Data Engineer- Analytics Products | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6722d6963193ac95) | 2026-07-25 07:51 |
 | Unlimited Systems | DevOps Engineer (Hybrid) | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e19d2be5d242f190) | 2026-07-25 07:51 |
 | CrowdStrike | Sr. Software Engineer, Cloud - Analytics Platform | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ec75113b2386de94) | 2026-07-25 07:51 |
-| Medica Services Company LLC | Senior Platform & Integration Engineer (Kafka) | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a1e479ebfe2163b) | 2026-07-25 07:51 |
 | Glint Tech Solutions | Senior Java Developer with AI Experience | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c1f24944a225af1c) | 2026-07-25 07:51 |
 | Abbott | Senior Platform Engineer | Alameda, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fb76cbe4b5a98afe) | 2026-07-25 07:51 |
-| Great Gray Trust Company | Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d12b3ac28ec908f) | 2026-07-25 07:51 |
 | Inadev Corporation | Data Engineer | US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=c81a4ee6ef1c78d4) | 2026-07-25 05:35 |
 | Lovesac | Sr. Engineer, Data & Analytics | CT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2d666b2674d51e46) | 2026-07-25 05:35 |
 | Gradera | Data Scientist | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0f26c60aecfc298d) | 2026-07-25 05:35 |
@@ -674,14 +675,6 @@ Last updated: 2026-07-25 07:51
 | State of Minnesota - Minnesota IT Services | Senior Data Engineer - ITS4 | Saint Paul, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1054e208948fd6fb) | 2026-07-21 10:57 |
 | Newpage Digital Healthcare solutions | AI Native Developer- EST | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37e94025d78d00b3) | 2026-07-21 10:57 |
 | MetLife | Data Engineer I | Bridgewater, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=786fbdb63698b11b) | 2026-07-21 10:57 |
-| VeeRteq Solutions Inc. | Azure Databricks Architect Healthcare Payer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5652d49391bd82a2) | 2026-07-21 08:09 |
-| VeeRteq Solutions Inc. | Data Modeler | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=99058f5a757f5431) | 2026-07-21 08:09 |
-| State Street | Senior AI Security Automation Engineer | Quincy, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1063ffb870d53611) | 2026-07-21 08:09 |
-| PNC Financial Services Group | Senior Solution Architect - Java/J2EE | Farmers Branch, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3a23b5c57a47b265) | 2026-07-21 08:09 |
-| PNC Financial Services Group | Software Architect - Java/Spring Boot/Kafka | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f929c4ac83ec17b7) | 2026-07-21 08:09 |
-| U.S. Bank | Senior Software Engineer - Full Stack | Hopkins, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=caea23a7afe82982) | 2026-07-21 08:09 |
-| U.S. Bank | Senior Software Engineer - Full Stack | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2c6c9dc97e7a8c55) | 2026-07-21 08:09 |
-| U.S. Bank | Senior Software Engineer - Full Stack | Brookfield, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=97ef6349d26627c1) | 2026-07-21 08:09 |
 
 
 ---
