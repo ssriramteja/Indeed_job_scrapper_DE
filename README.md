@@ -1,13 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-25 17:52
+Last updated: 2026-07-25 18:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Medica Services Company LLC | Senior Platform & Integration Engineer (Kafka) | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a1e479ebfe2163b) | 2026-07-25 17:52 |
-| Great Gray Trust Company | Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d12b3ac28ec908f) | 2026-07-25 17:52 |
+| Centurion Consulting Group | Mulesoft Developer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08f9a00d6c95207e) | 2026-07-25 18:54 |
 | nan | Backend Python Engineer | California City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8ab8761ac03ae1e) | 2026-07-25 17:52 |
 | Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bdb09774bada084) | 2026-07-25 15:57 |
 | Cactus Wellhead | Cactus Wellhead - Data Engineer & Architect | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=35a580479028c129) | 2026-07-25 09:28 |
@@ -639,29 +638,6 @@ Last updated: 2026-07-25 17:52
 | Salesforce | Software Engineer, MTS, Enterprise Security, Identity & Access Management | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08079db08d267e47) | 2026-07-21 20:14 |
 | Wpromote, LLC | Reporting Solutions Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1cad2ebf6af99a7d) | 2026-07-21 20:14 |
 | Databricks | Sr. Solutions Architect - Public Sector (SLED) | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=deaebb012d17a528) | 2026-07-21 20:14 |
-| National Information Solutions Cooperative (NISC) | Software Developer II - Meter Data Management Software (Full Stack, Databricks) | Bismarck, ND, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=09a0c773ba869ab2) | 2026-07-21 18:10 |
-| National Information Solutions Cooperative (NISC) | Software Developer II - Meter Data Management Software (Full Stack, Databricks) | Cedar Rapids, IA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=33143989f3362efb) | 2026-07-21 18:10 |
-| National Information Solutions Cooperative (NISC) | Software Developer II - Meter Data Management Software (Full Stack, Databricks) | Lake Saint Louis, MO, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=0b784c8205aa1d58) | 2026-07-21 18:10 |
-| Broadridge | Sr. Software Engineer (AWS / Java / Node.js / Python) CONTRACT | Edgewood, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=98d7e7ab4a96ab08) | 2026-07-21 18:10 |
-| Neo4j | Senior AI Solutions Architect | San Mateo, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0dbb073f20120e13) | 2026-07-21 18:10 |
-| LTM Limited | Specialist - Data Engineering | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55c8d9fe21fbf89b) | 2026-07-21 18:10 |
-| Mastronardi Produce | Cloud DevOps Engineer | Livonia, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7fa1ca8e2ddf6df8) | 2026-07-21 18:10 |
-| Availity, LLC. | Application Support Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b138daabe966037) | 2026-07-21 18:10 |
-| Mindex | Data Engineer (Azure & Snowflake) - Remote | PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=329cdc7ca8132e90) | 2026-07-21 18:10 |
-| Mindex | Data Engineer (Azure & Snowflake) - Remote | MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7a4ebf0e5f5c11c0) | 2026-07-21 18:10 |
-| Mindex | Data Engineer (Azure & Snowflake) - Remote | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7c6a06a8d28780bf) | 2026-07-21 18:10 |
-| Mindex | Data Engineer (Azure & Snowflake) - Remote | Rochester, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd6304cc9580794e) | 2026-07-21 18:10 |
-| Lennar | Sr Cloud Engineer | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0b237d7cb0a351b) | 2026-07-21 18:10 |
-| Unity Technologies | Senior Software Engineer | Mountain View, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=652b63d35a6266a3) | 2026-07-21 18:10 |
-| Micron Technology | Full-Stack AI Engineer | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb2b319c05d2be3e) | 2026-07-21 18:10 |
-| Centillion Infotech LLC | Sr Datawarehouse Architect for New York City NY | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a11b6e886c2b743d) | 2026-07-21 18:10 |
-| TaxSlayer | Software Developer | Augusta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e38ede1f1c848056) | 2026-07-21 18:10 |
-| TaxSlayer | Software Developer | Evans, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9cec52a87c2914b) | 2026-07-21 18:10 |
-| TaxSlayer | Software Developer | North Augusta, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1f84a2d5bc189bc0) | 2026-07-21 18:10 |
-| TaxSlayer | Software Developer | Augusta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9540e403cb0fe0bc) | 2026-07-21 18:10 |
-| TaxSlayer | Software Developer | Aiken, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39572bc0cbf1e1ab) | 2026-07-21 18:10 |
-| TaxSlayer | Software Developer | Grovetown, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f96379913f2a0b13) | 2026-07-21 18:10 |
-| Integres, LLC | Database Developer | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cc8d97653729dfa4) | 2026-07-21 18:10 |
 
 
 ---
