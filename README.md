@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-25 05:35
+Last updated: 2026-07-25 07:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| DC PUBLIC CHARTER SCHOOL BOARD | Data Engineer- Analytics Products | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6722d6963193ac95) | 2026-07-25 07:51 |
+| Unlimited Systems | DevOps Engineer (Hybrid) | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e19d2be5d242f190) | 2026-07-25 07:51 |
+| CrowdStrike | Sr. Software Engineer, Cloud - Analytics Platform | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ec75113b2386de94) | 2026-07-25 07:51 |
+| Medica Services Company LLC | Senior Platform & Integration Engineer (Kafka) | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a1e479ebfe2163b) | 2026-07-25 07:51 |
+| Glint Tech Solutions | Senior Java Developer with AI Experience | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c1f24944a225af1c) | 2026-07-25 07:51 |
+| Abbott | Senior Platform Engineer | Alameda, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fb76cbe4b5a98afe) | 2026-07-25 07:51 |
+| Great Gray Trust Company | Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d12b3ac28ec908f) | 2026-07-25 07:51 |
 | Inadev Corporation | Data Engineer | US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=c81a4ee6ef1c78d4) | 2026-07-25 05:35 |
 | Lovesac | Sr. Engineer, Data & Analytics | CT, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2d666b2674d51e46) | 2026-07-25 05:35 |
 | Gradera | Data Scientist | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0f26c60aecfc298d) | 2026-07-25 05:35 |
@@ -16,7 +23,6 @@ Last updated: 2026-07-25 05:35
 | Capgemini | Senior Data Scientist | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ac326e94203a756e) | 2026-07-25 05:35 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b73563a16146db3) | 2026-07-25 05:35 |
 | Liquidity Services, Inc. | Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=faf4368f99c56fa7) | 2026-07-25 05:35 |
-| Medica Services Company LLC | Senior Platform & Integration Engineer (Kafka) | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a1e479ebfe2163b) | 2026-07-25 05:35 |
 | C.H. Robinson | Senior Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=096cfd68dbda7a1a) | 2026-07-25 05:35 |
 | Ingram Micro | Senior Agentic AI Engineer | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1fbe4faecbcb6e49) | 2026-07-25 05:35 |
 | Deloitte | AWS & Databricks Platform Architect | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=54ffcf229826c509) | 2026-07-25 05:35 |
@@ -27,7 +33,6 @@ Last updated: 2026-07-25 05:35
 | Deloitte | Applied AI Engineer II - Encore Program | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7afb773581c3b4c0) | 2026-07-25 05:35 |
 | Deloitte | Applied AI Engineer II - Encore Program | Hermitage, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=95650589278c6f55) | 2026-07-25 05:35 |
 | Deloitte | Applied AI Engineer II - Encore Program | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2f93e37daf3e792) | 2026-07-25 05:35 |
-| Great Gray Trust Company | Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d12b3ac28ec908f) | 2026-07-25 05:35 |
 | JPMorganChase | Software Engineer III-Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=097f3e8cd3b1164b) | 2026-07-25 02:02 |
 | Smile Digital Health | Senior DataOps Engineer ( Remote US) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b9cf29eaf2fb3e62) | 2026-07-25 02:02 |
 | Pantherx Specialty Llc | Senior Data Engineer (33142) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=614b737b604716f8) | 2026-07-25 02:02 |
