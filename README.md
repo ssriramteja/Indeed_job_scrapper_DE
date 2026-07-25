@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-25 22:43
+Last updated: 2026-07-25 23:52
 
 ### 🚀 Daily Job Matches
 
@@ -589,24 +589,6 @@ Last updated: 2026-07-25 22:43
 | JPMorganChase | Software Engineer III - Python/PySpark/Databricks/AWS | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=057666b67f419a52) | 2026-07-22 01:47 |
 | Dell Technologies | Sr. Consultant Machine Learning & Knowledge Graph Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97f00350dc1cf2cb) | 2026-07-22 01:47 |
 | Fooda | Senior DevOps Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d47b872c6cd26d11) | 2026-07-22 01:47 |
-| Deltek | Sr Data Engineer | Herndon, VA, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=2bf953a2c9ee5bf5) | 2026-07-21 23:49 |
-| Deltek | Sr Data Engineer | Herndon, VA, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=9bc6276c79dcfd60) | 2026-07-21 23:49 |
-| Dominion Energy | Data Engineer (RICHMOND, VA, US, 23219) | Richmond, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=78b18ba5356fc564) | 2026-07-21 23:49 |
-| GE HealthCare | Research Engineer II - ML Ops | Cleveland, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=03cffd0794f9ae1f) | 2026-07-21 23:49 |
-| J&T Business Consulting | Senior Data Science Engineer (With TS/SCI Clearance and a current Full Scope Poly) | Annapolis Junction, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=439377efddb3496b) | 2026-07-21 23:49 |
-| Caris Life Sciences | Senior DevOps Engineer (EKS/Kubernetes) | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0028549706f10f55) | 2026-07-21 23:49 |
-| NRG Energy | Data Science Analyst - Agentic AI Developer | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e70aff22bb7641b9) | 2026-07-21 23:49 |
-| iSynergy Information Technologies | Senior Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21910689207bf63d) | 2026-07-21 23:49 |
-| CCC Intelligent Solutions | Senior Cloud Engineer - Azure | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4665edec79f4e66b) | 2026-07-21 23:49 |
-| VeeRteq Solutions Inc. | AI Architect | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8574e7ed96b2d014) | 2026-07-21 23:49 |
-| Mears Group Inc | Senior Software Engineer – AI Applications | Englewood, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c131dea7fda0b9ad) | 2026-07-21 23:49 |
-| Deltek | Software Engineer | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3118e1ec3a525992) | 2026-07-21 23:49 |
-| Sinclair Broadcast Group | Contract Associate Development Engineer | Hunt Valley, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7da459b7e5a5519) | 2026-07-21 23:49 |
-| Scicom Infrastructure Services | Databricks Data Operations Specialist | Atlanta, GA, US USA | 28.5% | [Apply](https://www.indeed.com/viewjob?jk=d63447d1670f0092) | 2026-07-21 22:46 |
-| Scicom Infrastructure Services | Databricks Data Engineer / Business Analyst – Data Contracts & OCDS | Atlanta, GA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=da10e92c3ddc831a) | 2026-07-21 22:46 |
-| nan | Power BI Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f950c716669dfe8d) | 2026-07-21 22:46 |
-| University of Idaho | Data Engineer | Moscow, ID, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c2714c15bcc60033) | 2026-07-21 22:46 |
-| Pearson | Advanced Specialist, Data Engineering | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d1ad3be6df1730a) | 2026-07-21 22:46 |
 
 
 ---
