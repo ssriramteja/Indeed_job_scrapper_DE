@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-25 11:02
+Last updated: 2026-07-25 13:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Medica Services Company LLC | Senior Platform & Integration Engineer (Kafka) | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a1e479ebfe2163b) | 2026-07-25 11:02 |
-| Great Gray Trust Company | Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d12b3ac28ec908f) | 2026-07-25 11:02 |
+| Medica Services Company LLC | Senior Platform & Integration Engineer (Kafka) | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a1e479ebfe2163b) | 2026-07-25 13:02 |
+| Great Gray Trust Company | Data Scientist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d12b3ac28ec908f) | 2026-07-25 13:02 |
 | Cactus Wellhead | Cactus Wellhead - Data Engineer & Architect | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=35a580479028c129) | 2026-07-25 09:28 |
 | DC PUBLIC CHARTER SCHOOL BOARD | Data Engineer- Analytics Products | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6722d6963193ac95) | 2026-07-25 07:51 |
 | Unlimited Systems | DevOps Engineer (Hybrid) | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e19d2be5d242f190) | 2026-07-25 07:51 |
@@ -668,9 +668,6 @@ Last updated: 2026-07-25 11:02
 | ARANGO | Customer Solution Architect — Arango AI Product Suite | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=632508141e5e7e23) | 2026-07-21 14:56 |
 | Pfizer | Senior Snowflake Platform Engineer | Groton, CT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c5ad590ea8a95921) | 2026-07-21 14:56 |
 | Traackr | Software Engineer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=df567011cf662897) | 2026-07-21 14:56 |
-| SpyCloud | Security Data Analyst - Parsing | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=589dd47eef0f8740) | 2026-07-21 12:20 |
-| Equifax | Generative AI Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4413ec7a4b00d4ae) | 2026-07-21 12:20 |
-| Equifax | Generative AI Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3e48a5b4af545b7e) | 2026-07-21 12:20 |
 
 
 ---
