@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-26 11:55
+Last updated: 2026-07-26 12:59
 
 ### 🚀 Daily Job Matches
 
@@ -540,9 +540,6 @@ Last updated: 2026-07-26 11:55
 | CVS Health | Senior Full Stack Software Development Engineer | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40345fd55a9efbda) | 2026-07-22 14:57 |
 | Allstate Insurance | Managing Engineer – (Software Development/Container Workloads) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bebc36460aaeb195) | 2026-07-22 14:57 |
 | Cerebras Systems | Software Architect – Manufacturing Test | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6bf1f8056f21747) | 2026-07-22 14:57 |
-| Ai Vantage | Data Engineer | Vienna, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee377598f848d9cc) | 2026-07-22 12:22 |
-| Expleo Group | Database Developer | Saint Paul, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=43b6a924924be72b) | 2026-07-22 12:22 |
-| CalAmp | Software Engineer III | Carlsbad, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d50e5d82f58dbed7) | 2026-07-22 12:22 |
 
 
 ---
