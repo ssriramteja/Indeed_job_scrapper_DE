@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-26 01:53
+Last updated: 2026-07-26 05:23
 
 ### 🚀 Daily Job Matches
 
@@ -557,31 +557,6 @@ Last updated: 2026-07-26 01:53
 | JPMorganChase | Software Engineer III (Java/Spring/SQL) | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2acea18330940b12) | 2026-07-22 07:35 |
 | JPMorganChase | Cloud Infrastructure/DevOps Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f59c82228d31cc82) | 2026-07-22 07:35 |
 | JPMorganChase | Data Engineer III - (Pyspark/databricks/Mongo/Sql/Python) | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1eb4970ab969926f) | 2026-07-22 07:35 |
-| University of Texas at Austin | Data Engineer I | Austin, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=acd667536ab6444e) | 2026-07-22 05:00 |
-| Niagara Bottling | Machine Learning Engineer II | Diamond Bar, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ee6929ba2eeed1b8) | 2026-07-22 05:00 |
-| Sedgwick | Data Engineer | TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=95ed4554e9125c0a) | 2026-07-22 05:00 |
-| nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4a29827250f0150e) | 2026-07-22 05:00 |
-| nan | Senior Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e3fddfc784d8dfed) | 2026-07-22 05:00 |
-| Smart Tech Skills LLC | Senior AWS Developer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cea3b78846f75e27) | 2026-07-22 05:00 |
-| Qualcomm | Senior Full Stack Software Engineer – CAD Infrastructure Team | Folsom, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=524c59d936a754bb) | 2026-07-22 05:00 |
-| Qualcomm | Senior Full Stack Software Engineer – CAD Infrastructure Team | Santa Clara, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7b12976fb7bd11e7) | 2026-07-22 05:00 |
-| Benzinga | AI Machine Learning Engineer (AI / ML: Python / Go) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a52f044b0c00d9c9) | 2026-07-22 05:00 |
-| Neo4j | Senior AI Solutions Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d770528059fec1c4) | 2026-07-22 05:00 |
-| Fidelity TalentSource | Data Modeler | Westlake, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5ab41d77344b564f) | 2026-07-22 05:00 |
-| nan | AI Engineer | Davie, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7024b9745320678f) | 2026-07-22 05:00 |
-| American Association of Insurance Services | Master Data Management (MDM) Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3b76ba73da353aba) | 2026-07-22 05:00 |
-| Releady | Data Engineer, Senior (Hybrid) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ac8907849bb6de65) | 2026-07-22 05:00 |
-| Releady | Data Engineer, Senior | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=407523eff2e48c9e) | 2026-07-22 05:00 |
-| Kiewit Corporation | Sr. Software Engineer | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71ff5fe15d7d351d) | 2026-07-22 05:00 |
-| Goldman Sachs | Risk-Salt Lake City-Associate-Software Engineering | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1772c65621fbfa6e) | 2026-07-22 05:00 |
-| Paylocity | Senior Security Architect(AI) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae65b3d4f08cae09) | 2026-07-22 05:00 |
-| nan | Senior AI Engineer / AI Software Engineer | San Francisco Bay Area, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45dbfc4cd100a9e9) | 2026-07-22 05:00 |
-| nan | Senior AI Engineer / AI Software Engineer | San Francisco Bay Area, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1a6af3bda05e023a) | 2026-07-22 05:00 |
-| nan | Senior AI Engineer / AI Software Engineer | San Francisco Bay Area, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69c77cc5b5195f78) | 2026-07-22 05:00 |
-| nan | Senior AI Engineer / AI Software Engineer | San Francisco Bay Area, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9091b30f2387d253) | 2026-07-22 05:00 |
-| Nashville Predators | Data Engineer, Business Strategy & Analytics | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ea74b45c1bfb0ad) | 2026-07-22 05:00 |
-| Kiewit Corporation | Software Engineer II - MCP Development | Lenexa, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=466a34b0501dbfe6) | 2026-07-22 05:00 |
-| Onebridge | Security Automation Engineer (Python) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b78cc285cf07730) | 2026-07-22 05:00 |
 
 
 ---
