@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-26 15:55
+Last updated: 2026-07-26 16:48
 
 ### 🚀 Daily Job Matches
 
@@ -436,9 +436,6 @@ Last updated: 2026-07-26 15:55
 | Mercedes-Benz Group | IT Data Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7d9b00ff42cf98f0) | 2026-07-22 18:02 |
 | Green Courte Residential Holdings | Data Engineer (Backend Python Development) | Clearwater, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8581636bcd3b21c7) | 2026-07-22 18:02 |
 | ConsumerAffairs | AI Native, Tech Ops Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a04a08795fba7ff8) | 2026-07-22 18:02 |
-| NTT DATA | AI Ops / DevOps Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d7c47ddb67ad7812) | 2026-07-22 16:17 |
-| Anthropic | [C] Data Engineer, Safeguards | San Francisco, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=623cec7f1ca0a4a6) | 2026-07-22 16:17 |
-| Five Below | Solutions Architect - AI | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1663c481c335933) | 2026-07-22 16:17 |
 
 
 ---
