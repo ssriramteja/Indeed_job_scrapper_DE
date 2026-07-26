@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-26 22:51
+Last updated: 2026-07-26 23:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| True Religion Brand Jeans | Senior Software Developer | El Segundo, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d25577e9f3e1876) | 2026-07-26 23:52 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f495df65f464e1ae) | 2026-07-26 21:50 |
 | ValueBase Consulting | Sr Java Enterprise Architect in Irvine, CA | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cf9f970e709cc18a) | 2026-07-26 17:55 |
 | Protagona | Cloud Software Engineer - Egypt | Egypt, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a89355d34c2e7d21) | 2026-07-26 14:36 |
@@ -392,10 +393,6 @@ Last updated: 2026-07-26 22:51
 | Capgemini | Senior ETL Developer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=211d3a103ab1d78e) | 2026-07-23 00:00 |
 | Cadence Design Systems | Cloud Security Operations Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e5fdfed8670f70b) | 2026-07-23 00:00 |
 | Evercommerce | EverHealth - Software Engineer (Remote, US) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=964a319d38182888) | 2026-07-23 00:00 |
-| Vision Radiology | Sr. Data Engineer (Remote) | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ea77e5dc301d8192) | 2026-07-22 22:59 |
-| sssssss | Engineer | Hillsboro, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24dde647fb9dfea1) | 2026-07-22 22:59 |
-| Zoom Communications | DevOps Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b184430c41a2294c) | 2026-07-22 22:59 |
-| United Power | Data Engineer I-II | Brighton, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d42cdf36323593a) | 2026-07-22 22:59 |
 
 
 ---
