@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-26
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Data Engineer @ Cargill
+## 2. Cloud Software Engineer - Egypt @ Protagona
+**Match Score:** 17.4%
+
+📍 **Location:** Egypt, AR, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, API Gateway, ECS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a89355d34c2e7d21)
+
+---
+
+## 3. Senior QA Engineer - Egypt @ Protagona
+**Match Score:** 14.6%
+
+📍 **Location:** Egypt, AR, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, Redshift, Step Functions, S3, Scala, ETL, ELT, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fb073c25dabf3264)
+
+---
+
+## 4. Data Engineer @ Cargill
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -27,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Mulesoft Developer @ Centurion Consulting Group
+## 5. Mulesoft Developer @ Centurion Consulting Group
 **Match Score:** 11.1%
 
 📍 **Location:** McLean, VA, US USA
@@ -38,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Backend Python Engineer @ nan
+## 6. Backend Python Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** California City, CA, US USA

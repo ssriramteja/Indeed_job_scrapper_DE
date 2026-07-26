@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-26 12:59
+Last updated: 2026-07-26 14:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Protagona | Cloud Software Engineer - Egypt | Egypt, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a89355d34c2e7d21) | 2026-07-26 14:36 |
+| Protagona | Senior QA Engineer - Egypt | Egypt, AR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb073c25dabf3264) | 2026-07-26 14:36 |
 | 3Pillar Global | AI Data Architect | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=4b2cc185aab9474c) | 2026-07-26 01:53 |
 | Centurion Consulting Group | Mulesoft Developer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08f9a00d6c95207e) | 2026-07-25 18:54 |
 | nan | Backend Python Engineer | California City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8ab8761ac03ae1e) | 2026-07-25 17:52 |
