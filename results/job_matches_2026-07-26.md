@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-26
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,18 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Data Engineer @ Cargill
-**Match Score:** 11.8%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** AWS, Glue, Azure, GCP, Spark, Scala, Kafka, Data Modeling, dbt, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4bdb09774bada084)
-
----
-
-## 5. Mulesoft Developer @ Centurion Consulting Group
+## 4. Mulesoft Developer @ Centurion Consulting Group
 **Match Score:** 11.1%
 
 📍 **Location:** McLean, VA, US USA
@@ -57,17 +46,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, ECS, RDS, Azure, GCP, Scala, Kafka, CI/CD, Jenkins, Maven
 
 [Apply Here](https://www.indeed.com/viewjob?jk=08f9a00d6c95207e)
-
----
-
-## 6. Backend Python Engineer @ nan
-**Match Score:** 10.4%
-
-📍 **Location:** California City, CA, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, SQL Server, PostgreSQL, MySQL, MongoDB, NoSQL, CI/CD, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a8ab8761ac03ae1e)
 
 ---
 
