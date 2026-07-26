@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-26
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -46,17 +46,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, S3, API Gateway, ECS, RDS, Scala, Kafka, Oracle, PostgreSQL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=cf9f970e709cc18a)
-
----
-
-## 5. Mulesoft Developer @ Centurion Consulting Group
-**Match Score:** 11.1%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** AWS, ECS, RDS, Azure, GCP, Scala, Kafka, CI/CD, Jenkins, Maven
-
-[Apply Here](https://www.indeed.com/viewjob?jk=08f9a00d6c95207e)
 
 ---
 

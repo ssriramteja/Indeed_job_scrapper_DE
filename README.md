@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-26 17:55
+Last updated: 2026-07-26 18:57
 
 ### 🚀 Daily Job Matches
 
@@ -434,9 +434,6 @@ Last updated: 2026-07-26 17:55
 | Databricks | Sr. Forward Deployed Engineer-Retail | Central, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3bec0ebeeca3759) | 2026-07-22 20:07 |
 | Databricks | Sr. Solutions Architect - Digital Native Business, Strategics | NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=905e4e31b6a4eb13) | 2026-07-22 20:07 |
 | Databricks | Sr. Forward Deployed Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ec4d249ca819f87) | 2026-07-22 20:07 |
-| Mercedes-Benz Group | IT Data Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7d9b00ff42cf98f0) | 2026-07-22 18:02 |
-| Green Courte Residential Holdings | Data Engineer (Backend Python Development) | Clearwater, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8581636bcd3b21c7) | 2026-07-22 18:02 |
-| ConsumerAffairs | AI Native, Tech Ops Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a04a08795fba7ff8) | 2026-07-22 18:02 |
 
 
 ---
