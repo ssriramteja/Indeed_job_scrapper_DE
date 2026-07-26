@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-26 08:09
+Last updated: 2026-07-26 10:29
 
 ### 🚀 Daily Job Matches
 
@@ -543,16 +543,6 @@ Last updated: 2026-07-26 08:09
 | Ai Vantage | Data Engineer | Vienna, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee377598f848d9cc) | 2026-07-22 12:22 |
 | Expleo Group | Database Developer | Saint Paul, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=43b6a924924be72b) | 2026-07-22 12:22 |
 | CalAmp | Software Engineer III | Carlsbad, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d50e5d82f58dbed7) | 2026-07-22 12:22 |
-| WIS International | Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=8f5e10429558c3d9) | 2026-07-22 10:15 |
-| Left Field Labs | Senior Backend Software Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=97efab58cd263135) | 2026-07-22 10:15 |
-| Jabil | Programmer Analyst III | Saint Petersburg, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9d2473aefc906ea6) | 2026-07-22 10:15 |
-| Optum | Sr Data Engineer | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=306b6fefd175d426) | 2026-07-22 10:15 |
-| Total Wine & More | Sr. Analytics Engineer | Bethesda, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e0ea90716b5e5176) | 2026-07-22 10:15 |
-| EchoStar | Senior Data Scientist | Littleton, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=34ccee570c0b2629) | 2026-07-22 10:15 |
-| Marathon Health | Software Engineer | Pearl City, HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20a0e05716125fb7) | 2026-07-22 10:15 |
-| Marathon Health | Software Engineer | Pearl City, HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c02a271654e63003) | 2026-07-22 10:15 |
-| Enlyte | Junior Full Stack .NET Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=47735df267dc44af) | 2026-07-22 10:15 |
-| Vinik Sports Group | Sr. Software Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d085c6d211bbf396) | 2026-07-22 10:15 |
 
 
 ---
