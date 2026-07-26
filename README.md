@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-25 23:52
+Last updated: 2026-07-26 01:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3Pillar Global | AI Data Architect | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=4b2cc185aab9474c) | 2026-07-26 01:53 |
 | Centurion Consulting Group | Mulesoft Developer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08f9a00d6c95207e) | 2026-07-25 18:54 |
 | nan | Backend Python Engineer | California City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8ab8761ac03ae1e) | 2026-07-25 17:52 |
 | Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bdb09774bada084) | 2026-07-25 15:57 |
@@ -581,14 +582,6 @@ Last updated: 2026-07-25 23:52
 | Nashville Predators | Data Engineer, Business Strategy & Analytics | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ea74b45c1bfb0ad) | 2026-07-22 05:00 |
 | Kiewit Corporation | Software Engineer II - MCP Development | Lenexa, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=466a34b0501dbfe6) | 2026-07-22 05:00 |
 | Onebridge | Security Automation Engineer (Python) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b78cc285cf07730) | 2026-07-22 05:00 |
-| TECHSTRA SOLUTIONS | Databricks Engineer | Pittsburgh, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f6cb2faf83c978e0) | 2026-07-22 01:47 |
-| Left Field Labs | Senior Software Engineer, Backend | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e15a7800e885fb97) | 2026-07-22 01:47 |
-| MedVet | Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=eaf547f655867771) | 2026-07-22 01:47 |
-| L.A. Care Health Plan | Enterprise Architect Integration Engineer II | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f999b434638c38c3) | 2026-07-22 01:47 |
-| JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91e7dfe61ee7b587) | 2026-07-22 01:47 |
-| JPMorganChase | Software Engineer III - Python/PySpark/Databricks/AWS | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=057666b67f419a52) | 2026-07-22 01:47 |
-| Dell Technologies | Sr. Consultant Machine Learning & Knowledge Graph Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97f00350dc1cf2cb) | 2026-07-22 01:47 |
-| Fooda | Senior DevOps Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d47b872c6cd26d11) | 2026-07-22 01:47 |
 
 
 ---
