@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-26 21:50
+Last updated: 2026-07-26 22:51
 
 ### 🚀 Daily Job Matches
 
@@ -396,27 +396,6 @@ Last updated: 2026-07-26 21:50
 | sssssss | Engineer | Hillsboro, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24dde647fb9dfea1) | 2026-07-22 22:59 |
 | Zoom Communications | DevOps Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b184430c41a2294c) | 2026-07-22 22:59 |
 | United Power | Data Engineer I-II | Brighton, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d42cdf36323593a) | 2026-07-22 22:59 |
-| Otomeshan technology | Java Backend Developer | New York, NY, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=05dceb327eaee169) | 2026-07-22 21:58 |
-| Conduit services | Data Engineer | Houston, TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=1ff1b649e399da37) | 2026-07-22 21:58 |
-| Legrand | Azure Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4981bd5c543f4424) | 2026-07-22 21:58 |
-| LSEG (London Stock Exchange Group) | Site Reliability Engineer | St. Louis, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1c4e902c4bf7accf) | 2026-07-22 21:58 |
-| SANTEE COOPER | DATA SCIENTIST | Moncks Corner, SC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5384d191c57a074d) | 2026-07-22 21:58 |
-| Risepoint | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=87068c1cc4a7e538) | 2026-07-22 21:58 |
-| Lincoln Financial | Associate ETL Developer | Radnor, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d5c3da01dbb88956) | 2026-07-22 21:58 |
-| LSEG (London Stock Exchange Group) | Senior Software Engineer | St. Louis, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3aada6e7b7a0a352) | 2026-07-22 21:58 |
-| University Federal Credit Union | Senior Data Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d5cfb563279695cc) | 2026-07-22 21:58 |
-| Science Systems and Applications, Inc. | Software Developer II (Mid-level, Full-stack) | Lanham, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f769425f85072466) | 2026-07-22 21:58 |
-| Kiewit Corporation | Sr Cloud Engineer | Omaha, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08a0f24c148c6273) | 2026-07-22 21:58 |
-| Compass Group | Senior Software Engineer II - Streaming and Durability | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f34e5f97d02e5021) | 2026-07-22 21:58 |
-| Compass Group | Senior Software Engineer II - Streaming and Durability | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=853d0155af0fe88a) | 2026-07-22 21:58 |
-| Compass | Senior Software Engineer II - Streaming and Durability | Morristown, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=025149537375b19e) | 2026-07-22 21:58 |
-| Compass | Senior Software Engineer II- Streaming and Durability | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2aaa5458d436295c) | 2026-07-22 21:58 |
-| Compass | Senior Software Engineer II - Streaming and Durability | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7d4086a87728e295) | 2026-07-22 21:58 |
-| Compass | Senior Software Engineer II- Streaming and Durability | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e37397e5a5a0fd15) | 2026-07-22 21:58 |
-| Capacity | IT Solutions Architect III | North Brunswick, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d1b2254b13ddb4d) | 2026-07-22 21:58 |
-| Boston Scientific | Senior Data Scientist | Marlboro, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=23d224fc86dd31d3) | 2026-07-22 21:58 |
-| NATIONMIND LLC | QE Architect | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf751a8cb9bbc437) | 2026-07-22 21:58 |
-| Wider Security LLC | Backend Engineer/Data Engineer/Aspiring AI Generalist | Newport, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da73b50279ff0b8d) | 2026-07-22 21:58 |
 
 
 ---
