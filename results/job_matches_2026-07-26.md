@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-26
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,7 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Mulesoft Developer @ Centurion Consulting Group
+## 4. Sr Java Enterprise Architect in Irvine, CA @ ValueBase Consulting
+**Match Score:** 13.2%
+
+📍 **Location:** Irvine, CA, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, API Gateway, ECS, RDS, Scala, Kafka, Oracle, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cf9f970e709cc18a)
+
+---
+
+## 5. Mulesoft Developer @ Centurion Consulting Group
 **Match Score:** 11.1%
 
 📍 **Location:** McLean, VA, US USA

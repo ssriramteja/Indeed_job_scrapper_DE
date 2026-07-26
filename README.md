@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-26 16:48
+Last updated: 2026-07-26 17:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ValueBase Consulting | Sr Java Enterprise Architect in Irvine, CA | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cf9f970e709cc18a) | 2026-07-26 17:55 |
 | Protagona | Cloud Software Engineer - Egypt | Egypt, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a89355d34c2e7d21) | 2026-07-26 14:36 |
 | Protagona | Senior QA Engineer - Egypt | Egypt, AR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb073c25dabf3264) | 2026-07-26 14:36 |
 | 3Pillar Global | AI Data Architect | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=4b2cc185aab9474c) | 2026-07-26 01:53 |
