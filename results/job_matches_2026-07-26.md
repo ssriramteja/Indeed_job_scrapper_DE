@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-26
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,29 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. DevOps Engineer (Hybrid) @ Unlimited Systems
-**Match Score:** 13.9%
-
-📍 **Location:** Cincinnati, OH, US USA
-
-🔑 **Keywords:** AWS, SQS, API Gateway, ECS, IAM, RDS, Azure, Scala, Kafka, Splunk
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e19d2be5d242f190)
-
----
-
-## 4. Sr. Software Engineer, Cloud - Analytics Platform @ CrowdStrike
-**Match Score:** 11.8%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, ECS, RDS, Spark, Scala, MySQL, DynamoDB, Cassandra, NoSQL, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ec75113b2386de94)
-
----
-
-## 5. Data Engineer @ Cargill
+## 3. Data Engineer @ Cargill
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -60,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Mulesoft Developer @ Centurion Consulting Group
+## 4. Mulesoft Developer @ Centurion Consulting Group
 **Match Score:** 11.1%
 
 📍 **Location:** McLean, VA, US USA
@@ -71,29 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Java Developer with AI Experience @ Glint Tech Solutions
-**Match Score:** 11.1%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, API Gateway, ECS, RDS, Scala, DynamoDB, MLOps, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c1f24944a225af1c)
-
----
-
-## 8. Senior Platform Engineer @ Abbott
-**Match Score:** 10.4%
-
-📍 **Location:** Alameda, CA, US USA
-
-🔑 **Keywords:** RDS, Azure, Scala, CI/CD, GitHub Actions, Azure DevOps, Terraform, Kubernetes, Git, Datadog
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fb76cbe4b5a98afe)
-
----
-
-## 9. Backend Python Engineer @ nan
+## 5. Backend Python Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** California City, CA, US USA

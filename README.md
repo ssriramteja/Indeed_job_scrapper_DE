@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-26 05:23
+Last updated: 2026-07-26 08:09
 
 ### 🚀 Daily Job Matches
 
@@ -553,10 +553,6 @@ Last updated: 2026-07-26 05:23
 | Marathon Health | Software Engineer | Pearl City, HI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c02a271654e63003) | 2026-07-22 10:15 |
 | Enlyte | Junior Full Stack .NET Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=47735df267dc44af) | 2026-07-22 10:15 |
 | Vinik Sports Group | Sr. Software Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d085c6d211bbf396) | 2026-07-22 10:15 |
-| Revenue Management Solutions | Quality Assurance Engineer | Oklahoma City, OK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d9a966c05563f98c) | 2026-07-22 07:35 |
-| JPMorganChase | Software Engineer III (Java/Spring/SQL) | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2acea18330940b12) | 2026-07-22 07:35 |
-| JPMorganChase | Cloud Infrastructure/DevOps Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f59c82228d31cc82) | 2026-07-22 07:35 |
-| JPMorganChase | Data Engineer III - (Pyspark/databricks/Mongo/Sql/Python) | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1eb4970ab969926f) | 2026-07-22 07:35 |
 
 
 ---
