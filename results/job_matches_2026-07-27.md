@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-27
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -57,6 +57,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Kafka, PostgreSQL, MongoDB, Power BI, GitHub Actions, Azure DevOps, Docker
 
 [Apply Here](https://www.indeed.com/viewjob?jk=f495df65f464e1ae)
+
+---
+
+## 6. Cloud Solutions Architect @ Regions Financial
+**Match Score:** 11.1%
+
+📍 **Location:** Hoover, AL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, Kafka Connect, Oracle, Splunk, Terraform, AWS CloudFormation
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a0e8d45fd09212b1)
 
 ---
 
