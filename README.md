@@ -1,13 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-27 22:55
+Last updated: 2026-07-27 23:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=d6e71e87e20fcad6) | 2026-07-27 23:56 |
+| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-27 23:56 |
+| L.L. Bean, Inc. | Enterprise Information Architect I | Freeport, ME, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cd6d7b7a1225dcc2) | 2026-07-27 23:56 |
+| J&T Business Consulting | Senior Data Science Engineer (With TS/SCI Clearance and a current Full Scope Poly) | Annapolis Junction, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fea98a47c7da3e79) | 2026-07-27 23:56 |
+| Capgemini | Senior Software Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=73033b8f87058bf3) | 2026-07-27 23:56 |
+| Capgemini | Senior Software Engineer | Irving, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b818545ba973b739) | 2026-07-27 23:56 |
+| EMERY SAPP & SONS | Senior Data Engineer | Columbia, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fd62b8e1edffefb2) | 2026-07-27 23:56 |
+| EMERY SAPP & SONS | Senior Data Engineer | Kansas City, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=73c49ea64a65e4e4) | 2026-07-27 23:56 |
+| Capgemini | Associate Data Engineer - GCP | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8432eda41e25a208) | 2026-07-27 23:56 |
+| AFL | BI Developer | Duncan, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b99b879200d82b7) | 2026-07-27 23:56 |
+| Region 4 Education Service Center | Data Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f972668b159bfe1) | 2026-07-27 23:56 |
 | OrangePeople | Solutions Architect (Cloud Transformation) | Plano, TX, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=1a7e6b8f9c661779) | 2026-07-27 22:55 |
-| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-27 22:55 |
 | HCLTech | Senior Solution Architect | Santa Clara, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=51edf63fd9ce4d7a) | 2026-07-27 22:55 |
 | HCLTech | Senior Solution Architect | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=acd136a2c45725af) | 2026-07-27 22:55 |
 | Lowe's Home Improvement | Sr Software Engineer - AI | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cd1942c35e56392e) | 2026-07-27 22:55 |
@@ -257,13 +267,6 @@ Last updated: 2026-07-27 22:55
 | GM Financial | Software Development Engineer II | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=025ebe3ef0840042) | 2026-07-24 01:51 |
 | Orion Innovation | Data Engineer | Montvale, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e0ce9990f1abbe3) | 2026-07-24 01:51 |
 | GM Financial | Software Development Engineer II - Gen AI and Innovation Team | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ebdcb0ba13a35657) | 2026-07-24 01:51 |
-| Booz Allen Hamilton | Data Engineer, Senior | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c25594297d7dcd08) | 2026-07-23 23:53 |
-| Capgemini | Sr JAVA Full Stack - Lake Mary, FL (Onsite) | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0071b97226cb4875) | 2026-07-23 23:53 |
-| ecoATM LLC | Senior Data Scientist | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=462774f83d88a209) | 2026-07-23 23:53 |
-| FINRA | Senior Software Engineer | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f57865e75c379265) | 2026-07-23 23:53 |
-| FINRA | Senior Software Engineer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55f8300de4fecb0f) | 2026-07-23 23:53 |
-| FINRA | Senior Software Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45adc4c2b25c26f7) | 2026-07-23 23:53 |
-| LTM Limited | Senior Specialist - Architecture | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bc906c390155312) | 2026-07-23 23:53 |
 
 
 ---
