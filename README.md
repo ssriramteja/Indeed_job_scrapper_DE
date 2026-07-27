@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-27 13:32
+Last updated: 2026-07-27 16:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Siemens | Senior Machine Learning Engineer | Raleigh, NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d862011310c4cf0f) | 2026-07-27 16:08 |
+| First Horizon Bank | IT Database Administrator | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cb4bd2e62694461e) | 2026-07-27 16:08 |
+| Grainger | Senior Data Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3ad2d81d6d9a2d31) | 2026-07-27 16:08 |
+| Citizens | Senior Software Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a0fb936710c23398) | 2026-07-27 16:08 |
+| Bitcot Technologies Pvt Ltd | AI DevOps Engineer – 1099 Contract | Rochester, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=56400bd32a7b810d) | 2026-07-27 16:08 |
+| Copart, Inc | Data Engineering Intern | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2cf1215aaca8c2) | 2026-07-27 16:08 |
+| Arkatechture | AWS Cloud Infrastructure Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3391e6126aa7cb2b) | 2026-07-27 16:08 |
+| Core BTS | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb73b1bf6741a5f3) | 2026-07-27 16:08 |
+| Northwestern Medicine | Senior Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2c90f2bb9aa42025) | 2026-07-27 16:08 |
+| nan | Software Engineer III Full-Stack Development | Fort Meade, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e6fae7357d59e588) | 2026-07-27 16:08 |
+| nan | Software Engineer II Full-Stack Development | Fort Meade, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a1075545e0fb107) | 2026-07-27 16:08 |
+| nan | Software Engineer I Application Development- Mid Tier | Fort Meade, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9ee38245dd8f15c) | 2026-07-27 16:08 |
 | Smart Tech Skills LLC | Spark / Databricks Platform Engineer | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e214057fae5adc71) | 2026-07-27 13:32 |
 | Availity, LLC. | Software Engineer IV | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ab876d2e4fa9584b) | 2026-07-27 13:32 |
 | Accenture | Packaged/SaaS Application Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57e0eee7c9431a4b) | 2026-07-27 13:32 |
@@ -317,9 +329,6 @@ Last updated: 2026-07-27 13:32
 | Optum | Sr. Data Engineer - Remote | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=985f073bd5ef4e60) | 2026-07-23 17:10 |
 | CVS Health | Senior Software Development Engineer - Microservices | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c8dc6f74324ccd0b) | 2026-07-23 17:10 |
 | merican Inc | Snowflake Architect | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e555efa8f72b69a) | 2026-07-23 17:10 |
-| Unicitec LLC | Technical Life Sciences Consultant (AI & Data Platforms) | NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d70591aeb379551b) | 2026-07-23 15:48 |
-| AssetWatch | Senior Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4670f8bff8e2dd29) | 2026-07-23 15:48 |
-| Maximus | IT Architect - Cloud Platform | Tysons, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef9ea6fc2defb727) | 2026-07-23 15:48 |
 
 
 ---
