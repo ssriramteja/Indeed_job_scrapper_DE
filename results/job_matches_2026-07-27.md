@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-27
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 8
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,7 +27,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Sr Java Enterprise Architect in Irvine, CA @ ValueBase Consulting
+## 3. Data Architect - C2H - Onsite @ TEEMA
+**Match Score:** 13.2%
+
+📍 **Location:** Flower Mound, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, GCP, Scala, Snowflake, Databricks Lakehouse, Dimensional Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7e2f5eebdb7f2a13)
+
+---
+
+## 4. Sr Java Enterprise Architect in Irvine, CA @ ValueBase Consulting
 **Match Score:** 13.2%
 
 📍 **Location:** Irvine, CA, US USA
@@ -38,7 +49,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Software Developer @ True Religion Brand Jeans
+## 5. Senior Software Engineer @ Bessemer Trust
+**Match Score:** 13.2%
+
+📍 **Location:** Woodbridge, NJ, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, API Gateway, ECS, IAM, RDS, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=74752f7f2514626c)
+
+---
+
+## 6. Senior Software Developer @ True Religion Brand Jeans
 **Match Score:** 12.5%
 
 📍 **Location:** El Segundo, CA, US USA
@@ -49,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Engineer/Sr Engineer, IT Software @ American Airlines
+## 7. Engineer/Sr Engineer, IT Software @ American Airlines
 **Match Score:** 11.8%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -60,10 +82,10 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Cloud Solutions Architect @ Regions Financial
+## 8. Cloud Solutions Architect @ Regions Financial
 **Match Score:** 11.1%
 
-📍 **Location:** Hoover, AL, US USA
+📍 **Location:** Birmingham, AL, US USA
 
 🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, Kafka Connect, Oracle, Splunk, Terraform, AWS CloudFormation
 

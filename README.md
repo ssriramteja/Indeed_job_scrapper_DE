@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-27 06:17
+Last updated: 2026-07-27 10:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e2f5eebdb7f2a13) | 2026-07-27 10:32 |
+| Bessemer Trust | Senior Software Engineer | Woodbridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=74752f7f2514626c) | 2026-07-27 10:32 |
 | Regions Financial | Cloud Solutions Architect | Hoover, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0e8d45fd09212b1) | 2026-07-27 06:17 |
 | True Religion Brand Jeans | Senior Software Developer | El Segundo, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d25577e9f3e1876) | 2026-07-26 23:52 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f495df65f464e1ae) | 2026-07-26 21:50 |
@@ -324,13 +326,6 @@ Last updated: 2026-07-27 06:17
 | JPMorganChase | Software Engineer III - Java/Python/AWS | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dbd1082ecbb4b77c) | 2026-07-23 11:01 |
 | State of Minnesota - Minnesota IT Services | Data Engineer - ITS4 | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=541fc9f247e24d24) | 2026-07-23 11:01 |
 | Rocket | Senior Systems Engineer | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b6b13a7348518f4) | 2026-07-23 11:01 |
-| eBay | Software Engineer 3 | San Jose, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=dd1589aadea1bbd4) | 2026-07-23 08:12 |
-| Photon | Sr Java API Developer - New York | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=67c166482beff6ee) | 2026-07-23 08:12 |
-| Northramp | Full Stack Developer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8fe02b7c8ca17adb) | 2026-07-23 08:12 |
-| Cisco | Software Engineer, Structured Storage | Research Triangle Park, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2ffb8f2b64505893) | 2026-07-23 08:12 |
-| Cisco | Software Engineer | Research Triangle Park, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=893e910c3bd5c112) | 2026-07-23 08:12 |
-| Magnite | Senior Big Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0141781c1f467720) | 2026-07-23 08:12 |
-| eBay | Software Engineer 3 | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=41c7d8075142645e) | 2026-07-23 08:12 |
 
 
 ---
