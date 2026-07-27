@@ -1,18 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-27 21:56
+Last updated: 2026-07-27 22:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| OrangePeople | Solutions Architect (Cloud Transformation) | Plano, TX, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=1a7e6b8f9c661779) | 2026-07-27 22:55 |
+| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-27 22:55 |
+| HCLTech | Senior Solution Architect | Santa Clara, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=51edf63fd9ce4d7a) | 2026-07-27 22:55 |
+| HCLTech | Senior Solution Architect | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=acd136a2c45725af) | 2026-07-27 22:55 |
+| Lowe's Home Improvement | Sr Software Engineer - AI | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cd1942c35e56392e) | 2026-07-27 22:55 |
+| Lowe's Home Improvement | Software Engineer - AI | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4b404e83cdfac818) | 2026-07-27 22:55 |
+| OrangePeople | DevOps Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ed4c6abe99182f2f) | 2026-07-27 22:55 |
+| Zebra Technologies | Senior Forward Deployed Software Engineer (FDE) | Holtsville, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b3d38e42153f6fb0) | 2026-07-27 22:55 |
+| HCLTech | Python Senior Developer - Data Analysis, SQL | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=630de2ec3682e100) | 2026-07-27 22:55 |
+| Intellibee Inc | Full Stack Developer -Angular, Typescript, Bedrock | Malvern, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=729151ced6fff1a5) | 2026-07-27 22:55 |
+| Core-CSI LLC | Senior Data Engineer - Public Trust Clearance Required | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df52133313b370b6) | 2026-07-27 22:55 |
+| JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4852036d2a4d2871) | 2026-07-27 22:55 |
+| HCLTech | Senior Technical Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e01c370f5d19ca30) | 2026-07-27 22:55 |
 | LTM Limited | Senior Data Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=20e8b241f5073b73) | 2026-07-27 21:56 |
 | LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=9a43d246f182c799) | 2026-07-27 21:56 |
 | LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=75897b83126c3579) | 2026-07-27 21:56 |
 | Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c4430f4f7148ec3b) | 2026-07-27 21:56 |
 | THUNDERYARD SOLUTIONS | Data Engineer- Veterans Affairs | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7b91074aae697c25) | 2026-07-27 21:56 |
 | Rippling | Sr. Data Engineer | Irving, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=84fb98656d187561) | 2026-07-27 21:56 |
-| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-27 21:56 |
 | S&P Global | Senior Security Automation & SOAR Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=945bfa278c31dac2) | 2026-07-27 21:56 |
 | DriveTime Automotive Group | Senior Data Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1ff16008b78c40ca) | 2026-07-27 21:56 |
 | DriveTime Automotive Group | Senior Data Engineer | Tempe, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c3f08d70fed55ec) | 2026-07-27 21:56 |
@@ -252,35 +264,6 @@ Last updated: 2026-07-27 21:56
 | FINRA | Senior Software Engineer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55f8300de4fecb0f) | 2026-07-23 23:53 |
 | FINRA | Senior Software Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45adc4c2b25c26f7) | 2026-07-23 23:53 |
 | LTM Limited | Senior Specialist - Architecture | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bc906c390155312) | 2026-07-23 23:53 |
-| UCLA Health | Senior Data Engineer | Los Angeles, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d071a80499173a38) | 2026-07-23 22:52 |
-| TRAX USA Corp. | Senior QA Engineer - Airvoyant | Coral Gables, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=38ee81c497706d67) | 2026-07-23 22:52 |
-| Rippling | DevOps Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b6e8b25e2f2a2f9a) | 2026-07-23 22:52 |
-| Boston Medical Center | AWS Cloud AI Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c7b96f6d08eb2e5b) | 2026-07-23 22:52 |
-| Veryon | Software Engineer – AI & Machine Learning | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=426013248af00194) | 2026-07-23 22:52 |
-| Workday | Software Development Engineer - Workday Everywhere | Boulder, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=609d27118699b077) | 2026-07-23 22:52 |
-| Bloomberg | Senior Software Engineer - Analytics Platform | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=52bd230153d8b27f) | 2026-07-23 22:52 |
-| McKesson | Sr. Associate Data Engineer | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=037b9d029a6c32da) | 2026-07-23 22:52 |
-| Kemper | Senior Data Engineer | Alpharetta, GA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=12a7366a5fe55ec4) | 2026-07-23 21:57 |
-| Kemper | Senior Data Engineer | Chicago, IL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=5543ba0ab775d610) | 2026-07-23 21:57 |
-| Kemper | Senior Data Engineer | Downers Grove, IL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=a077af88e8069ec7) | 2026-07-23 21:57 |
-| Kemper | Senior Data Engineer | Jacksonville, FL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=76143d39ee35b355) | 2026-07-23 21:57 |
-| Kemper | Senior Data Engineer | Annapolis, MD, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=f4ed12d88cc2e877) | 2026-07-23 21:57 |
-| Kemper | Senior Data Engineer | Providence, RI, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=eee1d8b4f35568a7) | 2026-07-23 21:57 |
-| Kemper | Senior Data Engineer | Richmond, VA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=be6ca4cb28d4f2ab) | 2026-07-23 21:57 |
-| Kemper | Senior Data Engineer | Columbus, OH, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=820aad6a65dfbe24) | 2026-07-23 21:57 |
-| Kemper | Senior Data Engineer | Birmingham, AL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=bc1bab104e859e83) | 2026-07-23 21:57 |
-| Kemper | Senior Data Engineer | Hartford, CT, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=bdd44ba9ec2abfb8) | 2026-07-23 21:57 |
-| Kemper | Senior Data Engineer | St. Louis, MO, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=e5737811adca0295) | 2026-07-23 21:57 |
-| Kemper | Senior Data Engineer | Harrisburg, PA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=5dee030b01228d0d) | 2026-07-23 21:57 |
-| Kemper | Senior Data Engineer | Dallas, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=02eb3eef526fbc7e) | 2026-07-23 21:57 |
-| Booz Allen Hamilton | Data Engineer, Senior | Washington, DC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4043ee460a725672) | 2026-07-23 21:57 |
-| People Data Labs | Senior Software Engineer, Data Acquisition | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5ce03f58dc0c9d18) | 2026-07-23 21:57 |
-| New York City Department of Citywide Administrative Services | Senior Application Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8959b284cfe01ae8) | 2026-07-23 21:57 |
-| Charles Schwab | AI/ML Ops and Data Engineer | Southlake, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cdb594873fc1ad66) | 2026-07-23 21:57 |
-| Charles Schwab | Machine Learning Ops Data Engineer | Southlake, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=33e84a2e009cf57d) | 2026-07-23 21:57 |
-| ZoomInfo | Software Engineer III - PA085 | Waltham, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c411d19dcc80f29) | 2026-07-23 21:57 |
-| Honeywell | Advanced Data Scientist | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1fb5bccfe96e2cd1) | 2026-07-23 21:57 |
-| Sona | Software Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f41a26b73335bac) | 2026-07-23 21:57 |
 
 
 ---
