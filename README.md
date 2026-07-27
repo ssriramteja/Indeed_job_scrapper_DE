@@ -1,13 +1,34 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-27 20:14
+Last updated: 2026-07-27 21:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| LTM Limited | Senior Data Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=20e8b241f5073b73) | 2026-07-27 21:56 |
+| LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=9a43d246f182c799) | 2026-07-27 21:56 |
+| LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=75897b83126c3579) | 2026-07-27 21:56 |
+| Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c4430f4f7148ec3b) | 2026-07-27 21:56 |
+| THUNDERYARD SOLUTIONS | Data Engineer- Veterans Affairs | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7b91074aae697c25) | 2026-07-27 21:56 |
+| Rippling | Sr. Data Engineer | Irving, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=84fb98656d187561) | 2026-07-27 21:56 |
+| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-27 21:56 |
+| S&P Global | Senior Security Automation & SOAR Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=945bfa278c31dac2) | 2026-07-27 21:56 |
+| DriveTime Automotive Group | Senior Data Engineer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1ff16008b78c40ca) | 2026-07-27 21:56 |
+| DriveTime Automotive Group | Senior Data Engineer | Tempe, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c3f08d70fed55ec) | 2026-07-27 21:56 |
+| innoVet Health, LLC | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c29f94189cd7da4) | 2026-07-27 21:56 |
+| Chargie | Senior Data & Backend Engineer | Culver City, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=da930629a1994ea8) | 2026-07-27 21:56 |
+| Innovative Tech Solutions | Database Architect | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=77b5643dbfd08cb8) | 2026-07-27 21:56 |
+| Kiewit Corporation | Software Engineer 2- Kiewit Technology Group | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e16ff09aa0b39352) | 2026-07-27 21:56 |
+| MGIC | Senior Systems Engineer Analyst | NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c40c5bedf068bb80) | 2026-07-27 21:56 |
+| OxyChem | Principle Data & IT Platform Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aafa6193d63da13a) | 2026-07-27 21:56 |
+| Nelnet | Data Engineer | Lincoln, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=44964b0a055385de) | 2026-07-27 21:56 |
+| Eli Lilly | Senior Software Engineer | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=398c49826e4fa255) | 2026-07-27 21:56 |
+| Cyient | Software Development Engineer – Python | Champaign, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=12dc8bc961812dc0) | 2026-07-27 21:56 |
+| intent design ltd | Azure Integration Architect | Santa Clara, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1e7a2db86bb37412) | 2026-07-27 21:56 |
+| Intent Design Pvt Ltd | Azure Integration Architect | Santa Clara, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=396b021d33329d73) | 2026-07-27 21:56 |
+| Beck's Hybrids | Senior Quality Assurance (QA) Engineer | Atlanta, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42f536ef71f672fc) | 2026-07-27 21:56 |
 | LPL Financial | Data Engineer II | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f88f3978f6e2de83) | 2026-07-27 20:14 |
-| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-27 20:14 |
 | GE Aerospace | Data Engineer | Arkansas City, KS, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=511a0ee05b471605) | 2026-07-27 20:14 |
 | Edgewater Technical Associates | Software Developer 3 (Full Stack Developer) | Los Alamos, NM, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=64e39c95265674fb) | 2026-07-27 20:14 |
 | BranCore Technologies | Cloud Developer 3 – Contract Position | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e1e60ccdf9474927) | 2026-07-27 20:14 |
