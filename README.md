@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-26 23:52
+Last updated: 2026-07-27 02:01
 
 ### 🚀 Daily Job Matches
 
@@ -385,14 +385,6 @@ Last updated: 2026-07-26 23:52
 | Pano AI | Senior Software Engineer - Full Stack | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5eccfdb444cc8e27) | 2026-07-23 02:58 |
 | Imperial Health Holdings | Full-Stack Developer - Angular Focus | Pasadena, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e5c7b9ca9917bf6) | 2026-07-23 02:58 |
 | eBay | Software Engineer 3 | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec5539efbd14b991) | 2026-07-23 02:58 |
-| Capgemini | Senior Data Engineer | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=63c45c243678d800) | 2026-07-23 00:00 |
-| The Cigna Group | Software Engineering Advisor – Data & Analytics Engineering | Kansas City, KS, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=86ed035997b1513d) | 2026-07-23 00:00 |
-| Mercedes-Benz Group | AI Productization Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85be9fd2c83ec659) | 2026-07-23 00:00 |
-| MidFirst Bank | Applied Data Engineer | Oklahoma City, OK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7989a774ac69e3c4) | 2026-07-23 00:00 |
-| Fischer Homes | SENIOR DATA ENGINEER | Erlanger, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2efeb3f6963e2ac9) | 2026-07-23 00:00 |
-| Capgemini | Senior ETL Developer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=211d3a103ab1d78e) | 2026-07-23 00:00 |
-| Cadence Design Systems | Cloud Security Operations Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e5fdfed8670f70b) | 2026-07-23 00:00 |
-| Evercommerce | EverHealth - Software Engineer (Remote, US) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=964a319d38182888) | 2026-07-23 00:00 |
 
 
 ---
