@@ -1,11 +1,42 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-27 16:08
+Last updated: 2026-07-27 18:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BV Teck | Hadoop Big Data Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=4b1ee56096500177) | 2026-07-27 18:18 |
+| BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c844b36a2e1bda08) | 2026-07-27 18:18 |
+| NTT DATA | AWS DevOps Datadog | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fe2c3bc322ffddc5) | 2026-07-27 18:18 |
+| BV Teck | Senior Java Full Stack Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ff539c3ae99f7727) | 2026-07-27 18:18 |
+| Cushman & Wakefield | Senior AI Engineer | Costa Mesa, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1c0930580a5bcd07) | 2026-07-27 18:18 |
+| BV Teck | Azure Cloud Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0c0763ad74d36902) | 2026-07-27 18:18 |
+| Kansara systems | Cloud Developer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b0ebce6f320f9837) | 2026-07-27 18:18 |
+| BV Teck | OCI Cloud Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=961c1329ccf392e7) | 2026-07-27 18:18 |
+| Capgemini | Associate Data Engineer - GCP | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2ad10bcc1b9c0d99) | 2026-07-27 18:18 |
+| Apollo Technology Solutions LLC | Azure Cloud Developer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e7f040e735595615) | 2026-07-27 18:18 |
+| Lucet | Data Analytics Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c66caa75fc25ec21) | 2026-07-27 18:18 |
+| BV Teck | Kafka Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b0f1f7ac1d6409a8) | 2026-07-27 18:18 |
+| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bf583c77e4c9d72) | 2026-07-27 18:18 |
+| NTT DATA | QA Automation Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=35e39b28e07e0e54) | 2026-07-27 18:18 |
+| Vericast | AI Engineer III | San Antonio, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dc2a0a88a6bb4e38) | 2026-07-27 18:18 |
+| Western Union | Senior Software Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=53d469e2c445c6b1) | 2026-07-27 18:18 |
+| BV Teck | Senior Python Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c0ffc09421c310dd) | 2026-07-27 18:18 |
+| Morningstar | Senior Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=82fe4e268dbb7b66) | 2026-07-27 18:18 |
+| Morningstar | Senior Software Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8edb1a5d7881fc44) | 2026-07-27 18:18 |
+| GM Financial | Salesforce Development Engineer III | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e4b298a9510a69c) | 2026-07-27 18:18 |
+| BV Teck | OpenShift Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42cffb5d56f9eeaa) | 2026-07-27 18:18 |
+| Rippling | Data Engineer II | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=744d47dbc385f247) | 2026-07-27 18:18 |
+| BV Teck | Data Infrastructure Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf7b53a97b9f39a1) | 2026-07-27 18:18 |
+| BV Teck | Cloud Data Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2842f8dbc1705e3b) | 2026-07-27 18:18 |
+| Phoenix Business Consulting | Cloud Architect (Azure) | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0b3a86d91498e0d1) | 2026-07-27 18:18 |
+| Phoenix Business Consulting | DevOps Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=176b1dbed7f93f82) | 2026-07-27 18:18 |
+| Blue Yonder | Sr. Software Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afa14c95807983ae) | 2026-07-27 18:18 |
+| The Akanksha LLC | Senior Data Architect | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=67197d81925e64b6) | 2026-07-27 18:18 |
+| MetLife | Junior Software Engineer | Bridgewater, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1155785404399fad) | 2026-07-27 18:18 |
+| Blue Yonder | Sr. Software Engineer | Scottsdale, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52e66699cb75c9e1) | 2026-07-27 18:18 |
+| PLACE Corporate Careers | Data Scientist | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94d6622d48d77919) | 2026-07-27 18:18 |
 | Siemens | Senior Machine Learning Engineer | Raleigh, NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d862011310c4cf0f) | 2026-07-27 16:08 |
 | First Horizon Bank | IT Database Administrator | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cb4bd2e62694461e) | 2026-07-27 16:08 |
 | Grainger | Senior Data Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3ad2d81d6d9a2d31) | 2026-07-27 16:08 |
@@ -274,61 +305,6 @@ Last updated: 2026-07-27 16:08
 | Capgemini | Senior Java Platform Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b6bf738c60c62b8d) | 2026-07-23 19:00 |
 | Capgemini | Java Platform Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5588d97b0802dcb7) | 2026-07-23 19:00 |
 | Capgemini | Java Platform Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76a0805af660a7db) | 2026-07-23 19:00 |
-| CVS Health | Data Engineer | SD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5f87cbef2e8672c3) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | AZ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7d0ffa581a9806f2) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | WY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a371c6a757e7cc60) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | ME, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b3c4dc88ae61fe0e) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f214eae45940a168) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | ND, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2687a24e7dad6780) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | OH, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9ba2e28b0686e652) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4555ac252f371341) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | KY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1c21907825eebf4e) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | LA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7237946dfe0583b2) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | Washington, DC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=801bb2fc81ed28a7) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=0ca8ef229b1532c4) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2a6085a67377b69f) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | MT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b7352e9be8f48d42) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | DE, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=95dee7b8fef58b1e) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | TN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=630ac099235fbd6d) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | SC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1279bb37e0c78ee9) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | VT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=02f7accbf789b4d1) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2875a726636cc149) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=44506379a420841e) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | MS, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1f29091cd781df40) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | NC, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=02feacdf4669a553) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | MO, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=0f1b6022ed0acfd4) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | AR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=efeae60730c199e0) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | NE, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2460ff417a265bbe) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | KS, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6d1f6380a3c4f83b) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | NM, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9685333ed2d00ca8) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | MN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=21091337a312c8c7) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | MA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f893c944d1eaefab) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | NV, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cbf8f230bc8b0c83) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | WV, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=cda9596586f3e32a) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=20b5df003b7622a9) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | ID, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e8cd995cbc9be6f9) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | CT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c6e4df8e6b664967) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | AL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=fa44bcb3004b69d1) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5c0edbe0ca17f71c) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | CO, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=833ff84fdbb1abd1) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | RI, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=fbac48f07a9842df) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | UT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2eb1052d07321fc8) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | IN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9c2fb4708a4607c9) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | OR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ac0e9e73889131e2) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | PA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=176b93f1cf5124ab) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | WI, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9c8bd386e42843b) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | NH, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f2e471cdb7ea8fe2) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a6ad11f79e7ed4e9) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | MI, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=0a8935b313a478ee) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | OK, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3a7a4e1799edd25d) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | IA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7928d8310dc94518) | 2026-07-23 17:10 |
-| CVS Health | Data Engineer | TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=bd1f237216b5ebbe) | 2026-07-23 17:10 |
-| nan | Gen. AI Engineer | Fort Worth, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=29fda9131139079e) | 2026-07-23 17:10 |
-| IFS | Senior Finance Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=470c48d671a5aed8) | 2026-07-23 17:10 |
-| Intellibee Inc | Data engineer with Java | Malvern, AR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b40731666819fe80) | 2026-07-23 17:10 |
-| Optum | Sr. Data Engineer - Remote | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=985f073bd5ef4e60) | 2026-07-23 17:10 |
-| CVS Health | Senior Software Development Engineer - Microservices | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c8dc6f74324ccd0b) | 2026-07-23 17:10 |
-| merican Inc | Snowflake Architect | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e555efa8f72b69a) | 2026-07-23 17:10 |
 
 
 ---
