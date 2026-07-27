@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-27 10:32
+Last updated: 2026-07-27 13:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Smart Tech Skills LLC | Spark / Databricks Platform Engineer | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e214057fae5adc71) | 2026-07-27 13:32 |
+| Availity, LLC. | Software Engineer IV | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ab876d2e4fa9584b) | 2026-07-27 13:32 |
+| Accenture | Packaged/SaaS Application Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57e0eee7c9431a4b) | 2026-07-27 13:32 |
 | TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e2f5eebdb7f2a13) | 2026-07-27 10:32 |
 | Bessemer Trust | Senior Software Engineer | Woodbridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=74752f7f2514626c) | 2026-07-27 10:32 |
 | Regions Financial | Cloud Solutions Architect | Hoover, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0e8d45fd09212b1) | 2026-07-27 06:17 |
@@ -317,15 +320,6 @@ Last updated: 2026-07-27 10:32
 | Unicitec LLC | Technical Life Sciences Consultant (AI & Data Platforms) | NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d70591aeb379551b) | 2026-07-23 15:48 |
 | AssetWatch | Senior Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4670f8bff8e2dd29) | 2026-07-23 15:48 |
 | Maximus | IT Architect - Cloud Platform | Tysons, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef9ea6fc2defb727) | 2026-07-23 15:48 |
-| Infotron | Senior Data Engineer | Berkeley, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fa3ab05c9087dbd4) | 2026-07-23 13:25 |
-| West Monroe | Agentic AI Architect-Google Cloud | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9c971721d216ef56) | 2026-07-23 13:25 |
-| Optum | Senior Data Engineer (DBA) | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=016a0bed58fb8f12) | 2026-07-23 13:25 |
-| Universal Background Screening | Software Engineer (Remote Opportunity) | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b6b2caf1308dae3d) | 2026-07-23 11:01 |
-| JPMorganChase | Data Scientist Senior Associate | San Antonio, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a82cedf3a5c098bf) | 2026-07-23 11:01 |
-| Cognizant | GCP Data Architect | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8fc84a59c47b9041) | 2026-07-23 11:01 |
-| JPMorganChase | Software Engineer III - Java/Python/AWS | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dbd1082ecbb4b77c) | 2026-07-23 11:01 |
-| State of Minnesota - Minnesota IT Services | Data Engineer - ITS4 | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=541fc9f247e24d24) | 2026-07-23 11:01 |
-| Rocket | Senior Systems Engineer | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b6b13a7348518f4) | 2026-07-23 11:01 |
 
 
 ---

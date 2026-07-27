@@ -1,33 +1,22 @@
 # 🎯 Daily Job Matches — 2026-07-27
 
-**Total Jobs Found:** 8
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Cloud Software Engineer - Egypt @ Protagona
-**Match Score:** 17.4%
+## 1. Spark / Databricks Platform Engineer @ Smart Tech Skills LLC
+**Match Score:** 15.3%
 
-📍 **Location:** Egypt, AR, US USA
+📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, API Gateway, ECS
+🔑 **Keywords:** RDS, Databricks, Medallion Architecture, Delta Live Tables, Spark, PySpark, Scala, Snowflake, Data Modeling, Snowflake Schema
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a89355d34c2e7d21)
-
----
-
-## 2. Senior QA Engineer - Egypt @ Protagona
-**Match Score:** 14.6%
-
-📍 **Location:** Egypt, AR, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, Redshift, Step Functions, S3, Scala, ETL, ELT, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fb073c25dabf3264)
+[Apply Here](https://www.indeed.com/viewjob?jk=e214057fae5adc71)
 
 ---
 
-## 3. Data Architect - C2H - Onsite @ TEEMA
+## 2. Data Architect - C2H - Onsite @ TEEMA
 **Match Score:** 13.2%
 
 📍 **Location:** Flower Mound, TX, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Sr Java Enterprise Architect in Irvine, CA @ ValueBase Consulting
+## 3. Sr Java Enterprise Architect in Irvine, CA @ ValueBase Consulting
 **Match Score:** 13.2%
 
 📍 **Location:** Irvine, CA, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Software Engineer @ Bessemer Trust
+## 4. Senior Software Engineer @ Bessemer Trust
 **Match Score:** 13.2%
 
 📍 **Location:** Woodbridge, NJ, US USA
@@ -57,6 +46,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, API Gateway, ECS, IAM, RDS, Scala
 
 [Apply Here](https://www.indeed.com/viewjob?jk=74752f7f2514626c)
+
+---
+
+## 5. Software Engineer IV @ Availity, LLC.
+**Match Score:** 12.5%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Spark, Scala, NoSQL, Data Modeling, CI/CD, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ab876d2e4fa9584b)
 
 ---
 
@@ -90,6 +90,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, Kafka Connect, Oracle, Splunk, Terraform, AWS CloudFormation
 
 [Apply Here](https://www.indeed.com/viewjob?jk=a0e8d45fd09212b1)
+
+---
+
+## 9. Packaged/SaaS Application Engineer @ Accenture
+**Match Score:** 10.4%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, CI/CD, Jenkins, Azure DevOps, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=57e0eee7c9431a4b)
 
 ---
 
