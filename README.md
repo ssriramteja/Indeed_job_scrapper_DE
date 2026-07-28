@@ -1,17 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-28 15:12
+Last updated: 2026-07-28 17:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Rippling | Data and Analytics Architect | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6fca29e64567b9a7) | 2026-07-28 17:19 |
+| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-28 17:19 |
+| Virtues | Sr Hadoop+Spark(scala) Data Engineer | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8aeb2bc3ba9b6d82) | 2026-07-28 17:19 |
+| VGMT GLOBAL IT SOLUTIONS | Senior MuleSoft Integration Developer | Goldsmith, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2b0fefd7a48d7cb0) | 2026-07-28 17:19 |
+| PNC Financial Services Group | Data Engineer | Strongsville, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=48a21bba741abb42) | 2026-07-28 17:19 |
+| Hilton Grand Vacations | Analyst Databricks | Orlando, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=79bb920959efbb9a) | 2026-07-28 17:19 |
+| project44 | Senior Software Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eee6148be255d369) | 2026-07-28 17:19 |
+| project44 | Senior Software Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a8fc463b1f1234a3) | 2026-07-28 17:19 |
+| project44 | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f93d9150c8d68a7) | 2026-07-28 17:19 |
+| Optum | I O Engineer | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=882309c5e77e174d) | 2026-07-28 17:19 |
+| SEI Investments | Software Engineer II | Oaks, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3d91881ede271802) | 2026-07-28 17:19 |
+| McKinsey & Company | Senior Software Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae2d8ccff2b67768) | 2026-07-28 17:19 |
+| Solovis | Senior Software Engineer (Data) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c802ebbce7a223a1) | 2026-07-28 17:19 |
+| Smart Apply Test Company | Software Engineer – Full Stack | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfab7796442687c5) | 2026-07-28 17:19 |
 | ZoomInfo | DevOps Engineer III | Bethesda, MD, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=806ad6cc0b86fe80) | 2026-07-28 15:12 |
 | innoVet Health, LLC | AI Solutions Architect | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5c685db79c3a032d) | 2026-07-28 15:12 |
-| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-28 15:12 |
 | Derex Technologies inc | Sr Databricks Certified Data Engineer | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba6921e4b5c7a034) | 2026-07-28 15:12 |
 | The Hartford | Senior AI Machine Learning Engineer | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=069422425deb2f92) | 2026-07-28 15:12 |
-| McKinsey & Company | Senior Software Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae2d8ccff2b67768) | 2026-07-28 15:12 |
 | CVS Health | Senior Software Development Engineer | KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d7a2187db3c65150) | 2026-07-28 15:12 |
 | CVS Health | Senior Software Development Engineer | MT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=271ee7fda7a6bee4) | 2026-07-28 15:12 |
 | CVS Health | Senior Software Development Engineer | MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dee5bdcb019976f9) | 2026-07-28 15:12 |
@@ -65,7 +77,6 @@ Last updated: 2026-07-28 15:12
 | nan | Sr Machine Learning Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a16a037aab83b32) | 2026-07-28 15:12 |
 | University of Alabama in Huntsville | Research Scientist II, Step 1-4 | AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4b876b59e168c817) | 2026-07-28 15:12 |
 | Disney Experiences | Sr Mgr, Software Engineering | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1779138f771f4150) | 2026-07-28 15:12 |
-| Smart Apply Test Company | Software Engineer – Full Stack | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfab7796442687c5) | 2026-07-28 15:12 |
 | Optum | Senior Data Software Engineer - Remote | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=322a5edbf2a5360b) | 2026-07-28 12:48 |
 | Frontline Education | Senior Software Engineer I-II, Integration Platform Engineering | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1fbfe00edebebf90) | 2026-07-28 12:48 |
 | NTT DATA | Linux Systems Engineer - Server Migration | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bb1c9201a8161c46) | 2026-07-28 12:48 |
