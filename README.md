@@ -1,13 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-27 23:56
+Last updated: 2026-07-28 01:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BV Teck | Senior Data Engineer | Remote, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=d09b36193d9c21c6) | 2026-07-28 01:50 |
+| BV Teck | Senior Data Scientist | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4e92864ad72da7b0) | 2026-07-28 01:50 |
+| BV Teck | Senior Data Engineer – Hadoop | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ed3d05891aeb413c) | 2026-07-28 01:50 |
+| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-28 01:50 |
+| Avantos AI | Senior DevOps Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=728e979a13366d12) | 2026-07-28 01:50 |
+| East Penn Manufacturing | Data Engineering Intern | Ann Arbor, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=75e660e8c44066de) | 2026-07-28 01:50 |
+| East Penn Manufacturing | Data Engineering Intern | Ann Arbor, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=def777e7298305bd) | 2026-07-28 01:50 |
+| BV Teck | Senior Devops Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=74d507f97d89d506) | 2026-07-28 01:50 |
+| Doggett Equipment Services Group | Data Warehouse Architect | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=663cb751d821c5e4) | 2026-07-28 01:50 |
+| NeevSys | Cloud Engineer — multi-cloud (AWS & Azure), infrastructure & data services | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=61d9834a85f42798) | 2026-07-28 01:50 |
+| Tebra | Data Engineer | Corona del Mar, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55760e04a88682c7) | 2026-07-28 01:50 |
+| Argonne National Laboratory | DevOps Engineer | Lemont, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1699fa0e2d2c879d) | 2026-07-28 01:50 |
+| BV Teck | Python Solutions Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4a1e114754b6273) | 2026-07-28 01:50 |
+| BV Teck | Full Stack Solutions Developer – Java | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=795435ece1bb17ca) | 2026-07-28 01:50 |
 | Wells Fargo | Senior Software Engineer | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=d6e71e87e20fcad6) | 2026-07-27 23:56 |
-| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-27 23:56 |
 | L.L. Bean, Inc. | Enterprise Information Architect I | Freeport, ME, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cd6d7b7a1225dcc2) | 2026-07-27 23:56 |
 | J&T Business Consulting | Senior Data Science Engineer (With TS/SCI Clearance and a current Full Scope Poly) | Annapolis Junction, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fea98a47c7da3e79) | 2026-07-27 23:56 |
 | Capgemini | Senior Software Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=73033b8f87058bf3) | 2026-07-27 23:56 |
