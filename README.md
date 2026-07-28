@@ -1,16 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-28 04:55
+Last updated: 2026-07-28 07:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-28 07:33 |
+| Symple Lending | Software Engineer – Full Stack | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f3dca5d46f438997) | 2026-07-28 07:33 |
+| JPMorganChase | Software Engineer III - Big Data / AWS | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8515f265503b068a) | 2026-07-28 07:33 |
+| Carrington Mortgage Services, LLC | Senior, Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=93f7c2338fe900a7) | 2026-07-28 07:33 |
+| Capgemini | Solution Architect | Hanover, NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac2139dad458ba99) | 2026-07-28 07:33 |
+| Appex Innovation | MuleSoft Integration Architect | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da0dc7ca51d6016c) | 2026-07-28 07:33 |
+| Appex Innovation | MuleSoft Integration Architect | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=594a99f1fd9583f0) | 2026-07-28 07:33 |
 | Magpie Health Analytics | Data Engineer | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=81821640f49f76e3) | 2026-07-28 04:55 |
 | Kirkland & Ellis | Business Intelligence Data Modeler Engineer II | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=29badf7873509f1c) | 2026-07-28 04:55 |
 | Empower AI Inc. | AWS Cloud Infrastructure Engineer | Annapolis, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=34befeada094f827) | 2026-07-28 04:55 |
 | Cornerstone OnDemand | Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5e3771f0c36b6f26) | 2026-07-28 04:55 |
-| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-28 04:55 |
 | HCLTech | Senior Solution Architect | Jersey City, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a40f6ae7d2456a50) | 2026-07-28 04:55 |
 | PlayStation | Sr. Software Development Engineer in Test | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f4591ff172a960b9) | 2026-07-28 04:55 |
 | Capgemini | Senior Developer – Full Stack (Java Spring Boot, React, PostgreSQL) | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=38439f74465262d5) | 2026-07-28 04:55 |
@@ -272,23 +278,6 @@ Last updated: 2026-07-28 04:55
 | LangChain | Solutions Architect (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed4c550bf8810c96) | 2026-07-24 08:08 |
 | LangChain | Solutions Architect (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb19fdabfeceb391) | 2026-07-24 08:08 |
 | nan | Software Engineer – Remote Opportunities | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a59520fbf843f452) | 2026-07-24 08:08 |
-| Continuum Media Network Inc | Data Engineer | Denver, CO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9d00a5640ed9db41) | 2026-07-24 05:12 |
-| University of Colorado | Senior Cloud Data Engineer | Aurora, CO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b0851f406bcf6538) | 2026-07-24 05:12 |
-| Bagel Brands | Data Architect | Brooklyn Center, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4192bfe41a15fbd0) | 2026-07-24 05:12 |
-| Citizens | Technology Risk Senior Analyst- Data, AI and Emerging Technology | Johnston, RI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e522509d51c4142a) | 2026-07-24 05:12 |
-| Chipotle Mexican Grill | Database Administrator | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1c47582fc7c2ae03) | 2026-07-24 05:12 |
-| Zebra Technologies | Forward Deployed Software Engineer (FDE) | Holtsville, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cb34fa941aa1af4f) | 2026-07-24 05:12 |
-| Applied Medical | Application Developer | Rancho Santa Margarita, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4fc216d4e8e348b) | 2026-07-24 05:12 |
-| Cronisys IT LLC | Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c38a539ce614bcac) | 2026-07-24 05:12 |
-| Cronisys IT LLC | Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b7d3c5854895a0d) | 2026-07-24 05:12 |
-| Avature | Full Stack Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d8ad65ea2360e07e) | 2026-07-24 05:12 |
-| H&R Block | Senior Software Engineer-Data Operations (Databricks/AI) | MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=22eb530ec4c57c3c) | 2026-07-24 05:12 |
-| United Concordia Dental | Senior Architect | PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=894c050699a8cfaa) | 2026-07-24 05:12 |
-| Frontline Education | Senior Software Engineer I-II, Integration Platform Engineering | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5777ab28ff195025) | 2026-07-24 05:12 |
-| Kyocera Document Solutions America, Inc. | Integration Developer | Fairfield, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c00d2e785c66cbb4) | 2026-07-24 05:12 |
-| Kuehne+Nagel | IT Database Engineer | Naugatuck, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c73cae1a3da2412) | 2026-07-24 05:12 |
-| Databricks | Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=81cea3875bd25185) | 2026-07-24 05:12 |
-| RELI Group Inc | Quality Assurance Specialist | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3691bd3a3b5f022b) | 2026-07-24 05:12 |
 
 
 ---
