@@ -1,13 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-28 17:19
+Last updated: 2026-07-28 19:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior Data Engineer | Brooklyn, NY, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=56a2ba898cd68ef3) | 2026-07-28 19:09 |
+| EDRAY | Senior Integration Engineer | Charlotte, NC, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=cbd9bc76eb207693) | 2026-07-28 19:09 |
+| Entergy | Solution Architect, Sr | New Orleans, LA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb30cf3f38d166f2) | 2026-07-28 19:09 |
+| AllCloud | Machine Learning Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=957b57fb2d35abb6) | 2026-07-28 19:09 |
+| Intellectyx | Technical Architect | Pasadena, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=602b2be6bb9c1292) | 2026-07-28 19:09 |
+| Western Union | Senior Architect, Software Engineering | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=66df8cc3622ab111) | 2026-07-28 19:09 |
+| GLASSHOUSE SYSTEMS | Google Cloud Platform (GCP) Architect | Lisle, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6caf875ac9a26f9e) | 2026-07-28 19:09 |
+| McKinsey & Company | Senior Software Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae2d8ccff2b67768) | 2026-07-28 19:09 |
+| CrowdStrike | Engineer II, Advanced Research (Remote) | MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bae6de8914f99b9c) | 2026-07-28 19:09 |
+| Afficiency | Generative AI Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58359e4adc4e423e) | 2026-07-28 19:09 |
+| STAAR Surgical | Technical Architect | Lake Forest, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a6f9879069355ae) | 2026-07-28 19:09 |
+| BV Teck | Senior Java Full Stack Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f88cd142184b0e3) | 2026-07-28 19:09 |
+| Envista Holdings | DEXIS Sr. Full Stack Software Engineer, Cloud (Quakertown, PA) | Quakertown, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e7edc081f60cad1) | 2026-07-28 19:09 |
+| Visual Edge IT | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=abcdf98078942e6e) | 2026-07-28 19:09 |
+| Utah Valley University | Site Reliability Engineer I- Operations | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce8bc87fc76e47fd) | 2026-07-28 19:09 |
 | Rippling | Data and Analytics Architect | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6fca29e64567b9a7) | 2026-07-28 17:19 |
-| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-28 17:19 |
 | Virtues | Sr Hadoop+Spark(scala) Data Engineer | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8aeb2bc3ba9b6d82) | 2026-07-28 17:19 |
 | VGMT GLOBAL IT SOLUTIONS | Senior MuleSoft Integration Developer | Goldsmith, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2b0fefd7a48d7cb0) | 2026-07-28 17:19 |
 | PNC Financial Services Group | Data Engineer | Strongsville, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=48a21bba741abb42) | 2026-07-28 17:19 |
@@ -17,9 +31,7 @@ Last updated: 2026-07-28 17:19
 | project44 | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f93d9150c8d68a7) | 2026-07-28 17:19 |
 | Optum | I O Engineer | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=882309c5e77e174d) | 2026-07-28 17:19 |
 | SEI Investments | Software Engineer II | Oaks, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3d91881ede271802) | 2026-07-28 17:19 |
-| McKinsey & Company | Senior Software Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae2d8ccff2b67768) | 2026-07-28 17:19 |
 | Solovis | Senior Software Engineer (Data) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c802ebbce7a223a1) | 2026-07-28 17:19 |
-| Smart Apply Test Company | Software Engineer – Full Stack | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfab7796442687c5) | 2026-07-28 17:19 |
 | ZoomInfo | DevOps Engineer III | Bethesda, MD, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=806ad6cc0b86fe80) | 2026-07-28 15:12 |
 | innoVet Health, LLC | AI Solutions Architect | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5c685db79c3a032d) | 2026-07-28 15:12 |
 | Derex Technologies inc | Sr Databricks Certified Data Engineer | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba6921e4b5c7a034) | 2026-07-28 15:12 |
@@ -318,24 +330,6 @@ Last updated: 2026-07-28 17:19
 | AMH | Senior Data Engineer | Las Vegas, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fcc108d020014d64) | 2026-07-24 20:11 |
 | Millennium Management | Cloud Engineer | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76545a7a26014492) | 2026-07-24 20:11 |
 | Blue Orange Digital | Senior Pre-Sales Solution Architect | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=148c58d976f8aa98) | 2026-07-24 20:11 |
-| BV Teck | Hadoop Solutions Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=5b43cb1da9bd5e66) | 2026-07-24 18:11 |
-| BV Teck | AWS Cloud Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6bea0599e34ce74e) | 2026-07-24 18:11 |
-| BV Teck | AWS Solutions Architect | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3ca7ef41ca26d3ec) | 2026-07-24 18:11 |
-| Siemens | Senior Machine Learning Engineer | Raleigh, NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b019316b66042eb5) | 2026-07-24 18:11 |
-| BV Teck | Azure Cloud Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6d24836d15aa901f) | 2026-07-24 18:11 |
-| BV Teck | Cloud Solutions Engineer – Azure | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f56342ea02089099) | 2026-07-24 18:11 |
-| Surescripts | Senior Cloud Data Engineer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4bcd6e2a9d67464) | 2026-07-24 18:11 |
-| BV Teck | OCI Solutions Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1e360996f49b9bba) | 2026-07-24 18:11 |
-| BV Teck | Enterprise ServiceNow Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dc18d561962fcd21) | 2026-07-24 18:11 |
-| BV Teck | Enterprise Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=20d65d994c35df77) | 2026-07-24 18:11 |
-| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a0600fe838e8fd40) | 2026-07-24 18:11 |
-| Cohere Health | Sr. Forward Deployed Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e00458dd00ce6b98) | 2026-07-24 18:11 |
-| BV Teck | Python Software Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d70d40d60ab2d22) | 2026-07-24 18:11 |
-| OEConnection | Senior Platform Engineer (Cloud & AI Platform)- Remote within US | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=024ce94c4237b353) | 2026-07-24 18:11 |
-| OEConnection | Senior Platform Engineer (Cloud & AI Platform)- Remote within US | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e08d2c63dac884c6) | 2026-07-24 18:11 |
-| BV Teck | Test Automation Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f73b61f08926eb79) | 2026-07-24 18:11 |
-| BV Teck | Container Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b12ac3bb4713b71) | 2026-07-24 18:11 |
-| BV Teck | Java Application Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=961ed4e278a33edd) | 2026-07-24 18:11 |
 
 
 ---
