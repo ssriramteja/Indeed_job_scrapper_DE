@@ -1,19 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-28 10:25
+Last updated: 2026-07-28 12:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-28 12:48 |
+| Optum | Senior Data Software Engineer - Remote | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=322a5edbf2a5360b) | 2026-07-28 12:48 |
+| Frontline Education | Senior Software Engineer I-II, Integration Platform Engineering | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1fbfe00edebebf90) | 2026-07-28 12:48 |
+| NTT DATA | Linux Systems Engineer - Server Migration | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bb1c9201a8161c46) | 2026-07-28 12:48 |
+| HNTB Corporation | Transportation Data Scientist | Downers Grove, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62170821e4e69c98) | 2026-07-28 12:48 |
+| Smart Apply Test Company | Software Engineer – Full Stack | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfab7796442687c5) | 2026-07-28 12:48 |
 | Wipro | AI Strategist - Partner | Atlanta, GA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=9a3661ad61353f4f) | 2026-07-28 10:25 |
-| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-28 10:25 |
 | Ahead | Senior Technical Consultant - Data & Analytics | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=34f1952389da0adb) | 2026-07-28 10:25 |
 | Ahead | Forward Deployed Engineer - AI SOC | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8cc6c1dd7963fdfd) | 2026-07-28 10:25 |
 | Concentra | Engineer III, DevOps | Addison, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d70a210cdf39ed4c) | 2026-07-28 10:25 |
 | Ahead | Senior AI Engineer, AI Services | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c9e6663fc1113d93) | 2026-07-28 10:25 |
 | Millennium Management | Senior Software Engineer - Risk Technology | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07d2a8bd8e9419e9) | 2026-07-28 10:25 |
-| Smart Apply Test Company | Software Engineer – Full Stack | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfab7796442687c5) | 2026-07-28 10:25 |
 | Symple Lending | Software Engineer – Full Stack | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f3dca5d46f438997) | 2026-07-28 07:33 |
 | JPMorganChase | Software Engineer III - Big Data / AWS | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8515f265503b068a) | 2026-07-28 07:33 |
 | Carrington Mortgage Services, LLC | Senior, Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=93f7c2338fe900a7) | 2026-07-28 07:33 |
@@ -265,17 +269,6 @@ Last updated: 2026-07-28 10:25
 | BV Teck | Java Application Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=961ed4e278a33edd) | 2026-07-24 18:11 |
 | CVS Health | Senior GCP Data Engineer for Patient Safety Measure Engine | Boston, MA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6d3f3d22744f5363) | 2026-07-24 14:45 |
 | Domino's | Senior Data Engineer | Ann Arbor, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8d0c84a27d084fd0) | 2026-07-24 14:45 |
-| JPMorganChase | Software Engineer III-Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=4788de97836b6e30) | 2026-07-24 12:13 |
-| JPMorganChase | Software Engineer III | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4beac6cc3645a53b) | 2026-07-24 12:13 |
-| nan | Senior Systems & Backend Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=844436f2f472f5b1) | 2026-07-24 12:13 |
-| JPMorganChase | Data Engineer III - (Pyspark/databricks/Mongo/Sql/Python) | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=820ae5b00199f1e8) | 2026-07-24 12:13 |
-| First Citizens Bank | Data Engineer II | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=34ac40ad9509eb3e) | 2026-07-24 10:54 |
-| One Call | Full Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=454dc6c270b9d674) | 2026-07-24 10:54 |
-| Oregon Health & Science University | Clinical Data Engineer (Application Engineer) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4baa56a62cb41945) | 2026-07-24 10:54 |
-| JPMorganChase | Software Engineer III - Frontend, Monday.com, AWS | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e21285074de6c55) | 2026-07-24 10:54 |
-| Visa | SW Engineer - Sr. Consultant level | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9957a07b3110fb6) | 2026-07-24 10:54 |
-| JPMorganChase | Software Engineer II (Python/Java/AWS/Pyspark) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=175150f6472dcabf) | 2026-07-24 10:54 |
-| Hackensack Meridian Health | IT Cloud Architect | Iselin, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c748d45f480e02e9) | 2026-07-24 10:54 |
 
 
 ---
