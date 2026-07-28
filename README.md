@@ -1,12 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-28 07:33
+Last updated: 2026-07-28 10:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-28 07:33 |
+| Wipro | AI Strategist - Partner | Atlanta, GA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=9a3661ad61353f4f) | 2026-07-28 10:25 |
+| The Boston Beer Company | BI Data Engineer II | Boston, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62785c4010471f7c) | 2026-07-28 10:25 |
+| Ahead | Senior Technical Consultant - Data & Analytics | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=34f1952389da0adb) | 2026-07-28 10:25 |
+| Ahead | Forward Deployed Engineer - AI SOC | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8cc6c1dd7963fdfd) | 2026-07-28 10:25 |
+| Concentra | Engineer III, DevOps | Addison, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d70a210cdf39ed4c) | 2026-07-28 10:25 |
+| Ahead | Senior AI Engineer, AI Services | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c9e6663fc1113d93) | 2026-07-28 10:25 |
+| Millennium Management | Senior Software Engineer - Risk Technology | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07d2a8bd8e9419e9) | 2026-07-28 10:25 |
+| Smart Apply Test Company | Software Engineer – Full Stack | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cfab7796442687c5) | 2026-07-28 10:25 |
 | Symple Lending | Software Engineer – Full Stack | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f3dca5d46f438997) | 2026-07-28 07:33 |
 | JPMorganChase | Software Engineer III - Big Data / AWS | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8515f265503b068a) | 2026-07-28 07:33 |
 | Carrington Mortgage Services, LLC | Senior, Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=93f7c2338fe900a7) | 2026-07-28 07:33 |
@@ -269,15 +276,6 @@ Last updated: 2026-07-28 07:33
 | Visa | SW Engineer - Sr. Consultant level | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9957a07b3110fb6) | 2026-07-24 10:54 |
 | JPMorganChase | Software Engineer II (Python/Java/AWS/Pyspark) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=175150f6472dcabf) | 2026-07-24 10:54 |
 | Hackensack Meridian Health | IT Cloud Architect | Iselin, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c748d45f480e02e9) | 2026-07-24 10:54 |
-| NTT DATA | Senior AI DevOps Engineer (AI Ops / Platform Engineering) (Hybrid) | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=179f845817d9c394) | 2026-07-24 08:08 |
-| Cisco | Software Engineerâ€“ Full Stack | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=845b1ae798305d08) | 2026-07-24 08:08 |
-| FFF Enterprises | Senior Software Developer, Automation | Temecula, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=36278831392884e9) | 2026-07-24 08:08 |
-| Love’s Travel Stops | Data Engineer III | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fcbdf62f4fcd37bb) | 2026-07-24 08:08 |
-| Glint Tech Solutions | AWS/EKS Platform Engineer | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1db2cf8626316dc6) | 2026-07-24 08:08 |
-| LangChain | Solutions Architect (Remote) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=23122d038602c127) | 2026-07-24 08:08 |
-| LangChain | Solutions Architect (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed4c550bf8810c96) | 2026-07-24 08:08 |
-| LangChain | Solutions Architect (Remote) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb19fdabfeceb391) | 2026-07-24 08:08 |
-| nan | Software Engineer – Remote Opportunities | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a59520fbf843f452) | 2026-07-24 08:08 |
 
 
 ---
