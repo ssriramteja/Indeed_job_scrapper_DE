@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-28 19:09
+Last updated: 2026-07-28 20:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Eli Lilly | Senior Data Engineer | Indianapolis, IN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=07a6d857864e2d3d) | 2026-07-28 20:59 |
+| Allstate Insurance | Software Engineer Senior Consultant I - | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=93914ebfffd3e0fa) | 2026-07-28 20:59 |
+| AbbVie | Site Reliability Engineer (Hybrid) | North Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3789a24b75c1cfb1) | 2026-07-28 20:59 |
+| Wells Fargo | Data Engineer – Ab Initio & GCP Modernization (contract) | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8a86e7ffe1b03ee9) | 2026-07-28 20:59 |
+| Betis Group, Inc. | Azure Cloud Architect 4 (Remote) | McLean, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=61b88821804deb4d) | 2026-07-28 20:59 |
+| CALIBRE Systems | Cloud/DevOps Engineer | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=23ea1dcc62a19705) | 2026-07-28 20:59 |
+| NIKE | Senior Software Engineer | Beaverton, OR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ceff5d9c8c0d8bc4) | 2026-07-28 20:59 |
+| SandboxAQ | Data Engineer, AQNav | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d054210a36a14a4) | 2026-07-28 20:59 |
+| AutoSavvy | Data Engineer | Woods Cross, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21039e2b16d29978) | 2026-07-28 20:59 |
+| Betis Group, Inc. | VDH Cloud Data Engineer (Richmond) | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04440d10b3bae1a9) | 2026-07-28 20:59 |
+| Texas Health and Human Services Commission | Cloud Data Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed60b80bc0c985e3) | 2026-07-28 20:59 |
+| VTekis Consulting LLP | Data Engineer – Snowflake Data Ingestion & Data Products (ECC Platform) - W2 Position | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6df590be06bde158) | 2026-07-28 20:59 |
 | nan | Senior Data Engineer | Brooklyn, NY, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=56a2ba898cd68ef3) | 2026-07-28 19:09 |
 | EDRAY | Senior Integration Engineer | Charlotte, NC, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=cbd9bc76eb207693) | 2026-07-28 19:09 |
 | Entergy | Solution Architect, Sr | New Orleans, LA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb30cf3f38d166f2) | 2026-07-28 19:09 |
@@ -13,7 +25,6 @@ Last updated: 2026-07-28 19:09
 | Intellectyx | Technical Architect | Pasadena, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=602b2be6bb9c1292) | 2026-07-28 19:09 |
 | Western Union | Senior Architect, Software Engineering | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=66df8cc3622ab111) | 2026-07-28 19:09 |
 | GLASSHOUSE SYSTEMS | Google Cloud Platform (GCP) Architect | Lisle, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6caf875ac9a26f9e) | 2026-07-28 19:09 |
-| McKinsey & Company | Senior Software Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ae2d8ccff2b67768) | 2026-07-28 19:09 |
 | CrowdStrike | Engineer II, Advanced Research (Remote) | MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bae6de8914f99b9c) | 2026-07-28 19:09 |
 | Afficiency | Generative AI Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58359e4adc4e423e) | 2026-07-28 19:09 |
 | STAAR Surgical | Technical Architect | Lake Forest, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a6f9879069355ae) | 2026-07-28 19:09 |
@@ -323,13 +334,6 @@ Last updated: 2026-07-28 19:09
 | GE Vernova | DERMS Data Architect & Integration | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=381bad2f60317342) | 2026-07-24 21:56 |
 | Empower Pharmacy | Software Engineer – Full Stack | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e06173fc3c6ce8f8) | 2026-07-24 21:56 |
 | LEADER BANK | Full Stack Developer | Arlington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a9fb68922a90c5c) | 2026-07-24 21:56 |
-| Capgemini | Platform Engineer VI - Data Services | St. Louis, MO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=530025f520e267c1) | 2026-07-24 20:11 |
-| Intuit | Senior Systems Engineer - Delivery DevOps | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7f60289bd7b154e2) | 2026-07-24 20:11 |
-| Centerprism | Senior Developer | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7b3e11011f10bd71) | 2026-07-24 20:11 |
-| First Orion | Associate Cloud & DevOps Engineer | North Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f4ff182033422db) | 2026-07-24 20:11 |
-| AMH | Senior Data Engineer | Las Vegas, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fcc108d020014d64) | 2026-07-24 20:11 |
-| Millennium Management | Cloud Engineer | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76545a7a26014492) | 2026-07-24 20:11 |
-| Blue Orange Digital | Senior Pre-Sales Solution Architect | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=148c58d976f8aa98) | 2026-07-24 20:11 |
 
 
 ---
