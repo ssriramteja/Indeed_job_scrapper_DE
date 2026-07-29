@@ -1,11 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-29 20:11
+Last updated: 2026-07-29 21:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Leidos | Databricks Data Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=002cb1d712286720) | 2026-07-29 21:50 |
+| Leidos | Data Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ae3f89500c8c96cb) | 2026-07-29 21:50 |
+| VTekis Consulting LLP | Databricks Architect - (ADLS, S3, or GCS). | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=066f34528bcf8419) | 2026-07-29 21:50 |
+| nan | Senior Software Engineer | Frisco, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=262c117f16e0e490) | 2026-07-29 21:50 |
+| Arctic Wolf Networks | Senior Reliability Developer | Eden Prairie, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d5af11f0f64610c4) | 2026-07-29 21:50 |
+| University of Texas at Austin | AI Infrastructure Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8523f45b800a98d2) | 2026-07-29 21:50 |
+| SS&C | Sr. Site Reliability Engineer | Waltham, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b734deb5b5c4fd4) | 2026-07-29 21:50 |
+| PowerSecure Inc. | Full Stack - Software Engineer II (Power Distribution Equipment, Utility, HMI) | Durham, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4bc026a652edd019) | 2026-07-29 21:50 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Tulsa, OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0e5d9c9078da0cac) | 2026-07-29 21:50 |
+| nan | MDM Architect | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0510f5b12bfd66b3) | 2026-07-29 21:50 |
+| The Weather Company | Software Engineer | Andover, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=34cf04c12e423597) | 2026-07-29 21:50 |
+| Vistar Media | Senior Data Engineer, Big Data and Cloud | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=488613eddf36a539) | 2026-07-29 21:50 |
+| Peterson Caterpillar | Data & Analytics Engineer | San Leandro, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6d496ec22a09d07) | 2026-07-29 21:50 |
+| Delinea | Senior Software Development Engineer | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=749e23d0b9c802de) | 2026-07-29 21:50 |
+| Trellance | Junior AI Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cfec0ee79a36d0b) | 2026-07-29 21:50 |
+| Ascendion | Senior Software Engineer | Redmond, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a8fea0d6fbd1cf6) | 2026-07-29 21:50 |
+| Goldman Sachs | Engineering-L2-Dallas-Analyst-Software Engineering | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=334f6eafa2204917) | 2026-07-29 21:50 |
+| TaxSlayer | Software Developer | Augusta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aee2a8d1b8adb9a0) | 2026-07-29 21:50 |
+| TaxSlayer | Software Developer | Lexington, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da359f17a501a2a8) | 2026-07-29 21:50 |
+| Freedom Mortgage | Full Stack AI Software Engineer | Marlton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9bf2e8dc44b5e2c3) | 2026-07-29 21:50 |
 | Cloudera | Solutions Engineer - East Coast | GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c3467fd4232b4427) | 2026-07-29 20:11 |
 | Confiz | AI Solutions Architect | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0691b5cf974ba456) | 2026-07-29 20:11 |
 | VIVA | Software Engineer | Urbandale, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2d931b69fdd57a33) | 2026-07-29 20:11 |
@@ -35,7 +55,6 @@ Last updated: 2026-07-29 20:11
 | Epsilon | Senior Software Engineer | Wakefield, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e267c7780d11420c) | 2026-07-29 20:11 |
 | Kore.ai | DevOPS Engineer - Irving, TX (ONSITE) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27639b7b075aa034) | 2026-07-29 20:11 |
 | accrete | Senior Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=504028cfd0bf3313) | 2026-07-29 20:11 |
-| RS21: A Data Science and Visualization Company | Senior Data Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a873a920e8efc235) | 2026-07-29 20:11 |
 | redan | Data Operations Specialist (DBA) US CITIZENS ONLY | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e61ffe9035451db) | 2026-07-29 20:11 |
 | Objectways Technologies | Senior Data Engineer - Palantir Foundry | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3bd98be19932593) | 2026-07-29 20:11 |
 | American Express | Data Engineer I - Global Servicing Technology | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=18d4e19e765bcde9) | 2026-07-29 18:58 |
