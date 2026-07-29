@@ -1,13 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-29 11:14
+Last updated: 2026-07-29 13:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | AWS ETL Data Engineer - HYBRID | Memphis, TN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0f3b0a20014410c8) | 2026-07-29 13:46 |
+| Genesys | Senior Data Engineer, Finance | NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=15db7e3fdebd8bb4) | 2026-07-29 13:46 |
+| NTT DATA | DevOps & Data Engineer - GCP (Google Cloud Platform) | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2620c8155640eadb) | 2026-07-29 13:46 |
+| RS21: A Data Science and Visualization Company | Senior Data Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a873a920e8efc235) | 2026-07-29 13:46 |
+| Itransition | Middle Data Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7c6d2549522637c) | 2026-07-29 13:46 |
 | nan | Systems Analyst | Cheyenne, WY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=86c275bb45b52d57) | 2026-07-29 11:14 |
-| RS21: A Data Science and Visualization Company | Senior Data Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a873a920e8efc235) | 2026-07-29 11:14 |
 | CA HIGH SPEED RAIL AUTHORITY | INFORMATION TECHNOLOGY SPECIALIST III | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1c1900c6e208af8c) | 2026-07-29 08:22 |
 | Capgemini | AI Architect | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a4a763e4890e197) | 2026-07-29 08:22 |
 | ImagineX Consulting | Senior Azure DevOps Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cba82380663ee6) | 2026-07-29 08:22 |
