@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-29 08:22
+Last updated: 2026-07-29 11:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Systems Analyst | Cheyenne, WY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=86c275bb45b52d57) | 2026-07-29 11:14 |
+| RS21: A Data Science and Visualization Company | Senior Data Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a873a920e8efc235) | 2026-07-29 11:14 |
 | CA HIGH SPEED RAIL AUTHORITY | INFORMATION TECHNOLOGY SPECIALIST III | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1c1900c6e208af8c) | 2026-07-29 08:22 |
 | Capgemini | AI Architect | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a4a763e4890e197) | 2026-07-29 08:22 |
 | ImagineX Consulting | Senior Azure DevOps Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cba82380663ee6) | 2026-07-29 08:22 |
-| RS21: A Data Science and Visualization Company | Senior Data Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a873a920e8efc235) | 2026-07-29 08:22 |
 | VeeRteq Solutions Inc. | Gen AI Sr. Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b0e218931bd7dc3) | 2026-07-29 08:22 |
 | nan | Data Engineer II | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6ec55ca7fcba3429) | 2026-07-29 05:12 |
 | nan | Data Engineer II | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=17c6fe7e7762b1bd) | 2026-07-29 05:12 |
@@ -356,7 +357,6 @@ Last updated: 2026-07-29 08:22
 | Centurion Consulting Group | Mulesoft Developer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08f9a00d6c95207e) | 2026-07-25 18:54 |
 | nan | Backend Python Engineer | California City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8ab8761ac03ae1e) | 2026-07-25 17:52 |
 | Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bdb09774bada084) | 2026-07-25 15:57 |
-| Cactus Wellhead | Cactus Wellhead - Data Engineer & Architect | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=35a580479028c129) | 2026-07-25 09:28 |
 
 
 ---
