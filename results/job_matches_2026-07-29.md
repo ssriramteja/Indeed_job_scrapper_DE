@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-07-29
 
-**Total Jobs Found:** 131
+**Total Jobs Found:** 171
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,7 +38,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Data and Analytics Architect @ Rippling
+## 4. Data Engineer II @ nan
+**Match Score:** 19.4%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, Redshift, S3, RDS, Scala, Snowflake, SQL Server, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6ec55ca7fcba3429)
+
+---
+
+## 5. Data Engineer II @ nan
+**Match Score:** 19.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, Redshift, S3, RDS, Scala, Snowflake, SQL Server, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=17c6fe7e7762b1bd)
+
+---
+
+## 6. Data and Analytics Architect @ Rippling
 **Match Score:** 19.4%
 
 📍 **Location:** Irving, TX, US USA
@@ -49,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Data Engineer @ Eli Lilly
+## 7. Senior Data Engineer @ Eli Lilly
 **Match Score:** 18.1%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -60,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Engineer @ Beghou Consulting
+## 8. Data Engineer @ nan
 **Match Score:** 18.1%
 
 📍 **Location:** Princeton, NJ, US USA
@@ -71,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Data Platform Engineer @ BV Teck
+## 9. Data Platform Engineer @ BV Teck
 **Match Score:** 17.4%
 
 📍 **Location:** Remote, US USA
@@ -82,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. DevOps Engineer III @ ZoomInfo
+## 10. DevOps Engineer III @ ZoomInfo
 **Match Score:** 17.4%
 
 📍 **Location:** Bethesda, MD, US USA
@@ -93,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Data Platform Engineer @ SentiLink
+## 11. Senior Data Platform Engineer @ SentiLink
 **Match Score:** 17.4%
 
 📍 **Location:** US USA
@@ -104,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. AI Solutions Architect @ innoVet Health, LLC
+## 12. AI Solutions Architect @ innoVet Health, LLC
 **Match Score:** 16.7%
 
 📍 **Location:** Remote, US USA
@@ -115,18 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Business Intelligence Data Modeler Engineer II @ Kirkland & Ellis
-**Match Score:** 16.0%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Synapse Analytics, Databricks, Spark, PySpark, Scala, Snowflake, SQL Server
-
-[Apply Here](https://www.indeed.com/viewjob?jk=29badf7873509f1c)
-
----
-
-## 12. Data Engineer @ Varda Space Industries
+## 13. Data Engineer @ nan
 **Match Score:** 15.3%
 
 📍 **Location:** El Segundo, CA, US USA
@@ -137,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Azure Data / Search Engineer @ VeeRteq Solutions Inc.
+## 14. Azure Data / Search Engineer @ nan
 **Match Score:** 15.3%
 
 📍 **Location:** Irving, TX, US USA
@@ -148,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Site Reliability Engineer (Hybrid) @ AbbVie
+## 15. Site Reliability Engineer (Hybrid) @ AbbVie
 **Match Score:** 15.3%
 
 📍 **Location:** North Chicago, IL, US USA
@@ -159,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Data Engineer II @ LPL Financial
+## 16. Data Engineer II @ LPL Financial
 **Match Score:** 15.3%
 
 📍 **Location:** Fort Mill, SC, US USA
@@ -170,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Machine Learning Data Engineer (DataOps), Materra @ X Development
+## 17. Machine Learning Data Engineer (DataOps), Materra @ nan
 **Match Score:** 14.6%
 
 📍 **Location:** Mountain View, CA, US USA
@@ -181,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. DevOps Engineer @ nan
+## 18. DevOps Engineer @ nan
 **Match Score:** 14.6%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -189,17 +200,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Glue, Azure, GCP, Scala, PostgreSQL, DynamoDB, dbt, MLOps, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=89b591f23029748a)
-
----
-
-## 18. Data Engineer – Ab Initio & GCP Modernization (contract) @ Wells Fargo
-**Match Score:** 14.6%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** IAM, RDS, Google Cloud Platform, GCP, BigQuery, Spark, PySpark, Oracle, Data Modeling, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8a86e7ffe1b03ee9)
 
 ---
 
@@ -269,18 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Software Engineer III - Big Data / AWS @ JPMorganChase
-**Match Score:** 13.2%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Lambda, Redshift, Step Functions, S3, API Gateway, RDS, Databricks
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8515f265503b068a)
-
----
-
-## 26. Senior DevOps Engineer (EKS/Kubernetes) @ Caris Life Sciences
+## 25. Senior DevOps Engineer (EKS/Kubernetes) @ Caris Life Sciences
 **Match Score:** 13.2%
 
 📍 **Location:** Irving, TX, US USA
@@ -291,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Senior Data Engineer and Analyst @ BETTER WORLD BOOKS MARKETPLACE INC
+## 26. Senior Data Engineer and Analyst @ BETTER WORLD BOOKS MARKETPLACE INC
 **Match Score:** 13.2%
 
 📍 **Location:** Mishawaka, IN, US USA
@@ -302,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Cloud/DevOps Engineer @ CALIBRE Systems
+## 27. Cloud/DevOps Engineer @ CALIBRE Systems
 **Match Score:** 13.2%
 
 📍 **Location:** Washington, DC, US USA
@@ -313,18 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Software Engineer, Reconciliation & Reporting @ Block
-**Match Score:** 13.2%
-
-📍 **Location:** San Francisco Bay Area, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, BigQuery, Hadoop, Spark, PySpark, Scala, Kafka, Snowflake, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9c826fbf927fd818)
-
----
-
-## 30. Senior Software Engineer @ NIKE
+## 28. Senior Software Engineer @ NIKE
 **Match Score:** 13.2%
 
 📍 **Location:** Beaverton, OR, US USA
@@ -335,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Solution Architect, Sr @ Entergy
+## 29. Solution Architect, Sr @ Entergy
 **Match Score:** 12.5%
 
 📍 **Location:** New Orleans, LA, US USA
@@ -346,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Senior Technical Consultant - Data & Analytics @ Ahead
+## 30. Senior Technical Consultant - Data & Analytics @ Ahead
 **Match Score:** 12.5%
 
 📍 **Location:** US USA
@@ -357,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Machine Learning Engineer @ AllCloud
+## 31. Machine Learning Engineer @ AllCloud
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -368,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Automation Engineer @ Tremco CPG Inc.
+## 32. Automation Engineer @ nan
 **Match Score:** 12.5%
 
 📍 **Location:** FL, US USA
@@ -379,14 +357,36 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Technical Architect @ Intellectyx
+## 33. AI Architect @ Capgemini
 **Match Score:** 12.5%
 
-📍 **Location:** Pasadena, CA, US USA
+📍 **Location:** Seattle, WA, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Scala, Snowflake, PostgreSQL, Power BI, Tableau
+🔑 **Keywords:** AWS, RDS, Spark, Scala, Kafka, NoSQL, MLflow, CI/CD, Docker, Kubernetes
 
-[Apply Here](https://www.indeed.com/viewjob?jk=602b2be6bb9c1292)
+[Apply Here](https://www.indeed.com/viewjob?jk=b63d700b95b8e4e4)
+
+---
+
+## 34. Senior Cloud GIS Architect @ GeoSearch, Inc.
+**Match Score:** 12.5%
+
+📍 **Location:** Fairfax, VA, US USA
+
+🔑 **Keywords:** AWS, S3, API Gateway, RDS, Azure, Scala, SQL Server, PostgreSQL, MongoDB, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9aadf21ab82857d4)
+
+---
+
+## 35. Data Engineer @ AutoSavvy
+**Match Score:** 12.5%
+
+📍 **Location:** Woods Cross, UT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Scala, SQL Server, Data Modeling, ETL, ELT, Power BI
+
+[Apply Here](https://www.indeed.com/viewjob?jk=21039e2b16d29978)
 
 ---
 
@@ -401,29 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Data Product and Integration Analyst @ Genworth
-**Match Score:** 12.5%
-
-📍 **Location:** Richmond, VA, US USA
-
-🔑 **Keywords:** RDS, Azure, Databricks, Dataflow, Scala, SQL Server, Data Modeling, ETL, Power BI, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4c7c19d767265f52)
-
----
-
-## 38. Data Engineer @ AutoSavvy
-**Match Score:** 12.5%
-
-📍 **Location:** Woods Cross, UT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Blob Storage, Scala, SQL Server, Data Modeling, ETL, ELT, Power BI
-
-[Apply Here](https://www.indeed.com/viewjob?jk=21039e2b16d29978)
-
----
-
-## 39. Senior Software Engineer @ Convey
+## 37. Senior Software Engineer @ Convey
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -434,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Senior Software Engineer @ Convey
+## 38. Senior Software Engineer @ Convey
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -445,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Senior Software Engineer @ Convey
+## 39. Senior Software Engineer @ Convey
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -456,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. I O Engineer @ Optum
+## 40. I O Engineer @ Optum
 **Match Score:** 11.8%
 
 📍 **Location:** Minnetonka, MN, US USA
@@ -467,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Senior, Data Engineer @ Carrington Mortgage Services, LLC
+## 41. Senior, Data Engineer @ Carrington Mortgage Services, LLC
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -478,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. VDH Cloud Data Engineer (Richmond) @ Betis Group, Inc.
+## 42. VDH Cloud Data Engineer (Richmond) @ Betis Group, Inc.
 **Match Score:** 11.8%
 
 📍 **Location:** Richmond, VA, US USA
@@ -489,18 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Sr. Software Engineer - Full Stack @ Purpose Financial
-**Match Score:** 11.8%
-
-📍 **Location:** Greenville, SC, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, RDS, Azure, Scala, ETL, CI/CD, Azure DevOps, Maven
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cb266de132067a63)
-
----
-
-## 46. Software Developer @ BECU
+## 43. Software Developer @ BECU
 **Match Score:** 11.8%
 
 📍 **Location:** WA, US USA
@@ -511,7 +478,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Software Engineer II @ SEI Investments
+## 44. Sr. Software Engineer - Full Stack @ Purpose Financial
+**Match Score:** 11.8%
+
+📍 **Location:** Greenville, SC, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, RDS, Azure, Scala, ETL, CI/CD, Azure DevOps, Maven
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cb266de132067a63)
+
+---
+
+## 45. Java Engineer @ Charles Schwab
+**Match Score:** 11.8%
+
+📍 **Location:** Southlake, TX, US USA
+
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, GCP, Spark, PySpark, Scala, Kafka, PostgreSQL, MongoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=32c763a51fc327e6)
+
+---
+
+## 46. Software Engineer II @ SEI Investments
 **Match Score:** 11.8%
 
 📍 **Location:** Oaks, PA, US USA
@@ -522,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Engineer III, DevOps @ Concentra
+## 47. Engineer III, DevOps @ Concentra
 **Match Score:** 11.8%
 
 📍 **Location:** Addison, TX, US USA
@@ -533,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Forward Deployed Engineer - AI SOC @ Ahead
+## 48. Forward Deployed Engineer - AI SOC @ Ahead
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -544,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Senior Data Software Engineer - Remote @ Optum
+## 49. Senior Data Software Engineer - Remote @ Optum
 **Match Score:** 11.1%
 
 📍 **Location:** Eden Prairie, MN, US USA
@@ -555,7 +544,513 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Cloud Support & DevOPS Engineer @ Kore.ai
+## 50. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Bellevue, WA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6f66ed36e35c3928)
+
+---
+
+## 51. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=09aaaaf6b05a7a81)
+
+---
+
+## 52. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Philadelphia, PA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=beeeb05481ffa3fd)
+
+---
+
+## 53. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Milwaukee, WI, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=52126b35f95fb8f8)
+
+---
+
+## 54. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Princeton, NJ, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=29a68a7d08fbe01d)
+
+---
+
+## 55. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Salt Lake City, UT, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2366d0095d71df3c)
+
+---
+
+## 56. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8f05b96a5cf11bb0)
+
+---
+
+## 57. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f555d911530273f0)
+
+---
+
+## 58. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Lansing, MI, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a77478365e47af5d)
+
+---
+
+## 59. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Hermitage, TN, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cd5e6e2b32efd5c0)
+
+---
+
+## 60. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Jersey City, NJ, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3cf3af3715aea016)
+
+---
+
+## 61. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Fort Worth, TX, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a9962c699e7b6185)
+
+---
+
+## 62. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Boise, ID, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c69a160c1457e1c5)
+
+---
+
+## 63. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Richmond, VA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=64aa0159e9389e44)
+
+---
+
+## 64. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a2b960df7ed57e9d)
+
+---
+
+## 65. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Rochester, NY, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4cb5d52259bf0471)
+
+---
+
+## 66. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Baltimore, MD, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9bb3a4046ad04ad7)
+
+---
+
+## 67. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Davenport, IA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=714ce42688a381c9)
+
+---
+
+## 68. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Sacramento, CA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f199052b0c23dcbd)
+
+---
+
+## 69. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8913bab9f3417548)
+
+---
+
+## 70. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Las Vegas, NV, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=32838dc534178bd3)
+
+---
+
+## 71. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Morristown, NJ, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=62d3e93739ca63bc)
+
+---
+
+## 72. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Louisville, KY, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c45a552782a87ce2)
+
+---
+
+## 73. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=43b4a6ea360fcf0b)
+
+---
+
+## 74. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Costa Mesa, CA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=86b20d935fd5092a)
+
+---
+
+## 75. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Jericho, NY, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c6ea25bee3a2f193)
+
+---
+
+## 76. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Kansas City, MO, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cbe0d78f48801be2)
+
+---
+
+## 77. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Midland, MI, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a58e8526e088cb1e)
+
+---
+
+## 78. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Fresno, CA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=998f2d65c888a408)
+
+---
+
+## 79. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Raleigh, NC, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3ef39faa18331e2e)
+
+---
+
+## 80. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** St. Louis, MO, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7bf762c4708388f4)
+
+---
+
+## 81. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Cleveland, OH, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d6e12c51d5852d0c)
+
+---
+
+## 82. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Grand Rapids, MI, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=58b49e29b8a554ab)
+
+---
+
+## 83. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Washington, DC, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=604b79461fedf927)
+
+---
+
+## 84. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f97fe63b06d0368a)
+
+---
+
+## 85. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Miami, FL, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f39165c25f32dbb1)
+
+---
+
+## 86. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Cincinnati, OH, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=abfcf8fd5fce3258)
+
+---
+
+## 87. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Birmingham, AL, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9b0e0f9ecf7f9e54)
+
+---
+
+## 88. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Tampa, FL, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f475ba0fa29d4a2e)
+
+---
+
+## 89. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Jacksonville, FL, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=13fb4ea225ed1fcf)
+
+---
+
+## 90. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Memphis, TN, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3a764a06d81d641a)
+
+---
+
+## 91. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** San Francisco, CA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=823e9e92cfcbb982)
+
+---
+
+## 92. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Tempe, AZ, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1443315787438a98)
+
+---
+
+## 93. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Hartford, CT, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=868ea3e4e3bd4a8d)
+
+---
+
+## 94. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Des Moines, IA, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fc3763ac0aaf5fe5)
+
+---
+
+## 95. Project - Data Engineer II @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Stamford, CT, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Spark, PySpark, Scala, Snowflake, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d30b799c1e5b8a40)
+
+---
+
+## 96. Cloud Support & DevOPS Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Irving, TX, US USA
@@ -566,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Sr. Software Engineer - Analytics Platform @ Addepar
+## 97. Sr. Software Engineer - Analytics Platform @ Addepar
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -577,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Sr Databricks Certified Data Engineer @ Derex Technologies inc
+## 98. Sr Databricks Certified Data Engineer @ Derex Technologies inc
 **Match Score:** 11.1%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -588,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Senior Data Engineer @ RS21: A Data Science and Visualization Company
+## 99. Senior Data Engineer @ RS21: A Data Science and Visualization Company
 **Match Score:** 11.1%
 
 📍 **Location:** Albuquerque, NM, US USA
@@ -599,18 +1094,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Sr. IT Analyst @ DOW
-**Match Score:** 11.1%
-
-📍 **Location:** Midland, MI, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Delta Live Tables, Scala, ETL, ELT, Azure DevOps, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dfb5747a9d41a47e)
-
----
-
-## 56. Senior Site Reliability Engineer – Telephony & Communications Platform (AWS) @ Filevine
+## 100. Senior Site Reliability Engineer – Telephony & Communications Platform (AWS) @ Filevine
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -621,40 +1105,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Junior Security Automation Engineer @ Fidelity National Financial
-**Match Score:** 11.1%
-
-📍 **Location:** Jacksonville, FL, US USA
-
-🔑 **Keywords:** RDS, Azure, Blob Storage, Scala, REST API integration, Docker, Kubernetes, AKS, Airflow, Apache Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=38b62aab1e8febeb)
-
----
-
-## 58. Google Cloud Platform (GCP) Architect @ GLASSHOUSE SYSTEMS
-**Match Score:** 11.1%
-
-📍 **Location:** Lisle, IL, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, Google Cloud Platform, GCP, BigQuery, Cloud Storage, Scala, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6caf875ac9a26f9e)
-
----
-
-## 59. Engineer II, Advanced Research (Remote) @ CrowdStrike
-**Match Score:** 11.1%
-
-📍 **Location:** MA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Cassandra, CI/CD, Jenkins, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bae6de8914f99b9c)
-
----
-
-## 60. Automation Python Developer with SQL @ VeeRteq Solutions Inc.
+## 101. Automation Python Developer with SQL @ VeeRteq Solutions Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Chicago, IL, US USA
@@ -665,7 +1116,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Senior AI Engineer, AI Services @ Ahead
+## 102. Engineer II, Advanced Research (Remote) @ CrowdStrike
+**Match Score:** 11.1%
+
+📍 **Location:** MA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Cassandra, CI/CD, Jenkins, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bae6de8914f99b9c)
+
+---
+
+## 103. Senior AI Engineer, AI Services @ Ahead
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -676,7 +1138,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. Senior Data Engineer @ Adobe
+## 104. Senior Data Engineer @ Adobe
 **Match Score:** 10.4%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -687,7 +1149,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Big Data Architect @ BV Teck
+## 105. Big Data Architect @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -698,7 +1160,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. (USA) Senior, Software Engineer @ Sam's Club
+## 106. (USA) Senior, Software Engineer @ Sam's Club
 **Match Score:** 10.4%
 
 📍 **Location:** Bentonville, AR, US USA
@@ -709,7 +1171,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Cloud Data Architect @ Texas Health and Human Services Commission
+## 107. Cloud Data Architect @ Texas Health and Human Services Commission
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -720,7 +1182,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Senior Software Engineer (Data) @ Solovis
+## 108. Senior Software Engineer (Data) @ Solovis
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -731,7 +1193,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Senior Software Development Engineer @ CVS Health
+## 109. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** KY, US USA
@@ -742,7 +1204,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. Senior Software Development Engineer @ CVS Health
+## 110. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** MT, US USA
@@ -753,7 +1215,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Senior Software Development Engineer @ CVS Health
+## 111. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** MI, US USA
@@ -764,7 +1226,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Senior Software Development Engineer @ CVS Health
+## 112. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** AZ, US USA
@@ -775,7 +1237,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Senior Software Development Engineer @ CVS Health
+## 113. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** SD, US USA
@@ -786,7 +1248,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Senior Software Development Engineer @ CVS Health
+## 114. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** WA, US USA
@@ -797,7 +1259,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Senior Software Development Engineer @ CVS Health
+## 115. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** DE, US USA
@@ -808,7 +1270,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Senior Software Development Engineer @ CVS Health
+## 116. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** TN, US USA
@@ -819,7 +1281,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Senior Software Development Engineer @ CVS Health
+## 117. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** PA, US USA
@@ -830,7 +1292,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Senior Software Development Engineer @ CVS Health
+## 118. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** ND, US USA
@@ -841,7 +1303,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Senior Software Development Engineer @ CVS Health
+## 119. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** WY, US USA
@@ -852,7 +1314,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Senior Software Development Engineer @ CVS Health
+## 120. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** GA, US USA
@@ -863,7 +1325,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Senior Software Development Engineer @ CVS Health
+## 121. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** NH, US USA
@@ -874,7 +1336,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Senior Software Development Engineer @ CVS Health
+## 122. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** OH, US USA
@@ -885,7 +1347,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Senior Software Development Engineer @ CVS Health
+## 123. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** VA, US USA
@@ -896,7 +1358,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Senior Software Development Engineer @ CVS Health
+## 124. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** CA, US USA
@@ -907,7 +1369,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Senior Software Development Engineer @ CVS Health
+## 125. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** NY, US USA
@@ -918,7 +1380,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Senior Software Development Engineer @ CVS Health
+## 126. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** Washington, DC, US USA
@@ -929,7 +1391,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Senior Software Development Engineer @ CVS Health
+## 127. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** SC, US USA
@@ -940,7 +1402,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Senior Software Development Engineer @ CVS Health
+## 128. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** IN, US USA
@@ -951,7 +1413,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Senior Software Development Engineer @ CVS Health
+## 129. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** IA, US USA
@@ -962,7 +1424,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Senior Software Development Engineer @ CVS Health
+## 130. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** OR, US USA
@@ -973,7 +1435,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Senior Software Development Engineer @ CVS Health
+## 131. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** CT, US USA
@@ -984,7 +1446,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Senior Software Development Engineer @ CVS Health
+## 132. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** UT, US USA
@@ -995,7 +1457,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Senior Software Development Engineer @ CVS Health
+## 133. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** RI, US USA
@@ -1006,7 +1468,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Senior Software Development Engineer @ CVS Health
+## 134. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** AL, US USA
@@ -1017,7 +1479,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Senior Software Development Engineer @ CVS Health
+## 135. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** MD, US USA
@@ -1028,7 +1490,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Senior Software Development Engineer @ CVS Health
+## 136. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** CO, US USA
@@ -1039,7 +1501,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Senior Software Development Engineer @ CVS Health
+## 137. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** LA, US USA
@@ -1050,7 +1512,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Senior Software Development Engineer @ CVS Health
+## 138. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** NV, US USA
@@ -1061,7 +1523,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Senior Software Development Engineer @ CVS Health
+## 139. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** WV, US USA
@@ -1072,7 +1534,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Senior Software Development Engineer @ CVS Health
+## 140. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** WI, US USA
@@ -1083,7 +1545,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. Senior Software Development Engineer @ CVS Health
+## 141. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** ME, US USA
@@ -1094,7 +1556,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. Senior Software Development Engineer @ CVS Health
+## 142. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** ID, US USA
@@ -1105,7 +1567,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Senior Software Development Engineer @ CVS Health
+## 143. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** KS, US USA
@@ -1116,7 +1578,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. Senior Software Development Engineer @ CVS Health
+## 144. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** NC, US USA
@@ -1127,7 +1589,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. Senior Software Development Engineer @ CVS Health
+## 145. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** MS, US USA
@@ -1138,7 +1600,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 104. Senior Software Development Engineer @ CVS Health
+## 146. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** OK, US USA
@@ -1149,7 +1611,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 105. Senior Software Development Engineer @ CVS Health
+## 147. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** MO, US USA
@@ -1160,7 +1622,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 106. Senior Software Development Engineer @ CVS Health
+## 148. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** MA, US USA
@@ -1171,7 +1633,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 107. Senior Software Development Engineer @ CVS Health
+## 149. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** FL, US USA
@@ -1182,7 +1644,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 108. Senior Software Development Engineer @ CVS Health
+## 150. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** MN, US USA
@@ -1193,7 +1655,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 109. Senior Software Development Engineer @ CVS Health
+## 151. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** NE, US USA
@@ -1204,7 +1666,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 110. Senior Software Development Engineer @ CVS Health
+## 152. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** NJ, US USA
@@ -1215,7 +1677,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 111. Senior Software Development Engineer @ CVS Health
+## 153. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** VT, US USA
@@ -1226,7 +1688,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 112. Senior Software Development Engineer @ CVS Health
+## 154. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** NM, US USA
@@ -1237,7 +1699,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 113. Senior Software Development Engineer @ CVS Health
+## 155. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** AR, US USA
@@ -1248,7 +1710,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 114. Senior Software Development Engineer @ CVS Health
+## 156. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** IL, US USA
@@ -1259,7 +1721,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 115. Senior Software Development Engineer @ CVS Health
+## 157. Senior Software Development Engineer @ CVS Health
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -1270,18 +1732,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 116. Senior Machine Learning Engineer (NLP/LLM Focus) @ Call Box
-**Match Score:** 10.4%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Spark, Scala, ETL, MLOps, MLflow, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6fea9b3e6393fbcc)
-
----
-
-## 117. Azure Data Engineer @ IT America Inc
+## 158. Azure Data Engineer @ IT America Inc
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -1292,7 +1743,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 118. Data Engineer – Snowflake Data Ingestion & Data Products (ECC Platform) - W2 Position @ VTekis Consulting LLP
+## 159. Data Engineer – Snowflake Data Ingestion & Data Products (ECC Platform) - W2 Position @ VTekis Consulting LLP
 **Match Score:** 10.4%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -1303,7 +1754,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 119. Senior Data Engineer @ Visual Edge IT
+## 160. Senior Data Engineer @ Visual Edge IT
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1314,7 +1765,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 120. Senior Java Full Stack Developer @ BV Teck
+## 161. Senior Java Full Stack Developer @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1325,7 +1776,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 121. Senior Full Stack Software Engineer (Java) @ BV Teck
+## 162. Senior Full Stack Software Engineer (Java) @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1336,29 +1787,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 122. Software Engineer - GDX Order Management @ Costco Wholesale
-**Match Score:** 10.4%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** RDS, Google Cloud Platform, BigQuery, Scala, Data Modeling, CI/CD, Jenkins, Docker, Kubernetes, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b9aa69716ef18f63)
-
----
-
-## 123. Sr. Software Engineer @ Lumeris
-**Match Score:** 10.4%
-
-📍 **Location:** MA, US USA
-
-🔑 **Keywords:** AWS, RDS, Google Cloud Platform, GCP, Vertex AI, PostgreSQL, NoSQL, CI/CD, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2f4dc79d645f2ca8)
-
----
-
-## 124. Data Platform Architect @ BV Teck
+## 163. Data Platform Architect @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1369,7 +1798,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 125. Generative AI Engineer @ Afficiency
+## 164. Software Engineer - GDX Order Management @ Costco Wholesale
+**Match Score:** 10.4%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** RDS, Google Cloud Platform, BigQuery, Scala, Data Modeling, CI/CD, Jenkins, Docker, Kubernetes, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b9aa69716ef18f63)
+
+---
+
+## 165. Sr. Software Engineer @ Lumeris
+**Match Score:** 10.4%
+
+📍 **Location:** MA, US USA
+
+🔑 **Keywords:** AWS, RDS, Google Cloud Platform, GCP, Vertex AI, PostgreSQL, NoSQL, CI/CD, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2f4dc79d645f2ca8)
+
+---
+
+## 166. Generative AI Engineer @ Afficiency
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -1380,29 +1831,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 126. Technical Architect @ STAAR Surgical
-**Match Score:** 10.4%
-
-📍 **Location:** Lake Forest, CA, US USA
-
-🔑 **Keywords:** AWS, API Gateway, IAM, RDS, Azure, Scala, Oracle, CI/CD, Azure DevOps, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1a6f9879069355ae)
-
----
-
-## 127. Senior Java Full Stack Developer @ BV Teck
-**Match Score:** 10.4%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Kafka, Oracle, SQL Server, PostgreSQL, MySQL, CI/CD, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3f88cd142184b0e3)
-
----
-
-## 128. DEXIS Sr. Full Stack Software Engineer, Cloud (Quakertown, PA) @ Envista Holdings
+## 167. DEXIS Sr. Full Stack Software Engineer, Cloud (Quakertown, PA) @ Envista Holdings
 **Match Score:** 10.4%
 
 📍 **Location:** Quakertown, PA, US USA
@@ -1413,7 +1842,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 129. Forward Deployment Engineer @ Global KTech
+## 168. Senior Java Full Stack Developer @ BV Teck
+**Match Score:** 10.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Azure, GCP, Kafka, Oracle, SQL Server, PostgreSQL, MySQL, CI/CD, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3f88cd142184b0e3)
+
+---
+
+## 169. Forward Deployment Engineer @ Global KTech
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1424,7 +1864,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 130. AI/ML Engineer @ Optum
+## 170. AI/ML Engineer @ Optum
 **Match Score:** 10.4%
 
 📍 **Location:** Minnetonka, MN, US USA
@@ -1435,7 +1875,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 131. Senior Build Engineer, CI/CD Efficiency @ 1X
+## 171. Senior Build Engineer, CI/CD Efficiency @ 1X
 **Match Score:** 10.4%
 
 📍 **Location:** San Carlos, CA, US USA
