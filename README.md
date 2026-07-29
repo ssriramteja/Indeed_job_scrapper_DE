@@ -1,15 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-29 22:52
+Last updated: 2026-07-29 23:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Woongjin, Inc | DataOps Engineer | Englewood Cliffs, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=38e19e4e49ff838f) | 2026-07-29 23:54 |
+| Sbt Global | DataOps Engineer | Englewood Cliffs, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2c2b990b655e9f01) | 2026-07-29 23:54 |
+| ZoomInfo | Senior DevOps Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=66a7bb78179837fe) | 2026-07-29 23:54 |
+| Skechers | Sr. Salesforce Platform Engineer | Manhattan Beach, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=863fe2721df72a7a) | 2026-07-29 23:54 |
+| 540 | Senior Data Engineer | Arlington, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9b7615dc336b2258) | 2026-07-29 23:54 |
+| 540 | Data Engineer | Arlington, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c0833d4fa34d1d99) | 2026-07-29 23:54 |
+| Capgemini | AI Architect/Developer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a3c1a9c0b4485739) | 2026-07-29 23:54 |
+| US LBM Holdings | US LBM AI Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5b0e288f3f830762) | 2026-07-29 23:54 |
+| MIAX | Senior Data Engineer | Princeton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c9bbe4fa9a69f979) | 2026-07-29 23:54 |
+| LPL Financial | Senior Engineer, Software Dev Test Quality Engineering (Req# 000106) | Fort Mill, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5094515b70d2d99) | 2026-07-29 23:54 |
+| Woongjin, Inc | Backend Engineer _ AI Gateway | Englewood Cliffs, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c10ba632ba10eb20) | 2026-07-29 23:54 |
+| Sbt Global | Backend Engineer_AI Gateway | Englewood Cliffs, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83ee93c45d38de64) | 2026-07-29 23:54 |
+| The Weather Company | Software Engineer | Andover, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=34cf04c12e423597) | 2026-07-29 23:54 |
+| Press Ganey | Senior Software Engineer ( Seattle/Provo Hybrid) | Provo, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03d04a01c7bf9fa1) | 2026-07-29 23:54 |
 | Intellibee Inc | Sr Data Engineer | Malvern, AR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7de6f50bed06cb2e) | 2026-07-29 22:52 |
 | Intellibee Inc | Data Engineer | Malvern, AR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ab6ed1b6bcf72320) | 2026-07-29 22:52 |
 | Intellibee Inc | Senior Azure Full Stack Developer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8622a181db01697f) | 2026-07-29 22:52 |
-| The Weather Company | Software Engineer | Andover, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=34cf04c12e423597) | 2026-07-29 22:52 |
 | JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60932333f665bc9b) | 2026-07-29 22:52 |
 | Leidos | Databricks Data Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=002cb1d712286720) | 2026-07-29 21:50 |
 | Leidos | Data Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ae3f89500c8c96cb) | 2026-07-29 21:50 |
