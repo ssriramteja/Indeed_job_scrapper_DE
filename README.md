@@ -1,15 +1,34 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-29 17:05
+Last updated: 2026-07-29 18:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| American Express | Data Engineer I - Global Servicing Technology | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=18d4e19e765bcde9) | 2026-07-29 18:58 |
+| American Express | Software Engineer II - Global Servicing Technology | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a4e43dcb8c0d20cc) | 2026-07-29 18:58 |
+| ZS Associates | Senior AI Engineer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=23b0d8efe2a85a6a) | 2026-07-29 18:58 |
+| ZS Associates | Senior AI Engineer | Princeton, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e9bb6b2adb25c47c) | 2026-07-29 18:58 |
+| nan | Azure Data Engineer with Elasticsearch Experience | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e7528008cee1ab91) | 2026-07-29 18:58 |
+| redan | Data Engineer (ETL Developer) US CITIZENS ONLY | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b7e83b43e3fd593d) | 2026-07-29 18:58 |
+| nan | DevOps Engineer | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=626b97d1a80296b3) | 2026-07-29 18:58 |
+| National Debt Relief | Senior Machine Learning Ops Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7a56ad8bd3fa9afc) | 2026-07-29 18:58 |
+| ClosingLock | DevOps Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9d3d3173f400d1a6) | 2026-07-29 18:58 |
+| Cotiviti | Senior GCP CloudOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=78a58a30f511c5e2) | 2026-07-29 18:58 |
+| nan | SAP PS/PPM Functional Consultant (Microsoft) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bbaac0f5c3a6c90a) | 2026-07-29 18:58 |
+| SysLogic, Inc. | Senior Data Engineer | Brookfield, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4dd438012cba0523) | 2026-07-29 18:58 |
+| Addepar | Sr. Automation Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e565e5bf02069402) | 2026-07-29 18:58 |
+| SrinSoft Technologies | SQL Server | Weston, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=474940d0db2dbb02) | 2026-07-29 18:58 |
+| Twilio | Software Engineer L3 | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=42841dc64210d93f) | 2026-07-29 18:58 |
+| Beghou Consulting | Consultant, Data Analytics | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2a3d2db60c0a652d) | 2026-07-29 18:58 |
+| RS21: A Data Science and Visualization Company | Senior Data Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a873a920e8efc235) | 2026-07-29 18:58 |
+| The Washington Post | Senior Software Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f9aec2a1b87419d) | 2026-07-29 18:58 |
+| nan | GenAI Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d7ff6073572b730f) | 2026-07-29 18:58 |
+| Tekraft Corporation | Metadata Specialist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e43efa70b96122a9) | 2026-07-29 18:58 |
 | EisnerAmper | AI Platform Architect, Strategy and Enablement | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e316e9f322e85e11) | 2026-07-29 17:05 |
 | Courser, Inc. | Systems Engineer - II | Savannah, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f821193c319b1b61) | 2026-07-29 17:05 |
 | Virtues | GCP BigQuery+Nifi+Kafa Data Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1e2874b216a47f8) | 2026-07-29 17:05 |
-| RS21: A Data Science and Visualization Company | Senior Data Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a873a920e8efc235) | 2026-07-29 17:05 |
 | United Nations Office for Project Services | ICT Specialist - Software Development (Javascript, Typescript, Python, Javascript frameworks) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=329640b896b0a319) | 2026-07-29 17:05 |
 | Alchemy | GCP Data Engineer/Architect | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebb9a8bc7b5038ad) | 2026-07-29 15:44 |
 | Zoom Communications | DevOps Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a42db5f4f831902e) | 2026-07-29 15:44 |
@@ -365,8 +384,6 @@ Last updated: 2026-07-29 17:05
 | Protagona | Cloud Software Engineer - Egypt | Egypt, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a89355d34c2e7d21) | 2026-07-26 14:36 |
 | Protagona | Senior QA Engineer - Egypt | Egypt, AR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb073c25dabf3264) | 2026-07-26 14:36 |
 | 3Pillar Global | AI Data Architect | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=4b2cc185aab9474c) | 2026-07-26 01:53 |
-| Centurion Consulting Group | Mulesoft Developer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08f9a00d6c95207e) | 2026-07-25 18:54 |
-| nan | Backend Python Engineer | California City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8ab8761ac03ae1e) | 2026-07-25 17:52 |
 
 
 ---
