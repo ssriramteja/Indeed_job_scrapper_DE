@@ -1,13 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-29 15:44
+Last updated: 2026-07-29 17:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EisnerAmper | AI Platform Architect, Strategy and Enablement | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e316e9f322e85e11) | 2026-07-29 17:05 |
+| Courser, Inc. | Systems Engineer - II | Savannah, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f821193c319b1b61) | 2026-07-29 17:05 |
+| Virtues | GCP BigQuery+Nifi+Kafa Data Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1e2874b216a47f8) | 2026-07-29 17:05 |
+| RS21: A Data Science and Visualization Company | Senior Data Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a873a920e8efc235) | 2026-07-29 17:05 |
+| United Nations Office for Project Services | ICT Specialist - Software Development (Javascript, Typescript, Python, Javascript frameworks) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=329640b896b0a319) | 2026-07-29 17:05 |
 | Alchemy | GCP Data Engineer/Architect | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebb9a8bc7b5038ad) | 2026-07-29 15:44 |
-| RS21: A Data Science and Visualization Company | Senior Data Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a873a920e8efc235) | 2026-07-29 15:44 |
 | Zoom Communications | DevOps Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a42db5f4f831902e) | 2026-07-29 15:44 |
 | eLinx Health, LLC | Healthcare IT Integration Engineer (OpenEMR & Clearinghouse) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f404d30d421a652a) | 2026-07-29 15:44 |
 | NTT DATA | AWS ETL Data Engineer - HYBRID | Memphis, TN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0f3b0a20014410c8) | 2026-07-29 13:46 |
@@ -363,7 +367,6 @@ Last updated: 2026-07-29 15:44
 | 3Pillar Global | AI Data Architect | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=4b2cc185aab9474c) | 2026-07-26 01:53 |
 | Centurion Consulting Group | Mulesoft Developer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08f9a00d6c95207e) | 2026-07-25 18:54 |
 | nan | Backend Python Engineer | California City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8ab8761ac03ae1e) | 2026-07-25 17:52 |
-| Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bdb09774bada084) | 2026-07-25 15:57 |
 
 
 ---
