@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-29 21:50
+Last updated: 2026-07-29 22:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Intellibee Inc | Sr Data Engineer | Malvern, AR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7de6f50bed06cb2e) | 2026-07-29 22:52 |
+| Intellibee Inc | Data Engineer | Malvern, AR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ab6ed1b6bcf72320) | 2026-07-29 22:52 |
+| Intellibee Inc | Senior Azure Full Stack Developer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8622a181db01697f) | 2026-07-29 22:52 |
+| The Weather Company | Software Engineer | Andover, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=34cf04c12e423597) | 2026-07-29 22:52 |
+| JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60932333f665bc9b) | 2026-07-29 22:52 |
 | Leidos | Databricks Data Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=002cb1d712286720) | 2026-07-29 21:50 |
 | Leidos | Data Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ae3f89500c8c96cb) | 2026-07-29 21:50 |
 | VTekis Consulting LLP | Databricks Architect - (ADLS, S3, or GCS). | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=066f34528bcf8419) | 2026-07-29 21:50 |
@@ -16,7 +21,6 @@ Last updated: 2026-07-29 21:50
 | PowerSecure Inc. | Full Stack - Software Engineer II (Power Distribution Equipment, Utility, HMI) | Durham, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4bc026a652edd019) | 2026-07-29 21:50 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Tulsa, OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0e5d9c9078da0cac) | 2026-07-29 21:50 |
 | nan | MDM Architect | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0510f5b12bfd66b3) | 2026-07-29 21:50 |
-| The Weather Company | Software Engineer | Andover, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=34cf04c12e423597) | 2026-07-29 21:50 |
 | Vistar Media | Senior Data Engineer, Big Data and Cloud | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=488613eddf36a539) | 2026-07-29 21:50 |
 | Peterson Caterpillar | Data & Analytics Engineer | San Leandro, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6d496ec22a09d07) | 2026-07-29 21:50 |
 | Delinea | Senior Software Development Engineer | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=749e23d0b9c802de) | 2026-07-29 21:50 |
