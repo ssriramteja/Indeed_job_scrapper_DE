@@ -1,11 +1,43 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-29 18:58
+Last updated: 2026-07-29 20:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cloudera | Solutions Engineer - East Coast | GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c3467fd4232b4427) | 2026-07-29 20:11 |
+| Confiz | AI Solutions Architect | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0691b5cf974ba456) | 2026-07-29 20:11 |
+| VIVA | Software Engineer | Urbandale, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2d931b69fdd57a33) | 2026-07-29 20:11 |
+| Capgemini | Senior Full Stack Software Engineer | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=355105231092b986) | 2026-07-29 20:11 |
+| Thales | Senior Cloud Engineer | Clarksburg, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=10beb430d349bbba) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5135e6c341a3ad15) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da990d9cbb7af601) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e2340325e41c8560) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=37729657de7d9789) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8181bc68066c8b55) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=48b451377b7721ec) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fef2706cf7bdf47b) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=29a938574a04d8af) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9b6904bf6d9729d3) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c6c49f8e442d9741) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5dd948a47e1b583a) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ce2b7cd2b44134b) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2e5a8f41ef5eb310) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=93518b57b5322a19) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=308e79781d5fdd4d) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b7aa55995bbc05a) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=15ece6abd61c2f49) | 2026-07-29 20:11 |
+| NinjaOne | Senior Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=42b0162216071e81) | 2026-07-29 20:11 |
+| Databricks | Solutions Architect - Financial Services | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07c8e81b9cc71fac) | 2026-07-29 20:11 |
+| Databricks | Solutions Architect | NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c365cd2854a53060) | 2026-07-29 20:11 |
+| Databricks | Solutions Architect - Financial Services (Professional Services) | IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20ec1e1b2bf91dc9) | 2026-07-29 20:11 |
+| Epsilon | Senior Software Engineer | Wakefield, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e267c7780d11420c) | 2026-07-29 20:11 |
+| Kore.ai | DevOPS Engineer - Irving, TX (ONSITE) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27639b7b075aa034) | 2026-07-29 20:11 |
+| accrete | Senior Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=504028cfd0bf3313) | 2026-07-29 20:11 |
+| RS21: A Data Science and Visualization Company | Senior Data Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a873a920e8efc235) | 2026-07-29 20:11 |
+| redan | Data Operations Specialist (DBA) US CITIZENS ONLY | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e61ffe9035451db) | 2026-07-29 20:11 |
+| Objectways Technologies | Senior Data Engineer - Palantir Foundry | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3bd98be19932593) | 2026-07-29 20:11 |
 | American Express | Data Engineer I - Global Servicing Technology | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=18d4e19e765bcde9) | 2026-07-29 18:58 |
 | American Express | Software Engineer II - Global Servicing Technology | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a4e43dcb8c0d20cc) | 2026-07-29 18:58 |
 | ZS Associates | Senior AI Engineer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=23b0d8efe2a85a6a) | 2026-07-29 18:58 |
@@ -22,7 +54,6 @@ Last updated: 2026-07-29 18:58
 | SrinSoft Technologies | SQL Server | Weston, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=474940d0db2dbb02) | 2026-07-29 18:58 |
 | Twilio | Software Engineer L3 | IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=42841dc64210d93f) | 2026-07-29 18:58 |
 | Beghou Consulting | Consultant, Data Analytics | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2a3d2db60c0a652d) | 2026-07-29 18:58 |
-| RS21: A Data Science and Visualization Company | Senior Data Engineer | Albuquerque, NM, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a873a920e8efc235) | 2026-07-29 18:58 |
 | The Washington Post | Senior Software Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f9aec2a1b87419d) | 2026-07-29 18:58 |
 | nan | GenAI Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d7ff6073572b730f) | 2026-07-29 18:58 |
 | Tekraft Corporation | Metadata Specialist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e43efa70b96122a9) | 2026-07-29 18:58 |
