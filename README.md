@@ -1,15 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-30 17:15
+Last updated: 2026-07-30 19:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 19:10 |
+| Loffler Companies, Inc. | Power BI Data Analyst | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d521ef740f60ce71) | 2026-07-30 19:10 |
+| The Museum of Modern Art | Senior Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9bcc4b2fa6c73536) | 2026-07-30 19:10 |
+| Visa | Sr. SW Engineer | Foster City, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=20a004e42eab6632) | 2026-07-30 19:10 |
+| Public Storage | Senior AI/ML Data Engineer | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d7493eab3654bd62) | 2026-07-30 19:10 |
+| Optum | Sr Dir Software - Data Platform Engineer - Minneapolis, MN | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3f8fa88f7e3fd0c2) | 2026-07-30 19:10 |
+| GM Financial | Software Development Engineer II - Gen AI and Innovation Team | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=93f5da6a90e11da1) | 2026-07-30 19:10 |
+| JPMorganChase | Software Engineer III | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc1820a549077871) | 2026-07-30 19:10 |
+| NTT DATA | AI Foundational Model Engineer | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=376d725617b0f2aa) | 2026-07-30 19:10 |
+| GM Financial | Salesforce Development Engineer II | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2bd0abe4afa5b39) | 2026-07-30 19:10 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-30 19:10 |
+| Reach Financial | Data Engineer II | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62588f4999e63221) | 2026-07-30 19:10 |
 | Strategic Mindz LLC | Senior Java Developer - Child Support Management System | Albany, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=817df956fbf694bd) | 2026-07-30 17:15 |
 | Linstarsolution corporation | DataOps Engineer | Englewood Cliffs, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3be67238d1b6a44a) | 2026-07-30 17:15 |
 | Strategic Mindz LLC | Senior DotNET Developer - Child Support Management System | Albany, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1474978de0278b7b) | 2026-07-30 17:15 |
-| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 17:15 |
 | BakerHostetler | Data Solutions Engineer | Cleveland, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6e610a35113b8a37) | 2026-07-30 17:15 |
 | Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=235882076ff46707) | 2026-07-30 17:15 |
 | Public Storage | Senior ML Data Engineer | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=342724222b8446f4) | 2026-07-30 17:15 |
@@ -22,7 +33,6 @@ Last updated: 2026-07-30 17:15
 | BambooHR | Sr. Data Engineer | Draper, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1aeae119ed68b4e0) | 2026-07-30 17:15 |
 | Cisive | Senior Engineer, Data and AI | Annapolis, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=743af78e2a52e54b) | 2026-07-30 17:15 |
 | Moody's | Data Engineer-Data Platform & Analytics | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b950c881dbe97c6) | 2026-07-30 17:15 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-30 17:15 |
 | Cardiff | Python Engineer, Financial Data Platform & Integrations | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=44c5ea64ad488307) | 2026-07-30 17:15 |
 | Texas Instruments | Early Career: IT Security Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=536a5cbcba65868f) | 2026-07-30 15:03 |
 | Berkshire Hathaway GUARD Insurance Companies | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d44e48661eb7c09) | 2026-07-30 10:13 |
@@ -507,7 +517,6 @@ Last updated: 2026-07-30 17:15
 | Regions Financial | Cloud Solutions Architect | Hoover, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0e8d45fd09212b1) | 2026-07-27 06:17 |
 | True Religion Brand Jeans | Senior Software Developer | El Segundo, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d25577e9f3e1876) | 2026-07-26 23:52 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f495df65f464e1ae) | 2026-07-26 21:50 |
-| ValueBase Consulting | Sr Java Enterprise Architect in Irvine, CA | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cf9f970e709cc18a) | 2026-07-26 17:55 |
 
 
 ---
