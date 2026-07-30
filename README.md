@@ -1,16 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-30 20:56
+Last updated: 2026-07-30 22:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Dutch Bros Coffee | Senior Engineer, Data | Tempe, AZ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=06fd616fb4621cbc) | 2026-07-30 22:01 |
+| nan | Senior Data Engineer | San Francisco, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e3bc1c0882246fa5) | 2026-07-30 22:01 |
+| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 22:01 |
+| Sardine | Data Engineer - Onboarding | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=eafe0da0cb06f132) | 2026-07-30 22:01 |
+| Patriot Bank, N.A. | Senior Data Transformation Data Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7777dc92cdf89b5a) | 2026-07-30 22:01 |
+| Halliburton | Software Engineer - Early Career - Landmark | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2854756df3635191) | 2026-07-30 22:01 |
+| Epsilon Labs | Software Engineer - ML Infrastructure | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5b12d9efc6c6a98) | 2026-07-30 22:01 |
+| Hightower Advisors | Platform Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0d0534e87a93a57) | 2026-07-30 22:01 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-30 22:01 |
+| Washington University in St. Louis | Senior Software Engineer (Remote) - Radiology | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e445dc5779186f6) | 2026-07-30 22:01 |
+| Warner Bros. Discovery | Software Engineer II | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=642a2e2441a31d20) | 2026-07-30 22:01 |
+| Warner Bros. Discovery | Software Engineer II | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4555ba9a9f5693be) | 2026-07-30 22:01 |
+| Warner Bros. Discovery | Software Engineer II | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94a8a92e1381b54a) | 2026-07-30 22:01 |
+| Warner Bros. Discovery | Software Engineer II | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2413e7f250d00cb8) | 2026-07-30 22:01 |
+| Warner Bros. Discovery | Software Engineer II | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1e1faeaec512b702) | 2026-07-30 22:01 |
 | Smarty | Data Engineer | Orem, UT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=232fc1791e50c6b0) | 2026-07-30 20:56 |
 | Capgemini | Senior GCP Data Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=751ce7cf6c298548) | 2026-07-30 20:56 |
 | Sparksoft Corporation | Technical Solution Architect | Columbia, MD, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=eb08bdb737e91628) | 2026-07-30 20:56 |
 | General Motors (GM) | Senior Full Stack Software Engineer | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b44d49984ac43ef9) | 2026-07-30 20:56 |
-| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 20:56 |
 | Michael Baker International | Senior Cloud DevOps Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8279b19004b6546d) | 2026-07-30 20:56 |
 | j. anukem & associates | Microsoft Certified Power Platform Solution Architect | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9829e7244bb5e65a) | 2026-07-30 20:56 |
 | General Motors (GM) | Business Data Architect | Warren, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cd28b1da9cfe4d40) | 2026-07-30 20:56 |
@@ -22,7 +36,6 @@ Last updated: 2026-07-30 20:56
 | Daisy Brand | Senior BI Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91b1714cc80b634c) | 2026-07-30 20:56 |
 | Delan Associates, Inc | Cloud SME X2 | Juno Beach, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5a558c1d3bd32ae5) | 2026-07-30 20:56 |
 | Objectways Technologies | Python-AI_ML-GenAI- Senior Engineer | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0c55d5a480e1ba95) | 2026-07-30 20:56 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-30 20:56 |
 | Objectways Technologies | Senior Data Engineer - Palantir Foundry | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d5ca9632878562c) | 2026-07-30 20:56 |
 | Databricks | AI Engineer — GTM Analytics | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f9697dd941d556f) | 2026-07-30 20:56 |
 | Park Place Technologies | AI Software Architect | Highland Heights, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5333ce5a9b1f0a9f) | 2026-07-30 20:56 |
@@ -534,7 +547,6 @@ Last updated: 2026-07-30 20:56
 | Bessemer Trust | Senior Software Engineer | Woodbridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=74752f7f2514626c) | 2026-07-27 10:32 |
 | Regions Financial | Cloud Solutions Architect | Hoover, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0e8d45fd09212b1) | 2026-07-27 06:17 |
 | True Religion Brand Jeans | Senior Software Developer | El Segundo, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d25577e9f3e1876) | 2026-07-26 23:52 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f495df65f464e1ae) | 2026-07-26 21:50 |
 
 
 ---
