@@ -1,14 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-30 15:03
+Last updated: 2026-07-30 17:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 15:03 |
+| Strategic Mindz LLC | Senior Java Developer - Child Support Management System | Albany, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=817df956fbf694bd) | 2026-07-30 17:15 |
+| Linstarsolution corporation | DataOps Engineer | Englewood Cliffs, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3be67238d1b6a44a) | 2026-07-30 17:15 |
+| Strategic Mindz LLC | Senior DotNET Developer - Child Support Management System | Albany, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1474978de0278b7b) | 2026-07-30 17:15 |
+| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 17:15 |
+| BakerHostetler | Data Solutions Engineer | Cleveland, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6e610a35113b8a37) | 2026-07-30 17:15 |
+| Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=235882076ff46707) | 2026-07-30 17:15 |
+| Public Storage | Senior ML Data Engineer | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=342724222b8446f4) | 2026-07-30 17:15 |
+| Freddie Mac | Cloud Engineer Senior | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca6f5d8776368811) | 2026-07-30 17:15 |
+| The Cigna Group | Software Engineering Advisor | KS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=78f82eb1c3ef3a0b) | 2026-07-30 17:15 |
+| Regeneron | Sr. Developer - Automation Core | Tarrytown, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=00e334c03bdbb374) | 2026-07-30 17:15 |
+| Vforce Infotech | SAP S/4HANA MMPP Functional Consultant | California City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5b51f21983ae125e) | 2026-07-30 17:15 |
+| ClassWallet | Full Stack Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5859053628eb5c2) | 2026-07-30 17:15 |
+| Linstarsolution corporation | Backend Engineer _ AI Gateway | Englewood Cliffs, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40978ef369a5ee61) | 2026-07-30 17:15 |
+| BambooHR | Sr. Data Engineer | Draper, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1aeae119ed68b4e0) | 2026-07-30 17:15 |
+| Cisive | Senior Engineer, Data and AI | Annapolis, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=743af78e2a52e54b) | 2026-07-30 17:15 |
+| Moody's | Data Engineer-Data Platform & Analytics | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b950c881dbe97c6) | 2026-07-30 17:15 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-30 17:15 |
+| Cardiff | Python Engineer, Financial Data Platform & Integrations | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=44c5ea64ad488307) | 2026-07-30 17:15 |
 | Texas Instruments | Early Career: IT Security Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=536a5cbcba65868f) | 2026-07-30 15:03 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-30 15:03 |
 | Berkshire Hathaway GUARD Insurance Companies | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d44e48661eb7c09) | 2026-07-30 10:13 |
 | Crum & Forster | Associate Data Engineer (Remote) | Morristown, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d2b8d579584394d6) | 2026-07-30 10:13 |
 | State Street | Encryption Engineer (DevSecOps & SDLC) | Quincy, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=143efb56cf174073) | 2026-07-30 10:13 |
