@@ -1,12 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-30 07:28
+Last updated: 2026-07-30 10:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 07:28 |
+| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 10:13 |
+| Berkshire Hathaway GUARD Insurance Companies | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d44e48661eb7c09) | 2026-07-30 10:13 |
+| Crum & Forster | Associate Data Engineer (Remote) | Morristown, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d2b8d579584394d6) | 2026-07-30 10:13 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-30 10:13 |
+| State Street | Encryption Engineer (DevSecOps & SDLC) | Quincy, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=143efb56cf174073) | 2026-07-30 10:13 |
+| Technica Corporation | Full-Stack Developer, Senior | Chantilly, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2907628bc43ed13) | 2026-07-30 10:13 |
 | JPMorganChase | Software Engineer III - AWS, Databricks, Python | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=118a88261f4a95ca) | 2026-07-30 07:28 |
 | American Express | Software Engineers | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c766da569703272f) | 2026-07-30 07:28 |
 | nan | Sr. Full Stack Engineer | Irvine, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3d0880f7398d068d) | 2026-07-30 07:28 |
