@@ -1,15 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-30 01:28
+Last updated: 2026-07-30 04:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a6f13002e35d6260) | 2026-07-30 04:49 |
+| Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | Jersey City, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ac0d12975625b7b9) | 2026-07-30 04:49 |
+| Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e80f5516efca193f) | 2026-07-30 04:49 |
+| Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | Morristown, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0528c489587de6f9) | 2026-07-30 04:49 |
+| Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | Hermitage, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3ea27190f32e93ae) | 2026-07-30 04:49 |
+| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 04:49 |
+| Young Living Essential Oils | Software Engineer I / II — AWS & .NET | Lehi, UT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ced6761489507437) | 2026-07-30 04:49 |
+| Match Made Tech | Software Backend Engineer- Hybrid | Irvine, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ee7ea8491fb4bdff) | 2026-07-30 04:49 |
+| Universal Creative | Engineer, AI Strategy and Solutions | Orlando, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6766b0436a9e52df) | 2026-07-30 04:49 |
+| Wells Fargo | Senior Data Engineer (Spark & ETL) (contract) | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6850350b918febb4) | 2026-07-30 04:49 |
+| Salesforce | Senior Software Engineer (SMTS), Identity & Access Management - Device Trust | Bellevue, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd560d3519b576ef) | 2026-07-30 04:49 |
+| Pearson | Advanced Specialist, Software Engineering | Hoboken, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5038ceada916f64) | 2026-07-30 04:49 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9708ccf9ee0f5af2) | 2026-07-30 04:49 |
+| Whatnot | Data Engineer, CX | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bff73ed78b417b14) | 2026-07-30 04:49 |
+| Risk Analytics | Python Software Engineer - Financial Engineering | Guilford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d644129f935bd266) | 2026-07-30 04:49 |
+| Capgemini | UI Developer - Guest Commerce & Distribution - C1 | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3630239785d032c9) | 2026-07-30 04:49 |
 | Hagerty | Data Engineer II | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b9f6e1bedc5aca93) | 2026-07-30 01:28 |
 | BTI Solutions | DataOps Engineer | Englewood Cliffs, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=19d05ad83816aaf7) | 2026-07-30 01:28 |
 | GM Financial | Data Engineer II - General Motors Insurance | Fort Worth, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5080f9a281fb787e) | 2026-07-30 01:28 |
-| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 01:28 |
 | AAON | Data and Analytics AI Engineer | Tulsa, OK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4077f69e7bd948e6) | 2026-07-30 01:28 |
 | TKC Holdings | Senior Data Analyst Engineer | St. Louis, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7133d5b08431c50d) | 2026-07-30 01:28 |
 | Pratt Industries | Senior AWS Cloud Architect | Park City, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7570321d97679526) | 2026-07-30 01:28 |
@@ -19,7 +34,6 @@ Last updated: 2026-07-30 01:28
 | Whatnot | Data Engineer, CX | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b965f75c7a3a4cf8) | 2026-07-30 01:28 |
 | Whatnot | Data Engineer, CX | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=602641e1ce530091) | 2026-07-30 01:28 |
 | Convoy of Hope | Data Platform Engineer | Springfield, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a2fab49ef78904e1) | 2026-07-30 01:28 |
-| The Weather Company | Software Engineer | Andover, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=34cf04c12e423597) | 2026-07-30 01:28 |
 | Breeze Airways | Analytics Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1d6733d266b961b) | 2026-07-30 01:28 |
 | Woongjin, Inc | DataOps Engineer | Englewood Cliffs, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=38e19e4e49ff838f) | 2026-07-29 23:54 |
 | Sbt Global | DataOps Engineer | Englewood Cliffs, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2c2b990b655e9f01) | 2026-07-29 23:54 |
@@ -464,7 +478,6 @@ Last updated: 2026-07-30 01:28
 | ValueBase Consulting | Sr Java Enterprise Architect in Irvine, CA | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cf9f970e709cc18a) | 2026-07-26 17:55 |
 | Protagona | Cloud Software Engineer - Egypt | Egypt, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a89355d34c2e7d21) | 2026-07-26 14:36 |
 | Protagona | Senior QA Engineer - Egypt | Egypt, AR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb073c25dabf3264) | 2026-07-26 14:36 |
-| 3Pillar Global | AI Data Architect | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=4b2cc185aab9474c) | 2026-07-26 01:53 |
 
 
 ---
