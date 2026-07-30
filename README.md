@@ -1,20 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-30 22:01
+Last updated: 2026-07-30 23:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 23:12 |
+| JPMorganChase | Software Engineer III - C# / Java | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=735136a340f06328) | 2026-07-30 23:12 |
+| I8IS INC. | Snowflake Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f01a424e09b95ee6) | 2026-07-30 23:12 |
+| JPMorganChase | AI, AWS DevOps, Java/Python Software Engineer III | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=65068caf46548141) | 2026-07-30 23:12 |
+| Zendesk | Senior Data Analyst (Hybrid - Madison or Austin) | Madison, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=289d005fb52fdb68) | 2026-07-30 23:12 |
+| Thermo Fisher Scientific | AI Engineer | NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=70a69ee2362e8f4b) | 2026-07-30 23:12 |
+| Kendra Scott | Senior Integrations Engineer I | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58b78bbfcdcc6779) | 2026-07-30 23:12 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-30 23:12 |
 | Dutch Bros Coffee | Senior Engineer, Data | Tempe, AZ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=06fd616fb4621cbc) | 2026-07-30 22:01 |
 | nan | Senior Data Engineer | San Francisco, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e3bc1c0882246fa5) | 2026-07-30 22:01 |
-| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 22:01 |
 | Sardine | Data Engineer - Onboarding | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=eafe0da0cb06f132) | 2026-07-30 22:01 |
 | Patriot Bank, N.A. | Senior Data Transformation Data Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7777dc92cdf89b5a) | 2026-07-30 22:01 |
 | Halliburton | Software Engineer - Early Career - Landmark | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2854756df3635191) | 2026-07-30 22:01 |
 | Epsilon Labs | Software Engineer - ML Infrastructure | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5b12d9efc6c6a98) | 2026-07-30 22:01 |
 | Hightower Advisors | Platform Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0d0534e87a93a57) | 2026-07-30 22:01 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-30 22:01 |
 | Washington University in St. Louis | Senior Software Engineer (Remote) - Radiology | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e445dc5779186f6) | 2026-07-30 22:01 |
 | Warner Bros. Discovery | Software Engineer II | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=642a2e2441a31d20) | 2026-07-30 22:01 |
 | Warner Bros. Discovery | Software Engineer II | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4555ba9a9f5693be) | 2026-07-30 22:01 |
