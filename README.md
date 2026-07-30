@@ -1,17 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-30 04:49
+Last updated: 2026-07-30 07:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 07:28 |
+| JPMorganChase | Software Engineer III - AWS, Databricks, Python | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=118a88261f4a95ca) | 2026-07-30 07:28 |
+| American Express | Software Engineers | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c766da569703272f) | 2026-07-30 07:28 |
+| nan | Sr. Full Stack Engineer | Irvine, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3d0880f7398d068d) | 2026-07-30 07:28 |
+| nan | Sr. Full Stack Engineer | Rochester, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=295ba1b258eef725) | 2026-07-30 07:28 |
+| nan | Sr. Full Stack Engineer | Frisco, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5649f49af7e717e1) | 2026-07-30 07:28 |
+| Caltrans - CA Dept. of Transportation | INFORMATION TECHNOLOGY SPECIALIST III | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=804ad5c43a97ea75) | 2026-07-30 07:28 |
+| Information and Referral Federation of Los Angeles County | Analytics Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=395dca48176f846b) | 2026-07-30 07:28 |
+| Capgemini | AI Architect/Developer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=116af8cbccb591b5) | 2026-07-30 07:28 |
+| VeeRteq Solutions Inc. | Informatica MDM Architect | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b228bf7b8568d089) | 2026-07-30 07:28 |
+| JPMorganChase | Software Engineer III (Java/Spring) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b55f92b3368913f8) | 2026-07-30 07:28 |
 | Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a6f13002e35d6260) | 2026-07-30 04:49 |
 | Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | Jersey City, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ac0d12975625b7b9) | 2026-07-30 04:49 |
 | Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e80f5516efca193f) | 2026-07-30 04:49 |
 | Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | Morristown, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0528c489587de6f9) | 2026-07-30 04:49 |
 | Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | Hermitage, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3ea27190f32e93ae) | 2026-07-30 04:49 |
-| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 04:49 |
 | Young Living Essential Oils | Software Engineer I / II — AWS & .NET | Lehi, UT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ced6761489507437) | 2026-07-30 04:49 |
 | Match Made Tech | Software Backend Engineer- Hybrid | Irvine, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ee7ea8491fb4bdff) | 2026-07-30 04:49 |
 | Universal Creative | Engineer, AI Strategy and Solutions | Orlando, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6766b0436a9e52df) | 2026-07-30 04:49 |
