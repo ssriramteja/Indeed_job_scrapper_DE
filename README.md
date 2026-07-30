@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-30 12:24
+Last updated: 2026-07-30 15:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 12:24 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-30 12:24 |
+| Premier Nutrition Company | Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d0802dcc649446c9) | 2026-07-30 15:03 |
+| Texas Instruments | Early Career: IT Security Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=536a5cbcba65868f) | 2026-07-30 15:03 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-30 15:03 |
 | Berkshire Hathaway GUARD Insurance Companies | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d44e48661eb7c09) | 2026-07-30 10:13 |
 | Crum & Forster | Associate Data Engineer (Remote) | Morristown, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d2b8d579584394d6) | 2026-07-30 10:13 |
 | State Street | Encryption Engineer (DevSecOps & SDLC) | Quincy, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=143efb56cf174073) | 2026-07-30 10:13 |
@@ -491,8 +492,6 @@ Last updated: 2026-07-30 12:24
 | True Religion Brand Jeans | Senior Software Developer | El Segundo, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d25577e9f3e1876) | 2026-07-26 23:52 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f495df65f464e1ae) | 2026-07-26 21:50 |
 | ValueBase Consulting | Sr Java Enterprise Architect in Irvine, CA | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cf9f970e709cc18a) | 2026-07-26 17:55 |
-| Protagona | Cloud Software Engineer - Egypt | Egypt, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a89355d34c2e7d21) | 2026-07-26 14:36 |
-| Protagona | Senior QA Engineer - Egypt | Egypt, AR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb073c25dabf3264) | 2026-07-26 14:36 |
 
 
 ---
