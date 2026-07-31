@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-31 05:27
+Last updated: 2026-07-31 08:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| LPL Financial | Data Engineer II | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dba8335e79adaef9) | 2026-07-31 08:35 |
+| nan | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e9d72ec9cbbadf7a) | 2026-07-31 08:35 |
+| State Air Resources Board | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f8755d5755bfc0f) | 2026-07-31 08:35 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-31 08:35 |
 | Deloitte | Applied AI SRE III - PxE GPS | Morristown, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d84df72ea9532c51) | 2026-07-31 05:27 |
 | Deloitte | Applied AI SRE III - PxE GPS | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c7c8966b4d59c6b1) | 2026-07-31 05:27 |
 | Deloitte | Applied AI SRE III - PxE GPS | Hermitage, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=62830a371d1e64c4) | 2026-07-31 05:27 |
@@ -30,7 +34,6 @@ Last updated: 2026-07-31 05:27
 | United Airlines | Senior Developer - Information Technology | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a3e76c7cba2c5ef) | 2026-07-31 05:27 |
 | nan | Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fd3a77f9dc14549) | 2026-07-31 05:27 |
 | Plan A Technologies | DevSecOps Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d47e70c4d7b465c7) | 2026-07-31 05:27 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-31 05:27 |
 | PwC | GenAI Python Systems Engineer – Experienced Associate | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=092180f6fccecac1) | 2026-07-31 05:27 |
 | GRVTY | Senior UX Software Engineer | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=188385fe594d1176) | 2026-07-31 05:27 |
 | ExxonMobil | Sr. Fullstack Developer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b803553ffc2f5e53) | 2026-07-31 05:27 |
@@ -596,7 +599,6 @@ Last updated: 2026-07-31 05:27
 | Accenture | Packaged/SaaS Application Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57e0eee7c9431a4b) | 2026-07-27 13:32 |
 | TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e2f5eebdb7f2a13) | 2026-07-27 10:32 |
 | Bessemer Trust | Senior Software Engineer | Woodbridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=74752f7f2514626c) | 2026-07-27 10:32 |
-| Regions Financial | Cloud Solutions Architect | Hoover, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0e8d45fd09212b1) | 2026-07-27 06:17 |
 
 
 ---
