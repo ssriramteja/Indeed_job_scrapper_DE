@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-31 11:21
+Last updated: 2026-07-31 13:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | senior data engineer | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6348f1b22dfd1649) | 2026-07-31 13:41 |
+| itD Tech | Data Engineer III-(6264) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e5bf4b4d80c8151) | 2026-07-31 13:41 |
 | HCLTech | Senior Technical Specialist | King, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2bf07ec2da4c3701) | 2026-07-31 11:21 |
 | JPMorganChase | Backend Java Software Engineer III | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=46bd797613407be6) | 2026-07-31 11:21 |
 | Vivacity Tech PBC | DevOps / Platform Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5d39b7b5a88b4d35) | 2026-07-31 11:21 |
@@ -596,9 +598,6 @@ Last updated: 2026-07-31 11:21
 | nan | Software Engineer III Full-Stack Development | Fort Meade, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e6fae7357d59e588) | 2026-07-27 16:08 |
 | nan | Software Engineer II Full-Stack Development | Fort Meade, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a1075545e0fb107) | 2026-07-27 16:08 |
 | nan | Software Engineer I Application Development- Mid Tier | Fort Meade, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9ee38245dd8f15c) | 2026-07-27 16:08 |
-| Smart Tech Skills LLC | Spark / Databricks Platform Engineer | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e214057fae5adc71) | 2026-07-27 13:32 |
-| Availity, LLC. | Software Engineer IV | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ab876d2e4fa9584b) | 2026-07-27 13:32 |
-| Accenture | Packaged/SaaS Application Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57e0eee7c9431a4b) | 2026-07-27 13:32 |
 
 
 ---
