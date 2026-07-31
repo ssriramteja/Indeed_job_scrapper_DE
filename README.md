@@ -1,15 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-31 08:35
+Last updated: 2026-07-31 11:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HCLTech | Senior Technical Specialist | King, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2bf07ec2da4c3701) | 2026-07-31 11:21 |
+| JPMorganChase | Backend Java Software Engineer III | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=46bd797613407be6) | 2026-07-31 11:21 |
+| Vivacity Tech PBC | DevOps / Platform Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5d39b7b5a88b4d35) | 2026-07-31 11:21 |
 | LPL Financial | Data Engineer II | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dba8335e79adaef9) | 2026-07-31 08:35 |
 | nan | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e9d72ec9cbbadf7a) | 2026-07-31 08:35 |
 | State Air Resources Board | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f8755d5755bfc0f) | 2026-07-31 08:35 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-31 08:35 |
 | Deloitte | Applied AI SRE III - PxE GPS | Morristown, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d84df72ea9532c51) | 2026-07-31 05:27 |
 | Deloitte | Applied AI SRE III - PxE GPS | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c7c8966b4d59c6b1) | 2026-07-31 05:27 |
 | Deloitte | Applied AI SRE III - PxE GPS | Hermitage, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=62830a371d1e64c4) | 2026-07-31 05:27 |
@@ -597,8 +599,6 @@ Last updated: 2026-07-31 08:35
 | Smart Tech Skills LLC | Spark / Databricks Platform Engineer | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e214057fae5adc71) | 2026-07-27 13:32 |
 | Availity, LLC. | Software Engineer IV | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ab876d2e4fa9584b) | 2026-07-27 13:32 |
 | Accenture | Packaged/SaaS Application Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57e0eee7c9431a4b) | 2026-07-27 13:32 |
-| TEEMA | Data Architect - C2H - Onsite | Flower Mound, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e2f5eebdb7f2a13) | 2026-07-27 10:32 |
-| Bessemer Trust | Senior Software Engineer | Woodbridge, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=74752f7f2514626c) | 2026-07-27 10:32 |
 
 
 ---
