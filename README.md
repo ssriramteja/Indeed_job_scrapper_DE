@@ -1,15 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-31 22:56
+Last updated: 2026-07-31 23:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| American Century Investments | Software Engineer | Kansas City, MO, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=0f0b0aed89dff9f0) | 2026-07-31 23:54 |
+| Delta Faucet Company | Sr. Data Engineer | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2a88b7f58cf63d9) | 2026-07-31 23:54 |
+| Abbott | Sr. Data Engineer | Madison, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7e6f4ed087e5ebb6) | 2026-07-31 23:54 |
+| Early Warning Services | Sr. Software Engineer - PySpark | Scottsdale, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=932b9e36940a351b) | 2026-07-31 23:54 |
+| Lead Bank | IT Engineer - Cloud Infrastructure | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ccc9d2a5b9ebc8e) | 2026-07-31 23:54 |
 | Globant | Enterprise / Solution Architect | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7ea47f9494f78051) | 2026-07-31 22:56 |
 | Whisker | Data Engineer | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9fcc3b31ffee88c1) | 2026-07-31 22:56 |
 | Patriot Software | Data Engineer III | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a476aa196196ba0a) | 2026-07-31 22:56 |
-| Delta Faucet Company | Sr. Data Engineer | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2a88b7f58cf63d9) | 2026-07-31 22:56 |
 | Cleveland Cavaliers | Full Stack Data Engineer | Cleveland, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=424fe3c2f51527c0) | 2026-07-31 22:56 |
 | PODS | Engineer III - Software | Clearwater, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0ec22207fa44dd71) | 2026-07-31 22:56 |
 | Cognizant | Senior Java Backend Engineer (Remote) | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=131c54e2c46fac8a) | 2026-07-31 22:56 |
