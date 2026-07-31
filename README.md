@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-31 13:41
+Last updated: 2026-07-31 15:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Visibol | Software Engineer | Chicago, IL, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=2462e8855b10b292) | 2026-07-31 15:54 |
+| Stylitics | Cloud Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d143b966366bb7dc) | 2026-07-31 15:54 |
+| PNC Financial Services Group | Senior Software Engineer - Back End / Java, Spring Boot, Kafka | Strongsville, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a03649e9af32154c) | 2026-07-31 15:54 |
+| ConnectWise | Advanced Systems Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6fd8dee63599f0d) | 2026-07-31 15:54 |
 | Capgemini | senior data engineer | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6348f1b22dfd1649) | 2026-07-31 13:41 |
 | itD Tech | Data Engineer III-(6264) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e5bf4b4d80c8151) | 2026-07-31 13:41 |
 | HCLTech | Senior Technical Specialist | King, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2bf07ec2da4c3701) | 2026-07-31 11:21 |
