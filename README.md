@@ -1,13 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-31 21:57
+Last updated: 2026-07-31 22:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Globant | Enterprise / Solution Architect | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7ea47f9494f78051) | 2026-07-31 22:56 |
+| Whisker | Data Engineer | Auburn Hills, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9fcc3b31ffee88c1) | 2026-07-31 22:56 |
+| Patriot Software | Data Engineer III | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a476aa196196ba0a) | 2026-07-31 22:56 |
+| Delta Faucet Company | Sr. Data Engineer | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2a88b7f58cf63d9) | 2026-07-31 22:56 |
+| Cleveland Cavaliers | Full Stack Data Engineer | Cleveland, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=424fe3c2f51527c0) | 2026-07-31 22:56 |
+| PODS | Engineer III - Software | Clearwater, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0ec22207fa44dd71) | 2026-07-31 22:56 |
+| Cognizant | Senior Java Backend Engineer (Remote) | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=131c54e2c46fac8a) | 2026-07-31 22:56 |
+| Workiva | Senior Data & AI Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=094ac7b7f209413b) | 2026-07-31 22:56 |
 | Jazwares | Data Architect | Plantation, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0bec398ccd65219f) | 2026-07-31 21:57 |
-| Delta Faucet Company | Sr. Data Engineer | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2a88b7f58cf63d9) | 2026-07-31 21:57 |
 | Bloomberg Industry Group | Web Application Architect 3 | Arlington, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0251e47fed5cebaa) | 2026-07-31 21:57 |
 | Tokio Marine HCC | Senior Engineer, MDR | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4b46394a094462f4) | 2026-07-31 21:57 |
 | agilon health | Healthcare Analytics Engineer II | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=552c2268ad654867) | 2026-07-31 21:57 |
@@ -544,18 +551,6 @@ Last updated: 2026-07-31 21:57
 | Capgemini | Associate Data Engineer - GCP | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8432eda41e25a208) | 2026-07-27 23:56 |
 | AFL | BI Developer | Duncan, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b99b879200d82b7) | 2026-07-27 23:56 |
 | Region 4 Education Service Center | Data Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f972668b159bfe1) | 2026-07-27 23:56 |
-| OrangePeople | Solutions Architect (Cloud Transformation) | Plano, TX, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=1a7e6b8f9c661779) | 2026-07-27 22:55 |
-| HCLTech | Senior Solution Architect | Santa Clara, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=51edf63fd9ce4d7a) | 2026-07-27 22:55 |
-| HCLTech | Senior Solution Architect | Washington, DC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=acd136a2c45725af) | 2026-07-27 22:55 |
-| Lowe's Home Improvement | Sr Software Engineer - AI | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cd1942c35e56392e) | 2026-07-27 22:55 |
-| Lowe's Home Improvement | Software Engineer - AI | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4b404e83cdfac818) | 2026-07-27 22:55 |
-| OrangePeople | DevOps Engineer | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ed4c6abe99182f2f) | 2026-07-27 22:55 |
-| Zebra Technologies | Senior Forward Deployed Software Engineer (FDE) | Holtsville, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b3d38e42153f6fb0) | 2026-07-27 22:55 |
-| HCLTech | Python Senior Developer - Data Analysis, SQL | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=630de2ec3682e100) | 2026-07-27 22:55 |
-| Intellibee Inc | Full Stack Developer -Angular, Typescript, Bedrock | Malvern, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=729151ced6fff1a5) | 2026-07-27 22:55 |
-| Core-CSI LLC | Senior Data Engineer - Public Trust Clearance Required | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df52133313b370b6) | 2026-07-27 22:55 |
-| JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4852036d2a4d2871) | 2026-07-27 22:55 |
-| HCLTech | Senior Technical Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e01c370f5d19ca30) | 2026-07-27 22:55 |
 
 
 ---
