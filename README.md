@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-31 15:54
+Last updated: 2026-07-31 17:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Northern Trust Corp. | Cloud Data Platform Engineer | Chicago, IL, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c3babca04d3a4353) | 2026-07-31 17:20 |
+| Creative Information Technology India | Data Engineer – Baltimore City, MD | Falls Church, VA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8df281f957b19fe4) | 2026-07-31 17:20 |
+| BNY | Senior Associate, Full-Stack Engineer | Westborough, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=48cb6757f61255ed) | 2026-07-31 17:20 |
+| Scigon | Data Architect | Naperville, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=49e29b1ab6a71257) | 2026-07-31 17:20 |
+| CVS Health | Senior Software Development Engineer | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fecf6d8da4c516a0) | 2026-07-31 17:20 |
+| Confie | Data Transformation Engineer | Addison, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=049826f47ea60f4d) | 2026-07-31 17:20 |
 | Visibol | Software Engineer | Chicago, IL, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=2462e8855b10b292) | 2026-07-31 15:54 |
 | Stylitics | Cloud Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d143b966366bb7dc) | 2026-07-31 15:54 |
 | PNC Financial Services Group | Senior Software Engineer - Back End / Java, Spring Boot, Kafka | Strongsville, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a03649e9af32154c) | 2026-07-31 15:54 |
@@ -590,18 +596,6 @@ Last updated: 2026-07-31 15:54
 | MetLife | Junior Software Engineer | Bridgewater, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1155785404399fad) | 2026-07-27 18:18 |
 | Blue Yonder | Sr. Software Engineer | Scottsdale, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52e66699cb75c9e1) | 2026-07-27 18:18 |
 | PLACE Corporate Careers | Data Scientist | OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94d6622d48d77919) | 2026-07-27 18:18 |
-| Siemens | Senior Machine Learning Engineer | Raleigh, NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d862011310c4cf0f) | 2026-07-27 16:08 |
-| First Horizon Bank | IT Database Administrator | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cb4bd2e62694461e) | 2026-07-27 16:08 |
-| Grainger | Senior Data Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3ad2d81d6d9a2d31) | 2026-07-27 16:08 |
-| Citizens | Senior Software Engineer | Iselin, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a0fb936710c23398) | 2026-07-27 16:08 |
-| Bitcot Technologies Pvt Ltd | AI DevOps Engineer – 1099 Contract | Rochester, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=56400bd32a7b810d) | 2026-07-27 16:08 |
-| Copart, Inc | Data Engineering Intern | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa2cf1215aaca8c2) | 2026-07-27 16:08 |
-| Arkatechture | AWS Cloud Infrastructure Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3391e6126aa7cb2b) | 2026-07-27 16:08 |
-| Core BTS | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb73b1bf6741a5f3) | 2026-07-27 16:08 |
-| Northwestern Medicine | Senior Data Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2c90f2bb9aa42025) | 2026-07-27 16:08 |
-| nan | Software Engineer III Full-Stack Development | Fort Meade, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e6fae7357d59e588) | 2026-07-27 16:08 |
-| nan | Software Engineer II Full-Stack Development | Fort Meade, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a1075545e0fb107) | 2026-07-27 16:08 |
-| nan | Software Engineer I Application Development- Mid Tier | Fort Meade, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9ee38245dd8f15c) | 2026-07-27 16:08 |
 
 
 ---
