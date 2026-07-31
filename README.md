@@ -1,11 +1,41 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-07-31 01:55
+Last updated: 2026-07-31 05:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Deloitte | Applied AI SRE III - PxE GPS | Morristown, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d84df72ea9532c51) | 2026-07-31 05:27 |
+| Deloitte | Applied AI SRE III - PxE GPS | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c7c8966b4d59c6b1) | 2026-07-31 05:27 |
+| Deloitte | Applied AI SRE III - PxE GPS | Hermitage, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=62830a371d1e64c4) | 2026-07-31 05:27 |
+| Deloitte | Applied AI SRE III - PxE GPS | Jersey City, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7b49a235e6405f16) | 2026-07-31 05:27 |
+| Deloitte | Applied AI SRE III - PxE GPS | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1135d93688985c7c) | 2026-07-31 05:27 |
+| Chewy | Business Intelligence Engineer II, Procurement, Real Estate & Facilities Analytics | Bellevue, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a4f8c0cf0c31b9e0) | 2026-07-31 05:27 |
+| Recutify Inc. | Snowflake Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebbb3368fcab6386) | 2026-07-31 05:27 |
+| Diverse Agile Solutions | NYS ITS Expert Software Architect | Menands, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3578a6d785ac61e9) | 2026-07-31 05:27 |
+| Zoom Communications | Software Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=87b420bcd07d16a3) | 2026-07-31 05:27 |
+| Virta Health | Senior Software Engineer II | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=671761ff02fb6ab9) | 2026-07-31 05:27 |
+| Plan A Technologies | Senior Full-Stack Engineer (Go/Typescript) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73913eba01c47259) | 2026-07-31 05:27 |
+| Deloitte | Data Engineer II | Arlington, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa70f2dbee018b7c) | 2026-07-31 05:27 |
+| Deloitte | Palantir Foundry Data Engineer | Arlington, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6b763786ad2e38b4) | 2026-07-31 05:27 |
+| Deloitte | Data Engineer II | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5c47c6ff1b8d763) | 2026-07-31 05:27 |
+| Deloitte | Palantir Foundry Data Engineer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1176d370cb1ec66e) | 2026-07-31 05:27 |
+| Deloitte | Data Engineer II | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7dbdd0593036388) | 2026-07-31 05:27 |
+| Deloitte | Palantir Foundry Data Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3ef6dc42abc1b379) | 2026-07-31 05:27 |
+| Deloitte | Palantir Foundry Data Engineer | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8dfe58cb3ddb0d22) | 2026-07-31 05:27 |
+| Deloitte | Data Engineer II | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5bdd6daf0b2fd71e) | 2026-07-31 05:27 |
+| Deloitte | Data Engineer II | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e5c22da5a84813b) | 2026-07-31 05:27 |
+| Deloitte | Palantir Foundry Data Engineer | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=984dc7e3ef8ef833) | 2026-07-31 05:27 |
+| United Airlines | Senior Developer - Information Technology | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a3e76c7cba2c5ef) | 2026-07-31 05:27 |
+| nan | Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fd3a77f9dc14549) | 2026-07-31 05:27 |
+| Plan A Technologies | DevSecOps Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d47e70c4d7b465c7) | 2026-07-31 05:27 |
+| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-31 05:27 |
+| PwC | GenAI Python Systems Engineer – Experienced Associate | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=092180f6fccecac1) | 2026-07-31 05:27 |
+| GRVTY | Senior UX Software Engineer | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=188385fe594d1176) | 2026-07-31 05:27 |
+| ExxonMobil | Sr. Fullstack Developer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b803553ffc2f5e53) | 2026-07-31 05:27 |
+| Delan Associates, Inc | IT Systems Engineer III | Palm Beach Gardens, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=371bf76528aae202) | 2026-07-31 05:27 |
+| Deloitte | Applied AI Engineer III | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c84476dc78d41318) | 2026-07-31 05:27 |
 | Great American Insurance Group | Senior Cloud Engineer - AWS | Cincinnati, OH, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=5bf61388569c1188) | 2026-07-31 01:55 |
 | JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=e3097ac152749d4d) | 2026-07-31 01:55 |
 | Dutch Bros Coffee | Senior Engineer, Data | Tempe, AZ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=033eef2f59a1ddd9) | 2026-07-31 01:55 |
@@ -18,7 +48,6 @@ Last updated: 2026-07-31 01:55
 | JPMorganChase | Software Engineer III - Python, Databricks and AWS | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cbfe0afb6a8f866d) | 2026-07-31 01:55 |
 | Indiana Donor Network | Software Engineer (Angular + .NET, Azure) | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e254843359a11bda) | 2026-07-31 01:55 |
 | Penn Interactive Ventures | Senior Software Engineer, Promotions | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b535237436c3096a) | 2026-07-31 01:55 |
-| Nationwide Mutual Insurance Company | Specialist, Data Engineer - SQL and Snowflake | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3) | 2026-07-31 01:55 |
 | Adventist HealthCare | Analytics Engineer, Day Shift, Strategic Analytics | Gaithersburg, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc034fd3ef508e12) | 2026-07-31 01:55 |
 | Technology Ventures | Python Developer Senior | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1b165e2a50dc910) | 2026-07-31 01:55 |
 | CSC Generation | Senior Software Engineer, Ecommerce Web Applications (US/Canada) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a55d577c0fda86f2) | 2026-07-31 01:55 |
