@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-01 18:55
+Last updated: 2026-08-01 20:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 20:06 |
 | First American | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=296becbd334bbc67) | 2026-08-01 18:55 |
-| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 18:55 |
 | nan | Decision Scientist | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=059945040a6a3e85) | 2026-08-01 17:53 |
 | Fairfax County Government | Data Analyst III | Fairfax, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bb89d5ea5a1962dc) | 2026-08-01 15:53 |
 | nan | Senior Launch Automation Engineer | Alameda, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bf3991a8b55df54) | 2026-08-01 15:53 |
@@ -491,20 +491,6 @@ Last updated: 2026-08-01 18:55
 | Betis Group, Inc. | VDH Cloud Data Engineer (Richmond) | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04440d10b3bae1a9) | 2026-07-28 20:59 |
 | Texas Health and Human Services Commission | Cloud Data Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed60b80bc0c985e3) | 2026-07-28 20:59 |
 | VTekis Consulting LLP | Data Engineer – Snowflake Data Ingestion & Data Products (ECC Platform) - W2 Position | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6df590be06bde158) | 2026-07-28 20:59 |
-| nan | Senior Data Engineer | Brooklyn, NY, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=56a2ba898cd68ef3) | 2026-07-28 19:09 |
-| EDRAY | Senior Integration Engineer | Charlotte, NC, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=cbd9bc76eb207693) | 2026-07-28 19:09 |
-| Entergy | Solution Architect, Sr | New Orleans, LA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fb30cf3f38d166f2) | 2026-07-28 19:09 |
-| AllCloud | Machine Learning Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=957b57fb2d35abb6) | 2026-07-28 19:09 |
-| Intellectyx | Technical Architect | Pasadena, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=602b2be6bb9c1292) | 2026-07-28 19:09 |
-| Western Union | Senior Architect, Software Engineering | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=66df8cc3622ab111) | 2026-07-28 19:09 |
-| GLASSHOUSE SYSTEMS | Google Cloud Platform (GCP) Architect | Lisle, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6caf875ac9a26f9e) | 2026-07-28 19:09 |
-| CrowdStrike | Engineer II, Advanced Research (Remote) | MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bae6de8914f99b9c) | 2026-07-28 19:09 |
-| Afficiency | Generative AI Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58359e4adc4e423e) | 2026-07-28 19:09 |
-| STAAR Surgical | Technical Architect | Lake Forest, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a6f9879069355ae) | 2026-07-28 19:09 |
-| BV Teck | Senior Java Full Stack Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f88cd142184b0e3) | 2026-07-28 19:09 |
-| Envista Holdings | DEXIS Sr. Full Stack Software Engineer, Cloud (Quakertown, PA) | Quakertown, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e7edc081f60cad1) | 2026-07-28 19:09 |
-| Visual Edge IT | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=abcdf98078942e6e) | 2026-07-28 19:09 |
-| Utah Valley University | Site Reliability Engineer I- Operations | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce8bc87fc76e47fd) | 2026-07-28 19:09 |
 
 
 ---
