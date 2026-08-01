@@ -1,13 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-01 11:58
+Last updated: 2026-08-01 13:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Delta Faucet Company | Sr. Data Engineer | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2a88b7f58cf63d9) | 2026-08-01 11:58 |
-| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 11:58 |
+| Delta Faucet Company | Sr. Data Engineer | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2a88b7f58cf63d9) | 2026-08-01 13:00 |
+| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 13:00 |
+| BDIPlus | Machine Learning Operations Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d6b18534a1abc5f) | 2026-08-01 13:00 |
+| BDIPlus | Data Scientist | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea2c5e32ab039b3c) | 2026-08-01 13:00 |
 | Cretex Companies | IT-Analytics Engineer | Brooklyn Park, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7be6dab7ca375291) | 2026-08-01 10:27 |
 | Databricks | Specialist Solutions Architect - Cloud Platform & Infrastructure | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ef5e1ba1d628d749) | 2026-08-01 10:27 |
 | National Public Radio | Senior Software Architect, Audience Lifecycle | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=947d58877f957a3c) | 2026-08-01 10:27 |
@@ -567,10 +569,6 @@ Last updated: 2026-08-01 11:58
 | nan | Sr Machine Learning Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1a16a037aab83b32) | 2026-07-28 15:12 |
 | University of Alabama in Huntsville | Research Scientist II, Step 1-4 | AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4b876b59e168c817) | 2026-07-28 15:12 |
 | Disney Experiences | Sr Mgr, Software Engineering | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1779138f771f4150) | 2026-07-28 15:12 |
-| Optum | Senior Data Software Engineer - Remote | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=322a5edbf2a5360b) | 2026-07-28 12:48 |
-| Frontline Education | Senior Software Engineer I-II, Integration Platform Engineering | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1fbfe00edebebf90) | 2026-07-28 12:48 |
-| NTT DATA | Linux Systems Engineer - Server Migration | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bb1c9201a8161c46) | 2026-07-28 12:48 |
-| HNTB Corporation | Transportation Data Scientist | Downers Grove, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62170821e4e69c98) | 2026-07-28 12:48 |
 
 
 ---
