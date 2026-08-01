@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-01 16:50
+Last updated: 2026-08-01 17:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Delta Faucet Company | Sr. Data Engineer | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2a88b7f58cf63d9) | 2026-08-01 16:50 |
-| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 16:50 |
+| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 17:53 |
+| nan | Decision Scientist | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=059945040a6a3e85) | 2026-08-01 17:53 |
 | Fairfax County Government | Data Analyst III | Fairfax, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bb89d5ea5a1962dc) | 2026-08-01 15:53 |
 | nan | Senior Launch Automation Engineer | Alameda, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bf3991a8b55df54) | 2026-08-01 15:53 |
 | Fractal Analytics | Power BI Consultant | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eadb4ecc87b42f52) | 2026-08-01 15:53 |
@@ -504,17 +504,6 @@ Last updated: 2026-08-01 16:50
 | Envista Holdings | DEXIS Sr. Full Stack Software Engineer, Cloud (Quakertown, PA) | Quakertown, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e7edc081f60cad1) | 2026-07-28 19:09 |
 | Visual Edge IT | Senior Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=abcdf98078942e6e) | 2026-07-28 19:09 |
 | Utah Valley University | Site Reliability Engineer I- Operations | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce8bc87fc76e47fd) | 2026-07-28 19:09 |
-| Rippling | Data and Analytics Architect | Irving, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6fca29e64567b9a7) | 2026-07-28 17:19 |
-| Virtues | Sr Hadoop+Spark(scala) Data Engineer | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8aeb2bc3ba9b6d82) | 2026-07-28 17:19 |
-| VGMT GLOBAL IT SOLUTIONS | Senior MuleSoft Integration Developer | Goldsmith, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2b0fefd7a48d7cb0) | 2026-07-28 17:19 |
-| PNC Financial Services Group | Data Engineer | Strongsville, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=48a21bba741abb42) | 2026-07-28 17:19 |
-| Hilton Grand Vacations | Analyst Databricks | Orlando, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=79bb920959efbb9a) | 2026-07-28 17:19 |
-| project44 | Senior Software Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eee6148be255d369) | 2026-07-28 17:19 |
-| project44 | Senior Software Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a8fc463b1f1234a3) | 2026-07-28 17:19 |
-| project44 | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f93d9150c8d68a7) | 2026-07-28 17:19 |
-| Optum | I O Engineer | Minnetonka, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=882309c5e77e174d) | 2026-07-28 17:19 |
-| SEI Investments | Software Engineer II | Oaks, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3d91881ede271802) | 2026-07-28 17:19 |
-| Solovis | Senior Software Engineer (Data) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c802ebbce7a223a1) | 2026-07-28 17:19 |
 
 
 ---
