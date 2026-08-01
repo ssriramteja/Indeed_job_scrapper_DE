@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-01 20:06
+Last updated: 2026-08-01 21:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 20:06 |
+| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 21:44 |
 | First American | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=296becbd334bbc67) | 2026-08-01 18:55 |
 | nan | Decision Scientist | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=059945040a6a3e85) | 2026-08-01 17:53 |
 | Fairfax County Government | Data Analyst III | Fairfax, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bb89d5ea5a1962dc) | 2026-08-01 15:53 |
@@ -479,18 +479,6 @@ Last updated: 2026-08-01 20:06
 | Sam's Club | (USA) Senior, Software Engineer | Bentonville, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=315bd0fc30ec0b9d) | 2026-07-28 22:04 |
 | IT America Inc | Azure Data Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84c35dbd43e40c6e) | 2026-07-28 22:04 |
 | 1X | Senior Build Engineer, CI/CD Efficiency | San Carlos, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=428a640cbb343011) | 2026-07-28 22:04 |
-| Eli Lilly | Senior Data Engineer | Indianapolis, IN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=07a6d857864e2d3d) | 2026-07-28 20:59 |
-| Allstate Insurance | Software Engineer Senior Consultant I - | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=93914ebfffd3e0fa) | 2026-07-28 20:59 |
-| AbbVie | Site Reliability Engineer (Hybrid) | North Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3789a24b75c1cfb1) | 2026-07-28 20:59 |
-| Wells Fargo | Data Engineer – Ab Initio & GCP Modernization (contract) | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8a86e7ffe1b03ee9) | 2026-07-28 20:59 |
-| Betis Group, Inc. | Azure Cloud Architect 4 (Remote) | McLean, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=61b88821804deb4d) | 2026-07-28 20:59 |
-| CALIBRE Systems | Cloud/DevOps Engineer | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=23ea1dcc62a19705) | 2026-07-28 20:59 |
-| NIKE | Senior Software Engineer | Beaverton, OR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ceff5d9c8c0d8bc4) | 2026-07-28 20:59 |
-| SandboxAQ | Data Engineer, AQNav | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d054210a36a14a4) | 2026-07-28 20:59 |
-| AutoSavvy | Data Engineer | Woods Cross, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21039e2b16d29978) | 2026-07-28 20:59 |
-| Betis Group, Inc. | VDH Cloud Data Engineer (Richmond) | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04440d10b3bae1a9) | 2026-07-28 20:59 |
-| Texas Health and Human Services Commission | Cloud Data Architect | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ed60b80bc0c985e3) | 2026-07-28 20:59 |
-| VTekis Consulting LLP | Data Engineer – Snowflake Data Ingestion & Data Products (ECC Platform) - W2 Position | Pittsburgh, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6df590be06bde158) | 2026-07-28 20:59 |
 
 
 ---
