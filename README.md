@@ -1,19 +1,35 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-01 05:20
+Last updated: 2026-08-01 08:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Love’s Travel Stops | Data Engineer II | Oklahoma City, OK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=78da46a020c5c9a9) | 2026-08-01 08:04 |
+| Delta Faucet Company | Sr. Data Engineer | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2a88b7f58cf63d9) | 2026-08-01 08:04 |
+| Humana | Senior Software Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48a8605190a502c1) | 2026-08-01 08:04 |
+| Humana | Senior Software Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=02ddfaa0f7254c6f) | 2026-08-01 08:04 |
+| Humana | Senior Software Engineer | KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e46d6854a6af634a) | 2026-08-01 08:04 |
+| Starbucks | data engineer sr- ST; Seattle, WA | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=520c25a2261458b5) | 2026-08-01 08:04 |
+| AFL | Senior Power BI Developer | Duncan, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=20e18aa5f93b2f8a) | 2026-08-01 08:04 |
+| Starbucks | ioT engineer senior, Seattle WA | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f4f2dbe0b92bd99) | 2026-08-01 08:04 |
+| CLERA | Senior Machine Learning Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=40184011356fb182) | 2026-08-01 08:04 |
+| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 08:04 |
+| Molina Healthcare | Senior Engineer, Big Data | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5cd92d13a4a4bb35) | 2026-08-01 08:04 |
+| Optimum | Software Development Engineer I | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c85fe3d6b042982b) | 2026-08-01 08:04 |
+| Optimum | Software Development Engineer I | Bethpage, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=36f3b49aebbbfcfd) | 2026-08-01 08:04 |
+| Nextlink Internet | Full Stack Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a4f40f85cfe5737) | 2026-08-01 08:04 |
+| The AES Group | Direct Client - Decision Scientist | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0c8c04d109704529) | 2026-08-01 08:04 |
+| Humana | Software Engineer | TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e714098ae5cec8b) | 2026-08-01 08:04 |
+| Humana | Software Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68067a30d3435be3) | 2026-08-01 08:04 |
+| Humana | Software Engineer | KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d2f86a70b2dfc7a8) | 2026-08-01 08:04 |
 | Capgemini | Senior Full Stack Developer (Java Backend + Angular + AI - Assisted Development) | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4b87df55d4d491de) | 2026-08-01 05:20 |
 | Caterpillar | Senior Software Engineer, AI & Salesforce | Peoria, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=eed75d3affdec047) | 2026-08-01 05:20 |
 | Capgemini | Ops - BigQuery DBA | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c1a0846ae4c043fb) | 2026-08-01 05:20 |
-| Delta Faucet Company | Sr. Data Engineer | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2a88b7f58cf63d9) | 2026-08-01 05:20 |
 | FCT | Full Stack Senior Software Engineer (Remote in CA) | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8deff62964f62f2d) | 2026-08-01 05:20 |
 | FCT | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=faf74f07ae6081d1) | 2026-08-01 05:20 |
 | Oracle | Senior Data Engineer | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=60b180c3277b0ccf) | 2026-08-01 05:20 |
-| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 05:20 |
 | CloudZero | Senior CloudOps Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=efa15317bf1d4a7e) | 2026-08-01 05:20 |
 | CloudZero | Senior CloudOps Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7befa886e8e2b3a7) | 2026-08-01 05:20 |
 | HCLTech | ML Ops Technical Specialist - DevOps, Python | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08c14c92fb799da4) | 2026-08-01 05:20 |
@@ -558,12 +574,6 @@ Last updated: 2026-08-01 05:20
 | Concentra | Engineer III, DevOps | Addison, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d70a210cdf39ed4c) | 2026-07-28 10:25 |
 | Ahead | Senior AI Engineer, AI Services | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c9e6663fc1113d93) | 2026-07-28 10:25 |
 | Millennium Management | Senior Software Engineer - Risk Technology | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07d2a8bd8e9419e9) | 2026-07-28 10:25 |
-| Symple Lending | Software Engineer – Full Stack | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f3dca5d46f438997) | 2026-07-28 07:33 |
-| JPMorganChase | Software Engineer III - Big Data / AWS | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8515f265503b068a) | 2026-07-28 07:33 |
-| Carrington Mortgage Services, LLC | Senior, Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=93f7c2338fe900a7) | 2026-07-28 07:33 |
-| Capgemini | Solution Architect | Hanover, NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac2139dad458ba99) | 2026-07-28 07:33 |
-| Appex Innovation | MuleSoft Integration Architect | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da0dc7ca51d6016c) | 2026-07-28 07:33 |
-| Appex Innovation | MuleSoft Integration Architect | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=594a99f1fd9583f0) | 2026-07-28 07:33 |
 
 
 ---
