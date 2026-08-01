@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-01 21:44
+Last updated: 2026-08-01 22:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 21:44 |
+| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 22:44 |
 | First American | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=296becbd334bbc67) | 2026-08-01 18:55 |
 | nan | Decision Scientist | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=059945040a6a3e85) | 2026-08-01 17:53 |
 | Fairfax County Government | Data Analyst III | Fairfax, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bb89d5ea5a1962dc) | 2026-08-01 15:53 |
@@ -467,18 +467,6 @@ Last updated: 2026-08-01 21:44
 | VeeRteq Solutions Inc. | Automation Python Developer with SQL | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ace6613f71b5a995) | 2026-07-28 23:52 |
 | Costco Wholesale | Software Engineer - GDX Order Management | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9aa69716ef18f63) | 2026-07-28 23:52 |
 | Lumeris | Sr. Software Engineer | MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f4dc79d645f2ca8) | 2026-07-28 23:52 |
-| SentiLink | Senior Data Platform Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=dc29164f164ed75f) | 2026-07-28 22:04 |
-| LPL Financial | Data Engineer II | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cba2bebe1f3a11a0) | 2026-07-28 22:04 |
-| nan | DevOps Engineer | Los Angeles, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=89b591f23029748a) | 2026-07-28 22:04 |
-| Caris Life Sciences | Senior DevOps Engineer (EKS/Kubernetes) | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ff2a2a8b73dd0dce) | 2026-07-28 22:04 |
-| BETTER WORLD BOOKS MARKETPLACE INC | Senior Data Engineer and Analyst | Mishawaka, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d84d40c0f777cc95) | 2026-07-28 22:04 |
-| Convey | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9acd7b6c90f890ed) | 2026-07-28 22:04 |
-| Convey | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a9e76f3094c53201) | 2026-07-28 22:04 |
-| Convey | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=492012b7cd47b7f1) | 2026-07-28 22:04 |
-| Addepar | Sr. Software Engineer - Analytics Platform | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a7bc12b85366baa5) | 2026-07-28 22:04 |
-| Sam's Club | (USA) Senior, Software Engineer | Bentonville, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=315bd0fc30ec0b9d) | 2026-07-28 22:04 |
-| IT America Inc | Azure Data Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84c35dbd43e40c6e) | 2026-07-28 22:04 |
-| 1X | Senior Build Engineer, CI/CD Efficiency | San Carlos, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=428a640cbb343011) | 2026-07-28 22:04 |
 
 
 ---
