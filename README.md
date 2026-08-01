@@ -1,16 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-01 10:27
+Last updated: 2026-08-01 11:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Delta Faucet Company | Sr. Data Engineer | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2a88b7f58cf63d9) | 2026-08-01 11:58 |
+| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 11:58 |
 | Cretex Companies | IT-Analytics Engineer | Brooklyn Park, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7be6dab7ca375291) | 2026-08-01 10:27 |
-| Delta Faucet Company | Sr. Data Engineer | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c2a88b7f58cf63d9) | 2026-08-01 10:27 |
 | Databricks | Specialist Solutions Architect - Cloud Platform & Infrastructure | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ef5e1ba1d628d749) | 2026-08-01 10:27 |
 | National Public Radio | Senior Software Architect, Audience Lifecycle | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=947d58877f957a3c) | 2026-08-01 10:27 |
-| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-01 10:27 |
 | Love’s Travel Stops | Data Engineer II | Oklahoma City, OK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=78da46a020c5c9a9) | 2026-08-01 08:04 |
 | Humana | Senior Software Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48a8605190a502c1) | 2026-08-01 08:04 |
 | Humana | Senior Software Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=02ddfaa0f7254c6f) | 2026-08-01 08:04 |
