@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-02 17:53
+Last updated: 2026-08-02 18:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=291bce23f034d334) | 2026-08-02 18:55 |
 | nan | AI Engineer | Rocklin, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e235cc7e99c3a2a) | 2026-08-02 10:25 |
 | nan | QA & Operations Engineer – Amazon Connect (CCaaS) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=94e45a080aab120d) | 2026-08-02 08:06 |
 | nan | Senior AWS / Amazon Connect Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=adf03900850392a3) | 2026-08-02 08:06 |

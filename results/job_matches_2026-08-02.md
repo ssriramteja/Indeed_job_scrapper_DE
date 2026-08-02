@@ -5,18 +5,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Full Stack Senior Software Engineer (Remote in CA) @ First American
-**Match Score:** 13.2%
-
-📍 **Location:** Santa Ana, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, SQL Server, PostgreSQL, MySQL, MongoDB, NoSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=296becbd334bbc67)
-
----
-
-## 2. QA & Operations Engineer – Amazon Connect (CCaaS) @ nan
+## 1. QA & Operations Engineer – Amazon Connect (CCaaS) @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -24,6 +13,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, Athena, S3, IAM, RDS, Scala, Snowflake, DynamoDB, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=94e45a080aab120d)
+
+---
+
+## 2. Software Engineer III- Python, Databricks @ JPMorganChase
+**Match Score:** 10.4%
+
+📍 **Location:** Jersey City, NJ, US USA
+
+🔑 **Keywords:** AWS, RDS, Databricks, Spark, Kafka, Oracle, SQL Server, MongoDB, NoSQL, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=291bce23f034d334)
 
 ---
 
