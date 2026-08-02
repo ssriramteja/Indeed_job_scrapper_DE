@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-02 16:48
+Last updated: 2026-08-02 17:53
 
 ### 🚀 Daily Job Matches
 
@@ -376,10 +376,6 @@ Last updated: 2026-08-02 16:48
 | The Washington Post | Senior Software Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f9aec2a1b87419d) | 2026-07-29 18:58 |
 | nan | GenAI Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d7ff6073572b730f) | 2026-07-29 18:58 |
 | Tekraft Corporation | Metadata Specialist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e43efa70b96122a9) | 2026-07-29 18:58 |
-| EisnerAmper | AI Platform Architect, Strategy and Enablement | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e316e9f322e85e11) | 2026-07-29 17:05 |
-| Courser, Inc. | Systems Engineer - II | Savannah, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f821193c319b1b61) | 2026-07-29 17:05 |
-| Virtues | GCP BigQuery+Nifi+Kafa Data Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1e2874b216a47f8) | 2026-07-29 17:05 |
-| United Nations Office for Project Services | ICT Specialist - Software Development (Javascript, Typescript, Python, Javascript frameworks) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=329640b896b0a319) | 2026-07-29 17:05 |
 
 
 ---
