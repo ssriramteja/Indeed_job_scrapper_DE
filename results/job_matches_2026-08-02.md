@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-08-02
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. QA & Operations Engineer – Amazon Connect (CCaaS) @ nan
+## 1. Sr Java Developer with E-Trading exp must @ NSV IT SOLUTIONS
+**Match Score:** 14.6%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, Scala, SQL Server, PostgreSQL, MySQL, MongoDB, NoSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b93bfb157e46dad0)
+
+---
+
+## 2. QA & Operations Engineer – Amazon Connect (CCaaS) @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Software Engineer III- Python, Databricks @ JPMorganChase
+## 3. Software Engineer III- Python, Databricks @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. AI Engineer @ nan
+## 4. AI Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Rocklin, CA, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior AWS / Amazon Connect Engineer @ nan
+## 5. Senior AWS / Amazon Connect Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
