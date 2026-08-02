@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. IT-Analytics Engineer @ Cretex Companies
-**Match Score:** 14.6%
-
-📍 **Location:** Brooklyn Park, MN, US USA
-
-🔑 **Keywords:** RDS, Azure, Scala, Snowflake, SQL Server, PostgreSQL, MySQL, Dimensional Modeling, Star Schema, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7be6dab7ca375291)
-
----
-
-## 3. Full Stack Senior Software Engineer (Remote in CA) @ First American
+## 2. Full Stack Senior Software Engineer (Remote in CA) @ First American
 **Match Score:** 13.2%
 
 📍 **Location:** Santa Ana, CA, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Machine Learning Operations Engineer @ BDIPlus
+## 3. Machine Learning Operations Engineer @ BDIPlus
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -49,18 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. QA & Operations Engineer – Amazon Connect (CCaaS) @ nan
-**Match Score:** 11.1%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Lambda, Athena, S3, IAM, RDS, Scala, Snowflake, DynamoDB, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=94e45a080aab120d)
-
----
-
-## 6. Data Scientist @ BDIPlus
+## 4. Data Scientist @ BDIPlus
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -71,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Launch Automation Engineer @ nan
+## 5. Senior Launch Automation Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Alameda, CA, US USA
@@ -79,6 +57,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Scala, SQL Server, MySQL, CI/CD, Jenkins, Azure DevOps, Jenkins, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=8bf3991a8b55df54)
+
+---
+
+## 6. QA & Operations Engineer – Amazon Connect (CCaaS) @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, Lambda, Athena, S3, IAM, RDS, Scala, Snowflake, DynamoDB, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=94e45a080aab120d)
+
+---
+
+## 7. AI Engineer @ nan
+**Match Score:** 10.4%
+
+📍 **Location:** Rocklin, CA, US USA
+
+🔑 **Keywords:** AWS, Hadoop, HDFS, MapReduce, Spark, Scala, ETL, Talend, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0e235cc7e99c3a2a)
 
 ---
 

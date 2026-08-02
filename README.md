@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-02 08:06
+Last updated: 2026-08-02 10:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | AI Engineer | Rocklin, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e235cc7e99c3a2a) | 2026-08-02 10:25 |
 | nan | QA & Operations Engineer – Amazon Connect (CCaaS) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=94e45a080aab120d) | 2026-08-02 08:06 |
 | nan | Senior AWS / Amazon Connect Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=adf03900850392a3) | 2026-08-02 08:06 |
 | First American | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=296becbd334bbc67) | 2026-08-01 18:55 |
@@ -387,10 +388,6 @@ Last updated: 2026-08-02 08:06
 | NTT DATA | DevOps & Data Engineer - GCP (Google Cloud Platform) | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2620c8155640eadb) | 2026-07-29 13:46 |
 | Itransition | Middle Data Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7c6d2549522637c) | 2026-07-29 13:46 |
 | nan | Systems Analyst | Cheyenne, WY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=86c275bb45b52d57) | 2026-07-29 11:14 |
-| CA HIGH SPEED RAIL AUTHORITY | INFORMATION TECHNOLOGY SPECIALIST III | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1c1900c6e208af8c) | 2026-07-29 08:22 |
-| Capgemini | AI Architect | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a4a763e4890e197) | 2026-07-29 08:22 |
-| ImagineX Consulting | Senior Azure DevOps Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cba82380663ee6) | 2026-07-29 08:22 |
-| VeeRteq Solutions Inc. | Gen AI Sr. Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b0e218931bd7dc3) | 2026-07-29 08:22 |
 
 
 ---
