@@ -1,12 +1,11 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-02 01:52
+Last updated: 2026-08-02 05:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Southern Company | Operations Data Engineering Analyst | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82) | 2026-08-02 01:52 |
 | First American | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=296becbd334bbc67) | 2026-08-01 18:55 |
 | nan | Decision Scientist | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=059945040a6a3e85) | 2026-08-01 17:53 |
 | Fairfax County Government | Data Analyst III | Fairfax, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bb89d5ea5a1962dc) | 2026-08-01 15:53 |
@@ -390,57 +389,6 @@ Last updated: 2026-08-02 01:52
 | Capgemini | AI Architect | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a4a763e4890e197) | 2026-07-29 08:22 |
 | ImagineX Consulting | Senior Azure DevOps Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9cba82380663ee6) | 2026-07-29 08:22 |
 | VeeRteq Solutions Inc. | Gen AI Sr. Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b0e218931bd7dc3) | 2026-07-29 08:22 |
-| nan | Data Engineer II | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=6ec55ca7fcba3429) | 2026-07-29 05:12 |
-| nan | Data Engineer II | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=17c6fe7e7762b1bd) | 2026-07-29 05:12 |
-| Capgemini | AI Architect | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b63d700b95b8e4e4) | 2026-07-29 05:12 |
-| GeoSearch, Inc. | Senior Cloud GIS Architect | Fairfax, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9aadf21ab82857d4) | 2026-07-29 05:12 |
-| Charles Schwab | Java Engineer | Southlake, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=32c763a51fc327e6) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6f66ed36e35c3928) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=09aaaaf6b05a7a81) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=beeeb05481ffa3fd) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Milwaukee, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=52126b35f95fb8f8) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Princeton, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29a68a7d08fbe01d) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2366d0095d71df3c) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f05b96a5cf11bb0) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f555d911530273f0) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Lansing, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a77478365e47af5d) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Hermitage, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd5e6e2b32efd5c0) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3cf3af3715aea016) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9962c699e7b6185) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c69a160c1457e1c5) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=64aa0159e9389e44) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a2b960df7ed57e9d) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Rochester, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4cb5d52259bf0471) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9bb3a4046ad04ad7) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Davenport, IA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=714ce42688a381c9) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f199052b0c23dcbd) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8913bab9f3417548) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Las Vegas, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32838dc534178bd3) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Morristown, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=62d3e93739ca63bc) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Louisville, KY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c45a552782a87ce2) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43b4a6ea360fcf0b) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86b20d935fd5092a) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Jericho, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c6ea25bee3a2f193) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cbe0d78f48801be2) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Midland, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a58e8526e088cb1e) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Fresno, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=998f2d65c888a408) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3ef39faa18331e2e) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7bf762c4708388f4) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6e12c51d5852d0c) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Grand Rapids, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=58b49e29b8a554ab) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=604b79461fedf927) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f97fe63b06d0368a) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f39165c25f32dbb1) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=abfcf8fd5fce3258) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b0e0f9ecf7f9e54) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f475ba0fa29d4a2e) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=13fb4ea225ed1fcf) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Memphis, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a764a06d81d641a) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=823e9e92cfcbb982) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1443315787438a98) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=868ea3e4e3bd4a8d) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Des Moines, IA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc3763ac0aaf5fe5) | 2026-07-29 05:12 |
-| nan | Project - Data Engineer II | Stamford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d30b799c1e5b8a40) | 2026-07-29 05:12 |
 
 
 ---

@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-02
 
-**Total Jobs Found:** 27
+**Total Jobs Found:** 20
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,18 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Data Engineer II @ Love’s Travel Stops
-**Match Score:** 13.2%
-
-📍 **Location:** Oklahoma City, OK, US USA
-
-🔑 **Keywords:** RDS, Azure, Scala, Kafka, Snowflake, SQL Server, Data Modeling, ETL, ELT, dbt
-
-[Apply Here](https://www.indeed.com/viewjob?jk=78da46a020c5c9a9)
-
----
-
-## 4. Full Stack Senior Software Engineer (Remote in CA) @ First American
+## 3. Full Stack Senior Software Engineer (Remote in CA) @ First American
 **Match Score:** 13.2%
 
 📍 **Location:** Santa Ana, CA, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Software Engineer @ Humana
+## 4. Senior Software Engineer @ Humana
 **Match Score:** 13.2%
 
 📍 **Location:** Dallas, TX, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Software Engineer @ Humana
+## 5. Senior Software Engineer @ Humana
 **Match Score:** 13.2%
 
 📍 **Location:** Chicago, IL, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Software Engineer @ Humana
+## 6. Senior Software Engineer @ Humana
 **Match Score:** 13.2%
 
 📍 **Location:** KY, US USA
@@ -82,18 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Power BI Developer @ AFL
-**Match Score:** 12.5%
-
-📍 **Location:** Duncan, SC, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Synapse Analytics, Data Lake Storage, Scala, SQL Server, Data Modeling, Dimensional Modeling, Star Schema
-
-[Apply Here](https://www.indeed.com/viewjob?jk=20e18aa5f93b2f8a)
-
----
-
-## 9. data engineer sr- ST; Seattle, WA @ Starbucks
+## 7. data engineer sr- ST; Seattle, WA @ Starbucks
 **Match Score:** 12.5%
 
 📍 **Location:** Seattle, WA, US USA
@@ -104,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Specialist Solutions Architect - Cloud Platform & Infrastructure @ Databricks
+## 8. Specialist Solutions Architect - Cloud Platform & Infrastructure @ Databricks
 **Match Score:** 12.5%
 
 📍 **Location:** US USA
@@ -115,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Software Architect, Audience Lifecycle @ National Public Radio
+## 9. Senior Software Architect, Audience Lifecycle @ National Public Radio
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -126,29 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Machine Learning Engineer @ CLERA
-**Match Score:** 12.5%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Vertex AI, Spark, Scala, MLOps, MLflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=40184011356fb182)
-
----
-
-## 13. Operations Data Engineering Analyst @ Southern Company
-**Match Score:** 12.5%
-
-📍 **Location:** Birmingham, AL, US USA
-
-🔑 **Keywords:** RDS, Databricks, Hive, Spark, Scala, ETL, ELT, Power BI, Tableau, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8db6c6c4982aba82)
-
----
-
-## 14. ioT engineer senior, Seattle WA @ Starbucks
+## 10. ioT engineer senior, Seattle WA @ Starbucks
 **Match Score:** 12.5%
 
 📍 **Location:** Seattle, WA, US USA
@@ -159,18 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Engineer, Big Data @ Molina Healthcare
-**Match Score:** 11.8%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Medallion Architecture, Google Cloud Platform, Spark, PySpark, Scala, Databricks Lakehouse
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5cd92d13a4a4bb35)
-
----
-
-## 16. Software Development Engineer I @ Optimum
+## 11. Software Development Engineer I @ Optimum
 **Match Score:** 11.8%
 
 📍 **Location:** Plano, TX, US USA
@@ -181,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Software Development Engineer I @ Optimum
+## 12. Software Development Engineer I @ Optimum
 **Match Score:** 11.8%
 
 📍 **Location:** Bethpage, NY, US USA
@@ -192,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Machine Learning Operations Engineer @ BDIPlus
+## 13. Machine Learning Operations Engineer @ BDIPlus
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -203,18 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Full Stack Engineer @ Nextlink Internet
-**Match Score:** 11.1%
-
-📍 **Location:** TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, Scala, SQL Server, MongoDB, NoSQL, CI/CD, AKS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3a4f40f85cfe5737)
-
----
-
-## 20. Data Scientist @ BDIPlus
+## 14. Data Scientist @ BDIPlus
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -225,18 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior Knowledge Graph Developer @ United Airlines
-**Match Score:** 11.1%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, NoSQL, ETL, ELT, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2478b1194a745a56)
-
----
-
-## 22. Senior Launch Automation Engineer @ nan
+## 15. Senior Launch Automation Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Alameda, CA, US USA
@@ -247,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Software Engineer @ Humana
+## 16. Software Engineer @ Humana
 **Match Score:** 10.4%
 
 📍 **Location:** TN, US USA
@@ -258,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Software Engineer @ Humana
+## 17. Software Engineer @ Humana
 **Match Score:** 10.4%
 
 📍 **Location:** TX, US USA
@@ -269,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Software Engineer @ Humana
+## 18. Software Engineer @ Humana
 **Match Score:** 10.4%
 
 📍 **Location:** KY, US USA
@@ -280,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Decision Scientist @ nan
+## 19. Decision Scientist @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Bellevue, WA, US USA
@@ -291,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Power BI Consultant @ Fractal Analytics
+## 20. Power BI Consultant @ Fractal Analytics
 **Match Score:** 10.4%
 
 📍 **Location:** Washington, DC, US USA
