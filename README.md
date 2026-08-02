@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-02 10:25
+Last updated: 2026-08-02 11:54
 
 ### 🚀 Daily Job Matches
 
@@ -387,7 +387,6 @@ Last updated: 2026-08-02 10:25
 | Genesys | Senior Data Engineer, Finance | NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=15db7e3fdebd8bb4) | 2026-07-29 13:46 |
 | NTT DATA | DevOps & Data Engineer - GCP (Google Cloud Platform) | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2620c8155640eadb) | 2026-07-29 13:46 |
 | Itransition | Middle Data Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7c6d2549522637c) | 2026-07-29 13:46 |
-| nan | Systems Analyst | Cheyenne, WY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=86c275bb45b52d57) | 2026-07-29 11:14 |
 
 
 ---

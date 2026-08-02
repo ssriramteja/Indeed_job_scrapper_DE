@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-02
 
-**Total Jobs Found:** 10
+**Total Jobs Found:** 8
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,40 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Machine Learning Operations Engineer @ BDIPlus
-**Match Score:** 11.8%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, Azure, Databricks, Vertex AI, Spark, PySpark, Scala, MLOps, CI/CD, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6d6b18534a1abc5f)
-
----
-
-## 4. Data Scientist @ BDIPlus
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, Azure, Databricks, Vertex AI, Spark, PySpark, Scala, Git, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ea2c5e32ab039b3c)
-
----
-
-## 5. Senior Launch Automation Engineer @ nan
-**Match Score:** 11.1%
-
-📍 **Location:** Alameda, CA, US USA
-
-🔑 **Keywords:** RDS, Azure, Scala, SQL Server, MySQL, CI/CD, Jenkins, Azure DevOps, Jenkins, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8bf3991a8b55df54)
-
----
-
-## 6. QA & Operations Engineer – Amazon Connect (CCaaS) @ nan
+## 3. QA & Operations Engineer – Amazon Connect (CCaaS) @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -71,7 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. AI Engineer @ nan
+## 4. Senior Launch Automation Engineer @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Alameda, CA, US USA
+
+🔑 **Keywords:** RDS, Azure, Scala, SQL Server, MySQL, CI/CD, Jenkins, Azure DevOps, Jenkins, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8bf3991a8b55df54)
+
+---
+
+## 5. AI Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Rocklin, CA, US USA
@@ -82,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior AWS / Amazon Connect Engineer @ nan
+## 6. Senior AWS / Amazon Connect Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -93,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Decision Scientist @ nan
+## 7. Decision Scientist @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Bellevue, WA, US USA
@@ -104,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Power BI Consultant @ Fractal Analytics
+## 8. Power BI Consultant @ Fractal Analytics
 **Match Score:** 10.4%
 
 📍 **Location:** Washington, DC, US USA
