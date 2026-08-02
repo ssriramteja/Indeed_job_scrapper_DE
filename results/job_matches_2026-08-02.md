@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-02
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. QA & Operations Engineer – Amazon Connect (CCaaS) @ nan
+## 2. Senior MuleSoft Engineer @ Green Irony
+**Match Score:** 11.1%
+
+📍 **Location:** Durham, NC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7e0eac49545af0ad)
+
+---
+
+## 3. Senior MuleSoft Engineer @ Green Irony
+**Match Score:** 11.1%
+
+📍 **Location:** Apex, NC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=323e4c2e667bc8d4)
+
+---
+
+## 4. QA & Operations Engineer – Amazon Connect (CCaaS) @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -27,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Software Engineer III- Python, Databricks @ JPMorganChase
+## 5. Software Engineer III- Python, Databricks @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -38,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. AI Engineer @ nan
+## 6. AI Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Rocklin, CA, US USA
@@ -49,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior AWS / Amazon Connect Engineer @ nan
+## 7. Senior AWS / Amazon Connect Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** US USA

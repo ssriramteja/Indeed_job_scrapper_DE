@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-02 22:45
+Last updated: 2026-08-02 23:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Green Irony | Senior MuleSoft Engineer | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e0eac49545af0ad) | 2026-08-02 23:50 |
+| Green Irony | Senior MuleSoft Engineer | Apex, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=323e4c2e667bc8d4) | 2026-08-02 23:50 |
 | NSV IT SOLUTIONS | Sr Java Developer with E-Trading exp must | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b93bfb157e46dad0) | 2026-08-02 20:06 |
 | JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=291bce23f034d334) | 2026-08-02 18:55 |
 | nan | AI Engineer | Rocklin, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e235cc7e99c3a2a) | 2026-08-02 10:25 |
@@ -305,10 +307,6 @@ Last updated: 2026-08-02 22:45
 | Woongjin, Inc | Backend Engineer _ AI Gateway | Englewood Cliffs, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c10ba632ba10eb20) | 2026-07-29 23:54 |
 | Sbt Global | Backend Engineer_AI Gateway | Englewood Cliffs, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83ee93c45d38de64) | 2026-07-29 23:54 |
 | Press Ganey | Senior Software Engineer ( Seattle/Provo Hybrid) | Provo, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03d04a01c7bf9fa1) | 2026-07-29 23:54 |
-| Intellibee Inc | Sr Data Engineer | Malvern, AR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7de6f50bed06cb2e) | 2026-07-29 22:52 |
-| Intellibee Inc | Data Engineer | Malvern, AR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ab6ed1b6bcf72320) | 2026-07-29 22:52 |
-| Intellibee Inc | Senior Azure Full Stack Developer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8622a181db01697f) | 2026-07-29 22:52 |
-| JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60932333f665bc9b) | 2026-07-29 22:52 |
 
 
 ---
