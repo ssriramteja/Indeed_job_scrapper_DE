@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-02
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -46,17 +46,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, Kinesis, S3, IAM, RDS, Scala, Snowflake, CI/CD, Terraform
 
 [Apply Here](https://www.indeed.com/viewjob?jk=adf03900850392a3)
-
----
-
-## 5. Decision Scientist @ nan
-**Match Score:** 10.4%
-
-📍 **Location:** Bellevue, WA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Data Lake Storage, Oracle, SQL Server, Power BI, Tableau, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=059945040a6a3e85)
 
 ---
 
