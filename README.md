@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-02 21:44
+Last updated: 2026-08-02 22:45
 
 ### 🚀 Daily Job Matches
 
@@ -309,25 +309,6 @@ Last updated: 2026-08-02 21:44
 | Intellibee Inc | Data Engineer | Malvern, AR, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=ab6ed1b6bcf72320) | 2026-07-29 22:52 |
 | Intellibee Inc | Senior Azure Full Stack Developer | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8622a181db01697f) | 2026-07-29 22:52 |
 | JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60932333f665bc9b) | 2026-07-29 22:52 |
-| Leidos | Databricks Data Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=002cb1d712286720) | 2026-07-29 21:50 |
-| Leidos | Data Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ae3f89500c8c96cb) | 2026-07-29 21:50 |
-| VTekis Consulting LLP | Databricks Architect - (ADLS, S3, or GCS). | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=066f34528bcf8419) | 2026-07-29 21:50 |
-| nan | Senior Software Engineer | Frisco, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=262c117f16e0e490) | 2026-07-29 21:50 |
-| Arctic Wolf Networks | Senior Reliability Developer | Eden Prairie, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d5af11f0f64610c4) | 2026-07-29 21:50 |
-| University of Texas at Austin | AI Infrastructure Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8523f45b800a98d2) | 2026-07-29 21:50 |
-| SS&C | Sr. Site Reliability Engineer | Waltham, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2b734deb5b5c4fd4) | 2026-07-29 21:50 |
-| PowerSecure Inc. | Full Stack - Software Engineer II (Power Distribution Equipment, Utility, HMI) | Durham, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4bc026a652edd019) | 2026-07-29 21:50 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Tulsa, OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0e5d9c9078da0cac) | 2026-07-29 21:50 |
-| nan | MDM Architect | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0510f5b12bfd66b3) | 2026-07-29 21:50 |
-| Vistar Media | Senior Data Engineer, Big Data and Cloud | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=488613eddf36a539) | 2026-07-29 21:50 |
-| Peterson Caterpillar | Data & Analytics Engineer | San Leandro, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6d496ec22a09d07) | 2026-07-29 21:50 |
-| Delinea | Senior Software Development Engineer | Redwood City, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=749e23d0b9c802de) | 2026-07-29 21:50 |
-| Trellance | Junior AI Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cfec0ee79a36d0b) | 2026-07-29 21:50 |
-| Ascendion | Senior Software Engineer | Redmond, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0a8fea0d6fbd1cf6) | 2026-07-29 21:50 |
-| Goldman Sachs | Engineering-L2-Dallas-Analyst-Software Engineering | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=334f6eafa2204917) | 2026-07-29 21:50 |
-| TaxSlayer | Software Developer | Augusta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aee2a8d1b8adb9a0) | 2026-07-29 21:50 |
-| TaxSlayer | Software Developer | Lexington, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da359f17a501a2a8) | 2026-07-29 21:50 |
-| Freedom Mortgage | Full Stack AI Software Engineer | Marlton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9bf2e8dc44b5e2c3) | 2026-07-29 21:50 |
 
 
 ---
