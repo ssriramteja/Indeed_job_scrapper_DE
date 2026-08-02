@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-08-02
 
-**Total Jobs Found:** 8
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Analyst III @ Fairfax County Government
-**Match Score:** 15.3%
-
-📍 **Location:** Fairfax, VA, US USA
-
-🔑 **Keywords:** AWS, Redshift, RDS, Azure, Data Factory, BigQuery, Hadoop, Spark, Scala, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bb89d5ea5a1962dc)
-
----
-
-## 2. Full Stack Senior Software Engineer (Remote in CA) @ First American
+## 1. Full Stack Senior Software Engineer (Remote in CA) @ First American
 **Match Score:** 13.2%
 
 📍 **Location:** Santa Ana, CA, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. QA & Operations Engineer – Amazon Connect (CCaaS) @ nan
+## 2. QA & Operations Engineer – Amazon Connect (CCaaS) @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Launch Automation Engineer @ nan
+## 3. Senior Launch Automation Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Alameda, CA, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. AI Engineer @ nan
+## 4. AI Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Rocklin, CA, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior AWS / Amazon Connect Engineer @ nan
+## 5. Senior AWS / Amazon Connect Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Decision Scientist @ nan
+## 6. Decision Scientist @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Bellevue, WA, US USA
@@ -79,17 +68,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Databricks, Data Lake Storage, Oracle, SQL Server, Power BI, Tableau, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=059945040a6a3e85)
-
----
-
-## 8. Power BI Consultant @ Fractal Analytics
-**Match Score:** 10.4%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Synapse Analytics, Databricks, Data Lake Storage, Dataflow, Scala, Data Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=eadb4ecc87b42f52)
 
 ---
 
