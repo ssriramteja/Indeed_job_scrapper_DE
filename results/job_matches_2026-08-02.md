@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-02
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,18 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Launch Automation Engineer @ nan
-**Match Score:** 11.1%
-
-📍 **Location:** Alameda, CA, US USA
-
-🔑 **Keywords:** RDS, Azure, Scala, SQL Server, MySQL, CI/CD, Jenkins, Azure DevOps, Jenkins, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8bf3991a8b55df54)
-
----
-
-## 4. AI Engineer @ nan
+## 3. AI Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Rocklin, CA, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior AWS / Amazon Connect Engineer @ nan
+## 4. Senior AWS / Amazon Connect Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Decision Scientist @ nan
+## 5. Decision Scientist @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Bellevue, WA, US USA

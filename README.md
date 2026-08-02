@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-02 14:36
+Last updated: 2026-08-02 15:54
 
 ### 🚀 Daily Job Matches
 
@@ -380,9 +380,6 @@ Last updated: 2026-08-02 14:36
 | Courser, Inc. | Systems Engineer - II | Savannah, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f821193c319b1b61) | 2026-07-29 17:05 |
 | Virtues | GCP BigQuery+Nifi+Kafa Data Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1e2874b216a47f8) | 2026-07-29 17:05 |
 | United Nations Office for Project Services | ICT Specialist - Software Development (Javascript, Typescript, Python, Javascript frameworks) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=329640b896b0a319) | 2026-07-29 17:05 |
-| Alchemy | GCP Data Engineer/Architect | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebb9a8bc7b5038ad) | 2026-07-29 15:44 |
-| Zoom Communications | DevOps Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a42db5f4f831902e) | 2026-07-29 15:44 |
-| eLinx Health, LLC | Healthcare IT Integration Engineer (OpenEMR & Clearinghouse) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f404d30d421a652a) | 2026-07-29 15:44 |
 
 
 ---
