@@ -1,11 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-03 17:47
+Last updated: 2026-08-03 19:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | DevOps Engineer - Westlake, TX | Westlake, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b75914a192898d1c) | 2026-08-03 19:19 |
+| NTT DATA | DevOps Engineer - Jersey City, NJ | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=09b326711b2a8ba0) | 2026-08-03 19:19 |
+| NTT DATA | DevOps Engineer - Merrimack, NH | Merrimack, NH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c9e5552345b9c43f) | 2026-08-03 19:19 |
+| Rhombus Power | Data Engineer, Palo Alto | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c52e39436d6debc6) | 2026-08-03 19:19 |
+| Allied Solutions | Data Engineer | Carmel, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c1386463efa42576) | 2026-08-03 19:19 |
+| JPMorganChase | Software Engineer III - AI/ML Platform Engineer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9be9abf2ba504bc8) | 2026-08-03 19:19 |
+| Waystar | Data Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fd37781709951727) | 2026-08-03 19:19 |
+| Netsmart Technologies | Associate Cloud Engineer - | Overland Park, KS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f76cee0597823605) | 2026-08-03 19:19 |
+| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-03 19:19 |
+| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-03 19:19 |
+| The Hershey Company | Sr Data Engineer | Hershey, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=21c0e185b38b0100) | 2026-08-03 19:19 |
+| Fiserv | Sr. DevOps / Cloud Engineer, Billing Infrastructure | Sunnyvale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=215a3df996bed07f) | 2026-08-03 19:19 |
+| BV Teck | Cloud-Native Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71f63292ca49d08f) | 2026-08-03 19:19 |
+| IPolarity LLC | Machine Learning Operations Engineer | Whippany, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d5882bdc5a806f54) | 2026-08-03 19:19 |
+| Progressive Technology Solutions | Backend Developer | Vienna, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c665fe23456b2833) | 2026-08-03 19:19 |
+| PODS | Engineer III - Software | Clearwater, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d77313a791b9bf92) | 2026-08-03 19:19 |
+| Fiserv | Senior Cybersecurity Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ff7cf8968808f78) | 2026-08-03 19:19 |
+| Fiserv | Sr. Backend Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d8b19d5343bf31ae) | 2026-08-03 19:19 |
+| BV Teck | Microsoft Azure Specialist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=797c8733d467365d) | 2026-08-03 19:19 |
+| Optum | Senior Developer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a28196d6639ff9e7) | 2026-08-03 19:19 |
 | Digital Dhara LLC | Site Reliability Engineer (SRE) with Data Platform | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2c7d0e50cf413f04) | 2026-08-03 17:47 |
 | Wells Fargo | Senior Specialty Software Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e1ab076bac74b1c) | 2026-08-03 17:47 |
 | Kimball Midwest | Associate Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39d5e9bfca8324e5) | 2026-08-03 17:47 |
@@ -251,16 +271,6 @@ Last updated: 2026-08-03 17:47
 | Objectways Technologies | Senior Data Engineer - Palantir Foundry | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d5ca9632878562c) | 2026-07-30 20:56 |
 | Databricks | AI Engineer — GTM Analytics | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f9697dd941d556f) | 2026-07-30 20:56 |
 | Park Place Technologies | AI Software Architect | Highland Heights, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5333ce5a9b1f0a9f) | 2026-07-30 20:56 |
-| Loffler Companies, Inc. | Power BI Data Analyst | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d521ef740f60ce71) | 2026-07-30 19:10 |
-| The Museum of Modern Art | Senior Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9bcc4b2fa6c73536) | 2026-07-30 19:10 |
-| Visa | Sr. SW Engineer | Foster City, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=20a004e42eab6632) | 2026-07-30 19:10 |
-| Public Storage | Senior AI/ML Data Engineer | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d7493eab3654bd62) | 2026-07-30 19:10 |
-| Optum | Sr Dir Software - Data Platform Engineer - Minneapolis, MN | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3f8fa88f7e3fd0c2) | 2026-07-30 19:10 |
-| GM Financial | Software Development Engineer II - Gen AI and Innovation Team | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=93f5da6a90e11da1) | 2026-07-30 19:10 |
-| JPMorganChase | Software Engineer III | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc1820a549077871) | 2026-07-30 19:10 |
-| NTT DATA | AI Foundational Model Engineer | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=376d725617b0f2aa) | 2026-07-30 19:10 |
-| GM Financial | Salesforce Development Engineer II | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2bd0abe4afa5b39) | 2026-07-30 19:10 |
-| Reach Financial | Data Engineer II | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62588f4999e63221) | 2026-07-30 19:10 |
 
 
 ---
