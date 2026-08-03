@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-03 15:37
+Last updated: 2026-08-03 17:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Digital Dhara LLC | Site Reliability Engineer (SRE) with Data Platform | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2c7d0e50cf413f04) | 2026-08-03 17:47 |
+| Wells Fargo | Senior Specialty Software Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e1ab076bac74b1c) | 2026-08-03 17:47 |
+| Kimball Midwest | Associate Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39d5e9bfca8324e5) | 2026-08-03 17:47 |
 | Outfront Media | Dev Ops Engineer | Carlstadt, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aaaec41fa04316f0) | 2026-08-03 15:37 |
 | Outfront Media | Senior Software Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f7274d25e3e7cbd) | 2026-08-03 15:37 |
 | GRP Solutions | Data Engineer | Dayton, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=933b131b771651ee) | 2026-08-03 15:37 |
@@ -258,22 +261,6 @@ Last updated: 2026-08-03 15:37
 | NTT DATA | AI Foundational Model Engineer | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=376d725617b0f2aa) | 2026-07-30 19:10 |
 | GM Financial | Salesforce Development Engineer II | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2bd0abe4afa5b39) | 2026-07-30 19:10 |
 | Reach Financial | Data Engineer II | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62588f4999e63221) | 2026-07-30 19:10 |
-| Strategic Mindz LLC | Senior Java Developer - Child Support Management System | Albany, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=817df956fbf694bd) | 2026-07-30 17:15 |
-| Linstarsolution corporation | DataOps Engineer | Englewood Cliffs, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3be67238d1b6a44a) | 2026-07-30 17:15 |
-| Strategic Mindz LLC | Senior DotNET Developer - Child Support Management System | Albany, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1474978de0278b7b) | 2026-07-30 17:15 |
-| BakerHostetler | Data Solutions Engineer | Cleveland, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6e610a35113b8a37) | 2026-07-30 17:15 |
-| Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=235882076ff46707) | 2026-07-30 17:15 |
-| Public Storage | Senior ML Data Engineer | Frisco, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=342724222b8446f4) | 2026-07-30 17:15 |
-| Freddie Mac | Cloud Engineer Senior | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca6f5d8776368811) | 2026-07-30 17:15 |
-| The Cigna Group | Software Engineering Advisor | KS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=78f82eb1c3ef3a0b) | 2026-07-30 17:15 |
-| Regeneron | Sr. Developer - Automation Core | Tarrytown, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=00e334c03bdbb374) | 2026-07-30 17:15 |
-| Vforce Infotech | SAP S/4HANA MMPP Functional Consultant | California City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5b51f21983ae125e) | 2026-07-30 17:15 |
-| ClassWallet | Full Stack Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5859053628eb5c2) | 2026-07-30 17:15 |
-| Linstarsolution corporation | Backend Engineer _ AI Gateway | Englewood Cliffs, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40978ef369a5ee61) | 2026-07-30 17:15 |
-| BambooHR | Sr. Data Engineer | Draper, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1aeae119ed68b4e0) | 2026-07-30 17:15 |
-| Cisive | Senior Engineer, Data and AI | Annapolis, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=743af78e2a52e54b) | 2026-07-30 17:15 |
-| Moody's | Data Engineer-Data Platform & Analytics | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b950c881dbe97c6) | 2026-07-30 17:15 |
-| Cardiff | Python Engineer, Financial Data Platform & Integrations | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=44c5ea64ad488307) | 2026-07-30 17:15 |
 
 
 ---
