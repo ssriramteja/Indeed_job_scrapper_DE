@@ -1,11 +1,37 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-03 19:19
+Last updated: 2026-08-03 20:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| FalconSmartIT | Data Solution Architect | San Mateo, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c8c0d190ff6325ff) | 2026-08-03 20:55 |
+| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b8353987748b8d8c) | 2026-08-03 20:55 |
+| Warwick Investment Group | Data Engineer | Oklahoma City, OK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5e9fd3c8ca67917e) | 2026-08-03 20:55 |
+| Royal Caribbean Group | Sr. Analyst, Data Modeling | Miramar, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dd3b4125cc7e6462) | 2026-08-03 20:55 |
+| FDM Group | Data Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cf971bdf2ccdd305) | 2026-08-03 20:55 |
+| Caterpillar | Senior Data Engineer – Physical AI Platform, Data Engineering | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2ea0b33c2e692193) | 2026-08-03 20:55 |
+| Caterpillar | Senior Data Engineer – Physical AI Platform, Data Engineering | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c814a46cbb88f8ca) | 2026-08-03 20:55 |
+| Capgemini | Enterprise Architect - Multi Cloud | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c5698f847899a449) | 2026-08-03 20:55 |
+| Net Health | DevOps Engineer III - REMOTE | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d15fab4f2cde8bce) | 2026-08-03 20:55 |
+| Arizona State University | Senior AI Cloud Engineer | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=db3049869dc54e81) | 2026-08-03 20:55 |
+| Databricks | Specialist Solutions Architect - Cloud Platform & Infrastructure (GCP) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6707e3755a595393) | 2026-08-03 20:55 |
+| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-03 20:55 |
+| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-03 20:55 |
+| FedEx | Data Scientist I and II (GCP & AI Engineer) | Memphis, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f01b4e79c2d80ad1) | 2026-08-03 20:55 |
+| The Hershey Company | Sr Data Engineer | Hershey, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=21c0e185b38b0100) | 2026-08-03 20:55 |
+| Epsilon | Senior Data Engineer - Corporate Intelligence Platform | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8757e161bdfc3ca1) | 2026-08-03 20:55 |
+| Databricks | Specialist Solutions Architect - Cloud Platform & Infrastructure (Azure) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eadd2826582327ff) | 2026-08-03 20:55 |
+| Confiz | AI Agentic Solutions Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e667725f6fcbcd7) | 2026-08-03 20:55 |
+| UPS | Senior Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dba3c28dff2c2665) | 2026-08-03 20:55 |
+| UPS | Senior Data Engineer | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f23005bc37f3f527) | 2026-08-03 20:55 |
+| Capital One | Technology Internship Program - Summer 2027 | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d7e5cde075b7a62) | 2026-08-03 20:55 |
+| Cherokee Federal | Healthcare Data Scientist | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f46a6a98a325f97d) | 2026-08-03 20:55 |
+| Databricks | Sr. Solutions Engineer - Digital Native Business, Named Accounts | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d5b0fb7d512fabd) | 2026-08-03 20:55 |
+| Databricks | Sr. Solutions Engineer - Digital Native Business, FinTech | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=610c3a1bbde2965d) | 2026-08-03 20:55 |
+| Databricks | Solutions Architect - AI Natives Business, Strategic | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42ea35aceaecf2e7) | 2026-08-03 20:55 |
+| Databricks | Solutions Architect - Digital Native Business, Named Accounts | NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9d04b632592cdc0) | 2026-08-03 20:55 |
 | NTT DATA | DevOps Engineer - Westlake, TX | Westlake, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b75914a192898d1c) | 2026-08-03 19:19 |
 | NTT DATA | DevOps Engineer - Jersey City, NJ | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=09b326711b2a8ba0) | 2026-08-03 19:19 |
 | NTT DATA | DevOps Engineer - Merrimack, NH | Merrimack, NH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c9e5552345b9c43f) | 2026-08-03 19:19 |
@@ -14,9 +40,6 @@ Last updated: 2026-08-03 19:19
 | JPMorganChase | Software Engineer III - AI/ML Platform Engineer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9be9abf2ba504bc8) | 2026-08-03 19:19 |
 | Waystar | Data Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fd37781709951727) | 2026-08-03 19:19 |
 | Netsmart Technologies | Associate Cloud Engineer - | Overland Park, KS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f76cee0597823605) | 2026-08-03 19:19 |
-| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-03 19:19 |
-| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-03 19:19 |
-| The Hershey Company | Sr Data Engineer | Hershey, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=21c0e185b38b0100) | 2026-08-03 19:19 |
 | Fiserv | Sr. DevOps / Cloud Engineer, Billing Infrastructure | Sunnyvale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=215a3df996bed07f) | 2026-08-03 19:19 |
 | BV Teck | Cloud-Native Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71f63292ca49d08f) | 2026-08-03 19:19 |
 | IPolarity LLC | Machine Learning Operations Engineer | Whippany, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d5882bdc5a806f54) | 2026-08-03 19:19 |
