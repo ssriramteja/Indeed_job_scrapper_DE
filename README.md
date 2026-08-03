@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-03 09:22
+Last updated: 2026-08-03 12:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| arrivia | Fabric Data Engineer | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=99ee79c55904224f) | 2026-08-03 12:49 |
+| TritonExec | AI Architect | Avenel, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3ea0da5bd509501) | 2026-08-03 12:49 |
 | LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=3ec018f4b793bb53) | 2026-08-03 09:22 |
 | LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=6c5406e0a898c0b3) | 2026-08-03 09:22 |
 | LTM Limited | Senior Data Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=51afe960d8622afb) | 2026-08-03 09:22 |
@@ -265,10 +267,6 @@ Last updated: 2026-08-03 09:22
 | Moody's | Data Engineer-Data Platform & Analytics | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b950c881dbe97c6) | 2026-07-30 17:15 |
 | Cardiff | Python Engineer, Financial Data Platform & Integrations | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=44c5ea64ad488307) | 2026-07-30 17:15 |
 | Texas Instruments | Early Career: IT Security Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=536a5cbcba65868f) | 2026-07-30 15:03 |
-| Berkshire Hathaway GUARD Insurance Companies | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d44e48661eb7c09) | 2026-07-30 10:13 |
-| Crum & Forster | Associate Data Engineer (Remote) | Morristown, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d2b8d579584394d6) | 2026-07-30 10:13 |
-| State Street | Encryption Engineer (DevSecOps & SDLC) | Quincy, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=143efb56cf174073) | 2026-07-30 10:13 |
-| Technica Corporation | Full-Stack Developer, Senior | Chantilly, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2907628bc43ed13) | 2026-07-30 10:13 |
 
 
 ---

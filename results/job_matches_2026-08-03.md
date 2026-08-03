@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-03
 
-**Total Jobs Found:** 17
+**Total Jobs Found:** 19
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -104,7 +104,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Sr Java Developer with E-Trading exp must @ NSV IT SOLUTIONS
+## 10. Fabric Data Engineer @ arrivia
+**Match Score:** 15.3%
+
+📍 **Location:** Scottsdale, AZ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Dataflow, Spark, PySpark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=99ee79c55904224f)
+
+---
+
+## 11. Sr Java Developer with E-Trading exp must @ NSV IT SOLUTIONS
 **Match Score:** 14.6%
 
 📍 **Location:** New York, NY, US USA
@@ -115,7 +126,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Software Engineering Intern @ Copart, Inc
+## 12. AI Architect @ TritonExec
+**Match Score:** 13.9%
+
+📍 **Location:** Avenel, NJ, US USA
+
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Scala, Kafka, Snowflake, Data Modeling, ETL, ELT, dbt
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d3ea0da5bd509501)
+
+---
+
+## 13. Software Engineering Intern @ Copart, Inc
 **Match Score:** 13.9%
 
 📍 **Location:** Dallas, TX, US USA
@@ -126,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Sr. Database Reliability Engineer @ Adobe
+## 14. Sr. Database Reliability Engineer @ Adobe
 **Match Score:** 11.8%
 
 📍 **Location:** San Jose, CA, US USA
@@ -137,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior MuleSoft Engineer @ Green Irony
+## 15. Senior MuleSoft Engineer @ Green Irony
 **Match Score:** 11.1%
 
 📍 **Location:** Durham, NC, US USA
@@ -148,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Senior MuleSoft Engineer @ Green Irony
+## 16. Senior MuleSoft Engineer @ Green Irony
 **Match Score:** 11.1%
 
 📍 **Location:** Apex, NC, US USA
@@ -159,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Software Engineer III- Python, Databricks @ JPMorganChase
+## 17. Software Engineer III- Python, Databricks @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -170,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Software Engineer @ Moody's
+## 18. Software Engineer @ Moody's
 **Match Score:** 10.4%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -181,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Backend Software Engineer Intern (TikTok- PGC-Digital Content Center) - 2027 Summer @ TikTok
+## 19. Backend Software Engineer Intern (TikTok- PGC-Digital Content Center) - 2027 Summer @ TikTok
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
