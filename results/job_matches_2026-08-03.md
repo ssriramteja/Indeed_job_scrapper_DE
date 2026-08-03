@@ -1,11 +1,77 @@
 # 🎯 Daily Job Matches — 2026-08-03
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 17
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Software Engineer (Python, DBT, ETL) @ RevSpring, Inc
+## 1. Specialist - Data Engineering @ LTM Limited
+**Match Score:** 21.5%
+
+📍 **Location:** Irving, TX, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, IAM, RDS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3ec018f4b793bb53)
+
+---
+
+## 2. Specialist - Data Engineering @ LTM Limited
+**Match Score:** 21.5%
+
+📍 **Location:** Irving, TX, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, IAM, RDS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6c5406e0a898c0b3)
+
+---
+
+## 3. Senior Data Engineer @ LTM Limited
+**Match Score:** 21.5%
+
+📍 **Location:** Irving, TX, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, IAM, RDS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=51afe960d8622afb)
+
+---
+
+## 4. Senior Data Engineer @ LTM Limited
+**Match Score:** 21.5%
+
+📍 **Location:** Irving, TX, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, IAM, RDS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b6bdbda24615b096)
+
+---
+
+## 5. Senior Data Engineer @ LTM Limited
+**Match Score:** 21.5%
+
+📍 **Location:** Irving, TX, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, IAM, RDS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8a792597231fd045)
+
+---
+
+## 6. Senior Data Engineer @ LTM Limited
+**Match Score:** 21.5%
+
+📍 **Location:** Tampa, FL, US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, IAM, RDS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=49b79f56ab220c49)
+
+---
+
+## 7. Senior Software Engineer (Python, DBT, ETL) @ RevSpring, Inc
 **Match Score:** 17.4%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -16,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Senior Software Engineer (Python, DBT, ETL) @ RevSpring, Inc
+## 8. Senior Software Engineer (Python, DBT, ETL) @ RevSpring, Inc
 **Match Score:** 17.4%
 
 📍 **Location:** Portland, OR, US USA
@@ -27,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Software Engineer (Python, DBT, ETL) @ RevSpring, Inc
+## 9. Senior Software Engineer (Python, DBT, ETL) @ RevSpring, Inc
 **Match Score:** 17.4%
 
 📍 **Location:** Salt Lake City, UT, US USA
@@ -38,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Sr Java Developer with E-Trading exp must @ NSV IT SOLUTIONS
+## 10. Sr Java Developer with E-Trading exp must @ NSV IT SOLUTIONS
 **Match Score:** 14.6%
 
 📍 **Location:** New York, NY, US USA
@@ -49,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Software Engineering Intern @ Copart, Inc
+## 11. Software Engineering Intern @ Copart, Inc
 **Match Score:** 13.9%
 
 📍 **Location:** Dallas, TX, US USA
@@ -60,7 +126,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior MuleSoft Engineer @ Green Irony
+## 12. Sr. Database Reliability Engineer @ Adobe
+**Match Score:** 11.8%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, PostgreSQL, MySQL, MongoDB, DynamoDB, Cassandra, Data Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=669e23632e4f9ad7)
+
+---
+
+## 13. Senior MuleSoft Engineer @ Green Irony
 **Match Score:** 11.1%
 
 📍 **Location:** Durham, NC, US USA
@@ -71,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior MuleSoft Engineer @ Green Irony
+## 14. Senior MuleSoft Engineer @ Green Irony
 **Match Score:** 11.1%
 
 📍 **Location:** Apex, NC, US USA
@@ -82,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Software Engineer III- Python, Databricks @ JPMorganChase
+## 15. Software Engineer III- Python, Databricks @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -93,7 +170,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Backend Software Engineer Intern (TikTok- PGC-Digital Content Center) - 2027 Summer @ TikTok
+## 16. Software Engineer @ Moody's
+**Match Score:** 10.4%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, Oracle, Tableau, Jenkins, Maven, Jenkins, Git, Bitbucket
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e76b66fdbbfac5e0)
+
+---
+
+## 17. Backend Software Engineer Intern (TikTok- PGC-Digital Content Center) - 2027 Summer @ TikTok
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA

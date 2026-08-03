@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-03 05:33
+Last updated: 2026-08-03 09:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=3ec018f4b793bb53) | 2026-08-03 09:22 |
+| LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=6c5406e0a898c0b3) | 2026-08-03 09:22 |
+| LTM Limited | Senior Data Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=51afe960d8622afb) | 2026-08-03 09:22 |
+| LTM Limited | Senior Data Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=b6bdbda24615b096) | 2026-08-03 09:22 |
+| LTM Limited | Senior Data Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=8a792597231fd045) | 2026-08-03 09:22 |
+| LTM Limited | Senior Data Engineer | Tampa, FL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=49b79f56ab220c49) | 2026-08-03 09:22 |
+| Adobe | Sr. Database Reliability Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=669e23632e4f9ad7) | 2026-08-03 09:22 |
+| Moody's | Software Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e76b66fdbbfac5e0) | 2026-08-03 09:22 |
 | Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=75d032017053c612) | 2026-08-03 05:33 |
 | TikTok | Backend Software Engineer Intern (TikTok- PGC-Digital Content Center) - 2027 Summer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df7f3bd6cb74fbdd) | 2026-08-03 05:33 |
 | RevSpring, Inc | Senior Software Engineer (Python, DBT, ETL) | Phoenix, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3fd1c4c6a8a8c46e) | 2026-08-03 01:55 |
@@ -261,16 +269,6 @@ Last updated: 2026-08-03 05:33
 | Crum & Forster | Associate Data Engineer (Remote) | Morristown, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d2b8d579584394d6) | 2026-07-30 10:13 |
 | State Street | Encryption Engineer (DevSecOps & SDLC) | Quincy, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=143efb56cf174073) | 2026-07-30 10:13 |
 | Technica Corporation | Full-Stack Developer, Senior | Chantilly, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e2907628bc43ed13) | 2026-07-30 10:13 |
-| JPMorganChase | Software Engineer III - AWS, Databricks, Python | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=118a88261f4a95ca) | 2026-07-30 07:28 |
-| American Express | Software Engineers | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c766da569703272f) | 2026-07-30 07:28 |
-| nan | Sr. Full Stack Engineer | Irvine, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3d0880f7398d068d) | 2026-07-30 07:28 |
-| nan | Sr. Full Stack Engineer | Rochester, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=295ba1b258eef725) | 2026-07-30 07:28 |
-| nan | Sr. Full Stack Engineer | Frisco, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5649f49af7e717e1) | 2026-07-30 07:28 |
-| Caltrans - CA Dept. of Transportation | INFORMATION TECHNOLOGY SPECIALIST III | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=804ad5c43a97ea75) | 2026-07-30 07:28 |
-| Information and Referral Federation of Los Angeles County | Analytics Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=395dca48176f846b) | 2026-07-30 07:28 |
-| Capgemini | AI Architect/Developer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=116af8cbccb591b5) | 2026-07-30 07:28 |
-| VeeRteq Solutions Inc. | Informatica MDM Architect | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b228bf7b8568d089) | 2026-07-30 07:28 |
-| JPMorganChase | Software Engineer III (Java/Spring) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b55f92b3368913f8) | 2026-07-30 07:28 |
 
 
 ---
