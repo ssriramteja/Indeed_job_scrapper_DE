@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-03 21:59
+Last updated: 2026-08-03 23:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HCLTech | Microsoft Power BI Technical Specialist | Hartford, CT, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=c4eb0dda56977ab6) | 2026-08-03 23:00 |
+| Baylor Miraca Genetics Laboratories LLC | Sr Bioinformatics Software Engineer | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ee8b2fd3d76ce63e) | 2026-08-03 23:00 |
+| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-03 23:00 |
+| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-03 23:00 |
+| The Hershey Company | Sr Data Engineer | Hershey, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=21c0e185b38b0100) | 2026-08-03 23:00 |
+| The Coca-Cola Company | Cloud Data Solutions Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b404d89883ee5a4) | 2026-08-03 23:00 |
+| Apollo Technology Solutions LLC | Oracle OCI Cloud Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1fa19c8aafe8e13) | 2026-08-03 23:00 |
+| Smart Tech Skills LLC | Senior Data Architect | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d0f689bfea9b199) | 2026-08-03 23:00 |
+| PODS | Engineer III - Software | Clearwater, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c9ab5d1f7c807e52) | 2026-08-03 23:00 |
+| Sporttrade | Site Reliability Engineer | Camden, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=558c0f5d76f45500) | 2026-08-03 23:00 |
+| Sound Transit | Senior IT Systems Engineer-ORCA | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4595ccfdbf2b393d) | 2026-08-03 23:00 |
 | BTI Solutions | DataOps Engineer | Englewood Cliffs, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cf03b9bdd21cf939) | 2026-08-03 21:59 |
 | LTM Limited | Azure Databricks Data Engineer | Raritan, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=55b8b8abc753de7f) | 2026-08-03 21:59 |
 | Opiniion | Full-Stack Developer - Integrations | Lehi, UT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bcfbe0c6f553f175) | 2026-08-03 21:59 |
@@ -13,9 +24,6 @@ Last updated: 2026-08-03 21:59
 | Astronomer | Senior Solutions Architect - Airflow - East Coast | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1a125f2d68a88fde) | 2026-08-03 21:59 |
 | Astronomer | Senior Solutions Architect - Airflow - West Coast | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=310b444ca9a8968f) | 2026-08-03 21:59 |
 | Solventum | Data Intelligence Analyst | MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1f523df076b59e1d) | 2026-08-03 21:59 |
-| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-03 21:59 |
-| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-03 21:59 |
-| The Hershey Company | Sr Data Engineer | Hershey, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=21c0e185b38b0100) | 2026-08-03 21:59 |
 | General Dynamics Land Systems | Generative AI / Enterprise Data Senior Architect | Sterling Heights, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=12938c2be38f82de) | 2026-08-03 21:59 |
 | Consumers Energy | Data Scientist | MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=100d36e57f68f74b) | 2026-08-03 21:59 |
 | LSEG (London Stock Exchange Group) | Senior Database Engineer | Liberty, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2208e782a315a688) | 2026-08-03 21:59 |
@@ -276,19 +284,6 @@ Last updated: 2026-08-03 21:59
 | Zendesk | Senior Data Analyst (Hybrid - Madison or Austin) | Madison, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=289d005fb52fdb68) | 2026-07-30 23:12 |
 | Thermo Fisher Scientific | AI Engineer | NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=70a69ee2362e8f4b) | 2026-07-30 23:12 |
 | Kendra Scott | Senior Integrations Engineer I | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58b78bbfcdcc6779) | 2026-07-30 23:12 |
-| Dutch Bros Coffee | Senior Engineer, Data | Tempe, AZ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=06fd616fb4621cbc) | 2026-07-30 22:01 |
-| nan | Senior Data Engineer | San Francisco, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e3bc1c0882246fa5) | 2026-07-30 22:01 |
-| Sardine | Data Engineer - Onboarding | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=eafe0da0cb06f132) | 2026-07-30 22:01 |
-| Patriot Bank, N.A. | Senior Data Transformation Data Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7777dc92cdf89b5a) | 2026-07-30 22:01 |
-| Halliburton | Software Engineer - Early Career - Landmark | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2854756df3635191) | 2026-07-30 22:01 |
-| Epsilon Labs | Software Engineer - ML Infrastructure | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5b12d9efc6c6a98) | 2026-07-30 22:01 |
-| Hightower Advisors | Platform Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0d0534e87a93a57) | 2026-07-30 22:01 |
-| Washington University in St. Louis | Senior Software Engineer (Remote) - Radiology | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e445dc5779186f6) | 2026-07-30 22:01 |
-| Warner Bros. Discovery | Software Engineer II | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=642a2e2441a31d20) | 2026-07-30 22:01 |
-| Warner Bros. Discovery | Software Engineer II | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4555ba9a9f5693be) | 2026-07-30 22:01 |
-| Warner Bros. Discovery | Software Engineer II | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94a8a92e1381b54a) | 2026-07-30 22:01 |
-| Warner Bros. Discovery | Software Engineer II | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2413e7f250d00cb8) | 2026-07-30 22:01 |
-| Warner Bros. Discovery | Software Engineer II | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1e1faeaec512b702) | 2026-07-30 22:01 |
 
 
 ---
