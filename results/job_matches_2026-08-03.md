@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-03
 
-**Total Jobs Found:** 19
+**Total Jobs Found:** 25
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -115,18 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Sr Java Developer with E-Trading exp must @ NSV IT SOLUTIONS
-**Match Score:** 14.6%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, Scala, SQL Server, PostgreSQL, MySQL, MongoDB, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b93bfb157e46dad0)
-
----
-
-## 12. AI Architect @ TritonExec
+## 11. AI Architect @ TritonExec
 **Match Score:** 13.9%
 
 📍 **Location:** Avenel, NJ, US USA
@@ -137,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Software Engineering Intern @ Copart, Inc
+## 12. Software Engineering Intern @ Copart, Inc
 **Match Score:** 13.9%
 
 📍 **Location:** Dallas, TX, US USA
@@ -148,7 +137,73 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Sr. Database Reliability Engineer @ Adobe
+## 13. Dev Ops Engineer @ Outfront Media
+**Match Score:** 13.2%
+
+📍 **Location:** Carlstadt, NJ, US USA
+
+🔑 **Keywords:** AWS, ECS, IAM, RDS, Scala, CI/CD, Jenkins, GitHub Actions, Terraform, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=aaaec41fa04316f0)
+
+---
+
+## 14. Senior Software Engineer @ Outfront Media
+**Match Score:** 12.5%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, Lambda, API Gateway, RDS, Azure, GCP, Spark, Scala, Kafka, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9f7274d25e3e7cbd)
+
+---
+
+## 15. Data Engineer @ GRP Solutions
+**Match Score:** 11.8%
+
+📍 **Location:** Dayton, OH, US USA
+
+🔑 **Keywords:** AWS, EMR, Azure, Hadoop, Hive, Spark, Scala, Oracle, SQL Server, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=933b131b771651ee)
+
+---
+
+## 16. Data Engineer With GenAI @ Broadmind INC
+**Match Score:** 11.8%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, Azure, Data Factory, Databricks, GCP, Spark, Scala, ETL, ELT, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2f790ceb1de06dfe)
+
+---
+
+## 17. Sr. Solutions Architect - Financial Services (Strategic Banking) @ Databricks
+**Match Score:** 11.8%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, GCP, Hadoop, Spark, Scala, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bb00340cb94b420d)
+
+---
+
+## 18. Engineer III - Software @ PODS
+**Match Score:** 11.8%
+
+📍 **Location:** Clearwater, FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Snowflake, PostgreSQL, CI/CD, Azure DevOps, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3cae15ef7a0cb0a0)
+
+---
+
+## 19. Sr. Database Reliability Engineer @ Adobe
 **Match Score:** 11.8%
 
 📍 **Location:** San Jose, CA, US USA
@@ -159,7 +214,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior MuleSoft Engineer @ Green Irony
+## 20. Process Automation Senior Developer @ Citizens
+**Match Score:** 11.1%
+
+📍 **Location:** Johnston, RI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, MySQL, CI/CD, Jenkins, Jenkins, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2e8c88eeba29b437)
+
+---
+
+## 21. Senior MuleSoft Engineer @ Green Irony
 **Match Score:** 11.1%
 
 📍 **Location:** Durham, NC, US USA
@@ -170,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Senior MuleSoft Engineer @ Green Irony
+## 22. Senior MuleSoft Engineer @ Green Irony
 **Match Score:** 11.1%
 
 📍 **Location:** Apex, NC, US USA
@@ -181,7 +247,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Software Engineer III- Python, Databricks @ JPMorganChase
+## 23. Senior Software Engineer @ Citizens
+**Match Score:** 11.1%
+
+📍 **Location:** Johnston, RI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, MySQL, Cassandra, Maven, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9929d5929d1dfc52)
+
+---
+
+## 24. Software Engineer III- Python, Databricks @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -192,18 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Software Engineer @ Moody's
-**Match Score:** 10.4%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, Oracle, Tableau, Jenkins, Maven, Jenkins, Git, Bitbucket
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e76b66fdbbfac5e0)
-
----
-
-## 19. Backend Software Engineer Intern (TikTok- PGC-Digital Content Center) - 2027 Summer @ TikTok
+## 25. Backend Software Engineer Intern (TikTok- PGC-Digital Content Center) - 2027 Summer @ TikTok
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA

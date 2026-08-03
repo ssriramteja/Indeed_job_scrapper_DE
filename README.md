@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-03 12:49
+Last updated: 2026-08-03 15:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Outfront Media | Dev Ops Engineer | Carlstadt, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aaaec41fa04316f0) | 2026-08-03 15:37 |
+| Outfront Media | Senior Software Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f7274d25e3e7cbd) | 2026-08-03 15:37 |
+| GRP Solutions | Data Engineer | Dayton, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=933b131b771651ee) | 2026-08-03 15:37 |
+| Broadmind INC | Data Engineer With GenAI | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2f790ceb1de06dfe) | 2026-08-03 15:37 |
+| Databricks | Sr. Solutions Architect - Financial Services (Strategic Banking) | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb00340cb94b420d) | 2026-08-03 15:37 |
+| PODS | Engineer III - Software | Clearwater, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3cae15ef7a0cb0a0) | 2026-08-03 15:37 |
+| Citizens | Process Automation Senior Developer | Johnston, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e8c88eeba29b437) | 2026-08-03 15:37 |
+| Citizens | Senior Software Engineer | Johnston, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9929d5929d1dfc52) | 2026-08-03 15:37 |
 | arrivia | Fabric Data Engineer | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=99ee79c55904224f) | 2026-08-03 12:49 |
 | TritonExec | AI Architect | Avenel, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3ea0da5bd509501) | 2026-08-03 12:49 |
 | LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=3ec018f4b793bb53) | 2026-08-03 09:22 |
@@ -266,7 +274,6 @@ Last updated: 2026-08-03 12:49
 | Cisive | Senior Engineer, Data and AI | Annapolis, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=743af78e2a52e54b) | 2026-07-30 17:15 |
 | Moody's | Data Engineer-Data Platform & Analytics | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5b950c881dbe97c6) | 2026-07-30 17:15 |
 | Cardiff | Python Engineer, Financial Data Platform & Integrations | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=44c5ea64ad488307) | 2026-07-30 17:15 |
-| Texas Instruments | Early Career: IT Security Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=536a5cbcba65868f) | 2026-07-30 15:03 |
 
 
 ---
