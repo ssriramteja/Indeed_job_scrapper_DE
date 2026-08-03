@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-02 23:50
+Last updated: 2026-08-03 01:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| RevSpring, Inc | Senior Software Engineer (Python, DBT, ETL) | Phoenix, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3fd1c4c6a8a8c46e) | 2026-08-03 01:55 |
+| RevSpring, Inc | Senior Software Engineer (Python, DBT, ETL) | Portland, OR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e11531ce39be3674) | 2026-08-03 01:55 |
+| RevSpring, Inc | Senior Software Engineer (Python, DBT, ETL) | Salt Lake City, UT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c82f7de5f84e4fb8) | 2026-08-03 01:55 |
 | Green Irony | Senior MuleSoft Engineer | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e0eac49545af0ad) | 2026-08-02 23:50 |
 | Green Irony | Senior MuleSoft Engineer | Apex, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=323e4c2e667bc8d4) | 2026-08-02 23:50 |
 | NSV IT SOLUTIONS | Sr Java Developer with E-Trading exp must | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b93bfb157e46dad0) | 2026-08-02 20:06 |
@@ -281,32 +284,6 @@ Last updated: 2026-08-02 23:50
 | Whatnot | Data Engineer, CX | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bff73ed78b417b14) | 2026-07-30 04:49 |
 | Risk Analytics | Python Software Engineer - Financial Engineering | Guilford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d644129f935bd266) | 2026-07-30 04:49 |
 | Capgemini | UI Developer - Guest Commerce & Distribution - C1 | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3630239785d032c9) | 2026-07-30 04:49 |
-| Hagerty | Data Engineer II | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b9f6e1bedc5aca93) | 2026-07-30 01:28 |
-| BTI Solutions | DataOps Engineer | Englewood Cliffs, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=19d05ad83816aaf7) | 2026-07-30 01:28 |
-| GM Financial | Data Engineer II - General Motors Insurance | Fort Worth, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5080f9a281fb787e) | 2026-07-30 01:28 |
-| AAON | Data and Analytics AI Engineer | Tulsa, OK, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4077f69e7bd948e6) | 2026-07-30 01:28 |
-| TKC Holdings | Senior Data Analyst Engineer | St. Louis, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7133d5b08431c50d) | 2026-07-30 01:28 |
-| Pratt Industries | Senior AWS Cloud Architect | Park City, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7570321d97679526) | 2026-07-30 01:28 |
-| BTI Solutions | Backend Engineer | Englewood Cliffs, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a3345dd413dc8727) | 2026-07-30 01:28 |
-| Whatnot | Data Engineer, CX | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e1bb5d1e28bb584) | 2026-07-30 01:28 |
-| Whatnot | Data Engineer, CX | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=06ff52dcf36f3231) | 2026-07-30 01:28 |
-| Whatnot | Data Engineer, CX | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b965f75c7a3a4cf8) | 2026-07-30 01:28 |
-| Whatnot | Data Engineer, CX | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=602641e1ce530091) | 2026-07-30 01:28 |
-| Convoy of Hope | Data Platform Engineer | Springfield, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a2fab49ef78904e1) | 2026-07-30 01:28 |
-| Breeze Airways | Analytics Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1d6733d266b961b) | 2026-07-30 01:28 |
-| Woongjin, Inc | DataOps Engineer | Englewood Cliffs, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=38e19e4e49ff838f) | 2026-07-29 23:54 |
-| Sbt Global | DataOps Engineer | Englewood Cliffs, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2c2b990b655e9f01) | 2026-07-29 23:54 |
-| ZoomInfo | Senior DevOps Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=66a7bb78179837fe) | 2026-07-29 23:54 |
-| Skechers | Sr. Salesforce Platform Engineer | Manhattan Beach, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=863fe2721df72a7a) | 2026-07-29 23:54 |
-| 540 | Senior Data Engineer | Arlington, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9b7615dc336b2258) | 2026-07-29 23:54 |
-| 540 | Data Engineer | Arlington, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c0833d4fa34d1d99) | 2026-07-29 23:54 |
-| Capgemini | AI Architect/Developer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a3c1a9c0b4485739) | 2026-07-29 23:54 |
-| US LBM Holdings | US LBM AI Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5b0e288f3f830762) | 2026-07-29 23:54 |
-| MIAX | Senior Data Engineer | Princeton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c9bbe4fa9a69f979) | 2026-07-29 23:54 |
-| LPL Financial | Senior Engineer, Software Dev Test Quality Engineering (Req# 000106) | Fort Mill, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5094515b70d2d99) | 2026-07-29 23:54 |
-| Woongjin, Inc | Backend Engineer _ AI Gateway | Englewood Cliffs, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c10ba632ba10eb20) | 2026-07-29 23:54 |
-| Sbt Global | Backend Engineer_AI Gateway | Englewood Cliffs, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83ee93c45d38de64) | 2026-07-29 23:54 |
-| Press Ganey | Senior Software Engineer ( Seattle/Provo Hybrid) | Provo, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03d04a01c7bf9fa1) | 2026-07-29 23:54 |
 
 
 ---
