@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-03 01:55
+Last updated: 2026-08-03 05:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=75d032017053c612) | 2026-08-03 05:33 |
+| TikTok | Backend Software Engineer Intern (TikTok- PGC-Digital Content Center) - 2027 Summer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df7f3bd6cb74fbdd) | 2026-08-03 05:33 |
 | RevSpring, Inc | Senior Software Engineer (Python, DBT, ETL) | Phoenix, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3fd1c4c6a8a8c46e) | 2026-08-03 01:55 |
 | RevSpring, Inc | Senior Software Engineer (Python, DBT, ETL) | Portland, OR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e11531ce39be3674) | 2026-08-03 01:55 |
 | RevSpring, Inc | Senior Software Engineer (Python, DBT, ETL) | Salt Lake City, UT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c82f7de5f84e4fb8) | 2026-08-03 01:55 |
@@ -269,21 +271,6 @@ Last updated: 2026-08-03 01:55
 | Capgemini | AI Architect/Developer | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=116af8cbccb591b5) | 2026-07-30 07:28 |
 | VeeRteq Solutions Inc. | Informatica MDM Architect | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b228bf7b8568d089) | 2026-07-30 07:28 |
 | JPMorganChase | Software Engineer III (Java/Spring) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b55f92b3368913f8) | 2026-07-30 07:28 |
-| Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a6f13002e35d6260) | 2026-07-30 04:49 |
-| Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | Jersey City, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ac0d12975625b7b9) | 2026-07-30 04:49 |
-| Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e80f5516efca193f) | 2026-07-30 04:49 |
-| Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | Morristown, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0528c489587de6f9) | 2026-07-30 04:49 |
-| Deloitte | Applied AI Site Reliability Engineer III - PxE Talent | Hermitage, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3ea27190f32e93ae) | 2026-07-30 04:49 |
-| Young Living Essential Oils | Software Engineer I / II — AWS & .NET | Lehi, UT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ced6761489507437) | 2026-07-30 04:49 |
-| Match Made Tech | Software Backend Engineer- Hybrid | Irvine, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ee7ea8491fb4bdff) | 2026-07-30 04:49 |
-| Universal Creative | Engineer, AI Strategy and Solutions | Orlando, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6766b0436a9e52df) | 2026-07-30 04:49 |
-| Wells Fargo | Senior Data Engineer (Spark & ETL) (contract) | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6850350b918febb4) | 2026-07-30 04:49 |
-| Salesforce | Senior Software Engineer (SMTS), Identity & Access Management - Device Trust | Bellevue, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bd560d3519b576ef) | 2026-07-30 04:49 |
-| Pearson | Advanced Specialist, Software Engineering | Hoboken, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5038ceada916f64) | 2026-07-30 04:49 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9708ccf9ee0f5af2) | 2026-07-30 04:49 |
-| Whatnot | Data Engineer, CX | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bff73ed78b417b14) | 2026-07-30 04:49 |
-| Risk Analytics | Python Software Engineer - Financial Engineering | Guilford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d644129f935bd266) | 2026-07-30 04:49 |
-| Capgemini | UI Developer - Guest Commerce & Distribution - C1 | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3630239785d032c9) | 2026-07-30 04:49 |
 
 
 ---

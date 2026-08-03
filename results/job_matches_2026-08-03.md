@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-03
 
-**Total Jobs Found:** 10
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -49,7 +49,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior MuleSoft Engineer @ Green Irony
+## 5. Software Engineering Intern @ Copart, Inc
+**Match Score:** 13.9%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, PostgreSQL, MySQL, NoSQL, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=75d032017053c612)
+
+---
+
+## 6. Senior MuleSoft Engineer @ Green Irony
 **Match Score:** 11.1%
 
 📍 **Location:** Durham, NC, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior MuleSoft Engineer @ Green Irony
+## 7. Senior MuleSoft Engineer @ Green Irony
 **Match Score:** 11.1%
 
 📍 **Location:** Apex, NC, US USA
@@ -68,17 +79,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Docker
 
 [Apply Here](https://www.indeed.com/viewjob?jk=323e4c2e667bc8d4)
-
----
-
-## 7. QA & Operations Engineer – Amazon Connect (CCaaS) @ nan
-**Match Score:** 11.1%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Lambda, Athena, S3, IAM, RDS, Scala, Snowflake, DynamoDB, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=94e45a080aab120d)
 
 ---
 
@@ -93,25 +93,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. AI Engineer @ nan
+## 9. Backend Software Engineer Intern (TikTok- PGC-Digital Content Center) - 2027 Summer @ TikTok
 **Match Score:** 10.4%
 
-📍 **Location:** Rocklin, CA, US USA
+📍 **Location:** San Jose, CA, US USA
 
-🔑 **Keywords:** AWS, Hadoop, HDFS, MapReduce, Spark, Scala, ETL, Talend, Python, SQL
+🔑 **Keywords:** AWS, RDS, Scala, Kafka, MySQL, MongoDB, NoSQL, Docker, Kubernetes, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0e235cc7e99c3a2a)
-
----
-
-## 10. Senior AWS / Amazon Connect Engineer @ nan
-**Match Score:** 10.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Lambda, Kinesis, S3, IAM, RDS, Scala, Snowflake, CI/CD, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=adf03900850392a3)
+[Apply Here](https://www.indeed.com/viewjob?jk=df7f3bd6cb74fbdd)
 
 ---
 
