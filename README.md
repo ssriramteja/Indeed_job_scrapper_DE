@@ -1,11 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-04 03:59
+Last updated: 2026-08-04 06:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| New York Post | Data Engineer | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a76e43ef1f5bbfd7) | 2026-08-04 06:26 |
+| JPMorganChase | Software Engineer II: Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=24a167e7c74c87d9) | 2026-08-04 06:26 |
+| JPMorganChase | Software Engineer III (Java/Microservices/AWS) | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=28bcf22a9ef154fe) | 2026-08-04 06:26 |
+| Tesla | Backend Engineer, Toolbox Diagnostics, Vehicle Software | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=54bfc6b63a12e6fd) | 2026-08-04 06:26 |
+| Cornerstone Advisors | Sr. Power BI Developer & Data Analyst | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e7e2964ae230695c) | 2026-08-04 06:26 |
+| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-04 06:26 |
+| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-04 06:26 |
+| The Coca-Cola Company | Cloud Data Solutions Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b404d89883ee5a4) | 2026-08-04 06:26 |
+| VeeRteq Solutions Inc. | Automation Tester | Malvern, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d8b5d8e5fb610b3) | 2026-08-04 06:26 |
+| Marathon Health | Forward Deployment Engineers – AI & Agentic Engineering | Pearl City, HI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27b47a4257c438ad) | 2026-08-04 06:26 |
+| Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43d54dedf311b8c0) | 2026-08-04 06:26 |
+| Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2cf32d525242f01a) | 2026-08-04 06:26 |
+| Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d0f129d3d540261) | 2026-08-04 06:26 |
+| Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39cae2fa18178656) | 2026-08-04 06:26 |
+| PurpleLab | Data Analyst Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d467b6c089b449b1) | 2026-08-04 06:26 |
+| Zayo Group | Security Automation Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d30468ca7ed7236) | 2026-08-04 06:26 |
+| Cognizant | Software Engineer Java · Spring Boot · Connected Services | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11fd47c28958a887) | 2026-08-04 06:26 |
 | BAE Systems USA | Data Engineer | Fort Walton Beach, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3534e706b87d7dd9) | 2026-08-04 03:59 |
 | PEAK6 | Platform Engineer | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f63d74803f449e20) | 2026-08-04 03:59 |
 | World Emblem International | Data Engineer | Hollywood, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d8998c39a2d3607c) | 2026-08-04 03:59 |
@@ -20,10 +37,7 @@ Last updated: 2026-08-04 03:59
 | Esri | DevSecOps Engineer II - SaaS | Redlands, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=677d7def53db7fac) | 2026-08-04 03:59 |
 | Objectways Technologies | Sr Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9d195c2d700ef8f1) | 2026-08-04 03:59 |
 | Capgemini | Data Engineer L2 | Lincolnshire, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=29005ad10a028330) | 2026-08-04 03:59 |
-| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-04 03:59 |
-| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-04 03:59 |
 | BH Management Services, LLC | Analytics & AI Engineer | IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f5bd023145300cf) | 2026-08-04 03:59 |
-| The Coca-Cola Company | Cloud Data Solutions Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b404d89883ee5a4) | 2026-08-04 03:59 |
 | PEAK6 | Senior AWS Cloud Engineer- VDI Platform | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=69fcdae371e385d5) | 2026-08-04 03:59 |
 | OneMagnify | Data Analyst | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7e58f0a9d68f6d81) | 2026-08-04 03:59 |
 | WellSky | Sr. Software Engineer | Overland Park, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=36604cce838968ed) | 2026-08-04 03:59 |
@@ -281,35 +295,6 @@ Last updated: 2026-08-04 03:59
 | LPL Financial | Data Engineer II | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dba8335e79adaef9) | 2026-07-31 08:35 |
 | nan | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e9d72ec9cbbadf7a) | 2026-07-31 08:35 |
 | State Air Resources Board | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f8755d5755bfc0f) | 2026-07-31 08:35 |
-| Deloitte | Applied AI SRE III - PxE GPS | Morristown, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d84df72ea9532c51) | 2026-07-31 05:27 |
-| Deloitte | Applied AI SRE III - PxE GPS | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c7c8966b4d59c6b1) | 2026-07-31 05:27 |
-| Deloitte | Applied AI SRE III - PxE GPS | Hermitage, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=62830a371d1e64c4) | 2026-07-31 05:27 |
-| Deloitte | Applied AI SRE III - PxE GPS | Jersey City, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7b49a235e6405f16) | 2026-07-31 05:27 |
-| Deloitte | Applied AI SRE III - PxE GPS | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1135d93688985c7c) | 2026-07-31 05:27 |
-| Chewy | Business Intelligence Engineer II, Procurement, Real Estate & Facilities Analytics | Bellevue, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a4f8c0cf0c31b9e0) | 2026-07-31 05:27 |
-| Recutify Inc. | Snowflake Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebbb3368fcab6386) | 2026-07-31 05:27 |
-| Diverse Agile Solutions | NYS ITS Expert Software Architect | Menands, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3578a6d785ac61e9) | 2026-07-31 05:27 |
-| Zoom Communications | Software Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=87b420bcd07d16a3) | 2026-07-31 05:27 |
-| Virta Health | Senior Software Engineer II | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=671761ff02fb6ab9) | 2026-07-31 05:27 |
-| Plan A Technologies | Senior Full-Stack Engineer (Go/Typescript) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73913eba01c47259) | 2026-07-31 05:27 |
-| Deloitte | Data Engineer II | Arlington, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa70f2dbee018b7c) | 2026-07-31 05:27 |
-| Deloitte | Palantir Foundry Data Engineer | Arlington, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6b763786ad2e38b4) | 2026-07-31 05:27 |
-| Deloitte | Data Engineer II | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5c47c6ff1b8d763) | 2026-07-31 05:27 |
-| Deloitte | Palantir Foundry Data Engineer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1176d370cb1ec66e) | 2026-07-31 05:27 |
-| Deloitte | Data Engineer II | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7dbdd0593036388) | 2026-07-31 05:27 |
-| Deloitte | Palantir Foundry Data Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3ef6dc42abc1b379) | 2026-07-31 05:27 |
-| Deloitte | Palantir Foundry Data Engineer | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8dfe58cb3ddb0d22) | 2026-07-31 05:27 |
-| Deloitte | Data Engineer II | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5bdd6daf0b2fd71e) | 2026-07-31 05:27 |
-| Deloitte | Data Engineer II | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e5c22da5a84813b) | 2026-07-31 05:27 |
-| Deloitte | Palantir Foundry Data Engineer | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=984dc7e3ef8ef833) | 2026-07-31 05:27 |
-| United Airlines | Senior Developer - Information Technology | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a3e76c7cba2c5ef) | 2026-07-31 05:27 |
-| nan | Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fd3a77f9dc14549) | 2026-07-31 05:27 |
-| Plan A Technologies | DevSecOps Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d47e70c4d7b465c7) | 2026-07-31 05:27 |
-| PwC | GenAI Python Systems Engineer – Experienced Associate | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=092180f6fccecac1) | 2026-07-31 05:27 |
-| GRVTY | Senior UX Software Engineer | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=188385fe594d1176) | 2026-07-31 05:27 |
-| ExxonMobil | Sr. Fullstack Developer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b803553ffc2f5e53) | 2026-07-31 05:27 |
-| Delan Associates, Inc | IT Systems Engineer III | Palm Beach Gardens, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=371bf76528aae202) | 2026-07-31 05:27 |
-| Deloitte | Applied AI Engineer III | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c84476dc78d41318) | 2026-07-31 05:27 |
 
 
 ---
