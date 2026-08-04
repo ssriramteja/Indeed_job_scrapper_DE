@@ -1,15 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-04 11:57
+Last updated: 2026-08-04 13:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| News Corp | Data Engineer | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=14267222251f75ec) | 2026-08-04 13:55 |
+| Eightfold | Senior Software Engineer - AI Agentic Product Dev | Santa Clara, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e86e219dc8ab5e9) | 2026-08-04 13:55 |
+| US LBM Holdings | US LBM Cybersecurity Engineer – Azure DevSecOps | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=daaadae20b9bb3f0) | 2026-08-04 13:55 |
+| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-04 13:55 |
+| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-04 13:55 |
+| The Coca-Cola Company | Cloud Data Solutions Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b404d89883ee5a4) | 2026-08-04 13:55 |
+| Sally Beauty | Data Engineer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a8be518fe482570d) | 2026-08-04 13:55 |
+| nan | Full Stack Web Developer, Fuel Performance & Decarbonization | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f657fa9f2d4f746) | 2026-08-04 13:55 |
 | TikTok | Data Engineer Graduate (Monetization Data) - 2027 Start | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56be91a8f59c7b8c) | 2026-08-04 11:57 |
-| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-04 11:57 |
-| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-04 11:57 |
-| The Coca-Cola Company | Cloud Data Solutions Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b404d89883ee5a4) | 2026-08-04 11:57 |
 | Andersen | Senior Data Architect (Enterprise Finance/Operational) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd29dc89ebed116e) | 2026-08-04 11:57 |
 | TikTok | Backend Software Engineer Graduate (TikTok-PGC-Digital Content Center) - 2027 Start | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d22af308ad0bf59) | 2026-08-04 11:57 |
 | University of the Pacific | Clinic System Administrator | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=30f4ef185557a4c5) | 2026-08-04 09:34 |
@@ -298,8 +303,6 @@ Last updated: 2026-08-04 11:57
 | Stylitics | Cloud Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d143b966366bb7dc) | 2026-07-31 15:54 |
 | PNC Financial Services Group | Senior Software Engineer - Back End / Java, Spring Boot, Kafka | Strongsville, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a03649e9af32154c) | 2026-07-31 15:54 |
 | ConnectWise | Advanced Systems Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6fd8dee63599f0d) | 2026-07-31 15:54 |
-| Capgemini | senior data engineer | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6348f1b22dfd1649) | 2026-07-31 13:41 |
-| itD Tech | Data Engineer III-(6264) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e5bf4b4d80c8151) | 2026-07-31 13:41 |
 
 
 ---
