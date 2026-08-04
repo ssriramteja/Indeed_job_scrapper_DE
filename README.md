@@ -1,18 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-04 09:34
+Last updated: 2026-08-04 11:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TikTok | Data Engineer Graduate (Monetization Data) - 2027 Start | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56be91a8f59c7b8c) | 2026-08-04 11:57 |
+| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-04 11:57 |
+| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-04 11:57 |
+| The Coca-Cola Company | Cloud Data Solutions Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b404d89883ee5a4) | 2026-08-04 11:57 |
+| Andersen | Senior Data Architect (Enterprise Finance/Operational) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd29dc89ebed116e) | 2026-08-04 11:57 |
+| TikTok | Backend Software Engineer Graduate (TikTok-PGC-Digital Content Center) - 2027 Start | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d22af308ad0bf59) | 2026-08-04 11:57 |
 | University of the Pacific | Clinic System Administrator | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=30f4ef185557a4c5) | 2026-08-04 09:34 |
 | Cotiviti | Sr Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4cb8660c0e5ef8d4) | 2026-08-04 09:34 |
 | Cotiviti | Sr Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b5549d0abdaa34a) | 2026-08-04 09:34 |
-| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-04 09:34 |
-| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-04 09:34 |
 | PlusAI | Perception Validation Engineer | Santa Clara, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f695b1026950547b) | 2026-08-04 09:34 |
-| The Coca-Cola Company | Cloud Data Solutions Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b404d89883ee5a4) | 2026-08-04 09:34 |
 | PlayStation | Software Engineer II, Data Platform | Aliso Viejo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df8296d590972dce) | 2026-08-04 09:34 |
 | PlayStation | Software Engineer II, Data Platform | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=44c1401c985416eb) | 2026-08-04 09:34 |
 | Hunt | Software Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=025e476a43fdb23a) | 2026-08-04 09:34 |
@@ -297,9 +300,6 @@ Last updated: 2026-08-04 09:34
 | ConnectWise | Advanced Systems Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6fd8dee63599f0d) | 2026-07-31 15:54 |
 | Capgemini | senior data engineer | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6348f1b22dfd1649) | 2026-07-31 13:41 |
 | itD Tech | Data Engineer III-(6264) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e5bf4b4d80c8151) | 2026-07-31 13:41 |
-| HCLTech | Senior Technical Specialist | King, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2bf07ec2da4c3701) | 2026-07-31 11:21 |
-| JPMorganChase | Backend Java Software Engineer III | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=46bd797613407be6) | 2026-07-31 11:21 |
-| Vivacity Tech PBC | DevOps / Platform Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5d39b7b5a88b4d35) | 2026-07-31 11:21 |
 
 
 ---
