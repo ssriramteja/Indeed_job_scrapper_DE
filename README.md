@@ -1,19 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-04 06:26
+Last updated: 2026-08-04 09:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| University of the Pacific | Clinic System Administrator | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=30f4ef185557a4c5) | 2026-08-04 09:34 |
+| Cotiviti | Sr Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4cb8660c0e5ef8d4) | 2026-08-04 09:34 |
+| Cotiviti | Sr Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b5549d0abdaa34a) | 2026-08-04 09:34 |
+| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-04 09:34 |
+| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-04 09:34 |
+| PlusAI | Perception Validation Engineer | Santa Clara, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f695b1026950547b) | 2026-08-04 09:34 |
+| The Coca-Cola Company | Cloud Data Solutions Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b404d89883ee5a4) | 2026-08-04 09:34 |
+| PlayStation | Software Engineer II, Data Platform | Aliso Viejo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df8296d590972dce) | 2026-08-04 09:34 |
+| PlayStation | Software Engineer II, Data Platform | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=44c1401c985416eb) | 2026-08-04 09:34 |
+| Hunt | Software Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=025e476a43fdb23a) | 2026-08-04 09:34 |
+| Everforth ECS | Data Scientist | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b696b843bec14c5a) | 2026-08-04 09:34 |
 | New York Post | Data Engineer | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a76e43ef1f5bbfd7) | 2026-08-04 06:26 |
 | JPMorganChase | Software Engineer II: Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=24a167e7c74c87d9) | 2026-08-04 06:26 |
 | JPMorganChase | Software Engineer III (Java/Microservices/AWS) | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=28bcf22a9ef154fe) | 2026-08-04 06:26 |
 | Tesla | Backend Engineer, Toolbox Diagnostics, Vehicle Software | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=54bfc6b63a12e6fd) | 2026-08-04 06:26 |
 | Cornerstone Advisors | Sr. Power BI Developer & Data Analyst | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e7e2964ae230695c) | 2026-08-04 06:26 |
-| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-04 06:26 |
-| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-04 06:26 |
-| The Coca-Cola Company | Cloud Data Solutions Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b404d89883ee5a4) | 2026-08-04 06:26 |
 | VeeRteq Solutions Inc. | Automation Tester | Malvern, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d8b5d8e5fb610b3) | 2026-08-04 06:26 |
 | Marathon Health | Forward Deployment Engineers – AI & Agentic Engineering | Pearl City, HI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27b47a4257c438ad) | 2026-08-04 06:26 |
 | Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43d54dedf311b8c0) | 2026-08-04 06:26 |
@@ -292,9 +300,6 @@ Last updated: 2026-08-04 06:26
 | HCLTech | Senior Technical Specialist | King, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2bf07ec2da4c3701) | 2026-07-31 11:21 |
 | JPMorganChase | Backend Java Software Engineer III | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=46bd797613407be6) | 2026-07-31 11:21 |
 | Vivacity Tech PBC | DevOps / Platform Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5d39b7b5a88b4d35) | 2026-07-31 11:21 |
-| LPL Financial | Data Engineer II | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dba8335e79adaef9) | 2026-07-31 08:35 |
-| nan | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e9d72ec9cbbadf7a) | 2026-07-31 08:35 |
-| State Air Resources Board | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5f8755d5755bfc0f) | 2026-07-31 08:35 |
 
 
 ---
