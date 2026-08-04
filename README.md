@@ -1,17 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-04 13:55
+Last updated: 2026-08-04 16:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| APLOMB Technologies | Senior Python Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=649769363a6c45f2) | 2026-08-04 16:08 |
+| Advance Auto Parts | Software Engineer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a83abef82bfb222c) | 2026-08-04 16:08 |
+| Advance Auto Parts | Software Engineer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b36276b09ab0b93d) | 2026-08-04 16:08 |
+| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-04 16:08 |
+| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-04 16:08 |
+| MedaSync LLC | Senior DevOps Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f97d1ff01dd6d447) | 2026-08-04 16:08 |
+| The Coca-Cola Company | Cloud Data Solutions Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b404d89883ee5a4) | 2026-08-04 16:08 |
+| McKesson | Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24be73dfc99f77ec) | 2026-08-04 16:08 |
+| Samsara | Solutions Integration Engineer IV | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6d3ae94d02ca0b5) | 2026-08-04 16:08 |
+| Koya Consulting | Kronos Consultant | Fremont, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ec014fc719d00ce6) | 2026-08-04 16:08 |
+| Halvik | Data Architect | Vienna, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d9a5df0d2ea71619) | 2026-08-04 16:08 |
+| Field Tech Services LTD | Sr DevOps Engineer | Menlo Park, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da96aab1eec7799c) | 2026-08-04 16:08 |
 | News Corp | Data Engineer | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=14267222251f75ec) | 2026-08-04 13:55 |
 | Eightfold | Senior Software Engineer - AI Agentic Product Dev | Santa Clara, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e86e219dc8ab5e9) | 2026-08-04 13:55 |
 | US LBM Holdings | US LBM Cybersecurity Engineer – Azure DevSecOps | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=daaadae20b9bb3f0) | 2026-08-04 13:55 |
-| McKinsey & Company | Operations Research Specialist - QuantumBlack Labs | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1986da97ab2e4bd0) | 2026-08-04 13:55 |
-| McKinsey & Company | Operations Research Specialist - Critical Industries | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=787e122fda0f0eb5) | 2026-08-04 13:55 |
-| The Coca-Cola Company | Cloud Data Solutions Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b404d89883ee5a4) | 2026-08-04 13:55 |
 | Sally Beauty | Data Engineer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a8be518fe482570d) | 2026-08-04 13:55 |
 | nan | Full Stack Web Developer, Fuel Performance & Decarbonization | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f657fa9f2d4f746) | 2026-08-04 13:55 |
 | TikTok | Data Engineer Graduate (Monetization Data) - 2027 Start | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56be91a8f59c7b8c) | 2026-08-04 11:57 |
@@ -299,10 +308,6 @@ Last updated: 2026-08-04 13:55
 | Scigon | Data Architect | Naperville, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=49e29b1ab6a71257) | 2026-07-31 17:20 |
 | CVS Health | Senior Software Development Engineer | OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fecf6d8da4c516a0) | 2026-07-31 17:20 |
 | Confie | Data Transformation Engineer | Addison, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=049826f47ea60f4d) | 2026-07-31 17:20 |
-| Visibol | Software Engineer | Chicago, IL, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=2462e8855b10b292) | 2026-07-31 15:54 |
-| Stylitics | Cloud Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d143b966366bb7dc) | 2026-07-31 15:54 |
-| PNC Financial Services Group | Senior Software Engineer - Back End / Java, Spring Boot, Kafka | Strongsville, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a03649e9af32154c) | 2026-07-31 15:54 |
-| ConnectWise | Advanced Systems Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6fd8dee63599f0d) | 2026-07-31 15:54 |
 
 
 ---
