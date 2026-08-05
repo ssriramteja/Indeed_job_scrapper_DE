@@ -1,21 +1,39 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-05 19:15
+Last updated: 2026-08-05 20:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Wells Fargo | Senior Data Engineer (contract) | Phoenix, AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=5a9e7e1df6ea458d) | 2026-08-05 20:58 |
+| Wells Fargo | Senior Data Engineer (contract) | Phoenix, AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ce580424ef8e2efe) | 2026-08-05 20:58 |
+| Wells Fargo | Senior Data Engineer (contract) | Phoenix, AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=96ee6d54792e5b0e) | 2026-08-05 20:58 |
+| Weyerhaeuser | Data Engineer | Seattle, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=be3b83404ecad769) | 2026-08-05 20:58 |
+| Fox Corporation | Data Warehousing Specialist | Los Angeles, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1f0db046b81c4b7e) | 2026-08-05 20:58 |
+| Targa Resources | Cloud & Data Senior Architect | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=56d8b3a17d5ca1b6) | 2026-08-05 20:58 |
+| Delan Associates, Inc | Senior Hybrid Infrastructure Engineer | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=20764606d6576c1f) | 2026-08-05 20:58 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-05 20:58 |
+| Mizuho Bank | Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e4572b56a2bddf9a) | 2026-08-05 20:58 |
+| The Hartford | GCP Data Engineer | Hartford, CT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0a982abad7bb05fe) | 2026-08-05 20:58 |
+| Jack Henry & Associates | Data Engineer II | Allen, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=665101d138f0765c) | 2026-08-05 20:58 |
+| Robots & Pencils | Solutions Architect - AI | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ca27788eb548ec1b) | 2026-08-05 20:58 |
+| nan | Mid-Level Software Engineer | Maitland, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8e904477144f9b0f) | 2026-08-05 20:58 |
+| The Hearst Corporation | Senior Engineer, Data Management | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=485768e2c5e94d4b) | 2026-08-05 20:58 |
+| Rivo Holdings | Senior Data Platform Engineer | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=30d873fbb78ff247) | 2026-08-05 20:58 |
+| Texas Mutual Insurance Company | Senior Cloud Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=08e58256f001ecd6) | 2026-08-05 20:58 |
+| nan | Senior Software Engineer | Maitland, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c2a42c056eadbcf3) | 2026-08-05 20:58 |
+| Tinder | Software Engineer II, Backend | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41fd173dde7ceb58) | 2026-08-05 20:58 |
+| IMG | Azure Data Engineer with Databricks | Johnston, IA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=03849a706ec32867) | 2026-08-05 20:58 |
+| Ascendion | Software Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea9a638f7797a3de) | 2026-08-05 20:58 |
 | The Cigna Group | Software Engineering Senior Advisor – Data Engineering/Snowflake (Austin, TX) | Austin, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e215e6f2072e7561) | 2026-08-05 19:15 |
 | NTT DATA | Full Stack Java Engineer - Kafka & AWS MSK Migration - Client Site | WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=13319eb3c1502937) | 2026-08-05 19:15 |
 | AmeriLife | Senior Data Engineer | FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a12298937e96ea8b) | 2026-08-05 19:15 |
 | Neubus, Inc. | Senior Software Engineer | Round Rock, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bc0e3150d2a50804) | 2026-08-05 19:15 |
 | AmeriLife | Senior Data Architect | FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bc7b39b4bbadec2a) | 2026-08-05 19:15 |
 | NTT DATA | AI Security Architect | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb2895861185e447) | 2026-08-05 19:15 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-05 19:15 |
 | CVS Health | Machine Learning Engineer | Richmond, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fff37e48506ad994) | 2026-08-05 19:15 |
 | Stride, Inc. | Cloud Data Engineer | VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9a04dc5f4119a86a) | 2026-08-05 19:15 |
-| Texas Mutual Insurance Company | Senior Cloud Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=08e58256f001ecd6) | 2026-08-05 19:15 |
 | BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0c86fe9a869ba3fc) | 2026-08-05 19:15 |
 | Flowserve | Data Engineer MS Fabric | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92f7a49c864b47f5) | 2026-08-05 19:15 |
 | Navitas Business Consulting | 26-3103: Senior Full Stack Software Developer - Herndon, VA | Herndon, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1ab3a7cf7327a053) | 2026-08-05 19:15 |
