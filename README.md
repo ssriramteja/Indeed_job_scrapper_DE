@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-05 10:26
+Last updated: 2026-08-05 12:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Medlytix | QA Engineer | Roswell, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=79d805ab0f62ca63) | 2026-08-05 12:48 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-05 12:48 |
+| CrowdStrike | Engineer III, Cloud SDET - Platform (Hybrid) | Sunnyvale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d7108583ab9e8178) | 2026-08-05 12:48 |
+| Escalon | Full Stack Developer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c92bfd88d73cefea) | 2026-08-05 12:48 |
+| Eko Green Industrial | Software Engineer (Remote) - Sustainable Tech Solutions | Miami Lakes, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4443bc0700cde0e8) | 2026-08-05 12:48 |
 | Torq Consulting | Senior Consultant – Modern Data & Analytics Engineering | Plano, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=6194bf1cf11624a3) | 2026-08-05 10:26 |
 | Systems Development and Analysis | Database Administrator (Senior) | Arlington, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=01de34b2c0542448) | 2026-08-05 10:26 |
 | Asure Software | Associate AI Software Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2ba83b80a06bd79) | 2026-08-05 10:26 |
@@ -337,9 +342,6 @@ Last updated: 2026-08-05 10:26
 | Fractal Analytics | Power BI Consultant | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eadb4ecc87b42f52) | 2026-08-01 15:53 |
 | BDIPlus | Machine Learning Operations Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d6b18534a1abc5f) | 2026-08-01 13:00 |
 | BDIPlus | Data Scientist | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea2c5e32ab039b3c) | 2026-08-01 13:00 |
-| Cretex Companies | IT-Analytics Engineer | Brooklyn Park, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7be6dab7ca375291) | 2026-08-01 10:27 |
-| Databricks | Specialist Solutions Architect - Cloud Platform & Infrastructure | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ef5e1ba1d628d749) | 2026-08-01 10:27 |
-| National Public Radio | Senior Software Architect, Audience Lifecycle | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=947d58877f957a3c) | 2026-08-01 10:27 |
 
 
 ---
