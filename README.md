@@ -1,11 +1,35 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-04 23:56
+Last updated: 2026-08-05 01:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Databricks Engineer with Genie | Harrisburg, PA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c37120edd193930a) | 2026-08-05 01:44 |
+| Photon | Full Stack Python Developer - NJ | NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e8b79dc3572aa8d5) | 2026-08-05 01:44 |
+| Virginia Tech | Data and Analytics Engineer | Blacksburg, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ba7c3a516ffdf929) | 2026-08-05 01:44 |
+| Quantiphi | Technical Architect - ML | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ddac9e239bbef4c1) | 2026-08-05 01:44 |
+| ACCO Engineered Systems | Data Engineer | Pasadena, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=164fac28ad1ee39b) | 2026-08-05 01:44 |
+| Vynca | Site Reliability Engineer | NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=27df3f02572cf962) | 2026-08-05 01:44 |
+| Vynca | Site Reliability Engineer | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7343ee7d85121f7f) | 2026-08-05 01:44 |
+| Vynca | Site Reliability Engineer | WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e8f99e68d0187163) | 2026-08-05 01:44 |
+| Vynca | Site Reliability Engineer | NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=53383e166b43fdd7) | 2026-08-05 01:44 |
+| Vynca | Site Reliability Engineer | CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=701373d80e74128d) | 2026-08-05 01:44 |
+| Vynca | Site Reliability Engineer | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2cbe0a0577aa5f10) | 2026-08-05 01:44 |
+| Vynca | Site Reliability Engineer | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2c0ca7ef648062d) | 2026-08-05 01:44 |
+| Vynca | Site Reliability Engineer | AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4b33bdfcd561be9b) | 2026-08-05 01:44 |
+| Vynca | Site Reliability Engineer | OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=47bb1952df61e19f) | 2026-08-05 01:44 |
+| Vynca | Site Reliability Engineer | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eb9403b57a174788) | 2026-08-05 01:44 |
+| Vynca | Site Reliability Engineer | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b6f54ef1af497100) | 2026-08-05 01:44 |
+| Vynca | Site Reliability Engineer | UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8ce4f903ab0e9bd9) | 2026-08-05 01:44 |
+| Twilio | Senior Software Engineer (L3) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ff134c7c98fad31c) | 2026-08-05 01:44 |
+| Tech Savants | Senior Node.js Connectivity Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7b17ca5e720295d3) | 2026-08-05 01:44 |
+| Seaboard Energy | Forward Deployed Engineer (FDE) | Merriam, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c5e4a17716151df0) | 2026-08-05 01:44 |
+| IP Corporation | Sr. ERP Developer | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5131d87174c52388) | 2026-08-05 01:44 |
+| Information Technology Senior Management Forum | Senior Software Engineer, Capital Markets Technology | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c23da33ff41d6d3) | 2026-08-05 01:44 |
+| foureyes | Software Engineer (Sr. Software Engineer, DOE) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5fc0f4840ee51ac) | 2026-08-05 01:44 |
+| Inmar | Application Engineer, Cyber Security | Winston-Salem, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=111703762ff5efcb) | 2026-08-05 01:44 |
 | Equifax | Senior Full Stack Engineer | St. Louis, MO, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=27dbaa3dc8a3b601) | 2026-08-04 23:56 |
 | BAE Systems USA | Software Engineering Intern III, Summer 2027 (Onsite) | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c51a0ab8752890e7) | 2026-08-04 23:56 |
 | United Concordia Dental | Senior Data Engineer | PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=99526482fb3f2596) | 2026-08-04 23:56 |
