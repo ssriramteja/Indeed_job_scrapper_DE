@@ -1,13 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-05 12:48
+Last updated: 2026-08-05 15:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BSF | Data Engineer | Jacksonville, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0cc8f770215e2b11) | 2026-08-05 15:08 |
+| Varonis Systems | DevOps Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4b64846e4342be04) | 2026-08-05 15:08 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-05 15:08 |
+| Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=064915e533631ce2) | 2026-08-05 15:08 |
+| A2Z Sync | Senior Engineer, AI/ML | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b4c35bec2870d92f) | 2026-08-05 15:08 |
+| NYC EMPLOYEES RETIREMENT SYS | Senior IT Architect | Brooklyn, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a29445aa2fe8226) | 2026-08-05 15:08 |
+| Penn Interactive Ventures | Senior Full Stack Engineer, Client Platform | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6579a2f1e0419a4e) | 2026-08-05 15:08 |
+| General Motors (GM) | Senior Software Engineer - Virtualization and SIL Integration | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11cf4bcf3a74bb14) | 2026-08-05 15:08 |
 | Medlytix | QA Engineer | Roswell, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=79d805ab0f62ca63) | 2026-08-05 12:48 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-05 12:48 |
 | CrowdStrike | Engineer III, Cloud SDET - Platform (Hybrid) | Sunnyvale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d7108583ab9e8178) | 2026-08-05 12:48 |
 | Escalon | Full Stack Developer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c92bfd88d73cefea) | 2026-08-05 12:48 |
 | Eko Green Industrial | Software Engineer (Remote) - Sustainable Tech Solutions | Miami Lakes, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4443bc0700cde0e8) | 2026-08-05 12:48 |
@@ -340,8 +347,6 @@ Last updated: 2026-08-05 12:48
 | Fairfax County Government | Data Analyst III | Fairfax, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bb89d5ea5a1962dc) | 2026-08-01 15:53 |
 | nan | Senior Launch Automation Engineer | Alameda, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bf3991a8b55df54) | 2026-08-01 15:53 |
 | Fractal Analytics | Power BI Consultant | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eadb4ecc87b42f52) | 2026-08-01 15:53 |
-| BDIPlus | Machine Learning Operations Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d6b18534a1abc5f) | 2026-08-01 13:00 |
-| BDIPlus | Data Scientist | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ea2c5e32ab039b3c) | 2026-08-01 13:00 |
 
 
 ---
