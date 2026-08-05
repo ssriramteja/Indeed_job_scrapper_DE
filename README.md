@@ -1,14 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-05 15:08
+Last updated: 2026-08-05 17:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Region 4 Education Service Center | Full Stack Developer | Houston, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7accc6e59fc97f98) | 2026-08-05 17:20 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-05 17:20 |
+| Burger King | Data Engineer I, Burger King | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=762c612b9070e685) | 2026-08-05 17:20 |
+| Select Minds LLC | Big Data Engineer | Lansing, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca295e881951a0b5) | 2026-08-05 17:20 |
+| AAR Corp. | Solution Architect/Data Engineer | Wood Dale, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2254089b8b9a66f2) | 2026-08-05 17:20 |
+| New York Technology Partners | Junior Data Engineer | Secaucus, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d4a9d26d08938e9d) | 2026-08-05 17:20 |
+| nan | Veeva Vault Technical Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce5964c3554c1268) | 2026-08-05 17:20 |
+| Virginia Tech | Associate Data and Analytics Engineer | Blacksburg, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e7c91c3c9b4df97) | 2026-08-05 17:20 |
+| nan | Full Stack Developer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7482535c924ec6a0) | 2026-08-05 17:20 |
 | BSF | Data Engineer | Jacksonville, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0cc8f770215e2b11) | 2026-08-05 15:08 |
 | Varonis Systems | DevOps Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4b64846e4342be04) | 2026-08-05 15:08 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-05 15:08 |
 | Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=064915e533631ce2) | 2026-08-05 15:08 |
 | A2Z Sync | Senior Engineer, AI/ML | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b4c35bec2870d92f) | 2026-08-05 15:08 |
 | NYC EMPLOYEES RETIREMENT SYS | Senior IT Architect | Brooklyn, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a29445aa2fe8226) | 2026-08-05 15:08 |
@@ -344,9 +352,6 @@ Last updated: 2026-08-05 15:08
 | nan | Senior AWS / Amazon Connect Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=adf03900850392a3) | 2026-08-02 08:06 |
 | First American | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=296becbd334bbc67) | 2026-08-01 18:55 |
 | nan | Decision Scientist | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=059945040a6a3e85) | 2026-08-01 17:53 |
-| Fairfax County Government | Data Analyst III | Fairfax, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bb89d5ea5a1962dc) | 2026-08-01 15:53 |
-| nan | Senior Launch Automation Engineer | Alameda, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bf3991a8b55df54) | 2026-08-01 15:53 |
-| Fractal Analytics | Power BI Consultant | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eadb4ecc87b42f52) | 2026-08-01 15:53 |
 
 
 ---
