@@ -1,13 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-05 17:20
+Last updated: 2026-08-05 19:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Cigna Group | Software Engineering Senior Advisor – Data Engineering/Snowflake (Austin, TX) | Austin, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e215e6f2072e7561) | 2026-08-05 19:15 |
+| NTT DATA | Full Stack Java Engineer - Kafka & AWS MSK Migration - Client Site | WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=13319eb3c1502937) | 2026-08-05 19:15 |
+| AmeriLife | Senior Data Engineer | FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a12298937e96ea8b) | 2026-08-05 19:15 |
+| Neubus, Inc. | Senior Software Engineer | Round Rock, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bc0e3150d2a50804) | 2026-08-05 19:15 |
+| AmeriLife | Senior Data Architect | FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bc7b39b4bbadec2a) | 2026-08-05 19:15 |
+| NTT DATA | AI Security Architect | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fb2895861185e447) | 2026-08-05 19:15 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-05 19:15 |
+| CVS Health | Machine Learning Engineer | Richmond, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fff37e48506ad994) | 2026-08-05 19:15 |
+| Stride, Inc. | Cloud Data Engineer | VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9a04dc5f4119a86a) | 2026-08-05 19:15 |
+| Texas Mutual Insurance Company | Senior Cloud Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=08e58256f001ecd6) | 2026-08-05 19:15 |
+| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0c86fe9a869ba3fc) | 2026-08-05 19:15 |
+| Flowserve | Data Engineer MS Fabric | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92f7a49c864b47f5) | 2026-08-05 19:15 |
+| Navitas Business Consulting | 26-3103: Senior Full Stack Software Developer - Herndon, VA | Herndon, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1ab3a7cf7327a053) | 2026-08-05 19:15 |
+| CVS Health | Senior Software Development Engineer - Microservices | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e96d806ef18289e) | 2026-08-05 19:15 |
+| Virginia Tech | Associate Data and Analytics Engineer | Blacksburg, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4801f1e85e3ac4b8) | 2026-08-05 19:15 |
+| Brown University Health | IT Cloud Architect | Providence, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05587d106373823e) | 2026-08-05 19:15 |
+| CVS Health | Cloud Architect - Product Owner | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f3875498686bde6) | 2026-08-05 19:15 |
+| AssistRx | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29e2a93d07b12647) | 2026-08-05 19:15 |
 | Region 4 Education Service Center | Full Stack Developer | Houston, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7accc6e59fc97f98) | 2026-08-05 17:20 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-05 17:20 |
 | Burger King | Data Engineer I, Burger King | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=762c612b9070e685) | 2026-08-05 17:20 |
 | Select Minds LLC | Big Data Engineer | Lansing, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca295e881951a0b5) | 2026-08-05 17:20 |
 | AAR Corp. | Solution Architect/Data Engineer | Wood Dale, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2254089b8b9a66f2) | 2026-08-05 17:20 |
@@ -350,8 +367,6 @@ Last updated: 2026-08-05 17:20
 | nan | AI Engineer | Rocklin, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e235cc7e99c3a2a) | 2026-08-02 10:25 |
 | nan | QA & Operations Engineer – Amazon Connect (CCaaS) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=94e45a080aab120d) | 2026-08-02 08:06 |
 | nan | Senior AWS / Amazon Connect Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=adf03900850392a3) | 2026-08-02 08:06 |
-| First American | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=296becbd334bbc67) | 2026-08-01 18:55 |
-| nan | Decision Scientist | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=059945040a6a3e85) | 2026-08-01 17:53 |
 
 
 ---
