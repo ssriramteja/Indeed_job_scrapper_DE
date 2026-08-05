@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-05 07:35
+Last updated: 2026-08-05 10:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Torq Consulting | Senior Consultant – Modern Data & Analytics Engineering | Plano, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=6194bf1cf11624a3) | 2026-08-05 10:26 |
+| Systems Development and Analysis | Database Administrator (Senior) | Arlington, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=01de34b2c0542448) | 2026-08-05 10:26 |
+| Asure Software | Associate AI Software Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2ba83b80a06bd79) | 2026-08-05 10:26 |
+| Asure Software | Associate AI Software Engineer | Addison, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aad7eaf60ccf42f2) | 2026-08-05 10:26 |
 | Rhythm Energy | Analytics Engineer II | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0d93d722cff256d2) | 2026-08-05 07:35 |
 | JPMorganChase | Software Engineer III (Java) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9a225f0dc6b137ec) | 2026-08-05 07:35 |
 | Adobe | Sr DevOps Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=975478975181c2cf) | 2026-08-05 07:35 |
@@ -336,22 +340,6 @@ Last updated: 2026-08-05 07:35
 | Cretex Companies | IT-Analytics Engineer | Brooklyn Park, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7be6dab7ca375291) | 2026-08-01 10:27 |
 | Databricks | Specialist Solutions Architect - Cloud Platform & Infrastructure | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ef5e1ba1d628d749) | 2026-08-01 10:27 |
 | National Public Radio | Senior Software Architect, Audience Lifecycle | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=947d58877f957a3c) | 2026-08-01 10:27 |
-| Love’s Travel Stops | Data Engineer II | Oklahoma City, OK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=78da46a020c5c9a9) | 2026-08-01 08:04 |
-| Humana | Senior Software Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48a8605190a502c1) | 2026-08-01 08:04 |
-| Humana | Senior Software Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=02ddfaa0f7254c6f) | 2026-08-01 08:04 |
-| Humana | Senior Software Engineer | KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e46d6854a6af634a) | 2026-08-01 08:04 |
-| Starbucks | data engineer sr- ST; Seattle, WA | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=520c25a2261458b5) | 2026-08-01 08:04 |
-| AFL | Senior Power BI Developer | Duncan, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=20e18aa5f93b2f8a) | 2026-08-01 08:04 |
-| Starbucks | ioT engineer senior, Seattle WA | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f4f2dbe0b92bd99) | 2026-08-01 08:04 |
-| CLERA | Senior Machine Learning Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=40184011356fb182) | 2026-08-01 08:04 |
-| Molina Healthcare | Senior Engineer, Big Data | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5cd92d13a4a4bb35) | 2026-08-01 08:04 |
-| Optimum | Software Development Engineer I | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c85fe3d6b042982b) | 2026-08-01 08:04 |
-| Optimum | Software Development Engineer I | Bethpage, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=36f3b49aebbbfcfd) | 2026-08-01 08:04 |
-| Nextlink Internet | Full Stack Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a4f40f85cfe5737) | 2026-08-01 08:04 |
-| The AES Group | Direct Client - Decision Scientist | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0c8c04d109704529) | 2026-08-01 08:04 |
-| Humana | Software Engineer | TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e714098ae5cec8b) | 2026-08-01 08:04 |
-| Humana | Software Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68067a30d3435be3) | 2026-08-01 08:04 |
-| Humana | Software Engineer | KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d2f86a70b2dfc7a8) | 2026-08-01 08:04 |
 
 
 ---
