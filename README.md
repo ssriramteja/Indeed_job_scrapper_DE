@@ -1,20 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-06 10:29
+Last updated: 2026-08-06 12:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-06 10:29 |
+| Cyberlocke, LLC | Azure ETL Architect – Data Modernization | Plano, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=fbb3d2789d2f0f62) | 2026-08-06 12:51 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eef1687719f12bcd) | 2026-08-06 12:51 |
+| Cyberlocke, LLC | Power BI Developer – Data Modernization | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b721420913a99a6c) | 2026-08-06 12:51 |
+| Ford Motor Company | Full-Stack Platform Software Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4b64ece3d83e461e) | 2026-08-06 12:51 |
+| Texas Mutual Insurance Company | Senior Cloud Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=08e58256f001ecd6) | 2026-08-06 12:51 |
+| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e4b33ddd29938b6) | 2026-08-06 12:51 |
 | Eccalon | Database Engineer - onsite | Detroit, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c2dc5b2bfc7d7bdc) | 2026-08-06 10:29 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eef1687719f12bcd) | 2026-08-06 10:29 |
-| Ford Motor Company | Full-Stack Platform Software Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4b64ece3d83e461e) | 2026-08-06 10:29 |
-| Texas Mutual Insurance Company | Senior Cloud Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=08e58256f001ecd6) | 2026-08-06 10:29 |
 | Comcast | Data Engineer 3 - Virtual | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e58245a6fd122ca7) | 2026-08-06 10:29 |
 | C.H. Robinson | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b8b790018e6435ce) | 2026-08-06 10:29 |
 | C.H. Robinson | Software Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fb3264f58d94550) | 2026-08-06 10:29 |
-| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e4b33ddd29938b6) | 2026-08-06 10:29 |
 | DANTA TECHNOLOGIES PVT LTD | Azure Cloud Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ba4909bc0770b1b) | 2026-08-06 10:29 |
 | Capgemini | Full Stack Java with Angular - Onsite - Atlanta/Alpharetta | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2c752e537cd0c2e4) | 2026-08-06 07:35 |
 | Fujitsu | AI/ML ENG III | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c79fecb88f759cdc) | 2026-08-06 07:35 |
