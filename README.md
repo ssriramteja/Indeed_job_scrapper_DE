@@ -1,23 +1,38 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-05 23:50
+Last updated: 2026-08-06 01:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Python Backend Software Engineer III - AWS / Databricks | Tampa, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4574c28d1f57d4a2) | 2026-08-06 01:44 |
+| Bally's Intralot | BI Engineer | North Little Rock, AR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5a4a5cb09b0891fe) | 2026-08-06 01:44 |
+| NTT DATA | Solution Architect (Java, Cloud & AI) - FTE / Hybrid | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=699af075d40be5fc) | 2026-08-06 01:44 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-06 01:44 |
+| GEICO | Senior Contact Center Data Engineer | Palo Alto, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fafd113ac8d024d0) | 2026-08-06 01:44 |
+| GEICO | Senior Contact Center Data Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f947249f6b00842e) | 2026-08-06 01:44 |
+| GEICO | Senior Contact Center Data Engineer | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=284f70ca41d0b336) | 2026-08-06 01:44 |
+| GEICO | Senior Contact Center Data Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee98575464cd3291) | 2026-08-06 01:44 |
+| GEICO | Senior Contact Center Data Engineer | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=063baf5a6448568c) | 2026-08-06 01:44 |
+| Texas Mutual Insurance Company | Senior Cloud Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=08e58256f001ecd6) | 2026-08-06 01:44 |
+| Modivcare | Database Administrator IV | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=224c101cb5cb9b32) | 2026-08-06 01:44 |
+| Modivcare | Database Administrator IV | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4752fa061c12fdd3) | 2026-08-06 01:44 |
+| Radix | Data Engineer | Scottsdale, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=436f3c432785fc82) | 2026-08-06 01:44 |
+| BV Teck | Senior Backend Developer – Python | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b6d002c780515dc4) | 2026-08-06 01:44 |
+| Blue Acorn iCi | EDS Front End Architect (Remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4355de47b9364410) | 2026-08-06 01:44 |
+| JPMorganChase | Senior Associate, Data Scientist - PXT Analytics | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b18a3410ca26c21c) | 2026-08-06 01:44 |
+| Premier Cloud | Gen AI Solutions Engineer #122 | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ead4e34bd1038d2d) | 2026-08-06 01:44 |
 | EXL Service | Data Platform Engineer | US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=e283799e17891679) | 2026-08-05 23:50 |
 | VeeRteq Solutions Inc. | Software Engineer(Python) | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c3e81248d8fcac15) | 2026-08-05 23:50 |
 | Pearson | Data Engineer III | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ed4680bf14d32cc9) | 2026-08-05 23:50 |
 | Capgemini | Full Stack Java with Angular - Onsite - Atlanta/Alpharetta | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=476324ac0bfc1988) | 2026-08-05 23:50 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-05 23:50 |
 | Fellowship Health Resources, Inc. | MO 85- Power BI and Data engineer (806590) | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5000cd2f1efb32c2) | 2026-08-05 23:50 |
 | I8IS INC. | Snowflake Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2fdabe0fd11a2b20) | 2026-08-05 23:50 |
 | ITgen systems | Consultant | Andes, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3558a4604fdf437b) | 2026-08-05 23:50 |
 | EXL Service | Senior Analytics Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2a5f74b5ca1d0e4c) | 2026-08-05 23:50 |
 | FCT | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=766c2d4ea3852d27) | 2026-08-05 23:50 |
 | FCT | Full Stack Senior Software Engineer (Remote in CA) | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2378c1e094af5b61) | 2026-08-05 23:50 |
-| Texas Mutual Insurance Company | Senior Cloud Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=08e58256f001ecd6) | 2026-08-05 23:50 |
 | EXL Service | Senior Data Architect | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d174a62833050e13) | 2026-08-05 23:50 |
 | Ripplehire | Senior Cloud/Site Reliability Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=90c967cc75affe93) | 2026-08-05 23:50 |
 | Appex Innovation | Full-stack Swift Developer | Albany, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb4a885f309c1d91) | 2026-08-05 23:50 |
