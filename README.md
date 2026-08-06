@@ -1,17 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-06 07:35
+Last updated: 2026-08-06 10:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-06 10:29 |
+| Eccalon | Database Engineer - onsite | Detroit, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c2dc5b2bfc7d7bdc) | 2026-08-06 10:29 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eef1687719f12bcd) | 2026-08-06 10:29 |
+| Ford Motor Company | Full-Stack Platform Software Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4b64ece3d83e461e) | 2026-08-06 10:29 |
+| Texas Mutual Insurance Company | Senior Cloud Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=08e58256f001ecd6) | 2026-08-06 10:29 |
+| Comcast | Data Engineer 3 - Virtual | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e58245a6fd122ca7) | 2026-08-06 10:29 |
+| C.H. Robinson | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b8b790018e6435ce) | 2026-08-06 10:29 |
+| C.H. Robinson | Software Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fb3264f58d94550) | 2026-08-06 10:29 |
+| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e4b33ddd29938b6) | 2026-08-06 10:29 |
+| DANTA TECHNOLOGIES PVT LTD | Azure Cloud Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ba4909bc0770b1b) | 2026-08-06 10:29 |
 | Capgemini | Full Stack Java with Angular - Onsite - Atlanta/Alpharetta | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2c752e537cd0c2e4) | 2026-08-06 07:35 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-06 07:35 |
-| Ford Motor Company | Full-Stack Platform Software Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4b64ece3d83e461e) | 2026-08-06 07:35 |
 | Fujitsu | AI/ML ENG III | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c79fecb88f759cdc) | 2026-08-06 07:35 |
 | CrowdStrike | Engineer III - Platform Data Engineer (Remote) | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=93749d43fe3ef5d1) | 2026-08-06 07:35 |
-| Texas Mutual Insurance Company | Senior Cloud Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=08e58256f001ecd6) | 2026-08-06 07:35 |
 | JPMorganChase | Java Full Stack Software Engineer III - React / PostgreSQL | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5098c1122253111e) | 2026-08-06 07:35 |
 | CLERA | Senior DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3ce11b9433c91a10) | 2026-08-06 07:35 |
 | Ketch | Backend Software Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce5d2c1be2dfe526) | 2026-08-06 07:35 |
@@ -437,9 +444,6 @@ Last updated: 2026-08-06 07:35
 | Green Irony | Senior MuleSoft Engineer | Apex, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=323e4c2e667bc8d4) | 2026-08-02 23:50 |
 | NSV IT SOLUTIONS | Sr Java Developer with E-Trading exp must | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b93bfb157e46dad0) | 2026-08-02 20:06 |
 | JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=291bce23f034d334) | 2026-08-02 18:55 |
-| nan | AI Engineer | Rocklin, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e235cc7e99c3a2a) | 2026-08-02 10:25 |
-| nan | QA & Operations Engineer – Amazon Connect (CCaaS) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=94e45a080aab120d) | 2026-08-02 08:06 |
-| nan | Senior AWS / Amazon Connect Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=adf03900850392a3) | 2026-08-02 08:06 |
 
 
 ---
