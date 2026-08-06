@@ -1,21 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-06 01:44
+Last updated: 2026-08-06 04:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Java Full Stack Engineer | Charlotte, NC, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=644b32ef05018543) | 2026-08-06 04:57 |
+| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-06 04:57 |
+| 4P Consulting Inc. | Data Analytics Engineer IV. 4P/796 | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=52cb4b188a57c118) | 2026-08-06 04:57 |
+| Lam Research | Data Platform Architect | Fremont, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d01db6639e88fcab) | 2026-08-06 04:57 |
+| Ford Motor Company | Full-Stack Platform Software Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4b64ece3d83e461e) | 2026-08-06 04:57 |
+| Applied Systems | Data Engineer (GCP, BigQuery) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d730d92415b574ca) | 2026-08-06 04:57 |
+| Texas Mutual Insurance Company | Senior Cloud Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=08e58256f001ecd6) | 2026-08-06 04:57 |
+| Southside Bank | Senior Analytics Engineer - On-Site (Texas) | Tyler, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c35333a91d42cd16) | 2026-08-06 04:57 |
+| 4P Consulting Inc. | Full Stack Application Developer III 4P/797 | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb0a2d794a3a9143) | 2026-08-06 04:57 |
 | JPMorganChase | Python Backend Software Engineer III - AWS / Databricks | Tampa, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4574c28d1f57d4a2) | 2026-08-06 01:44 |
 | Bally's Intralot | BI Engineer | North Little Rock, AR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5a4a5cb09b0891fe) | 2026-08-06 01:44 |
 | NTT DATA | Solution Architect (Java, Cloud & AI) - FTE / Hybrid | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=699af075d40be5fc) | 2026-08-06 01:44 |
-| McLane Company | Sr Solutions Architect - Digital Customer Experience | Temple, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9fa71cd2f8a99fc) | 2026-08-06 01:44 |
 | GEICO | Senior Contact Center Data Engineer | Palo Alto, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fafd113ac8d024d0) | 2026-08-06 01:44 |
 | GEICO | Senior Contact Center Data Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f947249f6b00842e) | 2026-08-06 01:44 |
 | GEICO | Senior Contact Center Data Engineer | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=284f70ca41d0b336) | 2026-08-06 01:44 |
 | GEICO | Senior Contact Center Data Engineer | San Jose, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee98575464cd3291) | 2026-08-06 01:44 |
 | GEICO | Senior Contact Center Data Engineer | Richardson, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=063baf5a6448568c) | 2026-08-06 01:44 |
-| Texas Mutual Insurance Company | Senior Cloud Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=08e58256f001ecd6) | 2026-08-06 01:44 |
 | Modivcare | Database Administrator IV | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=224c101cb5cb9b32) | 2026-08-06 01:44 |
 | Modivcare | Database Administrator IV | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4752fa061c12fdd3) | 2026-08-06 01:44 |
 | Radix | Data Engineer | Scottsdale, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=436f3c432785fc82) | 2026-08-06 01:44 |
