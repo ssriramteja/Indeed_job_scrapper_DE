@@ -1,17 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 15:45
+Last updated: 2026-08-07 16:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Alchemy | GCP Data Engineer/Architect | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1f4080c35e50a786) | 2026-08-07 16:42 |
+| nan | Cloud Infrastructure Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6d24bc0c26ef1f62) | 2026-08-07 16:42 |
+| The Coca-Cola Company | Machine Learning Architect 2 | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=08d5fa709c2abfb2) | 2026-08-07 16:42 |
+| The Coca-Cola Company | Senior Machine Learning Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b22e167e69bdfe92) | 2026-08-07 16:42 |
+| The Coca-Cola Company | Machine Learning Architect 2 | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d2689a7adb5339b8) | 2026-08-07 16:42 |
+| Finbott | Senior Java Developer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ce8f8f2a4ca6b4b4) | 2026-08-07 16:42 |
+| Colorado Rockies Baseball Club | Senior Data Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=294c79854ae69714) | 2026-08-07 16:42 |
+| Designer Brands Inc. | Sr. Business Intelligence Developer - REMOTE | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a2bc7ffb6f944b1f) | 2026-08-07 16:42 |
+| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 16:42 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 16:42 |
 | nan | Azure Data Architect with Healthcare Payer Exp. | Princeton, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=148c9b744dd583ea) | 2026-08-07 15:45 |
 | The Hartford | AI Platform Engineer (Google Cloud Platform) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=33567ff533f2727c) | 2026-08-07 15:45 |
 | The Hartford | AI Platform Engineer (Google Cloud Platform) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca8f7d2b652cdd63) | 2026-08-07 15:45 |
 | The Hartford | AI Platform Engineer (Google Cloud Platform) | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=86d548f0655d8ea0) | 2026-08-07 15:45 |
 | The Hartford | AI Platform Engineer (Google Cloud Platform) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5c83954e5f77f972) | 2026-08-07 15:45 |
-| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 15:45 |
 | Dataflix | Sr Architect - Onsite in Irvine, CA | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dcb4d56aa60d66cf) | 2026-08-07 14:05 |
 | State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50b26690dd93322b) | 2026-08-07 14:05 |
 | Jewish Council for the Aging of Greater Washington | BI & Analytics Analyst/Data Engineer | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8e88e37f4395eea) | 2026-08-07 11:38 |
