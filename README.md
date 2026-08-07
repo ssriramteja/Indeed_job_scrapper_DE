@@ -1,11 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 02:09
+Last updated: 2026-08-07 04:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Stellantis | Cloud Software Engineer | Auburn Hills, MI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=0a79b4f16db1d96c) | 2026-08-07 04:48 |
+| TISTA Science and Technology Corporation | Resident Solutions Architect (RSA) - Databricks | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=891599544d1068a4) | 2026-08-07 04:48 |
+| TISTA Science and Technology Corporation | Resident Solutions Architect (RSA) - Databricks | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85c1e172b887f0e4) | 2026-08-07 04:48 |
+| PureMagic Carwash | Full Stack Data Engineer | Alcoa, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e59c05554094978) | 2026-08-07 04:48 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eef1687719f12bcd) | 2026-08-07 04:48 |
+| Avantor | CDP System Developer (Customer Data Platform) | Radnor, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=296a330a7d75e5b4) | 2026-08-07 04:48 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=18b9c3aa39890d54) | 2026-08-07 04:48 |
+| PlayStation | Sr Cloud Infrastructure & Platform Engineer | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=551854289f030c9c) | 2026-08-07 04:48 |
+| Goldman Sachs | Risk-Salt Lake City-Associate-Software Engineering | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=63632248996e4946) | 2026-08-07 04:48 |
+| Goldman Sachs | Risk-Dallas-Associate-Software Engineering | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3568db794bb43c20) | 2026-08-07 04:48 |
+| GEICO | Senior Software Engineer - HYBRID | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=368b8ec957001455) | 2026-08-07 04:48 |
+| GEICO | Senior Software Engineer - HYBRID | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a24551da2a5d119) | 2026-08-07 04:48 |
+| GEICO | Senior Software Engineer - HYBRID | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4c2485dd3b69b7) | 2026-08-07 04:48 |
+| GEICO | Senior Software Engineer - HYBRID | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e11b943eb2423bf) | 2026-08-07 04:48 |
+| Deloitte | Applied AI Software Engineer III | Hermitage, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=803c5841ca815740) | 2026-08-07 04:48 |
+| Deloitte | Applied AI Software Engineer III | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6f69a9084f7cc98) | 2026-08-07 04:48 |
+| Deloitte | Applied AI Software Engineer III | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d49b4a7fe8e3ba1a) | 2026-08-07 04:48 |
+| Deloitte | Applied AI Software Engineer III | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b7b08359f538c30) | 2026-08-07 04:48 |
+| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e4b33ddd29938b6) | 2026-08-07 04:48 |
 | Changeis, Inc. | Databricks Administrator | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c6794a3834a8cb4a) | 2026-08-07 02:09 |
 | RadCube | Data Engineer (Databricks/AWS) | Indianapolis, IN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=de00d1a1e6d38ed7) | 2026-08-07 02:09 |
 | Kansas Judicial Branch | IT Data & Analytics Engineer - Office of Judicial Administration | Topeka, KS, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8be59ba9f664cdc8) | 2026-08-07 02:09 |
@@ -13,7 +32,6 @@ Last updated: 2026-08-07 02:09
 | Target | Sr Data Engineer - Finance Technology Platform (PySpark, Hadoop, Cloud) | Brooklyn Park, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a27ca6662829a272) | 2026-08-07 02:09 |
 | nan | Senior Software Engineer | Louisville, KY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=658f836c897914f9) | 2026-08-07 02:09 |
 | Capgemini | AWS Cloud Architect (Java Microservices) | St. Louis, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7730389a6a7d162d) | 2026-08-07 02:09 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eef1687719f12bcd) | 2026-08-07 02:09 |
 | Hertz | Sr Full Stack Developer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4c5e7ece7dccd02c) | 2026-08-07 02:09 |
 | Ursa Space Systems | AI TEVV Engineer | Ithaca, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39d2ca0ad3d344bb) | 2026-08-07 02:09 |
 | ARC-One Solutions | Solutions Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e00f9372e966a21f) | 2026-08-07 02:09 |
@@ -31,7 +49,6 @@ Last updated: 2026-08-07 02:09
 | Colorado State University | 26-117: Fire Weather Testbed Cloud Developer | Boulder, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4b194d8c0cab372) | 2026-08-07 02:09 |
 | Concentrix | Cloud Data Engineer - (Coalesce, Snowflake) | Omaha, NE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=529cf1fbc3547cd8) | 2026-08-07 02:09 |
 | Authority Brands | Sr Integration Engineer | GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e7ef087d7f34af1) | 2026-08-07 02:09 |
-| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e4b33ddd29938b6) | 2026-08-07 02:09 |
 | Stellantis | Cloud Software Engineer | Auburn Hills, MI, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=93b179b1cd108b7b) | 2026-08-06 23:50 |
 | Mod Op | Junior Data Engineer (GCP Cloud Migrations) | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=221a082ea5ba73e5) | 2026-08-06 23:50 |
 | SambaSafety | Automation Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e36968d9c7ac52ee) | 2026-08-06 23:50 |
