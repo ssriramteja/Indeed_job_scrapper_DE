@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 18:40
+Last updated: 2026-08-07 19:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Prudential | Senior Data Engineer | Newark, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=1c780bb7cb6c4cc0) | 2026-08-07 19:44 |
+| Capgemini | Senior Solution Architect - I&D | Franklin Lakes, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9ed54c8ce6b401fd) | 2026-08-07 19:44 |
+| Hollstadt Consulting | AI Engineer | MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=41ca370618b5121e) | 2026-08-07 19:44 |
+| External SambaNova Systems | Cloud Platform Engineer | Palo Alto, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=798a5f2afe52ecba) | 2026-08-07 19:44 |
+| Downtown Music | Data Engineer | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=62178bde1110ca99) | 2026-08-07 19:44 |
+| Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b6fce6d2f8036b7f) | 2026-08-07 19:44 |
+| Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bebe922d1a22e0b2) | 2026-08-07 19:44 |
+| Hollstadt Consulting | Senior AI Engineer | MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f8c803152f342224) | 2026-08-07 19:44 |
+| Bounteous | AEP/CDP Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5fba331119c93e6a) | 2026-08-07 19:44 |
+| Capgemini | Java Full Stack Developer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=033a483ab033f139) | 2026-08-07 19:44 |
+| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 19:44 |
+| Expeditors | Data Engineer III/Senior (Analytics) | Edison, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d01033a0167d6836) | 2026-08-07 19:44 |
+| Expeditors | Data Engineer III/Senior (Analytics) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dacfe71dcf8baca8) | 2026-08-07 19:44 |
+| Expeditors | Data Engineer III/Senior (Analytics) | Ellenwood, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ac9200c4cfa508d) | 2026-08-07 19:44 |
+| Expeditors | Data Engineer III/Senior (Analytics) | Romulus, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e659a4bfd0be22cf) | 2026-08-07 19:44 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 19:44 |
 | NuAxis Innovations | Senior Data Platform Engineer | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0c936dad5028f127) | 2026-08-07 18:40 |
 | NTT DATA | Python Backend Developer - Hybrid/Onsite | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=de4f0429ae4593f2) | 2026-08-07 18:40 |
 | Renew home | Senior Engineer, Backend - Consumer Experience Platform (Remote, US) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f512c971fe8b64d7) | 2026-08-07 18:40 |
@@ -15,11 +31,9 @@ Last updated: 2026-08-07 18:40
 | NTT DATA | Senior Oracle Data Engineer - Onsite | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e93cd18fa341dbb) | 2026-08-07 18:40 |
 | Abbott | Senior Data Engineer | Des Plaines, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=183c1e594d877a8a) | 2026-08-07 18:40 |
 | NTT DATA | Data Quality Engineer - Hybrid On-Site | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0097b274babd6cc) | 2026-08-07 18:40 |
-| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 18:40 |
 | NTT DATA | Data Engineer - Hybrid On-Site | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ce725dc0522c974) | 2026-08-07 18:40 |
 | NTT DATA | Data Engineer - Hybrid On-Site | Merrimack, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff6a2f7452936264) | 2026-08-07 18:40 |
 | Masco | Enterprise Data Architect | Livonia, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ffac0ed2e6c03b03) | 2026-08-07 18:40 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 18:40 |
 | nan | Senior Data Engineer — GCP | Rochester, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5f84280e7ee9940e) | 2026-08-07 17:40 |
 | Data Dimensions | DevOps Engineer | Janesville, WI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=577e50312f05eeeb) | 2026-08-07 17:40 |
 | Neo4j | Consulting Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e01bb16e952f25f) | 2026-08-07 17:40 |
@@ -523,23 +537,6 @@ Last updated: 2026-08-07 18:40
 | Databricks | Sr. Solutions Engineer - Digital Native Business, FinTech | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=610c3a1bbde2965d) | 2026-08-03 20:55 |
 | Databricks | Solutions Architect - AI Natives Business, Strategic | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42ea35aceaecf2e7) | 2026-08-03 20:55 |
 | Databricks | Solutions Architect - Digital Native Business, Named Accounts | NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9d04b632592cdc0) | 2026-08-03 20:55 |
-| NTT DATA | DevOps Engineer - Westlake, TX | Westlake, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b75914a192898d1c) | 2026-08-03 19:19 |
-| NTT DATA | DevOps Engineer - Jersey City, NJ | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=09b326711b2a8ba0) | 2026-08-03 19:19 |
-| NTT DATA | DevOps Engineer - Merrimack, NH | Merrimack, NH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c9e5552345b9c43f) | 2026-08-03 19:19 |
-| Rhombus Power | Data Engineer, Palo Alto | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c52e39436d6debc6) | 2026-08-03 19:19 |
-| Allied Solutions | Data Engineer | Carmel, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c1386463efa42576) | 2026-08-03 19:19 |
-| JPMorganChase | Software Engineer III - AI/ML Platform Engineer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9be9abf2ba504bc8) | 2026-08-03 19:19 |
-| Waystar | Data Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fd37781709951727) | 2026-08-03 19:19 |
-| Netsmart Technologies | Associate Cloud Engineer - | Overland Park, KS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f76cee0597823605) | 2026-08-03 19:19 |
-| Fiserv | Sr. DevOps / Cloud Engineer, Billing Infrastructure | Sunnyvale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=215a3df996bed07f) | 2026-08-03 19:19 |
-| BV Teck | Cloud-Native Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71f63292ca49d08f) | 2026-08-03 19:19 |
-| IPolarity LLC | Machine Learning Operations Engineer | Whippany, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d5882bdc5a806f54) | 2026-08-03 19:19 |
-| Progressive Technology Solutions | Backend Developer | Vienna, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c665fe23456b2833) | 2026-08-03 19:19 |
-| PODS | Engineer III - Software | Clearwater, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d77313a791b9bf92) | 2026-08-03 19:19 |
-| Fiserv | Senior Cybersecurity Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ff7cf8968808f78) | 2026-08-03 19:19 |
-| Fiserv | Sr. Backend Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d8b19d5343bf31ae) | 2026-08-03 19:19 |
-| BV Teck | Microsoft Azure Specialist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=797c8733d467365d) | 2026-08-03 19:19 |
-| Optum | Senior Developer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a28196d6639ff9e7) | 2026-08-03 19:19 |
 
 
 ---
