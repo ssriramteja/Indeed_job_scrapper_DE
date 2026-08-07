@@ -1,19 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 20:30
+Last updated: 2026-08-07 21:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Snowflake Data Engineer | NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6beb523d3112f2c8) | 2026-08-07 21:29 |
+| General Motors (GM) | Customer Experience Analyst | Warren, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=defc1aca4d641884) | 2026-08-07 21:29 |
+| CLERA | Senior IT Software Engineer – Scala, Akka & Java Microservices | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d0861862c8ae6a6b) | 2026-08-07 21:29 |
+| Burger King | Data Engineer I, Burger King | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f867d1be9fe0f69) | 2026-08-07 21:29 |
+| Digital Dhara LLC | Facets NetworX Pricing Configuration | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee9c395d3ffba8c0) | 2026-08-07 21:29 |
+| International Scripture Ministries | Business Intelligence & Data Analytics Specialist | Brentwood, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=461848762436fae0) | 2026-08-07 21:29 |
+| LexisNexis Risk Solutions | Senior Site Reliability Engineer I | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=412a855df409a1ce) | 2026-08-07 21:29 |
+| National Trench Safety | Analytics Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf80265e943322ad) | 2026-08-07 21:29 |
+| COMMUNITY BEHAVIORAL HEALTH | Sr. Software Engineer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48dcbf107ebdc2d8) | 2026-08-07 21:29 |
+| General Motors (GM) | Business Efficiency Engineer | Warren, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cca3a193745fe7be) | 2026-08-07 21:29 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 21:29 |
 | Fractal Analytics | Azure DBX | CA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=8699eca260e46b8d) | 2026-08-07 20:30 |
 | Cactus Wellhead | Cactus Wellhead - Sr. Data Platform Engineering | Houston, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a33763b20c7bc7ae) | 2026-08-07 20:30 |
 | Fractal Analytics | Solution Architect | CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=812c613e05e7cfce) | 2026-08-07 20:30 |
 | Salesforce | Technical Architect 8 | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7012fb40a43e1d5a) | 2026-08-07 20:30 |
 | Magid Glove & Safety | Data Engineer | Romeoville, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bae4852afc375b2c) | 2026-08-07 20:30 |
 | Nordstrom | Data Analyst 3, Supply Chain Intelligence - (Hybrid - Seattle, WA) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=33c11ff9d6efa16d) | 2026-08-07 20:30 |
-| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 20:30 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 20:30 |
 | Gainwell Technologies LLC | Cloud Data Solutions Architect | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7339cfd332732e7a) | 2026-08-07 20:30 |
 | Prudential | Senior Data Engineer | Newark, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=1c780bb7cb6c4cc0) | 2026-08-07 19:44 |
 | Capgemini | Senior Solution Architect - I&D | Franklin Lakes, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9ed54c8ce6b401fd) | 2026-08-07 19:44 |
@@ -521,29 +530,6 @@ Last updated: 2026-08-07 20:30
 | LG Electronics | Data Scientist / AI Engineer | Huntsville, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2503df5e5b9aa571) | 2026-08-03 21:59 |
 | Okta | Senior Site Reliability Engineer | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bcccf48bb0411667) | 2026-08-03 21:59 |
 | LTM Limited | Senior Data Engineer | Raritan, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e670572ccedcb37d) | 2026-08-03 21:59 |
-| FalconSmartIT | Data Solution Architect | San Mateo, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c8c0d190ff6325ff) | 2026-08-03 20:55 |
-| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b8353987748b8d8c) | 2026-08-03 20:55 |
-| Warwick Investment Group | Data Engineer | Oklahoma City, OK, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5e9fd3c8ca67917e) | 2026-08-03 20:55 |
-| Royal Caribbean Group | Sr. Analyst, Data Modeling | Miramar, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dd3b4125cc7e6462) | 2026-08-03 20:55 |
-| FDM Group | Data Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cf971bdf2ccdd305) | 2026-08-03 20:55 |
-| Caterpillar | Senior Data Engineer – Physical AI Platform, Data Engineering | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2ea0b33c2e692193) | 2026-08-03 20:55 |
-| Caterpillar | Senior Data Engineer – Physical AI Platform, Data Engineering | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c814a46cbb88f8ca) | 2026-08-03 20:55 |
-| Capgemini | Enterprise Architect - Multi Cloud | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c5698f847899a449) | 2026-08-03 20:55 |
-| Net Health | DevOps Engineer III - REMOTE | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d15fab4f2cde8bce) | 2026-08-03 20:55 |
-| Arizona State University | Senior AI Cloud Engineer | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=db3049869dc54e81) | 2026-08-03 20:55 |
-| Databricks | Specialist Solutions Architect - Cloud Platform & Infrastructure (GCP) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6707e3755a595393) | 2026-08-03 20:55 |
-| FedEx | Data Scientist I and II (GCP & AI Engineer) | Memphis, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f01b4e79c2d80ad1) | 2026-08-03 20:55 |
-| Epsilon | Senior Data Engineer - Corporate Intelligence Platform | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8757e161bdfc3ca1) | 2026-08-03 20:55 |
-| Databricks | Specialist Solutions Architect - Cloud Platform & Infrastructure (Azure) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eadd2826582327ff) | 2026-08-03 20:55 |
-| Confiz | AI Agentic Solutions Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e667725f6fcbcd7) | 2026-08-03 20:55 |
-| UPS | Senior Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dba3c28dff2c2665) | 2026-08-03 20:55 |
-| UPS | Senior Data Engineer | Alpharetta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f23005bc37f3f527) | 2026-08-03 20:55 |
-| Capital One | Technology Internship Program - Summer 2027 | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d7e5cde075b7a62) | 2026-08-03 20:55 |
-| Cherokee Federal | Healthcare Data Scientist | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f46a6a98a325f97d) | 2026-08-03 20:55 |
-| Databricks | Sr. Solutions Engineer - Digital Native Business, Named Accounts | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d5b0fb7d512fabd) | 2026-08-03 20:55 |
-| Databricks | Sr. Solutions Engineer - Digital Native Business, FinTech | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=610c3a1bbde2965d) | 2026-08-03 20:55 |
-| Databricks | Solutions Architect - AI Natives Business, Strategic | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=42ea35aceaecf2e7) | 2026-08-03 20:55 |
-| Databricks | Solutions Architect - Digital Native Business, Named Accounts | NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9d04b632592cdc0) | 2026-08-03 20:55 |
 
 
 ---
