@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 21:29
+Last updated: 2026-08-07 22:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-07 22:25 |
+| nan | Software Engineer II-Hybrid Role | Greenwich, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6b2d1082065c54ae) | 2026-08-07 22:25 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 22:25 |
 | nan | Snowflake Data Engineer | NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6beb523d3112f2c8) | 2026-08-07 21:29 |
 | General Motors (GM) | Customer Experience Analyst | Warren, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=defc1aca4d641884) | 2026-08-07 21:29 |
 | CLERA | Senior IT Software Engineer – Scala, Akka & Java Microservices | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d0861862c8ae6a6b) | 2026-08-07 21:29 |
@@ -16,7 +19,6 @@ Last updated: 2026-08-07 21:29
 | National Trench Safety | Analytics Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf80265e943322ad) | 2026-08-07 21:29 |
 | COMMUNITY BEHAVIORAL HEALTH | Sr. Software Engineer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48dcbf107ebdc2d8) | 2026-08-07 21:29 |
 | General Motors (GM) | Business Efficiency Engineer | Warren, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cca3a193745fe7be) | 2026-08-07 21:29 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 21:29 |
 | Fractal Analytics | Azure DBX | CA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=8699eca260e46b8d) | 2026-08-07 20:30 |
 | Cactus Wellhead | Cactus Wellhead - Sr. Data Platform Engineering | Houston, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a33763b20c7bc7ae) | 2026-08-07 20:30 |
 | Fractal Analytics | Solution Architect | CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=812c613e05e7cfce) | 2026-08-07 20:30 |
@@ -517,19 +519,6 @@ Last updated: 2026-08-07 21:29
 | PODS | Engineer III - Software | Clearwater, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c9ab5d1f7c807e52) | 2026-08-03 23:00 |
 | Sporttrade | Site Reliability Engineer | Camden, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=558c0f5d76f45500) | 2026-08-03 23:00 |
 | Sound Transit | Senior IT Systems Engineer-ORCA | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4595ccfdbf2b393d) | 2026-08-03 23:00 |
-| BTI Solutions | DataOps Engineer | Englewood Cliffs, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cf03b9bdd21cf939) | 2026-08-03 21:59 |
-| LTM Limited | Azure Databricks Data Engineer | Raritan, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=55b8b8abc753de7f) | 2026-08-03 21:59 |
-| Opiniion | Full-Stack Developer - Integrations | Lehi, UT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bcfbe0c6f553f175) | 2026-08-03 21:59 |
-| LTM Limited | Snowflake Architect | Raleigh, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5104197d6abcdbd0) | 2026-08-03 21:59 |
-| Astronomer | Senior Solutions Architect - Airflow - East Coast | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1a125f2d68a88fde) | 2026-08-03 21:59 |
-| Astronomer | Senior Solutions Architect - Airflow - West Coast | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=310b444ca9a8968f) | 2026-08-03 21:59 |
-| Solventum | Data Intelligence Analyst | MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1f523df076b59e1d) | 2026-08-03 21:59 |
-| General Dynamics Land Systems | Generative AI / Enterprise Data Senior Architect | Sterling Heights, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=12938c2be38f82de) | 2026-08-03 21:59 |
-| Consumers Energy | Data Scientist | MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=100d36e57f68f74b) | 2026-08-03 21:59 |
-| LSEG (London Stock Exchange Group) | Senior Database Engineer | Liberty, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2208e782a315a688) | 2026-08-03 21:59 |
-| LG Electronics | Data Scientist / AI Engineer | Huntsville, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2503df5e5b9aa571) | 2026-08-03 21:59 |
-| Okta | Senior Site Reliability Engineer | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bcccf48bb0411667) | 2026-08-03 21:59 |
-| LTM Limited | Senior Data Engineer | Raritan, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e670572ccedcb37d) | 2026-08-03 21:59 |
 
 
 ---
