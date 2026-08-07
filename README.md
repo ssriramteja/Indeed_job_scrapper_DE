@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 22:25
+Last updated: 2026-08-07 23:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-07 22:25 |
+| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-07 23:25 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 23:25 |
 | nan | Software Engineer II-Hybrid Role | Greenwich, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6b2d1082065c54ae) | 2026-08-07 22:25 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 22:25 |
 | nan | Snowflake Data Engineer | NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6beb523d3112f2c8) | 2026-08-07 21:29 |
 | General Motors (GM) | Customer Experience Analyst | Warren, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=defc1aca4d641884) | 2026-08-07 21:29 |
 | CLERA | Senior IT Software Engineer – Scala, Akka & Java Microservices | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d0861862c8ae6a6b) | 2026-08-07 21:29 |
@@ -512,13 +512,6 @@ Last updated: 2026-08-07 22:25
 | BV Teck | Data Platform Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3279830533b369e4) | 2026-08-04 00:11 |
 | BV Teck | Senior Java Full Stack Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4f2b62d5373727f5) | 2026-08-04 00:11 |
 | BV Teck | Java Application Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4ca139b5ce94a22) | 2026-08-04 00:11 |
-| HCLTech | Microsoft Power BI Technical Specialist | Hartford, CT, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=c4eb0dda56977ab6) | 2026-08-03 23:00 |
-| Baylor Miraca Genetics Laboratories LLC | Sr Bioinformatics Software Engineer | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ee8b2fd3d76ce63e) | 2026-08-03 23:00 |
-| Apollo Technology Solutions LLC | Oracle OCI Cloud Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1fa19c8aafe8e13) | 2026-08-03 23:00 |
-| Smart Tech Skills LLC | Senior Data Architect | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d0f689bfea9b199) | 2026-08-03 23:00 |
-| PODS | Engineer III - Software | Clearwater, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c9ab5d1f7c807e52) | 2026-08-03 23:00 |
-| Sporttrade | Site Reliability Engineer | Camden, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=558c0f5d76f45500) | 2026-08-03 23:00 |
-| Sound Transit | Senior IT Systems Engineer-ORCA | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4595ccfdbf2b393d) | 2026-08-03 23:00 |
 
 
 ---
