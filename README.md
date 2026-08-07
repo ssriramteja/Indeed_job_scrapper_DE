@@ -1,21 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 16:42
+Last updated: 2026-08-07 17:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior Data Engineer — GCP | Rochester, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5f84280e7ee9940e) | 2026-08-07 17:40 |
+| Data Dimensions | DevOps Engineer | Janesville, WI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=577e50312f05eeeb) | 2026-08-07 17:40 |
+| The Coca-Cola Company | Machine Learning Architect 2 | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=08d5fa709c2abfb2) | 2026-08-07 17:40 |
+| The Coca-Cola Company | Senior Machine Learning Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b22e167e69bdfe92) | 2026-08-07 17:40 |
+| The Coca-Cola Company | Machine Learning Architect 2 | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d2689a7adb5339b8) | 2026-08-07 17:40 |
+| Neo4j | Consulting Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e01bb16e952f25f) | 2026-08-07 17:40 |
+| Tech Interacts Inc | Senior Full Stack Python Developer - Software Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7a83616a78417328) | 2026-08-07 17:40 |
+| Billtrust | Senior Software Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78178f6aa10eb4ac) | 2026-08-07 17:40 |
+| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 17:40 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 17:40 |
 | Alchemy | GCP Data Engineer/Architect | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1f4080c35e50a786) | 2026-08-07 16:42 |
 | nan | Cloud Infrastructure Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6d24bc0c26ef1f62) | 2026-08-07 16:42 |
-| The Coca-Cola Company | Machine Learning Architect 2 | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=08d5fa709c2abfb2) | 2026-08-07 16:42 |
-| The Coca-Cola Company | Senior Machine Learning Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b22e167e69bdfe92) | 2026-08-07 16:42 |
-| The Coca-Cola Company | Machine Learning Architect 2 | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d2689a7adb5339b8) | 2026-08-07 16:42 |
 | Finbott | Senior Java Developer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ce8f8f2a4ca6b4b4) | 2026-08-07 16:42 |
 | Colorado Rockies Baseball Club | Senior Data Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=294c79854ae69714) | 2026-08-07 16:42 |
 | Designer Brands Inc. | Sr. Business Intelligence Developer - REMOTE | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a2bc7ffb6f944b1f) | 2026-08-07 16:42 |
-| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 16:42 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 16:42 |
 | nan | Azure Data Architect with Healthcare Payer Exp. | Princeton, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=148c9b744dd583ea) | 2026-08-07 15:45 |
 | The Hartford | AI Platform Engineer (Google Cloud Platform) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=33567ff533f2727c) | 2026-08-07 15:45 |
 | The Hartford | AI Platform Engineer (Google Cloud Platform) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca8f7d2b652cdd63) | 2026-08-07 15:45 |
