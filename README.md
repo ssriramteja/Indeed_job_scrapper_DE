@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 09:51
+Last updated: 2026-08-07 10:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fairview Health Services | Data Engineer | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af0882c7b287b46a) | 2026-08-07 10:43 |
+| Zoom Communications | Software Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc9d41ca9c771490) | 2026-08-07 10:43 |
+| Cognizant | Sr. Java Backend Engineer | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0477feeb79dcb21) | 2026-08-07 10:43 |
+| Cognizant | Sr. Java Backend Engineer | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3df9db8529425cc9) | 2026-08-07 10:43 |
+| Cognizant | Sr. Java Backend Developer | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f9faee137e1dd64) | 2026-08-07 10:43 |
+| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 10:43 |
+| Avilamb | AI/ML Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d406fc8aace70fdf) | 2026-08-07 10:43 |
 | JPMorganChase | Software Engineer III Python Backend/ Pyspark/ Databricks | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=acb01818b8a1f0db) | 2026-08-07 09:51 |
 | JPMorganChase | Backend Python/Databricks Software Engineer III | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=765db6d7bf793609) | 2026-08-07 09:51 |
 | Thermo Fisher Scientific | Scientist III, Software Engineer, Upstream Process Development | Grand Island, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4198cfd74b483959) | 2026-08-07 09:51 |
