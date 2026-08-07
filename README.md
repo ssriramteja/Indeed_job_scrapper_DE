@@ -1,14 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 14:05
+Last updated: 2026-08-07 15:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Azure Data Architect with Healthcare Payer Exp. | Princeton, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=148c9b744dd583ea) | 2026-08-07 15:45 |
+| The Hartford | AI Platform Engineer (Google Cloud Platform) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=33567ff533f2727c) | 2026-08-07 15:45 |
+| The Hartford | AI Platform Engineer (Google Cloud Platform) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca8f7d2b652cdd63) | 2026-08-07 15:45 |
+| The Hartford | AI Platform Engineer (Google Cloud Platform) | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=86d548f0655d8ea0) | 2026-08-07 15:45 |
+| The Hartford | AI Platform Engineer (Google Cloud Platform) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5c83954e5f77f972) | 2026-08-07 15:45 |
+| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 15:45 |
 | Dataflix | Sr Architect - Onsite in Irvine, CA | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dcb4d56aa60d66cf) | 2026-08-07 14:05 |
 | State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50b26690dd93322b) | 2026-08-07 14:05 |
-| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 14:05 |
 | Jewish Council for the Aging of Greater Washington | BI & Analytics Analyst/Data Engineer | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8e88e37f4395eea) | 2026-08-07 11:38 |
 | Fairview Health Services | Data Engineer | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af0882c7b287b46a) | 2026-08-07 10:43 |
 | Zoom Communications | Software Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc9d41ca9c771490) | 2026-08-07 10:43 |
@@ -515,14 +520,6 @@ Last updated: 2026-08-07 14:05
 | Digital Dhara LLC | Site Reliability Engineer (SRE) with Data Platform | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2c7d0e50cf413f04) | 2026-08-03 17:47 |
 | Wells Fargo | Senior Specialty Software Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e1ab076bac74b1c) | 2026-08-03 17:47 |
 | Kimball Midwest | Associate Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39d5e9bfca8324e5) | 2026-08-03 17:47 |
-| Outfront Media | Dev Ops Engineer | Carlstadt, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aaaec41fa04316f0) | 2026-08-03 15:37 |
-| Outfront Media | Senior Software Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f7274d25e3e7cbd) | 2026-08-03 15:37 |
-| GRP Solutions | Data Engineer | Dayton, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=933b131b771651ee) | 2026-08-03 15:37 |
-| Broadmind INC | Data Engineer With GenAI | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2f790ceb1de06dfe) | 2026-08-03 15:37 |
-| Databricks | Sr. Solutions Architect - Financial Services (Strategic Banking) | GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb00340cb94b420d) | 2026-08-03 15:37 |
-| PODS | Engineer III - Software | Clearwater, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3cae15ef7a0cb0a0) | 2026-08-03 15:37 |
-| Citizens | Process Automation Senior Developer | Johnston, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e8c88eeba29b437) | 2026-08-03 15:37 |
-| Citizens | Senior Software Engineer | Johnston, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9929d5929d1dfc52) | 2026-08-03 15:37 |
 
 
 ---
