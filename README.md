@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 08:07
+Last updated: 2026-08-07 09:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III Python Backend/ Pyspark/ Databricks | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=acb01818b8a1f0db) | 2026-08-07 09:51 |
+| JPMorganChase | Backend Python/Databricks Software Engineer III | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=765db6d7bf793609) | 2026-08-07 09:51 |
+| Thermo Fisher Scientific | Scientist III, Software Engineer, Upstream Process Development | Grand Island, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4198cfd74b483959) | 2026-08-07 09:51 |
 | EXL Service | Data Analytics Engineer | San Francisco, CA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=90241e81bace0969) | 2026-08-07 08:07 |
 | Ashra Technologies Pvt Ltd | Senior AI Engineer/Data Scientist | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b5a696b44fd5d4a9) | 2026-08-07 08:07 |
 | Hyundai AutoEver America | Senior Data Engineer (Python) | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=92e9633068d7dbbc) | 2026-08-07 08:07 |
@@ -512,14 +515,6 @@ Last updated: 2026-08-07 08:07
 | Citizens | Senior Software Engineer | Johnston, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9929d5929d1dfc52) | 2026-08-03 15:37 |
 | arrivia | Fabric Data Engineer | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=99ee79c55904224f) | 2026-08-03 12:49 |
 | TritonExec | AI Architect | Avenel, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d3ea0da5bd509501) | 2026-08-03 12:49 |
-| LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=3ec018f4b793bb53) | 2026-08-03 09:22 |
-| LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=6c5406e0a898c0b3) | 2026-08-03 09:22 |
-| LTM Limited | Senior Data Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=51afe960d8622afb) | 2026-08-03 09:22 |
-| LTM Limited | Senior Data Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=b6bdbda24615b096) | 2026-08-03 09:22 |
-| LTM Limited | Senior Data Engineer | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=8a792597231fd045) | 2026-08-03 09:22 |
-| LTM Limited | Senior Data Engineer | Tampa, FL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=49b79f56ab220c49) | 2026-08-03 09:22 |
-| Adobe | Sr. Database Reliability Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=669e23632e4f9ad7) | 2026-08-03 09:22 |
-| Moody's | Software Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e76b66fdbbfac5e0) | 2026-08-03 09:22 |
 
 
 ---
