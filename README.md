@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 19:44
+Last updated: 2026-08-07 20:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fractal Analytics | Azure DBX | CA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=8699eca260e46b8d) | 2026-08-07 20:30 |
+| Cactus Wellhead | Cactus Wellhead - Sr. Data Platform Engineering | Houston, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a33763b20c7bc7ae) | 2026-08-07 20:30 |
+| Fractal Analytics | Solution Architect | CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=812c613e05e7cfce) | 2026-08-07 20:30 |
+| Salesforce | Technical Architect 8 | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7012fb40a43e1d5a) | 2026-08-07 20:30 |
+| Magid Glove & Safety | Data Engineer | Romeoville, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bae4852afc375b2c) | 2026-08-07 20:30 |
+| Nordstrom | Data Analyst 3, Supply Chain Intelligence - (Hybrid - Seattle, WA) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=33c11ff9d6efa16d) | 2026-08-07 20:30 |
+| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 20:30 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 20:30 |
+| Gainwell Technologies LLC | Cloud Data Solutions Architect | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7339cfd332732e7a) | 2026-08-07 20:30 |
 | Prudential | Senior Data Engineer | Newark, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=1c780bb7cb6c4cc0) | 2026-08-07 19:44 |
 | Capgemini | Senior Solution Architect - I&D | Franklin Lakes, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9ed54c8ce6b401fd) | 2026-08-07 19:44 |
 | Hollstadt Consulting | AI Engineer | MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=41ca370618b5121e) | 2026-08-07 19:44 |
@@ -16,12 +25,10 @@ Last updated: 2026-08-07 19:44
 | Hollstadt Consulting | Senior AI Engineer | MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f8c803152f342224) | 2026-08-07 19:44 |
 | Bounteous | AEP/CDP Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5fba331119c93e6a) | 2026-08-07 19:44 |
 | Capgemini | Java Full Stack Developer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=033a483ab033f139) | 2026-08-07 19:44 |
-| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 19:44 |
 | Expeditors | Data Engineer III/Senior (Analytics) | Edison, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d01033a0167d6836) | 2026-08-07 19:44 |
 | Expeditors | Data Engineer III/Senior (Analytics) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dacfe71dcf8baca8) | 2026-08-07 19:44 |
 | Expeditors | Data Engineer III/Senior (Analytics) | Ellenwood, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ac9200c4cfa508d) | 2026-08-07 19:44 |
 | Expeditors | Data Engineer III/Senior (Analytics) | Romulus, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e659a4bfd0be22cf) | 2026-08-07 19:44 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 19:44 |
 | NuAxis Innovations | Senior Data Platform Engineer | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0c936dad5028f127) | 2026-08-07 18:40 |
 | NTT DATA | Python Backend Developer - Hybrid/Onsite | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=de4f0429ae4593f2) | 2026-08-07 18:40 |
 | Renew home | Senior Engineer, Backend - Consumer Experience Platform (Remote, US) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f512c971fe8b64d7) | 2026-08-07 18:40 |
