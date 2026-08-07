@@ -1,13 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 06:05
+Last updated: 2026-08-07 08:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eef1687719f12bcd) | 2026-08-07 06:05 |
-| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e4b33ddd29938b6) | 2026-08-07 06:05 |
+| EXL Service | Data Analytics Engineer | San Francisco, CA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=90241e81bace0969) | 2026-08-07 08:07 |
+| Ashra Technologies Pvt Ltd | Senior AI Engineer/Data Scientist | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b5a696b44fd5d4a9) | 2026-08-07 08:07 |
+| Hyundai AutoEver America | Senior Data Engineer (Python) | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=92e9633068d7dbbc) | 2026-08-07 08:07 |
+| Adobe | Senior Site Reliability Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f0e16af2f20d1627) | 2026-08-07 08:07 |
+| Ashra Technology | Senior AI Engineer | Storden, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=82dfb61792cd2985) | 2026-08-07 08:07 |
 | Stellantis | Cloud Software Engineer | Auburn Hills, MI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=0a79b4f16db1d96c) | 2026-08-07 04:48 |
 | TISTA Science and Technology Corporation | Resident Solutions Architect (RSA) - Databricks | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=891599544d1068a4) | 2026-08-07 04:48 |
 | TISTA Science and Technology Corporation | Resident Solutions Architect (RSA) - Databricks | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85c1e172b887f0e4) | 2026-08-07 04:48 |
