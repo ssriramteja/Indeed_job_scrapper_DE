@@ -1,16 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 04:48
+Last updated: 2026-08-07 06:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eef1687719f12bcd) | 2026-08-07 06:05 |
+| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e4b33ddd29938b6) | 2026-08-07 06:05 |
 | Stellantis | Cloud Software Engineer | Auburn Hills, MI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=0a79b4f16db1d96c) | 2026-08-07 04:48 |
 | TISTA Science and Technology Corporation | Resident Solutions Architect (RSA) - Databricks | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=891599544d1068a4) | 2026-08-07 04:48 |
 | TISTA Science and Technology Corporation | Resident Solutions Architect (RSA) - Databricks | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85c1e172b887f0e4) | 2026-08-07 04:48 |
 | PureMagic Carwash | Full Stack Data Engineer | Alcoa, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e59c05554094978) | 2026-08-07 04:48 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eef1687719f12bcd) | 2026-08-07 04:48 |
 | Avantor | CDP System Developer (Customer Data Platform) | Radnor, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=296a330a7d75e5b4) | 2026-08-07 04:48 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=18b9c3aa39890d54) | 2026-08-07 04:48 |
 | PlayStation | Sr Cloud Infrastructure & Platform Engineer | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=551854289f030c9c) | 2026-08-07 04:48 |
@@ -24,7 +25,6 @@ Last updated: 2026-08-07 04:48
 | Deloitte | Applied AI Software Engineer III | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6f69a9084f7cc98) | 2026-08-07 04:48 |
 | Deloitte | Applied AI Software Engineer III | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d49b4a7fe8e3ba1a) | 2026-08-07 04:48 |
 | Deloitte | Applied AI Software Engineer III | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b7b08359f538c30) | 2026-08-07 04:48 |
-| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e4b33ddd29938b6) | 2026-08-07 04:48 |
 | Changeis, Inc. | Databricks Administrator | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=c6794a3834a8cb4a) | 2026-08-07 02:09 |
 | RadCube | Data Engineer (Databricks/AWS) | Indianapolis, IN, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=de00d1a1e6d38ed7) | 2026-08-07 02:09 |
 | Kansas Judicial Branch | IT Data & Analytics Engineer - Office of Judicial Administration | Topeka, KS, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8be59ba9f664cdc8) | 2026-08-07 02:09 |
@@ -517,8 +517,6 @@ Last updated: 2026-08-07 04:48
 | LTM Limited | Senior Data Engineer | Tampa, FL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=49b79f56ab220c49) | 2026-08-03 09:22 |
 | Adobe | Sr. Database Reliability Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=669e23632e4f9ad7) | 2026-08-03 09:22 |
 | Moody's | Software Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e76b66fdbbfac5e0) | 2026-08-03 09:22 |
-| Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=75d032017053c612) | 2026-08-03 05:33 |
-| TikTok | Backend Software Engineer Intern (TikTok- PGC-Digital Content Center) - 2027 Summer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df7f3bd6cb74fbdd) | 2026-08-03 05:33 |
 
 
 ---
