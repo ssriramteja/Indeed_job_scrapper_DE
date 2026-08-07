@@ -1,21 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-07 17:40
+Last updated: 2026-08-07 18:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NuAxis Innovations | Senior Data Platform Engineer | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0c936dad5028f127) | 2026-08-07 18:40 |
+| NTT DATA | Python Backend Developer - Hybrid/Onsite | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=de4f0429ae4593f2) | 2026-08-07 18:40 |
+| Renew home | Senior Engineer, Backend - Consumer Experience Platform (Remote, US) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f512c971fe8b64d7) | 2026-08-07 18:40 |
+| Optum | Associate Software Engineer | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9dd9d834b65f070a) | 2026-08-07 18:40 |
+| BV Teck | Kafka Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0da9fa927be823d4) | 2026-08-07 18:40 |
+| NTT DATA | Senior Oracle Data Engineer - Onsite | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=833fe86368c4972f) | 2026-08-07 18:40 |
+| NTT DATA | Senior Oracle Data Engineer - Onsite | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e93cd18fa341dbb) | 2026-08-07 18:40 |
+| Abbott | Senior Data Engineer | Des Plaines, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=183c1e594d877a8a) | 2026-08-07 18:40 |
+| NTT DATA | Data Quality Engineer - Hybrid On-Site | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0097b274babd6cc) | 2026-08-07 18:40 |
+| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 18:40 |
+| NTT DATA | Data Engineer - Hybrid On-Site | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ce725dc0522c974) | 2026-08-07 18:40 |
+| NTT DATA | Data Engineer - Hybrid On-Site | Merrimack, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff6a2f7452936264) | 2026-08-07 18:40 |
+| Masco | Enterprise Data Architect | Livonia, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ffac0ed2e6c03b03) | 2026-08-07 18:40 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 18:40 |
 | nan | Senior Data Engineer — GCP | Rochester, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5f84280e7ee9940e) | 2026-08-07 17:40 |
 | Data Dimensions | DevOps Engineer | Janesville, WI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=577e50312f05eeeb) | 2026-08-07 17:40 |
-| The Coca-Cola Company | Machine Learning Architect 2 | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=08d5fa709c2abfb2) | 2026-08-07 17:40 |
-| The Coca-Cola Company | Senior Machine Learning Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b22e167e69bdfe92) | 2026-08-07 17:40 |
-| The Coca-Cola Company | Machine Learning Architect 2 | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d2689a7adb5339b8) | 2026-08-07 17:40 |
 | Neo4j | Consulting Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e01bb16e952f25f) | 2026-08-07 17:40 |
 | Tech Interacts Inc | Senior Full Stack Python Developer - Software Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7a83616a78417328) | 2026-08-07 17:40 |
 | Billtrust | Senior Software Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78178f6aa10eb4ac) | 2026-08-07 17:40 |
-| Hewlett Packard Enterprise \| HPE | System Software Engineer | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3377a7c65bdc0f3) | 2026-08-07 17:40 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-07 17:40 |
 | Alchemy | GCP Data Engineer/Architect | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1f4080c35e50a786) | 2026-08-07 16:42 |
 | nan | Cloud Infrastructure Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6d24bc0c26ef1f62) | 2026-08-07 16:42 |
 | Finbott | Senior Java Developer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ce8f8f2a4ca6b4b4) | 2026-08-07 16:42 |
@@ -531,9 +540,6 @@ Last updated: 2026-08-07 17:40
 | Fiserv | Sr. Backend Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d8b19d5343bf31ae) | 2026-08-03 19:19 |
 | BV Teck | Microsoft Azure Specialist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=797c8733d467365d) | 2026-08-03 19:19 |
 | Optum | Senior Developer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a28196d6639ff9e7) | 2026-08-03 19:19 |
-| Digital Dhara LLC | Site Reliability Engineer (SRE) with Data Platform | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2c7d0e50cf413f04) | 2026-08-03 17:47 |
-| Wells Fargo | Senior Specialty Software Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e1ab076bac74b1c) | 2026-08-03 17:47 |
-| Kimball Midwest | Associate Data Engineer | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39d5e9bfca8324e5) | 2026-08-03 17:47 |
 
 
 ---
