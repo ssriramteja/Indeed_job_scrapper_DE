@@ -1,13 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-08 00:56
+Last updated: 2026-08-08 02:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 00:56 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-08 00:56 |
+| ICW Group | Data Engineer II | San Diego, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=80c315c7bc9b7790) | 2026-08-08 02:51 |
+| Deloitte | Senior Data Engineer | Rosslyn, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=08219ee125d81229) | 2026-08-08 02:51 |
+| University Of Washington | SOFTWARE ENGINEER, ORIS: System/Application Development | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=047b0e575b8ecaa7) | 2026-08-08 02:51 |
+| Tinder | Senior Software Engineer, Machine Learning Infrastructure (Tinder LLC, West Hollywood, California) | West Hollywood, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e52cf979ba77c87c) | 2026-08-08 02:51 |
+| PayIt | Data Engineer | Kansas City, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=214e99b1fcb26e9e) | 2026-08-08 02:51 |
+| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 02:51 |
+| Global Payments | Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=518b3fdcc7659de5) | 2026-08-08 02:51 |
+| VizyPay | Senior Software Engineer (Front-End) | Waukee, IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4f7864b183e80ef6) | 2026-08-08 02:51 |
+| Salesforce | Software Engineering LMTS | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9fff7b16fc0e3028) | 2026-08-08 02:51 |
+| Salesforce | Software Engineering MTS | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d1d5b5928313a4a3) | 2026-08-08 02:51 |
+| Capgemini | AWS Developer | Malvern, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d57b1b89bb859a0c) | 2026-08-08 02:51 |
+| Tesla | Data Analyst, Applications Engineering & Manufacturing | Brookshire, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=33d6877a915f6eda) | 2026-08-08 02:51 |
+| nan | HighJump Consultant | Secaucus, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=09e31f46382738bf) | 2026-08-08 02:51 |
+| Deloitte | Data Engineer II | Rosslyn, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39e13ec741bfd9dd) | 2026-08-08 02:51 |
+| CG Infinity | Enterprise Data Architect Consultant | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3efe464181cf65b) | 2026-08-08 02:51 |
+| Campbell's | Data Engineer | Camden, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4f10f5f5a35f3b67) | 2026-08-08 02:51 |
+| Happen Bank | Sr Cloud Infrastructure Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=576ee1e65e819b57) | 2026-08-08 02:51 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-08 02:51 |
+| Lindblad Expeditions | Analytics Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ddd1a3c6c51faef) | 2026-08-08 02:51 |
+| Capgemini | Java Full Stack Developer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=172daad3fc8a7f79) | 2026-08-08 02:51 |
 | nan | Software Engineer II-Hybrid Role | Greenwich, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6b2d1082065c54ae) | 2026-08-07 22:25 |
 | nan | Snowflake Data Engineer | NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6beb523d3112f2c8) | 2026-08-07 21:29 |
 | General Motors (GM) | Customer Experience Analyst | Warren, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=defc1aca4d641884) | 2026-08-07 21:29 |
