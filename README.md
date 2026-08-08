@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-08 13:38
+Last updated: 2026-08-08 14:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 13:38 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 13:38 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-08 13:38 |
+| Disney Experiences | Data Engineer | Orlando, FL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=2c2beecd9e43cf9c) | 2026-08-08 14:23 |
+| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 14:23 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 14:23 |
+| DEPARTMENT OF BUILDINGS | Senior Data Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71d49715069e7479) | 2026-08-08 14:23 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-08 14:23 |
 | Chewy | Database Engineer II | Plantation, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4fd6049b5c3fb13e) | 2026-08-08 09:28 |
 | Optum | Sr Software Engineer | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3b44530688ac699b) | 2026-08-08 06:35 |
 | Oak Street Health, part of CVS Health | Data Engineer with GCP experience | FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=314e85ac4ab93092) | 2026-08-08 05:36 |
@@ -465,11 +467,6 @@ Last updated: 2026-08-08 13:38
 | Koya Consulting | Kronos Consultant | Fremont, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ec014fc719d00ce6) | 2026-08-04 16:08 |
 | Halvik | Data Architect | Vienna, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d9a5df0d2ea71619) | 2026-08-04 16:08 |
 | Field Tech Services LTD | Sr DevOps Engineer | Menlo Park, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da96aab1eec7799c) | 2026-08-04 16:08 |
-| News Corp | Data Engineer | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=14267222251f75ec) | 2026-08-04 13:55 |
-| Eightfold | Senior Software Engineer - AI Agentic Product Dev | Santa Clara, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e86e219dc8ab5e9) | 2026-08-04 13:55 |
-| US LBM Holdings | US LBM Cybersecurity Engineer – Azure DevSecOps | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=daaadae20b9bb3f0) | 2026-08-04 13:55 |
-| Sally Beauty | Data Engineer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a8be518fe482570d) | 2026-08-04 13:55 |
-| nan | Full Stack Web Developer, Fuel Performance & Decarbonization | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f657fa9f2d4f746) | 2026-08-04 13:55 |
 
 
 ---
