@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-08 20:18
+Last updated: 2026-08-08 21:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 20:18 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 21:21 |
 | Chicago Financial Search | Software Development Engineer in Test | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f469ade2831899c) | 2026-08-08 18:23 |
 | Globant | Java Developer / Architect | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3f4670b855a27725) | 2026-08-08 16:21 |
 | LRx Healthcare | Senior Databricks Data Engineer – Sales Incentive Compensation (SIC) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f7cc2ef3ea91ac6c) | 2026-08-08 16:21 |
@@ -416,28 +416,6 @@ Last updated: 2026-08-08 20:18
 | PARKWOOD | Software Developer / AI Engineer | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d949c9152a256893) | 2026-08-04 22:05 |
 | Med-Metrix | Senior Azure Cloud Engineer | Parsippany-Troy Hills, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7fc0e618cf1de443) | 2026-08-04 22:05 |
 | Med-Metrix | Senior Azure Cloud Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=224f644ff51634b1) | 2026-08-04 22:05 |
-| Quantiphi | Technical Architect - Platform - Cloud Infrastructure | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=d56ba0f8432c551e) | 2026-08-04 20:19 |
-| _coderio | Sr Java Backend (Miami Lakes) | Miami, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6a4db5adddb13236) | 2026-08-04 20:19 |
-| Caterpillar | Data Engineer | Peoria, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c3e5d6c0fdb9641b) | 2026-08-04 20:19 |
-| Travelers | Software Engineer II - Enterprise AI Products | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=55af6783f46758f5) | 2026-08-04 20:19 |
-| Soho Square Solutions | Data Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4c5d26bb3bad16a3) | 2026-08-04 20:19 |
-| nan | Senior Data Platform Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d313a335c0aa8c94) | 2026-08-04 20:19 |
-| State Street | Security Data Solutions Engineer | Quincy, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cd478651cfb5e453) | 2026-08-04 20:19 |
-| iTemp | LLM Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e165dc93aab1e2b5) | 2026-08-04 20:19 |
-| ERCOT/Electric Reliability Council of Texas | Senior Systems Reliability Engineer | Taylor, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa009f1d9ad37c54) | 2026-08-04 20:19 |
-| SailPoint Technologies | Senior Security Software Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b20b04f614c47a99) | 2026-08-04 20:19 |
-| Everforth ECS | Junior Software Developer, Applications | O'Fallon, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=615774aaccc3425f) | 2026-08-04 20:19 |
-| SailPoint Technologies | Associate Security Software Engineer | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a21fa934a55c949) | 2026-08-04 20:19 |
-| PrizePicks | Data Platform Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e93316469b8b0f71) | 2026-08-04 20:19 |
-| PrizePicks | Data Platform Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3b659b7a6fbcb97) | 2026-08-04 20:19 |
-| PrizePicks | Data Platform Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20c4f023ed70d574) | 2026-08-04 20:19 |
-| PrizePicks | Data Platform Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d2bf7a77d4f3f57) | 2026-08-04 20:19 |
-| PrizePicks | Data Platform Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db1fcea33a073a0) | 2026-08-04 20:19 |
-| PrizePicks | Data Platform Engineer | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a27aab943b0526b8) | 2026-08-04 20:19 |
-| Movable Ink | Senior Data Engineer, AI Systems | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7ee9658ab84208e) | 2026-08-04 20:19 |
-| Bounteous | AEP/CDP Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3beae28e28fda3f) | 2026-08-04 20:19 |
-| Capgemini | Full stack Developer (Java - React JS) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03b817ba113453fb) | 2026-08-04 20:19 |
-| StandardAero | Sr. Data Analytics Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7dc5fe80e753160) | 2026-08-04 20:19 |
 
 
 ---
