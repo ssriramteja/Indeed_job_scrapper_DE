@@ -1,20 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-08 05:36
+Last updated: 2026-08-08 06:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 06:35 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 06:35 |
+| Optum | Sr Software Engineer | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3b44530688ac699b) | 2026-08-08 06:35 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-08 06:35 |
 | Oak Street Health, part of CVS Health | Data Engineer with GCP experience | FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=314e85ac4ab93092) | 2026-08-08 05:36 |
-| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 05:36 |
 | Pearson | Software Engineer III | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5af79dac6e5a615f) | 2026-08-08 05:36 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 05:36 |
 | Sunwest Bank | Cloud Platform Engineer | Draper, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b9fb98e8790adee1) | 2026-08-08 05:36 |
 | Textron Aviation | Data Scientist Specialist - Customer Service | Wichita, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56f0af585b8a5603) | 2026-08-08 05:36 |
 | CVS Health | Software Development Engineer | WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=14f52354092168da) | 2026-08-08 05:36 |
 | VeeRteq Solutions Inc. | Healthcare Imaging Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f78d5eab13424d0) | 2026-08-08 05:36 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-08 05:36 |
 | Fractal Analytics | Data Engg with DQ Exp | CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ffacc870aec02e8d) | 2026-08-08 04:05 |
 | VizyPay | AI Engineer | Waukee, IA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ecaed8b17bc14581) | 2026-08-08 04:05 |
 | Citi | Senior Generative AI Developer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=57ffffef4925474d) | 2026-08-08 04:05 |
@@ -479,20 +480,6 @@ Last updated: 2026-08-08 05:36
 | PlayStation | Software Engineer II, Data Platform | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=44c1401c985416eb) | 2026-08-04 09:34 |
 | Hunt | Software Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=025e476a43fdb23a) | 2026-08-04 09:34 |
 | Everforth ECS | Data Scientist | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b696b843bec14c5a) | 2026-08-04 09:34 |
-| New York Post | Data Engineer | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a76e43ef1f5bbfd7) | 2026-08-04 06:26 |
-| JPMorganChase | Software Engineer II: Data Engineer | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=24a167e7c74c87d9) | 2026-08-04 06:26 |
-| JPMorganChase | Software Engineer III (Java/Microservices/AWS) | Columbus, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=28bcf22a9ef154fe) | 2026-08-04 06:26 |
-| Tesla | Backend Engineer, Toolbox Diagnostics, Vehicle Software | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=54bfc6b63a12e6fd) | 2026-08-04 06:26 |
-| Cornerstone Advisors | Sr. Power BI Developer & Data Analyst | Scottsdale, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e7e2964ae230695c) | 2026-08-04 06:26 |
-| VeeRteq Solutions Inc. | Automation Tester | Malvern, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7d8b5d8e5fb610b3) | 2026-08-04 06:26 |
-| Marathon Health | Forward Deployment Engineers – AI & Agentic Engineering | Pearl City, HI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27b47a4257c438ad) | 2026-08-04 06:26 |
-| Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43d54dedf311b8c0) | 2026-08-04 06:26 |
-| Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2cf32d525242f01a) | 2026-08-04 06:26 |
-| Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d0f129d3d540261) | 2026-08-04 06:26 |
-| Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39cae2fa18178656) | 2026-08-04 06:26 |
-| PurpleLab | Data Analyst Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d467b6c089b449b1) | 2026-08-04 06:26 |
-| Zayo Group | Security Automation Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d30468ca7ed7236) | 2026-08-04 06:26 |
-| Cognizant | Software Engineer Java · Spring Boot · Connected Services | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11fd47c28958a887) | 2026-08-04 06:26 |
 
 
 ---
