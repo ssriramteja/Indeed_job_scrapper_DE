@@ -1,15 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-08 16:21
+Last updated: 2026-08-08 17:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 17:21 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 17:21 |
 | Globant | Java Developer / Architect | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3f4670b855a27725) | 2026-08-08 16:21 |
 | LRx Healthcare | Senior Databricks Data Engineer – Sales Incentive Compensation (SIC) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f7cc2ef3ea91ac6c) | 2026-08-08 16:21 |
-| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 16:21 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 16:21 |
 | KT2i Inc | Data Architect – Snowflake / Cortex | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c78d1b05e07aa732) | 2026-08-08 15:20 |
 | Devstringx Technologies | Full Stack Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1832c0accdf9751b) | 2026-08-08 15:20 |
 | Disney Experiences | Data Engineer | Orlando, FL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=2c2beecd9e43cf9c) | 2026-08-08 14:23 |
