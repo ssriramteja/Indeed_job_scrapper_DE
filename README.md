@@ -1,15 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-08 06:35
+Last updated: 2026-08-08 07:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 06:35 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 06:35 |
+| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 07:41 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 07:41 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-08 07:41 |
 | Optum | Sr Software Engineer | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3b44530688ac699b) | 2026-08-08 06:35 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-08 06:35 |
 | Oak Street Health, part of CVS Health | Data Engineer with GCP experience | FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=314e85ac4ab93092) | 2026-08-08 05:36 |
 | Pearson | Software Engineer III | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5af79dac6e5a615f) | 2026-08-08 05:36 |
 | Sunwest Bank | Cloud Platform Engineer | Draper, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b9fb98e8790adee1) | 2026-08-08 05:36 |
