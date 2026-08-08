@@ -1,13 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-08 15:20
+Last updated: 2026-08-08 16:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 15:20 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 15:20 |
+| Globant | Java Developer / Architect | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3f4670b855a27725) | 2026-08-08 16:21 |
+| LRx Healthcare | Senior Databricks Data Engineer – Sales Incentive Compensation (SIC) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f7cc2ef3ea91ac6c) | 2026-08-08 16:21 |
+| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 16:21 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 16:21 |
 | KT2i Inc | Data Architect – Snowflake / Cortex | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c78d1b05e07aa732) | 2026-08-08 15:20 |
 | Devstringx Technologies | Full Stack Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1832c0accdf9751b) | 2026-08-08 15:20 |
 | Disney Experiences | Data Engineer | Orlando, FL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=2c2beecd9e43cf9c) | 2026-08-08 14:23 |
@@ -459,15 +461,6 @@ Last updated: 2026-08-08 15:20
 | BV Teck | Data Solutions Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2585369e0ced4f85) | 2026-08-04 18:23 |
 | Now100 Inc | Azure Databricks Architect | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=481c0948c82cd1a4) | 2026-08-04 18:23 |
 | BV Teck | PLM Technical Consultant | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7bf176d2c7022fbc) | 2026-08-04 18:23 |
-| APLOMB Technologies | Senior Python Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=649769363a6c45f2) | 2026-08-04 16:08 |
-| Advance Auto Parts | Software Engineer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a83abef82bfb222c) | 2026-08-04 16:08 |
-| Advance Auto Parts | Software Engineer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b36276b09ab0b93d) | 2026-08-04 16:08 |
-| MedaSync LLC | Senior DevOps Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f97d1ff01dd6d447) | 2026-08-04 16:08 |
-| McKesson | Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24be73dfc99f77ec) | 2026-08-04 16:08 |
-| Samsara | Solutions Integration Engineer IV | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6d3ae94d02ca0b5) | 2026-08-04 16:08 |
-| Koya Consulting | Kronos Consultant | Fremont, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ec014fc719d00ce6) | 2026-08-04 16:08 |
-| Halvik | Data Architect | Vienna, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d9a5df0d2ea71619) | 2026-08-04 16:08 |
-| Field Tech Services LTD | Sr DevOps Engineer | Menlo Park, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da96aab1eec7799c) | 2026-08-04 16:08 |
 
 
 ---
