@@ -544,18 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Software Engineering MTS @ Salesforce
-**Match Score:** 11.8%
-
-📍 **Location:** Bellevue, WA, US USA
-
-🔑 **Keywords:** AWS, GCP, Hadoop, Spark, Scala, Kafka, NoSQL, Tableau, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d1d5b5928313a4a3)
-
----
-
-## 51. Business Intelligence & Data Analytics Specialist @ International Scripture Ministries
+## 50. Business Intelligence & Data Analytics Specialist @ International Scripture Ministries
 **Match Score:** 11.8%
 
 📍 **Location:** Brentwood, TN, US USA
@@ -563,6 +552,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, BigQuery, Scala, Data Modeling, Dimensional Modeling, ETL, ELT, dbt, Power BI
 
 [Apply Here](https://www.indeed.com/viewjob?jk=461848762436fae0)
+
+---
+
+## 51. Software Engineering MTS @ Salesforce
+**Match Score:** 11.8%
+
+📍 **Location:** Bellevue, WA, US USA
+
+🔑 **Keywords:** AWS, GCP, Hadoop, Spark, Scala, Kafka, NoSQL, Tableau, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d1d5b5928313a4a3)
 
 ---
 
@@ -775,18 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Sr. Software Engineer @ COMMUNITY BEHAVIORAL HEALTH
-**Match Score:** 10.4%
-
-📍 **Location:** Philadelphia, PA, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Scala, SQL Server, ETL, Power BI, CI/CD, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=48dcbf107ebdc2d8)
-
----
-
-## 72. Business Efficiency Engineer @ General Motors (GM)
+## 71. Business Efficiency Engineer @ General Motors (GM)
 **Match Score:** 10.4%
 
 📍 **Location:** Warren, MI, US USA
@@ -797,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Enterprise Data Architect @ Masco
+## 72. Enterprise Data Architect @ Masco
 **Match Score:** 10.4%
 
 📍 **Location:** Livonia, MI, US USA
@@ -808,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Senior Data Engineer - Streaming @ The Coca-Cola Company
+## 73. Senior Data Engineer - Streaming @ The Coca-Cola Company
 **Match Score:** 10.4%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -816,6 +805,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, RDS, Azure, Databricks, Event Hubs, Spark, PySpark, Scala, Spark Streaming
 
 [Apply Here](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388)
+
+---
+
+## 74. Sr. Software Engineer @ COMMUNITY BEHAVIORAL HEALTH
+**Match Score:** 10.4%
+
+📍 **Location:** Philadelphia, PA, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Scala, SQL Server, ETL, Power BI, CI/CD, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=48dcbf107ebdc2d8)
 
 ---
 

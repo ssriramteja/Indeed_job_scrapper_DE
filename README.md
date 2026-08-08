@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-08 11:20
+Last updated: 2026-08-08 12:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 11:20 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 11:20 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-08 11:20 |
+| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 12:28 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 12:28 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-08 12:28 |
 | Chewy | Database Engineer II | Plantation, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4fd6049b5c3fb13e) | 2026-08-08 09:28 |
 | Optum | Sr Software Engineer | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3b44530688ac699b) | 2026-08-08 06:35 |
 | Oak Street Health, part of CVS Health | Data Engineer with GCP experience | FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=314e85ac4ab93092) | 2026-08-08 05:36 |
@@ -470,9 +470,6 @@ Last updated: 2026-08-08 11:20
 | US LBM Holdings | US LBM Cybersecurity Engineer – Azure DevSecOps | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=daaadae20b9bb3f0) | 2026-08-04 13:55 |
 | Sally Beauty | Data Engineer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a8be518fe482570d) | 2026-08-04 13:55 |
 | nan | Full Stack Web Developer, Fuel Performance & Decarbonization | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f657fa9f2d4f746) | 2026-08-04 13:55 |
-| TikTok | Data Engineer Graduate (Monetization Data) - 2027 Start | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56be91a8f59c7b8c) | 2026-08-04 11:57 |
-| Andersen | Senior Data Architect (Enterprise Finance/Operational) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd29dc89ebed116e) | 2026-08-04 11:57 |
-| TikTok | Backend Software Engineer Graduate (TikTok-PGC-Digital Content Center) - 2027 Start | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d22af308ad0bf59) | 2026-08-04 11:57 |
 
 
 ---
