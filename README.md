@@ -1,16 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-08 14:23
+Last updated: 2026-08-08 15:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 15:20 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 15:20 |
+| KT2i Inc | Data Architect – Snowflake / Cortex | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c78d1b05e07aa732) | 2026-08-08 15:20 |
+| Devstringx Technologies | Full Stack Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1832c0accdf9751b) | 2026-08-08 15:20 |
 | Disney Experiences | Data Engineer | Orlando, FL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=2c2beecd9e43cf9c) | 2026-08-08 14:23 |
-| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 14:23 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 14:23 |
 | DEPARTMENT OF BUILDINGS | Senior Data Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71d49715069e7479) | 2026-08-08 14:23 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-08 14:23 |
 | Chewy | Database Engineer II | Plantation, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4fd6049b5c3fb13e) | 2026-08-08 09:28 |
 | Optum | Sr Software Engineer | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3b44530688ac699b) | 2026-08-08 06:35 |
 | Oak Street Health, part of CVS Health | Data Engineer with GCP experience | FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=314e85ac4ab93092) | 2026-08-08 05:36 |
