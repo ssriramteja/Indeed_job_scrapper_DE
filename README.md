@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-08 17:21
+Last updated: 2026-08-08 18:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 17:21 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 17:21 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 18:23 |
+| Chicago Financial Search | Software Development Engineer in Test | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f469ade2831899c) | 2026-08-08 18:23 |
 | Globant | Java Developer / Architect | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3f4670b855a27725) | 2026-08-08 16:21 |
 | LRx Healthcare | Senior Databricks Data Engineer – Sales Incentive Compensation (SIC) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f7cc2ef3ea91ac6c) | 2026-08-08 16:21 |
 | KT2i Inc | Data Architect – Snowflake / Cortex | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c78d1b05e07aa732) | 2026-08-08 15:20 |
@@ -438,29 +438,6 @@ Last updated: 2026-08-08 17:21
 | Bounteous | AEP/CDP Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3beae28e28fda3f) | 2026-08-04 20:19 |
 | Capgemini | Full stack Developer (Java - React JS) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03b817ba113453fb) | 2026-08-04 20:19 |
 | StandardAero | Sr. Data Analytics Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7dc5fe80e753160) | 2026-08-04 20:19 |
-| World Wide Technology | Technical Solutions Architect II -- Data Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7c1844de534a454d) | 2026-08-04 18:23 |
-| Disney Experiences | Senior Data Engineer | Orlando, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6766bf8c1056e06a) | 2026-08-04 18:23 |
-| Capgemini | Data Engineer Dremio | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=aab2a218af47694f) | 2026-08-04 18:23 |
-| Jefferson Center for Mental Health | Senior Digital Engineer | Wheat Ridge, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e96a2863adf9faa0) | 2026-08-04 18:23 |
-| VASERJOB | Forward Deployed Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ebb076d58305c59a) | 2026-08-04 18:23 |
-| HireBrick | Senior Data Scientist | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=42952c6c6822c7d1) | 2026-08-04 18:23 |
-| Jack Henry & Associates | Data Engineer II | Springfield, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=28164931f351fbab) | 2026-08-04 18:23 |
-| Jack Henry & Associates | Data Engineer II | Troy, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0df011591222734f) | 2026-08-04 18:23 |
-| Jack Henry & Associates | Data Engineer II | Birmingham, AL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d0d5abb66dbd101f) | 2026-08-04 18:23 |
-| Jack Henry & Associates | Data Engineer II | Louisville, KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48f4ce82f7c13b19) | 2026-08-04 18:23 |
-| Jack Henry & Associates | Data Engineer II | Branson, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0805e2a946703b9e) | 2026-08-04 18:23 |
-| Jack Henry & Associates | Data Engineer II | Elizabethtown, KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=98dce09b15abca9e) | 2026-08-04 18:23 |
-| BV Teck | Mule ESB Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=794eb6cc5b859c21) | 2026-08-04 18:23 |
-| BV Teck | Integration Platform Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=22f587e12fdff403) | 2026-08-04 18:23 |
-| Schneider | AI & Machine Learning Engineer II - Mexico | Mexico, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=304bfbbbc6fa58d6) | 2026-08-04 18:23 |
-| BV Teck | Windchill Technical Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7139ab3ddc5daefd) | 2026-08-04 18:23 |
-| Sony | Senior Software Engineer I | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c354f6d93d13200a) | 2026-08-04 18:23 |
-| Electric Hydrogen | Senior Full Stack Software Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=65cd11edfa704b3c) | 2026-08-04 18:23 |
-| BV Teck | OpenShift Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=731574a8194af788) | 2026-08-04 18:23 |
-| BV Teck | Kafka Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=80ffdcc3ef0b5287) | 2026-08-04 18:23 |
-| BV Teck | Data Solutions Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2585369e0ced4f85) | 2026-08-04 18:23 |
-| Now100 Inc | Azure Databricks Architect | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=481c0948c82cd1a4) | 2026-08-04 18:23 |
-| BV Teck | PLM Technical Consultant | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7bf176d2c7022fbc) | 2026-08-04 18:23 |
 
 
 ---
