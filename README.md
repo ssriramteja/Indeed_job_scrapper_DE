@@ -1,15 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-08 09:28
+Last updated: 2026-08-08 10:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 09:28 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 09:28 |
+| The Coca-Cola Company | Machine Learning Architect II | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a3baaefe539df3d2) | 2026-08-08 10:22 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 10:22 |
+| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-08 10:22 |
 | Chewy | Database Engineer II | Plantation, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4fd6049b5c3fb13e) | 2026-08-08 09:28 |
-| The Coca-Cola Company | Senior Data Engineer - Streaming | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd1f06fd310d8388) | 2026-08-08 09:28 |
 | Optum | Sr Software Engineer | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3b44530688ac699b) | 2026-08-08 06:35 |
 | Oak Street Health, part of CVS Health | Data Engineer with GCP experience | FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=314e85ac4ab93092) | 2026-08-08 05:36 |
 | Pearson | Software Engineer III | Durham, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5af79dac6e5a615f) | 2026-08-08 05:36 |
@@ -473,14 +473,6 @@ Last updated: 2026-08-08 09:28
 | TikTok | Data Engineer Graduate (Monetization Data) - 2027 Start | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=56be91a8f59c7b8c) | 2026-08-04 11:57 |
 | Andersen | Senior Data Architect (Enterprise Finance/Operational) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd29dc89ebed116e) | 2026-08-04 11:57 |
 | TikTok | Backend Software Engineer Graduate (TikTok-PGC-Digital Content Center) - 2027 Start | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d22af308ad0bf59) | 2026-08-04 11:57 |
-| University of the Pacific | Clinic System Administrator | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=30f4ef185557a4c5) | 2026-08-04 09:34 |
-| Cotiviti | Sr Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4cb8660c0e5ef8d4) | 2026-08-04 09:34 |
-| Cotiviti | Sr Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b5549d0abdaa34a) | 2026-08-04 09:34 |
-| PlusAI | Perception Validation Engineer | Santa Clara, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f695b1026950547b) | 2026-08-04 09:34 |
-| PlayStation | Software Engineer II, Data Platform | Aliso Viejo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df8296d590972dce) | 2026-08-04 09:34 |
-| PlayStation | Software Engineer II, Data Platform | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=44c1401c985416eb) | 2026-08-04 09:34 |
-| Hunt | Software Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=025e476a43fdb23a) | 2026-08-04 09:34 |
-| Everforth ECS | Data Scientist | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b696b843bec14c5a) | 2026-08-04 09:34 |
 
 
 ---
