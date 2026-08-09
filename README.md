@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-09 16:22
+Last updated: 2026-08-09 17:21
 
 ### 🚀 Daily Job Matches
 
@@ -347,14 +347,6 @@ Last updated: 2026-08-09 16:22
 | Brown University Health | IT Cloud Architect | Providence, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=05587d106373823e) | 2026-08-05 19:15 |
 | CVS Health | Cloud Architect - Product Owner | FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f3875498686bde6) | 2026-08-05 19:15 |
 | AssistRx | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29e2a93d07b12647) | 2026-08-05 19:15 |
-| Region 4 Education Service Center | Full Stack Developer | Houston, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7accc6e59fc97f98) | 2026-08-05 17:20 |
-| Burger King | Data Engineer I, Burger King | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=762c612b9070e685) | 2026-08-05 17:20 |
-| Select Minds LLC | Big Data Engineer | Lansing, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca295e881951a0b5) | 2026-08-05 17:20 |
-| AAR Corp. | Solution Architect/Data Engineer | Wood Dale, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2254089b8b9a66f2) | 2026-08-05 17:20 |
-| New York Technology Partners | Junior Data Engineer | Secaucus, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d4a9d26d08938e9d) | 2026-08-05 17:20 |
-| nan | Veeva Vault Technical Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce5964c3554c1268) | 2026-08-05 17:20 |
-| Virginia Tech | Associate Data and Analytics Engineer | Blacksburg, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e7c91c3c9b4df97) | 2026-08-05 17:20 |
-| nan | Full Stack Developer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7482535c924ec6a0) | 2026-08-05 17:20 |
 
 
 ---
