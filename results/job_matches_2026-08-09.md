@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-09
 
-**Total Jobs Found:** 58
+**Total Jobs Found:** 55
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -533,18 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Software Engineer III @ Pearson
-**Match Score:** 13.2%
-
-📍 **Location:** Durham, NC, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, ECS, Scala, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5af79dac6e5a615f)
-
----
-
-## 50. Database Engineer II @ Chewy
+## 49. Database Engineer II @ Chewy
 **Match Score:** 11.8%
 
 📍 **Location:** Plantation, FL, US USA
@@ -555,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Data Architect – Snowflake @ KT2i Inc
+## 50. Data Architect – Snowflake @ KT2i Inc
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -566,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Senior Data Architect @ DEPARTMENT OF BUILDINGS
+## 51. Senior Data Architect @ DEPARTMENT OF BUILDINGS
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -577,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Full Stack Engineer @ Devstringx Technologies
+## 52. Full Stack Engineer @ Devstringx Technologies
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -588,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Sr Software Engineer @ Optum
+## 53. Sr Software Engineer @ Optum
 **Match Score:** 11.8%
 
 📍 **Location:** Hartford, CT, US USA
@@ -599,29 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Data Scientist Specialist - Customer Service @ Textron Aviation
-**Match Score:** 11.8%
-
-📍 **Location:** Wichita, KS, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Spark, PySpark, Dask, Polars, MLOps, MLflow, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=56f0af585b8a5603)
-
----
-
-## 56. Healthcare Imaging Solution Architect @ VeeRteq Solutions Inc.
-**Match Score:** 10.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, API Gateway, ECS, IAM, RDS, Scala, DynamoDB, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0f78d5eab13424d0)
-
----
-
-## 57. Software Development Engineer in Test @ Chicago Financial Search
+## 54. Software Development Engineer in Test @ Chicago Financial Search
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -632,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. Clinical Business Intelligence Analyst (EPIC)-Sr @ UT Health Science Center at San Antonio
+## 55. Clinical Business Intelligence Analyst (EPIC)-Sr @ UT Health Science Center at San Antonio
 **Match Score:** 10.4%
 
 📍 **Location:** San Antonio, TX, US USA
