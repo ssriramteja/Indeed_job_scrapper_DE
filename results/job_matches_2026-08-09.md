@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-09
 
-**Total Jobs Found:** 48
+**Total Jobs Found:** 47
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -519,17 +519,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, GCP, BigQuery, Vertex AI, Scala, MLOps, CI/CD, Jenkins
 
 [Apply Here](https://www.indeed.com/viewjob?jk=d70bcefc31856e94)
-
----
-
-## 48. Clinical Business Intelligence Analyst (EPIC)-Sr @ UT Health Science Center at San Antonio
-**Match Score:** 10.4%
-
-📍 **Location:** San Antonio, TX, US USA
-
-🔑 **Keywords:** RDS, Hadoop, Spark, Data Modeling, ETL, ELT, Power BI, Tableau, Git, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1b9d27014bac5bbd)
 
 ---
 

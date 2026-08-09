@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-09 20:20
+Last updated: 2026-08-09 21:22
 
 ### 🚀 Daily Job Matches
 
@@ -313,24 +313,6 @@ Last updated: 2026-08-09 20:20
 | Cognizant | Senior Java Backend Engineer | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7bce0ed4f22212c1) | 2026-08-05 22:09 |
 | Trulioo | DevOps Engineer | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f01cd759e7e2639) | 2026-08-05 22:09 |
 | Sequoia Financial Group | Data Engineer | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a63fd992df921e9) | 2026-08-05 22:09 |
-| Wells Fargo | Senior Data Engineer (contract) | Phoenix, AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=5a9e7e1df6ea458d) | 2026-08-05 20:58 |
-| Wells Fargo | Senior Data Engineer (contract) | Phoenix, AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ce580424ef8e2efe) | 2026-08-05 20:58 |
-| Wells Fargo | Senior Data Engineer (contract) | Phoenix, AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=96ee6d54792e5b0e) | 2026-08-05 20:58 |
-| Weyerhaeuser | Data Engineer | Seattle, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=be3b83404ecad769) | 2026-08-05 20:58 |
-| Fox Corporation | Data Warehousing Specialist | Los Angeles, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1f0db046b81c4b7e) | 2026-08-05 20:58 |
-| Targa Resources | Cloud & Data Senior Architect | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=56d8b3a17d5ca1b6) | 2026-08-05 20:58 |
-| Delan Associates, Inc | Senior Hybrid Infrastructure Engineer | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=20764606d6576c1f) | 2026-08-05 20:58 |
-| Mizuho Bank | Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e4572b56a2bddf9a) | 2026-08-05 20:58 |
-| The Hartford | GCP Data Engineer | Hartford, CT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0a982abad7bb05fe) | 2026-08-05 20:58 |
-| Jack Henry & Associates | Data Engineer II | Allen, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=665101d138f0765c) | 2026-08-05 20:58 |
-| Robots & Pencils | Solutions Architect - AI | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ca27788eb548ec1b) | 2026-08-05 20:58 |
-| nan | Mid-Level Software Engineer | Maitland, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8e904477144f9b0f) | 2026-08-05 20:58 |
-| The Hearst Corporation | Senior Engineer, Data Management | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=485768e2c5e94d4b) | 2026-08-05 20:58 |
-| Rivo Holdings | Senior Data Platform Engineer | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=30d873fbb78ff247) | 2026-08-05 20:58 |
-| nan | Senior Software Engineer | Maitland, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c2a42c056eadbcf3) | 2026-08-05 20:58 |
-| Tinder | Software Engineer II, Backend | Los Angeles, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41fd173dde7ceb58) | 2026-08-05 20:58 |
-| IMG | Azure Data Engineer with Databricks | Johnston, IA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=03849a706ec32867) | 2026-08-05 20:58 |
-| Ascendion | Software Engineer | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea9a638f7797a3de) | 2026-08-05 20:58 |
 
 
 ---
