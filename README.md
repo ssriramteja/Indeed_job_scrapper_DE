@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-09 06:38
+Last updated: 2026-08-09 07:44
 
 ### 🚀 Daily Job Matches
 
@@ -369,15 +369,6 @@ Last updated: 2026-08-09 06:38
 | Systems Development and Analysis | Database Administrator (Senior) | Arlington, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=01de34b2c0542448) | 2026-08-05 10:26 |
 | Asure Software | Associate AI Software Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2ba83b80a06bd79) | 2026-08-05 10:26 |
 | Asure Software | Associate AI Software Engineer | Addison, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aad7eaf60ccf42f2) | 2026-08-05 10:26 |
-| Rhythm Energy | Analytics Engineer II | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0d93d722cff256d2) | 2026-08-05 07:35 |
-| JPMorganChase | Software Engineer III (Java) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9a225f0dc6b137ec) | 2026-08-05 07:35 |
-| Adobe | Sr DevOps Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=975478975181c2cf) | 2026-08-05 07:35 |
-| JPMorganChase | Full Stack Java/React Developer - Data Scientist Senior Associate | San Antonio, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f106f4aef3387bcc) | 2026-08-05 07:35 |
-| Warwick Investment Group | Data Engineer | Oklahoma City, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ffc08cd8d0cf8f96) | 2026-08-05 07:35 |
-| GEICO | Senior Software Engineer - HYBRID | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=373009b5b8e87f0d) | 2026-08-05 07:35 |
-| GEICO | Senior Software Engineer - HYBRID | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4cddfc2bfc8bbb5) | 2026-08-05 07:35 |
-| GEICO | Senior Software Engineer - HYBRID | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f8ccf381e23c9af9) | 2026-08-05 07:35 |
-| GEICO | Senior Software Engineer - HYBRID | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e9c20b3e1f2e260a) | 2026-08-05 07:35 |
 
 
 ---
