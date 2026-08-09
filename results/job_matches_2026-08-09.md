@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-09
 
-**Total Jobs Found:** 55
+**Total Jobs Found:** 54
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -544,18 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Database Engineer II @ Chewy
-**Match Score:** 11.8%
-
-📍 **Location:** Plantation, FL, US USA
-
-🔑 **Keywords:** AWS, S3, Scala, Snowflake, Oracle, ETL, ELT, dbt, CI/CD, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4fd6049b5c3fb13e)
-
----
-
-## 51. Senior Data Architect @ DEPARTMENT OF BUILDINGS
+## 50. Senior Data Architect @ DEPARTMENT OF BUILDINGS
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -566,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Data Architect – Snowflake @ KT2i Inc
+## 51. Data Architect – Snowflake @ KT2i Inc
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -577,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Full Stack Engineer @ Devstringx Technologies
+## 52. Full Stack Engineer @ Devstringx Technologies
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -588,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Software Development Engineer in Test @ Chicago Financial Search
+## 53. Software Development Engineer in Test @ Chicago Financial Search
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -599,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Clinical Business Intelligence Analyst (EPIC)-Sr @ UT Health Science Center at San Antonio
+## 54. Clinical Business Intelligence Analyst (EPIC)-Sr @ UT Health Science Center at San Antonio
 **Match Score:** 10.4%
 
 📍 **Location:** San Antonio, TX, US USA
