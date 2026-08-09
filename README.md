@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-08 23:19
+Last updated: 2026-08-09 00:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-08 23:19 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92503de4f5935b97) | 2026-08-09 00:59 |
 | UT Health Science Center at San Antonio | Clinical Business Intelligence Analyst (EPIC)-Sr | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b9d27014bac5bbd) | 2026-08-08 22:18 |
 | Chicago Financial Search | Software Development Engineer in Test | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f469ade2831899c) | 2026-08-08 18:23 |
 | Globant | Java Developer / Architect | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3f4670b855a27725) | 2026-08-08 16:21 |
@@ -371,27 +371,6 @@ Last updated: 2026-08-08 23:19
 | Information Technology Senior Management Forum | Senior Software Engineer, Capital Markets Technology | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c23da33ff41d6d3) | 2026-08-05 01:44 |
 | foureyes | Software Engineer (Sr. Software Engineer, DOE) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5fc0f4840ee51ac) | 2026-08-05 01:44 |
 | Inmar | Application Engineer, Cyber Security | Winston-Salem, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=111703762ff5efcb) | 2026-08-05 01:44 |
-| Equifax | Senior Full Stack Engineer | St. Louis, MO, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=27dbaa3dc8a3b601) | 2026-08-04 23:56 |
-| BAE Systems USA | Software Engineering Intern III, Summer 2027 (Onsite) | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c51a0ab8752890e7) | 2026-08-04 23:56 |
-| United Concordia Dental | Senior Data Engineer | PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=99526482fb3f2596) | 2026-08-04 23:56 |
-| Rush University Medical Center | Data Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b206c836b146d886) | 2026-08-04 23:56 |
-| Birlasoft | Technical Specialist-Cloud & Infra Engg | NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4fb757e0cec50dc1) | 2026-08-04 23:56 |
-| Owl Labs | Senior Full Stack Engineer | Cambridge, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8b7383687e3e9016) | 2026-08-04 23:56 |
-| Owl Labs | Senior Full Stack Engineer | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a71d06adc0eea81c) | 2026-08-04 23:56 |
-| Owl Labs | Senior Full Stack Engineer | Somerville, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0230aad2426cbb0e) | 2026-08-04 23:56 |
-| Dell Technologies | Senior Analyst, Data Engineering | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d703a95f6d98132d) | 2026-08-04 23:56 |
-| Dell Technologies | Senior Analyst, Data Engineering | Hopkinton, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=43612f69ee01f601) | 2026-08-04 23:56 |
-| Tesla | Forward Deployed Engineer | Robstown, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e9a49d7ee8cbacdd) | 2026-08-04 23:56 |
-| Guidewire | Senior Software Engineer | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=260c5053550dcc93) | 2026-08-04 23:56 |
-| Early Warning Services | Senior Cloud Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=454bb52747a889f0) | 2026-08-04 23:56 |
-| Santa Clara Valley Transportation Authority | Senior Data Warehouse Administrator | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b324f909786d78d0) | 2026-08-04 23:56 |
-| MetLife | Junior Software Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=460176c0aae0f7ad) | 2026-08-04 23:56 |
-| Dimensional Fund Advisors | Senior Site Reliability Engineer - Workflow Automation | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99c56c74489218e9) | 2026-08-04 23:56 |
-| Cummins | Solution Architect - Senior | Columbus, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c7b20c7e930af523) | 2026-08-04 23:56 |
-| LTM Limited | Data Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5bfc8bfc31bb2a22) | 2026-08-04 23:56 |
-| Allstate Insurance | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0bcd8bc3a260293) | 2026-08-04 23:56 |
-| Amentum | Data Security Analyst | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfe1f0ce627c9867) | 2026-08-04 23:56 |
-| Sustainment | QA Engineer - Gen AI | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ab9dc066eafbe44) | 2026-08-04 23:56 |
 
 
 ---
