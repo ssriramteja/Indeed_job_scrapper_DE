@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-09 21:22
+Last updated: 2026-08-09 22:20
 
 ### 🚀 Daily Job Matches
 
@@ -301,18 +301,6 @@ Last updated: 2026-08-09 21:22
 | Appex Innovation | Full-stack Swift Developer | Albany, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb4a885f309c1d91) | 2026-08-05 23:50 |
 | BDO | Oracle Fusion Senior Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f70d46bede5c9eb5) | 2026-08-05 23:50 |
 | BDO | Oracle Fusion Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=caa8a2e6fc3e9671) | 2026-08-05 23:50 |
-| MGIC | Senior Data Engineer | Milwaukee, WI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=978c47b533d24327) | 2026-08-05 22:09 |
-| Burger King | Data Engineer I, Burger King | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ea7e1f2c36a21591) | 2026-08-05 22:09 |
-| Flexjet, LLC. | AI Data Engineer | Cleveland, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1d8864424fa1770f) | 2026-08-05 22:09 |
-| Hilton | Senior Analyst, Project Support - Strategic Operations | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5e873d0306e737e8) | 2026-08-05 22:09 |
-| DocuSign | Software Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=10af69983fe65f09) | 2026-08-05 22:09 |
-| Block | Senior Integration Engineer, Business Systems | San Francisco Bay Area, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b31fe03b3202aa0a) | 2026-08-05 22:09 |
-| Appex Innovation | Full-stack Swift Developer | Albany, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e43c280e0db347ae) | 2026-08-05 22:09 |
-| Cognizant | Senior Java Backend Engineer | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eebe0f08857d67b4) | 2026-08-05 22:09 |
-| Cognizant | Senior Java Backend Engineer (Hybrid) | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7627196fd1190db1) | 2026-08-05 22:09 |
-| Cognizant | Senior Java Backend Engineer | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7bce0ed4f22212c1) | 2026-08-05 22:09 |
-| Trulioo | DevOps Engineer | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f01cd759e7e2639) | 2026-08-05 22:09 |
-| Sequoia Financial Group | Data Engineer | Bloomington, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a63fd992df921e9) | 2026-08-05 22:09 |
 
 
 ---
