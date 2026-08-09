@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-09 14:24
+Last updated: 2026-08-09 15:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| VBEST Software Inc | Data Engineer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=539879c923ff55f6) | 2026-08-09 15:21 |
 | JPMorganChase | Software Engineer II: Data Engineer | Jersey City, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b8ff2428319ab1fc) | 2026-08-09 05:41 |
 | Deloitte | Google AI Architect | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b5a5d6e6433a2545) | 2026-08-09 03:01 |
 | Deloitte | Google AI Architect | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8e8aea74abef8a18) | 2026-08-09 03:01 |
@@ -354,13 +355,6 @@ Last updated: 2026-08-09 14:24
 | nan | Veeva Vault Technical Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce5964c3554c1268) | 2026-08-05 17:20 |
 | Virginia Tech | Associate Data and Analytics Engineer | Blacksburg, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e7c91c3c9b4df97) | 2026-08-05 17:20 |
 | nan | Full Stack Developer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7482535c924ec6a0) | 2026-08-05 17:20 |
-| BSF | Data Engineer | Jacksonville, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0cc8f770215e2b11) | 2026-08-05 15:08 |
-| Varonis Systems | DevOps Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4b64846e4342be04) | 2026-08-05 15:08 |
-| Cargill | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=064915e533631ce2) | 2026-08-05 15:08 |
-| A2Z Sync | Senior Engineer, AI/ML | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b4c35bec2870d92f) | 2026-08-05 15:08 |
-| NYC EMPLOYEES RETIREMENT SYS | Senior IT Architect | Brooklyn, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a29445aa2fe8226) | 2026-08-05 15:08 |
-| Penn Interactive Ventures | Senior Full Stack Engineer, Client Platform | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6579a2f1e0419a4e) | 2026-08-05 15:08 |
-| General Motors (GM) | Senior Software Engineer - Virtualization and SIL Integration | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11cf4bcf3a74bb14) | 2026-08-05 15:08 |
 
 
 ---
