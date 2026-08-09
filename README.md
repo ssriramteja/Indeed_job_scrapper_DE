@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-09 10:22
+Last updated: 2026-08-09 11:20
 
 ### 🚀 Daily Job Matches
 
@@ -365,10 +365,6 @@ Last updated: 2026-08-09 10:22
 | CrowdStrike | Engineer III, Cloud SDET - Platform (Hybrid) | Sunnyvale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d7108583ab9e8178) | 2026-08-05 12:48 |
 | Escalon | Full Stack Developer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c92bfd88d73cefea) | 2026-08-05 12:48 |
 | Eko Green Industrial | Software Engineer (Remote) - Sustainable Tech Solutions | Miami Lakes, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4443bc0700cde0e8) | 2026-08-05 12:48 |
-| Torq Consulting | Senior Consultant – Modern Data & Analytics Engineering | Plano, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=6194bf1cf11624a3) | 2026-08-05 10:26 |
-| Systems Development and Analysis | Database Administrator (Senior) | Arlington, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=01de34b2c0542448) | 2026-08-05 10:26 |
-| Asure Software | Associate AI Software Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2ba83b80a06bd79) | 2026-08-05 10:26 |
-| Asure Software | Associate AI Software Engineer | Addison, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aad7eaf60ccf42f2) | 2026-08-05 10:26 |
 
 
 ---
