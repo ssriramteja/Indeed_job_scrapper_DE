@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-09
 
-**Total Jobs Found:** 49
+**Total Jobs Found:** 48
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -522,18 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Software Development Engineer in Test @ Chicago Financial Search
-**Match Score:** 10.4%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** Scala, Kafka, ELT, MLflow, CI/CD, Jenkins, GitHub Actions, Jenkins, pytest, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3f469ade2831899c)
-
----
-
-## 49. Clinical Business Intelligence Analyst (EPIC)-Sr @ UT Health Science Center at San Antonio
+## 48. Clinical Business Intelligence Analyst (EPIC)-Sr @ UT Health Science Center at San Antonio
 **Match Score:** 10.4%
 
 📍 **Location:** San Antonio, TX, US USA
