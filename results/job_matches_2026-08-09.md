@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-08-09
 
-**Total Jobs Found:** 54
+**Total Jobs Found:** 52
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer @ Disney Experiences
-**Match Score:** 20.1%
-
-📍 **Location:** Orlando, FL, US USA
-
-🔑 **Keywords:** Glue, EMR, Kinesis, S3, SQS, IAM, RDS, HBase, Spark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2c2beecd9e43cf9c)
-
----
-
-## 2. Java Developer / Architect @ Globant
+## 1. Java Developer / Architect @ Globant
 **Match Score:** 18.1%
 
 📍 **Location:** New York, NY, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Software Engineer II: Data Engineer @ JPMorganChase
+## 2. Software Engineer II: Data Engineer @ JPMorganChase
 **Match Score:** 17.4%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Databricks Data Engineer – Sales Incentive Compensation (SIC) @ LRx Healthcare
+## 3. Senior Databricks Data Engineer – Sales Incentive Compensation (SIC) @ LRx Healthcare
 **Match Score:** 13.9%
 
 📍 **Location:** New York, NY, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Google AI Architect @ Deloitte
+## 4. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Google AI Architect @ Deloitte
+## 5. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** New York, NY, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Google AI Architect @ Deloitte
+## 6. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Austin, TX, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Google AI Architect @ Deloitte
+## 7. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Google AI Architect @ Deloitte
+## 8. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Google AI Architect @ Deloitte
+## 9. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** McLean, VA, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Google AI Architect @ Deloitte
+## 10. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Seattle, WA, US USA
@@ -126,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Google AI Architect @ Deloitte
+## 11. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Columbus, OH, US USA
@@ -137,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Google AI Architect @ Deloitte
+## 12. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Nashville, TN, US USA
@@ -148,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Google AI Architect @ Deloitte
+## 13. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Richmond, VA, US USA
@@ -159,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Google AI Architect @ Deloitte
+## 14. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Portland, OR, US USA
@@ -170,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Google AI Architect @ Deloitte
+## 15. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -181,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Google AI Architect @ Deloitte
+## 16. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Tempe, AZ, US USA
@@ -192,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Google AI Architect @ Deloitte
+## 17. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Mechanicsburg, PA, US USA
@@ -203,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Google AI Architect @ Deloitte
+## 18. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Detroit, MI, US USA
@@ -214,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Google AI Architect @ Deloitte
+## 19. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Houston, TX, US USA
@@ -225,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Google AI Architect @ Deloitte
+## 20. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -236,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Google AI Architect @ Deloitte
+## 21. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -247,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Google AI Architect @ Deloitte
+## 22. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Tampa, FL, US USA
@@ -258,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Google AI Architect @ Deloitte
+## 23. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Rosslyn, VA, US USA
@@ -269,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Google AI Architect @ Deloitte
+## 24. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -280,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Google AI Architect @ Deloitte
+## 25. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -291,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Google AI Architect @ Deloitte
+## 26. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -302,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Google AI Architect @ Deloitte
+## 27. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Dallas, TX, US USA
@@ -313,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Google AI Architect @ Deloitte
+## 28. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Morristown, NJ, US USA
@@ -324,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Google AI Architect @ Deloitte
+## 29. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -335,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Google AI Architect @ Deloitte
+## 30. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -346,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Google AI Architect @ Deloitte
+## 31. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -357,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Google AI Architect @ Deloitte
+## 32. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -368,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Google AI Architect @ Deloitte
+## 33. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Gilbert, AZ, US USA
@@ -379,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Google AI Architect @ Deloitte
+## 34. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -390,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Google AI Architect @ Deloitte
+## 35. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -401,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Google AI Architect @ Deloitte
+## 36. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** New Orleans, LA, US USA
@@ -412,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Google AI Architect @ Deloitte
+## 37. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** San Diego, CA, US USA
@@ -423,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Google AI Architect @ Deloitte
+## 38. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Boston, MA, US USA
@@ -434,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Google AI Architect @ Deloitte
+## 39. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** San Jose, CA, US USA
@@ -445,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Google AI Architect @ Deloitte
+## 40. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -456,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Google AI Architect @ Deloitte
+## 41. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -467,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Google AI Architect @ Deloitte
+## 42. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -478,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Google AI Architect @ Deloitte
+## 43. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Chicago, IL, US USA
@@ -489,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Google AI Architect @ Deloitte
+## 44. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Hartford, CT, US USA
@@ -500,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Google AI Architect @ Deloitte
+## 45. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Miami, FL, US USA
@@ -511,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Google AI Architect @ Deloitte
+## 46. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Denver, CO, US USA
@@ -522,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Google AI Architect @ Deloitte
+## 47. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -533,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Google AI Architect @ Deloitte
+## 48. Google AI Architect @ Deloitte
 **Match Score:** 13.2%
 
 📍 **Location:** Stamford, CT, US USA
@@ -544,18 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Senior Data Architect @ DEPARTMENT OF BUILDINGS
-**Match Score:** 11.8%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** RDS, Azure, Synapse Analytics, Scala, Snowflake, Oracle, SQL Server, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=71d49715069e7479)
-
----
-
-## 51. Data Architect – Snowflake @ KT2i Inc
+## 49. Data Architect – Snowflake @ KT2i Inc
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -566,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Full Stack Engineer @ Devstringx Technologies
+## 50. Full Stack Engineer @ Devstringx Technologies
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -577,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Software Development Engineer in Test @ Chicago Financial Search
+## 51. Software Development Engineer in Test @ Chicago Financial Search
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -588,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Clinical Business Intelligence Analyst (EPIC)-Sr @ UT Health Science Center at San Antonio
+## 52. Clinical Business Intelligence Analyst (EPIC)-Sr @ UT Health Science Center at San Antonio
 **Match Score:** 10.4%
 
 📍 **Location:** San Antonio, TX, US USA

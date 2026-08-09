@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-09 12:30
+Last updated: 2026-08-09 13:41
 
 ### 🚀 Daily Job Matches
 
@@ -361,10 +361,6 @@ Last updated: 2026-08-09 12:30
 | NYC EMPLOYEES RETIREMENT SYS | Senior IT Architect | Brooklyn, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a29445aa2fe8226) | 2026-08-05 15:08 |
 | Penn Interactive Ventures | Senior Full Stack Engineer, Client Platform | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6579a2f1e0419a4e) | 2026-08-05 15:08 |
 | General Motors (GM) | Senior Software Engineer - Virtualization and SIL Integration | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11cf4bcf3a74bb14) | 2026-08-05 15:08 |
-| Medlytix | QA Engineer | Roswell, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=79d805ab0f62ca63) | 2026-08-05 12:48 |
-| CrowdStrike | Engineer III, Cloud SDET - Platform (Hybrid) | Sunnyvale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d7108583ab9e8178) | 2026-08-05 12:48 |
-| Escalon | Full Stack Developer | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c92bfd88d73cefea) | 2026-08-05 12:48 |
-| Eko Green Industrial | Software Engineer (Remote) - Sustainable Tech Solutions | Miami Lakes, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4443bc0700cde0e8) | 2026-08-05 12:48 |
 
 
 ---
