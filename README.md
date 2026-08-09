@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-09 04:55
+Last updated: 2026-08-09 05:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer II: Data Engineer | Jersey City, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b8ff2428319ab1fc) | 2026-08-09 05:41 |
 | Deloitte | Google AI Architect | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b5a5d6e6433a2545) | 2026-08-09 03:01 |
 | Deloitte | Google AI Architect | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8e8aea74abef8a18) | 2026-08-09 03:01 |
 | Deloitte | Google AI Architect | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ea9e9fc3b54ac213) | 2026-08-09 03:01 |
@@ -377,20 +378,6 @@ Last updated: 2026-08-09 04:55
 | GEICO | Senior Software Engineer - HYBRID | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4cddfc2bfc8bbb5) | 2026-08-05 07:35 |
 | GEICO | Senior Software Engineer - HYBRID | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f8ccf381e23c9af9) | 2026-08-05 07:35 |
 | GEICO | Senior Software Engineer - HYBRID | Palo Alto, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e9c20b3e1f2e260a) | 2026-08-05 07:35 |
-| Benchmark Solutions LLC | Senior Data Engineer | Chicago, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5a715f3ec85a8b5e) | 2026-08-05 04:57 |
-| Booz Allen Hamilton | Data Engineer | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d9fb5b732c3b1248) | 2026-08-05 04:57 |
-| Humana | Senior Quality Engineer - Automation Engineering | MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=54dff210a66c8202) | 2026-08-05 04:57 |
-| Humana | Senior Quality Engineer - Automation Engineering | KY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=334b1cf49bdb8aa3) | 2026-08-05 04:57 |
-| Humana | Senior Quality Engineer - Automation Engineering | TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=787d22f3f9e7baa8) | 2026-08-05 04:57 |
-| Humana | Senior Quality Engineer - Automation Engineering | WI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=947fd6ed5435b3d1) | 2026-08-05 04:57 |
-| Humana | Senior Quality Engineer - Automation Engineering | GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=254fa8628188db74) | 2026-08-05 04:57 |
-| The Hartford | GCP Data Engineer | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ca42845051be0a7d) | 2026-08-05 04:57 |
-| Tinker Federal Credit Union | Database Engineer I,II,III, SR | Oklahoma City, OK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=24c1d9b0ab8147e7) | 2026-08-05 04:57 |
-| Charles Schwab | Senior Kafka SRE Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=adbc3974c262ee65) | 2026-08-05 04:57 |
-| MetLife | Junior Software Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2829af5ce395bf11) | 2026-08-05 04:57 |
-| Citizens | Sr Data Scientist- Generative AI | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e688727eb8dea1de) | 2026-08-05 04:57 |
-| Lowe's Home Improvement | Sr Software Engineer - Search Platform (Data Ingestion) | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca8e62ba93d8b1ab) | 2026-08-05 04:57 |
-| Veritone | AI/Machine Learning Engineer | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52067741848b2d5c) | 2026-08-05 04:57 |
 
 
 ---
