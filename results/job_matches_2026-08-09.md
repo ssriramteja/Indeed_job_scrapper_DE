@@ -555,18 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Data Architect – Snowflake @ KT2i Inc
-**Match Score:** 11.8%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Snowflake, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c78d1b05e07aa732)
-
----
-
-## 52. Senior Data Architect @ DEPARTMENT OF BUILDINGS
+## 51. Senior Data Architect @ DEPARTMENT OF BUILDINGS
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -574,6 +563,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Synapse Analytics, Scala, Snowflake, Oracle, SQL Server, Data Modeling, ETL, ELT
 
 [Apply Here](https://www.indeed.com/viewjob?jk=71d49715069e7479)
+
+---
+
+## 52. Data Architect – Snowflake @ KT2i Inc
+**Match Score:** 11.8%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Snowflake, Data Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c78d1b05e07aa732)
 
 ---
 
