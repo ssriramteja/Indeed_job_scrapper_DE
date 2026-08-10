@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 15:51
+Last updated: 2026-08-10 16:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Applied Information Sciences | Senior Data Architect | VA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=4dd470eb429ea88c) | 2026-08-10 16:43 |
+| ComplexCare Solutions | Senior Software Data Architect | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ace8de476d10f3c8) | 2026-08-10 16:43 |
+| Artic Consulting, Inc | Senior Data Engineer (Microsoft Fabric & AI)-Redmond | Redmond, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=734fb1ee3423bbe6) | 2026-08-10 16:43 |
+| nan | Oracle CX Solution Architect(Functional) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=acfaa14f0d5a24a9) | 2026-08-10 16:43 |
+| Optum | Senior Data Scientist - Remote | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=57ea84787b8db583) | 2026-08-10 16:43 |
 | Smart Tech Skills LLC | Data Warehouse Analyst | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a603293fd9b8d480) | 2026-08-10 15:51 |
 | V4C.ai | Hiring Data Engineers in USA | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9c12be1bf8cf78dc) | 2026-08-10 14:13 |
 | Optum | Senior Full Stack Data Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97b1838bbabdfd39) | 2026-08-10 14:13 |
