@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 16:43
+Last updated: 2026-08-10 17:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Teleflex | Data Engineer (Remote) | Morrisville, NC, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=5bd3c383bbc14178) | 2026-08-10 17:43 |
+| Transamerica | Senior Software Engineer - Murex | Philadelphia, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=445d7e164b6dba34) | 2026-08-10 17:43 |
+| Cushman & Wakefield | Senior AI Engineer | Costa Mesa, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0d76a58347bab72d) | 2026-08-10 17:43 |
+| Crown Equipment | Data Engineer - Data Services | New Bremen, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6962de5bbb6d5774) | 2026-08-10 17:43 |
+| Evolve Blue | DL Engineer 2 - $75-77 /hr | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=06bfd64cec5eb49c) | 2026-08-10 17:43 |
+| Evolve Blue | DL Engineer 1 – $65-$68/hr | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e6ef460e64e2f58d) | 2026-08-10 17:43 |
+| S R International Inc | Enterprise Data Architect | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=176a4cab35257149) | 2026-08-10 17:43 |
+| nan | Enterprise Data Architect | Harrisburg, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f12a476a0f8fc2f) | 2026-08-10 17:43 |
 | Applied Information Sciences | Senior Data Architect | VA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=4dd470eb429ea88c) | 2026-08-10 16:43 |
 | ComplexCare Solutions | Senior Software Data Architect | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ace8de476d10f3c8) | 2026-08-10 16:43 |
 | Artic Consulting, Inc | Senior Data Engineer (Microsoft Fabric & AI)-Redmond | Redmond, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=734fb1ee3423bbe6) | 2026-08-10 16:43 |
