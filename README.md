@@ -1,18 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 21:33
+Last updated: 2026-08-10 22:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HCLTech | AI/ML Solutions Architect - MySQL | Durham, NC, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=a67ae1ade25d4115) | 2026-08-10 22:27 |
+| Resultant | Data Engineer - Databricks | Chicago, IL, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=62b7232e7951bd03) | 2026-08-10 22:27 |
+| Mindful Support Services | Senior Database Engineer - Mountlake Terrace, WA | Mountlake Terrace, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=28448befb25ceef2) | 2026-08-10 22:27 |
+| UnitedHealth Group | Senior Full Stack Developer - Cybersecurity | Eden Prairie, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f5715f54542e2479) | 2026-08-10 22:27 |
+| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27fc07398bd2410b) | 2026-08-10 22:27 |
+| MAPDEVS CORP. | GIS Architect (UI mobile responsive design) - Transportation, Rail Operations | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8db4a101ed6572fd) | 2026-08-10 22:27 |
+| Sonos | Senior Infrastructure Architect | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08280de9f61ce7c2) | 2026-08-10 22:27 |
+| Zoom Communications | DevOps Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af12bc7187e4862c) | 2026-08-10 22:27 |
 | CareFirst BlueCross BlueShield | Senior Data Engineer (Remote) | Baltimore, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=94fe4f8fe65e0d89) | 2026-08-10 21:33 |
 | Cushman & Wakefield | Senior AI Engineer | Costa Mesa, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9a32054447bc409c) | 2026-08-10 21:33 |
 | JPMorganChase | Software Engineer III - Big Data Databricks, Python / Java | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=911e6129869c725a) | 2026-08-10 21:33 |
 | Procter & Gamble | AI Engineer | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=757ec134ea689644) | 2026-08-10 21:33 |
 | Lambda | Senior Site Reliability Engineer - Storage | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=49363362b6789db3) | 2026-08-10 21:33 |
 | Lambda | Senior Site Reliability Engineer - Storage | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9e2bb604f3f45fc) | 2026-08-10 21:33 |
-| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27fc07398bd2410b) | 2026-08-10 21:33 |
 | Alpine Bank | Data Engineer I | Rifle, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=593b347235e92032) | 2026-08-10 21:33 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1c9a594ddf538eb2) | 2026-08-10 21:33 |
 | JPMorganChase | Software Engineer Associate III - Databricks | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ff3b78bfd12f1d3) | 2026-08-10 21:33 |
