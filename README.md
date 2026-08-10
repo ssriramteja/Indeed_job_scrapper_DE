@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 19:48
+Last updated: 2026-08-10 20:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e99ba182189de9eb) | 2026-08-10 20:31 |
+| Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Emerging Business) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=34861f28281f78de) | 2026-08-10 20:31 |
+| Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=96cc91af6b068eda) | 2026-08-10 20:31 |
+| nan | Senior Cloud Administrator / Cloud Infrastructure Engineer | San Francisco Bay Area, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bb77a486f23c08d0) | 2026-08-10 20:31 |
+| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27fc07398bd2410b) | 2026-08-10 20:31 |
+| Databricks | Sr. Specialist Solutions Architect - Cloud Platform & Infrastructure (Azure) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a006cef06875af1) | 2026-08-10 20:31 |
 | Strategic Mindz LLC | Data Reporting Analyst / Atlanta - GA / Onsite 3 - 4 Days a Week | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a0063b8d48d4bc73) | 2026-08-10 19:48 |
 | Alpha Nodus, Inc. | Software Engineering Intern | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50c2ed9fef976be3) | 2026-08-10 19:48 |
 | BV Teck | Big Data Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=19d01f1d0ef0bb8a) | 2026-08-10 18:43 |
