@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 07:10
+Last updated: 2026-08-10 09:07
 
 ### 🚀 Daily Job Matches
 
@@ -261,12 +261,6 @@ Last updated: 2026-08-10 07:10
 | C.H. Robinson | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b8b790018e6435ce) | 2026-08-06 10:29 |
 | C.H. Robinson | Software Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fb3264f58d94550) | 2026-08-06 10:29 |
 | DANTA TECHNOLOGIES PVT LTD | Azure Cloud Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ba4909bc0770b1b) | 2026-08-06 10:29 |
-| Capgemini | Full Stack Java with Angular - Onsite - Atlanta/Alpharetta | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2c752e537cd0c2e4) | 2026-08-06 07:35 |
-| Fujitsu | AI/ML ENG III | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c79fecb88f759cdc) | 2026-08-06 07:35 |
-| CrowdStrike | Engineer III - Platform Data Engineer (Remote) | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=93749d43fe3ef5d1) | 2026-08-06 07:35 |
-| JPMorganChase | Java Full Stack Software Engineer III - React / PostgreSQL | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5098c1122253111e) | 2026-08-06 07:35 |
-| CLERA | Senior DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3ce11b9433c91a10) | 2026-08-06 07:35 |
-| Ketch | Backend Software Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce5d2c1be2dfe526) | 2026-08-06 07:35 |
 
 
 ---
