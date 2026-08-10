@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 17:43
+Last updated: 2026-08-10 18:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BV Teck | Big Data Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=19d01f1d0ef0bb8a) | 2026-08-10 18:43 |
+| Capgemini | Data Engineer (PySpark) | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6551997fe759dea8) | 2026-08-10 18:43 |
+| Capgemini | Full Stack AWS Engineer - Onsite Jersey City, NJ | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=da7c944ea56b4625) | 2026-08-10 18:43 |
+| Cornell University | Backend Software Engineer | Ithaca, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9806c00941f64154) | 2026-08-10 18:43 |
 | Teleflex | Data Engineer (Remote) | Morrisville, NC, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=5bd3c383bbc14178) | 2026-08-10 17:43 |
 | Transamerica | Senior Software Engineer - Murex | Philadelphia, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=445d7e164b6dba34) | 2026-08-10 17:43 |
 | Cushman & Wakefield | Senior AI Engineer | Costa Mesa, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0d76a58347bab72d) | 2026-08-10 17:43 |
