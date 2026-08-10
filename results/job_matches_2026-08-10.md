@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-10
 
-**Total Jobs Found:** 22
+**Total Jobs Found:** 23
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,14 +27,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Big Data Engineer @ BV Teck
-**Match Score:** 17.4%
+## 3. Data Reporting Analyst / Atlanta - GA / Onsite 3 - 4 Days a Week @ Strategic Mindz LLC
+**Match Score:** 18.8%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** AWS, EMR, Azure, Databricks, Hadoop, HDFS, Hive, Sqoop, HBase, Oozie
+🔑 **Keywords:** AWS, Glue, Redshift, Athena, S3, RDS, Azure, Data Factory, Snowflake, Oracle
 
-[Apply Here](https://www.indeed.com/viewjob?jk=19d01f1d0ef0bb8a)
+[Apply Here](https://www.indeed.com/viewjob?jk=a0063b8d48d4bc73)
 
 ---
 
@@ -137,7 +137,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Data Warehouse Analyst @ Smart Tech Skills LLC
+## 13. Software Engineering Intern @ Alpha Nodus, Inc.
+**Match Score:** 12.5%
+
+📍 **Location:** Fort Lauderdale, FL, US USA
+
+🔑 **Keywords:** AWS, Lambda, Step Functions, S3, SQS, API Gateway, IAM, PostgreSQL, DynamoDB, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=50c2ed9fef976be3)
+
+---
+
+## 14. Data Warehouse Analyst @ Smart Tech Skills LLC
 **Match Score:** 11.8%
 
 📍 **Location:** Tallahassee, FL, US USA
@@ -148,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Data Engineer - Data Services @ Crown Equipment
+## 15. Data Engineer - Data Services @ Crown Equipment
 **Match Score:** 11.8%
 
 📍 **Location:** New Bremen, OH, US USA
@@ -159,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. DL Engineer 2 - $75-77 /hr @ Evolve Blue
+## 16. DL Engineer 2 - $75-77 /hr @ Evolve Blue
 **Match Score:** 11.1%
 
 📍 **Location:** Saint Paul, MN, US USA
@@ -170,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. DL Engineer 1 – $65-$68/hr @ Evolve Blue
+## 17. DL Engineer 1 – $65-$68/hr @ Evolve Blue
 **Match Score:** 11.1%
 
 📍 **Location:** Saint Paul, MN, US USA
@@ -181,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Site Reliability Engineer @ Thales
+## 18. Site Reliability Engineer @ Thales
 **Match Score:** 11.1%
 
 📍 **Location:** Austin, TX, US USA
@@ -192,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Backend Software Engineer @ Cornell University
+## 19. Backend Software Engineer @ Cornell University
 **Match Score:** 10.4%
 
 📍 **Location:** Ithaca, NY, US USA
@@ -203,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Senior Software Engineer @ RiPSIM Technologies, Inc.
+## 20. Senior Software Engineer @ RiPSIM Technologies, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Ashburn, VA, US USA
@@ -214,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Enterprise Data Architect @ nan
+## 21. Enterprise Data Architect @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Harrisburg, PA, US USA
@@ -225,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Enterprise Data Architect @ S R International Inc
+## 22. Enterprise Data Architect @ S R International Inc
 **Match Score:** 10.4%
 
 📍 **Location:** Harrisburg, PA, US USA
@@ -236,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Full Stack Data Engineer @ Optum
+## 23. Senior Full Stack Data Engineer @ Optum
 **Match Score:** 10.4%
 
 📍 **Location:** Eden Prairie, MN, US USA

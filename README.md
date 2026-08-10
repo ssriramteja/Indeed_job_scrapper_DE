@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 18:43
+Last updated: 2026-08-10 19:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Strategic Mindz LLC | Data Reporting Analyst / Atlanta - GA / Onsite 3 - 4 Days a Week | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a0063b8d48d4bc73) | 2026-08-10 19:48 |
+| Alpha Nodus, Inc. | Software Engineering Intern | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50c2ed9fef976be3) | 2026-08-10 19:48 |
 | BV Teck | Big Data Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=19d01f1d0ef0bb8a) | 2026-08-10 18:43 |
 | Capgemini | Data Engineer (PySpark) | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6551997fe759dea8) | 2026-08-10 18:43 |
 | Capgemini | Full Stack AWS Engineer - Onsite Jersey City, NJ | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=da7c944ea56b4625) | 2026-08-10 18:43 |
