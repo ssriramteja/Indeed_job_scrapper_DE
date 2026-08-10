@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 03:43
+Last updated: 2026-08-10 05:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Thales | Site Reliability Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fe7b94fd9c87316) | 2026-08-10 05:16 |
+| RiPSIM Technologies, Inc. | Senior Software Engineer | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4fed38dc2178d9) | 2026-08-10 05:16 |
 | VBEST Software Inc | Data Engineer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=539879c923ff55f6) | 2026-08-09 15:21 |
 | JPMorganChase | Software Engineer II: Data Engineer | Jersey City, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b8ff2428319ab1fc) | 2026-08-09 05:41 |
 | Deloitte | Google AI Architect | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b5a5d6e6433a2545) | 2026-08-09 03:01 |
@@ -265,12 +267,6 @@ Last updated: 2026-08-10 03:43
 | JPMorganChase | Java Full Stack Software Engineer III - React / PostgreSQL | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5098c1122253111e) | 2026-08-06 07:35 |
 | CLERA | Senior DevOps Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3ce11b9433c91a10) | 2026-08-06 07:35 |
 | Ketch | Backend Software Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ce5d2c1be2dfe526) | 2026-08-06 07:35 |
-| Capgemini | Java Full Stack Engineer | Charlotte, NC, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=644b32ef05018543) | 2026-08-06 04:57 |
-| 4P Consulting Inc. | Data Analytics Engineer IV. 4P/796 | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=52cb4b188a57c118) | 2026-08-06 04:57 |
-| Lam Research | Data Platform Architect | Fremont, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d01db6639e88fcab) | 2026-08-06 04:57 |
-| Applied Systems | Data Engineer (GCP, BigQuery) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d730d92415b574ca) | 2026-08-06 04:57 |
-| Southside Bank | Senior Analytics Engineer - On-Site (Texas) | Tyler, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c35333a91d42cd16) | 2026-08-06 04:57 |
-| 4P Consulting Inc. | Full Stack Application Developer III 4P/797 | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb0a2d794a3a9143) | 2026-08-06 04:57 |
 
 
 ---
