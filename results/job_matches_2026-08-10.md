@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-10
 
-**Total Jobs Found:** 8
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,29 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Data Engineer @ VBEST Software Inc
-**Match Score:** 13.2%
+## 4. Data Warehouse Analyst @ Smart Tech Skills LLC
+**Match Score:** 11.8%
 
-📍 **Location:** Plano, TX, US USA
+📍 **Location:** Tallahassee, FL, US USA
 
-🔑 **Keywords:** AWS, Glue, EMR, S3, IAM, Databricks, Spark, Scala, Snowflake, NoSQL
+🔑 **Keywords:** RDS, Azure, Dataflow, Scala, Snowflake, Data Modeling, Dimensional Modeling, Star Schema, Power BI, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=539879c923ff55f6)
-
----
-
-## 5. Software Engineer AI @ Doble Engineering Company
-**Match Score:** 13.2%
-
-📍 **Location:** Marlborough, MA, US USA
-
-🔑 **Keywords:** AWS, Azure, Databricks, Medallion Architecture, Spark, Scala, PostgreSQL, ELT, CI/CD, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0ee2aec48a20d562)
+[Apply Here](https://www.indeed.com/viewjob?jk=a603293fd9b8d480)
 
 ---
 
-## 6. Site Reliability Engineer @ Thales
+## 5. Site Reliability Engineer @ Thales
 **Match Score:** 11.1%
 
 📍 **Location:** Austin, TX, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Software Engineer @ RiPSIM Technologies, Inc.
+## 6. Senior Software Engineer @ RiPSIM Technologies, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Ashburn, VA, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Full Stack Data Engineer @ Optum
+## 7. Senior Full Stack Data Engineer @ Optum
 **Match Score:** 10.4%
 
 📍 **Location:** Eden Prairie, MN, US USA

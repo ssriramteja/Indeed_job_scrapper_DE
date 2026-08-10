@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 14:13
+Last updated: 2026-08-10 15:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Smart Tech Skills LLC | Data Warehouse Analyst | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a603293fd9b8d480) | 2026-08-10 15:51 |
 | V4C.ai | Hiring Data Engineers in USA | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9c12be1bf8cf78dc) | 2026-08-10 14:13 |
-| Doble Engineering Company | Software Engineer AI | Marlborough, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0ee2aec48a20d562) | 2026-08-10 14:13 |
 | Optum | Senior Full Stack Data Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97b1838bbabdfd39) | 2026-08-10 14:13 |
 | JPMorganChase | Software Engineer III (Java) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=04e8bc1c932c3a0e) | 2026-08-10 12:44 |
 | Code360 Inc | Sr Data Architect | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e4b86ec80ea1ccc1) | 2026-08-10 11:45 |
@@ -254,12 +254,6 @@ Last updated: 2026-08-10 14:13
 | DriveTime Automotive Group | Senior Software Engineer - Remote | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33b6b6de106ec251) | 2026-08-06 23:50 |
 | IceKredit | Full-Stack Software Engineer II | Westlake Village, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9738c4960b56ad75) | 2026-08-06 23:50 |
 | Capgemini | Senior Data & BI Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06504bc008d0919a) | 2026-08-06 23:50 |
-| Disney Experiences | Senior AI / Data Engineer | Celebration, FL, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=4a1d158814d4803d) | 2026-08-06 15:07 |
-| Aivanta Tech Inc | Cloud & DevOps Engineer | Michigan, ND, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=403ce6d0a4bc7ec2) | 2026-08-06 15:07 |
-| nan | Senior DevOps Engineer | Brooklyn, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d45dda7076140234) | 2026-08-06 15:07 |
-| nan | Senior Solutions Architect | Brooklyn, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a0f7f816ce641e12) | 2026-08-06 15:07 |
-| clickhouse | Senior Software Engineer - Integrations - AI/ML | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=828c2593dd3b6144) | 2026-08-06 15:07 |
-| Monogram Health | Senior Machine Learning Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4fe0dee1e8474ed0) | 2026-08-06 15:07 |
 
 
 ---
