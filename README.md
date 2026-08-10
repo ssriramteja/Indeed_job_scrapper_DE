@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 12:44
+Last updated: 2026-08-10 14:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| V4C.ai | Hiring Data Engineers in USA | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9c12be1bf8cf78dc) | 2026-08-10 14:13 |
+| Doble Engineering Company | Software Engineer AI | Marlborough, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0ee2aec48a20d562) | 2026-08-10 14:13 |
+| Optum | Senior Full Stack Data Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97b1838bbabdfd39) | 2026-08-10 14:13 |
 | JPMorganChase | Software Engineer III (Java) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=04e8bc1c932c3a0e) | 2026-08-10 12:44 |
 | Code360 Inc | Sr Data Architect | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e4b86ec80ea1ccc1) | 2026-08-10 11:45 |
 | Newpage Digital Healthcare solutions | AI Native BUilder - Bangladesh | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f2cb68ac3850d624) | 2026-08-10 10:58 |
@@ -257,8 +260,6 @@ Last updated: 2026-08-10 12:44
 | nan | Senior Solutions Architect | Brooklyn, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a0f7f816ce641e12) | 2026-08-06 15:07 |
 | clickhouse | Senior Software Engineer - Integrations - AI/ML | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=828c2593dd3b6144) | 2026-08-06 15:07 |
 | Monogram Health | Senior Machine Learning Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4fe0dee1e8474ed0) | 2026-08-06 15:07 |
-| Cyberlocke, LLC | Azure ETL Architect – Data Modernization | Plano, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=fbb3d2789d2f0f62) | 2026-08-06 12:51 |
-| Cyberlocke, LLC | Power BI Developer – Data Modernization | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b721420913a99a6c) | 2026-08-06 12:51 |
 
 
 ---
