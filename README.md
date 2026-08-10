@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 10:58
+Last updated: 2026-08-10 11:45
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Code360 Inc | Sr Data Architect | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e4b86ec80ea1ccc1) | 2026-08-10 11:45 |
 | Newpage Digital Healthcare solutions | AI Native BUilder - Bangladesh | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f2cb68ac3850d624) | 2026-08-10 10:58 |
 | Thales | Site Reliability Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fe7b94fd9c87316) | 2026-08-10 05:16 |
 | RiPSIM Technologies, Inc. | Senior Software Engineer | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4fed38dc2178d9) | 2026-08-10 05:16 |

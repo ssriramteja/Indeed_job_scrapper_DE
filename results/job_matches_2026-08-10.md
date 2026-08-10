@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-08-10
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. AI Native BUilder - Bangladesh @ Newpage Digital Healthcare solutions
+## 1. Sr Data Architect @ Code360 Inc
+**Match Score:** 17.4%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, S3, IAM, RDS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e4b86ec80ea1ccc1)
+
+---
+
+## 2. AI Native BUilder - Bangladesh @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Data Engineer @ VBEST Software Inc
+## 3. Data Engineer @ VBEST Software Inc
 **Match Score:** 13.2%
 
 📍 **Location:** Plano, TX, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Site Reliability Engineer @ Thales
+## 4. Site Reliability Engineer @ Thales
 **Match Score:** 11.1%
 
 📍 **Location:** Austin, TX, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Software Engineer @ RiPSIM Technologies, Inc.
+## 5. Senior Software Engineer @ RiPSIM Technologies, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Ashburn, VA, US USA
