@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-09 23:21
+Last updated: 2026-08-10 01:00
 
 ### 🚀 Daily Job Matches
 
@@ -286,21 +286,6 @@ Last updated: 2026-08-09 23:21
 | Blue Acorn iCi | EDS Front End Architect (Remote) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4355de47b9364410) | 2026-08-06 01:44 |
 | JPMorganChase | Senior Associate, Data Scientist - PXT Analytics | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b18a3410ca26c21c) | 2026-08-06 01:44 |
 | Premier Cloud | Gen AI Solutions Engineer #122 | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ead4e34bd1038d2d) | 2026-08-06 01:44 |
-| EXL Service | Data Platform Engineer | US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=e283799e17891679) | 2026-08-05 23:50 |
-| VeeRteq Solutions Inc. | Software Engineer(Python) | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=c3e81248d8fcac15) | 2026-08-05 23:50 |
-| Pearson | Data Engineer III | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ed4680bf14d32cc9) | 2026-08-05 23:50 |
-| Capgemini | Full Stack Java with Angular - Onsite - Atlanta/Alpharetta | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=476324ac0bfc1988) | 2026-08-05 23:50 |
-| Fellowship Health Resources, Inc. | MO 85- Power BI and Data engineer (806590) | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5000cd2f1efb32c2) | 2026-08-05 23:50 |
-| I8IS INC. | Snowflake Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2fdabe0fd11a2b20) | 2026-08-05 23:50 |
-| ITgen systems | Consultant | Andes, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3558a4604fdf437b) | 2026-08-05 23:50 |
-| EXL Service | Senior Analytics Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2a5f74b5ca1d0e4c) | 2026-08-05 23:50 |
-| FCT | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=766c2d4ea3852d27) | 2026-08-05 23:50 |
-| FCT | Full Stack Senior Software Engineer (Remote in CA) | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2378c1e094af5b61) | 2026-08-05 23:50 |
-| EXL Service | Senior Data Architect | GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d174a62833050e13) | 2026-08-05 23:50 |
-| Ripplehire | Senior Cloud/Site Reliability Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=90c967cc75affe93) | 2026-08-05 23:50 |
-| Appex Innovation | Full-stack Swift Developer | Albany, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb4a885f309c1d91) | 2026-08-05 23:50 |
-| BDO | Oracle Fusion Senior Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f70d46bede5c9eb5) | 2026-08-05 23:50 |
-| BDO | Oracle Fusion Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=caa8a2e6fc3e9671) | 2026-08-05 23:50 |
 
 
 ---
