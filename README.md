@@ -1,16 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 20:31
+Last updated: 2026-08-10 21:33
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CareFirst BlueCross BlueShield | Senior Data Engineer (Remote) | Baltimore, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=94fe4f8fe65e0d89) | 2026-08-10 21:33 |
+| Cushman & Wakefield | Senior AI Engineer | Costa Mesa, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9a32054447bc409c) | 2026-08-10 21:33 |
+| JPMorganChase | Software Engineer III - Big Data Databricks, Python / Java | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=911e6129869c725a) | 2026-08-10 21:33 |
+| Procter & Gamble | AI Engineer | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=757ec134ea689644) | 2026-08-10 21:33 |
+| Lambda | Senior Site Reliability Engineer - Storage | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=49363362b6789db3) | 2026-08-10 21:33 |
+| Lambda | Senior Site Reliability Engineer - Storage | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9e2bb604f3f45fc) | 2026-08-10 21:33 |
+| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27fc07398bd2410b) | 2026-08-10 21:33 |
+| Alpine Bank | Data Engineer I | Rifle, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=593b347235e92032) | 2026-08-10 21:33 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1c9a594ddf538eb2) | 2026-08-10 21:33 |
+| JPMorganChase | Software Engineer Associate III - Databricks | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ff3b78bfd12f1d3) | 2026-08-10 21:33 |
+| MEDFAR Solutions Cliniques | SRE / Infrastructure Engineer (LABGEN) | Great Neck, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e01cbe5941f4fd7e) | 2026-08-10 21:33 |
+| Tiger Analytics | Senior Data Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef0e8dc68e7083df) | 2026-08-10 21:33 |
+| Freedom Mortgage | Full Stack AI Software Engineer | Marlton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd8a1448552467aa) | 2026-08-10 21:33 |
+| ASSA ABLOY Group | Software Engineer | New Haven, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8fa117edc727447d) | 2026-08-10 21:33 |
 | Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e99ba182189de9eb) | 2026-08-10 20:31 |
 | Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Emerging Business) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=34861f28281f78de) | 2026-08-10 20:31 |
 | Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=96cc91af6b068eda) | 2026-08-10 20:31 |
 | nan | Senior Cloud Administrator / Cloud Infrastructure Engineer | San Francisco Bay Area, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bb77a486f23c08d0) | 2026-08-10 20:31 |
-| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27fc07398bd2410b) | 2026-08-10 20:31 |
 | Databricks | Sr. Specialist Solutions Architect - Cloud Platform & Infrastructure (Azure) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a006cef06875af1) | 2026-08-10 20:31 |
 | Strategic Mindz LLC | Data Reporting Analyst / Atlanta - GA / Onsite 3 - 4 Days a Week | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a0063b8d48d4bc73) | 2026-08-10 19:48 |
 | Alpha Nodus, Inc. | Software Engineering Intern | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50c2ed9fef976be3) | 2026-08-10 19:48 |
