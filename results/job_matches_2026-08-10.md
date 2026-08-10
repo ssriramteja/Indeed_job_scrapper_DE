@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-08-10
 
-**Total Jobs Found:** 3
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer @ VBEST Software Inc
+## 1. AI Native BUilder - Bangladesh @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f2cb68ac3850d624)
+
+---
+
+## 2. Data Engineer @ VBEST Software Inc
 **Match Score:** 13.2%
 
 📍 **Location:** Plano, TX, US USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Site Reliability Engineer @ Thales
+## 3. Site Reliability Engineer @ Thales
 **Match Score:** 11.1%
 
 📍 **Location:** Austin, TX, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Software Engineer @ RiPSIM Technologies, Inc.
+## 4. Senior Software Engineer @ RiPSIM Technologies, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Ashburn, VA, US USA

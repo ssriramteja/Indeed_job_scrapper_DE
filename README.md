@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 09:07
+Last updated: 2026-08-10 10:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Newpage Digital Healthcare solutions | AI Native BUilder - Bangladesh | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f2cb68ac3850d624) | 2026-08-10 10:58 |
 | Thales | Site Reliability Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fe7b94fd9c87316) | 2026-08-10 05:16 |
 | RiPSIM Technologies, Inc. | Senior Software Engineer | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4fed38dc2178d9) | 2026-08-10 05:16 |
 | VBEST Software Inc | Data Engineer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=539879c923ff55f6) | 2026-08-09 15:21 |
@@ -256,11 +257,6 @@ Last updated: 2026-08-10 09:07
 | Monogram Health | Senior Machine Learning Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4fe0dee1e8474ed0) | 2026-08-06 15:07 |
 | Cyberlocke, LLC | Azure ETL Architect – Data Modernization | Plano, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=fbb3d2789d2f0f62) | 2026-08-06 12:51 |
 | Cyberlocke, LLC | Power BI Developer – Data Modernization | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b721420913a99a6c) | 2026-08-06 12:51 |
-| Eccalon | Database Engineer - onsite | Detroit, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c2dc5b2bfc7d7bdc) | 2026-08-06 10:29 |
-| Comcast | Data Engineer 3 - Virtual | Philadelphia, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e58245a6fd122ca7) | 2026-08-06 10:29 |
-| C.H. Robinson | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b8b790018e6435ce) | 2026-08-06 10:29 |
-| C.H. Robinson | Software Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fb3264f58d94550) | 2026-08-06 10:29 |
-| DANTA TECHNOLOGIES PVT LTD | Azure Cloud Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ba4909bc0770b1b) | 2026-08-06 10:29 |
 
 
 ---
