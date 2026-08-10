@@ -1,16 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-10 22:27
+Last updated: 2026-08-10 23:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Thomson Reuters | Senior Software Engineer | Eagan, MN, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=262610840711ef87) | 2026-08-10 23:26 |
+| Capgemini | Data Engineer (PySpark) | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=adf0da1fb174a58c) | 2026-08-10 23:26 |
+| KBR | Senior AWS DevOps Engineer | Sioux Falls, SD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c6efcd93779699f4) | 2026-08-10 23:26 |
+| Magna International | Sr Engineer - ADAS Tools and Ground Truth | Rochester Hills, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6ae2204e7b44e00e) | 2026-08-10 23:26 |
+| Capgemini | Full Stack AWS Engineer - Onsite Jersey City, NJ | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=84e9c84b336915c6) | 2026-08-10 23:26 |
+| TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f08a32ca1839a36f) | 2026-08-10 23:26 |
+| MetLife | Data Engineer II | Cary, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ab81dbb9740baeab) | 2026-08-10 23:26 |
+| AutoZone | Systems Engineer (Supply Chain) | Memphis, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d0c167b0b4e8118) | 2026-08-10 23:26 |
+| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27fc07398bd2410b) | 2026-08-10 23:26 |
+| Logic, Inc. | Senior Data Scientist | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b3a8a9af3d57a0f) | 2026-08-10 23:26 |
 | HCLTech | AI/ML Solutions Architect - MySQL | Durham, NC, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=a67ae1ade25d4115) | 2026-08-10 22:27 |
 | Resultant | Data Engineer - Databricks | Chicago, IL, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=62b7232e7951bd03) | 2026-08-10 22:27 |
 | Mindful Support Services | Senior Database Engineer - Mountlake Terrace, WA | Mountlake Terrace, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=28448befb25ceef2) | 2026-08-10 22:27 |
 | UnitedHealth Group | Senior Full Stack Developer - Cybersecurity | Eden Prairie, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f5715f54542e2479) | 2026-08-10 22:27 |
-| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27fc07398bd2410b) | 2026-08-10 22:27 |
 | MAPDEVS CORP. | GIS Architect (UI mobile responsive design) - Transportation, Rail Operations | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8db4a101ed6572fd) | 2026-08-10 22:27 |
 | Sonos | Senior Infrastructure Architect | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08280de9f61ce7c2) | 2026-08-10 22:27 |
 | Zoom Communications | DevOps Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af12bc7187e4862c) | 2026-08-10 22:27 |
