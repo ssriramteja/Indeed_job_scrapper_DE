@@ -1,13 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 21:36
+Last updated: 2026-08-11 22:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| MindBoard | Remote Snowflake Certified Architect / Senior Developer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=7652a87536a73d6b) | 2026-08-11 22:32 |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 22:32 |
+| Wells Fargo | Senior Software Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=76c449e7bee48aa6) | 2026-08-11 22:32 |
+| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6b6758703ce1af49) | 2026-08-11 22:32 |
+| JPMorganChase | Data Engineer III - Python, Databricks | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=31e94d86522e8759) | 2026-08-11 22:32 |
+| Commence | Sr. Quality Assurance Engineer | Virginia Beach, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3a7216e95a38186a) | 2026-08-11 22:32 |
 | Cloud and Things | Senior . Net Backend Software Engineer | New York, NY, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=c24aad05f5ee2e0c) | 2026-08-11 21:36 |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 21:36 |
 | AbbVie | Data Engineer, PDS&T CMC | North Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c963aa2f5440dd5a) | 2026-08-11 21:36 |
 | CNA National Warranty Corporation | Senior Data Engineer | Scottsdale, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=02b34a3e260a27d1) | 2026-08-11 21:36 |
 | Aperia | AI Engineer (LLMs + C#) | Omaha, NE, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f3f997656e9e4686) | 2026-08-11 21:36 |
@@ -269,7 +274,6 @@ Last updated: 2026-08-11 21:36
 | Happen Bank | Sr Cloud Infrastructure Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=576ee1e65e819b57) | 2026-08-08 02:51 |
 | Lindblad Expeditions | Analytics Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ddd1a3c6c51faef) | 2026-08-08 02:51 |
 | Capgemini | Java Full Stack Developer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=172daad3fc8a7f79) | 2026-08-08 02:51 |
-| nan | Software Engineer II-Hybrid Role | Greenwich, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6b2d1082065c54ae) | 2026-08-07 22:25 |
 
 
 ---
