@@ -1,12 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 03:05
+Last updated: 2026-08-11 04:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 03:05 |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 04:58 |
+| Sequoia Connect | Data Infrastructure Architect | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=b17ae40788e4ec77) | 2026-08-11 04:58 |
+| Sequoia Connect | Data Infrastructure Architect | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=39543365ea36fd4e) | 2026-08-11 04:58 |
+| Lumen | Senior Software Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5a0e61d2a772e99d) | 2026-08-11 04:58 |
+| Sequoia Connect | Junior Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c4e6f2c9965b8f46) | 2026-08-11 04:58 |
+| Sequoia Connect | Junior Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=798688cb780d9300) | 2026-08-11 04:58 |
+| Advanced Medical Management | Senior Data Engineer | Long Beach, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8a34608b53a9554) | 2026-08-11 04:58 |
+| Advanced Medical Management | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cd297d26cd48490) | 2026-08-11 04:58 |
+| NYU Langone Health | Sr. Bioinformatics Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eece7ea708b14b8a) | 2026-08-11 04:58 |
+| University of Southern California | Associate Data Scientist | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f21680e47d80ce2) | 2026-08-11 04:58 |
+| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27fc07398bd2410b) | 2026-08-11 04:58 |
 | p99soft | Jr.Python Developer (Intern) | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=76f42dbc27d37597) | 2026-08-11 03:05 |
 | Capgemini | Databricks Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dc07515a51a0557e) | 2026-08-11 03:05 |
 | Ventura Foods | Sr. Environment Engineer - Oracle Platforms | Irvine, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7109737319b6dd3c) | 2026-08-11 03:05 |
@@ -21,7 +31,6 @@ Last updated: 2026-08-11 03:05
 | Databricks | Sr. Specialist Solutions Architect - Cloud Platform & Infrastructure (GCP) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=058f81d6a76ddba5) | 2026-08-11 03:05 |
 | Ryan Companies US, Inc. | Senior Software Engineer | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f57100e67c19fbe) | 2026-08-11 03:05 |
 | Dynamo Technologies | Business Intelligence Developer II / Web Analytics Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0c998a72fff8ea1) | 2026-08-11 03:05 |
-| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27fc07398bd2410b) | 2026-08-11 03:05 |
 | TIAA | Senior Systems Analyst, CRK | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85202d8fd6461588) | 2026-08-11 03:05 |
 | Magna Legal Services | Senior Software Engineer, Records | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd84a93f643ae447) | 2026-08-11 03:05 |
 | U.S. Bank | Infrastructure Data Analytics Engineer | Brookfield, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=528f5a1d87795372) | 2026-08-11 01:00 |
@@ -266,23 +275,6 @@ Last updated: 2026-08-11 03:05
 | Hyundai AutoEver America | Senior Data Engineer (Python) | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=92e9633068d7dbbc) | 2026-08-07 08:07 |
 | Adobe | Senior Site Reliability Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f0e16af2f20d1627) | 2026-08-07 08:07 |
 | Ashra Technology | Senior AI Engineer | Storden, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=82dfb61792cd2985) | 2026-08-07 08:07 |
-| Stellantis | Cloud Software Engineer | Auburn Hills, MI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=0a79b4f16db1d96c) | 2026-08-07 04:48 |
-| TISTA Science and Technology Corporation | Resident Solutions Architect (RSA) - Databricks | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=891599544d1068a4) | 2026-08-07 04:48 |
-| TISTA Science and Technology Corporation | Resident Solutions Architect (RSA) - Databricks | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=85c1e172b887f0e4) | 2026-08-07 04:48 |
-| PureMagic Carwash | Full Stack Data Engineer | Alcoa, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e59c05554094978) | 2026-08-07 04:48 |
-| Avantor | CDP System Developer (Customer Data Platform) | Radnor, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=296a330a7d75e5b4) | 2026-08-07 04:48 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=18b9c3aa39890d54) | 2026-08-07 04:48 |
-| PlayStation | Sr Cloud Infrastructure & Platform Engineer | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=551854289f030c9c) | 2026-08-07 04:48 |
-| Goldman Sachs | Risk-Salt Lake City-Associate-Software Engineering | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=63632248996e4946) | 2026-08-07 04:48 |
-| Goldman Sachs | Risk-Dallas-Associate-Software Engineering | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3568db794bb43c20) | 2026-08-07 04:48 |
-| GEICO | Senior Software Engineer - HYBRID | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=368b8ec957001455) | 2026-08-07 04:48 |
-| GEICO | Senior Software Engineer - HYBRID | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a24551da2a5d119) | 2026-08-07 04:48 |
-| GEICO | Senior Software Engineer - HYBRID | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4c2485dd3b69b7) | 2026-08-07 04:48 |
-| GEICO | Senior Software Engineer - HYBRID | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e11b943eb2423bf) | 2026-08-07 04:48 |
-| Deloitte | Applied AI Software Engineer III | Hermitage, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=803c5841ca815740) | 2026-08-07 04:48 |
-| Deloitte | Applied AI Software Engineer III | Morristown, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6f69a9084f7cc98) | 2026-08-07 04:48 |
-| Deloitte | Applied AI Software Engineer III | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d49b4a7fe8e3ba1a) | 2026-08-07 04:48 |
-| Deloitte | Applied AI Software Engineer III | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b7b08359f538c30) | 2026-08-07 04:48 |
 
 
 ---
