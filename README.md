@@ -1,12 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 20:35
+Last updated: 2026-08-11 21:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 20:35 |
+| Cloud and Things | Senior . Net Backend Software Engineer | New York, NY, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=c24aad05f5ee2e0c) | 2026-08-11 21:36 |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 21:36 |
+| AbbVie | Data Engineer, PDS&T CMC | North Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c963aa2f5440dd5a) | 2026-08-11 21:36 |
+| CNA National Warranty Corporation | Senior Data Engineer | Scottsdale, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=02b34a3e260a27d1) | 2026-08-11 21:36 |
+| Aperia | AI Engineer (LLMs + C#) | Omaha, NE, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f3f997656e9e4686) | 2026-08-11 21:36 |
+| Aperia | AI Engineer (LLMs + C#) | Frisco, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=03e97eecd14f0fb3) | 2026-08-11 21:36 |
+| Mapout Digital Solutions Inc, | Senior Integration Engineer – ServiceNow ITSM & ITOM | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=52d775bd9dfd3ca1) | 2026-08-11 21:36 |
+| Buildertrend | Senior Data Engineer | Omaha, NE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15ccdfb6af12e7c0) | 2026-08-11 21:36 |
+| The Hearst Corporation | Full-Stack Data Engineer | Troy, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f64121baa0dd81b4) | 2026-08-11 21:36 |
+| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=730bcb3e79c6aa5d) | 2026-08-11 21:36 |
+| nan | GCP Cloud Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d54a3fd932b2489e) | 2026-08-11 21:36 |
+| General Motors (GM) | Sr. System Engineer | Warren, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=91e1e1d56ef99307) | 2026-08-11 21:36 |
+| UniFirst | MuleSoft QA Engineer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f02d61ee29dd6bcb) | 2026-08-11 21:36 |
+| EY | CT_NITRO Experimental AI Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fa276c48188a3cea) | 2026-08-11 21:36 |
+| Gigapower | Data Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d68de453c48c65af) | 2026-08-11 21:36 |
+| UniFirst | MuleSoft Developer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf910bfe5104518f) | 2026-08-11 21:36 |
+| MetLife | Senior Software Engineer - App Reliability | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ec9965e5f979d25) | 2026-08-11 21:36 |
+| EMC Insurance | Senior Software Engineer - EMC Life | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d92f160b74d66c67) | 2026-08-11 21:36 |
 | State of Kansas | Data and Analytics Engineer | KS, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=98b23d350c0a1037) | 2026-08-11 20:35 |
 | Jazwares | Data Engineer | Plantation, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1e9aa9aff1abc0cd) | 2026-08-11 20:35 |
 | accrete | Senior Platform Engineer | Alexandria, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3f545fc0176e351) | 2026-08-11 20:35 |
@@ -253,16 +270,6 @@ Last updated: 2026-08-11 20:35
 | Lindblad Expeditions | Analytics Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8ddd1a3c6c51faef) | 2026-08-08 02:51 |
 | Capgemini | Java Full Stack Developer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=172daad3fc8a7f79) | 2026-08-08 02:51 |
 | nan | Software Engineer II-Hybrid Role | Greenwich, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6b2d1082065c54ae) | 2026-08-07 22:25 |
-| nan | Snowflake Data Engineer | NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6beb523d3112f2c8) | 2026-08-07 21:29 |
-| General Motors (GM) | Customer Experience Analyst | Warren, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=defc1aca4d641884) | 2026-08-07 21:29 |
-| CLERA | Senior IT Software Engineer – Scala, Akka & Java Microservices | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d0861862c8ae6a6b) | 2026-08-07 21:29 |
-| Burger King | Data Engineer I, Burger King | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f867d1be9fe0f69) | 2026-08-07 21:29 |
-| Digital Dhara LLC | Facets NetworX Pricing Configuration | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee9c395d3ffba8c0) | 2026-08-07 21:29 |
-| International Scripture Ministries | Business Intelligence & Data Analytics Specialist | Brentwood, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=461848762436fae0) | 2026-08-07 21:29 |
-| LexisNexis Risk Solutions | Senior Site Reliability Engineer I | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=412a855df409a1ce) | 2026-08-07 21:29 |
-| National Trench Safety | Analytics Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf80265e943322ad) | 2026-08-07 21:29 |
-| COMMUNITY BEHAVIORAL HEALTH | Sr. Software Engineer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48dcbf107ebdc2d8) | 2026-08-07 21:29 |
-| General Motors (GM) | Business Efficiency Engineer | Warren, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cca3a193745fe7be) | 2026-08-07 21:29 |
 
 
 ---
