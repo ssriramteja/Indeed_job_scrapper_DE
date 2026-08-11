@@ -1,13 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 22:32
+Last updated: 2026-08-11 23:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Healthfirst | Sr Data Engineer | Remote, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=f7642aa199d34181) | 2026-08-11 23:30 |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 23:30 |
+| LPL Financial | Summer Intern 2027 - Data | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5ac3317abd73d3aa) | 2026-08-11 23:30 |
+| Striim | Partner Solutions Architect | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bc9ea64b3e0c74c1) | 2026-08-11 23:30 |
+| Striim | Partner Solutions Architect | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=41afaba58e1c4224) | 2026-08-11 23:30 |
+| J&T Business Consulting | Senior Data Science Engineer (With TS/SCI Clearance and a current Full Scope Poly) | Annapolis Junction, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e904a72543c1613d) | 2026-08-11 23:30 |
+| Creative Information Technology India | EDP Cloud Systems Engineer – Washington, DC | Falls Church, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b4e97627506b5d28) | 2026-08-11 23:30 |
+| SpaceXAI | Software Engineer - Data Center | Memphis, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1b4ea598fe484112) | 2026-08-11 23:30 |
+| Buildertrend | Senior Data Engineer | Omaha, NE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a0d83ad41e4c629) | 2026-08-11 23:30 |
+| Britive | Senior Customer Success Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de2fdd477c52ce50) | 2026-08-11 23:30 |
+| Sherwin-Williams | Data Solutions Developer | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08dcea365e66c311) | 2026-08-11 23:30 |
+| U.S. Bank | Software Engineer 2 (AI/GenAI) | Earth City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=352496db659a2a8d) | 2026-08-11 23:30 |
+| Electronic Arts | Sr Data Scientist | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b97ef9ad96dfc39) | 2026-08-11 23:30 |
+| MetLife | Senior Software Engineer - App Reliability | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3473cf07214c5ee) | 2026-08-11 23:30 |
 | MindBoard | Remote Snowflake Certified Architect / Senior Developer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=7652a87536a73d6b) | 2026-08-11 22:32 |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 22:32 |
 | Wells Fargo | Senior Software Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=76c449e7bee48aa6) | 2026-08-11 22:32 |
 | Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6b6758703ce1af49) | 2026-08-11 22:32 |
 | JPMorganChase | Data Engineer III - Python, Databricks | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=31e94d86522e8759) | 2026-08-11 22:32 |
