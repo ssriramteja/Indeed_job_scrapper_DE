@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 04:58
+Last updated: 2026-08-11 05:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 04:58 |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 05:52 |
+| LPL Financial | Summer Intern 2027 - Data | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c8b2cebcf963c603) | 2026-08-11 05:52 |
+| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27fc07398bd2410b) | 2026-08-11 05:52 |
 | Sequoia Connect | Data Infrastructure Architect | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=b17ae40788e4ec77) | 2026-08-11 04:58 |
 | Sequoia Connect | Data Infrastructure Architect | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=39543365ea36fd4e) | 2026-08-11 04:58 |
 | Lumen | Senior Software Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5a0e61d2a772e99d) | 2026-08-11 04:58 |
@@ -16,7 +18,6 @@ Last updated: 2026-08-11 04:58
 | Advanced Medical Management | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cd297d26cd48490) | 2026-08-11 04:58 |
 | NYU Langone Health | Sr. Bioinformatics Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eece7ea708b14b8a) | 2026-08-11 04:58 |
 | University of Southern California | Associate Data Scientist | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f21680e47d80ce2) | 2026-08-11 04:58 |
-| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27fc07398bd2410b) | 2026-08-11 04:58 |
 | p99soft | Jr.Python Developer (Intern) | Austin, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=76f42dbc27d37597) | 2026-08-11 03:05 |
 | Capgemini | Databricks Data Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dc07515a51a0557e) | 2026-08-11 03:05 |
 | Ventura Foods | Sr. Environment Engineer - Oracle Platforms | Irvine, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7109737319b6dd3c) | 2026-08-11 03:05 |
