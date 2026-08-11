@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 09:51
+Last updated: 2026-08-11 10:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 09:51 |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 10:42 |
+| Abbott | Senior Database Engineer II | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c8531d4cc2132548) | 2026-08-11 10:42 |
 | JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce6090dbce36244c) | 2026-08-11 09:51 |
 | nan | Senior Cloud Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c11f470fecf7abb) | 2026-08-11 09:51 |
 | NYU Langone Health | Sr. Bioinformatics Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fce382916bf426ff) | 2026-08-11 09:51 |
