@@ -1,12 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 17:50
+Last updated: 2026-08-11 18:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 17:50 |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 18:48 |
+| Optum | Senior Data Modeler - Enterprise Data Warehouse - Remote | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b8c7ee86ade96fc0) | 2026-08-11 18:48 |
+| NTT DATA | DevOps Engineer | Nashville, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=127b8ee0d5e8b7d6) | 2026-08-11 18:48 |
+| Quantic | Senior Software Engineer – NestJS & Backend Architecture | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2960b1e2ceb9f1d9) | 2026-08-11 18:48 |
+| UnitedHealthcare | Sr Data Scientist - AI or ML Engineering Focus - Remote | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be573081e3bdbe94) | 2026-08-11 18:48 |
+| BV Teck | Data Solutions Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5645664d20b6d934) | 2026-08-11 18:48 |
+| PatientPoint | Software Engineer in Test | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=597c1235384c626f) | 2026-08-11 18:48 |
 | Valvoline Global Operations | Sr. Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=720c45a82f53f263) | 2026-08-11 17:50 |
 | Dauch | Integration Specialist | Detroit, MI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=034c1e07736ca22b) | 2026-08-11 17:50 |
 | Trupanion | Data Engineer | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f426b92d0adc5e27) | 2026-08-11 17:50 |
@@ -268,18 +274,6 @@ Last updated: 2026-08-11 17:50
 | Expeditors | Data Engineer III/Senior (Analytics) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dacfe71dcf8baca8) | 2026-08-07 19:44 |
 | Expeditors | Data Engineer III/Senior (Analytics) | Ellenwood, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ac9200c4cfa508d) | 2026-08-07 19:44 |
 | Expeditors | Data Engineer III/Senior (Analytics) | Romulus, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e659a4bfd0be22cf) | 2026-08-07 19:44 |
-| NuAxis Innovations | Senior Data Platform Engineer | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0c936dad5028f127) | 2026-08-07 18:40 |
-| NTT DATA | Python Backend Developer - Hybrid/Onsite | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=de4f0429ae4593f2) | 2026-08-07 18:40 |
-| Renew home | Senior Engineer, Backend - Consumer Experience Platform (Remote, US) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f512c971fe8b64d7) | 2026-08-07 18:40 |
-| Optum | Associate Software Engineer | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9dd9d834b65f070a) | 2026-08-07 18:40 |
-| BV Teck | Kafka Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0da9fa927be823d4) | 2026-08-07 18:40 |
-| NTT DATA | Senior Oracle Data Engineer - Onsite | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=833fe86368c4972f) | 2026-08-07 18:40 |
-| NTT DATA | Senior Oracle Data Engineer - Onsite | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3e93cd18fa341dbb) | 2026-08-07 18:40 |
-| Abbott | Senior Data Engineer | Des Plaines, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=183c1e594d877a8a) | 2026-08-07 18:40 |
-| NTT DATA | Data Quality Engineer - Hybrid On-Site | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0097b274babd6cc) | 2026-08-07 18:40 |
-| NTT DATA | Data Engineer - Hybrid On-Site | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ce725dc0522c974) | 2026-08-07 18:40 |
-| NTT DATA | Data Engineer - Hybrid On-Site | Merrimack, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff6a2f7452936264) | 2026-08-07 18:40 |
-| Masco | Enterprise Data Architect | Livonia, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ffac0ed2e6c03b03) | 2026-08-07 18:40 |
 
 
 ---
