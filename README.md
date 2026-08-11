@@ -1,13 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 15:51
+Last updated: 2026-08-11 16:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 16:47 |
+| Optum | Data Engineer | Minnetonka, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dbb3140ee1f47831) | 2026-08-11 16:47 |
+| nan | Senior Data Analyst | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9225336bad1dc9b5) | 2026-08-11 16:47 |
+| Western Camps, Inc. | Senior Analytics Engineer (PowerBi and Fabric) | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e5f974f63b3e098a) | 2026-08-11 16:47 |
 | Visibol | Java Developer | TX, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=dbdf2a1acd1d6f97) | 2026-08-11 15:51 |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 15:51 |
 | CVS Health | Software Engineer - SRE, Retail & Pharmacy | Richardson, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b7837fd5164e6a44) | 2026-08-11 15:51 |
 | CVS Health | Software Engineer - SRE, Retail & Pharmacy | Scottsdale, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a8a888f4e8d3b768) | 2026-08-11 15:51 |
 | CVS Health | Software Engineer - SRE, Retail & Pharmacy | Woonsocket, RI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=89da70fdb2d97367) | 2026-08-11 15:51 |
@@ -275,11 +278,6 @@ Last updated: 2026-08-11 15:51
 | Neo4j | Consulting Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e01bb16e952f25f) | 2026-08-07 17:40 |
 | Tech Interacts Inc | Senior Full Stack Python Developer - Software Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7a83616a78417328) | 2026-08-07 17:40 |
 | Billtrust | Senior Software Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78178f6aa10eb4ac) | 2026-08-07 17:40 |
-| Alchemy | GCP Data Engineer/Architect | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1f4080c35e50a786) | 2026-08-07 16:42 |
-| nan | Cloud Infrastructure Engineer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6d24bc0c26ef1f62) | 2026-08-07 16:42 |
-| Finbott | Senior Java Developer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ce8f8f2a4ca6b4b4) | 2026-08-07 16:42 |
-| Colorado Rockies Baseball Club | Senior Data Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=294c79854ae69714) | 2026-08-07 16:42 |
-| Designer Brands Inc. | Sr. Business Intelligence Developer - REMOTE | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a2bc7ffb6f944b1f) | 2026-08-07 16:42 |
 
 
 ---
