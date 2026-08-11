@@ -1,12 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 18:48
+Last updated: 2026-08-11 19:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 18:48 |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 19:55 |
+| Luxoft | Senior AI Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e0b72188bd56c0e1) | 2026-08-11 19:55 |
+| Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f38f6a5da241519e) | 2026-08-11 19:55 |
+| Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=42b17a26ef65d0fb) | 2026-08-11 19:55 |
+| SAKSOFT | Full Stack Quantitative Developer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=90fd4a5e897af711) | 2026-08-11 19:55 |
+| VIVA | Cloud Systems Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=10e3305971e0ebf9) | 2026-08-11 19:55 |
+| Viventium Software | Enterprise Software Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06836dacb6415fc9) | 2026-08-11 19:55 |
 | Optum | Senior Data Modeler - Enterprise Data Warehouse - Remote | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b8c7ee86ade96fc0) | 2026-08-11 18:48 |
 | NTT DATA | DevOps Engineer | Nashville, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=127b8ee0d5e8b7d6) | 2026-08-11 18:48 |
 | Quantic | Senior Software Engineer – NestJS & Backend Architecture | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2960b1e2ceb9f1d9) | 2026-08-11 18:48 |
@@ -260,20 +266,6 @@ Last updated: 2026-08-11 18:48
 | Magid Glove & Safety | Data Engineer | Romeoville, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bae4852afc375b2c) | 2026-08-07 20:30 |
 | Nordstrom | Data Analyst 3, Supply Chain Intelligence - (Hybrid - Seattle, WA) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=33c11ff9d6efa16d) | 2026-08-07 20:30 |
 | Gainwell Technologies LLC | Cloud Data Solutions Architect | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7339cfd332732e7a) | 2026-08-07 20:30 |
-| Prudential | Senior Data Engineer | Newark, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=1c780bb7cb6c4cc0) | 2026-08-07 19:44 |
-| Capgemini | Senior Solution Architect - I&D | Franklin Lakes, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9ed54c8ce6b401fd) | 2026-08-07 19:44 |
-| Hollstadt Consulting | AI Engineer | MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=41ca370618b5121e) | 2026-08-07 19:44 |
-| External SambaNova Systems | Cloud Platform Engineer | Palo Alto, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=798a5f2afe52ecba) | 2026-08-07 19:44 |
-| Downtown Music | Data Engineer | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=62178bde1110ca99) | 2026-08-07 19:44 |
-| Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b6fce6d2f8036b7f) | 2026-08-07 19:44 |
-| Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bebe922d1a22e0b2) | 2026-08-07 19:44 |
-| Hollstadt Consulting | Senior AI Engineer | MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f8c803152f342224) | 2026-08-07 19:44 |
-| Bounteous | AEP/CDP Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5fba331119c93e6a) | 2026-08-07 19:44 |
-| Capgemini | Java Full Stack Developer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=033a483ab033f139) | 2026-08-07 19:44 |
-| Expeditors | Data Engineer III/Senior (Analytics) | Edison, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d01033a0167d6836) | 2026-08-07 19:44 |
-| Expeditors | Data Engineer III/Senior (Analytics) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dacfe71dcf8baca8) | 2026-08-07 19:44 |
-| Expeditors | Data Engineer III/Senior (Analytics) | Ellenwood, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ac9200c4cfa508d) | 2026-08-07 19:44 |
-| Expeditors | Data Engineer III/Senior (Analytics) | Romulus, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e659a4bfd0be22cf) | 2026-08-07 19:44 |
 
 
 ---
