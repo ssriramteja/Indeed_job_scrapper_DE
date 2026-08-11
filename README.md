@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 10:42
+Last updated: 2026-08-11 11:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 10:42 |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 11:37 |
+| Capgemini | Associate Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50523aed281396ba) | 2026-08-11 11:37 |
 | Abbott | Senior Database Engineer II | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c8531d4cc2132548) | 2026-08-11 10:42 |
 | JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce6090dbce36244c) | 2026-08-11 09:51 |
 | nan | Senior Cloud Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c11f470fecf7abb) | 2026-08-11 09:51 |
@@ -269,12 +270,6 @@ Last updated: 2026-08-11 10:42
 | Dataflix | Sr Architect - Onsite in Irvine, CA | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dcb4d56aa60d66cf) | 2026-08-07 14:05 |
 | State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50b26690dd93322b) | 2026-08-07 14:05 |
 | Jewish Council for the Aging of Greater Washington | BI & Analytics Analyst/Data Engineer | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8e88e37f4395eea) | 2026-08-07 11:38 |
-| Fairview Health Services | Data Engineer | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=af0882c7b287b46a) | 2026-08-07 10:43 |
-| Zoom Communications | Software Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc9d41ca9c771490) | 2026-08-07 10:43 |
-| Cognizant | Sr. Java Backend Engineer | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0477feeb79dcb21) | 2026-08-07 10:43 |
-| Cognizant | Sr. Java Backend Engineer | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3df9db8529425cc9) | 2026-08-07 10:43 |
-| Cognizant | Sr. Java Backend Developer | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f9faee137e1dd64) | 2026-08-07 10:43 |
-| Avilamb | AI/ML Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d406fc8aace70fdf) | 2026-08-07 10:43 |
 
 
 ---
