@@ -1,12 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 16:47
+Last updated: 2026-08-11 17:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 16:47 |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 17:50 |
+| Valvoline Global Operations | Sr. Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=720c45a82f53f263) | 2026-08-11 17:50 |
+| Dauch | Integration Specialist | Detroit, MI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=034c1e07736ca22b) | 2026-08-11 17:50 |
+| Trupanion | Data Engineer | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f426b92d0adc5e27) | 2026-08-11 17:50 |
+| PayIt | Associate Data Engineer | Kansas City, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9b84daac08f9aaf6) | 2026-08-11 17:50 |
+| Prime Medicine | Informatics Engineer | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbd24beae107df7e) | 2026-08-11 17:50 |
+| Lantern | Data Architect | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45c7a33a5d7a2996) | 2026-08-11 17:50 |
+| Lantern | Data Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09da89624990c354) | 2026-08-11 17:50 |
 | Optum | Data Engineer | Minnetonka, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dbb3140ee1f47831) | 2026-08-11 16:47 |
 | nan | Senior Data Analyst | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9225336bad1dc9b5) | 2026-08-11 16:47 |
 | Western Camps, Inc. | Senior Analytics Engineer (PowerBi and Fabric) | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e5f974f63b3e098a) | 2026-08-11 16:47 |
@@ -273,11 +280,6 @@ Last updated: 2026-08-11 16:47
 | NTT DATA | Data Engineer - Hybrid On-Site | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ce725dc0522c974) | 2026-08-07 18:40 |
 | NTT DATA | Data Engineer - Hybrid On-Site | Merrimack, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ff6a2f7452936264) | 2026-08-07 18:40 |
 | Masco | Enterprise Data Architect | Livonia, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ffac0ed2e6c03b03) | 2026-08-07 18:40 |
-| nan | Senior Data Engineer — GCP | Rochester, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5f84280e7ee9940e) | 2026-08-07 17:40 |
-| Data Dimensions | DevOps Engineer | Janesville, WI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=577e50312f05eeeb) | 2026-08-07 17:40 |
-| Neo4j | Consulting Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e01bb16e952f25f) | 2026-08-07 17:40 |
-| Tech Interacts Inc | Senior Full Stack Python Developer - Software Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7a83616a78417328) | 2026-08-07 17:40 |
-| Billtrust | Senior Software Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78178f6aa10eb4ac) | 2026-08-07 17:40 |
 
 
 ---
