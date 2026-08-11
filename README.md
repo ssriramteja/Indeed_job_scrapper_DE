@@ -1,12 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 19:55
+Last updated: 2026-08-11 20:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 19:55 |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 20:35 |
+| State of Kansas | Data and Analytics Engineer | KS, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=98b23d350c0a1037) | 2026-08-11 20:35 |
+| Jazwares | Data Engineer | Plantation, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1e9aa9aff1abc0cd) | 2026-08-11 20:35 |
+| accrete | Senior Platform Engineer | Alexandria, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3f545fc0176e351) | 2026-08-11 20:35 |
+| accrete | Senior Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ec121a9fa254deb) | 2026-08-11 20:35 |
 | Luxoft | Senior AI Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e0b72188bd56c0e1) | 2026-08-11 19:55 |
 | Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f38f6a5da241519e) | 2026-08-11 19:55 |
 | Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=42b17a26ef65d0fb) | 2026-08-11 19:55 |
@@ -259,13 +263,6 @@ Last updated: 2026-08-11 19:55
 | National Trench Safety | Analytics Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf80265e943322ad) | 2026-08-07 21:29 |
 | COMMUNITY BEHAVIORAL HEALTH | Sr. Software Engineer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=48dcbf107ebdc2d8) | 2026-08-07 21:29 |
 | General Motors (GM) | Business Efficiency Engineer | Warren, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cca3a193745fe7be) | 2026-08-07 21:29 |
-| Fractal Analytics | Azure DBX | CA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=8699eca260e46b8d) | 2026-08-07 20:30 |
-| Cactus Wellhead | Cactus Wellhead - Sr. Data Platform Engineering | Houston, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a33763b20c7bc7ae) | 2026-08-07 20:30 |
-| Fractal Analytics | Solution Architect | CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=812c613e05e7cfce) | 2026-08-07 20:30 |
-| Salesforce | Technical Architect 8 | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7012fb40a43e1d5a) | 2026-08-07 20:30 |
-| Magid Glove & Safety | Data Engineer | Romeoville, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bae4852afc375b2c) | 2026-08-07 20:30 |
-| Nordstrom | Data Analyst 3, Supply Chain Intelligence - (Hybrid - Seattle, WA) | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=33c11ff9d6efa16d) | 2026-08-07 20:30 |
-| Gainwell Technologies LLC | Cloud Data Solutions Architect | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7339cfd332732e7a) | 2026-08-07 20:30 |
 
 
 ---
