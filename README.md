@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 11:37
+Last updated: 2026-08-11 12:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 11:37 |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 12:42 |
+| Capgemini | Associate Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=129b88106a4533af) | 2026-08-11 12:42 |
 | Capgemini | Associate Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50523aed281396ba) | 2026-08-11 11:37 |
 | Abbott | Senior Database Engineer II | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c8531d4cc2132548) | 2026-08-11 10:42 |
 | JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce6090dbce36244c) | 2026-08-11 09:51 |
@@ -269,7 +270,6 @@ Last updated: 2026-08-11 11:37
 | The Hartford | AI Platform Engineer (Google Cloud Platform) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5c83954e5f77f972) | 2026-08-07 15:45 |
 | Dataflix | Sr Architect - Onsite in Irvine, CA | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dcb4d56aa60d66cf) | 2026-08-07 14:05 |
 | State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50b26690dd93322b) | 2026-08-07 14:05 |
-| Jewish Council for the Aging of Greater Washington | BI & Analytics Analyst/Data Engineer | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8e88e37f4395eea) | 2026-08-07 11:38 |
 
 
 ---
