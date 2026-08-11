@@ -1,12 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 08:04
+Last updated: 2026-08-11 09:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 08:04 |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 09:51 |
+| JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce6090dbce36244c) | 2026-08-11 09:51 |
+| nan | Senior Cloud Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c11f470fecf7abb) | 2026-08-11 09:51 |
+| NYU Langone Health | Sr. Bioinformatics Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fce382916bf426ff) | 2026-08-11 09:51 |
+| VHB | Data Architect | Watertown, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=633c0381a949d70e) | 2026-08-11 09:51 |
 | ActioNet | Software Engineer IV – Web/Database Development | Vienna, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=283cba6a8ee893ac) | 2026-08-11 08:04 |
 | Roadrunner | Data Engineer | Downers Grove, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6fbe911be786d31a) | 2026-08-11 08:04 |
 | NTT DATA | Senior Java Quality Engineer - (FTE / Onsite) | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20393355c09a2ba6) | 2026-08-11 06:49 |
@@ -270,14 +274,6 @@ Last updated: 2026-08-11 08:04
 | Cognizant | Sr. Java Backend Engineer | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3df9db8529425cc9) | 2026-08-07 10:43 |
 | Cognizant | Sr. Java Backend Developer | Bentonville, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f9faee137e1dd64) | 2026-08-07 10:43 |
 | Avilamb | AI/ML Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d406fc8aace70fdf) | 2026-08-07 10:43 |
-| JPMorganChase | Software Engineer III Python Backend/ Pyspark/ Databricks | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=acb01818b8a1f0db) | 2026-08-07 09:51 |
-| JPMorganChase | Backend Python/Databricks Software Engineer III | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=765db6d7bf793609) | 2026-08-07 09:51 |
-| Thermo Fisher Scientific | Scientist III, Software Engineer, Upstream Process Development | Grand Island, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4198cfd74b483959) | 2026-08-07 09:51 |
-| EXL Service | Data Analytics Engineer | San Francisco, CA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=90241e81bace0969) | 2026-08-07 08:07 |
-| Ashra Technologies Pvt Ltd | Senior AI Engineer/Data Scientist | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b5a696b44fd5d4a9) | 2026-08-07 08:07 |
-| Hyundai AutoEver America | Senior Data Engineer (Python) | Irvine, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=92e9633068d7dbbc) | 2026-08-07 08:07 |
-| Adobe | Senior Site Reliability Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f0e16af2f20d1627) | 2026-08-07 08:07 |
-| Ashra Technology | Senior AI Engineer | Storden, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=82dfb61792cd2985) | 2026-08-07 08:07 |
 
 
 ---
