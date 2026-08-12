@@ -1,14 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-12 09:02
+Last updated: 2026-08-12 10:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 09:02 |
-| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 09:02 |
-| Ford Motor Company | Hardware Engineer, Design Concept Engineering | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d84adb926e0d21f) | 2026-08-12 09:02 |
+| Arctiq | Full Stack Application Developer | Blue Bell, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a46eecd61e11e052) | 2026-08-12 10:52 |
+| MarLabs | Databricks Resident Solution Architect | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=49b239f5e5b3b54a) | 2026-08-12 10:52 |
+| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 10:52 |
+| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 10:52 |
+| MarLabs | AWS Devops Cloud Engineer | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8aa86ffff6ee80c1) | 2026-08-12 10:52 |
+| Ford Motor Company | Hardware Engineer, Design Concept Engineering | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d84adb926e0d21f) | 2026-08-12 10:52 |
+| Arctiq | HashiCorp Technical Consultant | Blue Bell, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7fd373a29fef81c5) | 2026-08-12 10:52 |
+| Arctiq | Full Stack Application Developer | Blue Bell, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=764ac1af4e0e0689) | 2026-08-12 10:52 |
+| MarLabs | Security Automation Engineer (Python) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c059189127bc5cc1) | 2026-08-12 10:52 |
 | U.S. Bank | Data Solutions & Enablement Consultant | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=24e48e6726046f1b) | 2026-08-12 07:09 |
 | U.S. Bank | Data Solutions & Enablement Consultant | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=574c41fe8815d88b) | 2026-08-12 07:09 |
 | Merck | DevXOps Platform Engineer (Hybrid) | Rahway, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1e3f9585e32ad0f7) | 2026-08-12 07:09 |
@@ -356,7 +362,6 @@ Last updated: 2026-08-12 09:02
 | Devstringx Technologies | Full Stack Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1832c0accdf9751b) | 2026-08-08 15:20 |
 | Disney Experiences | Data Engineer | Orlando, FL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=2c2beecd9e43cf9c) | 2026-08-08 14:23 |
 | DEPARTMENT OF BUILDINGS | Senior Data Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71d49715069e7479) | 2026-08-08 14:23 |
-| Chewy | Database Engineer II | Plantation, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4fd6049b5c3fb13e) | 2026-08-08 09:28 |
 
 
 ---
