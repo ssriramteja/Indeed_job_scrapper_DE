@@ -1,13 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-12 14:15
+Last updated: 2026-08-12 15:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 14:15 |
-| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 14:15 |
+| Princess | Senior Engineer, ITSM AI Platform | Fort Lauderdale, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=eb29d8a4e4f304ec) | 2026-08-12 15:51 |
+| Coretek Services | Architect - Machine Learning and Data | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=beef2d77f930831c) | 2026-08-12 15:51 |
+| Saransh | Databricks Architect (Insurance Domain) - Remote | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=272dd0e98eb04f51) | 2026-08-12 15:51 |
+| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 15:51 |
+| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 15:51 |
 | SugarAI | Senior Data Engineer - Databricks | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd9f3319ba4d14a4) | 2026-08-12 14:15 |
 | Recruitics_CH Robinson_Sponsored Jobs_East_Maverick | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2389ccbb1e201011) | 2026-08-12 14:15 |
 | Recruitics_CH Robinson_Sponsored Jobs_East_Maverick | Software Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c02b5052ff31c41) | 2026-08-12 14:15 |
@@ -367,10 +370,6 @@ Last updated: 2026-08-12 14:15
 | Chicago Financial Search | Software Development Engineer in Test | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f469ade2831899c) | 2026-08-08 18:23 |
 | Globant | Java Developer / Architect | New York, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3f4670b855a27725) | 2026-08-08 16:21 |
 | LRx Healthcare | Senior Databricks Data Engineer – Sales Incentive Compensation (SIC) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f7cc2ef3ea91ac6c) | 2026-08-08 16:21 |
-| KT2i Inc | Data Architect – Snowflake / Cortex | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c78d1b05e07aa732) | 2026-08-08 15:20 |
-| Devstringx Technologies | Full Stack Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1832c0accdf9751b) | 2026-08-08 15:20 |
-| Disney Experiences | Data Engineer | Orlando, FL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=2c2beecd9e43cf9c) | 2026-08-08 14:23 |
-| DEPARTMENT OF BUILDINGS | Senior Data Architect | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=71d49715069e7479) | 2026-08-08 14:23 |
 
 
 ---
