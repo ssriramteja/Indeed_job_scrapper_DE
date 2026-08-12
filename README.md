@@ -1,13 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-12 20:34
+Last updated: 2026-08-12 21:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Wells Fargo | Senior Software Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d3f6901b12a822f6) | 2026-08-12 21:35 |
+| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b0ec255f7dfd4501) | 2026-08-12 21:35 |
+| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 21:35 |
+| Onyx Graphics, Inc. | Cloud Infrastructure and Integration Engineer | Midvale, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=057a25cf24127b26) | 2026-08-12 21:35 |
+| Dentsu | Data Engineer (Adobe Experience Platform) | MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=00b472336df73668) | 2026-08-12 21:35 |
+| Georgia System Operations Corporation | Full Stack Software Engineer III-V | Tucker, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=86f2c7120d093631) | 2026-08-12 21:35 |
+| AdventHealth Corporate | AI Engineer | Altamonte Springs, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0bf1a15fd8c75d64) | 2026-08-12 21:35 |
+| Wells Fargo | Senior Power BI & GCP Data Analytics Consultant (contract) | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=daf1ddd3f68c84f4) | 2026-08-12 21:35 |
+| Monks | Data Engineer - DataOps | Cupertino, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=159d4f00bd15e7e2) | 2026-08-12 21:35 |
+| nan | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73529fee08b033be) | 2026-08-12 21:35 |
+| CaseGuard | Software Engineer - Backend | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a7c9df2f7ea406e) | 2026-08-12 21:35 |
+| Jabil | Automation Engineer - IT & Business Systems | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4beacc21980366f0) | 2026-08-12 21:35 |
 | Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c56d5a16ae0740c3) | 2026-08-12 20:34 |
-| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 20:34 |
 | Databricks | Sr. Specialist Solutions Architect - Cloud Platform & Infrastructure (AWS) | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1a1024255b618280) | 2026-08-12 20:34 |
 | GCI | Software Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58ef90ed50c69d3c) | 2026-08-12 20:34 |
 | Inca Digital | Senior Data Engineer, Blockchain data and/or NLP pipelines | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=52d29d5c7804bac2) | 2026-08-12 19:56 |
