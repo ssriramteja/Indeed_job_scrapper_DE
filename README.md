@@ -1,17 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-12 17:51
+Last updated: 2026-08-12 18:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Senior Cloud Data Engineer - Remote | Eden Prairie, MN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=79d27925e100760a) | 2026-08-12 18:49 |
+| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 18:49 |
+| Verana Health | Senior Software Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03eec9ffa29dd1d8) | 2026-08-12 18:49 |
+| United States Cold Storage | DEVOPS CLOUD ENGINEER | Camden, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0629f04d1d0f4e56) | 2026-08-12 18:49 |
+| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 18:49 |
+| Constant Contact | Analytics Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=26b4a6b5b9f18e9c) | 2026-08-12 18:49 |
+| Constant Contact | Analytics Engineer | Waltham, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dea9ae7272713e5) | 2026-08-12 18:49 |
+| General Mills | Senior Machine Learning Engineer - Remote | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f5dbd615db9ede1) | 2026-08-12 18:49 |
 | Altak Group | ETL Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=80b6ef3996106ead) | 2026-08-12 17:51 |
 | BAE Systems USA | Software Engineering Intern III, Summer 2027 (Onsite) | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=589fe1b4025b2baa) | 2026-08-12 17:51 |
 | Foundation Software, Inc. | Senior Data Engineer | Strongsville, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2c3924b567192d0b) | 2026-08-12 17:51 |
-| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 17:51 |
 | CCC Intelligent Solutions | Data Science Engineer Internship | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=880b15bbe3e3a364) | 2026-08-12 17:51 |
-| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 17:51 |
 | NSD International | Data Engineer at a Major Japanese Bank 991394 | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92dca2a30071c058) | 2026-08-12 17:51 |
 | MFS Investment Management | Business Systems Sr. Analyst | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bffe2beaec8e627c) | 2026-08-12 17:51 |
 | Availity, LLC. | Cloud Engineer IV | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e2be9e1025f050f1) | 2026-08-12 17:51 |
@@ -378,7 +384,6 @@ Last updated: 2026-08-12 17:51
 | Deloitte | Google AI Architect | Sacramento, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2afcd1af85717687) | 2026-08-09 03:01 |
 | Deloitte | Google AI Architect | Stamford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d70bcefc31856e94) | 2026-08-09 03:01 |
 | UT Health Science Center at San Antonio | Clinical Business Intelligence Analyst (EPIC)-Sr | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b9d27014bac5bbd) | 2026-08-08 22:18 |
-| Chicago Financial Search | Software Development Engineer in Test | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f469ade2831899c) | 2026-08-08 18:23 |
 
 
 ---
