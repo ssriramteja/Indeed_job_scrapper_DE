@@ -1,16 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-12 12:45
+Last updated: 2026-08-12 14:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 12:45 |
+| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 14:15 |
+| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 14:15 |
+| SugarAI | Senior Data Engineer - Databricks | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd9f3319ba4d14a4) | 2026-08-12 14:15 |
+| Recruitics_CH Robinson_Sponsored Jobs_East_Maverick | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2389ccbb1e201011) | 2026-08-12 14:15 |
+| Recruitics_CH Robinson_Sponsored Jobs_East_Maverick | Software Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c02b5052ff31c41) | 2026-08-12 14:15 |
+| CVS Health | Senior Software Development Engineer | WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a0eb111e86cb26d) | 2026-08-12 14:15 |
 | Capgemini | AWS Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e306f479953cae8a) | 2026-08-12 12:45 |
-| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 12:45 |
 | Capgemini | Senior Full Stack Developer (Java, React, AWS) | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=de9a8d3217f1fd88) | 2026-08-12 12:45 |
-| Ford Motor Company | Hardware Engineer, Design Concept Engineering | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d84adb926e0d21f) | 2026-08-12 12:45 |
 | Capgemini | Snowflake AI Data Engineer | Bridgewater, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b792b16b24b1850f) | 2026-08-12 12:45 |
 | Capgemini | AWS Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7d33dd298324329e) | 2026-08-12 11:40 |
 | Capgemini | Senior Full Stack Developer (Java, React, AWS) | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03e1e849982bafdc) | 2026-08-12 11:40 |
