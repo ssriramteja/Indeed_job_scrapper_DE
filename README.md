@@ -1,17 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-12 10:52
+Last updated: 2026-08-12 11:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 11:40 |
+| Capgemini | AWS Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7d33dd298324329e) | 2026-08-12 11:40 |
+| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 11:40 |
+| Capgemini | Senior Full Stack Developer (Java, React, AWS) | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03e1e849982bafdc) | 2026-08-12 11:40 |
+| Ford Motor Company | Hardware Engineer, Design Concept Engineering | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d84adb926e0d21f) | 2026-08-12 11:40 |
+| Capgemini | Snowflake AI Data Engineer | Bridgewater, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4dbc3396b3e9d4d) | 2026-08-12 11:40 |
 | Arctiq | Full Stack Application Developer | Blue Bell, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a46eecd61e11e052) | 2026-08-12 10:52 |
 | MarLabs | Databricks Resident Solution Architect | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=49b239f5e5b3b54a) | 2026-08-12 10:52 |
-| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 10:52 |
-| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 10:52 |
 | MarLabs | AWS Devops Cloud Engineer | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8aa86ffff6ee80c1) | 2026-08-12 10:52 |
-| Ford Motor Company | Hardware Engineer, Design Concept Engineering | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d84adb926e0d21f) | 2026-08-12 10:52 |
 | Arctiq | HashiCorp Technical Consultant | Blue Bell, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7fd373a29fef81c5) | 2026-08-12 10:52 |
 | Arctiq | Full Stack Application Developer | Blue Bell, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=764ac1af4e0e0689) | 2026-08-12 10:52 |
 | MarLabs | Security Automation Engineer (Python) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c059189127bc5cc1) | 2026-08-12 10:52 |
