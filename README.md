@@ -1,17 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-12 03:56
+Last updated: 2026-08-12 05:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| IDEXX Laboratories | Data Engineer II, AWS Data Platform | Westbrook, ME, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=12fffd8f7fd4e890) | 2026-08-12 05:24 |
+| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 05:24 |
+| LTM Limited | Senior Specialist - Quality Engineering | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50a578c93e384c2c) | 2026-08-12 05:24 |
+| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 05:24 |
+| Keeper Security, Inc. | Senior Infrastructure Test Engineer, DevOps | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4cc739f28a9dbd6c) | 2026-08-12 05:24 |
 | Kentro | ETL Developer | Remote, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=f93bd43dc6dfa898) | 2026-08-12 03:56 |
 | MATERIAL | Technical Architect | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1e88a49966e5674a) | 2026-08-12 03:56 |
 | Wells Fargo | Senior AI Data Engineer (contract) | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d0871e37a530ef61) | 2026-08-12 03:56 |
 | Wells Fargo | Senior AI Data Engineer (contract) | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f64f4865300918b5) | 2026-08-12 03:56 |
 | PDS Health | Engineer I, Business Analytics and Data Intelligence | Irvine, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=54ac8ecc98fde46e) | 2026-08-12 03:56 |
-| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 03:56 |
 | Harvard University | Senior DevOps Engineer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f85b210775ce96fe) | 2026-08-12 03:56 |
 | Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | San Antonio, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4ff5e6c5e0c4cb98) | 2026-08-12 03:56 |
 | Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1f37f98ae92022cc) | 2026-08-12 03:56 |
@@ -64,7 +68,6 @@ Last updated: 2026-08-12 03:56
 | Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Baltimore, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2f853f747d68926b) | 2026-08-12 03:56 |
 | Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=da9dd345f23902fb) | 2026-08-12 03:56 |
 | Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Colorado Springs, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3dfe56f5a56c3183) | 2026-08-12 03:56 |
-| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 03:56 |
 | LEADER BANK | Senior Full Stack Developer | Arlington, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9e1ce2b5bd665f69) | 2026-08-12 03:56 |
 | MeridianLink | Senior Site Reliability Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=14de76ec36c970e2) | 2026-08-12 03:56 |
 | MeridianLink | Senior Site Reliability Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=73013c1070709d4c) | 2026-08-12 03:56 |
@@ -356,12 +359,6 @@ Last updated: 2026-08-12 03:56
 | Textron Aviation | Data Scientist Specialist - Customer Service | Wichita, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56f0af585b8a5603) | 2026-08-08 05:36 |
 | CVS Health | Software Development Engineer | WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=14f52354092168da) | 2026-08-08 05:36 |
 | VeeRteq Solutions Inc. | Healthcare Imaging Solution Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f78d5eab13424d0) | 2026-08-08 05:36 |
-| Fractal Analytics | Data Engg with DQ Exp | CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ffacc870aec02e8d) | 2026-08-08 04:05 |
-| VizyPay | AI Engineer | Waukee, IA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ecaed8b17bc14581) | 2026-08-08 04:05 |
-| Citi | Senior Generative AI Developer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=57ffffef4925474d) | 2026-08-08 04:05 |
-| Global Payments | Data Engineer | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a66a7736b0c53983) | 2026-08-08 04:05 |
-| nan | Data Engineer | Irvington, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c8c2482782a25de3) | 2026-08-08 04:05 |
-| Deloitte | Palantir Foundry Data Engineer | Rosslyn, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1f64b06c3394e5b) | 2026-08-08 04:05 |
 
 
 ---
