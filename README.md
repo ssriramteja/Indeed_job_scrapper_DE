@@ -1,12 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-12 22:30
+Last updated: 2026-08-12 23:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 22:30 |
+| VizyPay | Sr Infrastructure & Security Engineer | Waukee, IA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4d784aed378affa9) | 2026-08-12 23:31 |
+| retail services & systems | Sr. Data Engineer | Bethesda, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4b9f2fec8662b4d8) | 2026-08-12 23:31 |
+| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 23:31 |
+| Epiq | Software Engineer, Infrastructure | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85217024f115b96c) | 2026-08-12 23:31 |
+| Primoris Services Corporation | Data Engineer - Business Analytics | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8abaf1ca57f1a8ac) | 2026-08-12 23:31 |
+| Mariner Wealth Advisors | Analytics Engineer II | Overland Park, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ceffe4425570abe) | 2026-08-12 23:31 |
+| MedeAnalytics | Senior Business Analyst | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ffa1810d5da5d3d) | 2026-08-12 23:31 |
+| Seneca Holdings, LLC | Senior Data Scientist | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d17896f3d07e4e12) | 2026-08-12 23:31 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-12 23:31 |
 | hallmark health care solutions | AI Software Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=97f17c7cef298683) | 2026-08-12 22:30 |
 | Trane Technologies | Data Engineer | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd0ca6fcf446a943) | 2026-08-12 22:30 |
 | AstraZeneca | Senior Forward Deployment Engineer - Cheminformatics & AI Modelling | Cambridge, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c6c82553f05afcde) | 2026-08-12 22:30 |
