@@ -1,13 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-11 23:30
+Last updated: 2026-08-12 01:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-12 01:07 |
+| nan | Senior DevOps Engineer | Cincinnati, OH, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=4a320d4298f99f4b) | 2026-08-12 01:07 |
+| BV Teck | React Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=772c80d310735c00) | 2026-08-12 01:07 |
+| BV Teck | Angular Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=40a492248634dc4f) | 2026-08-12 01:07 |
+| BV Teck | Rust Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=75eb200c811d29e0) | 2026-08-12 01:07 |
+| BV Teck | Oracle PL/SQL Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9ab6a03decb396a1) | 2026-08-12 01:07 |
+| Blue Acorn iCi | Enterprise Architect (San Jose, CA) | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=295cd334b55e1ae2) | 2026-08-12 01:07 |
+| CoStar Group | LoopNet - Software Engineer II | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc63a70e65497f5d) | 2026-08-12 01:07 |
+| WhiteWater Express Car Wash | Senior Data Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a1d6bd8fc3f8a77f) | 2026-08-12 01:07 |
+| FIS | AAI Data Engineer – Enterprise Platform | Jacksonville, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ced02bbe46facd3c) | 2026-08-12 01:07 |
+| JPMorganChase | Software Engineer III - Big Data & AWS | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91304e0e40d6d369) | 2026-08-12 01:07 |
+| White & Case | Senior Engineer, Applications Systems | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c6f514e1c4749378) | 2026-08-12 01:07 |
+| BV Teck | Blockchain Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=938ccfc06579b5ff) | 2026-08-12 01:07 |
+| American Express | Senior Software Engineer - Global Dining | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11a12a066e1d267b) | 2026-08-12 01:07 |
+| Foxconn Industrial Internet - FII | Business Systems Analyst | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d8d252c8ba7e84e) | 2026-08-12 01:07 |
+| BV Teck | Senior Java Full Stack Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e65800e07d6979c) | 2026-08-12 01:07 |
+| BV Teck | Data Platform Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d58ecae6d6b2220) | 2026-08-12 01:07 |
+| Teladoc Health | Data Scientist III | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14b6367d34339931) | 2026-08-12 01:07 |
 | Healthfirst | Sr Data Engineer | Remote, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=f7642aa199d34181) | 2026-08-11 23:30 |
-| Ford Motor Company | Senior Data Engineer, Integrated Services Data Warehouse (ISDW) | Dearborn, MI, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=bddd78ed591d456c) | 2026-08-11 23:30 |
 | LPL Financial | Summer Intern 2027 - Data | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5ac3317abd73d3aa) | 2026-08-11 23:30 |
 | Striim | Partner Solutions Architect | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bc9ea64b3e0c74c1) | 2026-08-11 23:30 |
 | Striim | Partner Solutions Architect | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=41afaba58e1c4224) | 2026-08-11 23:30 |
