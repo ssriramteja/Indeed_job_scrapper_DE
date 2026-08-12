@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-12 21:35
+Last updated: 2026-08-12 22:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 22:30 |
+| hallmark health care solutions | AI Software Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=97f17c7cef298683) | 2026-08-12 22:30 |
+| Trane Technologies | Data Engineer | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd0ca6fcf446a943) | 2026-08-12 22:30 |
+| AstraZeneca | Senior Forward Deployment Engineer - Cheminformatics & AI Modelling | Cambridge, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c6c82553f05afcde) | 2026-08-12 22:30 |
 | Wells Fargo | Senior Software Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d3f6901b12a822f6) | 2026-08-12 21:35 |
 | Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b0ec255f7dfd4501) | 2026-08-12 21:35 |
-| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 21:35 |
 | Onyx Graphics, Inc. | Cloud Infrastructure and Integration Engineer | Midvale, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=057a25cf24127b26) | 2026-08-12 21:35 |
 | Dentsu | Data Engineer (Adobe Experience Platform) | MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=00b472336df73668) | 2026-08-12 21:35 |
 | Georgia System Operations Corporation | Full Stack Software Engineer III-V | Tucker, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=86f2c7120d093631) | 2026-08-12 21:35 |
@@ -406,7 +409,6 @@ Last updated: 2026-08-12 21:35
 | Deloitte | Google AI Architect | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6465cd205cfd827e) | 2026-08-09 03:01 |
 | Deloitte | Google AI Architect | Sacramento, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2afcd1af85717687) | 2026-08-09 03:01 |
 | Deloitte | Google AI Architect | Stamford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d70bcefc31856e94) | 2026-08-09 03:01 |
-| UT Health Science Center at San Antonio | Clinical Business Intelligence Analyst (EPIC)-Sr | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b9d27014bac5bbd) | 2026-08-08 22:18 |
 
 
 ---
