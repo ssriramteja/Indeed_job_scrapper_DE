@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-12 07:09
+Last updated: 2026-08-12 09:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 07:09 |
+| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 09:02 |
+| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 09:02 |
+| Ford Motor Company | Hardware Engineer, Design Concept Engineering | Palo Alto, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d84adb926e0d21f) | 2026-08-12 09:02 |
 | U.S. Bank | Data Solutions & Enablement Consultant | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=24e48e6726046f1b) | 2026-08-12 07:09 |
 | U.S. Bank | Data Solutions & Enablement Consultant | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=574c41fe8815d88b) | 2026-08-12 07:09 |
-| Ford Motor Company | Senior AI Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 07:09 |
 | Merck | DevXOps Platform Engineer (Hybrid) | Rahway, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1e3f9585e32ad0f7) | 2026-08-12 07:09 |
 | JPMorganChase | Senior Associate, Data Scientist - PXT Analytics | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ef867fd6329cd1e) | 2026-08-12 07:09 |
 | IDEXX Laboratories | Data Engineer II, AWS Data Platform | Westbrook, ME, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=12fffd8f7fd4e890) | 2026-08-12 05:24 |
