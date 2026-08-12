@@ -1,18 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-12 19:56
+Last updated: 2026-08-12 20:34
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c56d5a16ae0740c3) | 2026-08-12 20:34 |
+| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 20:34 |
+| Databricks | Sr. Specialist Solutions Architect - Cloud Platform & Infrastructure (AWS) | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1a1024255b618280) | 2026-08-12 20:34 |
+| GCI | Software Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58ef90ed50c69d3c) | 2026-08-12 20:34 |
 | Inca Digital | Senior Data Engineer, Blockchain data and/or NLP pipelines | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=52d29d5c7804bac2) | 2026-08-12 19:56 |
 | Optum | Senior Cloud Data Engineer - Remote | Eden Prairie, MN, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=363583288a17b581) | 2026-08-12 19:56 |
 | Optum | Senior Cloud Data Engineer - Remote | Eden Prairie, MN, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=f6ed17078e339db4) | 2026-08-12 19:56 |
 | Capgemini | Java Architect | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bd64d36fc06c8909) | 2026-08-12 19:56 |
 | ICON plc | Cloud Engineer II | Raleigh, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=77e55c51c6e20bd9) | 2026-08-12 19:56 |
 | Capgemini | Platform Engineer VI - Data Services | St. Louis, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bf6b0df3c9e5bfc9) | 2026-08-12 19:56 |
-| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 19:56 |
 | Confiz | Full Stack Engineer – POS | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=693233f5a1305c78) | 2026-08-12 19:56 |
 | Corning | IT Manufacturing Data Solutions Engineer | Newton, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4258cff9137c8987) | 2026-08-12 19:56 |
 | Capgemini | Data Scientist - Data Platforms - I&D | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61fbca34991c8dbc) | 2026-08-12 19:56 |
