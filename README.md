@@ -1,19 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-13 16:45
+Last updated: 2026-08-13 17:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 84.51° | Senior Data Engineer (P1129) | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=33cf369e908a784a) | 2026-08-13 17:51 |
+| 84.51° | Senior Data Engineer (P1129) | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d09728235ba261a5) | 2026-08-13 17:51 |
+| Digital Charter, Inc | Cloud Systems Engineer, AWS GovCloud (Enterprise Data Platform) | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a5003b760f05a154) | 2026-08-13 17:51 |
+| Global Software Resources | Operations Data Analyst, Senior | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b3d19226a909d91) | 2026-08-13 17:51 |
+| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 17:51 |
+| Sanford AI | Senior Enterprise IT Architect | Hoffman Estates, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c40501d50b474102) | 2026-08-13 17:51 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 17:51 |
+| CVS Health | Software Development Engineer | Scottsdale, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1837fbface65052) | 2026-08-13 17:51 |
 | NYC IT Inc | Senior Backend Software Engineer / Consultant | New York, NY, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=d0f645d8abdaa23a) | 2026-08-13 16:45 |
 | Kareem Networks LLC | Databricks Platform Engineer | Springfield, VA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=fb25195e23a0279c) | 2026-08-13 16:45 |
 | Rubicon | Data Engineer | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dd8c87d751e23a78) | 2026-08-13 16:45 |
 | Optum | Senior Software Engineer | Eden Prairie, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8850eb9992fec828) | 2026-08-13 16:45 |
 | Curriculum Associates | Senior DevOps Engineer | MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5ba3cd5dfb638d55) | 2026-08-13 16:45 |
-| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 16:45 |
 | EVERSANA | Sr. AI Developer, Engineering | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cbfe4e303f1e228c) | 2026-08-13 16:45 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 16:45 |
 | REGENT BANK | Senior Platform/DevOps Engineer | Tulsa, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f317283fcb9662c) | 2026-08-13 16:45 |
 | Contemporary Amperex Technology Kentucky LLC | Manufacturing Data Engineer | Glendale, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=637ea04290ca4e38) | 2026-08-13 15:51 |
 | Monogram Health | Azure Platform Senior Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bd9cef29d42fb9a) | 2026-08-13 15:51 |
