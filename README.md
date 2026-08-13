@@ -1,15 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-13 09:53
+Last updated: 2026-08-13 10:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 10:53 |
+| Fanisko | Oracle ERP Data Expert | San Francisco Bay Area, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be507a87bcb355e0) | 2026-08-13 10:53 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 10:53 |
+| Artiva Biotherapeutics | Bio-Data Engineer II (Part-Time/Temporary) | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d431fee9a86d9b4) | 2026-08-13 10:53 |
+| Sargent & Lundy | Infrastructure & Cloud Systems Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e4b1a61008e4755) | 2026-08-13 10:53 |
+| REI Systems | DevOps Engineer | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=277aa9aed0774afa) | 2026-08-13 10:53 |
 | Texas Instruments | IT Site Reliability Engineer — API Management Platforms | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0495992e379947c7) | 2026-08-13 09:53 |
 | FordDirect | Full Stack Software Engineer | MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c77dc17406431b44) | 2026-08-13 09:53 |
-| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 09:53 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 09:53 |
 | KBR | Senior AWS DevOps Engineer | Sioux Falls, SD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bc41952394e7bd9a) | 2026-08-13 08:12 |
 | Ensign Services | Associate AWS Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=897a9552866b00fd) | 2026-08-13 08:12 |
 | New York Life | Senior Associate - Quality Engineer, AI & Automation | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf417995b86a8947) | 2026-08-13 08:12 |
