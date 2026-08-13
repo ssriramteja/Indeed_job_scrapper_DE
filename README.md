@@ -1,20 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-12 23:31
+Last updated: 2026-08-13 01:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TELEWORLD SOLUTIONS INC | Machine Learning Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=79151862d72c4127) | 2026-08-13 01:09 |
+| Cranial Technologies | Site Reliability Software Engineer (Hybrid) | Tempe, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fb450ac5eb4304ae) | 2026-08-13 01:09 |
+| Infoorigin Inc | Data Architect - Contract - Remote | OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2c9924556265e3c9) | 2026-08-13 01:09 |
+| NTT DATA | Pega PRPC Administrator | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1cbeae0705aa36a7) | 2026-08-13 01:09 |
+| Innovya Technologies | Senior Oracle PL/SQL Developer | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fadcf53dc0861d6d) | 2026-08-13 01:09 |
+| NTT DATA | DevOps Engineer - Plano, TX | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cbaf529eb38d0229) | 2026-08-13 01:09 |
+| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-13 01:09 |
+| Verizon | Engineer II - AI/ML Engineering | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fe877c82bf3765bf) | 2026-08-13 01:09 |
+| American Express | Senior Associate - Technology Operations Engineering | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dbcbeb3d55a273f2) | 2026-08-13 01:09 |
+| CoStar Group | LoopNet - Senior Software Engineer | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=be7770b8e6473c4a) | 2026-08-13 01:09 |
+| BMC Software | Senior Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=077f2ff2bedb0647) | 2026-08-13 01:09 |
+| CarParts.com | Sr. Full Stack Engineer - AI Forward | Long Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a64052bb51ee98f7) | 2026-08-13 01:09 |
+| Adobe | Senior Software Development Engineer 5 | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98f20089a25d422a) | 2026-08-13 01:09 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 01:09 |
+| nan | Senior DevOps Platform Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=316dfc218c18008e) | 2026-08-13 01:09 |
 | VizyPay | Sr Infrastructure & Security Engineer | Waukee, IA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4d784aed378affa9) | 2026-08-12 23:31 |
 | retail services & systems | Sr. Data Engineer | Bethesda, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4b9f2fec8662b4d8) | 2026-08-12 23:31 |
-| Ford Motor Company | Senior Site Reliability Engineer | Palo Alto, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9002ba35285ed13) | 2026-08-12 23:31 |
 | Epiq | Software Engineer, Infrastructure | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85217024f115b96c) | 2026-08-12 23:31 |
 | Primoris Services Corporation | Data Engineer - Business Analytics | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8abaf1ca57f1a8ac) | 2026-08-12 23:31 |
 | Mariner Wealth Advisors | Analytics Engineer II | Overland Park, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ceffe4425570abe) | 2026-08-12 23:31 |
 | MedeAnalytics | Senior Business Analyst | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ffa1810d5da5d3d) | 2026-08-12 23:31 |
 | Seneca Holdings, LLC | Senior Data Scientist | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d17896f3d07e4e12) | 2026-08-12 23:31 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-12 23:31 |
 | hallmark health care solutions | AI Software Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=97f17c7cef298683) | 2026-08-12 22:30 |
 | Trane Technologies | Data Engineer | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd0ca6fcf446a943) | 2026-08-12 22:30 |
 | AstraZeneca | Senior Forward Deployment Engineer - Cheminformatics & AI Modelling | Cambridge, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c6c82553f05afcde) | 2026-08-12 22:30 |
