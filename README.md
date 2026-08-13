@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-13 10:53
+Last updated: 2026-08-13 11:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 10:53 |
+| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 11:40 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 11:40 |
 | Fanisko | Oracle ERP Data Expert | San Francisco Bay Area, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be507a87bcb355e0) | 2026-08-13 10:53 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 10:53 |
 | Artiva Biotherapeutics | Bio-Data Engineer II (Part-Time/Temporary) | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d431fee9a86d9b4) | 2026-08-13 10:53 |
 | Sargent & Lundy | Infrastructure & Cloud Systems Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e4b1a61008e4755) | 2026-08-13 10:53 |
 | REI Systems | DevOps Engineer | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=277aa9aed0774afa) | 2026-08-13 10:53 |
