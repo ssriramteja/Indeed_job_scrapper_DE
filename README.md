@@ -1,14 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-13 06:10
+Last updated: 2026-08-13 08:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| KBR | Senior AWS DevOps Engineer | Sioux Falls, SD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bc41952394e7bd9a) | 2026-08-13 08:12 |
+| Ensign Services | Associate AWS Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=897a9552866b00fd) | 2026-08-13 08:12 |
+| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 08:12 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 08:12 |
+| New York Life | Senior Associate - Quality Engineer, AI & Automation | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf417995b86a8947) | 2026-08-13 08:12 |
 | JPMorganChase | Software Engineer III | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=01b861154fd37cbd) | 2026-08-13 06:10 |
 | Resmed | Associate Software Engineer | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a8a363a45eab6297) | 2026-08-13 06:10 |
-| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 06:10 |
 | U.S. Bank | Software Engineer 2 (Backend AI) | Earth City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f97f550868ed4a0) | 2026-08-13 06:10 |
 | U.S. Bank | Software Engineer 2 (Backend AI) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=539b15f3acf3e59d) | 2026-08-13 06:10 |
 | U.S. Bank | Software Engineer 2 (Backend AI) | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0f6cc9573c1dfe07) | 2026-08-13 06:10 |
@@ -19,7 +23,6 @@ Last updated: 2026-08-13 06:10
 | U.S. Bank | Software Engineer 2 (AI/GenAI) | Brookfield, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6721a62ef6659e3) | 2026-08-13 06:10 |
 | U.S. Bank | Software Engineer 2 (AI/GenAI) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85db08255bd1c95b) | 2026-08-13 06:10 |
 | U.S. Bank | Software Engineer 2 (AI/GenAI) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cbe2ba9e399ffb43) | 2026-08-13 06:10 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 06:10 |
 | Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=1d4bf5dedcf41447) | 2026-08-13 04:01 |
 | Caterpillar | Software Engineer | Chicago, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=673be08859dddab2) | 2026-08-13 04:01 |
 | nan | Data Engineer (USI8) | Augusta, KS, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9074f3b618d5628b) | 2026-08-13 04:01 |
