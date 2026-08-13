@@ -1,15 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-13 08:12
+Last updated: 2026-08-13 09:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Texas Instruments | IT Site Reliability Engineer — API Management Platforms | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0495992e379947c7) | 2026-08-13 09:53 |
+| FordDirect | Full Stack Software Engineer | MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c77dc17406431b44) | 2026-08-13 09:53 |
+| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 09:53 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 09:53 |
 | KBR | Senior AWS DevOps Engineer | Sioux Falls, SD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bc41952394e7bd9a) | 2026-08-13 08:12 |
 | Ensign Services | Associate AWS Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=897a9552866b00fd) | 2026-08-13 08:12 |
-| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 08:12 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 08:12 |
 | New York Life | Senior Associate - Quality Engineer, AI & Automation | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf417995b86a8947) | 2026-08-13 08:12 |
 | JPMorganChase | Software Engineer III | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=01b861154fd37cbd) | 2026-08-13 06:10 |
 | Resmed | Associate Software Engineer | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a8a363a45eab6297) | 2026-08-13 06:10 |
