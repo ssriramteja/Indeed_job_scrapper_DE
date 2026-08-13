@@ -1,15 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-13 14:16
+Last updated: 2026-08-13 15:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Contemporary Amperex Technology Kentucky LLC | Manufacturing Data Engineer | Glendale, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=637ea04290ca4e38) | 2026-08-13 15:51 |
+| Monogram Health | Azure Platform Senior Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bd9cef29d42fb9a) | 2026-08-13 15:51 |
+| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 15:51 |
+| canyon associates | Senior Data Engineer | Princeton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8092057b1ca46619) | 2026-08-13 15:51 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 15:51 |
+| DemandTec | Senior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=17cbeaef218d3c02) | 2026-08-13 15:51 |
+| TetraScience | Senior Software Engineer, Agents | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57978aa7703f5b96) | 2026-08-13 15:51 |
 | Voya Financial | Senior Data Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd06fa161917227f) | 2026-08-13 14:16 |
-| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 14:16 |
 | Digital Turbine | Senior Infrastructure Engineer | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d23d068c37ba617c) | 2026-08-13 14:16 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 14:16 |
 | Fanisko | Oracle ERP Data Expert | San Francisco Bay Area, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be507a87bcb355e0) | 2026-08-13 10:53 |
 | Artiva Biotherapeutics | Bio-Data Engineer II (Part-Time/Temporary) | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d431fee9a86d9b4) | 2026-08-13 10:53 |
 | Sargent & Lundy | Infrastructure & Cloud Systems Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e4b1a61008e4755) | 2026-08-13 10:53 |
@@ -432,7 +437,6 @@ Last updated: 2026-08-13 14:16
 | Newpage Digital Healthcare solutions | AI Native BUilder - Bangladesh | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f2cb68ac3850d624) | 2026-08-10 10:58 |
 | Thales | Site Reliability Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fe7b94fd9c87316) | 2026-08-10 05:16 |
 | RiPSIM Technologies, Inc. | Senior Software Engineer | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4fed38dc2178d9) | 2026-08-10 05:16 |
-| VBEST Software Inc | Data Engineer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=539879c923ff55f6) | 2026-08-09 15:21 |
 
 
 ---
