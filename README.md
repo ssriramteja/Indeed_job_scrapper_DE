@@ -1,12 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-13 22:32
+Last updated: 2026-08-13 23:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 22:32 |
+| Hudson Manpower | Data Engineer | New York, NY, US USA | 39.6% | [Apply](https://www.indeed.com/viewjob?jk=22e1c75da6c86a08) | 2026-08-13 23:32 |
+| Hudson Manpower | Data Engineer | Dallas, TX, US USA | 39.6% | [Apply](https://www.indeed.com/viewjob?jk=5b609663c97ff4ea) | 2026-08-13 23:32 |
+| Hudson Manpower | Data Engineer | Phoenix, AZ, US USA | 39.6% | [Apply](https://www.indeed.com/viewjob?jk=debc4a58840e5d41) | 2026-08-13 23:32 |
+| Fiserv | Technical Professional Services - Advisor II | Raleigh, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8becd2d40d784014) | 2026-08-13 23:32 |
+| NTT DATA | Senior Platform DevOps Engineer - Remote Role | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eacbf94ea1aa6fd6) | 2026-08-13 23:32 |
+| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 23:32 |
+| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-13 23:32 |
+| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9be2d602c235891d) | 2026-08-13 23:32 |
+| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Portsmouth, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6429f8729c0a9306) | 2026-08-13 23:32 |
+| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1b34acc253d2a1d) | 2026-08-13 23:32 |
+| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b276360506ded44) | 2026-08-13 23:32 |
+| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12796f848780aef1) | 2026-08-13 23:32 |
+| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6c4d457fcf1529e3) | 2026-08-13 23:32 |
+| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3cfcab630d6d10a1) | 2026-08-13 23:32 |
+| Cwill | DevOps/SRE Engineer - cA - Mandarin Speaking | City of Industry, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5919e028a697b8a0) | 2026-08-13 23:32 |
 | Arkatechture | Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99414150eb0b8769) | 2026-08-13 22:32 |
 | Reveal Global Consulting | Senior Data Engineer | Fulton, MD, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=dc805c7e2795f2f1) | 2026-08-13 21:35 |
 | JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=64ed424e034b1128) | 2026-08-13 21:35 |
