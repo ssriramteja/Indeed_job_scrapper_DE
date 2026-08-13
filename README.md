@@ -1,18 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-13 17:51
+Last updated: 2026-08-13 18:50
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Verizon | Data Security Engineer, Exposure and Vulnerability Management | Alpharetta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4a24f6408369310a) | 2026-08-13 18:50 |
+| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 18:50 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 18:50 |
 | 84.51° | Senior Data Engineer (P1129) | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=33cf369e908a784a) | 2026-08-13 17:51 |
 | 84.51° | Senior Data Engineer (P1129) | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d09728235ba261a5) | 2026-08-13 17:51 |
 | Digital Charter, Inc | Cloud Systems Engineer, AWS GovCloud (Enterprise Data Platform) | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a5003b760f05a154) | 2026-08-13 17:51 |
 | Global Software Resources | Operations Data Analyst, Senior | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b3d19226a909d91) | 2026-08-13 17:51 |
-| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 17:51 |
 | Sanford AI | Senior Enterprise IT Architect | Hoffman Estates, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c40501d50b474102) | 2026-08-13 17:51 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 17:51 |
 | CVS Health | Software Development Engineer | Scottsdale, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1837fbface65052) | 2026-08-13 17:51 |
 | NYC IT Inc | Senior Backend Software Engineer / Consultant | New York, NY, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=d0f645d8abdaa23a) | 2026-08-13 16:45 |
 | Kareem Networks LLC | Databricks Platform Engineer | Springfield, VA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=fb25195e23a0279c) | 2026-08-13 16:45 |
