@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-13 04:01
+Last updated: 2026-08-13 06:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=01b861154fd37cbd) | 2026-08-13 06:10 |
+| Resmed | Associate Software Engineer | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a8a363a45eab6297) | 2026-08-13 06:10 |
+| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 06:10 |
+| U.S. Bank | Software Engineer 2 (Backend AI) | Earth City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f97f550868ed4a0) | 2026-08-13 06:10 |
+| U.S. Bank | Software Engineer 2 (Backend AI) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=539b15f3acf3e59d) | 2026-08-13 06:10 |
+| U.S. Bank | Software Engineer 2 (Backend AI) | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0f6cc9573c1dfe07) | 2026-08-13 06:10 |
+| U.S. Bank | Software Engineer 2 (AI/GenAI) | Earth City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb32f6f568871573) | 2026-08-13 06:10 |
+| U.S. Bank | Software Engineer 2 (AI/GenAI) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6885db6408659217) | 2026-08-13 06:10 |
+| U.S. Bank | Software Engineer 2 (AI/GenAI) | Hopkins, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=31a066f7c7018f73) | 2026-08-13 06:10 |
+| U.S. Bank | Software Engineer 2 (AI/GenAI) | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d1863e21d6269820) | 2026-08-13 06:10 |
+| U.S. Bank | Software Engineer 2 (AI/GenAI) | Brookfield, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6721a62ef6659e3) | 2026-08-13 06:10 |
+| U.S. Bank | Software Engineer 2 (AI/GenAI) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85db08255bd1c95b) | 2026-08-13 06:10 |
+| U.S. Bank | Software Engineer 2 (AI/GenAI) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cbe2ba9e399ffb43) | 2026-08-13 06:10 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 06:10 |
 | Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=1d4bf5dedcf41447) | 2026-08-13 04:01 |
 | Caterpillar | Software Engineer | Chicago, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=673be08859dddab2) | 2026-08-13 04:01 |
 | nan | Data Engineer (USI8) | Augusta, KS, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9074f3b618d5628b) | 2026-08-13 04:01 |
@@ -18,13 +32,11 @@ Last updated: 2026-08-13 04:01
 | LEADER BANK | Business Intelligence Engineer | Arlington, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4b9c5bfb77638de8) | 2026-08-13 04:01 |
 | Humana | Senior Software Engineer | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1142c8a0dc63e958) | 2026-08-13 04:01 |
 | CSpring | Senior Data Engineer (ETL / Python Developer) | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cb91c37b076d355f) | 2026-08-13 04:01 |
-| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 04:01 |
 | Hollstadt Consulting | Senior Data Engineer | MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d7aafa933dd9ce1) | 2026-08-13 04:01 |
 | HEB | Sr Software Engineer (Site Reliability) Austin or Dallas, TX | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78e458c132c387b3) | 2026-08-13 04:01 |
 | Proofpoint | Senior Full Stack Software Engineer, Threat Intelligence Services | AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66c8b9c11f3d882f) | 2026-08-13 04:01 |
 | RockWallet | Data Science & Machine Learning Intern | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ce12f322d42133b) | 2026-08-13 04:01 |
 | Penske Truck Leasing | QA Test Engineer - Digital Products | Reading, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d8d0dc537de6d884) | 2026-08-13 04:01 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 04:01 |
 | Protera Health | Senior Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4eae24a52542621) | 2026-08-13 04:01 |
 | Medallia | Senior Site Reliability Engineer, GovCloud | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cc5f12797f9848e1) | 2026-08-13 04:01 |
 | Deloitte | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c90824e3bd008138) | 2026-08-13 04:01 |
@@ -410,7 +422,6 @@ Last updated: 2026-08-13 04:01
 | Thales | Site Reliability Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fe7b94fd9c87316) | 2026-08-10 05:16 |
 | RiPSIM Technologies, Inc. | Senior Software Engineer | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4fed38dc2178d9) | 2026-08-10 05:16 |
 | VBEST Software Inc | Data Engineer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=539879c923ff55f6) | 2026-08-09 15:21 |
-| JPMorganChase | Software Engineer II: Data Engineer | Jersey City, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b8ff2428319ab1fc) | 2026-08-09 05:41 |
 
 
 ---
