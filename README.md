@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-13 21:35
+Last updated: 2026-08-13 22:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 22:32 |
+| Arkatechture | Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99414150eb0b8769) | 2026-08-13 22:32 |
 | Reveal Global Consulting | Senior Data Engineer | Fulton, MD, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=dc805c7e2795f2f1) | 2026-08-13 21:35 |
 | JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=64ed424e034b1128) | 2026-08-13 21:35 |
 | Legrand | Azure Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=33ef21655bbe4595) | 2026-08-13 21:35 |
@@ -19,12 +21,10 @@ Last updated: 2026-08-13 21:35
 | nan | Infrastructure Engineer | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0be821cc97d69bf4) | 2026-08-13 21:35 |
 | Salesforce | Software Engineering SMTS | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c9bdbba1aa0d5da9) | 2026-08-13 21:35 |
 | Anna | QA Automation Engineer | Huntsville, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8ed3b3fbe175a19b) | 2026-08-13 21:35 |
-| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 21:35 |
 | Ekimetrics | Senior Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ffe7aa3d36255097) | 2026-08-13 21:35 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8b25fb8132ee77a1) | 2026-08-13 21:35 |
 | General Motors (GM) | Sr. Data Engineer - GM Motorsports | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fde7304edbd7bcd5) | 2026-08-13 21:35 |
 | Everseen | DevOps Engineer III | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fcbf4b821e3f72c5) | 2026-08-13 21:35 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 21:35 |
 | Kyndryl | Early Career Consult Program - Associate AI Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8c83cc021a8d2ff) | 2026-08-13 21:35 |
 | Kyndryl | Early Career Consult Program - Associate AI Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d97bd7e666252482) | 2026-08-13 21:35 |
 | Arity | Cloud Platform Senior Consultant - Remote - Arity | Remote, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=b2c9ee52930eba81) | 2026-08-13 20:31 |
