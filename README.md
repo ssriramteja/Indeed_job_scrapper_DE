@@ -1,13 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-13 12:47
+Last updated: 2026-08-13 14:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 12:47 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 12:47 |
+| Voya Financial | Senior Data Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd06fa161917227f) | 2026-08-13 14:16 |
+| Ford Motor Company | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 14:16 |
+| Digital Turbine | Senior Infrastructure Engineer | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d23d068c37ba617c) | 2026-08-13 14:16 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dce2277438906ba) | 2026-08-13 14:16 |
 | Fanisko | Oracle ERP Data Expert | San Francisco Bay Area, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be507a87bcb355e0) | 2026-08-13 10:53 |
 | Artiva Biotherapeutics | Bio-Data Engineer II (Part-Time/Temporary) | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d431fee9a86d9b4) | 2026-08-13 10:53 |
 | Sargent & Lundy | Infrastructure & Cloud Systems Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e4b1a61008e4755) | 2026-08-13 10:53 |
