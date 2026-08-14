@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 11:00
+Last updated: 2026-08-14 11:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 11:44 |
 | Acuhuman | AI PLATFORM ENGINEER | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=682a8152cd81abc9) | 2026-08-14 11:00 |
-| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 11:00 |
 | talent source global | Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4deff5096edc72f7) | 2026-08-14 10:00 |
 | JPMorganChase | Software Engineer III - Glue/Python/Pyspark | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c6b0adf7ee0ca945) | 2026-08-14 10:00 |
 | JPMorganChase | Java AWS Software Engineer III | Newark, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8275b35f957f4f39) | 2026-08-14 10:00 |
