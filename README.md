@@ -1,13 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 17:45
+Last updated: 2026-08-14 18:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III - Big Data Databricks, Python / Java | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8bb89514a86b7c54) | 2026-08-14 18:41 |
+| BV Teck | Kafka Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=83600cfd9fda878e) | 2026-08-14 18:41 |
+| CSCI Consulting | Sr. Systems Administrator | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a990bfe6dafb32a5) | 2026-08-14 18:41 |
+| Smart Tech Skills LLC | Power BI Developer | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c24a02e2aa89d624) | 2026-08-14 18:41 |
+| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 18:41 |
 | Matrix International Financial Services | Data Modeling & AI Analytics | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=da0b9d9f202b441a) | 2026-08-14 17:45 |
-| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 17:45 |
 | Astronomer | Customer Reliability Engineer - Airflow | Boston, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e441a087ab697b63) | 2026-08-14 16:41 |
 | Expion health | Data Product Owner | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2e5617ec292674d) | 2026-08-14 16:41 |
 | TetraScience | Senior Software Engineer, Agents | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a55885fda0fe7cb0) | 2026-08-14 16:41 |
