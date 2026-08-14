@@ -1,18 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 19:42
+Last updated: 2026-08-14 20:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 20:22 |
+| ISPOT | Sr. Software Development Engineer | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba2bc4f8478f2f52) | 2026-08-14 20:22 |
+| Penn Interactive Ventures | Senior Software Engineer, iCasino | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86920378643e1b3d) | 2026-08-14 20:22 |
+| Meduit | Data Engineer (Implementation & Integration) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9bfeab7755a77d7f) | 2026-08-14 20:22 |
+| nan | Senior Data Engineer | Alexandria, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdba37c8d5cb5040) | 2026-08-14 20:22 |
+| Waystar | Software Engineer II | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9817c4c795b73795) | 2026-08-14 20:22 |
 | Hitachi Rail | Data Architect-68464 | Reading, PA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=9d634d7b84760169) | 2026-08-14 19:42 |
 | Campbell's | Senior Data Scientist | Camden, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6b48d41859a14d7e) | 2026-08-14 19:42 |
 | Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9351c1cfec6b9f3) | 2026-08-14 19:42 |
 | Campbell's | Data Solutions Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=20897d728ad2b031) | 2026-08-14 19:42 |
 | American Express | Senior AI Engineer I - Global Dining | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=891a966c96f6d006) | 2026-08-14 19:42 |
 | Tree Top | Sr. Software Engineer | Selah, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a50064736e270364) | 2026-08-14 19:42 |
-| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 19:42 |
 | K Tech International | Senior Software Engineer | Torrington, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b1c6bea8b7cd381) | 2026-08-14 19:42 |
 | Landmark Properties, Inc. | Microsoft Fabric Data Engineer | Athens, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6ed1ad8a3c88baae) | 2026-08-14 19:42 |
 | Landmark Properties, Inc. | Microsoft Fabric Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5b4d249126be9c1) | 2026-08-14 19:42 |
@@ -556,8 +561,6 @@ Last updated: 2026-08-14 19:42
 | Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=96cc91af6b068eda) | 2026-08-10 20:31 |
 | nan | Senior Cloud Administrator / Cloud Infrastructure Engineer | San Francisco Bay Area, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bb77a486f23c08d0) | 2026-08-10 20:31 |
 | Databricks | Sr. Specialist Solutions Architect - Cloud Platform & Infrastructure (Azure) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a006cef06875af1) | 2026-08-10 20:31 |
-| Strategic Mindz LLC | Data Reporting Analyst / Atlanta - GA / Onsite 3 - 4 Days a Week | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a0063b8d48d4bc73) | 2026-08-10 19:48 |
-| Alpha Nodus, Inc. | Software Engineering Intern | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50c2ed9fef976be3) | 2026-08-10 19:48 |
 
 
 ---
