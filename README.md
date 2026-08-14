@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 03:56
+Last updated: 2026-08-14 05:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HarbourVest | Distinguished Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ab09cd891b8a55c1) | 2026-08-14 05:26 |
+| AT&T | Senior Applications Development | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6a050080ede9c5ad) | 2026-08-14 05:26 |
+| EXL Service | Full Stack Software Engineer (Python / Cloud / React) | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c7f78b2330159794) | 2026-08-14 05:26 |
+| Tesla | Fullstack Software Engineer, Information Security Team | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ac61fa1a48bebaf) | 2026-08-14 05:26 |
+| Dynanet Corporation | AI Security Engineer | MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b4a6a52a055ba853) | 2026-08-14 05:26 |
+| Broadcom | R&D Software Engineer | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=79cc1d74cbb5d37b) | 2026-08-14 05:26 |
+| Chicago Blackhawks | Senior Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20621ff04e6c7e2a) | 2026-08-14 05:26 |
+| Charles Schwab | Senior Data Engineer | Southlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d32cb461604b896) | 2026-08-14 05:26 |
+| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 05:26 |
+| CloudBees Inc | Senior Software Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a5a818a5a8c923cd) | 2026-08-14 05:26 |
 | Dell Technologies | Senior Systems Engineer | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0610b01c4518fd0e) | 2026-08-14 03:56 |
 | AmTrust Financial | Cloud Data Engineer | Cleveland, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2fa85e48bc32f2c8) | 2026-08-14 03:56 |
 | California Coast Credit Union | Data Architect | San Diego, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fb7ff633e7326bfa) | 2026-08-14 03:56 |
@@ -25,7 +35,6 @@ Last updated: 2026-08-14 03:56
 | ServiceLink | DevOps Engineer, Information Technology | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=330bb7dbfec80cfd) | 2026-08-14 03:56 |
 | Photon | AI Solution Architect_Boston | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=14b177ae888fc6a6) | 2026-08-14 03:56 |
 | Chicago Blackhawks | Senior Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ba47b9ab3a0c3ab) | 2026-08-14 03:56 |
-| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 03:56 |
 | EKI Environment & Water, Inc. | Junior Software Developer | Daly City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9a25abe4586efb0) | 2026-08-14 03:56 |
 | EKI Environment & Water, Inc. | Junior Software Developer | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ffd7b84c07854dcd) | 2026-08-14 03:56 |
 | EKI Environment & Water, Inc. | Junior Software Developer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=667809298fa45c6c) | 2026-08-14 03:56 |
@@ -533,8 +542,6 @@ Last updated: 2026-08-14 03:56
 | JPMorganChase | Software Engineer III (Java) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=04e8bc1c932c3a0e) | 2026-08-10 12:44 |
 | Code360 Inc | Sr Data Architect | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e4b86ec80ea1ccc1) | 2026-08-10 11:45 |
 | Newpage Digital Healthcare solutions | AI Native BUilder - Bangladesh | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f2cb68ac3850d624) | 2026-08-10 10:58 |
-| Thales | Site Reliability Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8fe7b94fd9c87316) | 2026-08-10 05:16 |
-| RiPSIM Technologies, Inc. | Senior Software Engineer | Ashburn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4fed38dc2178d9) | 2026-08-10 05:16 |
 
 
 ---
