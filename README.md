@@ -1,15 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 07:10
+Last updated: 2026-08-14 08:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capital One | Distinguished Data Engineer | McLean, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=63201f5d771e794a) | 2026-08-14 08:59 |
+| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 08:59 |
+| Coca-Cola Consolidated, Inc. | Data Activation Engineer II | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32ebd161a8af1725) | 2026-08-14 08:59 |
 | BV Teck | Apache Spark Developer | Remote, US USA | 31.9% | [Apply](https://www.indeed.com/viewjob?jk=86da01562515eb49) | 2026-08-14 07:10 |
 | CVS Health | Data Engineer | Hartford, CT, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=89ec0c153166e42d) | 2026-08-14 07:10 |
 | Recutify Inc. | Senior Java Full Stack Developer | West Lake Hls, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8a873f8760103f3a) | 2026-08-14 07:10 |
-| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 07:10 |
 | University of Utah | Cloud Platform Engineer III | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac880839f17e6768) | 2026-08-14 07:10 |
 | REGENT BANK | Senior Platform/DevOps Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f91e06aebfaaaf1) | 2026-08-14 07:10 |
 | REGENT BANK | Senior Platform/DevOps Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e72ef0bc51a24bc5) | 2026-08-14 07:10 |
