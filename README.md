@@ -1,15 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 14:09
+Last updated: 2026-08-14 15:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 15:42 |
 | nan | Databricks Solution Architect - Onsite- W2 | King of Prussia, PA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=c7af5960a321f1aa) | 2026-08-14 14:09 |
 | nan | Sr Product Software Engineer | Santa Monica, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=56a93ae153035d32) | 2026-08-14 14:09 |
 | Target | Data Engineer - Finance AI Solutions | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1f6056b3749eea65) | 2026-08-14 14:09 |
-| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 14:09 |
 | Babel Street | Data Warehouse Software Engineer III | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e34dd82bc09fa105) | 2026-08-14 14:09 |
 | Acuhuman | AI PLATFORM ENGINEER | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=682a8152cd81abc9) | 2026-08-14 11:00 |
 | talent source global | Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4deff5096edc72f7) | 2026-08-14 10:00 |
@@ -558,8 +558,6 @@ Last updated: 2026-08-14 14:09
 | nan | Oracle CX Solution Architect(Functional) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=acfaa14f0d5a24a9) | 2026-08-10 16:43 |
 | Optum | Senior Data Scientist - Remote | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=57ea84787b8db583) | 2026-08-10 16:43 |
 | Smart Tech Skills LLC | Data Warehouse Analyst | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a603293fd9b8d480) | 2026-08-10 15:51 |
-| V4C.ai | Hiring Data Engineers in USA | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9c12be1bf8cf78dc) | 2026-08-10 14:13 |
-| Optum | Senior Full Stack Data Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97b1838bbabdfd39) | 2026-08-10 14:13 |
 
 
 ---
