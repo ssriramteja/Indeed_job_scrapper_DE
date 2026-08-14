@@ -1,12 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 20:22
+Last updated: 2026-08-14 21:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 20:22 |
+| Hitachi Energy | Data Architect-68464 | Reading, PA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=f8c2a6ef929081a1) | 2026-08-14 21:17 |
+| AbbVie | Scientific Technical Engineer - PDS&T CMC | North Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=097744a388fc20c6) | 2026-08-14 21:17 |
+| Scigon | Azure Data Engineer | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6bcdb54f17a99717) | 2026-08-14 21:17 |
+| Delaware Nation Industries | Senior Software Engineer | OR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=186e1b06b60d4c75) | 2026-08-14 21:17 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-14 21:17 |
+| United States Cold Storage | DATA ENGINEER I | Camden, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e8092db12dbdd54c) | 2026-08-14 21:17 |
+| Optum | Senior Software Engineer | Basking Ridge, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=32d403b17a686b11) | 2026-08-14 21:17 |
+| SailPoint Technologies | Senior Software Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae4f189101c570b8) | 2026-08-14 21:17 |
+| Dresser Utility Solutions | Frontend Software Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=653282b3cbc10d6f) | 2026-08-14 21:17 |
+| FujiFilm | Senior Data Engineer, Snowflake & AWS | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d7b0c0663856b10) | 2026-08-14 21:17 |
+| JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f8626322b450d2c) | 2026-08-14 21:17 |
+| JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d90a9d77defb25c) | 2026-08-14 21:17 |
 | ISPOT | Sr. Software Development Engineer | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba2bc4f8478f2f52) | 2026-08-14 20:22 |
 | Penn Interactive Ventures | Senior Software Engineer, iCasino | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86920378643e1b3d) | 2026-08-14 20:22 |
 | Meduit | Data Engineer (Implementation & Integration) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9bfeab7755a77d7f) | 2026-08-14 20:22 |
@@ -556,11 +567,6 @@ Last updated: 2026-08-14 20:22
 | Tiger Analytics | Senior Data Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef0e8dc68e7083df) | 2026-08-10 21:33 |
 | Freedom Mortgage | Full Stack AI Software Engineer | Marlton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd8a1448552467aa) | 2026-08-10 21:33 |
 | ASSA ABLOY Group | Software Engineer | New Haven, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8fa117edc727447d) | 2026-08-10 21:33 |
-| Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e99ba182189de9eb) | 2026-08-10 20:31 |
-| Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Emerging Business) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=34861f28281f78de) | 2026-08-10 20:31 |
-| Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=96cc91af6b068eda) | 2026-08-10 20:31 |
-| nan | Senior Cloud Administrator / Cloud Infrastructure Engineer | San Francisco Bay Area, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bb77a486f23c08d0) | 2026-08-10 20:31 |
-| Databricks | Sr. Specialist Solutions Architect - Cloud Platform & Infrastructure (Azure) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a006cef06875af1) | 2026-08-10 20:31 |
 
 
 ---
