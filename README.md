@@ -1,16 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 21:17
+Last updated: 2026-08-14 22:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-14 22:13 |
+| Builders FirstSource | Senior Engineer, IT | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e024f9d8e8b3e663) | 2026-08-14 22:13 |
+| Builders FirstSource | Senior Engineer, IT | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c466b81a1e58bbc1) | 2026-08-14 22:13 |
+| Worldpay | Senior Platform Engineer - Payrix | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0e614ab8a814af8) | 2026-08-14 22:13 |
+| Worldpay | Senior Platform Engineer - Payrix | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43758220211affc5) | 2026-08-14 22:13 |
+| Worldpay | Senior Platform Engineer - Payrix | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3cd8a354931554ad) | 2026-08-14 22:13 |
+| Worldpay | Senior Platform Engineer - Payrix | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f5320968e880f71) | 2026-08-14 22:13 |
+| CoorsTek | Forward Deployed Data Engineer | Golden, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ed04213140d7749) | 2026-08-14 22:13 |
+| Level Data, Inc | DevOps Engineer II | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a7875d6817c19bc) | 2026-08-14 22:13 |
 | Hitachi Energy | Data Architect-68464 | Reading, PA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=f8c2a6ef929081a1) | 2026-08-14 21:17 |
 | AbbVie | Scientific Technical Engineer - PDS&T CMC | North Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=097744a388fc20c6) | 2026-08-14 21:17 |
 | Scigon | Azure Data Engineer | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6bcdb54f17a99717) | 2026-08-14 21:17 |
 | Delaware Nation Industries | Senior Software Engineer | OR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=186e1b06b60d4c75) | 2026-08-14 21:17 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-14 21:17 |
 | United States Cold Storage | DATA ENGINEER I | Camden, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e8092db12dbdd54c) | 2026-08-14 21:17 |
 | Optum | Senior Software Engineer | Basking Ridge, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=32d403b17a686b11) | 2026-08-14 21:17 |
 | SailPoint Technologies | Senior Software Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae4f189101c570b8) | 2026-08-14 21:17 |
@@ -554,19 +562,6 @@ Last updated: 2026-08-14 21:17
 | MAPDEVS CORP. | GIS Architect (UI mobile responsive design) - Transportation, Rail Operations | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8db4a101ed6572fd) | 2026-08-10 22:27 |
 | Sonos | Senior Infrastructure Architect | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08280de9f61ce7c2) | 2026-08-10 22:27 |
 | Zoom Communications | DevOps Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af12bc7187e4862c) | 2026-08-10 22:27 |
-| CareFirst BlueCross BlueShield | Senior Data Engineer (Remote) | Baltimore, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=94fe4f8fe65e0d89) | 2026-08-10 21:33 |
-| Cushman & Wakefield | Senior AI Engineer | Costa Mesa, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9a32054447bc409c) | 2026-08-10 21:33 |
-| JPMorganChase | Software Engineer III - Big Data Databricks, Python / Java | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=911e6129869c725a) | 2026-08-10 21:33 |
-| Procter & Gamble | AI Engineer | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=757ec134ea689644) | 2026-08-10 21:33 |
-| Lambda | Senior Site Reliability Engineer - Storage | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=49363362b6789db3) | 2026-08-10 21:33 |
-| Lambda | Senior Site Reliability Engineer - Storage | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9e2bb604f3f45fc) | 2026-08-10 21:33 |
-| Alpine Bank | Data Engineer I | Rifle, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=593b347235e92032) | 2026-08-10 21:33 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1c9a594ddf538eb2) | 2026-08-10 21:33 |
-| JPMorganChase | Software Engineer Associate III - Databricks | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9ff3b78bfd12f1d3) | 2026-08-10 21:33 |
-| MEDFAR Solutions Cliniques | SRE / Infrastructure Engineer (LABGEN) | Great Neck, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e01cbe5941f4fd7e) | 2026-08-10 21:33 |
-| Tiger Analytics | Senior Data Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef0e8dc68e7083df) | 2026-08-10 21:33 |
-| Freedom Mortgage | Full Stack AI Software Engineer | Marlton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd8a1448552467aa) | 2026-08-10 21:33 |
-| ASSA ABLOY Group | Software Engineer | New Haven, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8fa117edc727447d) | 2026-08-10 21:33 |
 
 
 ---
