@@ -1,12 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 15:42
+Last updated: 2026-08-14 16:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 15:42 |
+| Astronomer | Customer Reliability Engineer - Airflow | Boston, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e441a087ab697b63) | 2026-08-14 16:41 |
+| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 16:41 |
+| Expion health | Data Product Owner | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2e5617ec292674d) | 2026-08-14 16:41 |
+| TetraScience | Senior Software Engineer, Agents | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a55885fda0fe7cb0) | 2026-08-14 16:41 |
 | nan | Databricks Solution Architect - Onsite- W2 | King of Prussia, PA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=c7af5960a321f1aa) | 2026-08-14 14:09 |
 | nan | Sr Product Software Engineer | Santa Monica, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=56a93ae153035d32) | 2026-08-14 14:09 |
 | Target | Data Engineer - Finance AI Solutions | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1f6056b3749eea65) | 2026-08-14 14:09 |
@@ -557,7 +560,6 @@ Last updated: 2026-08-14 15:42
 | Artic Consulting, Inc | Senior Data Engineer (Microsoft Fabric & AI)-Redmond | Redmond, WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=734fb1ee3423bbe6) | 2026-08-10 16:43 |
 | nan | Oracle CX Solution Architect(Functional) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=acfaa14f0d5a24a9) | 2026-08-10 16:43 |
 | Optum | Senior Data Scientist - Remote | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=57ea84787b8db583) | 2026-08-10 16:43 |
-| Smart Tech Skills LLC | Data Warehouse Analyst | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a603293fd9b8d480) | 2026-08-10 15:51 |
 
 
 ---
