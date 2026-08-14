@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 05:26
+Last updated: 2026-08-14 07:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BV Teck | Apache Spark Developer | Remote, US USA | 31.9% | [Apply](https://www.indeed.com/viewjob?jk=86da01562515eb49) | 2026-08-14 07:10 |
+| CVS Health | Data Engineer | Hartford, CT, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=89ec0c153166e42d) | 2026-08-14 07:10 |
+| Recutify Inc. | Senior Java Full Stack Developer | West Lake Hls, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8a873f8760103f3a) | 2026-08-14 07:10 |
+| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 07:10 |
+| University of Utah | Cloud Platform Engineer III | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac880839f17e6768) | 2026-08-14 07:10 |
+| REGENT BANK | Senior Platform/DevOps Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f91e06aebfaaaf1) | 2026-08-14 07:10 |
+| REGENT BANK | Senior Platform/DevOps Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e72ef0bc51a24bc5) | 2026-08-14 07:10 |
+| REGENT BANK | Senior Platform/DevOps Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bd71a8cfa1a8aaab) | 2026-08-14 07:10 |
+| REGENT BANK | Senior Platform/DevOps Engineer | Edmond, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6751bf17199336e8) | 2026-08-14 07:10 |
+| REGENT BANK | Senior Platform/DevOps Engineer | Broken Arrow, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bac113fb34bfff49) | 2026-08-14 07:10 |
+| REGENT BANK | Senior Platform/DevOps Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f281c3de1a5cf3c) | 2026-08-14 07:10 |
+| Rethink First | Senior Full Stack Engineer – Architecture Team | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ab5430ace02a7fb) | 2026-08-14 07:10 |
 | HarbourVest | Distinguished Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ab09cd891b8a55c1) | 2026-08-14 05:26 |
 | AT&T | Senior Applications Development | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6a050080ede9c5ad) | 2026-08-14 05:26 |
 | EXL Service | Full Stack Software Engineer (Python / Cloud / React) | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c7f78b2330159794) | 2026-08-14 05:26 |
@@ -14,7 +26,6 @@ Last updated: 2026-08-14 05:26
 | Broadcom | R&D Software Engineer | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=79cc1d74cbb5d37b) | 2026-08-14 05:26 |
 | Chicago Blackhawks | Senior Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20621ff04e6c7e2a) | 2026-08-14 05:26 |
 | Charles Schwab | Senior Data Engineer | Southlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d32cb461604b896) | 2026-08-14 05:26 |
-| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 05:26 |
 | CloudBees Inc | Senior Software Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a5a818a5a8c923cd) | 2026-08-14 05:26 |
 | Dell Technologies | Senior Systems Engineer | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0610b01c4518fd0e) | 2026-08-14 03:56 |
 | AmTrust Financial | Cloud Data Engineer | Cleveland, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2fa85e48bc32f2c8) | 2026-08-14 03:56 |
