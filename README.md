@@ -1,16 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 18:41
+Last updated: 2026-08-14 19:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Hitachi Rail | Data Architect-68464 | Reading, PA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=9d634d7b84760169) | 2026-08-14 19:42 |
+| Campbell's | Senior Data Scientist | Camden, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6b48d41859a14d7e) | 2026-08-14 19:42 |
+| Copart, Inc | Software Engineering Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e9351c1cfec6b9f3) | 2026-08-14 19:42 |
+| Campbell's | Data Solutions Architect | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=20897d728ad2b031) | 2026-08-14 19:42 |
+| American Express | Senior AI Engineer I - Global Dining | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=891a966c96f6d006) | 2026-08-14 19:42 |
+| Tree Top | Sr. Software Engineer | Selah, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a50064736e270364) | 2026-08-14 19:42 |
+| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 19:42 |
+| K Tech International | Senior Software Engineer | Torrington, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b1c6bea8b7cd381) | 2026-08-14 19:42 |
+| Landmark Properties, Inc. | Microsoft Fabric Data Engineer | Athens, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6ed1ad8a3c88baae) | 2026-08-14 19:42 |
+| Landmark Properties, Inc. | Microsoft Fabric Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5b4d249126be9c1) | 2026-08-14 19:42 |
+| Associated Grocers of New England, Inc. | Application Developer/Programmer II | Pembroke, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b0718b808fb76795) | 2026-08-14 19:42 |
 | JPMorganChase | Software Engineer III - Big Data Databricks, Python / Java | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8bb89514a86b7c54) | 2026-08-14 18:41 |
 | BV Teck | Kafka Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=83600cfd9fda878e) | 2026-08-14 18:41 |
 | CSCI Consulting | Sr. Systems Administrator | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a990bfe6dafb32a5) | 2026-08-14 18:41 |
 | Smart Tech Skills LLC | Power BI Developer | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c24a02e2aa89d624) | 2026-08-14 18:41 |
-| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 18:41 |
 | Matrix International Financial Services | Data Modeling & AI Analytics | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=da0b9d9f202b441a) | 2026-08-14 17:45 |
 | Astronomer | Customer Reliability Engineer - Airflow | Boston, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e441a087ab697b63) | 2026-08-14 16:41 |
 | Expion health | Data Product Owner | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2e5617ec292674d) | 2026-08-14 16:41 |
@@ -548,10 +558,6 @@ Last updated: 2026-08-14 18:41
 | Databricks | Sr. Specialist Solutions Architect - Cloud Platform & Infrastructure (Azure) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a006cef06875af1) | 2026-08-10 20:31 |
 | Strategic Mindz LLC | Data Reporting Analyst / Atlanta - GA / Onsite 3 - 4 Days a Week | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a0063b8d48d4bc73) | 2026-08-10 19:48 |
 | Alpha Nodus, Inc. | Software Engineering Intern | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50c2ed9fef976be3) | 2026-08-10 19:48 |
-| BV Teck | Big Data Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=19d01f1d0ef0bb8a) | 2026-08-10 18:43 |
-| Capgemini | Data Engineer (PySpark) | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6551997fe759dea8) | 2026-08-10 18:43 |
-| Capgemini | Full Stack AWS Engineer - Onsite Jersey City, NJ | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=da7c944ea56b4625) | 2026-08-10 18:43 |
-| Cornell University | Backend Software Engineer | Ithaca, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9806c00941f64154) | 2026-08-10 18:43 |
 
 
 ---
