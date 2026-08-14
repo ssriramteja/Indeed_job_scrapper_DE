@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 10:00
+Last updated: 2026-08-14 11:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Acuhuman | AI PLATFORM ENGINEER | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=682a8152cd81abc9) | 2026-08-14 11:00 |
+| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 11:00 |
 | talent source global | Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4deff5096edc72f7) | 2026-08-14 10:00 |
 | JPMorganChase | Software Engineer III - Glue/Python/Pyspark | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c6b0adf7ee0ca945) | 2026-08-14 10:00 |
 | JPMorganChase | Java AWS Software Engineer III | Newark, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8275b35f957f4f39) | 2026-08-14 10:00 |
-| Medica Services Company LLC | Sr. Data Engineer, EDM | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e633df8e4ffa519f) | 2026-08-14 10:00 |
 | Capital One | Distinguished Data Engineer | McLean, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=63201f5d771e794a) | 2026-08-14 08:59 |
 | Coca-Cola Consolidated, Inc. | Data Activation Engineer II | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32ebd161a8af1725) | 2026-08-14 08:59 |
 | BV Teck | Apache Spark Developer | Remote, US USA | 31.9% | [Apply](https://www.indeed.com/viewjob?jk=86da01562515eb49) | 2026-08-14 07:10 |
@@ -557,7 +558,6 @@ Last updated: 2026-08-14 10:00
 | Optum | Senior Full Stack Data Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97b1838bbabdfd39) | 2026-08-10 14:13 |
 | JPMorganChase | Software Engineer III (Java) | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=04e8bc1c932c3a0e) | 2026-08-10 12:44 |
 | Code360 Inc | Sr Data Architect | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e4b86ec80ea1ccc1) | 2026-08-10 11:45 |
-| Newpage Digital Healthcare solutions | AI Native BUilder - Bangladesh | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f2cb68ac3850d624) | 2026-08-10 10:58 |
 
 
 ---
