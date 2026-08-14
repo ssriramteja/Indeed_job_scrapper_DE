@@ -1,12 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 22:13
+Last updated: 2026-08-14 23:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-14 22:13 |
+| nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4473ab579b8e449a) | 2026-08-14 23:13 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-14 23:13 |
+| KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b738036437ddf04e) | 2026-08-14 23:13 |
+| KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=20b93c51b7c99cc5) | 2026-08-14 23:13 |
+| Costco Wholesale | Software Engineer - Digital Site Development | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=26618760ad342643) | 2026-08-14 23:13 |
+| AstraZeneca | Senior Cloud Engineering Architect - Evinova | Gaithersburg, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0f4e06659b43811d) | 2026-08-14 23:13 |
+| CloudSecurityweb | MQ Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=523220d0e85b6be6) | 2026-08-14 23:13 |
+| Nestlé Purina | Data Scientist | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f94258f281c4987) | 2026-08-14 23:13 |
+| Slate Auto | Data Engineer II | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=812be7ff2c58a8e5) | 2026-08-14 23:13 |
+| ROYAL ELECTRIC | Data Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=70c82340e7a51690) | 2026-08-14 23:13 |
+| SmartThings | Senior Software Engineer, Apps & Behaviors | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=caea69b877e2e76a) | 2026-08-14 23:13 |
+| Nestlé Purina | Expert Data Scientist | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45cd5ea2ca8ed88e) | 2026-08-14 23:13 |
+| New Relic | Associate Software Engineer - Java (Distributed Systems and Databases) | Portland, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eba4a94f26ebfc6f) | 2026-08-14 23:13 |
 | Builders FirstSource | Senior Engineer, IT | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e024f9d8e8b3e663) | 2026-08-14 22:13 |
 | Builders FirstSource | Senior Engineer, IT | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c466b81a1e58bbc1) | 2026-08-14 22:13 |
 | Worldpay | Senior Platform Engineer - Payrix | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0e614ab8a814af8) | 2026-08-14 22:13 |
@@ -555,13 +567,6 @@ Last updated: 2026-08-14 22:13
 | MetLife | Data Engineer II | Cary, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ab81dbb9740baeab) | 2026-08-10 23:26 |
 | AutoZone | Systems Engineer (Supply Chain) | Memphis, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d0c167b0b4e8118) | 2026-08-10 23:26 |
 | Logic, Inc. | Senior Data Scientist | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b3a8a9af3d57a0f) | 2026-08-10 23:26 |
-| HCLTech | AI/ML Solutions Architect - MySQL | Durham, NC, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=a67ae1ade25d4115) | 2026-08-10 22:27 |
-| Resultant | Data Engineer - Databricks | Chicago, IL, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=62b7232e7951bd03) | 2026-08-10 22:27 |
-| Mindful Support Services | Senior Database Engineer - Mountlake Terrace, WA | Mountlake Terrace, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=28448befb25ceef2) | 2026-08-10 22:27 |
-| UnitedHealth Group | Senior Full Stack Developer - Cybersecurity | Eden Prairie, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f5715f54542e2479) | 2026-08-10 22:27 |
-| MAPDEVS CORP. | GIS Architect (UI mobile responsive design) - Transportation, Rail Operations | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8db4a101ed6572fd) | 2026-08-10 22:27 |
-| Sonos | Senior Infrastructure Architect | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08280de9f61ce7c2) | 2026-08-10 22:27 |
-| Zoom Communications | DevOps Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=af12bc7187e4862c) | 2026-08-10 22:27 |
 
 
 ---
