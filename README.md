@@ -1,13 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-14 23:13
+Last updated: 2026-08-15 00:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Vantage Data Centers | Senior Data Engineer, Global | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cfe15e3ae5e2ea78) | 2026-08-15 00:41 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 00:41 |
+| Vantage Data Centers | Mid- Level Data Engineer, Global | Denver, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c2eceb897f127f85) | 2026-08-15 00:41 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 00:41 |
+| Experian | Solution Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=db39abaf672f49a6) | 2026-08-15 00:41 |
+| Milwaukee Tool | Sr Data Engineer | Menomonee Falls, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60bd36ef9cdb09ec) | 2026-08-15 00:41 |
 | nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4473ab579b8e449a) | 2026-08-14 23:13 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-14 23:13 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b738036437ddf04e) | 2026-08-14 23:13 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=20b93c51b7c99cc5) | 2026-08-14 23:13 |
 | Costco Wholesale | Software Engineer - Digital Site Development | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=26618760ad342643) | 2026-08-14 23:13 |
@@ -558,15 +563,6 @@ Last updated: 2026-08-14 23:13
 | TD | Senior Managing Engineer (US) | Mount Laurel, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8246143088401853) | 2026-08-11 01:00 |
 | Tower semiconductor | CIM IT Application Engineer - Fab Automation & MES | Newport Beach, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6c61a10ef209a4b5) | 2026-08-11 01:00 |
 | BV Teck | Data Infrastructure Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f14365db2087acc1) | 2026-08-11 01:00 |
-| Thomson Reuters | Senior Software Engineer | Eagan, MN, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=262610840711ef87) | 2026-08-10 23:26 |
-| Capgemini | Data Engineer (PySpark) | Tampa, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=adf0da1fb174a58c) | 2026-08-10 23:26 |
-| KBR | Senior AWS DevOps Engineer | Sioux Falls, SD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c6efcd93779699f4) | 2026-08-10 23:26 |
-| Magna International | Sr Engineer - ADAS Tools and Ground Truth | Rochester Hills, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6ae2204e7b44e00e) | 2026-08-10 23:26 |
-| Capgemini | Full Stack AWS Engineer - Onsite Jersey City, NJ | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=84e9c84b336915c6) | 2026-08-10 23:26 |
-| TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f08a32ca1839a36f) | 2026-08-10 23:26 |
-| MetLife | Data Engineer II | Cary, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ab81dbb9740baeab) | 2026-08-10 23:26 |
-| AutoZone | Systems Engineer (Supply Chain) | Memphis, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d0c167b0b4e8118) | 2026-08-10 23:26 |
-| Logic, Inc. | Senior Data Scientist | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b3a8a9af3d57a0f) | 2026-08-10 23:26 |
 
 
 ---
