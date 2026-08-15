@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 16:13
+Last updated: 2026-08-15 17:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 16:13 |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 16:13 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 17:12 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 17:12 |
 | Redapt inc | Senior Database Engineer | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4541f6639d9bc1) | 2026-08-15 16:13 |
 | Disney Experiences | Data Engineer | Orlando, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=37b325f2f84b39b8) | 2026-08-15 15:11 |
 | Maximus | Biostatician | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa3a4edd24420508) | 2026-08-15 15:11 |
@@ -545,9 +545,6 @@ Last updated: 2026-08-15 16:13
 | Prime Medicine | Informatics Engineer | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbd24beae107df7e) | 2026-08-11 17:50 |
 | Lantern | Data Architect | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45c7a33a5d7a2996) | 2026-08-11 17:50 |
 | Lantern | Data Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09da89624990c354) | 2026-08-11 17:50 |
-| Optum | Data Engineer | Minnetonka, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dbb3140ee1f47831) | 2026-08-11 16:47 |
-| nan | Senior Data Analyst | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9225336bad1dc9b5) | 2026-08-11 16:47 |
-| Western Camps, Inc. | Senior Analytics Engineer (PowerBi and Fabric) | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e5f974f63b3e098a) | 2026-08-11 16:47 |
 
 
 ---
