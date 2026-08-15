@@ -1,13 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 04:20
+Last updated: 2026-08-15 05:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 04:20 |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 04:20 |
+| Cognizant | SR Azure Data Factory- Remote | Washington, DC, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=9d8625d99e5c7e4a) | 2026-08-15 05:16 |
+| Cognizant | Senior Java AWS Developer | Atlanta, GA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=356ce32716bcc358) | 2026-08-15 05:16 |
+| Cognizant | Senior Java AWS Developer | Atlanta, GA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=88370938985e0439) | 2026-08-15 05:16 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 05:16 |
+| Cognizant | Data Engineer | Blaine, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d0d5b1a5cb3ad7a) | 2026-08-15 05:16 |
+| Cognizant | Data Engineer | Mesa, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7614dc00bbe52b10) | 2026-08-15 05:16 |
+| Cognizant | Data Engineer | Blaine, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=750e94d18745c7af) | 2026-08-15 05:16 |
+| Cognizant | Data Engineer | Mesa, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fe7c81d65ca7b59b) | 2026-08-15 05:16 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 05:16 |
+| Cognizant | AI Engineer | Mesa, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=77f8f5e4e6fc8123) | 2026-08-15 05:16 |
+| Cognizant | GCP Data Engineer | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3ecfce2ce50a767f) | 2026-08-15 05:16 |
+| OMG Technology | Agentic AI Engineering Architect (Remote -US) | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ccaaffaf8007eb85) | 2026-08-15 05:16 |
+| nan | AI Data Scientist | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bafe15fb980f9aa) | 2026-08-15 05:16 |
 | Deloitte | Cyber Full-Stack Technical Software Engineer | Rosslyn, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=18a8f76fdfd6054e) | 2026-08-15 03:32 |
 | Delan Associates, Inc | Full Stack Developer [development, QA automation, data] | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=614dc194a49ca09a) | 2026-08-15 03:32 |
 | Pharmacy Data Management, Inc. | Senior Data Engineer | Poland, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4f591a25dd32ad38) | 2026-08-15 03:32 |
@@ -545,15 +556,6 @@ Last updated: 2026-08-15 04:20
 | Roadrunner | Data Engineer | Downers Grove, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6fbe911be786d31a) | 2026-08-11 08:04 |
 | NTT DATA | Senior Java Quality Engineer - (FTE / Onsite) | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20393355c09a2ba6) | 2026-08-11 06:49 |
 | LPL Financial | Summer Intern 2027 - Data | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c8b2cebcf963c603) | 2026-08-11 05:52 |
-| Sequoia Connect | Data Infrastructure Architect | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=b17ae40788e4ec77) | 2026-08-11 04:58 |
-| Sequoia Connect | Data Infrastructure Architect | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=39543365ea36fd4e) | 2026-08-11 04:58 |
-| Lumen | Senior Software Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5a0e61d2a772e99d) | 2026-08-11 04:58 |
-| Sequoia Connect | Junior Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c4e6f2c9965b8f46) | 2026-08-11 04:58 |
-| Sequoia Connect | Junior Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=798688cb780d9300) | 2026-08-11 04:58 |
-| Advanced Medical Management | Senior Data Engineer | Long Beach, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8a34608b53a9554) | 2026-08-11 04:58 |
-| Advanced Medical Management | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2cd297d26cd48490) | 2026-08-11 04:58 |
-| NYU Langone Health | Sr. Bioinformatics Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eece7ea708b14b8a) | 2026-08-11 04:58 |
-| University of Southern California | Associate Data Scientist | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8f21680e47d80ce2) | 2026-08-11 04:58 |
 
 
 ---
