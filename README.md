@@ -1,20 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 05:16
+Last updated: 2026-08-15 06:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 06:21 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 06:21 |
+| JPMorganChase | Software Engineer II - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2968fbd1098705ab) | 2026-08-15 06:21 |
+| JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ccd4e6bffd7c1c5d) | 2026-08-15 06:21 |
 | Cognizant | SR Azure Data Factory- Remote | Washington, DC, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=9d8625d99e5c7e4a) | 2026-08-15 05:16 |
 | Cognizant | Senior Java AWS Developer | Atlanta, GA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=356ce32716bcc358) | 2026-08-15 05:16 |
 | Cognizant | Senior Java AWS Developer | Atlanta, GA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=88370938985e0439) | 2026-08-15 05:16 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 05:16 |
 | Cognizant | Data Engineer | Blaine, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d0d5b1a5cb3ad7a) | 2026-08-15 05:16 |
 | Cognizant | Data Engineer | Mesa, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7614dc00bbe52b10) | 2026-08-15 05:16 |
 | Cognizant | Data Engineer | Blaine, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=750e94d18745c7af) | 2026-08-15 05:16 |
 | Cognizant | Data Engineer | Mesa, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fe7c81d65ca7b59b) | 2026-08-15 05:16 |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 05:16 |
 | Cognizant | AI Engineer | Mesa, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=77f8f5e4e6fc8123) | 2026-08-15 05:16 |
 | Cognizant | GCP Data Engineer | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3ecfce2ce50a767f) | 2026-08-15 05:16 |
 | OMG Technology | Agentic AI Engineering Architect (Remote -US) | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ccaaffaf8007eb85) | 2026-08-15 05:16 |
@@ -555,7 +557,6 @@ Last updated: 2026-08-15 05:16
 | ActioNet | Software Engineer IV – Web/Database Development | Vienna, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=283cba6a8ee893ac) | 2026-08-11 08:04 |
 | Roadrunner | Data Engineer | Downers Grove, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6fbe911be786d31a) | 2026-08-11 08:04 |
 | NTT DATA | Senior Java Quality Engineer - (FTE / Onsite) | Westlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20393355c09a2ba6) | 2026-08-11 06:49 |
-| LPL Financial | Summer Intern 2027 - Data | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c8b2cebcf963c603) | 2026-08-11 05:52 |
 
 
 ---
