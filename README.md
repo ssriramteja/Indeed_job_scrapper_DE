@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 13:23
+Last updated: 2026-08-15 14:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 13:23 |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 13:23 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 14:13 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 14:13 |
 | Hackensack Meridian Health | IT Cloud Engineer II | Iselin, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83aaaf3ac879f7b6) | 2026-08-15 12:19 |
 | Accenture | Senior Java Software Engineer - On-Site Minneapolis, MN | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=681a949fc99e68d5) | 2026-08-15 12:19 |
 | PepsiCo | Senior Identity & Access Management (CIAM) Engineer | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b50d50511fbcccef) | 2026-08-15 11:11 |
@@ -561,7 +561,6 @@ Last updated: 2026-08-15 13:23
 | CVS Health | Senior Software Engineer - SRE, Retail and Pharmacy | Scottsdale, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bc1394ccb8124c7) | 2026-08-11 15:51 |
 | Markel Corporation | Senior Azure Data Engineer - State National | Bedford, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=346bc6d60e2f1b8a) | 2026-08-11 15:51 |
 | Janus Henderson Investors | Data Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b6e0919b528bf52) | 2026-08-11 15:51 |
-| J2B GLOBAL LLC | Cloud Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb35643e47a7e41b) | 2026-08-11 14:13 |
 
 
 ---

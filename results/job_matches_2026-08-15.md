@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-15
 
-**Total Jobs Found:** 93
+**Total Jobs Found:** 94
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -137,18 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Cyber Full-Stack Technical Software Engineer @ Deloitte
-**Match Score:** 16.0%
-
-📍 **Location:** Rosslyn, VA, US USA
-
-🔑 **Keywords:** AWS, S3, Azure, GCP, Vertex AI, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=18a8f76fdfd6054e)
-
----
-
-## 14. Full Stack Developer [development, QA automation, data] @ Delan Associates, Inc
+## 13. Full Stack Developer [development, QA automation, data] @ Delan Associates, Inc
 **Match Score:** 16.0%
 
 📍 **Location:** Dallas, TX, US USA
@@ -156,6 +145,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** Azure, GCP, BigQuery, Dataflow, Snowflake, Oracle, SQL Server, ETL, Talend, Power BI
 
 [Apply Here](https://www.indeed.com/viewjob?jk=614dc194a49ca09a)
+
+---
+
+## 14. Cyber Full-Stack Technical Software Engineer @ Deloitte
+**Match Score:** 16.0%
+
+📍 **Location:** Rosslyn, VA, US USA
+
+🔑 **Keywords:** AWS, S3, Azure, GCP, Vertex AI, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=18a8f76fdfd6054e)
 
 ---
 
@@ -654,51 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) @ NTT DATA
-**Match Score:** 11.1%
-
-📍 **Location:** Merrimack, NH, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Oracle, CI/CD, Jenkins, Maven, Docker, Jenkins, SonarQube
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3da42b71924a8f2a)
-
----
-
-## 61. Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) @ NTT DATA
-**Match Score:** 11.1%
-
-📍 **Location:** Jersey City, NJ, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Oracle, CI/CD, Jenkins, Maven, Docker, Jenkins, SonarQube
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4292233ac9b01465)
-
----
-
-## 62. Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) @ NTT DATA
-**Match Score:** 11.1%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Oracle, CI/CD, Jenkins, Maven, Docker, Jenkins, SonarQube
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1658d63cbf8ef75d)
-
----
-
-## 63. Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) @ NTT DATA
-**Match Score:** 11.1%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Oracle, CI/CD, Jenkins, Maven, Docker, Jenkins, SonarQube
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c8b3f8813e95cd86)
-
----
-
-## 64. Agentic AI Engineering Architect (Remote -US) @ OMG Technology
+## 60. Agentic AI Engineering Architect (Remote -US) @ OMG Technology
 **Match Score:** 11.1%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -709,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. AI Data Scientist @ nan
+## 61. AI Data Scientist @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -717,6 +673,50 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Spark, Scala, Kafka, NoSQL, Data Modeling, MLOps, CI/CD, Git, Python
 
 [Apply Here](https://www.indeed.com/viewjob?jk=8bafe15fb980f9aa)
+
+---
+
+## 62. Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) @ NTT DATA
+**Match Score:** 11.1%
+
+📍 **Location:** Merrimack, NH, US USA
+
+🔑 **Keywords:** AWS, Azure, Scala, Oracle, CI/CD, Jenkins, Maven, Docker, Jenkins, SonarQube
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3da42b71924a8f2a)
+
+---
+
+## 63. Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) @ NTT DATA
+**Match Score:** 11.1%
+
+📍 **Location:** Jersey City, NJ, US USA
+
+🔑 **Keywords:** AWS, Azure, Scala, Oracle, CI/CD, Jenkins, Maven, Docker, Jenkins, SonarQube
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4292233ac9b01465)
+
+---
+
+## 64. Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) @ NTT DATA
+**Match Score:** 11.1%
+
+📍 **Location:** Nashville, TN, US USA
+
+🔑 **Keywords:** AWS, Azure, Scala, Oracle, CI/CD, Jenkins, Maven, Docker, Jenkins, SonarQube
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1658d63cbf8ef75d)
+
+---
+
+## 65. Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) @ NTT DATA
+**Match Score:** 11.1%
+
+📍 **Location:** Plano, TX, US USA
+
+🔑 **Keywords:** AWS, Azure, Scala, Oracle, CI/CD, Jenkins, Maven, Docker, Jenkins, SonarQube
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c8b3f8813e95cd86)
 
 ---
 
@@ -896,29 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Senior PowerBI Developer (FDOT OOC) @ TECKpert
-**Match Score:** 10.4%
-
-📍 **Location:** Tallahassee, FL, US USA
-
-🔑 **Keywords:** IAM, RDS, Azure, Data Factory, Dataflow, Oracle, SQL Server, Dimensional Modeling, Star Schema, Power BI
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3df96b00481cbb0c)
-
----
-
-## 83. Senior Java Software Engineer - On-Site Minneapolis, MN @ Accenture
-**Match Score:** 10.4%
-
-📍 **Location:** Minneapolis, MN, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, Kafka, MongoDB, Cassandra, NoSQL, CI/CD, Jenkins, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=681a949fc99e68d5)
-
----
-
-## 84. Senior QA Automation Engineer @ VIVA
+## 82. Senior QA Automation Engineer @ VIVA
 **Match Score:** 10.4%
 
 📍 **Location:** Adelphi, MD, US USA
@@ -929,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Senior SDET - AI Detection and Response (AIDR) (Hybrid) @ CrowdStrike
+## 83. Senior SDET - AI Detection and Response (AIDR) (Hybrid) @ CrowdStrike
 **Match Score:** 10.4%
 
 📍 **Location:** Sunnyvale, CA, US USA
@@ -940,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. SDET - AI Detection and Response (AIDR) (Hybrid) @ CrowdStrike
+## 84. SDET - AI Detection and Response (AIDR) (Hybrid) @ CrowdStrike
 **Match Score:** 10.4%
 
 📍 **Location:** Sunnyvale, CA, US USA
@@ -951,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Sr Data Engineer @ Milwaukee Tool
+## 85. Sr Data Engineer @ Milwaukee Tool
 **Match Score:** 10.4%
 
 📍 **Location:** Menomonee Falls, WI, US USA
@@ -959,6 +937,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** Kinesis, Databricks, Event Hubs, Unity Catalog, Delta Live Tables, Spark, Scala, Kafka, ELT, DataOps
 
 [Apply Here](https://www.indeed.com/viewjob?jk=60bd36ef9cdb09ec)
+
+---
+
+## 86. Senior PowerBI Developer (FDOT OOC) @ TECKpert
+**Match Score:** 10.4%
+
+📍 **Location:** Tallahassee, FL, US USA
+
+🔑 **Keywords:** IAM, RDS, Azure, Data Factory, Dataflow, Oracle, SQL Server, Dimensional Modeling, Star Schema, Power BI
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3df96b00481cbb0c)
+
+---
+
+## 87. Senior Java Software Engineer - On-Site Minneapolis, MN @ Accenture
+**Match Score:** 10.4%
+
+📍 **Location:** Minneapolis, MN, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Kafka, MongoDB, Cassandra, NoSQL, CI/CD, Jenkins, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=681a949fc99e68d5)
 
 ---
 
@@ -973,40 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Software Engineer @ Law School Admission Council
-**Match Score:** 10.4%
-
-📍 **Location:** Newtown, PA, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Scala, Oracle, SQL Server, Azure Cosmos DB, Power BI, CI/CD, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1b53095d8bc376d7)
-
----
-
-## 90. Associate Software Engineer - Java (Distributed Systems and Databases) @ New Relic
-**Match Score:** 10.4%
-
-📍 **Location:** Portland, OR, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, MySQL, MongoDB, DynamoDB, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=eba4a94f26ebfc6f)
-
----
-
-## 91. DevOps Engineer II @ Level Data, Inc
-**Match Score:** 10.4%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, CI/CD, Azure DevOps, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6a7875d6817c19bc)
-
----
-
-## 92. Application Developer/Programmer II @ Associated Grocers of New England, Inc.
+## 89. Application Developer/Programmer II @ Associated Grocers of New England, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Pembroke, NH, US USA
@@ -1017,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Senior Software Engineer, Platform Infrastructure @ SmarterDx
+## 90. Senior Software Engineer, Platform Infrastructure @ SmarterDx
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1025,6 +992,50 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Snowflake, DynamoDB, CI/CD, GitHub Actions, Terraform, Docker, Kubernetes, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=7e52b444a199f4fc)
+
+---
+
+## 91. Software Engineer @ Law School Admission Council
+**Match Score:** 10.4%
+
+📍 **Location:** Newtown, PA, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Scala, Oracle, SQL Server, Azure Cosmos DB, Power BI, CI/CD, Azure DevOps
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1b53095d8bc376d7)
+
+---
+
+## 92. Associate Software Engineer - Java (Distributed Systems and Databases) @ New Relic
+**Match Score:** 10.4%
+
+📍 **Location:** Portland, OR, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, MySQL, MongoDB, DynamoDB, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eba4a94f26ebfc6f)
+
+---
+
+## 93. DevOps Engineer II @ Level Data, Inc
+**Match Score:** 10.4%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, CI/CD, Azure DevOps, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6a7875d6817c19bc)
+
+---
+
+## 94. Software Engineer II @ Waystar
+**Match Score:** 10.4%
+
+📍 **Location:** Louisville, KY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, SQL Server, PostgreSQL, NoSQL, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9817c4c795b73795)
 
 ---
 
