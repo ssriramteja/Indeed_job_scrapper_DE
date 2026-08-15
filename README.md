@@ -1,15 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 03:32
+Last updated: 2026-08-15 04:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 04:20 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 04:20 |
 | Deloitte | Cyber Full-Stack Technical Software Engineer | Rosslyn, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=18a8f76fdfd6054e) | 2026-08-15 03:32 |
 | Delan Associates, Inc | Full Stack Developer [development, QA automation, data] | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=614dc194a49ca09a) | 2026-08-15 03:32 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 03:32 |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 03:32 |
 | Pharmacy Data Management, Inc. | Senior Data Engineer | Poland, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4f591a25dd32ad38) | 2026-08-15 03:32 |
 | AMD | SMTS IT Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c854612fc1752d57) | 2026-08-15 03:32 |
 | Colorado Public Employees' Retirement Association | Data Analytics Specialist | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=907539388cf5ea04) | 2026-08-15 03:32 |
