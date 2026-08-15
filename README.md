@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 15:11
+Last updated: 2026-08-15 16:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 16:13 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 16:13 |
+| Redapt inc | Senior Database Engineer | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4541f6639d9bc1) | 2026-08-15 16:13 |
 | Disney Experiences | Data Engineer | Orlando, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=37b325f2f84b39b8) | 2026-08-15 15:11 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 15:11 |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 15:11 |
 | Maximus | Biostatician | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa3a4edd24420508) | 2026-08-15 15:11 |
 | Hackensack Meridian Health | IT Cloud Engineer II | Iselin, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83aaaf3ac879f7b6) | 2026-08-15 12:19 |
 | Accenture | Senior Java Software Engineer - On-Site Minneapolis, MN | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=681a949fc99e68d5) | 2026-08-15 12:19 |
@@ -547,22 +548,6 @@ Last updated: 2026-08-15 15:11
 | Optum | Data Engineer | Minnetonka, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=dbb3140ee1f47831) | 2026-08-11 16:47 |
 | nan | Senior Data Analyst | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9225336bad1dc9b5) | 2026-08-11 16:47 |
 | Western Camps, Inc. | Senior Analytics Engineer (PowerBi and Fabric) | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e5f974f63b3e098a) | 2026-08-11 16:47 |
-| Visibol | Java Developer | TX, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=dbdf2a1acd1d6f97) | 2026-08-11 15:51 |
-| CVS Health | Software Engineer - SRE, Retail & Pharmacy | Richardson, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b7837fd5164e6a44) | 2026-08-11 15:51 |
-| CVS Health | Software Engineer - SRE, Retail & Pharmacy | Scottsdale, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a8a888f4e8d3b768) | 2026-08-11 15:51 |
-| CVS Health | Software Engineer - SRE, Retail & Pharmacy | Woonsocket, RI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=89da70fdb2d97367) | 2026-08-11 15:51 |
-| Knife River | DevOps Engineer II | Bismarck, ND, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=113d33b7673b9bbe) | 2026-08-11 15:51 |
-| University of Southern California | Associate Data Scientist | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3a58275a555dc05c) | 2026-08-11 15:51 |
-| Fiserv | AI Accelerated Senior Java Engineer | Berkeley Heights, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a415b08ffa069b7f) | 2026-08-11 15:51 |
-| Cargill | Sr. Network Engineer- Versa SDWAN | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=908e3006d07b4364) | 2026-08-11 15:51 |
-| CVS Health | Senior Software Engineer - SRE, Retail and Pharmacy | Woonsocket, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9a6b395659de2d05) | 2026-08-11 15:51 |
-| CVS Health | Senior Software Engineer - SRE, Retail and Pharmacy | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29deca2ea5145f06) | 2026-08-11 15:51 |
-| CVS Health | Senior Software Engineer - SRE, Retail and Pharmacy | Woonsocket, RI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a472f23e1c340c70) | 2026-08-11 15:51 |
-| CVS Health | Senior Software Engineer - SRE, Retail and Pharmacy | Scottsdale, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee2978763d135cc0) | 2026-08-11 15:51 |
-| CVS Health | Senior Software Engineer - SRE, Retail and Pharmacy | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39f2465d623c26d1) | 2026-08-11 15:51 |
-| CVS Health | Senior Software Engineer - SRE, Retail and Pharmacy | Scottsdale, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bc1394ccb8124c7) | 2026-08-11 15:51 |
-| Markel Corporation | Senior Azure Data Engineer - State National | Bedford, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=346bc6d60e2f1b8a) | 2026-08-11 15:51 |
-| Janus Henderson Investors | Data Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b6e0919b528bf52) | 2026-08-11 15:51 |
 
 
 ---
