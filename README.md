@@ -1,13 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 22:11
+Last updated: 2026-08-15 23:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-15 22:11 |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 22:11 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-15 23:11 |
 | Colas | Senior Data Engineer, Databricks | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=623e6ba410872463) | 2026-08-15 19:15 |
 | Redapt inc | Senior Database Engineer | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4541f6639d9bc1) | 2026-08-15 16:13 |
 | Disney Experiences | Data Engineer | Orlando, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=37b325f2f84b39b8) | 2026-08-15 15:11 |
@@ -501,11 +500,6 @@ Last updated: 2026-08-15 22:11
 | U.S. Bank | Software Engineer 2 (AI/GenAI) | Earth City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=352496db659a2a8d) | 2026-08-11 23:30 |
 | Electronic Arts | Sr Data Scientist | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b97ef9ad96dfc39) | 2026-08-11 23:30 |
 | MetLife | Senior Software Engineer - App Reliability | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3473cf07214c5ee) | 2026-08-11 23:30 |
-| MindBoard | Remote Snowflake Certified Architect / Senior Developer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=7652a87536a73d6b) | 2026-08-11 22:32 |
-| Wells Fargo | Senior Software Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=76c449e7bee48aa6) | 2026-08-11 22:32 |
-| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6b6758703ce1af49) | 2026-08-11 22:32 |
-| JPMorganChase | Data Engineer III - Python, Databricks | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=31e94d86522e8759) | 2026-08-11 22:32 |
-| Commence | Sr. Quality Assurance Engineer | Virginia Beach, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3a7216e95a38186a) | 2026-08-11 22:32 |
 
 
 ---
