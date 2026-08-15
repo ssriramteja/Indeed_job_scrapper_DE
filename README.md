@@ -1,15 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 07:22
+Last updated: 2026-08-15 08:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 08:16 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 08:16 |
 | NTT DATA | Senior Data Engineer (On-Site) | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d460a6aac4fd260a) | 2026-08-15 07:22 |
 | NTT DATA | Senior Data Engineer | Nashville, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=afe1d38414cdf113) | 2026-08-15 07:22 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 07:22 |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 07:22 |
 | NTT DATA | Data Engineer - Cybersecurity Analytics - Onsite | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c1bb02eacc6e0c34) | 2026-08-15 07:22 |
 | NTT DATA | Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3da42b71924a8f2a) | 2026-08-15 07:22 |
 | NTT DATA | Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4292233ac9b01465) | 2026-08-15 07:22 |
@@ -562,8 +562,6 @@ Last updated: 2026-08-15 07:22
 | nan | Senior Cloud Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c11f470fecf7abb) | 2026-08-11 09:51 |
 | NYU Langone Health | Sr. Bioinformatics Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fce382916bf426ff) | 2026-08-11 09:51 |
 | VHB | Data Architect | Watertown, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=633c0381a949d70e) | 2026-08-11 09:51 |
-| ActioNet | Software Engineer IV – Web/Database Development | Vienna, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=283cba6a8ee893ac) | 2026-08-11 08:04 |
-| Roadrunner | Data Engineer | Downers Grove, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6fbe911be786d31a) | 2026-08-11 08:04 |
 
 
 ---
