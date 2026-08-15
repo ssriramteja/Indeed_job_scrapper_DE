@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 18:15
+Last updated: 2026-08-15 19:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 18:15 |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 18:15 |
+| Colas | Senior Data Engineer, Databricks | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=623e6ba410872463) | 2026-08-15 19:15 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 19:15 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 19:15 |
 | Redapt inc | Senior Database Engineer | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4541f6639d9bc1) | 2026-08-15 16:13 |
 | Disney Experiences | Data Engineer | Orlando, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=37b325f2f84b39b8) | 2026-08-15 15:11 |
 | Maximus | Biostatician | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa3a4edd24420508) | 2026-08-15 15:11 |
@@ -532,12 +533,6 @@ Last updated: 2026-08-15 18:15
 | SAKSOFT | Full Stack Quantitative Developer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=90fd4a5e897af711) | 2026-08-11 19:55 |
 | VIVA | Cloud Systems Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=10e3305971e0ebf9) | 2026-08-11 19:55 |
 | Viventium Software | Enterprise Software Architect | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06836dacb6415fc9) | 2026-08-11 19:55 |
-| Optum | Senior Data Modeler - Enterprise Data Warehouse - Remote | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b8c7ee86ade96fc0) | 2026-08-11 18:48 |
-| NTT DATA | DevOps Engineer | Nashville, TN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=127b8ee0d5e8b7d6) | 2026-08-11 18:48 |
-| Quantic | Senior Software Engineer – NestJS & Backend Architecture | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2960b1e2ceb9f1d9) | 2026-08-11 18:48 |
-| UnitedHealthcare | Sr Data Scientist - AI or ML Engineering Focus - Remote | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be573081e3bdbe94) | 2026-08-11 18:48 |
-| BV Teck | Data Solutions Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5645664d20b6d934) | 2026-08-11 18:48 |
-| PatientPoint | Software Engineer in Test | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=597c1235384c626f) | 2026-08-11 18:48 |
 
 
 ---
