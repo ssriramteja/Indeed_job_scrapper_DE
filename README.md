@@ -1,13 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 08:16
+Last updated: 2026-08-15 09:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 08:16 |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 08:16 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 09:17 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 09:17 |
+| LevelUp | Data Analyst | Brooklyn, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce9a7a371c99d3f5) | 2026-08-15 09:17 |
+| Law School Admission Council | Software Engineer | Newtown, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b53095d8bc376d7) | 2026-08-15 09:17 |
 | NTT DATA | Senior Data Engineer (On-Site) | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d460a6aac4fd260a) | 2026-08-15 07:22 |
 | NTT DATA | Senior Data Engineer | Nashville, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=afe1d38414cdf113) | 2026-08-15 07:22 |
 | NTT DATA | Data Engineer - Cybersecurity Analytics - Onsite | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c1bb02eacc6e0c34) | 2026-08-15 07:22 |
