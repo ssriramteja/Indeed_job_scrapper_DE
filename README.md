@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 20:12
+Last updated: 2026-08-15 21:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 20:12 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-15 21:12 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 21:12 |
 | Colas | Senior Data Engineer, Databricks | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=623e6ba410872463) | 2026-08-15 19:15 |
 | Redapt inc | Senior Database Engineer | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4541f6639d9bc1) | 2026-08-15 16:13 |
 | Disney Experiences | Data Engineer | Orlando, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=37b325f2f84b39b8) | 2026-08-15 15:11 |
@@ -522,10 +523,6 @@ Last updated: 2026-08-15 20:12
 | UniFirst | MuleSoft Developer | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf910bfe5104518f) | 2026-08-11 21:36 |
 | MetLife | Senior Software Engineer - App Reliability | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ec9965e5f979d25) | 2026-08-11 21:36 |
 | EMC Insurance | Senior Software Engineer - EMC Life | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d92f160b74d66c67) | 2026-08-11 21:36 |
-| State of Kansas | Data and Analytics Engineer | KS, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=98b23d350c0a1037) | 2026-08-11 20:35 |
-| Jazwares | Data Engineer | Plantation, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1e9aa9aff1abc0cd) | 2026-08-11 20:35 |
-| accrete | Senior Platform Engineer | Alexandria, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3f545fc0176e351) | 2026-08-11 20:35 |
-| accrete | Senior Platform Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ec121a9fa254deb) | 2026-08-11 20:35 |
 
 
 ---
