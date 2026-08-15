@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 09:17
+Last updated: 2026-08-15 10:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 09:17 |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 09:17 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 10:13 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 10:13 |
+| Ness Digital Engineering | Senior Data Engineer – Enterprise Data Hub (AWS + Snowflake + DBT + PySpark + CI/CD) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79b401774b372da8) | 2026-08-15 10:13 |
 | LevelUp | Data Analyst | Brooklyn, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce9a7a371c99d3f5) | 2026-08-15 09:17 |
 | Law School Admission Council | Software Engineer | Newtown, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b53095d8bc376d7) | 2026-08-15 09:17 |
 | NTT DATA | Senior Data Engineer (On-Site) | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d460a6aac4fd260a) | 2026-08-15 07:22 |
@@ -560,10 +561,6 @@ Last updated: 2026-08-15 09:17
 | Capgemini | Associate Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=129b88106a4533af) | 2026-08-11 12:42 |
 | Capgemini | Associate Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50523aed281396ba) | 2026-08-11 11:37 |
 | Abbott | Senior Database Engineer II | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c8531d4cc2132548) | 2026-08-11 10:42 |
-| JPMorganChase | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ce6090dbce36244c) | 2026-08-11 09:51 |
-| nan | Senior Cloud Engineer | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4c11f470fecf7abb) | 2026-08-11 09:51 |
-| NYU Langone Health | Sr. Bioinformatics Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fce382916bf426ff) | 2026-08-11 09:51 |
-| VHB | Data Architect | Watertown, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=633c0381a949d70e) | 2026-08-11 09:51 |
 
 
 ---
