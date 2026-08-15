@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 11:11
+Last updated: 2026-08-15 12:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 12:19 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 12:19 |
+| Hackensack Meridian Health | IT Cloud Engineer II | Iselin, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=83aaaf3ac879f7b6) | 2026-08-15 12:19 |
+| Accenture | Senior Java Software Engineer - On-Site Minneapolis, MN | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=681a949fc99e68d5) | 2026-08-15 12:19 |
 | PepsiCo | Senior Identity & Access Management (CIAM) Engineer | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b50d50511fbcccef) | 2026-08-15 11:11 |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 11:11 |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 11:11 |
 | Networking for Future, Inc. | Cloud Systems Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=22447d3211df125b) | 2026-08-15 11:11 |
 | Ness Digital Engineering | Senior Data Engineer – Enterprise Data Hub (AWS + Snowflake + DBT + PySpark + CI/CD) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79b401774b372da8) | 2026-08-15 10:13 |
 | LevelUp | Data Analyst | Brooklyn, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce9a7a371c99d3f5) | 2026-08-15 09:17 |
@@ -561,7 +563,6 @@ Last updated: 2026-08-15 11:11
 | Janus Henderson Investors | Data Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8b6e0919b528bf52) | 2026-08-11 15:51 |
 | J2B GLOBAL LLC | Cloud Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bb35643e47a7e41b) | 2026-08-11 14:13 |
 | Capgemini | Associate Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=129b88106a4533af) | 2026-08-11 12:42 |
-| Capgemini | Associate Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50523aed281396ba) | 2026-08-11 11:37 |
 
 
 ---
