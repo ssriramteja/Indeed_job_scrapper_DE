@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 17:12
+Last updated: 2026-08-15 18:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 17:12 |
-| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 17:12 |
+| R.S. Hughes Company, Inc. | Senior Data Engineer | Salt Lake City, UT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e0b4872f64c2f0fa) | 2026-08-15 18:15 |
+| Patterson-UTI Drilling Company LLC | Senior Site Reliability Engineer NEX | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e23128c778b77a9) | 2026-08-15 18:15 |
 | Redapt inc | Senior Database Engineer | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4541f6639d9bc1) | 2026-08-15 16:13 |
 | Disney Experiences | Data Engineer | Orlando, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=37b325f2f84b39b8) | 2026-08-15 15:11 |
 | Maximus | Biostatician | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa3a4edd24420508) | 2026-08-15 15:11 |
@@ -538,13 +538,6 @@ Last updated: 2026-08-15 17:12
 | UnitedHealthcare | Sr Data Scientist - AI or ML Engineering Focus - Remote | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=be573081e3bdbe94) | 2026-08-11 18:48 |
 | BV Teck | Data Solutions Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5645664d20b6d934) | 2026-08-11 18:48 |
 | PatientPoint | Software Engineer in Test | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=597c1235384c626f) | 2026-08-11 18:48 |
-| Valvoline Global Operations | Sr. Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=720c45a82f53f263) | 2026-08-11 17:50 |
-| Dauch | Integration Specialist | Detroit, MI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=034c1e07736ca22b) | 2026-08-11 17:50 |
-| Trupanion | Data Engineer | Seattle, WA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f426b92d0adc5e27) | 2026-08-11 17:50 |
-| PayIt | Associate Data Engineer | Kansas City, MO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9b84daac08f9aaf6) | 2026-08-11 17:50 |
-| Prime Medicine | Informatics Engineer | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbd24beae107df7e) | 2026-08-11 17:50 |
-| Lantern | Data Architect | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45c7a33a5d7a2996) | 2026-08-11 17:50 |
-| Lantern | Data Architect | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09da89624990c354) | 2026-08-11 17:50 |
 
 
 ---
