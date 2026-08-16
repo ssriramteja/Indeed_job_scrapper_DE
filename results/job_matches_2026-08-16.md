@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-08-16
 
-**Total Jobs Found:** 11
+**Total Jobs Found:** 10
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer @ Ford Motor Company
-**Match Score:** 20.8%
-
-📍 **Location:** Dearborn, MI, US USA
-
-🔑 **Keywords:** AWS, Redshift, RDS, Azure, Synapse Analytics, Google Cloud Platform, GCP, BigQuery, Vertex AI, Spark
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130)
-
----
-
-## 2. Senior Data Engineer, Databricks @ Colas USA
+## 1. Senior Data Engineer, Databricks @ Colas USA
 **Match Score:** 16.7%
 
 📍 **Location:** Denver, CO, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Software Development Engineer - US Federal @ Workday
+## 2. Software Development Engineer - US Federal @ Workday
 **Match Score:** 14.6%
 
 📍 **Location:** Reston, VA, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Sr. Associate Software Development Engineer - US Federal @ Workday
+## 3. Sr. Associate Software Development Engineer - US Federal @ Workday
 **Match Score:** 14.6%
 
 📍 **Location:** Reston, VA, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Software Engineer II @ Pearson
+## 4. Software Engineer II @ Pearson
 **Match Score:** 13.2%
 
 📍 **Location:** Englewood, CO, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Jr Software Developer @ KBR
+## 5. Jr Software Developer @ KBR
 **Match Score:** 13.2%
 
 📍 **Location:** Colorado Springs, CO, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Jr Software Developer @ KBR
+## 6. Jr Software Developer @ KBR
 **Match Score:** 13.2%
 
 📍 **Location:** Colorado Springs, CO, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Infrastructure Engineer @ RoadSync
+## 7. Infrastructure Engineer @ RoadSync
 **Match Score:** 13.2%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior AI/ML Platform Engineer, GovCloud @ Medallia
+## 8. Senior AI/ML Platform Engineer, GovCloud @ Medallia
 **Match Score:** 12.5%
 
 📍 **Location:** McLean, VA, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Engineer, IT Data @ American Airlines
+## 9. Senior Engineer, IT Data @ American Airlines
 **Match Score:** 12.5%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Backend Engineer - AI Gateway @ Cinter Networks
+## 10. Backend Engineer - AI Gateway @ Cinter Networks
 **Match Score:** 11.1%
 
 📍 **Location:** Plano, TX, US USA
