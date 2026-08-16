@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-15 23:11
+Last updated: 2026-08-16 00:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-15 23:11 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 00:43 |
+| NTT DATA | Power BI Engineer | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8dfc6ba885136236) | 2026-08-16 00:43 |
+| Colas USA | Senior Data Engineer, Databricks | Denver, CO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e57d8b4886da861) | 2026-08-16 00:43 |
 | Colas | Senior Data Engineer, Databricks | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=623e6ba410872463) | 2026-08-15 19:15 |
 | Redapt inc | Senior Database Engineer | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4541f6639d9bc1) | 2026-08-15 16:13 |
 | Disney Experiences | Data Engineer | Orlando, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=37b325f2f84b39b8) | 2026-08-15 15:11 |
@@ -487,19 +489,6 @@ Last updated: 2026-08-15 23:11
 | BV Teck | Senior Java Full Stack Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e65800e07d6979c) | 2026-08-12 01:07 |
 | BV Teck | Data Platform Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d58ecae6d6b2220) | 2026-08-12 01:07 |
 | Teladoc Health | Data Scientist III | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14b6367d34339931) | 2026-08-12 01:07 |
-| Healthfirst | Sr Data Engineer | Remote, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=f7642aa199d34181) | 2026-08-11 23:30 |
-| LPL Financial | Summer Intern 2027 - Data | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5ac3317abd73d3aa) | 2026-08-11 23:30 |
-| Striim | Partner Solutions Architect | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bc9ea64b3e0c74c1) | 2026-08-11 23:30 |
-| Striim | Partner Solutions Architect | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=41afaba58e1c4224) | 2026-08-11 23:30 |
-| J&T Business Consulting | Senior Data Science Engineer (With TS/SCI Clearance and a current Full Scope Poly) | Annapolis Junction, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e904a72543c1613d) | 2026-08-11 23:30 |
-| Creative Information Technology India | EDP Cloud Systems Engineer – Washington, DC | Falls Church, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b4e97627506b5d28) | 2026-08-11 23:30 |
-| SpaceXAI | Software Engineer - Data Center | Memphis, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1b4ea598fe484112) | 2026-08-11 23:30 |
-| Buildertrend | Senior Data Engineer | Omaha, NE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a0d83ad41e4c629) | 2026-08-11 23:30 |
-| Britive | Senior Customer Success Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de2fdd477c52ce50) | 2026-08-11 23:30 |
-| Sherwin-Williams | Data Solutions Developer | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=08dcea365e66c311) | 2026-08-11 23:30 |
-| U.S. Bank | Software Engineer 2 (AI/GenAI) | Earth City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=352496db659a2a8d) | 2026-08-11 23:30 |
-| Electronic Arts | Sr Data Scientist | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b97ef9ad96dfc39) | 2026-08-11 23:30 |
-| MetLife | Senior Software Engineer - App Reliability | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3473cf07214c5ee) | 2026-08-11 23:30 |
 
 
 ---
