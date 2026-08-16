@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-16 18:15
+Last updated: 2026-08-16 19:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 18:15 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 19:14 |
 | RoadSync | Infrastructure Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=43f605a11b0b8a05) | 2026-08-16 18:15 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7917c01121d24b96) | 2026-08-16 13:23 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a758504314944c77) | 2026-08-16 13:23 |
@@ -363,12 +363,6 @@ Last updated: 2026-08-16 18:15
 | Corning | IT Manufacturing Data Solutions Engineer | Newton, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4258cff9137c8987) | 2026-08-12 19:56 |
 | Capgemini | Data Scientist - Data Platforms - I&D | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61fbca34991c8dbc) | 2026-08-12 19:56 |
 | Cwill | DevOps/SRE Engineer - Bilingual Mandarin Required | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=117b4008b8891695) | 2026-08-12 19:56 |
-| Optum | Senior Cloud Data Engineer - Remote | Eden Prairie, MN, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=79d27925e100760a) | 2026-08-12 18:49 |
-| Verana Health | Senior Software Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03eec9ffa29dd1d8) | 2026-08-12 18:49 |
-| United States Cold Storage | DEVOPS CLOUD ENGINEER | Camden, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0629f04d1d0f4e56) | 2026-08-12 18:49 |
-| Constant Contact | Analytics Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=26b4a6b5b9f18e9c) | 2026-08-12 18:49 |
-| Constant Contact | Analytics Engineer | Waltham, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dea9ae7272713e5) | 2026-08-12 18:49 |
-| General Mills | Senior Machine Learning Engineer - Remote | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f5dbd615db9ede1) | 2026-08-12 18:49 |
 
 
 ---
