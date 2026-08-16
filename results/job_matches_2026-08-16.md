@@ -82,7 +82,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior AI/ML Platform Engineer, GovCloud @ Medallia
+## 8. Software Engineer II @ Pearson
+**Match Score:** 13.2%
+
+📍 **Location:** Englewood, CO, US USA
+
+🔑 **Keywords:** AWS, Lambda, Kinesis, SQS, ECS, RDS, GCP, BigQuery, Scala, NoSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=13516b225489ef52)
+
+---
+
+## 9. Senior AI/ML Platform Engineer, GovCloud @ Medallia
 **Match Score:** 12.5%
 
 📍 **Location:** McLean, VA, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Engineer, IT Data @ American Airlines
+## 10. Senior Engineer, IT Data @ American Airlines
 **Match Score:** 12.5%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -104,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Database Engineer @ Redapt inc
+## 11. Senior Database Engineer @ Redapt inc
 **Match Score:** 10.4%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -112,17 +123,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Scala, Oracle, SQL Server, PostgreSQL, MySQL, Data Modeling, CI/CD, Terraform
 
 [Apply Here](https://www.indeed.com/viewjob?jk=9f4541f6639d9bc1)
-
----
-
-## 11. Senior Java Software Engineer - On-Site Minneapolis, MN @ Accenture
-**Match Score:** 10.4%
-
-📍 **Location:** Minneapolis, MN, US USA
-
-🔑 **Keywords:** AWS, RDS, Scala, Kafka, MongoDB, Cassandra, NoSQL, CI/CD, Jenkins, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=681a949fc99e68d5)
 
 ---
 

@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-16 10:14
+Last updated: 2026-08-16 11:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 10:14 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 11:11 |
+| Pearson | Software Engineer II | Englewood, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=13516b225489ef52) | 2026-08-16 11:11 |
 | Medallia | Senior AI/ML Platform Engineer, GovCloud | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8a5f83cd6892d049) | 2026-08-16 10:14 |
 | Workday | Software Development Engineer - US Federal | Reston, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37b50b0aef4d49b0) | 2026-08-16 05:19 |
 | Workday | Sr. Associate Software Development Engineer - US Federal | Reston, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ccc557eea54e41a1) | 2026-08-16 05:19 |
@@ -388,12 +389,6 @@ Last updated: 2026-08-16 10:14
 | Capgemini | AWS Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7d33dd298324329e) | 2026-08-12 11:40 |
 | Capgemini | Senior Full Stack Developer (Java, React, AWS) | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03e1e849982bafdc) | 2026-08-12 11:40 |
 | Capgemini | Snowflake AI Data Engineer | Bridgewater, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4dbc3396b3e9d4d) | 2026-08-12 11:40 |
-| Arctiq | Full Stack Application Developer | Blue Bell, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a46eecd61e11e052) | 2026-08-12 10:52 |
-| MarLabs | Databricks Resident Solution Architect | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=49b239f5e5b3b54a) | 2026-08-12 10:52 |
-| MarLabs | AWS Devops Cloud Engineer | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8aa86ffff6ee80c1) | 2026-08-12 10:52 |
-| Arctiq | HashiCorp Technical Consultant | Blue Bell, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7fd373a29fef81c5) | 2026-08-12 10:52 |
-| Arctiq | Full Stack Application Developer | Blue Bell, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=764ac1af4e0e0689) | 2026-08-12 10:52 |
-| MarLabs | Security Automation Engineer (Python) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c059189127bc5cc1) | 2026-08-12 10:52 |
 
 
 ---
