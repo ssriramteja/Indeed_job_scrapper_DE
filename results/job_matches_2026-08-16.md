@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-16
 
-**Total Jobs Found:** 15
+**Total Jobs Found:** 13
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -126,29 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Data Engineer – Enterprise Data Hub (AWS + Snowflake + DBT + PySpark + CI/CD) @ Ness Digital Engineering
-**Match Score:** 10.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Spark, PySpark, Scala, Snowflake, Data Modeling, Star Schema, Snowflake Schema, Dimension Tables, dbt
-
-[Apply Here](https://www.indeed.com/viewjob?jk=79b401774b372da8)
-
----
-
-## 13. Software Engineer @ Law School Admission Council
-**Match Score:** 10.4%
-
-📍 **Location:** Newtown, PA, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Scala, Oracle, SQL Server, Azure Cosmos DB, Power BI, CI/CD, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1b53095d8bc376d7)
-
----
-
-## 14. Senior Database Engineer @ Redapt inc
+## 12. Senior Database Engineer @ Redapt inc
 **Match Score:** 10.4%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -159,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Java Software Engineer - On-Site Minneapolis, MN @ Accenture
+## 13. Senior Java Software Engineer - On-Site Minneapolis, MN @ Accenture
 **Match Score:** 10.4%
 
 📍 **Location:** Minneapolis, MN, US USA
