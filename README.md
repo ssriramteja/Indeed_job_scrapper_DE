@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-16 03:40
+Last updated: 2026-08-16 04:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 03:40 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 04:26 |
 | American Airlines | Senior Engineer, IT Data | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca4c7fcf944f91e0) | 2026-08-16 03:40 |
 | NTT DATA | Power BI Engineer | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8dfc6ba885136236) | 2026-08-16 00:43 |
 | Colas USA | Senior Data Engineer, Databricks | Denver, CO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e57d8b4886da861) | 2026-08-16 00:43 |
@@ -398,81 +398,6 @@ Last updated: 2026-08-16 03:40
 | IDEXX Laboratories | Data Engineer II, AWS Data Platform | Westbrook, ME, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=12fffd8f7fd4e890) | 2026-08-12 05:24 |
 | LTM Limited | Senior Specialist - Quality Engineering | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50a578c93e384c2c) | 2026-08-12 05:24 |
 | Keeper Security, Inc. | Senior Infrastructure Test Engineer, DevOps | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4cc739f28a9dbd6c) | 2026-08-12 05:24 |
-| Kentro | ETL Developer | Remote, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=f93bd43dc6dfa898) | 2026-08-12 03:56 |
-| MATERIAL | Technical Architect | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1e88a49966e5674a) | 2026-08-12 03:56 |
-| Wells Fargo | Senior AI Data Engineer (contract) | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d0871e37a530ef61) | 2026-08-12 03:56 |
-| Wells Fargo | Senior AI Data Engineer (contract) | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f64f4865300918b5) | 2026-08-12 03:56 |
-| PDS Health | Engineer I, Business Analytics and Data Intelligence | Irvine, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=54ac8ecc98fde46e) | 2026-08-12 03:56 |
-| Harvard University | Senior DevOps Engineer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f85b210775ce96fe) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | San Antonio, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4ff5e6c5e0c4cb98) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Nashville, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1f37f98ae92022cc) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Princeton, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0424175a23c91455) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bfb24ee33993b4d3) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7dbc9a5c20a1556b) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Memphis, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=809d995845b39a8b) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Rochester, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fa1f4b7324f011a4) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Cleveland, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65def939a6d6f9bf) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Dayton, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2154128b023da7aa) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=36e42f400241a680) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Kansas City, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9bedbce0bdfe67c2) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Jersey City, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4a458738498ba664) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Morristown, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=21475f2887c400b7) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Portland, OR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cd2d3c5883bfed16) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Denver, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d4e7db1f3e9fc085) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=67bc95efc5566a38) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Milwaukee, WI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d36dfae3587b505c) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Rosslyn, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c53c3acfd1648584) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4bc2899f796a16fb) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Richmond, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5ab1e3f911c0a415) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Jericho, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=694282a21f887d80) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8eee752d33d93ebd) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Costa Mesa, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0b0e642de58c95b9) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Philadelphia, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5f637892c5403fa9) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9853ce2732f84a10) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Mechanicsburg, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=47d50d062ae813bf) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=49ee23c653fd5ee5) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6a8278a573f0dad8) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=df476be702e28761) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | New Orleans, LA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=697cc31208b8ca3f) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Lake Mary, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dea2bc56a9e34beb) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Jacksonville, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=92c410b540d9e907) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=84a691585367c9e6) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Minneapolis, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=990326544cfad9f6) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Hermitage, TN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9ce400ecee13b955) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=71e23d6931640551) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=99108deb158f7e9b) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2176c06bd94e8f69) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | McLean, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=db671c7409de21d4) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Hartford, CT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6066640ee62481e5) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Las Vegas, NV, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8850abbb9751d022) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=471ae09261cf084d) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Louisville, KY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dccc27b44783574a) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Davenport, IA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3567f1e0f77dac43) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Detroit, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=db4cc1c3196bd4ba) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Gilbert, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6a3411d219babfd3) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Miami, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9733ac8f8c23e449) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Stamford, CT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9be508658362ebf5) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Baltimore, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2f853f747d68926b) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=da9dd345f23902fb) | 2026-08-12 03:56 |
-| Deloitte | Cyber Forward Deployed Engineer - Senior Consultant | Colorado Springs, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3dfe56f5a56c3183) | 2026-08-12 03:56 |
-| LEADER BANK | Senior Full Stack Developer | Arlington, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9e1ce2b5bd665f69) | 2026-08-12 03:56 |
-| MeridianLink | Senior Site Reliability Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=14de76ec36c970e2) | 2026-08-12 03:56 |
-| MeridianLink | Senior Site Reliability Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=73013c1070709d4c) | 2026-08-12 03:56 |
-| Wells Fargo | Senior Power BI & GCP Data Analytics Consultant (contract) | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=14d55f6cd70406c7) | 2026-08-12 03:56 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cae99be989417fae) | 2026-08-12 03:56 |
-| HP | Enterprise Operations Software Internship | Spring, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e9c8cc4ec9ed8337) | 2026-08-12 03:56 |
-| Bestow | Platform Engineer II | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=431e5a9b7d2c180d) | 2026-08-12 03:56 |
-| Deloitte | Sr. .NET Full Stack Developer-Software Engineer III | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2387b16461a952b9) | 2026-08-12 03:56 |
-| Deloitte | Sr. .NET Full Stack Developer-Software Engineer III | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=761a68ed0406067e) | 2026-08-12 03:56 |
-| Deloitte | .NET Developer-Software Engineer II | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8b6a8e88d647038c) | 2026-08-12 03:56 |
-| Deloitte | .NET Developer-Software Engineer II | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01da8d12018f03a0) | 2026-08-12 03:56 |
-| Deloitte | Sr. .NET Full Stack Developer-Software Engineer III | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d8f2df76176d2c6f) | 2026-08-12 03:56 |
-| Deloitte | .NET Developer-Software Engineer II | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e28329fa974c80b8) | 2026-08-12 03:56 |
-| accrete | Find the work that fits. | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=156284a25afeae60) | 2026-08-12 03:56 |
-| Salesforce | Sr. DNS Engineer | Indianapolis, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47fe0d3145b6d766) | 2026-08-12 03:56 |
-| The Evolvers Group | Cloud Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9fb25c410bfe57d4) | 2026-08-12 03:56 |
-| Lynker | Database and Applications Developer | Pascagoula, MS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0637e6b70acc24b1) | 2026-08-12 03:56 |
-| Family Dollar | Software Developer | Chesapeake, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c4521197ca80202) | 2026-08-12 03:56 |
 
 
 ---
