@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-08-16
 
-**Total Jobs Found:** 11
+**Total Jobs Found:** 10
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Data Engineer, Databricks @ Colas USA
-**Match Score:** 16.7%
-
-📍 **Location:** Denver, CO, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Unity Catalog, Delta Live Tables, Photon, Spark, PySpark, Time Travel
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8e57d8b4886da861)
-
----
-
-## 2. Software Development Engineer - US Federal @ Workday
+## 1. Software Development Engineer - US Federal @ Workday
 **Match Score:** 14.6%
 
 📍 **Location:** Reston, VA, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Sr. Associate Software Development Engineer - US Federal @ Workday
+## 2. Sr. Associate Software Development Engineer - US Federal @ Workday
 **Match Score:** 14.6%
 
 📍 **Location:** Reston, VA, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Software Engineer II @ Pearson
+## 3. Software Engineer II @ Pearson
 **Match Score:** 13.2%
 
 📍 **Location:** Englewood, CO, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Jr Software Developer @ KBR
+## 4. Jr Software Developer @ KBR
 **Match Score:** 13.2%
 
 📍 **Location:** Colorado Springs, CO, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Jr Software Developer @ KBR
+## 5. Jr Software Developer @ KBR
 **Match Score:** 13.2%
 
 📍 **Location:** Colorado Springs, CO, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Infrastructure Engineer @ RoadSync
+## 6. Infrastructure Engineer @ RoadSync
 **Match Score:** 13.2%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior AI/ML Platform Engineer, GovCloud @ Medallia
+## 7. Senior AI/ML Platform Engineer, GovCloud @ Medallia
 **Match Score:** 12.5%
 
 📍 **Location:** McLean, VA, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Engineer, IT Data @ American Airlines
+## 8. Senior Engineer, IT Data @ American Airlines
 **Match Score:** 12.5%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -101,6 +90,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** Azure, Data Factory, Databricks, Data Lake Storage, Spark, Data Modeling, Power BI, Tableau, CI/CD, Jenkins
 
 [Apply Here](https://www.indeed.com/viewjob?jk=ca4c7fcf944f91e0)
+
+---
+
+## 9. Sr Associate Data Analytics @ Amgen
+**Match Score:** 11.1%
+
+📍 **Location:** Tampa, FL, US USA
+
+🔑 **Keywords:** S3, RDS, Databricks, Scala, Informatica PowerCenter, SQL Server, Power BI, Tableau, Git, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4fbfe0f5be436a39)
 
 ---
 
@@ -112,17 +112,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** IAM, Azure, Kafka, PostgreSQL, CI/CD, GitHub Actions, Terraform, Docker, Kubernetes, AKS
 
 [Apply Here](https://www.indeed.com/viewjob?jk=dfe651047abaadcf)
-
----
-
-## 11. Sr Associate Data Analytics @ Amgen
-**Match Score:** 11.1%
-
-📍 **Location:** Tampa, FL, US USA
-
-🔑 **Keywords:** S3, RDS, Databricks, Scala, Informatica PowerCenter, SQL Server, Power BI, Tableau, Git, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4fbfe0f5be436a39)
 
 ---
 

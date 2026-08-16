@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-16 22:11
+Last updated: 2026-08-16 23:10
 
 ### 🚀 Daily Job Matches
 
@@ -336,9 +336,6 @@ Last updated: 2026-08-16 22:11
 | Mariner Wealth Advisors | Analytics Engineer II | Overland Park, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ceffe4425570abe) | 2026-08-12 23:31 |
 | MedeAnalytics | Senior Business Analyst | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ffa1810d5da5d3d) | 2026-08-12 23:31 |
 | Seneca Holdings, LLC | Senior Data Scientist | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d17896f3d07e4e12) | 2026-08-12 23:31 |
-| hallmark health care solutions | AI Software Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=97f17c7cef298683) | 2026-08-12 22:30 |
-| Trane Technologies | Data Engineer | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd0ca6fcf446a943) | 2026-08-12 22:30 |
-| AstraZeneca | Senior Forward Deployment Engineer - Cheminformatics & AI Modelling | Cambridge, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c6c82553f05afcde) | 2026-08-12 22:30 |
 
 
 ---
