@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-16 15:12
+Last updated: 2026-08-16 16:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 15:12 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 16:13 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7917c01121d24b96) | 2026-08-16 13:23 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a758504314944c77) | 2026-08-16 13:23 |
 | Cinter Networks | Backend Engineer - AI Gateway | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfe651047abaadcf) | 2026-08-16 13:23 |
@@ -379,9 +379,6 @@ Last updated: 2026-08-16 15:12
 | Subway | Data Architect | Shelton, CT, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f1736ecfffb56a28) | 2026-08-12 16:47 |
 | Soteria | Senior Cloud Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e43462e5c0569d38) | 2026-08-12 16:47 |
 | Vforce Infotech | Data Engineer | Edison, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ad7686d5f40d3ad8) | 2026-08-12 16:47 |
-| Princess | Senior Engineer, ITSM AI Platform | Fort Lauderdale, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=eb29d8a4e4f304ec) | 2026-08-12 15:51 |
-| Coretek Services | Architect - Machine Learning and Data | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=beef2d77f930831c) | 2026-08-12 15:51 |
-| Saransh | Databricks Architect (Insurance Domain) - Remote | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=272dd0e98eb04f51) | 2026-08-12 15:51 |
 
 
 ---
