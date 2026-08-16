@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-16 11:11
+Last updated: 2026-08-16 12:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 11:11 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 12:19 |
 | Pearson | Software Engineer II | Englewood, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=13516b225489ef52) | 2026-08-16 11:11 |
 | Medallia | Senior AI/ML Platform Engineer, GovCloud | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8a5f83cd6892d049) | 2026-08-16 10:14 |
 | Workday | Software Development Engineer - US Federal | Reston, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37b50b0aef4d49b0) | 2026-08-16 05:19 |
@@ -386,9 +386,6 @@ Last updated: 2026-08-16 11:11
 | Capgemini | AWS Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e306f479953cae8a) | 2026-08-12 12:45 |
 | Capgemini | Senior Full Stack Developer (Java, React, AWS) | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=de9a8d3217f1fd88) | 2026-08-12 12:45 |
 | Capgemini | Snowflake AI Data Engineer | Bridgewater, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b792b16b24b1850f) | 2026-08-12 12:45 |
-| Capgemini | AWS Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7d33dd298324329e) | 2026-08-12 11:40 |
-| Capgemini | Senior Full Stack Developer (Java, React, AWS) | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03e1e849982bafdc) | 2026-08-12 11:40 |
-| Capgemini | Snowflake AI Data Engineer | Bridgewater, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4dbc3396b3e9d4d) | 2026-08-12 11:40 |
 
 
 ---
