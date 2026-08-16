@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-16
 
-**Total Jobs Found:** 24
+**Total Jobs Found:** 17
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -60,29 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Data Engineer (On-Site) @ NTT DATA
-**Match Score:** 16.0%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, Kinesis, SQS, SNS, Scala, Kafka, Snowflake, Oracle, PostgreSQL, DynamoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d460a6aac4fd260a)
-
----
-
-## 7. Senior Data Engineer @ NTT DATA
-**Match Score:** 16.0%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** AWS, Kinesis, SQS, SNS, Scala, Kafka, Snowflake, Oracle, PostgreSQL, DynamoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=afe1d38414cdf113)
-
----
-
-## 8. Senior Identity & Access Management (CIAM) Engineer @ PepsiCo
+## 6. Senior Identity & Access Management (CIAM) Engineer @ PepsiCo
 **Match Score:** 15.3%
 
 📍 **Location:** Plano, TX, US USA
@@ -93,40 +71,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Software Engineer II - AI/ML Developer @ JPMorganChase
-**Match Score:** 13.2%
+## 7. Software Development Engineer - US Federal @ Workday
+**Match Score:** 14.6%
 
-📍 **Location:** Plano, TX, US USA
+📍 **Location:** Reston, VA, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, Scala, Snowflake, CI/CD, Terraform
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Zookeeper, Scala, Kafka, PostgreSQL, MySQL, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2968fbd1098705ab)
-
----
-
-## 10. Software Engineer III - AI/ML Developer @ JPMorganChase
-**Match Score:** 13.2%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, Scala, Snowflake, CI/CD, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ccd4e6bffd7c1c5d)
+[Apply Here](https://www.indeed.com/viewjob?jk=37b50b0aef4d49b0)
 
 ---
 
-## 11. Data Engineer - Cybersecurity Analytics - Onsite @ NTT DATA
-**Match Score:** 12.5%
+## 8. Sr. Associate Software Development Engineer - US Federal @ Workday
+**Match Score:** 14.6%
 
-📍 **Location:** Charlotte, NC, US USA
+📍 **Location:** Reston, VA, US USA
 
-🔑 **Keywords:** AWS, Glue, S3, IAM, RDS, Spark, Scala, Kafka, Snowflake, Data Modeling
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Zookeeper, Scala, Kafka, PostgreSQL, MySQL, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c1bb02eacc6e0c34)
+[Apply Here](https://www.indeed.com/viewjob?jk=ccc557eea54e41a1)
 
 ---
 
-## 12. Senior Engineer, IT Data @ American Airlines
+## 9. Senior Engineer, IT Data @ American Airlines
 **Match Score:** 12.5%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -137,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Data Analyst @ LevelUp
+## 10. Data Analyst @ LevelUp
 **Match Score:** 12.5%
 
 📍 **Location:** Brooklyn, NY, US USA
@@ -148,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. IT Cloud Engineer II @ Hackensack Meridian Health
+## 11. IT Cloud Engineer II @ Hackensack Meridian Health
 **Match Score:** 11.1%
 
 📍 **Location:** Iselin, NJ, US USA
@@ -159,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Cloud Systems Engineer @ Networking for Future, Inc.
+## 12. Cloud Systems Engineer @ Networking for Future, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Washington, DC, US USA
@@ -170,51 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) @ NTT DATA
-**Match Score:** 11.1%
-
-📍 **Location:** Merrimack, NH, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Oracle, CI/CD, Jenkins, Maven, Docker, Jenkins, SonarQube
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3da42b71924a8f2a)
-
----
-
-## 17. Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) @ NTT DATA
-**Match Score:** 11.1%
-
-📍 **Location:** Jersey City, NJ, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Oracle, CI/CD, Jenkins, Maven, Docker, Jenkins, SonarQube
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4292233ac9b01465)
-
----
-
-## 18. Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) @ NTT DATA
-**Match Score:** 11.1%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Oracle, CI/CD, Jenkins, Maven, Docker, Jenkins, SonarQube
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1658d63cbf8ef75d)
-
----
-
-## 19. Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) @ NTT DATA
-**Match Score:** 11.1%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Oracle, CI/CD, Jenkins, Maven, Docker, Jenkins, SonarQube
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c8b3f8813e95cd86)
-
----
-
-## 20. Senior Data Engineer – Enterprise Data Hub (AWS + Snowflake + DBT + PySpark + CI/CD) @ Ness Digital Engineering
+## 13. Senior Data Engineer – Enterprise Data Hub (AWS + Snowflake + DBT + PySpark + CI/CD) @ Ness Digital Engineering
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -225,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior PowerBI Developer (FDOT OOC) @ TECKpert
+## 14. Senior PowerBI Developer (FDOT OOC) @ TECKpert
 **Match Score:** 10.4%
 
 📍 **Location:** Tallahassee, FL, US USA
@@ -236,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Software Engineer @ Law School Admission Council
+## 15. Software Engineer @ Law School Admission Council
 **Match Score:** 10.4%
 
 📍 **Location:** Newtown, PA, US USA
@@ -247,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Senior Database Engineer @ Redapt inc
+## 16. Senior Database Engineer @ Redapt inc
 **Match Score:** 10.4%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -258,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Senior Java Software Engineer - On-Site Minneapolis, MN @ Accenture
+## 17. Senior Java Software Engineer - On-Site Minneapolis, MN @ Accenture
 **Match Score:** 10.4%
 
 📍 **Location:** Minneapolis, MN, US USA
