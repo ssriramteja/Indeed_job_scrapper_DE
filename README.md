@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-16 17:11
+Last updated: 2026-08-16 18:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 17:11 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 18:15 |
+| RoadSync | Infrastructure Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=43f605a11b0b8a05) | 2026-08-16 18:15 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7917c01121d24b96) | 2026-08-16 13:23 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a758504314944c77) | 2026-08-16 13:23 |
 | Cinter Networks | Backend Engineer - AI Gateway | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfe651047abaadcf) | 2026-08-16 13:23 |
@@ -368,14 +369,6 @@ Last updated: 2026-08-16 17:11
 | Constant Contact | Analytics Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=26b4a6b5b9f18e9c) | 2026-08-12 18:49 |
 | Constant Contact | Analytics Engineer | Waltham, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6dea9ae7272713e5) | 2026-08-12 18:49 |
 | General Mills | Senior Machine Learning Engineer - Remote | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f5dbd615db9ede1) | 2026-08-12 18:49 |
-| Altak Group | ETL Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=80b6ef3996106ead) | 2026-08-12 17:51 |
-| BAE Systems USA | Software Engineering Intern III, Summer 2027 (Onsite) | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=589fe1b4025b2baa) | 2026-08-12 17:51 |
-| Foundation Software, Inc. | Senior Data Engineer | Strongsville, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2c3924b567192d0b) | 2026-08-12 17:51 |
-| CCC Intelligent Solutions | Data Science Engineer Internship | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=880b15bbe3e3a364) | 2026-08-12 17:51 |
-| NSD International | Data Engineer at a Major Japanese Bank 991394 | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92dca2a30071c058) | 2026-08-12 17:51 |
-| MFS Investment Management | Business Systems Sr. Analyst | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bffe2beaec8e627c) | 2026-08-12 17:51 |
-| Availity, LLC. | Cloud Engineer IV | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e2be9e1025f050f1) | 2026-08-12 17:51 |
-| Protera Health | Senior Data Engineer | Troy, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a97fa47d3b2bf534) | 2026-08-12 17:51 |
 
 
 ---
