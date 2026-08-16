@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-16 20:11
+Last updated: 2026-08-16 21:11
 
 ### 🚀 Daily Job Matches
 
@@ -349,9 +349,6 @@ Last updated: 2026-08-16 20:11
 | nan | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73529fee08b033be) | 2026-08-12 21:35 |
 | CaseGuard | Software Engineer - Backend | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a7c9df2f7ea406e) | 2026-08-12 21:35 |
 | Jabil | Automation Engineer - IT & Business Systems | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4beacc21980366f0) | 2026-08-12 21:35 |
-| Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c56d5a16ae0740c3) | 2026-08-12 20:34 |
-| Databricks | Sr. Specialist Solutions Architect - Cloud Platform & Infrastructure (AWS) | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1a1024255b618280) | 2026-08-12 20:34 |
-| GCI | Software Engineer III | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58ef90ed50c69d3c) | 2026-08-12 20:34 |
 
 
 ---
