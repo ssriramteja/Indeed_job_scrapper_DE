@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-16
 
-**Total Jobs Found:** 17
+**Total Jobs Found:** 16
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -148,18 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Senior PowerBI Developer (FDOT OOC) @ TECKpert
-**Match Score:** 10.4%
-
-📍 **Location:** Tallahassee, FL, US USA
-
-🔑 **Keywords:** IAM, RDS, Azure, Data Factory, Dataflow, Oracle, SQL Server, Dimensional Modeling, Star Schema, Power BI
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3df96b00481cbb0c)
-
----
-
-## 15. Software Engineer @ Law School Admission Council
+## 14. Software Engineer @ Law School Admission Council
 **Match Score:** 10.4%
 
 📍 **Location:** Newtown, PA, US USA
@@ -170,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Senior Database Engineer @ Redapt inc
+## 15. Senior Database Engineer @ Redapt inc
 **Match Score:** 10.4%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -181,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Senior Java Software Engineer - On-Site Minneapolis, MN @ Accenture
+## 16. Senior Java Software Engineer - On-Site Minneapolis, MN @ Accenture
 **Match Score:** 10.4%
 
 📍 **Location:** Minneapolis, MN, US USA

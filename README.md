@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-16 05:19
+Last updated: 2026-08-16 06:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 05:19 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 06:23 |
 | Workday | Software Development Engineer - US Federal | Reston, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37b50b0aef4d49b0) | 2026-08-16 05:19 |
 | Workday | Sr. Associate Software Development Engineer - US Federal | Reston, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ccc557eea54e41a1) | 2026-08-16 05:19 |
 | American Airlines | Senior Engineer, IT Data | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca4c7fcf944f91e0) | 2026-08-16 03:40 |
@@ -397,9 +397,6 @@ Last updated: 2026-08-16 05:19
 | U.S. Bank | Data Solutions & Enablement Consultant | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=574c41fe8815d88b) | 2026-08-12 07:09 |
 | Merck | DevXOps Platform Engineer (Hybrid) | Rahway, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1e3f9585e32ad0f7) | 2026-08-12 07:09 |
 | JPMorganChase | Senior Associate, Data Scientist - PXT Analytics | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ef867fd6329cd1e) | 2026-08-12 07:09 |
-| IDEXX Laboratories | Data Engineer II, AWS Data Platform | Westbrook, ME, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=12fffd8f7fd4e890) | 2026-08-12 05:24 |
-| LTM Limited | Senior Specialist - Quality Engineering | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50a578c93e384c2c) | 2026-08-12 05:24 |
-| Keeper Security, Inc. | Senior Infrastructure Test Engineer, DevOps | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4cc739f28a9dbd6c) | 2026-08-12 05:24 |
 
 
 ---
