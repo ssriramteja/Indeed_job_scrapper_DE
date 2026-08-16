@@ -82,7 +82,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Engineer, IT Data @ American Airlines
+## 8. Senior AI/ML Platform Engineer, GovCloud @ Medallia
+**Match Score:** 12.5%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, ECS, IAM, RDS, Hadoop, Spark, Scala, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8a5f83cd6892d049)
+
+---
+
+## 9. Senior Engineer, IT Data @ American Airlines
 **Match Score:** 12.5%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -90,17 +101,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** Azure, Data Factory, Databricks, Data Lake Storage, Spark, Data Modeling, Power BI, Tableau, CI/CD, Jenkins
 
 [Apply Here](https://www.indeed.com/viewjob?jk=ca4c7fcf944f91e0)
-
----
-
-## 9. IT Cloud Engineer II @ Hackensack Meridian Health
-**Match Score:** 11.1%
-
-📍 **Location:** Iselin, NJ, US USA
-
-🔑 **Keywords:** RDS, Azure, Google Cloud Platform, Scala, Jenkins, Azure DevOps, Terraform, Docker, Kubernetes, AKS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=83aaaf3ac879f7b6)
 
 ---
 
