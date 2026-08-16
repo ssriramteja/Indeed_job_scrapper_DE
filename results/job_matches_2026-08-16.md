@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-16
 
-**Total Jobs Found:** 16
+**Total Jobs Found:** 15
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -104,18 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Data Analyst @ LevelUp
-**Match Score:** 12.5%
-
-📍 **Location:** Brooklyn, NY, US USA
-
-🔑 **Keywords:** Redshift, RDS, BigQuery, Snowflake, Data Modeling, Snowflake Schema, dbt, Power BI, Tableau, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ce9a7a371c99d3f5)
-
----
-
-## 11. IT Cloud Engineer II @ Hackensack Meridian Health
+## 10. IT Cloud Engineer II @ Hackensack Meridian Health
 **Match Score:** 11.1%
 
 📍 **Location:** Iselin, NJ, US USA
@@ -126,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Cloud Systems Engineer @ Networking for Future, Inc.
+## 11. Cloud Systems Engineer @ Networking for Future, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Washington, DC, US USA
@@ -137,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Data Engineer – Enterprise Data Hub (AWS + Snowflake + DBT + PySpark + CI/CD) @ Ness Digital Engineering
+## 12. Senior Data Engineer – Enterprise Data Hub (AWS + Snowflake + DBT + PySpark + CI/CD) @ Ness Digital Engineering
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -148,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Software Engineer @ Law School Admission Council
+## 13. Software Engineer @ Law School Admission Council
 **Match Score:** 10.4%
 
 📍 **Location:** Newtown, PA, US USA
@@ -159,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Database Engineer @ Redapt inc
+## 14. Senior Database Engineer @ Redapt inc
 **Match Score:** 10.4%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -170,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Senior Java Software Engineer - On-Site Minneapolis, MN @ Accenture
+## 15. Senior Java Software Engineer - On-Site Minneapolis, MN @ Accenture
 **Match Score:** 10.4%
 
 📍 **Location:** Minneapolis, MN, US USA

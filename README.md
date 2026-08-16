@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-16 06:23
+Last updated: 2026-08-16 07:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 06:23 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 07:23 |
 | Workday | Software Development Engineer - US Federal | Reston, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37b50b0aef4d49b0) | 2026-08-16 05:19 |
 | Workday | Sr. Associate Software Development Engineer - US Federal | Reston, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ccc557eea54e41a1) | 2026-08-16 05:19 |
 | American Airlines | Senior Engineer, IT Data | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca4c7fcf944f91e0) | 2026-08-16 03:40 |
@@ -393,10 +393,6 @@ Last updated: 2026-08-16 06:23
 | Arctiq | HashiCorp Technical Consultant | Blue Bell, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7fd373a29fef81c5) | 2026-08-12 10:52 |
 | Arctiq | Full Stack Application Developer | Blue Bell, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=764ac1af4e0e0689) | 2026-08-12 10:52 |
 | MarLabs | Security Automation Engineer (Python) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c059189127bc5cc1) | 2026-08-12 10:52 |
-| U.S. Bank | Data Solutions & Enablement Consultant | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=24e48e6726046f1b) | 2026-08-12 07:09 |
-| U.S. Bank | Data Solutions & Enablement Consultant | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=574c41fe8815d88b) | 2026-08-12 07:09 |
-| Merck | DevXOps Platform Engineer (Hybrid) | Rahway, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1e3f9585e32ad0f7) | 2026-08-12 07:09 |
-| JPMorganChase | Senior Associate, Data Scientist - PXT Analytics | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ef867fd6329cd1e) | 2026-08-12 07:09 |
 
 
 ---
