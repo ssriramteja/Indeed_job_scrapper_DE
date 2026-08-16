@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-16 14:13
+Last updated: 2026-08-16 15:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 14:13 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 15:12 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7917c01121d24b96) | 2026-08-16 13:23 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a758504314944c77) | 2026-08-16 13:23 |
 | Cinter Networks | Backend Engineer - AI Gateway | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfe651047abaadcf) | 2026-08-16 13:23 |
@@ -382,10 +382,6 @@ Last updated: 2026-08-16 14:13
 | Princess | Senior Engineer, ITSM AI Platform | Fort Lauderdale, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=eb29d8a4e4f304ec) | 2026-08-12 15:51 |
 | Coretek Services | Architect - Machine Learning and Data | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=beef2d77f930831c) | 2026-08-12 15:51 |
 | Saransh | Databricks Architect (Insurance Domain) - Remote | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=272dd0e98eb04f51) | 2026-08-12 15:51 |
-| SugarAI | Senior Data Engineer - Databricks | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd9f3319ba4d14a4) | 2026-08-12 14:15 |
-| Recruitics_CH Robinson_Sponsored Jobs_East_Maverick | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2389ccbb1e201011) | 2026-08-12 14:15 |
-| Recruitics_CH Robinson_Sponsored Jobs_East_Maverick | Software Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c02b5052ff31c41) | 2026-08-12 14:15 |
-| CVS Health | Senior Software Development Engineer | WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6a0eb111e86cb26d) | 2026-08-12 14:15 |
 
 
 ---
