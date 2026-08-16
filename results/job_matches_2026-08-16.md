@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-16
 
-**Total Jobs Found:** 13
+**Total Jobs Found:** 11
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -60,18 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Identity & Access Management (CIAM) Engineer @ PepsiCo
-**Match Score:** 15.3%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, API Gateway, IAM, RDS, Azure, Scala, Splunk, CI/CD, Jenkins, GitHub Actions
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b50d50511fbcccef)
-
----
-
-## 7. Software Development Engineer - US Federal @ Workday
+## 6. Software Development Engineer - US Federal @ Workday
 **Match Score:** 14.6%
 
 📍 **Location:** Reston, VA, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Sr. Associate Software Development Engineer - US Federal @ Workday
+## 7. Sr. Associate Software Development Engineer - US Federal @ Workday
 **Match Score:** 14.6%
 
 📍 **Location:** Reston, VA, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Engineer, IT Data @ American Airlines
+## 8. Senior Engineer, IT Data @ American Airlines
 **Match Score:** 12.5%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. IT Cloud Engineer II @ Hackensack Meridian Health
+## 9. IT Cloud Engineer II @ Hackensack Meridian Health
 **Match Score:** 11.1%
 
 📍 **Location:** Iselin, NJ, US USA
@@ -115,18 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Cloud Systems Engineer @ Networking for Future, Inc.
-**Match Score:** 11.1%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** AWS, S3, IAM, RDS, Scala, Splunk, CI/CD, Terraform, AWS CloudFormation, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=22447d3211df125b)
-
----
-
-## 12. Senior Database Engineer @ Redapt inc
+## 10. Senior Database Engineer @ Redapt inc
 **Match Score:** 10.4%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -137,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Java Software Engineer - On-Site Minneapolis, MN @ Accenture
+## 11. Senior Java Software Engineer - On-Site Minneapolis, MN @ Accenture
 **Match Score:** 10.4%
 
 📍 **Location:** Minneapolis, MN, US USA
