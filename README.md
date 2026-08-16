@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-16 21:11
+Last updated: 2026-08-16 22:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Amgen | Sr Associate Data Analytics | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4fbfe0f5be436a39) | 2026-08-16 22:11 |
 | RoadSync | Infrastructure Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=43f605a11b0b8a05) | 2026-08-16 18:15 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7917c01121d24b96) | 2026-08-16 13:23 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a758504314944c77) | 2026-08-16 13:23 |
@@ -338,17 +339,6 @@ Last updated: 2026-08-16 21:11
 | hallmark health care solutions | AI Software Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=97f17c7cef298683) | 2026-08-12 22:30 |
 | Trane Technologies | Data Engineer | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd0ca6fcf446a943) | 2026-08-12 22:30 |
 | AstraZeneca | Senior Forward Deployment Engineer - Cheminformatics & AI Modelling | Cambridge, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c6c82553f05afcde) | 2026-08-12 22:30 |
-| Wells Fargo | Senior Software Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d3f6901b12a822f6) | 2026-08-12 21:35 |
-| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b0ec255f7dfd4501) | 2026-08-12 21:35 |
-| Onyx Graphics, Inc. | Cloud Infrastructure and Integration Engineer | Midvale, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=057a25cf24127b26) | 2026-08-12 21:35 |
-| Dentsu | Data Engineer (Adobe Experience Platform) | MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=00b472336df73668) | 2026-08-12 21:35 |
-| Georgia System Operations Corporation | Full Stack Software Engineer III-V | Tucker, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=86f2c7120d093631) | 2026-08-12 21:35 |
-| AdventHealth Corporate | AI Engineer | Altamonte Springs, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0bf1a15fd8c75d64) | 2026-08-12 21:35 |
-| Wells Fargo | Senior Power BI & GCP Data Analytics Consultant (contract) | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=daf1ddd3f68c84f4) | 2026-08-12 21:35 |
-| Monks | Data Engineer - DataOps | Cupertino, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=159d4f00bd15e7e2) | 2026-08-12 21:35 |
-| nan | Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73529fee08b033be) | 2026-08-12 21:35 |
-| CaseGuard | Software Engineer - Backend | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a7c9df2f7ea406e) | 2026-08-12 21:35 |
-| Jabil | Automation Engineer - IT & Business Systems | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4beacc21980366f0) | 2026-08-12 21:35 |
 
 
 ---
