@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-16
 
-**Total Jobs Found:** 11
+**Total Jobs Found:** 13
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Data Engineer @ Disney Experiences
-**Match Score:** 16.7%
-
-📍 **Location:** Orlando, FL, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, Kinesis, Redshift, S3, SQS, SNS, RDS, Spark
-
-[Apply Here](https://www.indeed.com/viewjob?jk=37b325f2f84b39b8)
-
----
-
-## 3. Power BI Engineer @ NTT DATA
+## 2. Power BI Engineer @ NTT DATA
 **Match Score:** 16.7%
 
 📍 **Location:** Dallas, TX, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Data Engineer, Databricks @ Colas USA
+## 3. Senior Data Engineer, Databricks @ Colas USA
 **Match Score:** 16.7%
 
 📍 **Location:** Denver, CO, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Data Engineer, Databricks @ Colas
+## 4. Senior Data Engineer, Databricks @ Colas
 **Match Score:** 16.7%
 
 📍 **Location:** US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Software Development Engineer - US Federal @ Workday
+## 5. Software Development Engineer - US Federal @ Workday
 **Match Score:** 14.6%
 
 📍 **Location:** Reston, VA, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Sr. Associate Software Development Engineer - US Federal @ Workday
+## 6. Sr. Associate Software Development Engineer - US Federal @ Workday
 **Match Score:** 14.6%
 
 📍 **Location:** Reston, VA, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Software Engineer II @ Pearson
+## 7. Software Engineer II @ Pearson
 **Match Score:** 13.2%
 
 📍 **Location:** Englewood, CO, US USA
@@ -93,7 +82,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior AI/ML Platform Engineer, GovCloud @ Medallia
+## 8. Jr Software Developer @ KBR
+**Match Score:** 13.2%
+
+📍 **Location:** Colorado Springs, CO, US USA
+
+🔑 **Keywords:** AWS, S3, Scala, Oracle, PostgreSQL, MySQL, MongoDB, Tableau, CI/CD, Maven
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7917c01121d24b96)
+
+---
+
+## 9. Jr Software Developer @ KBR
+**Match Score:** 13.2%
+
+📍 **Location:** Colorado Springs, CO, US USA
+
+🔑 **Keywords:** AWS, S3, Scala, Oracle, PostgreSQL, MySQL, MongoDB, Tableau, CI/CD, Maven
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a758504314944c77)
+
+---
+
+## 10. Senior AI/ML Platform Engineer, GovCloud @ Medallia
 **Match Score:** 12.5%
 
 📍 **Location:** McLean, VA, US USA
@@ -104,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Engineer, IT Data @ American Airlines
+## 11. Senior Engineer, IT Data @ American Airlines
 **Match Score:** 12.5%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -115,7 +126,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Database Engineer @ Redapt inc
+## 12. Backend Engineer - AI Gateway @ Cinter Networks
+**Match Score:** 11.1%
+
+📍 **Location:** Plano, TX, US USA
+
+🔑 **Keywords:** IAM, Azure, Kafka, PostgreSQL, CI/CD, GitHub Actions, Terraform, Docker, Kubernetes, AKS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dfe651047abaadcf)
+
+---
+
+## 13. Senior Database Engineer @ Redapt inc
 **Match Score:** 10.4%
 
 📍 **Location:** Las Vegas, NV, US USA
