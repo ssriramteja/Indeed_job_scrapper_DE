@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 03:40
+Last updated: 2026-08-17 04:32
 
 ### 🚀 Daily Job Matches
 
@@ -290,32 +290,6 @@ Last updated: 2026-08-17 03:40
 | U.S. Bank | Software Engineer 2 (AI/GenAI) | Brookfield, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6721a62ef6659e3) | 2026-08-13 06:10 |
 | U.S. Bank | Software Engineer 2 (AI/GenAI) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85db08255bd1c95b) | 2026-08-13 06:10 |
 | U.S. Bank | Software Engineer 2 (AI/GenAI) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cbe2ba9e399ffb43) | 2026-08-13 06:10 |
-| Caterpillar | Senior Software Engineer | Chicago, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=1d4bf5dedcf41447) | 2026-08-13 04:01 |
-| Caterpillar | Software Engineer | Chicago, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=673be08859dddab2) | 2026-08-13 04:01 |
-| nan | Data Engineer (USI8) | Augusta, KS, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9074f3b618d5628b) | 2026-08-13 04:01 |
-| nan | Data Engineer (USI8) | Miramar, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b63514d290d45e42) | 2026-08-13 04:01 |
-| nan | Data Engineer (USI8) | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9f5214f9a2298f5d) | 2026-08-13 04:01 |
-| nan | Data Engineer (USI8) | Doral, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=73dd95c802d8f62b) | 2026-08-13 04:01 |
-| Springs Window Fashions | DevOps Cloud Engineer | Middleton, WI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7393630dd79bd972) | 2026-08-13 04:01 |
-| Tango Technology, Inc. | Senior Data Engineer | OR, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d238e5b67ffdea1b) | 2026-08-13 04:01 |
-| American Diabetes Association | Cloud Solutions Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=163b5033226455ae) | 2026-08-13 04:01 |
-| LEADER BANK | Business Intelligence Engineer | Arlington, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4b9c5bfb77638de8) | 2026-08-13 04:01 |
-| Humana | Senior Software Engineer | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1142c8a0dc63e958) | 2026-08-13 04:01 |
-| CSpring | Senior Data Engineer (ETL / Python Developer) | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cb91c37b076d355f) | 2026-08-13 04:01 |
-| Hollstadt Consulting | Senior Data Engineer | MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5d7aafa933dd9ce1) | 2026-08-13 04:01 |
-| HEB | Sr Software Engineer (Site Reliability) Austin or Dallas, TX | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=78e458c132c387b3) | 2026-08-13 04:01 |
-| Proofpoint | Senior Full Stack Software Engineer, Threat Intelligence Services | AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66c8b9c11f3d882f) | 2026-08-13 04:01 |
-| RockWallet | Data Science & Machine Learning Intern | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ce12f322d42133b) | 2026-08-13 04:01 |
-| Penske Truck Leasing | QA Test Engineer - Digital Products | Reading, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d8d0dc537de6d884) | 2026-08-13 04:01 |
-| Protera Health | Senior Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b4eae24a52542621) | 2026-08-13 04:01 |
-| Medallia | Senior Site Reliability Engineer, GovCloud | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cc5f12797f9848e1) | 2026-08-13 04:01 |
-| Deloitte | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c90824e3bd008138) | 2026-08-13 04:01 |
-| Deloitte | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=87bcf9c4072c5d54) | 2026-08-13 04:01 |
-| Deloitte | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=307466eb1e79bfd6) | 2026-08-13 04:01 |
-| Deloitte | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | Rosslyn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f955eb20e25ca36) | 2026-08-13 04:01 |
-| Deloitte | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=132d59d2bd16ab83) | 2026-08-13 04:01 |
-| Deloitte | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6aa6475d962537f3) | 2026-08-13 04:01 |
-| Deloitte | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=44463224fcc63cfb) | 2026-08-13 04:01 |
 
 
 ---

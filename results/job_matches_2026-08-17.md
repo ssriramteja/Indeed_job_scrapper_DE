@@ -5,18 +5,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Infrastructure Engineer @ RoadSync
-**Match Score:** 13.2%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, API Gateway, ECS, RDS, Scala, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=43f605a11b0b8a05)
-
----
-
-## 2. Software Engineer II @ Pearson
+## 1. Software Engineer II @ Pearson
 **Match Score:** 13.2%
 
 📍 **Location:** Englewood, CO, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Jr Software Developer @ KBR
+## 2. Jr Software Developer @ KBR
 **Match Score:** 13.2%
 
 📍 **Location:** Colorado Springs, CO, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Jr Software Developer @ KBR
+## 3. Jr Software Developer @ KBR
 **Match Score:** 13.2%
 
 📍 **Location:** Colorado Springs, CO, US USA
@@ -46,6 +35,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, S3, Scala, Oracle, PostgreSQL, MySQL, MongoDB, Tableau, CI/CD, Maven
 
 [Apply Here](https://www.indeed.com/viewjob?jk=a758504314944c77)
+
+---
+
+## 4. Infrastructure Engineer @ RoadSync
+**Match Score:** 13.2%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, API Gateway, ECS, RDS, Scala, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=43f605a11b0b8a05)
 
 ---
 
