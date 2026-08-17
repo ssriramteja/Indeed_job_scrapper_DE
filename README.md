@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 22:14
+Last updated: 2026-08-17 23:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CNH Industrial | Senior Software Engineer | Sioux Falls, SD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=46ac8fba1df212ef) | 2026-08-17 23:13 |
+| Imperial PFS | Analytics Engineer I | Kansas City, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=70dd12166b6538af) | 2026-08-17 23:13 |
+| Security Benefit | Senior Data Architect | Topeka, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b18d9ee76a272912) | 2026-08-17 23:13 |
+| Security Benefit | Senior Data Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ec93e9305584f5d) | 2026-08-17 23:13 |
+| Cognizant | Senior Consultant - M365 Search & AI Solutions | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2f1e7ff8ca49335e) | 2026-08-17 23:13 |
+| NTT DATA | Data Architect | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02e08592b97e0e85) | 2026-08-17 23:13 |
+| Central One Federal Credit Union | Data Engineer | Shrewsbury, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2690489cc69e3db5) | 2026-08-17 23:13 |
+| NetSPI | Senior Software Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6aa161d158387111) | 2026-08-17 23:13 |
 | CareFirst BlueCross BlueShield | Senior Software Engineer - Java, Microservices, MuleSoft & API Development (Remote) | Baltimore, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6d5b52a299e98559) | 2026-08-17 22:14 |
 | Databricks | Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences) | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=176a7564b0c762a0) | 2026-08-17 22:14 |
 | Databricks | Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=777f4483805c8d79) | 2026-08-17 22:14 |
@@ -272,7 +280,6 @@ Last updated: 2026-08-17 22:14
 | Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6c4d457fcf1529e3) | 2026-08-13 23:32 |
 | Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3cfcab630d6d10a1) | 2026-08-13 23:32 |
 | Cwill | DevOps/SRE Engineer - cA - Mandarin Speaking | City of Industry, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5919e028a697b8a0) | 2026-08-13 23:32 |
-| Arkatechture | Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99414150eb0b8769) | 2026-08-13 22:32 |
 
 
 ---
