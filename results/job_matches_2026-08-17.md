@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-17
 
-**Total Jobs Found:** 10
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -82,18 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Engineer, IT Data @ American Airlines
-**Match Score:** 12.5%
-
-📍 **Location:** Fort Worth, TX, US USA
-
-🔑 **Keywords:** Azure, Data Factory, Databricks, Data Lake Storage, Spark, Data Modeling, Power BI, Tableau, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ca4c7fcf944f91e0)
-
----
-
-## 9. Sr Associate Data Analytics @ Amgen
+## 8. Sr Associate Data Analytics @ Amgen
 **Match Score:** 11.1%
 
 📍 **Location:** Tampa, FL, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Backend Engineer - AI Gateway @ Cinter Networks
+## 9. Backend Engineer - AI Gateway @ Cinter Networks
 **Match Score:** 11.1%
 
 📍 **Location:** Plano, TX, US USA

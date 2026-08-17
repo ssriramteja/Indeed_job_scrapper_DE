@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 00:41
+Last updated: 2026-08-17 02:14
 
 ### 🚀 Daily Job Matches
 
@@ -316,19 +316,6 @@ Last updated: 2026-08-17 00:41
 | Deloitte | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=132d59d2bd16ab83) | 2026-08-13 04:01 |
 | Deloitte | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6aa6475d962537f3) | 2026-08-13 04:01 |
 | Deloitte | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=44463224fcc63cfb) | 2026-08-13 04:01 |
-| TELEWORLD SOLUTIONS INC | Machine Learning Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=79151862d72c4127) | 2026-08-13 01:09 |
-| Cranial Technologies | Site Reliability Software Engineer (Hybrid) | Tempe, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fb450ac5eb4304ae) | 2026-08-13 01:09 |
-| Infoorigin Inc | Data Architect - Contract - Remote | OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2c9924556265e3c9) | 2026-08-13 01:09 |
-| NTT DATA | Pega PRPC Administrator | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1cbeae0705aa36a7) | 2026-08-13 01:09 |
-| Innovya Technologies | Senior Oracle PL/SQL Developer | Phoenix, AZ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fadcf53dc0861d6d) | 2026-08-13 01:09 |
-| NTT DATA | DevOps Engineer - Plano, TX | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cbaf529eb38d0229) | 2026-08-13 01:09 |
-| Verizon | Engineer II - AI/ML Engineering | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fe877c82bf3765bf) | 2026-08-13 01:09 |
-| American Express | Senior Associate - Technology Operations Engineering | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dbcbeb3d55a273f2) | 2026-08-13 01:09 |
-| CoStar Group | LoopNet - Senior Software Engineer | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=be7770b8e6473c4a) | 2026-08-13 01:09 |
-| BMC Software | Senior Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=077f2ff2bedb0647) | 2026-08-13 01:09 |
-| CarParts.com | Sr. Full Stack Engineer - AI Forward | Long Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a64052bb51ee98f7) | 2026-08-13 01:09 |
-| Adobe | Senior Software Development Engineer 5 | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98f20089a25d422a) | 2026-08-13 01:09 |
-| nan | Senior DevOps Platform Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=316dfc218c18008e) | 2026-08-13 01:09 |
 
 
 ---
