@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 15:16
+Last updated: 2026-08-17 16:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Citizens | Senior Cloud Engineer | Johnston, RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0da3224c8b4b5fcc) | 2026-08-17 16:16 |
 | Global KTech | Senior Python and React Cloud Engineer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=04cf2cecb49ff19b) | 2026-08-17 15:16 |
 | AbbVie | Associate Scientific Technical Engineer II, PDS&T CMC | Waltham, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dd4fa506997c9d91) | 2026-08-17 15:16 |
 | AbbVie | Associate Scientific Technical Engineer II, PDS&T CMC | Worcester, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e97a7a884716018a) | 2026-08-17 15:16 |
@@ -270,11 +271,6 @@ Last updated: 2026-08-17 15:16
 | Curriculum Associates | Senior DevOps Engineer | MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5ba3cd5dfb638d55) | 2026-08-13 16:45 |
 | EVERSANA | Sr. AI Developer, Engineering | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cbfe4e303f1e228c) | 2026-08-13 16:45 |
 | REGENT BANK | Senior Platform/DevOps Engineer | Tulsa, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f317283fcb9662c) | 2026-08-13 16:45 |
-| Contemporary Amperex Technology Kentucky LLC | Manufacturing Data Engineer | Glendale, KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=637ea04290ca4e38) | 2026-08-13 15:51 |
-| Monogram Health | Azure Platform Senior Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bd9cef29d42fb9a) | 2026-08-13 15:51 |
-| canyon associates | Senior Data Engineer | Princeton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8092057b1ca46619) | 2026-08-13 15:51 |
-| DemandTec | Senior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=17cbeaef218d3c02) | 2026-08-13 15:51 |
-| TetraScience | Senior Software Engineer, Agents | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57978aa7703f5b96) | 2026-08-13 15:51 |
 
 
 ---

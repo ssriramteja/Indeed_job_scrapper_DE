@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-17
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 10
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -49,7 +49,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior ML/Data Engineer @ Catapult Sports
+## 5. Senior Cloud Engineer @ Citizens
+**Match Score:** 11.8%
+
+📍 **Location:** Johnston, RI, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, CI/CD, Jenkins, Terraform, Docker, Kubernetes, Jenkins, SonarQube
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0da3224c8b4b5fcc)
+
+---
+
+## 6. Senior ML/Data Engineer @ Catapult Sports
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Backend Engineer (Remote, US) @ Openly
+## 7. Senior Backend Engineer (Remote, US) @ Openly
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -71,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Backend / Platform Developer Consultant (Temporal & Kubernetes) @ inVeritaSoft
+## 8. Backend / Platform Developer Consultant (Temporal & Kubernetes) @ inVeritaSoft
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior.Net Full-Stack Engineer @ Optum
+## 9. Senior.Net Full-Stack Engineer @ Optum
 **Match Score:** 11.1%
 
 📍 **Location:** Richardson, TX, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Sr Associate Data Analytics @ Amgen
+## 10. Sr Associate Data Analytics @ Amgen
 **Match Score:** 11.1%
 
 📍 **Location:** Tampa, FL, US USA
