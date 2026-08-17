@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 14:18
+Last updated: 2026-08-17 15:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Global KTech | Senior Python and React Cloud Engineer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=04cf2cecb49ff19b) | 2026-08-17 15:16 |
+| AbbVie | Associate Scientific Technical Engineer II, PDS&T CMC | Waltham, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dd4fa506997c9d91) | 2026-08-17 15:16 |
+| AbbVie | Associate Scientific Technical Engineer II, PDS&T CMC | Worcester, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e97a7a884716018a) | 2026-08-17 15:16 |
+| Optum | Senior.Net Full-Stack Engineer | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24927959bc1c9207) | 2026-08-17 15:16 |
 | inVeritaSoft | Backend / Platform Developer Consultant (Temporal & Kubernetes) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4cb9f3f7a196c2e0) | 2026-08-17 14:18 |
 | Billtrust | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01c9c35a4ddbdfbb) | 2026-08-17 14:18 |
 | Openly | Senior Backend Engineer (Remote, US) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7e2f39f3379fbccf) | 2026-08-17 13:32 |
