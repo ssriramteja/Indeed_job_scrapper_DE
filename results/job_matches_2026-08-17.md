@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-17
 
-**Total Jobs Found:** 10
+**Total Jobs Found:** 12
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,18 +38,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Infrastructure Engineer @ RoadSync
+## 4. Data Engineer @ Associated Materials
 **Match Score:** 13.2%
 
-📍 **Location:** Atlanta, GA, US USA
+📍 **Location:** Cuyahoga Falls, OH, US USA
 
-🔑 **Keywords:** AWS, Lambda, S3, SQS, SNS, API Gateway, ECS, RDS, Scala, CI/CD
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, Snowflake, Oracle
 
-[Apply Here](https://www.indeed.com/viewjob?jk=43f605a11b0b8a05)
+[Apply Here](https://www.indeed.com/viewjob?jk=df0fa58d13ff3c9a)
 
 ---
 
-## 5. Senior Cloud Engineer @ Citizens
+## 5. Azure IoT Solutions Engineer @ Bio-Tech Lab Services, LLC
+**Match Score:** 11.8%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RDS, Azure, Event Hubs, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Terraform, AKS, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9cfe7343b152cfe6)
+
+---
+
+## 6. Senior Cloud Engineer @ Citizens
 **Match Score:** 11.8%
 
 📍 **Location:** Johnston, RI, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior ML/Data Engineer @ Catapult Sports
+## 7. Senior ML/Data Engineer @ Catapult Sports
 **Match Score:** 11.8%
 
 📍 **Location:** New York, NY, US USA
@@ -71,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Backend Engineer (Remote, US) @ Openly
+## 8. Senior Backend Engineer (Remote, US) @ Openly
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Backend / Platform Developer Consultant (Temporal & Kubernetes) @ inVeritaSoft
+## 9. Backend / Platform Developer Consultant (Temporal & Kubernetes) @ inVeritaSoft
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior.Net Full-Stack Engineer @ Optum
+## 10. Senior.Net Full-Stack Engineer @ Optum
 **Match Score:** 11.1%
 
 📍 **Location:** Richardson, TX, US USA
@@ -104,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Sr Associate Data Analytics @ Amgen
+## 11. Sr Associate Data Analytics @ Amgen
 **Match Score:** 11.1%
 
 📍 **Location:** Tampa, FL, US USA
@@ -112,6 +123,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** S3, RDS, Databricks, Scala, Informatica PowerCenter, SQL Server, Power BI, Tableau, Git, Python
 
 [Apply Here](https://www.indeed.com/viewjob?jk=4fbfe0f5be436a39)
+
+---
+
+## 12. Azure Databricks/Data Engineer @ signitives IT Solutions
+**Match Score:** 10.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Synapse Analytics, Databricks, Spark, PySpark, Scala, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4541db046ada0e3f)
 
 ---
 

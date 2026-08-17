@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 16:16
+Last updated: 2026-08-17 17:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Associated Materials | Data Engineer | Cuyahoga Falls, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=df0fa58d13ff3c9a) | 2026-08-17 17:18 |
+| Bio-Tech Lab Services, LLC | Azure IoT Solutions Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9cfe7343b152cfe6) | 2026-08-17 17:18 |
+| signitives IT Solutions | Azure Databricks/Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4541db046ada0e3f) | 2026-08-17 17:18 |
 | Citizens | Senior Cloud Engineer | Johnston, RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0da3224c8b4b5fcc) | 2026-08-17 16:16 |
 | Global KTech | Senior Python and React Cloud Engineer | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=04cf2cecb49ff19b) | 2026-08-17 15:16 |
 | AbbVie | Associate Scientific Technical Engineer II, PDS&T CMC | Waltham, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dd4fa506997c9d91) | 2026-08-17 15:16 |
@@ -264,13 +267,6 @@ Last updated: 2026-08-17 16:16
 | Global Software Resources | Operations Data Analyst, Senior | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b3d19226a909d91) | 2026-08-13 17:51 |
 | Sanford AI | Senior Enterprise IT Architect | Hoffman Estates, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c40501d50b474102) | 2026-08-13 17:51 |
 | CVS Health | Software Development Engineer | Scottsdale, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1837fbface65052) | 2026-08-13 17:51 |
-| NYC IT Inc | Senior Backend Software Engineer / Consultant | New York, NY, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=d0f645d8abdaa23a) | 2026-08-13 16:45 |
-| Kareem Networks LLC | Databricks Platform Engineer | Springfield, VA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=fb25195e23a0279c) | 2026-08-13 16:45 |
-| Rubicon | Data Engineer | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=dd8c87d751e23a78) | 2026-08-13 16:45 |
-| Optum | Senior Software Engineer | Eden Prairie, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8850eb9992fec828) | 2026-08-13 16:45 |
-| Curriculum Associates | Senior DevOps Engineer | MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5ba3cd5dfb638d55) | 2026-08-13 16:45 |
-| EVERSANA | Sr. AI Developer, Engineering | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cbfe4e303f1e228c) | 2026-08-13 16:45 |
-| REGENT BANK | Senior Platform/DevOps Engineer | Tulsa, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f317283fcb9662c) | 2026-08-13 16:45 |
 
 
 ---
