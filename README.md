@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-16 23:10
+Last updated: 2026-08-17 00:41
 
 ### 🚀 Daily Job Matches
 
@@ -329,13 +329,6 @@ Last updated: 2026-08-16 23:10
 | CarParts.com | Sr. Full Stack Engineer - AI Forward | Long Beach, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a64052bb51ee98f7) | 2026-08-13 01:09 |
 | Adobe | Senior Software Development Engineer 5 | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98f20089a25d422a) | 2026-08-13 01:09 |
 | nan | Senior DevOps Platform Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=316dfc218c18008e) | 2026-08-13 01:09 |
-| VizyPay | Sr Infrastructure & Security Engineer | Waukee, IA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4d784aed378affa9) | 2026-08-12 23:31 |
-| retail services & systems | Sr. Data Engineer | Bethesda, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4b9f2fec8662b4d8) | 2026-08-12 23:31 |
-| Epiq | Software Engineer, Infrastructure | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85217024f115b96c) | 2026-08-12 23:31 |
-| Primoris Services Corporation | Data Engineer - Business Analytics | TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8abaf1ca57f1a8ac) | 2026-08-12 23:31 |
-| Mariner Wealth Advisors | Analytics Engineer II | Overland Park, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ceffe4425570abe) | 2026-08-12 23:31 |
-| MedeAnalytics | Senior Business Analyst | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0ffa1810d5da5d3d) | 2026-08-12 23:31 |
-| Seneca Holdings, LLC | Senior Data Scientist | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d17896f3d07e4e12) | 2026-08-12 23:31 |
 
 
 ---
