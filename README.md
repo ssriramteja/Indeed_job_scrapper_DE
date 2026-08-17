@@ -1,11 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 17:18
+Last updated: 2026-08-17 18:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| U.S. Bank | Senior Data Engineer with Data Analytics | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=08766dbd36ab8fcd) | 2026-08-17 18:24 |
+| U.S. Bank | Senior Data Engineer with Data Analytics | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c8ff0ddbadc99534) | 2026-08-17 18:24 |
+| U.S. Bank | Senior Data Engineer with Data Analytics | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5c17d7842b363140) | 2026-08-17 18:24 |
+| U.S. Bank | Senior Data Engineer with Data Analytics | Hopkins, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=98744b5e8a4fd0c0) | 2026-08-17 18:24 |
+| SHI International | Solutions Architect - Data Governance | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9a3de99cc55670f) | 2026-08-17 18:24 |
+| Insperity | Data Quality Engineer | Kingwood, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e4431a326a86a449) | 2026-08-17 18:24 |
+| DailyPay Inc | Data Engineer II | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=93fadb888f0de602) | 2026-08-17 18:24 |
+| Woongjin, Inc | Backend Engineer _ AI Gateway- Bilingual (Korean/ English) | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1f5be991165eeea) | 2026-08-17 18:24 |
+| FINRA | Senior Security Engineer | Rockville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=682458f658094e85) | 2026-08-17 18:24 |
+| FINRA | Senior Security Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=88e9c649072734ae) | 2026-08-17 18:24 |
+| FINRA | Senior Security Engineer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=580cc59935f51044) | 2026-08-17 18:24 |
+| Aivanta Tech Inc | Veeva Vault RegulatoryOne Business Analyst | Ewing, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=97926cefb68003ff) | 2026-08-17 18:24 |
+| NTT DATA | Senior React Developer with Java API & Spring Boot Experience | San Leandro, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=07cce364fcbc19ed) | 2026-08-17 18:24 |
+| 540 | Associate Solutions Architect | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b1192db5e6cd9fd1) | 2026-08-17 18:24 |
+| Princess | Technical Product Owner, Data and Payment Technology | Fort Lauderdale, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27b94e7f6f2a8337) | 2026-08-17 18:24 |
 | Associated Materials | Data Engineer | Cuyahoga Falls, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=df0fa58d13ff3c9a) | 2026-08-17 17:18 |
 | Bio-Tech Lab Services, LLC | Azure IoT Solutions Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9cfe7343b152cfe6) | 2026-08-17 17:18 |
 | signitives IT Solutions | Azure Databricks/Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4541db046ada0e3f) | 2026-08-17 17:18 |
@@ -261,12 +276,6 @@ Last updated: 2026-08-17 17:18
 | AgileOne | Sr. Data Analyst, Business Intelligence | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=39cf4047b4b5aaa3) | 2026-08-13 19:52 |
 | The Wyanoke Group | Software Engineer | Thorofare, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f724dd5d2a21f911) | 2026-08-13 19:52 |
 | Verizon | Data Security Engineer, Exposure and Vulnerability Management | Alpharetta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4a24f6408369310a) | 2026-08-13 18:50 |
-| 84.51° | Senior Data Engineer (P1129) | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=33cf369e908a784a) | 2026-08-13 17:51 |
-| 84.51° | Senior Data Engineer (P1129) | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d09728235ba261a5) | 2026-08-13 17:51 |
-| Digital Charter, Inc | Cloud Systems Engineer, AWS GovCloud (Enterprise Data Platform) | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a5003b760f05a154) | 2026-08-13 17:51 |
-| Global Software Resources | Operations Data Analyst, Senior | Oakland, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b3d19226a909d91) | 2026-08-13 17:51 |
-| Sanford AI | Senior Enterprise IT Architect | Hoffman Estates, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c40501d50b474102) | 2026-08-13 17:51 |
-| CVS Health | Software Development Engineer | Scottsdale, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1837fbface65052) | 2026-08-13 17:51 |
 
 
 ---
