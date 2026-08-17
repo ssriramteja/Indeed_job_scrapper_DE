@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 20:15
+Last updated: 2026-08-17 21:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| RELI Group Inc | Database Administrator | Baltimore, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=84a78da056d3cd48) | 2026-08-17 21:17 |
+| nan | Sr. Analyst, Data & Analytics Engineering | Coraopolis, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c73b6b96302b8ac) | 2026-08-17 21:17 |
+| General Motors (GM) | Sr. Business Analyst – Data Analytics, Visualization & AI Solutions | Warren, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8e58ddd60612b0a2) | 2026-08-17 21:17 |
+| Citrin Cooperman Advisors LLC | Data Operations Scientist, Development | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f4dae5875a25bfbc) | 2026-08-17 21:17 |
+| American Bureau of Shipping (ABS) | Data Engineer | Knoxville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c49b3214cf3972d) | 2026-08-17 21:17 |
+| Key2Source INC | Ab Initio Developer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2853c2a6cd9e278) | 2026-08-17 21:17 |
 | Capgemini | Java Full Stack Engineer | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=299ffa44541b6cb7) | 2026-08-17 20:15 |
 | Unitedone health | Snowflake Developer – Python & SQL Server | Hartford, CT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d501f7eec5c487a) | 2026-08-17 20:15 |
 | Innodata | Application Reliability Engineer | Ridgefield Park, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f16c01d9addff559) | 2026-08-17 20:15 |
@@ -280,9 +286,6 @@ Last updated: 2026-08-17 20:15
 | Everseen | DevOps Engineer III | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fcbf4b821e3f72c5) | 2026-08-13 21:35 |
 | Kyndryl | Early Career Consult Program - Associate AI Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8c83cc021a8d2ff) | 2026-08-13 21:35 |
 | Kyndryl | Early Career Consult Program - Associate AI Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d97bd7e666252482) | 2026-08-13 21:35 |
-| Arity | Cloud Platform Senior Consultant - Remote - Arity | Remote, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=b2c9ee52930eba81) | 2026-08-13 20:31 |
-| Thrivent | Senior Engineer (e-MG) | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c9a03f7ee8ab5ffc) | 2026-08-13 20:31 |
-| Bank of America | Data Architect | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c439f1c88dfe170) | 2026-08-13 20:31 |
 
 
 ---
