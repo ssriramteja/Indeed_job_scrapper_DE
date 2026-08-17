@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 18:24
+Last updated: 2026-08-17 19:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Emed | Analytics Engineer | Miami, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0d9b36986b012526) | 2026-08-17 19:21 |
+| Optum | AI/ML Engineer | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f127a479735d551c) | 2026-08-17 19:21 |
+| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=802bfdff019309e4) | 2026-08-17 19:21 |
+| Optum | Data Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ae2b9e8142c83db) | 2026-08-17 19:21 |
+| Optum | Senior Software Engineer | Schaumburg, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8ebced2ce7455ee) | 2026-08-17 19:21 |
+| X Development | Software Engineering, Machine Learning Operations, Tapestry | Mountain View, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ded9a77a1d06a7bc) | 2026-08-17 19:21 |
 | U.S. Bank | Senior Data Engineer with Data Analytics | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=08766dbd36ab8fcd) | 2026-08-17 18:24 |
 | U.S. Bank | Senior Data Engineer with Data Analytics | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c8ff0ddbadc99534) | 2026-08-17 18:24 |
 | U.S. Bank | Senior Data Engineer with Data Analytics | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5c17d7842b363140) | 2026-08-17 18:24 |
@@ -275,7 +281,6 @@ Last updated: 2026-08-17 18:24
 | 84.51° | Senior Data Engineer (P1129) | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2706993ff5471611) | 2026-08-13 19:52 |
 | AgileOne | Sr. Data Analyst, Business Intelligence | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=39cf4047b4b5aaa3) | 2026-08-13 19:52 |
 | The Wyanoke Group | Software Engineer | Thorofare, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f724dd5d2a21f911) | 2026-08-13 19:52 |
-| Verizon | Data Security Engineer, Exposure and Vulnerability Management | Alpharetta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4a24f6408369310a) | 2026-08-13 18:50 |
 
 
 ---
