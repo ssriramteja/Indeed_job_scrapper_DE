@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-17
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 3
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,29 +16,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Jr Software Developer @ KBR
-**Match Score:** 13.2%
+## 2. Senior ML/Data Engineer @ Catapult Sports
+**Match Score:** 11.8%
 
-📍 **Location:** Colorado Springs, CO, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** AWS, S3, Scala, Oracle, PostgreSQL, MySQL, MongoDB, Tableau, CI/CD, Maven
+🔑 **Keywords:** AWS, Lambda, Kinesis, SQS, SNS, ECS, RDS, Spark, Scala, Spark Streaming
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7917c01121d24b96)
-
----
-
-## 3. Jr Software Developer @ KBR
-**Match Score:** 13.2%
-
-📍 **Location:** Colorado Springs, CO, US USA
-
-🔑 **Keywords:** AWS, S3, Scala, Oracle, PostgreSQL, MySQL, MongoDB, Tableau, CI/CD, Maven
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a758504314944c77)
+[Apply Here](https://www.indeed.com/viewjob?jk=f70070de74edaf0a)
 
 ---
 
-## 4. Sr Associate Data Analytics @ Amgen
+## 3. Sr Associate Data Analytics @ Amgen
 **Match Score:** 11.1%
 
 📍 **Location:** Tampa, FL, US USA
@@ -46,17 +35,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** S3, RDS, Databricks, Scala, Informatica PowerCenter, SQL Server, Power BI, Tableau, Git, Python
 
 [Apply Here](https://www.indeed.com/viewjob?jk=4fbfe0f5be436a39)
-
----
-
-## 5. Backend Engineer - AI Gateway @ Cinter Networks
-**Match Score:** 11.1%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** IAM, Azure, Kafka, PostgreSQL, CI/CD, GitHub Actions, Terraform, Docker, Kubernetes, AKS
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dfe651047abaadcf)
 
 ---
 

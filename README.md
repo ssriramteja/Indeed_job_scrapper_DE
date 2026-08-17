@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 11:16
+Last updated: 2026-08-17 12:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Catapult Sports | Senior ML/Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f70070de74edaf0a) | 2026-08-17 12:23 |
 | Amgen | Sr Associate Data Analytics | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4fbfe0f5be436a39) | 2026-08-16 22:11 |
 | RoadSync | Infrastructure Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=43f605a11b0b8a05) | 2026-08-16 18:15 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7917c01121d24b96) | 2026-08-16 13:23 |
