@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 21:17
+Last updated: 2026-08-17 22:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CareFirst BlueCross BlueShield | Senior Software Engineer - Java, Microservices, MuleSoft & API Development (Remote) | Baltimore, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6d5b52a299e98559) | 2026-08-17 22:14 |
+| Databricks | Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences) | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=176a7564b0c762a0) | 2026-08-17 22:14 |
+| Databricks | Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=777f4483805c8d79) | 2026-08-17 22:14 |
+| Databricks | Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences) | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d9bb3ce748cacccb) | 2026-08-17 22:14 |
+| Bitscopic | Site Reliability Engineer - SRE | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d285da9f2e0f5ed6) | 2026-08-17 22:14 |
+| Procter & Gamble | Data Engineer - North America Fabric Care | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bda137520545caf7) | 2026-08-17 22:14 |
 | RELI Group Inc | Database Administrator | Baltimore, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=84a78da056d3cd48) | 2026-08-17 21:17 |
 | nan | Sr. Analyst, Data & Analytics Engineering | Coraopolis, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c73b6b96302b8ac) | 2026-08-17 21:17 |
 | General Motors (GM) | Sr. Business Analyst – Data Analytics, Visualization & AI Solutions | Warren, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8e58ddd60612b0a2) | 2026-08-17 21:17 |
@@ -267,25 +273,6 @@ Last updated: 2026-08-17 21:17
 | Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3cfcab630d6d10a1) | 2026-08-13 23:32 |
 | Cwill | DevOps/SRE Engineer - cA - Mandarin Speaking | City of Industry, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5919e028a697b8a0) | 2026-08-13 23:32 |
 | Arkatechture | Software Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99414150eb0b8769) | 2026-08-13 22:32 |
-| Reveal Global Consulting | Senior Data Engineer | Fulton, MD, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=dc805c7e2795f2f1) | 2026-08-13 21:35 |
-| JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=64ed424e034b1128) | 2026-08-13 21:35 |
-| Legrand | Azure Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=33ef21655bbe4595) | 2026-08-13 21:35 |
-| MiniMed | AI/Data Science Engineer II | Northridge, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3b13ae863d10a99c) | 2026-08-13 21:35 |
-| Modivcare | Cloud Data Warehouse Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d1403d2c68966d88) | 2026-08-13 21:35 |
-| Modivcare | Cloud Data Warehouse Engineer III | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d7136cd362b32aa5) | 2026-08-13 21:35 |
-| BNY | Senior Java Full Stack Developer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4b5ffaad9128b6e7) | 2026-08-13 21:35 |
-| Capgemini | GK POS: GKPOS Developer | Phoenix, AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ba1c187a0d60f18) | 2026-08-13 21:35 |
-| IQVIA | BI Analytics Engineer, IQVIA Digital (Remote) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a1f29d6a024aa2fc) | 2026-08-13 21:35 |
-| IQVIA | BI Analytics Engineer, IQVIA Digital (Remote) | Wayne, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c4b18f6f693f585d) | 2026-08-13 21:35 |
-| nan | Infrastructure Engineer | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0be821cc97d69bf4) | 2026-08-13 21:35 |
-| Salesforce | Software Engineering SMTS | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c9bdbba1aa0d5da9) | 2026-08-13 21:35 |
-| Anna | QA Automation Engineer | Huntsville, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8ed3b3fbe175a19b) | 2026-08-13 21:35 |
-| Ekimetrics | Senior Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ffe7aa3d36255097) | 2026-08-13 21:35 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8b25fb8132ee77a1) | 2026-08-13 21:35 |
-| General Motors (GM) | Sr. Data Engineer - GM Motorsports | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fde7304edbd7bcd5) | 2026-08-13 21:35 |
-| Everseen | DevOps Engineer III | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fcbf4b821e3f72c5) | 2026-08-13 21:35 |
-| Kyndryl | Early Career Consult Program - Associate AI Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c8c83cc021a8d2ff) | 2026-08-13 21:35 |
-| Kyndryl | Early Career Consult Program - Associate AI Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d97bd7e666252482) | 2026-08-13 21:35 |
 
 
 ---
