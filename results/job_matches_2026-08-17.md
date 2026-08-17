@@ -5,40 +5,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Software Engineer II @ Pearson
-**Match Score:** 13.2%
-
-📍 **Location:** Englewood, CO, US USA
-
-🔑 **Keywords:** AWS, Lambda, Kinesis, SQS, ECS, RDS, GCP, BigQuery, Scala, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=13516b225489ef52)
-
----
-
-## 2. Jr Software Developer @ KBR
-**Match Score:** 13.2%
-
-📍 **Location:** Colorado Springs, CO, US USA
-
-🔑 **Keywords:** AWS, S3, Scala, Oracle, PostgreSQL, MySQL, MongoDB, Tableau, CI/CD, Maven
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7917c01121d24b96)
-
----
-
-## 3. Jr Software Developer @ KBR
-**Match Score:** 13.2%
-
-📍 **Location:** Colorado Springs, CO, US USA
-
-🔑 **Keywords:** AWS, S3, Scala, Oracle, PostgreSQL, MySQL, MongoDB, Tableau, CI/CD, Maven
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a758504314944c77)
-
----
-
-## 4. Infrastructure Engineer @ RoadSync
+## 1. Infrastructure Engineer @ RoadSync
 **Match Score:** 13.2%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -49,18 +16,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Backend Engineer - AI Gateway @ Cinter Networks
-**Match Score:** 11.1%
+## 2. Software Engineer II @ Pearson
+**Match Score:** 13.2%
 
-📍 **Location:** Plano, TX, US USA
+📍 **Location:** Englewood, CO, US USA
 
-🔑 **Keywords:** IAM, Azure, Kafka, PostgreSQL, CI/CD, GitHub Actions, Terraform, Docker, Kubernetes, AKS
+🔑 **Keywords:** AWS, Lambda, Kinesis, SQS, ECS, RDS, GCP, BigQuery, Scala, NoSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=dfe651047abaadcf)
+[Apply Here](https://www.indeed.com/viewjob?jk=13516b225489ef52)
 
 ---
 
-## 6. Sr Associate Data Analytics @ Amgen
+## 3. Jr Software Developer @ KBR
+**Match Score:** 13.2%
+
+📍 **Location:** Colorado Springs, CO, US USA
+
+🔑 **Keywords:** AWS, S3, Scala, Oracle, PostgreSQL, MySQL, MongoDB, Tableau, CI/CD, Maven
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7917c01121d24b96)
+
+---
+
+## 4. Jr Software Developer @ KBR
+**Match Score:** 13.2%
+
+📍 **Location:** Colorado Springs, CO, US USA
+
+🔑 **Keywords:** AWS, S3, Scala, Oracle, PostgreSQL, MySQL, MongoDB, Tableau, CI/CD, Maven
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a758504314944c77)
+
+---
+
+## 5. Sr Associate Data Analytics @ Amgen
 **Match Score:** 11.1%
 
 📍 **Location:** Tampa, FL, US USA
@@ -68,6 +57,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** S3, RDS, Databricks, Scala, Informatica PowerCenter, SQL Server, Power BI, Tableau, Git, Python
 
 [Apply Here](https://www.indeed.com/viewjob?jk=4fbfe0f5be436a39)
+
+---
+
+## 6. Backend Engineer - AI Gateway @ Cinter Networks
+**Match Score:** 11.1%
+
+📍 **Location:** Plano, TX, US USA
+
+🔑 **Keywords:** IAM, Azure, Kafka, PostgreSQL, CI/CD, GitHub Actions, Terraform, Docker, Kubernetes, AKS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dfe651047abaadcf)
 
 ---
 
