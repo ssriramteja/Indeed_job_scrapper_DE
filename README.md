@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 07:43
+Last updated: 2026-08-17 08:31
 
 ### 🚀 Daily Job Matches
 
@@ -275,9 +275,6 @@ Last updated: 2026-08-17 07:43
 | REI Systems | DevOps Engineer | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=277aa9aed0774afa) | 2026-08-13 10:53 |
 | Texas Instruments | IT Site Reliability Engineer — API Management Platforms | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0495992e379947c7) | 2026-08-13 09:53 |
 | FordDirect | Full Stack Software Engineer | MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c77dc17406431b44) | 2026-08-13 09:53 |
-| KBR | Senior AWS DevOps Engineer | Sioux Falls, SD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bc41952394e7bd9a) | 2026-08-13 08:12 |
-| Ensign Services | Associate AWS Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=897a9552866b00fd) | 2026-08-13 08:12 |
-| New York Life | Senior Associate - Quality Engineer, AI & Automation | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf417995b86a8947) | 2026-08-13 08:12 |
 
 
 ---

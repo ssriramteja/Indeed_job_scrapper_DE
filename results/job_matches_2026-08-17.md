@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-17
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -49,18 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior AI/ML Platform Engineer, GovCloud @ Medallia
-**Match Score:** 12.5%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, ECS, IAM, RDS, Hadoop, Spark, Scala, Kafka
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8a5f83cd6892d049)
-
----
-
-## 6. Backend Engineer - AI Gateway @ Cinter Networks
+## 5. Backend Engineer - AI Gateway @ Cinter Networks
 **Match Score:** 11.1%
 
 📍 **Location:** Plano, TX, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Sr Associate Data Analytics @ Amgen
+## 6. Sr Associate Data Analytics @ Amgen
 **Match Score:** 11.1%
 
 📍 **Location:** Tampa, FL, US USA
