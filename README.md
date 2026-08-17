@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 13:32
+Last updated: 2026-08-17 14:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| inVeritaSoft | Backend / Platform Developer Consultant (Temporal & Kubernetes) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4cb9f3f7a196c2e0) | 2026-08-17 14:18 |
+| Billtrust | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01c9c35a4ddbdfbb) | 2026-08-17 14:18 |
 | Openly | Senior Backend Engineer (Remote, US) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7e2f39f3379fbccf) | 2026-08-17 13:32 |
 | Catapult Sports | Senior ML/Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f70070de74edaf0a) | 2026-08-17 12:23 |
 | Amgen | Sr Associate Data Analytics | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4fbfe0f5be436a39) | 2026-08-16 22:11 |
@@ -269,8 +271,6 @@ Last updated: 2026-08-17 13:32
 | canyon associates | Senior Data Engineer | Princeton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8092057b1ca46619) | 2026-08-13 15:51 |
 | DemandTec | Senior Software Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=17cbeaef218d3c02) | 2026-08-13 15:51 |
 | TetraScience | Senior Software Engineer, Agents | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=57978aa7703f5b96) | 2026-08-13 15:51 |
-| Voya Financial | Senior Data Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd06fa161917227f) | 2026-08-13 14:16 |
-| Digital Turbine | Senior Infrastructure Engineer | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d23d068c37ba617c) | 2026-08-13 14:16 |
 
 
 ---
