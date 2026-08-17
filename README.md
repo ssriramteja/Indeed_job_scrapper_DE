@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 09:31
+Last updated: 2026-08-17 10:22
 
 ### 🚀 Daily Job Matches
 
@@ -273,8 +273,6 @@ Last updated: 2026-08-17 09:31
 | Artiva Biotherapeutics | Bio-Data Engineer II (Part-Time/Temporary) | San Diego, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d431fee9a86d9b4) | 2026-08-13 10:53 |
 | Sargent & Lundy | Infrastructure & Cloud Systems Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e4b1a61008e4755) | 2026-08-13 10:53 |
 | REI Systems | DevOps Engineer | Sterling, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=277aa9aed0774afa) | 2026-08-13 10:53 |
-| Texas Instruments | IT Site Reliability Engineer — API Management Platforms | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0495992e379947c7) | 2026-08-13 09:53 |
-| FordDirect | Full Stack Software Engineer | MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c77dc17406431b44) | 2026-08-13 09:53 |
 
 
 ---
