@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 19:21
+Last updated: 2026-08-17 20:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | Java Full Stack Engineer | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=299ffa44541b6cb7) | 2026-08-17 20:15 |
+| Unitedone health | Snowflake Developer – Python & SQL Server | Hartford, CT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d501f7eec5c487a) | 2026-08-17 20:15 |
+| Innodata | Application Reliability Engineer | Ridgefield Park, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f16c01d9addff559) | 2026-08-17 20:15 |
+| HHAeXchange | Sr. Software Engineer, ROR | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3a74eecfd78cc78a) | 2026-08-17 20:15 |
+| Hunter Industries | Senior Data Engineer | San Marcos, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=987cd62585084d2b) | 2026-08-17 20:15 |
+| CCC Intelligent Solutions | Senior Cloud Engineer - Azure | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=60123f1a31b96503) | 2026-08-17 20:15 |
+| Innodata | Data Platform Engineer (GCP) | Ridgefield Park, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=65208b050c6c3d05) | 2026-08-17 20:15 |
+| Visa | Data Engineer - Sr. Consultant level | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=583ac829a05c951b) | 2026-08-17 20:15 |
 | Emed | Analytics Engineer | Miami, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0d9b36986b012526) | 2026-08-17 19:21 |
 | Optum | AI/ML Engineer | Eden Prairie, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f127a479735d551c) | 2026-08-17 19:21 |
 | Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=802bfdff019309e4) | 2026-08-17 19:21 |
@@ -275,12 +283,6 @@ Last updated: 2026-08-17 19:21
 | Arity | Cloud Platform Senior Consultant - Remote - Arity | Remote, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=b2c9ee52930eba81) | 2026-08-13 20:31 |
 | Thrivent | Senior Engineer (e-MG) | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c9a03f7ee8ab5ffc) | 2026-08-13 20:31 |
 | Bank of America | Data Architect | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c439f1c88dfe170) | 2026-08-13 20:31 |
-| Skechers | Sr. Salesforce Platform Engineer | Manhattan Beach, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a4c5cc701830f318) | 2026-08-13 19:52 |
-| Sambanova | Cloud Platform Engineer | Palo Alto, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=45c9eec9d48995e8) | 2026-08-13 19:52 |
-| Moffitt Cancer Center | DATA ENGINEER I | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b1d7710cada609b6) | 2026-08-13 19:52 |
-| 84.51° | Senior Data Engineer (P1129) | Cincinnati, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2706993ff5471611) | 2026-08-13 19:52 |
-| AgileOne | Sr. Data Analyst, Business Intelligence | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=39cf4047b4b5aaa3) | 2026-08-13 19:52 |
-| The Wyanoke Group | Software Engineer | Thorofare, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f724dd5d2a21f911) | 2026-08-13 19:52 |
 
 
 ---
