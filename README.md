@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 05:26
+Last updated: 2026-08-17 06:33
 
 ### 🚀 Daily Job Matches
 
@@ -278,18 +278,6 @@ Last updated: 2026-08-17 05:26
 | KBR | Senior AWS DevOps Engineer | Sioux Falls, SD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bc41952394e7bd9a) | 2026-08-13 08:12 |
 | Ensign Services | Associate AWS Data Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=897a9552866b00fd) | 2026-08-13 08:12 |
 | New York Life | Senior Associate - Quality Engineer, AI & Automation | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cf417995b86a8947) | 2026-08-13 08:12 |
-| JPMorganChase | Software Engineer III | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=01b861154fd37cbd) | 2026-08-13 06:10 |
-| Resmed | Associate Software Engineer | San Diego, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a8a363a45eab6297) | 2026-08-13 06:10 |
-| U.S. Bank | Software Engineer 2 (Backend AI) | Earth City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7f97f550868ed4a0) | 2026-08-13 06:10 |
-| U.S. Bank | Software Engineer 2 (Backend AI) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=539b15f3acf3e59d) | 2026-08-13 06:10 |
-| U.S. Bank | Software Engineer 2 (Backend AI) | Saint Paul, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0f6cc9573c1dfe07) | 2026-08-13 06:10 |
-| U.S. Bank | Software Engineer 2 (AI/GenAI) | Earth City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb32f6f568871573) | 2026-08-13 06:10 |
-| U.S. Bank | Software Engineer 2 (AI/GenAI) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6885db6408659217) | 2026-08-13 06:10 |
-| U.S. Bank | Software Engineer 2 (AI/GenAI) | Hopkins, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=31a066f7c7018f73) | 2026-08-13 06:10 |
-| U.S. Bank | Software Engineer 2 (AI/GenAI) | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d1863e21d6269820) | 2026-08-13 06:10 |
-| U.S. Bank | Software Engineer 2 (AI/GenAI) | Brookfield, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6721a62ef6659e3) | 2026-08-13 06:10 |
-| U.S. Bank | Software Engineer 2 (AI/GenAI) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85db08255bd1c95b) | 2026-08-13 06:10 |
-| U.S. Bank | Software Engineer 2 (AI/GenAI) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cbe2ba9e399ffb43) | 2026-08-13 06:10 |
 
 
 ---
