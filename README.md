@@ -1,11 +1,67 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 15:22
+Last updated: 2026-08-18 16:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Veridic Solutions | Senior Data Engineer | Jacksonville, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5dc73ec2502e27a3) | 2026-08-18 16:20 |
+| CVS Health | Sr. Software Development Engineer | RI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=da5d92ba9e6d3e13) | 2026-08-18 16:20 |
+| AI SPINS INC | Palantir Data engineer - Forward Deployment Engineers | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a35bc9c9058b4a38) | 2026-08-18 16:20 |
+| CVS Health | Sr Machine Learning Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e622b2e76eb112c1) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | SC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=403061dcf440ec37) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=99f4a1c92a28581b) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | WV, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=534a121db23077a6) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=845609474cda1ceb) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | NV, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7bac106108d2cb48) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | NE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=895ccfdfabd80a00) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | VT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=60845048c5e70011) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | ID, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=36e72d3d377212ef) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=067a57b264a3d769) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=11c98ecd4628c5e9) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | KS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a65c027dc2ff5a07) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bf8e8d6efc4e8fd0) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1e49d76b2d69dfa2) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=134d9282cf37a0ae) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | NM, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e72c66f56235b87a) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | LA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=331da26c68435ffe) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ea85728be0a6515e) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dd873054d15e8766) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | WY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6d86099ef8b381b8) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | AR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f109e5071a47922c) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d7b6cd4f20194f69) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2649e457ca6d1f62) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | MS, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4c47e7783b37bb7f) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | MT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0ea03bac31fda055) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | DE, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=265ad9188f08d4fa) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | ND, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9dc2bbb946ec5705) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | AZ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dd9a888ebe473e5f) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9872e02a1d0b5a55) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b4a365d685f25643) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7163db582e33e63f) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f4818ff983fe32be) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | ME, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=44025b0cc02106d4) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | WI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9b9169947786f5a4) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1dbbee3255a67262) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a000d31ba2da0950) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3eea0a491e9b49dd) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | AL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f6d0c7c3216eba93) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4e5baa7bc18a6821) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | NH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=06b7ce759b03fc0a) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | OR, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dbe68e26b4040f5d) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1cf7a108004d0304) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | KY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=48e2290ee4c4e6e9) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | OK, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b25498d222f29589) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | SD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fe51a9b954fbdf0e) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc1098dd2acf48ae) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d2934000541a09da) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9018daddfd9b2f20) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e290adebae65f2ae) | 2026-08-18 16:20 |
+| CVS Health | Senior Engineer - Observability Platform | RI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8556b0757d0f99dc) | 2026-08-18 16:20 |
+| CVS Health | Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7211706c4fa77eff) | 2026-08-18 16:20 |
+| Mastercard | Senior Cloud Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6bfbd27edc96381f) | 2026-08-18 16:20 |
+| CVS Health | Sr. Data Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8ad4a5d391e5cb08) | 2026-08-18 16:20 |
 | MAXhealth | Data Engineer- Greater Tampa | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ebc3cc20a81b9fe) | 2026-08-18 15:22 |
 | Alliance Health Plan | Dir-Data Platform Engineering (Full-time Remote, North Carolina Based) | Morrisville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ebdf670f668b0e7) | 2026-08-18 15:22 |
 | NICA | Contract Full-Stack Developer - existing application completion & deployment | North Falmouth, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1624bcb33518b242) | 2026-08-18 15:22 |
