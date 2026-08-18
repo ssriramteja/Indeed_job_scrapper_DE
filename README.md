@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 05:20
+Last updated: 2026-08-18 06:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CNH Industrial | Senior Software Engineer | Oak Brook, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e5793d31b52a070a) | 2026-08-18 06:26 |
+| JPMorganChase | Java Full Stack Software Engineer II - React / PostgreSQL | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0bf14fb387b368af) | 2026-08-18 06:26 |
+| AeroVironment | Senior Data & AI Analyst, Finance Systems | Simi Valley, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01ab4083a3713e89) | 2026-08-18 06:26 |
 | Whisker | Senior Software Engineer | Auburn Hills, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=49e4025f9a54a6aa) | 2026-08-18 05:20 |
 | TrueScripts Management Services | Data Engineer | Washington, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=064eba971116911a) | 2026-08-18 05:20 |
 | NewYork-Presbyterian Hospital | Analytics Developer, Enterprise Analytics (Data Shared Services) | Manhattan, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1343552027471cbf) | 2026-08-18 05:20 |
@@ -249,15 +252,6 @@ Last updated: 2026-08-18 05:20
 | REGENT BANK | Senior Platform/DevOps Engineer | Broken Arrow, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bac113fb34bfff49) | 2026-08-14 07:10 |
 | REGENT BANK | Senior Platform/DevOps Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f281c3de1a5cf3c) | 2026-08-14 07:10 |
 | Rethink First | Senior Full Stack Engineer – Architecture Team | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ab5430ace02a7fb) | 2026-08-14 07:10 |
-| HarbourVest | Distinguished Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ab09cd891b8a55c1) | 2026-08-14 05:26 |
-| AT&T | Senior Applications Development | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6a050080ede9c5ad) | 2026-08-14 05:26 |
-| EXL Service | Full Stack Software Engineer (Python / Cloud / React) | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c7f78b2330159794) | 2026-08-14 05:26 |
-| Tesla | Fullstack Software Engineer, Information Security Team | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ac61fa1a48bebaf) | 2026-08-14 05:26 |
-| Dynanet Corporation | AI Security Engineer | MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b4a6a52a055ba853) | 2026-08-14 05:26 |
-| Broadcom | R&D Software Engineer | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=79cc1d74cbb5d37b) | 2026-08-14 05:26 |
-| Chicago Blackhawks | Senior Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20621ff04e6c7e2a) | 2026-08-14 05:26 |
-| Charles Schwab | Senior Data Engineer | Southlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d32cb461604b896) | 2026-08-14 05:26 |
-| CloudBees Inc | Senior Software Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a5a818a5a8c923cd) | 2026-08-14 05:26 |
 
 
 ---
