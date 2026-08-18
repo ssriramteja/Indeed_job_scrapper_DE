@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 12:25
+Last updated: 2026-08-18 13:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Native American Industrial Solutions, LLC (NAIS) | Senior Enterprise Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8250689e965a0872) | 2026-08-18 13:35 |
 | TDIndustries | Sr. Solution Architect - Data, Analytics & AI | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8ac8a616958996b3) | 2026-08-18 12:25 |
 | itD Tech | Data Engineer IV (6281) | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2638fbb6172c3dae) | 2026-08-18 12:25 |
 | Cox Automotive | Sr Database Engineer | Draper, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fd582173f03bef9) | 2026-08-18 12:25 |
