@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 10:19
+Last updated: 2026-08-18 11:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Quantum Sky | Software Engineer | Wright-Patterson AFB, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f6cc31f2ccc0f85) | 2026-08-18 11:16 |
 | Data Solutions LLC | Senior SAP Sales and Service Cloud Consultant | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e9a9f7e834d9af9) | 2026-08-18 10:19 |
 | Tripoint Solutions | Cloud Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7efa743be477c307) | 2026-08-18 10:19 |
 | Target | Sr Engineer - MLOps Platform | Brooklyn Park, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83adac9442c00b06) | 2026-08-18 09:23 |
@@ -242,7 +243,6 @@ Last updated: 2026-08-18 10:19
 | nan | Sr Product Software Engineer | Santa Monica, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=56a93ae153035d32) | 2026-08-14 14:09 |
 | Target | Data Engineer - Finance AI Solutions | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1f6056b3749eea65) | 2026-08-14 14:09 |
 | Babel Street | Data Warehouse Software Engineer III | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e34dd82bc09fa105) | 2026-08-14 14:09 |
-| Acuhuman | AI PLATFORM ENGINEER | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=682a8152cd81abc9) | 2026-08-14 11:00 |
 
 
 ---
