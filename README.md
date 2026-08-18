@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 16:20
+Last updated: 2026-08-18 17:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plymouth Rock Assurance | Data Engineer | Boston, MA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=93c578df954821f2) | 2026-08-18 17:18 |
+| JACK Entertainment | Data Platform Engineer | Cleveland, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ddeffbcda3a30081) | 2026-08-18 17:18 |
+| Plymouth Rock Assurance | Senior Data Engineer | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=abd794d42375295b) | 2026-08-18 17:18 |
+| Pacific Consulting | Systems Administrator | Salem, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e8bd5938a7b9489) | 2026-08-18 17:18 |
 | Veridic Solutions | Senior Data Engineer | Jacksonville, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5dc73ec2502e27a3) | 2026-08-18 16:20 |
 | CVS Health | Sr. Software Development Engineer | RI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=da5d92ba9e6d3e13) | 2026-08-18 16:20 |
 | AI SPINS INC | Palantir Data engineer - Forward Deployment Engineers | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a35bc9c9058b4a38) | 2026-08-18 16:20 |
@@ -301,9 +305,6 @@ Last updated: 2026-08-18 16:20
 | CSCI Consulting | Sr. Systems Administrator | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a990bfe6dafb32a5) | 2026-08-14 18:41 |
 | Smart Tech Skills LLC | Power BI Developer | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c24a02e2aa89d624) | 2026-08-14 18:41 |
 | Matrix International Financial Services | Data Modeling & AI Analytics | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=da0b9d9f202b441a) | 2026-08-14 17:45 |
-| Astronomer | Customer Reliability Engineer - Airflow | Boston, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e441a087ab697b63) | 2026-08-14 16:41 |
-| Expion health | Data Product Owner | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2e5617ec292674d) | 2026-08-14 16:41 |
-| TetraScience | Senior Software Engineer, Agents | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a55885fda0fe7cb0) | 2026-08-14 16:41 |
 
 
 ---
