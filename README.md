@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 14:23
+Last updated: 2026-08-18 15:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| MAXhealth | Data Engineer- Greater Tampa | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ebc3cc20a81b9fe) | 2026-08-18 15:22 |
+| Alliance Health Plan | Dir-Data Platform Engineering (Full-time Remote, North Carolina Based) | Morrisville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ebdf670f668b0e7) | 2026-08-18 15:22 |
+| NICA | Contract Full-Stack Developer - existing application completion & deployment | North Falmouth, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1624bcb33518b242) | 2026-08-18 15:22 |
 | Visa | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d539c21d8a7cb01) | 2026-08-18 14:23 |
 | Native American Industrial Solutions, LLC (NAIS) | Senior Enterprise Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8250689e965a0872) | 2026-08-18 13:35 |
 | TDIndustries | Sr. Solution Architect - Data, Analytics & AI | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8ac8a616958996b3) | 2026-08-18 12:25 |
