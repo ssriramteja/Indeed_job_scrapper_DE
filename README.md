@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 17:18
+Last updated: 2026-08-18 18:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CapTech Consulting | Python Developer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=695b8a15f31b95e9) | 2026-08-18 18:23 |
+| CapTech Consulting | Python Developer | Philadelphia, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0d45121b0e1810c1) | 2026-08-18 18:23 |
+| CapTech Consulting | Python Developer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f609822c97459ef7) | 2026-08-18 18:23 |
+| Mount Sinai Health System | Technology Specialist II - Data Architect - Digital and Technology Partners - Hybrid/Remote | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=31ca165a02301fbf) | 2026-08-18 18:23 |
+| Bed Bath & Beyond | Machine Learning Engineer II | UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e18063e9579ba86) | 2026-08-18 18:23 |
+| Whoop | Software Engineer II (Backend, Platform) | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=145abebc67be2858) | 2026-08-18 18:23 |
+| CLAIR | Analytics Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62b06149f1d5d261) | 2026-08-18 18:23 |
 | Plymouth Rock Assurance | Data Engineer | Boston, MA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=93c578df954821f2) | 2026-08-18 17:18 |
 | JACK Entertainment | Data Platform Engineer | Cleveland, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ddeffbcda3a30081) | 2026-08-18 17:18 |
 | Plymouth Rock Assurance | Senior Data Engineer | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=abd794d42375295b) | 2026-08-18 17:18 |
@@ -304,7 +311,6 @@ Last updated: 2026-08-18 17:18
 | BV Teck | Kafka Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=83600cfd9fda878e) | 2026-08-14 18:41 |
 | CSCI Consulting | Sr. Systems Administrator | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a990bfe6dafb32a5) | 2026-08-14 18:41 |
 | Smart Tech Skills LLC | Power BI Developer | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c24a02e2aa89d624) | 2026-08-14 18:41 |
-| Matrix International Financial Services | Data Modeling & AI Analytics | Miami, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=da0b9d9f202b441a) | 2026-08-14 17:45 |
 
 
 ---
