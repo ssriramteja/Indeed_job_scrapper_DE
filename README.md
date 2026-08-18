@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 07:29
+Last updated: 2026-08-18 08:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Comcast | Platform Data Engineer - (DataBricks, PySpark, AWS) | West Chester, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=25ea972f667d3d3f) | 2026-08-18 08:24 |
+| Comcast | Data Engineer | West Chester, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d8f7134bc1281d0) | 2026-08-18 08:24 |
 | BioAgilytix Labs | Data Engineer | Durham, NC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7f99a8f1166781f9) | 2026-08-18 07:29 |
 | Lynden | Data Engineer | SeaTac, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8cf81bd1ef4f9ea4) | 2026-08-18 07:29 |
 | CNH Industrial | Senior Software Engineer | Oak Brook, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e5793d31b52a070a) | 2026-08-18 06:26 |
