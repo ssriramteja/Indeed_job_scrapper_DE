@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 22:13
+Last updated: 2026-08-18 23:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Textron | Data Engineer II | Providence, RI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=89e3a0d656748e7c) | 2026-08-18 23:13 |
+| Betsol | Product Owner - Cloud Contact Center (CCaaS) & Data Platform | Broomfield, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8bd7071de6b014d4) | 2026-08-18 23:13 |
+| LPL Financial | Intern 2027 - Data Engineer | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=22be3c305311c8c5) | 2026-08-18 23:13 |
+| CSpring | Data Modeler | Springfield, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=61541eff4b55a7f4) | 2026-08-18 23:13 |
+| MoneyGram | US- Java Engineer - Pricing | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5191a2ca13d017d5) | 2026-08-18 23:13 |
+| MoneyGram | US- Java Engineer - Pricing | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6cc05afa82c7727d) | 2026-08-18 23:13 |
+| Team Velocity Marketing | Senior Data Scientist – Machine Learning & AI | Herndon, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4835e886da15e697) | 2026-08-18 23:13 |
+| nan | Solutions Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2227dc402960acc4) | 2026-08-18 23:13 |
+| Surescripts | Senior Database Engineer | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=603d527a2d1773a6) | 2026-08-18 23:13 |
+| Surescripts | Senior Software Engineer | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c7248f02d82ed3a) | 2026-08-18 23:13 |
+| nan | Full Stack Developer (need only locals) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78002654e3f6aec5) | 2026-08-18 23:13 |
+| Wrapbook | Senior Analytics Engineer II | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c920b57c72b89cab) | 2026-08-18 23:13 |
 | Seamless | Senior Data Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=478c9b428f7558f4) | 2026-08-18 22:13 |
 | nan | Senior RAPA Data Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e20027a6a5bcf1cf) | 2026-08-18 22:13 |
 | The Hartford | GIS Software Engineer - Esri | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=21ac825d5b64f66f) | 2026-08-18 22:13 |
@@ -341,18 +353,6 @@ Last updated: 2026-08-18 22:13
 | Vantage Data Centers | Mid- Level Data Engineer, Global | Denver, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c2eceb897f127f85) | 2026-08-15 00:41 |
 | Experian | Solution Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=db39abaf672f49a6) | 2026-08-15 00:41 |
 | Milwaukee Tool | Sr Data Engineer | Menomonee Falls, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60bd36ef9cdb09ec) | 2026-08-15 00:41 |
-| nan | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4473ab579b8e449a) | 2026-08-14 23:13 |
-| KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b738036437ddf04e) | 2026-08-14 23:13 |
-| KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=20b93c51b7c99cc5) | 2026-08-14 23:13 |
-| Costco Wholesale | Software Engineer - Digital Site Development | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=26618760ad342643) | 2026-08-14 23:13 |
-| AstraZeneca | Senior Cloud Engineering Architect - Evinova | Gaithersburg, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0f4e06659b43811d) | 2026-08-14 23:13 |
-| CloudSecurityweb | MQ Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=523220d0e85b6be6) | 2026-08-14 23:13 |
-| Nestlé Purina | Data Scientist | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2f94258f281c4987) | 2026-08-14 23:13 |
-| Slate Auto | Data Engineer II | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=812be7ff2c58a8e5) | 2026-08-14 23:13 |
-| ROYAL ELECTRIC | Data Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=70c82340e7a51690) | 2026-08-14 23:13 |
-| SmartThings | Senior Software Engineer, Apps & Behaviors | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=caea69b877e2e76a) | 2026-08-14 23:13 |
-| Nestlé Purina | Expert Data Scientist | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45cd5ea2ca8ed88e) | 2026-08-14 23:13 |
-| New Relic | Associate Software Engineer - Java (Distributed Systems and Databases) | Portland, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eba4a94f26ebfc6f) | 2026-08-14 23:13 |
 
 
 ---
