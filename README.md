@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 18:23
+Last updated: 2026-08-18 19:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| X-Energy | Software Engineer V, AI Digital & Engineering Software | Rockville, MD, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3a922959a62dc33f) | 2026-08-18 19:21 |
+| X-Energy | Software Engineer III, AI Digital & Engineering Software | Rockville, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=724dd35cc9ba9c68) | 2026-08-18 19:21 |
+| CapTech Consulting | Python Developer | Richmond, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3500a77261ebbb93) | 2026-08-18 19:21 |
+| CapTech Consulting | Python Developer | Reston, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5a07575a9e0364be) | 2026-08-18 19:21 |
+| CapTech Consulting | Data Analyst | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7f1f698284725984) | 2026-08-18 19:21 |
+| CapTech Consulting | Data Analyst | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5bb838c30917dc45) | 2026-08-18 19:21 |
+| CapTech Consulting | Data Analyst | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e506811c0b2cc445) | 2026-08-18 19:21 |
+| CapTech Consulting | Data Analyst | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=18381d7ceeaba33a) | 2026-08-18 19:21 |
+| CapTech Consulting | Data Analyst | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1fcc2deee2a3e4d7) | 2026-08-18 19:21 |
+| Carrington Mortgage Services, LLC | Senior, Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85cd0d74b3f6d1fd) | 2026-08-18 19:21 |
+| Tiger Analytics | Senior Data Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06a5cdb578318149) | 2026-08-18 19:21 |
+| Hertz | Sr Data Engineer | Estero, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3cb1b92b52d7a99) | 2026-08-18 19:21 |
+| Pelico | VIE - Software Engineer (based in Miami) | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=072180860b5c5965) | 2026-08-18 19:21 |
 | CapTech Consulting | Python Developer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=695b8a15f31b95e9) | 2026-08-18 18:23 |
 | CapTech Consulting | Python Developer | Philadelphia, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0d45121b0e1810c1) | 2026-08-18 18:23 |
 | CapTech Consulting | Python Developer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f609822c97459ef7) | 2026-08-18 18:23 |
@@ -307,10 +320,6 @@ Last updated: 2026-08-18 18:23
 | Landmark Properties, Inc. | Microsoft Fabric Data Engineer | Athens, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6ed1ad8a3c88baae) | 2026-08-14 19:42 |
 | Landmark Properties, Inc. | Microsoft Fabric Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5b4d249126be9c1) | 2026-08-14 19:42 |
 | Associated Grocers of New England, Inc. | Application Developer/Programmer II | Pembroke, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b0718b808fb76795) | 2026-08-14 19:42 |
-| JPMorganChase | Software Engineer III - Big Data Databricks, Python / Java | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8bb89514a86b7c54) | 2026-08-14 18:41 |
-| BV Teck | Kafka Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=83600cfd9fda878e) | 2026-08-14 18:41 |
-| CSCI Consulting | Sr. Systems Administrator | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a990bfe6dafb32a5) | 2026-08-14 18:41 |
-| Smart Tech Skills LLC | Power BI Developer | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c24a02e2aa89d624) | 2026-08-14 18:41 |
 
 
 ---
