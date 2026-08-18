@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 11:16
+Last updated: 2026-08-18 12:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TDIndustries | Sr. Solution Architect - Data, Analytics & AI | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8ac8a616958996b3) | 2026-08-18 12:25 |
+| itD Tech | Data Engineer IV (6281) | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2638fbb6172c3dae) | 2026-08-18 12:25 |
+| Cox Automotive | Sr Database Engineer | Draper, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fd582173f03bef9) | 2026-08-18 12:25 |
+| HCA Healthcare | Senior Data Engineer - Data Quality and Governance | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9fa3bf81f33a87f) | 2026-08-18 12:25 |
 | Quantum Sky | Software Engineer | Wright-Patterson AFB, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f6cc31f2ccc0f85) | 2026-08-18 11:16 |
 | Data Solutions LLC | Senior SAP Sales and Service Cloud Consultant | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e9a9f7e834d9af9) | 2026-08-18 10:19 |
 | Tripoint Solutions | Cloud Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7efa743be477c307) | 2026-08-18 10:19 |
