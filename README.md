@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 06:26
+Last updated: 2026-08-18 07:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BioAgilytix Labs | Data Engineer | Durham, NC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7f99a8f1166781f9) | 2026-08-18 07:29 |
+| Lynden | Data Engineer | SeaTac, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8cf81bd1ef4f9ea4) | 2026-08-18 07:29 |
 | CNH Industrial | Senior Software Engineer | Oak Brook, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e5793d31b52a070a) | 2026-08-18 06:26 |
 | JPMorganChase | Java Full Stack Software Engineer II - React / PostgreSQL | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0bf14fb387b368af) | 2026-08-18 06:26 |
 | AeroVironment | Senior Data & AI Analyst, Finance Systems | Simi Valley, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01ab4083a3713e89) | 2026-08-18 06:26 |
@@ -241,17 +243,6 @@ Last updated: 2026-08-18 06:26
 | JPMorganChase | Java AWS Software Engineer III | Newark, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8275b35f957f4f39) | 2026-08-14 10:00 |
 | Capital One | Distinguished Data Engineer | McLean, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=63201f5d771e794a) | 2026-08-14 08:59 |
 | Coca-Cola Consolidated, Inc. | Data Activation Engineer II | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32ebd161a8af1725) | 2026-08-14 08:59 |
-| BV Teck | Apache Spark Developer | Remote, US USA | 31.9% | [Apply](https://www.indeed.com/viewjob?jk=86da01562515eb49) | 2026-08-14 07:10 |
-| CVS Health | Data Engineer | Hartford, CT, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=89ec0c153166e42d) | 2026-08-14 07:10 |
-| Recutify Inc. | Senior Java Full Stack Developer | West Lake Hls, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8a873f8760103f3a) | 2026-08-14 07:10 |
-| University of Utah | Cloud Platform Engineer III | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac880839f17e6768) | 2026-08-14 07:10 |
-| REGENT BANK | Senior Platform/DevOps Engineer | Frisco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2f91e06aebfaaaf1) | 2026-08-14 07:10 |
-| REGENT BANK | Senior Platform/DevOps Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e72ef0bc51a24bc5) | 2026-08-14 07:10 |
-| REGENT BANK | Senior Platform/DevOps Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bd71a8cfa1a8aaab) | 2026-08-14 07:10 |
-| REGENT BANK | Senior Platform/DevOps Engineer | Edmond, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6751bf17199336e8) | 2026-08-14 07:10 |
-| REGENT BANK | Senior Platform/DevOps Engineer | Broken Arrow, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bac113fb34bfff49) | 2026-08-14 07:10 |
-| REGENT BANK | Senior Platform/DevOps Engineer | Springfield, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f281c3de1a5cf3c) | 2026-08-14 07:10 |
-| Rethink First | Senior Full Stack Engineer – Architecture Team | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7ab5430ace02a7fb) | 2026-08-14 07:10 |
 
 
 ---
