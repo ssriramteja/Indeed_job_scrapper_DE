@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 20:13
+Last updated: 2026-08-18 21:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Merkle, Inc. | Data Engineer (Adobe Experience Platform) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f1893b5f6e215827) | 2026-08-18 21:14 |
+| Consumer Cellular | Senior Data Engineer | Scottsdale, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dcea2f33a4118f28) | 2026-08-18 21:14 |
+| NewYork-Presbyterian Hospital | Analytics Developer, Enterprise Analytics (Data Shared Services) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cf557823600dd122) | 2026-08-18 21:14 |
+| Goldman Sachs | Engineering-L2-Dallas-Analyst-Software Engineering | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d45183e5b3bce9f1) | 2026-08-18 21:14 |
 | Caterpillar | Senior AI Cloud Solutions Architect | Irving, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5c52720211e7a971) | 2026-08-18 20:13 |
 | LTM Limited | Senior Specialist - Architecture | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e97bf8ea06c2dcbb) | 2026-08-18 20:13 |
 | ISOD Limited | Senior Full Stack Developer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=91f52b29094f2ea2) | 2026-08-18 20:13 |
@@ -363,11 +367,6 @@ Last updated: 2026-08-18 20:13
 | FujiFilm | Senior Data Engineer, Snowflake & AWS | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d7b0c0663856b10) | 2026-08-14 21:17 |
 | JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f8626322b450d2c) | 2026-08-14 21:17 |
 | JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d90a9d77defb25c) | 2026-08-14 21:17 |
-| ISPOT | Sr. Software Development Engineer | Bellevue, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba2bc4f8478f2f52) | 2026-08-14 20:22 |
-| Penn Interactive Ventures | Senior Software Engineer, iCasino | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=86920378643e1b3d) | 2026-08-14 20:22 |
-| Meduit | Data Engineer (Implementation & Integration) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9bfeab7755a77d7f) | 2026-08-14 20:22 |
-| nan | Senior Data Engineer | Alexandria, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdba37c8d5cb5040) | 2026-08-14 20:22 |
-| Waystar | Software Engineer II | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9817c4c795b73795) | 2026-08-14 20:22 |
 
 
 ---
