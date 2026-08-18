@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 02:10
+Last updated: 2026-08-18 03:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bank of America | Sr Data Engineer | Charlotte, NC, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=9dca464379b2183e) | 2026-08-18 03:36 |
+| KONG | Software Engineer, Core Platform | San Francisco, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=363f4f316481e53f) | 2026-08-18 03:36 |
+| KONG | Software Engineer, Core Platform | Olympia, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5742b1eac2e5457a) | 2026-08-18 03:36 |
+| Waystar | senior Data Engineer | Duluth, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5b5061b072e1bbd6) | 2026-08-18 03:36 |
+| Databricks | Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=80268f7971251ec3) | 2026-08-18 03:36 |
+| American Airlines | Sr Associate Engineer/Engineer, IT Software | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3115e576ba7b5d84) | 2026-08-18 03:36 |
+| Delinea | Senior Software Development Engineer - Platform Enablement | Redwood City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cc904bf54c1e4425) | 2026-08-18 03:36 |
+| PlayStation | Copy of Software Engineer II, Data Platform | San Mateo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fd6bead569945bd6) | 2026-08-18 03:36 |
+| Marcus & Millichap | Oracle Cloud Fusion Technical Data Architect and Reporting Analyst (Contract) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9036892ad365fcc3) | 2026-08-18 03:36 |
+| Western Governors University | IAR Senior Data Analyst | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=014c35a8d1bc95ce) | 2026-08-18 03:36 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ed393ac81f7cc7f) | 2026-08-18 03:36 |
 | Dairy Farmers of America, Inc. | Sr. Data Engineer - AI | Kansas City, KS, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=564a930b352284d3) | 2026-08-18 02:10 |
 | Kanan solutions | Senior Data Modeler - Mongo DB | McLean, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b821d85e7c3f3fda) | 2026-08-18 02:10 |
 | National Information Solutions Cooperative (NISC) | Software Developer - Meter Data Management Software (Full Stack, Back End) | St. Louis, MO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e1fae15aac6f86c7) | 2026-08-18 00:41 |
