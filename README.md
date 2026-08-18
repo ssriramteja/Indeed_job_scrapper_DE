@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 09:23
+Last updated: 2026-08-18 10:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Data Solutions LLC | Senior SAP Sales and Service Cloud Consultant | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e9a9f7e834d9af9) | 2026-08-18 10:19 |
+| Tripoint Solutions | Cloud Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7efa743be477c307) | 2026-08-18 10:19 |
 | Target | Sr Engineer - MLOps Platform | Brooklyn Park, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83adac9442c00b06) | 2026-08-18 09:23 |
 | Comcast | Platform Data Engineer - (DataBricks, PySpark, AWS) | West Chester, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=25ea972f667d3d3f) | 2026-08-18 08:24 |
 | Comcast | Data Engineer | West Chester, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d8f7134bc1281d0) | 2026-08-18 08:24 |
@@ -241,9 +243,6 @@ Last updated: 2026-08-18 09:23
 | Target | Data Engineer - Finance AI Solutions | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1f6056b3749eea65) | 2026-08-14 14:09 |
 | Babel Street | Data Warehouse Software Engineer III | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e34dd82bc09fa105) | 2026-08-14 14:09 |
 | Acuhuman | AI PLATFORM ENGINEER | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=682a8152cd81abc9) | 2026-08-14 11:00 |
-| talent source global | Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4deff5096edc72f7) | 2026-08-14 10:00 |
-| JPMorganChase | Software Engineer III - Glue/Python/Pyspark | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c6b0adf7ee0ca945) | 2026-08-14 10:00 |
-| JPMorganChase | Java AWS Software Engineer III | Newark, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8275b35f957f4f39) | 2026-08-14 10:00 |
 
 
 ---
