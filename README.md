@@ -1,11 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-17 23:13
+Last updated: 2026-08-18 00:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| National Information Solutions Cooperative (NISC) | Software Developer - Meter Data Management Software (Full Stack, Back End) | St. Louis, MO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e1fae15aac6f86c7) | 2026-08-18 00:41 |
+| United Concordia Dental | Senior Data Engineer – Streaming, Analytics & Visualization | PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=40021f9da2941e8e) | 2026-08-18 00:41 |
+| Westbrook Partners | Senior Software Engineer | Fort Worth, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=84364c91a0970a5c) | 2026-08-18 00:41 |
+| BNY | DATA MANAGEMENT ENGINEER – Full Stack | Pittsburgh, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7fb8f75345ac6681) | 2026-08-18 00:41 |
+| Betsol | Product Owner - Cloud Contact Center (CCaaS) & Data Platform | Broomfield, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=83ea14ffde25c4ae) | 2026-08-18 00:41 |
+| nan | Sr. Data Engineer | Elmhurst, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=84c7ccd0aea4cc19) | 2026-08-18 00:41 |
+| L&T Technology Services Ltd. | Software Development - Cloud Platform | Oak Brook, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=999c2fd6b4078473) | 2026-08-18 00:41 |
+| Kind Lending | Data Engineer II | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=243ccfa38c1e88ca) | 2026-08-18 00:41 |
+| Lockheed Martin | Full Stack Engineer Senior / Infrastructure as Code / DBA | Sunnyvale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3382fc9be960cd51) | 2026-08-18 00:41 |
+| Palomar Holdings, Inc. | Sr. Data Engineer | La Jolla, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d3ba8acc35014037) | 2026-08-18 00:41 |
+| Palomar Holdings, Inc. | Sr. Data Engineer | Edina, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5cb74b7d64f89d93) | 2026-08-18 00:41 |
+| Surescripts | Software Engineer | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=74896e076c7ddf35) | 2026-08-18 00:41 |
+| HCLTech | Group Technical Architect | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cabd49f3b0af0ce) | 2026-08-18 00:41 |
+| Rippling | Analytics Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=17356bf4dd6cd564) | 2026-08-18 00:41 |
+| BV Teck | Senior Java Full Stack Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d6ad7b2e04ae0cc7) | 2026-08-18 00:41 |
+| BV Teck | Data Platform Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f6b132222bc4dce) | 2026-08-18 00:41 |
 | CNH Industrial | Senior Software Engineer | Sioux Falls, SD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=46ac8fba1df212ef) | 2026-08-17 23:13 |
 | Imperial PFS | Analytics Engineer I | Kansas City, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=70dd12166b6538af) | 2026-08-17 23:13 |
 | Security Benefit | Senior Data Architect | Topeka, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b18d9ee76a272912) | 2026-08-17 23:13 |
@@ -267,19 +283,6 @@ Last updated: 2026-08-17 23:13
 | BV Teck | Senior Full Stack Software Engineer (Java) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0b61046e18a73350) | 2026-08-14 01:08 |
 | Rapport | SENIOR DEVELOPER, BUSINESS INTELLIGENCE & PROJECTS (HYBRID)) | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3a4daf04f41c3dd4) | 2026-08-14 01:08 |
 | Keeper Security, Inc. | Sales Engineer, DevOps | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec852b1865b5fdff) | 2026-08-14 01:08 |
-| Hudson Manpower | Data Engineer | New York, NY, US USA | 39.6% | [Apply](https://www.indeed.com/viewjob?jk=22e1c75da6c86a08) | 2026-08-13 23:32 |
-| Hudson Manpower | Data Engineer | Dallas, TX, US USA | 39.6% | [Apply](https://www.indeed.com/viewjob?jk=5b609663c97ff4ea) | 2026-08-13 23:32 |
-| Hudson Manpower | Data Engineer | Phoenix, AZ, US USA | 39.6% | [Apply](https://www.indeed.com/viewjob?jk=debc4a58840e5d41) | 2026-08-13 23:32 |
-| Fiserv | Technical Professional Services - Advisor II | Raleigh, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8becd2d40d784014) | 2026-08-13 23:32 |
-| NTT DATA | Senior Platform DevOps Engineer - Remote Role | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eacbf94ea1aa6fd6) | 2026-08-13 23:32 |
-| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9be2d602c235891d) | 2026-08-13 23:32 |
-| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Portsmouth, NH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6429f8729c0a9306) | 2026-08-13 23:32 |
-| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d1b34acc253d2a1d) | 2026-08-13 23:32 |
-| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b276360506ded44) | 2026-08-13 23:32 |
-| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=12796f848780aef1) | 2026-08-13 23:32 |
-| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6c4d457fcf1529e3) | 2026-08-13 23:32 |
-| Liberty Mutual Insurance | Senior Analyst, Advanced Analytics: Auto Physical Damage (APD) | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3cfcab630d6d10a1) | 2026-08-13 23:32 |
-| Cwill | DevOps/SRE Engineer - cA - Mandarin Speaking | City of Industry, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5919e028a697b8a0) | 2026-08-13 23:32 |
 
 
 ---
