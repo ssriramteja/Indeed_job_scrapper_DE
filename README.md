@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 03:36
+Last updated: 2026-08-18 04:25
 
 ### 🚀 Daily Job Matches
 
@@ -253,30 +253,6 @@ Last updated: 2026-08-18 03:36
 | Chicago Blackhawks | Senior Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20621ff04e6c7e2a) | 2026-08-14 05:26 |
 | Charles Schwab | Senior Data Engineer | Southlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d32cb461604b896) | 2026-08-14 05:26 |
 | CloudBees Inc | Senior Software Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a5a818a5a8c923cd) | 2026-08-14 05:26 |
-| Dell Technologies | Senior Systems Engineer | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0610b01c4518fd0e) | 2026-08-14 03:56 |
-| AmTrust Financial | Cloud Data Engineer | Cleveland, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2fa85e48bc32f2c8) | 2026-08-14 03:56 |
-| California Coast Credit Union | Data Architect | San Diego, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fb7ff633e7326bfa) | 2026-08-14 03:56 |
-| Citrin Cooperman Advisors LLC | Data Engineer, Development | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=90659c2e53e47134) | 2026-08-14 03:56 |
-| Salesforce | Software Engineering SMTS | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3785e321087a42fb) | 2026-08-14 03:56 |
-| GEICO | Senior Contact Center Data Engineer | San Diego, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d7741c8e3ee80da0) | 2026-08-14 03:56 |
-| GEICO | Senior Contact Center Data Engineer | Fredericksburg, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c167be2505d9bdd1) | 2026-08-14 03:56 |
-| GEICO | Senior Contact Center Data Engineer | Buffalo, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=42b8e0fc03dc2f65) | 2026-08-14 03:56 |
-| GEICO | Senior Contact Center Data Engineer | Virginia Beach, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=109ee650e4175aaf) | 2026-08-14 03:56 |
-| GEICO | Senior Contact Center Data Engineer | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a9e8163953cd5c49) | 2026-08-14 03:56 |
-| Cincinnati Reds | Data Engineer | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a00821cc3ce804ce) | 2026-08-14 03:56 |
-| Outlook Amusements | Senior DevOps Engineer | La Crescenta, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=842ce59e184f16a0) | 2026-08-14 03:56 |
-| Dynamic Lifecycle Innovations | Senior Data Engineer | Rochester, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fd708236bb2a422e) | 2026-08-14 03:56 |
-| Dynamic Lifecycle Innovations | Senior Data Engineer | Onalaska, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dcd59c144a02ddd7) | 2026-08-14 03:56 |
-| Dynamic Lifecycle Innovations | Senior Data Engineer | Eau Claire, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=addaa7b1f5efd2ad) | 2026-08-14 03:56 |
-| Dynamic Lifecycle Innovations | Senior Data Engineer | Madison, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cc7a4fc850bfe4d7) | 2026-08-14 03:56 |
-| ServiceLink | DevOps Engineer, Information Technology | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=330bb7dbfec80cfd) | 2026-08-14 03:56 |
-| Photon | AI Solution Architect_Boston | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=14b177ae888fc6a6) | 2026-08-14 03:56 |
-| Chicago Blackhawks | Senior Software Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ba47b9ab3a0c3ab) | 2026-08-14 03:56 |
-| EKI Environment & Water, Inc. | Junior Software Developer | Daly City, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9a25abe4586efb0) | 2026-08-14 03:56 |
-| EKI Environment & Water, Inc. | Junior Software Developer | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ffd7b84c07854dcd) | 2026-08-14 03:56 |
-| EKI Environment & Water, Inc. | Junior Software Developer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=667809298fa45c6c) | 2026-08-14 03:56 |
-| Helen of Troy | Sr. AI Analytics Engineer | Marlborough, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c54eace2c8bb28b) | 2026-08-14 03:56 |
-| General Motors (GM) | Senior Data Engineer – Agentic AI, Automation, and Data Platforms | Warren, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=25402b211806bc05) | 2026-08-14 03:56 |
 
 
 ---
