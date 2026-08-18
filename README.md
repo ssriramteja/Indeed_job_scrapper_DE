@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 13:35
+Last updated: 2026-08-18 14:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Visa | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d539c21d8a7cb01) | 2026-08-18 14:23 |
 | Native American Industrial Solutions, LLC (NAIS) | Senior Enterprise Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8250689e965a0872) | 2026-08-18 13:35 |
 | TDIndustries | Sr. Solution Architect - Data, Analytics & AI | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8ac8a616958996b3) | 2026-08-18 12:25 |
 | itD Tech | Data Engineer IV (6281) | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2638fbb6172c3dae) | 2026-08-18 12:25 |
@@ -244,10 +245,6 @@ Last updated: 2026-08-18 13:35
 | Astronomer | Customer Reliability Engineer - Airflow | Boston, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e441a087ab697b63) | 2026-08-14 16:41 |
 | Expion health | Data Product Owner | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b2e5617ec292674d) | 2026-08-14 16:41 |
 | TetraScience | Senior Software Engineer, Agents | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a55885fda0fe7cb0) | 2026-08-14 16:41 |
-| nan | Databricks Solution Architect - Onsite- W2 | King of Prussia, PA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=c7af5960a321f1aa) | 2026-08-14 14:09 |
-| nan | Sr Product Software Engineer | Santa Monica, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=56a93ae153035d32) | 2026-08-14 14:09 |
-| Target | Data Engineer - Finance AI Solutions | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1f6056b3749eea65) | 2026-08-14 14:09 |
-| Babel Street | Data Warehouse Software Engineer III | Somerville, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e34dd82bc09fa105) | 2026-08-14 14:09 |
 
 
 ---
