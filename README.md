@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 08:24
+Last updated: 2026-08-18 09:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Target | Sr Engineer - MLOps Platform | Brooklyn Park, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83adac9442c00b06) | 2026-08-18 09:23 |
 | Comcast | Platform Data Engineer - (DataBricks, PySpark, AWS) | West Chester, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=25ea972f667d3d3f) | 2026-08-18 08:24 |
 | Comcast | Data Engineer | West Chester, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d8f7134bc1281d0) | 2026-08-18 08:24 |
 | BioAgilytix Labs | Data Engineer | Durham, NC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=7f99a8f1166781f9) | 2026-08-18 07:29 |
@@ -243,8 +244,6 @@ Last updated: 2026-08-18 08:24
 | talent source global | Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=4deff5096edc72f7) | 2026-08-14 10:00 |
 | JPMorganChase | Software Engineer III - Glue/Python/Pyspark | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c6b0adf7ee0ca945) | 2026-08-14 10:00 |
 | JPMorganChase | Java AWS Software Engineer III | Newark, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8275b35f957f4f39) | 2026-08-14 10:00 |
-| Capital One | Distinguished Data Engineer | McLean, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=63201f5d771e794a) | 2026-08-14 08:59 |
-| Coca-Cola Consolidated, Inc. | Data Activation Engineer II | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32ebd161a8af1725) | 2026-08-14 08:59 |
 
 
 ---
