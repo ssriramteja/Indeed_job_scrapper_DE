@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 04:25
+Last updated: 2026-08-18 05:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Whisker | Senior Software Engineer | Auburn Hills, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=49e4025f9a54a6aa) | 2026-08-18 05:20 |
+| TrueScripts Management Services | Data Engineer | Washington, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=064eba971116911a) | 2026-08-18 05:20 |
+| NewYork-Presbyterian Hospital | Analytics Developer, Enterprise Analytics (Data Shared Services) | Manhattan, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1343552027471cbf) | 2026-08-18 05:20 |
+| Edward Jones | Application Security Engineer IV | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7bcf73c00809dc6b) | 2026-08-18 05:20 |
+| Edward Jones | Application Security Engineer IV | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=98987962708a5fc1) | 2026-08-18 05:20 |
 | Bank of America | Sr Data Engineer | Charlotte, NC, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=9dca464379b2183e) | 2026-08-18 03:36 |
 | KONG | Software Engineer, Core Platform | San Francisco, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=363f4f316481e53f) | 2026-08-18 03:36 |
 | KONG | Software Engineer, Core Platform | Olympia, WA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5742b1eac2e5457a) | 2026-08-18 03:36 |
