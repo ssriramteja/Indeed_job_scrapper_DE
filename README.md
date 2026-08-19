@@ -1,17 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-19 04:28
+Last updated: 2026-08-19 05:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 04:28 |
-| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 04:28 |
-| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 04:28 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 04:28 |
-| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 04:28 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 04:28 |
+| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 05:21 |
+| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 05:21 |
+| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 05:21 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 05:21 |
+| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 05:21 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 05:21 |
 | Nexstar Media Group, Inc. | AI/ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f5960a42e79ce1d) | 2026-08-19 04:28 |
 | Enlyte | Senior Database Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a5bcc00949b0b05a) | 2026-08-19 03:38 |
 | Prodapt Solutions | Azure Data Engineer | Richardson, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=230993df38e10727) | 2026-08-19 03:38 |
@@ -348,17 +348,6 @@ Last updated: 2026-08-19 04:28
 | TECKpert | Senior PowerBI Developer (FDOT OOC) | Tallahassee, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3df96b00481cbb0c) | 2026-08-15 07:22 |
 | JPMorganChase | Software Engineer II - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2968fbd1098705ab) | 2026-08-15 06:21 |
 | JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ccd4e6bffd7c1c5d) | 2026-08-15 06:21 |
-| Cognizant | SR Azure Data Factory- Remote | Washington, DC, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=9d8625d99e5c7e4a) | 2026-08-15 05:16 |
-| Cognizant | Senior Java AWS Developer | Atlanta, GA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=356ce32716bcc358) | 2026-08-15 05:16 |
-| Cognizant | Senior Java AWS Developer | Atlanta, GA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=88370938985e0439) | 2026-08-15 05:16 |
-| Cognizant | Data Engineer | Blaine, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8d0d5b1a5cb3ad7a) | 2026-08-15 05:16 |
-| Cognizant | Data Engineer | Mesa, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7614dc00bbe52b10) | 2026-08-15 05:16 |
-| Cognizant | Data Engineer | Blaine, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=750e94d18745c7af) | 2026-08-15 05:16 |
-| Cognizant | Data Engineer | Mesa, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fe7c81d65ca7b59b) | 2026-08-15 05:16 |
-| Cognizant | AI Engineer | Mesa, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=77f8f5e4e6fc8123) | 2026-08-15 05:16 |
-| Cognizant | GCP Data Engineer | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3ecfce2ce50a767f) | 2026-08-15 05:16 |
-| OMG Technology | Agentic AI Engineering Architect (Remote -US) | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ccaaffaf8007eb85) | 2026-08-15 05:16 |
-| nan | AI Data Scientist | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bafe15fb980f9aa) | 2026-08-15 05:16 |
 
 
 ---
