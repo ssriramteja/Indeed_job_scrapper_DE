@@ -1,19 +1,34 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-19 17:19
+Last updated: 2026-08-19 18:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ryan Companies US, Inc. | Senior Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a709e6e770f53ae5) | 2026-08-19 18:19 |
+| Jefferson Center for Mental Health | Senior Analytics Engineer | Wheat Ridge, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=57ff8dcbb36e6ebe) | 2026-08-19 18:19 |
+| Komodo Health | Senior Infrastructure Engineer | Portland, OR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=41f0df91f1d27621) | 2026-08-19 18:19 |
+| Komodo Health | Senior Infrastructure Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1fb2afafd3cbfe7a) | 2026-08-19 18:19 |
+| Komodo Health | Senior Infrastructure Engineer | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2236d5961d42b1a6) | 2026-08-19 18:19 |
+| Komodo Health | Senior Infrastructure Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ab6120725df09583) | 2026-08-19 18:19 |
+| Komodo Health | Senior Infrastructure Engineer | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bdbca9d10a3e1257) | 2026-08-19 18:19 |
+| QVC | Sr Software Engineer, Enterprise Data Warehouse | PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a690f45591735710) | 2026-08-19 18:19 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 18:19 |
+| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 18:19 |
+| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 18:19 |
+| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 18:19 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 18:19 |
+| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 18:19 |
+| BV Teck | OCI Cloud Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c4dde90cd4924e3c) | 2026-08-19 18:19 |
+| BV Teck | Microsoft Azure Specialist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d356d9379a1d876) | 2026-08-19 18:19 |
+| Cwill | DevOps/SRE Engineer - Bilingual Mandarin Required | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c64359435c0e75f4) | 2026-08-19 18:19 |
+| Cwill | DevOps/SRE Engineer - Bilingual Mandarin Required | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7085011cb79be32e) | 2026-08-19 18:19 |
+| Cwill | DevOps/SRE Engineer - Bilingual Mandarin Required | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=618b210528315c81) | 2026-08-19 18:19 |
+| Cwill | DevOps/SRE Engineer - Bilingual Mandarin Required | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a89c508623950b60) | 2026-08-19 18:19 |
+| Cwill | DevOps/SRE Engineer - Bilingual Mandarin Required | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fb962ca1a1ab408) | 2026-08-19 18:19 |
 | Newpage Digital Healthcare solutions | AI Native Builder-Europe | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fd0cc997ffaad767) | 2026-08-19 17:19 |
 | Newpage Digital Healthcare solutions | CDP Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ca48cac4a5019a6c) | 2026-08-19 17:19 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 17:19 |
-| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 17:19 |
-| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 17:19 |
-| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 17:19 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 17:19 |
-| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 17:19 |
 | NTT DATA | Automation Tester | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3c78af16e0a852a6) | 2026-08-19 17:19 |
 | Wingstop | Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=964835924f3b368c) | 2026-08-19 17:19 |
 | Zoom Communications | Software Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=611c7f1add24eef6) | 2026-08-19 17:19 |
