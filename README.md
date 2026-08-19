@@ -1,17 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-19 09:24
+Last updated: 2026-08-19 10:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 09:24 |
-| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 09:24 |
-| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 09:24 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 09:24 |
-| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 09:24 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 09:24 |
+| Delan Associates, Inc | Senior Java Developer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5102217947056314) | 2026-08-19 10:19 |
+| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 10:19 |
+| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 10:19 |
+| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 10:19 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 10:19 |
+| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 10:19 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 10:19 |
+| Ramsey Solutions | Analytics Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5037580e42be8ebd) | 2026-08-19 10:19 |
 | Bounteous | CDP Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8550b60dfa07a9a8) | 2026-08-19 08:25 |
 | SouthState Bank | IT Data Engineer IV | Winter Haven, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=89c590723bea472d) | 2026-08-19 07:31 |
 | Adobe | Software Development Engineer | Lehi, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ddee801b38d94382) | 2026-08-19 07:31 |
@@ -345,7 +347,6 @@ Last updated: 2026-08-19 09:24
 | Accenture | Senior Java Software Engineer - On-Site Minneapolis, MN | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=681a949fc99e68d5) | 2026-08-15 12:19 |
 | PepsiCo | Senior Identity & Access Management (CIAM) Engineer | Plano, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b50d50511fbcccef) | 2026-08-15 11:11 |
 | Networking for Future, Inc. | Cloud Systems Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=22447d3211df125b) | 2026-08-15 11:11 |
-| Ness Digital Engineering | Senior Data Engineer – Enterprise Data Hub (AWS + Snowflake + DBT + PySpark + CI/CD) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79b401774b372da8) | 2026-08-15 10:13 |
 
 
 ---
