@@ -1,19 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-19 06:27
+Last updated: 2026-08-19 07:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| SouthState Bank | IT Data Engineer IV | Winter Haven, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=89c590723bea472d) | 2026-08-19 07:31 |
+| Adobe | Software Development Engineer | Lehi, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ddee801b38d94382) | 2026-08-19 07:31 |
+| NTT DATA | Senior Software Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e5a4f8b2a53df275) | 2026-08-19 07:31 |
+| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 07:31 |
+| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 07:31 |
+| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 07:31 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 07:31 |
+| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 07:31 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 07:31 |
+| JPMorganChase | Security Engineer III - (Java/Python full stack) | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9df2105d22e3a63f) | 2026-08-19 07:31 |
+| Intermountain Health | Machine Learning Operations Engineer | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=30414b2a85fbe095) | 2026-08-19 07:31 |
+| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db41666c71cf00e6) | 2026-08-19 07:31 |
 | Mastercard | Senior Software Engineer | O'Fallon, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d131fb25875c7944) | 2026-08-19 06:27 |
 | NTT DATA | Senior Software Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=71e4ae5e09b571ae) | 2026-08-19 06:27 |
-| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 06:27 |
-| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 06:27 |
-| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 06:27 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 06:27 |
-| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 06:27 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 06:27 |
 | Index Analytics LLC | Database Administrator | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96b3c17f710c4b52) | 2026-08-19 06:27 |
 | Nexstar Media Group, Inc. | AI/ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f5960a42e79ce1d) | 2026-08-19 04:28 |
 | Enlyte | Senior Database Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a5bcc00949b0b05a) | 2026-08-19 03:38 |
@@ -341,14 +347,6 @@ Last updated: 2026-08-19 06:27
 | Ness Digital Engineering | Senior Data Engineer – Enterprise Data Hub (AWS + Snowflake + DBT + PySpark + CI/CD) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79b401774b372da8) | 2026-08-15 10:13 |
 | LevelUp | Data Analyst | Brooklyn, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce9a7a371c99d3f5) | 2026-08-15 09:17 |
 | Law School Admission Council | Software Engineer | Newtown, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b53095d8bc376d7) | 2026-08-15 09:17 |
-| NTT DATA | Senior Data Engineer (On-Site) | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d460a6aac4fd260a) | 2026-08-15 07:22 |
-| NTT DATA | Senior Data Engineer | Nashville, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=afe1d38414cdf113) | 2026-08-15 07:22 |
-| NTT DATA | Data Engineer - Cybersecurity Analytics - Onsite | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c1bb02eacc6e0c34) | 2026-08-15 07:22 |
-| NTT DATA | Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) | Merrimack, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3da42b71924a8f2a) | 2026-08-15 07:22 |
-| NTT DATA | Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4292233ac9b01465) | 2026-08-15 07:22 |
-| NTT DATA | Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1658d63cbf8ef75d) | 2026-08-15 07:22 |
-| NTT DATA | Sr. SDET Engineer (Playwright / RestAssured / FTE / Onsite) | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c8b3f8813e95cd86) | 2026-08-15 07:22 |
-| TECKpert | Senior PowerBI Developer (FDOT OOC) | Tallahassee, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3df96b00481cbb0c) | 2026-08-15 07:22 |
 
 
 ---
