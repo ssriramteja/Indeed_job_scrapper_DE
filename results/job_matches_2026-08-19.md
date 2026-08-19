@@ -1985,7 +1985,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 181. Senior Analytics Engineer II @ Wrapbook
+## 181. VIE - Software Engineer (based in Miami) @ Pelico
+**Match Score:** 10.4%
+
+📍 **Location:** Miami, FL, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Scala, PostgreSQL, MongoDB, CI/CD, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=072180860b5c5965)
+
+---
+
+## 182. Senior Analytics Engineer II @ Wrapbook
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -1996,7 +2007,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 182. Engineering-L2-Dallas-Analyst-Software Engineering @ Goldman Sachs
+## 183. Engineering-L2-Dallas-Analyst-Software Engineering @ Goldman Sachs
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
@@ -2004,17 +2015,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Databricks, Hadoop, Spark, Scala, Kafka, Snowflake, CI/CD, Kubernetes, AKS
 
 [Apply Here](https://www.indeed.com/viewjob?jk=d45183e5b3bce9f1)
-
----
-
-## 183. VIE - Software Engineer (based in Miami) @ Pelico
-**Match Score:** 10.4%
-
-📍 **Location:** Miami, FL, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Scala, PostgreSQL, MongoDB, CI/CD, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=072180860b5c5965)
 
 ---
 
