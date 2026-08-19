@@ -1,17 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-19 20:16
+Last updated: 2026-08-19 21:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 20:16 |
-| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 20:16 |
-| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 20:16 |
-| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 20:16 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 20:16 |
-| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 20:16 |
+| Technology Digest inc | BACK-END DEVELOPER — Investment Data Warehouse / GenBI, AI & ML | West Sacramento, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=21a478979da3d18d) | 2026-08-19 21:17 |
+| Wise Skulls | Platform (DevOps) Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a014a83c45a16edc) | 2026-08-19 21:17 |
+| Capgemini | Platform Engineer VI Data Services | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=95d2b8bcef6e6443) | 2026-08-19 21:17 |
+| NTT DATA | Pega PRPC Administrator | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=aa113d93b209abba) | 2026-08-19 21:17 |
+| nan | Software Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=355fbee9537a593d) | 2026-08-19 21:17 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 21:17 |
+| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 21:17 |
+| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 21:17 |
+| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 21:17 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 21:17 |
+| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 21:17 |
+| nan | Cloud Software Engineer III | Annapolis Junction, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7380fc50156c508) | 2026-08-19 21:17 |
+| The Hearst Corporation | Senior Data Engineer | Troy, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd423be7263fd117) | 2026-08-19 21:17 |
+| Databricks | Solutions Architect - Strategic High Tech | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ecd9053cc3b8b074) | 2026-08-19 21:17 |
+| i3 Consulting | PLSQL Developer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1c2f584cd142ee68) | 2026-08-19 21:17 |
+| Equinix | Senior Network Automation Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a6a236d435cfe02) | 2026-08-19 21:17 |
+| Rifle Paper Co | Senior Systems Administrator | Winter Park, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ce6cb979a420433) | 2026-08-19 21:17 |
+| Rifle Paper Co | Senior Systems Administrator | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03cd3d5c3c1f5ee9) | 2026-08-19 21:17 |
 | American Express | Senior Data Engineer I | Phoenix, AZ, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=9ed75a25bf648004) | 2026-08-19 19:18 |
 | The Cigna Group | Software Engineering Senior Advisor | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4956a4b8be14845b) | 2026-08-19 19:18 |
 | Wingstop | Senior Engineer - Data | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=df2118e94d973400) | 2026-08-19 19:18 |
