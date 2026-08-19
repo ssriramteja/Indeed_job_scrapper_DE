@@ -1,19 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-19 16:20
+Last updated: 2026-08-19 17:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Newpage Digital Healthcare solutions | AI Native Builder-Europe | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fd0cc997ffaad767) | 2026-08-19 17:19 |
+| Newpage Digital Healthcare solutions | CDP Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ca48cac4a5019a6c) | 2026-08-19 17:19 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 17:19 |
+| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 17:19 |
+| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 17:19 |
+| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 17:19 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 17:19 |
+| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 17:19 |
+| NTT DATA | Automation Tester | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3c78af16e0a852a6) | 2026-08-19 17:19 |
+| Wingstop | Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=964835924f3b368c) | 2026-08-19 17:19 |
+| Zoom Communications | Software Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=611c7f1add24eef6) | 2026-08-19 17:19 |
+| Copart, Inc | Data Engineering Intern | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c52a161d21263c5e) | 2026-08-19 17:19 |
+| Proscia | Senior Software Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e723074c4747c5d7) | 2026-08-19 17:19 |
+| UT Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate (On-Site) | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e73c10ae052d85b) | 2026-08-19 17:19 |
 | project44 | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ca6afc769938392) | 2026-08-19 16:20 |
 | Convey | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1637275a51361381) | 2026-08-19 16:20 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 16:20 |
-| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 16:20 |
-| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 16:20 |
-| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 16:20 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 16:20 |
-| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 16:20 |
 | Rearc | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3d0531777dcadfb3) | 2026-08-19 15:22 |
 | nan | Senior AI/ML Engineer Remote — Full Time Remote | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=76c5165dd6d5386f) | 2026-08-19 15:22 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=221814563679cbed) | 2026-08-19 15:22 |
