@@ -1,15 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-19 00:41
+Last updated: 2026-08-19 02:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Senior Data Engineer | Torrance, CA, US USA | 29.9% | [Apply](https://www.indeed.com/viewjob?jk=dca9ad3e53ceac42) | 2026-08-19 02:13 |
+| LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=9357e1f5751a5fa4) | 2026-08-19 02:13 |
+| Lobel Financial | Sr. Data Engineer, Mircosoft Fabric | Anaheim, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=fd40c328f0d45bed) | 2026-08-19 02:13 |
+| PCI Pharma Services | Digital Platforms, Senior Data Engineer | Philadelphia, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=532698c52db1f3fd) | 2026-08-19 02:13 |
+| Equifax | Senior Software Engineer (Java Backend) | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=023881bedd8b7ac1) | 2026-08-19 02:13 |
+| Paychex, Inc. | Data Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e11616365197f0ed) | 2026-08-19 02:13 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 02:13 |
+| Gatekeeper Systems | Sr. Data and Platform Engineer | Foothill Ranch, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cf0e1a9f347475ac) | 2026-08-19 02:13 |
+| Tillster | Cybersecurity Engineer | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b75572988d828e4f) | 2026-08-19 02:13 |
+| Transport Enterprise Leasing | Data Engineer II | Chattanooga, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39fc8a1c2b970419) | 2026-08-19 02:13 |
+| Adobe | Machine Learning Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1db33c0b099de4ca) | 2026-08-19 02:13 |
 | The University of Michigan | Systems Architect | Ann Arbor, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=542e52272606f412) | 2026-08-19 00:41 |
 | Taskrabbit | Senior Data Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=13df4102ed2987bc) | 2026-08-19 00:41 |
 | Solutions Sync | Data Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9792be1d1f145138) | 2026-08-19 00:41 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 00:41 |
 | Premise Health | Platform Architect | Brentwood, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=372b2a3dbe64193c) | 2026-08-19 00:41 |
 | Textron | Data Engineer II | Providence, RI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=89e3a0d656748e7c) | 2026-08-18 23:13 |
 | Betsol | Product Owner - Cloud Contact Center (CCaaS) & Data Platform | Broomfield, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8bd7071de6b014d4) | 2026-08-18 23:13 |
@@ -335,25 +345,6 @@ Last updated: 2026-08-19 00:41
 | AMD | SMTS IT Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c854612fc1752d57) | 2026-08-15 03:32 |
 | Colorado Public Employees' Retirement Association | Data Analytics Specialist | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=907539388cf5ea04) | 2026-08-15 03:32 |
 | FujiFilm | Senior Data Engineer, Snowflake & AWS | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d1e0212686538a7) | 2026-08-15 03:32 |
-| BV Teck | Hadoop Solutions Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=1e611db79889b1d9) | 2026-08-15 02:09 |
-| CrowdStrike | Sr Engineer, SRE TechOps CICD (Remote) | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=02946a77bdd7bddf) | 2026-08-15 02:09 |
-| CrowdStrike | Sr. Engineer, Cloud Native - AI Detection and Response (AIDR) (Hybrid, Sunnyvale) | Sunnyvale, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=986170411aab2db0) | 2026-08-15 02:09 |
-| CrowdStrike | Sr. Engineer II, Cloud Native - AI Detection and Response (AIDR) (Hybrid, Sunnyvale) | Sunnyvale, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e33354ecb78e1f09) | 2026-08-15 02:09 |
-| Fitch Group | Senior Engineer - Data Platforms & Full Stack Applications | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8202ee33c7bd4ddb) | 2026-08-15 02:09 |
-| Capgemini | GCP Architect Grade C2 | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=89c367e2b7f51872) | 2026-08-15 02:09 |
-| True Zero Technologies | Senior Cloud / DevSecOps Engineer (R-00200) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bfe0932bbecc591b) | 2026-08-15 02:09 |
-| Cisco | QA Software Engineer NC Hybrid | Research Triangle Park, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=82619da05a4e5b27) | 2026-08-15 02:09 |
-| CrowdStrike | Sr. Engineer, Cloud Native - AI Detection and Response (AIDR) (Hybrid, Sunnyvale) | Sunnyvale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d5c618b9b4cf74f4) | 2026-08-15 02:09 |
-| Mammoth Biosciences | Senior Software Engineer I, Research Informatics | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dbcca0bf1c89f031) | 2026-08-15 02:09 |
-| CrowdStrike | Platform Professional Services Sr. Consultant- Cloud (Remote) | TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=359dab24438d038b) | 2026-08-15 02:09 |
-| CrowdStrike | Sr. Engineer, SDET - AI Detection and Response (AIDR) (Hybrid, Sunnyvale) | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=021b25e1008c44c5) | 2026-08-15 02:09 |
-| Ness Digital Engineering | Senior Data Engineer – Enterprise Data Hub (AWS + Snowflake + DBT + PySpark + CI/CD) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b95c42f66fb511bd) | 2026-08-15 02:09 |
-| BV Teck | Container Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=563e90bdfc586fa7) | 2026-08-15 02:09 |
-| VIVA | Senior QA Automation Engineer | Adelphi, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec78d276bddbab3e) | 2026-08-15 02:09 |
-| CrowdStrike | Senior SDET - AI Detection and Response (AIDR) (Hybrid) | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3dca3bbc7e3b91c) | 2026-08-15 02:09 |
-| CrowdStrike | SDET - AI Detection and Response (AIDR) (Hybrid) | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba38e9d47a3feabf) | 2026-08-15 02:09 |
-| Elm & Oak Health | Software Engineer II | Rochester, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b95ca350f26a5100) | 2026-08-15 02:09 |
-| SmarterDx | Senior Software Engineer, Platform Infrastructure | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e52b444a199f4fc) | 2026-08-15 02:09 |
 
 
 ---
