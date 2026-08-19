@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-18 23:13
+Last updated: 2026-08-19 00:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The University of Michigan | Systems Architect | Ann Arbor, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=542e52272606f412) | 2026-08-19 00:41 |
+| Taskrabbit | Senior Data Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=13df4102ed2987bc) | 2026-08-19 00:41 |
+| Solutions Sync | Data Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9792be1d1f145138) | 2026-08-19 00:41 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 00:41 |
+| Premise Health | Platform Architect | Brentwood, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=372b2a3dbe64193c) | 2026-08-19 00:41 |
 | Textron | Data Engineer II | Providence, RI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=89e3a0d656748e7c) | 2026-08-18 23:13 |
 | Betsol | Product Owner - Cloud Contact Center (CCaaS) & Data Platform | Broomfield, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8bd7071de6b014d4) | 2026-08-18 23:13 |
 | LPL Financial | Intern 2027 - Data Engineer | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=22be3c305311c8c5) | 2026-08-18 23:13 |
@@ -349,10 +354,6 @@ Last updated: 2026-08-18 23:13
 | CrowdStrike | SDET - AI Detection and Response (AIDR) (Hybrid) | Sunnyvale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba38e9d47a3feabf) | 2026-08-15 02:09 |
 | Elm & Oak Health | Software Engineer II | Rochester, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b95ca350f26a5100) | 2026-08-15 02:09 |
 | SmarterDx | Senior Software Engineer, Platform Infrastructure | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7e52b444a199f4fc) | 2026-08-15 02:09 |
-| Vantage Data Centers | Senior Data Engineer, Global | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cfe15e3ae5e2ea78) | 2026-08-15 00:41 |
-| Vantage Data Centers | Mid- Level Data Engineer, Global | Denver, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c2eceb897f127f85) | 2026-08-15 00:41 |
-| Experian | Solution Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=db39abaf672f49a6) | 2026-08-15 00:41 |
-| Milwaukee Tool | Sr Data Engineer | Menomonee Falls, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60bd36ef9cdb09ec) | 2026-08-15 00:41 |
 
 
 ---
