@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-19
 
-**Total Jobs Found:** 185
+**Total Jobs Found:** 183
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -1952,18 +1952,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 178. Data Engineer - Sr. Consultant level @ Visa
-**Match Score:** 10.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, CI/CD, Terraform, Docker, Kubernetes, Airflow, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6d539c21d8a7cb01)
-
----
-
-## 179. Senior Data Engineer @ Optum
+## 178. Senior Data Engineer @ Optum
 **Match Score:** 10.4%
 
 📍 **Location:** Eden Prairie, MN, US USA
@@ -1974,7 +1963,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 180. Systems Administrator @ EPODIUM
+## 179. Systems Administrator @ EPODIUM
 **Match Score:** 10.4%
 
 📍 **Location:** Tacoma, WA, US USA
@@ -1985,7 +1974,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 181. VIE - Software Engineer (based in Miami) @ Pelico
+## 180. VIE - Software Engineer (based in Miami) @ Pelico
 **Match Score:** 10.4%
 
 📍 **Location:** Miami, FL, US USA
@@ -1996,7 +1985,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 182. Senior Analytics Engineer II @ Wrapbook
+## 181. Senior Analytics Engineer II @ Wrapbook
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -2007,7 +1996,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 183. Engineering-L2-Dallas-Analyst-Software Engineering @ Goldman Sachs
+## 182. Engineering-L2-Dallas-Analyst-Software Engineering @ Goldman Sachs
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
@@ -2018,7 +2007,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 184. AI/ML Engineer @ Nexstar Media Group, Inc.
+## 183. AI/ML Engineer @ Nexstar Media Group, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -2026,17 +2015,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, S3, RDS, Databricks, GCP, Vertex AI, Spark, MLOps, MLflow, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=8f5960a42e79ce1d)
-
----
-
-## 185. Dir-Data Platform Engineering (Full-time Remote, North Carolina Based) @ Alliance Health Plan
-**Match Score:** 10.4%
-
-📍 **Location:** Morrisville, NC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, PySpark, Scala, CI/CD, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0ebdf670f668b0e7)
 
 ---
 
