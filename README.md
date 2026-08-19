@@ -1,18 +1,37 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-19 02:13
+Last updated: 2026-08-19 03:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Enlyte | Senior Database Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a5bcc00949b0b05a) | 2026-08-19 03:38 |
+| Prodapt Solutions | Azure Data Engineer | Richardson, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=230993df38e10727) | 2026-08-19 03:38 |
+| BNY | Senior Java Full Stack Developer | Pittsburgh, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=47799e4962aac479) | 2026-08-19 03:38 |
+| Enlyte | Database Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65f9d967bd29018a) | 2026-08-19 03:38 |
+| BNY | Senior Python Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=235f566cc684e608) | 2026-08-19 03:38 |
+| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 03:38 |
+| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 03:38 |
+| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 03:38 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 03:38 |
+| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 03:38 |
+| Databricks | Solutions Architect - Communications, Media, Entertainment and Games | CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=290f03b6b4a9bc7b) | 2026-08-19 03:38 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 03:38 |
+| Databricks | Sr. Solutions Engineer - Games | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=600fc435b647b1f5) | 2026-08-19 03:38 |
+| Databricks | Solutions Architect - Media | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c2c3cd48d288d29f) | 2026-08-19 03:38 |
+| Red Cat Propware | Data Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5193e4e5e2f7b3ed) | 2026-08-19 03:38 |
+| Capgemini | DevOps Engineer | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=defd80f2620eb381) | 2026-08-19 03:38 |
+| EXODUS INTEGRITY SERVICES (EIS) | Data Engineer | Broadview Heights, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d4a2bf4234ddf040) | 2026-08-19 03:38 |
+| Pacific Life | Senior Data Engineer | Newport Beach, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=273000773141c1bd) | 2026-08-19 03:38 |
+| Pacific Life | Senior Data Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a63d318e8fb8d70f) | 2026-08-19 03:38 |
+| Caesars Entertainment | Scala Engineer (Growth) | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ff4a52ad00de1a4) | 2026-08-19 03:38 |
 | nan | Senior Data Engineer | Torrance, CA, US USA | 29.9% | [Apply](https://www.indeed.com/viewjob?jk=dca9ad3e53ceac42) | 2026-08-19 02:13 |
 | LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=9357e1f5751a5fa4) | 2026-08-19 02:13 |
 | Lobel Financial | Sr. Data Engineer, Mircosoft Fabric | Anaheim, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=fd40c328f0d45bed) | 2026-08-19 02:13 |
 | PCI Pharma Services | Digital Platforms, Senior Data Engineer | Philadelphia, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=532698c52db1f3fd) | 2026-08-19 02:13 |
 | Equifax | Senior Software Engineer (Java Backend) | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=023881bedd8b7ac1) | 2026-08-19 02:13 |
 | Paychex, Inc. | Data Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e11616365197f0ed) | 2026-08-19 02:13 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 02:13 |
 | Gatekeeper Systems | Sr. Data and Platform Engineer | Foothill Ranch, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cf0e1a9f347475ac) | 2026-08-19 02:13 |
 | Tillster | Cybersecurity Engineer | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b75572988d828e4f) | 2026-08-19 02:13 |
 | Transport Enterprise Leasing | Data Engineer II | Chattanooga, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39fc8a1c2b970419) | 2026-08-19 02:13 |
@@ -339,12 +358,6 @@ Last updated: 2026-08-19 02:13
 | Cognizant | GCP Data Engineer | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3ecfce2ce50a767f) | 2026-08-15 05:16 |
 | OMG Technology | Agentic AI Engineering Architect (Remote -US) | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ccaaffaf8007eb85) | 2026-08-15 05:16 |
 | nan | AI Data Scientist | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8bafe15fb980f9aa) | 2026-08-15 05:16 |
-| Deloitte | Cyber Full-Stack Technical Software Engineer | Rosslyn, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=18a8f76fdfd6054e) | 2026-08-15 03:32 |
-| Delan Associates, Inc | Full Stack Developer [development, QA automation, data] | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=614dc194a49ca09a) | 2026-08-15 03:32 |
-| Pharmacy Data Management, Inc. | Senior Data Engineer | Poland, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4f591a25dd32ad38) | 2026-08-15 03:32 |
-| AMD | SMTS IT Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c854612fc1752d57) | 2026-08-15 03:32 |
-| Colorado Public Employees' Retirement Association | Data Analytics Specialist | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=907539388cf5ea04) | 2026-08-15 03:32 |
-| FujiFilm | Senior Data Engineer, Snowflake & AWS | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d1e0212686538a7) | 2026-08-15 03:32 |
 
 
 ---
