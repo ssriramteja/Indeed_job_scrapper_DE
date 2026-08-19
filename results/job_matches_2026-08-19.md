@@ -27,18 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Data Engineer @ BioAgilytix Labs
-**Match Score:** 20.1%
-
-📍 **Location:** Durham, NC, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, S3, ECS, RDS, Azure, Medallion Architecture, Scala, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7f99a8f1166781f9)
-
----
-
-## 4. Software Engineer V, AI Digital & Engineering Software @ X-Energy
+## 3. Software Engineer V, AI Digital & Engineering Software @ X-Energy
 **Match Score:** 19.4%
 
 📍 **Location:** Rockville, MD, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Sr. Data Engineer, Mircosoft Fabric @ Lobel Financial
+## 4. Sr. Data Engineer, Mircosoft Fabric @ Lobel Financial
 **Match Score:** 18.1%
 
 📍 **Location:** Anaheim, CA, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Engineer @ Plymouth Rock Assurance
+## 5. Data Engineer @ Plymouth Rock Assurance
 **Match Score:** 18.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior AI Cloud Solutions Architect @ Caterpillar
+## 6. Senior AI Cloud Solutions Architect @ Caterpillar
 **Match Score:** 18.1%
 
 📍 **Location:** Irving, TX, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Software Engineer III, AI Digital & Engineering Software @ X-Energy
+## 7. Software Engineer III, AI Digital & Engineering Software @ X-Energy
 **Match Score:** 18.1%
 
 📍 **Location:** Rockville, MD, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Database Engineer @ Enlyte
+## 8. Senior Database Engineer @ Enlyte
 **Match Score:** 17.4%
 
 📍 **Location:** Remote, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Data Engineer @ Veridic Solutions
+## 9. Senior Data Engineer @ Veridic Solutions
 **Match Score:** 17.4%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -115,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Data Engineer @ Seamless
+## 10. Senior Data Engineer @ Seamless
 **Match Score:** 16.7%
 
 📍 **Location:** Remote, US USA
@@ -126,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Systems Architect @ The University of Michigan
+## 11. Systems Architect @ The University of Michigan
 **Match Score:** 16.7%
 
 📍 **Location:** Ann Arbor, MI, US USA
@@ -137,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Data Engineer II @ Textron
+## 12. Data Engineer II @ Textron
 **Match Score:** 16.0%
 
 📍 **Location:** Providence, RI, US USA
@@ -148,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Azure Data Engineer @ Prodapt Solutions
+## 13. Azure Data Engineer @ Prodapt Solutions
 **Match Score:** 16.0%
 
 📍 **Location:** Richardson, TX, US USA
@@ -159,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Intern 2027 - Data Engineer @ LPL Financial
+## 14. Intern 2027 - Data Engineer @ LPL Financial
 **Match Score:** 15.3%
 
 📍 **Location:** Fort Mill, SC, US USA
@@ -170,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Data Modeler @ CSpring
+## 15. Data Modeler @ CSpring
 **Match Score:** 15.3%
 
 📍 **Location:** Springfield, IL, US USA
@@ -178,6 +167,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Data Lake Storage, Scala, Snowflake, Databricks Lakehouse, Data Modeling, Dimensional Modeling
 
 [Apply Here](https://www.indeed.com/viewjob?jk=61541eff4b55a7f4)
+
+---
+
+## 16. Sr. Software Development Engineer @ CVS Health
+**Match Score:** 15.3%
+
+📍 **Location:** RI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Hive, Scala, Oracle, MySQL, Cassandra
+
+[Apply Here](https://www.indeed.com/viewjob?jk=da5d92ba9e6d3e13)
 
 ---
 
@@ -192,18 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Sr. Software Development Engineer @ CVS Health
-**Match Score:** 15.3%
-
-📍 **Location:** RI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Hive, Scala, Oracle, MySQL, Cassandra
-
-[Apply Here](https://www.indeed.com/viewjob?jk=da5d92ba9e6d3e13)
-
----
-
-## 19. Digital Platforms, Senior Data Engineer @ PCI Pharma Services
+## 18. Digital Platforms, Senior Data Engineer @ PCI Pharma Services
 **Match Score:** 14.6%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -214,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Senior Data Engineer @ Taskrabbit
+## 19. Senior Data Engineer @ Taskrabbit
 **Match Score:** 14.6%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -225,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Data Platform Engineer @ JACK Entertainment
+## 20. Data Platform Engineer @ JACK Entertainment
 **Match Score:** 14.6%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -236,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Data Engineer @ Plymouth Rock Assurance
+## 21. Senior Data Engineer @ Plymouth Rock Assurance
 **Match Score:** 14.6%
 
 📍 **Location:** Boston, MA, US USA
@@ -247,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. US- Java Engineer - Pricing @ MoneyGram
+## 22. US- Java Engineer - Pricing @ MoneyGram
 **Match Score:** 14.6%
 
 📍 **Location:** US USA
@@ -258,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. US- Java Engineer - Pricing @ MoneyGram
+## 23. US- Java Engineer - Pricing @ MoneyGram
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -269,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Senior Specialist - Architecture @ LTM Limited
+## 24. Senior Specialist - Architecture @ LTM Limited
 **Match Score:** 14.6%
 
 📍 **Location:** Tampa, FL, US USA
@@ -280,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Senior Full Stack Developer @ ISOD Limited
+## 25. Senior Full Stack Developer @ ISOD Limited
 **Match Score:** 14.6%
 
 📍 **Location:** US USA
@@ -291,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Senior SAP Sales and Service Cloud Consultant @ Data Solutions LLC
+## 26. Senior SAP Sales and Service Cloud Consultant @ Data Solutions LLC
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -302,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Senior Software Engineer (Java Backend) @ Equifax
+## 27. Senior Software Engineer (Java Backend) @ Equifax
 **Match Score:** 13.9%
 
 📍 **Location:** Alpharetta, GA, US USA
@@ -313,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Database Engineer @ Enlyte
+## 28. Database Engineer @ Enlyte
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -324,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Data Engineer @ Solutions Sync
+## 29. Data Engineer @ Solutions Sync
 **Match Score:** 13.9%
 
 📍 **Location:** San Jose, CA, US USA
@@ -335,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Senior Data Engineer @ Wells Fargo
+## 30. Senior Data Engineer @ Wells Fargo
 **Match Score:** 13.9%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -346,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Senior Data Engineer @ Wells Fargo
+## 31. Senior Data Engineer @ Wells Fargo
 **Match Score:** 13.9%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -357,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Data Engineer (Microsoft Azure) @ Luxoft
+## 32. Data Engineer (Microsoft Azure) @ Luxoft
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -368,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Palantir Data engineer - Forward Deployment Engineers @ AI SPINS INC
+## 33. Palantir Data engineer - Forward Deployment Engineers @ AI SPINS INC
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -379,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Cloud Engineer @ Tripoint Solutions
+## 34. Cloud Engineer @ Tripoint Solutions
 **Match Score:** 13.9%
 
 📍 **Location:** US USA
@@ -390,29 +379,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Python Developer @ CapTech Consulting
+## 35. Senior Software Engineer @ Mastercard
 **Match Score:** 13.9%
 
-📍 **Location:** Charlotte, NC, US USA
+📍 **Location:** O'Fallon, MO, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, Kafka, Snowflake, SQL Server, PostgreSQL
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Kafka, Oracle, PostgreSQL, MongoDB, Splunk, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=695b8a15f31b95e9)
+[Apply Here](https://www.indeed.com/viewjob?jk=d131fb25875c7944)
 
 ---
 
-## 37. Python Developer @ CapTech Consulting
-**Match Score:** 13.9%
-
-📍 **Location:** Philadelphia, PA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, Kafka, Snowflake, SQL Server, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0d45121b0e1810c1)
-
----
-
-## 38. Senior RAPA Data Engineer @ nan
+## 36. Senior RAPA Data Engineer @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** New York, NY, US USA
@@ -423,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Senior Python Developer @ BNY
+## 37. Senior Python Developer @ BNY
 **Match Score:** 13.2%
 
 📍 **Location:** New York, NY, US USA
@@ -434,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Solutions Architect @ nan
+## 38. Solutions Architect @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -445,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Data Analyst @ CapTech Consulting
+## 39. Data Analyst @ CapTech Consulting
 **Match Score:** 13.2%
 
 📍 **Location:** Columbus, OH, US USA
@@ -456,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Data Analyst @ CapTech Consulting
+## 40. Data Analyst @ CapTech Consulting
 **Match Score:** 13.2%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -467,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Data Analyst @ CapTech Consulting
+## 41. Data Analyst @ CapTech Consulting
 **Match Score:** 13.2%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -478,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Data Analyst @ CapTech Consulting
+## 42. Data Analyst @ CapTech Consulting
 **Match Score:** 13.2%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -489,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Data Analyst @ CapTech Consulting
+## 43. Data Analyst @ CapTech Consulting
 **Match Score:** 13.2%
 
 📍 **Location:** Richmond, VA, US USA
@@ -500,7 +478,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Senior Engineer - Observability Platform @ CVS Health
+## 44. Senior Software Engineer @ NTT DATA
+**Match Score:** 13.2%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, Kinesis, SQS, SNS, Scala, Kafka, Oracle, PostgreSQL, DynamoDB, NoSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=71e4ae5e09b571ae)
+
+---
+
+## 45. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** SC, US USA
@@ -511,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Senior Engineer - Observability Platform @ CVS Health
+## 46. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** MA, US USA
@@ -522,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Senior Engineer - Observability Platform @ CVS Health
+## 47. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** WV, US USA
@@ -533,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Senior Engineer - Observability Platform @ CVS Health
+## 48. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** NC, US USA
@@ -544,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Senior Engineer - Observability Platform @ CVS Health
+## 49. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** NV, US USA
@@ -555,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Senior Engineer - Observability Platform @ CVS Health
+## 50. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** NE, US USA
@@ -566,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Senior Engineer - Observability Platform @ CVS Health
+## 51. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** VT, US USA
@@ -577,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Senior Engineer - Observability Platform @ CVS Health
+## 52. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** ID, US USA
@@ -588,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Senior Engineer - Observability Platform @ CVS Health
+## 53. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** IL, US USA
@@ -599,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Senior Engineer - Observability Platform @ CVS Health
+## 54. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** MD, US USA
@@ -610,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Senior Engineer - Observability Platform @ CVS Health
+## 55. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** KS, US USA
@@ -621,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Senior Engineer - Observability Platform @ CVS Health
+## 56. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** CA, US USA
@@ -632,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. Senior Engineer - Observability Platform @ CVS Health
+## 57. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** CT, US USA
@@ -643,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. Senior Engineer - Observability Platform @ CVS Health
+## 58. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** FL, US USA
@@ -654,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. Senior Engineer - Observability Platform @ CVS Health
+## 59. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** NM, US USA
@@ -665,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Senior Engineer - Observability Platform @ CVS Health
+## 60. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** LA, US USA
@@ -676,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. Senior Engineer - Observability Platform @ CVS Health
+## 61. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** GA, US USA
@@ -687,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Senior Engineer - Observability Platform @ CVS Health
+## 62. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** VA, US USA
@@ -698,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Senior Engineer - Observability Platform @ CVS Health
+## 63. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** WY, US USA
@@ -709,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Senior Engineer - Observability Platform @ CVS Health
+## 64. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** AR, US USA
@@ -720,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Senior Engineer - Observability Platform @ CVS Health
+## 65. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** MN, US USA
@@ -731,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Senior Engineer - Observability Platform @ CVS Health
+## 66. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** TN, US USA
@@ -742,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. Senior Engineer - Observability Platform @ CVS Health
+## 67. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** MS, US USA
@@ -753,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Senior Engineer - Observability Platform @ CVS Health
+## 68. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** MT, US USA
@@ -764,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Senior Engineer - Observability Platform @ CVS Health
+## 69. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** DE, US USA
@@ -775,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Senior Engineer - Observability Platform @ CVS Health
+## 70. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** ND, US USA
@@ -786,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Senior Engineer - Observability Platform @ CVS Health
+## 71. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** AZ, US USA
@@ -797,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Senior Engineer - Observability Platform @ CVS Health
+## 72. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** Washington, DC, US USA
@@ -808,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Senior Engineer - Observability Platform @ CVS Health
+## 73. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** OH, US USA
@@ -819,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Senior Engineer - Observability Platform @ CVS Health
+## 74. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** TX, US USA
@@ -830,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Senior Engineer - Observability Platform @ CVS Health
+## 75. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** WA, US USA
@@ -841,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Senior Engineer - Observability Platform @ CVS Health
+## 76. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** ME, US USA
@@ -852,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Senior Engineer - Observability Platform @ CVS Health
+## 77. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** WI, US USA
@@ -863,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Senior Engineer - Observability Platform @ CVS Health
+## 78. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** UT, US USA
@@ -874,7 +863,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Senior Engineer - Observability Platform @ CVS Health
+## 79. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** PA, US USA
@@ -885,7 +874,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Senior Engineer - Observability Platform @ CVS Health
+## 80. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** NJ, US USA
@@ -896,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Senior Engineer - Observability Platform @ CVS Health
+## 81. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** AL, US USA
@@ -907,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Senior Engineer - Observability Platform @ CVS Health
+## 82. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** IA, US USA
@@ -918,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Senior Engineer - Observability Platform @ CVS Health
+## 83. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** NH, US USA
@@ -929,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Senior Engineer - Observability Platform @ CVS Health
+## 84. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** OR, US USA
@@ -940,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Senior Engineer - Observability Platform @ CVS Health
+## 85. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** CO, US USA
@@ -951,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Senior Engineer - Observability Platform @ CVS Health
+## 86. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** KY, US USA
@@ -962,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Senior Engineer - Observability Platform @ CVS Health
+## 87. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** OK, US USA
@@ -973,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Senior Engineer - Observability Platform @ CVS Health
+## 88. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** SD, US USA
@@ -984,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Senior Engineer - Observability Platform @ CVS Health
+## 89. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** IN, US USA
@@ -995,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Senior Engineer - Observability Platform @ CVS Health
+## 90. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** MI, US USA
@@ -1006,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Senior Engineer - Observability Platform @ CVS Health
+## 91. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** MO, US USA
@@ -1017,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Senior Engineer - Observability Platform @ CVS Health
+## 92. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** NY, US USA
@@ -1028,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Senior Engineer - Observability Platform @ CVS Health
+## 93. Senior Engineer - Observability Platform @ CVS Health
 **Match Score:** 13.2%
 
 📍 **Location:** RI, US USA
@@ -1039,7 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. GIS Software Engineer - Esri @ The Hartford
+## 94. GIS Software Engineer - Esri @ The Hartford
 **Match Score:** 13.2%
 
 📍 **Location:** Hartford, CT, US USA
@@ -1050,7 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Senior Database Engineer @ Surescripts
+## 95. Senior Database Engineer @ Surescripts
 **Match Score:** 13.2%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -1061,7 +1050,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Data Engineer @ Paychex, Inc.
+## 96. Data Engineer @ Paychex, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -1072,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Data Engineer @ CVS Health
+## 97. Data Engineer @ CVS Health
 **Match Score:** 12.5%
 
 📍 **Location:** Irving, TX, US USA
@@ -1083,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. Senior Cloud Engineer @ Mastercard
+## 98. Senior Cloud Engineer @ Mastercard
 **Match Score:** 12.5%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1094,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. Data Engineer (Adobe Experience Platform) @ Merkle, Inc.
+## 99. Data Engineer (Adobe Experience Platform) @ Merkle, Inc.
 **Match Score:** 12.5%
 
 📍 **Location:** US USA
@@ -1105,7 +1094,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 100. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Saint Paul, MN, US USA
@@ -1116,7 +1105,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 101. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Long Key, FL, US USA
@@ -1127,7 +1116,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 102. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** IL, US USA
@@ -1138,7 +1127,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 104. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 103. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Montpelier, VT, US USA
@@ -1149,7 +1138,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 105. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 104. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Des Moines, IA, US USA
@@ -1160,7 +1149,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 106. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 105. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** ID, US USA
@@ -1171,7 +1160,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 107. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 106. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Lincoln, NE, US USA
@@ -1182,7 +1171,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 108. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 107. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Hartford, CT, US USA
@@ -1193,7 +1182,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 109. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 108. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** CO, US USA
@@ -1204,7 +1193,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 110. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 109. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Pierre, SD, US USA
@@ -1215,7 +1204,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 111. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 110. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -1226,7 +1215,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 112. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 111. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** IN, US USA
@@ -1237,7 +1226,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 113. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 112. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Hope Hull, AL, US USA
@@ -1248,7 +1237,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 114. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 113. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** KY, US USA
@@ -1259,7 +1248,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 115. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 114. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Pawtucket, RI, US USA
@@ -1270,7 +1259,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 116. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 115. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Hot Springs Village, AR, US USA
@@ -1281,7 +1270,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 117. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 116. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Jackson, MS, US USA
@@ -1292,7 +1281,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 118. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 117. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Middletown, DE, US USA
@@ -1303,7 +1292,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 119. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 118. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** MD, US USA
@@ -1314,7 +1303,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 120. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 119. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -1325,7 +1314,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 121. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 120. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Charleston, WV, US USA
@@ -1336,7 +1325,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 122. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 121. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Augusta, ME, US USA
@@ -1347,7 +1336,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 123. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 122. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Kennesaw, GA, US USA
@@ -1358,7 +1347,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 124. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 123. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -1369,7 +1358,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 125. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 124. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Kansas City, KS, US USA
@@ -1380,7 +1369,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 126. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 125. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** MT, US USA
@@ -1391,7 +1380,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 127. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 126. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Fremont, NH, US USA
@@ -1402,7 +1391,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 128. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 127. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** NJ, US USA
@@ -1413,7 +1402,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 129. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 128. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Okemos, MI, US USA
@@ -1424,7 +1413,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 130. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 129. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Boston, MA, US USA
@@ -1435,7 +1424,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 131. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 130. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -1446,7 +1435,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 132. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 131. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Corrales, NM, US USA
@@ -1457,7 +1446,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 133. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 132. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** UT, US USA
@@ -1468,7 +1457,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 134. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 133. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Upper Darby, PA, US USA
@@ -1479,7 +1468,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 135. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 134. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** New York, NY, US USA
@@ -1490,7 +1479,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 136. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 135. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -1501,7 +1490,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 137. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 136. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Oklahoma City, OK, US USA
@@ -1512,7 +1501,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 138. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 137. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Columbia, SC, US USA
@@ -1523,7 +1512,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 139. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 138. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** TN, US USA
@@ -1534,7 +1523,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 140. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 139. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** New Franken, WI, US USA
@@ -1545,7 +1534,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 141. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 140. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** OH, US USA
@@ -1556,7 +1545,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 142. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 141. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Walnut Creek, CA, US USA
@@ -1567,7 +1556,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 143. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 142. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -1578,7 +1567,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 144. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 143. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** OR, US USA
@@ -1589,7 +1578,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 145. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 144. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Baton Rouge, LA, US USA
@@ -1600,7 +1589,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 146. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 145. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** VA, US USA
@@ -1611,7 +1600,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 147. Solutions Architect - Communications, Media, Entertainment and Games @ Databricks
+## 146. Solutions Architect - Communications, Media, Entertainment and Games @ Databricks
 **Match Score:** 12.5%
 
 📍 **Location:** CO, US USA
@@ -1622,7 +1611,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 148. Platform Engineer @ Bain & Company
+## 147. Platform Engineer @ Bain & Company
 **Match Score:** 12.5%
 
 📍 **Location:** Houston, TX, US USA
@@ -1633,7 +1622,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 149. Platform Engineer @ Bain & Company
+## 148. Platform Engineer @ Bain & Company
 **Match Score:** 12.5%
 
 📍 **Location:** Dallas, TX, US USA
@@ -1644,7 +1633,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 150. Platform Engineer @ Bain & Company
+## 149. Platform Engineer @ Bain & Company
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -1655,7 +1644,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 151. Platform Engineer @ Bain & Company
+## 150. Platform Engineer @ Bain & Company
 **Match Score:** 12.5%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1666,7 +1655,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 152. Platform Engineer @ Bain & Company
+## 151. Platform Engineer @ Bain & Company
 **Match Score:** 12.5%
 
 📍 **Location:** Austin, TX, US USA
@@ -1677,7 +1666,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 153. Platform Engineer @ Bain & Company
+## 152. Platform Engineer @ Bain & Company
 **Match Score:** 12.5%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -1688,7 +1677,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 154. Platform Data Engineer - (DataBricks, PySpark, AWS) @ Comcast
+## 153. Platform Data Engineer - (DataBricks, PySpark, AWS) @ Comcast
 **Match Score:** 11.8%
 
 📍 **Location:** West Chester, PA, US USA
@@ -1699,7 +1688,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 155. Data Engineer @ Comcast
+## 154. Data Engineer @ Comcast
 **Match Score:** 11.8%
 
 📍 **Location:** West Chester, PA, US USA
@@ -1710,7 +1699,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 156. Sr. Data and Platform Engineer @ Gatekeeper Systems
+## 155. Sr. Data and Platform Engineer @ Gatekeeper Systems
 **Match Score:** 11.8%
 
 📍 **Location:** Foothill Ranch, CA, US USA
@@ -1721,7 +1710,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 157. Cloud Systems Engineer III @ Orange County's Credit Union
+## 156. Cloud Systems Engineer III @ Orange County's Credit Union
 **Match Score:** 11.8%
 
 📍 **Location:** Santa Ana, CA, US USA
@@ -1732,7 +1721,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 158. Senior Data Engineer @ Arrive Logistics
+## 157. Senior Data Engineer @ Arrive Logistics
 **Match Score:** 11.8%
 
 📍 **Location:** Chicago, IL, US USA
@@ -1743,7 +1732,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 159. Senior, Data Engineer @ Carrington Mortgage Services, LLC
+## 158. Senior, Data Engineer @ Carrington Mortgage Services, LLC
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -1754,7 +1743,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 160. Senior Data Engineer @ Tiger Analytics
+## 159. Senior Data Engineer @ Tiger Analytics
 **Match Score:** 11.8%
 
 📍 **Location:** Richmond, VA, US USA
@@ -1765,7 +1754,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 161. Sr. Data Engineer @ CVS Health
+## 160. Sr. Data Engineer @ CVS Health
 **Match Score:** 11.8%
 
 📍 **Location:** Irving, TX, US USA
@@ -1776,7 +1765,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 162. Sr. Solutions Engineer - Games @ Databricks
+## 161. Sr. Solutions Engineer - Games @ Databricks
 **Match Score:** 11.8%
 
 📍 **Location:** US USA
@@ -1787,7 +1776,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 163. Solutions Architect - Media @ Databricks
+## 162. Solutions Architect - Media @ Databricks
 **Match Score:** 11.8%
 
 📍 **Location:** CA, US USA
@@ -1798,7 +1787,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 164. Senior Software Engineer @ Surescripts
+## 163. Senior Software Engineer @ Surescripts
 **Match Score:** 11.8%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -1809,7 +1798,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 165. Python/GenAI Solutions Architect @ Provectus
+## 164. Python/GenAI Solutions Architect @ Provectus
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -1820,7 +1809,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 166. Cybersecurity Engineer @ Tillster
+## 165. Cybersecurity Engineer @ Tillster
 **Match Score:** 11.8%
 
 📍 **Location:** San Diego, CA, US USA
@@ -1831,7 +1820,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 167. Data Engineer @ nan
+## 166. Data Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -1842,7 +1831,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 168. Data Engineer @ nan
+## 167. Data Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Salt Lake City, UT, US USA
@@ -1853,7 +1842,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 169. Senior Analytics Data Engineer - Homes.com @ CoStar Group
+## 168. Senior Analytics Data Engineer - Homes.com @ CoStar Group
 **Match Score:** 11.1%
 
 📍 **Location:** Arlington, VA, US USA
@@ -1861,6 +1850,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, PySpark, Scala, Snowflake, SQL Server, Power BI
 
 [Apply Here](https://www.indeed.com/viewjob?jk=b80d45c896bb26ef)
+
+---
+
+## 169. Database Administrator @ Index Analytics LLC
+**Match Score:** 11.1%
+
+📍 **Location:** Baltimore, MD, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL, ELT, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=96b3c17f710c4b52)
 
 ---
 
@@ -2062,7 +2062,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 188. Senior Analytics Engineer II @ Wrapbook
+## 188. VIE - Software Engineer (based in Miami) @ Pelico
+**Match Score:** 10.4%
+
+📍 **Location:** Miami, FL, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Scala, PostgreSQL, MongoDB, CI/CD, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=072180860b5c5965)
+
+---
+
+## 189. Senior Analytics Engineer II @ Wrapbook
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -2073,7 +2084,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 189. Engineering-L2-Dallas-Analyst-Software Engineering @ Goldman Sachs
+## 190. Engineering-L2-Dallas-Analyst-Software Engineering @ Goldman Sachs
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
@@ -2081,17 +2092,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Databricks, Hadoop, Spark, Scala, Kafka, Snowflake, CI/CD, Kubernetes, AKS
 
 [Apply Here](https://www.indeed.com/viewjob?jk=d45183e5b3bce9f1)
-
----
-
-## 190. VIE - Software Engineer (based in Miami) @ Pelico
-**Match Score:** 10.4%
-
-📍 **Location:** Miami, FL, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Scala, PostgreSQL, MongoDB, CI/CD, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=072180860b5c5965)
 
 ---
 
