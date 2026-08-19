@@ -1,19 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-19 14:23
+Last updated: 2026-08-19 15:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Rearc | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3d0531777dcadfb3) | 2026-08-19 15:22 |
+| nan | Senior AI/ML Engineer Remote — Full Time Remote | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=76c5165dd6d5386f) | 2026-08-19 15:22 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 15:22 |
+| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 15:22 |
+| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 15:22 |
+| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 15:22 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 15:22 |
+| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 15:22 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=221814563679cbed) | 2026-08-19 15:22 |
+| Southwest Power Pool | Programmer-Developer II/Sr. | Little Rock, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=507b26229191c569) | 2026-08-19 15:22 |
+| Rearc | Senior AI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1dae65756fc60c6) | 2026-08-19 15:22 |
 | Navy Federal Credit Union | ETS Senior Engineer - Azure Databricks & Data Platform Engineer | Vienna, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bb26bb0ae7057381) | 2026-08-19 14:23 |
 | WM | Engineer, Software | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=389fc2ed5c0deb4b) | 2026-08-19 14:23 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 14:23 |
-| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 14:23 |
-| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 14:23 |
-| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 14:23 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 14:23 |
-| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 14:23 |
 | VTG Defense | Senior Database Engineer | Tysons Corner, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b5e3d67c41aeb6bc) | 2026-08-19 11:17 |
 | Delan Associates, Inc | Senior Java Developer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5102217947056314) | 2026-08-19 10:19 |
 | Ramsey Solutions | Analytics Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5037580e42be8ebd) | 2026-08-19 10:19 |
@@ -344,8 +349,6 @@ Last updated: 2026-08-19 14:23
 | Colas USA | Senior Data Engineer, Databricks | Denver, CO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e57d8b4886da861) | 2026-08-16 00:43 |
 | Colas | Senior Data Engineer, Databricks | US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=623e6ba410872463) | 2026-08-15 19:15 |
 | Redapt inc | Senior Database Engineer | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f4541f6639d9bc1) | 2026-08-15 16:13 |
-| Disney Experiences | Data Engineer | Orlando, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=37b325f2f84b39b8) | 2026-08-15 15:11 |
-| Maximus | Biostatician | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa3a4edd24420508) | 2026-08-15 15:11 |
 
 
 ---
