@@ -1,22 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-19 21:17
+Last updated: 2026-08-19 22:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Eurofins | Senior Data Engineer | Stafford, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=555375438c1e8b98) | 2026-08-19 22:14 |
+| AI Fire | Azure Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1a9844392ec8b665) | 2026-08-19 22:14 |
+| KONG | Senior Software Engineer, Konnect Admin/Billing | Olympia, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5616973f627d78f6) | 2026-08-19 22:14 |
+| NRG Energy | Data Science Analyst - Agentic AI Developer | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=da8857ac7498424c) | 2026-08-19 22:14 |
+| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 22:14 |
+| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 22:14 |
+| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 22:14 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 22:14 |
+| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 22:14 |
+| MetLife | Data Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d65d9fe891b3d937) | 2026-08-19 22:14 |
+| Ocean Blue Solutions | Senior ETL Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6eb300f7d6bc4524) | 2026-08-19 22:14 |
+| The Church Online, LLC | Full-Stack SaaS Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92bd3b1d025be8a0) | 2026-08-19 22:14 |
+| Sunbelt Rentals | Sr. Data Engineer | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b31b9600d6bd6bd2) | 2026-08-19 22:14 |
+| Edward Jones | Application Security Engineer IV | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=92658d4e06ae2705) | 2026-08-19 22:14 |
+| Sunbelt Rentals | Data Engineer - Compensation Systems | Fort Mill, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e642074188f57324) | 2026-08-19 22:14 |
+| Sunbelt Rentals | Data Engineer | Fort Mill, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb33b3895c19f447) | 2026-08-19 22:14 |
+| nan | Analytics Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=668818422c4692eb) | 2026-08-19 22:14 |
 | Technology Digest inc | BACK-END DEVELOPER — Investment Data Warehouse / GenBI, AI & ML | West Sacramento, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=21a478979da3d18d) | 2026-08-19 21:17 |
 | Wise Skulls | Platform (DevOps) Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a014a83c45a16edc) | 2026-08-19 21:17 |
 | Capgemini | Platform Engineer VI Data Services | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=95d2b8bcef6e6443) | 2026-08-19 21:17 |
 | NTT DATA | Pega PRPC Administrator | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=aa113d93b209abba) | 2026-08-19 21:17 |
 | nan | Software Developer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=355fbee9537a593d) | 2026-08-19 21:17 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=55bac87da3cf7432) | 2026-08-19 21:17 |
-| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 21:17 |
-| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 21:17 |
-| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 21:17 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 21:17 |
-| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 21:17 |
 | nan | Cloud Software Engineer III | Annapolis Junction, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a7380fc50156c508) | 2026-08-19 21:17 |
 | The Hearst Corporation | Senior Data Engineer | Troy, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dd423be7263fd117) | 2026-08-19 21:17 |
 | Databricks | Solutions Architect - Strategic High Tech | CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ecd9053cc3b8b074) | 2026-08-19 21:17 |
