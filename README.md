@@ -1,13 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 18:24
+Last updated: 2026-08-20 19:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 18:24 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 18:24 |
+| CoStar Group | Senior Data Engineer | Richmond, VA, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=5d356376aee9aed9) | 2026-08-20 19:23 |
+| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 19:23 |
+| Hollstadt Consulting | Senior AI/ML Full Stack Engineer | MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eb01dfa6121864df) | 2026-08-20 19:23 |
+| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 19:23 |
+| CoStar Group | Software Engineer II - Backend | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5500d6b30d337bf5) | 2026-08-20 19:23 |
+| Texas Health and Human Services Commission | Cloud Solution Architect | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ff372041e842459) | 2026-08-20 19:23 |
+| US Mobile | Analytics Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=38cfb69843b2db92) | 2026-08-20 19:23 |
+| The Cigna Group | Application Development Senior Advisor- Hybrid | Bloomfield, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4000419aead97d7c) | 2026-08-20 19:23 |
+| The Clearing House Payments Company | Senior Software Developer Engineer in Testing | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d369a229cb2f75b9) | 2026-08-20 19:23 |
+| American Express | Software Engineer II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f732389fad9f5f1e) | 2026-08-20 19:23 |
 | Tiger Analytics | Senior Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba4ddae196475dfd) | 2026-08-20 18:24 |
 | FRONT | Senior AI Platform Security Engineer - Contract to Hire | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afaa91243be013f5) | 2026-08-20 18:24 |
 | Ashburn Consulting | Systems Engineer | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=69c5c3ce3e81946d) | 2026-08-20 17:20 |
