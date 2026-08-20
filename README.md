@@ -1,13 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 05:22
+Last updated: 2026-08-20 06:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 05:22 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 05:22 |
+| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 06:28 |
+| JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1cb452da16920d81) | 2026-08-20 06:28 |
+| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 06:28 |
+| Roblox | Senior Software Engineer - Marketplace Foundation | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=17d6ae908b8e7d72) | 2026-08-20 06:28 |
+| Roblox | Senior Software Engineer - Marketplace Foundation | San Mateo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f458b7778293846f) | 2026-08-20 06:28 |
+| Roblox | Senior Software Engineer - Marketplace Foundation | San Mateo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8d6afe51fc6e261a) | 2026-08-20 06:28 |
+| JPMorganChase | Data Engineer II - AWS/PySpark/ETL | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e56fac37798dfc2) | 2026-08-20 06:28 |
+| nan | AI WebCoder | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b74d9bc113520762) | 2026-08-20 06:28 |
 | Barclays | Senior BI Developer | Whippany, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c28f56c13c2e0b4) | 2026-08-20 05:22 |
 | Leidos | Software Engineer | Morgantown, WV, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=07a7db885e08246b) | 2026-08-20 04:27 |
 | University of California Berkeley | Database Administrator (0597U) Berkeley IT, #88217 | Berkeley, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a83c7618f2ffb5df) | 2026-08-20 04:27 |
