@@ -1,13 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 10:20
+Last updated: 2026-08-20 11:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 10:20 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 10:20 |
+| FICO | Software Engineering - Senior Engineer | Reston, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2f8abb748a167939) | 2026-08-20 11:18 |
+| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 11:18 |
+| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 11:18 |
+| Prodapt Solutions | Senior DevOps Engineer | Richardson, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b234d21055ac65b) | 2026-08-20 11:18 |
 | JPMorganChase | Software Engineer III - Full Stack | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=633e4ef91698f188) | 2026-08-20 10:20 |
 | Quantum Sky | ISSM / Security Automation Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=854b2d4eca3cc1a0) | 2026-08-20 10:20 |
 | Cisco | Cloud Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06c149b0229a30a1) | 2026-08-20 08:26 |
@@ -472,7 +474,6 @@ Last updated: 2026-08-20 10:20
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7917c01121d24b96) | 2026-08-16 13:23 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a758504314944c77) | 2026-08-16 13:23 |
 | Cinter Networks | Backend Engineer - AI Gateway | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfe651047abaadcf) | 2026-08-16 13:23 |
-| Pearson | Software Engineer II | Englewood, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=13516b225489ef52) | 2026-08-16 11:11 |
 
 
 ---
