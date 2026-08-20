@@ -1,21 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-19 23:15
+Last updated: 2026-08-20 00:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| RPA INFOTECH INDIA | Databricks Architect | Jersey City, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=77c4bca427782367) | 2026-08-20 00:41 |
+| Equifax | Senior Full Stack Engineer | St. Louis, MO, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=9d0497d85a50331b) | 2026-08-20 00:41 |
+| The Cigna Group | Software Engineering Senior Advisor | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cab4f4baaddc2f11) | 2026-08-20 00:41 |
+| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 00:41 |
+| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 00:41 |
+| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-20 00:41 |
+| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-20 00:41 |
+| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-20 00:41 |
+| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-20 00:41 |
+| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-20 00:41 |
+| National Information Solutions Cooperative (NISC) | Software Developer - Telecom Bill Calculations Software (Back End, Python) | St. Louis, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f91d5232f542a491) | 2026-08-20 00:41 |
+| Consertus | Power BI Developer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=216c50d086e32dde) | 2026-08-20 00:41 |
+| Q2ebanking | Cloud Platform Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04718bbf73627185) | 2026-08-20 00:41 |
+| THEMESOFT | Database Developer (PostgreSQL/Oracle) | Menands, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=caee2aad6bb7dab7) | 2026-08-20 00:41 |
 | Dynata | Senior Data Engineer | Westport, CT, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=66c7347957879848) | 2026-08-19 23:15 |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-19 23:15 |
 | Washington University in St. Louis | C-BRAIN Data Engineer (Remote) - Neurology | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ee6e7926c1d2e476) | 2026-08-19 23:15 |
 | Dayforce | Software Developer Sr | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=81c4062ee8a8164c) | 2026-08-19 23:15 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-19 23:15 |
-| Bain & Company | Platform Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8cca7881ecab68e4) | 2026-08-19 23:15 |
-| Bain & Company | Platform Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5bdcc2a4768c36ce) | 2026-08-19 23:15 |
-| Bain & Company | Platform Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a2a3affc587d7fc3) | 2026-08-19 23:15 |
-| Bain & Company | Platform Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a67bb5e4a90ee02) | 2026-08-19 23:15 |
-| Bain & Company | Platform Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=11c03ba8ab959738) | 2026-08-19 23:15 |
 | NOVOGRADAC & COMPANY | Data Engineer | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9760fadd58dc6e15) | 2026-08-19 23:15 |
 | NOVOGRADAC & COMPANY | Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=82ff5ec36207cba7) | 2026-08-19 23:15 |
 | NOVOGRADAC & COMPANY | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba4f0ae852975856) | 2026-08-19 23:15 |
