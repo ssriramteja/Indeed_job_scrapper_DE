@@ -434,18 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Cybersecurity Sr Engineer @ CBRE
-**Match Score:** 13.9%
-
-📍 **Location:** Richardson, TX, US USA
-
-🔑 **Keywords:** AWS, S3, API Gateway, IAM, RDS, Azure, GCP, SQL Server, MySQL, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ad4d8655d28b7570)
-
----
-
-## 41. Database Administrator (0597U) Berkeley IT, #88217 @ University of California Berkeley
+## 40. Database Administrator (0597U) Berkeley IT, #88217 @ University of California Berkeley
 **Match Score:** 13.9%
 
 📍 **Location:** Berkeley, CA, US USA
@@ -453,6 +442,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, IAM, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, NoSQL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=a83c7618f2ffb5df)
+
+---
+
+## 41. Cybersecurity Sr Engineer @ CBRE
+**Match Score:** 13.9%
+
+📍 **Location:** Richardson, TX, US USA
+
+🔑 **Keywords:** AWS, S3, API Gateway, IAM, RDS, Azure, GCP, SQL Server, MySQL, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ad4d8655d28b7570)
 
 ---
 
@@ -489,7 +489,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Senior Engineer, Database Administration @ Guardian Life
+## 45. Software Engineer III - AI/ML Developer @ JPMorganChase
+**Match Score:** 13.2%
+
+📍 **Location:** Plano, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, Scala, Snowflake, CI/CD, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1cb452da16920d81)
+
+---
+
+## 46. Senior Engineer, Database Administration @ Guardian Life
 **Match Score:** 13.2%
 
 📍 **Location:** Bethlehem, PA, US USA
@@ -500,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. OCI Solutions Architect @ BV Teck
+## 47. OCI Solutions Architect @ BV Teck
 **Match Score:** 13.2%
 
 📍 **Location:** Remote, US USA
@@ -508,17 +519,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Hive, Oracle, MySQL, CI/CD, Jenkins
 
 [Apply Here](https://www.indeed.com/viewjob?jk=15965a432c4c0c4b)
-
----
-
-## 47. Software Engineer III - AI/ML Developer @ JPMorganChase
-**Match Score:** 13.2%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, Scala, Snowflake, CI/CD, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1cb452da16920d81)
 
 ---
 
@@ -1204,7 +1204,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 110. Python Solutions Engineer @ BV Teck
+## 110. Developer - Information Technology @ United Airlines
+**Match Score:** 10.4%
+
+📍 **Location:** Arlington Heights, IL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, HBase, Spark, Oracle, MongoDB, DynamoDB, NoSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c32bb2b80f4dc7f9)
+
+---
+
+## 111. Python Solutions Engineer @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1215,7 +1226,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 111. Full Stack Solutions Developer – Java @ BV Teck
+## 112. Full Stack Solutions Developer – Java @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1226,7 +1237,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 112. Full Stack Solutions Developer – Java @ BV Teck
+## 113. Full Stack Solutions Developer – Java @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1237,7 +1248,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 113. Kafka Platform Engineer @ BV Teck
+## 114. Kafka Platform Engineer @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1248,7 +1259,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 114. Java Application Architect @ BV Teck
+## 115. Java Application Architect @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1259,7 +1270,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 115. AWS Cloud Architect (contract) @ Hilton
+## 116. AWS Cloud Architect (contract) @ Hilton
 **Match Score:** 10.4%
 
 📍 **Location:** McLean, VA, US USA
@@ -1270,7 +1281,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 116. Analytics Engineer @ nan
+## 117. Analytics Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -1278,17 +1289,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** EMR, RDS, Scala, Data Modeling, ETL, dbt, Power BI, Tableau, CI/CD, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=668818422c4692eb)
-
----
-
-## 117. Developer - Information Technology @ United Airlines
-**Match Score:** 10.4%
-
-📍 **Location:** Arlington Heights, IL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, HBase, Spark, Oracle, MongoDB, DynamoDB, NoSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c32bb2b80f4dc7f9)
 
 ---
 
