@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 22:17
+Last updated: 2026-08-20 23:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Five Guys | Data Platform Engineer (Azure) | Alexandria, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0402f8984e68c388) | 2026-08-20 23:17 |
+| Cognizant | Data Engineer | Blaine, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=08961c31c3764f09) | 2026-08-20 23:17 |
+| Cognizant | Data Engineer | Mesa, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aa0a4f0fdf890593) | 2026-08-20 23:17 |
+| Infoverity | Enterprise Architect | Dublin, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=05f507aa8170f412) | 2026-08-20 23:17 |
+| nan | Analytics Engineer - Direct Hire - 4 days onsite | Morris Plains, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=28383d93819eb75f) | 2026-08-20 23:17 |
+| Cognizant | Machine Learning Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dc92f44a3afb58a3) | 2026-08-20 23:17 |
+| Cognizant | Senior AWS Data Engineer with scrum skills- Onsite | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=817bdac6a5468393) | 2026-08-20 23:17 |
+| The Clearing House Payments Company | Senior Software Developer Engineer in Testing | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d369a229cb2f75b9) | 2026-08-20 23:17 |
 | T. Mims Corp. | Senior Data Engineer — AI/ML Data Platforms | Lakeland, FL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ac713d0689b63faa) | 2026-08-20 22:17 |
 | Fractal Analytics | Snowflake_DBT Developers | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=acb81b67805de775) | 2026-08-20 22:17 |
 | JPMorganChase | Software Engineer III - C# / Java | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fdaf569063c2010c) | 2026-08-20 22:17 |
@@ -29,7 +37,6 @@ Last updated: 2026-08-20 22:17
 | nan | Data Analytics Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=42e7817a8874a099) | 2026-08-20 22:17 |
 | Happen Bank | Sr Cloud Infrastructure Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4e748964b56e3dd) | 2026-08-20 22:17 |
 | Happen Bank | Sr Cloud Infrastructure Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0101421529dd218) | 2026-08-20 22:17 |
-| The Clearing House Payments Company | Senior Software Developer Engineer in Testing | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d369a229cb2f75b9) | 2026-08-20 22:17 |
 | Alchemy | GCP Data Engineer / Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b975b94e360553b7) | 2026-08-20 21:19 |
 | Vital Services | Senior Data Engineer | Allen, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fde9e1e8cee00e1c) | 2026-08-20 21:19 |
 | Vital Services | Senior Data Engineer | Oak Ridge, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b88e6aff03fdd859) | 2026-08-20 21:19 |
