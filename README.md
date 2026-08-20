@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 02:11
+Last updated: 2026-08-20 03:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| VTG Defense | Systems Engineer SME | Tysons Corner, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=73e738969e8679aa) | 2026-08-20 03:39 |
+| PlayStation | Senior Production Operations Engineer | San Diego, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=84465101ecfed6f0) | 2026-08-20 03:39 |
+| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 03:39 |
+| CBRE | Cybersecurity Sr Engineer | Richardson, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ad4d8655d28b7570) | 2026-08-20 03:39 |
+| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 03:39 |
+| Teichert Construction | Data & AI Engineer | Sacramento, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bc7127badc11937) | 2026-08-20 03:39 |
+| NTT DATA | Sr SDET Engineer (Selenium, Playwright / Cypress, Java / Python, FTE, Onsite) | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0297dc62d73e5356) | 2026-08-20 03:39 |
+| LiveRamp | Co-Op, DevOps Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=40696df5eb2aec78) | 2026-08-20 03:39 |
+| Nordstrom | Data Engineer 1, Insights Delivery Finance (Hybrid - Seattle, WA) | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=304b246d7ce7389e) | 2026-08-20 03:39 |
+| Cornerstone OnDemand | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ac607ddc0e1cc3a) | 2026-08-20 03:39 |
+| nan | Data Engineer | Milwaukee, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dbb5062224932805) | 2026-08-20 03:39 |
+| United Airlines | Developer - Information Technology | Arlington Heights, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c32bb2b80f4dc7f9) | 2026-08-20 03:39 |
+| Dollar General | DATA SCIENTIST | Goodlettsville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9e9e55514658931) | 2026-08-20 03:39 |
+| BRMi | Senior Azure Cloud & GitHub Platform Engineer (Hybrid) | Vienna, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ee7752f8c95ab53) | 2026-08-20 03:39 |
 | BV Teck | ETL Developer | Remote, US USA | 28.5% | [Apply](https://www.indeed.com/viewjob?jk=706e3b72b66ba001) | 2026-08-20 02:11 |
 | BV Teck | ETL Developer | Remote, US USA | 28.5% | [Apply](https://www.indeed.com/viewjob?jk=1a6fc35c45c62e0e) | 2026-08-20 02:11 |
 | BV Teck | Cloud Infrastructure Engineer – AWS | Remote, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=616635db842b8721) | 2026-08-20 02:11 |
@@ -15,12 +29,10 @@ Last updated: 2026-08-20 02:11
 | CoStar Group | Senior Data Engineer - Homes.com - Arlington, VA | Arlington, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8764f80e093a42ae) | 2026-08-20 02:11 |
 | PlayStation | Senior Production Operations Engineer | San Diego, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d8937a2d408f44ee) | 2026-08-20 02:11 |
 | Capio Group | Front-End/Full-Stack Developer | Sacramento, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f7737c23f8e09dc9) | 2026-08-20 02:11 |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 02:11 |
 | Campbell's | Sr Analyst, Application Operations | Camden, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=703f9ee27f04ed89) | 2026-08-20 02:11 |
 | Capio Group | Solution Architect | Sacramento, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c700a6e916d3d0c4) | 2026-08-20 02:11 |
 | Guardian Life | Senior Engineer, Database Administration | Bethlehem, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4af900edf5ab1204) | 2026-08-20 02:11 |
 | BV Teck | OCI Solutions Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=15965a432c4c0c4b) | 2026-08-20 02:11 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 02:11 |
 | JPMorganChase | Java Backend Software Engineer II - Databricks / PySpark / AWS | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=af14f051f56d396e) | 2026-08-20 02:11 |
 | Esri | Java Software Engineer II - ArcGIS Enterprise | Redlands, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=be57dd29022f1fe0) | 2026-08-20 02:11 |
 | Carrington Mortgage Services, LLC | Engineer, Data, Senior (NE) | Aliso Viejo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=728ccd1f59eb0247) | 2026-08-20 02:11 |
