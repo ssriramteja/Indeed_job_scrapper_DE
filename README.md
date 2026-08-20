@@ -1,13 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 12:27
+Last updated: 2026-08-20 13:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 12:27 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 12:27 |
+| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 13:38 |
+| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 13:38 |
+| Capgemini | Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b878c9ad00168635) | 2026-08-20 13:38 |
+| Capgemini | Full Stack Developer - Java/ React | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5a41ffcb11e1749) | 2026-08-20 13:38 |
+| Capgemini | Full Stack Developer - Java/ React | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=60aa25871e93c329) | 2026-08-20 13:38 |
+| Luxoft | Senior Java Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ddda7a6ac90148d4) | 2026-08-20 13:38 |
 | Capgemini | Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=51ab8998579dcc3a) | 2026-08-20 12:27 |
 | Capgemini | Full Stack Developer - Java/ React | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c43bab62e6ea0712) | 2026-08-20 12:27 |
 | Capgemini | Full Stack Developer - Java/ React | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c2fa28942f5a9923) | 2026-08-20 12:27 |
@@ -474,9 +478,6 @@ Last updated: 2026-08-20 12:27
 | Catapult Sports | Senior ML/Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f70070de74edaf0a) | 2026-08-17 12:23 |
 | Amgen | Sr Associate Data Analytics | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4fbfe0f5be436a39) | 2026-08-16 22:11 |
 | RoadSync | Infrastructure Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=43f605a11b0b8a05) | 2026-08-16 18:15 |
-| KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7917c01121d24b96) | 2026-08-16 13:23 |
-| KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a758504314944c77) | 2026-08-16 13:23 |
-| Cinter Networks | Backend Engineer - AI Gateway | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfe651047abaadcf) | 2026-08-16 13:23 |
 
 
 ---
