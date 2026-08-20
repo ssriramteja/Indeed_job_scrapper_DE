@@ -1,16 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 16:23
+Last updated: 2026-08-20 17:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 17:20 |
+| Ashburn Consulting | Systems Engineer | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=69c5c3ce3e81946d) | 2026-08-20 17:20 |
+| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 17:20 |
+| Frontapp | Senior AI Platform Security Engineer - Contract to Hire | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ae0f3e6a0329e2b7) | 2026-08-20 17:20 |
 | Optum | Senior Full Stack Engineer | Eden Prairie, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a9ea33155120cc34) | 2026-08-20 16:23 |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 16:23 |
 | Cargill | Sr. Data Engineer | Wayzata, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=273dfb2fd34849a0) | 2026-08-20 16:23 |
 | Itron | DevOps Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0d4ea92b3de4658c) | 2026-08-20 16:23 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 16:23 |
 | SHAKTECH CORP | Database Architect | Woodlawn, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55f29600f2b8dc13) | 2026-08-20 16:23 |
 | Integra Connect | Senior Platform Engineer – Snowflake (Azure / Entra ID) | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7029dd2c0aa17f4f) | 2026-08-20 15:25 |
 | Big Bridge Holdings, Inc. | Senior DevOps Engineer (With SRE Trajectory) | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7e17a536e9381936) | 2026-08-20 15:25 |
