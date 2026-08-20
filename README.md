@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 04:27
+Last updated: 2026-08-20 05:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 04:27 |
+| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 05:22 |
+| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 05:22 |
+| Barclays | Senior BI Developer | Whippany, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c28f56c13c2e0b4) | 2026-08-20 05:22 |
 | Leidos | Software Engineer | Morgantown, WV, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=07a7db885e08246b) | 2026-08-20 04:27 |
 | University of California Berkeley | Database Administrator (0597U) Berkeley IT, #88217 | Berkeley, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a83c7618f2ffb5df) | 2026-08-20 04:27 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 04:27 |
 | nan | Senior Software Engineer, Data | Manasquan, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8092575b540f4d54) | 2026-08-20 04:27 |
 | Cencora | Sr. Azure Cloud Engineer | Conshohocken, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d5577a89f311660) | 2026-08-20 04:27 |
 | VTG Defense | Systems Engineer SME | Tysons Corner, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=73e738969e8679aa) | 2026-08-20 03:39 |
@@ -464,8 +465,6 @@ Last updated: 2026-08-20 04:27
 | Cinter Networks | Backend Engineer - AI Gateway | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dfe651047abaadcf) | 2026-08-16 13:23 |
 | Pearson | Software Engineer II | Englewood, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=13516b225489ef52) | 2026-08-16 11:11 |
 | Medallia | Senior AI/ML Platform Engineer, GovCloud | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8a5f83cd6892d049) | 2026-08-16 10:14 |
-| Workday | Software Development Engineer - US Federal | Reston, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37b50b0aef4d49b0) | 2026-08-16 05:19 |
-| Workday | Sr. Associate Software Development Engineer - US Federal | Reston, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ccc557eea54e41a1) | 2026-08-16 05:19 |
 
 
 ---
