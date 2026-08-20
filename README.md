@@ -1,13 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 14:26
+Last updated: 2026-08-20 15:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 14:26 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 14:26 |
+| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 15:25 |
+| Integra Connect | Senior Platform Engineer – Snowflake (Azure / Entra ID) | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7029dd2c0aa17f4f) | 2026-08-20 15:25 |
+| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 15:25 |
+| Big Bridge Holdings, Inc. | Senior DevOps Engineer (With SRE Trajectory) | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7e17a536e9381936) | 2026-08-20 15:25 |
 | Capgemini | Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b878c9ad00168635) | 2026-08-20 13:38 |
 | Capgemini | Full Stack Developer - Java/ React | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5a41ffcb11e1749) | 2026-08-20 13:38 |
 | Capgemini | Full Stack Developer - Java/ React | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=60aa25871e93c329) | 2026-08-20 13:38 |
