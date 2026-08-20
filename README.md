@@ -1,17 +1,38 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 21:19
+Last updated: 2026-08-20 22:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 21:19 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 21:19 |
+| T. Mims Corp. | Senior Data Engineer — AI/ML Data Platforms | Lakeland, FL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ac713d0689b63faa) | 2026-08-20 22:17 |
+| Fractal Analytics | Snowflake_DBT Developers | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=acb81b67805de775) | 2026-08-20 22:17 |
+| JPMorganChase | Software Engineer III - C# / Java | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fdaf569063c2010c) | 2026-08-20 22:17 |
+| Sperry Rail | Cloud Engineer | Shelton, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6013a09b90a06810) | 2026-08-20 22:17 |
+| doctronic | Senior Data Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f2a1804955dab550) | 2026-08-20 22:17 |
+| General Motors (GM) | Senior Software Engineer | Warren, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f14a4b8559fd52ba) | 2026-08-20 22:17 |
+| CURE Auto Insurance | Data Engineer | Princeton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=23d8077cddaec91f) | 2026-08-20 22:17 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b5ae117696ae2b3c) | 2026-08-20 22:17 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e49708d8edca6e04) | 2026-08-20 22:17 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Herndon, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c7bc23cafde3de00) | 2026-08-20 22:17 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a04069d3f3584ed) | 2026-08-20 22:17 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7f02fd8499365382) | 2026-08-20 22:17 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3f3984756cdac147) | 2026-08-20 22:17 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Detroit, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b605dce7b0600d93) | 2026-08-20 22:17 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Cleveland, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2e82c34131ee2765) | 2026-08-20 22:17 |
+| Team Velocity Marketing | Senior Full Stack .NET Developer | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=22bf48116516e1d7) | 2026-08-20 22:17 |
+| Quality Insights | Data Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff47e82bfc5817a2) | 2026-08-20 22:17 |
+| nan | Associate, Analytics Engineer | Santa Monica, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cb0091e3c3966a16) | 2026-08-20 22:17 |
+| nan | Associate, Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e74f8cda1493a2c1) | 2026-08-20 22:17 |
+| Rockwoods Inc | Guidewire Data Architect | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5f2d40a87f71d317) | 2026-08-20 22:17 |
+| nan | Data Analytics Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=42e7817a8874a099) | 2026-08-20 22:17 |
+| Happen Bank | Sr Cloud Infrastructure Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4e748964b56e3dd) | 2026-08-20 22:17 |
+| Happen Bank | Sr Cloud Infrastructure Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0101421529dd218) | 2026-08-20 22:17 |
+| The Clearing House Payments Company | Senior Software Developer Engineer in Testing | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d369a229cb2f75b9) | 2026-08-20 22:17 |
 | Alchemy | GCP Data Engineer / Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b975b94e360553b7) | 2026-08-20 21:19 |
 | Vital Services | Senior Data Engineer | Allen, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fde9e1e8cee00e1c) | 2026-08-20 21:19 |
 | Vital Services | Senior Data Engineer | Oak Ridge, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b88e6aff03fdd859) | 2026-08-20 21:19 |
-| The Clearing House Payments Company | Senior Software Developer Engineer in Testing | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d369a229cb2f75b9) | 2026-08-20 21:19 |
 | Armstrong World Industries | Data Engineer Job | Lancaster, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=83106bef0df0d936) | 2026-08-20 20:18 |
 | Berkshire Hathaway Specialty Insurance | Senior Data Engineer, Berxi | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdcd811be7d4a19d) | 2026-08-20 20:18 |
 | C.H. Robinson | Software Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cea1d8921bab123) | 2026-08-20 20:18 |
@@ -502,7 +523,6 @@ Last updated: 2026-08-20 21:19
 | Billtrust | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01c9c35a4ddbdfbb) | 2026-08-17 14:18 |
 | Openly | Senior Backend Engineer (Remote, US) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7e2f39f3379fbccf) | 2026-08-17 13:32 |
 | Catapult Sports | Senior ML/Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f70070de74edaf0a) | 2026-08-17 12:23 |
-| Amgen | Sr Associate Data Analytics | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4fbfe0f5be436a39) | 2026-08-16 22:11 |
 
 
 ---
