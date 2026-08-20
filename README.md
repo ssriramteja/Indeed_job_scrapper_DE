@@ -1,16 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 03:39
+Last updated: 2026-08-20 04:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 04:27 |
+| Leidos | Software Engineer | Morgantown, WV, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=07a7db885e08246b) | 2026-08-20 04:27 |
+| University of California Berkeley | Database Administrator (0597U) Berkeley IT, #88217 | Berkeley, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a83c7618f2ffb5df) | 2026-08-20 04:27 |
+| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 04:27 |
+| nan | Senior Software Engineer, Data | Manasquan, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8092575b540f4d54) | 2026-08-20 04:27 |
+| Cencora | Sr. Azure Cloud Engineer | Conshohocken, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d5577a89f311660) | 2026-08-20 04:27 |
 | VTG Defense | Systems Engineer SME | Tysons Corner, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=73e738969e8679aa) | 2026-08-20 03:39 |
 | PlayStation | Senior Production Operations Engineer | San Diego, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=84465101ecfed6f0) | 2026-08-20 03:39 |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 03:39 |
 | CBRE | Cybersecurity Sr Engineer | Richardson, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ad4d8655d28b7570) | 2026-08-20 03:39 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 03:39 |
 | Teichert Construction | Data & AI Engineer | Sacramento, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bc7127badc11937) | 2026-08-20 03:39 |
 | NTT DATA | Sr SDET Engineer (Selenium, Playwright / Cypress, Java / Python, FTE, Onsite) | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0297dc62d73e5356) | 2026-08-20 03:39 |
 | LiveRamp | Co-Op, DevOps Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=40696df5eb2aec78) | 2026-08-20 03:39 |
@@ -462,7 +466,6 @@ Last updated: 2026-08-20 03:39
 | Medallia | Senior AI/ML Platform Engineer, GovCloud | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8a5f83cd6892d049) | 2026-08-16 10:14 |
 | Workday | Software Development Engineer - US Federal | Reston, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37b50b0aef4d49b0) | 2026-08-16 05:19 |
 | Workday | Sr. Associate Software Development Engineer - US Federal | Reston, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ccc557eea54e41a1) | 2026-08-16 05:19 |
-| American Airlines | Senior Engineer, IT Data | Fort Worth, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca4c7fcf944f91e0) | 2026-08-16 03:40 |
 
 
 ---
