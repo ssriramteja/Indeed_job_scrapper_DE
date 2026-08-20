@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 17:20
+Last updated: 2026-08-20 18:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 17:20 |
+| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 18:24 |
+| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 18:24 |
+| Tiger Analytics | Senior Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba4ddae196475dfd) | 2026-08-20 18:24 |
+| FRONT | Senior AI Platform Security Engineer - Contract to Hire | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afaa91243be013f5) | 2026-08-20 18:24 |
 | Ashburn Consulting | Systems Engineer | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=69c5c3ce3e81946d) | 2026-08-20 17:20 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 17:20 |
 | Frontapp | Senior AI Platform Security Engineer - Contract to Hire | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ae0f3e6a0329e2b7) | 2026-08-20 17:20 |
 | Optum | Senior Full Stack Engineer | Eden Prairie, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a9ea33155120cc34) | 2026-08-20 16:23 |
 | Cargill | Sr. Data Engineer | Wayzata, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=273dfb2fd34849a0) | 2026-08-20 16:23 |
@@ -485,7 +487,6 @@ Last updated: 2026-08-20 17:20
 | Openly | Senior Backend Engineer (Remote, US) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7e2f39f3379fbccf) | 2026-08-17 13:32 |
 | Catapult Sports | Senior ML/Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f70070de74edaf0a) | 2026-08-17 12:23 |
 | Amgen | Sr Associate Data Analytics | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4fbfe0f5be436a39) | 2026-08-16 22:11 |
-| RoadSync | Infrastructure Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=43f605a11b0b8a05) | 2026-08-16 18:15 |
 
 
 ---
