@@ -1,19 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 20:18
+Last updated: 2026-08-20 21:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 20:18 |
+| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 21:19 |
+| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 21:19 |
+| Alchemy | GCP Data Engineer / Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b975b94e360553b7) | 2026-08-20 21:19 |
+| Vital Services | Senior Data Engineer | Allen, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fde9e1e8cee00e1c) | 2026-08-20 21:19 |
+| Vital Services | Senior Data Engineer | Oak Ridge, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b88e6aff03fdd859) | 2026-08-20 21:19 |
+| The Clearing House Payments Company | Senior Software Developer Engineer in Testing | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d369a229cb2f75b9) | 2026-08-20 21:19 |
 | Armstrong World Industries | Data Engineer Job | Lancaster, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=83106bef0df0d936) | 2026-08-20 20:18 |
 | Berkshire Hathaway Specialty Insurance | Senior Data Engineer, Berxi | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdcd811be7d4a19d) | 2026-08-20 20:18 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 20:18 |
 | C.H. Robinson | Software Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cea1d8921bab123) | 2026-08-20 20:18 |
 | Capgemini | Snowflake Data Engineer + Junior Architect | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9c52bdf1b2f2d60) | 2026-08-20 20:18 |
 | Berkshire Hathaway Specialty Insurance | Data Scientist / Senior Data Scientist (Risk Modeling) | San Ramon, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ce4e28923d1134c) | 2026-08-20 20:18 |
-| The Clearing House Payments Company | Senior Software Developer Engineer in Testing | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d369a229cb2f75b9) | 2026-08-20 20:18 |
 | CoStar Group | Senior Data Engineer | Richmond, VA, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=5d356376aee9aed9) | 2026-08-20 19:23 |
 | Hollstadt Consulting | Senior AI/ML Full Stack Engineer | MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eb01dfa6121864df) | 2026-08-20 19:23 |
 | CoStar Group | Software Engineer II - Backend | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5500d6b30d337bf5) | 2026-08-20 19:23 |
