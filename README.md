@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-20 11:18
+Last updated: 2026-08-20 12:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 12:27 |
+| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 12:27 |
+| Capgemini | Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=51ab8998579dcc3a) | 2026-08-20 12:27 |
+| Capgemini | Full Stack Developer - Java/ React | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c43bab62e6ea0712) | 2026-08-20 12:27 |
+| Capgemini | Full Stack Developer - Java/ React | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c2fa28942f5a9923) | 2026-08-20 12:27 |
 | FICO | Software Engineering - Senior Engineer | Reston, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2f8abb748a167939) | 2026-08-20 11:18 |
-| Guild Mortgage Company LLC | Sr Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d24b9231ae36f2fd) | 2026-08-20 11:18 |
-| Guild Mortgage Company LLC | Sr. BI Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e8891e7a3e0f8f62) | 2026-08-20 11:18 |
 | Prodapt Solutions | Senior DevOps Engineer | Richardson, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b234d21055ac65b) | 2026-08-20 11:18 |
 | JPMorganChase | Software Engineer III - Full Stack | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=633e4ef91698f188) | 2026-08-20 10:20 |
 | Quantum Sky | ISSM / Security Automation Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=854b2d4eca3cc1a0) | 2026-08-20 10:20 |
