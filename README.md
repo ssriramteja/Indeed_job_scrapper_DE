@@ -1,23 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-21 16:21
+Last updated: 2026-08-21 17:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-21 16:21 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8209ae3042e1b9a9) | 2026-08-21 16:21 |
-| Photon | Full Stack Developer - Advanced \| Columbus, US \| JPMC | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=865f8a104cb006d1) | 2026-08-21 16:21 |
-| Vulcan Materials Company | IT Analyst Senior | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ad738591847ea39e) | 2026-08-21 16:21 |
+| Amida Technology Solutions | Quality Engineering (QE) Data Quality Engineer | Washington, DC, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=b9b2b6cddab662d6) | 2026-08-21 17:20 |
+| First Solar | Engineer- Full Stack USA | Perrysburg, OH, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=feaf58186fd25df4) | 2026-08-21 17:20 |
+| United Concordia Dental | Senior Data Engineer | PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6f9e89b177e72a80) | 2026-08-21 17:20 |
+| NTT DATA | Solution Architect (Java, Cloud & AI) - FTE / Hybrid | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cff991eacc7c642b) | 2026-08-21 17:20 |
+| McKesson | Finance Solutions, Google Cloud Platform | Richmond, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c94336bbf2aab76d) | 2026-08-21 17:20 |
+| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-21 17:20 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8209ae3042e1b9a9) | 2026-08-21 17:20 |
+| Photon | Full Stack Developer - Advanced \| Columbus, US \| JPMC | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=865f8a104cb006d1) | 2026-08-21 17:20 |
+| Vulcan Materials Company | IT Analyst Senior | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ad738591847ea39e) | 2026-08-21 17:20 |
+| IDEXX Laboratories | Data Engineer | Westbrook, ME, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8db0ab6465cbf1ff) | 2026-08-21 17:20 |
+| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=271b64578e43ebdc) | 2026-08-21 17:20 |
+| Amida Technology Solutions | Senior Quality Engineering (QE) Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29a7f8ff4391f120) | 2026-08-21 17:20 |
+| Ford Motor Company | Software Engineer - Vehicle Connectivity & mobility (VC&M) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc) | 2026-08-21 17:20 |
+| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb) | 2026-08-21 17:20 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45eef8c152b64a60) | 2026-08-21 17:20 |
+| Ford Motor Company | Senior Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2ef31c83a604594) | 2026-08-21 17:20 |
+| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cb7a428029c6a47) | 2026-08-21 17:20 |
 | Flowserve | Data Engineer Denodo | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b87d344718e073fe) | 2026-08-21 16:21 |
-| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=271b64578e43ebdc) | 2026-08-21 16:21 |
-| Ford Motor Company | Software Engineer - Vehicle Connectivity & mobility (VC&M) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc) | 2026-08-21 16:21 |
-| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb) | 2026-08-21 16:21 |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45eef8c152b64a60) | 2026-08-21 16:21 |
 | Inclusion Cloud | .NET Backend Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c9d1b0d1d29e0d2) | 2026-08-21 16:21 |
-| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cb7a428029c6a47) | 2026-08-21 16:21 |
-| Ford Motor Company | Senior Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2ef31c83a604594) | 2026-08-21 16:21 |
 | Bow Wave LLC | Data Engineer 3 - TS clearance required - Wash DC area | Arlington, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=61e2b94a977d2119) | 2026-08-21 15:24 |
 | Bow Wave LLC | Data Engineer 2 - TS required - Washington DC area | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=de40e05b432ea8b8) | 2026-08-21 15:24 |
 | Disney Experiences | Sr Machine Learning Engineer | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=766cfaa008af94ec) | 2026-08-21 14:25 |
@@ -584,9 +591,6 @@ Last updated: 2026-08-21 16:21
 | NTT DATA | Senior React Developer with Java API & Spring Boot Experience | San Leandro, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=07cce364fcbc19ed) | 2026-08-17 18:24 |
 | 540 | Associate Solutions Architect | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b1192db5e6cd9fd1) | 2026-08-17 18:24 |
 | Princess | Technical Product Owner, Data and Payment Technology | Fort Lauderdale, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27b94e7f6f2a8337) | 2026-08-17 18:24 |
-| Associated Materials | Data Engineer | Cuyahoga Falls, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=df0fa58d13ff3c9a) | 2026-08-17 17:18 |
-| Bio-Tech Lab Services, LLC | Azure IoT Solutions Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9cfe7343b152cfe6) | 2026-08-17 17:18 |
-| signitives IT Solutions | Azure Databricks/Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4541db046ada0e3f) | 2026-08-17 17:18 |
 
 
 ---
