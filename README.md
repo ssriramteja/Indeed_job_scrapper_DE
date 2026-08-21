@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-21 07:35
+Last updated: 2026-08-21 08:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45eef8c152b64a60) | 2026-08-21 07:35 |
+| New York Life | Senior Associate - Cloud Platform Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ce955d83d523351c) | 2026-08-21 08:28 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45eef8c152b64a60) | 2026-08-21 08:28 |
 | Chewy | UC Engineer II | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e3f73c46ab8bbd18) | 2026-08-21 06:30 |
 | Quandary Consulting Group | Senior Solutions Consultant | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a82b38274b566db9) | 2026-08-21 06:30 |
 | Five Guys | Data Engineer | Alexandria, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=da2726835c895c54) | 2026-08-21 05:24 |
