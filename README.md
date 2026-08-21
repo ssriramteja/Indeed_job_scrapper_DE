@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-21 04:29
+Last updated: 2026-08-21 05:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Five Guys | Data Engineer | Alexandria, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=da2726835c895c54) | 2026-08-21 05:24 |
+| CSIK Consulting | Cloud Network and Security Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=35ffec3454941064) | 2026-08-21 05:24 |
 | Charles Schwab | Senior Full Stack Java Developer | Southlake, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9514cb3d03b95a2e) | 2026-08-21 04:29 |
 | Hitachi Energy | Sr Databricks Engineer | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=37f9cb4e7f9e0916) | 2026-08-21 03:42 |
 | Vagaro | Data Engineer | Pleasanton, CA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=44fc81c2d0a70c40) | 2026-08-21 03:42 |
