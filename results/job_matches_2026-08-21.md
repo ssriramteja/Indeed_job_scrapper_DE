@@ -346,18 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Senior Software Engineer @ General Motors (GM)
-**Match Score:** 13.2%
-
-📍 **Location:** Warren, MI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Event Hubs, Scala, Kafka, NoSQL, Data Modeling, CI/CD, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f14a4b8559fd52ba)
-
----
-
-## 33. Data Engineer @ CURE Auto Insurance
+## 32. Data Engineer @ CURE Auto Insurance
 **Match Score:** 13.2%
 
 📍 **Location:** Princeton, NJ, US USA
@@ -368,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Senior AI/ML Full Stack Engineer @ Hollstadt Consulting
+## 33. Senior AI/ML Full Stack Engineer @ Hollstadt Consulting
 **Match Score:** 13.2%
 
 📍 **Location:** MN, US USA
@@ -376,6 +365,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, GCP, BigQuery, Vertex AI, Scala, Snowflake, MLOps, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=eb01dfa6121864df)
+
+---
+
+## 34. Senior Software Engineer @ General Motors (GM)
+**Match Score:** 13.2%
+
+📍 **Location:** Warren, MI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Event Hubs, Scala, Kafka, NoSQL, Data Modeling, CI/CD, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f14a4b8559fd52ba)
 
 ---
 
@@ -445,18 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Software Development Engineer II - C# and Azure Cloud @ GM Financial
-**Match Score:** 12.5%
-
-📍 **Location:** Arlington, TX, US USA
-
-🔑 **Keywords:** Azure, Scala, Oracle, SQL Server, NoSQL, Jenkins, Azure DevOps, Maven, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=819e3084b1b0c608)
-
----
-
-## 42. Senior Full Stack .NET Developer @ Team Velocity Marketing
+## 41. Senior Full Stack .NET Developer @ Team Velocity Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -467,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Senior Full Stack .NET Developer @ Team Velocity Marketing
+## 42. Senior Full Stack .NET Developer @ Team Velocity Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Houston, TX, US USA
@@ -478,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Senior Full Stack .NET Developer @ Team Velocity Marketing
+## 43. Senior Full Stack .NET Developer @ Team Velocity Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Herndon, VA, US USA
@@ -489,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Senior Full Stack .NET Developer @ Team Velocity Marketing
+## 44. Senior Full Stack .NET Developer @ Team Velocity Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Nashville, TN, US USA
@@ -500,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Senior Full Stack .NET Developer @ Team Velocity Marketing
+## 45. Senior Full Stack .NET Developer @ Team Velocity Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -511,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Senior Full Stack .NET Developer @ Team Velocity Marketing
+## 46. Senior Full Stack .NET Developer @ Team Velocity Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Austin, TX, US USA
@@ -522,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Senior Full Stack .NET Developer @ Team Velocity Marketing
+## 47. Senior Full Stack .NET Developer @ Team Velocity Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Detroit, MI, US USA
@@ -533,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Senior Full Stack .NET Developer @ Team Velocity Marketing
+## 48. Senior Full Stack .NET Developer @ Team Velocity Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -544,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Senior Full Stack .NET Developer @ Team Velocity Marketing
+## 49. Senior Full Stack .NET Developer @ Team Velocity Marketing
 **Match Score:** 12.5%
 
 📍 **Location:** Tampa, FL, US USA
@@ -555,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Software Engineer II - Backend @ CoStar Group
+## 50. Software Engineer II - Backend @ CoStar Group
 **Match Score:** 12.5%
 
 📍 **Location:** Richmond, VA, US USA
@@ -563,6 +552,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, SQS, Azure, Databricks, GCP, Scala, Kafka, ETL, CI/CD, Docker
 
 [Apply Here](https://www.indeed.com/viewjob?jk=5500d6b30d337bf5)
+
+---
+
+## 51. Software Development Engineer II - C# and Azure Cloud @ GM Financial
+**Match Score:** 12.5%
+
+📍 **Location:** Arlington, TX, US USA
+
+🔑 **Keywords:** Azure, Scala, Oracle, SQL Server, NoSQL, Jenkins, Azure DevOps, Maven, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=819e3084b1b0c608)
 
 ---
 
@@ -786,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Software Engineer III @ C.H. Robinson
+## 72. Software Engineer III @ Recruitics_CH Robinson_Sponsored Jobs_East_Maverick
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -797,51 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Full Stack Developer - Java/ React @ Capgemini
-**Match Score:** 11.1%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Oracle, MongoDB, NoSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f5a41ffcb11e1749)
-
----
-
-## 74. Full Stack Developer - Java/ React @ Capgemini
-**Match Score:** 11.1%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Oracle, MongoDB, NoSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=60aa25871e93c329)
-
----
-
-## 75. Full Stack Developer - Java/ React @ Capgemini
-**Match Score:** 11.1%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Oracle, MongoDB, NoSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c43bab62e6ea0712)
-
----
-
-## 76. Full Stack Developer - Java/ React @ Capgemini
-**Match Score:** 11.1%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Oracle, MongoDB, NoSQL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c2fa28942f5a9923)
-
----
-
-## 77. Snowflake Data Engineer + Junior Architect @ Capgemini
+## 73. Snowflake Data Engineer + Junior Architect @ Capgemini
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -852,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Analytics Engineer @ US Mobile
+## 74. Analytics Engineer @ US Mobile
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -863,7 +819,62 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Senior Platform Engineer @ nan
+## 75. Full Stack Developer - Java/ React @ Capgemini
+**Match Score:** 11.1%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Oracle, MongoDB, NoSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f5a41ffcb11e1749)
+
+---
+
+## 76. Full Stack Developer - Java/ React @ Capgemini
+**Match Score:** 11.1%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Oracle, MongoDB, NoSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=60aa25871e93c329)
+
+---
+
+## 77. Full Stack Developer - Java/ React @ Capgemini
+**Match Score:** 11.1%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Oracle, MongoDB, NoSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c43bab62e6ea0712)
+
+---
+
+## 78. Full Stack Developer - Java/ React @ Capgemini
+**Match Score:** 11.1%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Kafka, Oracle, MongoDB, NoSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c2fa28942f5a9923)
+
+---
+
+## 79. Sr Data Engineer - API / Microservices @ McLane Company
+**Match Score:** 10.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, BigQuery, Scala, Oracle, PostgreSQL, ETL, ELT, CI/CD, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=45eef8c152b64a60)
+
+---
+
+## 80. Senior Platform Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Apex, NC, US USA
@@ -874,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Senior Data Engineer - GCP @ Capgemini
+## 81. Senior Data Engineer - GCP @ Capgemini
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -885,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Senior Data Engineer - GCP @ Capgemini
+## 82. Senior Data Engineer - GCP @ Capgemini
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -896,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Sr Cloud Infrastructure Engineer @ Happen Bank
+## 83. Sr Cloud Infrastructure Engineer @ Happen Bank
 **Match Score:** 10.4%
 
 📍 **Location:** Lehi, UT, US USA
@@ -907,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Sr Cloud Infrastructure Engineer @ Happen Bank
+## 84. Sr Cloud Infrastructure Engineer @ Happen Bank
 **Match Score:** 10.4%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -915,17 +926,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, IAM, RDS, Scala, Splunk, CI/CD, Jenkins, GitHub Actions, Terraform, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=d0101421529dd218)
-
----
-
-## 84. Cloud Engineer @ Cisco
-**Match Score:** 10.4%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** AWS, Kafka, PostgreSQL, Cassandra, CI/CD, Jenkins, GitHub Actions, Terraform, Kubernetes, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=06c149b0229a30a1)
 
 ---
 
@@ -984,7 +984,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Senior AI Platform Security Engineer - Contract to Hire @ FRONT
+## 90. Senior Solutions Consultant @ Quandary Consulting Group
+**Match Score:** 10.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Lambda, API Gateway, ECS, RDS, Azure, Scala, Data Modeling, Power BI, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a82b38274b566db9)
+
+---
+
+## 91. Senior AI Platform Security Engineer - Contract to Hire @ FRONT
 **Match Score:** 10.4%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -995,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Senior AI Platform Security Engineer - Contract to Hire @ Frontapp
+## 92. Senior AI Platform Security Engineer - Contract to Hire @ Frontapp
 **Match Score:** 10.4%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -1003,17 +1014,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, IAM, RDS, Scala, Snowflake, dbt, Splunk, CI/CD, Terraform, Airflow
 
 [Apply Here](https://www.indeed.com/viewjob?jk=ae0f3e6a0329e2b7)
-
----
-
-## 92. Senior Solutions Consultant @ Quandary Consulting Group
-**Match Score:** 10.4%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Lambda, API Gateway, ECS, RDS, Azure, Scala, Data Modeling, Power BI, Tableau
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a82b38274b566db9)
 
 ---
 
