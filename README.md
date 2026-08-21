@@ -1,11 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-21 00:44
+Last updated: 2026-08-21 02:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Hitachi Rail | Sr Databricks Engineer | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=a4e82684b0040295) | 2026-08-21 02:18 |
+| X-Energy | Engineer IV, AI & Digital Engineering | Rockville, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b3046d8552c476c9) | 2026-08-21 02:18 |
+| BV Teck | Data Platform Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=947d39ba4a5a320f) | 2026-08-21 02:18 |
+| Federal Home Loan Banks Office of Finance | Data Engineer | Reston, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=62f5e922ac42e38d) | 2026-08-21 02:18 |
+| Da Vinci Software | Senior AI/ML Full Stack Engineer | Rochester, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5909a21a93a5cfb9) | 2026-08-21 02:18 |
+| GM Financial | Software Development Engineer II - C# and Azure Cloud | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=819e3084b1b0c608) | 2026-08-21 02:18 |
+| nan | Senior Platform Engineer | Apex, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33f4a26c4099d210) | 2026-08-21 02:18 |
+| Capgemini | Senior Data Engineer - GCP | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2c305ad2167ff6fd) | 2026-08-21 02:18 |
+| The Clearing House Payments Company | Senior Software Developer Engineer in Testing | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d369a229cb2f75b9) | 2026-08-21 02:18 |
 | Devengine | Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=9e77377ecd96f1b9) | 2026-08-21 00:44 |
 | Humana | Senior Data Engineer - NBA | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a6252cdef37affd1) | 2026-08-21 00:44 |
 | EXL Service | Data Engineer | Hartford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d8706228d4894a66) | 2026-08-21 00:44 |
@@ -21,7 +30,6 @@ Last updated: 2026-08-21 00:44
 | Newmark | Senior Software Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cecea5a726201bd5) | 2026-08-21 00:44 |
 | Capgemini | Senior Data Engineer - GCP | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a91f4d38456c03dc) | 2026-08-21 00:44 |
 | The Cigna Group | Application Development Senior Advisor- Hybrid | Bloomfield, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1d47b6a52f18e37f) | 2026-08-21 00:44 |
-| The Clearing House Payments Company | Senior Software Developer Engineer in Testing | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d369a229cb2f75b9) | 2026-08-21 00:44 |
 | Five Guys | Data Platform Engineer (Azure) | Alexandria, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0402f8984e68c388) | 2026-08-20 23:17 |
 | Cognizant | Data Engineer | Blaine, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=08961c31c3764f09) | 2026-08-20 23:17 |
 | Cognizant | Data Engineer | Mesa, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aa0a4f0fdf890593) | 2026-08-20 23:17 |
