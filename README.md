@@ -1,18 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-21 13:38
+Last updated: 2026-08-21 14:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8209ae3042e1b9a9) | 2026-08-21 13:38 |
-| Photon | Full Stack Developer - Advanced \| Columbus, US \| JPMC | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=865f8a104cb006d1) | 2026-08-21 13:38 |
-| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=271b64578e43ebdc) | 2026-08-21 13:38 |
-| Ford Motor Company | Software Engineer - Vehicle Connectivity & mobility (VC&M) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc) | 2026-08-21 13:38 |
-| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb) | 2026-08-21 13:38 |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45eef8c152b64a60) | 2026-08-21 13:38 |
-| Ford Motor Company | Senior Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2ef31c83a604594) | 2026-08-21 13:38 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8209ae3042e1b9a9) | 2026-08-21 14:25 |
+| Disney Experiences | Sr Machine Learning Engineer | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=766cfaa008af94ec) | 2026-08-21 14:25 |
+| Photon | Full Stack Developer - Advanced \| Columbus, US \| JPMC | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=865f8a104cb006d1) | 2026-08-21 14:25 |
+| nan | Senior Software Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae435ef03aa1b3c0) | 2026-08-21 14:25 |
+| Provectus | FDE AI/ Solutions Architect (AI, Python/Data) | MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b2c055ce9797102c) | 2026-08-21 14:25 |
+| Provectus | FDE AI/ Solutions Architect (AI, Python/Data) | ME, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c4ffa2bfcb22c9c8) | 2026-08-21 14:25 |
+| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=271b64578e43ebdc) | 2026-08-21 14:25 |
+| Provectus | Senior AI/ML Engineer (GenAI, AWS) | MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1075d7cc0d3e8b57) | 2026-08-21 14:25 |
+| Provectus | Senior AI/ML Engineer (GenAI, AWS) | ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9bb69f45b1c58c41) | 2026-08-21 14:25 |
+| Ford Motor Company | Software Engineer - Vehicle Connectivity & mobility (VC&M) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc) | 2026-08-21 14:25 |
+| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb) | 2026-08-21 14:25 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45eef8c152b64a60) | 2026-08-21 14:25 |
+| Ford Motor Company | Senior Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2ef31c83a604594) | 2026-08-21 14:25 |
 | Commence | AI/ML Engineer | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=125902545a13a43c) | 2026-08-21 10:20 |
 | SelectQuote | Data Engineer III | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=23f04a50e41c3404) | 2026-08-21 10:20 |
 | Vervint | Cloud Engineer; Platform Analytics (Contract) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7c0847cb6bf1b0e8) | 2026-08-21 09:26 |
@@ -579,8 +585,6 @@ Last updated: 2026-08-21 13:38
 | AbbVie | Associate Scientific Technical Engineer II, PDS&T CMC | Waltham, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=dd4fa506997c9d91) | 2026-08-17 15:16 |
 | AbbVie | Associate Scientific Technical Engineer II, PDS&T CMC | Worcester, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e97a7a884716018a) | 2026-08-17 15:16 |
 | Optum | Senior.Net Full-Stack Engineer | Richardson, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24927959bc1c9207) | 2026-08-17 15:16 |
-| inVeritaSoft | Backend / Platform Developer Consultant (Temporal & Kubernetes) | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4cb9f3f7a196c2e0) | 2026-08-17 14:18 |
-| Billtrust | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=01c9c35a4ddbdfbb) | 2026-08-17 14:18 |
 
 
 ---
