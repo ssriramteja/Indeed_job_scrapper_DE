@@ -1,31 +1,35 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-21 21:14
+Last updated: 2026-08-21 22:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-21 21:14 |
-| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-21 21:14 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8209ae3042e1b9a9) | 2026-08-21 21:14 |
-| Photon | Full Stack Developer - Advanced \| Columbus, US | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=865f8a104cb006d1) | 2026-08-21 21:14 |
+| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-21 22:14 |
+| Boston Scientific | AI Platform System Administrator III | Arden Hills, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=62388f603bbe60a4) | 2026-08-21 22:14 |
+| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-21 22:14 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8209ae3042e1b9a9) | 2026-08-21 22:14 |
+| Photon | Full Stack Developer - Advanced \| Columbus, US | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=865f8a104cb006d1) | 2026-08-21 22:14 |
+| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=271b64578e43ebdc) | 2026-08-21 22:14 |
+| Mercari | Software Engineer, Data | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=179685542a7cf944) | 2026-08-21 22:14 |
+| Golden State | Data Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d156f80ddb5ea3e) | 2026-08-21 22:14 |
+| Ford Motor Company | Software Engineer - Vehicle Connectivity & mobility (VC&M) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc) | 2026-08-21 22:14 |
+| BlackRock | Associate, Data Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06fd6810514e5491) | 2026-08-21 22:14 |
+| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb) | 2026-08-21 22:14 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45eef8c152b64a60) | 2026-08-21 22:14 |
+| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cb7a428029c6a47) | 2026-08-21 22:14 |
 | 7-Eleven | Machine Learning Engineer II | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ef1c00bbfcfa5af) | 2026-08-21 21:14 |
 | Caterpillar | Senior Data Scientist | Mossville, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ab38c6d425e57a4d) | 2026-08-21 21:14 |
 | nan | Economic Data System Engineer/Sr. Economic Data System Engineer-ITDDPED | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3a32b2285f6e0f19) | 2026-08-21 21:14 |
 | State Street | QA Automation Engineer II, Officer | Burlington, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d73747fd9aafef8) | 2026-08-21 21:14 |
-| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=271b64578e43ebdc) | 2026-08-21 21:14 |
 | Pilot Flying J | Sr Engineer, Data Engineering | Roswell, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0a70d5a50e3bc2a5) | 2026-08-21 21:14 |
 | American Tower | Senior Data Engineer | Woburn, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=340f3540cd359821) | 2026-08-21 21:14 |
 | Everforth ECS | Senior Data Engineer – Advanced Data Integration & Cloud Solutions | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca1d4ee2bfb7f383) | 2026-08-21 21:14 |
 | Capgemini | AI Engineer/DevOps Engineer | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a4e19bdfcdfa54e3) | 2026-08-21 21:14 |
 | Lincoln Electric | Senior Analyst, Data Engineer | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8382e0121c068a19) | 2026-08-21 21:14 |
 | Slavic401K | Enterprise Data Architect - WORK FROM HOME - SELECT US STATES ONLY | Boca Raton, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df39dd0505c33d32) | 2026-08-21 21:14 |
-| Ford Motor Company | Software Engineer - Vehicle Connectivity & mobility (VC&M) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc) | 2026-08-21 21:14 |
 | University of Wisconsin–Madison | Data Scientist II | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=00eec4e6432a7078) | 2026-08-21 21:14 |
-| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb) | 2026-08-21 21:14 |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45eef8c152b64a60) | 2026-08-21 21:14 |
-| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cb7a428029c6a47) | 2026-08-21 21:14 |
 | Infotech Solutions | microsoft power platform developer architect | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2175da23d4e89e3b) | 2026-08-21 20:15 |
 | The Iowa Clinic | Data Engineer-Healthcare Analytics (Full-Time) | West Des Moines, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=977d8141140e0e6c) | 2026-08-21 20:15 |
 | REPLY | Data Engineer | Philadelphia, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5cc84ba97f996450) | 2026-08-21 20:15 |
@@ -579,18 +583,6 @@ Last updated: 2026-08-21 21:14
 | NTT DATA | Data Architect | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02e08592b97e0e85) | 2026-08-17 23:13 |
 | Central One Federal Credit Union | Data Engineer | Shrewsbury, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2690489cc69e3db5) | 2026-08-17 23:13 |
 | NetSPI | Senior Software Engineer | Minneapolis, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6aa161d158387111) | 2026-08-17 23:13 |
-| CareFirst BlueCross BlueShield | Senior Software Engineer - Java, Microservices, MuleSoft & API Development (Remote) | Baltimore, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6d5b52a299e98559) | 2026-08-17 22:14 |
-| Databricks | Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences) | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=176a7564b0c762a0) | 2026-08-17 22:14 |
-| Databricks | Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=777f4483805c8d79) | 2026-08-17 22:14 |
-| Databricks | Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences) | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d9bb3ce748cacccb) | 2026-08-17 22:14 |
-| Bitscopic | Site Reliability Engineer - SRE | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d285da9f2e0f5ed6) | 2026-08-17 22:14 |
-| Procter & Gamble | Data Engineer - North America Fabric Care | Cincinnati, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bda137520545caf7) | 2026-08-17 22:14 |
-| RELI Group Inc | Database Administrator | Baltimore, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=84a78da056d3cd48) | 2026-08-17 21:17 |
-| nan | Sr. Analyst, Data & Analytics Engineering | Coraopolis, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c73b6b96302b8ac) | 2026-08-17 21:17 |
-| General Motors (GM) | Sr. Business Analyst – Data Analytics, Visualization & AI Solutions | Warren, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8e58ddd60612b0a2) | 2026-08-17 21:17 |
-| Citrin Cooperman Advisors LLC | Data Operations Scientist, Development | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f4dae5875a25bfbc) | 2026-08-17 21:17 |
-| American Bureau of Shipping (ABS) | Data Engineer | Knoxville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c49b3214cf3972d) | 2026-08-17 21:17 |
-| Key2Source INC | Ab Initio Developer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2853c2a6cd9e278) | 2026-08-17 21:17 |
 
 
 ---
