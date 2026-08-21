@@ -1,11 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-21 02:18
+Last updated: 2026-08-21 03:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Hitachi Energy | Sr Databricks Engineer | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=37f9cb4e7f9e0916) | 2026-08-21 03:42 |
+| Vagaro | Data Engineer | Pleasanton, CA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=44fc81c2d0a70c40) | 2026-08-21 03:42 |
+| Bristol Myers Squibb | Sr. Specialist, AI CRM Engineering | Princeton, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d2323a1df671308a) | 2026-08-21 03:42 |
+| Yusen Logistics | Senior Software Engineer | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9c80455e75f43f1e) | 2026-08-21 03:42 |
+| Platte River Power Authority | Senior Data and Integration Developer | Fort Collins, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4bef94e108ffe967) | 2026-08-21 03:42 |
+| Puig | Analytics Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b295c5eb1d7771ed) | 2026-08-21 03:42 |
+| LTi Technology Solutions | Senior Platform Engineer | Omaha, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aeaa3af91b36b2cd) | 2026-08-21 03:42 |
+| Deloitte | Data Engineer II | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24cf52c60da7e9ac) | 2026-08-21 03:42 |
+| Deloitte | Data Engineer II | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e67652360d9f4e9) | 2026-08-21 03:42 |
+| Deloitte | Data Engineer II | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=630a35e9cb636a94) | 2026-08-21 03:42 |
+| Deloitte | Data Engineer II | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7177817f699c500d) | 2026-08-21 03:42 |
+| Deloitte | Data Engineer II | Rosslyn, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96181d258407853f) | 2026-08-21 03:42 |
+| Salesforce | Senior Software Engineer | Burlington, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6db805cce62a3db2) | 2026-08-21 03:42 |
+| General Motors (GM) | Senior Software Engineer – CI/CD & Cloud Infrastructure | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24a6d7aaf0bcba34) | 2026-08-21 03:42 |
+| General Motors (GM) | Senior Software Engineer - CI/CD and Software Development Tools | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c07d3c81a46d8e9a) | 2026-08-21 03:42 |
 | Hitachi Rail | Sr Databricks Engineer | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=a4e82684b0040295) | 2026-08-21 02:18 |
 | X-Energy | Engineer IV, AI & Digital Engineering | Rockville, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b3046d8552c476c9) | 2026-08-21 02:18 |
 | BV Teck | Data Platform Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=947d39ba4a5a320f) | 2026-08-21 02:18 |
@@ -14,7 +29,6 @@ Last updated: 2026-08-21 02:18
 | GM Financial | Software Development Engineer II - C# and Azure Cloud | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=819e3084b1b0c608) | 2026-08-21 02:18 |
 | nan | Senior Platform Engineer | Apex, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33f4a26c4099d210) | 2026-08-21 02:18 |
 | Capgemini | Senior Data Engineer - GCP | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2c305ad2167ff6fd) | 2026-08-21 02:18 |
-| The Clearing House Payments Company | Senior Software Developer Engineer in Testing | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d369a229cb2f75b9) | 2026-08-21 02:18 |
 | Devengine | Data Engineer | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=9e77377ecd96f1b9) | 2026-08-21 00:44 |
 | Humana | Senior Data Engineer - NBA | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a6252cdef37affd1) | 2026-08-21 00:44 |
 | EXL Service | Data Engineer | Hartford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d8706228d4894a66) | 2026-08-21 00:44 |
