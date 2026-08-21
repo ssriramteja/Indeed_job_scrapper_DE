@@ -1,18 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-21 09:26
+Last updated: 2026-08-21 10:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8209ae3042e1b9a9) | 2026-08-21 09:26 |
+| Commence | AI/ML Engineer | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=125902545a13a43c) | 2026-08-21 10:20 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8209ae3042e1b9a9) | 2026-08-21 10:20 |
+| SelectQuote | Data Engineer III | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=23f04a50e41c3404) | 2026-08-21 10:20 |
+| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=271b64578e43ebdc) | 2026-08-21 10:20 |
+| Ford Motor Company | Software Engineer - Vehicle Connectivity & mobility (VC&M) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc) | 2026-08-21 10:20 |
+| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb) | 2026-08-21 10:20 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45eef8c152b64a60) | 2026-08-21 10:20 |
+| Ford Motor Company | Senior Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2ef31c83a604594) | 2026-08-21 10:20 |
 | Vervint | Cloud Engineer; Platform Analytics (Contract) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7c0847cb6bf1b0e8) | 2026-08-21 09:26 |
-| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=271b64578e43ebdc) | 2026-08-21 09:26 |
-| Ford Motor Company | Software Engineer - Vehicle Connectivity & mobility (VC&M) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc) | 2026-08-21 09:26 |
-| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb) | 2026-08-21 09:26 |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45eef8c152b64a60) | 2026-08-21 09:26 |
-| Ford Motor Company | Senior Software Engineer | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2ef31c83a604594) | 2026-08-21 09:26 |
 | New York Life | Senior Associate - Cloud Platform Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ce955d83d523351c) | 2026-08-21 08:28 |
 | Chewy | UC Engineer II | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e3f73c46ab8bbd18) | 2026-08-21 06:30 |
 | Quandary Consulting Group | Senior Solutions Consultant | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a82b38274b566db9) | 2026-08-21 06:30 |
