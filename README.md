@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-21 03:42
+Last updated: 2026-08-21 04:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charles Schwab | Senior Full Stack Java Developer | Southlake, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9514cb3d03b95a2e) | 2026-08-21 04:29 |
 | Hitachi Energy | Sr Databricks Engineer | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=37f9cb4e7f9e0916) | 2026-08-21 03:42 |
 | Vagaro | Data Engineer | Pleasanton, CA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=44fc81c2d0a70c40) | 2026-08-21 03:42 |
 | Bristol Myers Squibb | Sr. Specialist, AI CRM Engineering | Princeton, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d2323a1df671308a) | 2026-08-21 03:42 |
