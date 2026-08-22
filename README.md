@@ -1,14 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-22 08:18
+Last updated: 2026-08-22 09:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-22 08:18 |
-| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-22 08:18 |
-| Photon | Full Stack Developer - Advanced \| Columbus, US | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=865f8a104cb006d1) | 2026-08-22 08:18 |
+| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-22 09:18 |
+| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-22 09:18 |
 | Ataccama | Senior Professional Services Consultant | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0f49a3f3dbcbca27) | 2026-08-22 08:18 |
 | Bounteous | CDP Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f5b99e7a77983415) | 2026-08-22 08:18 |
 | JPMorganChase | Data Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33b30501746ad4bf) | 2026-08-22 07:24 |
@@ -638,8 +637,6 @@ Last updated: 2026-08-22 08:18
 | Data Solutions LLC | Senior SAP Sales and Service Cloud Consultant | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e9a9f7e834d9af9) | 2026-08-18 10:19 |
 | Tripoint Solutions | Cloud Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7efa743be477c307) | 2026-08-18 10:19 |
 | Target | Sr Engineer - MLOps Platform | Brooklyn Park, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83adac9442c00b06) | 2026-08-18 09:23 |
-| Comcast | Platform Data Engineer - (DataBricks, PySpark, AWS) | West Chester, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=25ea972f667d3d3f) | 2026-08-18 08:24 |
-| Comcast | Data Engineer | West Chester, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d8f7134bc1281d0) | 2026-08-18 08:24 |
 
 
 ---
