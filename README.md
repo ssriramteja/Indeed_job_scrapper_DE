@@ -1,23 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-22 00:41
+Last updated: 2026-08-22 02:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-22 00:41 |
-| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-22 00:41 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8209ae3042e1b9a9) | 2026-08-22 00:41 |
-| Photon | Full Stack Developer - Advanced \| Columbus, US | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=865f8a104cb006d1) | 2026-08-22 00:41 |
+| BV Teck | Senior Data Engineer | Remote, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=b2bc68670e06fc48) | 2026-08-22 02:10 |
+| BV Teck | Senior Data Scientist | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=e9ede359be55ea6d) | 2026-08-22 02:10 |
+| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-22 02:10 |
+| Entarian | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=97cacdd77a88ee4d) | 2026-08-22 02:10 |
+| Entarian | Senior Software Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8d62e6c9bd298592) | 2026-08-22 02:10 |
+| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-22 02:10 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8209ae3042e1b9a9) | 2026-08-22 02:10 |
+| Photon | Full Stack Developer - Advanced \| Columbus, US | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=865f8a104cb006d1) | 2026-08-22 02:10 |
+| Databricks | Specialist Solutions Architect - Cloud Infrastructure & Platform (AWS) | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7064a0875d5078f8) | 2026-08-22 02:10 |
+| BV Teck | Senior Devops Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=143f81631e970888) | 2026-08-22 02:10 |
+| Ascend Technologies | Azure IoT Solutions Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=48463a0b2c1a516b) | 2026-08-22 02:10 |
+| Infosys | Senior Functional and Automation Tester | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2aba83c87b4d58c3) | 2026-08-22 02:10 |
+| Ford Motor Company | Software Engineer - Vehicle Connectivity & mobility (VC&M) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc) | 2026-08-22 02:10 |
+| Capgemini | Databricks Developer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab1192abfbd7f24e) | 2026-08-22 02:10 |
+| Databricks | Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=defb19c3b807f7fd) | 2026-08-22 02:10 |
+| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb) | 2026-08-22 02:10 |
+| CFS Brands, LLC | Data Engineer - Oklahoma City, OK | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=113fe7e3580ec298) | 2026-08-22 02:10 |
+| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45eef8c152b64a60) | 2026-08-22 02:10 |
+| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cb7a428029c6a47) | 2026-08-22 02:10 |
 | Realign | GCP Cloud Engineer | Sunnyvale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b7cc426dbd03f0e) | 2026-08-22 00:41 |
-| Ford Motor Company | Senior Hybrid Cloud Architect - (Data Center) | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=271b64578e43ebdc) | 2026-08-22 00:41 |
 | Marathon Petroleum | Data Operations Engineer | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=28293fa77ffc32bb) | 2026-08-22 00:41 |
-| Ford Motor Company | Software Engineer - Vehicle Connectivity & mobility (VC&M) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc) | 2026-08-22 00:41 |
-| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb) | 2026-08-22 00:41 |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45eef8c152b64a60) | 2026-08-22 00:41 |
 | Realign | Apache Spark Core Java | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16d16eda2d514586) | 2026-08-22 00:41 |
-| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cb7a428029c6a47) | 2026-08-22 00:41 |
 | Bilzin Sumberg Baena Price & Axelrod LLP | Data Engineer Microsoft Fabric | Miami, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=371409082795e582) | 2026-08-21 23:14 |
 | LegitScript | Senior Data Science Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0ac58242095324ac) | 2026-08-21 23:14 |
 | Credit Acceptance | Software Engineer II, Data | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39dcfd9f2966d672) | 2026-08-21 23:14 |
@@ -567,8 +577,6 @@ Last updated: 2026-08-22 00:41
 | Marcus & Millichap | Oracle Cloud Fusion Technical Data Architect and Reporting Analyst (Contract) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9036892ad365fcc3) | 2026-08-18 03:36 |
 | Western Governors University | IAR Senior Data Analyst | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=014c35a8d1bc95ce) | 2026-08-18 03:36 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ed393ac81f7cc7f) | 2026-08-18 03:36 |
-| Dairy Farmers of America, Inc. | Sr. Data Engineer - AI | Kansas City, KS, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=564a930b352284d3) | 2026-08-18 02:10 |
-| Kanan solutions | Senior Data Modeler - Mongo DB | McLean, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b821d85e7c3f3fda) | 2026-08-18 02:10 |
 
 
 ---
