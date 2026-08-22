@@ -1,20 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-22 04:23
+Last updated: 2026-08-22 05:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-22 05:18 |
+| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-22 05:18 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8209ae3042e1b9a9) | 2026-08-22 05:18 |
+| Photon | Full Stack Developer - Advanced \| Columbus, US | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=865f8a104cb006d1) | 2026-08-22 05:18 |
+| Ford Motor Company | Software Engineer - Vehicle Connectivity & mobility (VC&M) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc) | 2026-08-22 05:18 |
+| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb) | 2026-08-22 05:18 |
+| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cb7a428029c6a47) | 2026-08-22 05:18 |
 | BlackRock | Associate | Princeton, NJ, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=48397f4e7a2d566c) | 2026-08-22 04:23 |
-| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-22 04:23 |
-| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-22 04:23 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8209ae3042e1b9a9) | 2026-08-22 04:23 |
-| Photon | Full Stack Developer - Advanced \| Columbus, US | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=865f8a104cb006d1) | 2026-08-22 04:23 |
-| Ford Motor Company | Software Engineer - Vehicle Connectivity & mobility (VC&M) | Dearborn, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc) | 2026-08-22 04:23 |
-| Ford Motor Company | Data Anchor | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb) | 2026-08-22 04:23 |
-| McLane Company | Sr Data Engineer - API / Microservices | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45eef8c152b64a60) | 2026-08-22 04:23 |
-| Ford Motor Company | Senior Software Engineer | Allen Park, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5cb7a428029c6a47) | 2026-08-22 04:23 |
 | Applied Medical | Senior Engineer, Enterprise Database | Rancho Santa Margarita, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=51a5d6b8454480a2) | 2026-08-22 03:34 |
 | Fitch Group | Software Engineer, Full Stack - AI (New York) | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=362603547d1c2a0d) | 2026-08-22 03:34 |
 | Powerplan | DevOps Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9effd2546d52cd38) | 2026-08-22 03:34 |
