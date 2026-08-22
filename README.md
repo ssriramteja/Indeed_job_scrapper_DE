@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-22 21:12
+Last updated: 2026-08-22 22:12
 
 ### 🚀 Daily Job Matches
 
@@ -484,10 +484,6 @@ Last updated: 2026-08-22 21:12
 | The Hartford | GIS Software Engineer - Esri | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=21ac825d5b64f66f) | 2026-08-18 22:13 |
 | Orange County's Credit Union | Cloud Systems Engineer III | Santa Ana, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fb076bf063bb2a72) | 2026-08-18 22:13 |
 | EPODIUM | Systems Administrator | Tacoma, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7bacca274417a8a0) | 2026-08-18 22:13 |
-| Merkle, Inc. | Data Engineer (Adobe Experience Platform) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f1893b5f6e215827) | 2026-08-18 21:14 |
-| Consumer Cellular | Senior Data Engineer | Scottsdale, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dcea2f33a4118f28) | 2026-08-18 21:14 |
-| NewYork-Presbyterian Hospital | Analytics Developer, Enterprise Analytics (Data Shared Services) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cf557823600dd122) | 2026-08-18 21:14 |
-| Goldman Sachs | Engineering-L2-Dallas-Analyst-Software Engineering | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d45183e5b3bce9f1) | 2026-08-18 21:14 |
 
 
 ---
