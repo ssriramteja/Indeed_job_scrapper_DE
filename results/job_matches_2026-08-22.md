@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-22
 
-**Total Jobs Found:** 155
+**Total Jobs Found:** 153
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -203,7 +203,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Sr Full stack Java Developer @ Hudson Manpower
+## 19. Software Engineer, Full Stack - AI (New York) @ Fitch Group
+**Match Score:** 15.3%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, S3, Azure, Blob Storage, Spark, PySpark, Kafka, Snowflake
+
+[Apply Here](https://www.indeed.com/viewjob?jk=362603547d1c2a0d)
+
+---
+
+## 20. Sr Full stack Java Developer @ Hudson Manpower
 **Match Score:** 15.3%
 
 📍 **Location:** Denver, CO, US USA
@@ -214,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Sr Full stack Java Developer @ Hudson Manpower
+## 21. Sr Full stack Java Developer @ Hudson Manpower
 **Match Score:** 15.3%
 
 📍 **Location:** Alpharetta, GA, US USA
@@ -225,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Sr Full stack Java Developer @ Hudson Manpower
+## 22. Sr Full stack Java Developer @ Hudson Manpower
 **Match Score:** 15.3%
 
 📍 **Location:** Allentown, PA, US USA
@@ -236,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Sr Full stack Java Developer @ Hudson Manpower
+## 23. Sr Full stack Java Developer @ Hudson Manpower
 **Match Score:** 15.3%
 
 📍 **Location:** Albany, NY, US USA
@@ -244,17 +255,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, S3, API Gateway, Azure, GCP, Vertex AI, Scala, Kafka, PostgreSQL, MySQL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=e7bb7609c20e949e)
-
----
-
-## 23. Software Engineer, Full Stack - AI (New York) @ Fitch Group
-**Match Score:** 15.3%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, S3, Azure, Blob Storage, Spark, PySpark, Kafka, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=362603547d1c2a0d)
 
 ---
 
@@ -390,18 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Full Stack Data Engineer @ Ford Motor Company
-**Match Score:** 13.2%
-
-📍 **Location:** Dearborn, MI, US USA
-
-🔑 **Keywords:** RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Cloud Storage, Spark, Scala, Data Modeling, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8209ae3042e1b9a9)
-
----
-
-## 37. Specialist Solutions Architect - Cloud Infrastructure & Platform (AWS) @ Databricks
+## 36. Specialist Solutions Architect - Cloud Infrastructure & Platform (AWS) @ Databricks
 **Match Score:** 13.2%
 
 📍 **Location:** US USA
@@ -412,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Full Stack Developer - Advanced | Columbus, US @ Photon
+## 37. Full Stack Developer - Advanced | Columbus, US @ Photon
 **Match Score:** 13.2%
 
 📍 **Location:** Columbus, OH, US USA
@@ -423,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Sr Machine Learning Engineer @ Disney Experiences
+## 38. Sr Machine Learning Engineer @ Disney Experiences
 **Match Score:** 13.2%
 
 📍 **Location:** Orlando, FL, US USA
@@ -434,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Software Development Engineer I @ Expedia Group
+## 39. Software Development Engineer I @ Expedia Group
 **Match Score:** 12.5%
 
 📍 **Location:** Seattle, WA, US USA
@@ -445,7 +434,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Senior Devops Engineer @ BV Teck
+## 40. Senior Professional Services Consultant @ Ataccama
+**Match Score:** 12.5%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, Azure, Databricks, GCP, Hadoop, Hive, Spark, Scala, Kafka, Snowflake
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0f49a3f3dbcbca27)
+
+---
+
+## 41. CDP Architect @ Bounteous
+**Match Score:** 12.5%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, Redshift, RDS, Azure, GCP, BigQuery, Dataflow, Scala, Snowflake, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f5b99e7a77983415)
+
+---
+
+## 42. Senior Devops Engineer @ BV Teck
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -456,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Senior Full stack Java / AWS @ Cognizant
+## 43. Senior Full stack Java / AWS @ Cognizant
 **Match Score:** 12.5%
 
 📍 **Location:** Portsmouth, NH, US USA
@@ -467,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Data Engineer III @ SelectQuote
+## 44. Data Engineer III @ SelectQuote
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -478,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Azure IoT Solutions Engineer @ Ascend Technologies
+## 45. Azure IoT Solutions Engineer @ Ascend Technologies
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, US USA
@@ -489,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. GCP Cloud Engineer @ Realign
+## 46. GCP Cloud Engineer @ Realign
 **Match Score:** 11.8%
 
 📍 **Location:** Sunnyvale, CA, US USA
@@ -500,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Economic Data System Engineer/Sr. Economic Data System Engineer-ITDDPED @ nan
+## 47. Economic Data System Engineer/Sr. Economic Data System Engineer-ITDDPED @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Washington, DC, US USA
@@ -511,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Data Engineer Denodo @ Flowserve
+## 48. Data Engineer Denodo @ Flowserve
 **Match Score:** 11.8%
 
 📍 **Location:** Irving, TX, US USA
@@ -522,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Senior Software Engineer @ nan
+## 49. Senior Software Engineer @ nan
 **Match Score:** 11.8%
 
 📍 **Location:** Seattle, WA, US USA
@@ -533,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. QA Automation Engineer II, Officer @ State Street
+## 50. QA Automation Engineer II, Officer @ State Street
 **Match Score:** 11.8%
 
 📍 **Location:** Burlington, MA, US USA
@@ -544,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Software Engineer, Data @ Mercari
+## 51. Software Engineer, Data @ Mercari
 **Match Score:** 11.8%
 
 📍 **Location:** Palo Alto, CA, US USA
@@ -555,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Sr Engineer, Data Engineering @ Pilot Flying J
+## 52. Sr Engineer, Data Engineering @ Pilot Flying J
 **Match Score:** 11.1%
 
 📍 **Location:** Roswell, GA, US USA
@@ -566,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Platform Engineer @ Capgemini
+## 53. Platform Engineer @ Capgemini
 **Match Score:** 11.1%
 
 📍 **Location:** Mount Laurel, NJ, US USA
@@ -577,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Data Operations Engineer @ Marathon Petroleum
+## 54. Data Operations Engineer @ Marathon Petroleum
 **Match Score:** 11.1%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -588,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Data Engineer @ Golden State
+## 55. Data Engineer @ Golden State
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -599,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Senior Data Engineer @ American Tower
+## 56. Senior Data Engineer @ American Tower
 **Match Score:** 11.1%
 
 📍 **Location:** Woburn, MA, US USA
@@ -610,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Senior Data Engineer – Advanced Data Integration & Cloud Solutions @ Everforth ECS
+## 57. Senior Data Engineer – Advanced Data Integration & Cloud Solutions @ Everforth ECS
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -621,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. AI Engineer/DevOps Engineer @ Capgemini
+## 58. AI Engineer/DevOps Engineer @ Capgemini
 **Match Score:** 11.1%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -632,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. Senior Analyst, Data Engineer @ Lincoln Electric
+## 59. Senior Analyst, Data Engineer @ Lincoln Electric
 **Match Score:** 11.1%
 
 📍 **Location:** OH, US USA
@@ -643,898 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Bellevue, WA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f4ab3e3c7077492c)
-
----
-
-## 60. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Inglewood, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b0870a8c631ca3e7)
-
----
-
-## 61. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Fort Worth, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3a8177305c7e2b4e)
-
----
-
-## 62. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Wichita, KS, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2b216035065cdcce)
-
----
-
-## 63. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b0d6bbe5db7dc4e3)
-
----
-
-## 64. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Morristown, NJ, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=99cd5dc3d4c47201)
-
----
-
-## 65. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1535cff1bb626738)
-
----
-
-## 66. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Williamsville, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=37a520fdd5e099b9)
-
----
-
-## 67. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Tempe, AZ, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=366fcdfb585bd3be)
-
----
-
-## 68. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a94f1ea7f43f3649)
-
----
-
-## 69. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Milwaukee, WI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=497b07468d401d8a)
-
----
-
-## 70. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8d2e49c364fa4321)
-
----
-
-## 71. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Westlake, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=14d6f7b29ae9eb47)
-
----
-
-## 72. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e69bf4d69267775a)
-
----
-
-## 73. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** San Antonio, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=22a4f690926575b6)
-
----
-
-## 74. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7fc8f10cc4340e38)
-
----
-
-## 75. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Philadelphia, PA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4ed7e30adf2adc59)
-
----
-
-## 76. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Salt Lake City, UT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=22efcdd2b4a3dd7f)
-
----
-
-## 77. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Memphis, TN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4d610152102215d5)
-
----
-
-## 78. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Hermitage, TN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0f093d62f255edad)
-
----
-
-## 79. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=61c760c7b06ee2ec)
-
----
-
-## 80. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7e753698d58ce405)
-
----
-
-## 81. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Tulsa, OK, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=613c98d34d3a6aff)
-
----
-
-## 82. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Pittsburgh, PA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=81eb38d16909745a)
-
----
-
-## 83. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Richmond, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=26aa4bbb65d7bc04)
-
----
-
-## 84. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Cincinnati, OH, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=51eaf011bd4b3db9)
-
----
-
-## 85. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Portland, OR, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=875b54845cacd6b4)
-
----
-
-## 86. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Louisville, KY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b044118f339aeefe)
-
----
-
-## 87. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Sacramento, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=79172907c08cbd27)
-
----
-
-## 88. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Columbus, OH, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4072dd1e7bd9b46a)
-
----
-
-## 89. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=60e28bece0970c90)
-
----
-
-## 90. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Omaha, NE, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=337e00bdabbbf617)
-
----
-
-## 91. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Detroit, MI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7008c23fbe380180)
-
----
-
-## 92. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Princeton, NJ, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ef94cdec933bb8d2)
-
----
-
-## 93. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Cleveland, OH, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a9b3dd72c73a5c59)
-
----
-
-## 94. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** San Juan, PR, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3f362104fdb5fce0)
-
----
-
-## 95. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Rosslyn, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bb3766965503e1b0)
-
----
-
-## 96. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Boise, ID, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=01b7efd6177971eb)
-
----
-
-## 97. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Las Vegas, NV, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=564843cdd5d6c05d)
-
----
-
-## 98. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=38dc1e892863874b)
-
----
-
-## 99. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Minneapolis, MN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=36375563a2ad1043)
-
----
-
-## 100. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Honolulu, HI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cf1ab598617115f3)
-
----
-
-## 101. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Kansas City, MO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bdb4d76e4c3be44c)
-
----
-
-## 102. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** St. Louis, MO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bd706eccacda1e1c)
-
----
-
-## 103. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** New Orleans, LA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=606f854062c681fa)
-
----
-
-## 104. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=15ee32196b2a250e)
-
----
-
-## 105. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Midland, MI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c7a2ced0233034b8)
-
----
-
-## 106. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b267004acbc01cc5)
-
----
-
-## 107. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Grand Rapids, MI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9be2810504f2ae29)
-
----
-
-## 108. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Hartford, CT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6f0ec602c9b09a8e)
-
----
-
-## 109. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Jersey City, NJ, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bd0e7d3dab7e604a)
-
----
-
-## 110. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Jericho, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=905c5a2344562ab8)
-
----
-
-## 111. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Dayton, OH, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=21b0eb74cf57c4a8)
-
----
-
-## 112. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Monterey, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=127db1667ff89227)
-
----
-
-## 113. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Costa Mesa, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2a42559421200137)
-
----
-
-## 114. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Des Moines, IA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d6e7dd724c924aca)
-
----
-
-## 115. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Rochester, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8483d29d2dbde05b)
-
----
-
-## 116. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Mechanicsburg, PA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=824e663391dfa6bf)
-
----
-
-## 117. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Tampa, FL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3e8686e8d16dc84d)
-
----
-
-## 118. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Raleigh, NC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=496d9926f80e93e9)
-
----
-
-## 119. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Miami, FL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=57716cf6ab6ed7a5)
-
----
-
-## 120. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Tallahassee, FL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c418229c0f650f96)
-
----
-
-## 121. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Jacksonville, FL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=95121729962d91d2)
-
----
-
-## 122. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Denver, CO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dfec58f9b4c8760a)
-
----
-
-## 123. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5153281c36740802)
-
----
-
-## 124. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Huntsville, AL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=310acaaa4f9f42e3)
-
----
-
-## 125. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Davenport, IA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6efe7ed3911371c4)
-
----
-
-## 126. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Indianapolis, IN, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1a68cf132dbdec60)
-
----
-
-## 127. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Lake Mary, FL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8d891e75a79397a9)
-
----
-
-## 128. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Birmingham, AL, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=117634e8f8dfb2d6)
-
----
-
-## 129. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Lansing, MI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b83a26f124ccdb89)
-
----
-
-## 130. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Stamford, CT, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ad88505e172120de)
-
----
-
-## 131. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c21ad262bec7ef80)
-
----
-
-## 132. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ca6810d972b1a5f1)
-
----
-
-## 133. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Los Angeles, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=27043ef345d0b8a7)
-
----
-
-## 134. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Baltimore, MD, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=be347b278f12cb33)
-
----
-
-## 135. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Fresno, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fed8b15c04492576)
-
----
-
-## 136. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Colorado Springs, CO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5b12133504b24bae)
-
----
-
-## 137. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9f864d9aca9b7b27)
-
----
-
-## 138. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** San Diego, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=76d2eb1be4c1b252)
-
----
-
-## 139. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Gilbert, AZ, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9baba2b401f1c56c)
-
----
-
-## 140. Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure) @ Databricks
+## 60. Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure) @ Databricks
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -1545,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 141. Enterprise Data Architect - WORK FROM HOME - SELECT US STATES ONLY @ Slavic401K
+## 61. Enterprise Data Architect - WORK FROM HOME - SELECT US STATES ONLY @ Slavic401K
 **Match Score:** 11.1%
 
 📍 **Location:** Boca Raton, FL, US USA
@@ -1556,14 +676,894 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 142. Software Engineer - Vehicle Connectivity & mobility (VC&M) @ Ford Motor Company
+## 62. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
-📍 **Location:** Dearborn, MI, US USA
+📍 **Location:** Bellevue, WA, US USA
 
-🔑 **Keywords:** RDS, Azure, GCP, Scala, PostgreSQL, MongoDB, NoSQL, CI/CD, GitHub Actions, Terraform
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
 
-[Apply Here](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc)
+[Apply Here](https://www.indeed.com/viewjob?jk=f4ab3e3c7077492c)
+
+---
+
+## 63. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Inglewood, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b0870a8c631ca3e7)
+
+---
+
+## 64. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Fort Worth, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3a8177305c7e2b4e)
+
+---
+
+## 65. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Wichita, KS, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2b216035065cdcce)
+
+---
+
+## 66. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b0d6bbe5db7dc4e3)
+
+---
+
+## 67. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Morristown, NJ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=99cd5dc3d4c47201)
+
+---
+
+## 68. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1535cff1bb626738)
+
+---
+
+## 69. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Williamsville, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=37a520fdd5e099b9)
+
+---
+
+## 70. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Tempe, AZ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=366fcdfb585bd3be)
+
+---
+
+## 71. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a94f1ea7f43f3649)
+
+---
+
+## 72. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Milwaukee, WI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=497b07468d401d8a)
+
+---
+
+## 73. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8d2e49c364fa4321)
+
+---
+
+## 74. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Westlake, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=14d6f7b29ae9eb47)
+
+---
+
+## 75. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Nashville, TN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e69bf4d69267775a)
+
+---
+
+## 76. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** San Antonio, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=22a4f690926575b6)
+
+---
+
+## 77. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7fc8f10cc4340e38)
+
+---
+
+## 78. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Philadelphia, PA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4ed7e30adf2adc59)
+
+---
+
+## 79. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Salt Lake City, UT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=22efcdd2b4a3dd7f)
+
+---
+
+## 80. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Memphis, TN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4d610152102215d5)
+
+---
+
+## 81. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Hermitage, TN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0f093d62f255edad)
+
+---
+
+## 82. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=61c760c7b06ee2ec)
+
+---
+
+## 83. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7e753698d58ce405)
+
+---
+
+## 84. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Tulsa, OK, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=613c98d34d3a6aff)
+
+---
+
+## 85. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Pittsburgh, PA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=81eb38d16909745a)
+
+---
+
+## 86. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Richmond, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=26aa4bbb65d7bc04)
+
+---
+
+## 87. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Cincinnati, OH, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=51eaf011bd4b3db9)
+
+---
+
+## 88. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Portland, OR, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=875b54845cacd6b4)
+
+---
+
+## 89. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Louisville, KY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b044118f339aeefe)
+
+---
+
+## 90. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Sacramento, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=79172907c08cbd27)
+
+---
+
+## 91. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Columbus, OH, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4072dd1e7bd9b46a)
+
+---
+
+## 92. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=60e28bece0970c90)
+
+---
+
+## 93. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Omaha, NE, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=337e00bdabbbf617)
+
+---
+
+## 94. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Detroit, MI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7008c23fbe380180)
+
+---
+
+## 95. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Princeton, NJ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ef94cdec933bb8d2)
+
+---
+
+## 96. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Cleveland, OH, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a9b3dd72c73a5c59)
+
+---
+
+## 97. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** San Juan, PR, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3f362104fdb5fce0)
+
+---
+
+## 98. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Rosslyn, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bb3766965503e1b0)
+
+---
+
+## 99. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Boise, ID, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=01b7efd6177971eb)
+
+---
+
+## 100. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Las Vegas, NV, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=564843cdd5d6c05d)
+
+---
+
+## 101. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=38dc1e892863874b)
+
+---
+
+## 102. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Minneapolis, MN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=36375563a2ad1043)
+
+---
+
+## 103. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Honolulu, HI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cf1ab598617115f3)
+
+---
+
+## 104. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Kansas City, MO, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bdb4d76e4c3be44c)
+
+---
+
+## 105. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** St. Louis, MO, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bd706eccacda1e1c)
+
+---
+
+## 106. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** New Orleans, LA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=606f854062c681fa)
+
+---
+
+## 107. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=15ee32196b2a250e)
+
+---
+
+## 108. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Midland, MI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c7a2ced0233034b8)
+
+---
+
+## 109. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b267004acbc01cc5)
+
+---
+
+## 110. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Grand Rapids, MI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9be2810504f2ae29)
+
+---
+
+## 111. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Hartford, CT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6f0ec602c9b09a8e)
+
+---
+
+## 112. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Jersey City, NJ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bd0e7d3dab7e604a)
+
+---
+
+## 113. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Jericho, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=905c5a2344562ab8)
+
+---
+
+## 114. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Dayton, OH, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=21b0eb74cf57c4a8)
+
+---
+
+## 115. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Monterey, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=127db1667ff89227)
+
+---
+
+## 116. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Costa Mesa, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2a42559421200137)
+
+---
+
+## 117. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Des Moines, IA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d6e7dd724c924aca)
+
+---
+
+## 118. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Rochester, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8483d29d2dbde05b)
+
+---
+
+## 119. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Mechanicsburg, PA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=824e663391dfa6bf)
+
+---
+
+## 120. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Tampa, FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3e8686e8d16dc84d)
+
+---
+
+## 121. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Raleigh, NC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=496d9926f80e93e9)
+
+---
+
+## 122. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Miami, FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=57716cf6ab6ed7a5)
+
+---
+
+## 123. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Tallahassee, FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c418229c0f650f96)
+
+---
+
+## 124. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Jacksonville, FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=95121729962d91d2)
+
+---
+
+## 125. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dfec58f9b4c8760a)
+
+---
+
+## 126. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5153281c36740802)
+
+---
+
+## 127. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Huntsville, AL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=310acaaa4f9f42e3)
+
+---
+
+## 128. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Davenport, IA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6efe7ed3911371c4)
+
+---
+
+## 129. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Indianapolis, IN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1a68cf132dbdec60)
+
+---
+
+## 130. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Lake Mary, FL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8d891e75a79397a9)
+
+---
+
+## 131. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Birmingham, AL, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=117634e8f8dfb2d6)
+
+---
+
+## 132. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Lansing, MI, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b83a26f124ccdb89)
+
+---
+
+## 133. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Stamford, CT, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ad88505e172120de)
+
+---
+
+## 134. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** San Francisco, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c21ad262bec7ef80)
+
+---
+
+## 135. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ca6810d972b1a5f1)
+
+---
+
+## 136. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Los Angeles, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=27043ef345d0b8a7)
+
+---
+
+## 137. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Baltimore, MD, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=be347b278f12cb33)
+
+---
+
+## 138. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Fresno, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fed8b15c04492576)
+
+---
+
+## 139. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Colorado Springs, CO, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5b12133504b24bae)
+
+---
+
+## 140. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Washington, DC, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9f864d9aca9b7b27)
+
+---
+
+## 141. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** San Diego, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=76d2eb1be4c1b252)
+
+---
+
+## 142. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+**Match Score:** 11.1%
+
+📍 **Location:** Gilbert, AZ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Snowflake, Data Modeling, dbt, Airflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9baba2b401f1c56c)
 
 ---
 
@@ -1611,18 +1611,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 147. Data Anchor @ Ford Motor Company
-**Match Score:** 10.4%
-
-📍 **Location:** Louisville, KY, US USA
-
-🔑 **Keywords:** RDS, GCP, BigQuery, Vertex AI, Hadoop, Spark, Kafka, MongoDB, NoSQL, Splunk
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb)
-
----
-
-## 148. Data Engineer III @ JPMorganChase
+## 147. Data Engineer III @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Plano, TX, US USA
@@ -1633,7 +1622,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 149. Data Engineer - Oklahoma City, OK @ CFS Brands, LLC
+## 148. Data Engineer - Oklahoma City, OK @ CFS Brands, LLC
 **Match Score:** 10.4%
 
 📍 **Location:** Oklahoma City, OK, US USA
@@ -1644,7 +1633,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 150. Data Engineer @ Chiesi Farmaceutici S.p.A.
+## 149. Data Engineer @ Chiesi Farmaceutici S.p.A.
 **Match Score:** 10.4%
 
 📍 **Location:** Cary, NC, US USA
@@ -1655,7 +1644,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 151. Apache Spark Core Java @ Realign
+## 150. Apache Spark Core Java @ Realign
 **Match Score:** 10.4%
 
 📍 **Location:** New York, NY, US USA
@@ -1666,7 +1655,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 152. Senior Analytics Engineer, Marketing Sciences @ SimplePractice
+## 151. Senior Analytics Engineer, Marketing Sciences @ SimplePractice
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -1677,7 +1666,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 153. Senior Full Stack Engineer, Agent Experience Platform @ MAPFRE Insurance
+## 152. Senior Full Stack Engineer, Agent Experience Platform @ MAPFRE Insurance
 **Match Score:** 10.4%
 
 📍 **Location:** Webster, MA, US USA
@@ -1688,7 +1677,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 154. .NET Backend Developer @ Inclusion Cloud
+## 153. .NET Backend Developer @ Inclusion Cloud
 **Match Score:** 10.4%
 
 📍 **Location:** Dallas, TX, US USA
@@ -1696,17 +1685,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Scala, SQL Server, CI/CD, GitHub Actions, Azure DevOps, Terraform, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=5c9d1b0d1d29e0d2)
-
----
-
-## 155. Senior Software Engineer @ Ford Motor Company
-**Match Score:** 10.4%
-
-📍 **Location:** Allen Park, MI, US USA
-
-🔑 **Keywords:** AWS, IAM, Azure, Google Cloud Platform, GCP, Vertex AI, Scala, CI/CD, Terraform, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5cb7a428029c6a47)
 
 ---
 
