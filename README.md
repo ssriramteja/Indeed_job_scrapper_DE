@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-22 15:11
+Last updated: 2026-08-22 16:13
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-22 15:11 |
+| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-22 16:13 |
 | NTT DATA | Site Reliability Engineering (SRE) - Maryland, US | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d51d47e65997196) | 2026-08-22 12:20 |
 | CVS Health | Senior Software Development Engineer - LLMs, GenAI | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ef55c2266d41678) | 2026-08-22 11:12 |
 | RealPage Inc | Solutions Delivery Engineer (Remote) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec761fb42adb289d) | 2026-08-22 10:14 |
@@ -626,9 +626,6 @@ Last updated: 2026-08-22 15:11
 | CVS Health | Data Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7211706c4fa77eff) | 2026-08-18 16:20 |
 | Mastercard | Senior Cloud Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6bfbd27edc96381f) | 2026-08-18 16:20 |
 | CVS Health | Sr. Data Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8ad4a5d391e5cb08) | 2026-08-18 16:20 |
-| MAXhealth | Data Engineer- Greater Tampa | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ebc3cc20a81b9fe) | 2026-08-18 15:22 |
-| Alliance Health Plan | Dir-Data Platform Engineering (Full-time Remote, North Carolina Based) | Morrisville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ebdf670f668b0e7) | 2026-08-18 15:22 |
-| NICA | Contract Full-Stack Developer - existing application completion & deployment | North Falmouth, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1624bcb33518b242) | 2026-08-18 15:22 |
 
 
 ---
