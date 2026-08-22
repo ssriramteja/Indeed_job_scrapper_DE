@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-22 19:16
+Last updated: 2026-08-22 20:12
 
 ### 🚀 Daily Job Matches
 
@@ -546,19 +546,6 @@ Last updated: 2026-08-22 19:16
 | nan | Data Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69ed747f2eb90e25) | 2026-08-18 20:13 |
 | CoStar Group | Senior Analytics Data Engineer - Homes.com | Arlington, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b80d45c896bb26ef) | 2026-08-18 20:13 |
 | MUFG | Senior Payments IT Business Analyst (AI & Data Focus) | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e859637db4511ad) | 2026-08-18 20:13 |
-| X-Energy | Software Engineer V, AI Digital & Engineering Software | Rockville, MD, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3a922959a62dc33f) | 2026-08-18 19:21 |
-| X-Energy | Software Engineer III, AI Digital & Engineering Software | Rockville, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=724dd35cc9ba9c68) | 2026-08-18 19:21 |
-| CapTech Consulting | Python Developer | Richmond, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3500a77261ebbb93) | 2026-08-18 19:21 |
-| CapTech Consulting | Python Developer | Reston, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5a07575a9e0364be) | 2026-08-18 19:21 |
-| CapTech Consulting | Data Analyst | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7f1f698284725984) | 2026-08-18 19:21 |
-| CapTech Consulting | Data Analyst | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5bb838c30917dc45) | 2026-08-18 19:21 |
-| CapTech Consulting | Data Analyst | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e506811c0b2cc445) | 2026-08-18 19:21 |
-| CapTech Consulting | Data Analyst | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=18381d7ceeaba33a) | 2026-08-18 19:21 |
-| CapTech Consulting | Data Analyst | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1fcc2deee2a3e4d7) | 2026-08-18 19:21 |
-| Carrington Mortgage Services, LLC | Senior, Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85cd0d74b3f6d1fd) | 2026-08-18 19:21 |
-| Tiger Analytics | Senior Data Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06a5cdb578318149) | 2026-08-18 19:21 |
-| Hertz | Sr Data Engineer | Estero, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3cb1b92b52d7a99) | 2026-08-18 19:21 |
-| Pelico | VIE - Software Engineer (based in Miami) | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=072180860b5c5965) | 2026-08-18 19:21 |
 
 
 ---
