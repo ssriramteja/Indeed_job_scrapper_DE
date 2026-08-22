@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-22 18:16
+Last updated: 2026-08-22 19:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Claritas Rx | DevSecOps Engineer | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=e12b8c592b8fca76) | 2026-08-22 19:16 |
 | NTT DATA | Site Reliability Engineering (SRE) - Maryland, US | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d51d47e65997196) | 2026-08-22 12:20 |
 | CVS Health | Senior Software Development Engineer - LLMs, GenAI | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ef55c2266d41678) | 2026-08-22 11:12 |
 | RealPage Inc | Solutions Delivery Engineer (Remote) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec761fb42adb289d) | 2026-08-22 10:14 |
@@ -558,13 +559,6 @@ Last updated: 2026-08-22 18:16
 | Tiger Analytics | Senior Data Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06a5cdb578318149) | 2026-08-18 19:21 |
 | Hertz | Sr Data Engineer | Estero, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3cb1b92b52d7a99) | 2026-08-18 19:21 |
 | Pelico | VIE - Software Engineer (based in Miami) | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=072180860b5c5965) | 2026-08-18 19:21 |
-| CapTech Consulting | Python Developer | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=695b8a15f31b95e9) | 2026-08-18 18:23 |
-| CapTech Consulting | Python Developer | Philadelphia, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0d45121b0e1810c1) | 2026-08-18 18:23 |
-| CapTech Consulting | Python Developer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f609822c97459ef7) | 2026-08-18 18:23 |
-| Mount Sinai Health System | Technology Specialist II - Data Architect - Digital and Technology Partners - Hybrid/Remote | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=31ca165a02301fbf) | 2026-08-18 18:23 |
-| Bed Bath & Beyond | Machine Learning Engineer II | UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e18063e9579ba86) | 2026-08-18 18:23 |
-| Whoop | Software Engineer II (Backend, Platform) | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=145abebc67be2858) | 2026-08-18 18:23 |
-| CLAIR | Analytics Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62b06149f1d5d261) | 2026-08-18 18:23 |
 
 
 ---
