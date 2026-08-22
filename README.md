@@ -1,12 +1,11 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-22 17:12
+Last updated: 2026-08-22 18:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-22 17:12 |
 | NTT DATA | Site Reliability Engineering (SRE) - Maryland, US | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d51d47e65997196) | 2026-08-22 12:20 |
 | CVS Health | Senior Software Development Engineer - LLMs, GenAI | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ef55c2266d41678) | 2026-08-22 11:12 |
 | RealPage Inc | Solutions Delivery Engineer (Remote) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec761fb42adb289d) | 2026-08-22 10:14 |
@@ -566,10 +565,6 @@ Last updated: 2026-08-22 17:12
 | Bed Bath & Beyond | Machine Learning Engineer II | UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4e18063e9579ba86) | 2026-08-18 18:23 |
 | Whoop | Software Engineer II (Backend, Platform) | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=145abebc67be2858) | 2026-08-18 18:23 |
 | CLAIR | Analytics Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62b06149f1d5d261) | 2026-08-18 18:23 |
-| Plymouth Rock Assurance | Data Engineer | Boston, MA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=93c578df954821f2) | 2026-08-18 17:18 |
-| JACK Entertainment | Data Platform Engineer | Cleveland, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ddeffbcda3a30081) | 2026-08-18 17:18 |
-| Plymouth Rock Assurance | Senior Data Engineer | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=abd794d42375295b) | 2026-08-18 17:18 |
-| Pacific Consulting | Systems Administrator | Salem, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e8bd5938a7b9489) | 2026-08-18 17:18 |
 
 
 ---
