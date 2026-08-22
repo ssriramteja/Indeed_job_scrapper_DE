@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-22 11:12
+Last updated: 2026-08-22 12:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-22 11:12 |
-| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-22 11:12 |
+| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-22 12:20 |
+| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-22 12:20 |
+| NTT DATA | Site Reliability Engineering (SRE) - Maryland, US | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d51d47e65997196) | 2026-08-22 12:20 |
 | CVS Health | Senior Software Development Engineer - LLMs, GenAI | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ef55c2266d41678) | 2026-08-22 11:12 |
 | RealPage Inc | Solutions Delivery Engineer (Remote) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec761fb42adb289d) | 2026-08-22 10:14 |
 | Ataccama | Senior Professional Services Consultant | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0f49a3f3dbcbca27) | 2026-08-22 08:18 |
@@ -635,7 +636,6 @@ Last updated: 2026-08-22 11:12
 | itD Tech | Data Engineer IV (6281) | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2638fbb6172c3dae) | 2026-08-18 12:25 |
 | Cox Automotive | Sr Database Engineer | Draper, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fd582173f03bef9) | 2026-08-18 12:25 |
 | HCA Healthcare | Senior Data Engineer - Data Quality and Governance | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9fa3bf81f33a87f) | 2026-08-18 12:25 |
-| Quantum Sky | Software Engineer | Wright-Patterson AFB, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f6cc31f2ccc0f85) | 2026-08-18 11:16 |
 
 
 ---
