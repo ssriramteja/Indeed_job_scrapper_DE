@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-22 22:12
+Last updated: 2026-08-22 23:11
 
 ### 🚀 Daily Job Matches
 
@@ -479,11 +479,6 @@ Last updated: 2026-08-22 22:12
 | Surescripts | Senior Software Engineer | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c7248f02d82ed3a) | 2026-08-18 23:13 |
 | nan | Full Stack Developer (need only locals) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78002654e3f6aec5) | 2026-08-18 23:13 |
 | Wrapbook | Senior Analytics Engineer II | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c920b57c72b89cab) | 2026-08-18 23:13 |
-| Seamless | Senior Data Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=478c9b428f7558f4) | 2026-08-18 22:13 |
-| nan | Senior RAPA Data Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e20027a6a5bcf1cf) | 2026-08-18 22:13 |
-| The Hartford | GIS Software Engineer - Esri | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=21ac825d5b64f66f) | 2026-08-18 22:13 |
-| Orange County's Credit Union | Cloud Systems Engineer III | Santa Ana, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fb076bf063bb2a72) | 2026-08-18 22:13 |
-| EPODIUM | Systems Administrator | Tacoma, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7bacca274417a8a0) | 2026-08-18 22:13 |
 
 
 ---

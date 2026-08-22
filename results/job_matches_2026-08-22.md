@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-22
 
-**Total Jobs Found:** 107
+**Total Jobs Found:** 104
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -181,18 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. GCP Cloud Engineer @ Realign
-**Match Score:** 11.8%
-
-📍 **Location:** Sunnyvale, CA, US USA
-
-🔑 **Keywords:** IAM, RDS, GCP, BigQuery, Dataflow, Cloud Storage, Scala, CI/CD, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6b7cc426dbd03f0e)
-
----
-
-## 18. Platform Engineer @ Capgemini
+## 17. Platform Engineer @ Capgemini
 **Match Score:** 11.1%
 
 📍 **Location:** Mount Laurel, NJ, US USA
@@ -203,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Data Operations Engineer @ Marathon Petroleum
+## 18. Data Operations Engineer @ Marathon Petroleum
 **Match Score:** 11.1%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -214,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure) @ Databricks
+## 19. Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure) @ Databricks
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -225,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 20. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Bellevue, WA, US USA
@@ -236,7 +225,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 21. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Inglewood, CA, US USA
@@ -247,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 22. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -258,7 +247,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 23. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Wichita, KS, US USA
@@ -269,7 +258,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 24. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -280,7 +269,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 25. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Morristown, NJ, US USA
@@ -291,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 26. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** US USA
@@ -302,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 27. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Williamsville, NY, US USA
@@ -313,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 28. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tempe, AZ, US USA
@@ -324,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 29. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** McLean, VA, US USA
@@ -335,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 30. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -346,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 31. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Dallas, TX, US USA
@@ -357,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 32. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Westlake, TX, US USA
@@ -368,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 33. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Nashville, TN, US USA
@@ -379,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 34. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -390,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 35. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Seattle, WA, US USA
@@ -401,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 36. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Philadelphia, PA, US USA
@@ -412,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 37. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Salt Lake City, UT, US USA
@@ -423,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 38. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Memphis, TN, US USA
@@ -434,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 39. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Hermitage, TN, US USA
@@ -445,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 40. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Austin, TX, US USA
@@ -456,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 41. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -467,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 42. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tulsa, OK, US USA
@@ -478,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 43. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -489,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 44. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Richmond, VA, US USA
@@ -500,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 45. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cincinnati, OH, US USA
@@ -511,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 46. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Portland, OR, US USA
@@ -522,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 47. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Louisville, KY, US USA
@@ -533,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 48. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -544,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 49. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Columbus, OH, US USA
@@ -555,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 50. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -566,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 51. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Omaha, NE, US USA
@@ -577,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 52. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Detroit, MI, US USA
@@ -588,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 53. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Princeton, NJ, US USA
@@ -599,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 54. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Cleveland, OH, US USA
@@ -610,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 55. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Juan, PR, US USA
@@ -621,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 56. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Rosslyn, VA, US USA
@@ -632,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 57. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Boise, ID, US USA
@@ -643,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 58. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -654,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 59. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
@@ -665,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 60. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Minneapolis, MN, US USA
@@ -676,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 61. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Honolulu, HI, US USA
@@ -687,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 62. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -698,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 63. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -709,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 64. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** New Orleans, LA, US USA
@@ -720,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 65. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -731,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 66. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Midland, MI, US USA
@@ -742,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 67. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -753,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 68. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Grand Rapids, MI, US USA
@@ -764,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 69. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Hartford, CT, US USA
@@ -775,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 70. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -786,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 71. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Jericho, NY, US USA
@@ -797,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 72. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Dayton, OH, US USA
@@ -808,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 73. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Monterey, CA, US USA
@@ -819,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 74. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Costa Mesa, CA, US USA
@@ -830,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 75. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Des Moines, IA, US USA
@@ -841,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 76. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Rochester, NY, US USA
@@ -852,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 77. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Mechanicsburg, PA, US USA
@@ -863,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 78. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tampa, FL, US USA
@@ -874,7 +863,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 79. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -885,7 +874,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 81. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 80. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Miami, FL, US USA
@@ -896,7 +885,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 82. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 81. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Tallahassee, FL, US USA
@@ -907,7 +896,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 82. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Jacksonville, FL, US USA
@@ -918,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 84. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 83. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Denver, CO, US USA
@@ -929,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 84. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Chicago, IL, US USA
@@ -940,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 85. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Huntsville, AL, US USA
@@ -951,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 86. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Davenport, IA, US USA
@@ -962,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 87. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -973,7 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 88. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Lake Mary, FL, US USA
@@ -984,7 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 89. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Birmingham, AL, US USA
@@ -995,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 90. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Lansing, MI, US USA
@@ -1006,7 +995,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 91. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Stamford, CT, US USA
@@ -1017,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 92. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -1028,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 93. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Jose, CA, US USA
@@ -1039,7 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 94. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -1050,7 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 95. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Baltimore, MD, US USA
@@ -1061,7 +1050,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 96. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Fresno, CA, US USA
@@ -1072,7 +1061,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 97. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Colorado Springs, CO, US USA
@@ -1083,7 +1072,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 98. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Washington, DC, US USA
@@ -1094,7 +1083,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 100. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 99. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** San Diego, CA, US USA
@@ -1105,7 +1094,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
+## 100. Senior Data Product Analyst - Data Management Engineer III @ Deloitte
 **Match Score:** 11.1%
 
 📍 **Location:** Gilbert, AZ, US USA
@@ -1116,7 +1105,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. Databricks Developer @ Capgemini
+## 101. Databricks Developer @ Capgemini
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -1127,18 +1116,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. Databricks Developer @ Capgemini
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, PySpark, Scala, Data Modeling, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=320dcd4f927cb250)
-
----
-
-## 104. Site Reliability Engineering (SRE) - Maryland, US @ NTT DATA
+## 102. Site Reliability Engineering (SRE) - Maryland, US @ NTT DATA
 **Match Score:** 10.4%
 
 📍 **Location:** Baltimore, MD, US USA
@@ -1149,7 +1127,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 105. Data Engineer III @ JPMorganChase
+## 103. Data Engineer III @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Plano, TX, US USA
@@ -1160,7 +1138,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 106. Data Engineer - Oklahoma City, OK @ CFS Brands, LLC
+## 104. Data Engineer - Oklahoma City, OK @ CFS Brands, LLC
 **Match Score:** 10.4%
 
 📍 **Location:** Oklahoma City, OK, US USA
@@ -1168,17 +1146,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** IAM, Azure, Scala, Snowflake, SQL Server, Data Modeling, ETL, ELT, Power BI, Tableau
 
 [Apply Here](https://www.indeed.com/viewjob?jk=113fe7e3580ec298)
-
----
-
-## 107. Apache Spark Core Java @ Realign
-**Match Score:** 10.4%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, Scala, Kafka, CI/CD, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=16d16eda2d514586)
 
 ---
 
