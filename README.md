@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-22 12:20
+Last updated: 2026-08-22 13:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-22 12:20 |
-| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-22 12:20 |
+| Guild Mortgage Company LLC | Data Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=fd674fe067dfdd34) | 2026-08-22 13:24 |
+| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Databricks | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=87fd62c345b8469e) | 2026-08-22 13:24 |
 | NTT DATA | Site Reliability Engineering (SRE) - Maryland, US | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d51d47e65997196) | 2026-08-22 12:20 |
 | CVS Health | Senior Software Development Engineer - LLMs, GenAI | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ef55c2266d41678) | 2026-08-22 11:12 |
 | RealPage Inc | Solutions Delivery Engineer (Remote) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec761fb42adb289d) | 2026-08-22 10:14 |
@@ -632,10 +632,6 @@ Last updated: 2026-08-22 12:20
 | NICA | Contract Full-Stack Developer - existing application completion & deployment | North Falmouth, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1624bcb33518b242) | 2026-08-18 15:22 |
 | Visa | Data Engineer - Sr. Consultant level | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d539c21d8a7cb01) | 2026-08-18 14:23 |
 | Native American Industrial Solutions, LLC (NAIS) | Senior Enterprise Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8250689e965a0872) | 2026-08-18 13:35 |
-| TDIndustries | Sr. Solution Architect - Data, Analytics & AI | Dallas, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8ac8a616958996b3) | 2026-08-18 12:25 |
-| itD Tech | Data Engineer IV (6281) | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2638fbb6172c3dae) | 2026-08-18 12:25 |
-| Cox Automotive | Sr Database Engineer | Draper, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fd582173f03bef9) | 2026-08-18 12:25 |
-| HCA Healthcare | Senior Data Engineer - Data Quality and Governance | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9fa3bf81f33a87f) | 2026-08-18 12:25 |
 
 
 ---
