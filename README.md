@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-23 15:13
+Last updated: 2026-08-23 16:14
 
 ### 🚀 Daily Job Matches
 
@@ -420,11 +420,6 @@ Last updated: 2026-08-23 15:13
 | UT Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate (On-Site) | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e73c10ae052d85b) | 2026-08-19 17:19 |
 | project44 | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ca6afc769938392) | 2026-08-19 16:20 |
 | Convey | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1637275a51361381) | 2026-08-19 16:20 |
-| Rearc | Senior Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3d0531777dcadfb3) | 2026-08-19 15:22 |
-| nan | Senior AI/ML Engineer Remote — Full Time Remote | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=76c5165dd6d5386f) | 2026-08-19 15:22 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=221814563679cbed) | 2026-08-19 15:22 |
-| Southwest Power Pool | Programmer-Developer II/Sr. | Little Rock, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=507b26229191c569) | 2026-08-19 15:22 |
-| Rearc | Senior AI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1dae65756fc60c6) | 2026-08-19 15:22 |
 
 
 ---
