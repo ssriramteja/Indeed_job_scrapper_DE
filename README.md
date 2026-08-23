@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-23 19:15
+Last updated: 2026-08-23 20:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-23 19:15 |
+| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-23 20:11 |
+| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-23 20:11 |
 | JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e3fcc35e91c6408) | 2026-08-23 19:15 |
 | Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3d419dc292622cd) | 2026-08-23 06:24 |
 | Deloitte | Delivery Senior Consultant, Data Engineering and Conversion Solutions | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f6f3843c2e2f33e) | 2026-08-23 03:42 |
@@ -389,14 +390,6 @@ Last updated: 2026-08-23 19:15
 | Equinix | Senior Network Automation Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a6a236d435cfe02) | 2026-08-19 21:17 |
 | Rifle Paper Co | Senior Systems Administrator | Winter Park, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ce6cb979a420433) | 2026-08-19 21:17 |
 | Rifle Paper Co | Senior Systems Administrator | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=03cd3d5c3c1f5ee9) | 2026-08-19 21:17 |
-| American Express | Senior Data Engineer I | Phoenix, AZ, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=9ed75a25bf648004) | 2026-08-19 19:18 |
-| The Cigna Group | Software Engineering Senior Advisor | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4956a4b8be14845b) | 2026-08-19 19:18 |
-| Wingstop | Senior Engineer - Data | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=df2118e94d973400) | 2026-08-19 19:18 |
-| ICONICS | Senior Software Development Engineer | Cambridge, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=54c07ff9f974ddcb) | 2026-08-19 19:18 |
-| JSR Tech Consulting | Informatica CDGC Data Governance Consulttant | NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1ac436235307ad94) | 2026-08-19 19:18 |
-| Matoffo | Strong Middle DevOps Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4de948ee2b61b61a) | 2026-08-19 19:18 |
-| Equifax | Generative AI Engineer / QA Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=707ed1844d162074) | 2026-08-19 19:18 |
-| Cwill | DevOps/SRE Engineer - TX - Mandarin Speaking | Texas City, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=948a17ca173019b2) | 2026-08-19 19:18 |
 
 
 ---

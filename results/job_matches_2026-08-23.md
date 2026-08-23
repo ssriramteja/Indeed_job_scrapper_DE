@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-08-23
 
-**Total Jobs Found:** 3
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Machine Learning Engineer (MLOPS) @ The Coca-Cola Company
+## 1. Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL || Charlotte, NC @ THEMESOFT
+**Match Score:** 14.6%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** IAM, GCP, BigQuery, Cloud Storage, Hive, Spark, Scala, Kafka, NoSQL, Data Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=93687bce41c54bba)
+
+---
+
+## 2. Senior Machine Learning Engineer (MLOPS) @ The Coca-Cola Company
 **Match Score:** 13.2%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Software Engineer III - AI/ML Developer @ JPMorganChase
+## 3. Software Engineer III - AI/ML Developer @ JPMorganChase
 **Match Score:** 13.2%
 
 📍 **Location:** Plano, TX, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Delivery Senior Consultant, Data Engineering and Conversion Solutions @ Deloitte
+## 4. Delivery Senior Consultant, Data Engineering and Conversion Solutions @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
