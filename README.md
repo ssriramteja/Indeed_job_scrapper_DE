@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-23 14:14
+Last updated: 2026-08-23 15:13
 
 ### 🚀 Daily Job Matches
 
@@ -425,8 +425,6 @@ Last updated: 2026-08-23 14:14
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=221814563679cbed) | 2026-08-19 15:22 |
 | Southwest Power Pool | Programmer-Developer II/Sr. | Little Rock, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=507b26229191c569) | 2026-08-19 15:22 |
 | Rearc | Senior AI Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c1dae65756fc60c6) | 2026-08-19 15:22 |
-| Navy Federal Credit Union | ETS Senior Engineer - Azure Databricks & Data Platform Engineer | Vienna, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bb26bb0ae7057381) | 2026-08-19 14:23 |
-| WM | Engineer, Software | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=389fc2ed5c0deb4b) | 2026-08-19 14:23 |
 
 
 ---
