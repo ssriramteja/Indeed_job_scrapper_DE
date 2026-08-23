@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-23 07:25
+Last updated: 2026-08-23 08:18
 
 ### 🚀 Daily Job Matches
 
@@ -431,12 +431,6 @@ Last updated: 2026-08-23 07:25
 | Delan Associates, Inc | Senior Java Developer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5102217947056314) | 2026-08-19 10:19 |
 | Ramsey Solutions | Analytics Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5037580e42be8ebd) | 2026-08-19 10:19 |
 | Bounteous | CDP Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8550b60dfa07a9a8) | 2026-08-19 08:25 |
-| SouthState Bank | IT Data Engineer IV | Winter Haven, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=89c590723bea472d) | 2026-08-19 07:31 |
-| Adobe | Software Development Engineer | Lehi, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ddee801b38d94382) | 2026-08-19 07:31 |
-| NTT DATA | Senior Software Engineer | Nashville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e5a4f8b2a53df275) | 2026-08-19 07:31 |
-| JPMorganChase | Security Engineer III - (Java/Python full stack) | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9df2105d22e3a63f) | 2026-08-19 07:31 |
-| Intermountain Health | Machine Learning Operations Engineer | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=30414b2a85fbe095) | 2026-08-19 07:31 |
-| Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db41666c71cf00e6) | 2026-08-19 07:31 |
 
 
 ---
