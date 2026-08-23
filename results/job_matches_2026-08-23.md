@@ -38,18 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Professional Services Consultant @ Ataccama
-**Match Score:** 12.5%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Azure, Databricks, GCP, Hadoop, Hive, Spark, Scala, Kafka, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0f49a3f3dbcbca27)
-
----
-
-## 5. Delivery Senior Consultant, Data Engineering and Conversion Solutions @ Deloitte
+## 4. Delivery Senior Consultant, Data Engineering and Conversion Solutions @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -57,6 +46,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** Redshift, Azure, Databricks, Google Cloud Platform, BigQuery, Spark, Scala, Snowflake, Talend, dbt
 
 [Apply Here](https://www.indeed.com/viewjob?jk=7f6f3843c2e2f33e)
+
+---
+
+## 5. Data Engineer @ Youth Villages
+**Match Score:** 10.4%
+
+📍 **Location:** Chesterfield, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Snowflake, SQL Server, MySQL, ETL, ELT, Tableau, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f3d419dc292622cd)
 
 ---
 
