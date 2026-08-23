@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-23 08:18
+Last updated: 2026-08-23 09:18
 
 ### 🚀 Daily Job Matches
 
@@ -430,7 +430,6 @@ Last updated: 2026-08-23 08:18
 | VTG Defense | Senior Database Engineer | Tysons Corner, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b5e3d67c41aeb6bc) | 2026-08-19 11:17 |
 | Delan Associates, Inc | Senior Java Developer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5102217947056314) | 2026-08-19 10:19 |
 | Ramsey Solutions | Analytics Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5037580e42be8ebd) | 2026-08-19 10:19 |
-| Bounteous | CDP Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8550b60dfa07a9a8) | 2026-08-19 08:25 |
 
 
 ---

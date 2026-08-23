@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-23
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,29 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Solutions Delivery Engineer (Remote) @ RealPage Inc
-**Match Score:** 12.5%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, Redshift, RDS, Google Cloud Platform, GCP, BigQuery, Scala, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ec761fb42adb289d)
-
----
-
-## 3. Senior Software Development Engineer - LLMs, GenAI @ CVS Health
-**Match Score:** 12.5%
-
-📍 **Location:** NY, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, ECS, RDS, Azure, Scala, Power BI, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7ef55c2266d41678)
-
----
-
-## 4. Delivery Senior Consultant, Data Engineering and Conversion Solutions @ Deloitte
+## 2. Delivery Senior Consultant, Data Engineering and Conversion Solutions @ Deloitte
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -49,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Data Engineer @ Youth Villages
+## 3. Data Engineer @ Youth Villages
 **Match Score:** 10.4%
 
 📍 **Location:** Chesterfield, VA, US USA
@@ -60,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Site Reliability Engineering (SRE) - Maryland, US @ NTT DATA
+## 4. Site Reliability Engineering (SRE) - Maryland, US @ NTT DATA
 **Match Score:** 10.4%
 
 📍 **Location:** Baltimore, MD, US USA
