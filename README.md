@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-22 23:11
+Last updated: 2026-08-23 00:44
 
 ### 🚀 Daily Job Matches
 
@@ -463,22 +463,6 @@ Last updated: 2026-08-22 23:11
 | Tillster | Cybersecurity Engineer | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b75572988d828e4f) | 2026-08-19 02:13 |
 | Transport Enterprise Leasing | Data Engineer II | Chattanooga, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39fc8a1c2b970419) | 2026-08-19 02:13 |
 | Adobe | Machine Learning Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1db33c0b099de4ca) | 2026-08-19 02:13 |
-| The University of Michigan | Systems Architect | Ann Arbor, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=542e52272606f412) | 2026-08-19 00:41 |
-| Taskrabbit | Senior Data Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=13df4102ed2987bc) | 2026-08-19 00:41 |
-| Solutions Sync | Data Engineer | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9792be1d1f145138) | 2026-08-19 00:41 |
-| Premise Health | Platform Architect | Brentwood, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=372b2a3dbe64193c) | 2026-08-19 00:41 |
-| Textron | Data Engineer II | Providence, RI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=89e3a0d656748e7c) | 2026-08-18 23:13 |
-| Betsol | Product Owner - Cloud Contact Center (CCaaS) & Data Platform | Broomfield, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8bd7071de6b014d4) | 2026-08-18 23:13 |
-| LPL Financial | Intern 2027 - Data Engineer | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=22be3c305311c8c5) | 2026-08-18 23:13 |
-| CSpring | Data Modeler | Springfield, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=61541eff4b55a7f4) | 2026-08-18 23:13 |
-| MoneyGram | US- Java Engineer - Pricing | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5191a2ca13d017d5) | 2026-08-18 23:13 |
-| MoneyGram | US- Java Engineer - Pricing | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6cc05afa82c7727d) | 2026-08-18 23:13 |
-| Team Velocity Marketing | Senior Data Scientist – Machine Learning & AI | Herndon, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4835e886da15e697) | 2026-08-18 23:13 |
-| nan | Solutions Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2227dc402960acc4) | 2026-08-18 23:13 |
-| Surescripts | Senior Database Engineer | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=603d527a2d1773a6) | 2026-08-18 23:13 |
-| Surescripts | Senior Software Engineer | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c7248f02d82ed3a) | 2026-08-18 23:13 |
-| nan | Full Stack Developer (need only locals) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78002654e3f6aec5) | 2026-08-18 23:13 |
-| Wrapbook | Senior Analytics Engineer II | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c920b57c72b89cab) | 2026-08-18 23:13 |
 
 
 ---
