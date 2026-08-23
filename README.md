@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-23 00:44
+Last updated: 2026-08-23 02:18
 
 ### 🚀 Daily Job Matches
 
@@ -453,16 +453,6 @@ Last updated: 2026-08-23 00:44
 | Pacific Life | Senior Data Engineer | Newport Beach, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=273000773141c1bd) | 2026-08-19 03:38 |
 | Pacific Life | Senior Data Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a63d318e8fb8d70f) | 2026-08-19 03:38 |
 | Caesars Entertainment | Scala Engineer (Growth) | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ff4a52ad00de1a4) | 2026-08-19 03:38 |
-| nan | Senior Data Engineer | Torrance, CA, US USA | 29.9% | [Apply](https://www.indeed.com/viewjob?jk=dca9ad3e53ceac42) | 2026-08-19 02:13 |
-| LTM Limited | Specialist - Data Engineering | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=9357e1f5751a5fa4) | 2026-08-19 02:13 |
-| Lobel Financial | Sr. Data Engineer, Mircosoft Fabric | Anaheim, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=fd40c328f0d45bed) | 2026-08-19 02:13 |
-| PCI Pharma Services | Digital Platforms, Senior Data Engineer | Philadelphia, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=532698c52db1f3fd) | 2026-08-19 02:13 |
-| Equifax | Senior Software Engineer (Java Backend) | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=023881bedd8b7ac1) | 2026-08-19 02:13 |
-| Paychex, Inc. | Data Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e11616365197f0ed) | 2026-08-19 02:13 |
-| Gatekeeper Systems | Sr. Data and Platform Engineer | Foothill Ranch, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cf0e1a9f347475ac) | 2026-08-19 02:13 |
-| Tillster | Cybersecurity Engineer | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b75572988d828e4f) | 2026-08-19 02:13 |
-| Transport Enterprise Leasing | Data Engineer II | Chattanooga, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39fc8a1c2b970419) | 2026-08-19 02:13 |
-| Adobe | Machine Learning Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1db33c0b099de4ca) | 2026-08-19 02:13 |
 
 
 ---
