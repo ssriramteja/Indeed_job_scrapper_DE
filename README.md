@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-23 22:11
+Last updated: 2026-08-23 23:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-23 22:11 |
-| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-23 22:11 |
+| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-23 23:11 |
+| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-23 23:11 |
 | JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e3fcc35e91c6408) | 2026-08-23 19:15 |
 | Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3d419dc292622cd) | 2026-08-23 06:24 |
 | Deloitte | Delivery Senior Consultant, Data Engineering and Conversion Solutions | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f6f3843c2e2f33e) | 2026-08-23 03:42 |
@@ -366,18 +366,6 @@ Last updated: 2026-08-23 22:11
 | Lumen | Cloud Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e00a75e4a5ed271) | 2026-08-19 23:15 |
 | Abbott | Senior Software Engineer | Alameda, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=308aeb93cece3d47) | 2026-08-19 23:15 |
 | Hilton | AWS Cloud Architect (contract) | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=351b70d13dc3de68) | 2026-08-19 23:15 |
-| Eurofins | Senior Data Engineer | Stafford, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=555375438c1e8b98) | 2026-08-19 22:14 |
-| AI Fire | Azure Data Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1a9844392ec8b665) | 2026-08-19 22:14 |
-| KONG | Senior Software Engineer, Konnect Admin/Billing | Olympia, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5616973f627d78f6) | 2026-08-19 22:14 |
-| NRG Energy | Data Science Analyst - Agentic AI Developer | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=da8857ac7498424c) | 2026-08-19 22:14 |
-| MetLife | Data Engineer | Cary, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d65d9fe891b3d937) | 2026-08-19 22:14 |
-| Ocean Blue Solutions | Senior ETL Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6eb300f7d6bc4524) | 2026-08-19 22:14 |
-| The Church Online, LLC | Full-Stack SaaS Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92bd3b1d025be8a0) | 2026-08-19 22:14 |
-| Sunbelt Rentals | Sr. Data Engineer | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b31b9600d6bd6bd2) | 2026-08-19 22:14 |
-| Edward Jones | Application Security Engineer IV | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=92658d4e06ae2705) | 2026-08-19 22:14 |
-| Sunbelt Rentals | Data Engineer - Compensation Systems | Fort Mill, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e642074188f57324) | 2026-08-19 22:14 |
-| Sunbelt Rentals | Data Engineer | Fort Mill, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cb33b3895c19f447) | 2026-08-19 22:14 |
-| nan | Analytics Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=668818422c4692eb) | 2026-08-19 22:14 |
 
 
 ---
