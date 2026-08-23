@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-23 02:18
+Last updated: 2026-08-23 03:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Deloitte | Delivery Senior Consultant, Data Engineering and Conversion Solutions | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f6f3843c2e2f33e) | 2026-08-23 03:42 |
 | Claritas Rx | DevSecOps Engineer | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=e12b8c592b8fca76) | 2026-08-22 19:16 |
 | NTT DATA | Site Reliability Engineering (SRE) - Maryland, US | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d51d47e65997196) | 2026-08-22 12:20 |
 | CVS Health | Senior Software Development Engineer - LLMs, GenAI | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ef55c2266d41678) | 2026-08-22 11:12 |
@@ -439,20 +440,6 @@ Last updated: 2026-08-23 02:18
 | NTT DATA | Senior Software Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=71e4ae5e09b571ae) | 2026-08-19 06:27 |
 | Index Analytics LLC | Database Administrator | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96b3c17f710c4b52) | 2026-08-19 06:27 |
 | Nexstar Media Group, Inc. | AI/ML Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8f5960a42e79ce1d) | 2026-08-19 04:28 |
-| Enlyte | Senior Database Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a5bcc00949b0b05a) | 2026-08-19 03:38 |
-| Prodapt Solutions | Azure Data Engineer | Richardson, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=230993df38e10727) | 2026-08-19 03:38 |
-| BNY | Senior Java Full Stack Developer | Pittsburgh, PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=47799e4962aac479) | 2026-08-19 03:38 |
-| Enlyte | Database Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=65f9d967bd29018a) | 2026-08-19 03:38 |
-| BNY | Senior Python Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=235f566cc684e608) | 2026-08-19 03:38 |
-| Databricks | Solutions Architect - Communications, Media, Entertainment and Games | CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=290f03b6b4a9bc7b) | 2026-08-19 03:38 |
-| Databricks | Sr. Solutions Engineer - Games | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=600fc435b647b1f5) | 2026-08-19 03:38 |
-| Databricks | Solutions Architect - Media | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c2c3cd48d288d29f) | 2026-08-19 03:38 |
-| Red Cat Propware | Data Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5193e4e5e2f7b3ed) | 2026-08-19 03:38 |
-| Capgemini | DevOps Engineer | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=defd80f2620eb381) | 2026-08-19 03:38 |
-| EXODUS INTEGRITY SERVICES (EIS) | Data Engineer | Broadview Heights, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d4a2bf4234ddf040) | 2026-08-19 03:38 |
-| Pacific Life | Senior Data Engineer | Newport Beach, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=273000773141c1bd) | 2026-08-19 03:38 |
-| Pacific Life | Senior Data Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a63d318e8fb8d70f) | 2026-08-19 03:38 |
-| Caesars Entertainment | Scala Engineer (Growth) | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ff4a52ad00de1a4) | 2026-08-19 03:38 |
 
 
 ---

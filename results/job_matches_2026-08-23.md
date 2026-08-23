@@ -5,18 +5,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Associate @ BlackRock
-**Match Score:** 22.9%
-
-📍 **Location:** Princeton, NJ, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Delta Live Tables, Hadoop, Hive, Sqoop, MapReduce, YARN
-
-[Apply Here](https://www.indeed.com/viewjob?jk=48397f4e7a2d566c)
-
----
-
-## 2. DevSecOps Engineer @ Claritas Rx
+## 1. DevSecOps Engineer @ Claritas Rx
 **Match Score:** 19.4%
 
 📍 **Location:** US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Solutions Delivery Engineer (Remote) @ RealPage Inc
+## 2. Solutions Delivery Engineer (Remote) @ RealPage Inc
 **Match Score:** 12.5%
 
 📍 **Location:** New York, NY, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Software Development Engineer - LLMs, GenAI @ CVS Health
+## 3. Senior Software Development Engineer - LLMs, GenAI @ CVS Health
 **Match Score:** 12.5%
 
 📍 **Location:** NY, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Professional Services Consultant @ Ataccama
+## 4. Senior Professional Services Consultant @ Ataccama
 **Match Score:** 12.5%
 
 📍 **Location:** US USA
@@ -57,6 +46,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, Databricks, GCP, Hadoop, Hive, Spark, Scala, Kafka, Snowflake
 
 [Apply Here](https://www.indeed.com/viewjob?jk=0f49a3f3dbcbca27)
+
+---
+
+## 5. Delivery Senior Consultant, Data Engineering and Conversion Solutions @ Deloitte
+**Match Score:** 11.8%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** Redshift, Azure, Databricks, Google Cloud Platform, BigQuery, Spark, Scala, Snowflake, Talend, dbt
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7f6f3843c2e2f33e)
 
 ---
 
