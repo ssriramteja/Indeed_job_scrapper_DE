@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-23 16:14
+Last updated: 2026-08-23 17:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-23 17:12 |
 | Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3d419dc292622cd) | 2026-08-23 06:24 |
 | Deloitte | Delivery Senior Consultant, Data Engineering and Conversion Solutions | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f6f3843c2e2f33e) | 2026-08-23 03:42 |
 | Claritas Rx | DevSecOps Engineer | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=e12b8c592b8fca76) | 2026-08-22 19:16 |
@@ -418,8 +419,6 @@ Last updated: 2026-08-23 16:14
 | Copart, Inc | Data Engineering Intern | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c52a161d21263c5e) | 2026-08-19 17:19 |
 | Proscia | Senior Software Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e723074c4747c5d7) | 2026-08-19 17:19 |
 | UT Health Science Center at San Antonio | Epic Clinical Business Intelligence Analyst - Intermediate (On-Site) | San Antonio, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e73c10ae052d85b) | 2026-08-19 17:19 |
-| project44 | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ca6afc769938392) | 2026-08-19 16:20 |
-| Convey | Senior Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1637275a51361381) | 2026-08-19 16:20 |
 
 
 ---
