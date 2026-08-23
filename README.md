@@ -1,12 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-23 18:15
+Last updated: 2026-08-23 19:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-23 18:15 |
+| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-23 19:15 |
+| JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e3fcc35e91c6408) | 2026-08-23 19:15 |
 | Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3d419dc292622cd) | 2026-08-23 06:24 |
 | Deloitte | Delivery Senior Consultant, Data Engineering and Conversion Solutions | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f6f3843c2e2f33e) | 2026-08-23 03:42 |
 | Claritas Rx | DevSecOps Engineer | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=e12b8c592b8fca76) | 2026-08-22 19:16 |
@@ -396,21 +397,6 @@ Last updated: 2026-08-23 18:15
 | Matoffo | Strong Middle DevOps Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4de948ee2b61b61a) | 2026-08-19 19:18 |
 | Equifax | Generative AI Engineer / QA Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=707ed1844d162074) | 2026-08-19 19:18 |
 | Cwill | DevOps/SRE Engineer - TX - Mandarin Speaking | Texas City, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=948a17ca173019b2) | 2026-08-19 19:18 |
-| Ryan Companies US, Inc. | Senior Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a709e6e770f53ae5) | 2026-08-19 18:19 |
-| Jefferson Center for Mental Health | Senior Analytics Engineer | Wheat Ridge, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=57ff8dcbb36e6ebe) | 2026-08-19 18:19 |
-| Komodo Health | Senior Infrastructure Engineer | Portland, OR, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=41f0df91f1d27621) | 2026-08-19 18:19 |
-| Komodo Health | Senior Infrastructure Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1fb2afafd3cbfe7a) | 2026-08-19 18:19 |
-| Komodo Health | Senior Infrastructure Engineer | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2236d5961d42b1a6) | 2026-08-19 18:19 |
-| Komodo Health | Senior Infrastructure Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ab6120725df09583) | 2026-08-19 18:19 |
-| Komodo Health | Senior Infrastructure Engineer | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bdbca9d10a3e1257) | 2026-08-19 18:19 |
-| QVC | Sr Software Engineer, Enterprise Data Warehouse | PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a690f45591735710) | 2026-08-19 18:19 |
-| BV Teck | OCI Cloud Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c4dde90cd4924e3c) | 2026-08-19 18:19 |
-| BV Teck | Microsoft Azure Specialist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d356d9379a1d876) | 2026-08-19 18:19 |
-| Cwill | DevOps/SRE Engineer - Bilingual Mandarin Required | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c64359435c0e75f4) | 2026-08-19 18:19 |
-| Cwill | DevOps/SRE Engineer - Bilingual Mandarin Required | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7085011cb79be32e) | 2026-08-19 18:19 |
-| Cwill | DevOps/SRE Engineer - Bilingual Mandarin Required | IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=618b210528315c81) | 2026-08-19 18:19 |
-| Cwill | DevOps/SRE Engineer - Bilingual Mandarin Required | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a89c508623950b60) | 2026-08-19 18:19 |
-| Cwill | DevOps/SRE Engineer - Bilingual Mandarin Required | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fb962ca1a1ab408) | 2026-08-19 18:19 |
 
 
 ---
