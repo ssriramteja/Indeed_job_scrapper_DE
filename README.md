@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-23 10:14
+Last updated: 2026-08-23 11:12
 
 ### 🚀 Daily Job Matches
 
@@ -428,8 +428,6 @@ Last updated: 2026-08-23 10:14
 | Navy Federal Credit Union | ETS Senior Engineer - Azure Databricks & Data Platform Engineer | Vienna, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bb26bb0ae7057381) | 2026-08-19 14:23 |
 | WM | Engineer, Software | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=389fc2ed5c0deb4b) | 2026-08-19 14:23 |
 | VTG Defense | Senior Database Engineer | Tysons Corner, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b5e3d67c41aeb6bc) | 2026-08-19 11:17 |
-| Delan Associates, Inc | Senior Java Developer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5102217947056314) | 2026-08-19 10:19 |
-| Ramsey Solutions | Analytics Engineer | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5037580e42be8ebd) | 2026-08-19 10:19 |
 
 
 ---

@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-23
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 3
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -35,17 +35,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Scala, Snowflake, SQL Server, MySQL, ETL, ELT, Tableau, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=f3d419dc292622cd)
-
----
-
-## 4. Site Reliability Engineering (SRE) - Maryland, US @ NTT DATA
-**Match Score:** 10.4%
-
-📍 **Location:** Baltimore, MD, US USA
-
-🔑 **Keywords:** Azure, GCP, BigQuery, Zookeeper, Scala, Kafka, CI/CD, Terraform, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8d51d47e65997196)
 
 ---
 
