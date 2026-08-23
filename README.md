@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-23 06:24
+Last updated: 2026-08-23 07:25
 
 ### 🚀 Daily Job Matches
 
@@ -437,9 +437,6 @@ Last updated: 2026-08-23 06:24
 | JPMorganChase | Security Engineer III - (Java/Python full stack) | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9df2105d22e3a63f) | 2026-08-19 07:31 |
 | Intermountain Health | Machine Learning Operations Engineer | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=30414b2a85fbe095) | 2026-08-19 07:31 |
 | Optum | Senior Data Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db41666c71cf00e6) | 2026-08-19 07:31 |
-| Mastercard | Senior Software Engineer | O'Fallon, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d131fb25875c7944) | 2026-08-19 06:27 |
-| NTT DATA | Senior Software Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=71e4ae5e09b571ae) | 2026-08-19 06:27 |
-| Index Analytics LLC | Database Administrator | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96b3c17f710c4b52) | 2026-08-19 06:27 |
 
 
 ---
