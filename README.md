@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 10:28
+Last updated: 2026-08-24 11:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 10:28 |
-| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 10:28 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 10:28 |
+| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 11:18 |
+| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 11:18 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 11:18 |
 | nan | Snowflake Data Engineer Frontend and Backend | Sacramento, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=19c0f41e24c188bc) | 2026-08-24 07:50 |
 | Ellipsis Health | Senior DevSecOps Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b5903b1348160f84) | 2026-08-24 02:17 |
 | JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e3fcc35e91c6408) | 2026-08-23 19:15 |
@@ -288,8 +288,6 @@ Last updated: 2026-08-24 10:28
 | Capgemini | Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=51ab8998579dcc3a) | 2026-08-20 12:27 |
 | Capgemini | Full Stack Developer - Java/ React | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c43bab62e6ea0712) | 2026-08-20 12:27 |
 | Capgemini | Full Stack Developer - Java/ React | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c2fa28942f5a9923) | 2026-08-20 12:27 |
-| FICO | Software Engineering - Senior Engineer | Reston, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2f8abb748a167939) | 2026-08-20 11:18 |
-| Prodapt Solutions | Senior DevOps Engineer | Richardson, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1b234d21055ac65b) | 2026-08-20 11:18 |
 
 
 ---
