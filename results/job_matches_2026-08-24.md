@@ -38,14 +38,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Delivery Senior Consultant, Data Engineering and Conversion Solutions @ Deloitte
+## 4. Senior DevSecOps Engineer @ Ellipsis Health
 **Match Score:** 11.8%
 
-📍 **Location:** Atlanta, GA, US USA
+📍 **Location:** San Francisco, CA, US USA
 
-🔑 **Keywords:** Redshift, Azure, Databricks, Google Cloud Platform, BigQuery, Spark, Scala, Snowflake, Talend, dbt
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Scala, CI/CD, Terraform, Docker, Kubernetes
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7f6f3843c2e2f33e)
+[Apply Here](https://www.indeed.com/viewjob?jk=b5903b1348160f84)
 
 ---
 
