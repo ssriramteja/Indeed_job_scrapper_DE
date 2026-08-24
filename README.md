@@ -1,14 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 15:29
+Last updated: 2026-08-24 16:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 15:29 |
+| SRM Technologies | MuleSoft Developer | Bonita Springs, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2ab3b7c309c34e68) | 2026-08-24 16:24 |
+| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 16:24 |
+| Vericast | Senior Data Engineer | San Antonio, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=31f95d9c50c74e3c) | 2026-08-24 16:24 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 16:24 |
+| Klaviyo | Software Engineer II, Test Frameworks & Tooling | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20778a070554f061) | 2026-08-24 16:24 |
 | North Carolina State University | REFRAME Platform Architect | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5bc4abda60b1248d) | 2026-08-24 15:29 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 15:29 |
 | nan | Senior Platform Engineer | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b05e2a1155f8c55a) | 2026-08-24 14:32 |
 | Newpage Digital Healthcare solutions | AI-Native Builder - Europe | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dd55c9ebdd278646) | 2026-08-24 12:27 |
 | Newpage Digital Healthcare solutions | AI-Native Builder- EST | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=67f359adeb372509) | 2026-08-24 12:27 |
@@ -279,10 +282,6 @@ Last updated: 2026-08-24 15:29
 | FRONT | Senior AI Platform Security Engineer - Contract to Hire | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afaa91243be013f5) | 2026-08-20 18:24 |
 | Ashburn Consulting | Systems Engineer | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=69c5c3ce3e81946d) | 2026-08-20 17:20 |
 | Frontapp | Senior AI Platform Security Engineer - Contract to Hire | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ae0f3e6a0329e2b7) | 2026-08-20 17:20 |
-| Optum | Senior Full Stack Engineer | Eden Prairie, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a9ea33155120cc34) | 2026-08-20 16:23 |
-| Cargill | Sr. Data Engineer | Wayzata, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=273dfb2fd34849a0) | 2026-08-20 16:23 |
-| Itron | DevOps Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0d4ea92b3de4658c) | 2026-08-20 16:23 |
-| SHAKTECH CORP | Database Architect | Woodlawn, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55f29600f2b8dc13) | 2026-08-20 16:23 |
 
 
 ---

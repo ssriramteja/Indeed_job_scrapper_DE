@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-08-24
 
-**Total Jobs Found:** 10
+**Total Jobs Found:** 13
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL || Charlotte, NC @ THEMESOFT
+## 1. MuleSoft Developer @ SRM Technologies
+**Match Score:** 16.7%
+
+📍 **Location:** Bonita Springs, FL, US USA
+
+🔑 **Keywords:** AWS, S3, SQS, SNS, RDS, Kafka, Oracle, SQL Server, PostgreSQL, MySQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2ab3b7c309c34e68)
+
+---
+
+## 2. Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL || Charlotte, NC @ THEMESOFT
 **Match Score:** 14.6%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. AI-Native Builder - Europe @ Newpage Digital Healthcare solutions
+## 3. AI-Native Builder - Europe @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
+## 4. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
+## 5. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +60,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. REFRAME Platform Architect @ North Carolina State University
+## 6. Senior Data Engineer @ Vericast
+**Match Score:** 13.9%
+
+📍 **Location:** San Antonio, TX, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, GCP, Hadoop, Hive, Spark, PySpark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=31f95d9c50c74e3c)
+
+---
+
+## 7. REFRAME Platform Architect @ North Carolina State University
 **Match Score:** 13.9%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -60,18 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Platform Engineer @ nan
-**Match Score:** 13.2%
-
-📍 **Location:** Reston, VA, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, API Gateway, IAM, RDS, Kafka, Splunk, CI/CD, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b05e2a1155f8c55a)
-
----
-
-## 7. Snowflake Data Engineer Frontend and Backend @ nan
+## 8. Snowflake Data Engineer Frontend and Backend @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -82,7 +93,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Software Engineer III - AI/ML Developer @ JPMorganChase
+## 9. Senior Platform Engineer @ nan
+**Match Score:** 13.2%
+
+📍 **Location:** Reston, VA, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, API Gateway, IAM, RDS, Kafka, Splunk, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b05e2a1155f8c55a)
+
+---
+
+## 10. Software Engineer III - AI/ML Developer @ JPMorganChase
 **Match Score:** 13.2%
 
 📍 **Location:** Plano, TX, US USA
@@ -93,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior DevSecOps Engineer @ Ellipsis Health
+## 11. Senior DevSecOps Engineer @ Ellipsis Health
 **Match Score:** 11.8%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -104,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. MDM Integration Engineer @ McLane Company
+## 12. MDM Integration Engineer @ McLane Company
 **Match Score:** 11.1%
 
 📍 **Location:** Temple, TX, US USA
@@ -112,6 +134,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Google Cloud Platform, GCP, BigQuery, Cloud Storage, Vertex AI, Scala, CI/CD, Terraform
 
 [Apply Here](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f)
+
+---
+
+## 13. Software Engineer II, Test Frameworks & Tooling @ Klaviyo
+**Match Score:** 10.4%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** AWS, RDS, Scala, Kafka, MySQL, CI/CD, Terraform, Kubernetes, pytest, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=20778a070554f061)
 
 ---
 
