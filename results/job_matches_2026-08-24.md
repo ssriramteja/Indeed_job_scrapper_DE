@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-24
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Snowflake Data Engineer Frontend and Backend @ nan
+## 2. AI-Native Builder - Europe @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dd55c9ebdd278646)
+
+---
+
+## 3. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=67f359adeb372509)
+
+---
+
+## 4. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, Glue, RDS, Azure, Vertex AI, Spark, Scala, MLOps, MLflow, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=167f9d8d4ef096eb)
+
+---
+
+## 5. Snowflake Data Engineer Frontend and Backend @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -27,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Machine Learning Engineer (MLOPS) @ The Coca-Cola Company
+## 6. Senior Machine Learning Engineer (MLOPS) @ The Coca-Cola Company
 **Match Score:** 13.2%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -38,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Software Engineer III - AI/ML Developer @ JPMorganChase
+## 7. Software Engineer III - AI/ML Developer @ JPMorganChase
 **Match Score:** 13.2%
 
 📍 **Location:** Plano, TX, US USA
@@ -49,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior DevSecOps Engineer @ Ellipsis Health
+## 8. Senior DevSecOps Engineer @ Ellipsis Health
 **Match Score:** 11.8%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -60,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. MDM Integration Engineer @ McLane Company
+## 9. MDM Integration Engineer @ McLane Company
 **Match Score:** 11.1%
 
 📍 **Location:** Temple, TX, US USA
