@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 05:29
+Last updated: 2026-08-24 06:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 05:29 |
-| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 05:29 |
+| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 06:37 |
+| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 06:37 |
 | Ellipsis Health | Senior DevSecOps Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b5903b1348160f84) | 2026-08-24 02:17 |
 | JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e3fcc35e91c6408) | 2026-08-23 19:15 |
 | Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3d419dc292622cd) | 2026-08-23 06:24 |
@@ -291,12 +291,6 @@ Last updated: 2026-08-24 05:29
 | JPMorganChase | Software Engineer III - Full Stack | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=633e4ef91698f188) | 2026-08-20 10:20 |
 | Quantum Sky | ISSM / Security Automation Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=854b2d4eca3cc1a0) | 2026-08-20 10:20 |
 | Cisco | Cloud Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06c149b0229a30a1) | 2026-08-20 08:26 |
-| JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1cb452da16920d81) | 2026-08-20 06:28 |
-| Roblox | Senior Software Engineer - Marketplace Foundation | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=17d6ae908b8e7d72) | 2026-08-20 06:28 |
-| Roblox | Senior Software Engineer - Marketplace Foundation | San Mateo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f458b7778293846f) | 2026-08-20 06:28 |
-| Roblox | Senior Software Engineer - Marketplace Foundation | San Mateo, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8d6afe51fc6e261a) | 2026-08-20 06:28 |
-| JPMorganChase | Data Engineer II - AWS/PySpark/ETL | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e56fac37798dfc2) | 2026-08-20 06:28 |
-| nan | AI WebCoder | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b74d9bc113520762) | 2026-08-20 06:28 |
 
 
 ---
