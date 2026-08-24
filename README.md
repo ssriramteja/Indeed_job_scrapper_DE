@@ -1,13 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 19:22
+Last updated: 2026-08-24 20:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 19:22 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-24 19:22 |
+| Hollstadt Consulting | Data Engineer | MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e591308ec52a9582) | 2026-08-24 20:19 |
+| Hollstadt Consulting | Data Engineer | MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=253dcdba301dd54b) | 2026-08-24 20:19 |
+| Kemper | Senior Data Systems Analyst | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7460cb3c8c717a9f) | 2026-08-24 20:19 |
+| Toyota North America | Sr. Engineer - Software Development Engineering | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e94d5927287b9bb7) | 2026-08-24 20:19 |
+| Optum | Senior Software Engineer - Remote | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48eda2064cab8ffc) | 2026-08-24 20:19 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 20:19 |
+| Optum | IIB and MQ Platform Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7aa947e1b4b6a598) | 2026-08-24 20:19 |
+| Bank of America | Data Engineer â€“ Python/AI | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13959415bddcd4dd) | 2026-08-24 20:19 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-24 20:19 |
 | TSOLife | Software Engineer, LLM Pipeline & AI Agents | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ffa9745f98e8936) | 2026-08-24 19:22 |
 | BECU | Sr Data Engineer | WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=30fbcef65758a1bd) | 2026-08-24 18:25 |
 | LPL Financial | API & Data Engineer II | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c5fde74cfceac685) | 2026-08-24 18:25 |
@@ -277,18 +284,6 @@ Last updated: 2026-08-24 19:22
 | Alchemy | GCP Data Engineer / Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b975b94e360553b7) | 2026-08-20 21:19 |
 | Vital Services | Senior Data Engineer | Allen, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fde9e1e8cee00e1c) | 2026-08-20 21:19 |
 | Vital Services | Senior Data Engineer | Oak Ridge, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b88e6aff03fdd859) | 2026-08-20 21:19 |
-| Armstrong World Industries | Data Engineer Job | Lancaster, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=83106bef0df0d936) | 2026-08-20 20:18 |
-| Berkshire Hathaway Specialty Insurance | Senior Data Engineer, Berxi | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdcd811be7d4a19d) | 2026-08-20 20:18 |
-| C.H. Robinson | Software Engineer III | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cea1d8921bab123) | 2026-08-20 20:18 |
-| Capgemini | Snowflake Data Engineer + Junior Architect | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9c52bdf1b2f2d60) | 2026-08-20 20:18 |
-| Berkshire Hathaway Specialty Insurance | Data Scientist / Senior Data Scientist (Risk Modeling) | San Ramon, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9ce4e28923d1134c) | 2026-08-20 20:18 |
-| CoStar Group | Senior Data Engineer | Richmond, VA, US USA | 25.0% | [Apply](https://www.indeed.com/viewjob?jk=5d356376aee9aed9) | 2026-08-20 19:23 |
-| Hollstadt Consulting | Senior AI/ML Full Stack Engineer | MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eb01dfa6121864df) | 2026-08-20 19:23 |
-| CoStar Group | Software Engineer II - Backend | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5500d6b30d337bf5) | 2026-08-20 19:23 |
-| Texas Health and Human Services Commission | Cloud Solution Architect | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ff372041e842459) | 2026-08-20 19:23 |
-| US Mobile | Analytics Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=38cfb69843b2db92) | 2026-08-20 19:23 |
-| The Cigna Group | Application Development Senior Advisor- Hybrid | Bloomfield, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4000419aead97d7c) | 2026-08-20 19:23 |
-| American Express | Software Engineer II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f732389fad9f5f1e) | 2026-08-20 19:23 |
 
 
 ---
