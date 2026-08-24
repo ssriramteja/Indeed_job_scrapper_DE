@@ -1,20 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 20:19
+Last updated: 2026-08-24 21:20
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Eli Lilly | Data Engineer | Indianapolis, IN, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=335286c429f8d5b7) | 2026-08-24 21:20 |
+| Capgemini | Senior Cloud Engineer - Azure Infrastructure & Databricks Platform | Warren, MI, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9ad6d99882cd158) | 2026-08-24 21:20 |
+| JPMorganChase | Software Engineer III - C# / Java | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=96c4f941b3b74b9a) | 2026-08-24 21:20 |
+| One Call | Full Stack Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1abdcdcc9cd7325e) | 2026-08-24 21:20 |
+| Appex Innovation | Sr Java Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1dec7a0320c1fc00) | 2026-08-24 21:20 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 21:20 |
+| Office Ally | Cloud Engineer | Vancouver, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b8fe41a028c8718) | 2026-08-24 21:20 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-24 21:20 |
 | Hollstadt Consulting | Data Engineer | MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e591308ec52a9582) | 2026-08-24 20:19 |
 | Hollstadt Consulting | Data Engineer | MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=253dcdba301dd54b) | 2026-08-24 20:19 |
 | Kemper | Senior Data Systems Analyst | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7460cb3c8c717a9f) | 2026-08-24 20:19 |
 | Toyota North America | Sr. Engineer - Software Development Engineering | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e94d5927287b9bb7) | 2026-08-24 20:19 |
 | Optum | Senior Software Engineer - Remote | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=48eda2064cab8ffc) | 2026-08-24 20:19 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 20:19 |
 | Optum | IIB and MQ Platform Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7aa947e1b4b6a598) | 2026-08-24 20:19 |
 | Bank of America | Data Engineer â€“ Python/AI | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=13959415bddcd4dd) | 2026-08-24 20:19 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-24 20:19 |
 | TSOLife | Software Engineer, LLM Pipeline & AI Agents | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ffa9745f98e8936) | 2026-08-24 19:22 |
 | BECU | Sr Data Engineer | WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=30fbcef65758a1bd) | 2026-08-24 18:25 |
 | LPL Financial | API & Data Engineer II | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c5fde74cfceac685) | 2026-08-24 18:25 |
@@ -281,9 +287,6 @@ Last updated: 2026-08-24 20:19
 | nan | Data Analytics Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=42e7817a8874a099) | 2026-08-20 22:17 |
 | Happen Bank | Sr Cloud Infrastructure Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4e748964b56e3dd) | 2026-08-20 22:17 |
 | Happen Bank | Sr Cloud Infrastructure Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0101421529dd218) | 2026-08-20 22:17 |
-| Alchemy | GCP Data Engineer / Architect | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b975b94e360553b7) | 2026-08-20 21:19 |
-| Vital Services | Senior Data Engineer | Allen, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fde9e1e8cee00e1c) | 2026-08-20 21:19 |
-| Vital Services | Senior Data Engineer | Oak Ridge, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b88e6aff03fdd859) | 2026-08-20 21:19 |
 
 
 ---
