@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-24
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Senior Machine Learning Engineer (MLOPS) @ The Coca-Cola Company
+## 2. Snowflake Data Engineer Frontend and Backend @ nan
+**Match Score:** 13.2%
+
+📍 **Location:** Sacramento, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Hadoop, Hive, Spark, Scala, Kafka, Snowflake, Oracle
+
+[Apply Here](https://www.indeed.com/viewjob?jk=19c0f41e24c188bc)
+
+---
+
+## 3. Senior Machine Learning Engineer (MLOPS) @ The Coca-Cola Company
 **Match Score:** 13.2%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Software Engineer III - AI/ML Developer @ JPMorganChase
+## 4. Software Engineer III - AI/ML Developer @ JPMorganChase
 **Match Score:** 13.2%
 
 📍 **Location:** Plano, TX, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior DevSecOps Engineer @ Ellipsis Health
+## 5. Senior DevSecOps Engineer @ Ellipsis Health
 **Match Score:** 11.8%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -46,6 +57,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Scala, CI/CD, Terraform, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=b5903b1348160f84)
+
+---
+
+## 6. MDM Integration Engineer @ McLane Company
+**Match Score:** 11.1%
+
+📍 **Location:** Temple, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Google Cloud Platform, GCP, BigQuery, Cloud Storage, Vertex AI, Scala, CI/CD, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f)
 
 ---
 
