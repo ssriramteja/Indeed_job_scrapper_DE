@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 03:44
+Last updated: 2026-08-24 04:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 03:44 |
-| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 03:44 |
+| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 04:35 |
+| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 04:35 |
 | Ellipsis Health | Senior DevSecOps Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b5903b1348160f84) | 2026-08-24 02:17 |
 | JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e3fcc35e91c6408) | 2026-08-23 19:15 |
 | Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3d419dc292622cd) | 2026-08-23 06:24 |
@@ -298,10 +298,6 @@ Last updated: 2026-08-24 03:44
 | JPMorganChase | Data Engineer II - AWS/PySpark/ETL | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e56fac37798dfc2) | 2026-08-20 06:28 |
 | nan | AI WebCoder | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b74d9bc113520762) | 2026-08-20 06:28 |
 | Barclays | Senior BI Developer | Whippany, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9c28f56c13c2e0b4) | 2026-08-20 05:22 |
-| Leidos | Software Engineer | Morgantown, WV, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=07a7db885e08246b) | 2026-08-20 04:27 |
-| University of California Berkeley | Database Administrator (0597U) Berkeley IT, #88217 | Berkeley, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a83c7618f2ffb5df) | 2026-08-20 04:27 |
-| nan | Senior Software Engineer, Data | Manasquan, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8092575b540f4d54) | 2026-08-20 04:27 |
-| Cencora | Sr. Azure Cloud Engineer | Conshohocken, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d5577a89f311660) | 2026-08-20 04:27 |
 
 
 ---
