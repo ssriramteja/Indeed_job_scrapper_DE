@@ -1,17 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 12:27
+Last updated: 2026-08-24 13:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 12:27 |
+| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 13:42 |
+| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 13:42 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 13:42 |
 | Newpage Digital Healthcare solutions | AI-Native Builder - Europe | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dd55c9ebdd278646) | 2026-08-24 12:27 |
 | Newpage Digital Healthcare solutions | AI-Native Builder- EST | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=67f359adeb372509) | 2026-08-24 12:27 |
 | Newpage Digital Healthcare solutions | AI-Native Builder- EST | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=167f9d8d4ef096eb) | 2026-08-24 12:27 |
-| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 12:27 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 12:27 |
 | nan | Snowflake Data Engineer Frontend and Backend | Sacramento, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=19c0f41e24c188bc) | 2026-08-24 07:50 |
 | Ellipsis Health | Senior DevSecOps Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b5903b1348160f84) | 2026-08-24 02:17 |
 | JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e3fcc35e91c6408) | 2026-08-23 19:15 |
@@ -284,10 +284,6 @@ Last updated: 2026-08-24 12:27
 | SHAKTECH CORP | Database Architect | Woodlawn, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55f29600f2b8dc13) | 2026-08-20 16:23 |
 | Integra Connect | Senior Platform Engineer – Snowflake (Azure / Entra ID) | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7029dd2c0aa17f4f) | 2026-08-20 15:25 |
 | Big Bridge Holdings, Inc. | Senior DevOps Engineer (With SRE Trajectory) | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7e17a536e9381936) | 2026-08-20 15:25 |
-| Capgemini | Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b878c9ad00168635) | 2026-08-20 13:38 |
-| Capgemini | Full Stack Developer - Java/ React | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5a41ffcb11e1749) | 2026-08-20 13:38 |
-| Capgemini | Full Stack Developer - Java/ React | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=60aa25871e93c329) | 2026-08-20 13:38 |
-| Luxoft | Senior Java Developer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ddda7a6ac90148d4) | 2026-08-20 13:38 |
 
 
 ---
