@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 13:42
+Last updated: 2026-08-24 14:32
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 13:42 |
-| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 13:42 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 13:42 |
+| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 14:32 |
+| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 14:32 |
+| nan | Senior Platform Engineer | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b05e2a1155f8c55a) | 2026-08-24 14:32 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 14:32 |
 | Newpage Digital Healthcare solutions | AI-Native Builder - Europe | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dd55c9ebdd278646) | 2026-08-24 12:27 |
 | Newpage Digital Healthcare solutions | AI-Native Builder- EST | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=67f359adeb372509) | 2026-08-24 12:27 |
 | Newpage Digital Healthcare solutions | AI-Native Builder- EST | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=167f9d8d4ef096eb) | 2026-08-24 12:27 |

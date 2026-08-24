@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-24
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 10
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -71,7 +71,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Software Engineer III - AI/ML Developer @ JPMorganChase
+## 7. Senior Platform Engineer @ nan
+**Match Score:** 13.2%
+
+📍 **Location:** Reston, VA, US USA
+
+🔑 **Keywords:** AWS, Lambda, S3, API Gateway, IAM, RDS, Kafka, Splunk, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b05e2a1155f8c55a)
+
+---
+
+## 8. Software Engineer III - AI/ML Developer @ JPMorganChase
 **Match Score:** 13.2%
 
 📍 **Location:** Plano, TX, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior DevSecOps Engineer @ Ellipsis Health
+## 9. Senior DevSecOps Engineer @ Ellipsis Health
 **Match Score:** 11.8%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. MDM Integration Engineer @ McLane Company
+## 10. MDM Integration Engineer @ McLane Company
 **Match Score:** 11.1%
 
 📍 **Location:** Temple, TX, US USA
