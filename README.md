@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-23 23:11
+Last updated: 2026-08-24 00:42
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-23 23:11 |
-| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-23 23:11 |
+| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 00:42 |
+| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 00:42 |
 | JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e3fcc35e91c6408) | 2026-08-23 19:15 |
 | Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3d419dc292622cd) | 2026-08-23 06:24 |
 | Deloitte | Delivery Senior Consultant, Data Engineering and Conversion Solutions | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f6f3843c2e2f33e) | 2026-08-23 03:42 |
@@ -347,25 +347,6 @@ Last updated: 2026-08-23 23:11
 | BV Teck | Full Stack Solutions Developer – Java | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f78ec24375fa841a) | 2026-08-20 02:11 |
 | BV Teck | Kafka Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=332255b8348a2d43) | 2026-08-20 02:11 |
 | BV Teck | Java Application Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=786034c3bb092539) | 2026-08-20 02:11 |
-| RPA INFOTECH INDIA | Databricks Architect | Jersey City, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=77c4bca427782367) | 2026-08-20 00:41 |
-| Equifax | Senior Full Stack Engineer | St. Louis, MO, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=9d0497d85a50331b) | 2026-08-20 00:41 |
-| The Cigna Group | Software Engineering Senior Advisor | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cab4f4baaddc2f11) | 2026-08-20 00:41 |
-| National Information Solutions Cooperative (NISC) | Software Developer - Telecom Bill Calculations Software (Back End, Python) | St. Louis, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f91d5232f542a491) | 2026-08-20 00:41 |
-| Consertus | Power BI Developer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=216c50d086e32dde) | 2026-08-20 00:41 |
-| Q2ebanking | Cloud Platform Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=04718bbf73627185) | 2026-08-20 00:41 |
-| THEMESOFT | Database Developer (PostgreSQL/Oracle) | Menands, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=caee2aad6bb7dab7) | 2026-08-20 00:41 |
-| Dynata | Senior Data Engineer | Westport, CT, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=66c7347957879848) | 2026-08-19 23:15 |
-| Washington University in St. Louis | C-BRAIN Data Engineer (Remote) - Neurology | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ee6e7926c1d2e476) | 2026-08-19 23:15 |
-| Dayforce | Software Developer Sr | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=81c4062ee8a8164c) | 2026-08-19 23:15 |
-| NOVOGRADAC & COMPANY | Data Engineer | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9760fadd58dc6e15) | 2026-08-19 23:15 |
-| NOVOGRADAC & COMPANY | Data Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=82ff5ec36207cba7) | 2026-08-19 23:15 |
-| NOVOGRADAC & COMPANY | Data Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba4f0ae852975856) | 2026-08-19 23:15 |
-| NOVOGRADAC & COMPANY | Data Engineer | Long Beach, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1352988239f97b32) | 2026-08-19 23:15 |
-| Pilot Flying J | Sr Engineer, Data Engineering | Knoxville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2160f0a5605e5661) | 2026-08-19 23:15 |
-| McKesson | Software Engineer- Data Insights | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f46255dc80a86a4a) | 2026-08-19 23:15 |
-| Lumen | Cloud Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0e00a75e4a5ed271) | 2026-08-19 23:15 |
-| Abbott | Senior Software Engineer | Alameda, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=308aeb93cece3d47) | 2026-08-19 23:15 |
-| Hilton | AWS Cloud Architect (contract) | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=351b70d13dc3de68) | 2026-08-19 23:15 |
 
 
 ---
