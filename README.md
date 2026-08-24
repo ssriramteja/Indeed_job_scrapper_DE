@@ -1,15 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 14:32
+Last updated: 2026-08-24 15:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 14:32 |
-| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 14:32 |
+| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 15:29 |
+| North Carolina State University | REFRAME Platform Architect | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5bc4abda60b1248d) | 2026-08-24 15:29 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 15:29 |
 | nan | Senior Platform Engineer | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b05e2a1155f8c55a) | 2026-08-24 14:32 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 14:32 |
 | Newpage Digital Healthcare solutions | AI-Native Builder - Europe | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dd55c9ebdd278646) | 2026-08-24 12:27 |
 | Newpage Digital Healthcare solutions | AI-Native Builder- EST | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=67f359adeb372509) | 2026-08-24 12:27 |
 | Newpage Digital Healthcare solutions | AI-Native Builder- EST | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=167f9d8d4ef096eb) | 2026-08-24 12:27 |
@@ -283,8 +283,6 @@ Last updated: 2026-08-24 14:32
 | Cargill | Sr. Data Engineer | Wayzata, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=273dfb2fd34849a0) | 2026-08-20 16:23 |
 | Itron | DevOps Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0d4ea92b3de4658c) | 2026-08-20 16:23 |
 | SHAKTECH CORP | Database Architect | Woodlawn, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55f29600f2b8dc13) | 2026-08-20 16:23 |
-| Integra Connect | Senior Platform Engineer – Snowflake (Azure / Entra ID) | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7029dd2c0aa17f4f) | 2026-08-20 15:25 |
-| Big Bridge Holdings, Inc. | Senior DevOps Engineer (With SRE Trajectory) | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7e17a536e9381936) | 2026-08-20 15:25 |
 
 
 ---

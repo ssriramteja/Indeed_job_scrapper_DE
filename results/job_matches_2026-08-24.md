@@ -49,29 +49,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Snowflake Data Engineer Frontend and Backend @ nan
-**Match Score:** 13.2%
+## 5. REFRAME Platform Architect @ North Carolina State University
+**Match Score:** 13.9%
 
-📍 **Location:** Sacramento, CA, US USA
+📍 **Location:** Raleigh, NC, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Hadoop, Hive, Spark, Scala, Kafka, Snowflake, Oracle
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Vertex AI, Scala, NoSQL, MLOps, MLflow
 
-[Apply Here](https://www.indeed.com/viewjob?jk=19c0f41e24c188bc)
-
----
-
-## 6. Senior Machine Learning Engineer (MLOPS) @ The Coca-Cola Company
-**Match Score:** 13.2%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Medallion Architecture, GCP, Vertex AI, Scala, MLOps, CI/CD, GitHub Actions
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fdb054133d54c854)
+[Apply Here](https://www.indeed.com/viewjob?jk=5bc4abda60b1248d)
 
 ---
 
-## 7. Senior Platform Engineer @ nan
+## 6. Senior Platform Engineer @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** Reston, VA, US USA
@@ -79,6 +68,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, S3, API Gateway, IAM, RDS, Kafka, Splunk, CI/CD, Jenkins
 
 [Apply Here](https://www.indeed.com/viewjob?jk=b05e2a1155f8c55a)
+
+---
+
+## 7. Snowflake Data Engineer Frontend and Backend @ nan
+**Match Score:** 13.2%
+
+📍 **Location:** Sacramento, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Hadoop, Hive, Spark, Scala, Kafka, Snowflake, Oracle
+
+[Apply Here](https://www.indeed.com/viewjob?jk=19c0f41e24c188bc)
 
 ---
 
