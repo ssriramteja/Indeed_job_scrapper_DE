@@ -1,14 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 22:16
+Last updated: 2026-08-24 23:14
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| FloQast | Senior DevOps Engineer, AI Platform | San Jose, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=425b63d71cb4a186) | 2026-08-24 23:14 |
+| Quantic | Software Engineer – NestJS & Backend Architecture | Exton, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8a15e7186a589e33) | 2026-08-24 23:14 |
+| New Orleans Saints and Pelicans | Software Engineer (Basketball Operations) | Metairie, LA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=19103d0713a06353) | 2026-08-24 23:14 |
+| Optum | Senior Software and DevOps Engineer - Remote | Minnetonka, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c75385a79049796) | 2026-08-24 23:14 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 23:14 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-24 23:14 |
+| Tessera Labs | Software Engineer, Backend | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09b90651192a24c2) | 2026-08-24 23:14 |
+| Cognizant | Alteryx Systems & Platform Administrator (Onsite) | Buffalo, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=74022046dd0742ee) | 2026-08-24 23:14 |
 | nan | Software Engineer – Independent Contractor / Project-Based (Remote) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=671885b17b760d63) | 2026-08-24 22:16 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 22:16 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-24 22:16 |
 | Eli Lilly | Data Engineer | Indianapolis, IN, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=335286c429f8d5b7) | 2026-08-24 21:20 |
 | Capgemini | Senior Cloud Engineer - Azure Infrastructure & Databricks Platform | Warren, MI, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9ad6d99882cd158) | 2026-08-24 21:20 |
 | JPMorganChase | Software Engineer III - C# / Java | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=96c4f941b3b74b9a) | 2026-08-24 21:20 |
@@ -265,29 +271,6 @@ Last updated: 2026-08-24 22:16
 | nan | Analytics Engineer - Direct Hire - 4 days onsite | Morris Plains, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=28383d93819eb75f) | 2026-08-20 23:17 |
 | Cognizant | Machine Learning Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dc92f44a3afb58a3) | 2026-08-20 23:17 |
 | Cognizant | Senior AWS Data Engineer with scrum skills- Onsite | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=817bdac6a5468393) | 2026-08-20 23:17 |
-| T. Mims Corp. | Senior Data Engineer — AI/ML Data Platforms | Lakeland, FL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ac713d0689b63faa) | 2026-08-20 22:17 |
-| Fractal Analytics | Snowflake_DBT Developers | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=acb81b67805de775) | 2026-08-20 22:17 |
-| JPMorganChase | Software Engineer III - C# / Java | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=fdaf569063c2010c) | 2026-08-20 22:17 |
-| Sperry Rail | Cloud Engineer | Shelton, CT, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6013a09b90a06810) | 2026-08-20 22:17 |
-| doctronic | Senior Data Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f2a1804955dab550) | 2026-08-20 22:17 |
-| General Motors (GM) | Senior Software Engineer | Warren, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f14a4b8559fd52ba) | 2026-08-20 22:17 |
-| CURE Auto Insurance | Data Engineer | Princeton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=23d8077cddaec91f) | 2026-08-20 22:17 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b5ae117696ae2b3c) | 2026-08-20 22:17 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e49708d8edca6e04) | 2026-08-20 22:17 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Herndon, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c7bc23cafde3de00) | 2026-08-20 22:17 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6a04069d3f3584ed) | 2026-08-20 22:17 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7f02fd8499365382) | 2026-08-20 22:17 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3f3984756cdac147) | 2026-08-20 22:17 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Detroit, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b605dce7b0600d93) | 2026-08-20 22:17 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Cleveland, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2e82c34131ee2765) | 2026-08-20 22:17 |
-| Team Velocity Marketing | Senior Full Stack .NET Developer | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=22bf48116516e1d7) | 2026-08-20 22:17 |
-| Quality Insights | Data Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff47e82bfc5817a2) | 2026-08-20 22:17 |
-| nan | Associate, Analytics Engineer | Santa Monica, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cb0091e3c3966a16) | 2026-08-20 22:17 |
-| nan | Associate, Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e74f8cda1493a2c1) | 2026-08-20 22:17 |
-| Rockwoods Inc | Guidewire Data Architect | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5f2d40a87f71d317) | 2026-08-20 22:17 |
-| nan | Data Analytics Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=42e7817a8874a099) | 2026-08-20 22:17 |
-| Happen Bank | Sr Cloud Infrastructure Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4e748964b56e3dd) | 2026-08-20 22:17 |
-| Happen Bank | Sr Cloud Infrastructure Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0101421529dd218) | 2026-08-20 22:17 |
 
 
 ---
