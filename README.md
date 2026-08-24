@@ -1,15 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 17:22
+Last updated: 2026-08-24 18:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BECU | Sr Data Engineer | WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=30fbcef65758a1bd) | 2026-08-24 18:25 |
+| LPL Financial | API & Data Engineer II | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c5fde74cfceac685) | 2026-08-24 18:25 |
+| Exadel | Middle/Senior Forward Deployed Engineer (Python, AI) | Walnut Creek, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=91d479728e749c2b) | 2026-08-24 18:25 |
+| Exadel | Middle/Senior Forward Deployed Engineer (Python, AI) | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d71f05982f737348) | 2026-08-24 18:25 |
+| Landmark Properties, Inc. | Microsoft Fabric Data Engineer | Athens, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9ea4631bd176d0be) | 2026-08-24 18:25 |
+| Landmark Properties, Inc. | Microsoft Fabric Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=68a59ec1d4554527) | 2026-08-24 18:25 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 18:25 |
 | MathWorks | Senior Cloud Reliability Solutions Engineer | Natick, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=108f1ed54def2a35) | 2026-08-24 17:22 |
-| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 17:22 |
 | BankUnited | AI/ML Solutions Engineer | Miami Lakes, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cbfd63528cbfd9b2) | 2026-08-24 17:22 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 17:22 |
 | Citizens | Senior Data Engineer | Johnston, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee930e9556b7274f) | 2026-08-24 17:22 |
 | ARS/Rescue Rooter | Azure Cloud Engineer | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=373e4d2080b90972) | 2026-08-24 17:22 |
 | SRM Technologies | MuleSoft Developer | Bonita Springs, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2ab3b7c309c34e68) | 2026-08-24 16:24 |
@@ -282,8 +287,6 @@ Last updated: 2026-08-24 17:22
 | US Mobile | Analytics Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=38cfb69843b2db92) | 2026-08-20 19:23 |
 | The Cigna Group | Application Development Senior Advisor- Hybrid | Bloomfield, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4000419aead97d7c) | 2026-08-20 19:23 |
 | American Express | Software Engineer II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f732389fad9f5f1e) | 2026-08-20 19:23 |
-| Tiger Analytics | Senior Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba4ddae196475dfd) | 2026-08-20 18:24 |
-| FRONT | Senior AI Platform Security Engineer - Contract to Hire | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afaa91243be013f5) | 2026-08-20 18:24 |
 
 
 ---

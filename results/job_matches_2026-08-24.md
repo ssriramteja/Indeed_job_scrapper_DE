@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-24
 
-**Total Jobs Found:** 15
+**Total Jobs Found:** 20
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Senior Cloud Reliability Solutions Engineer @ MathWorks
+## 2. Sr Data Engineer @ BECU
+**Match Score:** 16.0%
+
+📍 **Location:** WA, US USA
+
+🔑 **Keywords:** AWS, Redshift, RDS, Azure, Data Factory, Databricks, Event Hubs, GCP, Scala, Snowflake
+
+[Apply Here](https://www.indeed.com/viewjob?jk=30fbcef65758a1bd)
+
+---
+
+## 3. API & Data Engineer II @ LPL Financial
+**Match Score:** 15.3%
+
+📍 **Location:** Fort Mill, SC, US USA
+
+🔑 **Keywords:** AWS, Glue, Lambda, S3, API Gateway, RDS, Spark, PySpark, Scala, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c5fde74cfceac685)
+
+---
+
+## 4. Senior Cloud Reliability Solutions Engineer @ MathWorks
 **Match Score:** 15.3%
 
 📍 **Location:** Natick, MA, US USA
@@ -27,18 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL || Charlotte, NC @ THEMESOFT
-**Match Score:** 14.6%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** IAM, GCP, BigQuery, Cloud Storage, Hive, Spark, Scala, Kafka, NoSQL, Data Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=93687bce41c54bba)
-
----
-
-## 4. AI-Native Builder - Europe @ Newpage Digital Healthcare solutions
+## 5. AI-Native Builder - Europe @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
+## 6. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
+## 7. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -71,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Data Engineer @ Vericast
+## 8. Senior Data Engineer @ Vericast
 **Match Score:** 13.9%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -82,7 +93,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. REFRAME Platform Architect @ North Carolina State University
+## 9. Middle/Senior Forward Deployed Engineer (Python, AI) @ Exadel
+**Match Score:** 13.9%
+
+📍 **Location:** Walnut Creek, CA, US USA
+
+🔑 **Keywords:** AWS, Azure, Databricks, GCP, Spark, Snowflake, PostgreSQL, MySQL, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=91d479728e749c2b)
+
+---
+
+## 10. Middle/Senior Forward Deployed Engineer (Python, AI) @ Exadel
+**Match Score:** 13.9%
+
+📍 **Location:** Tampa, FL, US USA
+
+🔑 **Keywords:** AWS, Azure, Databricks, GCP, Spark, Snowflake, PostgreSQL, MySQL, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d71f05982f737348)
+
+---
+
+## 11. REFRAME Platform Architect @ North Carolina State University
 **Match Score:** 13.9%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -93,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Snowflake Data Engineer Frontend and Backend @ nan
+## 12. Snowflake Data Engineer Frontend and Backend @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -104,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Platform Engineer @ nan
+## 13. Senior Platform Engineer @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** Reston, VA, US USA
@@ -115,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. AI/ML Solutions Engineer @ BankUnited
+## 14. AI/ML Solutions Engineer @ BankUnited
 **Match Score:** 13.2%
 
 📍 **Location:** Miami Lakes, FL, US USA
@@ -126,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior DevSecOps Engineer @ Ellipsis Health
+## 15. Senior DevSecOps Engineer @ Ellipsis Health
 **Match Score:** 11.8%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -137,7 +170,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. MDM Integration Engineer @ McLane Company
+## 16. Microsoft Fabric Data Engineer @ Landmark Properties, Inc.
+**Match Score:** 11.1%
+
+📍 **Location:** Athens, GA, US USA
+
+🔑 **Keywords:** RDS, Data Factory, Medallion Architecture, Dataflow, Spark, PySpark, Scala, Power BI, CI/CD, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9ea4631bd176d0be)
+
+---
+
+## 17. Microsoft Fabric Data Engineer @ Landmark Properties, Inc.
+**Match Score:** 11.1%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** RDS, Data Factory, Medallion Architecture, Dataflow, Spark, PySpark, Scala, Power BI, CI/CD, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=68a59ec1d4554527)
+
+---
+
+## 18. MDM Integration Engineer @ McLane Company
 **Match Score:** 11.1%
 
 📍 **Location:** Temple, TX, US USA
@@ -148,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Senior Data Engineer @ Citizens
+## 19. Senior Data Engineer @ Citizens
 **Match Score:** 10.4%
 
 📍 **Location:** Johnston, RI, US USA
@@ -159,7 +214,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Azure Cloud Engineer @ ARS/Rescue Rooter
+## 20. Azure Cloud Engineer @ ARS/Rescue Rooter
 **Match Score:** 10.4%
 
 📍 **Location:** Memphis, TN, US USA
