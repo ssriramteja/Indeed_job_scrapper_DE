@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 02:17
+Last updated: 2026-08-24 03:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 02:17 |
-| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 02:17 |
+| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 03:44 |
+| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fdb054133d54c854) | 2026-08-24 03:44 |
 | Ellipsis Health | Senior DevSecOps Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b5903b1348160f84) | 2026-08-24 02:17 |
 | JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e3fcc35e91c6408) | 2026-08-23 19:15 |
 | Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3d419dc292622cd) | 2026-08-23 06:24 |
@@ -302,18 +302,6 @@ Last updated: 2026-08-24 02:17
 | University of California Berkeley | Database Administrator (0597U) Berkeley IT, #88217 | Berkeley, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a83c7618f2ffb5df) | 2026-08-20 04:27 |
 | nan | Senior Software Engineer, Data | Manasquan, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8092575b540f4d54) | 2026-08-20 04:27 |
 | Cencora | Sr. Azure Cloud Engineer | Conshohocken, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d5577a89f311660) | 2026-08-20 04:27 |
-| VTG Defense | Systems Engineer SME | Tysons Corner, VA, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=73e738969e8679aa) | 2026-08-20 03:39 |
-| PlayStation | Senior Production Operations Engineer | San Diego, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=84465101ecfed6f0) | 2026-08-20 03:39 |
-| CBRE | Cybersecurity Sr Engineer | Richardson, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ad4d8655d28b7570) | 2026-08-20 03:39 |
-| Teichert Construction | Data & AI Engineer | Sacramento, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3bc7127badc11937) | 2026-08-20 03:39 |
-| NTT DATA | Sr SDET Engineer (Selenium, Playwright / Cypress, Java / Python, FTE, Onsite) | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0297dc62d73e5356) | 2026-08-20 03:39 |
-| LiveRamp | Co-Op, DevOps Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=40696df5eb2aec78) | 2026-08-20 03:39 |
-| Nordstrom | Data Engineer 1, Insights Delivery Finance (Hybrid - Seattle, WA) | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=304b246d7ce7389e) | 2026-08-20 03:39 |
-| Cornerstone OnDemand | Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ac607ddc0e1cc3a) | 2026-08-20 03:39 |
-| nan | Data Engineer | Milwaukee, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dbb5062224932805) | 2026-08-20 03:39 |
-| United Airlines | Developer - Information Technology | Arlington Heights, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c32bb2b80f4dc7f9) | 2026-08-20 03:39 |
-| Dollar General | DATA SCIENTIST | Goodlettsville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9e9e55514658931) | 2026-08-20 03:39 |
-| BRMi | Senior Azure Cloud & GitHub Platform Engineer (Hybrid) | Vienna, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ee7752f8c95ab53) | 2026-08-20 03:39 |
 
 
 ---
