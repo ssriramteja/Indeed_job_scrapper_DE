@@ -1,15 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 16:24
+Last updated: 2026-08-24 17:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| MathWorks | Senior Cloud Reliability Solutions Engineer | Natick, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=108f1ed54def2a35) | 2026-08-24 17:22 |
+| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 17:22 |
+| BankUnited | AI/ML Solutions Engineer | Miami Lakes, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cbfd63528cbfd9b2) | 2026-08-24 17:22 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 17:22 |
+| Citizens | Senior Data Engineer | Johnston, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee930e9556b7274f) | 2026-08-24 17:22 |
+| ARS/Rescue Rooter | Azure Cloud Engineer | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=373e4d2080b90972) | 2026-08-24 17:22 |
 | SRM Technologies | MuleSoft Developer | Bonita Springs, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2ab3b7c309c34e68) | 2026-08-24 16:24 |
-| THEMESOFT | Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL \|\| Charlotte, NC | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93687bce41c54bba) | 2026-08-24 16:24 |
 | Vericast | Senior Data Engineer | San Antonio, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=31f95d9c50c74e3c) | 2026-08-24 16:24 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 16:24 |
 | Klaviyo | Software Engineer II, Test Frameworks & Tooling | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=20778a070554f061) | 2026-08-24 16:24 |
 | North Carolina State University | REFRAME Platform Architect | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5bc4abda60b1248d) | 2026-08-24 15:29 |
 | nan | Senior Platform Engineer | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b05e2a1155f8c55a) | 2026-08-24 14:32 |
@@ -280,8 +284,6 @@ Last updated: 2026-08-24 16:24
 | American Express | Software Engineer II | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f732389fad9f5f1e) | 2026-08-20 19:23 |
 | Tiger Analytics | Senior Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba4ddae196475dfd) | 2026-08-20 18:24 |
 | FRONT | Senior AI Platform Security Engineer - Contract to Hire | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afaa91243be013f5) | 2026-08-20 18:24 |
-| Ashburn Consulting | Systems Engineer | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=69c5c3ce3e81946d) | 2026-08-20 17:20 |
-| Frontapp | Senior AI Platform Security Engineer - Contract to Hire | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ae0f3e6a0329e2b7) | 2026-08-20 17:20 |
 
 
 ---

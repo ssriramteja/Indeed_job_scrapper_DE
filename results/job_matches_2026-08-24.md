@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-24
 
-**Total Jobs Found:** 13
+**Total Jobs Found:** 15
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL || Charlotte, NC @ THEMESOFT
+## 2. Senior Cloud Reliability Solutions Engineer @ MathWorks
+**Match Score:** 15.3%
+
+📍 **Location:** Natick, MA, US USA
+
+🔑 **Keywords:** AWS, S3, IAM, RDS, Azure, GCP, Cloud Storage, Scala, Splunk, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=108f1ed54def2a35)
+
+---
+
+## 3. Onsite_CCaaS - Five9 GCP Data Engineer_ Sunrise, FL || Charlotte, NC @ THEMESOFT
 **Match Score:** 14.6%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. AI-Native Builder - Europe @ Newpage Digital Healthcare solutions
+## 4. AI-Native Builder - Europe @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
+## 5. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
+## 6. AI-Native Builder- EST @ Newpage Digital Healthcare solutions
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Data Engineer @ Vericast
+## 7. Senior Data Engineer @ Vericast
 **Match Score:** 13.9%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -71,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. REFRAME Platform Architect @ North Carolina State University
+## 8. REFRAME Platform Architect @ North Carolina State University
 **Match Score:** 13.9%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Snowflake Data Engineer Frontend and Backend @ nan
+## 9. Snowflake Data Engineer Frontend and Backend @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** Sacramento, CA, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Platform Engineer @ nan
+## 10. Senior Platform Engineer @ nan
 **Match Score:** 13.2%
 
 📍 **Location:** Reston, VA, US USA
@@ -104,18 +115,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Software Engineer III - AI/ML Developer @ JPMorganChase
+## 11. AI/ML Solutions Engineer @ BankUnited
 **Match Score:** 13.2%
 
-📍 **Location:** Plano, TX, US USA
+📍 **Location:** Miami Lakes, FL, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, Scala, Snowflake, CI/CD, Terraform
+🔑 **Keywords:** AWS, Glue, Redshift, Athena, Step Functions, S3, RDS, Azure, GCP, Vertex AI
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7e3fcc35e91c6408)
+[Apply Here](https://www.indeed.com/viewjob?jk=cbfd63528cbfd9b2)
 
 ---
 
-## 11. Senior DevSecOps Engineer @ Ellipsis Health
+## 12. Senior DevSecOps Engineer @ Ellipsis Health
 **Match Score:** 11.8%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -126,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. MDM Integration Engineer @ McLane Company
+## 13. MDM Integration Engineer @ McLane Company
 **Match Score:** 11.1%
 
 📍 **Location:** Temple, TX, US USA
@@ -137,14 +148,25 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Software Engineer II, Test Frameworks & Tooling @ Klaviyo
+## 14. Senior Data Engineer @ Citizens
 **Match Score:** 10.4%
 
-📍 **Location:** Boston, MA, US USA
+📍 **Location:** Johnston, RI, US USA
 
-🔑 **Keywords:** AWS, RDS, Scala, Kafka, MySQL, CI/CD, Terraform, Kubernetes, pytest, Git
+🔑 **Keywords:** AWS, RDS, Azure, Hadoop, Spark, Scala, ETL, Talend, Splunk, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=20778a070554f061)
+[Apply Here](https://www.indeed.com/viewjob?jk=ee930e9556b7274f)
+
+---
+
+## 15. Azure Cloud Engineer @ ARS/Rescue Rooter
+**Match Score:** 10.4%
+
+📍 **Location:** Memphis, TN, US USA
+
+🔑 **Keywords:** RDS, Azure, Scala, SQL Server, Azure Cosmos DB, CI/CD, Azure DevOps, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=373e4d2080b90972)
 
 ---
 
