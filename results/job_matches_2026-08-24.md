@@ -93,7 +93,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Middle/Senior Forward Deployed Engineer (Python, AI) @ Exadel
+## 9. REFRAME Platform Architect @ North Carolina State University
+**Match Score:** 13.9%
+
+📍 **Location:** Raleigh, NC, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Vertex AI, Scala, NoSQL, MLOps, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5bc4abda60b1248d)
+
+---
+
+## 10. Middle/Senior Forward Deployed Engineer (Python, AI) @ Exadel
 **Match Score:** 13.9%
 
 📍 **Location:** Walnut Creek, CA, US USA
@@ -104,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Middle/Senior Forward Deployed Engineer (Python, AI) @ Exadel
+## 11. Middle/Senior Forward Deployed Engineer (Python, AI) @ Exadel
 **Match Score:** 13.9%
 
 📍 **Location:** Tampa, FL, US USA
@@ -112,17 +123,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, Databricks, GCP, Spark, Snowflake, PostgreSQL, MySQL, Data Modeling, ETL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=d71f05982f737348)
-
----
-
-## 11. REFRAME Platform Architect @ North Carolina State University
-**Match Score:** 13.9%
-
-📍 **Location:** Raleigh, NC, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Vertex AI, Scala, NoSQL, MLOps, MLflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5bc4abda60b1248d)
 
 ---
 
@@ -170,29 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Microsoft Fabric Data Engineer @ Landmark Properties, Inc.
-**Match Score:** 11.1%
-
-📍 **Location:** Athens, GA, US USA
-
-🔑 **Keywords:** RDS, Data Factory, Medallion Architecture, Dataflow, Spark, PySpark, Scala, Power BI, CI/CD, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9ea4631bd176d0be)
-
----
-
-## 17. Microsoft Fabric Data Engineer @ Landmark Properties, Inc.
-**Match Score:** 11.1%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** RDS, Data Factory, Medallion Architecture, Dataflow, Spark, PySpark, Scala, Power BI, CI/CD, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=68a59ec1d4554527)
-
----
-
-## 18. MDM Integration Engineer @ McLane Company
+## 16. MDM Integration Engineer @ McLane Company
 **Match Score:** 11.1%
 
 📍 **Location:** Temple, TX, US USA
@@ -203,7 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Senior Data Engineer @ Citizens
+## 17. Senior Data Engineer @ Citizens
 **Match Score:** 10.4%
 
 📍 **Location:** Johnston, RI, US USA
@@ -214,7 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Azure Cloud Engineer @ ARS/Rescue Rooter
+## 18. Azure Cloud Engineer @ ARS/Rescue Rooter
 **Match Score:** 10.4%
 
 📍 **Location:** Memphis, TN, US USA
@@ -222,6 +200,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Scala, SQL Server, Azure Cosmos DB, CI/CD, Azure DevOps, Terraform, Docker, Kubernetes
 
 [Apply Here](https://www.indeed.com/viewjob?jk=373e4d2080b90972)
+
+---
+
+## 19. Platform Engineer @ The Hershey Company
+**Match Score:** 10.4%
+
+📍 **Location:** Hershey, PA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Scala, MLOps, MLflow, CI/CD, Azure DevOps, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=49af7b2473aabc47)
+
+---
+
+## 20. Software Engineer, LLM Pipeline & AI Agents @ TSOLife
+**Match Score:** 10.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, S3, IAM, PostgreSQL, CI/CD, GitHub Actions, CodeBuild, Docker, Kubernetes, pytest
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0ffa9745f98e8936)
 
 ---
 

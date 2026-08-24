@@ -1,18 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 18:25
+Last updated: 2026-08-24 19:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 19:22 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-24 19:22 |
+| TSOLife | Software Engineer, LLM Pipeline & AI Agents | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ffa9745f98e8936) | 2026-08-24 19:22 |
 | BECU | Sr Data Engineer | WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=30fbcef65758a1bd) | 2026-08-24 18:25 |
 | LPL Financial | API & Data Engineer II | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c5fde74cfceac685) | 2026-08-24 18:25 |
 | Exadel | Middle/Senior Forward Deployed Engineer (Python, AI) | Walnut Creek, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=91d479728e749c2b) | 2026-08-24 18:25 |
 | Exadel | Middle/Senior Forward Deployed Engineer (Python, AI) | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d71f05982f737348) | 2026-08-24 18:25 |
 | Landmark Properties, Inc. | Microsoft Fabric Data Engineer | Athens, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9ea4631bd176d0be) | 2026-08-24 18:25 |
 | Landmark Properties, Inc. | Microsoft Fabric Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=68a59ec1d4554527) | 2026-08-24 18:25 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 18:25 |
 | MathWorks | Senior Cloud Reliability Solutions Engineer | Natick, MA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=108f1ed54def2a35) | 2026-08-24 17:22 |
 | BankUnited | AI/ML Solutions Engineer | Miami Lakes, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cbfd63528cbfd9b2) | 2026-08-24 17:22 |
 | Citizens | Senior Data Engineer | Johnston, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee930e9556b7274f) | 2026-08-24 17:22 |
