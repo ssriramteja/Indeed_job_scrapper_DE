@@ -1,19 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-24 21:20
+Last updated: 2026-08-24 22:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | Software Engineer – Independent Contractor / Project-Based (Remote) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=671885b17b760d63) | 2026-08-24 22:16 |
+| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 22:16 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-24 22:16 |
 | Eli Lilly | Data Engineer | Indianapolis, IN, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=335286c429f8d5b7) | 2026-08-24 21:20 |
 | Capgemini | Senior Cloud Engineer - Azure Infrastructure & Databricks Platform | Warren, MI, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a9ad6d99882cd158) | 2026-08-24 21:20 |
 | JPMorganChase | Software Engineer III - C# / Java | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=96c4f941b3b74b9a) | 2026-08-24 21:20 |
 | One Call | Full Stack Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1abdcdcc9cd7325e) | 2026-08-24 21:20 |
 | Appex Innovation | Sr Java Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1dec7a0320c1fc00) | 2026-08-24 21:20 |
-| McLane Company | MDM Integration Engineer | Temple, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 21:20 |
 | Office Ally | Cloud Engineer | Vancouver, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b8fe41a028c8718) | 2026-08-24 21:20 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-24 21:20 |
 | Hollstadt Consulting | Data Engineer | MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e591308ec52a9582) | 2026-08-24 20:19 |
 | Hollstadt Consulting | Data Engineer | MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=253dcdba301dd54b) | 2026-08-24 20:19 |
 | Kemper | Senior Data Systems Analyst | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7460cb3c8c717a9f) | 2026-08-24 20:19 |
