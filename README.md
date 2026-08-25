@@ -1,23 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-25 03:40
+Last updated: 2026-08-25 04:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 03:40 |
-| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 03:40 |
-| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 03:40 |
+| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 04:29 |
+| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 04:29 |
+| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 04:29 |
+| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 04:29 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-25 04:29 |
 | Crate and Barrel | Senior AI Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=53f24e0707a64972) | 2026-08-25 03:40 |
-| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 03:40 |
 | SailPoint Technologies | Senior Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc4cf4f64edea884) | 2026-08-25 03:40 |
 | Millennium Management | Infrastructure and Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b97cc90da58e4bb0) | 2026-08-25 03:40 |
 | Coreforce | Senior Software Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=31817120a8680684) | 2026-08-25 03:40 |
 | Cisco | Software Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ebcc3b59ee444760) | 2026-08-25 03:40 |
 | PDS Health | Engineer II, Full Stack Innovations | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1f2c2e254df88efd) | 2026-08-25 03:40 |
 | nan | Senior Software Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=433e986b684f5853) | 2026-08-25 03:40 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-25 03:40 |
 | GE Aerospace | Sr AI Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0579c0bfa3c66935) | 2026-08-25 03:40 |
 | BV Teck | Big Data Engineer | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e630b930a457c580) | 2026-08-25 02:13 |
 | bluematrix | Data Architect | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a4a21382364703b4) | 2026-08-25 02:13 |
@@ -264,22 +264,6 @@ Last updated: 2026-08-25 03:40
 | Quandary Consulting Group | Senior Solutions Consultant | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a82b38274b566db9) | 2026-08-21 06:30 |
 | Five Guys | Data Engineer | Alexandria, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=da2726835c895c54) | 2026-08-21 05:24 |
 | CSIK Consulting | Cloud Network and Security Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=35ffec3454941064) | 2026-08-21 05:24 |
-| Charles Schwab | Senior Full Stack Java Developer | Southlake, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9514cb3d03b95a2e) | 2026-08-21 04:29 |
-| Hitachi Energy | Sr Databricks Engineer | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=37f9cb4e7f9e0916) | 2026-08-21 03:42 |
-| Vagaro | Data Engineer | Pleasanton, CA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=44fc81c2d0a70c40) | 2026-08-21 03:42 |
-| Bristol Myers Squibb | Sr. Specialist, AI CRM Engineering | Princeton, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d2323a1df671308a) | 2026-08-21 03:42 |
-| Yusen Logistics | Senior Software Engineer | Houston, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9c80455e75f43f1e) | 2026-08-21 03:42 |
-| Platte River Power Authority | Senior Data and Integration Developer | Fort Collins, CO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4bef94e108ffe967) | 2026-08-21 03:42 |
-| Puig | Analytics Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b295c5eb1d7771ed) | 2026-08-21 03:42 |
-| LTi Technology Solutions | Senior Platform Engineer | Omaha, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aeaa3af91b36b2cd) | 2026-08-21 03:42 |
-| Deloitte | Data Engineer II | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24cf52c60da7e9ac) | 2026-08-21 03:42 |
-| Deloitte | Data Engineer II | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e67652360d9f4e9) | 2026-08-21 03:42 |
-| Deloitte | Data Engineer II | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=630a35e9cb636a94) | 2026-08-21 03:42 |
-| Deloitte | Data Engineer II | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7177817f699c500d) | 2026-08-21 03:42 |
-| Deloitte | Data Engineer II | Rosslyn, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96181d258407853f) | 2026-08-21 03:42 |
-| Salesforce | Senior Software Engineer | Burlington, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6db805cce62a3db2) | 2026-08-21 03:42 |
-| General Motors (GM) | Senior Software Engineer – CI/CD & Cloud Infrastructure | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24a6d7aaf0bcba34) | 2026-08-21 03:42 |
-| General Motors (GM) | Senior Software Engineer - CI/CD and Software Development Tools | Milford, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c07d3c81a46d8e9a) | 2026-08-21 03:42 |
 
 
 ---
