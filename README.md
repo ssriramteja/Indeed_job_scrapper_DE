@@ -1,20 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-25 18:25
+Last updated: 2026-08-25 19:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| innoVet Health, LLC | AI Solutions Architect | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c0e4f57f20c8e6aa) | 2026-08-25 19:23 |
+| Photon | Backend Java Developer \| Jersey City, US | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 19:23 |
+| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 19:23 |
+| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 19:23 |
+| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 19:23 |
+| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 19:23 |
+| innoVet Health, LLC | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9a53ba237c911865) | 2026-08-25 19:23 |
+| Mobis Parts America, LLC. | Data Engineer III, Cloud | Fountain Valley, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c45ff3218e58d2fe) | 2026-08-25 19:23 |
+| Capgemini | DevOps Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c18f276c9b0d4b06) | 2026-08-25 19:23 |
+| EL SHADDAI TECHNOLOGIES | Senior Java Backend & AI Engineer – Wealth Management | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7a59b3cdfe58cc35) | 2026-08-25 19:23 |
+| BMR infotek | SQL Database Engineer | Iselin, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7e0cc3caaa083f92) | 2026-08-25 19:23 |
+| BV Teck | Data Platform Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=18271f0af24fff11) | 2026-08-25 19:23 |
+| Mobis Parts America, LLC. | Engineer III, Business Intelligence | Fountain Valley, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b3103a10d60cdc6) | 2026-08-25 19:23 |
 | Cloud and Things | Senior Java Developer | Albany, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=493f15e83d88a6ca) | 2026-08-25 18:25 |
 | Realign | AWS Python Data Engineer | Malvern, PA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=834d52dff47fe0c1) | 2026-08-25 18:25 |
-| Photon | Backend Java Developer \| Jersey City, US | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 18:25 |
 | Entegris | Senior Data Scientist | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=05c27f1fa1de3f62) | 2026-08-25 18:25 |
 | Realign | BI / Data Architect (Remote) | Marlborough, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=64614fd6a49cf213) | 2026-08-25 18:25 |
-| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 18:25 |
-| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 18:25 |
-| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 18:25 |
-| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 18:25 |
 | Metropolitan Commercial Bank | AI Scientist | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0c1ea51976266b71) | 2026-08-25 18:25 |
 | Optum | Senior Data Engineer | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50d2a1a315111b7f) | 2026-08-25 18:25 |
 | Realign | Senior Data Engineer | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c8fd72ec86ae1741) | 2026-08-25 18:25 |
@@ -265,18 +273,6 @@ Last updated: 2026-08-25 18:25
 | REPLY | Data Engineer | Detroit, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=74f4fee2cc3d811b) | 2026-08-21 20:15 |
 | REPLY | Data Engineer | Kansas City, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b7ad9782930201d7) | 2026-08-21 20:15 |
 | REPLY | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=61bab526ed5bb2fe) | 2026-08-21 20:15 |
-| Optum | Senior Data Engineer (Analytics) | Eden Prairie, MN, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=593e53f5fee30d60) | 2026-08-21 19:19 |
-| Wells Fargo | Senior Software Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=515f3bff52abe8ea) | 2026-08-21 19:19 |
-| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f887668cf9aaf20f) | 2026-08-21 19:19 |
-| Hudson Manpower | Sr Full stack Java Developer | San Jose, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a7f12b1ea10022a2) | 2026-08-21 19:19 |
-| Hudson Manpower | Sr Full stack Java Developer | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a6bc74fdfdbbca2b) | 2026-08-21 19:19 |
-| Hudson Manpower | Sr Full stack Java Developer | Denver, CO, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=50c5bf2319077628) | 2026-08-21 19:19 |
-| Hudson Manpower | Sr Full stack Java Developer | Alpharetta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=603c61b7cc5fe1b9) | 2026-08-21 19:19 |
-| Hudson Manpower | Sr Full stack Java Developer | Allentown, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=7340ebb5e99bf41f) | 2026-08-21 19:19 |
-| Hudson Manpower | Sr Full stack Java Developer | Albany, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e7bb7609c20e949e) | 2026-08-21 19:19 |
-| Cushman & Wakefield | Senior AI Engineer | Costa Mesa, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d93e7b1c586e6a4d) | 2026-08-21 19:19 |
-| Chiesi Farmaceutici S.p.A. | Data Engineer | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78d407207abb7498) | 2026-08-21 19:19 |
-| MAPFRE Insurance | Senior Full Stack Engineer, Agent Experience Platform | Webster, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=73664071b95987ff) | 2026-08-21 19:19 |
 
 
 ---
