@@ -1,17 +1,35 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-25 19:23
+Last updated: 2026-08-25 20:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NewRocket | Agentic AI Architect-Anthropic-US East | New Haven, CT, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=451eef560601ded5) | 2026-08-25 20:18 |
+| NewRocket | Agentic AI Architect-Anthropic-US East | Charlotte, NC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=5f3ee7b1db2cccd5) | 2026-08-25 20:18 |
+| NewRocket | Agentic AI Architect-Anthropic-US West | Seattle, WA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=20d1d5763df13b0f) | 2026-08-25 20:18 |
+| NewRocket | Agentic AI Architect-Anthropic-US East | Philadelphia, PA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=03deb24662c2d57b) | 2026-08-25 20:18 |
+| NewRocket | Agentic AI Architect-Anthropic-US West | Phoenix, AZ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=f191710314c15359) | 2026-08-25 20:18 |
+| NewRocket | Agentic AI Architect-Anthropic-US West | Portland, OR, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b0d939da0bcff1af) | 2026-08-25 20:18 |
+| NewRocket | Agentic AI Architect-Anthropic-US East | Boston, MA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=a9e2c8f86b9525b8) | 2026-08-25 20:18 |
+| NewRocket | Agentic AI Architect-Anthropic-US West | San Francisco, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=082b971e34568c1f) | 2026-08-25 20:18 |
+| NewRocket | Agentic AI Architect-Anthropic-US West | Vista, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=26d52f1deebd9cc0) | 2026-08-25 20:18 |
+| Photon | Backend Java Developer \| Jersey City, US | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 20:18 |
+| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 20:18 |
+| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 20:18 |
+| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 20:18 |
+| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 20:18 |
+| CapTech Consulting | Data Analyst | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=679d5d1c7a09b9f3) | 2026-08-25 20:18 |
+| Axon | Senior Software Engineer I, Applied AI | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=591d7ae91cb2eb99) | 2026-08-25 20:18 |
+| Axon | Senior Software Engineer I, Applied AI | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=503f43f12c92318e) | 2026-08-25 20:18 |
+| Axon | Senior Software Engineer I, Applied AI | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ace8df85ea0e8639) | 2026-08-25 20:18 |
+| Axon | Senior Software Engineer I, Applied AI | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bfb744e0bd727a3d) | 2026-08-25 20:18 |
+| Axon | Senior Software Engineer I, Applied AI | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bbe7d5bfc808f782) | 2026-08-25 20:18 |
+| nan | Data & AI Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=271bbcd0786a6bc7) | 2026-08-25 20:18 |
+| INFINITY HOME SERVICES | DevOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=834def53d716402e) | 2026-08-25 20:18 |
+| Accelerate Learning Inc. | Software Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ddf4a6188d3a180) | 2026-08-25 20:18 |
 | innoVet Health, LLC | AI Solutions Architect | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c0e4f57f20c8e6aa) | 2026-08-25 19:23 |
-| Photon | Backend Java Developer \| Jersey City, US | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 19:23 |
-| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 19:23 |
-| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 19:23 |
-| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 19:23 |
-| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 19:23 |
 | innoVet Health, LLC | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9a53ba237c911865) | 2026-08-25 19:23 |
 | Mobis Parts America, LLC. | Data Engineer III, Cloud | Fountain Valley, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c45ff3218e58d2fe) | 2026-08-25 19:23 |
 | Capgemini | DevOps Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c18f276c9b0d4b06) | 2026-08-25 19:23 |
@@ -266,13 +284,6 @@ Last updated: 2026-08-25 19:23
 | Lincoln Electric | Senior Analyst, Data Engineer | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8382e0121c068a19) | 2026-08-21 21:14 |
 | Slavic401K | Enterprise Data Architect - WORK FROM HOME - SELECT US STATES ONLY | Boca Raton, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df39dd0505c33d32) | 2026-08-21 21:14 |
 | University of Wisconsin–Madison | Data Scientist II | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=00eec4e6432a7078) | 2026-08-21 21:14 |
-| Infotech Solutions | microsoft power platform developer architect | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2175da23d4e89e3b) | 2026-08-21 20:15 |
-| The Iowa Clinic | Data Engineer-Healthcare Analytics (Full-Time) | West Des Moines, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=977d8141140e0e6c) | 2026-08-21 20:15 |
-| REPLY | Data Engineer | Philadelphia, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5cc84ba97f996450) | 2026-08-21 20:15 |
-| REPLY | Data Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b9d2db7b4c8d89f8) | 2026-08-21 20:15 |
-| REPLY | Data Engineer | Detroit, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=74f4fee2cc3d811b) | 2026-08-21 20:15 |
-| REPLY | Data Engineer | Kansas City, MO, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b7ad9782930201d7) | 2026-08-21 20:15 |
-| REPLY | Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=61bab526ed5bb2fe) | 2026-08-21 20:15 |
 
 
 ---
