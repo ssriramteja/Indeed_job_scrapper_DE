@@ -1,16 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-25 04:29
+Last updated: 2026-08-25 05:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 04:29 |
-| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 04:29 |
-| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 04:29 |
-| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 04:29 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-25 04:29 |
+| National Hockey League | Data Architect | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f4a3035f2b8b17e2) | 2026-08-25 05:23 |
+| UNISON Group | Databricks Data Architect | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=791da096375caa98) | 2026-08-25 05:23 |
+| UNISON Group | Databricks Data Architect | California City, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=755ae6e158f294ba) | 2026-08-25 05:23 |
+| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 05:23 |
+| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 05:23 |
+| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 05:23 |
+| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 05:23 |
+| Fannie Mae | Campus - Technology Program Intern | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fc6387e06d593380) | 2026-08-25 05:23 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-25 05:23 |
 | Crate and Barrel | Senior AI Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=53f24e0707a64972) | 2026-08-25 03:40 |
 | SailPoint Technologies | Senior Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc4cf4f64edea884) | 2026-08-25 03:40 |
 | Millennium Management | Infrastructure and Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b97cc90da58e4bb0) | 2026-08-25 03:40 |
