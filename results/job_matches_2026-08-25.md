@@ -280,18 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Senior AI Engineer @ Crate and Barrel
-**Match Score:** 14.6%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, BigQuery, Dataflow, Vertex AI, Spark, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=53f24e0707a64972)
-
----
-
-## 27. Campus - Technology Program Intern @ Fannie Mae
+## 26. Campus - Technology Program Intern @ Fannie Mae
 **Match Score:** 14.6%
 
 📍 **Location:** Reston, VA, US USA
@@ -302,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Senior DevOps Engineer, AI Platform @ FloQast
+## 27. Senior DevOps Engineer, AI Platform @ FloQast
 **Match Score:** 14.6%
 
 📍 **Location:** San Jose, CA, US USA
@@ -310,6 +299,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, EMR, Lambda, S3, SQS, ECS, IAM, RDS, Azure, Spark
 
 [Apply Here](https://www.indeed.com/viewjob?jk=425b63d71cb4a186)
+
+---
+
+## 28. Senior AI Engineer @ Crate and Barrel
+**Match Score:** 14.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, BigQuery, Dataflow, Vertex AI, Spark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=53f24e0707a64972)
 
 ---
 
@@ -819,18 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Alteryx Systems & Platform Administrator (Onsite) @ Cognizant
-**Match Score:** 10.4%
-
-📍 **Location:** Buffalo, NY, US USA
-
-🔑 **Keywords:** Azure, Databricks, Snowflake, Oracle, SQL Server, MongoDB, Power BI, Tableau, Tableau Server, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=74022046dd0742ee)
-
----
-
-## 76. Analytics Engineer @ nan
+## 75. Analytics Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Englewood, CO, US USA
@@ -838,6 +827,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Scala, Snowflake, Data Modeling, ETL, dbt, Power BI, Tableau, MLOps, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=a19840c695617287)
+
+---
+
+## 76. Alteryx Systems & Platform Administrator (Onsite) @ Cognizant
+**Match Score:** 10.4%
+
+📍 **Location:** Buffalo, NY, US USA
+
+🔑 **Keywords:** Azure, Databricks, Snowflake, Oracle, SQL Server, MongoDB, Power BI, Tableau, Tableau Server, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=74022046dd0742ee)
 
 ---
 
