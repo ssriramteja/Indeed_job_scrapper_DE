@@ -368,18 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Software Engineer – NestJS & Backend Architecture @ Quantic
-**Match Score:** 13.9%
-
-📍 **Location:** Exton, PA, US USA
-
-🔑 **Keywords:** AWS, ECS, RDS, Azure, HBase, Scala, Kafka, SQL Server, PostgreSQL, MySQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8a15e7186a589e33)
-
----
-
-## 35. Middle/Senior Forward Deployed Engineer (Python, AI) @ Exadel
+## 34. Middle/Senior Forward Deployed Engineer (Python, AI) @ Exadel
 **Match Score:** 13.9%
 
 📍 **Location:** Walnut Creek, CA, US USA
@@ -390,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Middle/Senior Forward Deployed Engineer (Python, AI) @ Exadel
+## 35. Middle/Senior Forward Deployed Engineer (Python, AI) @ Exadel
 **Match Score:** 13.9%
 
 📍 **Location:** Tampa, FL, US USA
@@ -398,6 +387,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, Databricks, GCP, Spark, Snowflake, PostgreSQL, MySQL, Data Modeling, ETL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=d71f05982f737348)
+
+---
+
+## 36. Software Engineer – NestJS & Backend Architecture @ Quantic
+**Match Score:** 13.9%
+
+📍 **Location:** Exton, PA, US USA
+
+🔑 **Keywords:** AWS, ECS, RDS, Azure, HBase, Scala, Kafka, SQL Server, PostgreSQL, MySQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8a15e7186a589e33)
 
 ---
 
@@ -808,7 +808,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. Software Engineer, Backend @ Tessera Labs
+## 74. Alteryx Systems & Platform Administrator (Onsite) @ Cognizant
+**Match Score:** 10.4%
+
+📍 **Location:** Buffalo, NY, US USA
+
+🔑 **Keywords:** Azure, Databricks, Snowflake, Oracle, SQL Server, MongoDB, Power BI, Tableau, Tableau Server, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=74022046dd0742ee)
+
+---
+
+## 75. Software Engineer, Backend @ Tessera Labs
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
@@ -819,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Analytics Engineer @ nan
+## 76. Analytics Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Englewood, CO, US USA
@@ -827,17 +838,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Scala, Snowflake, Data Modeling, ETL, dbt, Power BI, Tableau, MLOps, CI/CD
 
 [Apply Here](https://www.indeed.com/viewjob?jk=a19840c695617287)
-
----
-
-## 76. Alteryx Systems & Platform Administrator (Onsite) @ Cognizant
-**Match Score:** 10.4%
-
-📍 **Location:** Buffalo, NY, US USA
-
-🔑 **Keywords:** Azure, Databricks, Snowflake, Oracle, SQL Server, MongoDB, Power BI, Tableau, Tableau Server, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=74022046dd0742ee)
 
 ---
 

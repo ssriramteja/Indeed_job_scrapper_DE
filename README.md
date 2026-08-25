@@ -1,17 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-25 11:18
+Last updated: 2026-08-25 12:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Photon | Backend Java Developer \| Jersey City, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 11:18 |
-| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 11:18 |
-| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 11:18 |
-| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 11:18 |
-| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 11:18 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-25 11:18 |
+| Photon | Backend Java Developer \| Jersey City, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 12:28 |
+| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 12:28 |
+| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 12:28 |
+| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 12:28 |
+| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 12:28 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-25 12:28 |
 | Atlassian | Senior Data Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b42ed4ff39a3e5ab) | 2026-08-25 10:22 |
 | SYSTECH USA | Senior Data Engineer - DBT & Redshift | Glendale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=35214e13f0757c04) | 2026-08-25 09:25 |
 | CVS Health | Senior Software Development Engineer - LLMs, GenAI | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=36d23aa8bd88eaa5) | 2026-08-25 07:36 |
