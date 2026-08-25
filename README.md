@@ -1,19 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-25 22:16
+Last updated: 2026-08-25 23:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Senior Data Engineer (Analytics) | Eden Prairie, MN, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=181a31f219accf44) | 2026-08-25 23:17 |
+| Dell Technologies | Senior Systems Engineer, Data Management | NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ed5484e209306fd8) | 2026-08-25 23:17 |
+| Photon | Backend Java Developer \| Jersey City, US | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 23:17 |
+| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 23:17 |
+| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 23:17 |
+| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 23:17 |
+| Inadev Corporation | Senior Developer | Reston, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2784516465b56a61) | 2026-08-25 23:17 |
+| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 23:17 |
+| Wrench.ai Inc | Sr. Platform Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=83be4ed684048bae) | 2026-08-25 23:17 |
+| Smart Tech Skills LLC | Senior Cloud Data Engineer | Marlborough, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2932f50360d701f5) | 2026-08-25 23:17 |
+| KONG | Site Reliability Engineer 2 | Olympia, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=242eab96e596ec8c) | 2026-08-25 23:17 |
+| NTT DATA | DevOps & Platform Engineer - Remote Role | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e0a699f65bddf68) | 2026-08-25 23:17 |
+| Thrivent | Senior Engineer | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95a325a771df03df) | 2026-08-25 23:17 |
+| NTT DATA | AI / ML Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e60dd927ca9f910c) | 2026-08-25 23:17 |
+| Cognizant | AI Engineer | Blaine, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dd3a61d4ef5518a8) | 2026-08-25 23:17 |
+| Zoom Communications | Cloud Operations Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dbe189c15997f93c) | 2026-08-25 23:17 |
+| Colgate-Palmolive | Platform Engineer | Piscataway, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d358ff0176b96002) | 2026-08-25 23:17 |
 | Citizens | Sr Talend Data Engineer | Johnston, RI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=743665ae918f4a0c) | 2026-08-25 22:16 |
 | AAA Auto Club Enterprises | Senior Cloud DevOps Engineer | Costa Mesa, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a7e80b460b21ce73) | 2026-08-25 22:16 |
 | OneDome | Sr. Data Engineer | AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=16e7886502273f96) | 2026-08-25 22:16 |
-| Photon | Backend Java Developer \| Jersey City, US | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 22:16 |
-| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 22:16 |
-| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 22:16 |
-| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 22:16 |
-| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 22:16 |
 | DHL | Data Engineer I | Whiteland, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=895b46639975055d) | 2026-08-25 22:16 |
 | Kirkland & Ellis | Innovation Delivery Platform Developer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce79ef9cdbb6e910) | 2026-08-25 22:16 |
 | Kirkland & Ellis | Innovation Delivery Platform Developer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eb11c4f7226c9f94) | 2026-08-25 22:16 |
@@ -279,13 +291,6 @@ Last updated: 2026-08-25 22:16
 | Realign | GCP Cloud Engineer | Sunnyvale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b7cc426dbd03f0e) | 2026-08-22 00:41 |
 | Marathon Petroleum | Data Operations Engineer | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=28293fa77ffc32bb) | 2026-08-22 00:41 |
 | Realign | Apache Spark Core Java | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16d16eda2d514586) | 2026-08-22 00:41 |
-| Bilzin Sumberg Baena Price & Axelrod LLP | Data Engineer Microsoft Fabric | Miami, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=371409082795e582) | 2026-08-21 23:14 |
-| LegitScript | Senior Data Science Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0ac58242095324ac) | 2026-08-21 23:14 |
-| Credit Acceptance | Software Engineer II, Data | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39dcfd9f2966d672) | 2026-08-21 23:14 |
-| Expedia Group | Software Development Engineer I | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5d1eabd20620b211) | 2026-08-21 23:14 |
-| Cognizant | Senior Full stack Java / AWS | Portsmouth, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=648c04000182f970) | 2026-08-21 23:14 |
-| Capgemini | Databricks Developer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=320dcd4f927cb250) | 2026-08-21 23:14 |
-| SimplePractice | Senior Analytics Engineer, Marketing Sciences | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4a341479dc01b56f) | 2026-08-21 23:14 |
 
 
 ---
