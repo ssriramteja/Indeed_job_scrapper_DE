@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-25 20:18
+Last updated: 2026-08-25 21:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Peoples Gas System | Data Engineer | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d32754dc82fcb92a) | 2026-08-25 21:18 |
+| Photon | Backend Java Developer \| Jersey City, US | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 21:18 |
+| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 21:18 |
+| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 21:18 |
+| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 21:18 |
+| Salesforce | Forward Deployed Engineer (FDE) — Agentforce Orchestration | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f504c00cfca80e26) | 2026-08-25 21:18 |
+| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 21:18 |
+| Truist | Technology Operations Consultant - Sn. DevSecOps Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d15e23617f258b60) | 2026-08-25 21:18 |
+| Capgemini | Cards Java Developer | Hanover, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5208fb6417aa24f6) | 2026-08-25 21:18 |
+| Capgemini | Databricks Developer | Hanover, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc529933e7d8181d) | 2026-08-25 21:18 |
 | NewRocket | Agentic AI Architect-Anthropic-US East | New Haven, CT, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=451eef560601ded5) | 2026-08-25 20:18 |
 | NewRocket | Agentic AI Architect-Anthropic-US East | Charlotte, NC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=5f3ee7b1db2cccd5) | 2026-08-25 20:18 |
 | NewRocket | Agentic AI Architect-Anthropic-US West | Seattle, WA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=20d1d5763df13b0f) | 2026-08-25 20:18 |
@@ -15,11 +25,6 @@ Last updated: 2026-08-25 20:18
 | NewRocket | Agentic AI Architect-Anthropic-US East | Boston, MA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=a9e2c8f86b9525b8) | 2026-08-25 20:18 |
 | NewRocket | Agentic AI Architect-Anthropic-US West | San Francisco, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=082b971e34568c1f) | 2026-08-25 20:18 |
 | NewRocket | Agentic AI Architect-Anthropic-US West | Vista, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=26d52f1deebd9cc0) | 2026-08-25 20:18 |
-| Photon | Backend Java Developer \| Jersey City, US | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 20:18 |
-| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 20:18 |
-| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 20:18 |
-| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 20:18 |
-| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 20:18 |
 | CapTech Consulting | Data Analyst | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=679d5d1c7a09b9f3) | 2026-08-25 20:18 |
 | Axon | Senior Software Engineer I, Applied AI | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=591d7ae91cb2eb99) | 2026-08-25 20:18 |
 | Axon | Senior Software Engineer I, Applied AI | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=503f43f12c92318e) | 2026-08-25 20:18 |
@@ -273,17 +278,6 @@ Last updated: 2026-08-25 20:18
 | Mercari | Software Engineer, Data | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=179685542a7cf944) | 2026-08-21 22:14 |
 | Golden State | Data Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d156f80ddb5ea3e) | 2026-08-21 22:14 |
 | BlackRock | Associate, Data Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=06fd6810514e5491) | 2026-08-21 22:14 |
-| 7-Eleven | Machine Learning Engineer II | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3ef1c00bbfcfa5af) | 2026-08-21 21:14 |
-| Caterpillar | Senior Data Scientist | Mossville, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ab38c6d425e57a4d) | 2026-08-21 21:14 |
-| nan | Economic Data System Engineer/Sr. Economic Data System Engineer-ITDDPED | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3a32b2285f6e0f19) | 2026-08-21 21:14 |
-| State Street | QA Automation Engineer II, Officer | Burlington, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d73747fd9aafef8) | 2026-08-21 21:14 |
-| Pilot Flying J | Sr Engineer, Data Engineering | Roswell, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0a70d5a50e3bc2a5) | 2026-08-21 21:14 |
-| American Tower | Senior Data Engineer | Woburn, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=340f3540cd359821) | 2026-08-21 21:14 |
-| Everforth ECS | Senior Data Engineer – Advanced Data Integration & Cloud Solutions | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ca1d4ee2bfb7f383) | 2026-08-21 21:14 |
-| Capgemini | AI Engineer/DevOps Engineer | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a4e19bdfcdfa54e3) | 2026-08-21 21:14 |
-| Lincoln Electric | Senior Analyst, Data Engineer | OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8382e0121c068a19) | 2026-08-21 21:14 |
-| Slavic401K | Enterprise Data Architect - WORK FROM HOME - SELECT US STATES ONLY | Boca Raton, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df39dd0505c33d32) | 2026-08-21 21:14 |
-| University of Wisconsin–Madison | Data Scientist II | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=00eec4e6432a7078) | 2026-08-21 21:14 |
 
 
 ---
