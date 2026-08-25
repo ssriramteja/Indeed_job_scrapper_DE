@@ -1,23 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-25 16:25
+Last updated: 2026-08-25 17:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Derex Technologies inc | Microsoft Fabric Data Engineer | Erie, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b483b64afeb3e0bd) | 2026-08-25 17:23 |
+| Photon | Backend Java Developer \| Jersey City, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 17:23 |
+| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 17:23 |
+| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 17:23 |
+| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 17:23 |
+| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 17:23 |
+| Wellington Management | Senior Software Engineer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fe39bc39c0dfdae9) | 2026-08-25 17:23 |
+| NTT DATA | Business Consultant - AI/ML Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=052b239d50574588) | 2026-08-25 17:23 |
+| endava | Application Developer | CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f4e67065f473c15) | 2026-08-25 17:23 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-25 17:23 |
 | Cognizant | Sr. Data Engineer - Snowflake and Lakehouse | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=177171af39893b8a) | 2026-08-25 16:25 |
 | Cognizant | Sr. Data Engineer - Snowflake and Lakehouse | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=189c2d0348ec6158) | 2026-08-25 16:25 |
 | Ciklum | Senior Data Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=75f5be0e78b3ab5a) | 2026-08-25 16:25 |
-| Photon | Backend Java Developer \| Jersey City, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 16:25 |
-| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 16:25 |
-| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 16:25 |
-| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 16:25 |
-| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 16:25 |
 | nan | Software Engineer II - ML and Observability | Glendale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=655a9a6d34f5dbef) | 2026-08-25 16:25 |
 | Jean Martin | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc27939551ef0306) | 2026-08-25 16:25 |
 | The Hartford | Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=754a44c7dfc4ab06) | 2026-08-25 16:25 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-25 16:25 |
 | Gopher Resource, LLC | Data Platform & Business Intelligence Developer | Eagan, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1dbe8604e2f80090) | 2026-08-25 15:33 |
 | Curant Health | Data Engineer | Smyrna, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=396bc3d72f57166d) | 2026-08-25 14:35 |
 | Caterpillar | SR Data Scientist, Rental | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c5d923de67e31b1) | 2026-08-25 14:35 |
@@ -262,13 +266,6 @@ Last updated: 2026-08-25 16:25
 | Cushman & Wakefield | Senior AI Engineer | Costa Mesa, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d93e7b1c586e6a4d) | 2026-08-21 19:19 |
 | Chiesi Farmaceutici S.p.A. | Data Engineer | Cary, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78d407207abb7498) | 2026-08-21 19:19 |
 | MAPFRE Insurance | Senior Full Stack Engineer, Agent Experience Platform | Webster, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=73664071b95987ff) | 2026-08-21 19:19 |
-| Amida Technology Solutions | Quality Engineering (QE) Data Quality Engineer | Washington, DC, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=b9b2b6cddab662d6) | 2026-08-21 17:20 |
-| First Solar | Engineer- Full Stack USA | Perrysburg, OH, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=feaf58186fd25df4) | 2026-08-21 17:20 |
-| United Concordia Dental | Senior Data Engineer | PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6f9e89b177e72a80) | 2026-08-21 17:20 |
-| NTT DATA | Solution Architect (Java, Cloud & AI) - FTE / Hybrid | Dallas, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cff991eacc7c642b) | 2026-08-21 17:20 |
-| McKesson | Finance Solutions, Google Cloud Platform | Richmond, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c94336bbf2aab76d) | 2026-08-21 17:20 |
-| IDEXX Laboratories | Data Engineer | Westbrook, ME, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8db0ab6465cbf1ff) | 2026-08-21 17:20 |
-| Amida Technology Solutions | Senior Quality Engineering (QE) Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29a7f8ff4391f120) | 2026-08-21 17:20 |
 
 
 ---
