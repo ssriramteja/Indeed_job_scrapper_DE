@@ -1,17 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-25 13:41
+Last updated: 2026-08-25 14:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Photon | Backend Java Developer \| Jersey City, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 13:41 |
-| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 13:41 |
-| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 13:41 |
-| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 13:41 |
-| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 13:41 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-25 13:41 |
+| Photon | Backend Java Developer \| Jersey City, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 14:35 |
+| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 14:35 |
+| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 14:35 |
+| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 14:35 |
+| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 14:35 |
+| Curant Health | Data Engineer | Smyrna, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=396bc3d72f57166d) | 2026-08-25 14:35 |
+| Caterpillar | SR Data Scientist, Rental | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c5d923de67e31b1) | 2026-08-25 14:35 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-25 14:35 |
 | Atlassian | Senior Data Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b42ed4ff39a3e5ab) | 2026-08-25 10:22 |
 | SYSTECH USA | Senior Data Engineer - DBT & Redshift | Glendale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=35214e13f0757c04) | 2026-08-25 09:25 |
 | CVS Health | Senior Software Development Engineer - LLMs, GenAI | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=36d23aa8bd88eaa5) | 2026-08-25 07:36 |
@@ -264,12 +266,6 @@ Last updated: 2026-08-25 13:41
 | Inclusion Cloud | .NET Backend Developer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c9d1b0d1d29e0d2) | 2026-08-21 16:21 |
 | Bow Wave LLC | Data Engineer 3 - TS clearance required - Wash DC area | Arlington, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=61e2b94a977d2119) | 2026-08-21 15:24 |
 | Bow Wave LLC | Data Engineer 2 - TS required - Washington DC area | Arlington, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=de40e05b432ea8b8) | 2026-08-21 15:24 |
-| Disney Experiences | Sr Machine Learning Engineer | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=766cfaa008af94ec) | 2026-08-21 14:25 |
-| nan | Senior Software Engineer | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ae435ef03aa1b3c0) | 2026-08-21 14:25 |
-| Provectus | FDE AI/ Solutions Architect (AI, Python/Data) | MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b2c055ce9797102c) | 2026-08-21 14:25 |
-| Provectus | FDE AI/ Solutions Architect (AI, Python/Data) | ME, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c4ffa2bfcb22c9c8) | 2026-08-21 14:25 |
-| Provectus | Senior AI/ML Engineer (GenAI, AWS) | MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1075d7cc0d3e8b57) | 2026-08-21 14:25 |
-| Provectus | Senior AI/ML Engineer (GenAI, AWS) | ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9bb69f45b1c58c41) | 2026-08-21 14:25 |
 
 
 ---
