@@ -1,20 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-25 05:23
+Last updated: 2026-08-25 06:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ziply Fiber | Data Engineer | Kirkland, WA, US USA | 31.2% | [Apply](https://www.indeed.com/viewjob?jk=a6405304b5156b40) | 2026-08-25 06:29 |
+| JPMorganChase | Software Engineer II: Data Engineer | Jersey City, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b55a7fd76f93036a) | 2026-08-25 06:29 |
+| bp | Senior AI/ML Platform Engineer | Denver, CO, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4d7a33b4467a0975) | 2026-08-25 06:29 |
+| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 06:29 |
+| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 06:29 |
+| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 06:29 |
+| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 06:29 |
+| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-25 06:29 |
 | National Hockey League | Data Architect | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f4a3035f2b8b17e2) | 2026-08-25 05:23 |
 | UNISON Group | Databricks Data Architect | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=791da096375caa98) | 2026-08-25 05:23 |
 | UNISON Group | Databricks Data Architect | California City, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=755ae6e158f294ba) | 2026-08-25 05:23 |
-| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 05:23 |
-| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 05:23 |
-| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 05:23 |
-| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 05:23 |
 | Fannie Mae | Campus - Technology Program Intern | Reston, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fc6387e06d593380) | 2026-08-25 05:23 |
-| The Hershey Company | Platform Engineer | Hershey, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=49af7b2473aabc47) | 2026-08-25 05:23 |
 | Crate and Barrel | Senior AI Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=53f24e0707a64972) | 2026-08-25 03:40 |
 | SailPoint Technologies | Senior Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc4cf4f64edea884) | 2026-08-25 03:40 |
 | Millennium Management | Infrastructure and Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b97cc90da58e4bb0) | 2026-08-25 03:40 |
@@ -266,8 +269,6 @@ Last updated: 2026-08-25 05:23
 | New York Life | Senior Associate - Cloud Platform Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ce955d83d523351c) | 2026-08-21 08:28 |
 | Chewy | UC Engineer II | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e3f73c46ab8bbd18) | 2026-08-21 06:30 |
 | Quandary Consulting Group | Senior Solutions Consultant | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a82b38274b566db9) | 2026-08-21 06:30 |
-| Five Guys | Data Engineer | Alexandria, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=da2726835c895c54) | 2026-08-21 05:24 |
-| CSIK Consulting | Cloud Network and Security Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=35ffec3454941064) | 2026-08-21 05:24 |
 
 
 ---
