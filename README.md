@@ -1,16 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-26 08:32
+Last updated: 2026-08-26 09:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Premier Nutrition Company | Sr. Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7bf2e42812735206) | 2026-08-26 08:32 |
+| Premier Nutrition Company | Sr. Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7bf2e42812735206) | 2026-08-26 09:31 |
+| nan | Senior Full Stack Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5087fc206cc0738e) | 2026-08-26 09:31 |
+| Photon | Java Engineer \| Jersey City, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae48fe542473d529) | 2026-08-26 09:31 |
+| Photon | Java Engineer \| Plano/Columbus, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4be7f31f3e7685a) | 2026-08-26 09:31 |
+| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50d8aabfc80480cb) | 2026-08-26 09:31 |
 | CNA Insurance | Senior Data AI Engineer - Java | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=874c68aa6c38b010) | 2026-08-26 08:32 |
-| Photon | Java Engineer \| Jersey City, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae48fe542473d529) | 2026-08-26 08:32 |
-| Photon | Java Engineer \| Plano/Columbus, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4be7f31f3e7685a) | 2026-08-26 08:32 |
-| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50d8aabfc80480cb) | 2026-08-26 08:32 |
 | nan | Technical Consultant | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cd7d8caa90f5aba1) | 2026-08-26 07:38 |
 | New York Life | Senior Associate - Data Architect | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3282af658369b2af) | 2026-08-26 07:38 |
 | Benda Infotech | Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f6a7e25c97039733) | 2026-08-26 07:38 |
