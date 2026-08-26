@@ -1,17 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-26 04:31
+Last updated: 2026-08-26 05:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Photon | Backend Java Developer \| Jersey City, US | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-26 04:31 |
+| Photon | Backend Java Developer \| Jersey City, US | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-26 05:24 |
+| Photon | Java Engineer \| Jersey City, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae48fe542473d529) | 2026-08-26 05:24 |
+| Photon | Java Engineer \| Plano/Columbus, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4be7f31f3e7685a) | 2026-08-26 05:24 |
+| Capgemini | DevOps Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b83410cfb11a99d) | 2026-08-26 05:24 |
+| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50d8aabfc80480cb) | 2026-08-26 05:24 |
 | HARVEY | Senior Software Engineer, Data Platform | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=edcca601c37b3df4) | 2026-08-26 04:31 |
 | HARVEY | Senior Software Engineer, Data Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1c6800ab3996b5b3) | 2026-08-26 04:31 |
-| Photon | Java Engineer \| Jersey City, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae48fe542473d529) | 2026-08-26 04:31 |
-| Photon | Java Engineer \| Plano/Columbus, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4be7f31f3e7685a) | 2026-08-26 04:31 |
-| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50d8aabfc80480cb) | 2026-08-26 04:31 |
 | Siemens | AI Agentic Software Engineer | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27060d07882d0fbc) | 2026-08-26 04:31 |
 | Domino's | Senior Data Engineer | Ann Arbor, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6caf29a6b43a49ae) | 2026-08-26 03:45 |
 | CDK Global | Sr. Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b22ba8fe0ae9d2fb) | 2026-08-26 03:45 |
