@@ -1,19 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-25 23:17
+Last updated: 2026-08-26 00:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Photon | Backend Java Developer \| Jersey City, US | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-26 00:43 |
+| Skyworks Solutions | Data Engineering Summer Intern (May-Aug '27) | Irvine, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3f0b99fc7578c909) | 2026-08-26 00:43 |
+| Skyworks Solutions | Data Engineering Winter/Spring Co-Op (Jan-June '27) | Irvine, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7f4bc1c52db1db4e) | 2026-08-26 00:43 |
+| Velir | Senior Analytics Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc4b1b272c14fcd4) | 2026-08-26 00:43 |
+| Velir | Senior Analytics Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=755efb0ab764a58c) | 2026-08-26 00:43 |
+| Velir | Senior Analytics Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=65de9dfcfa9f1fa1) | 2026-08-26 00:43 |
+| Velir | Senior Analytics Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4d5f309ea3930e00) | 2026-08-26 00:43 |
+| Velir | Senior Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eadff99f545dd065) | 2026-08-26 00:43 |
+| Engineering and Automation , Aerospace & Defense | Data Solutions developer | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1839a40f359e0a1) | 2026-08-26 00:43 |
+| SimplePractice | DevOps Engineer, Data & AI Platform | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b00d7042d542536) | 2026-08-26 00:43 |
+| LTM Limited | AWS Data Architect (Senior Specialist - Cloud Engineering) | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b57dd648ed3249a) | 2026-08-26 00:43 |
 | Optum | Senior Data Engineer (Analytics) | Eden Prairie, MN, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=181a31f219accf44) | 2026-08-25 23:17 |
 | Dell Technologies | Senior Systems Engineer, Data Management | NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ed5484e209306fd8) | 2026-08-25 23:17 |
-| Photon | Backend Java Developer \| Jersey City, US | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3331c9e1ce571b88) | 2026-08-25 23:17 |
-| Photon | Python Developer \| Wilmington/New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b3055aff36999475) | 2026-08-25 23:17 |
-| Photon | Full Stack Engineer \| New York, US | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1ba0c058e2336a74) | 2026-08-25 23:17 |
-| Trellis Company | Software Engineer IV | Round Rock, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c6a2a9be0716c272) | 2026-08-25 23:17 |
 | Inadev Corporation | Senior Developer | Reston, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2784516465b56a61) | 2026-08-25 23:17 |
-| Trellis Company | Software Engineer II | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=18c632411cd4b849) | 2026-08-25 23:17 |
 | Wrench.ai Inc | Sr. Platform Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=83be4ed684048bae) | 2026-08-25 23:17 |
 | Smart Tech Skills LLC | Senior Cloud Data Engineer | Marlborough, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2932f50360d701f5) | 2026-08-25 23:17 |
 | KONG | Site Reliability Engineer 2 | Olympia, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=242eab96e596ec8c) | 2026-08-25 23:17 |
@@ -288,9 +294,6 @@ Last updated: 2026-08-25 23:17
 | Capgemini | Databricks Developer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ab1192abfbd7f24e) | 2026-08-22 02:10 |
 | Databricks | Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure) | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=defb19c3b807f7fd) | 2026-08-22 02:10 |
 | CFS Brands, LLC | Data Engineer - Oklahoma City, OK | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=113fe7e3580ec298) | 2026-08-22 02:10 |
-| Realign | GCP Cloud Engineer | Sunnyvale, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b7cc426dbd03f0e) | 2026-08-22 00:41 |
-| Marathon Petroleum | Data Operations Engineer | San Antonio, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=28293fa77ffc32bb) | 2026-08-22 00:41 |
-| Realign | Apache Spark Core Java | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16d16eda2d514586) | 2026-08-22 00:41 |
 
 
 ---
