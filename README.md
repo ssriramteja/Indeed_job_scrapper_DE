@@ -1,15 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-26 06:31
+Last updated: 2026-08-26 07:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Premier Nutrition Company | Sr. Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7bf2e42812735206) | 2026-08-26 07:38 |
+| nan | Technical Consultant | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cd7d8caa90f5aba1) | 2026-08-26 07:38 |
+| New York Life | Senior Associate - Data Architect | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3282af658369b2af) | 2026-08-26 07:38 |
+| Photon | Java Engineer \| Jersey City, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae48fe542473d529) | 2026-08-26 07:38 |
+| Photon | Java Engineer \| Plano/Columbus, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4be7f31f3e7685a) | 2026-08-26 07:38 |
+| Benda Infotech | Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f6a7e25c97039733) | 2026-08-26 07:38 |
+| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50d8aabfc80480cb) | 2026-08-26 07:38 |
+| New York Life | Associate - Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=700aff8e79b7a5eb) | 2026-08-26 07:38 |
+| Wpromote, LLC | Senior Data Engineer (Data Architecture) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=46aed55033a852ae) | 2026-08-26 07:38 |
 | Millennium Systems International | Senior QA Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2d0e151be0bbb235) | 2026-08-26 06:31 |
-| Photon | Java Engineer \| Jersey City, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae48fe542473d529) | 2026-08-26 06:31 |
-| Photon | Java Engineer \| Plano/Columbus, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4be7f31f3e7685a) | 2026-08-26 06:31 |
-| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50d8aabfc80480cb) | 2026-08-26 06:31 |
 | Capgemini | DevOps Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b83410cfb11a99d) | 2026-08-26 05:24 |
 | HARVEY | Senior Software Engineer, Data Platform | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=edcca601c37b3df4) | 2026-08-26 04:31 |
 | HARVEY | Senior Software Engineer, Data Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1c6800ab3996b5b3) | 2026-08-26 04:31 |
@@ -224,7 +230,6 @@ Last updated: 2026-08-26 06:31
 | RealPage Inc | Solutions Delivery Engineer (Remote) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ec761fb42adb289d) | 2026-08-22 10:14 |
 | Ataccama | Senior Professional Services Consultant | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0f49a3f3dbcbca27) | 2026-08-22 08:18 |
 | Bounteous | CDP Architect | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f5b99e7a77983415) | 2026-08-22 08:18 |
-| JPMorganChase | Data Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33b30501746ad4bf) | 2026-08-22 07:24 |
 
 
 ---
