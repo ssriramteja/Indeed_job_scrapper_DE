@@ -1,16 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-26 14:35
+Last updated: 2026-08-26 16:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Premier Nutrition Company | Sr. Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7bf2e42812735206) | 2026-08-26 16:10 |
+| nan | Systems Engineer | FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ccc1f3e73c9d5ec1) | 2026-08-26 16:10 |
+| www.prolim.com | SAP BTP CPI integration developer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=59b9d3edeebc6d93) | 2026-08-26 16:10 |
+| Photon | Java Engineer \| Jersey City, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae48fe542473d529) | 2026-08-26 16:10 |
+| Photon | Java Engineer \| Plano/Columbus, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4be7f31f3e7685a) | 2026-08-26 16:10 |
+| NextEra Energy | Senior IT Programmer Analyst | Jupiter, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e7b92ef7334fb5aa) | 2026-08-26 16:10 |
+| MetTel | Senior Software Engineer - Data Platform | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7cdad9aa5658efec) | 2026-08-26 16:10 |
+| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50d8aabfc80480cb) | 2026-08-26 16:10 |
 | ProArch | Data Engineer | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=08c354cd10dc0d65) | 2026-08-26 14:35 |
-| Premier Nutrition Company | Sr. Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7bf2e42812735206) | 2026-08-26 14:35 |
-| Photon | Java Engineer \| Jersey City, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae48fe542473d529) | 2026-08-26 14:35 |
-| Photon | Java Engineer \| Plano/Columbus, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4be7f31f3e7685a) | 2026-08-26 14:35 |
-| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50d8aabfc80480cb) | 2026-08-26 14:35 |
 | Optum | Software Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b9ca78d46c32c41) | 2026-08-26 14:35 |
 | FDM Group | DevOps Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4d6e427e88678150) | 2026-08-26 13:45 |
 | Kohl's | Platform Engineer | Menomonee Falls, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca683f10163f215e) | 2026-08-26 11:20 |
