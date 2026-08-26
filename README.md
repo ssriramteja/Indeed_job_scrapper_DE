@@ -1,16 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-26 11:20
+Last updated: 2026-08-26 12:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Premier Nutrition Company | Sr. Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7bf2e42812735206) | 2026-08-26 11:20 |
-| Photon | Java Engineer \| Jersey City, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae48fe542473d529) | 2026-08-26 11:20 |
-| Photon | Java Engineer \| Plano/Columbus, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4be7f31f3e7685a) | 2026-08-26 11:20 |
+| Premier Nutrition Company | Sr. Data Engineer | Emeryville, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7bf2e42812735206) | 2026-08-26 12:31 |
+| Photon | Java Engineer \| Jersey City, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae48fe542473d529) | 2026-08-26 12:31 |
+| Photon | Java Engineer \| Plano/Columbus, US | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c4be7f31f3e7685a) | 2026-08-26 12:31 |
+| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50d8aabfc80480cb) | 2026-08-26 12:31 |
 | Kohl's | Platform Engineer | Menomonee Falls, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca683f10163f215e) | 2026-08-26 11:20 |
-| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50d8aabfc80480cb) | 2026-08-26 11:20 |
 | Hyland | Cloud Architect | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3cb901e68315ba1) | 2026-08-26 11:20 |
 | Twitch | Software Engineer II, Fintech | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c724ec5809ede378) | 2026-08-26 11:20 |
 | Twitch | Software Engineer II, Fintech | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71ec45fe0952b39c) | 2026-08-26 11:20 |
@@ -231,7 +231,6 @@ Last updated: 2026-08-26 11:20
 | Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3d419dc292622cd) | 2026-08-23 06:24 |
 | Deloitte | Delivery Senior Consultant, Data Engineering and Conversion Solutions | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f6f3843c2e2f33e) | 2026-08-23 03:42 |
 | Claritas Rx | DevSecOps Engineer | US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=e12b8c592b8fca76) | 2026-08-22 19:16 |
-| NTT DATA | Site Reliability Engineering (SRE) - Maryland, US | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d51d47e65997196) | 2026-08-22 12:20 |
 
 
 ---
