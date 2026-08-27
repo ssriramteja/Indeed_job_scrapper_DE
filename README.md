@@ -1,11 +1,78 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-27 02:26
+Last updated: 2026-08-27 13:21
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NewRocket | AI Platform Engineer-Anthropic-US East | Raleigh, NC, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=e38dcb9b17b16495) | 2026-08-27 13:21 |
+| NewRocket | AI Platform Engineer-Anthropic-US West | Vista, CA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=669da4f7162d9233) | 2026-08-27 13:21 |
+| NewRocket | AI Platform Engineer-Anthropic-US East | Boston, MA, US USA | 22.9% | [Apply](https://www.indeed.com/viewjob?jk=fec3742f5627ce31) | 2026-08-27 13:21 |
+| RSM | Cloud Transformation Senior Consultant | Boston, MA, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=d23da9f70702c22b) | 2026-08-27 13:21 |
+| Cognizant | Back End Go Developer | Troy, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0cc2fd48ea54d930) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Salt Lake City, UT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7b59973a58a51a68) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Morristown, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8a224f58d51b5650) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | San Antonio, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d548d7422fee5742) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Fort Worth, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ba92a5e620a7d4de) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | McLean, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=2830b916627ff463) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Westlake, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5cf63850f9b450b4) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Tempe, AZ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3d8cd33436667375) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Seattle, WA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ac42457f871f6f2b) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Hartford, CT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=dfad47bd4cd04de0) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=9490256d6d1e6ac3) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | New York, NY, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a93b6a8461258317) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Philadelphia, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ee45fef9ca01bb4d) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Atlanta, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=cae27600d6dd1a97) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Indianapolis, IN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ea2a5b31485e2292) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Baltimore, MD, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4dda7256d2d7c901) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=967e37ab9b2dc5bd) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Detroit, MI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b3b029b57bd1664e) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8e25696fbfffc446) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Austin, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b70bc1a487b4331d) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Kansas City, MO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=307d3cf60326dbf5) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Boston, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e07c88e14adbffe5) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e1d84038cb57e54e) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | San Jose, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4854936f22694575) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Columbus, OH, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=807ac4fc7fe90232) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Costa Mesa, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8e29b7b6e690204f) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | St. Louis, MO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=449571831b7901e5) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Cleveland, OH, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ea91e091efc59de7) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Denver, CO, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=eeffca236bc804b3) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Charlotte, NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=3f7621eed158a8c3) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Pittsburgh, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=de4faf9ee14d5944) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | San Diego, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d5d2ab456c735aef) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | New Orleans, LA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4279ea6cf6b731ec) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a58dc24f0f93b419) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Stamford, CT, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b7870d91d6f2bf4a) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=dd5c435f75d8a0c6) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Miami, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=95789a34111441ac) | 2026-08-27 13:21 |
+| Deloitte | Fabric Architect | Cincinnati, OH, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a06f30c1a1ff123e) | 2026-08-27 13:21 |
+| Core BTS | Solution Architect - Azure Data Analytics | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0ac7f22d45fe6fb2) | 2026-08-27 13:21 |
+| Cognizant | Snowflake Architect | Bridgewater, NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e8380cd9e35b2546) | 2026-08-27 13:21 |
+| Mercedes-Benz Group | Advisor, Enterprise Solution Architect | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5f24a48e79605724) | 2026-08-27 13:21 |
+| Databricks | Specialist Solutions Architect - Data Engineering & Warehousing | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7e83403aef0eb985) | 2026-08-27 13:21 |
+| nan | Senior Full Stack Engineer | Torrance, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cf33c5c43beaa8e6) | 2026-08-27 13:21 |
+| Capgemini | Java Architect | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a4f41a995f505d3c) | 2026-08-27 13:21 |
+| Ford Motor Company | Software Engineer | Livonia, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1df95cde0f30cf72) | 2026-08-27 13:21 |
+| Ford Motor Company | Software Engineer | Livonia, MI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ecd55676debc3fc4) | 2026-08-27 13:21 |
+| CDK Global | Sr. Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5390342666784d7e) | 2026-08-27 13:21 |
+| MetLife | Senior Developer, Sales Technology | Cary, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=233d88dbe3d74b1b) | 2026-08-27 13:21 |
+| Wells Fargo | Senior Full Stack .NET / Angular Developer (contract) | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8c718b7484abad21) | 2026-08-27 13:21 |
+| Charles Schwab | Java Software Engineer | Southlake, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f79db46ebbc9c81b) | 2026-08-27 13:21 |
+| NTT DATA | Microsoft Fabric Engineer | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c0e3a98c4a637877) | 2026-08-27 13:21 |
+| Microchip Technology | Engineer I- Software | Chandler, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=868097f3e1f3cce9) | 2026-08-27 13:21 |
+| Malibu Boats | Senior Data Engineer | Loudon, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f64a79707aee64aa) | 2026-08-27 13:21 |
+| PlayStation | Cloud Infrastructure & Platform Engineer | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8c35234a1a55ade1) | 2026-08-27 13:21 |
+| Shoals Technologies Group | IT Developer | Portland, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9437463b88914f0b) | 2026-08-27 13:21 |
+| Twitch | Software Engineer II, Fintech | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=36d6cd0794dbf11e) | 2026-08-27 13:21 |
+| Capgemini | Data Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3fb99c3f8ead0f44) | 2026-08-27 13:21 |
+| Electronic Arts | Software Engineer III | Kirkland, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=801b07c086fc4c1b) | 2026-08-27 13:21 |
+| Shoals Technologies Group | Senior Software Engineer | Portland, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b08e7f2c8d072fd7) | 2026-08-27 13:21 |
+| Lockton Companies | Associate Analytics Engineer | Kansas City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e522678fc742dc7a) | 2026-08-27 13:21 |
+| Deloitte | Cyber Full-Stack Software Engineer | Rosslyn, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9fe925ed625c1711) | 2026-08-27 13:21 |
+| Amentum | Data Security Analyst | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98920657e7b757a2) | 2026-08-27 13:21 |
+| Concentrix | Senior Site Reliability Engineer (SRE) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6875238a4eff9e2d) | 2026-08-27 13:21 |
 | Trepp | Senior Data Engineer | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7ced4229e6a8ce7e) | 2026-08-27 02:26 |
 | Triade Flevoland | Senior Data Engineer — Starburst / Apache Trino | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=f3927b1ab23dc839) | 2026-08-27 02:26 |
 | Photon | Java Backend Developer - Chicago | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f23172e882a0d58c) | 2026-08-27 02:26 |
@@ -15,7 +82,6 @@ Last updated: 2026-08-27 02:26
 | Mercedes-Benz Group | Prinicipal, Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4c8e82e7462392e7) | 2026-08-27 02:26 |
 | Darwill, Inc. | Machine Learning Engineer | Oakbrook Terrace, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4be897c625ddfe98) | 2026-08-27 02:26 |
 | TRM Labs | Senior Software Engineer, Data Product - SF Only | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=351b720407fa6f6d) | 2026-08-27 02:26 |
-| Ford Motor Company | Cloud Platform Software Engineer — Global Connected Vehicle Platform | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=50d8aabfc80480cb) | 2026-08-27 02:26 |
 | VIVA | Integration Engineer | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f40f8ae5a2bc0ae) | 2026-08-27 02:26 |
 | EXL Service | Snowflake Consultant | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=68c00b7ca002be65) | 2026-08-27 02:26 |
 | Intellibee Inc | Integration Engineer | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca81c7c676de2370) | 2026-08-27 02:26 |
@@ -355,8 +421,6 @@ Last updated: 2026-08-27 02:26
 | nan | Snowflake Data Engineer Frontend and Backend | Sacramento, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=19c0f41e24c188bc) | 2026-08-24 07:50 |
 | Ellipsis Health | Senior DevSecOps Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b5903b1348160f84) | 2026-08-24 02:17 |
 | JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e3fcc35e91c6408) | 2026-08-23 19:15 |
-| Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3d419dc292622cd) | 2026-08-23 06:24 |
-| Deloitte | Delivery Senior Consultant, Data Engineering and Conversion Solutions | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f6f3843c2e2f33e) | 2026-08-23 03:42 |
 
 
 ---
