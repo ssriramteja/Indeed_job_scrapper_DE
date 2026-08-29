@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-29 09:39
+Last updated: 2026-08-29 14:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Prodapt Solutions | Data architect | Irving, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=eb0efe6a35cb61a5) | 2026-08-29 14:49 |
+| NYC Human Resources Administration | UNIX MIDDLEWARE ENGINEER | Manhattan, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3c1fa99b1f49f8e3) | 2026-08-29 14:49 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27c60023bc663d82) | 2026-08-29 14:49 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4484d09ea245cffb) | 2026-08-29 14:49 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4dbd28c2635208f) | 2026-08-29 14:49 |
+| BV Teck | SDET Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6c8a5b9754f3dec) | 2026-08-29 14:49 |
+| Cloudera | Senior Field Specialist - Data Engineering & Streaming (Pre-Sales) | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf2e066f006a0c05) | 2026-08-29 14:49 |
 | Grainger | Senior Data Engineer | Chicago, IL, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=2d9b5bcc98f7ba12) | 2026-08-29 09:39 |
 | COREHIRE | Analytics Engineer | Philadelphia, PA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=aef7e5280c3704dc) | 2026-08-29 09:39 |
 | Koniag Government Services | Jr DevSecOps Engineer | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9f140f3b3c4a71d9) | 2026-08-29 09:39 |
@@ -573,9 +580,6 @@ Last updated: 2026-08-29 09:39
 | Jean Martin | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc27939551ef0306) | 2026-08-25 16:25 |
 | The Hartford | Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=754a44c7dfc4ab06) | 2026-08-25 16:25 |
 | Gopher Resource, LLC | Data Platform & Business Intelligence Developer | Eagan, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1dbe8604e2f80090) | 2026-08-25 15:33 |
-| Curant Health | Data Engineer | Smyrna, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=396bc3d72f57166d) | 2026-08-25 14:35 |
-| Caterpillar | SR Data Scientist, Rental | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c5d923de67e31b1) | 2026-08-25 14:35 |
-| Atlassian | Senior Data Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b42ed4ff39a3e5ab) | 2026-08-25 10:22 |
 
 
 ---
