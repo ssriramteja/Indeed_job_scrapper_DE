@@ -1,16 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-29 14:49
+Last updated: 2026-08-29 18:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27c60023bc663d82) | 2026-08-29 18:02 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4484d09ea245cffb) | 2026-08-29 18:02 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4dbd28c2635208f) | 2026-08-29 18:02 |
+| nan | Product Software Engineer II (Java/Full Stack/DevOps) | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52ac0abbd64d17ed) | 2026-08-29 18:02 |
+| Axos Bank | API Platform Owner | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=875223ae2058a7a3) | 2026-08-29 18:02 |
+| BlackRock | Associate, Full Stack Engineer - SMA Solutions | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85433a570efd3e4f) | 2026-08-29 18:02 |
 | Prodapt Solutions | Data architect | Irving, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=eb0efe6a35cb61a5) | 2026-08-29 14:49 |
 | NYC Human Resources Administration | UNIX MIDDLEWARE ENGINEER | Manhattan, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3c1fa99b1f49f8e3) | 2026-08-29 14:49 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27c60023bc663d82) | 2026-08-29 14:49 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4484d09ea245cffb) | 2026-08-29 14:49 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4dbd28c2635208f) | 2026-08-29 14:49 |
 | BV Teck | SDET Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6c8a5b9754f3dec) | 2026-08-29 14:49 |
 | Cloudera | Senior Field Specialist - Data Engineering & Streaming (Pre-Sales) | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf2e066f006a0c05) | 2026-08-29 14:49 |
 | Grainger | Senior Data Engineer | Chicago, IL, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=2d9b5bcc98f7ba12) | 2026-08-29 09:39 |
@@ -569,17 +572,6 @@ Last updated: 2026-08-29 14:49
 | Matrix International Financial Services | Senior Power BI Developer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d94581ef25281ba) | 2026-08-25 18:25 |
 | nan | Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=67a9353ab1875600) | 2026-08-25 18:25 |
 | TheGuarantors | Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=497fe5a6dfd14dec) | 2026-08-25 18:25 |
-| Derex Technologies inc | Microsoft Fabric Data Engineer | Erie, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b483b64afeb3e0bd) | 2026-08-25 17:23 |
-| Wellington Management | Senior Software Engineer | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fe39bc39c0dfdae9) | 2026-08-25 17:23 |
-| NTT DATA | Business Consultant - AI/ML Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=052b239d50574588) | 2026-08-25 17:23 |
-| endava | Application Developer | CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f4e67065f473c15) | 2026-08-25 17:23 |
-| Cognizant | Sr. Data Engineer - Snowflake and Lakehouse | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=177171af39893b8a) | 2026-08-25 16:25 |
-| Cognizant | Sr. Data Engineer - Snowflake and Lakehouse | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=189c2d0348ec6158) | 2026-08-25 16:25 |
-| Ciklum | Senior Data Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=75f5be0e78b3ab5a) | 2026-08-25 16:25 |
-| nan | Software Engineer II - ML and Observability | Glendale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=655a9a6d34f5dbef) | 2026-08-25 16:25 |
-| Jean Martin | Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc27939551ef0306) | 2026-08-25 16:25 |
-| The Hartford | Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) | Hartford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=754a44c7dfc4ab06) | 2026-08-25 16:25 |
-| Gopher Resource, LLC | Data Platform & Business Intelligence Developer | Eagan, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1dbe8604e2f80090) | 2026-08-25 15:33 |
 
 
 ---
