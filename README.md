@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-29 21:24
+Last updated: 2026-08-29 23:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27c60023bc663d82) | 2026-08-29 23:43 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4484d09ea245cffb) | 2026-08-29 23:43 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4dbd28c2635208f) | 2026-08-29 23:43 |
+| ron turley associates | Senior Software Engineer | Glendale, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4875b61328aee0d6) | 2026-08-29 23:43 |
 | Department of Technology | INFORMATION TECHNOLOGY SPECIALIST III | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e1c6ea2c982d3ce1) | 2026-08-29 21:24 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27c60023bc663d82) | 2026-08-29 21:24 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4484d09ea245cffb) | 2026-08-29 21:24 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4dbd28c2635208f) | 2026-08-29 21:24 |
 | Department Of Consumer Affairs | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cd6d29d7f0da02cd) | 2026-08-29 21:24 |
 | nan | Product Software Engineer II (Java/Full Stack/DevOps) | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52ac0abbd64d17ed) | 2026-08-29 18:02 |
 | Axos Bank | API Platform Owner | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=875223ae2058a7a3) | 2026-08-29 18:02 |
@@ -507,30 +508,6 @@ Last updated: 2026-08-29 21:24
 | Engineering and Automation , Aerospace & Defense | Data Solutions developer | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1839a40f359e0a1) | 2026-08-26 00:43 |
 | SimplePractice | DevOps Engineer, Data & AI Platform | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b00d7042d542536) | 2026-08-26 00:43 |
 | LTM Limited | AWS Data Architect (Senior Specialist - Cloud Engineering) | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b57dd648ed3249a) | 2026-08-26 00:43 |
-| Optum | Senior Data Engineer (Analytics) | Eden Prairie, MN, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=181a31f219accf44) | 2026-08-25 23:17 |
-| Dell Technologies | Senior Systems Engineer, Data Management | NC, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=ed5484e209306fd8) | 2026-08-25 23:17 |
-| Inadev Corporation | Senior Developer | Reston, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2784516465b56a61) | 2026-08-25 23:17 |
-| Wrench.ai Inc | Sr. Platform Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=83be4ed684048bae) | 2026-08-25 23:17 |
-| Smart Tech Skills LLC | Senior Cloud Data Engineer | Marlborough, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2932f50360d701f5) | 2026-08-25 23:17 |
-| KONG | Site Reliability Engineer 2 | Olympia, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=242eab96e596ec8c) | 2026-08-25 23:17 |
-| NTT DATA | DevOps & Platform Engineer - Remote Role | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e0a699f65bddf68) | 2026-08-25 23:17 |
-| Thrivent | Senior Engineer | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95a325a771df03df) | 2026-08-25 23:17 |
-| NTT DATA | AI / ML Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e60dd927ca9f910c) | 2026-08-25 23:17 |
-| Cognizant | AI Engineer | Blaine, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dd3a61d4ef5518a8) | 2026-08-25 23:17 |
-| Zoom Communications | Cloud Operations Engineer | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dbe189c15997f93c) | 2026-08-25 23:17 |
-| Colgate-Palmolive | Platform Engineer | Piscataway, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d358ff0176b96002) | 2026-08-25 23:17 |
-| Citizens | Sr Talend Data Engineer | Johnston, RI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=743665ae918f4a0c) | 2026-08-25 22:16 |
-| AAA Auto Club Enterprises | Senior Cloud DevOps Engineer | Costa Mesa, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a7e80b460b21ce73) | 2026-08-25 22:16 |
-| OneDome | Sr. Data Engineer | AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=16e7886502273f96) | 2026-08-25 22:16 |
-| DHL | Data Engineer I | Whiteland, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=895b46639975055d) | 2026-08-25 22:16 |
-| Kirkland & Ellis | Innovation Delivery Platform Developer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ce79ef9cdbb6e910) | 2026-08-25 22:16 |
-| Kirkland & Ellis | Innovation Delivery Platform Developer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eb11c4f7226c9f94) | 2026-08-25 22:16 |
-| IPolarity LLC | Machine Learning Engineer GCP Vertex AI Apache Iceberg | Whippany, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0f4819706c3ee3c8) | 2026-08-25 22:16 |
-| OMS Medical Billing | Full Stack Software Engineer | Addison, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8f1c0dc02d7f1f51) | 2026-08-25 22:16 |
-| Colgate-Palmolive | Platform Engineer (175364) | Piscataway, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ee3bf5d93813275) | 2026-08-25 22:16 |
-| INNOVIM, LLC | Software Engineer, Associate - NASA | Annapolis, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c77d0865eb1cf492) | 2026-08-25 22:16 |
-| JPMorganChase | Controller Transformation Analyst | Newark, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c72f210004930cc) | 2026-08-25 22:16 |
-| The Hartford | Tech & Data Program Summer 2027 - Data Engineer Intern (Columbus) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdad2f2d7148761c) | 2026-08-25 22:16 |
 
 
 ---
