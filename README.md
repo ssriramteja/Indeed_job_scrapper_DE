@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-29 18:02
+Last updated: 2026-08-29 21:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27c60023bc663d82) | 2026-08-29 18:02 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4484d09ea245cffb) | 2026-08-29 18:02 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4dbd28c2635208f) | 2026-08-29 18:02 |
+| Department of Technology | INFORMATION TECHNOLOGY SPECIALIST III | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e1c6ea2c982d3ce1) | 2026-08-29 21:24 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27c60023bc663d82) | 2026-08-29 21:24 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4484d09ea245cffb) | 2026-08-29 21:24 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4dbd28c2635208f) | 2026-08-29 21:24 |
+| Department Of Consumer Affairs | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cd6d29d7f0da02cd) | 2026-08-29 21:24 |
 | nan | Product Software Engineer II (Java/Full Stack/DevOps) | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52ac0abbd64d17ed) | 2026-08-29 18:02 |
 | Axos Bank | API Platform Owner | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=875223ae2058a7a3) | 2026-08-29 18:02 |
 | BlackRock | Associate, Full Stack Engineer - SMA Solutions | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85433a570efd3e4f) | 2026-08-29 18:02 |
@@ -529,49 +531,6 @@ Last updated: 2026-08-29 18:02
 | INNOVIM, LLC | Software Engineer, Associate - NASA | Annapolis, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c77d0865eb1cf492) | 2026-08-25 22:16 |
 | JPMorganChase | Controller Transformation Analyst | Newark, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5c72f210004930cc) | 2026-08-25 22:16 |
 | The Hartford | Tech & Data Program Summer 2027 - Data Engineer Intern (Columbus) | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdad2f2d7148761c) | 2026-08-25 22:16 |
-| Peoples Gas System | Data Engineer | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d32754dc82fcb92a) | 2026-08-25 21:18 |
-| Salesforce | Forward Deployed Engineer (FDE) — Agentforce Orchestration | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f504c00cfca80e26) | 2026-08-25 21:18 |
-| Truist | Technology Operations Consultant - Sn. DevSecOps Engineer | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d15e23617f258b60) | 2026-08-25 21:18 |
-| Capgemini | Cards Java Developer | Hanover, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5208fb6417aa24f6) | 2026-08-25 21:18 |
-| Capgemini | Databricks Developer | Hanover, NH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc529933e7d8181d) | 2026-08-25 21:18 |
-| NewRocket | Agentic AI Architect-Anthropic-US East | New Haven, CT, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=451eef560601ded5) | 2026-08-25 20:18 |
-| NewRocket | Agentic AI Architect-Anthropic-US East | Charlotte, NC, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=5f3ee7b1db2cccd5) | 2026-08-25 20:18 |
-| NewRocket | Agentic AI Architect-Anthropic-US West | Seattle, WA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=20d1d5763df13b0f) | 2026-08-25 20:18 |
-| NewRocket | Agentic AI Architect-Anthropic-US East | Philadelphia, PA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=03deb24662c2d57b) | 2026-08-25 20:18 |
-| NewRocket | Agentic AI Architect-Anthropic-US West | Phoenix, AZ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=f191710314c15359) | 2026-08-25 20:18 |
-| NewRocket | Agentic AI Architect-Anthropic-US West | Portland, OR, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b0d939da0bcff1af) | 2026-08-25 20:18 |
-| NewRocket | Agentic AI Architect-Anthropic-US East | Boston, MA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=a9e2c8f86b9525b8) | 2026-08-25 20:18 |
-| NewRocket | Agentic AI Architect-Anthropic-US West | San Francisco, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=082b971e34568c1f) | 2026-08-25 20:18 |
-| NewRocket | Agentic AI Architect-Anthropic-US West | Vista, CA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=26d52f1deebd9cc0) | 2026-08-25 20:18 |
-| CapTech Consulting | Data Analyst | Reston, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=679d5d1c7a09b9f3) | 2026-08-25 20:18 |
-| Axon | Senior Software Engineer I, Applied AI | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=591d7ae91cb2eb99) | 2026-08-25 20:18 |
-| Axon | Senior Software Engineer I, Applied AI | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=503f43f12c92318e) | 2026-08-25 20:18 |
-| Axon | Senior Software Engineer I, Applied AI | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ace8df85ea0e8639) | 2026-08-25 20:18 |
-| Axon | Senior Software Engineer I, Applied AI | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bfb744e0bd727a3d) | 2026-08-25 20:18 |
-| Axon | Senior Software Engineer I, Applied AI | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bbe7d5bfc808f782) | 2026-08-25 20:18 |
-| nan | Data & AI Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=271bbcd0786a6bc7) | 2026-08-25 20:18 |
-| INFINITY HOME SERVICES | DevOps Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=834def53d716402e) | 2026-08-25 20:18 |
-| Accelerate Learning Inc. | Software Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ddf4a6188d3a180) | 2026-08-25 20:18 |
-| innoVet Health, LLC | AI Solutions Architect | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=c0e4f57f20c8e6aa) | 2026-08-25 19:23 |
-| innoVet Health, LLC | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9a53ba237c911865) | 2026-08-25 19:23 |
-| Mobis Parts America, LLC. | Data Engineer III, Cloud | Fountain Valley, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c45ff3218e58d2fe) | 2026-08-25 19:23 |
-| Capgemini | DevOps Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c18f276c9b0d4b06) | 2026-08-25 19:23 |
-| EL SHADDAI TECHNOLOGIES | Senior Java Backend & AI Engineer – Wealth Management | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7a59b3cdfe58cc35) | 2026-08-25 19:23 |
-| BMR infotek | SQL Database Engineer | Iselin, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7e0cc3caaa083f92) | 2026-08-25 19:23 |
-| BV Teck | Data Platform Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=18271f0af24fff11) | 2026-08-25 19:23 |
-| Mobis Parts America, LLC. | Engineer III, Business Intelligence | Fountain Valley, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3b3103a10d60cdc6) | 2026-08-25 19:23 |
-| Cloud and Things | Senior Java Developer | Albany, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=493f15e83d88a6ca) | 2026-08-25 18:25 |
-| Realign | AWS Python Data Engineer | Malvern, PA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=834d52dff47fe0c1) | 2026-08-25 18:25 |
-| Entegris | Senior Data Scientist | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=05c27f1fa1de3f62) | 2026-08-25 18:25 |
-| Realign | BI / Data Architect (Remote) | Marlborough, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=64614fd6a49cf213) | 2026-08-25 18:25 |
-| Metropolitan Commercial Bank | AI Scientist | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0c1ea51976266b71) | 2026-08-25 18:25 |
-| Optum | Senior Data Engineer | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=50d2a1a315111b7f) | 2026-08-25 18:25 |
-| Realign | Senior Data Engineer | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c8fd72ec86ae1741) | 2026-08-25 18:25 |
-| Praia Health | Senior Java Backend Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e66607f3c1e40fc5) | 2026-08-25 18:25 |
-| Aurum Groups | Sr. Data Engineer with Azure Databricks | Warren, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=07f335aa71e7b3af) | 2026-08-25 18:25 |
-| Matrix International Financial Services | Senior Power BI Developer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6d94581ef25281ba) | 2026-08-25 18:25 |
-| nan | Data Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=67a9353ab1875600) | 2026-08-25 18:25 |
-| TheGuarantors | Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=497fe5a6dfd14dec) | 2026-08-25 18:25 |
 
 
 ---
