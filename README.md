@@ -1,15 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-30 02:31
+Last updated: 2026-08-30 08:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| LPL Financial | Engineer II, Data (Cloud & AI) | Fort Mill, SC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e3ed8a1f209612e2) | 2026-08-30 08:41 |
+| Solvonex | DevOps Platform and Infrastructure Engineer | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f32791637f5d1fb8) | 2026-08-30 08:41 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27c60023bc663d82) | 2026-08-30 08:41 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4484d09ea245cffb) | 2026-08-30 08:41 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4dbd28c2635208f) | 2026-08-30 08:41 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Kearney, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ae9405dc478084f) | 2026-08-30 08:41 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Overland Park, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fc099d426154e9c) | 2026-08-30 08:41 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Des Moines, IA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6982f28b9756d95) | 2026-08-30 08:41 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Lincoln, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2f4728d485fd82b7) | 2026-08-30 08:41 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Grand Island, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7d8a860e6f7c99c7) | 2026-08-30 08:41 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4aab656d0ca3d815) | 2026-08-30 08:41 |
+| ALLO Communications | Senior Software Engineer, Cloud and AI | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b710a7f0b803f961) | 2026-08-30 08:41 |
+| RBC | Solutions Architect | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=73756c88cc20b24b) | 2026-08-30 08:41 |
 | Deloitte | Sr Databricks Data Engineer | Rosslyn, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9ab555e988dd3c5f) | 2026-08-30 02:31 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27c60023bc663d82) | 2026-08-30 02:31 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4484d09ea245cffb) | 2026-08-30 02:31 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4dbd28c2635208f) | 2026-08-30 02:31 |
 | ron turley associates | Senior Software Engineer | Glendale, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4875b61328aee0d6) | 2026-08-29 23:43 |
 | Department of Technology | INFORMATION TECHNOLOGY SPECIALIST III | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e1c6ea2c982d3ce1) | 2026-08-29 21:24 |
 | Department Of Consumer Affairs | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cd6d29d7f0da02cd) | 2026-08-29 21:24 |
@@ -467,24 +477,6 @@ Last updated: 2026-08-30 02:31
 | Twitch | Software Engineer II, Fintech | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c724ec5809ede378) | 2026-08-26 11:20 |
 | Twitch | Software Engineer II, Fintech | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71ec45fe0952b39c) | 2026-08-26 11:20 |
 | nan | Senior Full Stack Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5087fc206cc0738e) | 2026-08-26 09:31 |
-| CNA Insurance | Senior Data AI Engineer - Java | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=874c68aa6c38b010) | 2026-08-26 08:32 |
-| nan | Technical Consultant | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cd7d8caa90f5aba1) | 2026-08-26 07:38 |
-| New York Life | Senior Associate - Data Architect | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3282af658369b2af) | 2026-08-26 07:38 |
-| Benda Infotech | Software Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f6a7e25c97039733) | 2026-08-26 07:38 |
-| New York Life | Associate - Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=700aff8e79b7a5eb) | 2026-08-26 07:38 |
-| Wpromote, LLC | Senior Data Engineer (Data Architecture) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=46aed55033a852ae) | 2026-08-26 07:38 |
-| Millennium Systems International | Senior QA Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2d0e151be0bbb235) | 2026-08-26 06:31 |
-| Capgemini | DevOps Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b83410cfb11a99d) | 2026-08-26 05:24 |
-| HARVEY | Senior Software Engineer, Data Platform | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=edcca601c37b3df4) | 2026-08-26 04:31 |
-| HARVEY | Senior Software Engineer, Data Platform | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1c6800ab3996b5b3) | 2026-08-26 04:31 |
-| Siemens | AI Agentic Software Engineer | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27060d07882d0fbc) | 2026-08-26 04:31 |
-| Domino's | Senior Data Engineer | Ann Arbor, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6caf29a6b43a49ae) | 2026-08-26 03:45 |
-| CDK Global | Sr. Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b22ba8fe0ae9d2fb) | 2026-08-26 03:45 |
-| Bristol Myers Squibb | Senior Data Engineer — Translational Data Products | Tampa, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2f396088cbf8cedc) | 2026-08-26 03:45 |
-| Evolve vacation rentals | Senior Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=47837312b0e5d7cf) | 2026-08-26 03:45 |
-| Zuora | Senior Software Engineer (Revenue) | Foster City, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d66762c1438bbeb) | 2026-08-26 03:45 |
-| JLL | Senior Data Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=293d986f254547dd) | 2026-08-26 03:45 |
-| 4P Consulting Inc. | Software Developer / Data Solutions Developer | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fe843336b1995ee1) | 2026-08-26 03:45 |
 
 
 ---
