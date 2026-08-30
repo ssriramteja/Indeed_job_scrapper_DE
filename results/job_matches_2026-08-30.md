@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-30
 
-**Total Jobs Found:** 17
+**Total Jobs Found:** 13
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,40 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. INFORMATION TECHNOLOGY SPECIALIST III @ Department of Technology
-**Match Score:** 13.9%
-
-📍 **Location:** CA, US USA
-
-🔑 **Keywords:** RDS, Azure, Databricks, Data Lake Storage, Spark, PySpark, Scala, SQL Server, Data Modeling, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e1c6ea2c982d3ce1)
-
----
-
-## 5. Product Software Engineer II (Java/Full Stack/DevOps) @ nan
-**Match Score:** 12.5%
-
-📍 **Location:** Glendale, CA, US USA
-
-🔑 **Keywords:** AWS, S3, SQS, SNS, ECS, RDS, Azure, GCP, Scala, DynamoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=52ac0abbd64d17ed)
-
----
-
-## 6. INFORMATION TECHNOLOGY SPECIALIST I @ Department Of Consumer Affairs
-**Match Score:** 11.8%
-
-📍 **Location:** CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, Scala, Oracle, MySQL, MongoDB, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cd6d29d7f0da02cd)
-
----
-
-## 7. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 4. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Kearney, NE, US USA
@@ -82,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 5. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Overland Park, KS, US USA
@@ -93,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 6. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Des Moines, IA, US USA
@@ -104,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 7. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Lincoln, NE, US USA
@@ -115,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 8. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Grand Island, NE, US USA
@@ -126,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 9. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Omaha, NE, US USA
@@ -137,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 10. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -148,18 +115,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. API Platform Owner @ Axos Bank
-**Match Score:** 11.1%
+## 11. Specialist - Data Engineering @ LTM Limited
+**Match Score:** 10.4%
 
-📍 **Location:** San Diego, CA, US USA
+📍 **Location:** Tampa, FL, US USA
 
-🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Vertex AI, Scala, CI/CD, GitHub Actions, Terraform
+🔑 **Keywords:** RDS, Azure, Databricks, Hadoop, HDFS, Hive, Spark, PySpark, Scala, ETL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=875223ae2058a7a3)
+[Apply Here](https://www.indeed.com/viewjob?jk=c9493a61af734ed1)
 
 ---
 
-## 15. Senior Software Engineer @ ron turley associates
+## 12. Senior Software Engineer @ ron turley associates
 **Match Score:** 10.4%
 
 📍 **Location:** Glendale, AZ, US USA
@@ -170,18 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Associate, Full Stack Engineer - SMA Solutions @ BlackRock
-**Match Score:** 10.4%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** AWS, SQS, RDS, Azure, GCP, SQL Server, PostgreSQL, DynamoDB, Cassandra, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=85433a570efd3e4f)
-
----
-
-## 17. Solutions Architect @ RBC
+## 13. Solutions Architect @ RBC
 **Match Score:** 10.4%
 
 📍 **Location:** Raleigh, NC, US USA

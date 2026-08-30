@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-30 14:06
+Last updated: 2026-08-30 18:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| LTM Limited | Specialist - Data Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c9493a61af734ed1) | 2026-08-30 18:16 |
 | LPL Financial | Engineer II, Data (Cloud & AI) | Fort Mill, SC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e3ed8a1f209612e2) | 2026-08-30 08:41 |
 | Solvonex | DevOps Platform and Infrastructure Engineer | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f32791637f5d1fb8) | 2026-08-30 08:41 |
 | ALLO Communications | Senior Software Engineer, Cloud and AI | Kearney, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ae9405dc478084f) | 2026-08-30 08:41 |
@@ -462,12 +463,6 @@ Last updated: 2026-08-30 14:06
 | Braze | Senior Site Reliability Engineer I | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15a494f407d22227) | 2026-08-26 18:49 |
 | Braze | Senior Site Reliability Engineer I | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d2546a365f20e983) | 2026-08-26 18:49 |
 | Braze | Senior Site Reliability Engineer I | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7988a3ee97db7900) | 2026-08-26 18:49 |
-| nan | Systems Engineer | FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ccc1f3e73c9d5ec1) | 2026-08-26 16:10 |
-| www.prolim.com | SAP BTP CPI integration developer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=59b9d3edeebc6d93) | 2026-08-26 16:10 |
-| NextEra Energy | Senior IT Programmer Analyst | Jupiter, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e7b92ef7334fb5aa) | 2026-08-26 16:10 |
-| MetTel | Senior Software Engineer - Data Platform | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7cdad9aa5658efec) | 2026-08-26 16:10 |
-| ProArch | Data Engineer | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=08c354cd10dc0d65) | 2026-08-26 14:35 |
-| Optum | Software Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b9ca78d46c32c41) | 2026-08-26 14:35 |
 
 
 ---
