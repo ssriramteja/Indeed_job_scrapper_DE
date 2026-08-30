@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-08-30
 
-**Total Jobs Found:** 23
+**Total Jobs Found:** 17
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Data architect @ Prodapt Solutions
-**Match Score:** 16.0%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** AWS, Kinesis, Redshift, RDS, Azure, Databricks, Event Hubs, GCP, BigQuery, Spark
-
-[Apply Here](https://www.indeed.com/viewjob?jk=eb0efe6a35cb61a5)
-
----
-
-## 3. Sr Databricks Data Engineer @ Deloitte
+## 2. Sr Databricks Data Engineer @ Deloitte
 **Match Score:** 15.3%
 
 📍 **Location:** Rosslyn, VA, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. DevOps Platform and Infrastructure Engineer @ Solvonex
+## 3. DevOps Platform and Infrastructure Engineer @ Solvonex
 **Match Score:** 13.9%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. INFORMATION TECHNOLOGY SPECIALIST III @ Department of Technology
+## 4. INFORMATION TECHNOLOGY SPECIALIST III @ Department of Technology
 **Match Score:** 13.9%
 
 📍 **Location:** CA, US USA
@@ -60,51 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. UNIX MIDDLEWARE ENGINEER @ NYC Human Resources Administration
-**Match Score:** 13.2%
-
-📍 **Location:** Manhattan, NY, US USA
-
-🔑 **Keywords:** AWS, S3, IAM, RDS, Azure, Oracle, SQL Server, ELT, Splunk, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3c1fa99b1f49f8e3)
-
----
-
-## 7. Senior Software Engineer @ Mercury Insurance Company
-**Match Score:** 13.2%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, SQS, RDS, Azure, Scala, Kafka, MongoDB, DynamoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=27c60023bc663d82)
-
----
-
-## 8. Senior Software Engineer @ Mercury Insurance Company
-**Match Score:** 13.2%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, SQS, RDS, Azure, Scala, Kafka, MongoDB, DynamoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4484d09ea245cffb)
-
----
-
-## 9. Senior Software Engineer @ Mercury Insurance Company
-**Match Score:** 13.2%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, SQS, RDS, Azure, Scala, Kafka, MongoDB, DynamoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d4dbd28c2635208f)
-
----
-
-## 10. Product Software Engineer II (Java/Full Stack/DevOps) @ nan
+## 5. Product Software Engineer II (Java/Full Stack/DevOps) @ nan
 **Match Score:** 12.5%
 
 📍 **Location:** Glendale, CA, US USA
@@ -115,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. INFORMATION TECHNOLOGY SPECIALIST I @ Department Of Consumer Affairs
+## 6. INFORMATION TECHNOLOGY SPECIALIST I @ Department Of Consumer Affairs
 **Match Score:** 11.8%
 
 📍 **Location:** CA, US USA
@@ -126,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 7. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Kearney, NE, US USA
@@ -137,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 8. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Overland Park, KS, US USA
@@ -148,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 9. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Des Moines, IA, US USA
@@ -159,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 10. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Lincoln, NE, US USA
@@ -170,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 16. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 11. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Grand Island, NE, US USA
@@ -181,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 17. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 12. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Omaha, NE, US USA
@@ -192,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 13. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -203,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. API Platform Owner @ Axos Bank
+## 14. API Platform Owner @ Axos Bank
 **Match Score:** 11.1%
 
 📍 **Location:** San Diego, CA, US USA
@@ -214,7 +159,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Senior Software Engineer @ ron turley associates
+## 15. Senior Software Engineer @ ron turley associates
 **Match Score:** 10.4%
 
 📍 **Location:** Glendale, AZ, US USA
@@ -225,7 +170,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Associate, Full Stack Engineer - SMA Solutions @ BlackRock
+## 16. Associate, Full Stack Engineer - SMA Solutions @ BlackRock
 **Match Score:** 10.4%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -236,18 +181,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior Field Specialist - Data Engineering & Streaming (Pre-Sales) @ Cloudera
-**Match Score:** 10.4%
-
-📍 **Location:** CA, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Databricks, Dataflow, Spark, Scala, Kafka, DataOps, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bf2e066f006a0c05)
-
----
-
-## 23. Solutions Architect @ RBC
+## 17. Solutions Architect @ RBC
 **Match Score:** 10.4%
 
 📍 **Location:** Raleigh, NC, US USA

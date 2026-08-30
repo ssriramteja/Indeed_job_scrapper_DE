@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-30 08:41
+Last updated: 2026-08-30 14:06
 
 ### 🚀 Daily Job Matches
 
@@ -8,9 +8,6 @@ Last updated: 2026-08-30 08:41
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | LPL Financial | Engineer II, Data (Cloud & AI) | Fort Mill, SC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e3ed8a1f209612e2) | 2026-08-30 08:41 |
 | Solvonex | DevOps Platform and Infrastructure Engineer | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f32791637f5d1fb8) | 2026-08-30 08:41 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27c60023bc663d82) | 2026-08-30 08:41 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4484d09ea245cffb) | 2026-08-30 08:41 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4dbd28c2635208f) | 2026-08-30 08:41 |
 | ALLO Communications | Senior Software Engineer, Cloud and AI | Kearney, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ae9405dc478084f) | 2026-08-30 08:41 |
 | ALLO Communications | Senior Software Engineer, Cloud and AI | Overland Park, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fc099d426154e9c) | 2026-08-30 08:41 |
 | ALLO Communications | Senior Software Engineer, Cloud and AI | Des Moines, IA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6982f28b9756d95) | 2026-08-30 08:41 |
@@ -471,12 +468,6 @@ Last updated: 2026-08-30 08:41
 | MetTel | Senior Software Engineer - Data Platform | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7cdad9aa5658efec) | 2026-08-26 16:10 |
 | ProArch | Data Engineer | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=08c354cd10dc0d65) | 2026-08-26 14:35 |
 | Optum | Software Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2b9ca78d46c32c41) | 2026-08-26 14:35 |
-| FDM Group | DevOps Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4d6e427e88678150) | 2026-08-26 13:45 |
-| Kohl's | Platform Engineer | Menomonee Falls, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ca683f10163f215e) | 2026-08-26 11:20 |
-| Hyland | Cloud Architect | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3cb901e68315ba1) | 2026-08-26 11:20 |
-| Twitch | Software Engineer II, Fintech | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c724ec5809ede378) | 2026-08-26 11:20 |
-| Twitch | Software Engineer II, Fintech | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71ec45fe0952b39c) | 2026-08-26 11:20 |
-| nan | Senior Full Stack Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5087fc206cc0738e) | 2026-08-26 09:31 |
 
 
 ---
