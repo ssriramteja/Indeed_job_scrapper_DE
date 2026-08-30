@@ -38,7 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 4. AIPowered Power BI Engineer @ LTM Limited
+**Match Score:** 12.5%
+
+📍 **Location:** Torrance, CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Dataflow, Scala, Snowflake, Oracle, SQL Server, Data Modeling, Snowflake Schema
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5865f55ab1e5c5e9)
+
+---
+
+## 5. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Kearney, NE, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 6. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Overland Park, KS, US USA
@@ -60,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 7. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Des Moines, IA, US USA
@@ -71,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 8. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Lincoln, NE, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 9. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Grand Island, NE, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 10. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Omaha, NE, US USA
@@ -104,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 11. Senior Software Engineer, Cloud and AI @ ALLO Communications
 **Match Score:** 11.1%
 
 📍 **Location:** Kansas City, MO, US USA
@@ -115,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Specialist - Data Engineering @ LTM Limited
+## 12. Specialist - Data Engineering @ LTM Limited
 **Match Score:** 10.4%
 
 📍 **Location:** Tampa, FL, US USA
@@ -123,17 +134,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Databricks, Hadoop, HDFS, Hive, Spark, PySpark, Scala, ETL
 
 [Apply Here](https://www.indeed.com/viewjob?jk=c9493a61af734ed1)
-
----
-
-## 12. Senior Software Engineer @ ron turley associates
-**Match Score:** 10.4%
-
-📍 **Location:** Glendale, AZ, US USA
-
-🔑 **Keywords:** AWS, SQS, ECS, RDS, Scala, Kafka, ELT, CI/CD, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4875b61328aee0d6)
 
 ---
 

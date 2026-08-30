@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-30 18:16
+Last updated: 2026-08-30 21:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| LTM Limited | AIPowered Power BI Engineer | Torrance, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5865f55ab1e5c5e9) | 2026-08-30 21:44 |
 | LTM Limited | Specialist - Data Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c9493a61af734ed1) | 2026-08-30 18:16 |
 | LPL Financial | Engineer II, Data (Cloud & AI) | Fort Mill, SC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e3ed8a1f209612e2) | 2026-08-30 08:41 |
 | Solvonex | DevOps Platform and Infrastructure Engineer | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f32791637f5d1fb8) | 2026-08-30 08:41 |
@@ -365,104 +366,6 @@ Last updated: 2026-08-30 18:16
 | CleanSlate Technology Group | Cloud Infrastructure Engineer | Carmel, IN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1dd6170b836318a3) | 2026-08-27 02:26 |
 | JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab0af7df8344321b) | 2026-08-27 02:26 |
 | JPMorganChase | Infrastructure Engineer II | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a97be22e6059d1e9) | 2026-08-27 02:26 |
-| United Wheels Inc. | Data Engineer | Miamisburg, OH, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=27e79ad2e915711e) | 2026-08-26 21:29 |
-| nan | Java Backend Developer with Digital Banking exp. | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=975335ad394cec71) | 2026-08-26 21:29 |
-| One Park Financial | AWS Connect Engineer | Plano, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d70704f843af03d8) | 2026-08-26 21:29 |
-| Capgemini | Senior Data Engineer Grade C1 | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0c5adae439689ed8) | 2026-08-26 21:29 |
-| LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ab1337a2df075881) | 2026-08-26 21:29 |
-| LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=601078fca17d6436) | 2026-08-26 21:29 |
-| LPL Financial | Senior Software Engineer | Fort Mill, SC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=eb36469ab073779d) | 2026-08-26 21:29 |
-| Wolfe, LLC | Data Engineer | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=55e8240a360be575) | 2026-08-26 21:29 |
-| Cisco | Software Engineer | Richardson, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d5686a0b8163a717) | 2026-08-26 21:29 |
-| Caterpillar | Senior Software Engineer | Peoria, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0dca40c7722a95e0) | 2026-08-26 21:29 |
-| KeyBank | Data & Business Intelligence Senior Associate | Brooklyn, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff9ec8de823c6860) | 2026-08-26 21:29 |
-| Ancestry | Software Engineer – Observability, Co-op | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee144fbb1de80e29) | 2026-08-26 21:29 |
-| Lockheed Martin | Full Stack Engineer Senior / Infrastructure as Code / DBA | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5a46ae133ecb4f7e) | 2026-08-26 21:29 |
-| Swisslog Healthcare AG Branche NL | Software Engineer - Full Stack - UI | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d3c9e14eaa0d3f83) | 2026-08-26 21:29 |
-| Cohere Health | Sr. Software Engineer, Data Platform | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=13c3fd73c78e94d5) | 2026-08-26 21:29 |
-| Swisslog Healthcare | Software Engineer - Full Stack | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4301843c7a7136de) | 2026-08-26 21:29 |
-| Pyxis Management Consulting Group | Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=df510917e20222b6) | 2026-08-26 21:29 |
-| Cisco | Sr Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bdd8bdf82d729ef3) | 2026-08-26 21:29 |
-| The Hartford | Tech & Data Program Summer 2027 – Data Engineer Intern (Charlotte) | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dbae05545c6868d1) | 2026-08-26 21:29 |
-| The Hartford | Tech & Data Program Summer 2027 - Data Engineer Intern (Chicago) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef6f0621a423908c) | 2026-08-26 21:29 |
-| Collectiv LLC | Full Stack Data & Analytics Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47e76c61522acf68) | 2026-08-26 21:29 |
-| Freedom Mortgage | Full Stack AI Software Engineer | Marlton, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3950e40095baf48) | 2026-08-26 21:29 |
-| Siemens Healthineers | AI LLM Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=512d71dc2c72b295) | 2026-08-26 21:29 |
-| SidhSol | Senior Application Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a1ff332af76c49db) | 2026-08-26 21:29 |
-| Triwave Solutions Inc | Senior Database Architect | Woodlawn, MD, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=da35022772d82448) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Harrisburg, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=124139dc71cb3de3) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Topeka, KS, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=909a1f6b26c17925) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Madison, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c93acac401ad3bbf) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Providence, RI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=94f4a28dfa9476bc) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Dover, DE, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=13f55062141bc024) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Oklahoma City, OK, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=93208e2f6926347a) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7eea24c2a0ab6c8d) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Nashville, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1b928b70f880f43e) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Helena, MT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c53c3f82e674c498) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Lincoln, NE, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=52c28366a273c1cc) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Lansing, MI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b120619fc2e804f7) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Annapolis, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9da89a063f9c8521) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Santa Fe, NM, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=bd1b6aefc05efd92) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Concord, NH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b821791df6fb974a) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Hartford, CT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e73a1e57486a0c1d) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Jackson, MS, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a17a59c378aa6173) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Springfield, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0ce6fa4c0175733b) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Washington, DC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2328e655f3e8d78f) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Salt Lake City, UT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a81d7d772ab85759) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Raleigh, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=526ba6cf1cb5f265) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Frankfort, KY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1925f45d961a4413) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Charleston, WV, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=345d49ceaf51b3dd) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Jefferson City, MO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4237b23eb5e0e0e4) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Montpelier, VT, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=342cda44215c91c6) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=27914ea323041751) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Pierre, SD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9fce442c2387b717) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Boise, ID, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=27ca7d2c6b1b746c) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Little Rock, AR, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=36418ba6cc0c14c2) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Salem, OR, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=af4943f5569a0767) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Carson City, NV, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d9b4f3ef2e79895a) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Baton Rouge, LA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6b2d271a63d05bf0) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Cheyenne, WY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=00aac80eaaee8a4a) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Montgomery, AL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a89e649b137768be) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Olympia, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=38c7ac9df441601c) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Columbia, SC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9f4418551c98d3ec) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Phoenix, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8f19d7d7cf4d3ecc) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Trenton, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9041cb7d9adbbd88) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Bismarck, ND, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9eb22c28a20aec81) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Saint Paul, MN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f7a01a365ccb6479) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=197c01a921c0f589) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Indianapolis, IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a3fff2959c75f6c5) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Tallahassee, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d40d369719872875) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Austin, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=53a1b379b0810dfc) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Scottsdale, AZ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0b4bcbf3821afe5c) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Richmond, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=32734f2534389aff) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Farmers Branch, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2430a8d9cbfed099) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Denver, CO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=026ee3ac609c3551) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Des Moines, IA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=762089df3fb6872a) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Augusta, ME, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d788e97a3bd89302) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Sacramento, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=60b50bb9dfbb5aa1) | 2026-08-26 18:49 |
-| CVS Health | Senior Full-Stack Developer - AI | Albany, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8f36a75009e4ba82) | 2026-08-26 18:49 |
-| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a001f2cdcb66bc68) | 2026-08-26 18:49 |
-| AES Corporation | Senior Engineer, Analytics | Salt Lake City, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5fbf73e2a2d7e581) | 2026-08-26 18:49 |
-| AES Corporation | Senior Engineer, Analytics | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=66a5f3320c6af81a) | 2026-08-26 18:49 |
-| AES Corporation | Senior Engineer, Analytics | Louisville, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a9f00ed4d637eba) | 2026-08-26 18:49 |
-| bp | Development Systems Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e24f70ff61678f2e) | 2026-08-26 18:49 |
-| Grocery Outlet | Sr Data & AI Solution Architect | Emeryville, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=60f0706c31a0334f) | 2026-08-26 18:49 |
-| PlayStation | Cloud Infrastructure & Platform Engineer | Madison, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c681a9056e23349f) | 2026-08-26 18:49 |
-| PlayStation | Cloud Infrastructure & Platform Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7bbfa5155595ec72) | 2026-08-26 18:49 |
-| Lobel Financial | Sr. Azure Solutions Architect | Anaheim, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0db6ac7cf2f086e8) | 2026-08-26 18:49 |
-| BLOC Resources, LLC | Software Developer 2 | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a8f6e507178eea68) | 2026-08-26 18:49 |
-| Capgemini | Data Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a28485007e465c63) | 2026-08-26 18:49 |
-| Equifax | Generative AI Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d1b15647f88acc1) | 2026-08-26 18:49 |
-| Beth Israel Lahey Health | Data Engineer BILH Pharmacy Westwood, Ma, Hybrid / on-site | Westwood, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf255b6550fc872f) | 2026-08-26 18:49 |
-| Abbott | Sr. Scientific Data Engineer, R&D Data Platform | Abbott Park, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8280545268f9a67b) | 2026-08-26 18:49 |
-| Tapestry | Infrastructure Automation Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=18a7770f9ee523e2) | 2026-08-26 18:49 |
-| Imprint | Infrastructure Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d618dcf278adc42) | 2026-08-26 18:49 |
-| Imprint | Infrastructure Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cae136048a3d8779) | 2026-08-26 18:49 |
-| Textron Specialized Vehicles | Connected Vehicle Platform Engineer | Augusta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dfac0a590ec45dcb) | 2026-08-26 18:49 |
-| Braze | Senior Site Reliability Engineer I | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64543ec5f02890f1) | 2026-08-26 18:49 |
-| Braze | Senior Site Reliability Engineer I | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15a494f407d22227) | 2026-08-26 18:49 |
-| Braze | Senior Site Reliability Engineer I | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d2546a365f20e983) | 2026-08-26 18:49 |
-| Braze | Senior Site Reliability Engineer I | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7988a3ee97db7900) | 2026-08-26 18:49 |
 
 
 ---
