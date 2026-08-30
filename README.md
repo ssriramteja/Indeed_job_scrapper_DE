@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-29 23:43
+Last updated: 2026-08-30 02:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27c60023bc663d82) | 2026-08-29 23:43 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4484d09ea245cffb) | 2026-08-29 23:43 |
-| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4dbd28c2635208f) | 2026-08-29 23:43 |
+| Deloitte | Sr Databricks Data Engineer | Rosslyn, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9ab555e988dd3c5f) | 2026-08-30 02:31 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=27c60023bc663d82) | 2026-08-30 02:31 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4484d09ea245cffb) | 2026-08-30 02:31 |
+| Mercury Insurance Company | Senior Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4dbd28c2635208f) | 2026-08-30 02:31 |
 | ron turley associates | Senior Software Engineer | Glendale, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4875b61328aee0d6) | 2026-08-29 23:43 |
 | Department of Technology | INFORMATION TECHNOLOGY SPECIALIST III | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e1c6ea2c982d3ce1) | 2026-08-29 21:24 |
 | Department Of Consumer Affairs | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cd6d29d7f0da02cd) | 2026-08-29 21:24 |
@@ -484,30 +485,6 @@ Last updated: 2026-08-29 23:43
 | Zuora | Senior Software Engineer (Revenue) | Foster City, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3d66762c1438bbeb) | 2026-08-26 03:45 |
 | JLL | Senior Data Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=293d986f254547dd) | 2026-08-26 03:45 |
 | 4P Consulting Inc. | Software Developer / Data Solutions Developer | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fe843336b1995ee1) | 2026-08-26 03:45 |
-| Index Analytics LLC | Sr. Data Engineer | Windsor Mill, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e6cb1b5f667e2d24) | 2026-08-26 02:19 |
-| Cloud and Things | Java Developer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cc8011b3d20c58b9) | 2026-08-26 02:19 |
-| Western Governors University | Data Engineer II | Salt Lake City, UT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=88aedfe1f2413e05) | 2026-08-26 02:19 |
-| Western Governors University | Associate Data Engineer | Salt Lake City, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b939d93319884ab) | 2026-08-26 02:19 |
-| AES Corporation | Senior Engineer, Analytics | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c3ab440c93bda25b) | 2026-08-26 02:19 |
-| AES Corporation | Senior Engineer, Analytics | Louisville, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=abf2c8858d372138) | 2026-08-26 02:19 |
-| AES Corporation | Senior Engineer, Analytics | Salt Lake City, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=08a226425e0c1a0f) | 2026-08-26 02:19 |
-| REV LLC | Integration & API Architect | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=96fb1a89b2f01b9f) | 2026-08-26 02:19 |
-| Cotiviti | Senior Software Engineer II-SQL (T-SQL/PL-SQL), Azure, Spark/Hadoop | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3b643d276050a234) | 2026-08-26 02:19 |
-| Epik Solutions | Databricks Data Engineer | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=43eb5d617c39ee62) | 2026-08-26 02:19 |
-| Sarnova HC, LLC | Senior eCommerce Engineer - Sarnova - Remote | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=adde54c1dfeeb1f9) | 2026-08-26 02:19 |
-| Sarnova HC, LLC | Senior eCommerce Engineer - Sarnova - Remote | Dublin, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eaa7602c43284c05) | 2026-08-26 02:19 |
-| BV Teck | Senior Java Full Stack Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5f801b20e257baf3) | 2026-08-26 02:19 |
-| City of Charlotte, NC | Software Developer Senior | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a8009ac0fbc46342) | 2026-08-26 02:19 |
-| Skyworks Solutions | Data Engineering Summer Intern (May-Aug '27) | Irvine, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3f0b99fc7578c909) | 2026-08-26 00:43 |
-| Skyworks Solutions | Data Engineering Winter/Spring Co-Op (Jan-June '27) | Irvine, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7f4bc1c52db1db4e) | 2026-08-26 00:43 |
-| Velir | Senior Analytics Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc4b1b272c14fcd4) | 2026-08-26 00:43 |
-| Velir | Senior Analytics Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=755efb0ab764a58c) | 2026-08-26 00:43 |
-| Velir | Senior Analytics Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=65de9dfcfa9f1fa1) | 2026-08-26 00:43 |
-| Velir | Senior Analytics Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4d5f309ea3930e00) | 2026-08-26 00:43 |
-| Velir | Senior Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eadff99f545dd065) | 2026-08-26 00:43 |
-| Engineering and Automation , Aerospace & Defense | Data Solutions developer | Birmingham, AL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1839a40f359e0a1) | 2026-08-26 00:43 |
-| SimplePractice | DevOps Engineer, Data & AI Platform | Santa Monica, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b00d7042d542536) | 2026-08-26 00:43 |
-| LTM Limited | AWS Data Architect (Senior Specialist - Cloud Engineering) | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b57dd648ed3249a) | 2026-08-26 00:43 |
 
 
 ---
