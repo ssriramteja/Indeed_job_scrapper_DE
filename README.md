@@ -1,11 +1,44 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-31 14:37
+Last updated: 2026-08-31 20:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Royal Caribbean Group | Senior Data Engineer | Miramar, FL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=15bc705887f3d3f9) | 2026-08-31 20:30 |
+| Equifax | AI Engineer | St. Louis, MO, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=dbf686b10c85ee8a) | 2026-08-31 20:30 |
+| NTT DATA | Cloud Vulnerability Management Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c5c68f432e3b3384) | 2026-08-31 20:30 |
+| NTT DATA | Technology Consultant - Cloud & Full Stack Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e9068d6b5e88e56b) | 2026-08-31 20:30 |
+| NTT DATA | Technology Consultant - Site Reliability Engineer (SRE) | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=aff7320f2676a7bb) | 2026-08-31 20:30 |
+| Worldpay | Senior Cloud Engineer | Cincinnati, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a1afe8b7a5cf447e) | 2026-08-31 20:30 |
+| NTT DATA | Azure AI Platform Engineer | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=58f19beac4a8df7f) | 2026-08-31 20:30 |
+| Realign | BI / Data Architect (Remote)-4 | Marlborough, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=63e9cfe1d5416339) | 2026-08-31 20:30 |
+| Antra, Inc | Mid-Level Java Developer | Sterling, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=37bd12e2b62f9cde) | 2026-08-31 20:30 |
+| clickhouse | Senior Cloud Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8aab1ba56e62f502) | 2026-08-31 20:30 |
+| Realign | Senior Data Engineer-4 | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fe15a8ff19071aee) | 2026-08-31 20:30 |
+| Infoorigin Inc | Infrastructure Solutions Architect- Onsite- Richmond, VA | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=19db03ed84045bd5) | 2026-08-31 20:30 |
+| Intellibee Inc | Infrastructure Solutions Architect | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=64e2dee8091e6c26) | 2026-08-31 20:30 |
+| Federal Reserve Bank of Boston | Senior Cloud Data Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=22baba519bae8200) | 2026-08-31 20:30 |
+| EnergyHub | Energy Data Scientist | Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea4dcf33b2c6a0fa) | 2026-08-31 20:30 |
+| EnergyHub | Energy Data Scientist | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41548be738a76cc8) | 2026-08-31 20:30 |
+| EnergyHub | Energy Data Scientist | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8103a63d2d3d1da7) | 2026-08-31 20:30 |
+| EnergyHub | Energy Data Scientist | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=13f4312108b4db79) | 2026-08-31 20:30 |
+| EnergyHub | Energy Data Scientist | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=26603fc5c3af6f4d) | 2026-08-31 20:30 |
+| ADM | Senior Data Engineer | Decatur, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9189c721d2bd01c6) | 2026-08-31 20:30 |
+| Vantage Point Logistics | Data Engineer | Westerville, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a30d8a15dec2e27) | 2026-08-31 20:30 |
+| Cisco | Software Engineer Full Stack / Backend I (Full Time) - United States | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dc603f90a12b6ae5) | 2026-08-31 20:30 |
+| Capital One | Technology Development Program Associate - February 2027 | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef7c81c1f347080d) | 2026-08-31 20:30 |
+| LinkedIn | Sr. Software Engineer, Development Infrastructure | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5fde89f0085f48d4) | 2026-08-31 20:30 |
+| Cloud Destinations | Senior Data Engineer | Santa Clara, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0de81eafb3fefc7) | 2026-08-31 20:30 |
+| JPMorganChase | Data Platform DevOps Engineer - Senior Associate (Enterprise Data Solutions) | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7088241af78eed3) | 2026-08-31 20:30 |
+| Amway | Enterprise Integration Software Engineer | Ada, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b546afd28257f1d7) | 2026-08-31 20:30 |
+| Shamrock Foods Company | Senior Software Engineer (PL/SQL & TSQL) | Commerce City, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4fe730220968ca4b) | 2026-08-31 20:30 |
+| Shamrock Foods Company | Senior Software Engineer (PL/SQL & TSQL) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33309cfbf855421f) | 2026-08-31 20:30 |
+| Citizens | Senior Data Analyst | Johnston, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=788a20ff7253f53b) | 2026-08-31 20:30 |
+| Xactus | AI Engineer | Broomall, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dec641935aaf0ea6) | 2026-08-31 20:30 |
+| Pelico | VIE - Software Engineer (based in Miami) | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d71007f33dca61fb) | 2026-08-31 20:30 |
+| Ellipsis Health | Senior Data Scientist | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39ec559199e3af57) | 2026-08-31 20:30 |
 | Synopsys | Software Engineering, Sr Engineer | Sunnyvale, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c7c27d39498fc808) | 2026-08-31 14:37 |
 | Trimont | Contract Infrastructure Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4eea8025f3ef7c6f) | 2026-08-31 14:37 |
 | Skywalk Global | Infrastructure Solutions Architect | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=65c0895f1de6239e) | 2026-08-31 14:37 |
