@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-08-30 21:44
+Last updated: 2026-08-31 00:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Workday | Senior Software Engineer/Software Engineer III (Data Engineering) | Pleasanton, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a3dc3ae389abf7c) | 2026-08-31 00:02 |
 | LTM Limited | AIPowered Power BI Engineer | Torrance, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5865f55ab1e5c5e9) | 2026-08-30 21:44 |
 | LTM Limited | Specialist - Data Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c9493a61af734ed1) | 2026-08-30 18:16 |
 | LPL Financial | Engineer II, Data (Cloud & AI) | Fort Mill, SC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e3ed8a1f209612e2) | 2026-08-30 08:41 |
