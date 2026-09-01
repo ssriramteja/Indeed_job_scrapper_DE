@@ -1,11 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-01 15:19
+Last updated: 2026-09-01 19:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Thought Logic Consulting | Managing Consultant, Databricks Engineer - Atlanta | Atlanta, GA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=592db50bf0a7db56) | 2026-09-01 19:01 |
+| Thought Logic Consulting | Managing Consultant, Databricks Engineer - Dallas | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=fdd852c33d90d087) | 2026-09-01 19:01 |
+| Thought Logic Consulting | Managing Consultant, Databricks Engineer - Minneapolis | Minneapolis, MN, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=344f4e1ed7c40432) | 2026-09-01 19:01 |
+| DailyPay Inc | Senior Machine Learning Engineer | New York, NY, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=059d00b010e64ab8) | 2026-09-01 19:01 |
+| United Jewish Appeal-Fed of Jewish | Data Engineer, Data and Insights | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1faa4e13a3b0f326) | 2026-09-01 19:01 |
+| American Express | Campus Undergraduate Full-Time Analyst - 2027 Data Engineer I, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9f92c9f4c62df8b2) | 2026-09-01 19:01 |
+| nan | Forward deployed engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e8c67c9d37ef5af9) | 2026-09-01 19:01 |
+| MRCOOL, LLC | Senior Data Engineer | Hickory, KY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=4b45327f8bc50c30) | 2026-09-01 19:01 |
+| Incident IQ | Senior Data Engineer | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9a94b3adee01a833) | 2026-09-01 19:01 |
+| Incident IQ | Senior Data Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bccca4539903f22e) | 2026-09-01 19:01 |
+| EL SHADDAI TECHNOLOGIES | DevOps Engineer + HPC | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=637e4cf76137493c) | 2026-09-01 19:01 |
+| Infoorigin Inc | Solutions Architect | VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=eba4d347d17e2c8a) | 2026-09-01 19:01 |
+| nan | Veeva Vault Consultant | North Brunswick, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb0cb7879bc668d4) | 2026-09-01 19:01 |
+| Re:Build Manufacturing | Senior SecDevOps Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=49b77b548d132ade) | 2026-09-01 19:01 |
+| Re:Build Manufacturing | Senior SecDevOps Engineer | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fa41aecb1be7e339) | 2026-09-01 19:01 |
+| Re:Build Manufacturing | Senior SecDevOps Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6cff7b7ecdf07ee) | 2026-09-01 19:01 |
+| Realign | Sr Data Engineering Architect – Fraud Domain | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ec55e22c79aa31d8) | 2026-09-01 19:01 |
+| Keeper Security, Inc. | Senior Software Architect, Browser Extension Platform | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee2a9223c60a8a70) | 2026-09-01 19:01 |
+| ZoomInfo | Senior Software Engineer - PA053 | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=571921f25acb7de3) | 2026-09-01 19:01 |
+| ZoomInfo | Senior Software Engineer - PA051 | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c9cfb23165ea9cf6) | 2026-09-01 19:01 |
+| Capgemini | Senior Platform & SRE Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8020034c387753ba) | 2026-09-01 19:01 |
+| NTT DATA | Data Engineer - Data Platform (Spark/Kafka/Flink/Scala/Java) | Cupertino, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5052a528569a1695) | 2026-09-01 19:01 |
 | Smart Tech Skills LLC | Data Solutions Architect | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=501460a7402af538) | 2026-09-01 15:19 |
 | Datasage Technologies | Backend Go Developer | Boston, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e37c3bd53b7199c8) | 2026-09-01 15:19 |
 | REPAY | Data Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9127ac581bc7c947) | 2026-09-01 15:19 |
@@ -14,8 +36,6 @@ Last updated: 2026-09-01 15:19
 | LexisNexis Risk Solutions | Consulting SWE | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b372b96d1263fff) | 2026-09-01 15:19 |
 | nan | Cloud Infrastructure Solutions Architect | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b46c450dd05f14e) | 2026-09-01 15:19 |
 | Flash Inspector | Cloud & AI/AL Architect | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=880c4f664a765490) | 2026-09-01 15:19 |
-| Shamrock Foods Company | Senior Software Engineer (PL/SQL & TSQL) | Commerce City, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4fe730220968ca4b) | 2026-09-01 15:19 |
-| Shamrock Foods Company | Senior Software Engineer (PL/SQL & TSQL) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33309cfbf855421f) | 2026-09-01 15:19 |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=21c4624adc67b18e) | 2026-09-01 10:48 |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=615c775c5cae3f87) | 2026-09-01 10:48 |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4a1f26919bbd5f4b) | 2026-09-01 10:48 |
