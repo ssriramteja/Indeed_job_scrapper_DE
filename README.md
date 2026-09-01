@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-01 10:48
+Last updated: 2026-09-01 15:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Smart Tech Skills LLC | Data Solutions Architect | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=501460a7402af538) | 2026-09-01 15:19 |
+| Datasage Technologies | Backend Go Developer | Boston, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e37c3bd53b7199c8) | 2026-09-01 15:19 |
+| REPAY | Data Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9127ac581bc7c947) | 2026-09-01 15:19 |
+| DoorDash | Senior Security Data Engineer | San Francisco, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b31c422fadc318ca) | 2026-09-01 15:19 |
+| Pacific Gas and Electric | Data Platform Engineer | Oakland, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c7c0ea011bc1581) | 2026-09-01 15:19 |
+| LexisNexis Risk Solutions | Consulting SWE | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b372b96d1263fff) | 2026-09-01 15:19 |
+| nan | Cloud Infrastructure Solutions Architect | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b46c450dd05f14e) | 2026-09-01 15:19 |
+| Flash Inspector | Cloud & AI/AL Architect | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=880c4f664a765490) | 2026-09-01 15:19 |
+| Shamrock Foods Company | Senior Software Engineer (PL/SQL & TSQL) | Commerce City, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4fe730220968ca4b) | 2026-09-01 15:19 |
+| Shamrock Foods Company | Senior Software Engineer (PL/SQL & TSQL) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33309cfbf855421f) | 2026-09-01 15:19 |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=21c4624adc67b18e) | 2026-09-01 10:48 |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=615c775c5cae3f87) | 2026-09-01 10:48 |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4a1f26919bbd5f4b) | 2026-09-01 10:48 |
@@ -21,8 +31,6 @@ Last updated: 2026-09-01 10:48
 | Photon | Architect Commerce Cloud (Hybris) -Mountain View, CA | Mountain View, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9795ec11042c6f19) | 2026-09-01 10:48 |
 | State Farm | Mid-Level DATA ENGINEER: Microsoft Power Platform & AI Copilot Studio (HYBRID) | Bloomington, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d276a1bbc3a5d721) | 2026-09-01 10:48 |
 | Prodapt Solutions | Solution Designer/Architect (SPM/ICM) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ef4ef7d1e24d2a4) | 2026-09-01 10:48 |
-| Shamrock Foods Company | Senior Software Engineer (PL/SQL & TSQL) | Commerce City, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4fe730220968ca4b) | 2026-09-01 10:48 |
-| Shamrock Foods Company | Senior Software Engineer (PL/SQL & TSQL) | Phoenix, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=33309cfbf855421f) | 2026-09-01 10:48 |
 | nan | Site Reliability Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5fae225772bb11f0) | 2026-09-01 10:48 |
 | Aramark | Data Engineer | Philadelphia, PA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=39460deda6cc7046) | 2026-09-01 05:53 |
 | MFour Mobile Research, Inc. | Data Engineer | Kansas City, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b7d72577f6e997de) | 2026-09-01 05:53 |
