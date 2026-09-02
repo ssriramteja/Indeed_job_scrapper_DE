@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-02 05:16
+Last updated: 2026-09-02 10:12
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b96553a6eed65411) | 2026-09-02 10:12 |
+| Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services) | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4e4215bed42cba68) | 2026-09-02 10:12 |
+| Salesforce | Production Support Engineering PMTS | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6280b6bade74237a) | 2026-09-02 10:12 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (AWS) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ad18440ba3f8089) | 2026-09-02 10:12 |
+| Caterpillar | Senior Software Engineer | Peoria, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdc547e9d55801b0) | 2026-09-02 10:12 |
+| USAA | Software Engineer Senior - Mortgage Platforms | San Antonio, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=00509eb9420ab687) | 2026-09-02 10:12 |
+| NTT DATA | Tech Consultant - SDET / Test Automation Architect | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0976d9966b801b52) | 2026-09-02 10:12 |
+| USAA | Infrastructure Engineer-Intermediate Level | San Antonio, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2849394ab99f4a5f) | 2026-09-02 10:12 |
+| Ford Motor Company | SAP ABAP Developer | Livonia, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b25acd1aa7c0e4f9) | 2026-09-02 10:12 |
+| Flexera | Senior Technical Support Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61ca618a0f0d4d0d) | 2026-09-02 10:12 |
+| Target | Senior Engineer – CircleCard Platform | Brooklyn Park, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fbf78b0dea5c3485) | 2026-09-02 10:12 |
 | WIS International | Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=7e1b49079cb03df4) | 2026-09-02 05:16 |
 | Molex | AI Data Analytics Engineer | Lisle, IL, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=c5bc87d8d4b72fa4) | 2026-09-02 05:16 |
 | LTM Limited | Databricks Data Engineer | Raritan, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9111ea89841eec4c) | 2026-09-02 05:16 |
@@ -76,7 +87,6 @@ Last updated: 2026-09-02 05:16
 | Deloitte | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=383b03bef760ffc6) | 2026-09-02 05:16 |
 | nan | DevOps / AgentOps Engineer | Kennesaw, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bf7a45b2edf278b0) | 2026-09-02 05:16 |
 | PepsiCo | SWE & App Arch Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29bc3b6bca49cc75) | 2026-09-02 05:16 |
-| Ford Motor Company | SAP ABAP Developer | Livonia, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b25acd1aa7c0e4f9) | 2026-09-02 05:16 |
 | MACH INDUSTRIES | DevOps Engineer | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bab280546ddf807d) | 2026-09-02 05:16 |
 | VIVA | Senior Application Developer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f93002e908ca634d) | 2026-09-02 05:16 |
 | Ingredion | AI & Data Scientist Intern | Westchester, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4c1230ee3c5c180d) | 2026-09-02 05:16 |
@@ -308,19 +318,6 @@ Last updated: 2026-09-02 05:16
 | NYC Human Resources Administration | UNIX MIDDLEWARE ENGINEER | Manhattan, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3c1fa99b1f49f8e3) | 2026-08-29 14:49 |
 | BV Teck | SDET Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6c8a5b9754f3dec) | 2026-08-29 14:49 |
 | Cloudera | Senior Field Specialist - Data Engineering & Streaming (Pre-Sales) | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf2e066f006a0c05) | 2026-08-29 14:49 |
-| Grainger | Senior Data Engineer | Chicago, IL, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=2d9b5bcc98f7ba12) | 2026-08-29 09:39 |
-| COREHIRE | Analytics Engineer | Philadelphia, PA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=aef7e5280c3704dc) | 2026-08-29 09:39 |
-| Koniag Government Services | Jr DevSecOps Engineer | Washington, DC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9f140f3b3c4a71d9) | 2026-08-29 09:39 |
-| Coreforce | Software Engineer II | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=68b9213bf9a10955) | 2026-08-29 09:39 |
-| Coreforce | Software Engineer II | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=77b7eb57f3ad62c6) | 2026-08-29 09:39 |
-| Cisco | Backend Senior Software Engineer, CX Engineering(Hybrid) | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=119b27074f6796ab) | 2026-08-29 09:39 |
-| New York Life | Senior Associate, Senior Engineer - Institutional Life Technology | Overland Park, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=68fedabc5fbe0a42) | 2026-08-29 09:39 |
-| Koch | Data Architect | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad211ca6801fd529) | 2026-08-29 09:39 |
-| Koch | Data Architect | Wichita, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bd833b3f3ca71894) | 2026-08-29 09:39 |
-| Koch | Data Architect | Tulsa, OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc966b8e4ac5ea90) | 2026-08-29 09:39 |
-| Target | Data Engineer - Finance AI Solutions | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a64225cf49e7ac0e) | 2026-08-29 09:39 |
-| Focus on the Family | Sr. Data Engineer, Data Products | Colorado Springs, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2b735c1f0f9c927f) | 2026-08-29 09:39 |
-| Orange County's Credit Union | Senior Automation Developer | Santa Ana, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fb32ec10e69dafd1) | 2026-08-29 09:39 |
 
 
 ---
