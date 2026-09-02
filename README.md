@@ -1,16 +1,35 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-02 14:49
+Last updated: 2026-09-02 18:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BD | Data & AI Architect – BD Excellence (BDE) Office | Franklin Lakes, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=83656a632b29e691) | 2026-09-02 18:15 |
+| Strategic Mindz LLC | Senior Java Developer / Albany - NY / Onsite 3 - 4 Days a Week | Albany, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=55d5f237a320ef13) | 2026-09-02 18:15 |
+| Zifo | Sr. Data Engineer | Raleigh, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=caf9cc910f59adeb) | 2026-09-02 18:15 |
+| Optum | Sr. AI/ML Engineer - Java Background - Remote | Eden Prairie, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=44d637a29cee0524) | 2026-09-02 18:15 |
+| Docuphase | DevOps Engineer | Saint Petersburg, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d858dceda163f311) | 2026-09-02 18:15 |
+| Docuphase | DevOps Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c845115326a561bc) | 2026-09-02 18:15 |
+| E-solutions Inc | Azure Data Engineer | Malvern, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eb0d6e400872c8fa) | 2026-09-02 18:15 |
+| Versant | Sr. Data Engineer | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c083accf4ed493d3) | 2026-09-02 18:15 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (AWS) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ad18440ba3f8089) | 2026-09-02 18:15 |
+| LTM Limited | Overseas Contractor | Quincy, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2dec31a65ca0186f) | 2026-09-02 18:15 |
+| IEEE Corporate | Content Engineer II (E6175) | Piscataway, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2af3f922995d21c0) | 2026-09-02 18:15 |
+| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=053d78d73ec03580) | 2026-09-02 18:15 |
+| Attain | Machine Learning Engineer | Redwood City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9bc14828ef1e67f) | 2026-09-02 18:15 |
+| Attain | Machine Learning Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1988c96da6897747) | 2026-09-02 18:15 |
+| NTT DATA | SDET / Test Automation Architect | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6bf817aa82ff453) | 2026-09-02 18:15 |
+| SCOR | Senior Data & Analytics Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f14465e046016fcb) | 2026-09-02 18:15 |
+| nan | Software Data Engineer/Data Scientist | MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d866f8df02b8195b) | 2026-09-02 18:15 |
+| NewYork-Presbyterian Hospital | Senior Technical Architect Information Technology | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50aa46a4f9956022) | 2026-09-02 18:15 |
+| Ford Motor Company | SAP ABAP Developer | Livonia, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b25acd1aa7c0e4f9) | 2026-09-02 18:15 |
+| Burlington Stores | Senior Data Engineer | Edgewater Park, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6d13e91fe3906c8) | 2026-09-02 18:15 |
+| Herschend Family Entertainment | Sr. Database Developer | Peachtree Corners, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e52ec8993f3a44ae) | 2026-09-02 18:15 |
+| nan | Software Engineer Full stack | MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ac8ff170c136339) | 2026-09-02 18:15 |
 | Thought Logic Consulting | Managing Consultant, Databricks Engineer - Richmond | Richmond, VA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=01e27baffa851f19) | 2026-09-02 14:49 |
 | Millennium Management | Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=287ed52d2d43bfba) | 2026-09-02 14:49 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (AWS) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ad18440ba3f8089) | 2026-09-02 14:49 |
-| Luxoft | Application Developers \| Data engineers | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cdfeaad78ff66fdb) | 2026-09-02 14:49 |
-| Ford Motor Company | SAP ABAP Developer | Livonia, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b25acd1aa7c0e4f9) | 2026-09-02 14:49 |
 | BDIPlus | AI Product Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4537947394dff54d) | 2026-09-02 14:49 |
 | Pacific Gas and Electric | Storage Platform Engineer | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32ec8aa7100f3fdb) | 2026-09-02 14:49 |
 | Twilio | Software Development Engineer 2 | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee8fa84c7579b793) | 2026-09-02 14:49 |
@@ -318,9 +337,6 @@ Last updated: 2026-09-02 14:49
 | ron turley associates | Senior Software Engineer | Glendale, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4875b61328aee0d6) | 2026-08-29 23:43 |
 | Department of Technology | INFORMATION TECHNOLOGY SPECIALIST III | CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e1c6ea2c982d3ce1) | 2026-08-29 21:24 |
 | Department Of Consumer Affairs | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cd6d29d7f0da02cd) | 2026-08-29 21:24 |
-| nan | Product Software Engineer II (Java/Full Stack/DevOps) | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52ac0abbd64d17ed) | 2026-08-29 18:02 |
-| Axos Bank | API Platform Owner | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=875223ae2058a7a3) | 2026-08-29 18:02 |
-| BlackRock | Associate, Full Stack Engineer - SMA Solutions | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85433a570efd3e4f) | 2026-08-29 18:02 |
 
 
 ---
