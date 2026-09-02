@@ -1,11 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-01 22:12
+Last updated: 2026-09-02 00:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Blue Cross & Blue Shield of Rhode Island | Senior Data Platform Engineer | Providence, RI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=df59126c5c6a3dd1) | 2026-09-02 00:41 |
+| Liberty Mutual Insurance | Senior Software Engineer | Indianapolis, IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3921b775f4bfb3a3) | 2026-09-02 00:41 |
+| Liberty Mutual Insurance | Senior Software Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1e7b5584b1a87e4b) | 2026-09-02 00:41 |
+| Liberty Mutual Insurance | Senior Software Engineer | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d3d0ed205376fb17) | 2026-09-02 00:41 |
+| Liberty Mutual Insurance | Senior Software Engineer | Boston, MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b8d05282c79331ea) | 2026-09-02 00:41 |
+| Liberty Mutual Insurance | Senior Software Engineer | Portsmouth, NH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a129774c3b6c3e8d) | 2026-09-02 00:41 |
+| Liberty Mutual Insurance | Senior Software Engineer | Columbus, OH, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9ee890dc40655c32) | 2026-09-02 00:41 |
+| Agero | Big Data Engineer | Medford, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=38b142c6d7436546) | 2026-09-02 00:41 |
+| VeeRteq Solutions Inc. | Technical Architect - I_Azure DataBricks | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0074d6a4018f22e0) | 2026-09-02 00:41 |
+| Fandom | Senior Cloud Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3164f9cc4ca6cde8) | 2026-09-02 00:41 |
+| GM Financial | Salesforce Development Engineer II | Arlington, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=791008a46e54ae26) | 2026-09-02 00:41 |
+| BV Teck | Test Automation Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8be26e9957dff2b5) | 2026-09-02 00:41 |
+| BV Teck | OpenShift Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=08ef9b7de75a6ddf) | 2026-09-02 00:41 |
+| Capgemini | Senior Platform & SRE Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec4f699ead9fde89) | 2026-09-02 00:41 |
+| Viventium Software | Senior Data Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58073b2cbabb8cc1) | 2026-09-02 00:41 |
+| BV Teck | Kafka Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=406a68ec242bd018) | 2026-09-02 00:41 |
+| BV Teck | Full Stack Solutions Developer – Java | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16d5fddfa3a804d4) | 2026-09-02 00:41 |
+| ServiceTitan | Senior AI Engineer (Agent OS Platform) | Sacramento, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=642d9d492b002566) | 2026-09-02 00:41 |
+| BV Teck | Python Solutions Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4e9dce9e97399ebe) | 2026-09-02 00:41 |
 | RadCube | Pharma Data Engineer – Databricks AWS | Indianapolis, IN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=79c01255fde37758) | 2026-09-01 22:12 |
 | LTM Limited | Senior Data Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f72936d7adf83912) | 2026-09-01 22:12 |
 | Eli Lilly | CE Data Architect | Indianapolis, IN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d68553dbf5364e11) | 2026-09-01 22:12 |
