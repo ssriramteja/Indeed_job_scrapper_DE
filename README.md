@@ -1,20 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-02 10:12
+Last updated: 2026-09-02 14:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Thought Logic Consulting | Managing Consultant, Databricks Engineer - Richmond | Richmond, VA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=01e27baffa851f19) | 2026-09-02 14:49 |
+| Millennium Management | Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=287ed52d2d43bfba) | 2026-09-02 14:49 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (AWS) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ad18440ba3f8089) | 2026-09-02 14:49 |
+| Luxoft | Application Developers \| Data engineers | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cdfeaad78ff66fdb) | 2026-09-02 14:49 |
+| Ford Motor Company | SAP ABAP Developer | Livonia, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b25acd1aa7c0e4f9) | 2026-09-02 14:49 |
+| BDIPlus | AI Product Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4537947394dff54d) | 2026-09-02 14:49 |
+| Pacific Gas and Electric | Storage Platform Engineer | Oakland, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32ec8aa7100f3fdb) | 2026-09-02 14:49 |
+| Twilio | Software Development Engineer 2 | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee8fa84c7579b793) | 2026-09-02 14:49 |
+| Scientific Games | Senior Databricks Data Engineer - Reliability | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d75159f3d153dc7a) | 2026-09-02 14:49 |
 | Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b96553a6eed65411) | 2026-09-02 10:12 |
 | Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services) | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4e4215bed42cba68) | 2026-09-02 10:12 |
 | Salesforce | Production Support Engineering PMTS | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6280b6bade74237a) | 2026-09-02 10:12 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (AWS) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ad18440ba3f8089) | 2026-09-02 10:12 |
 | Caterpillar | Senior Software Engineer | Peoria, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bdc547e9d55801b0) | 2026-09-02 10:12 |
 | USAA | Software Engineer Senior - Mortgage Platforms | San Antonio, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=00509eb9420ab687) | 2026-09-02 10:12 |
 | NTT DATA | Tech Consultant - SDET / Test Automation Architect | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0976d9966b801b52) | 2026-09-02 10:12 |
 | USAA | Infrastructure Engineer-Intermediate Level | San Antonio, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2849394ab99f4a5f) | 2026-09-02 10:12 |
-| Ford Motor Company | SAP ABAP Developer | Livonia, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b25acd1aa7c0e4f9) | 2026-09-02 10:12 |
 | Flexera | Senior Technical Support Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61ca618a0f0d4d0d) | 2026-09-02 10:12 |
 | Target | Senior Engineer – CircleCard Platform | Brooklyn Park, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fbf78b0dea5c3485) | 2026-09-02 10:12 |
 | WIS International | Data Engineer | Plano, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=7e1b49079cb03df4) | 2026-09-02 05:16 |
@@ -314,10 +321,6 @@ Last updated: 2026-09-02 10:12
 | nan | Product Software Engineer II (Java/Full Stack/DevOps) | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52ac0abbd64d17ed) | 2026-08-29 18:02 |
 | Axos Bank | API Platform Owner | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=875223ae2058a7a3) | 2026-08-29 18:02 |
 | BlackRock | Associate, Full Stack Engineer - SMA Solutions | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85433a570efd3e4f) | 2026-08-29 18:02 |
-| Prodapt Solutions | Data architect | Irving, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=eb0efe6a35cb61a5) | 2026-08-29 14:49 |
-| NYC Human Resources Administration | UNIX MIDDLEWARE ENGINEER | Manhattan, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3c1fa99b1f49f8e3) | 2026-08-29 14:49 |
-| BV Teck | SDET Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6c8a5b9754f3dec) | 2026-08-29 14:49 |
-| Cloudera | Senior Field Specialist - Data Engineering & Streaming (Pre-Sales) | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf2e066f006a0c05) | 2026-08-29 14:49 |
 
 
 ---
