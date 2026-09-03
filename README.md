@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-03 12:22
+Last updated: 2026-09-03 16:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Indicium AI | Data Engineer Consultant | New York, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=72cc11f621d19b31) | 2026-09-03 16:46 |
+| Ryan Companies US, Inc. | Senior Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac357ad96cce2a7a) | 2026-09-03 16:46 |
+| E-solutions Inc | Team Center PLM Architect | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5bf50044bf3b2178) | 2026-09-03 16:46 |
+| nan | Data Scientist | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=badf8a963d8c46e1) | 2026-09-03 16:46 |
+| Tiger Analytics | Technology Partner - Databricks | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cf367eb9c34a5aa5) | 2026-09-03 16:46 |
+| Tiger Analytics | Technology Partner - Databricks | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9fb19697ac2324c4) | 2026-09-03 16:46 |
+| Tiger Analytics | Technology Partner - Databricks | Sunnyvale, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=06f0fe6cc0a92eea) | 2026-09-03 16:46 |
+| TBC Corporation | Senior Integration Developer - API Platform | Palm Beach Gardens, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e38d53eb67f89550) | 2026-09-03 16:46 |
+| Custom Manufacturing and Engineering | Computing Engineer/Software Developer –AI/ML, GUI Development, Custom Cobot Control | Pinellas Park, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e97b8b145647f2bc) | 2026-09-03 16:46 |
+| nan | Data Engineer | Appleton, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=510c9bc96d1c2105) | 2026-09-03 16:46 |
+| Stier Solutions Inc | .Net developer (strong Azure) | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4f4d83b0093b2a3) | 2026-09-03 16:46 |
 | MUFG | Sr. Database Engineer & Developer, Security Data | Jersey City, NJ, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=bcff22cb22d06c48) | 2026-09-03 12:22 |
 | Mastercard | Senior Full Stack Software Engineer | O'Fallon, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3cfaf25e543ddfa3) | 2026-09-03 12:22 |
 | datAvail | Contractor -Alteryx Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8230de67e8440ae5) | 2026-09-03 12:22 |
