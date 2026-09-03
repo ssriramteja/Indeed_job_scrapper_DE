@@ -1,11 +1,43 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-02 23:42
+Last updated: 2026-09-03 02:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Changeis, Inc. | Senior Databricks Administrator | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=ddf2cd00a78b92f1) | 2026-09-03 02:07 |
+| Information Technology Senior Management Forum | Data & AI Architect – BD Excellence (BDE) Office | Franklin Lakes, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=74e7624bacd3c7f1) | 2026-09-03 02:07 |
+| BV Teck | AWS Solutions Architect | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5b8cba22bfa4507f) | 2026-09-03 02:07 |
+| Marriott International | System Engineer – Site Reliability Engineering (SRE) | Bethesda, MD, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=7c5f0f23e27f447f) | 2026-09-03 02:07 |
+| BV Teck | Senior Data Engineer – Hadoop | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=cf0e48bddbab8709) | 2026-09-03 02:07 |
+| Autodesk | Sr. Software Application Engineer | CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e67ba8fa97901475) | 2026-09-03 02:07 |
+| Cornerstone OnDemand | Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=400bab78fb65e7e1) | 2026-09-03 02:07 |
+| BECU | Sr Data Engineer | WA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=80690607da1933cc) | 2026-09-03 02:07 |
+| BV Teck | Cloud Solutions Engineer – Azure | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=47e1714d0067a78a) | 2026-09-03 02:07 |
+| Rackspace Technology | Solutions Architect, Forward Deployed | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ef9f571d1cebb697) | 2026-09-03 02:07 |
+| nan | Senior Full Stack Software Engineer | Santa Monica, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cf704911ff39cc0e) | 2026-09-03 02:07 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (AWS) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ad18440ba3f8089) | 2026-09-03 02:07 |
+| Socure | Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=91924249bc2ffb8e) | 2026-09-03 02:07 |
+| Socure | Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fbf517a868bb31de) | 2026-09-03 02:07 |
+| Socure | Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6af86766445e845d) | 2026-09-03 02:07 |
+| Socure | Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=241d21dce5d3c25d) | 2026-09-03 02:07 |
+| Blue Shield of California | Full Stack Engineer, Consultant | Long Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e3f3b4c6d08a1a6c) | 2026-09-03 02:07 |
+| Stellantis | Full Stack Engineer | Auburn Hills, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4e46e188f9984b8e) | 2026-09-03 02:07 |
+| Cotiviti | Business Intelligence Developer III | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c15960af921ffca8) | 2026-09-03 02:07 |
+| Eaton | IT AI Senior Specialist | Moon Township, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bdbf246fba3b7a5) | 2026-09-03 02:07 |
+| Eaton | IT AI Senior Specialist | Menomonee Falls, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d2773353d84acb8) | 2026-09-03 02:07 |
+| Eaton | IT AI Senior Specialist | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07f4dbbd7f3b0881) | 2026-09-03 02:07 |
+| Eaton | IT AI Senior Specialist | Galesburg, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=965944ad08ce1aea) | 2026-09-03 02:07 |
+| Eaton | IT AI Senior Specialist | Beachwood, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cd8c6c6438801353) | 2026-09-03 02:07 |
+| BV Teck | Senior Backend Developer – Python | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=39fb8147abac9706) | 2026-09-03 02:07 |
+| Technology Ventures | Tester Senior | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b76a6c5df30df079) | 2026-09-03 02:07 |
+| Realign | Sr Data Engineering Architect – Fraud Domain-1 | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9b2590134101b4d2) | 2026-09-03 02:07 |
+| CESO, Inc. | Data Architect | Akron, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=01375514b217e3ba) | 2026-09-03 02:07 |
+| CESO, Inc. | Data Architect | Dayton, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62045274597603a8) | 2026-09-03 02:07 |
+| CESO, Inc. | Data Architect | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27c86305f5a4b4d1) | 2026-09-03 02:07 |
+| BV Teck | Senior Full Stack Software Engineer (Java) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0554a871816421df) | 2026-09-03 02:07 |
+| Ukund | NoSQL Database Engineer \|\| Onsite | San Francisco Bay Area, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9314bc9cfb51fe1b) | 2026-09-03 02:07 |
 | Edwards Lifesciences | Senior Data Engineer | Irvine, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8bb849225e8b2c49) | 2026-09-02 23:42 |
 | EXL Service | Full Stack Product Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5923f003c14c9207) | 2026-09-02 23:42 |
 | mPulse Mobile | Data Integration Engineer II | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a88f801e13f23bd8) | 2026-09-02 23:42 |
@@ -13,7 +45,6 @@ Last updated: 2026-09-02 23:42
 | BAE Systems USA | Software Engineering Intern III, Summer 2027 (Onsite) | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=02463d12db1e81b3) | 2026-09-02 23:42 |
 | Vforce Infotech | Data Engineer | Edison, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39829992fff11c16) | 2026-09-02 23:42 |
 | TripleLift | Cloud Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3e6ad14e926236dc) | 2026-09-02 23:42 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (AWS) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ad18440ba3f8089) | 2026-09-02 23:42 |
 | Charles Schwab | Senior Python Developer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4285c04ca20cf636) | 2026-09-02 23:42 |
 | Gravie | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a7b566070d802085) | 2026-09-02 23:42 |
 | Optum | Senior Cloud Data Engineer - Remote | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e4ef7032884f2d3a) | 2026-09-02 23:42 |
@@ -25,7 +56,6 @@ Last updated: 2026-09-02 23:42
 | Workday | Software Development Engineer(Distributed Systems) | Pleasanton, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4ac39415fc425cb) | 2026-09-02 23:42 |
 | First Onsite | Systems Engineer | Greenwood Village, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c875d0252524b8be) | 2026-09-02 23:42 |
 | Okta | Senior TDI Site Reliability Engineer, Okta Federal | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5dc7f3375ec1f830) | 2026-09-02 23:42 |
-| Ukund | NoSQL Database Engineer \|\| Onsite | San Francisco Bay Area, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9314bc9cfb51fe1b) | 2026-09-02 23:42 |
 | Beta Bionics, Inc. | Senior Enterprise Applications Developer | San Diego, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=55a36044a8c65468) | 2026-09-02 21:26 |
 | Optum | Senior Software Engineer | Las Vegas, NV, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4fce36bd18ab198a) | 2026-09-02 21:26 |
 | General Motors (GM) | AI/ML Data Scientist (GPSSC) | Warren, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=060ac516e5d04bc2) | 2026-09-02 21:26 |
@@ -380,7 +410,6 @@ Last updated: 2026-09-02 23:42
 | ALLO Communications | Senior Software Engineer, Cloud and AI | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b710a7f0b803f961) | 2026-08-30 08:41 |
 | RBC | Solutions Architect | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=73756c88cc20b24b) | 2026-08-30 08:41 |
 | Deloitte | Sr Databricks Data Engineer | Rosslyn, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9ab555e988dd3c5f) | 2026-08-30 02:31 |
-| ron turley associates | Senior Software Engineer | Glendale, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4875b61328aee0d6) | 2026-08-29 23:43 |
 
 
 ---
