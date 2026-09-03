@@ -1,11 +1,74 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-03 02:07
+Last updated: 2026-09-03 07:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Logic, Inc. | ^Data Engineer - 6461115 | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=4a74613dbe565650) | 2026-09-03 07:31 |
+| CVS Health | Senior Data Engineer | Wellesley, MA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=d327cf6aabca3bf4) | 2026-09-03 07:31 |
+| CVS Health | Senior Data Engineer | New York, NY, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=97c9639c442911cd) | 2026-09-03 07:31 |
+| CVS Health | Senior Data Engineer | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=9f5bcfb63295905b) | 2026-09-03 07:31 |
+| CVS Health | Senior Data Engineer | Hartford, CT, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8f700b926bc75474) | 2026-09-03 07:31 |
+| CVS Health | Senior Data Engineer | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=2e249f1007751107) | 2026-09-03 07:31 |
+| ELLKAY, LLC | Sr. Cloud Data Engineer | Elmwood Park, NJ, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=279b005ffce20271) | 2026-09-03 07:31 |
+| Sierra Nevada Corporation | MLOps & Data Engineer | Lone Tree, CO, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=8d119b132aefd5a1) | 2026-09-03 07:31 |
+| Securian Financial | AWS DevOps Engineer (Hybrid) | Saint Paul, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d29dcd9067394b82) | 2026-09-03 07:31 |
+| JPMorganChase | Software Engineer III - Data Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=27a794ae5abed1c2) | 2026-09-03 07:31 |
+| Hinge | Senior Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=74016e8b1c1cf6a1) | 2026-09-03 07:31 |
+| nan | Software Engineer II | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=94e187ddd5c7b1c5) | 2026-09-03 07:31 |
+| nan | Software Engineer II | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f4c14c404355ce78) | 2026-09-03 07:31 |
+| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (AWS) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ad18440ba3f8089) | 2026-09-03 07:31 |
+| Aramark | Junior Data Engineer | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f087a7f276c81325) | 2026-09-03 07:31 |
+| Deloitte | Solution Architect | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bde5d548962c6033) | 2026-09-03 07:31 |
+| Deloitte | Solution Architect | Hermitage, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a7c46e528a9b82e5) | 2026-09-03 07:31 |
+| Deloitte | Solution Architect | Nashville, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b82ef84e533fce6b) | 2026-09-03 07:31 |
+| Chewy | Software Engineer I, Enterprise Financial Technology | Bellevue, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=916917e5abcd591e) | 2026-09-03 07:31 |
+| Ncontracts | Data Engineer II | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=997cf829733bcc11) | 2026-09-03 07:31 |
+| 4P Consulting Inc. | Data Engineer IV- 4P/619 | Birmingham, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d259dc9b8605334b) | 2026-09-03 07:31 |
+| Cognizant | AI-Enabled Data Architecture Consultant | Bannockburn, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14313f155351f299) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9196124d928381a7) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=561060decdb9c1b4) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9d2f1f44e876585) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9a0dc9b197a197f8) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bc6c8a38a94b0766) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b63a3a63ab71cdee) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Las Vegas, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=18fa67b62a9bcf6f) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e704eb45c41f12b) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b77cb7394a6ce601) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e68a257aab00b89) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14e9f8548759ebe0) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7258196f051c4d4e) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=186a1cd445c4b75b) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a19f9173b106c62d) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=344754650014b59d) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fd8f5bca99461b84) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c5ba1c989a5984ae) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd36b19d5640d1a4) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=91a93750d1830592) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32b0c0fb92af5a07) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9eb4e03ddc61f32d) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9495207c7faba18e) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Morristown, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b37b385267f9ede4) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Princeton, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71000be271fb9358) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fd78e750dee90a5) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c56a46da8d3729b) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=21710804828c2f63) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6ef2713a4800cbf6) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f60fef5407b89437) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bde333de098d896b) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=672df186a4ed8368) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0935cd17951730cb) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9d87644a26218f75) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6dc9bdc5ba41130) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | San Diego, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7bff1638e71be5b1) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=54ef24abc7b2678e) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Stamford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1bc85b096ac0834f) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8c7eccb1e8f658e3) | 2026-09-03 07:31 |
+| Deloitte | Associate AI Solution Architect | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e51028588e9949f1) | 2026-09-03 07:31 |
+| Staples | Senior Software Engineer-Marketplace | Framingham, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a620a3ac2e856ed9) | 2026-09-03 07:31 |
+| UniFirst | DevOps Engineer – Azure Platform | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a738da303dc8ffd2) | 2026-09-03 07:31 |
 | Changeis, Inc. | Senior Databricks Administrator | Remote, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=ddf2cd00a78b92f1) | 2026-09-03 02:07 |
 | Information Technology Senior Management Forum | Data & AI Architect – BD Excellence (BDE) Office | Franklin Lakes, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=74e7624bacd3c7f1) | 2026-09-03 02:07 |
 | BV Teck | AWS Solutions Architect | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5b8cba22bfa4507f) | 2026-09-03 02:07 |
@@ -17,7 +80,6 @@ Last updated: 2026-09-03 02:07
 | BV Teck | Cloud Solutions Engineer – Azure | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=47e1714d0067a78a) | 2026-09-03 02:07 |
 | Rackspace Technology | Solutions Architect, Forward Deployed | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ef9f571d1cebb697) | 2026-09-03 02:07 |
 | nan | Senior Full Stack Software Engineer | Santa Monica, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cf704911ff39cc0e) | 2026-09-03 02:07 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (AWS) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ad18440ba3f8089) | 2026-09-03 02:07 |
 | Socure | Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=91924249bc2ffb8e) | 2026-09-03 02:07 |
 | Socure | Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fbf517a868bb31de) | 2026-09-03 02:07 |
 | Socure | Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6af86766445e845d) | 2026-09-03 02:07 |
@@ -37,7 +99,6 @@ Last updated: 2026-09-03 02:07
 | CESO, Inc. | Data Architect | Dayton, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62045274597603a8) | 2026-09-03 02:07 |
 | CESO, Inc. | Data Architect | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27c86305f5a4b4d1) | 2026-09-03 02:07 |
 | BV Teck | Senior Full Stack Software Engineer (Java) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0554a871816421df) | 2026-09-03 02:07 |
-| Ukund | NoSQL Database Engineer \|\| Onsite | San Francisco Bay Area, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9314bc9cfb51fe1b) | 2026-09-03 02:07 |
 | Edwards Lifesciences | Senior Data Engineer | Irvine, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8bb849225e8b2c49) | 2026-09-02 23:42 |
 | EXL Service | Full Stack Product Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5923f003c14c9207) | 2026-09-02 23:42 |
 | mPulse Mobile | Data Integration Engineer II | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a88f801e13f23bd8) | 2026-09-02 23:42 |
@@ -409,7 +470,6 @@ Last updated: 2026-09-03 02:07
 | ALLO Communications | Senior Software Engineer, Cloud and AI | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4aab656d0ca3d815) | 2026-08-30 08:41 |
 | ALLO Communications | Senior Software Engineer, Cloud and AI | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b710a7f0b803f961) | 2026-08-30 08:41 |
 | RBC | Solutions Architect | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=73756c88cc20b24b) | 2026-08-30 08:41 |
-| Deloitte | Sr Databricks Data Engineer | Rosslyn, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9ab555e988dd3c5f) | 2026-08-30 02:31 |
 
 
 ---
