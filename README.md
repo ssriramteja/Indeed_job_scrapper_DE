@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-03 07:31
+Last updated: 2026-09-03 12:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| MUFG | Sr. Database Engineer & Developer, Security Data | Jersey City, NJ, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=bcff22cb22d06c48) | 2026-09-03 12:22 |
+| Mastercard | Senior Full Stack Software Engineer | O'Fallon, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3cfaf25e543ddfa3) | 2026-09-03 12:22 |
+| datAvail | Contractor -Alteryx Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8230de67e8440ae5) | 2026-09-03 12:22 |
+| In-N-Out Burger | Data Engineer III | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=30dda2e2ff7609b2) | 2026-09-03 12:22 |
+| JPMorganChase | Java AWS Software Engineer III | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=acae8b3a9f218a11) | 2026-09-03 12:22 |
 | Logic, Inc. | ^Data Engineer - 6461115 | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=4a74613dbe565650) | 2026-09-03 07:31 |
 | CVS Health | Senior Data Engineer | Wellesley, MA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=d327cf6aabca3bf4) | 2026-09-03 07:31 |
 | CVS Health | Senior Data Engineer | New York, NY, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=97c9639c442911cd) | 2026-09-03 07:31 |
@@ -19,7 +24,6 @@ Last updated: 2026-09-03 07:31
 | Hinge | Senior Data Engineer | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=74016e8b1c1cf6a1) | 2026-09-03 07:31 |
 | nan | Software Engineer II | Tampa, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=94e187ddd5c7b1c5) | 2026-09-03 07:31 |
 | nan | Software Engineer II | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f4c14c404355ce78) | 2026-09-03 07:31 |
-| Nationwide Mutual Insurance Company | Specialist, Technology Engineer (AWS) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3ad18440ba3f8089) | 2026-09-03 07:31 |
 | Aramark | Junior Data Engineer | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f087a7f276c81325) | 2026-09-03 07:31 |
 | Deloitte | Solution Architect | Tampa, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bde5d548962c6033) | 2026-09-03 07:31 |
 | Deloitte | Solution Architect | Hermitage, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a7c46e528a9b82e5) | 2026-09-03 07:31 |
@@ -460,16 +464,6 @@ Last updated: 2026-09-03 07:31
 | Workday | Senior Software Engineer/Software Engineer III (Data Engineering) | Pleasanton, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a3dc3ae389abf7c) | 2026-08-31 00:02 |
 | LTM Limited | AIPowered Power BI Engineer | Torrance, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5865f55ab1e5c5e9) | 2026-08-30 21:44 |
 | LTM Limited | Specialist - Data Engineering | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c9493a61af734ed1) | 2026-08-30 18:16 |
-| LPL Financial | Engineer II, Data (Cloud & AI) | Fort Mill, SC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e3ed8a1f209612e2) | 2026-08-30 08:41 |
-| Solvonex | DevOps Platform and Infrastructure Engineer | Indianapolis, IN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f32791637f5d1fb8) | 2026-08-30 08:41 |
-| ALLO Communications | Senior Software Engineer, Cloud and AI | Kearney, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ae9405dc478084f) | 2026-08-30 08:41 |
-| ALLO Communications | Senior Software Engineer, Cloud and AI | Overland Park, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fc099d426154e9c) | 2026-08-30 08:41 |
-| ALLO Communications | Senior Software Engineer, Cloud and AI | Des Moines, IA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d6982f28b9756d95) | 2026-08-30 08:41 |
-| ALLO Communications | Senior Software Engineer, Cloud and AI | Lincoln, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2f4728d485fd82b7) | 2026-08-30 08:41 |
-| ALLO Communications | Senior Software Engineer, Cloud and AI | Grand Island, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7d8a860e6f7c99c7) | 2026-08-30 08:41 |
-| ALLO Communications | Senior Software Engineer, Cloud and AI | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4aab656d0ca3d815) | 2026-08-30 08:41 |
-| ALLO Communications | Senior Software Engineer, Cloud and AI | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b710a7f0b803f961) | 2026-08-30 08:41 |
-| RBC | Solutions Architect | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=73756c88cc20b24b) | 2026-08-30 08:41 |
 
 
 ---
