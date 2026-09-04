@@ -1,12 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-04 17:54
+Last updated: 2026-09-04 20:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Sr. Full Stack Developer | Dearborn, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f91a79069b7b6c23) | 2026-09-04 17:54 |
+| Comcast | Software Engineer (Python, Java, C++, or GoLang) - Chicago, IL- ONSITE 2X Week- FreeWheel | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e0cea54622c0ce7d) | 2026-09-04 20:03 |
+| VIVA | Machine Learning Engineer | Wyoming, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=639ed0412b5015c8) | 2026-09-04 20:03 |
+| Allstate Insurance | Software Engineer Consultant II | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a34c6d42c8ceedf1) | 2026-09-04 20:03 |
+| Department of Technology | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=800ccaff6ff582aa) | 2026-09-04 20:03 |
+| Medvantx | Sr. Data & Reporting Engineer | Louisville, KY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7488e999f8058bf0) | 2026-09-04 20:03 |
+| Virtru | Data Warehouse & Analytics Architect | Boston, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=18ffdd5eef1958d3) | 2026-09-04 20:03 |
+| Virtru | Data Warehouse & Analytics Architect | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c7452d97c75af8dc) | 2026-09-04 20:03 |
+| Virtru | Data Warehouse & Analytics Architect | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f0020bbdb6ae8cba) | 2026-09-04 20:03 |
+| Virtru | Data Warehouse & Analytics Architect | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=69f9a0ce557bd0b4) | 2026-09-04 20:03 |
+| Virtru | Data Warehouse & Analytics Architect | Los Angeles, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b00da2a69a1c8752) | 2026-09-04 20:03 |
+| Virtru | Data Warehouse & Analytics Architect | Washington, DC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2da011c549fe5788) | 2026-09-04 20:03 |
+| Virtru | Data Warehouse & Analytics Architect | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c5ee9bf2ddf6f37b) | 2026-09-04 20:03 |
+| Flexential | Senior Platform Engineer | Denver, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d5b6600f4a52433b) | 2026-09-04 20:03 |
+| STATE WATER RESOURCES CONTROL BOARD | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6c7f66e1ab99075a) | 2026-09-04 20:03 |
+| Pattern | Senior Data Platform Engineer | Lehi, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=84bee97389b15764) | 2026-09-04 20:03 |
+| NTT DATA | Data Engineer (DataLake to AWS) | Seattle, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7fa01137fb1dea76) | 2026-09-04 20:03 |
+| Persistent Systems | Sr. Forward Deployed Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d07f9859bf5d647a) | 2026-09-04 20:03 |
+| Function Health | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4a5a9bb41629960) | 2026-09-04 20:03 |
+| nan | Big Data Engineer (Hortonworks HDP/HDF) | Middletown, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4959e0a53e034434) | 2026-09-04 20:03 |
+| Ibotta | Senior Analytics Engineer, Product Analytics | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4011591b5f453d2) | 2026-09-04 20:03 |
+| ELEVI Associates, LLC | Sr Full Stack Developer | Annapolis Junction, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ea53ce383b5d2a5) | 2026-09-04 20:03 |
+| Wells Fargo | Engineering Associate – CIB Operations Technology | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2a800957b21a8f1) | 2026-09-04 20:03 |
 | FanDuel | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34f903a4cd4deb68) | 2026-09-04 17:54 |
 | Qode | Data Engineer | Camas, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9668a782d26f23f2) | 2026-09-04 17:54 |
 | Qode | Data Engineer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c80fb7f5a0962d33) | 2026-09-04 17:54 |
