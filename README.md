@@ -1,17 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-04 10:11
+Last updated: 2026-09-04 14:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | Cloud Vulnerability Management Engineer (Onsite Hybrid) | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a4723cbe97840a8b) | 2026-09-04 14:38 |
+| Ford Motor Company | Sr. Full Stack Developer | Dearborn, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f91a79069b7b6c23) | 2026-09-04 14:38 |
+| Capgemini | Associate-AI-ML Engineer / GenAI Engineer - Data Scientist | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=529f4202718cbb5d) | 2026-09-04 14:38 |
+| NTT DATA | Databricks Architect (Onsite Hybrid) | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=323ab8f6158c9d11) | 2026-09-04 14:38 |
+| Aureon | Data Architect | West Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=761ae4e0fd8c073b) | 2026-09-04 14:38 |
+| Temco Logistics | BI DevOps Engineer | Carson, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d35943967744e800) | 2026-09-04 14:38 |
+| Pistevo Decision | AI Engineer - Direct Hire Only, no Corp-2-Corp | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b60fbf6be4c551ad) | 2026-09-04 14:38 |
+| Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b0e939ac0ffe070e) | 2026-09-04 14:38 |
+| NTT DATA | AWS Data & AI Platform Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5489882ff02a2e52) | 2026-09-04 14:38 |
+| NTT DATA | Data Engineer - Data Platform (Spark/Kafka/Flink/Scala/Java) - Onsite Hybrid | Cupertino, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d5221782b3df25e) | 2026-09-04 14:38 |
 | Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6513b42373e43b0d) | 2026-09-04 10:11 |
 | Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9b471c305e99cc22) | 2026-09-04 10:11 |
 | Origami Risk LLC | Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac9facab44a0c8e5) | 2026-09-04 10:11 |
 | Argano | Technical Architect - Boomi | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b63dd269336a90eb) | 2026-09-04 10:11 |
 | Argano | Boomi Engineer - Senior Consultant | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a701b23e34d3c27b) | 2026-09-04 10:11 |
-| Ford Motor Company | Sr. Full Stack Developer | Dearborn, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f91a79069b7b6c23) | 2026-09-04 10:11 |
 | Rialto Capital | Systems Analyst - Remote | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3dfe46512a7712cf) | 2026-09-04 10:11 |
 | Mastercard | Senior Data Engineer | O'Fallon, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b006836fd5da0fd) | 2026-09-04 10:11 |
 | New York Life | Associate - Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=075bcb7fa07a9e22) | 2026-09-04 10:11 |
@@ -634,13 +643,6 @@ Last updated: 2026-09-04 10:11
 | Xactus | AI Engineer | Broomall, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dec641935aaf0ea6) | 2026-08-31 20:30 |
 | Pelico | VIE - Software Engineer (based in Miami) | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d71007f33dca61fb) | 2026-08-31 20:30 |
 | Ellipsis Health | Senior Data Scientist | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39ec559199e3af57) | 2026-08-31 20:30 |
-| Synopsys | Software Engineering, Sr Engineer | Sunnyvale, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c7c27d39498fc808) | 2026-08-31 14:37 |
-| Trimont | Contract Infrastructure Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4eea8025f3ef7c6f) | 2026-08-31 14:37 |
-| Skywalk Global | Infrastructure Solutions Architect | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=65c0895f1de6239e) | 2026-08-31 14:37 |
-| American business solutions inc | Infrastructure Solutions Architect | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=63a5617f761c6faa) | 2026-08-31 14:37 |
-| Optum | AI/ML Engineer | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3fad893368beea94) | 2026-08-31 14:37 |
-| Azistinc. | Sr. Data Engineer | Danforth, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4d86ffea72e55e7) | 2026-08-31 14:37 |
-| CapTech Consulting | Data Engineering Associate Consultant (Graduating Dec 2026 - Summer 2027) | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad9985af3e772076) | 2026-08-31 14:37 |
 
 
 ---
