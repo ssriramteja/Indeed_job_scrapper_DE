@@ -1,11 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-04 05:15
+Last updated: 2026-09-04 10:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6513b42373e43b0d) | 2026-09-04 10:11 |
+| Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9b471c305e99cc22) | 2026-09-04 10:11 |
+| Origami Risk LLC | Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac9facab44a0c8e5) | 2026-09-04 10:11 |
+| Argano | Technical Architect - Boomi | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b63dd269336a90eb) | 2026-09-04 10:11 |
+| Argano | Boomi Engineer - Senior Consultant | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a701b23e34d3c27b) | 2026-09-04 10:11 |
+| Ford Motor Company | Sr. Full Stack Developer | Dearborn, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f91a79069b7b6c23) | 2026-09-04 10:11 |
+| Rialto Capital | Systems Analyst - Remote | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3dfe46512a7712cf) | 2026-09-04 10:11 |
+| Mastercard | Senior Data Engineer | O'Fallon, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b006836fd5da0fd) | 2026-09-04 10:11 |
+| New York Life | Associate - Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=075bcb7fa07a9e22) | 2026-09-04 10:11 |
+| Rakuten Global | Platform Engineer | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f9bfadcb3e3c8e3d) | 2026-09-04 10:11 |
+| Fellow | Backend Engineer, IoT Architecture & Migration | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=428d030a371efde6) | 2026-09-04 10:11 |
+| Andersen | Infrastructure Engineer (DevOps) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d341676c031de064) | 2026-09-04 10:11 |
+| JPMorganChase | Site Reliability Engineer III | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e198e6ac2972e7f1) | 2026-09-04 10:11 |
+| JPMorganChase | Site Reliability Engineer III | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=306f0bd44cd0eb2d) | 2026-09-04 10:11 |
 | General Motors (GM) | Sr. Software Engineer - AI Quality and Productivity | Warren, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d251da15ad981a86) | 2026-09-04 05:15 |
 | CVS Health | Senior Full-Stack Developer - AI | MA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=189bcc446c9dab44) | 2026-09-04 05:15 |
 | CVS Health | Senior Full-Stack Developer - AI | FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c366764337f1ed92) | 2026-09-04 05:15 |
@@ -56,7 +70,6 @@ Last updated: 2026-09-04 05:15
 | CVS Health | Senior Full-Stack Developer - AI | LA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1d50878a49c11777) | 2026-09-04 05:15 |
 | CVS Health | Senior Full-Stack Developer - AI | NV, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9c332f08ebbb5911) | 2026-09-04 05:15 |
 | Prodapt Solutions | DataBricks Data Engineer | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8575f37d6f1acd78) | 2026-09-04 05:15 |
-| Ford Motor Company | Sr. Full Stack Developer | Dearborn, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f91a79069b7b6c23) | 2026-09-04 05:15 |
 | Tempus | Senior Data Engineer | Chicago, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7757978021f6f0be) | 2026-09-04 05:15 |
 | Viet Crispwich | Cashier | Huntsville, AL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6e0954321572d7e1) | 2026-09-04 05:15 |
 | AnewHealth | Senior Data Engineer | Cleveland, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=164a25d06b797701) | 2026-09-04 05:15 |
@@ -628,7 +641,6 @@ Last updated: 2026-09-04 05:15
 | Optum | AI/ML Engineer | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3fad893368beea94) | 2026-08-31 14:37 |
 | Azistinc. | Sr. Data Engineer | Danforth, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a4d86ffea72e55e7) | 2026-08-31 14:37 |
 | CapTech Consulting | Data Engineering Associate Consultant (Graduating Dec 2026 - Summer 2027) | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad9985af3e772076) | 2026-08-31 14:37 |
-| AmeriHealth Caritas | Senior Data Platform Engineer - Azure Databricks | Newtown Square, PA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=8e6ebb2e53d9fa7b) | 2026-08-31 06:25 |
 
 
 ---
