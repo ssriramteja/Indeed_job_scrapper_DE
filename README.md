@@ -1,11 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-04 20:03
+Last updated: 2026-09-04 22:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| TORC Robotics | Software Engineer, II - Data Engineering | Ann Arbor, MI, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=2aeb88d99c11a926) | 2026-09-04 22:39 |
+| ZipLiens | Data Engineer | Franklin, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3205953035ac9b3a) | 2026-09-04 22:39 |
+| VAMS Technologies | Senior Software Engineer (Backend Java) | Dallas-Fort Worth, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=eef8a6f3c1b852a1) | 2026-09-04 22:39 |
+| Citi | Backend Java Developer, Officer | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=62cd96fe08a5ed3c) | 2026-09-04 22:39 |
+| Event Network, LLC | Data Engineer, AI & Business Intelligence- San Diego | San Diego, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b557bb2570f0fa65) | 2026-09-04 22:39 |
+| Inter-American Development Bank | Data Architect Consultant | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c79c054898d0f4e7) | 2026-09-04 22:39 |
+| ExcelaCom | Sr Data Developer (ETL) | Greenwood Village, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fc4dea835950a7f8) | 2026-09-04 22:39 |
+| Dynamic Lifecycle Innovations | Senior Data Engineer | Milwaukee, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e0019cb84ac3bc92) | 2026-09-04 22:39 |
+| Dynamic Lifecycle Innovations | Senior Data Engineer | Minneapolis, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=66c47c01ec242b5c) | 2026-09-04 22:39 |
+| Dynamic Lifecycle Innovations | Senior Data Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=be4df5dec943b09f) | 2026-09-04 22:39 |
+| Noise Consulting Group | Senior DevSecOps Engineer | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=89bdfabc1efc886f) | 2026-09-04 22:39 |
+| Boston Medical Center | Senior Cloud Data Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=16b71269af0f17c5) | 2026-09-04 22:39 |
+| McKesson | Senior Business Intelligence & Automation Analyst | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab114b4702aecc56) | 2026-09-04 22:39 |
+| nan | Senior AI/ML Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=91930a30f0def5b2) | 2026-09-04 22:39 |
+| JPMorganChase | Software Engineer III (Java/Python/AWS) | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2c218f1db2c299ce) | 2026-09-04 22:39 |
+| Johnson Health Tech | Ecommerce Data & Analytics Engineer | Cottage Grove, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eec062974a4f7b14) | 2026-09-04 22:39 |
+| Johnson Health Tech | Ecommerce Data & Analytics Engineer | Cottage Grove, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=39c33a70af0afdb7) | 2026-09-04 22:39 |
+| Nationwide Mutual Insurance Company | Summer 2027 Feature Engineer Internship | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0b2625c0479d624) | 2026-09-04 22:39 |
+| Ingredion | AI & Data Scientist Intern | Westchester, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f397c0a18bd345db) | 2026-09-04 22:39 |
+| Allegiant Air | Data Engineer | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afbb890dc03e6cf2) | 2026-09-04 22:39 |
 | Comcast | Software Engineer (Python, Java, C++, or GoLang) - Chicago, IL- ONSITE 2X Week- FreeWheel | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e0cea54622c0ce7d) | 2026-09-04 20:03 |
 | VIVA | Machine Learning Engineer | Wyoming, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=639ed0412b5015c8) | 2026-09-04 20:03 |
 | Allstate Insurance | Software Engineer Consultant II | Chicago, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a34c6d42c8ceedf1) | 2026-09-04 20:03 |
@@ -649,37 +669,6 @@ Last updated: 2026-09-04 20:03
 | Charles Schwab | Software Development Tester | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b097e917dd1a75c6) | 2026-09-01 00:13 |
 | Grainger | Senior Software Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6ac749b1ab9e374) | 2026-09-01 00:13 |
 | clickhouse | Senior Software Engineer - Integrations - AI/ML | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1251b27601bc9eff) | 2026-09-01 00:13 |
-| Royal Caribbean Group | Senior Data Engineer | Miramar, FL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=15bc705887f3d3f9) | 2026-08-31 20:30 |
-| Equifax | AI Engineer | St. Louis, MO, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=dbf686b10c85ee8a) | 2026-08-31 20:30 |
-| NTT DATA | Cloud Vulnerability Management Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c5c68f432e3b3384) | 2026-08-31 20:30 |
-| NTT DATA | Technology Consultant - Cloud & Full Stack Engineer | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e9068d6b5e88e56b) | 2026-08-31 20:30 |
-| NTT DATA | Technology Consultant - Site Reliability Engineer (SRE) | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=aff7320f2676a7bb) | 2026-08-31 20:30 |
-| Worldpay | Senior Cloud Engineer | Cincinnati, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a1afe8b7a5cf447e) | 2026-08-31 20:30 |
-| NTT DATA | Azure AI Platform Engineer | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=58f19beac4a8df7f) | 2026-08-31 20:30 |
-| Realign | BI / Data Architect (Remote)-4 | Marlborough, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=63e9cfe1d5416339) | 2026-08-31 20:30 |
-| Antra, Inc | Mid-Level Java Developer | Sterling, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=37bd12e2b62f9cde) | 2026-08-31 20:30 |
-| clickhouse | Senior Cloud Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8aab1ba56e62f502) | 2026-08-31 20:30 |
-| Realign | Senior Data Engineer-4 | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fe15a8ff19071aee) | 2026-08-31 20:30 |
-| Infoorigin Inc | Infrastructure Solutions Architect- Onsite- Richmond, VA | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=19db03ed84045bd5) | 2026-08-31 20:30 |
-| Intellibee Inc | Infrastructure Solutions Architect | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=64e2dee8091e6c26) | 2026-08-31 20:30 |
-| Federal Reserve Bank of Boston | Senior Cloud Data Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=22baba519bae8200) | 2026-08-31 20:30 |
-| EnergyHub | Energy Data Scientist | Burlington, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea4dcf33b2c6a0fa) | 2026-08-31 20:30 |
-| EnergyHub | Energy Data Scientist | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41548be738a76cc8) | 2026-08-31 20:30 |
-| EnergyHub | Energy Data Scientist | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8103a63d2d3d1da7) | 2026-08-31 20:30 |
-| EnergyHub | Energy Data Scientist | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=13f4312108b4db79) | 2026-08-31 20:30 |
-| EnergyHub | Energy Data Scientist | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=26603fc5c3af6f4d) | 2026-08-31 20:30 |
-| ADM | Senior Data Engineer | Decatur, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9189c721d2bd01c6) | 2026-08-31 20:30 |
-| Vantage Point Logistics | Data Engineer | Westerville, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a30d8a15dec2e27) | 2026-08-31 20:30 |
-| Cisco | Software Engineer Full Stack / Backend I (Full Time) - United States | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dc603f90a12b6ae5) | 2026-08-31 20:30 |
-| Capital One | Technology Development Program Associate - February 2027 | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ef7c81c1f347080d) | 2026-08-31 20:30 |
-| LinkedIn | Sr. Software Engineer, Development Infrastructure | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5fde89f0085f48d4) | 2026-08-31 20:30 |
-| Cloud Destinations | Senior Data Engineer | Santa Clara, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d0de81eafb3fefc7) | 2026-08-31 20:30 |
-| JPMorganChase | Data Platform DevOps Engineer - Senior Associate (Enterprise Data Solutions) | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7088241af78eed3) | 2026-08-31 20:30 |
-| Amway | Enterprise Integration Software Engineer | Ada, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b546afd28257f1d7) | 2026-08-31 20:30 |
-| Citizens | Senior Data Analyst | Johnston, RI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=788a20ff7253f53b) | 2026-08-31 20:30 |
-| Xactus | AI Engineer | Broomall, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dec641935aaf0ea6) | 2026-08-31 20:30 |
-| Pelico | VIE - Software Engineer (based in Miami) | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d71007f33dca61fb) | 2026-08-31 20:30 |
-| Ellipsis Health | Senior Data Scientist | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39ec559199e3af57) | 2026-08-31 20:30 |
 
 
 ---
