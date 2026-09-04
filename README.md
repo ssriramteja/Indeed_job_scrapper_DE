@@ -1,13 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-04 14:38
+Last updated: 2026-09-04 17:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Sr. Full Stack Developer | Dearborn, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f91a79069b7b6c23) | 2026-09-04 17:54 |
+| FanDuel | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34f903a4cd4deb68) | 2026-09-04 17:54 |
+| Qode | Data Engineer | Camas, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9668a782d26f23f2) | 2026-09-04 17:54 |
+| Qode | Data Engineer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c80fb7f5a0962d33) | 2026-09-04 17:54 |
+| Versant | Data Engineer II | Orlando, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a599be99d023bcc4) | 2026-09-04 17:54 |
+| TikTok USDS JV | Data Engineer, Payment Data Intelligence | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95f8298a7d1edc2e) | 2026-09-04 17:54 |
+| UnitedHealth Group | Data Engineer - Office-Based in Minnesota | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f8abd386f3997679) | 2026-09-04 17:54 |
+| Zoom Communications | Software Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1a155cddb69c0b0) | 2026-09-04 17:54 |
+| Appnovation Technologies | Senior Data Engineer, AI & Agents | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3734453d62a91f7) | 2026-09-04 17:54 |
+| Appnovation Technologies | Senior Data Engineer, AI & Agents | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c63f982e3b90ae6e) | 2026-09-04 17:54 |
+| Appnovation Technologies | Senior Data Engineer, AI & Agents | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f8428fb5228d600) | 2026-09-04 17:54 |
+| Newell Brands | Sr. Analyst, Supply Chain Data Analytics | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e56e79b023c480f) | 2026-09-04 17:54 |
+| CloudZero | Senior AI Systems Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6bb4e5e009287f5e) | 2026-09-04 17:54 |
+| Innovation Associates, Inc. | Software Data Engineering Intern | Binghamton, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2ea5af3859d76d5) | 2026-09-04 17:54 |
+| nan | Data Engineer | Columbia, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afd89a6170ec744a) | 2026-09-04 17:54 |
+| Shelter Insurance | Senior Data Architect | Columbia, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94f36cf23d5a5bdc) | 2026-09-04 17:54 |
+| Back Market | Senior Software Engineer - Appmericans team | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=124a5f3483513bd6) | 2026-09-04 17:54 |
 | NTT DATA | Cloud Vulnerability Management Engineer (Onsite Hybrid) | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a4723cbe97840a8b) | 2026-09-04 14:38 |
-| Ford Motor Company | Sr. Full Stack Developer | Dearborn, MI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f91a79069b7b6c23) | 2026-09-04 14:38 |
 | Capgemini | Associate-AI-ML Engineer / GenAI Engineer - Data Scientist | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=529f4202718cbb5d) | 2026-09-04 14:38 |
 | NTT DATA | Databricks Architect (Onsite Hybrid) | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=323ab8f6158c9d11) | 2026-09-04 14:38 |
 | Aureon | Data Architect | West Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=761ae4e0fd8c073b) | 2026-09-04 14:38 |
