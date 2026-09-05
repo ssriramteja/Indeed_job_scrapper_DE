@@ -1,18 +1,39 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-05 00:29
+Last updated: 2026-09-05 05:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| OrangePeople | Solutions Architect (Cloud Transformation) | Plano, TX, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=e1bf1acae957760a) | 2026-09-05 05:04 |
+| OrangePeople | Senior Data Architect | Plano, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b4d13c40d6db3c55) | 2026-09-05 05:04 |
+| Ericsson | Developer (Sr. Software Development Engineer) | Boise, ID, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=022f538ee963f0fc) | 2026-09-05 05:04 |
+| Centerfield | Data Engineer | Los Angeles, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b6ece101fdd46d43) | 2026-09-05 05:04 |
+| Fractal Analytics | Senior Data Engineer | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=98502872a41fe5b3) | 2026-09-05 05:04 |
+| Independence Pet Holdings | Senior Data Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=91cd968ee3884958) | 2026-09-05 05:04 |
+| nan | AI Infrastructure Engineer | Boston, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9a27379fe391fa5a) | 2026-09-05 05:04 |
+| AIT Worldwide Logistics | Senior Data Governance Engineer | Itasca, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4a0a712c62866b60) | 2026-09-05 05:04 |
+| Optum | Senior Software Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7f2271198a574d9e) | 2026-09-05 05:04 |
+| Phillips 66 | Senior Advisor II, Application Architecture- Refining | Bartlesville, OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8713f75756bef7c0) | 2026-09-05 05:04 |
+| Temporal Technologies | Senior Software Engineer, Cloud Platform Foundations | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4abfd7828f198d4f) | 2026-09-05 05:04 |
+| Temporal Technologies | Senior Software Engineer, Cloud Platform Foundations | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4431f9fbff54b677) | 2026-09-05 05:04 |
+| Temporal Technologies | Senior Software Engineer, Cloud Platform Foundations | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bb1005fb477c4a6f) | 2026-09-05 05:04 |
+| Donaldson | Data Engineer Sr. | Bloomington, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b8e60c32570d9101) | 2026-09-05 05:04 |
+| Nationwide Mutual Insurance Company | Summer 2027 Feature Engineer Internship | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0b2625c0479d624) | 2026-09-05 05:04 |
+| Fujitsu | Oracle Senior Python and Kafka Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eb0d533ac255309b) | 2026-09-05 05:04 |
+| CREDIT GENIE | Senior Data Engineer | Plymouth Meeting, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1cb597ffd634147d) | 2026-09-05 05:04 |
+| CREDIT GENIE | Senior Data Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19d4e1e77e48b014) | 2026-09-05 05:04 |
+| CREDIT GENIE | Senior Data Engineer | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba99f796c7872860) | 2026-09-05 05:04 |
+| INFO IMAGE | DevOps Engineer | Brisbane, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9c17f8d478fe88a6) | 2026-09-05 05:04 |
+| World Bank Group | Associate Solutions Architect | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd083e076d8b8502) | 2026-09-05 05:04 |
+| nan | Sr ML Engineer | Boston, AL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=198a1af082f7d7e8) | 2026-09-05 05:04 |
 | IDEXX Laboratories | Application Developer | Westbrook, ME, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=55ad84a4ec3d68d3) | 2026-09-05 00:29 |
 | Collectors | Senior Software Engineer - Grading Operations | Santa Ana, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=19d3a613ac15910d) | 2026-09-05 00:29 |
 | Connectedx, Inc. | AWS Solutions Architect | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=87dfb3631d66d8ba) | 2026-09-05 00:29 |
 | AmeriHealth Caritas | Enterprise Architect, Health Care Payer Domain | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cc91fb4f404b6459) | 2026-09-05 00:29 |
 | JPMorganChase | Software Engineer III - PySpark/AWS/Databricks | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dc46b9f3c171738d) | 2026-09-05 00:29 |
 | Associated Wholesale Grocers | Data Engineer | Kansas City, KS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=19a6c188c89ec231) | 2026-09-05 00:29 |
-| Nationwide Mutual Insurance Company | Summer 2027 Feature Engineer Internship | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0b2625c0479d624) | 2026-09-05 00:29 |
 | Collectors | Senior Software Engineer - Beckett | Santa Ana, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29b0c15a37577d2f) | 2026-09-05 00:29 |
 | World Wide Technology | Engineer - Application Development | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07187e8974fdaae2) | 2026-09-05 00:29 |
 | Frontdoor | Data Engineer L4 (Remote) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83796b9ce5608df3) | 2026-09-05 00:29 |
