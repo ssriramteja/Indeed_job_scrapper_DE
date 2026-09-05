@@ -1,17 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-05 09:40
+Last updated: 2026-09-05 13:07
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| ritepros | Solution Architect | Portland, ME, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=383bce16ad78ce6b) | 2026-09-05 13:07 |
+| datAvail | Data Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4de1c6e7b53b6594) | 2026-09-05 13:07 |
+| Nationwide Mutual Insurance Company | Summer 2027 Feature Engineer Internship | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0b2625c0479d624) | 2026-09-05 13:07 |
+| Keysight Technologies | Full Stack Intern | Colorado Springs, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e0aa7a5c969525f) | 2026-09-05 13:07 |
+| Thomas Jefferson University & Jefferson Health | Senior Architect Data Management | Fort Washington, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7a21b73928bb91d) | 2026-09-05 13:07 |
 | Personify Health | Data Engineer II | Tempe, AZ, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=aface31a02c74f0e) | 2026-09-05 09:40 |
 | BV Teck | Hadoop Solutions Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=9faddc3559ec4193) | 2026-09-05 09:40 |
 | MiniMed | Senior AI/Data Science Engineer | Northridge, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=33851c58406093cf) | 2026-09-05 09:40 |
 | AiPrise | Software Engineer I | San Jose, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cc818fd6890b2dec) | 2026-09-05 09:40 |
 | Vidoori | Mid-level Software Development Engineer in Test | Hyattsville, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=30a34e7333233154) | 2026-09-05 09:40 |
-| Nationwide Mutual Insurance Company | Summer 2027 Feature Engineer Internship | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0b2625c0479d624) | 2026-09-05 09:40 |
 | JPMorganChase | Software Engineer III - Java/Spring Boot/Kafka | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f40f32a3160c1474) | 2026-09-05 09:40 |
 | The AES Group | Direct Client - Decision Scientist | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b97a4d718b259969) | 2026-09-05 09:40 |
 | BV Teck | Container Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e7d0ae1ea15db8ee) | 2026-09-05 09:40 |
@@ -645,22 +649,6 @@ Last updated: 2026-09-05 09:40
 | LexisNexis Risk Solutions | Consulting SWE | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b372b96d1263fff) | 2026-09-01 15:19 |
 | nan | Cloud Infrastructure Solutions Architect | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b46c450dd05f14e) | 2026-09-01 15:19 |
 | Flash Inspector | Cloud & AI/AL Architect | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=880c4f664a765490) | 2026-09-01 15:19 |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=21c4624adc67b18e) | 2026-09-01 10:48 |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=615c775c5cae3f87) | 2026-09-01 10:48 |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4a1f26919bbd5f4b) | 2026-09-01 10:48 |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5f6abea4f1a0a28b) | 2026-09-01 10:48 |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e7c88978b19e1fac) | 2026-09-01 10:48 |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=24d421e34cea4cb0) | 2026-09-01 10:48 |
-| CDK Global | Sr. Software Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8504ecddbd720c65) | 2026-09-01 10:48 |
-| GEICO | Machine Learning Engineer II, Document & Vision Intelligence | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1dde48c17b527b0d) | 2026-09-01 10:48 |
-| GEICO | Machine Learning Engineer II, Document & Vision Intelligence | Bethesda, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=341131fbbffbdd46) | 2026-09-01 10:48 |
-| Ness Digital Engineering | Business Analyst | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ef3f1d7e3dce5d5b) | 2026-09-01 10:48 |
-| Ness Digital Engineering | Business Analyst | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=26924b3ed57d2d37) | 2026-09-01 10:48 |
-| NTT DATA | Site Reliability Engineer- REMOTE - Onsite Training | Memphis, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fbb47baecd105cce) | 2026-09-01 10:48 |
-| Photon | Architect Commerce Cloud (Hybris) -Mountain View, CA | Mountain View, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9795ec11042c6f19) | 2026-09-01 10:48 |
-| State Farm | Mid-Level DATA ENGINEER: Microsoft Power Platform & AI Copilot Studio (HYBRID) | Bloomington, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d276a1bbc3a5d721) | 2026-09-01 10:48 |
-| Prodapt Solutions | Solution Designer/Architect (SPM/ICM) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ef4ef7d1e24d2a4) | 2026-09-01 10:48 |
-| nan | Site Reliability Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5fae225772bb11f0) | 2026-09-01 10:48 |
 
 
 ---
