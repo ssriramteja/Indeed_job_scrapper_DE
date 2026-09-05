@@ -1,13 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-05 16:23
+Last updated: 2026-09-05 18:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | SENIOR TABLEAU ANALYTICS ENGINEER | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15e10a214d6bc15f) | 2026-09-05 18:40 |
+| Nationwide Mutual Insurance Company | Summer 2027 Feature Engineer Internship | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0b2625c0479d624) | 2026-09-05 18:40 |
 | Sudsies | Data Engineer | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e365403b2fe630d1) | 2026-09-05 16:23 |
-| Nationwide Mutual Insurance Company | Summer 2027 Feature Engineer Internship | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0b2625c0479d624) | 2026-09-05 16:23 |
 | ritepros | Solution Architect | Portland, ME, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=383bce16ad78ce6b) | 2026-09-05 13:07 |
 | datAvail | Data Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4de1c6e7b53b6594) | 2026-09-05 13:07 |
 | Keysight Technologies | Full Stack Intern | Colorado Springs, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e0aa7a5c969525f) | 2026-09-05 13:07 |
