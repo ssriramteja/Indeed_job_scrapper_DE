@@ -1,14 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-05 13:07
+Last updated: 2026-09-05 16:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sudsies | Data Engineer | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e365403b2fe630d1) | 2026-09-05 16:23 |
+| Nationwide Mutual Insurance Company | Summer 2027 Feature Engineer Internship | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0b2625c0479d624) | 2026-09-05 16:23 |
 | ritepros | Solution Architect | Portland, ME, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=383bce16ad78ce6b) | 2026-09-05 13:07 |
 | datAvail | Data Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4de1c6e7b53b6594) | 2026-09-05 13:07 |
-| Nationwide Mutual Insurance Company | Summer 2027 Feature Engineer Internship | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0b2625c0479d624) | 2026-09-05 13:07 |
 | Keysight Technologies | Full Stack Intern | Colorado Springs, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e0aa7a5c969525f) | 2026-09-05 13:07 |
 | Thomas Jefferson University & Jefferson Health | Senior Architect Data Management | Fort Washington, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7a21b73928bb91d) | 2026-09-05 13:07 |
 | Personify Health | Data Engineer II | Tempe, AZ, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=aface31a02c74f0e) | 2026-09-05 09:40 |
@@ -641,14 +642,6 @@ Last updated: 2026-09-05 13:07
 | ZoomInfo | Senior Software Engineer - PA051 | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c9cfb23165ea9cf6) | 2026-09-01 19:01 |
 | Capgemini | Senior Platform & SRE Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8020034c387753ba) | 2026-09-01 19:01 |
 | NTT DATA | Data Engineer - Data Platform (Spark/Kafka/Flink/Scala/Java) | Cupertino, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5052a528569a1695) | 2026-09-01 19:01 |
-| Smart Tech Skills LLC | Data Solutions Architect | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=501460a7402af538) | 2026-09-01 15:19 |
-| Datasage Technologies | Backend Go Developer | Boston, MA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e37c3bd53b7199c8) | 2026-09-01 15:19 |
-| REPAY | Data Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9127ac581bc7c947) | 2026-09-01 15:19 |
-| DoorDash | Senior Security Data Engineer | San Francisco, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b31c422fadc318ca) | 2026-09-01 15:19 |
-| Pacific Gas and Electric | Data Platform Engineer | Oakland, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2c7c0ea011bc1581) | 2026-09-01 15:19 |
-| LexisNexis Risk Solutions | Consulting SWE | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b372b96d1263fff) | 2026-09-01 15:19 |
-| nan | Cloud Infrastructure Solutions Architect | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3b46c450dd05f14e) | 2026-09-01 15:19 |
-| Flash Inspector | Cloud & AI/AL Architect | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=880c4f664a765490) | 2026-09-01 15:19 |
 
 
 ---
