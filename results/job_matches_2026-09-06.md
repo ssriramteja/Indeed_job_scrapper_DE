@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-09-06
 
-**Total Jobs Found:** 14
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,51 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Data Engineer II @ Personify Health
-**Match Score:** 21.5%
-
-📍 **Location:** Tempe, AZ, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, Redshift, S3, ECS, RDS, Scala, Snowflake, Oracle
-
-[Apply Here](https://www.indeed.com/viewjob?jk=aface31a02c74f0e)
-
----
-
-## 3. Hadoop Solutions Developer @ BV Teck
-**Match Score:** 20.8%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, EMR, RDS, Azure, Databricks, BigQuery, Hadoop, HDFS, Hive, Sqoop
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9faddc3559ec4193)
-
----
-
-## 4. Senior AI/Data Science Engineer @ MiniMed
-**Match Score:** 16.0%
-
-📍 **Location:** Northridge, CA, US USA
-
-🔑 **Keywords:** AWS, Redshift, RDS, Azure, Databricks, GCP, BigQuery, Scala, Snowflake, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=33851c58406093cf)
-
----
-
-## 5. Data Engineer @ datAvail
-**Match Score:** 14.6%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Azure, Data Factory, Synapse Analytics, Databricks, Data Lake Storage, Spark, PySpark, Scala, Snowflake, Data Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4de1c6e7b53b6594)
-
----
-
-## 6. Data Engineer @ Sudsies
+## 2. Data Engineer @ Sudsies
 **Match Score:** 12.5%
 
 📍 **Location:** Miami, FL, US USA
@@ -71,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. SENIOR TABLEAU ANALYTICS ENGINEER @ nan
+## 3. SENIOR TABLEAU ANALYTICS ENGINEER @ nan
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -82,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Full-Stack AI Engineer @ Hewlett Packard Enterprise | HPE
+## 4. Full-Stack AI Engineer @ Hewlett Packard Enterprise | HPE
 **Match Score:** 12.5%
 
 📍 **Location:** San Juan, PR, US USA
@@ -93,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Data Engineer @ Evans Transportation Services
+## 5. Data Engineer @ Evans Transportation Services
 **Match Score:** 11.8%
 
 📍 **Location:** Delafield, WI, US USA
@@ -104,18 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Full Stack Intern @ Keysight Technologies
-**Match Score:** 10.4%
-
-📍 **Location:** Colorado Springs, CO, US USA
-
-🔑 **Keywords:** AWS, Glue, Lambda, S3, DynamoDB, CI/CD, Jenkins, Docker, Kubernetes, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6e0aa7a5c969525f)
-
----
-
-## 11. Data Engineer III @ Simplot Company
+## 6. Data Engineer III @ Simplot Company
 **Match Score:** 10.4%
 
 📍 **Location:** Boise, ID, US USA
@@ -126,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Software Engineer II - Platform Engineer Databricks @ JPMorganChase
+## 7. Software Engineer II - Platform Engineer Databricks @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -134,28 +79,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Databricks, Spark, Scala, Jenkins, Maven, Terraform, Jenkins, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=47b109467cc3b863)
-
----
-
-## 13. Container Platform Engineer @ BV Teck
-**Match Score:** 10.4%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, CI/CD, Jenkins, Terraform, Kubernetes, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e7d0ae1ea15db8ee)
-
----
-
-## 14. Senior Architect Data Management @ Thomas Jefferson University & Jefferson Health
-**Match Score:** 10.4%
-
-📍 **Location:** Fort Washington, PA, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Spark, Scala, Dimensional Modeling, ETL, ELT, Power BI, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c7a21b73928bb91d)
 
 ---
 
