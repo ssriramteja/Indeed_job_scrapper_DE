@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-09-06
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. SENIOR TABLEAU ANALYTICS ENGINEER @ nan
-**Match Score:** 12.5%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Data Lake Storage, Medallion Architecture, Spark, SQL Server, Fact Tables, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=15e10a214d6bc15f)
-
----
-
-## 2. Full-Stack AI Engineer @ Hewlett Packard Enterprise | HPE
+## 1. Full-Stack AI Engineer @ Hewlett Packard Enterprise | HPE
 **Match Score:** 12.5%
 
 📍 **Location:** San Juan, PR, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Data Engineer @ Evans Transportation Services
+## 2. Data Engineer @ Evans Transportation Services
 **Match Score:** 11.8%
 
 📍 **Location:** Delafield, WI, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Data Engineer III @ Simplot Company
+## 3. Data Engineer III @ Simplot Company
 **Match Score:** 10.4%
 
 📍 **Location:** Boise, ID, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Software Engineer II - Platform Engineer Databricks @ JPMorganChase
+## 4. Software Engineer II - Platform Engineer Databricks @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA
