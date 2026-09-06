@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-09-06
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 3
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -35,17 +35,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Databricks, Spark, PySpark, Scala, Data Modeling, CI/CD, Azure DevOps, Terraform
 
 [Apply Here](https://www.indeed.com/viewjob?jk=58b1135804a5c65d)
-
----
-
-## 4. Software Engineer II - Platform Engineer Databricks @ JPMorganChase
-**Match Score:** 10.4%
-
-📍 **Location:** Jersey City, NJ, US USA
-
-🔑 **Keywords:** AWS, RDS, Databricks, Spark, Scala, Jenkins, Maven, Terraform, Jenkins, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=47b109467cc3b863)
 
 ---
 
