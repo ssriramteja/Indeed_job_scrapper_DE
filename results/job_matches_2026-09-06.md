@@ -1,33 +1,11 @@
 # 🎯 Daily Job Matches — 2026-09-06
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Solution Architect @ ritepros
-**Match Score:** 24.3%
-
-📍 **Location:** Portland, ME, US USA
-
-🔑 **Keywords:** AWS, S3, ECS, RDS, Azure, Data Factory, Databricks, GCP, Cloud Storage, Hadoop
-
-[Apply Here](https://www.indeed.com/viewjob?jk=383bce16ad78ce6b)
-
----
-
-## 2. Data Engineer @ Sudsies
-**Match Score:** 12.5%
-
-📍 **Location:** Miami, FL, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Spark, Scala, Data Modeling, ETL, ELT, CI/CD, Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e365403b2fe630d1)
-
----
-
-## 3. SENIOR TABLEAU ANALYTICS ENGINEER @ nan
+## 1. SENIOR TABLEAU ANALYTICS ENGINEER @ nan
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -38,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Full-Stack AI Engineer @ Hewlett Packard Enterprise | HPE
+## 2. Full-Stack AI Engineer @ Hewlett Packard Enterprise | HPE
 **Match Score:** 12.5%
 
 📍 **Location:** San Juan, PR, US USA
@@ -49,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Data Engineer @ Evans Transportation Services
+## 3. Data Engineer @ Evans Transportation Services
 **Match Score:** 11.8%
 
 📍 **Location:** Delafield, WI, US USA
@@ -60,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Data Engineer III @ Simplot Company
+## 4. Data Engineer III @ Simplot Company
 **Match Score:** 10.4%
 
 📍 **Location:** Boise, ID, US USA
@@ -71,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Software Engineer II - Platform Engineer Databricks @ JPMorganChase
+## 5. Software Engineer II - Platform Engineer Databricks @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Jersey City, NJ, US USA
