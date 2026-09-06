@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-06 16:34
+Last updated: 2026-09-06 18:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Hewlett Packard Enterprise \| HPE | Full-Stack AI Engineer | San Juan, PR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f8dffe4f50c2f74c) | 2026-09-06 16:34 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58b1135804a5c65d) | 2026-09-06 16:34 |
+| Hewlett Packard Enterprise \| HPE | Full-Stack AI Engineer | San Juan, PR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f8dffe4f50c2f74c) | 2026-09-06 18:44 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58b1135804a5c65d) | 2026-09-06 18:44 |
 | Evans Transportation Services | Data Engineer | Delafield, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=23cf1d12b6b3fb6a) | 2026-09-06 00:23 |
 | JPMorganChase | Software Engineer II - Platform Engineer Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47b109467cc3b863) | 2026-09-05 22:29 |
 | nan | SENIOR TABLEAU ANALYTICS ENGINEER | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15e10a214d6bc15f) | 2026-09-05 18:40 |
@@ -453,26 +453,6 @@ Last updated: 2026-09-06 16:34
 | Techtronic Industries Co. Ltd | Sr Data Engineer | Menomonee Falls, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59b1255ab0bc1127) | 2026-09-02 21:26 |
 | Comtek Intl | Digital Platform Architect | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78e5b707656920a5) | 2026-09-02 21:26 |
 | Atos | APPLICATION DEVELOPER | Aurora, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88b7d6cdbfaa32a7) | 2026-09-02 21:26 |
-| BD | Data & AI Architect – BD Excellence (BDE) Office | Franklin Lakes, NJ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=83656a632b29e691) | 2026-09-02 18:15 |
-| Strategic Mindz LLC | Senior Java Developer / Albany - NY / Onsite 3 - 4 Days a Week | Albany, NY, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=55d5f237a320ef13) | 2026-09-02 18:15 |
-| Zifo | Sr. Data Engineer | Raleigh, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=caf9cc910f59adeb) | 2026-09-02 18:15 |
-| Optum | Sr. AI/ML Engineer - Java Background - Remote | Eden Prairie, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=44d637a29cee0524) | 2026-09-02 18:15 |
-| Docuphase | DevOps Engineer | Saint Petersburg, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d858dceda163f311) | 2026-09-02 18:15 |
-| Docuphase | DevOps Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c845115326a561bc) | 2026-09-02 18:15 |
-| E-solutions Inc | Azure Data Engineer | Malvern, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eb0d6e400872c8fa) | 2026-09-02 18:15 |
-| Versant | Sr. Data Engineer | Orlando, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c083accf4ed493d3) | 2026-09-02 18:15 |
-| LTM Limited | Overseas Contractor | Quincy, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2dec31a65ca0186f) | 2026-09-02 18:15 |
-| IEEE Corporate | Content Engineer II (E6175) | Piscataway, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2af3f922995d21c0) | 2026-09-02 18:15 |
-| BV Teck | Data Platform Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=053d78d73ec03580) | 2026-09-02 18:15 |
-| Attain | Machine Learning Engineer | Redwood City, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9bc14828ef1e67f) | 2026-09-02 18:15 |
-| Attain | Machine Learning Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1988c96da6897747) | 2026-09-02 18:15 |
-| NTT DATA | SDET / Test Automation Architect | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6bf817aa82ff453) | 2026-09-02 18:15 |
-| SCOR | Senior Data & Analytics Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f14465e046016fcb) | 2026-09-02 18:15 |
-| nan | Software Data Engineer/Data Scientist | MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d866f8df02b8195b) | 2026-09-02 18:15 |
-| NewYork-Presbyterian Hospital | Senior Technical Architect Information Technology | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=50aa46a4f9956022) | 2026-09-02 18:15 |
-| Burlington Stores | Senior Data Engineer | Edgewater Park, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6d13e91fe3906c8) | 2026-09-02 18:15 |
-| Herschend Family Entertainment | Sr. Database Developer | Peachtree Corners, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e52ec8993f3a44ae) | 2026-09-02 18:15 |
-| nan | Software Engineer Full stack | MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ac8ff170c136339) | 2026-09-02 18:15 |
 
 
 ---
