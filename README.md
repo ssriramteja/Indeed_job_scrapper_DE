@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-06 20:57
+Last updated: 2026-09-06 22:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Hewlett Packard Enterprise \| HPE | Full-Stack AI Engineer | San Juan, PR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f8dffe4f50c2f74c) | 2026-09-06 20:57 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58b1135804a5c65d) | 2026-09-06 20:57 |
+| Hewlett Packard Enterprise \| HPE | Full-Stack AI Engineer | San Juan, PR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f8dffe4f50c2f74c) | 2026-09-06 22:38 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58b1135804a5c65d) | 2026-09-06 22:38 |
 | Evans Transportation Services | Data Engineer | Delafield, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=23cf1d12b6b3fb6a) | 2026-09-06 00:23 |
 | JPMorganChase | Software Engineer II - Platform Engineer Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47b109467cc3b863) | 2026-09-05 22:29 |
 | nan | SENIOR TABLEAU ANALYTICS ENGINEER | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15e10a214d6bc15f) | 2026-09-05 18:40 |
@@ -425,34 +425,6 @@ Last updated: 2026-09-06 20:57
 | Workday | Software Development Engineer(Distributed Systems) | Pleasanton, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4ac39415fc425cb) | 2026-09-02 23:42 |
 | First Onsite | Systems Engineer | Greenwood Village, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c875d0252524b8be) | 2026-09-02 23:42 |
 | Okta | Senior TDI Site Reliability Engineer, Okta Federal | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5dc7f3375ec1f830) | 2026-09-02 23:42 |
-| Beta Bionics, Inc. | Senior Enterprise Applications Developer | San Diego, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=55a36044a8c65468) | 2026-09-02 21:26 |
-| Optum | Senior Software Engineer | Las Vegas, NV, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4fce36bd18ab198a) | 2026-09-02 21:26 |
-| General Motors (GM) | AI/ML Data Scientist (GPSSC) | Warren, MI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=060ac516e5d04bc2) | 2026-09-02 21:26 |
-| Neptune Technology Group | Data Engineer Technology | Duluth, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c40ccf2501b1a3b2) | 2026-09-02 21:26 |
-| Unissant | Artificial Intelligence / Machine Learning Developer | Ashburn, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=63de9516985bddfe) | 2026-09-02 21:26 |
-| J2B GLOBAL LLC | GCP Architect | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=510b1e334c4fe4f9) | 2026-09-02 21:26 |
-| The Manor | IT Specialist/Systems Administrator | Morrisville, VT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=053e2f866a950d1f) | 2026-09-02 21:26 |
-| Schneider Electric | Software Engineer - Analytics | Andover, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6989e3e0e2abd957) | 2026-09-02 21:26 |
-| World Wide Technology | Data Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6c227e7fd18751f0) | 2026-09-02 21:26 |
-| SBA Communications | Databricks Administration Specialist | Boca Raton, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4208e11a4c185e66) | 2026-09-02 21:26 |
-| Baker Tilly Canada | Data Solution Architect | Milwaukee, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c29367938bda715b) | 2026-09-02 21:26 |
-| Baker Tilly Canada | Data Solution Architect | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8880f249d806c24c) | 2026-09-02 21:26 |
-| Baker Tilly Canada | Data Solution Architect | Madison, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aa66504dec0a5f5c) | 2026-09-02 21:26 |
-| Techtronic Industries Co. Ltd | Sr Data Engineer | Menomonee Falls, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7aa2c8c48e2498cf) | 2026-09-02 21:26 |
-| Baker Tilly Canada | Associate Data Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=92972228a24c2ad3) | 2026-09-02 21:26 |
-| Baker Tilly Canada | Associate Data Engineer | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=991c60d8a9d1e274) | 2026-09-02 21:26 |
-| Baker Tilly Canada | Associate Data Engineer | Milwaukee, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=130606ce4af82b2f) | 2026-09-02 21:26 |
-| Baker Tilly Canada | Associate Data Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3353189008ef9b63) | 2026-09-02 21:26 |
-| Baker Tilly Canada | Associate Data Engineer | Madison, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b3d754b9cf9c34e1) | 2026-09-02 21:26 |
-| Velosys | Architect - Python 8+ Years | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6b96c8f95f45de8) | 2026-09-02 21:26 |
-| Capgemini | Platform Engineer | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f0a56678723c20c5) | 2026-09-02 21:26 |
-| Syngenta | Machine Learning Engineer | NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b38b2d7dd112b433) | 2026-09-02 21:26 |
-| Texas Health and Human Services Commission | Data Analyst IV - Advanced Analytics & Reporting - 100% remote | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4986a7e3a649da10) | 2026-09-02 21:26 |
-| bluematrix | Entitlement I - Sr. Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45974b9c03dac7e0) | 2026-09-02 21:26 |
-| bluematrix | Senior Software Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6eff3f3607854e4a) | 2026-09-02 21:26 |
-| Techtronic Industries Co. Ltd | Sr Data Engineer | Menomonee Falls, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=59b1255ab0bc1127) | 2026-09-02 21:26 |
-| Comtek Intl | Digital Platform Architect | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=78e5b707656920a5) | 2026-09-02 21:26 |
-| Atos | APPLICATION DEVELOPER | Aurora, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=88b7d6cdbfaa32a7) | 2026-09-02 21:26 |
 
 
 ---

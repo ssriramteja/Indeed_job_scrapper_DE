@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-09-06
 
-**Total Jobs Found:** 3
+**Total Jobs Found:** 2
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Data Engineer @ Evans Transportation Services
-**Match Score:** 11.8%
-
-📍 **Location:** Delafield, WI, US USA
-
-🔑 **Keywords:** Azure, Scala, Data Modeling, Dimensional Modeling, ETL, ELT, dbt, CI/CD, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=23cf1d12b6b3fb6a)
-
----
-
-## 3. Data Engineer III @ Simplot Company
+## 2. Data Engineer III @ Simplot Company
 **Match Score:** 10.4%
 
 📍 **Location:** Boise, ID, US USA
