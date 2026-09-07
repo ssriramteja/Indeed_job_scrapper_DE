@@ -5,25 +5,25 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Full-Stack AI Engineer @ Hewlett Packard Enterprise | HPE
-**Match Score:** 12.5%
+## 1. Data Engineer III @ NBME
+**Match Score:** 17.4%
 
-📍 **Location:** San Juan, PR, US USA
+📍 **Location:** Philadelphia, PA, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Oracle, PostgreSQL, CI/CD, Jenkins, Terraform
+🔑 **Keywords:** AWS, Glue, Redshift, S3, RDS, Sqoop, HBase, Scala, Snowflake, Oracle
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f8dffe4f50c2f74c)
+[Apply Here](https://www.indeed.com/viewjob?jk=83f3d0c20a7e71fe)
 
 ---
 
-## 2. Data Engineer III @ Simplot Company
+## 2. Cloud Network Engineer @ Ardor Digital Inc
 **Match Score:** 10.4%
 
-📍 **Location:** Boise, ID, US USA
+📍 **Location:** San Jose, CA, US USA
 
-🔑 **Keywords:** RDS, Azure, Databricks, Spark, PySpark, Scala, Data Modeling, CI/CD, Azure DevOps, Terraform
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, CI/CD, Terraform, Kubernetes, CloudWatch
 
-[Apply Here](https://www.indeed.com/viewjob?jk=58b1135804a5c65d)
+[Apply Here](https://www.indeed.com/viewjob?jk=a26a714c52ecd818)
 
 ---
 
