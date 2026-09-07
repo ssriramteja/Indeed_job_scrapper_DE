@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-07 16:52
+Last updated: 2026-09-07 20:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| RE/SPEC Inc | Cloud Solutions Architect 2 (Contractor) - 529701772 | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c458c043196a1c69) | 2026-09-07 20:16 |
+| Stream | Senior Data Engineer | Boulder, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3bddb4afe7c4caf5) | 2026-09-07 20:16 |
+| Advance Auto Parts | Software Engineer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=65dc6fa390e72ae6) | 2026-09-07 20:16 |
 | Visibol | Software Engineer | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0d15bd8d2dcde66c) | 2026-09-07 16:52 |
 | Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a173f8b22852bf0b) | 2026-09-07 16:52 |
 | Semicon Service Nordic AB | Software Engineer | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b82b7e5b56d16b4c) | 2026-09-07 16:52 |
@@ -260,49 +263,6 @@ Last updated: 2026-09-07 16:52
 | Cognizant | Senior .NET Developer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55cf49ee0837de3f) | 2026-09-03 22:01 |
 | Booz Allen Hamilton | Context Layer Engineer | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eed136ebeb1767d2) | 2026-09-03 22:01 |
 | Optum | Software Engineer | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0704cc50203806f0) | 2026-09-03 22:01 |
-| Accenture | ^Data Engineer - 6461115 | Irving, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=6a6fe2dd4415dd8d) | 2026-09-03 19:30 |
-| Glint Tech Solutions | Java Developer with AI | Phoenix, AZ, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=0ad70f5252874459) | 2026-09-03 19:30 |
-| Indicium AI | Forward Deployed Data Engineer - Houston | Houston, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=81609495aaa654a3) | 2026-09-03 19:30 |
-| Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f362c9602042b5aa) | 2026-09-03 19:30 |
-| Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=fb65efe8a988bc77) | 2026-09-03 19:30 |
-| DataArt | Fabric Architect | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=60c4ffa6f4022338) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | NJ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=82b602f77b928622) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=31a58bed0c2d1c26) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | NH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=69e381d6a5f4918a) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=2928f8de05a5880f) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=59c0167102920ff0) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | KS, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0fd92748e7a09744) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | DE, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0d3e74cdf07bf5cc) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3891bf419843c06e) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=cfba9c82293ef7b5) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9554b027ea016221) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | KY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=151ab6f759331e5f) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4e5e0807495bc5b0) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=425e768e43b69bff) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | RI, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b9e293e334c27ed7) | 2026-09-03 19:30 |
-| CVS Health | Senior SQL Developer | CT, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f9e6b189059b3dd8) | 2026-09-03 19:30 |
-| Optum | Architect | Eden Prairie, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=67e889fa62a0aa04) | 2026-09-03 19:30 |
-| Datavations | Sr. Systems Engineer | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3f31e5aee79b0cd4) | 2026-09-03 19:30 |
-| Datavations | Sr. Systems Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=605237c86e8d6cd5) | 2026-09-03 19:30 |
-| Datavations | Sr. Full-Stack Engineer, Data Systems | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b0a7172a180e4e9a) | 2026-09-03 19:30 |
-| Datavations | Sr. Systems Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=879aa2fe95ffd1f8) | 2026-09-03 19:30 |
-| Datavations | Sr. Full-Stack Engineer, Data Systems | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1386ca20434d1b60) | 2026-09-03 19:30 |
-| Datavations | Sr Platform Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2546567a58ff8626) | 2026-09-03 19:30 |
-| Datavations | Sr. Systems Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6bb0d86ff2285bbb) | 2026-09-03 19:30 |
-| Datavations | Sr Platform Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5742c349909b06a2) | 2026-09-03 19:30 |
-| Datavations | Sr Platform Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e414d12f00360b1e) | 2026-09-03 19:30 |
-| Datavations | Sr. Full-Stack Engineer, Data Systems | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=353a199b50413e1d) | 2026-09-03 19:30 |
-| Datavations | Sr Platform Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=49b1adbe5345b50a) | 2026-09-03 19:30 |
-| Datavations | Sr. Full-Stack Engineer, Data Systems | Cincinnati, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc6dd04c768962eb) | 2026-09-03 19:30 |
-| Datavations | Sr. Systems Engineer | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5de746c06a43a11d) | 2026-09-03 19:30 |
-| Datavations | Sr. Full-Stack Engineer, Data Systems | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2e7c621205c49ede) | 2026-09-03 19:30 |
-| Optum | Cloud Data Platform Engineer - Remote | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7ea0f16ea9f7bc21) | 2026-09-03 19:30 |
-| Highlights for Children | Azure Cloud Engineer | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e627602adc28fa2) | 2026-09-03 19:30 |
-| Steerbridge | Senior Software Engineer (Data Backend) | Vienna, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e731143bb29b7e3) | 2026-09-03 19:30 |
-| Edgewater Federal Solutions | Senior Application Developer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e2d71f3740aa0ae6) | 2026-09-03 19:30 |
-| University of Tennessee Health Science Center | Data Platform Engineer: Office of Innovative Technologies - UTK | Knoxville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8eef7dc642e11018) | 2026-09-03 19:30 |
-| University of Tennessee | Data Platform Engineer: Office of Innovative Technologies - UTK | Knoxville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2f5baefea3d59e3) | 2026-09-03 19:30 |
-| Sherwin-Williams | SCADA Full Stack Application Developer - Industrial Automation | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b704167109e006a) | 2026-09-03 19:30 |
 
 
 ---
