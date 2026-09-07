@@ -1,13 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-06 22:38
+Last updated: 2026-09-07 00:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Hewlett Packard Enterprise \| HPE | Full-Stack AI Engineer | San Juan, PR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f8dffe4f50c2f74c) | 2026-09-06 22:38 |
-| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58b1135804a5c65d) | 2026-09-06 22:38 |
+| Hewlett Packard Enterprise \| HPE | Full-Stack AI Engineer | San Juan, PR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f8dffe4f50c2f74c) | 2026-09-07 00:30 |
+| Simplot Company | Data Engineer III | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58b1135804a5c65d) | 2026-09-07 00:30 |
 | Evans Transportation Services | Data Engineer | Delafield, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=23cf1d12b6b3fb6a) | 2026-09-06 00:23 |
 | JPMorganChase | Software Engineer II - Platform Engineer Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47b109467cc3b863) | 2026-09-05 22:29 |
 | nan | SENIOR TABLEAU ANALYTICS ENGINEER | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15e10a214d6bc15f) | 2026-09-05 18:40 |
@@ -407,24 +407,6 @@ Last updated: 2026-09-06 22:38
 | CESO, Inc. | Data Architect | Dayton, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62045274597603a8) | 2026-09-03 02:07 |
 | CESO, Inc. | Data Architect | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=27c86305f5a4b4d1) | 2026-09-03 02:07 |
 | BV Teck | Senior Full Stack Software Engineer (Java) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0554a871816421df) | 2026-09-03 02:07 |
-| Edwards Lifesciences | Senior Data Engineer | Irvine, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8bb849225e8b2c49) | 2026-09-02 23:42 |
-| EXL Service | Full Stack Product Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5923f003c14c9207) | 2026-09-02 23:42 |
-| mPulse Mobile | Data Integration Engineer II | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a88f801e13f23bd8) | 2026-09-02 23:42 |
-| mPulse Mobile | Data Integration Engineer II | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=3a99bb3c5f6b3d7d) | 2026-09-02 23:42 |
-| BAE Systems USA | Software Engineering Intern III, Summer 2027 (Onsite) | San Diego, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=02463d12db1e81b3) | 2026-09-02 23:42 |
-| Vforce Infotech | Data Engineer | Edison, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=39829992fff11c16) | 2026-09-02 23:42 |
-| TripleLift | Cloud Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3e6ad14e926236dc) | 2026-09-02 23:42 |
-| Charles Schwab | Senior Python Developer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4285c04ca20cf636) | 2026-09-02 23:42 |
-| Gravie | Senior Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a7b566070d802085) | 2026-09-02 23:42 |
-| Optum | Senior Cloud Data Engineer - Remote | Eden Prairie, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e4ef7032884f2d3a) | 2026-09-02 23:42 |
-| Northern Trust Corp. | Senior SDET - Architect | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a84bcd7ee72f8b17) | 2026-09-02 23:42 |
-| Octave | Sr. Data Engineer | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c47d1c0284ef610c) | 2026-09-02 23:42 |
-| Charles Schwab | Java Development Engineer | Southlake, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f9c4d5515734cd07) | 2026-09-02 23:42 |
-| GXO Logistics | Senior AI Engineer | VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6ab0ff5a1f596e09) | 2026-09-02 23:42 |
-| TBC Corporation | Cloud Data Architect | Palm Beach Gardens, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=92ff61658113f0f6) | 2026-09-02 23:42 |
-| Workday | Software Development Engineer(Distributed Systems) | Pleasanton, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4ac39415fc425cb) | 2026-09-02 23:42 |
-| First Onsite | Systems Engineer | Greenwood Village, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c875d0252524b8be) | 2026-09-02 23:42 |
-| Okta | Senior TDI Site Reliability Engineer, Okta Federal | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5dc7f3375ec1f830) | 2026-09-02 23:42 |
 
 
 ---
