@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-09-07
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 11
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -71,7 +71,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Software Engineer @ Semicon Service Nordic AB
+## 7. Data Engineer - Databricks & dbt @ Capgemini
+**Match Score:** 11.1%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Databricks, Medallion Architecture, Spark, PySpark, Scala, Data Modeling, ELT, dbt
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2d233d87b66cf8ac)
+
+---
+
+## 8. Data Engineer / Architect – Databricks & dbt @ Capgemini
+**Match Score:** 11.1%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Databricks, Medallion Architecture, Spark, PySpark, Scala, Data Modeling, ELT, dbt
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8d01e7837ac03015)
+
+---
+
+## 9. Software Engineer @ Semicon Service Nordic AB
 **Match Score:** 10.4%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -82,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Software Engineer @ nan
+## 10. Software Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Racine, WI, US USA
@@ -93,7 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Cloud Network Engineer @ Ardor Digital Inc
+## 11. Cloud Network Engineer @ Ardor Digital Inc
 **Match Score:** 10.4%
 
 📍 **Location:** San Jose, CA, US USA
