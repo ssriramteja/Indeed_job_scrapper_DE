@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-07 11:03
+Last updated: 2026-09-07 16:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Visibol | Software Engineer | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0d15bd8d2dcde66c) | 2026-09-07 16:52 |
+| Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a173f8b22852bf0b) | 2026-09-07 16:52 |
+| Semicon Service Nordic AB | Software Engineer | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b82b7e5b56d16b4c) | 2026-09-07 16:52 |
+| nan | Software Engineer | Racine, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=001eb9aca1486771) | 2026-09-07 16:52 |
 | NBME | Data Engineer III | Philadelphia, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=83f3d0c20a7e71fe) | 2026-09-07 11:03 |
 | Ardor Digital Inc | Cloud Network Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a26a714c52ecd818) | 2026-09-07 11:03 |
 | Evans Transportation Services | Data Engineer | Delafield, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=23cf1d12b6b3fb6a) | 2026-09-06 00:23 |
@@ -299,22 +303,6 @@ Last updated: 2026-09-07 11:03
 | University of Tennessee Health Science Center | Data Platform Engineer: Office of Innovative Technologies - UTK | Knoxville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8eef7dc642e11018) | 2026-09-03 19:30 |
 | University of Tennessee | Data Platform Engineer: Office of Innovative Technologies - UTK | Knoxville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2f5baefea3d59e3) | 2026-09-03 19:30 |
 | Sherwin-Williams | SCADA Full Stack Application Developer - Industrial Automation | Cleveland, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6b704167109e006a) | 2026-09-03 19:30 |
-| Indicium AI | Data Engineer Consultant | New York, NY, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=72cc11f621d19b31) | 2026-09-03 16:46 |
-| Ryan Companies US, Inc. | Senior Data Engineer | Minneapolis, MN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac357ad96cce2a7a) | 2026-09-03 16:46 |
-| E-solutions Inc | Team Center PLM Architect | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5bf50044bf3b2178) | 2026-09-03 16:46 |
-| nan | Data Scientist | Alpharetta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=badf8a963d8c46e1) | 2026-09-03 16:46 |
-| Tiger Analytics | Technology Partner - Databricks | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=cf367eb9c34a5aa5) | 2026-09-03 16:46 |
-| Tiger Analytics | Technology Partner - Databricks | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9fb19697ac2324c4) | 2026-09-03 16:46 |
-| Tiger Analytics | Technology Partner - Databricks | Sunnyvale, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=06f0fe6cc0a92eea) | 2026-09-03 16:46 |
-| TBC Corporation | Senior Integration Developer - API Platform | Palm Beach Gardens, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e38d53eb67f89550) | 2026-09-03 16:46 |
-| Custom Manufacturing and Engineering | Computing Engineer/Software Developer –AI/ML, GUI Development, Custom Cobot Control | Pinellas Park, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e97b8b145647f2bc) | 2026-09-03 16:46 |
-| nan | Data Engineer | Appleton, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=510c9bc96d1c2105) | 2026-09-03 16:46 |
-| Stier Solutions Inc | .Net developer (strong Azure) | Wilmington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4f4d83b0093b2a3) | 2026-09-03 16:46 |
-| MUFG | Sr. Database Engineer & Developer, Security Data | Jersey City, NJ, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=bcff22cb22d06c48) | 2026-09-03 12:22 |
-| Mastercard | Senior Full Stack Software Engineer | O'Fallon, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3cfaf25e543ddfa3) | 2026-09-03 12:22 |
-| datAvail | Contractor -Alteryx Developer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8230de67e8440ae5) | 2026-09-03 12:22 |
-| In-N-Out Burger | Data Engineer III | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=30dda2e2ff7609b2) | 2026-09-03 12:22 |
-| JPMorganChase | Java AWS Software Engineer III | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=acae8b3a9f218a11) | 2026-09-03 12:22 |
 
 
 ---
