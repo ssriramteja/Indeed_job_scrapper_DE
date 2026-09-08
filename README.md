@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-07 23:10
+Last updated: 2026-09-08 02:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| arrivia | Fabric Data Engineer | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1050647a13a073f5) | 2026-09-08 02:08 |
 | Capgemini | Data Engineer - Databricks & dbt | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d233d87b66cf8ac) | 2026-09-07 23:10 |
 | Capgemini | Data Engineer / Architect – Databricks & dbt | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8d01e7837ac03015) | 2026-09-07 23:10 |
 | RE/SPEC Inc | Cloud Solutions Architect 2 (Contractor) - 529701772 | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c458c043196a1c69) | 2026-09-07 20:16 |
@@ -216,31 +217,6 @@ Last updated: 2026-09-07 23:10
 | Molex | Frontend Architect | Lisle, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da58ede475945c92) | 2026-09-04 05:15 |
 | J2B GLOBAL LLC | Data Architect - Snowflake & AWS | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7be41efb52cec9d7) | 2026-09-04 05:15 |
 | NAVA TECH LLC | Data Analyst | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=66b1fb657f32bd19) | 2026-09-04 05:15 |
-| Dallas County | 1000000882.DATA ENGINEER II.INFO TECH - OPERATIONS | Dallas, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=7843267cf992ea15) | 2026-09-04 00:33 |
-| Dallas County | 1000000881.DATA ENGINEER II.INFO TECH - OPERATIONS | Dallas, TX, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=1a34457b20435ae3) | 2026-09-04 00:33 |
-| Dallas County | 1000000855.AI ENGINEER II.INFO TECH - DATA AND AI | Dallas, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=1fd77b4f5e4c4be7) | 2026-09-04 00:33 |
-| BV Teck | Data Platform Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=00be7078de5ae6f7) | 2026-09-04 00:33 |
-| NTT DATA | Full Stack Engineer (Java) | Seattle, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3c7a912adddfab10) | 2026-09-04 00:33 |
-| Moxie Pest Control | System Engineer, Data Automation and AI | Irving, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=454c36b233674a1c) | 2026-09-04 00:33 |
-| Capgemini | Associate-AI-ML Engineer / GenAI Engineer - Data Scientist | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8e0a63e3b141bff1) | 2026-09-04 00:33 |
-| Startekk Inc | Cloud Solutions Architect 2 – Austin, TX (Hybrid) | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=efae37094a72458c) | 2026-09-04 00:33 |
-| VeeRteq Solutions Inc. | Data Scientist | Johns Creek, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=84f077dc4279aae5) | 2026-09-04 00:33 |
-| Intel Corporation | Infrastructure and DevOps Architect | Phoenix, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1d01dfa6d358650f) | 2026-09-04 00:33 |
-| CaseWorthy | Senior Cloud Ops Engineer I – SRE | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0e5045c5aee57e4b) | 2026-09-04 00:33 |
-| WhiteWater Express Car Wash | Senior Data Engineer | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=815dd91d37507aac) | 2026-09-04 00:33 |
-| BV Teck | Enterprise ServiceNow Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e375480799bccd93) | 2026-09-04 00:33 |
-| BV Teck | Enterprise Data Architect | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=533504e307eb3018) | 2026-09-04 00:33 |
-| BV Teck | AI Data Platform Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=05ec919a5dec5401) | 2026-09-04 00:33 |
-| Medina Talent Group | Site Reliability Engineer | Irvine, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3fff0bfc557ef716) | 2026-09-04 00:33 |
-| Optum | Senior Software Engineer - San Diego, CA - 2388088 | San Diego, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bf0e9e9d4c63fd83) | 2026-09-04 00:33 |
-| Hard Rock International | DevSecOps Architect | Davie, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9dc833901dbedff) | 2026-09-04 00:33 |
-| Birlasoft | Architect | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b51906ecf9dea52d) | 2026-09-04 00:33 |
-| Morgan Stanley | Associate, Software Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=61c52ac26fe3b63f) | 2026-09-04 00:33 |
-| Modus Create | Senior Platform Engineer (GitHub Migration Specialist) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a70046391940aed2) | 2026-09-04 00:33 |
-| Modus Create | Senior Platform Engineer (GitHub Migration Specialist) | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec13bfd98a7dfaf1) | 2026-09-04 00:33 |
-| Greater Anesthesia Solutions | Senior Automation Engineer (AWS) Cloud Anesthesia Billing | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1b5589d9617bb262) | 2026-09-04 00:33 |
-| BV Teck | Cloud Data Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=93a7f97444948657) | 2026-09-04 00:33 |
-| JPMorganChase | Site Reliability Engineer III | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=811249074303b1b7) | 2026-09-04 00:33 |
 
 
 ---
