@@ -1,11 +1,71 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-08 16:55
+Last updated: 2026-09-08 19:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| FSS Government Solutions | Sr. Azure Architect | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2c906b9319ac1927) | 2026-09-08 19:40 |
+| nan | AWS Data Engineer | Newark, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=deb3c79369e1483f) | 2026-09-08 19:40 |
+| CCL | AWS Data Engineer | Newark, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=40929f510d8aea9b) | 2026-09-08 19:40 |
+| Intellibee Inc | Snowflake Solutions Architect | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=04573f87a8122729) | 2026-09-08 19:40 |
+| American Bureau of Shipping (ABS) | Data Engineer | Knoxville, TN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8708b9448e952fad) | 2026-09-08 19:40 |
+| Zoll Medical Corporation | Operations Data Engineer (On Site Only) | Pittsburgh, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=606ded7f86fcb046) | 2026-09-08 19:40 |
+| ThinkMirum, Inc. | Infrastructure Solutions Architect | Henrico, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7540868c3f94cca8) | 2026-09-08 19:40 |
+| Terrabis | Data Architect | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=96ab0aae8b810da1) | 2026-09-08 19:40 |
+| CLEAR | Data Engineer II, Analytics & Modeling | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bf7c4f2948adca69) | 2026-09-08 19:40 |
+| CrowdStrike | Engineer III - Platform Data Engineer (Remote) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b4b81b7d3a7707c) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Long Key, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=860b23040114a8d8) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Jackson, MS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7318de585b9240c9) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=39a63e8d41e47b1d) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Montpelier, VT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bfdc237a5ec2521a) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=96dbbd28de91d8d7) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | ID, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0f7a086e893f74d3) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Pierre, SD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=92b76ff97226a6fc) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Middletown, DE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c823f162806160da) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=42745e2b7d3b4f70) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=86dbb6e245ef6f03) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Des Moines, IA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=803cad2315014c66) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Pawtucket, RI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=21001c0e4015b94c) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Hartford, CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=067ba8dc4ea90456) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Hope Hull, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca747d14a8213963) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Saint Paul, MN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=100a2578e0de9a9a) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Lincoln, NE, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b27b5a5a2dbd7b8) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7650cf6efa152d46) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Las Vegas, NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5fdab35fb5d301b8) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b8d9249e36a5a6f6) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Hot Springs Village, AR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9dfa47cceff7481b) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Corrales, NM, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b32034eb11b34213) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Charleston, WV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c9451dd40e73a7e8) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | KY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c80a95d3d6ee6292) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=de47c019dcb8f48a) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Kennesaw, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3900a08ed626684f) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Augusta, ME, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=592a07a140bc3c31) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Fremont, NH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4d85fc6a7df757e7) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=012126d96bacab86) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Okemos, MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=25faed0ee0f87e0b) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | MT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a4f528d7c6591cc6) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Oklahoma City, OK, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bd1b53baaf5bb73e) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e4e0147cefbb8eb1) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Kansas City, KS, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=be56d1f6c8fed56c) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=724cac9c095efeeb) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | New Franken, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0ad205890083815e) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a6ee3ad0f2f5a12f) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e639c4f4fc356279) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b0bc7bce3b199252) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d02ce8ad5ba0ffc3) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | OR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a7e42009318b0530) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Baton Rouge, LA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5620acaf132d6433) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=85ded7658087672f) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Walnut Creek, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c301099fdc12e291) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Columbia, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=96c1789a53f8e267) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Upper Darby, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=803b2cfe22724310) | 2026-09-08 19:40 |
+| CSAA Insurance Group, a AAA Insurer | Software Engineer III - AI/ML Platform Operations - Remote | Phoenix, AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=805ba729e77c2f20) | 2026-09-08 19:40 |
+| Realign | Python Developer | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8a7ddd4398f2504b) | 2026-09-08 19:40 |
+| Tachyon Technologies | AWS Database Architect | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7089341fcf260484) | 2026-09-08 19:40 |
+| Unitedone health | Business Analyst (SQL & Snowflake) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bcad9584a9c6b560) | 2026-09-08 19:40 |
+| American Honda Motor | Software & System Design Engineer | Torrance, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d4cff3d4e2e95ec) | 2026-09-08 19:40 |
 | nan | MuleSoft Developer | Herndon, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=50af554e5fcbec22) | 2026-09-08 16:55 |
 | Protolabs | Senior Software Quality Engineer | Maple Plain, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50167c9262a6f352) | 2026-09-08 16:55 |
 | Catalina Business Solutions | Senior Full Stack Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=583047aa0c29e841) | 2026-09-08 16:55 |
@@ -120,22 +180,6 @@ Last updated: 2026-09-08 16:55
 | Ibotta | Senior Analytics Engineer, Product Analytics | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b4011591b5f453d2) | 2026-09-04 20:03 |
 | ELEVI Associates, LLC | Sr Full Stack Developer | Annapolis Junction, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ea53ce383b5d2a5) | 2026-09-04 20:03 |
 | Wells Fargo | Engineering Associate – CIB Operations Technology | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2a800957b21a8f1) | 2026-09-04 20:03 |
-| FanDuel | Data Engineer | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34f903a4cd4deb68) | 2026-09-04 17:54 |
-| Qode | Data Engineer | Camas, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9668a782d26f23f2) | 2026-09-04 17:54 |
-| Qode | Data Engineer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c80fb7f5a0962d33) | 2026-09-04 17:54 |
-| Versant | Data Engineer II | Orlando, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a599be99d023bcc4) | 2026-09-04 17:54 |
-| TikTok USDS JV | Data Engineer, Payment Data Intelligence | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95f8298a7d1edc2e) | 2026-09-04 17:54 |
-| UnitedHealth Group | Data Engineer - Office-Based in Minnesota | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f8abd386f3997679) | 2026-09-04 17:54 |
-| Zoom Communications | Software Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c1a155cddb69c0b0) | 2026-09-04 17:54 |
-| Appnovation Technologies | Senior Data Engineer, AI & Agents | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3734453d62a91f7) | 2026-09-04 17:54 |
-| Appnovation Technologies | Senior Data Engineer, AI & Agents | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c63f982e3b90ae6e) | 2026-09-04 17:54 |
-| Appnovation Technologies | Senior Data Engineer, AI & Agents | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f8428fb5228d600) | 2026-09-04 17:54 |
-| Newell Brands | Sr. Analyst, Supply Chain Data Analytics | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e56e79b023c480f) | 2026-09-04 17:54 |
-| CloudZero | Senior AI Systems Engineer | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6bb4e5e009287f5e) | 2026-09-04 17:54 |
-| Innovation Associates, Inc. | Software Data Engineering Intern | Binghamton, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2ea5af3859d76d5) | 2026-09-04 17:54 |
-| nan | Data Engineer | Columbia, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afd89a6170ec744a) | 2026-09-04 17:54 |
-| Shelter Insurance | Senior Data Architect | Columbia, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94f36cf23d5a5bdc) | 2026-09-04 17:54 |
-| Back Market | Senior Software Engineer - Appmericans team | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=124a5f3483513bd6) | 2026-09-04 17:54 |
 
 
 ---
