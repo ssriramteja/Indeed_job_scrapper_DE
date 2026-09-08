@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-09-08
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 8
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -60,18 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Full-Stack Engineer - Albany @ Rocket Science Group
-**Match Score:** 12.5%
-
-📍 **Location:** Albany, NY, US USA
-
-🔑 **Keywords:** Scala, PostgreSQL, MySQL, MongoDB, NoSQL, CI/CD, Jenkins, GitHub Actions, Terraform, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a173f8b22852bf0b)
-
----
-
-## 7. Data Engineer - Databricks & dbt @ Capgemini
+## 6. Data Engineer - Databricks & dbt @ Capgemini
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Data Engineer / Architect – Databricks & dbt @ Capgemini
+## 7. Data Engineer / Architect – Databricks & dbt @ Capgemini
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -93,14 +82,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Software Engineer @ Semicon Service Nordic AB
+## 8. Software Developer / Engineer @ JOb Assist
 **Match Score:** 10.4%
 
-📍 **Location:** St. Louis, MO, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, Azure, GCP, BigQuery, Kafka, Oracle, CI/CD, Docker, Kubernetes, Airflow
+🔑 **Keywords:** AWS, RDS, Azure, Scala, SQL Server, MySQL, CI/CD, Jenkins, Jenkins, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b82b7e5b56d16b4c)
+[Apply Here](https://www.indeed.com/viewjob?jk=5e4b70d4e466c6eb)
 
 ---
 

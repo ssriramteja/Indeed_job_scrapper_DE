@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-08 07:34
+Last updated: 2026-09-08 12:24
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JOb Assist | Software Developer / Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e4b70d4e466c6eb) | 2026-09-08 12:24 |
 | arrivia | Fabric Data Engineer | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1050647a13a073f5) | 2026-09-08 02:08 |
 | Capgemini | Data Engineer - Databricks & dbt | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d233d87b66cf8ac) | 2026-09-07 23:10 |
 | Capgemini | Data Engineer / Architect – Databricks & dbt | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8d01e7837ac03015) | 2026-09-07 23:10 |
@@ -140,19 +141,6 @@ Last updated: 2026-09-08 07:34
 | Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b0e939ac0ffe070e) | 2026-09-04 14:38 |
 | NTT DATA | AWS Data & AI Platform Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5489882ff02a2e52) | 2026-09-04 14:38 |
 | NTT DATA | Data Engineer - Data Platform (Spark/Kafka/Flink/Scala/Java) - Onsite Hybrid | Cupertino, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d5221782b3df25e) | 2026-09-04 14:38 |
-| Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6513b42373e43b0d) | 2026-09-04 10:11 |
-| Viasat | Cloud Engineer (Containers Focus) | Carlsbad, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9b471c305e99cc22) | 2026-09-04 10:11 |
-| Origami Risk LLC | Data Engineer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ac9facab44a0c8e5) | 2026-09-04 10:11 |
-| Argano | Technical Architect - Boomi | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b63dd269336a90eb) | 2026-09-04 10:11 |
-| Argano | Boomi Engineer - Senior Consultant | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a701b23e34d3c27b) | 2026-09-04 10:11 |
-| Rialto Capital | Systems Analyst - Remote | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3dfe46512a7712cf) | 2026-09-04 10:11 |
-| Mastercard | Senior Data Engineer | O'Fallon, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6b006836fd5da0fd) | 2026-09-04 10:11 |
-| New York Life | Associate - Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=075bcb7fa07a9e22) | 2026-09-04 10:11 |
-| Rakuten Global | Platform Engineer | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f9bfadcb3e3c8e3d) | 2026-09-04 10:11 |
-| Fellow | Backend Engineer, IoT Architecture & Migration | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=428d030a371efde6) | 2026-09-04 10:11 |
-| Andersen | Infrastructure Engineer (DevOps) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d341676c031de064) | 2026-09-04 10:11 |
-| JPMorganChase | Site Reliability Engineer III | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e198e6ac2972e7f1) | 2026-09-04 10:11 |
-| JPMorganChase | Site Reliability Engineer III | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=306f0bd44cd0eb2d) | 2026-09-04 10:11 |
 
 
 ---
