@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-08 12:24
+Last updated: 2026-09-08 16:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | MuleSoft Developer | Herndon, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=50af554e5fcbec22) | 2026-09-08 16:55 |
+| Protolabs | Senior Software Quality Engineer | Maple Plain, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50167c9262a6f352) | 2026-09-08 16:55 |
+| Catalina Business Solutions | Senior Full Stack Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=583047aa0c29e841) | 2026-09-08 16:55 |
+| FDM Group | Full Stack Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d342c243987526b3) | 2026-09-08 16:55 |
 | JOb Assist | Software Developer / Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e4b70d4e466c6eb) | 2026-09-08 12:24 |
 | arrivia | Fabric Data Engineer | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1050647a13a073f5) | 2026-09-08 02:08 |
 | Capgemini | Data Engineer - Databricks & dbt | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d233d87b66cf8ac) | 2026-09-07 23:10 |
@@ -132,15 +136,6 @@ Last updated: 2026-09-08 12:24
 | nan | Data Engineer | Columbia, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afd89a6170ec744a) | 2026-09-04 17:54 |
 | Shelter Insurance | Senior Data Architect | Columbia, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94f36cf23d5a5bdc) | 2026-09-04 17:54 |
 | Back Market | Senior Software Engineer - Appmericans team | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=124a5f3483513bd6) | 2026-09-04 17:54 |
-| NTT DATA | Cloud Vulnerability Management Engineer (Onsite Hybrid) | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a4723cbe97840a8b) | 2026-09-04 14:38 |
-| Capgemini | Associate-AI-ML Engineer / GenAI Engineer - Data Scientist | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=529f4202718cbb5d) | 2026-09-04 14:38 |
-| NTT DATA | Databricks Architect (Onsite Hybrid) | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=323ab8f6158c9d11) | 2026-09-04 14:38 |
-| Aureon | Data Architect | West Des Moines, IA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=761ae4e0fd8c073b) | 2026-09-04 14:38 |
-| Temco Logistics | BI DevOps Engineer | Carson, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d35943967744e800) | 2026-09-04 14:38 |
-| Pistevo Decision | AI Engineer - Direct Hire Only, no Corp-2-Corp | Herndon, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b60fbf6be4c551ad) | 2026-09-04 14:38 |
-| Optum | Senior Software Engineer | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b0e939ac0ffe070e) | 2026-09-04 14:38 |
-| NTT DATA | AWS Data & AI Platform Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5489882ff02a2e52) | 2026-09-04 14:38 |
-| NTT DATA | Data Engineer - Data Platform (Spark/Kafka/Flink/Scala/Java) - Onsite Hybrid | Cupertino, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3d5221782b3df25e) | 2026-09-04 14:38 |
 
 
 ---

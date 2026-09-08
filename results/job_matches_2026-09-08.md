@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-09-08
 
-**Total Jobs Found:** 8
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Software Engineer @ Visibol
-**Match Score:** 17.4%
-
-📍 **Location:** Los Angeles, CA, US USA
-
-🔑 **Keywords:** AWS, SQS, RDS, Azure, Google Cloud Platform, Scala, Kafka, Oracle, SQL Server, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0d15bd8d2dcde66c)
-
----
-
-## 2. Fabric Data Engineer @ arrivia
+## 1. Fabric Data Engineer @ arrivia
 **Match Score:** 15.3%
 
 📍 **Location:** Scottsdale, AZ, US USA
@@ -24,6 +13,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Dataflow, Spark, PySpark, Scala
 
 [Apply Here](https://www.indeed.com/viewjob?jk=1050647a13a073f5)
+
+---
+
+## 2. MuleSoft Developer @ nan
+**Match Score:** 14.6%
+
+📍 **Location:** Herndon, VA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, Cassandra
+
+[Apply Here](https://www.indeed.com/viewjob?jk=50af554e5fcbec22)
 
 ---
 
@@ -38,25 +38,25 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Data Engineer @ Stream
+## 4. Senior Software Quality Engineer @ Protolabs
 **Match Score:** 13.2%
 
-📍 **Location:** Boulder, CO, US USA
+📍 **Location:** Maple Plain, MN, US USA
 
-🔑 **Keywords:** AWS, IAM, RDS, GCP, BigQuery, Data Modeling, Dimensional Modeling, ETL, ELT, dbt
+🔑 **Keywords:** AWS, RDS, Azure, GCP, PostgreSQL, MySQL, dbt, MLOps, CI/CD, GitHub Actions
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3bddb4afe7c4caf5)
+[Apply Here](https://www.indeed.com/viewjob?jk=50167c9262a6f352)
 
 ---
 
-## 5. Software Engineer @ Advance Auto Parts
-**Match Score:** 13.2%
+## 5. Senior Full Stack Developer @ Catalina Business Solutions
+**Match Score:** 11.8%
 
-📍 **Location:** Raleigh, NC, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, RDS, Scala, Kafka, PostgreSQL, MongoDB, Cassandra, NoSQL, MLflow, CI/CD
+🔑 **Keywords:** AWS, S3, Databricks, GCP, Scala, PostgreSQL, MySQL, MongoDB, NoSQL, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=65dc6fa390e72ae6)
+[Apply Here](https://www.indeed.com/viewjob?jk=583047aa0c29e841)
 
 ---
 
@@ -82,7 +82,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Software Developer / Engineer @ JOb Assist
+## 8. Full Stack Developer @ FDM Group
+**Match Score:** 10.4%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** Azure, Scala, Snowflake, SQL Server, Data Modeling, CI/CD, Azure DevOps, Kubernetes, pytest, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d342c243987526b3)
+
+---
+
+## 9. Software Developer / Engineer @ JOb Assist
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
