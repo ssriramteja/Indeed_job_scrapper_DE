@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-09-08
 
-**Total Jobs Found:** 12
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer III @ NBME
-**Match Score:** 17.4%
-
-📍 **Location:** Philadelphia, PA, US USA
-
-🔑 **Keywords:** AWS, Glue, Redshift, S3, RDS, Sqoop, HBase, Scala, Snowflake, Oracle
-
-[Apply Here](https://www.indeed.com/viewjob?jk=83f3d0c20a7e71fe)
-
----
-
-## 2. Software Engineer @ Visibol
+## 1. Software Engineer @ Visibol
 **Match Score:** 17.4%
 
 📍 **Location:** Los Angeles, CA, US USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Fabric Data Engineer @ arrivia
+## 2. Fabric Data Engineer @ arrivia
 **Match Score:** 15.3%
 
 📍 **Location:** Scottsdale, AZ, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Cloud Solutions Architect 2 (Contractor) - 529701772 @ RE/SPEC Inc
+## 3. Cloud Solutions Architect 2 (Contractor) - 529701772 @ RE/SPEC Inc
 **Match Score:** 14.6%
 
 📍 **Location:** Austin, TX, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Data Engineer @ Stream
+## 4. Senior Data Engineer @ Stream
 **Match Score:** 13.2%
 
 📍 **Location:** Boulder, CO, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Software Engineer @ Advance Auto Parts
+## 5. Software Engineer @ Advance Auto Parts
 **Match Score:** 13.2%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Full-Stack Engineer - Albany @ Rocket Science Group
+## 6. Full-Stack Engineer - Albany @ Rocket Science Group
 **Match Score:** 12.5%
 
 📍 **Location:** Albany, NY, US USA
@@ -82,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Data Engineer - Databricks & dbt @ Capgemini
+## 7. Data Engineer - Databricks & dbt @ Capgemini
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -93,7 +82,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Data Engineer / Architect – Databricks & dbt @ Capgemini
+## 8. Data Engineer / Architect – Databricks & dbt @ Capgemini
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
@@ -104,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Software Engineer @ Semicon Service Nordic AB
+## 9. Software Engineer @ Semicon Service Nordic AB
 **Match Score:** 10.4%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -112,28 +101,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, GCP, BigQuery, Kafka, Oracle, CI/CD, Docker, Kubernetes, Airflow
 
 [Apply Here](https://www.indeed.com/viewjob?jk=b82b7e5b56d16b4c)
-
----
-
-## 11. Software Engineer @ nan
-**Match Score:** 10.4%
-
-📍 **Location:** Racine, WI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, PostgreSQL, MySQL, NoSQL, CI/CD, Azure DevOps, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=001eb9aca1486771)
-
----
-
-## 12. Cloud Network Engineer @ Ardor Digital Inc
-**Match Score:** 10.4%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, CI/CD, Terraform, Kubernetes, CloudWatch
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a26a714c52ecd818)
 
 ---
 
