@@ -1,11 +1,43 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-09 21:23
+Last updated: 2026-09-09 23:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| AURORA | Senior Software Engineer (Data Engineering and Infrastructure) | San Francisco, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=62e477f85009259a) | 2026-09-09 23:41 |
+| AURORA | Senior Software Engineer (Data Engineering and Infrastructure) | Mountain View, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a935b5e2a0461ce9) | 2026-09-09 23:41 |
+| Capgemini | Associate Data Scientist | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d75989850372d9f3) | 2026-09-09 23:41 |
+| Revstar | Data & AI Engineer | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b78ae98ab2be932f) | 2026-09-09 23:41 |
+| Revstar | Data & AI Engineer | ME, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=26ce66265b66e6e9) | 2026-09-09 23:41 |
+| Revstar | Data & AI Engineer | VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d8191dfab6e9beaa) | 2026-09-09 23:41 |
+| Revstar | Data & AI Engineer | IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0152f97e4d45e6e2) | 2026-09-09 23:41 |
+| Revstar | Data & AI Engineer | NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3a6579da7d14e000) | 2026-09-09 23:41 |
+| Optum | Senior Software Engineer | Fort Washington, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7e821a7c8c592b96) | 2026-09-09 23:41 |
+| Kemper | Senior Data Systems Analyst | Providence, RI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=67a75da7f8d02636) | 2026-09-09 23:41 |
+| Kemper | Senior Data Systems Analyst | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2a10b5deeed57fb5) | 2026-09-09 23:41 |
+| Kemper | Senior Data Systems Analyst | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=74172d3e99aa20dd) | 2026-09-09 23:41 |
+| Kemper | Senior Data Systems Analyst | Downers Grove, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fc75e52ec0c2d0a5) | 2026-09-09 23:41 |
+| Kemper | Senior Data Systems Analyst | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e442b1efc55de33f) | 2026-09-09 23:41 |
+| Kemper | Senior Data Systems Analyst | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9dd2755f6f579f1e) | 2026-09-09 23:41 |
+| Kemper | Senior Data Systems Analyst | Jacksonville, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2f69e0df39814636) | 2026-09-09 23:41 |
+| Kemper | Senior Data Systems Analyst | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=17e79a4a8aebbe0c) | 2026-09-09 23:41 |
+| Kemper | Senior Data Systems Analyst | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ac087a17c748782d) | 2026-09-09 23:41 |
+| Kemper | Senior Data Systems Analyst | Harrisburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4d781344d29a08f9) | 2026-09-09 23:41 |
+| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3929e9d9282e947) | 2026-09-09 23:41 |
+| Mercury Insurance Company | Dir Data Warehouse Engineering | Brea, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=653989f90deb93eb) | 2026-09-09 23:41 |
+| LexisNexis Risk Solutions | Senior Software Engineer I | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb93157183e3b612) | 2026-09-09 23:41 |
+| Aircall | Senior Security Engineer, Detection & Response | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ae0266885ac8547) | 2026-09-09 23:41 |
+| Tesla | Data Statistician | Fremont, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a59b98e9d736a6c8) | 2026-09-09 23:41 |
+| Cognizant | Databricks Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=24bdfee16835ece7) | 2026-09-09 23:41 |
+| Quisitive | Azure Architect - Managed Services | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d9680f06d024613) | 2026-09-09 23:41 |
+| Mars Technominds | AI/ML Developer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9f5d7e731531139c) | 2026-09-09 23:41 |
+| nan | ETL Tester with AI Exp | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c20717958974031) | 2026-09-09 23:41 |
+| VSCO | Senior Software Engineer, Infrastructure | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c4c9e239c02c708b) | 2026-09-09 23:41 |
+| AutoZone | Systems Engineer - IT Data Management | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61e0074bda774516) | 2026-09-09 23:41 |
+| Enterprise Knowledge | Full Stack Developer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a015b3f5ba31232) | 2026-09-09 23:41 |
+| AstraZeneca | Senior Software Engineer - Evinova | Gaithersburg, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0631723e82c79799) | 2026-09-09 23:41 |
 | Optum | Senior Software Engineer | Las Vegas, NV, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6bedb030ec88c051) | 2026-09-09 21:23 |
 | Globus Medical | Application Developer | Audubon, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c366fd1e467d725b) | 2026-09-09 21:23 |
 | Capgemini | Associate Data Scientist | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=10a3b9d686f61d33) | 2026-09-09 21:23 |
@@ -14,8 +46,6 @@ Last updated: 2026-09-09 21:23
 | Capgemini | Senior DevOps/SRE Engineer | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=188b1c3ac78beb01) | 2026-09-09 21:23 |
 | US LBM Holdings | US LBM Cybersecurity Engineer – Azure DevSecOps | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=008164574e63eb0f) | 2026-09-09 21:23 |
 | IPolarity LLC | NICE Actimize Developer | Whippany, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7951d51dfc116951) | 2026-09-09 21:23 |
-| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3929e9d9282e947) | 2026-09-09 21:23 |
-| Mercury Insurance Company | Dir Data Warehouse Engineering | Brea, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=653989f90deb93eb) | 2026-09-09 21:23 |
 | Navy Federal Credit Union | Summer Associate Internship (Fraud Data Governance) | Vienna, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8fa247b105a8195a) | 2026-09-09 21:23 |
 | Navy Federal Credit Union | Summer Associate Internship (Business Intelligence Analyst) | Vienna, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4613876632d673e6) | 2026-09-09 21:23 |
 | Navy Federal Credit Union | Summer Associate Internship (Associate Data Engineer) | Vienna, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa822ad66fbbecb6) | 2026-09-09 21:23 |
@@ -200,7 +230,6 @@ Last updated: 2026-09-09 21:23
 | NBME | Data Engineer III | Philadelphia, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=83f3d0c20a7e71fe) | 2026-09-07 11:03 |
 | Ardor Digital Inc | Cloud Network Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a26a714c52ecd818) | 2026-09-07 11:03 |
 | Evans Transportation Services | Data Engineer | Delafield, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=23cf1d12b6b3fb6a) | 2026-09-06 00:23 |
-| JPMorganChase | Software Engineer II - Platform Engineer Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47b109467cc3b863) | 2026-09-05 22:29 |
 
 
 ---
