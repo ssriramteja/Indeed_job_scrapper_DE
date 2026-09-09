@@ -1,18 +1,18 @@
 # 🎯 Daily Job Matches — 2026-09-09
 
-**Total Jobs Found:** 107
+**Total Jobs Found:** 113
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Software Engineer @ Capgemini
+## 1. Cloud Infrastructure Engineer – AWS @ BV Teck
 **Match Score:** 22.2%
 
-📍 **Location:** Dallas, TX, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, Lambda, Step Functions, S3, SQS, SNS, API Gateway, ECS, IAM, RDS
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, S3, API Gateway, ECS, IAM
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6c8113d275f4e8b6)
+[Apply Here](https://www.indeed.com/viewjob?jk=78929cf2e606fde4)
 
 ---
 
@@ -27,7 +27,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Big Data Engineer @ BV Teck
+## 3. Senior Software Engineer @ Capgemini
+**Match Score:** 22.2%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** AWS, Lambda, Step Functions, S3, SQS, SNS, API Gateway, ECS, IAM, RDS
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6c8113d275f4e8b6)
+
+---
+
+## 4. Big Data Engineer @ BV Teck
 **Match Score:** 17.4%
 
 📍 **Location:** Remote, US USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Software Engineer, Cloud Infrastructure (Multiple Seniority Levels) @ nan
+## 5. Software Engineer, Cloud Infrastructure (Multiple Seniority Levels) @ nan
 **Match Score:** 17.4%
 
 📍 **Location:** San Carlos, CA, US USA
@@ -49,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Engineer II, Data (Cloud & AI) @ LPL Financial
+## 6. Engineer II, Data (Cloud & AI) @ LPL Financial
 **Match Score:** 16.7%
 
 📍 **Location:** Fort Mill, SC, US USA
@@ -60,18 +71,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Sr. Azure Architect @ FSS Government Solutions
-**Match Score:** 16.7%
+## 7. Big Data Engineer @ TP-LINK
+**Match Score:** 16.0%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Irvine, CA, US USA
 
-🔑 **Keywords:** AWS, Lambda, S3, API Gateway, ECS, IAM, RDS, Azure, Blob Storage, Scala
+🔑 **Keywords:** AWS, Glue, EMR, Athena, S3, IAM, Hadoop, Hive, Sqoop, Spark
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2c906b9319ac1927)
+[Apply Here](https://www.indeed.com/viewjob?jk=39ca6ce91460b142)
 
 ---
 
-## 7. AWS Data Engineer @ nan
+## 8. AWS Data Engineer @ nan
 **Match Score:** 16.0%
 
 📍 **Location:** Newark, NJ, US USA
@@ -82,7 +93,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. AWS Data Engineer @ CCL
+## 9. AWS Data Engineer @ CCL
 **Match Score:** 16.0%
 
 📍 **Location:** Newark, NJ, US USA
@@ -93,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Senior Software Engineer @ LOJELIS US
+## 10. Senior Software Engineer @ LOJELIS US
 **Match Score:** 16.0%
 
 📍 **Location:** Greenville, SC, US USA
@@ -101,17 +112,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, Step Functions, S3, ECS, RDS, Databricks, Scala, PostgreSQL, MongoDB
 
 [Apply Here](https://www.indeed.com/viewjob?jk=389f31eefdd51556)
-
----
-
-## 10. Senior Java Full Stack Developer @ Realign
-**Match Score:** 14.6%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** AWS, Lambda, Step Functions, S3, API Gateway, ECS, IAM, Scala, PostgreSQL, DynamoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=eea810b05366ae21)
 
 ---
 
@@ -126,7 +126,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Senior Data Engineer @ Paramount Global US Inc
+## 12. Senior Java Full Stack Developer @ Realign
+**Match Score:** 14.6%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** AWS, Lambda, Step Functions, S3, API Gateway, ECS, IAM, Scala, PostgreSQL, DynamoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eea810b05366ae21)
+
+---
+
+## 13. Senior Data Engineer @ Paramount Global US Inc
 **Match Score:** 13.9%
 
 📍 **Location:** Advance, NC, US USA
@@ -137,7 +148,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 13. Forward Deployed Engineer @ Cognizant
+## 14. Forward Deployed Engineer @ Cognizant
 **Match Score:** 13.9%
 
 📍 **Location:** Plano, TX, US USA
@@ -148,7 +159,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 14. Data Engineer @ American Bureau of Shipping (ABS)
+## 15. Data Platform & Analytics Engineer @ Indigenous Pact PBC
+**Match Score:** 13.2%
+
+📍 **Location:** Minneapolis, MN, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, Scala, Dimensional Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=669507442371cba5)
+
+---
+
+## 16. Data Platform & Analytics Engineer @ Indigenous Pact PBC
+**Match Score:** 13.2%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, Scala, Dimensional Modeling, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=92fecc97a72ee4bd)
+
+---
+
+## 17. Data Engineer @ American Bureau of Shipping (ABS)
 **Match Score:** 13.2%
 
 📍 **Location:** Knoxville, TN, US USA
@@ -159,29 +192,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 15. Infrastructure Solutions Architect @ ThinkMirum, Inc.
-**Match Score:** 13.2%
-
-📍 **Location:** Henrico, VA, US USA
-
-🔑 **Keywords:** AWS, IAM, RDS, Azure, Scala, Oracle, SQL Server, NoSQL, Azure DevOps, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7540868c3f94cca8)
-
----
-
-## 16. Data Architect @ Terrabis
-**Match Score:** 13.2%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** RDS, BigQuery, Scala, Snowflake, Dimensional Modeling, Dimension Tables, ETL, ELT, dbt, Power BI
-
-[Apply Here](https://www.indeed.com/viewjob?jk=96ab0aae8b810da1)
-
----
-
-## 17. Operations Data Engineer (On Site Only) @ Zoll Medical Corporation
+## 18. Operations Data Engineer (On Site Only) @ Zoll Medical Corporation
 **Match Score:** 13.2%
 
 📍 **Location:** Pittsburgh, PA, US USA
@@ -192,7 +203,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 18. AI Engineer — AI Platform Engineering @ Verizon
+## 19. AI Engineer — AI Platform Engineering @ Verizon
 **Match Score:** 13.2%
 
 📍 **Location:** Irving, TX, US USA
@@ -203,7 +214,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 19. Data Engineer @ nan
+## 20. Senior Software Engineer - LoopNet @ CoStar Group
+**Match Score:** 13.2%
+
+📍 **Location:** Irvine, CA, US USA
+
+🔑 **Keywords:** AWS, S3, SQS, Databricks, BigQuery, Scala, Kafka, Snowflake, MySQL, DynamoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d3e215170f77dd53)
+
+---
+
+## 21. Data Engineer @ nan
 **Match Score:** 12.5%
 
 📍 **Location:** New York, NY, US USA
@@ -214,7 +236,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 20. Data Engineer II, Analytics & Modeling @ CLEAR
+## 22. Data Engineer II, Analytics & Modeling @ CLEAR
 **Match Score:** 12.5%
 
 📍 **Location:** New York, NY, US USA
@@ -225,7 +247,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 21. Site Reliability Engineer @ OXIO
+## 23. Data Integration Engineer @ Central Health
+**Match Score:** 12.5%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** RDS, Azure, Data Lake Storage, Event Hubs, Scala, Kafka, Snowflake, ETL, Talend, Pentaho
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b6aa2dd2deec446d)
+
+---
+
+## 24. Backend Software Engineer, Agentic Data Platform-NYC (Tapestry) @ X Development
+**Match Score:** 12.5%
+
+📍 **Location:** Mountain View, CA, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, Google Cloud Platform, GCP, Scala, Oracle, CI/CD, GitHub Actions
+
+[Apply Here](https://www.indeed.com/viewjob?jk=770fe58ee0737008)
+
+---
+
+## 25. Site Reliability Engineer @ OXIO
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -236,7 +280,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 22. Senior DevOps Cloud Engineer (Hybrid - Indianapolis or Chicago) @ Resultant
+## 26. Senior DevOps Cloud Engineer (Hybrid - Indianapolis or Chicago) @ Resultant
 **Match Score:** 12.5%
 
 📍 **Location:** Chicago, IL, US USA
@@ -247,7 +291,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 23. Senior DevOps Cloud Engineer (Hybrid - Indianapolis or Dallas) @ Resultant
+## 27. Senior DevOps Cloud Engineer (Hybrid - Indianapolis or Dallas) @ Resultant
 **Match Score:** 12.5%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -258,7 +302,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 24. Engineer III - Platform Data Engineer (Remote) @ CrowdStrike
+## 28. Engineer III - Platform Data Engineer (Remote) @ CrowdStrike
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -269,7 +313,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 25. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 29. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Jackson, MS, US USA
@@ -280,7 +324,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 26. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 30. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** CO, US USA
@@ -291,7 +335,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 27. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 31. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Montpelier, VT, US USA
@@ -302,7 +346,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 28. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 32. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Long Key, FL, US USA
@@ -313,7 +357,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 29. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 33. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -324,7 +368,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 30. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 34. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** ID, US USA
@@ -335,7 +379,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 31. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 35. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Pierre, SD, US USA
@@ -346,7 +390,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 32. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 36. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Middletown, DE, US USA
@@ -357,7 +401,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 33. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 37. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** IN, US USA
@@ -368,7 +412,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 34. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 38. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** IL, US USA
@@ -379,7 +423,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 35. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 39. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Des Moines, IA, US USA
@@ -390,7 +434,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 36. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 40. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Pawtucket, RI, US USA
@@ -401,7 +445,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 37. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 41. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Hartford, CT, US USA
@@ -412,7 +456,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 38. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 42. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Hope Hull, AL, US USA
@@ -423,7 +467,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 43. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Saint Paul, MN, US USA
@@ -434,7 +478,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 44. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Lincoln, NE, US USA
@@ -445,7 +489,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 45. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** MD, US USA
@@ -456,7 +500,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 42. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 46. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Las Vegas, NV, US USA
@@ -467,7 +511,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 47. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** NJ, US USA
@@ -478,7 +522,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 48. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Hot Springs Village, AR, US USA
@@ -489,7 +533,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 49. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Corrales, NM, US USA
@@ -500,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 50. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Charleston, WV, US USA
@@ -511,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 47. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 51. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** KY, US USA
@@ -522,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 52. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -533,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 53. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Kennesaw, GA, US USA
@@ -544,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 50. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 54. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Augusta, ME, US USA
@@ -555,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 51. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 55. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Fremont, NH, US USA
@@ -566,7 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 52. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 56. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** St. Louis, MO, US USA
@@ -577,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 53. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 57. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Okemos, MI, US USA
@@ -588,7 +632,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 54. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 58. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** MT, US USA
@@ -599,7 +643,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 55. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 59. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Oklahoma City, OK, US USA
@@ -610,7 +654,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 56. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 60. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** New York, NY, US USA
@@ -621,7 +665,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 57. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 61. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Kansas City, KS, US USA
@@ -632,7 +676,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 58. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 62. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Boston, MA, US USA
@@ -643,7 +687,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 59. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 63. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** New Franken, WI, US USA
@@ -654,7 +698,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 60. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 64. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** OH, US USA
@@ -665,7 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 61. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 65. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** UT, US USA
@@ -676,7 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 62. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 66. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -687,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 63. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 67. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** VA, US USA
@@ -698,7 +742,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 64. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 68. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** OR, US USA
@@ -709,7 +753,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 65. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 69. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Baton Rouge, LA, US USA
@@ -720,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 66. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 70. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** TN, US USA
@@ -731,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 67. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 71. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Walnut Creek, CA, US USA
@@ -742,7 +786,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 68. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 72. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Columbia, SC, US USA
@@ -753,7 +797,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 69. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 73. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Upper Darby, PA, US USA
@@ -764,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 70. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
+## 74. Software Engineer III - AI/ML Platform Operations - Remote @ CSAA Insurance Group, a AAA Insurer
 **Match Score:** 12.5%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -775,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 71. AI Architect/Developer @ Capgemini
+## 75. AI Architect/Developer @ Capgemini
 **Match Score:** 12.5%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -786,7 +830,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 72. AI Architect/Developer @ Capgemini
+## 76. AI Architect/Developer @ Capgemini
 **Match Score:** 12.5%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -797,7 +841,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 73. AI Architect/Developer @ Capgemini
+## 77. AI Architect/Developer @ Capgemini
 **Match Score:** 12.5%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -808,7 +852,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 74. AI Architect/Developer @ Capgemini
+## 78. AI Architect/Developer @ Capgemini
 **Match Score:** 12.5%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -819,7 +863,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 75. Senior .Net Full-Stack Engineer @ Optum
+## 79. Senior .Net Full-Stack Engineer @ Optum
 **Match Score:** 12.5%
 
 📍 **Location:** Brentwood, TN, US USA
@@ -830,7 +874,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 76. Python Developer @ Realign
+## 80. Dir Data Warehouse Engineering @ Mercury Insurance Company
+**Match Score:** 12.5%
+
+📍 **Location:** Brea, CA, US USA
+
+🔑 **Keywords:** AWS, Redshift, RDS, Azure, Databricks, GCP, BigQuery, Scala, Snowflake, Data Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=653989f90deb93eb)
+
+---
+
+## 81. Software Engineering MTS @ Salesforce
+**Match Score:** 12.5%
+
+📍 **Location:** Bellevue, WA, US USA
+
+🔑 **Keywords:** AWS, RDS, GCP, Hadoop, Spark, Scala, Kafka, NoSQL, Tableau, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2bbe5469b433e310)
+
+---
+
+## 82. Python Developer @ Realign
 **Match Score:** 12.5%
 
 📍 **Location:** Alpharetta, GA, US USA
@@ -841,7 +907,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 77. Senior Infrastructure Engineer @ Reserv
+## 83. Analytics Platform Engineer @ PepsiCo
+**Match Score:** 12.5%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AWS, RDS, Databricks, BigQuery, Scala, Snowflake, dbt, Power BI, Tableau, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=17e2fb702c156b62)
+
+---
+
+## 84. Senior Infrastructure Engineer @ Reserv
 **Match Score:** 11.8%
 
 📍 **Location:** Atlanta, GA, US USA
@@ -852,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 78. Data Engineer - Azure Data Factory & Snowflake @ Cognizant
+## 85. Data Engineer - Azure Data Factory & Snowflake @ Cognizant
 **Match Score:** 11.8%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -863,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 79. Data Product Engineer (Databricks) @ NTT DATA
+## 86. Data Product Engineer (Databricks) @ NTT DATA
 **Match Score:** 11.8%
 
 📍 **Location:** Plano, TX, US USA
@@ -874,29 +951,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 80. Sr Data Integration Engineer @ Compeer Financial
+## 87. Python Software Architect @ BV Teck
 **Match Score:** 11.8%
 
-📍 **Location:** Bloomington, IL, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, RDS, Data Factory, Dataflow, Spark, PySpark, Scala, SQL Server, Data Modeling, ETL
+🔑 **Keywords:** AWS, Glue, S3, RDS, Scala, Oracle, SQL Server, PostgreSQL, DynamoDB, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e7f769482011075d)
+[Apply Here](https://www.indeed.com/viewjob?jk=80e719ce5a357916)
 
 ---
 
-## 81. Sr Data Integration Engineer @ Compeer Financial
-**Match Score:** 11.8%
-
-📍 **Location:** Lakeville, MN, US USA
-
-🔑 **Keywords:** AWS, RDS, Data Factory, Dataflow, Spark, PySpark, Scala, SQL Server, Data Modeling, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b9148243603cf3be)
-
----
-
-## 82. Sr Data Integration Engineer @ Compeer Financial
+## 88. Sr Data Integration Engineer @ Compeer Financial
 **Match Score:** 11.8%
 
 📍 **Location:** Mankato, MN, US USA
@@ -907,18 +973,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 83. AWS Database Architect @ Tachyon Technologies
+## 89. Sr Data Integration Engineer @ Compeer Financial
 **Match Score:** 11.8%
 
-📍 **Location:** Dallas, TX, US USA
+📍 **Location:** Bloomington, IL, US USA
 
-🔑 **Keywords:** AWS, Glue, Kinesis, Redshift, Athena, S3, IAM, RDS, Kafka, DynamoDB
+🔑 **Keywords:** AWS, RDS, Data Factory, Dataflow, Spark, PySpark, Scala, SQL Server, Data Modeling, ETL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7089341fcf260484)
+[Apply Here](https://www.indeed.com/viewjob?jk=e7f769482011075d)
 
 ---
 
-## 84. Software Engineer @ Wiliot
+## 90. Sr Data Integration Engineer @ Compeer Financial
+**Match Score:** 11.8%
+
+📍 **Location:** Lakeville, MN, US USA
+
+🔑 **Keywords:** AWS, RDS, Data Factory, Dataflow, Spark, PySpark, Scala, SQL Server, Data Modeling, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b9148243603cf3be)
+
+---
+
+## 91. Software Engineer @ Wiliot
 **Match Score:** 11.8%
 
 📍 **Location:** San Mateo, CA, US USA
@@ -929,7 +1006,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 85. Software Engineer @ Wiliot
+## 92. Software Engineer @ Wiliot
 **Match Score:** 11.8%
 
 📍 **Location:** Plano, TX, US USA
@@ -940,7 +1017,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Data Engineer I @ Travelers
+## 93. Senior Software Engineer @ Epsilon
+**Match Score:** 11.1%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** AWS, Azure, Databricks, GCP, Vertex AI, Spark, Scala, Jenkins, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2f59d1ec1d618a17)
+
+---
+
+## 94. Data Engineer I @ Travelers
 **Match Score:** 11.1%
 
 📍 **Location:** Hartford, CT, US USA
@@ -951,73 +1039,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. ETL Tester with AI Experience @ VeeRteq Solutions Inc.
-**Match Score:** 11.1%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** RDS, Azure, Databricks, Spark, PySpark, Scala, SQL Server, ETL, dbt, MLflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=67d0d3ecc1106859)
-
----
-
-## 88. Microsoft Fabric Data Engineer @ Landmark Properties, Inc.
-**Match Score:** 11.1%
-
-📍 **Location:** Athens, GA, US USA
-
-🔑 **Keywords:** RDS, Data Factory, Medallion Architecture, Dataflow, Spark, PySpark, Scala, Power BI, CI/CD, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3e98e4f56ed833c2)
-
----
-
-## 89. Microsoft Fabric Data Engineer @ Landmark Properties, Inc.
-**Match Score:** 11.1%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** RDS, Data Factory, Medallion Architecture, Dataflow, Spark, PySpark, Scala, Power BI, CI/CD, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8eec69955d73cd72)
-
----
-
-## 90. Senior Machine Learning Engineer, Speech & LLM Training Data @ Propio LS LLC
-**Match Score:** 11.1%
-
-📍 **Location:** Overland Park, KS, US USA
-
-🔑 **Keywords:** AWS, Glue, Step Functions, S3, IAM, Databricks, Spark, PySpark, ELT, MLflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=807824f66dc0a84a)
-
----
-
-## 91. AI/ML Engineer @ Katalyst Data Management
-**Match Score:** 11.1%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Scala, PostgreSQL, MLOps, CI/CD, Jenkins, GitHub Actions, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2a5ab3490cf1d4af)
-
----
-
-## 92. Senior Software Engineer, Full Stack @ General Motors (GM)
-**Match Score:** 11.1%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, S3, RDS, Azure, Scala, PostgreSQL, DynamoDB, CI/CD, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0fbaf369c2bba2b3)
-
----
-
-## 93. Senior Full Stack UI Engineer @ Quantum US
+## 95. Senior Full Stack UI Engineer @ Quantum US
 **Match Score:** 11.1%
 
 📍 **Location:** Centennial, CO, US USA
@@ -1028,7 +1050,62 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. DevOps Engineer @ GRVTY
+## 96. Senior Machine Learning Engineer, Speech & LLM Training Data @ Propio LS LLC
+**Match Score:** 11.1%
+
+📍 **Location:** Overland Park, KS, US USA
+
+🔑 **Keywords:** AWS, Glue, Step Functions, S3, IAM, Databricks, Spark, PySpark, ELT, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=807824f66dc0a84a)
+
+---
+
+## 97. Microsoft Fabric Data Engineer @ Landmark Properties, Inc.
+**Match Score:** 11.1%
+
+📍 **Location:** Athens, GA, US USA
+
+🔑 **Keywords:** RDS, Data Factory, Medallion Architecture, Dataflow, Spark, PySpark, Scala, Power BI, CI/CD, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3e98e4f56ed833c2)
+
+---
+
+## 98. Senior Software Engineer, Full Stack @ General Motors (GM)
+**Match Score:** 11.1%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, Scala, PostgreSQL, DynamoDB, CI/CD, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0fbaf369c2bba2b3)
+
+---
+
+## 99. ETL Tester with AI Experience @ VeeRteq Solutions Inc.
+**Match Score:** 11.1%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Spark, PySpark, Scala, SQL Server, ETL, dbt, MLflow
+
+[Apply Here](https://www.indeed.com/viewjob?jk=67d0d3ecc1106859)
+
+---
+
+## 100. Microsoft Fabric Data Engineer @ Landmark Properties, Inc.
+**Match Score:** 11.1%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** RDS, Data Factory, Medallion Architecture, Dataflow, Spark, PySpark, Scala, Power BI, CI/CD, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8eec69955d73cd72)
+
+---
+
+## 101. DevOps Engineer @ GRVTY
 **Match Score:** 10.4%
 
 📍 **Location:** Lackland AFB, TX, US USA
@@ -1039,7 +1116,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 95. DevOps Engineer @ GRVTY
+## 102. DevOps Engineer @ GRVTY
 **Match Score:** 10.4%
 
 📍 **Location:** Lackland AFB, TX, US USA
@@ -1050,7 +1127,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 96. Azure Databricks Infrastructure Engineer @ nan
+## 103. Senior Cloud Network Engineer @ KINECTIVE
+**Match Score:** 10.4%
+
+📍 **Location:** Golden, CO, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, Scala, CI/CD, GitHub Actions, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c91e3acfe1355358)
+
+---
+
+## 104. Azure Databricks Infrastructure Engineer @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -1061,7 +1149,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 97. Senior Java Full Stack Developer @ BV Teck
+## 105. Senior Java Full Stack Developer @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1072,29 +1160,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Sr. Quality Assurance Analyst @ Broadcast Music
-**Match Score:** 10.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Oracle, SQL Server, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0d059a9776583fb9)
-
----
-
-## 99. Sr. Quality Assurance Analyst @ Broadcast Music
-**Match Score:** 10.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, Azure, Scala, Oracle, SQL Server, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1f947c468dcbd787)
-
----
-
-## 100. Microsoft Azure Specialist @ BV Teck
+## 106. Microsoft Azure Specialist @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1105,7 +1171,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 101. Data Platform Architect @ BV Teck
+## 107. Data Platform Architect @ BV Teck
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1116,7 +1182,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. Enterprise Architect @ nan
+## 108. Enterprise Architect @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** Raleigh, NC, US USA
@@ -1127,7 +1193,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 103. Data modeler- ETL @ nan
+## 109. Data modeler- ETL @ nan
 **Match Score:** 10.4%
 
 📍 **Location:** US USA
@@ -1138,18 +1204,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 104. Full Stack Developer @ FDM Group
-**Match Score:** 10.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Azure, Scala, Snowflake, SQL Server, Data Modeling, CI/CD, Azure DevOps, Kubernetes, pytest, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d342c243987526b3)
-
----
-
-## 105. Senior Python Engineer @ ATG
+## 110. Senior Python Engineer @ ATG
 **Match Score:** 10.4%
 
 📍 **Location:** North Little Rock, AR, US USA
@@ -1160,7 +1215,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 106. Software Developer / Engineer @ JOb Assist
+## 111. Senior Software Engineer- Backend (Product & Cloud Security) @ Yoodli AI Roleplays
+**Match Score:** 10.4%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** AWS, Azure, Databricks, Google Cloud Platform, GCP, Scala, Snowflake, NoSQL, Tableau, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9874984dfeed8f80)
+
+---
+
+## 112. Full Stack Developer @ FDM Group
+**Match Score:** 10.4%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** Azure, Scala, Snowflake, SQL Server, Data Modeling, CI/CD, Azure DevOps, Kubernetes, pytest, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d342c243987526b3)
+
+---
+
+## 113. Software Developer / Engineer @ JOb Assist
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1168,17 +1245,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Scala, SQL Server, MySQL, CI/CD, Jenkins, Jenkins, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=5e4b70d4e466c6eb)
-
----
-
-## 107. Software Engineer II – Generative AI & LLM Platforms @ Hewlett Packard Enterprise | HPE
-**Match Score:** 10.4%
-
-📍 **Location:** San Juan, PR, US USA
-
-🔑 **Keywords:** AWS, EMR, S3, RDS, Spark, Scala, PostgreSQL, MLOps, CI/CD, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=51506997cf019eed)
 
 ---
 
