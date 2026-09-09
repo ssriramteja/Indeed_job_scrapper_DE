@@ -1,14 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-09 14:55
+Last updated: 2026-09-09 18:11
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Trellis Company | Software Engineer I | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6eb6a851d163dda0) | 2026-09-09 14:55 |
-| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3929e9d9282e947) | 2026-09-09 14:55 |
-| Mercury Insurance Company | Dir Data Warehouse Engineering | Brea, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=653989f90deb93eb) | 2026-09-09 14:55 |
+| NTT DATA | ETL Developer | New York, NY, US USA | 29.2% | [Apply](https://www.indeed.com/viewjob?jk=8732b9fed3f420f3) | 2026-09-09 18:11 |
+| Liberty Mutual Insurance | Senior Software Engineer | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=76c1021a7b6a47a3) | 2026-09-09 18:11 |
+| Liberty Mutual Insurance | Senior Software Engineer | Boston, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ecb7f514c771de53) | 2026-09-09 18:11 |
+| Liberty Mutual Insurance | Senior Software Engineer | Plano, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5d6c2efe2d967ca1) | 2026-09-09 18:11 |
+| Liberty Mutual Insurance | Senior Software Engineer | Indianapolis, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d94535e52011728f) | 2026-09-09 18:11 |
+| Liberty Mutual Insurance | Senior Software Engineer | Portsmouth, NH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d4bc8d7737feba10) | 2026-09-09 18:11 |
+| United Concordia Dental | Data Engineer | PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8615042a0b73fe9a) | 2026-09-09 18:11 |
+| PowerSecure Inc. | Data Solutions Engineer - On-site, Durham, NC | Durham, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37f404d54522769c) | 2026-09-09 18:11 |
+| Trellis Company | Software Engineer I | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6eb6a851d163dda0) | 2026-09-09 18:11 |
+| Inca Digital | Mid/Senior-level GoLang Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=735a6235675ac15c) | 2026-09-09 18:11 |
+| Fiserv | Senior Software Engineer – Cloud Data Solutions | Coral Springs, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4c874c000ec76150) | 2026-09-09 18:11 |
+| Mercury Insurance Company | Dir Data Warehouse Engineering | Brea, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=653989f90deb93eb) | 2026-09-09 18:11 |
+| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3929e9d9282e947) | 2026-09-09 18:11 |
+| Charles Schwab | Financial Consultant Partner - Woodland Hills, CA | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=04879b45139c1c83) | 2026-09-09 18:11 |
+| McKesson | Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=223035fc7a8a7be0) | 2026-09-09 18:11 |
+| Axon Networks | OSS Engineer (US - Remote) | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=110b991660ad2978) | 2026-09-09 18:11 |
 | Capital Blue Cross | Senior Solutions Architect | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ae2c6ad8ac24f2e) | 2026-09-09 14:55 |
 | Big D Companies | Data Base Administrator | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=06360615fbf9de3a) | 2026-09-09 14:55 |
 | Capgemini | GCP Python Data Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b64978da5029f9c3) | 2026-09-09 10:25 |
@@ -166,7 +179,6 @@ Last updated: 2026-09-09 14:55
 | Evans Transportation Services | Data Engineer | Delafield, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=23cf1d12b6b3fb6a) | 2026-09-06 00:23 |
 | JPMorganChase | Software Engineer II - Platform Engineer Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47b109467cc3b863) | 2026-09-05 22:29 |
 | nan | SENIOR TABLEAU ANALYTICS ENGINEER | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15e10a214d6bc15f) | 2026-09-05 18:40 |
-| Sudsies | Data Engineer | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e365403b2fe630d1) | 2026-09-05 16:23 |
 
 
 ---
