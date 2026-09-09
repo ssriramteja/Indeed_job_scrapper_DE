@@ -1,11 +1,37 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-09 18:11
+Last updated: 2026-09-09 21:23
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Senior Software Engineer | Las Vegas, NV, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6bedb030ec88c051) | 2026-09-09 21:23 |
+| Globus Medical | Application Developer | Audubon, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c366fd1e467d725b) | 2026-09-09 21:23 |
+| Capgemini | Associate Data Scientist | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=10a3b9d686f61d33) | 2026-09-09 21:23 |
+| Capgemini | Data Automation QE | Fort Mill, SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=76d03aaffe8965fd) | 2026-09-09 21:23 |
+| Stier Solutions | Data Engineer | Franklin, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8936f30be432de75) | 2026-09-09 21:23 |
+| Capgemini | Senior DevOps/SRE Engineer | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=188b1c3ac78beb01) | 2026-09-09 21:23 |
+| US LBM Holdings | US LBM Cybersecurity Engineer – Azure DevSecOps | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=008164574e63eb0f) | 2026-09-09 21:23 |
+| IPolarity LLC | NICE Actimize Developer | Whippany, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7951d51dfc116951) | 2026-09-09 21:23 |
+| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3929e9d9282e947) | 2026-09-09 21:23 |
+| Mercury Insurance Company | Dir Data Warehouse Engineering | Brea, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=653989f90deb93eb) | 2026-09-09 21:23 |
+| Navy Federal Credit Union | Summer Associate Internship (Fraud Data Governance) | Vienna, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8fa247b105a8195a) | 2026-09-09 21:23 |
+| Navy Federal Credit Union | Summer Associate Internship (Business Intelligence Analyst) | Vienna, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4613876632d673e6) | 2026-09-09 21:23 |
+| Navy Federal Credit Union | Summer Associate Internship (Associate Data Engineer) | Vienna, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa822ad66fbbecb6) | 2026-09-09 21:23 |
+| Realign | Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0de49c5b0005920d) | 2026-09-09 21:23 |
+| Truist | Software Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d8b7b991704ba53d) | 2026-09-09 21:23 |
+| Experian | Solution Engineer - Remote | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=549bd67dfaf059ff) | 2026-09-09 21:23 |
+| SLB | Cloud Back End Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=979c2d51bf327a22) | 2026-09-09 21:23 |
+| The Consortium Inc. | AWS DevOps Engineer | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04e6bb06610c32bf) | 2026-09-09 21:23 |
+| Innocito Technologies Pvt Ltd | Quality Assurance Automation Engineer (C#) | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1858e1faf18bf984) | 2026-09-09 21:23 |
+| Navy Federal Credit Union | Summer Associate Internship (Data Engineer) | Vienna, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea20d1b92e7c4c0a) | 2026-09-09 21:23 |
+| Happen Bank | Sr Cloud Infrastructure Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2390c91100957431) | 2026-09-09 21:23 |
+| Happen Bank | Sr Cloud Infrastructure Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=410d6c6a010f035c) | 2026-09-09 21:23 |
+| Camping World | AI Engineer, Enterprise AI Platform | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d593ed18a7eaef04) | 2026-09-09 21:23 |
+| Camping World | AI Engineer, Enterprise AI Platform | Lincolnshire, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee18a654788e5998) | 2026-09-09 21:23 |
+| LEADER BANK | Full Stack Developer | Arlington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d21460f2f100edf5) | 2026-09-09 21:23 |
+| Capgemini | Network Support & Automation Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=721f751b91f07d44) | 2026-09-09 21:23 |
 | NTT DATA | ETL Developer | New York, NY, US USA | 29.2% | [Apply](https://www.indeed.com/viewjob?jk=8732b9fed3f420f3) | 2026-09-09 18:11 |
 | Liberty Mutual Insurance | Senior Software Engineer | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=76c1021a7b6a47a3) | 2026-09-09 18:11 |
 | Liberty Mutual Insurance | Senior Software Engineer | Boston, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ecb7f514c771de53) | 2026-09-09 18:11 |
@@ -14,11 +40,8 @@ Last updated: 2026-09-09 18:11
 | Liberty Mutual Insurance | Senior Software Engineer | Portsmouth, NH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d4bc8d7737feba10) | 2026-09-09 18:11 |
 | United Concordia Dental | Data Engineer | PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8615042a0b73fe9a) | 2026-09-09 18:11 |
 | PowerSecure Inc. | Data Solutions Engineer - On-site, Durham, NC | Durham, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37f404d54522769c) | 2026-09-09 18:11 |
-| Trellis Company | Software Engineer I | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6eb6a851d163dda0) | 2026-09-09 18:11 |
 | Inca Digital | Mid/Senior-level GoLang Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=735a6235675ac15c) | 2026-09-09 18:11 |
 | Fiserv | Senior Software Engineer – Cloud Data Solutions | Coral Springs, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4c874c000ec76150) | 2026-09-09 18:11 |
-| Mercury Insurance Company | Dir Data Warehouse Engineering | Brea, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=653989f90deb93eb) | 2026-09-09 18:11 |
-| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3929e9d9282e947) | 2026-09-09 18:11 |
 | Charles Schwab | Financial Consultant Partner - Woodland Hills, CA | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=04879b45139c1c83) | 2026-09-09 18:11 |
 | McKesson | Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=223035fc7a8a7be0) | 2026-09-09 18:11 |
 | Axon Networks | OSS Engineer (US - Remote) | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=110b991660ad2978) | 2026-09-09 18:11 |
@@ -178,7 +201,6 @@ Last updated: 2026-09-09 18:11
 | Ardor Digital Inc | Cloud Network Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a26a714c52ecd818) | 2026-09-07 11:03 |
 | Evans Transportation Services | Data Engineer | Delafield, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=23cf1d12b6b3fb6a) | 2026-09-06 00:23 |
 | JPMorganChase | Software Engineer II - Platform Engineer Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47b109467cc3b863) | 2026-09-05 22:29 |
-| nan | SENIOR TABLEAU ANALYTICS ENGINEER | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15e10a214d6bc15f) | 2026-09-05 18:40 |
 
 
 ---
