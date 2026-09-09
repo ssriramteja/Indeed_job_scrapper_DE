@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-09 10:25
+Last updated: 2026-09-09 14:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Trellis Company | Software Engineer I | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6eb6a851d163dda0) | 2026-09-09 14:55 |
+| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3929e9d9282e947) | 2026-09-09 14:55 |
+| Mercury Insurance Company | Dir Data Warehouse Engineering | Brea, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=653989f90deb93eb) | 2026-09-09 14:55 |
+| Capital Blue Cross | Senior Solutions Architect | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ae2c6ad8ac24f2e) | 2026-09-09 14:55 |
+| Big D Companies | Data Base Administrator | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=06360615fbf9de3a) | 2026-09-09 14:55 |
 | Capgemini | GCP Python Data Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b64978da5029f9c3) | 2026-09-09 10:25 |
 | Entarian | Senior Software Engineer | New Orleans, LA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8571eee74fa37144) | 2026-09-09 10:25 |
 | Entarian | Senior Software Engineer | New Orleans, LA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5306f5b43c1fe61a) | 2026-09-09 10:25 |
@@ -13,11 +18,8 @@ Last updated: 2026-09-09 10:25
 | Capgemini | GCP Python Data Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=daaa8d1691a560b0) | 2026-09-09 10:25 |
 | VeeRteq Solutions Inc. | Data Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c524d2ec156b31a3) | 2026-09-09 10:25 |
 | NTT DATA | Data Engineer - xLT | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=24527e4fd5602bee) | 2026-09-09 10:25 |
-| Trellis Company | Software Engineer I | Round Rock, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6eb6a851d163dda0) | 2026-09-09 10:25 |
 | Bank OZK | Associate, Data Operations | Little Rock, AR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e643dff32a837e1d) | 2026-09-09 10:25 |
 | JPMorganChase | Data Engineer III - Python, Databricks | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=14c4f20a82a492aa) | 2026-09-09 10:25 |
-| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3929e9d9282e947) | 2026-09-09 10:25 |
-| Mercury Insurance Company | Dir Data Warehouse Engineering | Brea, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=653989f90deb93eb) | 2026-09-09 10:25 |
 | BV Teck | Mule ESB Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2602c0fe6a2e7651) | 2026-09-09 10:25 |
 | BV Teck | Integration Platform Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8d8e2b60f9187848) | 2026-09-09 10:25 |
 | BV Teck | Windchill Technical Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b60463e64c21c500) | 2026-09-09 10:25 |
@@ -165,10 +167,6 @@ Last updated: 2026-09-09 10:25
 | JPMorganChase | Software Engineer II - Platform Engineer Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47b109467cc3b863) | 2026-09-05 22:29 |
 | nan | SENIOR TABLEAU ANALYTICS ENGINEER | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=15e10a214d6bc15f) | 2026-09-05 18:40 |
 | Sudsies | Data Engineer | Miami, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e365403b2fe630d1) | 2026-09-05 16:23 |
-| ritepros | Solution Architect | Portland, ME, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=383bce16ad78ce6b) | 2026-09-05 13:07 |
-| datAvail | Data Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4de1c6e7b53b6594) | 2026-09-05 13:07 |
-| Keysight Technologies | Full Stack Intern | Colorado Springs, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e0aa7a5c969525f) | 2026-09-05 13:07 |
-| Thomas Jefferson University & Jefferson Health | Senior Architect Data Management | Fort Washington, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c7a21b73928bb91d) | 2026-09-05 13:07 |
 
 
 ---
