@@ -1,14 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-10 12:30
+Last updated: 2026-09-10 16:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| HomeServices of America | Sr Data Integration Engineer | Eden Prairie, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=dece858441573583) | 2026-09-10 16:46 |
+| nan | Senior Software Engineer – Full Stack / Backend / AI Systems | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2ee3d7ccc5b43286) | 2026-09-10 16:46 |
+| KeyBank | Data & Business Intelligence Senior Associate | Amherst, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c40cbadc2d21dbaf) | 2026-09-10 16:46 |
+| KeyBank | Data & Business Intelligence Senior Associate | Buffalo, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e8f5698c0d5c0c74) | 2026-09-10 16:46 |
+| KeyBank | Data & Business Intelligence Senior Associate | Brooklyn, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b59e4133cbdb8ecb) | 2026-09-10 16:46 |
+| KeyBank | Data & Business Intelligence Senior Associate | Albany, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=301dcda44c4f6fc9) | 2026-09-10 16:46 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab128e3501b51439) | 2026-09-10 16:46 |
+| Ford Motor Company | Software Engineer - Access Management (Java Full Stack) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc88f49ae19c3ea5) | 2026-09-10 16:46 |
+| Vantive | Platform Engineer, IT - DevOps and Emerging Tech | Deerfield, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b951826f674481d) | 2026-09-10 16:46 |
+| Samsara | Senior Machine Learning Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=51b5c752bcea4a63) | 2026-09-10 16:46 |
+| Samsara | Senior Machine Learning Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29c6c7d18ea19a8a) | 2026-09-10 16:46 |
+| Samsara | Senior Machine Learning Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3008b2b65d88bbc4) | 2026-09-10 16:46 |
+| Samsara | Senior Machine Learning Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a0920adba0ab6199) | 2026-09-10 16:46 |
+| Samsara | Senior Machine Learning Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e32a81cb68325f0) | 2026-09-10 16:46 |
+| Samsara | Senior Machine Learning Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6fa14d5b8cd87fc) | 2026-09-10 16:46 |
+| Samsara | Senior Machine Learning Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e793a447fb350e6) | 2026-09-10 16:46 |
 | EssilorLuxottica | Sr Developer - Java (POS) | Mason, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e7519e1318081914) | 2026-09-10 12:30 |
 | Finbott | Sr. Databricks Engineer | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=215a62808c4ca701) | 2026-09-10 12:30 |
-| Ford Motor Company | Software Engineer - Access Management (Java Full Stack) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc88f49ae19c3ea5) | 2026-09-10 12:30 |
 | The Cigna Group | Technology Development Program (TECDP) - Data & Analytics Engineering Track - Start Date: July 12, 2027 | Bloomfield, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=55e214b9daaa34f3) | 2026-09-10 12:30 |
 | nan | Sr Product Software Engineer | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07909a893cd39d21) | 2026-09-10 12:30 |
 | Optum | Data Engineer | Eden Prairie, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6cfc77cb04c85546) | 2026-09-10 07:39 |
