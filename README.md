@@ -1,11 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-10 16:46
+Last updated: 2026-09-10 19:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | ETL Developer | US USA | 29.2% | [Apply](https://www.indeed.com/viewjob?jk=0a9ab035b419ae49) | 2026-09-10 19:22 |
+| Wells Fargo | Senior Software Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=eab311aee9088816) | 2026-09-10 19:22 |
+| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=060cda39e6c67619) | 2026-09-10 19:22 |
+| Diversified Services Network | (1112164) Senior Software Engineer - Java/AWS | Peoria, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e81425a0990a5a5) | 2026-09-10 19:22 |
+| Diversified Services Network | (1112164) Senior Software Engineer - Java/AWS | Chicago, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8b1ca06bddd5e551) | 2026-09-10 19:22 |
+| Capgemini | Java Developer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8137b74f0acce5b3) | 2026-09-10 19:22 |
+| Capgemini | Java Developer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=14f224257248a225) | 2026-09-10 19:22 |
+| Doeren Mayhew CPAs and Advisors | Azure Cloud Solutions Developer / Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f16b1ba2fceeeff4) | 2026-09-10 19:22 |
+| Colaberry | Senior Data Engineer (Contract) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8afd4daee0cfbd6a) | 2026-09-10 19:22 |
+| Colaberry | Senior Data Engineer (Contract) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=feb309dc36a3ade0) | 2026-09-10 19:22 |
+| VRN Technologies | Data Engineer | San Antonio, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e6a06ecdadb7f76) | 2026-09-10 19:22 |
+| Ford Motor Company | Software Engineer - Access Management (Java Full Stack) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc88f49ae19c3ea5) | 2026-09-10 19:22 |
+| The Cigna Group | Technology Development Program (TECDP) - Data & Analytics Engineering Track - Start Date: July 12, 2027 | Morris Plains, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1edfbfa72a62d73c) | 2026-09-10 19:22 |
+| Optum | Associate Data Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e60af316cfb20b16) | 2026-09-10 19:22 |
+| Sunbelt Rentals | Sr. Data Engineer | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ae52bab9bde8833) | 2026-09-10 19:22 |
+| Hallmark | Data Engineer (remote) | Kansas City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19d1b36881ddad57) | 2026-09-10 19:22 |
+| Sunbelt Rentals | Data Engineer - Compensation Systems | Fort Mill, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1354b65cdd4f0090) | 2026-09-10 19:22 |
+| Sunbelt Rentals | Data Engineer | Fort Mill, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2654e3bd2509e90) | 2026-09-10 19:22 |
+| Transnational Software Services | Full Stack Developer - .NET / Angular | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab2cf6fa97f7e112) | 2026-09-10 19:22 |
+| U.S. Bank | Sr. DevOps Infrastructure Engineer (AWS, Terraform, Cloud Networking) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fab84d04db02eee2) | 2026-09-10 19:22 |
 | HomeServices of America | Sr Data Integration Engineer | Eden Prairie, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=dece858441573583) | 2026-09-10 16:46 |
 | nan | Senior Software Engineer – Full Stack / Backend / AI Systems | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2ee3d7ccc5b43286) | 2026-09-10 16:46 |
 | KeyBank | Data & Business Intelligence Senior Associate | Amherst, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c40cbadc2d21dbaf) | 2026-09-10 16:46 |
@@ -13,7 +33,6 @@ Last updated: 2026-09-10 16:46
 | KeyBank | Data & Business Intelligence Senior Associate | Brooklyn, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b59e4133cbdb8ecb) | 2026-09-10 16:46 |
 | KeyBank | Data & Business Intelligence Senior Associate | Albany, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=301dcda44c4f6fc9) | 2026-09-10 16:46 |
 | American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab128e3501b51439) | 2026-09-10 16:46 |
-| Ford Motor Company | Software Engineer - Access Management (Java Full Stack) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc88f49ae19c3ea5) | 2026-09-10 16:46 |
 | Vantive | Platform Engineer, IT - DevOps and Emerging Tech | Deerfield, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b951826f674481d) | 2026-09-10 16:46 |
 | Samsara | Senior Machine Learning Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=51b5c752bcea4a63) | 2026-09-10 16:46 |
 | Samsara | Senior Machine Learning Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29c6c7d18ea19a8a) | 2026-09-10 16:46 |
