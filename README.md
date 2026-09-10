@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-09 23:41
+Last updated: 2026-09-10 02:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3929e9d9282e947) | 2026-09-10 02:10 |
+| Hub Group | Data Engineer | Oak Brook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e7ef7cf9602f7515) | 2026-09-10 02:10 |
+| U.S. Bank | Sr. DevOps Infrastructure Engineer (AWS, Terraform, Cloud Networking) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4464a121a8f2d266) | 2026-09-10 02:10 |
 | AURORA | Senior Software Engineer (Data Engineering and Infrastructure) | San Francisco, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=62e477f85009259a) | 2026-09-09 23:41 |
 | AURORA | Senior Software Engineer (Data Engineering and Infrastructure) | Mountain View, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a935b5e2a0461ce9) | 2026-09-09 23:41 |
 | Capgemini | Associate Data Scientist | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d75989850372d9f3) | 2026-09-09 23:41 |
@@ -25,8 +28,6 @@ Last updated: 2026-09-09 23:41
 | Kemper | Senior Data Systems Analyst | Richmond, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=17e79a4a8aebbe0c) | 2026-09-09 23:41 |
 | Kemper | Senior Data Systems Analyst | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ac087a17c748782d) | 2026-09-09 23:41 |
 | Kemper | Senior Data Systems Analyst | Harrisburg, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4d781344d29a08f9) | 2026-09-09 23:41 |
-| Mercury Insurance Company | Senior Guidewire Developer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f3929e9d9282e947) | 2026-09-09 23:41 |
-| Mercury Insurance Company | Dir Data Warehouse Engineering | Brea, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=653989f90deb93eb) | 2026-09-09 23:41 |
 | LexisNexis Risk Solutions | Senior Software Engineer I | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eb93157183e3b612) | 2026-09-09 23:41 |
 | Aircall | Senior Security Engineer, Detection & Response | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ae0266885ac8547) | 2026-09-09 23:41 |
 | Tesla | Data Statistician | Fremont, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a59b98e9d736a6c8) | 2026-09-09 23:41 |
@@ -229,7 +230,6 @@ Last updated: 2026-09-09 23:41
 | nan | Software Engineer | Racine, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=001eb9aca1486771) | 2026-09-07 16:52 |
 | NBME | Data Engineer III | Philadelphia, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=83f3d0c20a7e71fe) | 2026-09-07 11:03 |
 | Ardor Digital Inc | Cloud Network Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a26a714c52ecd818) | 2026-09-07 11:03 |
-| Evans Transportation Services | Data Engineer | Delafield, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=23cf1d12b6b3fb6a) | 2026-09-06 00:23 |
 
 
 ---
