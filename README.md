@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-10 07:39
+Last updated: 2026-09-10 12:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EssilorLuxottica | Sr Developer - Java (POS) | Mason, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e7519e1318081914) | 2026-09-10 12:30 |
+| Finbott | Sr. Databricks Engineer | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=215a62808c4ca701) | 2026-09-10 12:30 |
+| Ford Motor Company | Software Engineer - Access Management (Java Full Stack) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc88f49ae19c3ea5) | 2026-09-10 12:30 |
+| The Cigna Group | Technology Development Program (TECDP) - Data & Analytics Engineering Track - Start Date: July 12, 2027 | Bloomfield, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=55e214b9daaa34f3) | 2026-09-10 12:30 |
+| nan | Sr Product Software Engineer | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07909a893cd39d21) | 2026-09-10 12:30 |
 | Optum | Data Engineer | Eden Prairie, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6cfc77cb04c85546) | 2026-09-10 07:39 |
 | Deloitte | Ab Initio Developer | Morristown, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5cd7cac2745190a8) | 2026-09-10 07:39 |
 | Deloitte | Ab Initio Developer | Princeton, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c6b5fdfad3bcb351) | 2026-09-10 07:39 |
@@ -34,7 +39,6 @@ Last updated: 2026-09-10 07:39
 | mPulse Mobile | Data Integration Engineer I | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dd45ffb84690ca5d) | 2026-09-10 07:39 |
 | Akkadian Labs | Senior DevOps Engineer | Hoboken, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2cdf608d1b4f491a) | 2026-09-10 07:39 |
 | Epsilon | Software Engineer | Westminster, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=456814563675f6cd) | 2026-09-10 07:39 |
-| Ford Motor Company | Software Engineer - Access Management (Java Full Stack) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc88f49ae19c3ea5) | 2026-09-10 07:39 |
 | ADT | AI Architect (Job ID 3021788) | Boca Raton, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f0843f4b858b32d0) | 2026-09-10 07:39 |
 | Andreessen Horowitz | Software Engineer, Systems (Partner 16, Partner 18) | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c333cc6dde3f595b) | 2026-09-10 07:39 |
 | Andreessen Horowitz | Software Engineer, Platform (Partner 16, Partner 18) | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c4e866ca403b7a08) | 2026-09-10 07:39 |
