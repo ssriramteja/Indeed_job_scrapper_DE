@@ -1,11 +1,33 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-10 19:22
+Last updated: 2026-09-10 22:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Diversified Services Network | (1112754) Senior Software Engineer - Java/AWS Backend | Dallas, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=53e5ebe6596fd5cc) | 2026-09-10 22:06 |
+| Diversified Services Network | (1112754) Senior Software Engineer - Java/AWS Backend | Peoria, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=79a2550e31c47b05) | 2026-09-10 22:06 |
+| Diversified Services Network | (1112754) Senior Software Engineer - Java/AWS Backend | Broomfield, CO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=4f823b2967bc25ff) | 2026-09-10 22:06 |
+| Diversified Services Network | (1112754) Senior Software Engineer - Java/AWS Backend | Chicago, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9f454c459d8715c2) | 2026-09-10 22:06 |
+| Capgemini | Morgan WM Java + Python - C1 - Level | Alpharetta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2237bdba45156557) | 2026-09-10 22:06 |
+| General Motors (GM) | Senior Feature Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fc268f2e08eed41b) | 2026-09-10 22:06 |
+| Tractor Supply | Sr Data Scientist, Merchandising Analytics | Brentwood, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=89cf28164d2b44e1) | 2026-09-10 22:06 |
+| Baker Tilly Canada | Data Solution Architect | Milwaukee, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=348bb65020d238ec) | 2026-09-10 22:06 |
+| Baker Tilly Canada | Data Solution Architect | Madison, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=700edad9dfcb975f) | 2026-09-10 22:06 |
+| Baker Tilly Canada | Data Solution Architect | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3cb87de2d0210269) | 2026-09-10 22:06 |
+| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f16755404b284eb) | 2026-09-10 22:06 |
+| Persistent Systems | Sr. Forward Deployed Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f12f5f159f8687e2) | 2026-09-10 22:06 |
+| Ford Motor Company | Software Engineer - Access Management (Java Full Stack) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc88f49ae19c3ea5) | 2026-09-10 22:06 |
+| NVIDIA | Senior Storage Platform Engineer | Santa Clara, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a41755acf2e74e13) | 2026-09-10 22:06 |
+| Ambarella | Sr. Cloud Infrastructure & DevOps Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5d92d093b53bf68d) | 2026-09-10 22:06 |
+| Plymouth Rock Assurance | Senior Power BI Data Engineer | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=564e7d0106f9c065) | 2026-09-10 22:06 |
+| Ayla Networks | Senior DevOps engineer. | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a77b42dadc3d64bb) | 2026-09-10 22:06 |
+| NTT DATA | Senior Data Engineer | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c740e2d589eb308c) | 2026-09-10 22:06 |
+| LexisNexis Legal & Professional | Senior Site Reliability Engineer II ** Remote EST Preferred | Horsham, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b853a7d928445871) | 2026-09-10 22:06 |
+| RELX Group | Senior Site Reliability Engineer II ** Remote EST Preferred | Horsham, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b3bcb4fe5f29db11) | 2026-09-10 22:06 |
+| Academy Sports + Outdoors | Sr Enterprise Data Platform and Engineering | Katy, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1e7fe15b0b60a4d2) | 2026-09-10 22:06 |
+| Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f8c0277359b3cc2) | 2026-09-10 22:06 |
 | NTT DATA | ETL Developer | US USA | 29.2% | [Apply](https://www.indeed.com/viewjob?jk=0a9ab035b419ae49) | 2026-09-10 19:22 |
 | Wells Fargo | Senior Software Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=eab311aee9088816) | 2026-09-10 19:22 |
 | Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=060cda39e6c67619) | 2026-09-10 19:22 |
@@ -17,7 +39,6 @@ Last updated: 2026-09-10 19:22
 | Colaberry | Senior Data Engineer (Contract) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8afd4daee0cfbd6a) | 2026-09-10 19:22 |
 | Colaberry | Senior Data Engineer (Contract) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=feb309dc36a3ade0) | 2026-09-10 19:22 |
 | VRN Technologies | Data Engineer | San Antonio, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e6a06ecdadb7f76) | 2026-09-10 19:22 |
-| Ford Motor Company | Software Engineer - Access Management (Java Full Stack) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc88f49ae19c3ea5) | 2026-09-10 19:22 |
 | The Cigna Group | Technology Development Program (TECDP) - Data & Analytics Engineering Track - Start Date: July 12, 2027 | Morris Plains, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1edfbfa72a62d73c) | 2026-09-10 19:22 |
 | Optum | Associate Data Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e60af316cfb20b16) | 2026-09-10 19:22 |
 | Sunbelt Rentals | Sr. Data Engineer | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ae52bab9bde8833) | 2026-09-10 19:22 |
