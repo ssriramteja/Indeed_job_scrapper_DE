@@ -1,11 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-11 05:26
+Last updated: 2026-09-11 10:15
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EIS Group | Senior DevOps Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3f6ad6527a71b393) | 2026-09-11 10:15 |
+| Capgemini | GenAI Engineer / Data Scientist | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6dbc2ded1357ab6b) | 2026-09-11 10:15 |
+| Capgemini | GenAI Engineer / Data Scientist | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7440e02579888544) | 2026-09-11 10:15 |
+| Capgemini | AI /ML Data Scientist | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=386200b3002aff99) | 2026-09-11 10:15 |
+| Capgemini | AI /ML Data Scientist | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9c2ed4b81dac13d2) | 2026-09-11 10:15 |
+| Wpromote, LLC | Senior Software Engineer II (Data Pipelines) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2c05594fa5c03a89) | 2026-09-11 10:15 |
+| Western Governors University | Senior Software Engineer | Salt Lake City, UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9c5c7e1664edb9d4) | 2026-09-11 10:15 |
+| Activision | Activision 2027 Summer Internships - Analytics Engineering | Santa Monica, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a151a475ceda8359) | 2026-09-11 10:15 |
+| TBC Corporation | Senior Integration Developer - API Platform | Palm Beach Gardens, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1b0eebe66ead5b17) | 2026-09-11 10:15 |
+| nan | Forward Developed Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1c9d1ab5ee809ca2) | 2026-09-11 10:15 |
+| Target | Data Engineer - Finance AI Solutions | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5141a554cf1e2b91) | 2026-09-11 10:15 |
+| Cisco | Senior Software Engineer, CEA - ThousandEyes (Hybrid) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4fba99aaf358701a) | 2026-09-11 10:15 |
+| RS21: A Data Science and Visualization Company | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=822b2e4556cf1c5f) | 2026-09-11 10:15 |
+| Brown Brothers Harriman | Systems Programmer Analyst l - Java | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=94250490a5dea702) | 2026-09-11 10:15 |
+| Hewlett Packard Enterprise \| HPE | Software Developer Cloud & Distributed Systems | San Juan, PR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9407487c3afcb12c) | 2026-09-11 10:15 |
+| TBC Corporation | Cloud Data Architect | Palm Beach Gardens, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2057a1a27d77eb5f) | 2026-09-11 10:15 |
+| Horizon Media, Inc. | Fullstack Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e34e091d0140c14) | 2026-09-11 10:15 |
 | St. Jude Children's Research Hospital | Platform & Data Engineer III | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=05b8d6e4d98fa228) | 2026-09-11 05:26 |
 | Delinea | Senior Site Reliability Engineer - FedRAMP | Redwood City, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b70689612d7d51ee) | 2026-09-11 05:26 |
 | Caterpillar | Data Engineer | Peoria, IL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d705b2d3559bb3c6) | 2026-09-11 05:26 |
@@ -22,7 +39,6 @@ Last updated: 2026-09-11 05:26
 | Humana | Data Engineer | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=92ef430c583f0949) | 2026-09-11 05:26 |
 | Humana | Data Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f9ef978918551b6c) | 2026-09-11 05:26 |
 | Humana | Data Engineer | Louisville, KY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=637d2d6e8ea9d1ef) | 2026-09-11 05:26 |
-| RS21: A Data Science and Visualization Company | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=822b2e4556cf1c5f) | 2026-09-11 05:26 |
 | Humana | Data Engineer | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba247d1fc82d579c) | 2026-09-11 05:26 |
 | Humana | Data Engineer | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=21b0849ec21c1c08) | 2026-09-11 05:26 |
 | Humana | Data Engineer | Fort Lauderdale, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a56325de82ab5543) | 2026-09-11 05:26 |
@@ -32,7 +48,6 @@ Last updated: 2026-09-11 05:26
 | Humana | Data Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=280e75cabd3c6a06) | 2026-09-11 05:26 |
 | Agility Technologies Inc | Junior Full Stack Software Engineer AI and Cloud Applications | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb2063590dad13da) | 2026-09-11 05:26 |
 | FFF Enterprises | Business Analyst - Data Intelligence | Flower Mound, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d035d7c47f5688b5) | 2026-09-11 05:26 |
-| Hewlett Packard Enterprise \| HPE | Software Developer Cloud & Distributed Systems | San Juan, PR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9407487c3afcb12c) | 2026-09-11 05:26 |
 | Crane Aerospace & Electronics | Data Engineer II | Lynnwood, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=df8e9130941aedc7) | 2026-09-11 05:26 |
 | REPAY | Application Security Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d4be196fbc9a16bc) | 2026-09-11 05:26 |
 | Wesco | Data Platform Administration Architect | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d1276474c632f42) | 2026-09-11 05:26 |
