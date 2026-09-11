@@ -1,15 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-11 14:43
+Last updated: 2026-09-11 18:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Snowflake Data Engineer (Python / Snowpark) | Columbus, OH, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3affdaaa77646055) | 2026-09-11 18:00 |
+| Volantsoft Inc | Senior Developer W Cloud-Native Data AWS Kafka | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7dd24f1dcad4258c) | 2026-09-11 18:00 |
+| Convey | Senior Software Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6eab47ece7c9f23b) | 2026-09-11 18:00 |
+| project44 | Senior Software Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8fccc8f57dde6104) | 2026-09-11 18:00 |
+| Dragonfly Health | Senior Data Visualization Developer/Full Stack Developer - Contractor | Mesa, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=261266691bb3209c) | 2026-09-11 18:00 |
+| Cognizant | Senior Java Developer (Spring Boot & AWS Glue) | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19c62182c1dfd5a0) | 2026-09-11 18:00 |
+| DocuSign | Senior Software Engineer - AI | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1fc6a45a47cc178b) | 2026-09-11 18:00 |
+| Crane Worldwide Logistics | Integration Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bb5a16405efb7b8) | 2026-09-11 18:00 |
+| JSR Tech Consulting | Sr. Machine Learning Engineer | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=451b6e29bdbd8304) | 2026-09-11 18:00 |
+| RS21: A Data Science and Visualization Company | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=822b2e4556cf1c5f) | 2026-09-11 18:00 |
+| Hewlett Packard Enterprise \| HPE | Software Developer Cloud & Distributed Systems | San Juan, PR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9407487c3afcb12c) | 2026-09-11 18:00 |
+| The Home Depot | Cybersecurity Software Engineer II \| ML & AI (Remote) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7243ca669e449c88) | 2026-09-11 18:00 |
+| P3+Uplift | Software Engineer | Des Moines, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58d1e81b36b332b5) | 2026-09-11 18:00 |
 | First Orion | Data Platform Engineer | North Little Rock, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=56ed3d25e2b81e91) | 2026-09-11 14:43 |
-| RS21: A Data Science and Visualization Company | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=822b2e4556cf1c5f) | 2026-09-11 14:43 |
 | Micron Technology | Full-Stack AI Engineer | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1d64b090a5428a5) | 2026-09-11 14:43 |
-| Hewlett Packard Enterprise \| HPE | Software Developer Cloud & Distributed Systems | San Juan, PR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9407487c3afcb12c) | 2026-09-11 14:43 |
 | EIS Group | Senior DevOps Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3f6ad6527a71b393) | 2026-09-11 10:15 |
 | Capgemini | GenAI Engineer / Data Scientist | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6dbc2ded1357ab6b) | 2026-09-11 10:15 |
 | Capgemini | GenAI Engineer / Data Scientist | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7440e02579888544) | 2026-09-11 10:15 |
@@ -405,10 +416,6 @@ Last updated: 2026-09-11 14:43
 | RE/SPEC Inc | Cloud Solutions Architect 2 (Contractor) - 529701772 | Austin, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c458c043196a1c69) | 2026-09-07 20:16 |
 | Stream | Senior Data Engineer | Boulder, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3bddb4afe7c4caf5) | 2026-09-07 20:16 |
 | Advance Auto Parts | Software Engineer | Raleigh, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=65dc6fa390e72ae6) | 2026-09-07 20:16 |
-| Visibol | Software Engineer | Los Angeles, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0d15bd8d2dcde66c) | 2026-09-07 16:52 |
-| Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a173f8b22852bf0b) | 2026-09-07 16:52 |
-| Semicon Service Nordic AB | Software Engineer | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b82b7e5b56d16b4c) | 2026-09-07 16:52 |
-| nan | Software Engineer | Racine, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=001eb9aca1486771) | 2026-09-07 16:52 |
 
 
 ---
