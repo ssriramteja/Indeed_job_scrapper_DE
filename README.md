@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-11 10:15
+Last updated: 2026-09-11 14:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| First Orion | Data Platform Engineer | North Little Rock, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=56ed3d25e2b81e91) | 2026-09-11 14:43 |
+| RS21: A Data Science and Visualization Company | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=822b2e4556cf1c5f) | 2026-09-11 14:43 |
+| Micron Technology | Full-Stack AI Engineer | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1d64b090a5428a5) | 2026-09-11 14:43 |
+| Hewlett Packard Enterprise \| HPE | Software Developer Cloud & Distributed Systems | San Juan, PR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9407487c3afcb12c) | 2026-09-11 14:43 |
 | EIS Group | Senior DevOps Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3f6ad6527a71b393) | 2026-09-11 10:15 |
 | Capgemini | GenAI Engineer / Data Scientist | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6dbc2ded1357ab6b) | 2026-09-11 10:15 |
 | Capgemini | GenAI Engineer / Data Scientist | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7440e02579888544) | 2026-09-11 10:15 |
@@ -18,9 +22,7 @@ Last updated: 2026-09-11 10:15
 | nan | Forward Developed Engineer | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1c9d1ab5ee809ca2) | 2026-09-11 10:15 |
 | Target | Data Engineer - Finance AI Solutions | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5141a554cf1e2b91) | 2026-09-11 10:15 |
 | Cisco | Senior Software Engineer, CEA - ThousandEyes (Hybrid) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4fba99aaf358701a) | 2026-09-11 10:15 |
-| RS21: A Data Science and Visualization Company | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=822b2e4556cf1c5f) | 2026-09-11 10:15 |
 | Brown Brothers Harriman | Systems Programmer Analyst l - Java | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=94250490a5dea702) | 2026-09-11 10:15 |
-| Hewlett Packard Enterprise \| HPE | Software Developer Cloud & Distributed Systems | San Juan, PR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9407487c3afcb12c) | 2026-09-11 10:15 |
 | TBC Corporation | Cloud Data Architect | Palm Beach Gardens, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2057a1a27d77eb5f) | 2026-09-11 10:15 |
 | Horizon Media, Inc. | Fullstack Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e34e091d0140c14) | 2026-09-11 10:15 |
 | St. Jude Children's Research Hospital | Platform & Data Engineer III | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=05b8d6e4d98fa228) | 2026-09-11 05:26 |
@@ -407,8 +409,6 @@ Last updated: 2026-09-11 10:15
 | Rocket Science Group | Full-Stack Engineer - Albany | Albany, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a173f8b22852bf0b) | 2026-09-07 16:52 |
 | Semicon Service Nordic AB | Software Engineer | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b82b7e5b56d16b4c) | 2026-09-07 16:52 |
 | nan | Software Engineer | Racine, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=001eb9aca1486771) | 2026-09-07 16:52 |
-| NBME | Data Engineer III | Philadelphia, PA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=83f3d0c20a7e71fe) | 2026-09-07 11:03 |
-| Ardor Digital Inc | Cloud Network Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a26a714c52ecd818) | 2026-09-07 11:03 |
 
 
 ---
