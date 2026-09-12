@@ -1,12 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-12 05:17
+Last updated: 2026-09-12 09:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Snowflake Data Engineer (Python / Snowpark) | Columbus, OH, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3affdaaa77646055) | 2026-09-12 05:17 |
+| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Snowflake Data Engineer (Python / Snowpark) | Columbus, OH, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3affdaaa77646055) | 2026-09-12 09:49 |
+| Princeton University | Data Engineer | Princeton, NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3e8e25ec68157adb) | 2026-09-12 09:49 |
+| ARC-One Solutions | Sr. Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8802a8b04c1f74c1) | 2026-09-12 09:49 |
+| JPMorganChase | Software Engineer III - Data Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8d45eb216c68737b) | 2026-09-12 09:49 |
+| State Teachers' Retirement System | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7c9dbecd28bfb842) | 2026-09-12 09:49 |
+| Worth AI | Senior DevOps Engineer, Infrastructure & Reliability | Miami, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b8582e8cd3f2da98) | 2026-09-12 09:49 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3eacc86d237480d9) | 2026-09-12 09:49 |
+| JPMorganChase | Full Stack Java/React Developer - Data Scientist Senior Associate | San Antonio, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5a985a197da27b33) | 2026-09-12 09:49 |
+| JPMorganChase | Software Engineer III - PySpark/AWS/Databricks | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=75e60cd51a5aabad) | 2026-09-12 09:49 |
+| ZBD | Senior Analytics Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dbbfb0108ea2777b) | 2026-09-12 09:49 |
+| Crum & Forster | Senior Software Engineer, Quality & Automation | Glastonbury, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bc5ab41dfa01d9f2) | 2026-09-12 09:49 |
+| Softek International Inc | Data Architect | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4945bb4012ef1aca) | 2026-09-12 09:49 |
+| BrightSpring Health Services | Enterprise Solution Architect, AI Health Cloud | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=edbbdd6afcbff323) | 2026-09-12 09:49 |
+| PathAI | Senior Software Engineer, ML Ops | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=efb2a43efc0c3365) | 2026-09-12 09:49 |
+| STAR Autism Support | Quality Assurance Engineer | Beaverton, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=489e0afc743493db) | 2026-09-12 09:49 |
+| The Home Depot | Cybersecurity Software Engineer II \| ML & AI (Remote) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7243ca669e449c88) | 2026-09-12 09:49 |
+| ServiceTitan | Senior Site Reliability Engineer, AI Agents & Automation | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f35b58795197a9c9) | 2026-09-12 09:49 |
 | Viking Cruises | Senior Data Platform Architect | Los Angeles, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15e42cfd58bc1a82) | 2026-09-12 05:17 |
 | Worth AI | Data Platform Engineer | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=39c4c0de94ab1dbf) | 2026-09-12 05:17 |
 | Photon | Technical Architect_Tempe,AZ | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=496e7cab1d90adc0) | 2026-09-12 05:17 |
@@ -15,7 +31,6 @@ Last updated: 2026-09-12 05:17
 | Worth AI | Senior DevOps Engineer, Infrastructure & Reliability | Orlando, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9d06626676d0ebe5) | 2026-09-12 05:17 |
 | Agilent Technologies | Advanced Software Engineer | Cedar Creek, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=80b1a0c64bfead5b) | 2026-09-12 05:17 |
 | Cloud and Things | Senior Java Developer | Albany, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=11c2a0350b61ea90) | 2026-09-12 05:17 |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3eacc86d237480d9) | 2026-09-12 05:17 |
 | Viking Cruises | Machine Learning Engineer | Los Angeles, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8438f50351525893) | 2026-09-12 05:17 |
 | Procter & Gamble | Senior Data Engineer - Commercial Data | Cincinnati, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=08b2b9beddde03a5) | 2026-09-12 05:17 |
 | Capgemini | Azure Databrick | Michigan City, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8994a35621e54353) | 2026-09-12 05:17 |
@@ -28,7 +43,6 @@ Last updated: 2026-09-12 05:17
 | Worth AI | Senior Software Engineer - Integrations | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5afde5dbdaaea472) | 2026-09-12 05:17 |
 | Worth AI | Senior Software Engineer - Integrations | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca8a003016846b78) | 2026-09-12 05:17 |
 | CoreWeave | Senior Software Engineer I | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d303d9eb6bc810a9) | 2026-09-12 05:17 |
-| The Home Depot | Cybersecurity Software Engineer II \| ML & AI (Remote) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7243ca669e449c88) | 2026-09-12 05:17 |
 | Talsolution | Senior DevOps / Cloud / SRE Engineer, Senior AI / Machine Learning Engineer, Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=037a42c0ea26c495) | 2026-09-12 00:49 |
 | Booz Allen Hamilton | Databricks Platform Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0ad94608c8ee3b44) | 2026-09-12 00:49 |
 | Penn Interactive Ventures | Senior Software Engineer, Bet Engine | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e995a42ced6baff4) | 2026-09-12 00:49 |
