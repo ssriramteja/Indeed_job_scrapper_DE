@@ -1,18 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-12 09:49
+Last updated: 2026-09-12 13:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Snowflake Data Engineer (Python / Snowpark) | Columbus, OH, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3affdaaa77646055) | 2026-09-12 09:49 |
+| ritepros | Data Scientist | Portland, ME, US USA | 27.1% | [Apply](https://www.indeed.com/viewjob?jk=72ebc0184eaf514f) | 2026-09-12 13:16 |
+| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Snowflake Data Engineer (Python / Snowpark) | Columbus, OH, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3affdaaa77646055) | 2026-09-12 13:16 |
+| JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7d5ac038b52e4c9f) | 2026-09-12 13:16 |
+| Princeton University | Infrastructure Engineer | Princeton, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=42f48af529b6933f) | 2026-09-12 13:16 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3eacc86d237480d9) | 2026-09-12 13:16 |
+| Princeton University | Integration Developer | Princeton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0ec56e792f8b579b) | 2026-09-12 13:16 |
+| JPMorganChase | Software Engineer III | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03eb56a973b20acc) | 2026-09-12 13:16 |
+| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d7e9ecc9b2a5055) | 2026-09-12 13:16 |
+| Target | Data Engineer - Finance AI Solutions | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84bfe83ebefec716) | 2026-09-12 13:16 |
+| JPMorganChase | Site Reliability Engineer III | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1bf50c444c6292e3) | 2026-09-12 13:16 |
+| JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d96490d4c97f8fd) | 2026-09-12 13:16 |
+| The Home Depot | Cybersecurity Software Engineer II \| ML & AI (Remote) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7243ca669e449c88) | 2026-09-12 13:16 |
 | Princeton University | Data Engineer | Princeton, NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3e8e25ec68157adb) | 2026-09-12 09:49 |
 | ARC-One Solutions | Sr. Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8802a8b04c1f74c1) | 2026-09-12 09:49 |
 | JPMorganChase | Software Engineer III - Data Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8d45eb216c68737b) | 2026-09-12 09:49 |
 | State Teachers' Retirement System | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7c9dbecd28bfb842) | 2026-09-12 09:49 |
 | Worth AI | Senior DevOps Engineer, Infrastructure & Reliability | Miami, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b8582e8cd3f2da98) | 2026-09-12 09:49 |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3eacc86d237480d9) | 2026-09-12 09:49 |
 | JPMorganChase | Full Stack Java/React Developer - Data Scientist Senior Associate | San Antonio, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5a985a197da27b33) | 2026-09-12 09:49 |
 | JPMorganChase | Software Engineer III - PySpark/AWS/Databricks | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=75e60cd51a5aabad) | 2026-09-12 09:49 |
 | ZBD | Senior Analytics Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dbbfb0108ea2777b) | 2026-09-12 09:49 |
@@ -21,7 +31,6 @@ Last updated: 2026-09-12 09:49
 | BrightSpring Health Services | Enterprise Solution Architect, AI Health Cloud | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=edbbdd6afcbff323) | 2026-09-12 09:49 |
 | PathAI | Senior Software Engineer, ML Ops | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=efb2a43efc0c3365) | 2026-09-12 09:49 |
 | STAR Autism Support | Quality Assurance Engineer | Beaverton, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=489e0afc743493db) | 2026-09-12 09:49 |
-| The Home Depot | Cybersecurity Software Engineer II \| ML & AI (Remote) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7243ca669e449c88) | 2026-09-12 09:49 |
 | ServiceTitan | Senior Site Reliability Engineer, AI Agents & Automation | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f35b58795197a9c9) | 2026-09-12 09:49 |
 | Viking Cruises | Senior Data Platform Architect | Los Angeles, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15e42cfd58bc1a82) | 2026-09-12 05:17 |
 | Worth AI | Data Platform Engineer | Orlando, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=39c4c0de94ab1dbf) | 2026-09-12 05:17 |
@@ -497,7 +506,6 @@ Last updated: 2026-09-12 09:49
 | Protolabs | Senior Software Quality Engineer | Maple Plain, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50167c9262a6f352) | 2026-09-08 16:55 |
 | Catalina Business Solutions | Senior Full Stack Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=583047aa0c29e841) | 2026-09-08 16:55 |
 | FDM Group | Full Stack Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d342c243987526b3) | 2026-09-08 16:55 |
-| JOb Assist | Software Developer / Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e4b70d4e466c6eb) | 2026-09-08 12:24 |
 
 
 ---
