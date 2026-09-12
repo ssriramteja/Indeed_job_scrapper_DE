@@ -1,23 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-12 13:16
+Last updated: 2026-09-12 16:39
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Superhuman | Data Engineer, Foundations | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=db4b2ff29c4a064c) | 2026-09-12 16:39 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3eacc86d237480d9) | 2026-09-12 16:39 |
+| Booz Allen Hamilton | Databricks Platform Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7737dd6535d2fd63) | 2026-09-12 16:39 |
+| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e96bd7a58d09125) | 2026-09-12 16:39 |
 | ritepros | Data Scientist | Portland, ME, US USA | 27.1% | [Apply](https://www.indeed.com/viewjob?jk=72ebc0184eaf514f) | 2026-09-12 13:16 |
-| Nationwide Mutual Insurance Company | Consultant, Data Engineer \| Snowflake Data Engineer (Python / Snowpark) | Columbus, OH, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=3affdaaa77646055) | 2026-09-12 13:16 |
 | JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7d5ac038b52e4c9f) | 2026-09-12 13:16 |
 | Princeton University | Infrastructure Engineer | Princeton, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=42f48af529b6933f) | 2026-09-12 13:16 |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3eacc86d237480d9) | 2026-09-12 13:16 |
 | Princeton University | Integration Developer | Princeton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0ec56e792f8b579b) | 2026-09-12 13:16 |
 | JPMorganChase | Software Engineer III | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03eb56a973b20acc) | 2026-09-12 13:16 |
 | JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d7e9ecc9b2a5055) | 2026-09-12 13:16 |
 | Target | Data Engineer - Finance AI Solutions | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84bfe83ebefec716) | 2026-09-12 13:16 |
 | JPMorganChase | Site Reliability Engineer III | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1bf50c444c6292e3) | 2026-09-12 13:16 |
 | JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d96490d4c97f8fd) | 2026-09-12 13:16 |
-| The Home Depot | Cybersecurity Software Engineer II \| ML & AI (Remote) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7243ca669e449c88) | 2026-09-12 13:16 |
 | Princeton University | Data Engineer | Princeton, NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3e8e25ec68157adb) | 2026-09-12 09:49 |
 | ARC-One Solutions | Sr. Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8802a8b04c1f74c1) | 2026-09-12 09:49 |
 | JPMorganChase | Software Engineer III - Data Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8d45eb216c68737b) | 2026-09-12 09:49 |
