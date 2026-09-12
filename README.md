@@ -1,18 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-12 21:07
+Last updated: 2026-09-12 23:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3eacc86d237480d9) | 2026-09-12 23:35 |
+| JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2395a3423532a7f5) | 2026-09-12 23:35 |
+| JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7be3668078d3c0d) | 2026-09-12 23:35 |
 | Kavant Solutions | AI Architect | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=28c474e6ef0d9a03) | 2026-09-12 21:07 |
 | KinderCare Learning Companies | Senior Data Engineer - Remote Opportunity! | Beaverton, OR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8e29b703157f7cf6) | 2026-09-12 21:07 |
 | EY | Service Delivery Center, Workflow Platform Backend Engineer - Senior | Alpharetta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=83a6b09a8c7e1119) | 2026-09-12 21:07 |
 | EY | Service Delivery Center, Workflow Platform Frontend Engineer - Analyst | Alpharetta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=453905d3b180d894) | 2026-09-12 21:07 |
 | EY | Service Delivery Center - Apigee Migration Engineer - Senior | San Antonio, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d02fbb8686e98a85) | 2026-09-12 21:07 |
 | Kavant Solutions | AI Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=84f280b9c5186dbd) | 2026-09-12 21:07 |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3eacc86d237480d9) | 2026-09-12 21:07 |
 | nan | AWS Data Engineer (Databricks, AWS, Python) | Houston, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=595b0051a2bcc4f7) | 2026-09-12 18:53 |
 | Worth AI | Senior DevOps Engineer, Infrastructure & Reliability | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d4dec605ec7e7534) | 2026-09-12 18:53 |
 | Worth AI | Senior DevOps Engineer, Infrastructure & Reliability | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=867542810b759ecf) | 2026-09-12 18:53 |
@@ -438,22 +440,6 @@ Last updated: 2026-09-12 21:07
 | BV Teck | Microsoft Azure Specialist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5427c3decfca9bb) | 2026-09-09 00:53 |
 | BV Teck | Data Platform Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d18274e749f6531) | 2026-09-09 00:53 |
 | nan | Enterprise Architect | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ddb33e1cad99b3b6) | 2026-09-09 00:53 |
-| LPL Financial | Engineer II, Data (Cloud & AI) | Fort Mill, SC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e1c022ecfcaf20c6) | 2026-09-08 22:11 |
-| LOJELIS US | Senior Software Engineer | Greenville, SC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=389f31eefdd51556) | 2026-09-08 22:11 |
-| nan | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b33ee0863e9fcfb3) | 2026-09-08 22:11 |
-| Optum | Senior .Net Full-Stack Engineer | Brentwood, TN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=24127d299155c458) | 2026-09-08 22:11 |
-| NTT DATA | Data Product Engineer (Databricks) | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64db87397886bc2f) | 2026-09-08 22:11 |
-| Travelers | Data Engineer I | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=547acd1166eac18c) | 2026-09-08 22:11 |
-| Propio LS LLC | Senior Machine Learning Engineer, Speech & LLM Training Data | Overland Park, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=807824f66dc0a84a) | 2026-09-08 22:11 |
-| Landmark Properties, Inc. | Microsoft Fabric Data Engineer | Athens, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e98e4f56ed833c2) | 2026-09-08 22:11 |
-| Landmark Properties, Inc. | Microsoft Fabric Data Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8eec69955d73cd72) | 2026-09-08 22:11 |
-| Katalyst Data Management | AI/ML Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a5ab3490cf1d4af) | 2026-09-08 22:11 |
-| General Motors (GM) | Senior Software Engineer, Full Stack | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0fbaf369c2bba2b3) | 2026-09-08 22:11 |
-| Quantum US | Senior Full Stack UI Engineer | Centennial, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f21984098565a1d3) | 2026-09-08 22:11 |
-| nan | Azure Databricks Infrastructure Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d5e6f301d4219633) | 2026-09-08 22:11 |
-| Broadcast Music | Sr. Quality Assurance Analyst | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1f947c468dcbd787) | 2026-09-08 22:11 |
-| ATG | Senior Python Engineer | North Little Rock, AR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cd497236bc21a443) | 2026-09-08 22:11 |
-| nan | Data modeler- ETL | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4a609b29094569b) | 2026-09-08 22:11 |
 
 
 ---
