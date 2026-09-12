@@ -1,13 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-12 16:39
+Last updated: 2026-09-12 18:53
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| nan | AWS Data Engineer (Databricks, AWS, Python) | Houston, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=595b0051a2bcc4f7) | 2026-09-12 18:53 |
+| Worth AI | Senior DevOps Engineer, Infrastructure & Reliability | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d4dec605ec7e7534) | 2026-09-12 18:53 |
+| Worth AI | Senior DevOps Engineer, Infrastructure & Reliability | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=867542810b759ecf) | 2026-09-12 18:53 |
+| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3eacc86d237480d9) | 2026-09-12 18:53 |
+| Faro Health Inc. | Senior DevOps Engineer | San Diego, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae813694ea2911db) | 2026-09-12 18:53 |
+| JPMorganChase | Site Reliability Engineer III - AWS, Java and Kubernetes | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a341c0c6a783354) | 2026-09-12 18:53 |
 | Superhuman | Data Engineer, Foundations | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=db4b2ff29c4a064c) | 2026-09-12 16:39 |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3eacc86d237480d9) | 2026-09-12 16:39 |
 | Booz Allen Hamilton | Databricks Platform Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7737dd6535d2fd63) | 2026-09-12 16:39 |
 | JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e96bd7a58d09125) | 2026-09-12 16:39 |
 | ritepros | Data Scientist | Portland, ME, US USA | 27.1% | [Apply](https://www.indeed.com/viewjob?jk=72ebc0184eaf514f) | 2026-09-12 13:16 |
@@ -503,10 +508,6 @@ Last updated: 2026-09-12 16:39
 | Tachyon Technologies | AWS Database Architect | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7089341fcf260484) | 2026-09-08 19:40 |
 | Unitedone health | Business Analyst (SQL & Snowflake) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bcad9584a9c6b560) | 2026-09-08 19:40 |
 | American Honda Motor | Software & System Design Engineer | Torrance, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d4cff3d4e2e95ec) | 2026-09-08 19:40 |
-| nan | MuleSoft Developer | Herndon, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=50af554e5fcbec22) | 2026-09-08 16:55 |
-| Protolabs | Senior Software Quality Engineer | Maple Plain, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=50167c9262a6f352) | 2026-09-08 16:55 |
-| Catalina Business Solutions | Senior Full Stack Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=583047aa0c29e841) | 2026-09-08 16:55 |
-| FDM Group | Full Stack Developer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d342c243987526b3) | 2026-09-08 16:55 |
 
 
 ---
