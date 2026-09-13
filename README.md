@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-13 16:47
+Last updated: 2026-09-13 19:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=4bcfb47396b53561) | 2026-09-13 19:06 |
+| JPMorganChase | Software Engineer III - Data Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=abb83d271754206d) | 2026-09-13 19:06 |
+| JPMorganChase | Software Engineer III - Big Data Databricks, Python / Java | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=45217d2e570a1cb2) | 2026-09-13 19:06 |
+| JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=134a56b17af9b601) | 2026-09-13 19:06 |
+| JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84607e3a06c12fdd) | 2026-09-13 19:06 |
+| JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b7fa6836e8c25f23) | 2026-09-13 19:06 |
 | Edurech Technoogy | Data Engineer | Texas City, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1d764d5c996e8a37) | 2026-09-13 16:47 |
 | JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb5dd80e1790149d) | 2026-09-13 16:47 |
 | Deloitte | Oracle Database Admin - SQL/ETL | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d1dbbd1ce7507f25) | 2026-09-13 16:47 |
@@ -378,19 +384,6 @@ Last updated: 2026-09-13 16:47
 | Camping World | AI Engineer, Enterprise AI Platform | Lincolnshire, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee18a654788e5998) | 2026-09-09 21:23 |
 | LEADER BANK | Full Stack Developer | Arlington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d21460f2f100edf5) | 2026-09-09 21:23 |
 | Capgemini | Network Support & Automation Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=721f751b91f07d44) | 2026-09-09 21:23 |
-| NTT DATA | ETL Developer | New York, NY, US USA | 29.2% | [Apply](https://www.indeed.com/viewjob?jk=8732b9fed3f420f3) | 2026-09-09 18:11 |
-| Liberty Mutual Insurance | Senior Software Engineer | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=76c1021a7b6a47a3) | 2026-09-09 18:11 |
-| Liberty Mutual Insurance | Senior Software Engineer | Boston, MA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ecb7f514c771de53) | 2026-09-09 18:11 |
-| Liberty Mutual Insurance | Senior Software Engineer | Plano, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=5d6c2efe2d967ca1) | 2026-09-09 18:11 |
-| Liberty Mutual Insurance | Senior Software Engineer | Indianapolis, IN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d94535e52011728f) | 2026-09-09 18:11 |
-| Liberty Mutual Insurance | Senior Software Engineer | Portsmouth, NH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d4bc8d7737feba10) | 2026-09-09 18:11 |
-| United Concordia Dental | Data Engineer | PA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8615042a0b73fe9a) | 2026-09-09 18:11 |
-| PowerSecure Inc. | Data Solutions Engineer - On-site, Durham, NC | Durham, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=37f404d54522769c) | 2026-09-09 18:11 |
-| Inca Digital | Mid/Senior-level GoLang Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=735a6235675ac15c) | 2026-09-09 18:11 |
-| Fiserv | Senior Software Engineer – Cloud Data Solutions | Coral Springs, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4c874c000ec76150) | 2026-09-09 18:11 |
-| Charles Schwab | Financial Consultant Partner - Woodland Hills, CA | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=04879b45139c1c83) | 2026-09-09 18:11 |
-| McKesson | Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=223035fc7a8a7be0) | 2026-09-09 18:11 |
-| Axon Networks | OSS Engineer (US - Remote) | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=110b991660ad2978) | 2026-09-09 18:11 |
 
 
 ---
