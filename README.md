@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-13 19:06
+Last updated: 2026-09-13 21:56
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=62e66b988bfbe6b1) | 2026-09-13 21:56 |
+| JPMorganChase | Software Engineer III (Agentic AI/Java/AWS/Microservices) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37fd391ae46ec426) | 2026-09-13 21:56 |
+| JPMorganChase | Full Stack Java/React Developer - Data Scientist Senior Associate | San Antonio, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=099249332f619f68) | 2026-09-13 21:56 |
+| Cisco | Data Engineer | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d8a94c287356117b) | 2026-09-13 21:56 |
+| JPMorganChase | Site Reliability Engineer III | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ee619329ef705a8) | 2026-09-13 21:56 |
+| JPMorganChase | Site Reliability Engineer III | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79e240b53052e2f6) | 2026-09-13 21:56 |
 | JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=4bcfb47396b53561) | 2026-09-13 19:06 |
 | JPMorganChase | Software Engineer III - Data Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=abb83d271754206d) | 2026-09-13 19:06 |
 | JPMorganChase | Software Engineer III - Big Data Databricks, Python / Java | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=45217d2e570a1cb2) | 2026-09-13 19:06 |
@@ -360,30 +366,6 @@ Last updated: 2026-09-13 19:06
 | AutoZone | Systems Engineer - IT Data Management | Memphis, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=61e0074bda774516) | 2026-09-09 23:41 |
 | Enterprise Knowledge | Full Stack Developer | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a015b3f5ba31232) | 2026-09-09 23:41 |
 | AstraZeneca | Senior Software Engineer - Evinova | Gaithersburg, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0631723e82c79799) | 2026-09-09 23:41 |
-| Optum | Senior Software Engineer | Las Vegas, NV, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6bedb030ec88c051) | 2026-09-09 21:23 |
-| Globus Medical | Application Developer | Audubon, PA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c366fd1e467d725b) | 2026-09-09 21:23 |
-| Capgemini | Associate Data Scientist | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=10a3b9d686f61d33) | 2026-09-09 21:23 |
-| Capgemini | Data Automation QE | Fort Mill, SC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=76d03aaffe8965fd) | 2026-09-09 21:23 |
-| Stier Solutions | Data Engineer | Franklin, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8936f30be432de75) | 2026-09-09 21:23 |
-| Capgemini | Senior DevOps/SRE Engineer | Philadelphia, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=188b1c3ac78beb01) | 2026-09-09 21:23 |
-| US LBM Holdings | US LBM Cybersecurity Engineer – Azure DevSecOps | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=008164574e63eb0f) | 2026-09-09 21:23 |
-| IPolarity LLC | NICE Actimize Developer | Whippany, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7951d51dfc116951) | 2026-09-09 21:23 |
-| Navy Federal Credit Union | Summer Associate Internship (Fraud Data Governance) | Vienna, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8fa247b105a8195a) | 2026-09-09 21:23 |
-| Navy Federal Credit Union | Summer Associate Internship (Business Intelligence Analyst) | Vienna, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4613876632d673e6) | 2026-09-09 21:23 |
-| Navy Federal Credit Union | Summer Associate Internship (Associate Data Engineer) | Vienna, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fa822ad66fbbecb6) | 2026-09-09 21:23 |
-| Realign | Data Engineer | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0de49c5b0005920d) | 2026-09-09 21:23 |
-| Truist | Software Engineer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d8b7b991704ba53d) | 2026-09-09 21:23 |
-| Experian | Solution Engineer - Remote | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=549bd67dfaf059ff) | 2026-09-09 21:23 |
-| SLB | Cloud Back End Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=979c2d51bf327a22) | 2026-09-09 21:23 |
-| The Consortium Inc. | AWS DevOps Engineer | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=04e6bb06610c32bf) | 2026-09-09 21:23 |
-| Innocito Technologies Pvt Ltd | Quality Assurance Automation Engineer (C#) | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1858e1faf18bf984) | 2026-09-09 21:23 |
-| Navy Federal Credit Union | Summer Associate Internship (Data Engineer) | Vienna, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ea20d1b92e7c4c0a) | 2026-09-09 21:23 |
-| Happen Bank | Sr Cloud Infrastructure Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2390c91100957431) | 2026-09-09 21:23 |
-| Happen Bank | Sr Cloud Infrastructure Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=410d6c6a010f035c) | 2026-09-09 21:23 |
-| Camping World | AI Engineer, Enterprise AI Platform | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d593ed18a7eaef04) | 2026-09-09 21:23 |
-| Camping World | AI Engineer, Enterprise AI Platform | Lincolnshire, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ee18a654788e5998) | 2026-09-09 21:23 |
-| LEADER BANK | Full Stack Developer | Arlington, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d21460f2f100edf5) | 2026-09-09 21:23 |
-| Capgemini | Network Support & Automation Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=721f751b91f07d44) | 2026-09-09 21:23 |
 
 
 ---
