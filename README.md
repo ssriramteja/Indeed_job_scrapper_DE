@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-13 07:48
+Last updated: 2026-09-13 12:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Deloitte | Oracle Database Admin - SQL/ETL | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c11dde83ba10ec32) | 2026-09-13 12:57 |
+| Deloitte | Finance Analytics & AI Senior Consultant | New Orleans, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=495e97283db28786) | 2026-09-13 12:57 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=599a9753750e4b45) | 2026-09-13 12:57 |
+| JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e504e1d289586a8) | 2026-09-13 12:57 |
+| JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1f02610c3add7e4b) | 2026-09-13 12:57 |
 | Deloitte | Oracle Database Admin - SQL/ETL | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d69b24eb9546bc51) | 2026-09-13 07:48 |
 | Deloitte | Finance Analytics & AI Senior Consultant | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e4badb7c2f63bb4) | 2026-09-13 07:48 |
 | JPMorganChase | Software Engineer III - Data Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=156843bab1a1eb41) | 2026-09-13 02:09 |
@@ -385,21 +390,6 @@ Last updated: 2026-09-13 07:48
 | Axon Networks | OSS Engineer (US - Remote) | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=110b991660ad2978) | 2026-09-09 18:11 |
 | Capital Blue Cross | Senior Solutions Architect | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ae2c6ad8ac24f2e) | 2026-09-09 14:55 |
 | Big D Companies | Data Base Administrator | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=06360615fbf9de3a) | 2026-09-09 14:55 |
-| Capgemini | GCP Python Data Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b64978da5029f9c3) | 2026-09-09 10:25 |
-| Entarian | Senior Software Engineer | New Orleans, LA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8571eee74fa37144) | 2026-09-09 10:25 |
-| Entarian | Senior Software Engineer | New Orleans, LA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5306f5b43c1fe61a) | 2026-09-09 10:25 |
-| Entarian | Senior Software Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6250b6d758b24165) | 2026-09-09 10:25 |
-| Capgemini | GCP Python Data Engineer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=daaa8d1691a560b0) | 2026-09-09 10:25 |
-| VeeRteq Solutions Inc. | Data Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c524d2ec156b31a3) | 2026-09-09 10:25 |
-| NTT DATA | Data Engineer - xLT | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=24527e4fd5602bee) | 2026-09-09 10:25 |
-| Bank OZK | Associate, Data Operations | Little Rock, AR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e643dff32a837e1d) | 2026-09-09 10:25 |
-| JPMorganChase | Data Engineer III - Python, Databricks | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=14c4f20a82a492aa) | 2026-09-09 10:25 |
-| BV Teck | Mule ESB Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2602c0fe6a2e7651) | 2026-09-09 10:25 |
-| BV Teck | Integration Platform Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8d8e2b60f9187848) | 2026-09-09 10:25 |
-| BV Teck | Windchill Technical Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b60463e64c21c500) | 2026-09-09 10:25 |
-| State of Utah | IT Analyst III - Senior Test Automation Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=25024b299f02a2f9) | 2026-09-09 10:25 |
-| Databricks | Solutions Architect - Digital Native Business (Healthtech) | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11453f277a40e0ce) | 2026-09-09 10:25 |
-| BV Teck | PLM Technical Consultant | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6f53e322d89560b) | 2026-09-09 10:25 |
 
 
 ---
