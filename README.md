@@ -1,12 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-12 23:35
+Last updated: 2026-09-13 02:09
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3eacc86d237480d9) | 2026-09-12 23:35 |
+| JPMorganChase | Software Engineer III - Data Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=156843bab1a1eb41) | 2026-09-13 02:09 |
+| JPMorganChase | Software Engineer III - Big Data Databricks, Python / Java | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc2d3fa65c104128) | 2026-09-13 02:09 |
+| JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=691f4a76da481428) | 2026-09-13 02:09 |
 | JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2395a3423532a7f5) | 2026-09-12 23:35 |
 | JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7be3668078d3c0d) | 2026-09-12 23:35 |
 | Kavant Solutions | AI Architect | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=28c474e6ef0d9a03) | 2026-09-12 21:07 |
@@ -409,37 +411,6 @@ Last updated: 2026-09-12 23:35
 | Epsilon | Senior Software Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2f59d1ec1d618a17) | 2026-09-09 05:34 |
 | KINECTIVE | Senior Cloud Network Engineer | Golden, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c91e3acfe1355358) | 2026-09-09 05:34 |
 | Yoodli AI Roleplays | Senior Software Engineer- Backend (Product & Cloud Security) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9874984dfeed8f80) | 2026-09-09 05:34 |
-| Capgemini | Senior Software Engineer | Dallas, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=6c8113d275f4e8b6) | 2026-09-09 00:53 |
-| Capgemini | Senior Software Engineer | Dallas, TX, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=c0037a04643c403d) | 2026-09-09 00:53 |
-| BV Teck | Big Data Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d46de95576211b34) | 2026-09-09 00:53 |
-| nan | Software Engineer, Cloud Infrastructure (Multiple Seniority Levels) | San Carlos, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=f87f3f2554ec8def) | 2026-09-09 00:53 |
-| Realign | Senior Java Full Stack Developer | McLean, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=eea810b05366ae21) | 2026-09-09 00:53 |
-| Signet Jewelers | AWS Data Architect (Remote) | Akron, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f3cc1b67d583e3e1) | 2026-09-09 00:53 |
-| Paramount Global US Inc | Senior Data Engineer | Advance, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5c2c79d681f361c1) | 2026-09-09 00:53 |
-| Cognizant | Forward Deployed Engineer | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2851eefe207f3714) | 2026-09-09 00:53 |
-| Verizon | AI Engineer — AI Platform Engineering | Irving, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=11261eef85e22149) | 2026-09-09 00:53 |
-| OXIO | Site Reliability Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df838957caceea8b) | 2026-09-09 00:53 |
-| Resultant | Senior DevOps Cloud Engineer (Hybrid - Indianapolis or Chicago) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e0690835de0e1aab) | 2026-09-09 00:53 |
-| Resultant | Senior DevOps Cloud Engineer (Hybrid - Indianapolis or Dallas) | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=aa37629ae83aa444) | 2026-09-09 00:53 |
-| Capgemini | AI Architect/Developer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=59d19e49393e61c3) | 2026-09-09 00:53 |
-| Capgemini | AI Architect/Developer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=516c0cec840edf60) | 2026-09-09 00:53 |
-| Capgemini | AI Architect/Developer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=014c5701f0f8c8d9) | 2026-09-09 00:53 |
-| Capgemini | AI Architect/Developer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9dcb99e6f3d7d62f) | 2026-09-09 00:53 |
-| Reserv | Senior Infrastructure Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b393b7062df51c5e) | 2026-09-09 00:53 |
-| Cognizant | Data Engineer - Azure Data Factory & Snowflake | Milwaukee, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=23f7874bd18f37c2) | 2026-09-09 00:53 |
-| Compeer Financial | Sr Data Integration Engineer | Bloomington, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7f769482011075d) | 2026-09-09 00:53 |
-| Compeer Financial | Sr Data Integration Engineer | Lakeville, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b9148243603cf3be) | 2026-09-09 00:53 |
-| Compeer Financial | Sr Data Integration Engineer | Mankato, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=469ec4ce7b9f659e) | 2026-09-09 00:53 |
-| Wiliot | Software Engineer | San Mateo, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=48382c1e967bcd2e) | 2026-09-09 00:53 |
-| Wiliot | Software Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=698be948a8b607b2) | 2026-09-09 00:53 |
-| VeeRteq Solutions Inc. | ETL Tester with AI Experience | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=67d0d3ecc1106859) | 2026-09-09 00:53 |
-| GRVTY | DevOps Engineer | Lackland AFB, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7090249009d0d6da) | 2026-09-09 00:53 |
-| GRVTY | DevOps Engineer | Lackland AFB, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8c235a4e1abd13f7) | 2026-09-09 00:53 |
-| BV Teck | Senior Java Full Stack Developer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eaf21b46341bfdf2) | 2026-09-09 00:53 |
-| Broadcast Music | Sr. Quality Assurance Analyst | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d059a9776583fb9) | 2026-09-09 00:53 |
-| BV Teck | Microsoft Azure Specialist | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5427c3decfca9bb) | 2026-09-09 00:53 |
-| BV Teck | Data Platform Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4d18274e749f6531) | 2026-09-09 00:53 |
-| nan | Enterprise Architect | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ddb33e1cad99b3b6) | 2026-09-09 00:53 |
 
 
 ---
