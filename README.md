@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-13 02:09
+Last updated: 2026-09-13 07:48
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Deloitte | Oracle Database Admin - SQL/ETL | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d69b24eb9546bc51) | 2026-09-13 07:48 |
+| Deloitte | Finance Analytics & AI Senior Consultant | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e4badb7c2f63bb4) | 2026-09-13 07:48 |
 | JPMorganChase | Software Engineer III - Data Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=156843bab1a1eb41) | 2026-09-13 02:09 |
 | JPMorganChase | Software Engineer III - Big Data Databricks, Python / Java | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc2d3fa65c104128) | 2026-09-13 02:09 |
 | JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=691f4a76da481428) | 2026-09-13 02:09 |
@@ -398,19 +400,6 @@ Last updated: 2026-09-13 02:09
 | State of Utah | IT Analyst III - Senior Test Automation Engineer | Salt Lake City, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=25024b299f02a2f9) | 2026-09-09 10:25 |
 | Databricks | Solutions Architect - Digital Native Business (Healthtech) | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=11453f277a40e0ce) | 2026-09-09 10:25 |
 | BV Teck | PLM Technical Consultant | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c6f53e322d89560b) | 2026-09-09 10:25 |
-| BV Teck | Cloud Infrastructure Engineer – AWS | Remote, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=78929cf2e606fde4) | 2026-09-09 05:34 |
-| TP-LINK | Big Data Engineer | Irvine, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=39ca6ce91460b142) | 2026-09-09 05:34 |
-| Indigenous Pact PBC | Data Platform & Analytics Engineer | Minneapolis, MN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=669507442371cba5) | 2026-09-09 05:34 |
-| Indigenous Pact PBC | Data Platform & Analytics Engineer | Denver, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=92fecc97a72ee4bd) | 2026-09-09 05:34 |
-| CoStar Group | Senior Software Engineer - LoopNet | Irvine, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d3e215170f77dd53) | 2026-09-09 05:34 |
-| Central Health | Data Integration Engineer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b6aa2dd2deec446d) | 2026-09-09 05:34 |
-| X Development | Backend Software Engineer, Agentic Data Platform-NYC (Tapestry) | Mountain View, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=770fe58ee0737008) | 2026-09-09 05:34 |
-| Salesforce | Software Engineering MTS | Bellevue, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2bbe5469b433e310) | 2026-09-09 05:34 |
-| PepsiCo | Analytics Platform Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=17e2fb702c156b62) | 2026-09-09 05:34 |
-| BV Teck | Python Software Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=80e719ce5a357916) | 2026-09-09 05:34 |
-| Epsilon | Senior Software Engineer | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2f59d1ec1d618a17) | 2026-09-09 05:34 |
-| KINECTIVE | Senior Cloud Network Engineer | Golden, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c91e3acfe1355358) | 2026-09-09 05:34 |
-| Yoodli AI Roleplays | Senior Software Engineer- Backend (Product & Cloud Security) | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9874984dfeed8f80) | 2026-09-09 05:34 |
 
 
 ---
