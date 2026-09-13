@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-13 12:57
+Last updated: 2026-09-13 16:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Edurech Technoogy | Data Engineer | Texas City, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1d764d5c996e8a37) | 2026-09-13 16:47 |
+| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb5dd80e1790149d) | 2026-09-13 16:47 |
+| Deloitte | Oracle Database Admin - SQL/ETL | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d1dbbd1ce7507f25) | 2026-09-13 16:47 |
 | Deloitte | Oracle Database Admin - SQL/ETL | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c11dde83ba10ec32) | 2026-09-13 12:57 |
 | Deloitte | Finance Analytics & AI Senior Consultant | New Orleans, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=495e97283db28786) | 2026-09-13 12:57 |
 | Deloitte | Finance Analytics & AI Senior Consultant | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=599a9753750e4b45) | 2026-09-13 12:57 |
@@ -388,8 +391,6 @@ Last updated: 2026-09-13 12:57
 | Charles Schwab | Financial Consultant Partner - Woodland Hills, CA | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=04879b45139c1c83) | 2026-09-09 18:11 |
 | McKesson | Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=223035fc7a8a7be0) | 2026-09-09 18:11 |
 | Axon Networks | OSS Engineer (US - Remote) | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=110b991660ad2978) | 2026-09-09 18:11 |
-| Capital Blue Cross | Senior Solutions Architect | Harrisburg, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ae2c6ad8ac24f2e) | 2026-09-09 14:55 |
-| Big D Companies | Data Base Administrator | Salt Lake City, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=06360615fbf9de3a) | 2026-09-09 14:55 |
 
 
 ---

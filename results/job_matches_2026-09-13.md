@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-09-13
 
-**Total Jobs Found:** 15
+**Total Jobs Found:** 13
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. AWS Data Engineer (Databricks, AWS, Python) @ nan
-**Match Score:** 18.1%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Lambda, Kinesis, Redshift, Athena, Step Functions, S3, Databricks
-
-[Apply Here](https://www.indeed.com/viewjob?jk=595b0051a2bcc4f7)
-
----
-
-## 3. Senior Data Engineer - Remote Opportunity! @ KinderCare Learning Companies
+## 2. Senior Data Engineer - Remote Opportunity! @ KinderCare Learning Companies
 **Match Score:** 17.4%
 
 📍 **Location:** Beaverton, OR, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Service Delivery Center, Workflow Platform Backend Engineer - Senior @ EY
+## 3. Service Delivery Center, Workflow Platform Backend Engineer - Senior @ EY
 **Match Score:** 16.7%
 
 📍 **Location:** Alpharetta, GA, US USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Service Delivery Center, Workflow Platform Frontend Engineer - Analyst @ EY
+## 4. Service Delivery Center, Workflow Platform Frontend Engineer - Analyst @ EY
 **Match Score:** 15.3%
 
 📍 **Location:** Alpharetta, GA, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Service Delivery Center - Apigee Migration Engineer - Senior @ EY
+## 5. Service Delivery Center - Apigee Migration Engineer - Senior @ EY
 **Match Score:** 14.6%
 
 📍 **Location:** San Antonio, TX, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. AI Engineer @ Kavant Solutions
+## 6. AI Engineer @ Kavant Solutions
 **Match Score:** 13.9%
 
 📍 **Location:** Remote, US USA
@@ -82,18 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Data Engineer, Foundations @ Superhuman
-**Match Score:** 13.2%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** Redshift, Databricks, BigQuery, Spark, Scala, Kafka, Snowflake, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=db4b2ff29c4a064c)
-
----
-
-## 9. Senior DevOps Engineer @ Faro Health Inc.
+## 7. Senior DevOps Engineer @ Faro Health Inc.
 **Match Score:** 13.2%
 
 📍 **Location:** San Diego, CA, US USA
@@ -101,6 +79,28 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Event Hubs, Scala, Kafka, CI/CD, Jenkins, GitHub Actions, Azure DevOps
 
 [Apply Here](https://www.indeed.com/viewjob?jk=ae813694ea2911db)
+
+---
+
+## 8. Data Engineer @ Edurech Technoogy
+**Match Score:** 12.5%
+
+📍 **Location:** Texas City, TX, US USA
+
+🔑 **Keywords:** AWS, Redshift, Azure, Databricks, GCP, BigQuery, Hadoop, Spark, Scala, Snowflake
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1d764d5c996e8a37)
+
+---
+
+## 9. Site Reliability Engineer III @ JPMorganChase
+**Match Score:** 11.8%
+
+📍 **Location:** Jersey City, NJ, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Splunk, CI/CD, Jenkins, Terraform, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bb5dd80e1790149d)
 
 ---
 
@@ -126,47 +126,25 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 12. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.4%
+## 12. Oracle Database Admin - SQL/ETL @ Deloitte
+**Match Score:** 11.1%
 
-📍 **Location:** New Orleans, LA, US USA
+📍 **Location:** Dallas, TX, US USA
 
-🔑 **Keywords:** AWS, Azure, Databricks, Google Cloud Platform, GCP, Spark, Scala, Snowflake, Oracle, Power BI
+🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, Oracle, PostgreSQL, MongoDB, NoSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=495e97283db28786)
+[Apply Here](https://www.indeed.com/viewjob?jk=d1dbbd1ce7507f25)
 
 ---
 
 ## 13. Finance Analytics & AI Senior Consultant @ Deloitte
 **Match Score:** 10.4%
 
-📍 **Location:** Detroit, MI, US USA
+📍 **Location:** Baltimore, MD, US USA
 
 🔑 **Keywords:** AWS, Azure, Databricks, Google Cloud Platform, GCP, Spark, Scala, Snowflake, Oracle, Power BI
 
-[Apply Here](https://www.indeed.com/viewjob?jk=599a9753750e4b45)
-
----
-
-## 14. Infrastructure Engineer III @ JPMorganChase
-**Match Score:** 10.4%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Splunk, CI/CD, Terraform, Git, CloudWatch
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6e504e1d289586a8)
-
----
-
-## 15. Infrastructure Engineer III @ JPMorganChase
-**Match Score:** 10.4%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Splunk, CI/CD, Terraform, Git, CloudWatch
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1f02610c3add7e4b)
+[Apply Here](https://www.indeed.com/viewjob?jk=2e4badb7c2f63bb4)
 
 ---
 
