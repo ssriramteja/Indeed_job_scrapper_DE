@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-09-14
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,18 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Software Engineer III - AI/ML Developer @ JPMorganChase
-**Match Score:** 13.2%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, Scala, Snowflake, CI/CD, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=62e66b988bfbe6b1)
-
----
-
-## 3. Data Engineer @ Edurech Technoogy
+## 2. Data Engineer @ Edurech Technoogy
 **Match Score:** 12.5%
 
 📍 **Location:** Texas City, TX, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Senior Azure Cloud & Platform Engineer @ Farmers and Merchants Bank of Long Beach
+## 3. Senior Azure Cloud & Platform Engineer @ Farmers and Merchants Bank of Long Beach
 **Match Score:** 12.5%
 
 📍 **Location:** Seal Beach, CA, US USA
@@ -49,51 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Data Scientist @ Nestlé Purina
-**Match Score:** 12.5%
-
-📍 **Location:** St. Louis, MO, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, PySpark, Scala, Snowflake, MLOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=de1028ad7a9aa73a)
-
----
-
-## 6. Senior Associate, Data Scientist - PXT Analytics @ JPMorganChase
+## 4. Developer DBA @ Aeroflow Health
 **Match Score:** 11.1%
 
-📍 **Location:** Jersey City, NJ, US USA
+📍 **Location:** Asheville, NC, US USA
 
-🔑 **Keywords:** Redshift, RDS, Databricks, Scala, Snowflake, dbt, Tableau, CI/CD, Airflow, Apache Airflow
+🔑 **Keywords:** AWS, RDS, Azure, Scala, SQL Server, Data Modeling, ETL, CI/CD, GitHub Actions, Azure DevOps
 
-[Apply Here](https://www.indeed.com/viewjob?jk=27110d8079f69f7f)
-
----
-
-## 7. Site Reliability Engineer III @ JPMorganChase
-**Match Score:** 10.4%
-
-📍 **Location:** Jersey City, NJ, US USA
-
-🔑 **Keywords:** AWS, RDS, Databricks, Spark, PySpark, Scala, Snowflake, Splunk, Kubernetes, Datadog
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c5b2625881e5f2a5)
+[Apply Here](https://www.indeed.com/viewjob?jk=d0ad833078dc9770)
 
 ---
 
-## 8. Software Engineer III- Java/Python, SQL, Databricks @ JPMorganChase
-**Match Score:** 10.4%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Databricks, Spark, Scala, Kafka, Snowflake, Oracle, SQL Server, Tableau
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bc069827c03f863b)
-
----
-
-## 9. Software Engineer III-ETL/PySpark @ JPMorganChase
+## 5. Software Engineer III-ETL/PySpark @ JPMorganChase
 **Match Score:** 10.4%
 
 📍 **Location:** Wilmington, DE, US USA
@@ -101,6 +57,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Spark, PySpark, Scala, Snowflake, ETL, dbt, CI/CD, Airflow
 
 [Apply Here](https://www.indeed.com/viewjob?jk=84607e3a06c12fdd)
+
+---
+
+## 6. Senior Database Developer (SQL & Databricks) @ Rooms To Go
+**Match Score:** 10.4%
+
+📍 **Location:** Seffner, FL, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Data Lake Storage, Unity Catalog, Databricks Lakehouse, SQL Server, PostgreSQL, ETL, ELT
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7291666cf90be22a)
 
 ---
 
