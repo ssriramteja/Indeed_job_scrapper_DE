@@ -1,11 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-14 08:18
+Last updated: 2026-09-14 15:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=98c558c6b0a21fef) | 2026-09-14 15:27 |
+| Nakupuna Companies | Business Intelligence Analyst | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=302f426881732dba) | 2026-09-14 15:27 |
+| Adobe | Sr Cloud Security Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=068d737aa1c3172d) | 2026-09-14 15:27 |
 | Aeroflow Health | Developer DBA | Asheville, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0ad833078dc9770) | 2026-09-14 08:18 |
 | Rooms To Go | Senior Database Developer (SQL & Databricks) | Seffner, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7291666cf90be22a) | 2026-09-14 08:18 |
 | Farmers and Merchants Bank of Long Beach | Senior Azure Cloud & Platform Engineer | Seal Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=64e0da53c55c9779) | 2026-09-14 02:27 |
@@ -288,10 +291,6 @@ Last updated: 2026-09-14 08:18
 | Samsara | Senior Machine Learning Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e32a81cb68325f0) | 2026-09-10 16:46 |
 | Samsara | Senior Machine Learning Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6fa14d5b8cd87fc) | 2026-09-10 16:46 |
 | Samsara | Senior Machine Learning Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e793a447fb350e6) | 2026-09-10 16:46 |
-| EssilorLuxottica | Sr Developer - Java (POS) | Mason, OH, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e7519e1318081914) | 2026-09-10 12:30 |
-| Finbott | Sr. Databricks Engineer | Plano, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=215a62808c4ca701) | 2026-09-10 12:30 |
-| The Cigna Group | Technology Development Program (TECDP) - Data & Analytics Engineering Track - Start Date: July 12, 2027 | Bloomfield, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=55e214b9daaa34f3) | 2026-09-10 12:30 |
-| nan | Sr Product Software Engineer | Glendale, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=07909a893cd39d21) | 2026-09-10 12:30 |
 
 
 ---

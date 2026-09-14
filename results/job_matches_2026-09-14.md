@@ -5,29 +5,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Software Engineer III - Data Engineer @ JPMorganChase
-**Match Score:** 16.0%
+## 1. Software Engineer III - Databricks @ JPMorganChase
+**Match Score:** 18.8%
 
-📍 **Location:** Plano, TX, US USA
+📍 **Location:** Wilmington, DE, US USA
 
-🔑 **Keywords:** AWS, Glue, EMR, Lambda, S3, ECS, RDS, Databricks, Unity Catalog, Delta Live Tables
+🔑 **Keywords:** AWS, EMR, Lambda, ECS, RDS, Databricks, Unity Catalog, Spark, PySpark, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=abb83d271754206d)
-
----
-
-## 2. Data Engineer @ Edurech Technoogy
-**Match Score:** 12.5%
-
-📍 **Location:** Texas City, TX, US USA
-
-🔑 **Keywords:** AWS, Redshift, Azure, Databricks, GCP, BigQuery, Hadoop, Spark, Scala, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1d764d5c996e8a37)
+[Apply Here](https://www.indeed.com/viewjob?jk=98c558c6b0a21fef)
 
 ---
 
-## 3. Senior Azure Cloud & Platform Engineer @ Farmers and Merchants Bank of Long Beach
+## 2. Senior Azure Cloud & Platform Engineer @ Farmers and Merchants Bank of Long Beach
 **Match Score:** 12.5%
 
 📍 **Location:** Seal Beach, CA, US USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Developer DBA @ Aeroflow Health
+## 3. Developer DBA @ Aeroflow Health
 **Match Score:** 11.1%
 
 📍 **Location:** Asheville, NC, US USA
@@ -49,18 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Software Engineer III-ETL/PySpark @ JPMorganChase
-**Match Score:** 10.4%
+## 4. Business Intelligence Analyst @ Nakupuna Companies
+**Match Score:** 11.1%
 
-📍 **Location:** Wilmington, DE, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, RDS, Spark, PySpark, Scala, Snowflake, ETL, dbt, CI/CD, Airflow
+🔑 **Keywords:** AWS, RDS, Azure, Snowflake, Oracle, ETL, Power BI, Tableau, Azure DevOps, AKS
 
-[Apply Here](https://www.indeed.com/viewjob?jk=84607e3a06c12fdd)
+[Apply Here](https://www.indeed.com/viewjob?jk=302f426881732dba)
 
 ---
 
-## 6. Senior Database Developer (SQL & Databricks) @ Rooms To Go
+## 5. Senior Database Developer (SQL & Databricks) @ Rooms To Go
 **Match Score:** 10.4%
 
 📍 **Location:** Seffner, FL, US USA
@@ -68,6 +57,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, Databricks, Data Lake Storage, Unity Catalog, Databricks Lakehouse, SQL Server, PostgreSQL, ETL, ELT
 
 [Apply Here](https://www.indeed.com/viewjob?jk=7291666cf90be22a)
+
+---
+
+## 6. Sr Cloud Security Engineer @ Adobe
+**Match Score:** 10.4%
+
+📍 **Location:** Lehi, UT, US USA
+
+🔑 **Keywords:** AWS, IAM, RDS, Azure, GCP, Scala, CI/CD, Jenkins, Terraform, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=068d737aa1c3172d)
 
 ---
 
