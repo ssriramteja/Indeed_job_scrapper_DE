@@ -1,11 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-14 15:27
+Last updated: 2026-09-14 20:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Realign | AWS Python Data Engineer-6 | Malvern, PA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=aa471a4093b491aa) | 2026-09-14 20:03 |
+| Quest Diagnostics | Data Engineer (Remote) | Secaucus, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=dca7148f734ca29b) | 2026-09-14 20:03 |
+| nan | Data Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b69a57d634f44c20) | 2026-09-14 20:03 |
+| Park Place Technologies | Sr. AI Data Engineer | Highland Heights, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1e8be741f2af4076) | 2026-09-14 20:03 |
+| Realign | Senior Java Full Stack Developer-1 | McLean, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=27628c1d7944c002) | 2026-09-14 20:03 |
+| Realign | BI / Data Architect (Remote)-6 | Marlborough, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6d7214291c7c2637) | 2026-09-14 20:03 |
+| Smart Tech Skills LLC | Enterprise Cloud Solutions Architect | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7202b7d449bfa36a) | 2026-09-14 20:03 |
+| Global Payments | Data Engineer | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2d6a3b442efcc911) | 2026-09-14 20:03 |
+| Core specialty | Senior Data Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b44d832238c13ae8) | 2026-09-14 20:03 |
+| McKinsey & Company | Senior Data Engineer - Life Sciences.AI | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6a2b7a80aec3b5d1) | 2026-09-14 20:03 |
+| clickhouse | Senior Cloud Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7fa44fdea0190b34) | 2026-09-14 20:03 |
+| Indiana University Health | Developer-Information Services Senior | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=afda63d4c955805b) | 2026-09-14 20:03 |
+| Nitka Technologies | Platform Administrator (Databricks) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=414be1be9d96afd0) | 2026-09-14 20:03 |
+| Volantsoft Inc | Senior Quality Analyst | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=01c19f449674df9d) | 2026-09-14 20:03 |
+| Optum | Software Engineer (Full Stack Developer) - Remote | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c1ee89c82aaaecc5) | 2026-09-14 20:03 |
+| nan | Senior Software Engineer | Boulder, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ff6f6e6edf5293) | 2026-09-14 20:03 |
+| Realign | Sr Data Engineering Architect – Fraud Domain-5 | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9cc5633ac50e4a9c) | 2026-09-14 20:03 |
+| Texas Health and Human Services Commission | Java Developer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47d37c2372a4bc58) | 2026-09-14 20:03 |
+| nan | GCP Data Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=acfc93badebee67f) | 2026-09-14 20:03 |
+| QuickNode | Senior Infrastructure Engineer, Core Systems | Hallandale Beach, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=44dbc0a1e62ab6b6) | 2026-09-14 20:03 |
 | JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=98c558c6b0a21fef) | 2026-09-14 15:27 |
 | Nakupuna Companies | Business Intelligence Analyst | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=302f426881732dba) | 2026-09-14 15:27 |
 | Adobe | Sr Cloud Security Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=068d737aa1c3172d) | 2026-09-14 15:27 |
@@ -257,40 +277,6 @@ Last updated: 2026-09-14 15:27
 | RELX Group | Senior Site Reliability Engineer II ** Remote EST Preferred | Horsham, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b3bcb4fe5f29db11) | 2026-09-10 22:06 |
 | Academy Sports + Outdoors | Sr Enterprise Data Platform and Engineering | Katy, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1e7fe15b0b60a4d2) | 2026-09-10 22:06 |
 | Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f8c0277359b3cc2) | 2026-09-10 22:06 |
-| NTT DATA | ETL Developer | US USA | 29.2% | [Apply](https://www.indeed.com/viewjob?jk=0a9ab035b419ae49) | 2026-09-10 19:22 |
-| Wells Fargo | Senior Software Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=eab311aee9088816) | 2026-09-10 19:22 |
-| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=060cda39e6c67619) | 2026-09-10 19:22 |
-| Diversified Services Network | (1112164) Senior Software Engineer - Java/AWS | Peoria, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e81425a0990a5a5) | 2026-09-10 19:22 |
-| Diversified Services Network | (1112164) Senior Software Engineer - Java/AWS | Chicago, IL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8b1ca06bddd5e551) | 2026-09-10 19:22 |
-| Capgemini | Java Developer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8137b74f0acce5b3) | 2026-09-10 19:22 |
-| Capgemini | Java Developer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=14f224257248a225) | 2026-09-10 19:22 |
-| Doeren Mayhew CPAs and Advisors | Azure Cloud Solutions Developer / Engineer | Dallas, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f16b1ba2fceeeff4) | 2026-09-10 19:22 |
-| Colaberry | Senior Data Engineer (Contract) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8afd4daee0cfbd6a) | 2026-09-10 19:22 |
-| Colaberry | Senior Data Engineer (Contract) | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=feb309dc36a3ade0) | 2026-09-10 19:22 |
-| VRN Technologies | Data Engineer | San Antonio, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e6a06ecdadb7f76) | 2026-09-10 19:22 |
-| The Cigna Group | Technology Development Program (TECDP) - Data & Analytics Engineering Track - Start Date: July 12, 2027 | Morris Plains, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1edfbfa72a62d73c) | 2026-09-10 19:22 |
-| Optum | Associate Data Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e60af316cfb20b16) | 2026-09-10 19:22 |
-| Sunbelt Rentals | Sr. Data Engineer | Fort Mill, SC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ae52bab9bde8833) | 2026-09-10 19:22 |
-| Hallmark | Data Engineer (remote) | Kansas City, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19d1b36881ddad57) | 2026-09-10 19:22 |
-| Sunbelt Rentals | Data Engineer - Compensation Systems | Fort Mill, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1354b65cdd4f0090) | 2026-09-10 19:22 |
-| Sunbelt Rentals | Data Engineer | Fort Mill, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2654e3bd2509e90) | 2026-09-10 19:22 |
-| Transnational Software Services | Full Stack Developer - .NET / Angular | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ab2cf6fa97f7e112) | 2026-09-10 19:22 |
-| U.S. Bank | Sr. DevOps Infrastructure Engineer (AWS, Terraform, Cloud Networking) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fab84d04db02eee2) | 2026-09-10 19:22 |
-| HomeServices of America | Sr Data Integration Engineer | Eden Prairie, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=dece858441573583) | 2026-09-10 16:46 |
-| nan | Senior Software Engineer – Full Stack / Backend / AI Systems | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2ee3d7ccc5b43286) | 2026-09-10 16:46 |
-| KeyBank | Data & Business Intelligence Senior Associate | Amherst, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c40cbadc2d21dbaf) | 2026-09-10 16:46 |
-| KeyBank | Data & Business Intelligence Senior Associate | Buffalo, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e8f5698c0d5c0c74) | 2026-09-10 16:46 |
-| KeyBank | Data & Business Intelligence Senior Associate | Brooklyn, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b59e4133cbdb8ecb) | 2026-09-10 16:46 |
-| KeyBank | Data & Business Intelligence Senior Associate | Albany, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=301dcda44c4f6fc9) | 2026-09-10 16:46 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ab128e3501b51439) | 2026-09-10 16:46 |
-| Vantive | Platform Engineer, IT - DevOps and Emerging Tech | Deerfield, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4b951826f674481d) | 2026-09-10 16:46 |
-| Samsara | Senior Machine Learning Engineer | Los Angeles, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=51b5c752bcea4a63) | 2026-09-10 16:46 |
-| Samsara | Senior Machine Learning Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29c6c7d18ea19a8a) | 2026-09-10 16:46 |
-| Samsara | Senior Machine Learning Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3008b2b65d88bbc4) | 2026-09-10 16:46 |
-| Samsara | Senior Machine Learning Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a0920adba0ab6199) | 2026-09-10 16:46 |
-| Samsara | Senior Machine Learning Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e32a81cb68325f0) | 2026-09-10 16:46 |
-| Samsara | Senior Machine Learning Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6fa14d5b8cd87fc) | 2026-09-10 16:46 |
-| Samsara | Senior Machine Learning Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e793a447fb350e6) | 2026-09-10 16:46 |
 
 
 ---
