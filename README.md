@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-13 23:51
+Last updated: 2026-09-14 02:27
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Farmers and Merchants Bank of Long Beach | Senior Azure Cloud & Platform Engineer | Seal Beach, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=64e0da53c55c9779) | 2026-09-14 02:27 |
+| Nestlé Purina | Data Scientist | St. Louis, MO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=de1028ad7a9aa73a) | 2026-09-14 02:27 |
+| JPMorganChase | Senior Associate, Data Scientist - PXT Analytics | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27110d8079f69f7f) | 2026-09-14 02:27 |
+| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5b2625881e5f2a5) | 2026-09-14 02:27 |
+| JPMorganChase | Software Engineer III- Java/Python, SQL, Databricks | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc069827c03f863b) | 2026-09-14 02:27 |
 | JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=62e66b988bfbe6b1) | 2026-09-13 21:56 |
 | JPMorganChase | Software Engineer III (Agentic AI/Java/AWS/Microservices) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37fd391ae46ec426) | 2026-09-13 21:56 |
 | JPMorganChase | Full Stack Java/React Developer - Data Scientist Senior Associate | San Antonio, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=099249332f619f68) | 2026-09-13 21:56 |
@@ -334,8 +339,6 @@ Last updated: 2026-09-13 23:51
 | S&P Global | Machine Learning Engineer - Summer Intern 2027 | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=932faec898cf8b5a) | 2026-09-10 07:39 |
 | NTT DATA | Senior AWS Integration Developer - Remote US Position | McKinney, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7650144ccb1d9294) | 2026-09-10 07:39 |
 | NTT DATA | Senior AWS Integration Developer - Remote US Position | McKinney, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=28c061b38565c9ee) | 2026-09-10 07:39 |
-| Hub Group | Data Engineer | Oak Brook, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e7ef7cf9602f7515) | 2026-09-10 02:10 |
-| U.S. Bank | Sr. DevOps Infrastructure Engineer (AWS, Terraform, Cloud Networking) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4464a121a8f2d266) | 2026-09-10 02:10 |
 
 
 ---
