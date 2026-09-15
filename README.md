@@ -1,11 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-15 14:00
+Last updated: 2026-09-15 18:01
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Vdrive IT Solutions, Inc | Software Developer | Richardson, TX, US USA | 27.8% | [Apply](https://www.indeed.com/viewjob?jk=667cfa1dd76c2ddd) | 2026-09-15 18:01 |
+| BankUnited | Data Engineer II | Miami Lakes, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=cce5aca3307e7b11) | 2026-09-15 18:01 |
+| Blue Yonder | Sr Software Engineer ( Gen AI) | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9a55a27bf3bdffde) | 2026-09-15 18:01 |
+| Archer Technologies | Data Scientist | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=af675a1bad178e96) | 2026-09-15 18:01 |
+| USA TODAY Co. | Sr. Database Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=89a64e47bb998b04) | 2026-09-15 18:01 |
+| United Concordia Dental | Senior Solutions Architect | Pittsburgh, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fca9d1100abe83d1) | 2026-09-15 18:01 |
+| McKinsey & Company | Senior Data Engineer - Life Sciences.AI | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6a2b7a80aec3b5d1) | 2026-09-15 18:01 |
+| nan | Sr Software Engineer | Glendale, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d8c55ab8d1ce73d1) | 2026-09-15 18:01 |
+| Crane Worldwide Logistics | Software Engineer II | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=07af4f620d0cc3ad) | 2026-09-15 18:01 |
+| Bain & Company | Full Stack Software Engineer (TypeScript/Python) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1108428f0442645f) | 2026-09-15 18:01 |
+| Bain & Company | Full Stack Software Engineer (TypeScript/Python) | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cb5b3f8be39e2cf3) | 2026-09-15 18:01 |
+| Bain & Company | Full Stack Software Engineer (TypeScript/Python) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=626a3ca05c9e1497) | 2026-09-15 18:01 |
+| Bain & Company | Full Stack Software Engineer (TypeScript/Python) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=948876a952a5db1a) | 2026-09-15 18:01 |
+| Bain & Company | Full Stack Software Engineer (TypeScript/Python) | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df19aee9bab6697d) | 2026-09-15 18:01 |
+| Bain & Company | Full Stack Software Engineer (TypeScript/Python) | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=10123b5be13e8cee) | 2026-09-15 18:01 |
+| AGILE FUEL | Senior Full-Stack Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c7226137c575620c) | 2026-09-15 18:01 |
+| Optum | Senior Software Engineer | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad396daca54f6bd7) | 2026-09-15 18:01 |
+| Maximus | IT Architect - Cloud Platform | Tysons, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e51855e99ddfa3fa) | 2026-09-15 18:01 |
 | Sprouts Farmers Market | Software Engineer III (Full Stack) | Phoenix, AZ, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=9717265e88692311) | 2026-09-15 14:00 |
 | CVS Health | Senior Data Engineer - AdTech | Providence, RI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5b2fbc392614d709) | 2026-09-15 14:00 |
 | CVS Health | Senior Data Engineer - AdTech | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6af04b95cd5d2424) | 2026-09-15 14:00 |
@@ -14,19 +32,12 @@ Last updated: 2026-09-15 14:00
 | CVS Health | Senior Data Engineer - AdTech | Wellesley, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3854c365175f4276) | 2026-09-15 14:00 |
 | CVS Health | Senior Data Engineer - AdTech | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=1dd7a6b30eff5d07) | 2026-09-15 14:00 |
 | CVS Health | Senior Data Engineer - AdTech | Hartford, CT, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f69e132dc9a962d0) | 2026-09-15 14:00 |
-| McKinsey & Company | Senior Data Engineer - Life Sciences.AI | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6a2b7a80aec3b5d1) | 2026-09-15 14:00 |
 | nan | Senior Full Stack Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=6e62ff1bbfe4e73a) | 2026-09-15 14:00 |
 | Databricks | Specialist Solutions Architect - Data Engineering (Healthcare & Life Sciences) | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ee4a79d5875658d6) | 2026-09-15 14:00 |
 | NextPower | Data Engineer I | Fremont, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1000f4bc65203865) | 2026-09-15 14:00 |
 | EXL Service | Snowflake Architect | Jersey City, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b59486981299cdc8) | 2026-09-15 14:00 |
 | EXL Service | Palantir Data Engineer | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=846bf8f81216a75d) | 2026-09-15 14:00 |
 | Optum | Software Engineer | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eeb102790d16f532) | 2026-09-15 14:00 |
-| Bain & Company | Full Stack Software Engineer (TypeScript/Python) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1108428f0442645f) | 2026-09-15 14:00 |
-| Bain & Company | Full Stack Software Engineer (TypeScript/Python) | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cb5b3f8be39e2cf3) | 2026-09-15 14:00 |
-| Bain & Company | Full Stack Software Engineer (TypeScript/Python) | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=626a3ca05c9e1497) | 2026-09-15 14:00 |
-| Bain & Company | Full Stack Software Engineer (TypeScript/Python) | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=948876a952a5db1a) | 2026-09-15 14:00 |
-| Bain & Company | Full Stack Software Engineer (TypeScript/Python) | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df19aee9bab6697d) | 2026-09-15 14:00 |
-| Bain & Company | Full Stack Software Engineer (TypeScript/Python) | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=10123b5be13e8cee) | 2026-09-15 14:00 |
 | WEX Inc. | AI & Data Platform Engineering Intern (Undergraduate) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=75bca6b36a764259) | 2026-09-15 14:00 |
 | Foot Locker | Data & Analytics Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba07136a4a72ee21) | 2026-09-15 14:00 |
 | Photon | Data Architect - Irving | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=bbe7b157eada5171) | 2026-09-15 08:11 |
@@ -391,17 +402,6 @@ Last updated: 2026-09-15 14:00
 | AHU Technologies | Senior Dynamics 365 - Power Platform Developer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a44cb65cdf117f8c) | 2026-09-11 20:44 |
 | Collaboredge | CFSA Senior Developer D365 Power Platform Azure | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2a56b6f1122d847a) | 2026-09-11 20:44 |
 | Realign | Gen AI Engineer | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75d4584624626366) | 2026-09-11 20:44 |
-| Volantsoft Inc | Senior Developer W Cloud-Native Data AWS Kafka | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7dd24f1dcad4258c) | 2026-09-11 18:00 |
-| Convey | Senior Software Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6eab47ece7c9f23b) | 2026-09-11 18:00 |
-| project44 | Senior Software Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8fccc8f57dde6104) | 2026-09-11 18:00 |
-| Dragonfly Health | Senior Data Visualization Developer/Full Stack Developer - Contractor | Mesa, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=261266691bb3209c) | 2026-09-11 18:00 |
-| Cognizant | Senior Java Developer (Spring Boot & AWS Glue) | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19c62182c1dfd5a0) | 2026-09-11 18:00 |
-| DocuSign | Senior Software Engineer - AI | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1fc6a45a47cc178b) | 2026-09-11 18:00 |
-| Crane Worldwide Logistics | Integration Engineer | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4bb5a16405efb7b8) | 2026-09-11 18:00 |
-| JSR Tech Consulting | Sr. Machine Learning Engineer | NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=451b6e29bdbd8304) | 2026-09-11 18:00 |
-| P3+Uplift | Software Engineer | Des Moines, IA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=58d1e81b36b332b5) | 2026-09-11 18:00 |
-| First Orion | Data Platform Engineer | North Little Rock, AR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=56ed3d25e2b81e91) | 2026-09-11 14:43 |
-| Micron Technology | Full-Stack AI Engineer | Boise, ID, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1d64b090a5428a5) | 2026-09-11 14:43 |
 
 
 ---
