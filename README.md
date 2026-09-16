@@ -1,14 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-16 17:52
+Last updated: 2026-09-16 20:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7b88cb40099cd54b) | 2026-09-16 20:40 |
+| Wells Fargo | Senior Software Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cc8620f42415bd69) | 2026-09-16 20:40 |
+| National Computer Systems | Senior Cloud Data Engineer | Piscataway, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=91ce31f9ba1d4192) | 2026-09-16 20:40 |
+| Aligned Data Centers | Data Architect | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=da2322fc8a33bd97) | 2026-09-16 20:40 |
+| Nextech | Business Intelligence Developer | Melbourne, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f95554a6b8bcb269) | 2026-09-16 20:40 |
+| Koch | Senior Analytics Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ef4a72b86d37bff3) | 2026-09-16 20:40 |
+| Koch | Senior Analytics Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=00a98a2d8c15d1a0) | 2026-09-16 20:40 |
+| Koch | Senior Analytics Engineer | Wichita, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e8181787c8461d9) | 2026-09-16 20:40 |
+| SailPoint Technologies | Sr. Machine Learning Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aec8c83533c1022a) | 2026-09-16 20:40 |
+| The J. M. Smucker Company | Data Architect, Enterprise Data Platform | Orrville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8264f5518d85c62b) | 2026-09-16 20:40 |
+| Identity Digital | Data Scientist & Machine Learning Engineer (Bellevue, Denver or LA) | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f2c697474cdd2518) | 2026-09-16 20:40 |
+| AG Consulting Partners | Senior Workday Financials Integration Developer (Consultant) | Olympia, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=57f5ec07c77f1adc) | 2026-09-16 20:40 |
+| Tekserv | Senior Calypso Java Developer Consultant | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8359a4f919eb2d99) | 2026-09-16 20:40 |
+| Tekserv | Senior Calypso Java Developer Consultant | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=89ff0cd4686bfd2e) | 2026-09-16 20:40 |
+| nan | Enterprise Architect | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5a86278bda2e3b90) | 2026-09-16 20:40 |
+| Smarsh | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c4ec12045d23a841) | 2026-09-16 20:40 |
 | Citi | Sr. AI/Python Engineer | Tampa, FL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=2668edd7349e606b) | 2026-09-16 17:52 |
 | Floor & Decor | Software Developer II | Atlanta, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=269ed9811c4ddaf1) | 2026-09-16 17:52 |
-| The Coca-Cola Company | Software Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=56823350b0e43e7b) | 2026-09-16 17:52 |
 | PowerSecure Inc. | Data Solutions Engineer - Hybrid / Durham, NC | Durham, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=186bcafa22d4b760) | 2026-09-16 17:52 |
 | ebbo | Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=00129c0be2bb43b6) | 2026-09-16 17:52 |
 | Huron Consulting Group | Data Platform Engineer (Associate) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee7fc7e8196397da) | 2026-09-16 17:52 |
@@ -22,7 +37,6 @@ Last updated: 2026-09-16 17:52
 | nan | Application Developer | Manhattan, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45ee9b464c973901) | 2026-09-16 17:52 |
 | Optum | Senior Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6629a97b773e9046) | 2026-09-16 17:52 |
 | Syngenta | Senior Data Engineer | Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39e8077574f9d2d1) | 2026-09-16 17:52 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=991793b1299304ff) | 2026-09-16 17:52 |
 | JPMorganChase | Software Engineer II: Data Engineer | Jersey City, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a5b2c0563ecfc04e) | 2026-09-16 13:54 |
 | Bank of America | Senior Data Streaming Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f9b47adc9fda6292) | 2026-09-16 13:54 |
 | Alight Solutions | Azure DevOps Engineer | IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b83169a97751389a) | 2026-09-16 13:54 |
@@ -455,11 +469,6 @@ Last updated: 2026-09-16 17:52
 | EY | Service Delivery Center, Workflow Platform Frontend Engineer - Analyst | Alpharetta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=453905d3b180d894) | 2026-09-12 21:07 |
 | EY | Service Delivery Center - Apigee Migration Engineer - Senior | San Antonio, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d02fbb8686e98a85) | 2026-09-12 21:07 |
 | Kavant Solutions | AI Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=84f280b9c5186dbd) | 2026-09-12 21:07 |
-| nan | AWS Data Engineer (Databricks, AWS, Python) | Houston, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=595b0051a2bcc4f7) | 2026-09-12 18:53 |
-| Worth AI | Senior DevOps Engineer, Infrastructure & Reliability | Tampa, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d4dec605ec7e7534) | 2026-09-12 18:53 |
-| Worth AI | Senior DevOps Engineer, Infrastructure & Reliability | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=867542810b759ecf) | 2026-09-12 18:53 |
-| Faro Health Inc. | Senior DevOps Engineer | San Diego, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae813694ea2911db) | 2026-09-12 18:53 |
-| JPMorganChase | Site Reliability Engineer III - AWS, Java and Kubernetes | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a341c0c6a783354) | 2026-09-12 18:53 |
 
 
 ---
