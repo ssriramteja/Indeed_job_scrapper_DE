@@ -1,13 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-16 08:05
+Last updated: 2026-09-16 13:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| JPMorganChase | Software Engineer II: Data Engineer | Jersey City, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a5b2c0563ecfc04e) | 2026-09-16 13:54 |
+| Bank of America | Senior Data Streaming Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f9b47adc9fda6292) | 2026-09-16 13:54 |
+| The Coca-Cola Company | Software Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=56823350b0e43e7b) | 2026-09-16 13:54 |
+| Alight Solutions | Azure DevOps Engineer | IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b83169a97751389a) | 2026-09-16 13:54 |
+| Cox Automotive | Data Engineer I | Carmel, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c06a4bf8bf5eacf5) | 2026-09-16 13:54 |
+| College Board | Sr Full Stack Engineer, Platform Services | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b325145434e13d25) | 2026-09-16 13:54 |
+| Alter Domus | Senior Database Administrator - PostgreSQL Carmel, United States Sep. 15, 2026 | Carmel, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=466ef9cc01d7f367) | 2026-09-16 13:54 |
+| Staples | Senior Data Scientist | Framingham, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d260e41a66c285a8) | 2026-09-16 13:54 |
+| Intercontinental Exchange | Senior Engineer, IT | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1200afb16be7a459) | 2026-09-16 13:54 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=991793b1299304ff) | 2026-09-16 13:54 |
+| Okta | Senior TDI Site Reliability Engineer, Okta Federal | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=180e2e1d120eeb3a) | 2026-09-16 13:54 |
 | Acxiom | Intern - Data Engineer | Conway, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5cb6bc702cc8f819) | 2026-09-16 08:05 |
-| The Coca-Cola Company | Software Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=56823350b0e43e7b) | 2026-09-16 08:05 |
 | Capgemini | Dev Engineer SOW # EG CO1 B2 US | Seattle, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d53cf9d0bf68048b) | 2026-09-16 08:05 |
 | BV Teck | React Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=772f1be866124af1) | 2026-09-16 08:05 |
 | Veson Nautical | Site Reliability Engineer - GCP | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9c626e90462e462c) | 2026-09-16 08:05 |
@@ -22,7 +32,6 @@ Last updated: 2026-09-16 08:05
 | Changeis, Inc. | Database Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e7802e0b1c362ab) | 2026-09-16 08:05 |
 | SS&C | Full Stack Developer | IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d430b11f1930cc7f) | 2026-09-16 08:05 |
 | Electronic Arts | Software Engineer III - Enterprise Intelligence | Kirkland, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b3f3c53f35b1893) | 2026-09-16 08:05 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=991793b1299304ff) | 2026-09-16 08:05 |
 | General Motors (GM) | Senior Software Engineer – Manufacturing Digital Operations | Warren, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a6c17d5756834ac8) | 2026-09-16 08:05 |
 | Citrin Cooperman Advisors LLC | Senior LLMOps Engineer, Development | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1698a3db62a44dc8) | 2026-09-16 08:05 |
 | BV Teck | Apache Spark Developer | Remote, US USA | 31.9% | [Apply](https://www.indeed.com/viewjob?jk=a431ef26933c9cab) | 2026-09-16 02:26 |
@@ -439,29 +448,6 @@ Last updated: 2026-09-16 08:05
 | Superhuman | Data Engineer, Foundations | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=db4b2ff29c4a064c) | 2026-09-12 16:39 |
 | Booz Allen Hamilton | Databricks Platform Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7737dd6535d2fd63) | 2026-09-12 16:39 |
 | JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e96bd7a58d09125) | 2026-09-12 16:39 |
-| ritepros | Data Scientist | Portland, ME, US USA | 27.1% | [Apply](https://www.indeed.com/viewjob?jk=72ebc0184eaf514f) | 2026-09-12 13:16 |
-| JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=7d5ac038b52e4c9f) | 2026-09-12 13:16 |
-| Princeton University | Infrastructure Engineer | Princeton, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=42f48af529b6933f) | 2026-09-12 13:16 |
-| Princeton University | Integration Developer | Princeton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0ec56e792f8b579b) | 2026-09-12 13:16 |
-| JPMorganChase | Software Engineer III | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=03eb56a973b20acc) | 2026-09-12 13:16 |
-| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1d7e9ecc9b2a5055) | 2026-09-12 13:16 |
-| Target | Data Engineer - Finance AI Solutions | Brooklyn Park, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84bfe83ebefec716) | 2026-09-12 13:16 |
-| JPMorganChase | Site Reliability Engineer III | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1bf50c444c6292e3) | 2026-09-12 13:16 |
-| JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d96490d4c97f8fd) | 2026-09-12 13:16 |
-| Princeton University | Data Engineer | Princeton, NJ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3e8e25ec68157adb) | 2026-09-12 09:49 |
-| ARC-One Solutions | Sr. Data Engineer | US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8802a8b04c1f74c1) | 2026-09-12 09:49 |
-| JPMorganChase | Software Engineer III - Data Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8d45eb216c68737b) | 2026-09-12 09:49 |
-| State Teachers' Retirement System | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7c9dbecd28bfb842) | 2026-09-12 09:49 |
-| Worth AI | Senior DevOps Engineer, Infrastructure & Reliability | Miami, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b8582e8cd3f2da98) | 2026-09-12 09:49 |
-| JPMorganChase | Full Stack Java/React Developer - Data Scientist Senior Associate | San Antonio, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5a985a197da27b33) | 2026-09-12 09:49 |
-| JPMorganChase | Software Engineer III - PySpark/AWS/Databricks | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=75e60cd51a5aabad) | 2026-09-12 09:49 |
-| ZBD | Senior Analytics Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dbbfb0108ea2777b) | 2026-09-12 09:49 |
-| Crum & Forster | Senior Software Engineer, Quality & Automation | Glastonbury, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bc5ab41dfa01d9f2) | 2026-09-12 09:49 |
-| Softek International Inc | Data Architect | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4945bb4012ef1aca) | 2026-09-12 09:49 |
-| BrightSpring Health Services | Enterprise Solution Architect, AI Health Cloud | Louisville, KY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=edbbdd6afcbff323) | 2026-09-12 09:49 |
-| PathAI | Senior Software Engineer, ML Ops | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=efb2a43efc0c3365) | 2026-09-12 09:49 |
-| STAR Autism Support | Quality Assurance Engineer | Beaverton, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=489e0afc743493db) | 2026-09-12 09:49 |
-| ServiceTitan | Senior Site Reliability Engineer, AI Agents & Automation | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f35b58795197a9c9) | 2026-09-12 09:49 |
 
 
 ---
