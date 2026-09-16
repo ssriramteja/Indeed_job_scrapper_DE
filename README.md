@@ -1,21 +1,36 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-16 13:54
+Last updated: 2026-09-16 17:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Citi | Sr. AI/Python Engineer | Tampa, FL, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=2668edd7349e606b) | 2026-09-16 17:52 |
+| Floor & Decor | Software Developer II | Atlanta, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=269ed9811c4ddaf1) | 2026-09-16 17:52 |
+| The Coca-Cola Company | Software Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=56823350b0e43e7b) | 2026-09-16 17:52 |
+| PowerSecure Inc. | Data Solutions Engineer - Hybrid / Durham, NC | Durham, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=186bcafa22d4b760) | 2026-09-16 17:52 |
+| ebbo | Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=00129c0be2bb43b6) | 2026-09-16 17:52 |
+| Huron Consulting Group | Data Platform Engineer (Associate) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee7fc7e8196397da) | 2026-09-16 17:52 |
+| Sinch | Platform Engineer III | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cc06fce927a41534) | 2026-09-16 17:52 |
+| Markel Corporation | Software Engineer | Glen Allen, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3504f95af705a178) | 2026-09-16 17:52 |
+| VeeRteq Solutions Inc. | Senior Stardog Admin/DevOps Consultant | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=66fe2f823196d7aa) | 2026-09-16 17:52 |
+| Kemper | SQL Server DBA | Jacksonville, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2342678cabeb9fcd) | 2026-09-16 17:52 |
+| Kemper | SQL Server DBA | Downers Grove, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2ea93dcbac7e86e9) | 2026-09-16 17:52 |
+| Kemper | SQL Server DBA | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=628c74eaec435595) | 2026-09-16 17:52 |
+| nan | Stardog Admin | Minneapolis, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=13a16d396aacef30) | 2026-09-16 17:52 |
+| nan | Application Developer | Manhattan, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=45ee9b464c973901) | 2026-09-16 17:52 |
+| Optum | Senior Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6629a97b773e9046) | 2026-09-16 17:52 |
+| Syngenta | Senior Data Engineer | Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=39e8077574f9d2d1) | 2026-09-16 17:52 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=991793b1299304ff) | 2026-09-16 17:52 |
 | JPMorganChase | Software Engineer II: Data Engineer | Jersey City, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a5b2c0563ecfc04e) | 2026-09-16 13:54 |
 | Bank of America | Senior Data Streaming Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=f9b47adc9fda6292) | 2026-09-16 13:54 |
-| The Coca-Cola Company | Software Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=56823350b0e43e7b) | 2026-09-16 13:54 |
 | Alight Solutions | Azure DevOps Engineer | IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b83169a97751389a) | 2026-09-16 13:54 |
 | Cox Automotive | Data Engineer I | Carmel, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c06a4bf8bf5eacf5) | 2026-09-16 13:54 |
 | College Board | Sr Full Stack Engineer, Platform Services | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b325145434e13d25) | 2026-09-16 13:54 |
 | Alter Domus | Senior Database Administrator - PostgreSQL Carmel, United States Sep. 15, 2026 | Carmel, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=466ef9cc01d7f367) | 2026-09-16 13:54 |
 | Staples | Senior Data Scientist | Framingham, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d260e41a66c285a8) | 2026-09-16 13:54 |
 | Intercontinental Exchange | Senior Engineer, IT | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1200afb16be7a459) | 2026-09-16 13:54 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=991793b1299304ff) | 2026-09-16 13:54 |
 | Okta | Senior TDI Site Reliability Engineer, Okta Federal | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=180e2e1d120eeb3a) | 2026-09-16 13:54 |
 | Acxiom | Intern - Data Engineer | Conway, AR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=5cb6bc702cc8f819) | 2026-09-16 08:05 |
 | Capgemini | Dev Engineer SOW # EG CO1 B2 US | Seattle, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=d53cf9d0bf68048b) | 2026-09-16 08:05 |
@@ -445,9 +460,6 @@ Last updated: 2026-09-16 13:54
 | Worth AI | Senior DevOps Engineer, Infrastructure & Reliability | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=867542810b759ecf) | 2026-09-12 18:53 |
 | Faro Health Inc. | Senior DevOps Engineer | San Diego, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ae813694ea2911db) | 2026-09-12 18:53 |
 | JPMorganChase | Site Reliability Engineer III - AWS, Java and Kubernetes | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3a341c0c6a783354) | 2026-09-12 18:53 |
-| Superhuman | Data Engineer, Foundations | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=db4b2ff29c4a064c) | 2026-09-12 16:39 |
-| Booz Allen Hamilton | Databricks Platform Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7737dd6535d2fd63) | 2026-09-12 16:39 |
-| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e96bd7a58d09125) | 2026-09-12 16:39 |
 
 
 ---
