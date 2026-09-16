@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-16 20:40
+Last updated: 2026-09-16 23:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Astronautics Corporation of America | Data Engineer | Oak Creek, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=56f1559bf7f9b420) | 2026-09-16 23:25 |
+| Zencastr | Senior Data Engineer (Remote) | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fc787126ad9474ae) | 2026-09-16 23:25 |
+| Mpk Solutions | Databricks Engineer | Ashburn, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=51f94a146708ee43) | 2026-09-16 23:25 |
+| Katalyst Healthcares & Life Sciences | Senior Data Engineer Oracle, Spark & Cloud Analytics | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=744f32dc4d7988bb) | 2026-09-16 23:25 |
+| Aritzia | Technology - Enterprise Data Architect | Seattle, WA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f72f1d8c4f42885d) | 2026-09-16 23:25 |
+| EXL Service | Java API / Publication Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d4b6512cfed6eddc) | 2026-09-16 23:25 |
+| Credibly | Sr. Software Engineer - Based in India | IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bc86ee3cbc668eb6) | 2026-09-16 23:25 |
+| Optum | Software Engineer | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a37c4760006d71ef) | 2026-09-16 23:25 |
+| The J. M. Smucker Company | Data Architect, Enterprise Data Platform | Orrville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8264f5518d85c62b) | 2026-09-16 23:25 |
+| St. Peter's Health | Data Engineer II - IT AI and Data Technology | Helena, MT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f24058fb3749fead) | 2026-09-16 23:25 |
+| Eli Lilly | Data Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9beae62bd7c3a68d) | 2026-09-16 23:25 |
+| General Motors (GM) | Data Engineer - Data Software Engineering and Cloud Platforms, Early Career | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73a6ea7b7776e3ae) | 2026-09-16 23:25 |
+| Visa | Senior Software Engineer - Corporate GenAI | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=98c6a0f35165b0f3) | 2026-09-16 23:25 |
 | Wells Fargo | Senior Software Engineer | Charlotte, NC, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=7b88cb40099cd54b) | 2026-09-16 20:40 |
 | Wells Fargo | Senior Software Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=cc8620f42415bd69) | 2026-09-16 20:40 |
 | National Computer Systems | Senior Cloud Data Engineer | Piscataway, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=91ce31f9ba1d4192) | 2026-09-16 20:40 |
@@ -15,7 +28,6 @@ Last updated: 2026-09-16 20:40
 | Koch | Senior Analytics Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=00a98a2d8c15d1a0) | 2026-09-16 20:40 |
 | Koch | Senior Analytics Engineer | Wichita, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e8181787c8461d9) | 2026-09-16 20:40 |
 | SailPoint Technologies | Sr. Machine Learning Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aec8c83533c1022a) | 2026-09-16 20:40 |
-| The J. M. Smucker Company | Data Architect, Enterprise Data Platform | Orrville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8264f5518d85c62b) | 2026-09-16 20:40 |
 | Identity Digital | Data Scientist & Machine Learning Engineer (Bellevue, Denver or LA) | Bellevue, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f2c697474cdd2518) | 2026-09-16 20:40 |
 | AG Consulting Partners | Senior Workday Financials Integration Developer (Consultant) | Olympia, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=57f5ec07c77f1adc) | 2026-09-16 20:40 |
 | Tekserv | Senior Calypso Java Developer Consultant | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8359a4f919eb2d99) | 2026-09-16 20:40 |
@@ -463,12 +475,6 @@ Last updated: 2026-09-16 20:40
 | JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=691f4a76da481428) | 2026-09-13 02:09 |
 | JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2395a3423532a7f5) | 2026-09-12 23:35 |
 | JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7be3668078d3c0d) | 2026-09-12 23:35 |
-| Kavant Solutions | AI Architect | Remote, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=28c474e6ef0d9a03) | 2026-09-12 21:07 |
-| KinderCare Learning Companies | Senior Data Engineer - Remote Opportunity! | Beaverton, OR, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=8e29b703157f7cf6) | 2026-09-12 21:07 |
-| EY | Service Delivery Center, Workflow Platform Backend Engineer - Senior | Alpharetta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=83a6b09a8c7e1119) | 2026-09-12 21:07 |
-| EY | Service Delivery Center, Workflow Platform Frontend Engineer - Analyst | Alpharetta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=453905d3b180d894) | 2026-09-12 21:07 |
-| EY | Service Delivery Center - Apigee Migration Engineer - Senior | San Antonio, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d02fbb8686e98a85) | 2026-09-12 21:07 |
-| Kavant Solutions | AI Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=84f280b9c5186dbd) | 2026-09-12 21:07 |
 
 
 ---
