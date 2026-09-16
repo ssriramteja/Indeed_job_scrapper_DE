@@ -1,12 +1,82 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-15 23:50
+Last updated: 2026-09-16 02:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Coca-Cola Company | Software Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=56823350b0e43e7b) | 2026-09-15 23:50 |
+| BV Teck | Apache Spark Developer | Remote, US USA | 31.9% | [Apply](https://www.indeed.com/viewjob?jk=a431ef26933c9cab) | 2026-09-16 02:26 |
+| BV Teck | ETL Developer | Remote, US USA | 28.5% | [Apply](https://www.indeed.com/viewjob?jk=22150a9313c85de5) | 2026-09-16 02:26 |
+| Trianz | AWS Data Architect | Clinton, NJ, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=60852d74dc99179b) | 2026-09-16 02:26 |
+| UNFI | IT Site Reliability Engineer II - Data Platforms - Remote | Providence, RI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8613083ecb455e28) | 2026-09-16 02:26 |
+| Capgemini | AWS Data Engineer | Newark, NJ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a7223f033607ba4e) | 2026-09-16 02:26 |
+| The Coca-Cola Company | Software Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=56823350b0e43e7b) | 2026-09-16 02:26 |
+| Concord USA | Business Intelligence Engineer | Kansas City, MO, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=962688fb52f665fe) | 2026-09-16 02:26 |
+| Relentless Talent | Sr Software Engineer - Medical Automation SaaS platform ( Python + data pipelines + automation | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3242e705b806ab21) | 2026-09-16 02:26 |
+| BV Teck | Angular Developer | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=52fb54968897c95b) | 2026-09-16 02:26 |
+| CareMetx, LLC | Senior Engineer I, DevOps | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e7b79178087231c2) | 2026-09-16 02:26 |
+| BV Teck | Oracle PL/SQL Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=463e1932681d1ea9) | 2026-09-16 02:26 |
+| BV Teck | Rust Developer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0520916947bccd63) | 2026-09-16 02:26 |
+| Moderna | Sr. AI Engineer | Cambridge, MA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7d1fd9de87775b12) | 2026-09-16 02:26 |
+| Random Bit | Senior AWS Solution Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7527773abc54ea75) | 2026-09-16 02:26 |
+| Cisco | Software Engineer, Solution Test-IQ Platform | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=51b37e2194c538e3) | 2026-09-16 02:26 |
+| Sbt Global | Azure Cloud Data Engineer(Korean Bilingual) | Irvine, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=82fc88c444cdb59a) | 2026-09-16 02:26 |
+| Ovation Healthcare | MS Fabric Data Engineer | Welcome, SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fa9cfdf9043d0f23) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=79b7247de0da89be) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2d42517f4a6ea31f) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ae6deb5151a171c2) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6c9b376252505568) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=283361b16a1ebc55) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5cbd383a79d4cbef) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=80f223b258887bd4) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4930899ea4c30eec) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a609ef484a70728b) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d315fdda0e904f4c) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=63df87d110e211fc) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f0e3854fb6006e0) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=269532a3a9e4d5a7) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5dd9ebe802598879) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=54e3579b3828b4cb) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ad1cce3fa4d089a8) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c5cdfa4a99cf1b0e) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a3cd1e1f07261faf) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2de2979f66f2e58c) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7bc4c1c460908c45) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a881072cca7866f9) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=13bc0d51ec16f366) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8840753fb3651a4b) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f63908830628ad26) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a06bbcb4a7c85812) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c4e1a7faad10c09b) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a5df440725468089) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=72ebc749f6a1d990) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b631015d13883564) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=18dc70138cc32ac9) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f85824dce6929812) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dd89770faca6190f) | 2026-09-16 02:26 |
+| Concentrix | Senior Automation Engineer | Brunswick, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ae9109da232a7f8d) | 2026-09-16 02:26 |
+| E Source | Forward Deployed AI/ML Engineer IV | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=191a5d619c9740cd) | 2026-09-16 02:26 |
+| Visa | Cybersecurity Engineer | Foster City, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=73c5cdad23779985) | 2026-09-16 02:26 |
+| GM Financial | Software Development Engineer II | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c4c2403873b5face) | 2026-09-16 02:26 |
+| Realign | Data Engineer-2 | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=adbfd73d28e687c7) | 2026-09-16 02:26 |
+| Orange County's Credit Union | Cloud Systems Engineer III | Santa Ana, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0409e471c2849f2d) | 2026-09-16 02:26 |
+| Innovative Solutions | Cloud Engineer- Data/AI Focused | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=33e08a12c76721e4) | 2026-09-16 02:26 |
+| Innovative Solutions | Cloud Engineer - Full Stack Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=06271d579eb6e429) | 2026-09-16 02:26 |
+| BV Teck | Cloud-Native Architect | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=642652601718b1c2) | 2026-09-16 02:26 |
+| BV Teck | Blockchain Developer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=788fc3c0ac9b4619) | 2026-09-16 02:26 |
+| Osmose Utilities Services, Inc. | DevOps Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b8aab16d2434e23f) | 2026-09-16 02:26 |
+| True Manufacturing | Senior Software Engineer | O'Fallon, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c9d0346fc9e191d8) | 2026-09-16 02:26 |
+| Allen Control Systems | Software Engineer – Enterprise Applications | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eaff489ad3919834) | 2026-09-16 02:26 |
+| Merck KGaA | Associate Architects | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=58202f48c352ef63) | 2026-09-16 02:26 |
+| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=991793b1299304ff) | 2026-09-16 02:26 |
+| BV Teck | AI Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b50e5db3bf7a0090) | 2026-09-16 02:26 |
+| JUUL Labs | Enterprise AI Systems Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0ba67ab5bc7e4a04) | 2026-09-16 02:26 |
+| JUUL Labs | Enterprise AI Systems Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe935e70dd3f2e18) | 2026-09-16 02:26 |
+| JUUL Labs | Enterprise AI Systems Engineer | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=037741e66967443c) | 2026-09-16 02:26 |
+| Target | Sr Engineer - MLOps Platform(Remote Or Hybrid) | Brooklyn Park, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4815f622b7e398e4) | 2026-09-16 02:26 |
+| Realign | Gen AI Engineer-2 | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e696b1edc4cf08e) | 2026-09-16 02:26 |
+| UltraViolet Cyber | Qualys Integration Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1967e3fb659eb2d3) | 2026-09-16 02:26 |
 | Expion health | Analyst, Production Support | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=249f623fa05a779f) | 2026-09-15 23:50 |
 | Team Velocity Marketing | Senior Data Scientist – Machine Learning & AI | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=858b89b1e56571ed) | 2026-09-15 23:50 |
 | Centene | Senior Data Engineer | MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b48caf12e9a2d919) | 2026-09-15 23:50 |
@@ -18,7 +88,6 @@ Last updated: 2026-09-15 23:50
 | CG Infinity | Data Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e06d6e56ef7c81de) | 2026-09-15 23:50 |
 | Palo Alto Networks | Senior Site Reliability Engineer | Santa Clara, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11f86cdd4c675439) | 2026-09-15 23:50 |
 | Trimble | Software Engineer | Lake Oswego, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b320160e6257e21f) | 2026-09-15 23:50 |
-| McLane Company | Data Engineer II | Temple, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=991793b1299304ff) | 2026-09-15 23:50 |
 | Capital One | Technology Development Program Associate - August 2027 | Richmond, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=718fa3c3e4a98b95) | 2026-09-15 23:50 |
 | JUUL Labs | Enterprise AI Systems Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=90542e98749e2837) | 2026-09-15 23:50 |
 | Trimble | Sr. Software Engineer | Lake Oswego, OR, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af8c2d05083f261a) | 2026-09-15 23:50 |
@@ -396,20 +465,6 @@ Last updated: 2026-09-15 23:50
 | Worth AI | Senior Software Engineer - Integrations | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5afde5dbdaaea472) | 2026-09-12 05:17 |
 | Worth AI | Senior Software Engineer - Integrations | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca8a003016846b78) | 2026-09-12 05:17 |
 | CoreWeave | Senior Software Engineer I | Philadelphia, PA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d303d9eb6bc810a9) | 2026-09-12 05:17 |
-| Talsolution | Senior DevOps / Cloud / SRE Engineer, Senior AI / Machine Learning Engineer, Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=037a42c0ea26c495) | 2026-09-12 00:49 |
-| Booz Allen Hamilton | Databricks Platform Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0ad94608c8ee3b44) | 2026-09-12 00:49 |
-| Penn Interactive Ventures | Senior Software Engineer, Bet Engine | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e995a42ced6baff4) | 2026-09-12 00:49 |
-| Thomson Reuters | Cloud Engineer - Professional Services | Frisco, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f5310bd0a981c918) | 2026-09-12 00:49 |
-| nan | Senior Site Reliability Engineer (SRE) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=30483a1036fbe4ed) | 2026-09-12 00:49 |
-| Tenable | Salesforce Developer (US-Remote) | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1220b2bdf2efa606) | 2026-09-12 00:49 |
-| Tenable | Salesforce Developer (US-Remote) | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eda731a8fe83cd61) | 2026-09-12 00:49 |
-| Tenable | Salesforce Developer (US-Remote) | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95119e44dd3248d0) | 2026-09-12 00:49 |
-| Tenable | Salesforce Developer (US-Remote) | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=deb0ce03e10bd5fb) | 2026-09-12 00:49 |
-| JPMorganChase | Java AWS Software Engineer III | Newark, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=393f62b59716a5a4) | 2026-09-12 00:49 |
-| Palomar Holdings, Inc. | Data Engineer | La Jolla, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f64ce4072ed9216d) | 2026-09-12 00:49 |
-| MGM Resorts International | Sr Data Commercial Engineer | Las Vegas, NV, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=badbb6ce6e14e1d3) | 2026-09-12 00:49 |
-| Palomar Holdings, Inc. | Data Engineer | Edina, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1bc559018acf3f8d) | 2026-09-12 00:49 |
-| Booz Allen Hamilton | Data Engineer | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=421ab27750f96f14) | 2026-09-12 00:49 |
 
 
 ---
