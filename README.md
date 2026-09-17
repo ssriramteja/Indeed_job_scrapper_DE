@@ -1,16 +1,34 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-17 20:46
+Last updated: 2026-09-17 23:17
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Hospice of the Valley (AZ) | Senior Data & AI Engineer | Phoenix, AZ, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=b7337bb4d468da95) | 2026-09-17 23:17 |
+| Brady Corporation | Architect, Cloud & AI Platforms | Milwaukee, WI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4dc9c1e83b836220) | 2026-09-17 23:17 |
+| VaaridaTech | Senior AWS Full Stack Engineer local only | Palm Beach Gardens, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=99e004b7468d7a58) | 2026-09-17 23:17 |
+| Presidio | Senior Contact Center Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cf9a0e1dc867d738) | 2026-09-17 23:17 |
+| Inabia Software & Consulting Inc. | Data Architect – FDE \| Hartford, CT / Minneapolis, MN | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a6b512ada906a24d) | 2026-09-17 23:17 |
+| CTIS, Inc. | Software Development - Analyst II | Rockville, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9a7f9a1049d0daf8) | 2026-09-17 23:17 |
+| ECPI University | Senior Software Engineer | Virginia Beach, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=73ee8bf798535ec7) | 2026-09-17 23:17 |
+| Numen International | Sr. Blue Blue Yonder WMS Consultant | Wisconsin Rapids, WI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=df54cb763cc8f35e) | 2026-09-17 23:17 |
+| University of Illinois | DevOps Engineer - Technology Solutions | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5a4449e01c5ed9ae) | 2026-09-17 23:17 |
+| American Airlines | Sr Associate Engineer/Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cc7cc8e84664627f) | 2026-09-17 23:17 |
+| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27203176a444972f) | 2026-09-17 23:17 |
+| Dallas Independent School District | Cloud Systems Architect (226 Days) | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=866755e4f8ce63a3) | 2026-09-17 23:17 |
+| Duke Health | Developer - Analytics Engineer Department of Pharmacy | Durham, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=96982bb63995138d) | 2026-09-17 23:17 |
+| Lowe's Home Improvement | Senior Software Engineer - OMS | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=07ed335054406c39) | 2026-09-17 23:17 |
+| American Civil Liberties Union | Analytics Engineer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29ef6391ee65877b) | 2026-09-17 23:17 |
+| Aceable | Sr Analytics Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=946f9885537eb383) | 2026-09-17 23:17 |
+| University of Central Florida | Enterprise Data & BI Architect II | Orlando, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=91283bd30c9609b4) | 2026-09-17 23:17 |
+| Zoom Communications | Senior DevOpsSRE Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f44421eecd0c683) | 2026-09-17 23:17 |
+| VoltaGrid | Sr Software Engineer, Fullstack | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=24b02a3e8026450a) | 2026-09-17 23:17 |
 | Sherwin-Williams | Senior Application Integration Developer | Cleveland, OH, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=ae081f8bfbda2059) | 2026-09-17 20:46 |
 | Allstate Insurance | Senior Data Engineer Con II | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d4db0b036f71a516) | 2026-09-17 20:46 |
 | BV Teck | Senior Data Engineer – Hadoop | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=228fcb0437db4c81) | 2026-09-17 20:46 |
 | CodeCombat | Senior AI Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=96af3bdac24317bb) | 2026-09-17 20:46 |
-| Inabia Software & Consulting Inc. | Data Architect – FDE \| Hartford, CT / Minneapolis, MN | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a6b512ada906a24d) | 2026-09-17 20:46 |
 | Smithsonian Enterprises | Software Developer (Two Vacancies) | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0d9260fd2e400292) | 2026-09-17 20:46 |
 | KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4318b5d5a1fa8d7b) | 2026-09-17 20:46 |
 | KBR | Mid Software Engineer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d01e92d858fdabd9) | 2026-09-17 20:46 |
@@ -542,12 +560,6 @@ Last updated: 2026-09-17 20:46
 | JPMorganChase | Senior Associate, Data Scientist - PXT Analytics | Jersey City, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=27110d8079f69f7f) | 2026-09-14 02:27 |
 | JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c5b2625881e5f2a5) | 2026-09-14 02:27 |
 | JPMorganChase | Software Engineer III- Java/Python, SQL, Databricks | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bc069827c03f863b) | 2026-09-14 02:27 |
-| JPMorganChase | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=62e66b988bfbe6b1) | 2026-09-13 21:56 |
-| JPMorganChase | Software Engineer III (Agentic AI/Java/AWS/Microservices) | Columbus, OH, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=37fd391ae46ec426) | 2026-09-13 21:56 |
-| JPMorganChase | Full Stack Java/React Developer - Data Scientist Senior Associate | San Antonio, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=099249332f619f68) | 2026-09-13 21:56 |
-| Cisco | Data Engineer | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d8a94c287356117b) | 2026-09-13 21:56 |
-| JPMorganChase | Site Reliability Engineer III | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ee619329ef705a8) | 2026-09-13 21:56 |
-| JPMorganChase | Site Reliability Engineer III | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79e240b53052e2f6) | 2026-09-13 21:56 |
 
 
 ---
