@@ -1,19 +1,36 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-17 13:57
+Last updated: 2026-09-17 17:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Gen Digital Inc. | Full Stack Software Engineer | Mountain View, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=95fd25995bfa0bb4) | 2026-09-17 17:54 |
+| Thought Logic Consulting | Managing Consultant, Databricks Engineer/Architect - Birmingham, AL | Birmingham, AL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=eb9b402f0c526caf) | 2026-09-17 17:54 |
+| Lockheed Martin | A/AI Machine Learning Engineering Stf | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=601d6d86d645df17) | 2026-09-17 17:54 |
+| Capgemini | Snowflake Platform Admin + Data Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6bab71f3dab957b3) | 2026-09-17 17:54 |
+| Capgemini | Senior Data Engineer - Databricks | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d445976e1497f7fc) | 2026-09-17 17:54 |
+| Capgemini | Java Developer with Python | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=406ebbb1091929da) | 2026-09-17 17:54 |
+| Capgemini | Java Developer with Python & DB2 | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=94bc62a1961aa054) | 2026-09-17 17:54 |
+| Capgemini | Java - Python Developer | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0ef0ed669955b387) | 2026-09-17 17:54 |
+| ECPI University | Data Engineer | Virginia Beach, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=13dc5ea105826d16) | 2026-09-17 17:54 |
+| Moody's | Software Engineer | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=978f9a7dd296c785) | 2026-09-17 17:54 |
+| nan | Ab Initio Developer | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=73f7f04e13cfaaec) | 2026-09-17 17:54 |
+| ECPI University | Associate Data Engineer | Virginia Beach, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=48f9cd78305a0219) | 2026-09-17 17:54 |
+| NSD International | Azure Data Engineer at Major Japanese Bank | Charlotte, NC, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=22df130d2e5b276e) | 2026-09-17 17:54 |
+| Coretek Services | Architect - Azure Data & AI | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9bbe65f2b6e82102) | 2026-09-17 17:54 |
+| Abacus | Cloud Architect | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb29ca22c38298f5) | 2026-09-17 17:54 |
+| Capgemini | Senior Software Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1ff62d532162ce32) | 2026-09-17 17:54 |
+| Youth Villages | Data Engineer | Chesterfield, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fe0246c0ac0ed63f) | 2026-09-17 17:54 |
+| University of South Carolina | Institutional Data Engineer | Richland, SC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ad752dd5b859ec10) | 2026-09-17 17:54 |
+| CapTech Consulting | Solutions Architect | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45d9772de89f1c0a) | 2026-09-17 17:54 |
 | jobhuk | Sr. Sag Architect | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e4a6a52b4c199622) | 2026-09-17 13:57 |
-| The J. M. Smucker Company | Data Architect, Enterprise Data Platform | Orrville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8264f5518d85c62b) | 2026-09-17 13:57 |
 | Intuit | Senior Machine Learning Engineer | Mountain View, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c85f07df0a6c0e82) | 2026-09-17 13:57 |
 | Koch | Solutions Architect | Wichita, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=333288494605fd23) | 2026-09-17 13:57 |
 | Koch | Solutions Architect | Tulsa, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fd041e182434f1ce) | 2026-09-17 13:57 |
 | Koch | Solutions Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fada807c5417b9e1) | 2026-09-17 13:57 |
 | Technica Corporation | Full-Stack Java Developer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9756d2f60173d6a6) | 2026-09-17 13:57 |
-| Ford Motor Company | AI Engineer, Industrial Systems Data Platform (ISDP) | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbfa369c43ecbae0) | 2026-09-17 13:57 |
 | Deloitte | AI and Data Solution Architect | Jacksonville, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1d9d060e7277ff6e) | 2026-09-17 08:11 |
 | Deloitte | AI and Data Solution Architect | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9bb20dd369056bd0) | 2026-09-17 08:11 |
 | All IT Solutions | Data Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=68a757252287b525) | 2026-09-17 08:11 |
@@ -512,9 +529,6 @@ Last updated: 2026-09-17 13:57
 | JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=134a56b17af9b601) | 2026-09-13 19:06 |
 | JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84607e3a06c12fdd) | 2026-09-13 19:06 |
 | JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b7fa6836e8c25f23) | 2026-09-13 19:06 |
-| Edurech Technoogy | Data Engineer | Texas City, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1d764d5c996e8a37) | 2026-09-13 16:47 |
-| JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb5dd80e1790149d) | 2026-09-13 16:47 |
-| Deloitte | Oracle Database Admin - SQL/ETL | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d1dbbd1ce7507f25) | 2026-09-13 16:47 |
 
 
 ---
