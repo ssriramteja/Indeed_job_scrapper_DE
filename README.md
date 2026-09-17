@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-17 08:11
+Last updated: 2026-09-17 13:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| jobhuk | Sr. Sag Architect | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e4a6a52b4c199622) | 2026-09-17 13:57 |
+| The J. M. Smucker Company | Data Architect, Enterprise Data Platform | Orrville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8264f5518d85c62b) | 2026-09-17 13:57 |
+| Intuit | Senior Machine Learning Engineer | Mountain View, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c85f07df0a6c0e82) | 2026-09-17 13:57 |
+| Koch | Solutions Architect | Wichita, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=333288494605fd23) | 2026-09-17 13:57 |
+| Koch | Solutions Architect | Tulsa, OK, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fd041e182434f1ce) | 2026-09-17 13:57 |
+| Koch | Solutions Architect | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fada807c5417b9e1) | 2026-09-17 13:57 |
+| Technica Corporation | Full-Stack Java Developer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9756d2f60173d6a6) | 2026-09-17 13:57 |
+| Ford Motor Company | AI Engineer, Industrial Systems Data Platform (ISDP) | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbfa369c43ecbae0) | 2026-09-17 13:57 |
 | Deloitte | AI and Data Solution Architect | Jacksonville, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=1d9d060e7277ff6e) | 2026-09-17 08:11 |
 | Deloitte | AI and Data Solution Architect | Dallas, TX, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=9bb20dd369056bd0) | 2026-09-17 08:11 |
 | All IT Solutions | Data Engineer | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=68a757252287b525) | 2026-09-17 08:11 |
@@ -20,7 +28,6 @@ Last updated: 2026-09-17 08:11
 | Aramark | Data Engineer | Philadelphia, PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0fd261c364b06e86) | 2026-09-17 08:11 |
 | Hansei Solutions | Senior Data Engineer | Franklin, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0200e366b920258d) | 2026-09-17 08:11 |
 | All IT Solutions | Senior Java Developer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=adc10811ba8c4f6e) | 2026-09-17 08:11 |
-| The J. M. Smucker Company | Data Architect, Enterprise Data Platform | Orrville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8264f5518d85c62b) | 2026-09-17 08:11 |
 | Databricks | Sr. Software Engineer - Ingestion Core team | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2d7552bca788f2c3) | 2026-09-17 08:11 |
 | CVS Health | Senior Software Automation Engineer (UI/API) | FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1cc8f98df2baf90f) | 2026-09-17 08:11 |
 | CVS Health | Senior Software Automation Engineer (UI/API) | ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=70cd80ce62300845) | 2026-09-17 08:11 |
@@ -30,7 +37,6 @@ Last updated: 2026-09-17 08:11
 | CVS Health | Senior Software Automation Engineer (UI/API) | IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=63cf03e83c9963c7) | 2026-09-17 08:11 |
 | All IT Solutions | Backend Java AWS Developer | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf369a38badd5d9f) | 2026-09-17 08:11 |
 | NYU Langone Health | Senior Technical Business Analyst | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4c7dea3197e41589) | 2026-09-17 08:11 |
-| Ford Motor Company | AI Engineer, Industrial Systems Data Platform (ISDP) | Dearborn, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cbfa369c43ecbae0) | 2026-09-17 08:11 |
 | valency systems | Senior Software Engineer - Remote | Berkeley, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7faadf86698e0022) | 2026-09-17 02:30 |
 | American Express | Sr Software Engineer II - Enterprise Architecture | Phoenix, AZ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c6b0b7c55fd4efa0) | 2026-09-17 02:30 |
 | CoStar Group | Data Engineer II - Homes.com - Arlington, VA | Arlington, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a2e22789e6fc7a92) | 2026-09-17 02:30 |
@@ -509,11 +515,6 @@ Last updated: 2026-09-17 08:11
 | Edurech Technoogy | Data Engineer | Texas City, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1d764d5c996e8a37) | 2026-09-13 16:47 |
 | JPMorganChase | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb5dd80e1790149d) | 2026-09-13 16:47 |
 | Deloitte | Oracle Database Admin - SQL/ETL | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d1dbbd1ce7507f25) | 2026-09-13 16:47 |
-| Deloitte | Oracle Database Admin - SQL/ETL | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c11dde83ba10ec32) | 2026-09-13 12:57 |
-| Deloitte | Finance Analytics & AI Senior Consultant | New Orleans, LA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=495e97283db28786) | 2026-09-13 12:57 |
-| Deloitte | Finance Analytics & AI Senior Consultant | Detroit, MI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=599a9753750e4b45) | 2026-09-13 12:57 |
-| JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6e504e1d289586a8) | 2026-09-13 12:57 |
-| JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1f02610c3add7e4b) | 2026-09-13 12:57 |
 
 
 ---
