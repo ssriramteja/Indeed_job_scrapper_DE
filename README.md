@@ -1,11 +1,36 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-17 17:54
+Last updated: 2026-09-17 20:46
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sherwin-Williams | Senior Application Integration Developer | Cleveland, OH, US USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=ae081f8bfbda2059) | 2026-09-17 20:46 |
+| Allstate Insurance | Senior Data Engineer Con II | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=d4db0b036f71a516) | 2026-09-17 20:46 |
+| BV Teck | Senior Data Engineer – Hadoop | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=228fcb0437db4c81) | 2026-09-17 20:46 |
+| CodeCombat | Senior AI Data Engineer | Remote, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=96af3bdac24317bb) | 2026-09-17 20:46 |
+| Inabia Software & Consulting Inc. | Data Architect – FDE \| Hartford, CT / Minneapolis, MN | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a6b512ada906a24d) | 2026-09-17 20:46 |
+| Smithsonian Enterprises | Software Developer (Two Vacancies) | Washington, DC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0d9260fd2e400292) | 2026-09-17 20:46 |
+| KBR | Jr Software Developer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=4318b5d5a1fa8d7b) | 2026-09-17 20:46 |
+| KBR | Mid Software Engineer | Colorado Springs, CO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d01e92d858fdabd9) | 2026-09-17 20:46 |
+| Pediatric Associates Family of Companies | Intern, Data Engineering | Plantation, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5e78dfc216dc63c0) | 2026-09-17 20:46 |
+| Rocket | Data Engineer II | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=965af74ac3a4f28b) | 2026-09-17 20:46 |
+| Shaw Industries | Analytics Engineer III | Dalton, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=84b8ba5b4701ac07) | 2026-09-17 20:46 |
+| ICBD | Senior Software Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6c0d34c2d7c8f353) | 2026-09-17 20:46 |
+| Ensono | Senior Automation & Observability Engineer | Downers Grove, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f68ad5e40f728b9f) | 2026-09-17 20:46 |
+| KBR | Mid Astro Software Engineer | Colorado Springs, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7aa7964c7f50144e) | 2026-09-17 20:46 |
+| KBR | Mid Astro Software Engineer | Colorado Springs, CO, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fa68d04c53f7305c) | 2026-09-17 20:46 |
+| JPMorganChase | Software Engineer III - ML Model Delivery | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3dbcf1eaec6697a7) | 2026-09-17 20:46 |
+| Innovaccer | 4572 Software Development Engineer III | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0dbd91cc3292ce05) | 2026-09-17 20:46 |
+| JPMorganChase | Site Reliability Engineer III - AWS, Java and Kubernetes | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fff9ab8e0bdf65bf) | 2026-09-17 20:46 |
+| YUM! Brands, Inc. | Site Reliability Engineer II | Irvine, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2830b10b4939c5e0) | 2026-09-17 20:46 |
+| Salesforce | Software Engineer, DNS & Cloud Infrastructure | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=998b59d45987a604) | 2026-09-17 20:46 |
+| KBR | Associate AWS DevOps Engineer | Sioux Falls, SD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7d761a996e119319) | 2026-09-17 20:46 |
+| BV Teck | Full Stack Solutions Developer – Java | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5aa577a3ce581c79) | 2026-09-17 20:46 |
+| BV Teck | Python Solutions Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f81d7b9839378748) | 2026-09-17 20:46 |
+| WEX Inc. | Site Reliability Engineer 2 | Portland, ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fd4b4423de389261) | 2026-09-17 20:46 |
+| Mobis Parts America, LLC. | Engineer III, Business Intelligence | Fountain Valley, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6448e49f67d965f) | 2026-09-17 20:46 |
 | Gen Digital Inc. | Full Stack Software Engineer | Mountain View, CA, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=95fd25995bfa0bb4) | 2026-09-17 17:54 |
 | Thought Logic Consulting | Managing Consultant, Databricks Engineer/Architect - Birmingham, AL | Birmingham, AL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=eb9b402f0c526caf) | 2026-09-17 17:54 |
 | Lockheed Martin | A/AI Machine Learning Engineering Stf | Remote, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=601d6d86d645df17) | 2026-09-17 17:54 |
@@ -523,12 +548,6 @@ Last updated: 2026-09-17 17:54
 | Cisco | Data Engineer | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d8a94c287356117b) | 2026-09-13 21:56 |
 | JPMorganChase | Site Reliability Engineer III | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1ee619329ef705a8) | 2026-09-13 21:56 |
 | JPMorganChase | Site Reliability Engineer III | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=79e240b53052e2f6) | 2026-09-13 21:56 |
-| JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=4bcfb47396b53561) | 2026-09-13 19:06 |
-| JPMorganChase | Software Engineer III - Data Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=abb83d271754206d) | 2026-09-13 19:06 |
-| JPMorganChase | Software Engineer III - Big Data Databricks, Python / Java | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=45217d2e570a1cb2) | 2026-09-13 19:06 |
-| JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=134a56b17af9b601) | 2026-09-13 19:06 |
-| JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84607e3a06c12fdd) | 2026-09-13 19:06 |
-| JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b7fa6836e8c25f23) | 2026-09-13 19:06 |
 
 
 ---
