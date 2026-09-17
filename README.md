@@ -1,11 +1,34 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-16 23:25
+Last updated: 2026-09-17 02:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| valency systems | Senior Software Engineer - Remote | Berkeley, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7faadf86698e0022) | 2026-09-17 02:30 |
+| American Express | Sr Software Engineer II - Enterprise Architecture | Phoenix, AZ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c6b0b7c55fd4efa0) | 2026-09-17 02:30 |
+| CoStar Group | Data Engineer II - Homes.com - Arlington, VA | Arlington, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a2e22789e6fc7a92) | 2026-09-17 02:30 |
+| JPMorganChase | Backend Software Engineer III - Python/JAVA | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e860daaeaca47c2) | 2026-09-17 02:30 |
+| Infinitive Inc | Data Engineer (Temporal & Apache Kafka required) | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9aecdd03e33db9d0) | 2026-09-17 02:30 |
+| Realign | Java Full Stack developer | Addison, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1a16891b1a0bc2b6) | 2026-09-17 02:30 |
+| Realign | Java Full Stack developer | Jacksonville, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b3cf1c715f20c75c) | 2026-09-17 02:30 |
+| Realign | Java Full Stack developer | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c3a11df352ae6bc1) | 2026-09-17 02:30 |
+| LexisNexis Legal & Professional | Senior Software Engineer II | TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e8284bacdead0a51) | 2026-09-17 02:30 |
+| BV Teck | Cloud Solutions Engineer – Azure | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=913f326777591b8d) | 2026-09-17 02:30 |
+| World Wide Technology | MLOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fc9434d3c199f7af) | 2026-09-17 02:30 |
+| BV Teck | OCI Solutions Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a41480985be8d777) | 2026-09-17 02:30 |
+| Realign | Data Engineer-3 | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce2345bd6032d37d) | 2026-09-17 02:30 |
+| The J. M. Smucker Company | Data Architect, Enterprise Data Platform | Orrville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8264f5518d85c62b) | 2026-09-17 02:30 |
+| Alembic Pharmaceuticals Ltd | Senior Site Reliability Engineer | Dunwoody, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=75b83ee2f5d53bc7) | 2026-09-17 02:30 |
+| BV Teck | Test Automation Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee14dc761cbf374d) | 2026-09-17 02:30 |
+| Greenheck Group | DevOps & Security Engineer | Schofield, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e54cf349fa6158e) | 2026-09-17 02:30 |
+| VeeRteq Solutions Inc. | Senior Databricks Engineer (Admin) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f8fa128ecb47403c) | 2026-09-17 02:30 |
+| Realign | Gen AI Engineer-3 | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=814280d6c27316f6) | 2026-09-17 02:30 |
+| BV Teck | Java Application Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0632f545cc6501af) | 2026-09-17 02:30 |
+| BV Teck | Data Solutions Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=71e8b20769edb6e4) | 2026-09-17 02:30 |
+| DBV Technologies | IS Data Architect | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=444fcfac41a73160) | 2026-09-17 02:30 |
+| JPMorganChase | Full-stack Java and React Software Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76dab07201ea443a) | 2026-09-17 02:30 |
 | Astronautics Corporation of America | Data Engineer | Oak Creek, WI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=56f1559bf7f9b420) | 2026-09-16 23:25 |
 | Zencastr | Senior Data Engineer (Remote) | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fc787126ad9474ae) | 2026-09-16 23:25 |
 | Mpk Solutions | Databricks Engineer | Ashburn, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=51f94a146708ee43) | 2026-09-16 23:25 |
@@ -14,7 +37,6 @@ Last updated: 2026-09-16 23:25
 | EXL Service | Java API / Publication Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d4b6512cfed6eddc) | 2026-09-16 23:25 |
 | Credibly | Sr. Software Engineer - Based in India | IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=bc86ee3cbc668eb6) | 2026-09-16 23:25 |
 | Optum | Software Engineer | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a37c4760006d71ef) | 2026-09-16 23:25 |
-| The J. M. Smucker Company | Data Architect, Enterprise Data Platform | Orrville, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8264f5518d85c62b) | 2026-09-16 23:25 |
 | St. Peter's Health | Data Engineer II - IT AI and Data Technology | Helena, MT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f24058fb3749fead) | 2026-09-16 23:25 |
 | Eli Lilly | Data Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9beae62bd7c3a68d) | 2026-09-16 23:25 |
 | General Motors (GM) | Data Engineer - Data Software Engineering and Cloud Platforms, Early Career | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=73a6ea7b7776e3ae) | 2026-09-16 23:25 |
@@ -470,11 +492,6 @@ Last updated: 2026-09-16 23:25
 | JPMorganChase | Infrastructure Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1f02610c3add7e4b) | 2026-09-13 12:57 |
 | Deloitte | Oracle Database Admin - SQL/ETL | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d69b24eb9546bc51) | 2026-09-13 07:48 |
 | Deloitte | Finance Analytics & AI Senior Consultant | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e4badb7c2f63bb4) | 2026-09-13 07:48 |
-| JPMorganChase | Software Engineer III - Data Engineer | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=156843bab1a1eb41) | 2026-09-13 02:09 |
-| JPMorganChase | Software Engineer III - Big Data Databricks, Python / Java | Houston, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc2d3fa65c104128) | 2026-09-13 02:09 |
-| JPMorganChase | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=691f4a76da481428) | 2026-09-13 02:09 |
-| JPMorganChase | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2395a3423532a7f5) | 2026-09-12 23:35 |
-| JPMorganChase | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f7be3668078d3c0d) | 2026-09-12 23:35 |
 
 
 ---
