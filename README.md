@@ -1,16 +1,44 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-17 23:17
+Last updated: 2026-09-18 02:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| iSynergy IT | Senior Tableau & Power BI Developer | Texas City, TX, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=ebf0f978d7268b58) | 2026-09-18 02:16 |
+| Capgemini | Snowflake Platform Admin + Data Engineer | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=84c7d0eba23d2aa8) | 2026-09-18 02:16 |
+| The Emmes Company, LLC | Software Engineer (Backend) - Essex Management | Rockville, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=49fa2310af8dee52) | 2026-09-18 02:16 |
+| Capgemini | Senior Data Engineer - Databricks | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f134027d935dcbce) | 2026-09-18 02:16 |
+| Capgemini | Java Developer with Python | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=048a45c376209cae) | 2026-09-18 02:16 |
+| Capgemini | Java Developer with Python & DB2 | Atlanta, GA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=afac28a92a1a65e3) | 2026-09-18 02:16 |
+| The Emmes Company, LLC | Software Engineer (Front-End) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d569f44c7ed079aa) | 2026-09-18 02:16 |
+| The Emmes Company, LLC | Software Engineer (Full-Stack) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1fa0db311b4703de) | 2026-09-18 02:16 |
+| Capgemini | Java - Python Developer | Atlanta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=69e2d945cbd78467) | 2026-09-18 02:16 |
+| Realign | Databricks Architect | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ba6dede5cf387e96) | 2026-09-18 02:16 |
+| Transamerica | Specialist Software Engineering | Cedar Rapids, IA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=291db07e31423169) | 2026-09-18 02:16 |
+| Inabia Software & Consulting Inc. | Data Architect – FDE \| Hartford, CT / Minneapolis, MN | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a6b512ada906a24d) | 2026-09-18 02:16 |
+| Lanter Delivery Systems, LLC | Senior Data & Analytics Engineer | Des Peres, MO, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0ba9f71efb154717) | 2026-09-18 02:16 |
+| Lanter Delivery Systems, LLC | Senior Data & Analytics Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=3bf78215b34b3be4) | 2026-09-18 02:16 |
+| State of Ohio | Senior ELT Analytics Specialist (Database Administration Specialist 2, PN 20067096) | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d5ed81756dd30fae) | 2026-09-18 02:16 |
+| El Toro.com | Senior DevOps Engineer | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0b3aa5a0b24edad1) | 2026-09-18 02:16 |
+| Lantern | Senior Data & AI Consultant | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a6b712ad8b7a8230) | 2026-09-18 02:16 |
+| Lantern | Senior Data & AI Consultant | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=80e0473d21c9c59f) | 2026-09-18 02:16 |
+| Clearlink | Senior Software Engineer, Wordpress | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5dd2f17df27cb1d7) | 2026-09-18 02:16 |
+| Howmet Aerospace | Senior Data AI Developer | Torrance, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=742b1fb48f03694f) | 2026-09-18 02:16 |
+| Innovaccer | 4572 Software Development Engineer III | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a33adb6f5ed20b52) | 2026-09-18 02:16 |
+| Thomson Reuters | Software Engineer | Eagan, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=95a746d2d7d2339a) | 2026-09-18 02:16 |
+| HealthMark Group | Senior Cloud Security Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=884b24c48caee4b2) | 2026-09-18 02:16 |
+| Capgemini | Senior Software Engineer | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=417c64dda2de671d) | 2026-09-18 02:16 |
+| eBay | AI Analytics Engineer - Traffic | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=651342dc3276ce51) | 2026-09-18 02:16 |
+| Patient First | Senior Azure AI Developer | Glen Allen, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=136815c702b3eaaf) | 2026-09-18 02:16 |
+| Fleet Response | Senior Software Development Engineer | Hudson, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=62ca283711f1b097) | 2026-09-18 02:16 |
+| ServiceTitan | Senior AI Engineer (Agent OS Platform) | Sacramento, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32c0ea15633322ed) | 2026-09-18 02:16 |
+| Jack Schroeder & Associates | ETL Developer | Green Bay, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=96321525efc5abf7) | 2026-09-18 02:16 |
 | Hospice of the Valley (AZ) | Senior Data & AI Engineer | Phoenix, AZ, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=b7337bb4d468da95) | 2026-09-17 23:17 |
 | Brady Corporation | Architect, Cloud & AI Platforms | Milwaukee, WI, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4dc9c1e83b836220) | 2026-09-17 23:17 |
 | VaaridaTech | Senior AWS Full Stack Engineer local only | Palm Beach Gardens, FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=99e004b7468d7a58) | 2026-09-17 23:17 |
 | Presidio | Senior Contact Center Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=cf9a0e1dc867d738) | 2026-09-17 23:17 |
-| Inabia Software & Consulting Inc. | Data Architect – FDE \| Hartford, CT / Minneapolis, MN | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a6b512ada906a24d) | 2026-09-17 23:17 |
 | CTIS, Inc. | Software Development - Analyst II | Rockville, MD, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9a7f9a1049d0daf8) | 2026-09-17 23:17 |
 | ECPI University | Senior Software Engineer | Virginia Beach, VA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=73ee8bf798535ec7) | 2026-09-17 23:17 |
 | Numen International | Sr. Blue Blue Yonder WMS Consultant | Wisconsin Rapids, WI, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=df54cb763cc8f35e) | 2026-09-17 23:17 |
