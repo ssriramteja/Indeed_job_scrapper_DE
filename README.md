@@ -1,15 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-18 19:19
+Last updated: 2026-09-18 22:05
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Emmes Company, LLC | Software Engineer (Backend) - Essex Management | Rockville, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=49fa2310af8dee52) | 2026-09-18 19:19 |
-| The Emmes Company, LLC | Software Engineer (Front-End) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d569f44c7ed079aa) | 2026-09-18 19:19 |
-| The Emmes Company, LLC | Software Engineer (Full-Stack) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1fa0db311b4703de) | 2026-09-18 19:19 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdea1b0ba7904f76) | 2026-09-18 19:19 |
+| The Emmes Company, LLC | Software Engineer (Backend) - Essex Management | Rockville, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=49fa2310af8dee52) | 2026-09-18 22:05 |
+| The Emmes Company, LLC | Software Engineer (Front-End) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d569f44c7ed079aa) | 2026-09-18 22:05 |
+| The Emmes Company, LLC | Software Engineer (Full-Stack) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1fa0db311b4703de) | 2026-09-18 22:05 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdea1b0ba7904f76) | 2026-09-18 22:05 |
 | JPMorganChase | Software Engineer III - Java | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=48899877e5f6a136) | 2026-09-18 12:30 |
 | Capgemini | Senior Data Scientist | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1b682d21992aa0c) | 2026-09-18 12:30 |
 | First Citizens Bank | Data Engineer II | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c9c291a59e036015) | 2026-09-18 12:30 |
@@ -579,25 +579,6 @@ Last updated: 2026-09-18 19:19
 | P17 Solutions LLC | Senior Software Developer | Egg Harbor Township, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9f241d5d943c65e9) | 2026-09-14 23:36 |
 | JPMorganChase | Site Reliability Engineer III | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bccda3473d5c3eec) | 2026-09-14 23:36 |
 | Freddie Mac | Software Engineer Professional, Financial Engineering | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=af8a3a5fe3ef71bb) | 2026-09-14 23:36 |
-| Realign | AWS Python Data Engineer-6 | Malvern, PA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=aa471a4093b491aa) | 2026-09-14 20:03 |
-| Quest Diagnostics | Data Engineer (Remote) | Secaucus, NJ, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=dca7148f734ca29b) | 2026-09-14 20:03 |
-| nan | Data Engineer | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b69a57d634f44c20) | 2026-09-14 20:03 |
-| Park Place Technologies | Sr. AI Data Engineer | Highland Heights, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1e8be741f2af4076) | 2026-09-14 20:03 |
-| Realign | Senior Java Full Stack Developer-1 | McLean, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=27628c1d7944c002) | 2026-09-14 20:03 |
-| Realign | BI / Data Architect (Remote)-6 | Marlborough, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6d7214291c7c2637) | 2026-09-14 20:03 |
-| Smart Tech Skills LLC | Enterprise Cloud Solutions Architect | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7202b7d449bfa36a) | 2026-09-14 20:03 |
-| Global Payments | Data Engineer | Alpharetta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2d6a3b442efcc911) | 2026-09-14 20:03 |
-| Core specialty | Senior Data Engineer | Dallas, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b44d832238c13ae8) | 2026-09-14 20:03 |
-| clickhouse | Senior Cloud Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=7fa44fdea0190b34) | 2026-09-14 20:03 |
-| Indiana University Health | Developer-Information Services Senior | Indianapolis, IN, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=afda63d4c955805b) | 2026-09-14 20:03 |
-| Nitka Technologies | Platform Administrator (Databricks) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=414be1be9d96afd0) | 2026-09-14 20:03 |
-| Volantsoft Inc | Senior Quality Analyst | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=01c19f449674df9d) | 2026-09-14 20:03 |
-| Optum | Software Engineer (Full Stack Developer) - Remote | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c1ee89c82aaaecc5) | 2026-09-14 20:03 |
-| nan | Senior Software Engineer | Boulder, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=02ff6f6e6edf5293) | 2026-09-14 20:03 |
-| Realign | Sr Data Engineering Architect – Fraud Domain-5 | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9cc5633ac50e4a9c) | 2026-09-14 20:03 |
-| Texas Health and Human Services Commission | Java Developer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47d37c2372a4bc58) | 2026-09-14 20:03 |
-| nan | GCP Data Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=acfc93badebee67f) | 2026-09-14 20:03 |
-| QuickNode | Senior Infrastructure Engineer, Core Systems | Hallandale Beach, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=44dbc0a1e62ab6b6) | 2026-09-14 20:03 |
 
 
 ---
