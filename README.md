@@ -1,19 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-18 12:30
+Last updated: 2026-09-18 16:49
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Emmes Company, LLC | Software Engineer (Backend) - Essex Management | Rockville, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=49fa2310af8dee52) | 2026-09-18 12:30 |
-| The Emmes Company, LLC | Software Engineer (Front-End) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d569f44c7ed079aa) | 2026-09-18 12:30 |
-| The Emmes Company, LLC | Software Engineer (Full-Stack) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1fa0db311b4703de) | 2026-09-18 12:30 |
+| The Emmes Company, LLC | Software Engineer (Backend) - Essex Management | Rockville, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=49fa2310af8dee52) | 2026-09-18 16:49 |
+| The Emmes Company, LLC | Software Engineer (Front-End) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d569f44c7ed079aa) | 2026-09-18 16:49 |
+| The Emmes Company, LLC | Software Engineer (Full-Stack) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1fa0db311b4703de) | 2026-09-18 16:49 |
+| Inabia Software & Consulting Inc. | Data Architect – FDE \| Hartford, CT / Minneapolis, MN | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a6b512ada906a24d) | 2026-09-18 16:49 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdea1b0ba7904f76) | 2026-09-18 16:49 |
 | JPMorganChase | Software Engineer III - Java | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=48899877e5f6a136) | 2026-09-18 12:30 |
-| Inabia Software & Consulting Inc. | Data Architect – FDE \| Hartford, CT / Minneapolis, MN | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a6b512ada906a24d) | 2026-09-18 12:30 |
 | Capgemini | Senior Data Scientist | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1b682d21992aa0c) | 2026-09-18 12:30 |
 | First Citizens Bank | Data Engineer II | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c9c291a59e036015) | 2026-09-18 12:30 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdea1b0ba7904f76) | 2026-09-18 12:30 |
 | Salesforce | Software Engineering SMTS | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6f2eeba9840966b9) | 2026-09-18 07:46 |
 | Deloitte | Ab Initio Developer | Princeton, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7d3256e545b105e3) | 2026-09-18 07:46 |
 | Deloitte | Ab Initio Developer | Jericho, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7e679dbd4f0dd48e) | 2026-09-18 07:46 |
@@ -599,9 +599,6 @@ Last updated: 2026-09-18 12:30
 | Texas Health and Human Services Commission | Java Developer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47d37c2372a4bc58) | 2026-09-14 20:03 |
 | nan | GCP Data Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=acfc93badebee67f) | 2026-09-14 20:03 |
 | QuickNode | Senior Infrastructure Engineer, Core Systems | Hallandale Beach, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=44dbc0a1e62ab6b6) | 2026-09-14 20:03 |
-| JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=98c558c6b0a21fef) | 2026-09-14 15:27 |
-| Nakupuna Companies | Business Intelligence Analyst | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=302f426881732dba) | 2026-09-14 15:27 |
-| Adobe | Sr Cloud Security Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=068d737aa1c3172d) | 2026-09-14 15:27 |
 
 
 ---
