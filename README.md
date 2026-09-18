@@ -1,16 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-18 16:49
+Last updated: 2026-09-18 19:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Emmes Company, LLC | Software Engineer (Backend) - Essex Management | Rockville, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=49fa2310af8dee52) | 2026-09-18 16:49 |
-| The Emmes Company, LLC | Software Engineer (Front-End) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d569f44c7ed079aa) | 2026-09-18 16:49 |
-| The Emmes Company, LLC | Software Engineer (Full-Stack) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1fa0db311b4703de) | 2026-09-18 16:49 |
-| Inabia Software & Consulting Inc. | Data Architect – FDE \| Hartford, CT / Minneapolis, MN | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a6b512ada906a24d) | 2026-09-18 16:49 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdea1b0ba7904f76) | 2026-09-18 16:49 |
+| The Emmes Company, LLC | Software Engineer (Backend) - Essex Management | Rockville, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=49fa2310af8dee52) | 2026-09-18 19:19 |
+| The Emmes Company, LLC | Software Engineer (Front-End) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d569f44c7ed079aa) | 2026-09-18 19:19 |
+| The Emmes Company, LLC | Software Engineer (Full-Stack) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1fa0db311b4703de) | 2026-09-18 19:19 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdea1b0ba7904f76) | 2026-09-18 19:19 |
 | JPMorganChase | Software Engineer III - Java | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=48899877e5f6a136) | 2026-09-18 12:30 |
 | Capgemini | Senior Data Scientist | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1b682d21992aa0c) | 2026-09-18 12:30 |
 | First Citizens Bank | Data Engineer II | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c9c291a59e036015) | 2026-09-18 12:30 |
