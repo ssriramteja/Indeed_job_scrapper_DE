@@ -1,24 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-18 07:46
+Last updated: 2026-09-18 12:30
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| The Emmes Company, LLC | Software Engineer (Backend) - Essex Management | Rockville, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=49fa2310af8dee52) | 2026-09-18 07:46 |
+| The Emmes Company, LLC | Software Engineer (Backend) - Essex Management | Rockville, MD, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=49fa2310af8dee52) | 2026-09-18 12:30 |
+| The Emmes Company, LLC | Software Engineer (Front-End) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d569f44c7ed079aa) | 2026-09-18 12:30 |
+| The Emmes Company, LLC | Software Engineer (Full-Stack) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1fa0db311b4703de) | 2026-09-18 12:30 |
+| JPMorganChase | Software Engineer III - Java | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=48899877e5f6a136) | 2026-09-18 12:30 |
+| Inabia Software & Consulting Inc. | Data Architect – FDE \| Hartford, CT / Minneapolis, MN | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a6b512ada906a24d) | 2026-09-18 12:30 |
+| Capgemini | Senior Data Scientist | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1b682d21992aa0c) | 2026-09-18 12:30 |
+| First Citizens Bank | Data Engineer II | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c9c291a59e036015) | 2026-09-18 12:30 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdea1b0ba7904f76) | 2026-09-18 12:30 |
 | Salesforce | Software Engineering SMTS | San Francisco, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6f2eeba9840966b9) | 2026-09-18 07:46 |
 | Deloitte | Ab Initio Developer | Princeton, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7d3256e545b105e3) | 2026-09-18 07:46 |
 | Deloitte | Ab Initio Developer | Jericho, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7e679dbd4f0dd48e) | 2026-09-18 07:46 |
 | Deloitte | Ab Initio Developer | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d4702034dd003ec9) | 2026-09-18 07:46 |
 | Deloitte | Ab Initio Developer | Morristown, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1f1889e38b8bdd30) | 2026-09-18 07:46 |
 | Deloitte | Ab Initio Developer | Jersey City, NJ, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7016138149863f08) | 2026-09-18 07:46 |
-| The Emmes Company, LLC | Software Engineer (Front-End) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d569f44c7ed079aa) | 2026-09-18 07:46 |
-| The Emmes Company, LLC | Software Engineer (Full-Stack) - Essex Management | Rockville, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=1fa0db311b4703de) | 2026-09-18 07:46 |
 | Deloitte | Software Engineer III- AI & Engineering/Software as a Service | Rosslyn, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2a10dde96050d4a0) | 2026-09-18 07:46 |
-| Inabia Software & Consulting Inc. | Data Architect – FDE \| Hartford, CT / Minneapolis, MN | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a6b512ada906a24d) | 2026-09-18 07:46 |
 | ExxonMobil | Data Engineer | Spring, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d4534e033543a707) | 2026-09-18 07:46 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdea1b0ba7904f76) | 2026-09-18 07:46 |
 | Mastercard | Senior Data Engineer | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=decc9568d9ed2024) | 2026-09-18 07:46 |
 | Ensono | Senior Automation & Observability Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=adb1cc338b37b830) | 2026-09-18 07:46 |
 | Zoom Communications | Software Engineer | San Jose, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=11340d96f177ca10) | 2026-09-18 07:46 |
@@ -599,8 +602,6 @@ Last updated: 2026-09-18 07:46
 | JPMorganChase | Software Engineer III - Databricks | Wilmington, DE, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=98c558c6b0a21fef) | 2026-09-14 15:27 |
 | Nakupuna Companies | Business Intelligence Analyst | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=302f426881732dba) | 2026-09-14 15:27 |
 | Adobe | Sr Cloud Security Engineer | Lehi, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=068d737aa1c3172d) | 2026-09-14 15:27 |
-| Aeroflow Health | Developer DBA | Asheville, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0ad833078dc9770) | 2026-09-14 08:18 |
-| Rooms To Go | Senior Database Developer (SQL & Databricks) | Seffner, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7291666cf90be22a) | 2026-09-14 08:18 |
 
 
 ---
