@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-19 05:18
+Last updated: 2026-09-19 13:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Oshkosh Corporation | Data Engineer Sr | Oshkosh, WI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bb8a157769951a90) | 2026-09-19 13:41 |
+| Bot Auto | Senior Software Engineer, Core Platforms | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=132e8b6500861f80) | 2026-09-19 13:41 |
+| Databricks | Sr. Solutions Engineer - Digital Native Business (Strategic Accounts) | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=313b8143e7e2de83) | 2026-09-19 13:41 |
+| Capital One | Integration Engineer 3 | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5c3d6bc274a6930) | 2026-09-19 13:41 |
 | Regal Entertainment Group | Senior Data Engineer | Knoxville, TN, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=695e1a6790e5d227) | 2026-09-19 05:18 |
 | NYSTEC | Business Intelligence Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc628f7d74985c07) | 2026-09-19 05:18 |
 | Collaboredge | OCTO ETL Data Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7034ddc05a5e196a) | 2026-09-19 05:18 |
@@ -390,35 +394,6 @@ Last updated: 2026-09-19 05:18
 | Optum | Software Engineer | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=eeb102790d16f532) | 2026-09-15 14:00 |
 | WEX Inc. | AI & Data Platform Engineering Intern (Undergraduate) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=75bca6b36a764259) | 2026-09-15 14:00 |
 | Foot Locker | Data & Analytics Engineer | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ba07136a4a72ee21) | 2026-09-15 14:00 |
-| Photon | Data Architect - Irving | Irving, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=bbe7b157eada5171) | 2026-09-15 08:11 |
-| TradeWind Services | Senior Databrick Engineer | Richland, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=53e3a08c1c44bf91) | 2026-09-15 08:11 |
-| Cognizant | Senior Azure Data Architect | Wilmington, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7608d5894436a65d) | 2026-09-15 08:11 |
-| mPulse | Data Integration Engineer II | Remote, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=38b79b27689fa7f5) | 2026-09-15 08:11 |
-| mPulse | Data Integration Engineer II | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b3463838e828923f) | 2026-09-15 08:11 |
-| JPMorganChase | Software Engineer II (Full Stack) | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=262e7b6fb0562f09) | 2026-09-15 08:11 |
-| Tendo | Senior Clinical Data Analyst (Healthcare Analytics) | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ee930887aa7df056) | 2026-09-15 08:11 |
-| Nordstrom | Engineer 1 | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=759a4cfd65b3309c) | 2026-09-15 08:11 |
-| Colgate-Palmolive | Data Engineer | Piscataway, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8557217074c1d741) | 2026-09-15 08:11 |
-| mPulse | Data Integration Engineer I | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=40b5249f2897ae6d) | 2026-09-15 08:11 |
-| mPulse | Data Integration Engineer I | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=565a928d60feb307) | 2026-09-15 08:11 |
-| Photon | Enterprise Solution Architects - Irving | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0c99631c2a979de0) | 2026-09-15 08:11 |
-| St. Jude Children's Research Hospital | Data Scientist - Clinical Machine Learning & Flow Cytometry | Memphis, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dc16153ffd80ac29) | 2026-09-15 08:11 |
-| Photon | Full Stack Engineer - Dallas, TX | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2090e6291d9af573) | 2026-09-15 08:11 |
-| Optisources LLC | DevSecOps Engineer | MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=674588f252c63a1f) | 2026-09-15 08:11 |
-| Ellipsis Health | Senior Backend Engineer, Core Services | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb104c65d5c051e4) | 2026-09-15 08:11 |
-| WEX Inc. | DevOps & AI Engineering Intern (Undergraduate) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b556599daea77b24) | 2026-09-15 08:11 |
-| Power Systems MFG., LLC | Development Engineer | Jupiter, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0c4817632c304bcf) | 2026-09-15 08:11 |
-| Johnson Controls | Senior DevOps Engineer (hybrid) | York, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e5c9672421189d7f) | 2026-09-15 08:11 |
-| Nutanix | Solutions Architect - Nutanix Database Service | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b5385371f7a5eb99) | 2026-09-15 08:11 |
-| Nutanix | Solutions Architect - Nutanix Database Service | Miami, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ecabceae450ef29c) | 2026-09-15 08:11 |
-| Nutanix | Solutions Architect - Nutanix Database Service | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=56eb2530b4ff7a40) | 2026-09-15 08:11 |
-| Nutanix | Solutions Architect - Nutanix Database Service | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6433ae988372e060) | 2026-09-15 08:11 |
-| Nutanix | Solutions Architect - Nutanix Database Service | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b64e5c0767c818b) | 2026-09-15 08:11 |
-| Nutanix | Solutions Architect - Nutanix Database Service | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d449ce9fd9801204) | 2026-09-15 08:11 |
-| Nutanix | Solutions Architect - Nutanix Database Service | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15ec3a99ef9a9bf9) | 2026-09-15 08:11 |
-| Nutanix | Solutions Architect - Nutanix Database Service | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14d02a049bdb55f2) | 2026-09-15 08:11 |
-| Wpromote, LLC | Senior Software Engineer I, Full Stack | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c05c7ecac6958717) | 2026-09-15 08:11 |
-| SS&C | Business Intelligence Reporting/ Web Developer | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a5b4b90a50d5e15) | 2026-09-15 08:11 |
 
 
 ---

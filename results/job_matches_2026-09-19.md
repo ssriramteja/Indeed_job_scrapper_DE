@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-09-19
 
-**Total Jobs Found:** 11
+**Total Jobs Found:** 13
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -16,7 +16,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Business Intelligence Developer @ NYSTEC
+## 2. Data Engineer Sr @ Oshkosh Corporation
+**Match Score:** 16.7%
+
+📍 **Location:** Oshkosh, WI, US USA
+
+🔑 **Keywords:** AWS, Redshift, RDS, Azure, Data Factory, Databricks, GCP, Hadoop, HDFS, Hive
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bb8a157769951a90)
+
+---
+
+## 3. Business Intelligence Developer @ NYSTEC
 **Match Score:** 13.2%
 
 📍 **Location:** New York, NY, US USA
@@ -27,29 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Data Scientist @ Capgemini
-**Match Score:** 13.2%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Athena, S3, IAM, RDS, Spark, Scala, Kafka
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d1b682d21992aa0c)
-
----
-
-## 4. Data Engineer II @ First Citizens Bank
-**Match Score:** 13.2%
-
-📍 **Location:** Raleigh, NC, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Medallion Architecture, Scala, Snowflake, Data Modeling, ETL, dbt, Splunk
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c9c291a59e036015)
-
----
-
-## 5. OCTO ETL Data Engineer @ Collaboredge
+## 4. OCTO ETL Data Engineer @ Collaboredge
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior ML Data Infrastructure Engineer @ Cognizant
+## 5. Senior ML Data Infrastructure Engineer @ Cognizant
 **Match Score:** 12.5%
 
 📍 **Location:** San Francisco, CA, US USA
@@ -68,6 +57,17 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** Kinesis, IAM, GCP, BigQuery, Dataflow, Cloud Storage, Vertex AI, Spark, Scala, Kafka
 
 [Apply Here](https://www.indeed.com/viewjob?jk=41542c40ed442d87)
+
+---
+
+## 6. Senior Software Engineer, Core Platforms @ Bot Auto
+**Match Score:** 12.5%
+
+📍 **Location:** San Francisco, CA, US USA
+
+🔑 **Keywords:** AWS, API Gateway, IAM, RDS, Azure, GCP, Scala, Kafka, CI/CD, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=132e8b6500861f80)
 
 ---
 
@@ -93,7 +93,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Data Engineering Intern @ Cambridge Investment Research, Inc.
+## 9. Sr. Solutions Engineer - Digital Native Business (Strategic Accounts) @ Databricks
+**Match Score:** 12.5%
+
+📍 **Location:** CA, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, Medallion Architecture, GCP, Hadoop, Spark, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=313b8143e7e2de83)
+
+---
+
+## 10. Integration Engineer 3 @ Capital One
+**Match Score:** 11.8%
+
+📍 **Location:** Richmond, VA, US USA
+
+🔑 **Keywords:** AWS, ECS, RDS, Azure, GCP, Scala, Splunk, Jenkins, Terraform, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c5c3d6bc274a6930)
+
+---
+
+## 11. Data Engineering Intern @ Cambridge Investment Research, Inc.
 **Match Score:** 11.1%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -104,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Cloud & Infrastructure Engineer @ Newity LLC
+## 12. Cloud & Infrastructure Engineer @ Newity LLC
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
@@ -115,7 +137,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 11. Applied Machine Learning Scientist @ Grainger
+## 13. Applied Machine Learning Scientist @ Grainger
 **Match Score:** 10.4%
 
 📍 **Location:** Chicago, IL, US USA
