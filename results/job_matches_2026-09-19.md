@@ -1,172 +1,128 @@
 # 🎯 Daily Job Matches — 2026-09-19
 
-**Total Jobs Found:** 15
+**Total Jobs Found:** 11
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Ab Initio Developer @ Deloitte
-**Match Score:** 16.0%
+## 1. Senior Data Engineer @ Regal Entertainment Group
+**Match Score:** 18.8%
 
-📍 **Location:** Princeton, NJ, US USA
+📍 **Location:** Knoxville, TN, US USA
 
-🔑 **Keywords:** Azure, Scala, Kafka, Snowflake, Oracle, Dimensional Modeling, Kimball, Snowflake Schema, ETL, CI/CD
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, BigQuery, Spark, Scala, Snowflake, SQL Server, MySQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7d3256e545b105e3)
-
----
-
-## 2. Ab Initio Developer @ Deloitte
-**Match Score:** 16.0%
-
-📍 **Location:** Jericho, NY, US USA
-
-🔑 **Keywords:** Azure, Scala, Kafka, Snowflake, Oracle, Dimensional Modeling, Kimball, Snowflake Schema, ETL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7e679dbd4f0dd48e)
+[Apply Here](https://www.indeed.com/viewjob?jk=695e1a6790e5d227)
 
 ---
 
-## 3. Ab Initio Developer @ Deloitte
-**Match Score:** 16.0%
+## 2. Business Intelligence Developer @ NYSTEC
+**Match Score:** 13.2%
 
 📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** Azure, Scala, Kafka, Snowflake, Oracle, Dimensional Modeling, Kimball, Snowflake Schema, ETL, CI/CD
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Data Lake Storage, Medallion Architecture, Dataflow, Spark, PySpark, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d4702034dd003ec9)
-
----
-
-## 4. Ab Initio Developer @ Deloitte
-**Match Score:** 16.0%
-
-📍 **Location:** Morristown, NJ, US USA
-
-🔑 **Keywords:** Azure, Scala, Kafka, Snowflake, Oracle, Dimensional Modeling, Kimball, Snowflake Schema, ETL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1f1889e38b8bdd30)
+[Apply Here](https://www.indeed.com/viewjob?jk=bc628f7d74985c07)
 
 ---
 
-## 5. Ab Initio Developer @ Deloitte
-**Match Score:** 16.0%
-
-📍 **Location:** Jersey City, NJ, US USA
-
-🔑 **Keywords:** Azure, Scala, Kafka, Snowflake, Oracle, Dimensional Modeling, Kimball, Snowflake Schema, ETL, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7016138149863f08)
-
----
-
-## 6. Software Engineer III- AI & Engineering/Software as a Service @ Deloitte
-**Match Score:** 14.6%
-
-📍 **Location:** Rosslyn, VA, US USA
-
-🔑 **Keywords:** AWS, SQS, RDS, Azure, GCP, Scala, Kafka, PostgreSQL, MySQL, MongoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2a10dde96050d4a0)
-
----
-
-## 7. Data Engineer @ ExxonMobil
+## 3. Senior Data Scientist @ Capgemini
 **Match Score:** 13.2%
 
-📍 **Location:** Spring, TX, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Spark, Scala, Kafka, Snowflake, NoSQL, Data Modeling
+🔑 **Keywords:** AWS, Glue, EMR, Athena, S3, IAM, RDS, Spark, Scala, Kafka
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d4534e033543a707)
+[Apply Here](https://www.indeed.com/viewjob?jk=d1b682d21992aa0c)
 
 ---
 
-## 8. Full Stack Data Engineer @ Ford Motor Company
+## 4. Data Engineer II @ First Citizens Bank
 **Match Score:** 13.2%
 
-📍 **Location:** Dearborn, MI, US USA
+📍 **Location:** Raleigh, NC, US USA
 
-🔑 **Keywords:** RDS, Google Cloud Platform, GCP, BigQuery, Dataflow, Cloud Storage, Spark, Scala, Data Modeling, CI/CD
+🔑 **Keywords:** AWS, RDS, Azure, Medallion Architecture, Scala, Snowflake, Data Modeling, ETL, dbt, Splunk
 
-[Apply Here](https://www.indeed.com/viewjob?jk=bdea1b0ba7904f76)
+[Apply Here](https://www.indeed.com/viewjob?jk=c9c291a59e036015)
 
 ---
 
-## 9. Senior Data Engineer @ Mastercard
+## 5. OCTO ETL Data Engineer @ Collaboredge
 **Match Score:** 12.5%
 
-📍 **Location:** Atlanta, GA, US USA
+📍 **Location:** Washington, DC, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Hadoop, Spark, Scala, Kafka, ETL, ELT
+🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Data Lake Storage, Blob Storage, Informatica PowerCenter, Oracle, SQL Server, ETL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=decc9568d9ed2024)
-
----
-
-## 10. Software Engineer @ Zoom Communications
-**Match Score:** 11.8%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** RDS, Databricks, Scala, Kafka, Snowflake, Data Modeling, Dimensional Modeling, Kimball, dbt, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=11340d96f177ca10)
+[Apply Here](https://www.indeed.com/viewjob?jk=7034ddc05a5e196a)
 
 ---
 
-## 11. Application Developer @ Applied Medical
-**Match Score:** 11.8%
+## 6. Senior ML Data Infrastructure Engineer @ Cognizant
+**Match Score:** 12.5%
 
-📍 **Location:** Rancho Santa Margarita, CA, US USA
+📍 **Location:** San Francisco, CA, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, YARN, SQL Server, PostgreSQL, Azure Cosmos DB, NoSQL, CI/CD, GitHub Actions
+🔑 **Keywords:** Kinesis, IAM, GCP, BigQuery, Dataflow, Cloud Storage, Vertex AI, Spark, Scala, Kafka
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6e01cae988d40726)
+[Apply Here](https://www.indeed.com/viewjob?jk=41542c40ed442d87)
 
 ---
 
-## 12. Oracle Database Admin - SQL/ETL @ Deloitte
+## 7. Senior Software Engineer, Core Platforms @ Bot Auto
+**Match Score:** 12.5%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** AWS, API Gateway, IAM, RDS, Azure, GCP, Scala, Kafka, CI/CD, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8b9869546b3cb88f)
+
+---
+
+## 8. Kafka Engineer @ BV Teck
+**Match Score:** 12.5%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Event Hubs, Spark, Spark Streaming, Kafka, Kafka Connect, CI/CD, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=df94682d2c3c155f)
+
+---
+
+## 9. Data Engineering Intern @ Cambridge Investment Research, Inc.
 **Match Score:** 11.1%
 
-📍 **Location:** Philadelphia, PA, US USA
+📍 **Location:** Phoenix, AZ, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, Oracle, PostgreSQL, MongoDB, NoSQL
+🔑 **Keywords:** Azure, Event Hubs, Scala, Kafka, Snowflake, ETL, ELT, dbt, CI/CD, Azure DevOps
 
-[Apply Here](https://www.indeed.com/viewjob?jk=604aae71410d0cd1)
-
----
-
-## 13. Oracle Database Admin - SQL/ETL @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, Oracle, PostgreSQL, MongoDB, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f44851399d9ca9c6)
+[Apply Here](https://www.indeed.com/viewjob?jk=20b168d606de0f06)
 
 ---
 
-## 14. Oracle Database Admin - SQL/ETL @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Baltimore, MD, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Google Cloud Platform, GCP, Scala, Oracle, PostgreSQL, MongoDB, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=98c02d78578a5ad2)
-
----
-
-## 15. Cloud Network Engineer @ Deloitte
+## 10. Cloud & Infrastructure Engineer @ Newity LLC
 **Match Score:** 10.4%
 
-📍 **Location:** Dallas, TX, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** AWS, RDS, Google Cloud Platform, GCP, Scala, CI/CD, Jenkins, Terraform, AWS CloudFormation, Kubernetes
+🔑 **Keywords:** AWS, RDS, Azure, Scala, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Terraform, AWS CloudFormation
 
-[Apply Here](https://www.indeed.com/viewjob?jk=12b173b727a3ca11)
+[Apply Here](https://www.indeed.com/viewjob?jk=f2fe21468764e4ff)
+
+---
+
+## 11. Applied Machine Learning Scientist @ Grainger
+**Match Score:** 10.4%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RDS, Databricks, Scala, Snowflake, MLflow, Docker, Kubernetes, Airflow, Git, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e8bc884aee2d07d0)
 
 ---
 

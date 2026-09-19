@@ -1,12 +1,20 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-19 00:48
+Last updated: 2026-09-19 05:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bdea1b0ba7904f76) | 2026-09-19 00:48 |
+| Regal Entertainment Group | Senior Data Engineer | Knoxville, TN, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=695e1a6790e5d227) | 2026-09-19 05:18 |
+| NYSTEC | Business Intelligence Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc628f7d74985c07) | 2026-09-19 05:18 |
+| Collaboredge | OCTO ETL Data Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7034ddc05a5e196a) | 2026-09-19 05:18 |
+| Cognizant | Senior ML Data Infrastructure Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=41542c40ed442d87) | 2026-09-19 05:18 |
+| Bot Auto | Senior Software Engineer, Core Platforms | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b9869546b3cb88f) | 2026-09-19 05:18 |
+| BV Teck | Kafka Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df94682d2c3c155f) | 2026-09-19 05:18 |
+| Cambridge Investment Research, Inc. | Data Engineering Intern | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20b168d606de0f06) | 2026-09-19 05:18 |
+| Newity LLC | Cloud & Infrastructure Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2fe21468764e4ff) | 2026-09-19 05:18 |
+| Grainger | Applied Machine Learning Scientist | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e8bc884aee2d07d0) | 2026-09-19 05:18 |
 | JPMorganChase | Software Engineer III - Java | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=48899877e5f6a136) | 2026-09-18 12:30 |
 | Capgemini | Senior Data Scientist | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1b682d21992aa0c) | 2026-09-18 12:30 |
 | First Citizens Bank | Data Engineer II | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c9c291a59e036015) | 2026-09-18 12:30 |
@@ -411,27 +419,6 @@ Last updated: 2026-09-19 00:48
 | Nutanix | Solutions Architect - Nutanix Database Service | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=14d02a049bdb55f2) | 2026-09-15 08:11 |
 | Wpromote, LLC | Senior Software Engineer I, Full Stack | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c05c7ecac6958717) | 2026-09-15 08:11 |
 | SS&C | Business Intelligence Reporting/ Web Developer | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8a5b4b90a50d5e15) | 2026-09-15 08:11 |
-| CoStar Group | Senior Data Engineer - Debt Solutions - San Diego, CA | San Diego, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b158df89b8b4f2ba) | 2026-09-15 02:32 |
-| Blue Origin | Telemetry Data Infrastructure DevOps Software Engineer III | Seattle, WA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8c634a2ea8b0b5dc) | 2026-09-15 02:32 |
-| Blue Origin | Infrastructure DevOps Software Engineer III | Seattle, WA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c736424a6d7924ca) | 2026-09-15 02:32 |
-| EBSCO Information Services | Sr. DevSecOps Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b7fe85eb12d0cac3) | 2026-09-15 02:32 |
-| BCD | Senior AWS Cloud Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4d22b7b216664062) | 2026-09-15 02:32 |
-| Visa | Data Engineer | Foster City, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a91e83e2437ff07f) | 2026-09-15 02:32 |
-| GEICO | Senior Engineer, Software (SWE) – GIA Platform | Seattle, WA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e58133888b7ac460) | 2026-09-15 02:32 |
-| Zeta Global | Senior Software Engineer, Identity | Remote, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a2626f31a8519115) | 2026-09-15 02:32 |
-| CSC Generation | Software Engineer - Legacy Applications & Modernization | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=10fe6636f3653803) | 2026-09-15 02:32 |
-| KeyBank | Data Security (SecuPi) Administrator | Cleveland, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d7c21e4f363c4b33) | 2026-09-15 02:32 |
-| KeyBank | Data Security (SecuPi) Administrator | Brooklyn, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9dc6dc5d398c5e43) | 2026-09-15 02:32 |
-| Verizon | Distinguished Engineer - AI/ML Engineering | Basking Ridge, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=22537756cead7b79) | 2026-09-15 02:32 |
-| State Farm | Summer 2027 Intern – Enterprise Technology – Engineer (Software, Data, Infrastructure) | Bloomington, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0f7927f3bdc5788a) | 2026-09-15 02:32 |
-| Databricks | Sr. Forward Deployed Engineer (FDE) - Digital Native Business | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=16a69c90e7b8f72f) | 2026-09-15 02:32 |
-| Databricks | Sr. Forward Deployed Engineer (FDE) - Digital Native Business | West, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c3a9ebb96d2c59a5) | 2026-09-15 02:32 |
-| Databricks | Sr. Forward Deployed Engineer (FDE) - Digital Native Business | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f996d189fabe2c4) | 2026-09-15 02:32 |
-| Databricks | Sr. Forward Deployed Engineer (FDE) - Digital Native Business | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3995fc6eb8f81df6) | 2026-09-15 02:32 |
-| Fiduciary Tech | Business Intelligence Engineer | Seattle, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d12757dff686e33) | 2026-09-15 02:32 |
-| U.S. Bank | Software Engineer 2 | Irvine, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=cba7ca1e76e49f73) | 2026-09-15 02:32 |
-| FiscalNote | Analytics Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=492f33334022854d) | 2026-09-15 02:32 |
-| GEICO | Senior Engineer - (Java/Software Development/AI) - Hybrid | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e9380fbd837d96f) | 2026-09-15 02:32 |
 
 
 ---
