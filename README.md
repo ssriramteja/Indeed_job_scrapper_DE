@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-21 00:40
+Last updated: 2026-09-21 05:40
 
 ### 🚀 Daily Job Matches
 
@@ -156,28 +156,6 @@ Last updated: 2026-09-21 00:40
 | CVS Health | Senior Software Automation Engineer (UI/API) | IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=63cf03e83c9963c7) | 2026-09-17 08:11 |
 | All IT Solutions | Backend Java AWS Developer | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bf369a38badd5d9f) | 2026-09-17 08:11 |
 | NYU Langone Health | Senior Technical Business Analyst | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4c7dea3197e41589) | 2026-09-17 08:11 |
-| valency systems | Senior Software Engineer - Remote | Berkeley, CA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7faadf86698e0022) | 2026-09-17 02:30 |
-| American Express | Sr Software Engineer II - Enterprise Architecture | Phoenix, AZ, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=c6b0b7c55fd4efa0) | 2026-09-17 02:30 |
-| CoStar Group | Data Engineer II - Homes.com - Arlington, VA | Arlington, VA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=a2e22789e6fc7a92) | 2026-09-17 02:30 |
-| JPMorganChase | Backend Software Engineer III - Python/JAVA | Columbus, OH, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8e860daaeaca47c2) | 2026-09-17 02:30 |
-| Infinitive Inc | Data Engineer (Temporal & Apache Kafka required) | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9aecdd03e33db9d0) | 2026-09-17 02:30 |
-| Realign | Java Full Stack developer | Addison, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1a16891b1a0bc2b6) | 2026-09-17 02:30 |
-| Realign | Java Full Stack developer | Jacksonville, FL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b3cf1c715f20c75c) | 2026-09-17 02:30 |
-| Realign | Java Full Stack developer | Charlotte, NC, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=c3a11df352ae6bc1) | 2026-09-17 02:30 |
-| LexisNexis Legal & Professional | Senior Software Engineer II | TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e8284bacdead0a51) | 2026-09-17 02:30 |
-| BV Teck | Cloud Solutions Engineer – Azure | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=913f326777591b8d) | 2026-09-17 02:30 |
-| World Wide Technology | MLOps Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fc9434d3c199f7af) | 2026-09-17 02:30 |
-| BV Teck | OCI Solutions Architect | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a41480985be8d777) | 2026-09-17 02:30 |
-| Realign | Data Engineer-3 | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce2345bd6032d37d) | 2026-09-17 02:30 |
-| Alembic Pharmaceuticals Ltd | Senior Site Reliability Engineer | Dunwoody, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=75b83ee2f5d53bc7) | 2026-09-17 02:30 |
-| BV Teck | Test Automation Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee14dc761cbf374d) | 2026-09-17 02:30 |
-| Greenheck Group | DevOps & Security Engineer | Schofield, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2e54cf349fa6158e) | 2026-09-17 02:30 |
-| VeeRteq Solutions Inc. | Senior Databricks Engineer (Admin) | Irving, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f8fa128ecb47403c) | 2026-09-17 02:30 |
-| Realign | Gen AI Engineer-3 | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=814280d6c27316f6) | 2026-09-17 02:30 |
-| BV Teck | Java Application Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0632f545cc6501af) | 2026-09-17 02:30 |
-| BV Teck | Data Solutions Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=71e8b20769edb6e4) | 2026-09-17 02:30 |
-| DBV Technologies | IS Data Architect | NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=444fcfac41a73160) | 2026-09-17 02:30 |
-| JPMorganChase | Full-stack Java and React Software Engineer III | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=76dab07201ea443a) | 2026-09-17 02:30 |
 
 
 ---
