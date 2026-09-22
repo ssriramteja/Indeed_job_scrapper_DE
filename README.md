@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-22 10:36
+Last updated: 2026-09-22 15:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Citi | Part Time Teller (20 Hours), Castro Branch | Rutherford, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=62e481a61bf24644) | 2026-09-22 15:16 |
+| nan | Azure Databricks & Agentic AI Architect | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=02432aa1dd6c57d9) | 2026-09-22 15:16 |
+| CVS Health | Senior Data Engineer, Observability Engineering | MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=fd7165608cf370f2) | 2026-09-22 15:16 |
+| CVS Health | Senior Data Engineer, Observability Engineering | PA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7a99a75f70479356) | 2026-09-22 15:16 |
+| CVS Health | Senior Data Engineer, Observability Engineering | MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0993a1ced84ff494) | 2026-09-22 15:16 |
+| CVS Health | Senior Data Engineer, Observability Engineering | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=297ea1a332be0e9f) | 2026-09-22 15:16 |
+| CVS Health | Senior Data Engineer, Observability Engineering | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=81e443465ca87ae2) | 2026-09-22 15:16 |
+| CVS Health | Senior Data Engineer, Observability Engineering | CT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e39056943f43af2b) | 2026-09-22 15:16 |
+| CVS Health | Senior Data Engineer, Observability Engineering | VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e363619a2524b8aa) | 2026-09-22 15:16 |
+| CVS Health | Senior Data Engineer, Observability Engineering | NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=901a1050af2afd7e) | 2026-09-22 15:16 |
+| CVS Health | Senior Data Engineer, Observability Engineering | MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=52db018588005157) | 2026-09-22 15:16 |
+| CVS Health | Senior Data Engineer, Observability Engineering | AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=27c43d5e88d9c28b) | 2026-09-22 15:16 |
 | Capital One | Data Engineer 4 (Python, AWS) | Richmond, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6785ed8543590d56) | 2026-09-22 10:36 |
 | Capital One | Data Engineer 5 | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=30216af3fb095a16) | 2026-09-22 10:36 |
 | Capital One | Data Engineer 4 (Risk Tech) | McLean, VA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6cc3d67e2533b3c1) | 2026-09-22 10:36 |
@@ -146,9 +158,6 @@ Last updated: 2026-09-22 10:36
 | Cambridge Investment Research, Inc. | Data Engineering Intern | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20b168d606de0f06) | 2026-09-19 05:18 |
 | Newity LLC | Cloud & Infrastructure Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2fe21468764e4ff) | 2026-09-19 05:18 |
 | Grainger | Applied Machine Learning Scientist | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e8bc884aee2d07d0) | 2026-09-19 05:18 |
-| JPMorganChase | Software Engineer III - Java | Jersey City, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=48899877e5f6a136) | 2026-09-18 12:30 |
-| Capgemini | Senior Data Scientist | Chicago, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d1b682d21992aa0c) | 2026-09-18 12:30 |
-| First Citizens Bank | Data Engineer II | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c9c291a59e036015) | 2026-09-18 12:30 |
 
 
 ---
