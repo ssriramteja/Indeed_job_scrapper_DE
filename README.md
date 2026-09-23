@@ -1,11 +1,68 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-23 07:00
+Last updated: 2026-09-23 12:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| CVS Health | Senior Software Engineer | RI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8dd495afc5140159) | 2026-09-23 12:38 |
+| Capital One | Data Engineer 5 - Enterprise Risk Management | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a45f08af4f7be5f6) | 2026-09-23 12:38 |
+| Capital One | Data Engineer 4 - Nexus Products | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=36fc31dc37d05722) | 2026-09-23 12:38 |
+| Capital One | Data Engineer 4 | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=45e14228c1ed2aed) | 2026-09-23 12:38 |
+| Capital One | Data Engineer 4 - Payment Networks | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f8d0c3f139798fd9) | 2026-09-23 12:38 |
+| Capital One | Data Engineer 4 - HR Tech | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=010f3637940ea854) | 2026-09-23 12:38 |
+| Capital One | Data Engineer 5 (SEO/GEO, AdTech ) | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e9a8f6941c1a4549) | 2026-09-23 12:38 |
+| Capital One | Data Engineer 4 | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0db4720c664a5a3f) | 2026-09-23 12:38 |
+| Capital One | Data Engineer 4 | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d80c6adab1193eaf) | 2026-09-23 12:38 |
+| Capital One | Data Engineer 5 (Enterprise Platforms Technology) | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=220dab7fe793042b) | 2026-09-23 12:38 |
+| Capital One | Data Engineer 5 | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3a1e95e5123a2b15) | 2026-09-23 12:38 |
+| Eccalon | Database Engineer - onsite | Detroit, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e9489350e98d48c6) | 2026-09-23 12:38 |
+| Cotiviti | Sr Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=feec9157e828c7c5) | 2026-09-23 12:38 |
+| The Coca-Cola Company | Consultant, Data & Analytics, NA | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df7e6baa7a7dd0a0) | 2026-09-23 12:38 |
+| AMD | Senior Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9724e994419d2473) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 5 (Nodejs/Go/Angularjs) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9813442a220867be) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 - RiskTech | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2960b2498873f28) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 (Golang, Python, Java, AWS) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=da278457dd975c3f) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=18716e78985d34c6) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 (Go, AWS) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6132bb0eb6aaf86d) | 2026-09-23 12:38 |
+| BRMi | Backend Developer | Vienna, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fe1f889a04aac578) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 5 (Go, TypeScript and Angular) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=81ff3ef325447a98) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=70843ae9e366dd5b) | 2026-09-23 12:38 |
+| Capital One | Full - Stack Engineer 5 (Remote - Eligible) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=877ad6c20024fb1a) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6979868bb95d63f0) | 2026-09-23 12:38 |
+| Capital One | Full Stack Engineer 5 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b743b91aec079a75) | 2026-09-23 12:38 |
+| Capital One | Full Stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3fb66ff5f4ef065f) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 (Python, Java) | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c9046de91e154d69) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 5 ( Python, AWS) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e4de127a7227d81) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 5 (Golang, Java, AWS) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3a9ee8f682a9c78) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6faf5ca1640fcd31) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=42133a298638cb9b) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 5 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a708182f9a1da64d) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=76c8a5b4fcc58505) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 5 - Shopping (Remote-Eligible) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=419688dc0cbfaf98) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 5 (Java, Scala, AWS) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c997daa05db4e0c7) | 2026-09-23 12:38 |
+| Capital One | Full Stack Engineer 4 (Go, AWS) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a9874c783fb4a03) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1f96da918db85a2a) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 (Java, Scala, AWS) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b9e0187cbe4c2e40) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=900df92ddc778d5f) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 (JavaScript, React) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e7c346fa6453ffb9) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 5 (Go/Java, Angular, AWS) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c039bc465260bc95) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=54e236865193f8a0) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b667ebd325202576) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 5 (Golang, AWS) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=672e371e8fd60859) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 (React, TypeScript, AWS) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=346a7f081a67b46c) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b21934bf2433e6a) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 (Scala, React, AWS) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2af3b2e528eb8c47) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 (Scala, React, AWS) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=51fd20841ca9c754) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=619531dae358928f) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 (Python, AWS) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e4eaf7eaa027bbb) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 (GoLang) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b7c24e0e87f3fc42) | 2026-09-23 12:38 |
+| Capital One | Full-Stack Engineer 4 (Automation Quality Engineer) | Riverwoods, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2acd23b24043f205) | 2026-09-23 12:38 |
+| Capital One | Full-stack Engineer 4 - Shopping (Remote-Eligible) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f87b328e958cbb63) | 2026-09-23 12:38 |
+| KeHE Distributors | Data Engineer | Naperville, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9033c8036c6af9b3) | 2026-09-23 12:38 |
+| Capital One | Integration Engineer 4 | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=52d873bb7fc420f0) | 2026-09-23 12:38 |
+| Mastercard | Senior Software Engineer | O'Fallon, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0245dcafa3f48258) | 2026-09-23 12:38 |
 | StorageMart | I.T. - DevOps Engineer | Columbia, MO, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=c2e972535a11a31f) | 2026-09-23 07:00 |
 | Deloitte | Applied AI Site Reliability Engineer II - PxE A&A | Hermitage, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=293a95bba31efbab) | 2026-09-23 07:00 |
 | Deloitte | Applied AI Site Reliability Engineer II - PxE A&A | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=90798cf9ad992e58) | 2026-09-23 07:00 |
@@ -35,7 +92,6 @@ Last updated: 2026-09-23 07:00
 | Community Choice Credit Union | Data Engineer | Jackson, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9457f2c72938dbd5) | 2026-09-23 07:00 |
 | Community Choice Credit Union | Data Engineer | Holland, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f79614628dc966f) | 2026-09-23 07:00 |
 | Community Choice Credit Union | Data Engineer | Farmington Hills, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc4be70d8a478d8a) | 2026-09-23 07:00 |
-| The Coca-Cola Company | Consultant, Data & Analytics, NA | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df7e6baa7a7dd0a0) | 2026-09-23 07:00 |
 | Intentsify | Senior Software Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d89a533339b416c) | 2026-09-23 07:00 |
 | WellSky | Sr. Data Engineer | Overland Park, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d0888bf081a07cc) | 2026-09-23 07:00 |
 | JPMorganChase | Data Engineer II - AWS/PySpark/ETL | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa1cc23a36ed4493) | 2026-09-23 07:00 |
