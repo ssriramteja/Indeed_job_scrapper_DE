@@ -1,11 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-23 12:38
+Last updated: 2026-09-23 17:36
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capital One | Data Engineer 4 (Python, AWS, Kafka, Spark, SQL, Snowflake, Databricks, GenAI) | McLean, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=47e2de3bf66a6750) | 2026-09-23 17:36 |
+| Capgemini | C,C++, Python, Golang Developer | Alpharetta, GA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=441856af730024e8) | 2026-09-23 17:36 |
+| Mars | Analytics and Intelligence Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=94ca6d53f6fb57de) | 2026-09-23 17:36 |
+| United Utility | Sr. Data Engineer | Spring, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2c848474306799be) | 2026-09-23 17:36 |
+| Wayfair | Software Engineer III - Generative AI Technology | Boston, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=dea1b605e8c5ec18) | 2026-09-23 17:36 |
+| nan | Product Software Engineer II | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5fd9ded3cfb927d6) | 2026-09-23 17:36 |
+| Johnson Controls | Enterprise Architect - Data Platform | Milwaukee, WI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d42707fbe5923515) | 2026-09-23 17:36 |
+| Exostar | Software Engineer | Herndon, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ca5e90ebcac7315c) | 2026-09-23 17:36 |
+| Capital One | Full Stack Engineer 4 (Python, AWS, AI, Snowflake, Databricks) | Plano, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2d2e1578e6815ef7) | 2026-09-23 17:36 |
+| Capital One | Full-Stack Engineer 4 (Java, Spring, DynamoDB, S3, GraphQL, GenAI) | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=30dd4b0534b4aca9) | 2026-09-23 17:36 |
+| Capital One | Full-Stack Engineer 4 (Java, Spring, DynamoDB, S3, GraphQL, GenAL) | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e502713d51d0a40) | 2026-09-23 17:36 |
+| The Coca-Cola Company | Consultant, Data & Analytics, NA | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df7e6baa7a7dd0a0) | 2026-09-23 17:36 |
+| MariaDB plc | Senior Software Engineer - Cloud Platform Engineering | VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e683398c349f7a6d) | 2026-09-23 17:36 |
+| Capital One | Full-stack Engineer 4 (IC) | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4620494dca257198) | 2026-09-23 17:36 |
+| Capital One | Full-stack Engineer 4 (IC) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6b1bed8feba6b917) | 2026-09-23 17:36 |
+| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8e194fdfb9b8dbe3) | 2026-09-23 17:36 |
+| Capital One | Full-Stack Engineer 4 (Python, AWS, Network Automation) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a77780c738e44a57) | 2026-09-23 17:36 |
+| MedQuest Imaging | Healthcare Interoperability Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eeb961148c207be2) | 2026-09-23 17:36 |
+| CareSource | Data Scientist IV | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f79ced955268a69b) | 2026-09-23 17:36 |
 | CVS Health | Senior Software Engineer | RI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8dd495afc5140159) | 2026-09-23 12:38 |
 | Capital One | Data Engineer 5 - Enterprise Risk Management | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a45f08af4f7be5f6) | 2026-09-23 12:38 |
 | Capital One | Data Engineer 4 - Nexus Products | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=36fc31dc37d05722) | 2026-09-23 12:38 |
@@ -19,7 +38,6 @@ Last updated: 2026-09-23 12:38
 | Capital One | Data Engineer 5 | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3a1e95e5123a2b15) | 2026-09-23 12:38 |
 | Eccalon | Database Engineer - onsite | Detroit, MI, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e9489350e98d48c6) | 2026-09-23 12:38 |
 | Cotiviti | Sr Implementation Consultant | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=feec9157e828c7c5) | 2026-09-23 12:38 |
-| The Coca-Cola Company | Consultant, Data & Analytics, NA | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df7e6baa7a7dd0a0) | 2026-09-23 12:38 |
 | AMD | Senior Data Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9724e994419d2473) | 2026-09-23 12:38 |
 | Capital One | Full-stack Engineer 5 (Nodejs/Go/Angularjs) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9813442a220867be) | 2026-09-23 12:38 |
 | Capital One | Full-stack Engineer 4 - RiskTech | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f2960b2498873f28) | 2026-09-23 12:38 |
@@ -336,10 +354,6 @@ Last updated: 2026-09-23 12:38
 | JPMorganChase | Software Engineer III- Java/Python, SQL, Databricks | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2d42fb889c5ed759) | 2026-09-21 21:26 |
 | LTM Limited | Senior Specialist - Data Engineering | Raleigh, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e87eafcc6ca3f52f) | 2026-09-21 00:40 |
 | Gene by Gene | Senior Data Pipeline Engineer/Developer | Houston, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=0c41f62dc4451153) | 2026-09-20 02:27 |
-| Oshkosh Corporation | Data Engineer Sr | Oshkosh, WI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=bb8a157769951a90) | 2026-09-19 13:41 |
-| Bot Auto | Senior Software Engineer, Core Platforms | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=132e8b6500861f80) | 2026-09-19 13:41 |
-| Databricks | Sr. Solutions Engineer - Digital Native Business (Strategic Accounts) | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=313b8143e7e2de83) | 2026-09-19 13:41 |
-| Capital One | Integration Engineer 3 | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5c3d6bc274a6930) | 2026-09-19 13:41 |
 
 
 ---
