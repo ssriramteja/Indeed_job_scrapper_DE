@@ -1,16 +1,93 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-23 01:04
+Last updated: 2026-09-23 07:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| StorageMart | I.T. - DevOps Engineer | Columbia, MO, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=c2e972535a11a31f) | 2026-09-23 07:00 |
+| Deloitte | Applied AI Site Reliability Engineer II - PxE A&A | Hermitage, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=293a95bba31efbab) | 2026-09-23 07:00 |
+| Deloitte | Applied AI Site Reliability Engineer II - PxE A&A | Tampa, FL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=90798cf9ad992e58) | 2026-09-23 07:00 |
+| Deloitte | Applied AI Site Reliability Engineer II - PxE A&A | Nashville, TN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=76a0c64002bbb5c1) | 2026-09-23 07:00 |
+| Blue Cross and Blue Shield of Minnesota | Associate Data Engineer | Eagan, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=31bf226ac97de61e) | 2026-09-23 07:00 |
+| Sally Beauty | Data Engineer | Denton, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0864fe655aae7888) | 2026-09-23 07:00 |
+| Alignment Health | Enterprise Data Architect | Orange, CA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=1611fa9de2f7504b) | 2026-09-23 07:00 |
+| Relentless Talent | Senior Software Engineer - ai automation medical billing platform | Fort Worth, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=69d642c554413fbe) | 2026-09-23 07:00 |
+| Relentless Talent | Senior Software Engineer - ai automation medical billing platform | Buffalo, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=818c7178aa0280e0) | 2026-09-23 07:00 |
+| nan | Senior Data Platfrom Engineer | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=bc974eac3e508ce6) | 2026-09-23 07:00 |
+| nan | Senior Data Engineer | Austin, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e85b5d56e27bdfb8) | 2026-09-23 07:00 |
+| Willdan | Cloud Engineer | Anaheim, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8d1298ac76effc74) | 2026-09-23 07:00 |
+| American Express | Senior Engineer I | New York, NY, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=4ca08863d5287990) | 2026-09-23 07:00 |
+| Morgan Stanley | Back-end Engineer - Data Platforms | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ebb387f8fd246816) | 2026-09-23 07:00 |
+| JPMorganChase | Software Engineer III - AI Native Development | Jersey City, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ea9ef8693c4fa599) | 2026-09-23 07:00 |
+| Penske Truck Leasing | Integration Architect | Reading, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bfceaaf0e0e2e9a5) | 2026-09-23 07:00 |
+| FCT | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=70278c6707b92e9e) | 2026-09-23 07:00 |
+| FCT | Full Stack Senior Software Engineer (Remote in CA) | CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a25e08cbc61c8f9c) | 2026-09-23 07:00 |
+| Reflex Media Inc | Senior Cloud / AWS Infrastructure Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=901aac12afba9b93) | 2026-09-23 07:00 |
+| TransTech Group | Data Analyst - ERP & Master Data | Cleveland, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=49c2343d736f4c5c) | 2026-09-23 07:00 |
+| TTEC Digital | Azure Solutions Architect - Presales | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9d1ac466d0b2792d) | 2026-09-23 07:00 |
+| GM Financial | Software Development Engineer II | Arlington, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=77c13363e54e5087) | 2026-09-23 07:00 |
+| American Express | Sr Data Engineer II | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a9b4607cbdf4a3d4) | 2026-09-23 07:00 |
+| Pika | Data Engineer | Palo Alto, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=126cb889e15ed9cd) | 2026-09-23 07:00 |
+| Hollstadt Consulting | Data Engineer | MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9488041a67901dc1) | 2026-09-23 07:00 |
+| Community Choice Credit Union | Data Engineer | Warren, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=21899fbf482a9cd2) | 2026-09-23 07:00 |
+| Community Choice Credit Union | Data Engineer | Jackson, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9457f2c72938dbd5) | 2026-09-23 07:00 |
+| Community Choice Credit Union | Data Engineer | Holland, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f79614628dc966f) | 2026-09-23 07:00 |
+| Community Choice Credit Union | Data Engineer | Farmington Hills, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc4be70d8a478d8a) | 2026-09-23 07:00 |
+| The Coca-Cola Company | Consultant, Data & Analytics, NA | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df7e6baa7a7dd0a0) | 2026-09-23 07:00 |
+| Intentsify | Senior Software Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d89a533339b416c) | 2026-09-23 07:00 |
+| WellSky | Sr. Data Engineer | Overland Park, KS, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1d0888bf081a07cc) | 2026-09-23 07:00 |
+| JPMorganChase | Data Engineer II - AWS/PySpark/ETL | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=aa1cc23a36ed4493) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c343a7d6432ffeaa) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Tempe, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e60054b9631d7895) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=99aade9079199e44) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Las Vegas, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb5a4840f3df3c6d) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Morristown, NJ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=55abd889581cdc48) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Detroit, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e3febde783536e21) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1be19f91eec7a842) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7698c96689f48a9e) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Cleveland, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d2e1386f9d607f38) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2f2ca862816ed069) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Seattle, WA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a40909cafc968d82) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Pittsburgh, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=124344ebd08b7526) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f0ef6c1eb38b0db9) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b780dcc242beb567) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Minneapolis, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a03180188c81f9bf) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8a037168850b8fe0) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45cd4b8d959d97ab) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=52080037fabe4cb1) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Cincinnati, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69224b4d176dd4a2) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Kansas City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5ce9dba6d19c8b82) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7c5344293aa5ed77) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | St. Louis, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fea3b3cc46faeb2a) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c3672ad48951be20) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Raleigh, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c45dff0f36a9a356) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7e91b7a712b7a165) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Jacksonville, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f3d69f9412407b80) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Tampa, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7d48fbbfaa3d0a97) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Stamford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c300f1e448116fd7) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=316adbd72ad7e2e8) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f219232c6b6eef2b) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0bb31aa937d723cd) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Hartford, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=884c614c785d6835) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | San Jose, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ecedaabbce0a0b5b) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=eea12c90a4a047af) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=28b6e9e7e6b5c6aa) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Miami, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2c0e09d9843111bd) | 2026-09-23 07:00 |
+| Deloitte | Associate Solution Architect with Modernization Experience | Los Angeles, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3b10af7d10426fa4) | 2026-09-23 07:00 |
+| Kirby Building Systems | Solution Architect-Full Stack | Portland, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=66ada823af164848) | 2026-09-23 07:00 |
+| JPMorganChase | Data Scientist Associate | Wilmington, DE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b87fe7f54c012f15) | 2026-09-23 07:00 |
+| Avangrid | Sr Technical Analyst/Prog Ent App | Orange, CT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ea1b275b8152311) | 2026-09-23 07:00 |
+| The Hearst Corporation | Full Stack Ad Tech Developer | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e8cf1f61c24a8358) | 2026-09-23 07:00 |
+| nan | Junior/Mid Software Engineer | Tampa, FL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d87ecb6d60b0f54d) | 2026-09-23 07:00 |
+| Hubble Network | Data Platform Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a000c1d1d33d8b12) | 2026-09-23 07:00 |
+| Cognizant | Sr. iOS Developer--Hybrid | Bridgewater, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a2f579d7993e4d2c) | 2026-09-23 07:00 |
+| McKesson | Sr Product Security Engineer, AI & DevSecOps | Columbus, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4b8ba8f92a1292eb) | 2026-09-23 07:00 |
+| Function Health | Data Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d332f2047edfa45) | 2026-09-23 07:00 |
 | NTT DATA | Senior AI Ops / DevOps Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=040c156b15abd039) | 2026-09-23 01:04 |
-| The Coca-Cola Company | Senior Data/Machine Learning Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3f5fae1eed697d12) | 2026-09-23 01:04 |
 | Imperial Brady | Sr. Data Engineer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=49e6c0c32c4bdcc7) | 2026-09-23 01:04 |
 | Community Choice Credit Union | Data Engineer | Jackson, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dad209d8bad2edfe) | 2026-09-23 01:04 |
-| The Coca-Cola Company | Consultant, Data & Analytics, NA | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df7e6baa7a7dd0a0) | 2026-09-23 01:04 |
 | Dropbox | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43e37e262d8bc84b) | 2026-09-23 01:04 |
 | MIA Labs | Senior Software Engineer (Data Platform) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1a60bd31f33e718) | 2026-09-23 01:04 |
 | M&T Bank | Technical Engineer (Production Liability Engineer) | Buffalo, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bef57255c79d57a0) | 2026-09-23 01:04 |
@@ -207,15 +284,6 @@ Last updated: 2026-09-23 01:04
 | Bot Auto | Senior Software Engineer, Core Platforms | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=132e8b6500861f80) | 2026-09-19 13:41 |
 | Databricks | Sr. Solutions Engineer - Digital Native Business (Strategic Accounts) | CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=313b8143e7e2de83) | 2026-09-19 13:41 |
 | Capital One | Integration Engineer 3 | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c5c3d6bc274a6930) | 2026-09-19 13:41 |
-| Regal Entertainment Group | Senior Data Engineer | Knoxville, TN, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=695e1a6790e5d227) | 2026-09-19 05:18 |
-| NYSTEC | Business Intelligence Developer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bc628f7d74985c07) | 2026-09-19 05:18 |
-| Collaboredge | OCTO ETL Data Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7034ddc05a5e196a) | 2026-09-19 05:18 |
-| Cognizant | Senior ML Data Infrastructure Engineer | San Francisco, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=41542c40ed442d87) | 2026-09-19 05:18 |
-| Bot Auto | Senior Software Engineer, Core Platforms | Houston, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8b9869546b3cb88f) | 2026-09-19 05:18 |
-| BV Teck | Kafka Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=df94682d2c3c155f) | 2026-09-19 05:18 |
-| Cambridge Investment Research, Inc. | Data Engineering Intern | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=20b168d606de0f06) | 2026-09-19 05:18 |
-| Newity LLC | Cloud & Infrastructure Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f2fe21468764e4ff) | 2026-09-19 05:18 |
-| Grainger | Applied Machine Learning Scientist | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e8bc884aee2d07d0) | 2026-09-19 05:18 |
 
 
 ---
