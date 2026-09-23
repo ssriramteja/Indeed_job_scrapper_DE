@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-22 22:33
+Last updated: 2026-09-23 01:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| NTT DATA | Senior AI Ops / DevOps Engineer | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=040c156b15abd039) | 2026-09-23 01:04 |
+| The Coca-Cola Company | Senior Data/Machine Learning Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3f5fae1eed697d12) | 2026-09-23 01:04 |
+| Imperial Brady | Sr. Data Engineer | Jersey City, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=49e6c0c32c4bdcc7) | 2026-09-23 01:04 |
+| Community Choice Credit Union | Data Engineer | Jackson, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dad209d8bad2edfe) | 2026-09-23 01:04 |
+| The Coca-Cola Company | Consultant, Data & Analytics, NA | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=df7e6baa7a7dd0a0) | 2026-09-23 01:04 |
+| Dropbox | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=43e37e262d8bc84b) | 2026-09-23 01:04 |
+| MIA Labs | Senior Software Engineer (Data Platform) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1a60bd31f33e718) | 2026-09-23 01:04 |
+| M&T Bank | Technical Engineer (Production Liability Engineer) | Buffalo, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bef57255c79d57a0) | 2026-09-23 01:04 |
+| Keller Williams Realty | Sr. Software Engineer, JMG | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2bd7eff3fbb2aa75) | 2026-09-23 01:04 |
+| Keller Williams Realty | Sr. Software Engineer, JMG | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=45f15d53aceb441c) | 2026-09-23 01:04 |
 | CoStar Group | Senior Database Engineer- Arlington, VA | Arlington, VA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=61eae97728d8e35d) | 2026-09-22 22:33 |
 | Coca Cola Southwest Beverages | Data Engineer | Dallas, TX, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=ca8f627225261b22) | 2026-09-22 22:33 |
 | Oshkosh Corporation | Data Engineer Sr | Oshkosh, WI, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8b5c363397eafe5f) | 2026-09-22 22:33 |
@@ -14,7 +24,6 @@ Last updated: 2026-09-22 22:33
 | Tiger Analytics | Senior Data Engineer | Dallas, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=4b046b29ca6b7df4) | 2026-09-22 22:33 |
 | Seek Now | Site Reliability Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=86d6727803939178) | 2026-09-22 22:33 |
 | Liaison International | Senior Full-stack .NET/C# Developer | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4da03412f0454158) | 2026-09-22 22:33 |
-| The Coca-Cola Company | Senior Data/Machine Learning Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=3f5fae1eed697d12) | 2026-09-22 22:33 |
 | Capgemini | SOW198 Platform Engineer | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6dbc4fb78c7362b3) | 2026-09-22 22:33 |
 | Litmus7 System Consulting | Composable Commerce Solution Architect | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2596f5d3398a102f) | 2026-09-22 22:33 |
 | WorkOS | Data Engineer | San Francisco, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=93c58ad8f77c200b) | 2026-09-22 22:33 |
