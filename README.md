@@ -1,18 +1,31 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-24 13:13
+Last updated: 2026-09-24 18:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b7b60177884abfc7) | 2026-09-24 13:13 |
+| Ford Motor Company | Data Engineer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b7b60177884abfc7) | 2026-09-24 18:04 |
+| WebMobi 360 | DevOps Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3166815bf9267880) | 2026-09-24 18:04 |
+| Acrisure LLC | Software Engineer, Data (L2) | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e6c65ed1f8238807) | 2026-09-24 18:04 |
+| FMNE Insurance Company | Data Engineer | Lincoln, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ee685373a5be1de3) | 2026-09-24 18:04 |
+| COMPEST SOLUTIONS INDIA PRIVATE LIMITED | Integration Architect - MS Fabric \| Azure Data Factory \| Azure Data Bricks \| Life Sciences | Wilmington, DE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=62842ac84b93c08c) | 2026-09-24 18:04 |
+| Lockheed Martin | Data Engineer Sr (ETL/Alteryx) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=345b0d2b12a75dd8) | 2026-09-24 18:04 |
+| Derex Technologies inc | Data Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=17b5f5f93a058e1e) | 2026-09-24 18:04 |
+| Carrier | Sr. Solution Architect , Data & AI | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c99b32ba035506a8) | 2026-09-24 18:04 |
+| AltexSoft | Senior DevOps | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a491606b996c9fd4) | 2026-09-24 18:04 |
+| McKinsey & Company | AI Data Engineer - University Students - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3c376f7a6c4f6eae) | 2026-09-24 18:04 |
+| nan | Senior Data Service Developer | Brooklyn, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac560d1fcf55c4e3) | 2026-09-24 18:04 |
+| Capital One | Cloud Engineer 4 (Cloud Security for Multi Cloud) (Cloud Operations Resilience Engineering) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=465e90d49deb28c0) | 2026-09-24 18:04 |
+| Atrium Health | IT Data Solutions Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d1f8022341fbeec) | 2026-09-24 18:04 |
+| QuadCode | Linux Administrator (Ops) | ME, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4aa8b81839324a01) | 2026-09-24 18:04 |
+| QuadCode | Linux Administrator (Ops) | MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a034adc8fdcd3f32) | 2026-09-24 18:04 |
+| Capital One | Full Stack Engineer 4 (Bank Tech) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b908ded2ecce8195) | 2026-09-24 18:04 |
+| Navy Federal Credit Union | Senior Application Engineer (FIS Systematics/ ALS) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5f1cd08763c029e) | 2026-09-24 18:04 |
 | Comcast | Senior Software Engineer (Python, Java, C++, or GoLang) - Chicago, IL- ONSITE 2X Week- FreeWheel | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0f84f00ddd01d5e6) | 2026-09-24 13:13 |
-| FMNE Insurance Company | Data Engineer | Lincoln, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ee685373a5be1de3) | 2026-09-24 13:13 |
-| The Coca-Cola Company | Senior Machine Learning Engineer (MLOPS) | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8551311899e9bc7c) | 2026-09-24 13:13 |
 | NYU Langone Health | Azure Databricks Administrator | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa309349753fd7ab) | 2026-09-24 13:13 |
 | Genpact | Architect - DevOps 4D | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1dd74fc21551185b) | 2026-09-24 13:13 |
-| McKinsey & Company | AI Data Engineer - University Students - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3c376f7a6c4f6eae) | 2026-09-24 13:13 |
 | Silicon Labs | Sr. Kubernetes Platform Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b345fefbec3728e4) | 2026-09-24 13:13 |
 | Comcast | Data Engineer 3 - Reston, VA - Freewheel | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85feb7d306b29d57) | 2026-09-24 13:13 |
 | Micron Technology | Full Stack AI Engineer (Industrial and Physical AI) | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b05c7e7244739e8a) | 2026-09-24 13:13 |
