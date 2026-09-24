@@ -1,21 +1,41 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-24 18:04
+Last updated: 2026-09-24 21:55
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b7b60177884abfc7) | 2026-09-24 18:04 |
+| Ford Motor Company | Data Engineer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b7b60177884abfc7) | 2026-09-24 21:55 |
+| Capital One | Data Engineer 5 | Richmond, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2287ae354f1f523a) | 2026-09-24 21:55 |
+| Caterpillar | Senior Software Engineer | Peoria, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5752c0fe726daa2e) | 2026-09-24 21:55 |
+| Clearwater Analytics (CWAN) | Sr. Site Reliability Engineer | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b2c7d9bcaaeb50a7) | 2026-09-24 21:55 |
+| Mobilunity | Senior Data Platform Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a02158bbc6c5b14c) | 2026-09-24 21:55 |
+| COMPEST SOLUTIONS INDIA PRIVATE LIMITED | Integration Architect - MS Fabric \| Azure Data Factory \| Azure Data Bricks \| Life Sciences | Wilmington, DE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=62842ac84b93c08c) | 2026-09-24 21:55 |
+| Luxoft | Cloud Operations Analyst (Oracle) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=904eb88b47275924) | 2026-09-24 21:55 |
+| Care Access | Devops Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=054dc62f46251118) | 2026-09-24 21:55 |
+| JPMorganChase | Software Engineer III - Python, Databricks and AWS | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1f2b9d01e6a420aa) | 2026-09-24 21:55 |
+| NSD International | Data Engineer(Azure) at Major Japanese Bank | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fd631b20e53bc138) | 2026-09-24 21:55 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac853620a7883a2f) | 2026-09-24 21:55 |
+| McKinsey & Company | AI Data Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d60ea38d35340ba) | 2026-09-24 21:55 |
+| RELX Group | Senior Software Engineer I | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e6cfd02d9826aa5) | 2026-09-24 21:55 |
+| Fitch Group | Senior Software Engineer, Full-Stack Applications (Python & React) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95ab6da126dcb613) | 2026-09-24 21:55 |
+| Capital One | Full-stack Engineer 4 (Java, Python, AWS, Spark) | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f4ce506118a2862) | 2026-09-24 21:55 |
+| Oats Overnight | Senior Data Engineer | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a248bb83a45531e) | 2026-09-24 21:55 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0315e75878b9523) | 2026-09-24 21:55 |
+| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de05f9c575d914fd) | 2026-09-24 21:55 |
+| Capital One | Full-stack Engineer 4 | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e52d983dd64d153) | 2026-09-24 21:55 |
+| Cisco | Software Engineer Full Stack / Backend II (Intern) â€“ United States | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6524e36b7c2e899e) | 2026-09-24 21:55 |
+| Cambridge Mobile Telematics | Senior Site Reliability Engineer, SecOps | Cambridge, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c903ba36fc2337b8) | 2026-09-24 21:55 |
+| Salesforce | Technical Architect, SMB Pre-Sales | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=397822b79baee5bd) | 2026-09-24 21:55 |
+| America First Credit Union | Enterprise Software Architect | Ogden, UT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ac80251d3b26ae94) | 2026-09-24 21:55 |
+| Everforth ECS | Data Scientist | Arlington, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a7c91ca59322d0ce) | 2026-09-24 21:55 |
 | WebMobi 360 | DevOps Engineer | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=3166815bf9267880) | 2026-09-24 18:04 |
 | Acrisure LLC | Software Engineer, Data (L2) | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e6c65ed1f8238807) | 2026-09-24 18:04 |
-| FMNE Insurance Company | Data Engineer | Lincoln, NE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=ee685373a5be1de3) | 2026-09-24 18:04 |
-| COMPEST SOLUTIONS INDIA PRIVATE LIMITED | Integration Architect - MS Fabric \| Azure Data Factory \| Azure Data Bricks \| Life Sciences | Wilmington, DE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=62842ac84b93c08c) | 2026-09-24 18:04 |
 | Lockheed Martin | Data Engineer Sr (ETL/Alteryx) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=345b0d2b12a75dd8) | 2026-09-24 18:04 |
 | Derex Technologies inc | Data Engineer | Washington, DC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=17b5f5f93a058e1e) | 2026-09-24 18:04 |
 | Carrier | Sr. Solution Architect , Data & AI | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c99b32ba035506a8) | 2026-09-24 18:04 |
 | AltexSoft | Senior DevOps | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a491606b996c9fd4) | 2026-09-24 18:04 |
-| McKinsey & Company | AI Data Engineer - University Students - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3c376f7a6c4f6eae) | 2026-09-24 18:04 |
 | nan | Senior Data Service Developer | Brooklyn, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac560d1fcf55c4e3) | 2026-09-24 18:04 |
 | Capital One | Cloud Engineer 4 (Cloud Security for Multi Cloud) (Cloud Operations Resilience Engineering) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=465e90d49deb28c0) | 2026-09-24 18:04 |
 | Atrium Health | IT Data Solutions Developer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d1f8022341fbeec) | 2026-09-24 18:04 |
