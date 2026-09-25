@@ -1,28 +1,52 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-24 21:55
+Last updated: 2026-09-25 00:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Data Engineer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b7b60177884abfc7) | 2026-09-24 21:55 |
+| Ford Motor Company | Data Engineer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=b7b60177884abfc7) | 2026-09-25 00:10 |
+| MOXFIVE | Senior DevOps Engineer | US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=03e682d983ea38fa) | 2026-09-25 00:10 |
+| Smith | Senior Magento Architect | Houston, TX, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=146beab3fdc4d479) | 2026-09-25 00:10 |
+| U.S. Bank | Data Product Engineer | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a3c24c8142ac8427) | 2026-09-25 00:10 |
+| Fidelity Investments | Software Engineer | Durham, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=8f466c8c66d72247) | 2026-09-25 00:10 |
+| Symbotic | Senior Data Engineer | Wilmington, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d939162f62431c6d) | 2026-09-25 00:10 |
+| Apex Companies, LLC | Analytics Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b824421b414861d1) | 2026-09-25 00:10 |
+| Peraton | Software Engineer | Austin, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=fc5602865a9185ab) | 2026-09-25 00:10 |
+| Visa | Sr. Software Engineer - Core Automation Platform | Ashburn, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=8ea65c9a95c2f071) | 2026-09-25 00:10 |
+| Hirschi Companies, LLC | Enterprise Data & AI Architect | North Las Vegas, NV, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9ea9ea264ebb9e6f) | 2026-09-25 00:10 |
+| ClearCaptions, LLC | DevOps Engineer - FinOps (100% Remote) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=88877cf6fea16493) | 2026-09-25 00:10 |
+| ClearCaptions, LLC | DevOps Engineer - Architecture (100% Remote) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1b9f4b4e6bfc1b44) | 2026-09-25 00:10 |
+| Ｃollective | AI Data Engineer, Data Platform | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=020174f364165c18) | 2026-09-25 00:10 |
+| Imperial PFS | Data Analytics Engineer | Edwardsville, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=15662d40b4bb4797) | 2026-09-25 00:10 |
+| Velir | Senior Analytics Engineer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=652bceb12bdc8ca1) | 2026-09-25 00:10 |
+| Velir | Senior Analytics Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7de0e14623092813) | 2026-09-25 00:10 |
+| Velir | Senior Analytics Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=dcfd599f9976074a) | 2026-09-25 00:10 |
+| Velir | Senior Analytics Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=83ceb5e692edcab9) | 2026-09-25 00:10 |
+| Velir | Senior Analytics Engineer | Providence, RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d70c97558041cbb3) | 2026-09-25 00:10 |
+| Velir | Senior Analytics Engineer | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=44465103a210f6ed) | 2026-09-25 00:10 |
+| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac853620a7883a2f) | 2026-09-25 00:10 |
+| McKinsey & Company | AI Data Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d60ea38d35340ba) | 2026-09-25 00:10 |
+| Savage | Data & Analytics Engineer | Midvale, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41698f714a5488d9) | 2026-09-25 00:10 |
+| Applied Materials | Data Scientist New College Grad- Bachelor's/Master's (Austin, TX) | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de4dc7483cb11054) | 2026-09-25 00:10 |
+| Praxis Precision Medicines, Inc. | Senior Software Engineer, AWS Cloud Infrastructure | Boston, MA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f42296d5e5f61808) | 2026-09-25 00:10 |
+| Ford Motor Company | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0315e75878b9523) | 2026-09-25 00:10 |
+| Bloomberg | Senior Software Engineer - VAULT | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9b731d4dc3bbcac) | 2026-09-25 00:10 |
+| Loudoun County, VA | Data Engineer | Leesburg, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e717b40d7b736c3e) | 2026-09-25 00:10 |
+| GEICO | Senior Engineer .NET | Richardson, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a0c3fa28fe6f12d4) | 2026-09-25 00:10 |
 | Capital One | Data Engineer 5 | Richmond, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=2287ae354f1f523a) | 2026-09-24 21:55 |
 | Caterpillar | Senior Software Engineer | Peoria, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5752c0fe726daa2e) | 2026-09-24 21:55 |
 | Clearwater Analytics (CWAN) | Sr. Site Reliability Engineer | Boise, ID, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=b2c7d9bcaaeb50a7) | 2026-09-24 21:55 |
 | Mobilunity | Senior Data Platform Engineer | US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a02158bbc6c5b14c) | 2026-09-24 21:55 |
-| COMPEST SOLUTIONS INDIA PRIVATE LIMITED | Integration Architect - MS Fabric \| Azure Data Factory \| Azure Data Bricks \| Life Sciences | Wilmington, DE, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=62842ac84b93c08c) | 2026-09-24 21:55 |
 | Luxoft | Cloud Operations Analyst (Oracle) | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=904eb88b47275924) | 2026-09-24 21:55 |
 | Care Access | Devops Engineer | Boston, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=054dc62f46251118) | 2026-09-24 21:55 |
 | JPMorganChase | Software Engineer III - Python, Databricks and AWS | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1f2b9d01e6a420aa) | 2026-09-24 21:55 |
 | NSD International | Data Engineer(Azure) at Major Japanese Bank | Charlotte, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fd631b20e53bc138) | 2026-09-24 21:55 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac853620a7883a2f) | 2026-09-24 21:55 |
-| McKinsey & Company | AI Data Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d60ea38d35340ba) | 2026-09-24 21:55 |
 | RELX Group | Senior Software Engineer I | FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5e6cfd02d9826aa5) | 2026-09-24 21:55 |
 | Fitch Group | Senior Software Engineer, Full-Stack Applications (Python & React) | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=95ab6da126dcb613) | 2026-09-24 21:55 |
 | Capital One | Full-stack Engineer 4 (Java, Python, AWS, Spark) | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f4ce506118a2862) | 2026-09-24 21:55 |
 | Oats Overnight | Senior Data Engineer | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6a248bb83a45531e) | 2026-09-24 21:55 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0315e75878b9523) | 2026-09-24 21:55 |
 | Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de05f9c575d914fd) | 2026-09-24 21:55 |
 | Capital One | Full-stack Engineer 4 | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5e52d983dd64d153) | 2026-09-24 21:55 |
 | Cisco | Software Engineer Full Stack / Backend II (Intern) â€“ United States | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6524e36b7c2e899e) | 2026-09-24 21:55 |
