@@ -1,11 +1,83 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-25 15:41
+Last updated: 2026-09-25 19:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| innoVet Health, LLC | AI Solutions Architect | Remote, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ed5929a259b13da0) | 2026-09-25 19:43 |
+| Hollister Incorporated | Intern, IT Data Analytics (2027) | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f3f2045b50523bff) | 2026-09-25 19:43 |
+| Molina Healthcare | Senior Engineer, Big Data - Medical Cost Grouper - Remote | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=10ee7d4f1fc05ba7) | 2026-09-25 19:43 |
+| Skechers | Sr. Salesforce Architect / Engineer | Manhattan Beach, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5fa811352fa1aa90) | 2026-09-25 19:43 |
+| Copart, Inc | Data & AI Intern | Dallas, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=47848c785f526698) | 2026-09-25 19:43 |
+| AFTERWORK | Frontend Engineer | London, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=462d1dfaba6a7d7d) | 2026-09-25 19:43 |
+| nan | Full Stack Developer (Internal Tools & Platform) | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=aa0c40611e6f1095) | 2026-09-25 19:43 |
+| TWFG Insurance | Data Engineer | Spring, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=bbbc6da2f4c063d5) | 2026-09-25 19:43 |
+| Lincoln Financial | Associate Data Engineer, AI Data Products | Radnor, PA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=326243a7df349c66) | 2026-09-25 19:43 |
+| Cargill | Sr. Data Engineer | Atlanta, GA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=be84cd3bc47c5004) | 2026-09-25 19:43 |
+| Circana | AI DevOps Engineer\| Hybrid: Chicago, IL or NYC, NY | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=998cfb2b283317ea) | 2026-09-25 19:43 |
+| Mobis Parts America, LLC. | Data Engineer III, Cloud | Fountain Valley, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7c6054cc97ae7070) | 2026-09-25 19:43 |
+| Circana | AI DevOps Engineer\| Hybrid: Chicago, IL or NYC, NY | Chicago, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c07bb0961c751f3e) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Baton Rouge, LA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=99f2dbc076e5d856) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Columbia, SC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a6929f0e8b0d467e) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Lincoln, NE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b55bf5e8aa6a1b00) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Richmond, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a0b85bc0bda01150) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Madison, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9a187bc45f903c25) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Harrisburg, PA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=19ea3b4e869f0b0f) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Annapolis, MD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9c766c5fed70eb0a) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Oklahoma City, OK, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f4bcda2cd30fd616) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Montpelier, VT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=638ef8567418dc48) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Topeka, KS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4fd1a136d608291b) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Frankfort, KY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=edd00710707d78e9) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Trenton, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=442e1899472aaaca) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Salt Lake City, UT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=17caa029de510739) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Saint Paul, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=42aa0c7cd36d006a) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cab6925d775e203f) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Santa Fe, NM, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d5653e98fb8135f3) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Olympia, WA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=687232035e68a0a9) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Providence, RI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8ba9f5f8c57b5360) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Jackson, MS, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7126e5851d589397) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Cheyenne, WY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a77cfd4f7c6e8001) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Montgomery, AL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f59304446412e07c) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Nashville, TN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b64c007a0de94064) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=86388f3c259eeff8) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9675f32b4ffa9a13) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Springfield, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=034638488092da65) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Little Rock, AR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac28966ddf697160) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=24729823d8955c30) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Charleston, WV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=87a502c5ba52e486) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Helena, MT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a20461db3b55f8e5) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Pierre, SD, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3c63497e49a35949) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Salem, OR, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6deed82147b3397a) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b8ab915125e1142b) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Des Moines, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c0e19c0167b5b707) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Sacramento, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3957c8134eb5449d) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Denver, CO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=131fbd30ebce4b0e) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Jefferson City, MO, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1fc69f1717479209) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Augusta, ME, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0cbd490415ec98b8) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Dover, DE, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=de9da7e405560c98) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Bismarck, ND, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d443ab17a64dc4a2) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Indianapolis, IN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=abe9a8ea39da933e) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Tallahassee, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2436088e04cb9418) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4760b3a15e7c28bf) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Boise, ID, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3a34bf218fa3ecdb) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Albany, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4c29c8279e212129) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Lansing, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=0dbc6b68160b7f80) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Hartford, CT, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e67361e9400bbca3) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Washington, DC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=56277a5a14ecfae3) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Carson City, NV, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=64341d28e22d4d4a) | 2026-09-25 19:43 |
+| CVS Health | Senior STIBO Software Developer | Concord, NH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea0db3535ef241d9) | 2026-09-25 19:43 |
+| Kiewit Corporation | Software Engineer 1 - Kiewit Technology Group | Omaha, NE, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69fd302298183375) | 2026-09-25 19:43 |
+| CoStar Group | Senior DevOps Engineer - Matterport | Sunnyvale, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4bbdfdc99e931506) | 2026-09-25 19:43 |
+| iDC Logistics | Senior Data Engineer | City of Industry, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0f033dfebaee3ca) | 2026-09-25 19:43 |
+| Optum | Software Engineer | Wausau, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b8593692b74910cb) | 2026-09-25 19:43 |
+| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=adb59a064cdc32b3) | 2026-09-25 19:43 |
+| Capital One | Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph) | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7f2b3596f51501b1) | 2026-09-25 19:43 |
+| Capital One | Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph) | McLean, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=70480a7733a24dbb) | 2026-09-25 19:43 |
+| McKinsey & Company | AI Data Engineer Intern - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1697413820124a26) | 2026-09-25 19:43 |
+| Fairlife, LLC | Data Scientist | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3d98d3b46d4d0a8) | 2026-09-25 19:43 |
+| Mountainside Investment Group, LLC | Systems Programming Engineer | Weslaco, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2486c4db449718f) | 2026-09-25 19:43 |
 | Capgemini | Senior Java Full Stack Developer | Chicago, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ead4b68158e99617) | 2026-09-25 15:41 |
 | Capgemini | Senior Java Full Stack Developer | Chicago, IL, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=c67c66a96765b220) | 2026-09-25 15:41 |
 | Capgemini | Java Full Stack Developer | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1df78b8aaf3679cc) | 2026-09-25 15:41 |
@@ -17,20 +89,15 @@ Last updated: 2026-09-25 15:41
 | Adoreal | Senior Data Engineer | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3f8d8c98cbbde5e5) | 2026-09-25 15:41 |
 | Adoreal | Senior Data Engineer | GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cf28aa480065b669) | 2026-09-25 15:41 |
 | Adoreal | Senior Data Engineer | UT, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=944cc70dff5af5ad) | 2026-09-25 15:41 |
-| Circana | AI DevOps Engineer\| Hybrid: Chicago, IL or NYC, NY | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=998cfb2b283317ea) | 2026-09-25 15:41 |
 | vertage | Senior Backend Engineer, Connected Vehicle & Telematics (GCP) | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dfc0d2abdbe910d6) | 2026-09-25 15:41 |
 | vertage | Senior Data Engineer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=131728c21bda1a28) | 2026-09-25 15:41 |
 | vertage | Senior Full Stack and Cloud Platform Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a5ecebecfe672f7c) | 2026-09-25 15:41 |
-| Ford Motor Company | Full Stack Data Engineer | Dearborn, MI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ac853620a7883a2f) | 2026-09-25 15:41 |
-| McKinsey & Company | AI Data Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d60ea38d35340ba) | 2026-09-25 15:41 |
 | vertage | AWS Application Support Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=27ae1f61d818d5de) | 2026-09-25 15:41 |
 | Sentara | Senior Cloud Engineer | Norfolk, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b0364757c79beba) | 2026-09-25 15:41 |
 | vertage | Senior Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d893afa2af62f4a2) | 2026-09-25 15:41 |
 | vertage | Senior GCP Data Engineer | US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e1919471b72d0ae9) | 2026-09-25 15:41 |
 | Mirantis | Senior QA Engineer (L4) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=80556d2d1b3dfabf) | 2026-09-25 15:41 |
-| Ford Motor Company | Senior Software Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0315e75878b9523) | 2026-09-25 15:41 |
 | Optum | Data Engineer - Python ,AWS, SQL - Remote | Eden Prairie, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bfefbbb5df74fffe) | 2026-09-25 15:41 |
-| McKinsey & Company | AI Data Engineer Intern - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1697413820124a26) | 2026-09-25 15:41 |
 | TalentVibe Business Consultancy | Cloud/Infra Enterprise Architect | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0e2d92172304213c) | 2026-09-25 15:41 |
 | NTT DATA | Sr Functional Analyst with Data Connect / Integration | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=afd158f889951e37) | 2026-09-25 15:41 |
 | Capital One | Data Engineer 4 (Python, PySpark, AWS) | McLean, VA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=9ec4e00003379849) | 2026-09-25 10:51 |
