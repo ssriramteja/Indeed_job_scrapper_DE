@@ -1,14 +1,14 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-26 18:52
+Last updated: 2026-09-26 21:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Bronco Wine Company | Senior Database Engineer | Ceres, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5e558da34cfe637e) | 2026-09-26 18:52 |
-| City of Atlanta | Information Technology Architect \| (Cloud Engineer) | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f1e657852ef5f740) | 2026-09-26 18:52 |
-| Hewlett Packard Enterprise \| HPE | Java/Spring Boot Software Engineer/Developer | Aguadilla, PR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b9abe3f58667967b) | 2026-09-26 18:52 |
+| Bronco Wine Company | Senior Database Engineer | Ceres, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5e558da34cfe637e) | 2026-09-26 21:43 |
+| Purple Wave Auction | Analytics Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7d55a501fc68d234) | 2026-09-26 21:43 |
+| Hewlett Packard Enterprise \| HPE | Java/Spring Boot Software Engineer/Developer | Aguadilla, PR, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b9abe3f58667967b) | 2026-09-26 21:43 |
 | Capital One | Data Engineer 4 | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8b7a1bd8af02f9dc) | 2026-09-26 15:49 |
 | Maximus | Senior Full Stack Engineer - AWS Cloud | Lanham, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0f682845a41118d4) | 2026-09-26 15:49 |
 | Maximus | Senior Full Stack Engineer - AWS Cloud | Lanham, MD, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d67a70dfbcdb3cc3) | 2026-09-26 15:49 |
@@ -643,25 +643,6 @@ Last updated: 2026-09-26 18:52
 | The Carlyle Group | Data & AI Engineer | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=83876c66e135b993) | 2026-09-22 22:33 |
 | The Carlyle Group | Data & AI Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f4924b3389452957) | 2026-09-22 22:33 |
 | The Carlyle Group | Engineer, Performance Management | Washington, DC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9e0346f80c455f7d) | 2026-09-22 22:33 |
-| Gentiva | Databricks Data Engineer | Atlanta, GA, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=10920ada24a70c04) | 2026-09-22 19:24 |
-| NBME | Senior Software Developer | Philadelphia, PA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=195d724701bfe29e) | 2026-09-22 19:24 |
-| LTM Limited | Agentic AI Databricks | Raritan, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=611badfabe276aeb) | 2026-09-22 19:24 |
-| Federated Hermes | Engineer – Application | Warrendale, PA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=3249c7729c4e3bf1) | 2026-09-22 19:24 |
-| Visa | Sr. ML Engineer | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f84e409aaaf551e7) | 2026-09-22 19:24 |
-| US Tiger Securities | Data Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=573ee0a7b1fef58d) | 2026-09-22 19:24 |
-| Realign | Data Engineer-5 | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bb259aa46cf4c5ed) | 2026-09-22 19:24 |
-| Excelerate Technologies | Full Stack Architect – AI & Intelligent Applications | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5f02d3f19c8a05a4) | 2026-09-22 19:24 |
-| Regions Financial | Data Engineer - AWS, Snowflake | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e3740b07510bf369) | 2026-09-22 19:24 |
-| U.S. Bank | Software Engineer 2 (Gen AI, LLM, Spring Boot) | Hopkins, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4ab40f0fb4a43c1e) | 2026-09-22 19:24 |
-| U.S. Bank | Software Engineer 2 (Gen AI, LLM, Spring Boot) | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b327e81664e3144a) | 2026-09-22 19:24 |
-| Capital One | Full-stack Engineer 4 | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6ab165c224f9bf41) | 2026-09-22 19:24 |
-| Capital One | Machine Learning Engineer 4 (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4922f7a57cfbdccb) | 2026-09-22 19:24 |
-| Capital One | Machine Learning Engineer 4 (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=09348324e49b31d7) | 2026-09-22 19:24 |
-| Realign | Gen AI Engineer-5 | Plano, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4fcc298a65fe517f) | 2026-09-22 19:24 |
-| Resideo | Sr Software Engineer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6f3ccdfade853d8f) | 2026-09-22 19:24 |
-| Fanatics | Senior Software Engineer, Full Stack (FES) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e95812a1a87ee87c) | 2026-09-22 19:24 |
-| Fanatics | Senior Software Engineer, Full Stack (FES) | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f0dd1357e631ea44) | 2026-09-22 19:24 |
-| KLA | HPC Windows Server Infrastructure Engineer | Milpitas, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=518ee0c62a254d22) | 2026-09-22 19:24 |
 
 
 ---
