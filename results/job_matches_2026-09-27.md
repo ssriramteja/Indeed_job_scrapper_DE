@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-09-27
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,18 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Analytics Engineer @ Purple Wave Auction
-**Match Score:** 12.5%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Redshift, RDS, Databricks, BigQuery, Scala, Snowflake, Data Modeling, Dimensional Modeling, ELT, dbt
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7d55a501fc68d234)
-
----
-
-## 5. Engineer - Spatial Analytics @ Community Transit
+## 4. Engineer - Spatial Analytics @ Community Transit
 **Match Score:** 11.8%
 
 📍 **Location:** Everett, WA, US USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Full-stack Engineer 5 (AI Platform & Knowledge Library) (Enterprise Platforms Technology) @ Capital One
+## 5. Full-stack Engineer 5 (AI Platform & Knowledge Library) (Enterprise Platforms Technology) @ Capital One
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Software Engineer, Modernization @ Origami Risk LLC
+## 6. Software Engineer, Modernization @ Origami Risk LLC
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
