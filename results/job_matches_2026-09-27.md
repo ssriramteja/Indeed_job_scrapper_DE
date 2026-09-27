@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-09-27
 
-**Total Jobs Found:** 11
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -38,40 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Data Engineer 4 @ Capital One
-**Match Score:** 16.0%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Redshift, RDS, Azure, Databricks, Spark, Scala, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8b7a1bd8af02f9dc)
-
----
-
-## 5. Senior Full Stack Engineer - AWS Cloud @ Maximus
-**Match Score:** 13.2%
-
-📍 **Location:** Lanham, MD, US USA
-
-🔑 **Keywords:** AWS, S3, SQS, SNS, API Gateway, ECS, RDS, Scala, PostgreSQL, DynamoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0f682845a41118d4)
-
----
-
-## 6. Senior Full Stack Engineer - AWS Cloud @ Maximus
-**Match Score:** 13.2%
-
-📍 **Location:** Lanham, MD, US USA
-
-🔑 **Keywords:** AWS, S3, SQS, SNS, API Gateway, ECS, RDS, Scala, PostgreSQL, DynamoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d67a70dfbcdb3cc3)
-
----
-
-## 7. Analytics Engineer @ Purple Wave Auction
+## 4. Analytics Engineer @ Purple Wave Auction
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, US USA
@@ -82,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Engineer - Spatial Analytics @ Community Transit
+## 5. Engineer - Spatial Analytics @ Community Transit
 **Match Score:** 11.8%
 
 📍 **Location:** Everett, WA, US USA
@@ -93,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 9. Full-stack Engineer 5 (AI Platform & Knowledge Library) (Enterprise Platforms Technology) @ Capital One
+## 6. Full-stack Engineer 5 (AI Platform & Knowledge Library) (Enterprise Platforms Technology) @ Capital One
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
@@ -104,18 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 10. Full Stack Engineer 4 @ Capital One
-**Match Score:** 11.1%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Docker, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2e1b607fdff26a44)
-
----
-
-## 11. Software Engineer, Modernization @ Origami Risk LLC
+## 7. Software Engineer, Modernization @ Origami Risk LLC
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
