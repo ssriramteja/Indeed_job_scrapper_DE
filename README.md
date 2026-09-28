@@ -1,11 +1,22 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-28 07:59
+Last updated: 2026-09-28 16:31
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Velir | Senior Data Engineer | Baltimore, MD, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6fff8cf7c0caa031) | 2026-09-28 16:31 |
+| Velir | Senior Data Engineer | Houston, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b433e5c3de97183c) | 2026-09-28 16:31 |
+| Velir | Senior Data Engineer | Princeton, NJ, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e2abd9312c38916a) | 2026-09-28 16:31 |
+| Velir | Senior Data Engineer | New York, NY, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=54c9fe751059a090) | 2026-09-28 16:31 |
+| Velir | Senior Data Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=519ba6eb81f01ddd) | 2026-09-28 16:31 |
+| Velir | Senior Data Engineer | Boston, MA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=02e9b1f872b9ca87) | 2026-09-28 16:31 |
+| Pindrop | Software Engineer \|\| - Authentication | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=309ab450891b7cb4) | 2026-09-28 16:31 |
+| Fusable | Sr. Dev Ops Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=977bfd594149d9f5) | 2026-09-28 16:31 |
+| EXL Service | Forward Deployed Engineer | Jersey City, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e9fadd67c5d6b60a) | 2026-09-28 16:31 |
+| Optum | Sr. AI/ML Engineer - OptumHealth - Remote | Eden Prairie, MN, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bf3a051000d27864) | 2026-09-28 16:31 |
+| General Motors (GM) | Senior Software Engineer, Full Stack Web Development – GCP & Vertex AI Focus | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=efab3b52406bee28) | 2026-09-28 16:31 |
 | Slalom Consulting | Data Engineer - West Region | Austin, TX, US USA | 21.5% | [Apply](https://www.indeed.com/viewjob?jk=2a19bfa35530d300) | 2026-09-28 07:59 |
 | Kohlberg Kravis Roberts & Co. | Reference Data Engineer New | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a7000b43a0fcbe29) | 2026-09-28 07:59 |
 | Slalom Consulting | AI/ML Engineer - Consultant/Senior Consultant - (US-CENTRAL) | Austin, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=df197bbb6fa7ca32) | 2026-09-28 07:59 |
@@ -353,12 +364,6 @@ Last updated: 2026-09-28 07:59
 | QuadCode | Linux Administrator (Ops) | MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a034adc8fdcd3f32) | 2026-09-24 18:04 |
 | Capital One | Full Stack Engineer 4 (Bank Tech) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b908ded2ecce8195) | 2026-09-24 18:04 |
 | Navy Federal Credit Union | Senior Application Engineer (FIS Systematics/ ALS) | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f5f1cd08763c029e) | 2026-09-24 18:04 |
-| Comcast | Senior Software Engineer (Python, Java, C++, or GoLang) - Chicago, IL- ONSITE 2X Week- FreeWheel | Chicago, IL, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=0f84f00ddd01d5e6) | 2026-09-24 13:13 |
-| NYU Langone Health | Azure Databricks Administrator | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=aa309349753fd7ab) | 2026-09-24 13:13 |
-| Genpact | Architect - DevOps 4D | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1dd74fc21551185b) | 2026-09-24 13:13 |
-| Silicon Labs | Sr. Kubernetes Platform Engineer | Austin, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b345fefbec3728e4) | 2026-09-24 13:13 |
-| Comcast | Data Engineer 3 - Reston, VA - Freewheel | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=85feb7d306b29d57) | 2026-09-24 13:13 |
-| Micron Technology | Full Stack AI Engineer (Industrial and Physical AI) | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b05c7e7244739e8a) | 2026-09-24 13:13 |
 
 
 ---
