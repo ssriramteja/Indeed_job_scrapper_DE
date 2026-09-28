@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-09-27 22:43
+Last updated: 2026-09-28 01:19
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| DHANU GLOBAL ENTERPRISES, INC. | Data Engineer with ETL/ELT pipelines and API integrations | Indianapolis, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f8385d0cbea264ab) | 2026-09-28 01:19 |
 | Capital One | Data Engineer 4 (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI) | New York, NY, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d74f91161f0786df) | 2026-09-27 11:44 |
 | Capital One | Data Engineer 4 (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI) | New York, NY, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=94e06db5919f7704) | 2026-09-27 11:44 |
 | Capital One | Full-stack Engineer 5 (AI Platform & Knowledge Library) (Enterprise Platforms Technology) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c9d136b2b0b4aee) | 2026-09-27 11:44 |
@@ -417,24 +418,6 @@ Last updated: 2026-09-27 22:43
 | CareConnectMD | Senior SQL Developer | Costa Mesa, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9dbf87ce3ecaa2d3) | 2026-09-24 02:18 |
 | T. Rowe Price | Full Stack Senior Software Engineer– Investment Risk Technology (Hybrid- Washington DC) | Washington, DC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a1506f9990673e89) | 2026-09-24 02:18 |
 | NTT DATA | Python/React/Full Stack Engineer (AI & Data Platform) | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e76eb12b60f02f24) | 2026-09-24 02:18 |
-| Revstar | Databricks Forward Deployed Engineer (AI/ML) | AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c58a99eaffa53928) | 2026-09-23 23:21 |
-| Revstar | Databricks Forward Deployed Engineer (AI/ML) | TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=471c5127dda2d9df) | 2026-09-23 23:21 |
-| Revstar | Databricks Forward Deployed Engineer (AI/ML) | FL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ec35dbf5b317fd4d) | 2026-09-23 23:21 |
-| Nexus One | Forward Deployed Engineer | Atlanta, GA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=0c644fadd3aa330e) | 2026-09-23 23:21 |
-| Revstar | Forward Deployed Engineer (AWS) | AZ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=65da8aaf4011e226) | 2026-09-23 23:21 |
-| Revstar | Forward Deployed Engineer (AWS) | FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ada06b5a2ee25a8b) | 2026-09-23 23:21 |
-| Revstar | Forward Deployed Engineer (AWS) | TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=419115b4b37379d9) | 2026-09-23 23:21 |
-| SPS Health | Sr. Data Integration Engineer | Milwaukee, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=26332ff2923820d1) | 2026-09-23 23:21 |
-| Cognizant | AWS Workspaces Migration Architect | Des Moines, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1680648104527855) | 2026-09-23 23:21 |
-| Cognizant | AWS Workspaces Migration Architect | Des Moines, IA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c6c43c1e7a2bb253) | 2026-09-23 23:21 |
-| Wiliot | Software Engineer | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5308ad0d41e6f61f) | 2026-09-23 23:21 |
-| Sonos | Software Engineering Co-op (Cloud) | Boston, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2ea49302adcd1e9c) | 2026-09-23 23:21 |
-| KorTerra | Senior Software Engineer | Chanhassen, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fb4fc48fd252444e) | 2026-09-23 23:21 |
-| CVS Health | Senior Full Stack Engineer, Agentic AI Platform | NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7b030b41dfd686f3) | 2026-09-23 23:21 |
-| Identity Digital | Software Engineer II | Bellevue, WA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7b468d5dbbf0d446) | 2026-09-23 23:21 |
-| PTC | Senior DevOps Engineer - Arena | San Mateo, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=136719f380319c28) | 2026-09-23 23:21 |
-| nan | Data QA Engineer | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ad09685b76e2f51) | 2026-09-23 23:21 |
-| KorTerra | Software Engineer | Chanhassen, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2fd41f8a4a17d7e0) | 2026-09-23 23:21 |
 
 
 ---
