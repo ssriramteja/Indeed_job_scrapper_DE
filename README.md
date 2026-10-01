@@ -1,12 +1,26 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-01 08:03
+Last updated: 2026-10-01 15:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ford Motor Company | Full Stack Software Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=e93507bcf9f653a6) | 2026-10-01 08:03 |
+| Ford Motor Company | Full Stack Software Engineer | Dearborn, MI, US USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=e93507bcf9f653a6) | 2026-10-01 15:51 |
+| Pillsbury Winthrop Shaw Pittman | Data Architect | Nashville, TN, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d4506845d5307539) | 2026-10-01 15:51 |
+| FCCI Insurance Group | Data Solution Engineer | Sarasota, FL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0cf8e2097b223c45) | 2026-10-01 15:51 |
+| nan | Senior Full Stack Software Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d567bfdb83525baa) | 2026-10-01 15:51 |
+| JPMorganChase | Software Engineer III - ML Model Delivery | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a9623715fec95146) | 2026-10-01 15:51 |
+| A-V SERVICES INC. | Software Engineer III - Platform Application Engineer | Columbus, OH, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc9985441c9238ec) | 2026-10-01 15:51 |
+| canyon associates | Data Warehouse BI Architect Fabric | Eatontown, NJ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e23ac4d086e0803d) | 2026-10-01 15:51 |
+| JustPark | Senior Software Engineer, Reporting | Dallas, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9067ce361a1da61) | 2026-10-01 15:51 |
+| Kosma Tech Inc | Palantir Foundry Full Stack Developer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d62cd65b081a5fd7) | 2026-10-01 15:51 |
+| Capital One | Full Stack Engineer 4 | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e2545e2fa204ae54) | 2026-10-01 15:51 |
+| INFUSE | AI and Software Solutions Architect (Remote, Contract) | ME, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b1bfa1f3245af737) | 2026-10-01 15:51 |
+| NTT DATA | Senior Software Architect | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c372fec6954adf93) | 2026-10-01 15:51 |
+| Crane Worldwide Logistics | Sr. Business Intelligence Engineer | Houston, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5b7689efbfa17324) | 2026-10-01 15:51 |
+| Universal Background Screening | Software Developer | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1802ad0b463648dd) | 2026-10-01 15:51 |
+| JetBrains | Support Engineer (TeamCity) | Boston, MA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5921dacde6ad5818) | 2026-10-01 15:51 |
 | Capital One | Data Engineer 4 | New York, NY, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=5eab9d45a7707f9c) | 2026-10-01 08:03 |
 | Capital One | Data Engineer 4 | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0ab75b27388163f6) | 2026-10-01 08:03 |
 | Capital One | Data Engineer 4 | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cd9f207b6755f4c7) | 2026-10-01 08:03 |
@@ -464,9 +478,6 @@ Last updated: 2026-10-01 08:03
 | Capital One | Full-stack Engineer 4 | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82382cea5259933b) | 2026-09-28 07:59 |
 | IT Audit Labs | Senior Azure Engineer- Contract | Saint Paul, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f11094b2b43d335c) | 2026-09-28 07:59 |
 | DHANU GLOBAL ENTERPRISES, INC. | Data Engineer with ETL/ELT pipelines and API integrations | Indianapolis, IN, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f8385d0cbea264ab) | 2026-09-28 01:19 |
-| Capital One | Data Engineer 4 (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI) | New York, NY, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=d74f91161f0786df) | 2026-09-27 11:44 |
-| Capital One | Data Engineer 4 (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI) | New York, NY, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=94e06db5919f7704) | 2026-09-27 11:44 |
-| Capital One | Full-stack Engineer 5 (AI Platform & Knowledge Library) (Enterprise Platforms Technology) | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c9d136b2b0b4aee) | 2026-09-27 11:44 |
 
 
 ---
