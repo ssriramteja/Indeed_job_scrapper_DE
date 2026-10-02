@@ -1,418 +1,11 @@
 # 🎯 Daily Job Matches — 2026-10-02
 
-**Total Jobs Found:** 159
+**Total Jobs Found:** 110
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Full Stack Software Engineer @ Ford Motor Company
-**Match Score:** 22.2%
-
-📍 **Location:** Dearborn, MI, US USA
-
-🔑 **Keywords:** IAM, Azure, Google Cloud Platform, GCP, BigQuery, Cloud Storage, Vertex AI, Oozie, Spark, PySpark
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e93507bcf9f653a6)
-
----
-
-## 2. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1bda7c67bf5cbe5a)
-
----
-
-## 3. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=368616de2c642a2e)
-
----
-
-## 4. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=aee2c64c083ac8ea)
-
----
-
-## 5. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=576d7762bdc9b4a4)
-
----
-
-## 6. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b81bea3b93bc1223)
-
----
-
-## 7. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8e2999a5d3b3483e)
-
----
-
-## 8. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=58bb2920db804ee3)
-
----
-
-## 9. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=64eda93b383c5e7b)
-
----
-
-## 10. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=059b0e91bd7ff509)
-
----
-
-## 11. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dce8f2606e05ad08)
-
----
-
-## 12. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9ec1f17f9b315e61)
-
----
-
-## 13. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=800aea21a1783ccb)
-
----
-
-## 14. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=07f5b12bfd4b6b93)
-
----
-
-## 15. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fc68cc09e742d8bb)
-
----
-
-## 16. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=af4c45e6b0b429cd)
-
----
-
-## 17. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=43630d97f73e088d)
-
----
-
-## 18. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=db9ae51cfd68f91d)
-
----
-
-## 19. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fb1f9238d3e58cd9)
-
----
-
-## 20. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=99194701eec56644)
-
----
-
-## 21. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1b18fb0f3a526243)
-
----
-
-## 22. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3d368a77fc60527a)
-
----
-
-## 23. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=af1833b1fd89a44d)
-
----
-
-## 24. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7543f28ff561431d)
-
----
-
-## 25. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0c42affa850495e4)
-
----
-
-## 26. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2e3cc93c9c31df31)
-
----
-
-## 27. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4b66559440a56821)
-
----
-
-## 28. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=681075eb2dbba34a)
-
----
-
-## 29. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=acaf7efa66ec3e91)
-
----
-
-## 30. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bd121f5727f4582b)
-
----
-
-## 31. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=593df49c1a783823)
-
----
-
-## 32. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c701c0131a9463b2)
-
----
-
-## 33. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2153f02dbc5939c0)
-
----
-
-## 34. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4f50184907f6d74c)
-
----
-
-## 35. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dc904f2cbbfb0652)
-
----
-
-## 36. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=24738a39909ebdb0)
-
----
-
-## 37. Sr. Databricks Engineer @ Concentrix
-**Match Score:** 22.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, Photon
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2f4e5cf428179e1f)
-
----
-
-## 38. Sr Data Engineer (Data Quality & Data Governance) @ Intellibee Inc
+## 1. Sr Data Engineer (Data Quality & Data Governance) @ Intellibee Inc
 **Match Score:** 20.8%
 
 📍 **Location:** Malvern, AR, US USA
@@ -423,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 39. AWS Lakehouse Data Engineer- GrantSolutions experienced only @ Triwave Solutions Inc
+## 2. AWS Lakehouse Data Engineer- GrantSolutions experienced only @ Triwave Solutions Inc
 **Match Score:** 20.8%
 
 📍 **Location:** Remote, US USA
@@ -434,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 40. Shelton - Data Engineering - Engr- Data II @ Subway
+## 3. Shelton - Data Engineering - Engr- Data II @ Subway
 **Match Score:** 20.1%
 
 📍 **Location:** Shelton, CT, US USA
@@ -445,18 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 41. Machine Learning Engineer, Predictive Maintenance @ AssetWatch
-**Match Score:** 20.1%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Lambda, Athena, Timestream, Step Functions, S3, ECS, IAM
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8a533bcbf8ae0b71)
-
----
-
-## 42. Financial Services Technology Consulting, Financial Risk Technology (FRT) Engineering - Senior @ EY
+## 4. Financial Services Technology Consulting, Financial Risk Technology (FRT) Engineering - Senior @ EY
 **Match Score:** 20.1%
 
 📍 **Location:** New York, NY, US USA
@@ -467,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 43. Data Engineer @ Optum
+## 5. Data Engineer @ Optum
 **Match Score:** 19.4%
 
 📍 **Location:** Eden Prairie, MN, US USA
@@ -478,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 44. Data Architect - Associate @ Intermountain Health
+## 6. Data Architect - Associate @ Intermountain Health
 **Match Score:** 18.8%
 
 📍 **Location:** West Valley City, UT, US USA
@@ -489,7 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 45. AI Enterprise Architect-3 @ Realign
+## 7. AI Enterprise Architect-3 @ Realign
 **Match Score:** 18.8%
 
 📍 **Location:** Seattle, WA, US USA
@@ -500,18 +82,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 46. Microservices Digital Software Engineer (Citi Retail Services) @ Citi
-**Match Score:** 18.8%
+## 8. Senior Software Engineer @ Optum
+**Match Score:** 18.1%
 
-📍 **Location:** Irving, TX, US USA
+📍 **Location:** Minnetonka, MN, US USA
 
-🔑 **Keywords:** AWS, Lambda, S3, RDS, Azure, Scala, Kafka, Oracle, PostgreSQL, MongoDB
+🔑 **Keywords:** AWS, Lambda, S3, API Gateway, ECS, IAM, RDS, Azure, Scala, DynamoDB
 
-[Apply Here](https://www.indeed.com/viewjob?jk=5706dd6baebfde8f)
+[Apply Here](https://www.indeed.com/viewjob?jk=712c0b25aa3285b3)
 
 ---
 
-## 47. Data Platform Engineer @ BV Teck
+## 9. Data Platform Engineer @ BV Teck
 **Match Score:** 17.4%
 
 📍 **Location:** Remote, US USA
@@ -522,7 +104,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 48. Data Engineer @ Promevo
+## 10. Data Engineer @ Promevo
 **Match Score:** 17.4%
 
 📍 **Location:** Remote, US USA
@@ -533,403 +115,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 49. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=370116783b30ec82)
-
----
-
-## 50. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0a08e1ab394481f7)
-
----
-
-## 51. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=05a68983fb26d208)
-
----
-
-## 52. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3d2eb1b1d44236b5)
-
----
-
-## 53. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2f7ec08cb54132eb)
-
----
-
-## 54. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c3dca3caa8fcea29)
-
----
-
-## 55. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d25b4abde31c27c6)
-
----
-
-## 56. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6b100a75517534d8)
-
----
-
-## 57. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=07dbaef7d4e6b9c5)
-
----
-
-## 58. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a45f2bc46540393f)
-
----
-
-## 59. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9307d6216e415e2b)
-
----
-
-## 60. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9e546f6d2550b6b2)
-
----
-
-## 61. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ce9cc3a9842afff5)
-
----
-
-## 62. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f7d753c3c316503b)
-
----
-
-## 63. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a584ad2f7d15ff00)
-
----
-
-## 64. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9eb65440d87333c8)
-
----
-
-## 65. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f11b515a70c088cb)
-
----
-
-## 66. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d2e6bf2001d3580b)
-
----
-
-## 67. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8a5e5c4e23854a04)
-
----
-
-## 68. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=32200d4c67603056)
-
----
-
-## 69. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9e7bd83f43b5bd8e)
-
----
-
-## 70. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fb6a5d892b0aabd5)
-
----
-
-## 71. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7dbff2b8b357f56c)
-
----
-
-## 72. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ea0b86ae33f22adc)
-
----
-
-## 73. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=722290f8547af1ca)
-
----
-
-## 74. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5f098ed101bfb827)
-
----
-
-## 75. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c34c424587e49ee0)
-
----
-
-## 76. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=71f963121f68d02a)
-
----
-
-## 77. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4854ae8a484d616d)
-
----
-
-## 78. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=65206dd20456c905)
-
----
-
-## 79. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=88b74e153a8fefec)
-
----
-
-## 80. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=02838770465f88cb)
-
----
-
-## 81. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=77cd65e0f3142719)
-
----
-
-## 82. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a12237447e502074)
-
----
-
-## 83. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2f15fa276e024e09)
-
----
-
-## 84. Databricks Engineer @ Concentrix
-**Match Score:** 17.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c2c916f7f491c0fd)
-
----
-
-## 85. Senior Full Stack Java Developer – Cloud & Microservices @ Cognizant
+## 11. Senior Full Stack Java Developer – Cloud & Microservices @ Cognizant
 **Match Score:** 17.4%
 
 📍 **Location:** Sunnyvale, CA, US USA
@@ -940,7 +126,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 86. Senior Full Stack Java Developer – Cloud & Microservices @ Cognizant
+## 12. Senior Full Stack Java Developer – Cloud & Microservices @ Cognizant
 **Match Score:** 17.4%
 
 📍 **Location:** Sunnyvale, CA, US USA
@@ -951,7 +137,403 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 87. Senior Software Engineer @ Wells Fargo
+## 13. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=370116783b30ec82)
+
+---
+
+## 14. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0a08e1ab394481f7)
+
+---
+
+## 15. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=05a68983fb26d208)
+
+---
+
+## 16. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3d2eb1b1d44236b5)
+
+---
+
+## 17. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2f7ec08cb54132eb)
+
+---
+
+## 18. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c3dca3caa8fcea29)
+
+---
+
+## 19. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d25b4abde31c27c6)
+
+---
+
+## 20. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6b100a75517534d8)
+
+---
+
+## 21. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=07dbaef7d4e6b9c5)
+
+---
+
+## 22. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a45f2bc46540393f)
+
+---
+
+## 23. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9307d6216e415e2b)
+
+---
+
+## 24. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9e546f6d2550b6b2)
+
+---
+
+## 25. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ce9cc3a9842afff5)
+
+---
+
+## 26. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f7d753c3c316503b)
+
+---
+
+## 27. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a584ad2f7d15ff00)
+
+---
+
+## 28. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9eb65440d87333c8)
+
+---
+
+## 29. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f11b515a70c088cb)
+
+---
+
+## 30. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d2e6bf2001d3580b)
+
+---
+
+## 31. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8a5e5c4e23854a04)
+
+---
+
+## 32. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=32200d4c67603056)
+
+---
+
+## 33. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9e7bd83f43b5bd8e)
+
+---
+
+## 34. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fb6a5d892b0aabd5)
+
+---
+
+## 35. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7dbff2b8b357f56c)
+
+---
+
+## 36. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ea0b86ae33f22adc)
+
+---
+
+## 37. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=722290f8547af1ca)
+
+---
+
+## 38. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5f098ed101bfb827)
+
+---
+
+## 39. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c34c424587e49ee0)
+
+---
+
+## 40. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=71f963121f68d02a)
+
+---
+
+## 41. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4854ae8a484d616d)
+
+---
+
+## 42. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=65206dd20456c905)
+
+---
+
+## 43. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=88b74e153a8fefec)
+
+---
+
+## 44. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=02838770465f88cb)
+
+---
+
+## 45. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=77cd65e0f3142719)
+
+---
+
+## 46. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a12237447e502074)
+
+---
+
+## 47. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2f15fa276e024e09)
+
+---
+
+## 48. Databricks Engineer @ Concentrix
+**Match Score:** 17.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Event Hubs, Unity Catalog, Medallion Architecture, Delta Live Tables, GCP
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c2c916f7f491c0fd)
+
+---
+
+## 49. Senior Software Engineer @ Wells Fargo
 **Match Score:** 16.7%
 
 📍 **Location:** Charlotte, NC, US USA
@@ -962,7 +544,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 88. Senior Software Engineer @ Wells Fargo
+## 50. Senior Software Engineer @ Wells Fargo
 **Match Score:** 16.7%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -973,7 +555,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 89. Data Engineer @ HealthPartners
+## 51. Data Engineer @ HealthPartners
 **Match Score:** 16.7%
 
 📍 **Location:** Bloomington, MN, US USA
@@ -984,7 +566,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 90. Data Engineer III @ Republic Services
+## 52. Data Engineer III @ Republic Services
 **Match Score:** 16.7%
 
 📍 **Location:** Phoenix, AZ, US USA
@@ -995,7 +577,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 91. Data Engineer (Contract-To-Hire) (Remote) @ RelMap Consulting
+## 53. Data Engineer (Contract-To-Hire) (Remote) @ RelMap Consulting
 **Match Score:** 16.7%
 
 📍 **Location:** Remote, US USA
@@ -1006,7 +588,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 92. Senior Data Engineer @ Mastercard
+## 54. Senior Data Engineer @ Mastercard
 **Match Score:** 16.0%
 
 📍 **Location:** O'Fallon, MO, US USA
@@ -1017,7 +599,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 93. Senior Data Engineer @ Mastercard
+## 55. Senior Data Engineer @ Mastercard
 **Match Score:** 16.0%
 
 📍 **Location:** O'Fallon, MO, US USA
@@ -1028,40 +610,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 94. Data Engineer 4 @ Capital One
-**Match Score:** 16.0%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Redshift, RDS, Azure, Databricks, Spark, Scala, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5eab9d45a7707f9c)
-
----
-
-## 95. Data Engineer 4 @ Capital One
-**Match Score:** 16.0%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Redshift, RDS, Azure, Databricks, Spark, Scala, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0ab75b27388163f6)
-
----
-
-## 96. Data Engineer 4 @ Capital One
-**Match Score:** 16.0%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Redshift, RDS, Azure, Databricks, Spark, Scala, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cd9f207b6755f4c7)
-
----
-
-## 97. .NET API Solutions Architect on W2 @ Digital Dhara LLC
+## 56. .NET API Solutions Architect on W2 @ Digital Dhara LLC
 **Match Score:** 16.0%
 
 📍 **Location:** Remote, US USA
@@ -1072,7 +621,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 98. Data Architect @ Pillsbury Winthrop Shaw Pittman
+## 57. Data Architect @ Pillsbury Winthrop Shaw Pittman
 **Match Score:** 16.0%
 
 📍 **Location:** Nashville, TN, US USA
@@ -1083,29 +632,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 99. Senior Cloud Platform Engineer @ Optum
+## 58. Senior Data Engineer @ HCA Healthcare
 **Match Score:** 15.3%
 
-📍 **Location:** Lewisville, TX, US USA
+📍 **Location:** Nashville, TN, US USA
 
-🔑 **Keywords:** AWS, Lambda, S3, IAM, RDS, Scala, MySQL, DynamoDB, Splunk, CI/CD
+🔑 **Keywords:** IAM, RDS, Azure, Google Cloud Platform, BigQuery, Cloud Storage, Scala, Data Modeling, ETL, ELT
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b53e345da3563756)
+[Apply Here](https://www.indeed.com/viewjob?jk=45753ce4c6ce5c87)
 
 ---
 
-## 100. Azure Data Engineer Senior @ AmeriHealth Caritas
-**Match Score:** 15.3%
+## 59. ML Engineer- Sr Consultant @ Visa
+**Match Score:** 14.6%
 
-📍 **Location:** US USA
+📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Data Lake Storage, Event Hubs, Spark, PySpark, Scala, Kafka
+🔑 **Keywords:** RDS, Databricks, Vertex AI, Hadoop, Hive, Spark, Scala, Kafka, Snowflake, MLOps
 
-[Apply Here](https://www.indeed.com/viewjob?jk=fc8b1810e1fdd4c8)
+[Apply Here](https://www.indeed.com/viewjob?jk=1cdc87ac9c054fa1)
 
 ---
 
-## 101. ETL Engineer – Cloud Data Lakehouse & Pipeline Development @ Hays Electrical Services
+## 60. ETL Engineer – Cloud Data Lakehouse & Pipeline Development @ Hays Electrical Services
 **Match Score:** 14.6%
 
 📍 **Location:** Houston, TX, US USA
@@ -1116,18 +665,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 102. Senior Software Engineer, Data (L3) @ Acrisure LLC
+## 61. Data Engineer | Talent Community @ Lennar
 **Match Score:** 14.6%
 
-📍 **Location:** Austin, TX, US USA
+📍 **Location:** Miami, FL, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, BigQuery, Dataflow, Spark, Scala, Data Modeling
+🔑 **Keywords:** AWS, Glue, EMR, Lambda, S3, RDS, Scala, Snowflake, Data Modeling, ETL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=102cee0c6adcda4e)
+[Apply Here](https://www.indeed.com/viewjob?jk=b6682604b8f254c7)
 
 ---
 
-## 103. Senior OCI Consultant @ BV Teck
+## 62. Senior Software Engineer - Java Microservices & AWS @ Cognizant
+**Match Score:** 14.6%
+
+📍 **Location:** Pleasanton, CA, US USA
+
+🔑 **Keywords:** AWS, EMR, Athena, S3, RDS, Spark, Scala, PostgreSQL, MySQL, MongoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5ff68c4379d27e34)
+
+---
+
+## 63. Data Solutions Architect @ RS&H
+**Match Score:** 14.6%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Medallion Architecture, Google Cloud Platform, GCP, Scala, Polars, Power BI, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a5b809a99c4ae691)
+
+---
+
+## 64. Senior OCI Consultant @ BV Teck
 **Match Score:** 14.6%
 
 📍 **Location:** Remote, US USA
@@ -1138,18 +709,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 104. Senior Software Engineer - Backend Services @ The University of Chicago
-**Match Score:** 14.6%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AWS, Lambda, Step Functions, S3, ECS, IAM, RDS, Azure, Scala, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=81e3a4fbe236b819)
-
----
-
-## 105. Full Stack Engineer @ Equifax
+## 65. Full Stack Engineer @ Equifax
 **Match Score:** 13.9%
 
 📍 **Location:** Boise, ID, US USA
@@ -1160,18 +720,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 106. ML Engineer- Sr Consultant @ Visa
-**Match Score:** 13.9%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** RDS, Databricks, Vertex AI, Hadoop, Hive, Spark, Scala, Kafka, Snowflake, MLOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1cdc87ac9c054fa1)
-
----
-
-## 107. ETS Senior Engineer - Azure Databricks & Data Platform Engineer @ Navy Federal Credit Union
+## 66. ETS Senior Engineer - Azure Databricks & Data Platform Engineer @ Navy Federal Credit Union
 **Match Score:** 13.9%
 
 📍 **Location:** Vienna, VA, US USA
@@ -1182,7 +731,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 108. Data Solution Engineer @ FCCI Insurance Group
+## 67. Data Solution Engineer @ FCCI Insurance Group
 **Match Score:** 13.9%
 
 📍 **Location:** Sarasota, FL, US USA
@@ -1193,7 +742,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 109. SPEC SOFTWARE DEVT @ Solventum
+## 68. Application Developer @ Consertus
+**Match Score:** 13.9%
+
+📍 **Location:** Guaynabo, PR, US USA
+
+🔑 **Keywords:** IAM, RDS, Google Cloud Platform, GCP, BigQuery, Cloud Storage, Vertex AI, Scala, ELT, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3b988244eb4ead63)
+
+---
+
+## 69. SPEC SOFTWARE DEVT @ Solventum
 **Match Score:** 13.9%
 
 📍 **Location:** Murray, UT, US USA
@@ -1204,7 +764,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 110. Sr. Clinical Data Engineer @ MiniMed
+## 70. Sr. Clinical Data Engineer @ MiniMed
 **Match Score:** 13.9%
 
 📍 **Location:** Northridge, CA, US USA
@@ -1215,7 +775,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 111. ML Ops Engineer I @ Murphy USA
+## 71. ML Ops Engineer I @ Murphy USA
 **Match Score:** 13.9%
 
 📍 **Location:** El Dorado, AR, US USA
@@ -1226,7 +786,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 112. Jr Data Engineer @ NAVA TECH LLC
+## 72. Software Engineer @ First Orion
+**Match Score:** 13.2%
+
+📍 **Location:** North Little Rock, AR, US USA
+
+🔑 **Keywords:** AWS, Kinesis, S3, IAM, RDS, Databricks, Unity Catalog, Spark, PySpark, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c7f8125afe117b73)
+
+---
+
+## 73. Jr Data Engineer @ NAVA TECH LLC
 **Match Score:** 13.2%
 
 📍 **Location:** Austin, TX, US USA
@@ -1237,7 +808,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 113. Data Engineer-2 @ Realign
+## 74. Data Engineer-2 @ Realign
 **Match Score:** 13.2%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1248,7 +819,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 114. Data Engineer @ Talsolution
+## 75. Data Engineer @ Talsolution
 **Match Score:** 13.2%
 
 📍 **Location:** US USA
@@ -1259,62 +830,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 115. Site Reliability Engineer @ Capgemini
+## 76. Senior Backend Cloud Engineer @ nan
 **Match Score:** 13.2%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** San Jose, CA, US USA
 
-🔑 **Keywords:** AWS, Lambda, API Gateway, RDS, Azure, Scala, Power BI, Splunk, CI/CD, Jenkins
+🔑 **Keywords:** AWS, Lambda, Kinesis, API Gateway, IAM, RDS, Azure, Scala, Kafka, DynamoDB
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d01528e1099d2199)
+[Apply Here](https://www.indeed.com/viewjob?jk=8672fb0f9146fe17)
 
 ---
 
-## 116. Senior Infrastructure Engineer @ Adonis
-**Match Score:** 13.2%
+## 77. Software Engineer III - ML Model Delivery @ JPMorganChase
+**Match Score:** 12.5%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** AWS, Lambda, Step Functions, IAM, RDS, Scala, Snowflake, DynamoDB, CI/CD, GitHub Actions
+🔑 **Keywords:** AWS, EMR, S3, ECS, RDS, Databricks, Spark, Scala, MLOps, Terraform
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b0454d0d787afaef)
-
----
-
-## 117. Senior Software Engineer (SQL, AWS, & Java) @ INTRAFI
-**Match Score:** 13.2%
-
-📍 **Location:** Arlington, VA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, SQL Server, Data Modeling, ETL, Talend, CI/CD, Jenkins, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=93b33418deacae1b)
+[Apply Here](https://www.indeed.com/viewjob?jk=a9623715fec95146)
 
 ---
 
-## 118. SRE - DevOps Engineer @ Capgemini
-**Match Score:** 13.2%
+## 78. Senior Cloud Platform Engineer (AWS), AI Infrastructure - Evinova @ AstraZeneca
+**Match Score:** 12.5%
 
-📍 **Location:** Dallas, TX, US USA
+📍 **Location:** Gaithersburg, MD, US USA
 
-🔑 **Keywords:** AWS, Lambda, API Gateway, RDS, Azure, Scala, Power BI, Splunk, CI/CD, Jenkins
+🔑 **Keywords:** AWS, S3, ECS, IAM, RDS, Vertex AI, Scala, Splunk, CI/CD, Terraform
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c99c9c660d572e7c)
-
----
-
-## 119. Machine Learning Engineer @ Solventum
-**Match Score:** 13.2%
-
-📍 **Location:** Pittsburgh, PA, US USA
-
-🔑 **Keywords:** AWS, RDS, Spark, Scala, ETL, dbt, MLOps, MLflow, CI/CD, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3c4e4827f2acca3b)
+[Apply Here](https://www.indeed.com/viewjob?jk=1bc9132b08227ea7)
 
 ---
 
-## 120. Site Reliability Engineer 2 @ KONG
+## 79. Site Reliability Engineer 2 @ KONG
 **Match Score:** 12.5%
 
 📍 **Location:** Washington, DC, US USA
@@ -1325,51 +874,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 121. Senior Application Security Engineer @ Arrowstreet Capital LP
+## 80. FBS Senior Data Engineer (SnowFlake) @ Farmers Insurance Group
 **Match Score:** 12.5%
 
-📍 **Location:** Boston, MA, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, ECS, RDS, Azure, Scala, CI/CD, Jenkins, Azure DevOps, Docker, Kubernetes
+🔑 **Keywords:** AWS, Redshift, RDS, Databricks, BigQuery, Scala, Snowflake, Data Modeling, Snowflake Schema, ETL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e50557e995a6e35f)
+[Apply Here](https://www.indeed.com/viewjob?jk=740eac621cae0ece)
 
 ---
 
-## 122. Data Architect @ Lam Research
-**Match Score:** 12.5%
-
-📍 **Location:** Fremont, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Medallion Architecture, Spark, Scala, Kafka, Snowflake, Data Modeling
-
-[Apply Here](https://www.indeed.com/viewjob?jk=37649d4b62a2de47)
-
----
-
-## 123. Site Reliability Engineer - ED&A - Global Industrial @ Motion
-**Match Score:** 12.5%
-
-📍 **Location:** Birmingham, AL, US USA
-
-🔑 **Keywords:** IAM, RDS, Azure, BigQuery, Cloud Storage, Scala, Power BI, CI/CD, Azure DevOps, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=006bd2455950a26a)
-
----
-
-## 124. Software Engineer III - ML Model Delivery @ JPMorganChase
+## 81. Senior Data Engineer @ ChenMed
 **Match Score:** 11.8%
 
-📍 **Location:** Plano, TX, US USA
+📍 **Location:** Miami, FL, US USA
 
-🔑 **Keywords:** AWS, EMR, S3, ECS, RDS, Databricks, Spark, Scala, MLOps, Terraform
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Snowflake, Data Modeling, ETL, ELT, dbt
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a9623715fec95146)
+[Apply Here](https://www.indeed.com/viewjob?jk=05e9d9a6218bf629)
 
 ---
 
-## 125. Data Solution Architect @ Baker Tilly Canada
+## 82. Data Solution Architect @ Baker Tilly Canada
 **Match Score:** 11.8%
 
 📍 **Location:** Madison, WI, US USA
@@ -1380,7 +907,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 126. Data Solution Architect @ Baker Tilly Canada
+## 83. Data Solution Architect @ Baker Tilly Canada
 **Match Score:** 11.8%
 
 📍 **Location:** Frisco, TX, US USA
@@ -1391,7 +918,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 127. Data Solution Architect @ Baker Tilly Canada
+## 84. Data Solution Architect @ Baker Tilly Canada
 **Match Score:** 11.8%
 
 📍 **Location:** Milwaukee, WI, US USA
@@ -1402,7 +929,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 128. Associate Data Engineer - Onsite Hybrid @ Moody's
+## 85. Associate Data Engineer - Onsite Hybrid @ Moody's
 **Match Score:** 11.8%
 
 📍 **Location:** Boca Raton, FL, US USA
@@ -1413,7 +940,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 129. Associate Data Engineer - Onsite Hybrid @ Moody's
+## 86. Associate Data Engineer - Onsite Hybrid @ Moody's
 **Match Score:** 11.8%
 
 📍 **Location:** Boca Raton, FL, US USA
@@ -1424,7 +951,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 130. Senior Data Engineer @ NOV
+## 87. Senior Data Engineer @ NOV
 **Match Score:** 11.8%
 
 📍 **Location:** Houston, TX, US USA
@@ -1435,40 +962,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 131. Software Engineer III - Platform Application Engineer @ A-V SERVICES INC.
-**Match Score:** 11.8%
-
-📍 **Location:** Columbus, OH, US USA
-
-🔑 **Keywords:** AWS, Lambda, S3, ECS, IAM, RDS, Scala, CI/CD, Jenkins, GitHub Actions
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bc9985441c9238ec)
-
----
-
-## 132. Software Engineer – SaaS & Data Migration Specialist @ Solen Software Group
-**Match Score:** 11.8%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, ECS, Azure, GCP, Scala, SQL Server, DataOps, CI/CD, GitHub Actions, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1e93b4193751c0db)
-
----
-
-## 133. Senior Software Engineer II, Ads Data Solutions Engineering @ Instacart
-**Match Score:** 11.8%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, RDS, Databricks, Spark, Scala, Snowflake, dbt, CI/CD, Airflow, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cb84207463f6a555)
-
----
-
-## 134. Senior Software Engineer, Reporting @ JustPark
+## 88. Senior Software Engineer, Reporting @ JustPark
 **Match Score:** 11.8%
 
 📍 **Location:** Dallas, TX, US USA
@@ -1479,18 +973,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 135. Palantir Foundry Full Stack Developer @ Kosma Tech Inc
-**Match Score:** 11.8%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AWS, Azure, GCP, Spark, PySpark, Scala, Kafka, ETL, ELT, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d62cd65b081a5fd7)
-
----
-
-## 136. Engineer/Sr Engineer, IT Software @ American Airlines
+## 89. Engineer/Sr Engineer, IT Software @ American Airlines
 **Match Score:** 11.8%
 
 📍 **Location:** Fort Worth, TX, US USA
@@ -1501,7 +984,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 137. Senior Software Engineer: PDLC (Hybrid, Seattle) @ Nordstrom
+## 90. Senior Software Engineer: PDLC (Hybrid, Seattle) @ Nordstrom
 **Match Score:** 11.1%
 
 📍 **Location:** Seattle, WA, US USA
@@ -1512,29 +995,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 138. Analytics Data Engineer II - Homes.com - Arlington, VA @ CoStar Group
+## 91. Databricks Data Engineer @ Deloitte
 **Match Score:** 11.1%
 
-📍 **Location:** Arlington, VA, US USA
+📍 **Location:** Rosslyn, VA, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Spark, PySpark, Scala, Snowflake, SQL Server, Power BI
+🔑 **Keywords:** AWS, Azure, Databricks, Unity Catalog, Google Cloud Platform, GCP, Spark, Scala, Data Modeling, ETL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=196fad23ac814fb2)
+[Apply Here](https://www.indeed.com/viewjob?jk=d39184c61f9a086c)
 
 ---
 
-## 139. Data Engineer @ GreenStone Farm Credit Services
-**Match Score:** 11.1%
-
-📍 **Location:** East Lansing, MI, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, Unity Catalog, Scala, SQL Server, Kimball, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cd8fa8b2a51a2522)
-
----
-
-## 140. Software Engineering III - AWS, GCP, Terraform @ JPMorganChase
+## 92. Software Engineering III - AWS, GCP, Terraform @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** Jersey City, NJ, US USA
@@ -1545,7 +1017,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 141. Data Engineer @ nan
+## 93. Data Engineer @ nan
 **Match Score:** 11.1%
 
 📍 **Location:** Houston, TX, US USA
@@ -1556,18 +1028,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 142. Senior Data Engineer, Growth Acquisition (Growth & Marketing Data) @ Roblox
-**Match Score:** 11.1%
-
-📍 **Location:** San Mateo, CA, US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Spark, PySpark, Scala, Kafka, Data Modeling, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a131fa3a50c5d619)
-
----
-
-## 143. Senior Analytics Engineer (Data Platform & AI Enablement) @ Delta Faucet Company
+## 94. Senior Analytics Engineer (Data Platform & AI Enablement) @ Delta Faucet Company
 **Match Score:** 11.1%
 
 📍 **Location:** Indianapolis, IN, US USA
@@ -1578,18 +1039,51 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 144. AI Data Engineer @ Plante Moran
+## 95. Data Engineering & BI/Analytics @ Advancio
 **Match Score:** 11.1%
 
-📍 **Location:** Chicago, IL, US USA
+📍 **Location:** Downey, CA, US USA
 
-🔑 **Keywords:** Azure, Data Factory, Databricks, Medallion Architecture, Spark, PySpark, Scala, Power BI, CI/CD, GitHub Actions
+🔑 **Keywords:** RDS, Azure, Data Factory, Databricks, Oracle, SQL Server, Data Modeling, ETL, Power BI, Azure DevOps
 
-[Apply Here](https://www.indeed.com/viewjob?jk=35a87a481b03a8f0)
+[Apply Here](https://www.indeed.com/viewjob?jk=30859e3f8aec8e8c)
 
 ---
 
-## 145. DevOps Engineer @ Exostar
+## 96. INFORMATION TECHNOLOGY SPECIALIST II @ Department of Motor Vehicles California
+**Match Score:** 11.1%
+
+📍 **Location:** CA, US USA
+
+🔑 **Keywords:** AWS, IAM, Azure, Snowflake, Oracle, SQL Server, PostgreSQL, ETL, ELT, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4dd56cb6c6641f35)
+
+---
+
+## 97. Software Engineer @ nan
+**Match Score:** 11.1%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AWS, ECS, RDS, Azure, GCP, PostgreSQL, MySQL, MongoDB, NoSQL, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b862a52465289faa)
+
+---
+
+## 98. AI Full-Stack Developer @ Abacus Technology
+**Match Score:** 11.1%
+
+📍 **Location:** Arlington, VA, US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Unity Catalog, Scala, Data Modeling, ELT, MLflow, Azure DevOps, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b1d8b03546e93eeb)
+
+---
+
+## 99. DevOps Engineer @ Exostar
 **Match Score:** 11.1%
 
 📍 **Location:** Herndon, VA, US USA
@@ -1600,29 +1094,40 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 146. Full Stack Engineer 4 (Python, Java, AWS) @ Capital One
+## 100. AI Data Engineer @ Plante Moran
 **Match Score:** 11.1%
 
-📍 **Location:** McLean, VA, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Docker, Kubernetes, Git
+🔑 **Keywords:** Azure, Data Factory, Databricks, Medallion Architecture, Spark, PySpark, Scala, Power BI, CI/CD, GitHub Actions
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4aa0a61b0b1456bb)
+[Apply Here](https://www.indeed.com/viewjob?jk=35a87a481b03a8f0)
 
 ---
 
-## 147. Full-stack Engineer 4 @ Capital One
-**Match Score:** 11.1%
+## 101. Junior Azure Data Engineer - UniFirst @ UniFirst
+**Match Score:** 10.4%
 
-📍 **Location:** Richmond, VA, US USA
+📍 **Location:** Wilmington, MA, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, NoSQL, CI/CD, Docker, Kubernetes, Git
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Dataflow, Scala, SQL Server, ETL, Power BI
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3c87481ab8ef4260)
+[Apply Here](https://www.indeed.com/viewjob?jk=c44239a8e09ed622)
 
 ---
 
-## 148. Junior Azure Data Engineer - UniFirst @ UniFirst
+## 102. IT Data Engineer II @ GCI
+**Match Score:** 10.4%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** RDS, Azure, Databricks, Medallion Architecture, Spark, Scala, Data Modeling, ETL, ELT, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8f42d08c79858e06)
+
+---
+
+## 103. Junior Azure Data Engineer - UniFirst @ UniFirst
 **Match Score:** 10.4%
 
 📍 **Location:** Wilmington, MA, US USA
@@ -1633,7 +1138,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 149. Site Reliability Engineer @ NTT DATA
+## 104. Senior Specialist, Manufacturing Data Engineering & Digital Integration @ Merck
+**Match Score:** 10.4%
+
+📍 **Location:** Wilmington, DE, US USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Data Modeling, Power BI, Tableau, Git, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=082180c5e373ebfd)
+
+---
+
+## 105. Site Reliability Engineer @ NTT DATA
 **Match Score:** 10.4%
 
 📍 **Location:** Austin, TX, US USA
@@ -1644,18 +1160,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 150. Data Engineer with Healthcare Data Platforms @ nan
-**Match Score:** 10.4%
-
-📍 **Location:** Raleigh, NC, US USA
-
-🔑 **Keywords:** Google Cloud Platform, GCP, BigQuery, Spark, PySpark, Scala, Kafka, Data Modeling, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=89c3715c2c5b9b53)
-
----
-
-## 151. Data Engineer – Azure @ Symphony Enterprises Llc
+## 106. Data Engineer – Azure @ Symphony Enterprises Llc
 **Match Score:** 10.4%
 
 📍 **Location:** Buffalo, NY, US USA
@@ -1666,29 +1171,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 152. Data Engineer III @ JPMorganChase
-**Match Score:** 10.4%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** AWS, Redshift, RDS, BigQuery, Spark, Scala, Kafka, Snowflake, Data Modeling, ETL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f98b7445f4c23e54)
-
----
-
-## 153. Data Platform Engineer I @ AmeriHealth Caritas
-**Match Score:** 10.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Scala, Snowflake, Power BI, Tableau, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c15de344a8583c9e)
-
----
-
-## 154. AI and Software Solutions Architect (Remote, Contract) @ INFUSE
+## 107. AI and Software Solutions Architect (Remote, Contract) @ INFUSE
 **Match Score:** 10.4%
 
 📍 **Location:** ME, US USA
@@ -1699,7 +1182,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 155. Senior Power BI / SQL Developer @ The Data Element
+## 108. Senior Power BI / SQL Developer @ The Data Element
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, US USA
@@ -1710,18 +1193,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 156. Senior Software Engineer @ Flexera
-**Match Score:** 10.4%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AWS, Athena, Step Functions, Azure, GCP, Scala, PostgreSQL, MySQL, DynamoDB, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=baa8123cd97b3b0d)
-
----
-
-## 157. Sr. Business Intelligence Engineer @ Crane Worldwide Logistics
+## 109. Sr. Business Intelligence Engineer @ Crane Worldwide Logistics
 **Match Score:** 10.4%
 
 📍 **Location:** Houston, TX, US USA
@@ -1732,25 +1204,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 158. Sr. Software Engineer, Engineering Applications @ Rivian
+## 110. Senior Software Engineer @ Flexera
 **Match Score:** 10.4%
 
-📍 **Location:** Palo Alto, CA, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Splunk, CI/CD, Docker, Kubernetes, Git
+🔑 **Keywords:** AWS, Athena, Step Functions, Azure, GCP, Scala, PostgreSQL, MySQL, DynamoDB, Terraform
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0f46dbaea5d78f85)
-
----
-
-## 159. Engineer IV, ECM Developer @ X-Energy
-**Match Score:** 10.4%
-
-📍 **Location:** Rockville, MD, US USA
-
-🔑 **Keywords:** AWS, Lambda, API Gateway, RDS, Scala, PostgreSQL, CI/CD, Terraform, Kubernetes, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=992ec04c34232f03)
+[Apply Here](https://www.indeed.com/viewjob?jk=baa8123cd97b3b0d)
 
 ---
 
