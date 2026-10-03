@@ -1,15 +1,42 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-02 22:42
+Last updated: 2026-10-03 01:35
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BV Teck | Hadoop Solutions Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=68c24b0124716a2e) | 2026-10-03 01:35 |
+| MAPFRE Insurance | Data Platform Engineer II/III | Webster, MA, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=8eeeb83b5522fc44) | 2026-10-03 01:35 |
+| nan | Senior Software Engineer, Cloud Infrastructure | San Carlos, CA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=42cd837866eddbf4) | 2026-10-03 01:35 |
+| nan | Senior Cloud Platform Engineer | Miami Beach, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=ef02d35010b82b3e) | 2026-10-03 01:35 |
+| Ralph Lauren | DevOps Developer | New York, NY, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0965aea3b361ff0b) | 2026-10-03 01:35 |
+| Wells Fargo | Senior Data Engineer | San Francisco, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c8c7ac7363c390d2) | 2026-10-03 01:35 |
+| Wells Fargo | Senior Data Engineer | Charlotte, NC, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=466d7045497ccea0) | 2026-10-03 01:35 |
+| Lennar | Data Engineer \| Talent Community | Miami, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b6682604b8f254c7) | 2026-10-03 01:35 |
+| Realign | Senior Developer Hadoop | Charlotte, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=17429f6ff7b5e468) | 2026-10-03 01:35 |
+| Realign | Senior Developer Hadoop | Pennington, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1d4ae8f43eeb5b60) | 2026-10-03 01:35 |
+| nan | Senior Software Engineer | New Bedford, MA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2689f756f071cb85) | 2026-10-03 01:35 |
+| ZS Associates | AI Engineer Associate Consultant | Princeton, NJ, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fb36d41ad52a06bd) | 2026-10-03 01:35 |
+| Sentinel Group | Data Engineer | Wakefield, MA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e995e33ef6181c97) | 2026-10-03 01:35 |
+| GA Telesis | Senior Software Engineer | Fort Lauderdale, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dfd341b35c80136f) | 2026-10-03 01:35 |
+| Global Payments | Software Engineer - Full Stack | Cincinnati, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=607e2aeb25bf6f87) | 2026-10-03 01:35 |
+| Equifax | Software Engineer (Java and Big Data) | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=bc9feb9788d5ad86) | 2026-10-03 01:35 |
+| Equifax | Software Engineer (Java/Big Data) | Alpharetta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3f8a623c5a6c2d7b) | 2026-10-03 01:35 |
+| SBA Communications | Analytics Engineer | Boca Raton, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=80ca86983beb5881) | 2026-10-03 01:35 |
+| Tampa Electric Company | Data Analytics Specialist Sr | Lutz, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d56b5bcf4b7f491) | 2026-10-03 01:35 |
+| BV Teck | Container Platform Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=26f314384566e0df) | 2026-10-03 01:35 |
+| Capitol Tech Solutions Inc | Data Engineer | Sacramento, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=89beb9e611e7e10d) | 2026-10-03 01:35 |
+| World View | Software Engineer | Tucson, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=17fce9c056aead2f) | 2026-10-03 01:35 |
+| Netsmart Technologies | Senior Data Engineer | Overland Park, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a4b9acf387c2adab) | 2026-10-03 01:35 |
+| Hoover Institution, Stanford University | Marketing Data Analyst | Stanford, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e021664b78377650) | 2026-10-03 01:35 |
+| Trisura Guarantee Insurance Company | Senior Data Platform Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b91959ca412b5c96) | 2026-10-03 01:35 |
+| Ford Motor Company | Sr Kubernetes Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5de56e58a17ea8ab) | 2026-10-03 01:35 |
+| Marvin | Sr. Salesforce Analyst | Eagan, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b658acd57044b855) | 2026-10-03 01:35 |
+| TD | Data Engineer III (US) | Mount Laurel, NJ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99283d35a189051e) | 2026-10-03 01:35 |
 | Thought Logic Consulting | Managing Consultant, Palantir Data & AI Engineer | Atlanta, GA, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=4c403fce849834db) | 2026-10-02 22:42 |
 | nan | Senior Data Context Engineer | Jupiter, FL, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=2977ae9b1f2b1c97) | 2026-10-02 22:42 |
 | Everforth ECS | Senior Databricks Migration Engineer | Remote, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9cd5a045970f362d) | 2026-10-02 22:42 |
-| Lennar | Data Engineer \| Talent Community | Miami, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b6682604b8f254c7) | 2026-10-02 22:42 |
 | Upstart | Senior Data Platform Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=378fe0400293a18c) | 2026-10-02 22:42 |
 | Early Warning Services | Data Engineer II - Zelle | Scottsdale, AZ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2de6c389d68d3fd0) | 2026-10-02 22:42 |
 | RadCube | Senior Data Engineer - Indiana | Indianapolis, IN, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=580c86eee0ba70b4) | 2026-10-02 22:42 |
@@ -18,7 +45,6 @@ Last updated: 2026-10-02 22:42
 | Cisco | CX Machine Learning Engineer | San Jose, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d5c2fd229b2485eb) | 2026-10-02 22:42 |
 | Motion | Site Reliability Engineer - ED&A - Global Industrial | Birmingham, AL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a687a0075d547d5c) | 2026-10-02 22:42 |
 | Vital Services | Data Engineer | Allen, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7fa8113d5aa47de0) | 2026-10-02 22:42 |
-| Tampa Electric Company | Data Analytics Specialist Sr | Lutz, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d56b5bcf4b7f491) | 2026-10-02 22:42 |
 | Lantern | Senior Data Warehouse Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e0cc391e05fe7617) | 2026-10-02 22:42 |
 | Blood Cancer United | Data Engineer | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=36d95a91a9b838e2) | 2026-10-02 22:42 |
 | RadCube | Data Architect - Indiana | Indianapolis, IN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9963d3eedaca5e2d) | 2026-10-02 22:42 |
@@ -26,8 +52,6 @@ Last updated: 2026-10-02 22:42
 | ONENERGY | Senior QA Infrastructure Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=69b5c19120976885) | 2026-10-02 22:42 |
 | Bloomberg | Senior Full-Stack Qlik Sense Engineer | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=84a405ff1d454ffa) | 2026-10-02 22:42 |
 | Trisura | Senior Data Platform Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fb367a6965b10d25) | 2026-10-02 22:42 |
-| Trisura Guarantee Insurance Company | Senior Data Platform Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b91959ca412b5c96) | 2026-10-02 22:42 |
-| Ford Motor Company | Sr Kubernetes Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5de56e58a17ea8ab) | 2026-10-02 22:42 |
 | KLDiscovery | ​​Sr. Business Intelligence Developer​ | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e982a157a7d0ccb) | 2026-10-02 22:42 |
 | C.H. Robinson | Software Engineer III | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b0f5b97a41606b41) | 2026-10-02 22:42 |
 | Lenovo | Junior Data and AI-ML Engineer | Morrisville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29f22521f3c1e203) | 2026-10-02 22:42 |
