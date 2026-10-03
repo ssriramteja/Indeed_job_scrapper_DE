@@ -1,15 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-03 16:53
+Last updated: 2026-10-03 19:37
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Mercury Insurance Company | Senior Guidewire Engineer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=09a5908bdb474bc4) | 2026-10-03 16:53 |
-| Tampa Electric Company | Data Analytics Specialist Sr | Lutz, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d56b5bcf4b7f491) | 2026-10-03 16:53 |
-| Trisura Guarantee Insurance Company | Senior Data Platform Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b91959ca412b5c96) | 2026-10-03 16:53 |
-| Ford Motor Company | Sr Kubernetes Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5de56e58a17ea8ab) | 2026-10-03 16:53 |
+| LPL Financial | API & Data Engineer II | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a3babb1e30d3465d) | 2026-10-03 19:37 |
+| Mercury Insurance Company | Senior Guidewire Engineer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=09a5908bdb474bc4) | 2026-10-03 19:37 |
+| EY | Government and Infrastructure - Cybersecurity - DevSecOps Senior Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8204bb14afee5287) | 2026-10-03 19:37 |
+| EY | Government and Infrastructure - Cybersecurity - DevSecOps Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f386708dcb9013c) | 2026-10-03 19:37 |
+| Trisura Guarantee Insurance Company | Senior Data Platform Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b91959ca412b5c96) | 2026-10-03 19:37 |
 | Fannie Mae | Senior Full Stack Software Engineer | Reston, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d7c7e630377051dd) | 2026-10-03 12:54 |
 | Fannie Mae | Senior Associate – Palantir Forward Deployed Engineer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f170b110a592bbc2) | 2026-10-03 12:54 |
 | US Neuro LLC | SENIOR DATA ENGINEER | Fort Worth, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5acff10101632d23) | 2026-10-03 07:19 |
