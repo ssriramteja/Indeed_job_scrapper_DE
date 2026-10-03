@@ -1,11 +1,17 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-03 07:19
+Last updated: 2026-10-03 12:54
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Mercury Insurance Company | Senior Guidewire Engineer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=09a5908bdb474bc4) | 2026-10-03 12:54 |
+| Fannie Mae | Senior Full Stack Software Engineer | Reston, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d7c7e630377051dd) | 2026-10-03 12:54 |
+| Tampa Electric Company | Data Analytics Specialist Sr | Lutz, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d56b5bcf4b7f491) | 2026-10-03 12:54 |
+| Fannie Mae | Senior Associate – Palantir Forward Deployed Engineer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f170b110a592bbc2) | 2026-10-03 12:54 |
+| Trisura Guarantee Insurance Company | Senior Data Platform Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b91959ca412b5c96) | 2026-10-03 12:54 |
+| Ford Motor Company | Sr Kubernetes Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5de56e58a17ea8ab) | 2026-10-03 12:54 |
 | US Neuro LLC | SENIOR DATA ENGINEER | Fort Worth, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5acff10101632d23) | 2026-10-03 07:19 |
 | TGS | DevOps Engineer II | Houston, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=6251b84b65aed773) | 2026-10-03 07:19 |
 | JPMorganChase | Software Engineer III - AWS, Databricks, Python | Columbus, OH, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=54895b1eb093622c) | 2026-10-03 07:19 |
@@ -13,13 +19,10 @@ Last updated: 2026-10-03 07:19
 | Georgia-Pacific | Sr Data Engineer - Databricks | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3a085e8b62912626) | 2026-10-03 07:19 |
 | Caterpillar | Simulation Infrastructure Engineer | Irving, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b856865fd8381428) | 2026-10-03 07:19 |
 | Caterpillar | Senior Software Engineer | Peoria, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e6c0b1ce938721b8) | 2026-10-03 07:19 |
-| Tampa Electric Company | Data Analytics Specialist Sr | Lutz, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d56b5bcf4b7f491) | 2026-10-03 07:19 |
 | Capital One | Full Stack Engineer 4 | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3c0579d402aad195) | 2026-10-03 07:19 |
 | Capital One | Full-stack Engineer 4, Cyber Identity Security | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5c73541ffb28ff13) | 2026-10-03 07:19 |
 | Capital One | Full-stack Engineer 4 (Java, Spring Boot, Python, CI/CD) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cd55268246c76b99) | 2026-10-03 07:19 |
 | Capital One | Full Stack Engineer 4 | New York, NY, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5a68879b2db22f8d) | 2026-10-03 07:19 |
-| Trisura Guarantee Insurance Company | Senior Data Platform Engineer | Oklahoma City, OK, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b91959ca412b5c96) | 2026-10-03 07:19 |
-| Ford Motor Company | Sr Kubernetes Platform Engineer | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5de56e58a17ea8ab) | 2026-10-03 07:19 |
 | City University of New York | Site Reliability Engineer (IT Infrastructure Engineer 2) - Provisional | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c2241815f02a7263) | 2026-10-03 07:19 |
 | American Airlines | Engineer, IT AI | Fort Worth, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6da4b0626ba24d7d) | 2026-10-03 07:19 |
 | BV Teck | Hadoop Solutions Developer | Remote, US USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=68c24b0124716a2e) | 2026-10-03 01:35 |
@@ -571,49 +574,6 @@ Last updated: 2026-10-03 07:19
 | Concentra | Concentra DevOps Engineer II | Addison, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b87121ab466a00f3) | 2026-09-29 16:16 |
 | EchoStar | Senior Automation Engineer | Littleton, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d194b726c3ec9477) | 2026-09-29 16:16 |
 | Capital One | Full-stack Engineer 4 | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=247c485b2435bbc9) | 2026-09-29 16:16 |
-| Jabil | Python & Java Full Stack Developer (AI-Assisted) | Remote, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=65877c8eb122e7ac) | 2026-09-29 09:18 |
-| Capital One | Data Engineer 5 | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b54c7cf7e0d49278) | 2026-09-29 09:18 |
-| Capital One | Data Engineer 4 | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=73b249b48cff4978) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 (Distributed data & AWS) (Cloud Operations Resilience Engineering) | Plano, TX, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f43423f60faa323d) | 2026-09-29 09:18 |
-| Citi | Senior Data Platform Engineer | Irving, TX, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=51a31aef3876037c) | 2026-09-29 09:18 |
-| Sony | Senior Data Engineer | San Diego, CA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c96ed04a9d166985) | 2026-09-29 09:18 |
-| KPMG | Databricks Engineer - Contractor (contract) | New York, NY, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b0f788a895458b3b) | 2026-09-29 09:18 |
-| American Diabetes Association | Data Engineer | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=dba066468e1bd0ab) | 2026-09-29 09:18 |
-| The Inland Real Estate Group of Companies, Inc. | Senior Analytics Engineer, Enterprise Analytics | Oak Brook, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0c1fbedd6c9d0d1c) | 2026-09-29 09:18 |
-| The Inland Real Estate Group of Companies, Inc. | Senior Analytics Engineer, Enterprise Analytics | Oak Brook, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=519dcdfdfb4bef2a) | 2026-09-29 09:18 |
-| The Inland Real Estate Group of Companies, Inc. | Senior Analytics Engineer, Enterprise Analytics | Oak Brook, IL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=de1d075b9f067a1b) | 2026-09-29 09:18 |
-| Tesla | Distributed Systems Engineer, Energy | Fremont, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5a63e864705cad81) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 (Go, AWS) | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1fbf885ed4904a21) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 (Go, AWS) | Richmond, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e44d3b7e0c07709d) | 2026-09-29 09:18 |
-| Relativity | Advanced AI Engineer | IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=423eda1e0efbb045) | 2026-09-29 09:18 |
-| Esimplicity | Database Engineer III | Columbia, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=b2b1dfc73fb156e2) | 2026-09-29 09:18 |
-| Databricks | Specialist Solutions Architect - AWS Infrastructure & Platform | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=76c080f60278d6dc) | 2026-09-29 09:18 |
-| DSFederal, Inc. | Sr. Full-Stack/API Developer | US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1933ec0e840c5e53) | 2026-09-29 09:18 |
-| RightsLine | Senior Data Analyst | El Segundo, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=355bd600a0ce4716) | 2026-09-29 09:18 |
-| State Street | Encryption‑as‑a‑Service (EaaS) Platform Engineer | Quincy, MA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c27a0b23fadd4e76) | 2026-09-29 09:18 |
-| Caterpillar | Sr. Software Engineer | Peoria, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a7223f2600dffbd) | 2026-09-29 09:18 |
-| VIVA Railings LLC | IT Supervisor Data & Operations | Lewisville, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a96f65d48d365cdb) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e4b43cbdd72bcba2) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 5 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=508764c031e252bf) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 5 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=57a51ee9cdac73f1) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4514ecc84233be42) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9551dd95afdb1040) | 2026-09-29 09:18 |
-| Capital One | Full Stack Engineer - 4 (JavaScript, TypeScript) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f67c359ae426c4af) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=19873039025aa3c2) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 5 (Go, Python, Java) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=29aaf0f8edda59ec) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3f599d1a2697280) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8f1e11573274ef49) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 5 (Java, Python, AWS) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1b3c11f0e138eb84) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7374c6749391f2ff) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 (Python, Java, Spring Boot) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f1f77940dd9eb1d5) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 (Go & Kubernetes) (Enterprise Platforms Technology) | Plano, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0553ca4bc8ebe65) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=32c94f784d741229) | 2026-09-29 09:18 |
-| Capital One | Full-Stack Engineer 4 - AML Reporting | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ac04783f1f20e72) | 2026-09-29 09:18 |
-| Capital One | Full-stack Engineer 4 (Backend & API Development) (Cloud Operations Resilience Engineering) | Riverwoods, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=94ef24bdc8f0aec2) | 2026-09-29 09:18 |
-| KBX | Senior Cloud Engineer | Green Bay, WI, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d82ffb5eaa627d9d) | 2026-09-29 09:18 |
-| KBX | Senior Cloud Engineer | Wichita, KS, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f6e7dd4a9a7ed2c5) | 2026-09-29 09:18 |
-| Databricks | Specialist Solutions Architect - Azure Infrastructure & Platform | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9d283def45f7dc44) | 2026-09-29 09:18 |
-| AVP, Inc. | Consultant or Senior Consultant, Technical Solutions | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0cf1c610c653b6b3) | 2026-09-29 09:18 |
 
 
 ---
