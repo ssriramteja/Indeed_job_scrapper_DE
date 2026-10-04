@@ -5,14 +5,14 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. API & Data Engineer II @ LPL Financial
-**Match Score:** 15.3%
+## 1. VMware VCF Administrator @ First Advantage
+**Match Score:** 12.5%
 
-📍 **Location:** Fort Mill, SC, US USA
+📍 **Location:** Tignall, GA, US USA
 
-🔑 **Keywords:** AWS, Glue, Lambda, S3, API Gateway, RDS, Spark, PySpark, Scala, Kafka
+🔑 **Keywords:** Azure, Scala, Oracle, PostgreSQL, MySQL, Cassandra, NoSQL, CI/CD, Jenkins, Docker
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a3babb1e30d3465d)
+[Apply Here](https://www.indeed.com/viewjob?jk=8730f563dbd095d7)
 
 ---
 
