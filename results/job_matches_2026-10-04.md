@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-10-04
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 2
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -24,28 +24,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Lambda, S3, API Gateway, ECS, RDS, Databricks, Scala, Snowflake, DynamoDB
 
 [Apply Here](https://www.indeed.com/viewjob?jk=e7d5eebfd52c3041)
-
----
-
-## 3. Government and Infrastructure - Cybersecurity - DevSecOps Senior Engineer @ EY
-**Match Score:** 11.8%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RDS, Azure, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Terraform, Kubernetes, AKS, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8204bb14afee5287)
-
----
-
-## 4. Government and Infrastructure - Cybersecurity - DevSecOps Engineer @ EY
-**Match Score:** 11.8%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RDS, Azure, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Terraform, Kubernetes, AKS, Jenkins
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4f386708dcb9013c)
 
 ---
 
