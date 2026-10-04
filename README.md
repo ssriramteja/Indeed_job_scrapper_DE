@@ -1,12 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-04 02:15
+Last updated: 2026-10-04 08:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Mercury Insurance Company | Senior Guidewire Engineer (PolicyCenter) | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=09a5908bdb474bc4) | 2026-10-04 02:15 |
+| Slalom Consulting | Senior Cloud Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7fbd614b760e4ec5) | 2026-10-04 08:59 |
 | SpyCloud | Sr. Cloud Ops Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7d5eebfd52c3041) | 2026-10-04 02:15 |
 | LPL Financial | API & Data Engineer II | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a3babb1e30d3465d) | 2026-10-03 19:37 |
 | EY | Government and Infrastructure - Cybersecurity - DevSecOps Senior Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8204bb14afee5287) | 2026-10-03 19:37 |
@@ -437,29 +437,6 @@ Last updated: 2026-10-04 02:15
 | Capital One | Full-stack Engineer 4 (Cloud Operations Resilience Engineering) | Riverwoods, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=38cb7271db1de441) | 2026-09-30 13:13 |
 | NXP Semiconductors | Data Engineer / Data Analyst | Austin, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=43de10da0bbe2c25) | 2026-09-30 13:13 |
 | I8IS INC. | Senior Software Engineer - Enterprise Marketing Management (EMM) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6d9a49c01a3e9816) | 2026-09-30 13:13 |
-| VTG Defense | Systems Engineer, SME | Tysons Corner, VA, US USA | 24.3% | [Apply](https://www.indeed.com/viewjob?jk=402992014bd3bfa3) | 2026-09-30 06:10 |
-| nan | Senior Data Engineer | Mesa, AZ, US USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=9b290da3929fa0b4) | 2026-09-30 06:10 |
-| Signant Health | Data Architect | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7f8cf55805f4851f) | 2026-09-30 06:10 |
-| Optum | Sr Data Engineer | Eden Prairie, MN, US USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=97fa3ea752ece8fd) | 2026-09-30 06:10 |
-| arrivia | Fabric Data Engineer | Scottsdale, AZ, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=53d44b35a8a09b64) | 2026-09-30 06:10 |
-| AssetMark | Senior Data Engineer | Charlotte, NC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=70ab61efb1bae2af) | 2026-09-30 06:10 |
-| Precision Analytical Inc | Software Development Engineer | McMinnville, OR, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dd324299a23feb72) | 2026-09-30 06:10 |
-| UniFirst | Senior Software Developer – .NET Full Stack | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=9f7de99645ec71a2) | 2026-09-30 06:10 |
-| TELUS Digital | GCP Cloud Engineer | Ontario, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=35a4f37408022609) | 2026-09-30 06:10 |
-| Quest Global | Software Engineer - DevOps | Cupertino, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dbbbfb150a6dcd5b) | 2026-09-30 06:10 |
-| Truist | Cloud Software Engineer (On-site) | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=faa4e2a92b1f4e69) | 2026-09-30 06:10 |
-| RevSpring, Inc | Senior Cloud Engineer | Livonia, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=de4927f7351b05ce) | 2026-09-30 06:10 |
-| RevSpring, Inc | Senior Cloud Engineer | Oaks, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=58079e817de4277e) | 2026-09-30 06:10 |
-| Cisco | Software Engineer | San Jose, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6fb706820b4a71cf) | 2026-09-30 06:10 |
-| Cognizant | Graph Engineer (Neo4j, Python, Cloud) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4abb4feae415dce7) | 2026-09-30 06:10 |
-| Cognizant | Graph Engineer (Neo4j, Python, Cloud) | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9aa843bcedcc0999) | 2026-09-30 06:10 |
-| OEConnection | Sr AI Platform Engineer- Hybrid in Alpharetta, GA | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1950a9dc92f87ca2) | 2026-09-30 06:10 |
-| Tennessee Titans | Data Engineer - Football | Nashville, TN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7558bccd6171065e) | 2026-09-30 06:10 |
-| Climavision | Senior Site Reliability Engineer (US) | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d84804cb26e94786) | 2026-09-30 06:10 |
-| Keeper Security, Inc. | Senior Software Engineer, Developer Tools & SDKs | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ed762a7f7392ce8) | 2026-09-30 06:10 |
-| Cognizant | Sr AI/ML Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=da5656fa0a41712d) | 2026-09-30 06:10 |
-| Cognizant | AI/ML Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5ab467c318fd6c96) | 2026-09-30 06:10 |
-| Fidelity TalentSource | Full Stack Engineer | Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ec9a01bf4bcd322b) | 2026-09-30 06:10 |
 
 
 ---
