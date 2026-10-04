@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-10-04
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -46,17 +46,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** RDS, Azure, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Terraform, Kubernetes, AKS, Jenkins
 
 [Apply Here](https://www.indeed.com/viewjob?jk=4f386708dcb9013c)
-
----
-
-## 5. Senior Cloud Engineer @ Slalom Consulting
-**Match Score:** 10.4%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AWS, S3, API Gateway, IAM, RDS, Azure, GCP, Scala, Snowflake, Azure DevOps
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7fbd614b760e4ec5)
 
 ---
 
