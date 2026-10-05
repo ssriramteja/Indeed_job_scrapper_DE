@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-05 01:25
+Last updated: 2026-10-05 07:57
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| La Familia Medical Center | AI Systems Engineer | Miami, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6aacae00553886f3) | 2026-10-05 07:57 |
+| U.S. Bank | Senior Infrastructure Analyst | Gresham, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e3de17edd4ad1a0) | 2026-10-05 07:57 |
+| U.S. Bank | Senior Infrastructure Analyst | Earth City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ad13a494d02abc38) | 2026-10-05 07:57 |
+| U.S. Bank | Senior Infrastructure Analyst | Brookfield, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8239bcbad42324d2) | 2026-10-05 07:57 |
+| U.S. Bank | Senior Infrastructure Analyst | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b0fbdd427d11bc16) | 2026-10-05 07:57 |
+| U.S. Bank | Senior Infrastructure Analyst | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc834c9ee6721d0b) | 2026-10-05 07:57 |
+| U.S. Bank | Senior Infrastructure Analyst | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb2e02e288febf1d) | 2026-10-05 07:57 |
+| U.S. Bank | Senior Infrastructure Analyst | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fd19dd1a372112c6) | 2026-10-05 07:57 |
+| U.S. Bank | Senior Infrastructure Analyst | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6323346dc303f1e) | 2026-10-05 07:57 |
+| U.S. Bank | Senior Infrastructure Analyst | Hopkins, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b74e19cc7dd3843) | 2026-10-05 07:57 |
 | First Advantage | VMware VCF Administrator | Tignall, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8730f563dbd095d7) | 2026-10-04 22:06 |
 | Slalom Consulting | Senior Cloud Engineer | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=7fbd614b760e4ec5) | 2026-10-04 08:59 |
 | SpyCloud | Sr. Cloud Ops Engineer | Austin, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7d5eebfd52c3041) | 2026-10-04 02:15 |
@@ -306,31 +316,6 @@ Last updated: 2026-10-05 01:25
 | First Bank | Senior Software Engineer | Greensboro, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=19069c3d35411178) | 2026-10-01 08:03 |
 | First Bank | Senior Software Engineer | Charlotte, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c9703405ee731b3b) | 2026-10-01 08:03 |
 | First Bank | Senior Software Engineer | Wilmington, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=56aea2a70012464c) | 2026-10-01 08:03 |
-| Realign | Devops & Data Pipeline Engineer-6 | Plano, TX, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=8607d279e78ca47a) | 2026-10-01 01:43 |
-| CMG Financial | Senior Data Engineer | US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9112581e70dc489f) | 2026-10-01 01:43 |
-| CIM GROUP | Senior Data Scientist | Los Angeles, CA, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=e1dc346effcd7bb8) | 2026-10-01 01:43 |
-| KnowBe4 | Snr. Site Reliability Engineer (Remote) | Clearwater, FL, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=4c5cb08dca80f82f) | 2026-10-01 01:43 |
-| Realign | Senior Java Full Stack Developer-6 | McLean, VA, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=dd99fa28f8689eac) | 2026-10-01 01:43 |
-| Realign | Databricks Architect-4 | Minneapolis, MN, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=66f5b68676765609) | 2026-10-01 01:43 |
-| BV Teck | Cloud Solutions Engineer – Azure | Maple Grove, MN, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=192ac4a678cf384e) | 2026-10-01 01:43 |
-| TD | IT Data Specialist (US) | Mount Laurel, NJ, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=b73486152212a0fc) | 2026-10-01 01:43 |
-| Adonis | Senior Infrastructure Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=b0454d0d787afaef) | 2026-10-01 01:43 |
-| Capgemini | Site Reliability Engineer | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=afb98f02f8244206) | 2026-10-01 01:43 |
-| INTRAFI | Senior Software Engineer (SQL, AWS, & Java) | Arlington, VA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=93b33418deacae1b) | 2026-10-01 01:43 |
-| RHONDOS | Dynatrace Platform Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=66919fdddcdfcb04) | 2026-10-01 01:43 |
-| Vida Health | Site Reliability Engineer III | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f62682570ca4564) | 2026-10-01 01:43 |
-| Kind Lending | Data Engineer II | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=a38962dce888067f) | 2026-10-01 01:43 |
-| O.C. Tanner | Senior Software Engineer | Salt Lake City, UT, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3eb849609aeed9f3) | 2026-10-01 01:43 |
-| Realign | Python Developer-6 | Alpharetta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9f0b13030305a263) | 2026-10-01 01:43 |
-| Starr Companies | Senior Full Stack .Net Developer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ce193f64bbb24a65) | 2026-10-01 01:43 |
-| Optimum | Software Development Engineer III | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6ac16ebb3b7d3a45) | 2026-10-01 01:43 |
-| Optimum | Software Development Engineer III | Bethpage, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d08c7ede9b3f07e5) | 2026-10-01 01:43 |
-| Judicial Council of California | Integration Developer/Admin (Senior Application Development Analyst) | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e7d92a3c9beacac9) | 2026-10-01 01:43 |
-| Slalom Consulting | Slalom Flex (Project-Based) - Data Engineer | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3b4726a6ec8ee51c) | 2026-10-01 01:43 |
-| Equifax | Generative AI Engineer / QA Engineer | Atlanta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=be3abf2400e71f03) | 2026-10-01 01:43 |
-| Equifax | Generative AI Engineer | Alpharetta, GA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=620b02de3a55862c) | 2026-10-01 01:43 |
-| Proofpoint | Sr. Software Engineer, Threat Intelligence | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f3c8c0c1096d1374) | 2026-10-01 01:43 |
-| First Bank | Senior Software Engineer | Raleigh, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=55d0379462176349) | 2026-10-01 01:43 |
 
 
 ---
