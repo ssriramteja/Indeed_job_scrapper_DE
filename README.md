@@ -1,11 +1,23 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-06 10:55
+Last updated: 2026-10-06 17:00
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Lindfast Solutions Group | Data & AI Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=981d541cfbb05547) | 2026-10-06 17:00 |
+| Network Distribution | Data Engineer | Schaumburg, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=271ae7d8ee6706bd) | 2026-10-06 17:00 |
+| Caterpillar | Data Engineer – Physical AI Platform | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a8048f9d73fd7da7) | 2026-10-06 17:00 |
+| nan | Senior Software Engineer – Backend | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff1e374638f96eca) | 2026-10-06 17:00 |
+| Pacific Gas and Electric | Data Engineer | Oakland, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e4c126f4e3cc33b7) | 2026-10-06 17:00 |
+| Yitro Global | Workday Consultant | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5f01cb6ed116418a) | 2026-10-06 17:00 |
+| Tekcogno | Erwin Data Modeler | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=89810a7e8484847e) | 2026-10-06 17:00 |
+| Live Oak Bank | Senior Software Engineer - Digital Marketing | Wilmington, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a3a03e231e77efd) | 2026-10-06 17:00 |
+| bet365 | Machine Learning Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e156aa015e45d8c1) | 2026-10-06 17:00 |
+| ExxonMobil | Sr. Fullstack Developer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6372ad68f53bdf20) | 2026-10-06 17:00 |
+| Spire Global | Backend Software Engineer, Weather & Aviation | Boulder, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b20f49a9fd1e357a) | 2026-10-06 17:00 |
+| spire | Backend Software Engineer, Weather & Aviation | Boulder, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1555a6e30192df1d) | 2026-10-06 17:00 |
 | Comcast | Site Reliability Engineer, Data - FreeWheel | Chicago, IL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=51fb9c7f9097d165) | 2026-10-06 10:55 |
 | GEICO | Senior Engineer - Data | Bethesda, MD, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3904d0205e58da2c) | 2026-10-06 10:55 |
 | HCLTech | Senior Technical Architect | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=04b6ea3bc33b1453) | 2026-10-06 10:55 |
@@ -211,20 +223,6 @@ Last updated: 2026-10-06 10:55
 | PERMEATE LLC | Qualys Engineer | Malvern, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=202d9f3888b50c8a) | 2026-10-02 18:49 |
 | Lockheed Martin | Data Engineer Stf - E4 | Stratford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d07b7c7063ad320) | 2026-10-02 18:49 |
 | Cintas | Software Engineer - Level 2 - Mobility | Mason, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4236b2cd8b3fe758) | 2026-10-02 18:49 |
-| Capital One | Data Engineer 4 | McLean, VA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=d1c381b09f7b36b3) | 2026-10-02 13:22 |
-| nan | Senior Data Scientist | Ocala, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2d6937b97dd55bcf) | 2026-10-02 13:22 |
-| Capital One | Full Stack Engineer 4 (PySpark) | McLean, VA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5576f999a81177b2) | 2026-10-02 13:22 |
-| Cvent | Senior Site Reliability Engineer | Tysons Corner, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d2ee0717dbcf0c06) | 2026-10-02 13:22 |
-| Cvent | Senior Site Reliability Engineer | Tysons Corner, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b1c1fe22ded8d905) | 2026-10-02 13:22 |
-| Labcorp | Production Bioinformatics Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6f1c2a1b4ab40cf7) | 2026-10-02 13:22 |
-| Labcorp | Production Bioinformatics Engineer | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4e2795ba2ac2c023) | 2026-10-02 13:22 |
-| Luxoft | Senior Backend Developer (AI, Python) | Remote, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9542b5c0a62999f1) | 2026-10-02 13:22 |
-| Capital One | Full Stack Engineer 4 (Java, AWS) | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=464c9249b43d0e07) | 2026-10-02 13:22 |
-| Capital One | Full-stack Engineer 4 | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=5886ced4fe47a4f1) | 2026-10-02 13:22 |
-| Capital One | Full Stack Engineer 4 (Global Payment Network) | Riverwoods, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=1979d7025fe17b0e) | 2026-10-02 13:22 |
-| Capital One | Full-stack Engineer 4 | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e63f85728fde97d3) | 2026-10-02 13:22 |
-| Edward Jones | Engineer III | Tempe, AZ, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=32cddfff9e812a7c) | 2026-10-02 13:22 |
-| Edward Jones | Engineer III | St. Louis, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=387517c4b6923e55) | 2026-10-02 13:22 |
 
 
 ---
