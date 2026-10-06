@@ -1,11 +1,41 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-06 17:00
+Last updated: 2026-10-06 21:28
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| KLS Martin Group | Senior Data Engineer | Jacksonville, FL, US USA | 26.4% | [Apply](https://www.indeed.com/viewjob?jk=5d004bc892c60770) | 2026-10-06 21:28 |
+| Nixon Web Technology | Data Engineer | CA, US USA | 25.7% | [Apply](https://www.indeed.com/viewjob?jk=6ec453d2d16d9041) | 2026-10-06 21:28 |
+| NTT DATA | Cloud Vulnerability Management Engineer (Onsite Hybrid) | Atlanta, GA, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=5ac0a80ae78e8a3b) | 2026-10-06 21:28 |
+| American Express | Sr Software Engineer - Digital Banking | Phoenix, AZ, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=acb73e15b88b41b2) | 2026-10-06 21:28 |
+| NTT DATA | Senior AI Ops / DevOps Engineer (FTE / Hybrid) | Atlanta, GA, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6415d34be34565d8) | 2026-10-06 21:28 |
+| Kroll Inc. | Senior Data Scientist | San Francisco, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=78b96535deace3b6) | 2026-10-06 21:28 |
+| American Airlines | Sr Engineer, IT Machine Learning | Fort Worth, TX, US USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=ab9e361c44f6f503) | 2026-10-06 21:28 |
+| Caterpillar | Data Engineer | Irving, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c7b7784fe0428d5f) | 2026-10-06 21:28 |
+| MedVet | Senior Data Engineer | US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=23bae3ccf06adcbd) | 2026-10-06 21:28 |
+| USA TODAY Co. | Sr. Database Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=8ab3e0fa8a0586bd) | 2026-10-06 21:28 |
+| Credit Union of Texas | Sr DevOps Engineer | Allen, TX, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=933f7b241bea8b88) | 2026-10-06 21:28 |
+| Motion | Cloud Engineer-API -Global Industrial | Birmingham, AL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a1626850211bd78e) | 2026-10-06 21:28 |
+| Easterseals Southern California | Data Engineer | Irvine, CA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=07870ee9c10ac5c8) | 2026-10-06 21:28 |
+| Capgemini | AI Architect – GCP / Generative AI | Charlotte, NC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=26593bdfa803230a) | 2026-10-06 21:28 |
+| Harris Computer | DevSecOps Engineer | MI, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=274f51e93c4990cb) | 2026-10-06 21:28 |
+| Harris Computer | Platform & DevSecOps Delivery Architect | AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7cfe33f29178a80c) | 2026-10-06 21:28 |
+| Accenture | Data Modeler/Architect | Houston, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=502877bcd9cec430) | 2026-10-06 21:28 |
+| MiniMed | Sr AI/Data Science Engineer | Northridge, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=96bdba5085886da3) | 2026-10-06 21:28 |
+| nan | Infrastructure Engineer | San Francisco, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d42345033b70a0ad) | 2026-10-06 21:28 |
+| Realign | Oracle Database Architect | Woodland Hills, CA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f7ff4c841a1ca7d4) | 2026-10-06 21:28 |
+| World Emblem International | Sr. Data Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0cb03498bcaeb2d4) | 2026-10-06 21:28 |
+| World Emblem International | Sr. Data Engineer | Hollywood, FL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0020052b83f9ef57) | 2026-10-06 21:28 |
+| World Emblem International | Sr. Data Engineer | Norcross, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=767b9e8e13621baf) | 2026-10-06 21:28 |
+| nan | Senior Software Engineer, Platform Engineering | New York, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b77e2e5fec6bdd9d) | 2026-10-06 21:28 |
+| Shelter Insurance | Enterprise Data Engineer | Columbia, MO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2e4f2633f539c6b2) | 2026-10-06 21:28 |
+| nan | Security Operations Engineer | San Francisco, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4f493bcc576c8206) | 2026-10-06 21:28 |
+| Cwill | DevOps/SRE Engineer - Bilingual Mandarin Required | CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3c1901ef9cd7bdba) | 2026-10-06 21:28 |
+| Novacis Digital | Full Stack Software Engineer | Rockville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ddb729860cdaaf66) | 2026-10-06 21:28 |
+| Mobis Parts America, LLC. | Engineer III, Business Intelligence | Fountain Valley, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a84d75c098494a33) | 2026-10-06 21:28 |
+| NTT DATA | Site Reliability Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=763cf004d1e71458) | 2026-10-06 21:28 |
 | Lindfast Solutions Group | Data & AI Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=981d541cfbb05547) | 2026-10-06 17:00 |
 | Network Distribution | Data Engineer | Schaumburg, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=271ae7d8ee6706bd) | 2026-10-06 17:00 |
 | Caterpillar | Data Engineer – Physical AI Platform | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a8048f9d73fd7da7) | 2026-10-06 17:00 |
@@ -209,20 +239,6 @@ Last updated: 2026-10-06 17:00
 | KLDiscovery | ​​Sr. Business Intelligence Developer​ | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8e982a157a7d0ccb) | 2026-10-02 22:42 |
 | C.H. Robinson | Software Engineer III | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b0f5b97a41606b41) | 2026-10-02 22:42 |
 | Lenovo | Junior Data and AI-ML Engineer | Morrisville, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=29f22521f3c1e203) | 2026-10-02 22:42 |
-| VedaPointe | Senior Data Pipeline Engineer | US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=393b88fa8c0cfa99) | 2026-10-02 18:49 |
-| SunnyData | Data Solutions Architect (Financial Services) | US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=f69508452f9349a4) | 2026-10-02 18:49 |
-| Marathon Petroleum | Senior Data Engineer | San Antonio, TX, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=355669dc3f76e4ef) | 2026-10-02 18:49 |
-| Inn-Flow Inc. | Snowflake Data Engineer | Raleigh, NC, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=2c73622306892de8) | 2026-10-02 18:49 |
-| Builders | Senior Database and Platform Engineer | Atlanta, GA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=179abbf1882c12d5) | 2026-10-02 18:49 |
-| nan | Senior Data Scientist | Ocala, FL, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=33242063b9c39c59) | 2026-10-02 18:49 |
-| ITiNovate | Workday Solution Architect - Healthcare Domain | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c679d851f8a17b0f) | 2026-10-02 18:49 |
-| American Electric Power | Kafka Platform Engineer | Columbus, OH, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8e725f6b9e8655bb) | 2026-10-02 18:49 |
-| Amentum | Software Engineer 2 | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=70b4420dcaff12b4) | 2026-10-02 18:49 |
-| Amentum | Software Engineer 2 | Baltimore, MD, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=362d82fc3d6edc44) | 2026-10-02 18:49 |
-| Bunzl | Cloud & Data Platform Engineer | MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fd3c303d5cb3d5a0) | 2026-10-02 18:49 |
-| PERMEATE LLC | Qualys Engineer | Malvern, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=202d9f3888b50c8a) | 2026-10-02 18:49 |
-| Lockheed Martin | Data Engineer Stf - E4 | Stratford, CT, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5d07b7c7063ad320) | 2026-10-02 18:49 |
-| Cintas | Software Engineer - Level 2 - Mobility | Mason, OH, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4236b2cd8b3fe758) | 2026-10-02 18:49 |
 
 
 ---
