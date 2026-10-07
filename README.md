@@ -1,15 +1,25 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-07 07:56
+Last updated: 2026-10-07 14:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ford Motor Company | Senior Full Stack Developer | Allen Park, MI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a88c40e681df4e1a) | 2026-10-07 14:59 |
+| nan | GenAI Engineer / Forward Deployed Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=073e98661976c07a) | 2026-10-07 14:59 |
+| Ford Motor Company | Site Reliability Engineer - Observability Platform | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=26cf82ccf38514ed) | 2026-10-07 14:59 |
+| Equinox | Senior Security Platform Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f48fee844cd0c55d) | 2026-10-07 14:59 |
+| State of South Carolina | District Integration & Support Engineer (Systems Engineer I) - 61161120 | SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0d5ffc90f30b5ea7) | 2026-10-07 14:59 |
+| Fannie Mae | Senior Software Engineer- Enterprise Platforms | Reston, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f1c6131bc8b3c29) | 2026-10-07 14:59 |
+| United Nations Federal Credit Union | Senior Architect - Data & Analytics COE | Long Island City, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4543534bd5d880f4) | 2026-10-07 14:59 |
+| Nuuly | Sr DevOps Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7c18e77b373c042e) | 2026-10-07 14:59 |
+| KCI Technologies | Full-Stack Software Engineer – Azure Practitioner | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d231129436df5d79) | 2026-10-07 14:59 |
+| Charleston Children’s Therapy Center | Clinician-Developer: Cloud & Integrations | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf03acdee6bfb411) | 2026-10-07 14:59 |
+| Westchester Medical Center Health Network | Data Analytics Engineer (In Person) | Valhalla, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6442e1547a870e80) | 2026-10-07 14:59 |
 | Pearson | Software Engineer III | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=9cf6cb804310788f) | 2026-10-07 07:56 |
 | Securian Financial | AWS DevOps Engineer (Hybrid) | Saint Paul, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=20ae1a526db03909) | 2026-10-07 07:56 |
 | Capital One | Data Engineer 4 | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ac695015f6e52803) | 2026-10-07 07:56 |
-| Ford Motor Company | Senior Full Stack Developer | Allen Park, MI, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=a88c40e681df4e1a) | 2026-10-07 07:56 |
 | GEICO | Senior Machine Learning Engineer, Fraud Risk Modeling | Palo Alto, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0c1b0bc837735bcf) | 2026-10-07 07:56 |
 | Howard Hughes Medical Institute | AI Data Engineer | Chevy Chase, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=97c5e1818487b920) | 2026-10-07 07:56 |
 | NAC Architecture | Data Engineer | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=de63d204e832110a) | 2026-10-07 07:56 |
@@ -247,8 +257,6 @@ Last updated: 2026-10-07 07:56
 | LPL Financial | API & Data Engineer II | Fort Mill, SC, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a3babb1e30d3465d) | 2026-10-03 19:37 |
 | EY | Government and Infrastructure - Cybersecurity - DevSecOps Senior Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8204bb14afee5287) | 2026-10-03 19:37 |
 | EY | Government and Infrastructure - Cybersecurity - DevSecOps Engineer | McLean, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4f386708dcb9013c) | 2026-10-03 19:37 |
-| Fannie Mae | Senior Full Stack Software Engineer | Reston, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d7c7e630377051dd) | 2026-10-03 12:54 |
-| Fannie Mae | Senior Associate – Palantir Forward Deployed Engineer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f170b110a592bbc2) | 2026-10-03 12:54 |
 
 
 ---
