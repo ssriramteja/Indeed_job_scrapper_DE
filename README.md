@@ -1,14 +1,40 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-08 14:13
+Last updated: 2026-10-08 20:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| TEQDATA | AWS Data Engineer (AWS Glue \| DMS \| CDC \| Kafka) | Dallas, TX, USA USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=8e22512bfc4565e4) | 2026-10-08 14:13 |
+| ICF | Data Validation Engineer | Reston, VA, USA USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=3eb22b319ea013fb) | 2026-10-08 20:22 |
+| World Bank Group | Associate IT Officer, Data and Information Management (Associate Data Engineer) | Washington, DC, USA USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=b0aa6dd1b04fbce5) | 2026-10-08 20:22 |
+| Optum | Software Engineer | Eden Prairie, MN, USA USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=6ecc8f399660dece) | 2026-10-08 20:22 |
+| Cloud Infrastructure | Cloud Infrastructure Engineer | Kansas City, MO, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9a2d2e8f143d7289) | 2026-10-08 20:22 |
+| AbbVie | Machine Learning Engineer | Irvine, CA, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=941ac528d3de9bd2) | 2026-10-08 20:22 |
+| Cassco International, Inc | AJAY K- SOLUTION ARCHITECT \| CLOUD, DATA, INTEGRATION & AI-ENABLED PLATFORMS. | Farmington Hills, MI, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9af1985824c8bc86) | 2026-10-08 20:22 |
+| Shift4 | Data Engineer | Center Valley, PA, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c1b6651c19d8dca5) | 2026-10-08 20:22 |
+| Shift4 | Data Engineer | TX, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6d6edb1d735ef07e) | 2026-10-08 20:22 |
+| Nightwing | Cloud Infrastructure Engineer | Sterling, VA, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=6fbfc9f6705769bd) | 2026-10-08 20:22 |
+| Wpromote, LLC | Senior Software Engineer I (Data Pipelines) | Remote, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=77f88462ba46b951) | 2026-10-08 20:22 |
+| ICF | Data Engineer | Reston, VA, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7aec8d989d23632c) | 2026-10-08 20:22 |
+| ICF | Data Integration Engineer | Reston, VA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=63d4e3867310a550) | 2026-10-08 20:22 |
+| United Concordia Dental | ETDP Associate - Data Analytics | Pittsburgh, PA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=cc612453c81627d3) | 2026-10-08 20:22 |
+| Foresight IT | Full Stack Engineer – ReactJS / Python / SQL Server | Dallas, TX, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=03ab9dc0adc464b1) | 2026-10-08 20:22 |
+| Wet Coast Logistics | Data & Analytics Developer II - Data Scientist | Greenville, SC, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=4930ffb452c6e901) | 2026-10-08 20:22 |
+| Naviga Inc. | Senior Cloud Engineer | Remote, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5c2a21fac0f0100e) | 2026-10-08 20:22 |
+| BAM Technologies, LLC | Full Stack Developer III | Remote, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=12b4ba48e48f905c) | 2026-10-08 20:22 |
+| SGN Global Technologies | Sr. Python Developer w/d banking domain Exp in Jersey City, NJ – 5 Days Onsite | Jersey City, NJ, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e0e855da5922ac48) | 2026-10-08 20:22 |
+| Optum | Senior AI/ML Engineer - Remote | Eden Prairie, MN, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8277a6ad907dfe29) | 2026-10-08 20:22 |
+| Intuit | Senior Machine Learning Engineer | Mountain View, CA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ba2cfdc750e170ad) | 2026-10-08 20:22 |
+| RM SOLUTIONS INC | Azure Databricks architect | USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=84d787c2acfd2551) | 2026-10-08 20:22 |
+| Mindbody | Software Engineer II - Backend | Remote, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3f824146c3510fa4) | 2026-10-08 20:22 |
+| Liberty company insurance brokers | Data Platform & Cloud Engineer, AI- Enabled Developer | Woodland Hills, CA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6cea5cc81a279b30) | 2026-10-08 20:22 |
+| Enable Dental | DevOps Engineer III | Austin, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0b35f71127e713c) | 2026-10-08 20:22 |
+| 12 Elements Consulting | Senior Data Warehouse Engineer | Remote, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=961c09494cecca9b) | 2026-10-08 20:22 |
+| Dartmouth College | Enterprise Software Engineer II | Hanover, NH, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=147e1a8f49587d0f) | 2026-10-08 20:22 |
+| Databricks | Solutions Architect - Digital Native Business, Named Accounts | USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=68f0e55cdb56404f) | 2026-10-08 20:22 |
+| Strategic Operational Solutions | Senior Database Administrator | Washington, DC, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=aa47a8ff9ab65e1a) | 2026-10-08 20:22 |
 | AssetMark | Data Engineer | Charlotte, NC, USA USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6e3c1554c10248b1) | 2026-10-08 14:13 |
-| Cassco International, Inc | AJAY K- SOLUTION ARCHITECT \| CLOUD, DATA, INTEGRATION & AI-ENABLED PLATFORMS. | Farmington Hills, MI, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9af1985824c8bc86) | 2026-10-08 14:13 |
 | Xcel Energy | Senior Data Platform Engineer | Denver, CO, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7b919d7fa31ebc26) | 2026-10-08 14:13 |
 | FedEx Freight | Advisor-Data Engineer MDM | Memphis, TN, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=efe237925fb7924c) | 2026-10-08 14:13 |
 | FedEx Freight | Sr Advisor-Data Engineer MDM | Memphis, TN, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f57eec5ffd5808ad) | 2026-10-08 14:13 |
