@@ -1,11 +1,21 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-09 06:59
+Last updated: 2026-10-09 14:10
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 7-Eleven | Software Engineer | Irving, TX, USA USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=b8dc6eea200704fa) | 2026-10-09 14:10 |
+| Fortified Data | Senior Consultant - Data Platforms - REMOTE | Raleigh, NC, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=73378029918e0cc3) | 2026-10-09 14:10 |
+| University of Miami | DevOps Engineer | Hialeah, FL, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=ecf219ffd88edd6e) | 2026-10-09 14:10 |
+| Inspire uplift360 | Embedded Software Architect – Safety product | Chicago, IL, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=1fdd6f4111720bf0) | 2026-10-09 14:10 |
+| Scale Marketing | Data Engineer | Chicago, IL, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=691cad96e500ec86) | 2026-10-09 14:10 |
+| NuAxis Innovations | Senior Snowflake Developer | Remote, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=e186575a9835876a) | 2026-10-09 14:10 |
+| CVS Health | Senior Software Engineer - AI & Cloud Platforms | New York, NY, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=f5673baac86fbad3) | 2026-10-09 14:10 |
+| Western Governors University | Data Engineer | Salt Lake City, UT, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8f86cef93b901eda) | 2026-10-09 14:10 |
+| Micron Technology | AI Engineer | Boise, ID, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2896efcf20f6d63a) | 2026-10-09 14:10 |
+| AZ TECHNOLOGY | Data Engineer ( Contract -Corp to Corp) | Remote, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2ebb8d2fdac54e89) | 2026-10-09 14:10 |
 | Capgemini | B1 - AI Platform Engineer - Agentic AI | Charlotte, NC, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a26f6d29c9750839) | 2026-10-09 06:59 |
 | Fiserv | FTS Network Services – Data Analytics Advisor | Irving, TX, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=39867fe787e05360) | 2026-10-09 06:59 |
 | Shift4 | Data Engineer | Las Vegas, NV, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d034225cfcd8edfb) | 2026-10-09 06:59 |
@@ -444,16 +454,6 @@ Last updated: 2026-10-09 06:59
 | JPMorganChase | Software and Data Engineer - Software Engineer III- Agentic Pricing | Jersey City, NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7be1b9b5bc867059) | 2026-10-05 16:43 |
 | Vanderbilt Health | Data Engineer / Platform Administrator (Azure Databricks) | Nashville, TN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d60ae2a8e1708a08) | 2026-10-05 16:43 |
 | nan | Azure Data Engineer | Jackson, MI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3d7b198bf0f349ae) | 2026-10-05 16:43 |
-| La Familia Medical Center | AI Systems Engineer | Miami, FL, US USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=6aacae00553886f3) | 2026-10-05 07:57 |
-| U.S. Bank | Senior Infrastructure Analyst | Gresham, OR, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=3e3de17edd4ad1a0) | 2026-10-05 07:57 |
-| U.S. Bank | Senior Infrastructure Analyst | Earth City, MO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ad13a494d02abc38) | 2026-10-05 07:57 |
-| U.S. Bank | Senior Infrastructure Analyst | Brookfield, WI, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8239bcbad42324d2) | 2026-10-05 07:57 |
-| U.S. Bank | Senior Infrastructure Analyst | Denver, CO, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b0fbdd427d11bc16) | 2026-10-05 07:57 |
-| U.S. Bank | Senior Infrastructure Analyst | Charlotte, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fc834c9ee6721d0b) | 2026-10-05 07:57 |
-| U.S. Bank | Senior Infrastructure Analyst | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb2e02e288febf1d) | 2026-10-05 07:57 |
-| U.S. Bank | Senior Infrastructure Analyst | Atlanta, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fd19dd1a372112c6) | 2026-10-05 07:57 |
-| U.S. Bank | Senior Infrastructure Analyst | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f6323346dc303f1e) | 2026-10-05 07:57 |
-| U.S. Bank | Senior Infrastructure Analyst | Hopkins, MN, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=0b74e19cc7dd3843) | 2026-10-05 07:57 |
 
 
 ---
