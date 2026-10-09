@@ -1,11 +1,28 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-09 00:51
+Last updated: 2026-10-09 06:59
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capgemini | B1 - AI Platform Engineer - Agentic AI | Charlotte, NC, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=a26f6d29c9750839) | 2026-10-09 06:59 |
+| Fiserv | FTS Network Services – Data Analytics Advisor | Irving, TX, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=39867fe787e05360) | 2026-10-09 06:59 |
+| Shift4 | Data Engineer | Las Vegas, NV, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d034225cfcd8edfb) | 2026-10-09 06:59 |
+| Capgemini | B2/C1 - AI Engineer 4 | Charlotte, NC, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=d91279c1d35293f9) | 2026-10-09 06:59 |
+| Capgemini | B2/C1 - AI Engineer | Charlotte, NC, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9e428958ad9e8a14) | 2026-10-09 06:59 |
+| Staritas | Data Engineer | Remote, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=dc03dc2d2fb3968d) | 2026-10-09 06:59 |
+| OneDigital | ETL Engineer - Hybrid (Atlanta, GA) | Atlanta, GA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7f025291341db017) | 2026-10-09 06:59 |
+| Baker Tilly Canada | Associate Data Engineer | Tampa, FL, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=abce2386bdc64e52) | 2026-10-09 06:59 |
+| Chewy | Software Engineer II | Boston, MA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3b69cb4c0ab9836b) | 2026-10-09 06:59 |
+| Norfolk Southern | Enterprise Cloud Architect (AWS) | Atlanta, GA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=014160cc6df2ce6d) | 2026-10-09 06:59 |
+| Capital One | Full-Stack Engineer 4 (Python, React, AWS) | Cambridge, MA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=62a73708df2af64b) | 2026-10-09 06:59 |
+| Capital One | Full-stack Engineer 4 (Python/AWS) | Cambridge, MA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a3f16cbf818d2cc7) | 2026-10-09 06:59 |
+| American Express | Cyber Security Engineer-Application Security Tooling (SCA/SAST/ DAST/ MAST/ API Security) | Phoenix, AZ, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a9ed5a614020b926) | 2026-10-09 06:59 |
+| Cisco | Software Engineer | Milpitas, CA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=eb578f07aff6f110) | 2026-10-09 06:59 |
+| Argonne National Laboratory | Data Engineer | Lemont, IL, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0c58980479804216) | 2026-10-09 06:59 |
+| Cisco | Software Engineer | Research Triangle Park, NC, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=703acd54a03be894) | 2026-10-09 06:59 |
+| BV Teck | .NET / PostgreSQL Full Stack Developer | Remote, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4942ca1d88558983) | 2026-10-09 06:59 |
 | Smith | Senior Magento Architect | Houston, TX, USA USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=a263552cfd74efb4) | 2026-10-09 00:51 |
 | Alvaria | Site Reliability Engineer | TX, USA USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=39485b7b1b648afd) | 2026-10-09 00:51 |
 | Slalom Consulting | Slalom Flex (Project Based)- ML Ops Engineer | Albany, NY, USA USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=55e0624b44a35626) | 2026-10-09 00:51 |
@@ -13,7 +30,6 @@ Last updated: 2026-10-09 00:51
 | Capgemini | Data Scientist | Atlanta, GA, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=803b407aed33b34c) | 2026-10-09 00:51 |
 | SEI Investments | Software Engineer II | Oaks, PA, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=8210b0e233986964) | 2026-10-09 00:51 |
 | Modivcare | MDM Architect | Denver, CO, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0696223bbad4f3b2) | 2026-10-09 00:51 |
-| Cassco International, Inc | AJAY K- SOLUTION ARCHITECT \| CLOUD, DATA, INTEGRATION & AI-ENABLED PLATFORMS. | Farmington Hills, MI, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9af1985824c8bc86) | 2026-10-09 00:51 |
 | Optum | Sr Data Engineer | Brentwood, TN, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=52c9a93606e8b426) | 2026-10-09 00:51 |
 | VeeRteq Solutions Inc. | Sr. Azure Data Engineer with Databricks | Philadelphia, PA, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a650bae5ce2865af) | 2026-10-09 00:51 |
 | Optum | Senior Site Reliability Engineer | Schaumburg, IL, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=9a1830ef2a37b276) | 2026-10-09 00:51 |
