@@ -1,11 +1,29 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-09 23:43
+Last updated: 2026-10-10 03:25
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Changeis, Inc. | Databricks Administrator / Platform Engineer | Remote, USA USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=580064bd4b42e559) | 2026-10-10 03:25 |
+| ASRC Federal | Software Requirements Engineer | Silver Hill, MD, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c05632d6ec5ee2d7) | 2026-10-10 03:25 |
+| iHeartMedia | Data Engineer | San Antonio, TX, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=edbd750eb639cae5) | 2026-10-10 03:25 |
+| Deloitte | Data Engineer - Data Engineer III | Rosslyn, VA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=451cbb6ba3d7204d) | 2026-10-10 03:25 |
+| Nitka Technologies | DBA (Databricks) | Remote, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=57b5129b0db8c24c) | 2026-10-10 03:25 |
+| Accurate Background, Inc. | Sr. Cloud Engineer | Irvine, CA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=74e62637ed2b2976) | 2026-10-10 03:25 |
+| Imperial PFS | Data Analytics Engineer | St. Louis, MO, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=138af48c8d1cab20) | 2026-10-10 03:25 |
+| Capgemini | Senior Test Data Management / Test Data Engineer/Test Data Architect | Alpharetta, GA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=938aa39b54658ab0) | 2026-10-10 03:25 |
+| Yale New Haven Health | AI Automation Developer II | Stratford, CT, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d38124d843af8bd5) | 2026-10-10 03:25 |
+| Deloitte | Senior Data Scientist - Analytics and Insights Engineer III | Baltimore, MD, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9effd1f1f2c8cb44) | 2026-10-10 03:25 |
+| Molex | Data & AI Solutions Engineer | Lisle, IL, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9369214816b39565) | 2026-10-10 03:25 |
+| Databricks | Senior Production Engineer - Realtime Products | USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7cc6fea09f662910) | 2026-10-10 03:25 |
+| Bitsight | Senior Software Engineer, Backend | Boston, MA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99dc289f40cfcbe1) | 2026-10-10 03:25 |
+| The Hershey Company | Sr Platform Engineer | Dallas, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86fb867bcabb2d1a) | 2026-10-10 03:25 |
+| Sony Interactive Entertainment | Data Engineer | Austin, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=134d5ae79492a313) | 2026-10-10 03:25 |
+| Boston Celtics | Sr. DevOps Engineer | Boston, MA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d61188ba482a520) | 2026-10-10 03:25 |
+| 4P Consulting Inc. | Data Analytics Analyst 4 4PC- 890 | Atlanta, GA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=73645eb4b3ddaf6e) | 2026-10-10 03:25 |
+| Joyce University of Nursing and Health Sciences | Data Engineer | Draper, UT, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2c42098f2146dcb1) | 2026-10-10 03:25 |
 | Florence HC | Sr. Data Engineer | Atlanta, GA, USA USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=5ab1716679382a11) | 2026-10-09 23:43 |
 | Nextiya | Senior Observability Engineer (Splunk / SignalFx) - US Citizen or Green Card only | Fairfax, VA, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=653c3efd16cc3edd) | 2026-10-09 23:43 |
 | Fiserv | Database Analysis - Advisor II | Berkeley Heights, NJ, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=c172f0ee95b96be9) | 2026-10-09 23:43 |
@@ -23,7 +41,6 @@ Last updated: 2026-10-09 23:43
 | Pursuit Aerospace | Senior Data Scientist | USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=afd8d15d41de082d) | 2026-10-09 23:43 |
 | Fiserv | AI - Software Engineering-Sr Professional I | Alpharetta, GA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7126fa6216c927d2) | 2026-10-09 23:43 |
 | Fiserv | AI - Software Engineering Advisor I | Alpharetta, GA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=b29d0fe789c8060e) | 2026-10-09 23:43 |
-| The Hershey Company | Sr Platform Engineer | Dallas, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86fb867bcabb2d1a) | 2026-10-09 23:43 |
 | Care Access | Senior Machine Learning Engineer | Boston, MA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=54af70793b1dd612) | 2026-10-09 23:43 |
 | Capgemini | Full Stack Developer | Dallas, TX, USA USA | 22.2% | [Apply](https://www.indeed.com/viewjob?jk=00fea8871f48cca2) | 2026-10-09 19:54 |
 | American Express | Sr Software Engineer I - Enterprise Architecture | Phoenix, AZ, USA USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=caff522a25e0d7d6) | 2026-10-09 19:54 |
