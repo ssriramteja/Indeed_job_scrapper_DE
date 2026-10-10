@@ -1,14 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-10 16:01
+Last updated: 2026-10-10 20:22
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Humana | Software Engineer II | Louisville, KY, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=28e4964b9a08b633) | 2026-10-10 20:22 |
+| VeeRteq Solutions Inc. | Senior Data Engineer (Healthcare) | Philadelphia, PA, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5d221c596893433e) | 2026-10-10 20:22 |
+| Capgemini | Data Masking Engineer | Atlanta, GA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85220dfd201ee108) | 2026-10-10 20:22 |
 | Deloitte | Data Engineer - Data Engineer III | Baltimore, MD, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=444d47d7e5ab373f) | 2026-10-10 16:01 |
 | Navy Federal Credit Union | Application Engineer | Vienna, VA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=61db4c7367fcd28b) | 2026-10-10 16:01 |
-| The Hershey Company | Sr Platform Engineer | Dallas, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86fb867bcabb2d1a) | 2026-10-10 16:01 |
 | Intermountain Health | Data and AI Platform Engineer | Murray, UT, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f58b73435c41c623) | 2026-10-10 10:16 |
 | Humana | Software Engineer II | Tampa, FL, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5fb3dc77e214e474) | 2026-10-10 10:16 |
 | Careerwithsmita | Senior Mobile Software Engineer | Remote, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=da461adf5af4b648) | 2026-10-10 10:16 |
@@ -397,18 +399,6 @@ Last updated: 2026-10-10 16:01
 | Novacis Digital | Full Stack Software Engineer | Rockville, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ddb729860cdaaf66) | 2026-10-06 21:28 |
 | Mobis Parts America, LLC. | Engineer III, Business Intelligence | Fountain Valley, CA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a84d75c098494a33) | 2026-10-06 21:28 |
 | NTT DATA | Site Reliability Engineer | TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=763cf004d1e71458) | 2026-10-06 21:28 |
-| Lindfast Solutions Group | Data & AI Engineer | US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=981d541cfbb05547) | 2026-10-06 17:00 |
-| Network Distribution | Data Engineer | Schaumburg, IL, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=271ae7d8ee6706bd) | 2026-10-06 17:00 |
-| Caterpillar | Data Engineer – Physical AI Platform | Chicago, IL, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a8048f9d73fd7da7) | 2026-10-06 17:00 |
-| nan | Senior Software Engineer – Backend | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=ff1e374638f96eca) | 2026-10-06 17:00 |
-| Pacific Gas and Electric | Data Engineer | Oakland, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e4c126f4e3cc33b7) | 2026-10-06 17:00 |
-| Yitro Global | Workday Consultant | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=5f01cb6ed116418a) | 2026-10-06 17:00 |
-| Tekcogno | Erwin Data Modeler | Dallas, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=89810a7e8484847e) | 2026-10-06 17:00 |
-| Live Oak Bank | Senior Software Engineer - Digital Marketing | Wilmington, NC, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4a3a03e231e77efd) | 2026-10-06 17:00 |
-| bet365 | Machine Learning Engineer | Denver, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e156aa015e45d8c1) | 2026-10-06 17:00 |
-| ExxonMobil | Sr. Fullstack Developer | Spring, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6372ad68f53bdf20) | 2026-10-06 17:00 |
-| Spire Global | Backend Software Engineer, Weather & Aviation | Boulder, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b20f49a9fd1e357a) | 2026-10-06 17:00 |
-| spire | Backend Software Engineer, Weather & Aviation | Boulder, CO, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1555a6e30192df1d) | 2026-10-06 17:00 |
 
 
 ---
