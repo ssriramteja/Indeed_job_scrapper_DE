@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-10 03:25
+Last updated: 2026-10-10 10:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Intermountain Health | Data and AI Platform Engineer | Murray, UT, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f58b73435c41c623) | 2026-10-10 10:16 |
+| Humana | Software Engineer II | Tampa, FL, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=5fb3dc77e214e474) | 2026-10-10 10:16 |
+| Careerwithsmita | Senior Mobile Software Engineer | Remote, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=da461adf5af4b648) | 2026-10-10 10:16 |
+| Ellis Porter | Senior Data Engineer | Ann Arbor, MI, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bd38bdae65c89193) | 2026-10-10 10:16 |
+| Deloitte | Senior Data Scientist - Analytics and Insights Engineer III | Washington, DC, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9e80b4019d279f1a) | 2026-10-10 10:16 |
+| Capital One | Full-stack Engineer 4 | New York, NY, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d868e21430b8d97c) | 2026-10-10 10:16 |
+| The Hershey Company | Sr Platform Engineer | Dallas, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86fb867bcabb2d1a) | 2026-10-10 10:16 |
+| Bitsight | Senior DevOps Engineer | Boston, MA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0bfdf9a7912c1da9) | 2026-10-10 10:16 |
 | Changeis, Inc. | Databricks Administrator / Platform Engineer | Remote, USA USA | 19.4% | [Apply](https://www.indeed.com/viewjob?jk=580064bd4b42e559) | 2026-10-10 03:25 |
 | ASRC Federal | Software Requirements Engineer | Silver Hill, MD, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c05632d6ec5ee2d7) | 2026-10-10 03:25 |
 | iHeartMedia | Data Engineer | San Antonio, TX, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=edbd750eb639cae5) | 2026-10-10 03:25 |
@@ -19,7 +27,6 @@ Last updated: 2026-10-10 03:25
 | Molex | Data & AI Solutions Engineer | Lisle, IL, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=9369214816b39565) | 2026-10-10 03:25 |
 | Databricks | Senior Production Engineer - Realtime Products | USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7cc6fea09f662910) | 2026-10-10 03:25 |
 | Bitsight | Senior Software Engineer, Backend | Boston, MA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=99dc289f40cfcbe1) | 2026-10-10 03:25 |
-| The Hershey Company | Sr Platform Engineer | Dallas, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86fb867bcabb2d1a) | 2026-10-10 03:25 |
 | Sony Interactive Entertainment | Data Engineer | Austin, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=134d5ae79492a313) | 2026-10-10 03:25 |
 | Boston Celtics | Sr. DevOps Engineer | Boston, MA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0d61188ba482a520) | 2026-10-10 03:25 |
 | 4P Consulting Inc. | Data Analytics Analyst 4 4PC- 890 | Atlanta, GA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=73645eb4b3ddaf6e) | 2026-10-10 03:25 |
@@ -432,36 +439,6 @@ Last updated: 2026-10-10 03:25
 | Imperial Health Holdings | Full-Stack Developer - Angular Focus | US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=ca22063859741953) | 2026-10-06 10:55 |
 | GEICO | Senior Engineer - (Java/Software Development/AI) - Hybrid | Bethesda, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0f9f54f4c0964669) | 2026-10-06 10:55 |
 | Victra-Verizon Authorized Retailer | DevOps Engineer III | Durham, NC, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=1bbd1ecd34ba576b) | 2026-10-06 10:55 |
-| ICF | Data Engineer | Reston, VA, US USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=71bf0245152c804d) | 2026-10-06 03:55 |
-| OSI Digital | Data Engineer / BI Developer – GCP, dbt & Power BI | Dallas, TX, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=79eb3256392d49d1) | 2026-10-06 03:55 |
-| Stifel | Sr. AI Cloud Platform Engineer | St. Louis, MO, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=422f525072d1a9c4) | 2026-10-06 03:55 |
-| reddit | Machine Learning Engineer | San Francisco, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bb1d738eb2126f6c) | 2026-10-06 03:55 |
-| iClassPro, Inc. | Data Engineer | US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=579a554b68cd573e) | 2026-10-06 03:55 |
-| Palomar College | Web Developer | San Marcos, CA, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=0b5c414e4ee4b328) | 2026-10-06 03:55 |
-| Fractal Analytics | Data Engineer | NJ, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0b788dde189e4cc1) | 2026-10-06 03:55 |
-| Capgemini | Senior Data Engineer - GCP | Atlanta, GA, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=099479d86490847b) | 2026-10-06 03:55 |
-| Rooms To Go | Senior Data Engineer | Seffner, FL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=86f34931ade8cede) | 2026-10-06 03:55 |
-| iHeartMedia | Full-Stack Software Developer | Austin, TX, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=74e21d24f6967c76) | 2026-10-06 03:55 |
-| General Motors (GM) | Software Engineer, Advanced Analytics | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=44ef5d52f3729890) | 2026-10-06 03:55 |
-| Solace Health | Data Engineer | US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=164a7939c0934d10) | 2026-10-06 03:55 |
-| Capgemini | Senior Data Engineer | New York, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ecb80f8127789b70) | 2026-10-06 03:55 |
-| Honeywell | Senior Advanced Software Engineer | Atlanta, GA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fbab632d0bb04999) | 2026-10-06 03:55 |
-| Baker Tilly Canada | Associate Data Engineer | Milwaukee, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=94f029f2695a0348) | 2026-10-06 03:55 |
-| Baker Tilly Canada | Associate Data Engineer | Madison, WI, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=2532cb430ae39af4) | 2026-10-06 03:55 |
-| Baker Tilly Canada | Associate Data Engineer | Springfield, IL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=31eb45b4747cbece) | 2026-10-06 03:55 |
-| Baker Tilly Canada | Associate Data Engineer | Frisco, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6d991735fb9948be) | 2026-10-06 03:55 |
-| Baker Tilly Canada | Associate Data Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3966f55aaa1e266e) | 2026-10-06 03:55 |
-| Baker Tilly Canada | Associate Data Engineer | Tampa, FL, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=710806077ea87813) | 2026-10-06 03:55 |
-| AMH | Senior Data Engineer | Las Vegas, NV, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=498781f26e16eb5d) | 2026-10-06 03:55 |
-| AMH | Senior Data Engineer | Roswell, GA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8ede594b070d17f3) | 2026-10-06 03:55 |
-| AMH | Senior Data Engineer | Draper, UT, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f42ea61bfb332a47) | 2026-10-06 03:55 |
-| AMH | Senior Data Engineer | Houston, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4c44231ffe29ae48) | 2026-10-06 03:55 |
-| AMH | Senior Data Engineer | Converse, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fadd1c9e9b39a370) | 2026-10-06 03:55 |
-| AMH | Senior Data Engineer | Irving, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cb72e2bc4fddaba5) | 2026-10-06 03:55 |
-| Infinitive Inc | Senior Consultant, Full Stack API Developer | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=769605ecbc4da595) | 2026-10-06 03:55 |
-| NetJets | Software Engineer (NJUS) | Columbus, OH, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c89f3336b4c40b7b) | 2026-10-06 03:55 |
-| BV Teck | Java Application Architect | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a35e334b90160652) | 2026-10-06 03:55 |
-| ICF | Business Intelligence (BI) Developer | Reston, VA, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=26c52bf7b46f0d46) | 2026-10-06 03:55 |
 
 
 ---
