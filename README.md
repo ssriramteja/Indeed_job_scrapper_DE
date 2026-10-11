@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-11 11:06
+Last updated: 2026-10-11 17:02
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Karoo Health | Sr Data Engineer | Pittsburgh, PA, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=89a4ee98072606c4) | 2026-10-11 17:02 |
+| Innovya Technologies | Senior Data Engineer | Pasadena, CA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0abbf70775a0e95) | 2026-10-11 17:02 |
 | Epsilon | Senior, Data Engineer | Chicago, IL, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a4383f4a43e40098) | 2026-10-11 04:27 |
 | Paytm One97 Communications | Software Engineer | Storden, MN, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de54c7ef6aacffc8) | 2026-10-11 04:27 |
 | Humana | Software Engineer II | Louisville, KY, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=28e4964b9a08b633) | 2026-10-10 20:22 |
@@ -295,15 +297,6 @@ Last updated: 2026-10-11 11:06
 | Breakthru Beverage Group | Senior Data Quality Analyst | Linthicum, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=23995c14ef6d4f73) | 2026-10-07 20:25 |
 | Breakthru Beverage Group | Senior Data Quality Analyst | Baltimore, MD, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=482a123ad569f8d7) | 2026-10-07 20:25 |
 | Breakthru Beverage Group | Senior Data Quality Analyst | Chicago, IL, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de8de9417533fb28) | 2026-10-07 20:25 |
-| nan | GenAI Engineer / Forward Deployed Engineer | Remote, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=073e98661976c07a) | 2026-10-07 14:59 |
-| Equinox | Senior Security Platform Engineer | New York, NY, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f48fee844cd0c55d) | 2026-10-07 14:59 |
-| State of South Carolina | District Integration & Support Engineer (Systems Engineer I) - 61161120 | SC, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0d5ffc90f30b5ea7) | 2026-10-07 14:59 |
-| Fannie Mae | Senior Software Engineer- Enterprise Platforms | Reston, VA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7f1c6131bc8b3c29) | 2026-10-07 14:59 |
-| United Nations Federal Credit Union | Senior Architect - Data & Analytics COE | Long Island City, NY, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4543534bd5d880f4) | 2026-10-07 14:59 |
-| Nuuly | Sr DevOps Engineer | Philadelphia, PA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7c18e77b373c042e) | 2026-10-07 14:59 |
-| KCI Technologies | Full-Stack Software Engineer – Azure Practitioner | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d231129436df5d79) | 2026-10-07 14:59 |
-| Charleston Children’s Therapy Center | Clinician-Developer: Cloud & Integrations | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf03acdee6bfb411) | 2026-10-07 14:59 |
-| Westchester Medical Center Health Network | Data Analytics Engineer (In Person) | Valhalla, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6442e1547a870e80) | 2026-10-07 14:59 |
 
 
 ---

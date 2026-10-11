@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-10-11
 
-**Total Jobs Found:** 3
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior, Data Engineer @ Epsilon
+## 1. Sr Data Engineer @ Karoo Health
+**Match Score:** 15.3%
+
+📍 **Location:** Pittsburgh, PA, USA USA
+
+🔑 **Keywords:** AWS, EMR, Lambda, Redshift, Athena, Step Functions, S3, RDS, BigQuery, Spark
+
+[Apply Here](https://www.indeed.com/viewjob?jk=89a4ee98072606c4)
+
+---
+
+## 2. Senior, Data Engineer @ Epsilon
 **Match Score:** 13.2%
 
 📍 **Location:** Chicago, IL, USA USA
@@ -16,18 +27,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Senior Data Engineer (Healthcare) @ VeeRteq Solutions Inc.
-**Match Score:** 13.2%
+## 3. Senior Data Engineer @ Innovya Technologies
+**Match Score:** 11.8%
 
-📍 **Location:** Philadelphia, PA, USA USA
+📍 **Location:** Pasadena, CA, USA USA
 
-🔑 **Keywords:** Azure, Data Factory, Synapse Analytics, Databricks, Data Lake Storage, Spark, PySpark, Scala, Data Modeling, ETL
+🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, PySpark, Scala, NoSQL, Data Modeling
 
-[Apply Here](https://www.indeed.com/viewjob?jk=5d221c596893433e)
+[Apply Here](https://www.indeed.com/viewjob?jk=b0abbf70775a0e95)
 
 ---
 
-## 3. Software Engineer @ Paytm One97 Communications
+## 4. Software Engineer @ Paytm One97 Communications
 **Match Score:** 10.4%
 
 📍 **Location:** Storden, MN, USA USA
