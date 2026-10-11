@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-11 04:27
+Last updated: 2026-10-11 11:06
 
 ### 🚀 Daily Job Matches
 
@@ -304,34 +304,6 @@ Last updated: 2026-10-11 04:27
 | KCI Technologies | Full-Stack Software Engineer – Azure Practitioner | Baltimore, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d231129436df5d79) | 2026-10-07 14:59 |
 | Charleston Children’s Therapy Center | Clinician-Developer: Cloud & Integrations | Remote, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bf03acdee6bfb411) | 2026-10-07 14:59 |
 | Westchester Medical Center Health Network | Data Analytics Engineer (In Person) | Valhalla, NY, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6442e1547a870e80) | 2026-10-07 14:59 |
-| Pearson | Software Engineer III | Remote, US USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=9cf6cb804310788f) | 2026-10-07 07:56 |
-| Securian Financial | AWS DevOps Engineer (Hybrid) | Saint Paul, MN, US USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=20ae1a526db03909) | 2026-10-07 07:56 |
-| Capital One | Data Engineer 4 | Chicago, IL, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=ac695015f6e52803) | 2026-10-07 07:56 |
-| GEICO | Senior Machine Learning Engineer, Fraud Risk Modeling | Palo Alto, CA, US USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=0c1b0bc837735bcf) | 2026-10-07 07:56 |
-| Howard Hughes Medical Institute | AI Data Engineer | Chevy Chase, MD, US USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=97c5e1818487b920) | 2026-10-07 07:56 |
-| NAC Architecture | Data Engineer | Los Angeles, CA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=de63d204e832110a) | 2026-10-07 07:56 |
-| NAC Architecture | Data Engineer | Spokane, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=876322e831ec8eca) | 2026-10-07 07:56 |
-| NAC Architecture | Data Engineer | Seattle, WA, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7c07ba22730cc31c) | 2026-10-07 07:56 |
-| NAC Architecture | Data Engineer | Columbus, OH, US USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0d993410e2b916af) | 2026-10-07 07:56 |
-| OneDigital | Analytics Engineer II, Marketing Technology - Remote | Remote, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=238a27c5210ae789) | 2026-10-07 07:56 |
-| News Corp | Software Engineer - Data Architecture & Platform Engineering | New York, NY, US USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=923379e0dc0b8dde) | 2026-10-07 07:56 |
-| reveleer | Sr. Information Security Engineer | Remote, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=30bee6defc91ca2b) | 2026-10-07 07:56 |
-| Tempus | Data Visualization Engineer | Chicago, IL, US USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=5131e2f85865e971) | 2026-10-07 07:56 |
-| American Express | Data Engineers | Phoenix, AZ, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7cc4e057f32c8e6e) | 2026-10-07 07:56 |
-| RBC | 2027 Capital Markets, Quantitative Technology Services Summer, Raleigh | Raleigh, NC, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ea97b81f8a8fbea5) | 2026-10-07 07:56 |
-| Citi | Full Stack Software Engineer Analyst | Irving, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=15d208d296c27320) | 2026-10-07 07:56 |
-| JPMorganChase | Software Engineer III - Backend | Plano, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3bfe9ad476bd328d) | 2026-10-07 07:56 |
-| American Airlines | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d57923c372a91491) | 2026-10-07 07:56 |
-| Tinder | Software Engineer III, Backend | San Francisco, CA, US USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9bd1157f032a62ba) | 2026-10-07 07:56 |
-| DMI | Wireless Engineer | Crownsville, MD, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=64fcbfb44e8f3307) | 2026-10-07 07:56 |
-| American Express | Infrastructure Engineers | Phoenix, AZ, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6dcf5d44e6e794f0) | 2026-10-07 07:56 |
-| TPG | Analytics Engineer, Associate | Fort Worth, TX, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a6e6546ed6025d10) | 2026-10-07 07:56 |
-| Capital One | Full-stack Engineer 4 (AWS, Java/ Python, Database, Go) | Chicago, IL, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=35ba6de05ae13211) | 2026-10-07 07:56 |
-| Capital One | Full Stack Software Engineer 4 - Go, Python, Java, AWS | Richmond, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=42b5b5030b63cf61) | 2026-10-07 07:56 |
-| Capital One | Full-stack Engineer 4 (Java, Python, AWS) | McLean, VA, US USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=00983a19f7d4e161) | 2026-10-07 07:56 |
-| Ericsson | Data Engineer | Boise, ID, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e3250fba091a2092) | 2026-10-07 07:56 |
-| Cenergistic | Software Engineer - Mid Level | Dallas, TX, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=a06fdb5232c62474) | 2026-10-07 07:56 |
-| Target | Senior Engineer – Apply For CircleCard | Brooklyn Park, MN, US USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=47ca3963cee3be6c) | 2026-10-07 07:56 |
 
 
 ---
