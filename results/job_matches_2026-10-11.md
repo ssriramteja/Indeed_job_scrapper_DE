@@ -1,11 +1,22 @@
 # 🎯 Daily Job Matches — 2026-10-11
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Sr Data Engineer @ Karoo Health
+## 1. Senior DevOps Engineer (Hub-Remote: DC or Philly Metro) @ Element 84
+**Match Score:** 16.0%
+
+📍 **Location:** Alexandria, VA, USA USA
+
+🔑 **Keywords:** AWS, Glue, Redshift, Athena, API Gateway, RDS, Azure, Databricks, Scala, Snowflake
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cf2162b37870f256)
+
+---
+
+## 2. Sr Data Engineer @ Karoo Health
 **Match Score:** 15.3%
 
 📍 **Location:** Pittsburgh, PA, USA USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Senior, Data Engineer @ Epsilon
+## 3. Senior, Data Engineer @ Epsilon
 **Match Score:** 13.2%
 
 📍 **Location:** Chicago, IL, USA USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior Data Engineer @ Innovya Technologies
+## 4. Senior Data Engineer @ Innovya Technologies
 **Match Score:** 11.8%
 
 📍 **Location:** Pasadena, CA, USA USA
@@ -38,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Software Engineer @ Paytm One97 Communications
+## 5. Software Engineer @ Paytm One97 Communications
 **Match Score:** 10.4%
 
 📍 **Location:** Storden, MN, USA USA
