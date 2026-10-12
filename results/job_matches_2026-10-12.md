@@ -1,6 +1,6 @@
 # 🎯 Daily Job Matches — 2026-10-12
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 14
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
@@ -27,18 +27,29 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Sr Data Engineer @ Karoo Health
-**Match Score:** 15.3%
+## 3. Application Developer @ American IT Resource Group
+**Match Score:** 16.0%
 
-📍 **Location:** Pittsburgh, PA, USA USA
+📍 **Location:** Schaumburg, IL, USA USA
 
-🔑 **Keywords:** AWS, EMR, Lambda, Redshift, Athena, Step Functions, S3, RDS, BigQuery, Spark
+🔑 **Keywords:** AWS, S3, Azure, Scala, Kafka, SQL Server, PostgreSQL, MongoDB, Cassandra, NoSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=89a4ee98072606c4)
+[Apply Here](https://www.indeed.com/viewjob?jk=986d945ea6a31b4a)
 
 ---
 
-## 4. Senior DevSecOps Engineer @ Well Beam Inc
+## 4. Senior Data Product Owner @ Rysun labs
+**Match Score:** 14.6%
+
+📍 **Location:** Milpitas, CA, USA USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Spark, Scala, Snowflake, SQL Server, ETL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8f393df2dff71eea)
+
+---
+
+## 5. Senior DevSecOps Engineer @ Well Beam Inc
 **Match Score:** 14.6%
 
 📍 **Location:** USA USA
@@ -49,14 +60,102 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Data Engineer @ Innovya Technologies
+## 6. Senior Cloud Engineer @ Kiewit Corporation
+**Match Score:** 13.2%
+
+📍 **Location:** Omaha, NE, USA USA
+
+🔑 **Keywords:** RDS, Azure, Cloud Storage, Scala, PostgreSQL, CI/CD, Jenkins, GitHub Actions, Azure DevOps, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8f3210094a7b1a68)
+
+---
+
+## 7. Full Stack Engineer (Python / Cloud / React) @ EXL Service
+**Match Score:** 13.2%
+
+📍 **Location:** Hartford, CT, USA USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Data Modeling, CI/CD, Jenkins, GitHub Actions, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8949c2d4ce773826)
+
+---
+
+## 8. Google Cloud Architect @ Vibhutechinc
+**Match Score:** 12.5%
+
+📍 **Location:** New York, NY, USA USA
+
+🔑 **Keywords:** IAM, Google Cloud Platform, GCP, BigQuery, Dataflow, Cloud Storage, Sqoop, MapReduce, HBase, Oozie
+
+[Apply Here](https://www.indeed.com/viewjob?jk=65a614c7d6ae8592)
+
+---
+
+## 9. Data Advisor_BCDA1J @ ENGIE
+**Match Score:** 12.5%
+
+📍 **Location:** Houston, TX, USA USA
+
+🔑 **Keywords:** AWS, S3, RDS, Azure, Databricks, Spark, PySpark, Snowflake, Data Modeling, Dimensional Modeling
+
+[Apply Here](https://www.indeed.com/viewjob?jk=66bdadf1084f2459)
+
+---
+
+## 10. Associate Data Engineer @ Baker Tilly Canada
 **Match Score:** 11.8%
 
-📍 **Location:** Pasadena, CA, USA USA
+📍 **Location:** Madison, WI, USA USA
 
-🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, PySpark, Scala, NoSQL, Data Modeling
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Scala, ETL, ELT, Power BI, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b0abbf70775a0e95)
+[Apply Here](https://www.indeed.com/viewjob?jk=e8dc3509acac22dd)
+
+---
+
+## 11. Microsoft Fabric Engineer @ NTT DATA
+**Match Score:** 11.8%
+
+📍 **Location:** Irving, TX, USA USA
+
+🔑 **Keywords:** RDS, Azure, Data Factory, Synapse Analytics, GCP, Scala, Data Modeling, ETL, ELT, Power BI
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dbb1a7f642a73abe)
+
+---
+
+## 12. Senior DevOps Engineer @ Optum
+**Match Score:** 11.8%
+
+📍 **Location:** Eden Prairie, MN, USA USA
+
+🔑 **Keywords:** AWS, RDS, Azure, GCP, Scala, Splunk, CI/CD, GitHub Actions, Azure DevOps, Terraform
+
+[Apply Here](https://www.indeed.com/viewjob?jk=da31ce66bd2bac28)
+
+---
+
+## 13. Associate Data Engineer @ Baker Tilly Canada
+**Match Score:** 11.8%
+
+📍 **Location:** Tampa, FL, USA USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Data Factory, Databricks, Scala, ETL, ELT, Power BI, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=46b2f59b4f79c5de)
+
+---
+
+## 14. Enterprise Imaging Solutions Engineer – Healthcare IT-Remote within the US @ Siemens Healthineers
+**Match Score:** 10.4%
+
+📍 **Location:** Malvern, PA, USA USA
+
+🔑 **Keywords:** AWS, Azure, Google Cloud Platform, Hive, Scala, SQL Server, PostgreSQL, Docker, Kubernetes, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=97b19b6f1b88b438)
 
 ---
 
