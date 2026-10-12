@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-12 00:50
+Last updated: 2026-10-12 06:47
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Visibol | Software Engineer | Chicago, IL, USA USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6cdaf76f16c112ab) | 2026-10-12 06:47 |
+| Well Beam Inc | Senior DevSecOps Engineer | USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2488604858d657c6) | 2026-10-12 06:47 |
 | Element 84 | Senior DevOps Engineer (Hub-Remote: DC or Philly Metro) | Alexandria, VA, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cf2162b37870f256) | 2026-10-11 21:14 |
 | Karoo Health | Sr Data Engineer | Pittsburgh, PA, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=89a4ee98072606c4) | 2026-10-11 17:02 |
 | Innovya Technologies | Senior Data Engineer | Pasadena, CA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0abbf70775a0e95) | 2026-10-11 17:02 |

@@ -5,7 +5,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior DevOps Engineer (Hub-Remote: DC or Philly Metro) @ Element 84
+## 1. Software Engineer @ Visibol
+**Match Score:** 17.4%
+
+📍 **Location:** Chicago, IL, USA USA
+
+🔑 **Keywords:** AWS, SQS, RDS, Azure, Google Cloud Platform, Scala, Kafka, Oracle, SQL Server, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6cdaf76f16c112ab)
+
+---
+
+## 2. Senior DevOps Engineer (Hub-Remote: DC or Philly Metro) @ Element 84
 **Match Score:** 16.0%
 
 📍 **Location:** Alexandria, VA, USA USA
@@ -16,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 2. Sr Data Engineer @ Karoo Health
+## 3. Sr Data Engineer @ Karoo Health
 **Match Score:** 15.3%
 
 📍 **Location:** Pittsburgh, PA, USA USA
@@ -27,18 +38,18 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Senior, Data Engineer @ Epsilon
-**Match Score:** 13.2%
+## 4. Senior DevSecOps Engineer @ Well Beam Inc
+**Match Score:** 14.6%
 
-📍 **Location:** Chicago, IL, USA USA
+📍 **Location:** USA USA
 
-🔑 **Keywords:** AWS, Glue, EMR, Athena, S3, IAM, RDS, Spark, PySpark, DynamoDB
+🔑 **Keywords:** AWS, S3, SQS, ECS, IAM, RDS, MySQL, CI/CD, Jenkins, Terraform
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a4383f4a43e40098)
+[Apply Here](https://www.indeed.com/viewjob?jk=2488604858d657c6)
 
 ---
 
-## 4. Senior Data Engineer @ Innovya Technologies
+## 5. Senior Data Engineer @ Innovya Technologies
 **Match Score:** 11.8%
 
 📍 **Location:** Pasadena, CA, USA USA
@@ -46,17 +57,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, RDS, Azure, Databricks, GCP, Spark, PySpark, Scala, NoSQL, Data Modeling
 
 [Apply Here](https://www.indeed.com/viewjob?jk=b0abbf70775a0e95)
-
----
-
-## 5. Software Engineer @ Paytm One97 Communications
-**Match Score:** 10.4%
-
-📍 **Location:** Storden, MN, USA USA
-
-🔑 **Keywords:** AWS, RDS, Azure, Scala, SQL Server, MySQL, CI/CD, Jenkins, Jenkins, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=de54c7ef6aacffc8)
 
 ---
 
