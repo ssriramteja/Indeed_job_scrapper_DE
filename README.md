@@ -1,13 +1,34 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-14 14:11
+Last updated: 2026-10-14 19:04
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| BV Teck | AWS Solutions Architect | Remote, USA USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ebad3ecf670772f2) | 2026-10-14 19:04 |
+| ATG | Senior Data Engineer | Phoenix, AZ, USA USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7e9a8b94e97af78b) | 2026-10-14 19:04 |
+| Ford Motor Company | Sr. Specialist, Yield Management - GTM Data Engineer | Dearborn, MI, USA USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0f50e110d31ed36a) | 2026-10-14 19:04 |
+| NextEra Energy | Senior IT Programmer Analyst - Cloud DevOps | Juno Beach, FL, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8bd9a034fcfe0278) | 2026-10-14 19:04 |
+| GM Financial | Senior Machine Learning Operations Engineer | Irving, TX, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6f1d2c2073e68479) | 2026-10-14 19:04 |
+| The Cigna Group | Software Engineering Senior Advisor- Hybrid | Bloomfield, CT, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=845abd06a31c4d9f) | 2026-10-14 19:04 |
+| BV Teck | Cloud Solutions Engineer – Azure | Woodbury, MN, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d3fed584e13523eb) | 2026-10-14 19:04 |
+| Mass General Brigham | Data Engineer | Somerville, MA, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=bcde93afa2a0a867) | 2026-10-14 19:04 |
+| Vissat Solutions, Inc | Salesforce Developer. Jr./Mid/Sr. - U.S Citizen & DOD clearance | Remote, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=517d7c52f9207896) | 2026-10-14 19:04 |
+| Equifax | Software Engineer | Atlanta, GA, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cfda204c96b0612c) | 2026-10-14 19:04 |
+| Intuitive (Intuitive Surgical) | Software Engineer | Sunnyvale, CA, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=e6d31bded3f1a6c4) | 2026-10-14 19:04 |
+| AutoNation | Senior Data Platform Administrator | Fort Lauderdale, FL, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=069ede0c0f4092ec) | 2026-10-14 19:04 |
+| Naviga Publishing Solutions | Senior Cloud Engineer | Remote, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d2e6c94bac794111) | 2026-10-14 19:04 |
+| American Electric Power | Kafka Platform Engineer | Columbus, OH, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d315872cc7738b0e) | 2026-10-14 19:04 |
+| AltorOne Technologies | Cloud Engineer | Fayetteville, NC, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=887e0b7374cefb19) | 2026-10-14 19:04 |
+| McKesson | Sr. Data Platform Engineer | Munster, IN, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c8f37e817406df46) | 2026-10-14 19:04 |
+| Allstate Insurance | AI Cloud Platform Engineer | Remote, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8b7efb07423344e6) | 2026-10-14 19:04 |
+| Realign | AWS Connect Engineer with Genesys | Plano, TX, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6294736244722aeb) | 2026-10-14 19:04 |
+| BAE Systems USA | Data Engineer - Mid-Level | Rockville, MD, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9ccf3f575e5d36b) | 2026-10-14 19:04 |
+| ScanSource | BI Specialist II | Greenville, SC, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=654d639496cd0389) | 2026-10-14 19:04 |
+| BV Teck | Data Infrastructure Architect | Remote, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2afaeff725cfa829) | 2026-10-14 19:04 |
+| Realign | Java Developer with React | Chicago, IL, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1346e9fc73ad3d4) | 2026-10-14 19:04 |
 | VTG Defense | Systems Architect, SME | Tysons Corner, VA, USA USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=74acab416de0ee2f) | 2026-10-14 14:11 |
-| Ford Motor Company | Sr. Specialist, Yield Management - GTM Data Engineer | Dearborn, MI, USA USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0f50e110d31ed36a) | 2026-10-14 14:11 |
 | Pennant Solutions Group | Data Architect | Richmond, VA, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9c84e90f22435c1) | 2026-10-14 14:11 |
 | UL Research Institutes | Data Engineer - Materials Discovery Research Institute | Skokie, IL, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f01d33f572b2baf0) | 2026-10-14 14:11 |
 | First Citizens Bank | Data Engineer I - Data Platform | Phoenix, AZ, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cedacf7246745512) | 2026-10-14 14:11 |
@@ -191,8 +212,6 @@ Last updated: 2026-10-14 14:11
 | Humana | Software Engineer II | Louisville, KY, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=28e4964b9a08b633) | 2026-10-10 20:22 |
 | VeeRteq Solutions Inc. | Senior Data Engineer (Healthcare) | Philadelphia, PA, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5d221c596893433e) | 2026-10-10 20:22 |
 | Capgemini | Data Masking Engineer | Atlanta, GA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85220dfd201ee108) | 2026-10-10 20:22 |
-| Deloitte | Data Engineer - Data Engineer III | Baltimore, MD, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=444d47d7e5ab373f) | 2026-10-10 16:01 |
-| Navy Federal Credit Union | Application Engineer | Vienna, VA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=61db4c7367fcd28b) | 2026-10-10 16:01 |
 
 
 ---
