@@ -1,14 +1,34 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-14 19:04
+Last updated: 2026-10-14 22:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Anvi Corp Usa | Data Engineer | Plano, TX, USA USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b908b59309fff889) | 2026-10-14 22:51 |
+| Trisura | Senior Data Engineer | Oklahoma City, OK, USA USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b51afc5191d0fbc5) | 2026-10-14 22:51 |
+| JPMorganChase | Software Engineer III - Python/PySpark/Databricks/AWS | Wilmington, DE, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a7261f813c68e65e) | 2026-10-14 22:51 |
+| Tomorrow.io | Software Engineer | Golden, CO, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=79c299784b27caa7) | 2026-10-14 22:51 |
+| Clearwater Analytics (CWAN) | Senior Software Development Engineer | Chicago, IL, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=fc746cb98ddc1200) | 2026-10-14 22:51 |
+| Quantum Pain & Sports Medicine | Senior Data Engineer – Microsoft Fabric & Healthcare Integrations | Irving, TX, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=23426a1bd3bfe56b) | 2026-10-14 22:51 |
+| Techsur Solutions | DevSecOps Engineer (Part-Time) | Reston, VA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=31d8c0af8aa1050b) | 2026-10-14 22:51 |
+| Sonos | Software Engineer | Boston, MA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=59537b765c557b2d) | 2026-10-14 22:51 |
+| Texas Instruments | Data Engineer | Dallas, TX, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9a4aaf4d33a99fad) | 2026-10-14 22:51 |
+| Regions Financial | Cloud Data Engineer - AI Platform | Charlotte, NC, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=6af71823f4081c08) | 2026-10-14 22:51 |
+| Wells Fargo | Senior Data & Software Engineer (Java / GCP) (contract) | Charlotte, NC, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=37e78a01bc07e041) | 2026-10-14 22:51 |
+| Target | Data Engineer - Finance AI Solutions | Brooklyn Park, MN, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7ef2140069fbbe73) | 2026-10-14 22:51 |
+| NASA Jet Propulsion Laboratory | Scientific Applications Software Engineering I | Pasadena, CA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=14c9b41460681a7a) | 2026-10-14 22:51 |
+| ALTANA AG | Senior Software Engineer | New York, NY, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee3f63c42f2039db) | 2026-10-14 22:51 |
+| NTT DATA | Senior Data Engineer (w/ Oracle & OLTP) | Nashville, TN, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=82a5c0ffe75e0df7) | 2026-10-14 22:51 |
+| Atlas Air, Inc. | Senior Cloud Platform Engineer | Fort Lauderdale, FL, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c0292ff70f1110f6) | 2026-10-14 22:51 |
+| UrbanVest Technologies | Senior Software Engineer | Milwaukee, WI, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a0085b8c8e54f8d4) | 2026-10-14 22:51 |
+| GEICO | Senior Machine Learning Engineer | Bethesda, MD, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a322578c891277c) | 2026-10-14 22:51 |
+| Leidos | Senior Software Developer | Bethesda, MD, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=c933d7fccfe836ff) | 2026-10-14 22:51 |
+| Waste Connections | Data Engineer | The Woodlands, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=5e29cc918dda3a0b) | 2026-10-14 22:51 |
+| Wake Forest University | Senior Analytics Engineer | Winston-Salem, NC, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b9e176375898329e) | 2026-10-14 22:51 |
 | BV Teck | AWS Solutions Architect | Remote, USA USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=ebad3ecf670772f2) | 2026-10-14 19:04 |
 | ATG | Senior Data Engineer | Phoenix, AZ, USA USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=7e9a8b94e97af78b) | 2026-10-14 19:04 |
-| Ford Motor Company | Sr. Specialist, Yield Management - GTM Data Engineer | Dearborn, MI, USA USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=0f50e110d31ed36a) | 2026-10-14 19:04 |
 | NextEra Energy | Senior IT Programmer Analyst - Cloud DevOps | Juno Beach, FL, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=8bd9a034fcfe0278) | 2026-10-14 19:04 |
 | GM Financial | Senior Machine Learning Operations Engineer | Irving, TX, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=6f1d2c2073e68479) | 2026-10-14 19:04 |
 | The Cigna Group | Software Engineering Senior Advisor- Hybrid | Bloomfield, CT, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=845abd06a31c4d9f) | 2026-10-14 19:04 |
@@ -209,9 +229,6 @@ Last updated: 2026-10-14 19:04
 | Innovya Technologies | Senior Data Engineer | Pasadena, CA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0abbf70775a0e95) | 2026-10-11 17:02 |
 | Epsilon | Senior, Data Engineer | Chicago, IL, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a4383f4a43e40098) | 2026-10-11 04:27 |
 | Paytm One97 Communications | Software Engineer | Storden, MN, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de54c7ef6aacffc8) | 2026-10-11 04:27 |
-| Humana | Software Engineer II | Louisville, KY, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=28e4964b9a08b633) | 2026-10-10 20:22 |
-| VeeRteq Solutions Inc. | Senior Data Engineer (Healthcare) | Philadelphia, PA, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5d221c596893433e) | 2026-10-10 20:22 |
-| Capgemini | Data Masking Engineer | Atlanta, GA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=85220dfd201ee108) | 2026-10-10 20:22 |
 
 
 ---
