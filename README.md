@@ -1,17 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-15 06:44
+Last updated: 2026-10-15 12:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Steampunk | Data Engineer - Databricks | McLean, VA, USA USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e85753248df0ad36) | 2026-10-15 12:18 |
+| Capgemini | Associate Data Engineer | Nashville, TN, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b6a8059421c16401) | 2026-10-15 12:18 |
+| ALTEN | Data Engineer | Dallas, TX, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5ff7263397b593ad) | 2026-10-15 12:18 |
+| Capgemini | SRE - DevOps Engineer | Atlanta, GA, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ed982ec7d62db1ac) | 2026-10-15 12:18 |
+| JPMorganChase | Software and Data Engineer - Software Engineer III- Agentic Pricing | Jersey City, NJ, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b363a6b62d7ea4b) | 2026-10-15 12:18 |
+| Capgemini | Senior Data Engineer - Databricks | New York, NY, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d0cd3bb4e3adcf71) | 2026-10-15 12:18 |
+| Hawaiian Electric Company, Inc. | Business Analytics Engineer Enterprise - Oahu | Honolulu, HI, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=773b8c018503ce6a) | 2026-10-15 12:18 |
+| MORRISON & FOERSTER | Senior Cloud Systems Engineer | San Francisco, CA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=990ad175fc5efc37) | 2026-10-15 12:18 |
+| Caloptima | Clinical Data & Reporting Analyst (Data Warehouse Reporting Analyst Sr) | Orange, CA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7fcabb0ebbce5f77) | 2026-10-15 12:18 |
+| Information Technology Senior Management Forum | Sr. Infrastructure Solutions Engineer | Charlotte, NC, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6c3e35556ad89ece) | 2026-10-15 12:18 |
+| U.S. Bank | Software Engineer 1 – Full-stack, Generative AI, Cloud | Brookfield, WI, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=30ea3ac63f50ac91) | 2026-10-15 12:18 |
 | Capital One | Data Engineer 4 - ERM Transformation | Richmond, VA, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15b0331f4e03bd52) | 2026-10-15 06:44 |
 | Qualys | Site Reliability Engineer | Raleigh, NC, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f134635a897a33ef) | 2026-10-15 06:44 |
 | ALTEN | Data Engineer | Fort Worth, TX, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=703d94a82f6814df) | 2026-10-15 06:44 |
 | Southeastern University | Data Platform Engineer | Lakeland, FL, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=731225db32d60632) | 2026-10-15 06:44 |
 | Guardant Health | Senior Software Engineer, Bioinformatics | Palo Alto, CA, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d2213b90de538af3) | 2026-10-15 06:44 |
-| Hawaiian Electric Company, Inc. | Business Analytics Engineer Enterprise - Oahu | Honolulu, HI, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=773b8c018503ce6a) | 2026-10-15 06:44 |
 | HCLTech | Group Technical Architect | USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f905f8f1459e625e) | 2026-10-15 06:44 |
 | Johnson Controls | AI Platform Engineer | Irving, TX, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8a14e8e38f07dfff) | 2026-10-15 06:44 |
 | Miami University | Data and Web Engineer | Oxford, OH, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4cb8180ac648629e) | 2026-10-15 06:44 |
