@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-14 22:51
+Last updated: 2026-10-15 01:06
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| American Express | Sr Software Engineer II - Enterprise Architecture | New York, NY, USA USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2c8166ffe447c83c) | 2026-10-15 01:06 |
+| Hawaiian Electric Company, Inc. | Business Analytics Engineer Enterprise - Oahu | Honolulu, HI, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=773b8c018503ce6a) | 2026-10-15 01:06 |
+| Scotts Miracle-Gro | Senior Analyst, Cloud Computing Engineering | Marysville, OH, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6bea707502768347) | 2026-10-15 01:06 |
+| Goodwin Procter LLP | Data Engineer | Boston, MA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f385f431c05e95eb) | 2026-10-15 01:06 |
 | Anvi Corp Usa | Data Engineer | Plano, TX, USA USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b908b59309fff889) | 2026-10-14 22:51 |
 | Trisura | Senior Data Engineer | Oklahoma City, OK, USA USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=b51afc5191d0fbc5) | 2026-10-14 22:51 |
 | JPMorganChase | Software Engineer III - Python/PySpark/Databricks/AWS | Wilmington, DE, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a7261f813c68e65e) | 2026-10-14 22:51 |
