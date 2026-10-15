@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-15 20:43
+Last updated: 2026-10-15 23:26
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Hawaiian Electric Company, Inc. | Business Analytics Engineer Enterprise - Oahu | Honolulu, HI, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=773b8c018503ce6a) | 2026-10-15 23:26 |
+| Monumental Sports & Entertainment | Senior Infrastructure & Platform Engineer | Washington, DC, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c83099662b4f529b) | 2026-10-15 23:26 |
+| Lennar | Sr. Software Engineer | Miami, FL, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee54c8bb60a99024) | 2026-10-15 23:26 |
+| The University of Chicago | Senior DevOps Engineer | Chicago, IL, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8aa405c41bf04634) | 2026-10-15 23:26 |
+| Cognizant | Quality Engineer (AI Automation) | Charlotte, NC, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e48935bdabe7b480) | 2026-10-15 23:26 |
+| Snowflake | Senior Solution Engineer - GCC | Bellevue, WA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=151ffa6ede59bb8b) | 2026-10-15 23:26 |
+| Refresco | Global Enterprise Applications Developer | Tampa, FL, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=251a5cab33206a0f) | 2026-10-15 23:26 |
+| Siemens Healthineers | Enterprise Imaging Solutions Engineer – Healthcare IT-Remote within the US | Malvern, PA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e0290081386678f8) | 2026-10-15 23:26 |
 | Culligan Water | Senior Power BI Developer | Rosemont, IL, USA USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8647c65f36c20d2b) | 2026-10-15 20:43 |
 | Curium Pharmaceuticals | Senior Data Engineer | St. Louis, MO, USA USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=74dcc353cfba7710) | 2026-10-15 20:43 |
 | Arizona Cardinals | AI and Data Platform Engineer | Tempe, AZ, USA USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e8efb074c3b86d52) | 2026-10-15 20:43 |
@@ -13,7 +21,6 @@ Last updated: 2026-10-15 20:43
 | Georgia Ports Authority | Senior AI Engineer | Savannah, GA, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f7e912de19ae209d) | 2026-10-15 20:43 |
 | Azenta Life Sciences | Business Intelligence Engineer | Plainfield, IN, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fcd026569b38732b) | 2026-10-15 20:43 |
 | OakBase Technologies | Cloud Engineer | San Antonio, TX, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7d89c18decc68ed9) | 2026-10-15 20:43 |
-| Hawaiian Electric Company, Inc. | Business Analytics Engineer Enterprise - Oahu | Honolulu, HI, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=773b8c018503ce6a) | 2026-10-15 20:43 |
 | Capgemini | full stack engineer | Bellevue, WA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e4fbdc6495bc8652) | 2026-10-15 20:43 |
 | Performance Contracting | Senior DevSecOps Engineer | Lenexa, KS, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=73b2fdc93de024bc) | 2026-10-15 20:43 |
 | Huron Consulting Group | Sr. QA Test Engineer (Quality Assurance) | Chicago, IL, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3932183df2db1bef) | 2026-10-15 20:43 |
@@ -288,7 +295,6 @@ Last updated: 2026-10-15 20:43
 | Siemens Healthineers | Enterprise Imaging Solutions Engineer – Healthcare IT-Remote within the US | Malvern, PA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97b19b6f1b88b438) | 2026-10-12 16:19 |
 | Visibol | Software Engineer | Chicago, IL, USA USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6cdaf76f16c112ab) | 2026-10-12 06:47 |
 | Well Beam Inc | Senior DevSecOps Engineer | USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2488604858d657c6) | 2026-10-12 06:47 |
-| Element 84 | Senior DevOps Engineer (Hub-Remote: DC or Philly Metro) | Alexandria, VA, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cf2162b37870f256) | 2026-10-11 21:14 |
 
 
 ---
