@@ -1,13 +1,27 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-15 01:06
+Last updated: 2026-10-15 06:44
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capital One | Data Engineer 4 - ERM Transformation | Richmond, VA, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=15b0331f4e03bd52) | 2026-10-15 06:44 |
+| Qualys | Site Reliability Engineer | Raleigh, NC, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=f134635a897a33ef) | 2026-10-15 06:44 |
+| ALTEN | Data Engineer | Fort Worth, TX, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=703d94a82f6814df) | 2026-10-15 06:44 |
+| Southeastern University | Data Platform Engineer | Lakeland, FL, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=731225db32d60632) | 2026-10-15 06:44 |
+| Guardant Health | Senior Software Engineer, Bioinformatics | Palo Alto, CA, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=d2213b90de538af3) | 2026-10-15 06:44 |
+| Hawaiian Electric Company, Inc. | Business Analytics Engineer Enterprise - Oahu | Honolulu, HI, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=773b8c018503ce6a) | 2026-10-15 06:44 |
+| HCLTech | Group Technical Architect | USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f905f8f1459e625e) | 2026-10-15 06:44 |
+| Johnson Controls | AI Platform Engineer | Irving, TX, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=8a14e8e38f07dfff) | 2026-10-15 06:44 |
+| Miami University | Data and Web Engineer | Oxford, OH, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=4cb8180ac648629e) | 2026-10-15 06:44 |
+| Simpson Strong-Tie | Senior Software Engineer — Cloud Services & API Platform (C#/Azure Track) - Hybrid | Plano, TX, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a616499fc546743c) | 2026-10-15 06:44 |
+| Endor Labs | Customer Reliability Engineer | Palo Alto, CA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=85c7e1fd779e75aa) | 2026-10-15 06:44 |
+| Realign | Oracle Database Architect-6 | Woodland Hills, CA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e10f6c9f559ca000) | 2026-10-15 06:44 |
+| U.S. Bank | Software Engineer 1 – Full-stack, Generative AI, Cloud | Charlotte, NC, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f805338655922417) | 2026-10-15 06:44 |
+| Capgemini | Java Full Stack Software Engineer | Chicago, IL, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6899e4e4be880d8d) | 2026-10-15 06:44 |
+| Honeywell | Advanced AI Software Engineer | Phoenix, AZ, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=878b0744411a1f9f) | 2026-10-15 06:44 |
 | American Express | Sr Software Engineer II - Enterprise Architecture | New York, NY, USA USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2c8166ffe447c83c) | 2026-10-15 01:06 |
-| Hawaiian Electric Company, Inc. | Business Analytics Engineer Enterprise - Oahu | Honolulu, HI, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=773b8c018503ce6a) | 2026-10-15 01:06 |
 | Scotts Miracle-Gro | Senior Analyst, Cloud Computing Engineering | Marysville, OH, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6bea707502768347) | 2026-10-15 01:06 |
 | Goodwin Procter LLP | Data Engineer | Boston, MA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f385f431c05e95eb) | 2026-10-15 01:06 |
 | Anvi Corp Usa | Data Engineer | Plano, TX, USA USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=b908b59309fff889) | 2026-10-14 22:51 |
@@ -231,8 +245,6 @@ Last updated: 2026-10-15 01:06
 | Element 84 | Senior DevOps Engineer (Hub-Remote: DC or Philly Metro) | Alexandria, VA, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=cf2162b37870f256) | 2026-10-11 21:14 |
 | Karoo Health | Sr Data Engineer | Pittsburgh, PA, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=89a4ee98072606c4) | 2026-10-11 17:02 |
 | Innovya Technologies | Senior Data Engineer | Pasadena, CA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b0abbf70775a0e95) | 2026-10-11 17:02 |
-| Epsilon | Senior, Data Engineer | Chicago, IL, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=a4383f4a43e40098) | 2026-10-11 04:27 |
-| Paytm One97 Communications | Software Engineer | Storden, MN, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=de54c7ef6aacffc8) | 2026-10-11 04:27 |
 
 
 ---
