@@ -1,15 +1,36 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-15 17:30
+Last updated: 2026-10-15 20:43
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Culligan Water | Senior Power BI Developer | Rosemont, IL, USA USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=8647c65f36c20d2b) | 2026-10-15 20:43 |
+| Curium Pharmaceuticals | Senior Data Engineer | St. Louis, MO, USA USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=74dcc353cfba7710) | 2026-10-15 20:43 |
+| Arizona Cardinals | AI and Data Platform Engineer | Tempe, AZ, USA USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=e8efb074c3b86d52) | 2026-10-15 20:43 |
+| PACCAR | Data Engineer | Renton, WA, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=32eca10d6f924cc5) | 2026-10-15 20:43 |
+| Georgia Ports Authority | Senior AI Engineer | Savannah, GA, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=f7e912de19ae209d) | 2026-10-15 20:43 |
+| Azenta Life Sciences | Business Intelligence Engineer | Plainfield, IN, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=fcd026569b38732b) | 2026-10-15 20:43 |
+| OakBase Technologies | Cloud Engineer | San Antonio, TX, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7d89c18decc68ed9) | 2026-10-15 20:43 |
+| Hawaiian Electric Company, Inc. | Business Analytics Engineer Enterprise - Oahu | Honolulu, HI, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=773b8c018503ce6a) | 2026-10-15 20:43 |
+| Capgemini | full stack engineer | Bellevue, WA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e4fbdc6495bc8652) | 2026-10-15 20:43 |
+| Performance Contracting | Senior DevSecOps Engineer | Lenexa, KS, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=73b2fdc93de024bc) | 2026-10-15 20:43 |
+| Huron Consulting Group | Sr. QA Test Engineer (Quality Assurance) | Chicago, IL, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3932183df2db1bef) | 2026-10-15 20:43 |
+| Naval Nuclear Laboratory | Data & AI Engineer, Advanced | West Mifflin, PA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=20f9b8cc2e198256) | 2026-10-15 20:43 |
+| MUFG | Analyst – Data Products and AI Enablement | San Francisco, CA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=52c49e28c5180f66) | 2026-10-15 20:43 |
+| Naval Nuclear Laboratory | Data & AI Engineer, Advanced | Niskayuna, NY, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=1121cabf48789bf1) | 2026-10-15 20:43 |
+| Elyon International | Analytics Engineer | Washington, DC, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=507c4a778f7f2110) | 2026-10-15 20:43 |
+| MUFG | Analyst – Data Products and AI Enablement | San Francisco, CA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e6ad09cd2afe8d04) | 2026-10-15 20:43 |
+| Azenta Life Sciences | Senior Software Engineer | Plainfield, IN, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=88c8966dca72b6e1) | 2026-10-15 20:43 |
+| BioTouch | Data Warehouse Engineer | Midland, GA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=07325693acde4343) | 2026-10-15 20:43 |
+| Evolent | Senior Data and AI Engineer | Remote, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=203bb719c5957421) | 2026-10-15 20:43 |
+| LakeFusion | Senior Backend Engineer | Remote, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=685fcc351210ac8f) | 2026-10-15 20:43 |
+| Children's Healthcare of Atlanta | AI/ML Engineer | Brookhaven, GA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2dab3ac5d3446af2) | 2026-10-15 20:43 |
+| Luxoft | Senior Java Developer | Remote, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=190647565eda87d9) | 2026-10-15 20:43 |
 | Aptean | Data Engineer | Atlanta, GA, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1da230961b3d2ebf) | 2026-10-15 17:30 |
 | University of Colorado | Senior Application & Infrastructure Engineer | Aurora, CO, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=05aa475e334c5f53) | 2026-10-15 17:30 |
 | New York City Department of Sanitation | Data Engineer | New York, NY, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=864cc22c0d12e7cf) | 2026-10-15 17:30 |
-| Hawaiian Electric Company, Inc. | Business Analytics Engineer Enterprise - Oahu | Honolulu, HI, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=773b8c018503ce6a) | 2026-10-15 17:30 |
 | Performance Contracting | Senior DevSecOps Engineer | Lenexa, KS, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ea913bc89d514a1) | 2026-10-15 17:30 |
 | HCLTech | Group Technical Architect | USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7178fdfcf91f2406) | 2026-10-15 17:30 |
 | Symetri | Enterprise GIS Solutions Architect | USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=12b11aead05177eb) | 2026-10-15 17:30 |
