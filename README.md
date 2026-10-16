@@ -1,11 +1,24 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-16 17:05
+Last updated: 2026-10-16 20:16
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Techniche Software Solutions | Senior Database Engineer / Data Platform Engineer - Contract | Remote, USA USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=c608dc1a7f91a8fd) | 2026-10-16 20:16 |
+| Lowenstein Sandler | Data Engineer | Roseland, NJ, USA USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a132c337eb72501b) | 2026-10-16 20:16 |
+| EY | AID&E - AI Governance & Responsible AI - Senior - Consulting | New York, NY, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7623ac8c1f35092b) | 2026-10-16 20:16 |
+| Capgemini | Java Developer | San Antonio, TX, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=3da49be1f8af5184) | 2026-10-16 20:16 |
+| Altak Group | Senior Data Scientist | Remote, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=9a1b0e4f8d04d392) | 2026-10-16 20:16 |
+| ICW Group | AI Architect | Remote, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=342dda267d31c163) | 2026-10-16 20:16 |
+| TELUS Digital | Senior AWS Application Engineer | Ontario, CA, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=a9769a64429bfdf0) | 2026-10-16 20:16 |
+| American Express | Software Engineer III, Full Stack - Global Servicing Technology | Sunrise, FL, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=bf12a0beeb32108b) | 2026-10-16 20:16 |
+| Deloitte | AWS MarTech Developer - Delivery Consultant | Atlanta, GA, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=04f878d842549645) | 2026-10-16 20:16 |
+| BV Teck | Kafka Engineer | Remote, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=c54fb94ffc70f02c) | 2026-10-16 20:16 |
+| Buildertrend | Senior Data Engineer - Data Platform | Omaha, NE, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=b9e10df7e2a6a34c) | 2026-10-16 20:16 |
+| Realign | Senior Snowflake Platform Engineer | IL, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=f64ebc7fe9e07abe) | 2026-10-16 20:16 |
+| LakeFusion | Software Engineer - Backend | Remote, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=71bf44c1b8f903d7) | 2026-10-16 20:16 |
 | Capgemini | Java Full Stack Engineer | Dallas, TX, USA USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=618da1fd3349a9e4) | 2026-10-16 17:05 |
 | New Hampshire Mutual Bancorp | Data Engineer | Concord, NH, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=013237d4696c82bd) | 2026-10-16 17:05 |
 | Vforce Infotech | Data Engineer | Edison, NJ, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=257cf3b26e3ac665) | 2026-10-16 17:05 |
