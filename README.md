@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-16 02:18
+Last updated: 2026-10-16 07:41
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cognizant | Java Full Stack Engineer | Sunnyvale, CA, USA USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=96ed61fbb4cf30f4) | 2026-10-16 07:41 |
+| Deloitte | AWS MarTech Developer - Delivery Consultant | Mechanicsburg, PA, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0340e7637c307ecd) | 2026-10-16 07:41 |
+| Aptean | Data Engineer | Alpharetta, GA, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=56720452d0029ef6) | 2026-10-16 07:41 |
+| TELUS Digital | Senior AWS Application Engineer | Charlottesville, VA, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=cb6e5f849c66e88e) | 2026-10-16 07:41 |
+| Symple Lending | Data Engineer | Tampa, FL, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=eb3df57ec03be7e2) | 2026-10-16 07:41 |
+| Consertus | Power BI Developer | Austin, TX, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=38e8eea54405bd1d) | 2026-10-16 07:41 |
+| Block | Security Engineer - Network Edge Security | San Francisco Bay Area, CA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d42cd7af563ba184) | 2026-10-16 07:41 |
+| CVS Health | Data Engineer - People Analytics | Montgomery, AL, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=25b838a42e38537c) | 2026-10-16 07:41 |
 | Mayo Clinic | Jobs for you | Rochester, MN, USA USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=e3c0ce292aee499f) | 2026-10-16 02:18 |
 | Infinitive Inc | Consultant, Data Engineer | McLean, VA, USA USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=422d054892229b68) | 2026-10-16 02:18 |
 | Coastal | Data Platform Architect (Data 360) | Remote, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=144b94b2b27849cf) | 2026-10-16 02:18 |
@@ -311,8 +319,6 @@ Last updated: 2026-10-16 02:18
 | Optum | Senior DevOps Engineer | Eden Prairie, MN, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=da31ce66bd2bac28) | 2026-10-12 16:19 |
 | Baker Tilly Canada | Associate Data Engineer | Tampa, FL, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=46b2f59b4f79c5de) | 2026-10-12 16:19 |
 | Siemens Healthineers | Enterprise Imaging Solutions Engineer – Healthcare IT-Remote within the US | Malvern, PA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=97b19b6f1b88b438) | 2026-10-12 16:19 |
-| Visibol | Software Engineer | Chicago, IL, USA USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=6cdaf76f16c112ab) | 2026-10-12 06:47 |
-| Well Beam Inc | Senior DevSecOps Engineer | USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2488604858d657c6) | 2026-10-12 06:47 |
 
 
 ---
