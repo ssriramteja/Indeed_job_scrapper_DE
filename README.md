@@ -1,12 +1,30 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-15 23:26
+Last updated: 2026-10-16 02:18
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Hawaiian Electric Company, Inc. | Business Analytics Engineer Enterprise - Oahu | Honolulu, HI, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=773b8c018503ce6a) | 2026-10-15 23:26 |
+| Mayo Clinic | Jobs for you | Rochester, MN, USA USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=e3c0ce292aee499f) | 2026-10-16 02:18 |
+| Infinitive Inc | Consultant, Data Engineer | McLean, VA, USA USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=422d054892229b68) | 2026-10-16 02:18 |
+| Coastal | Data Platform Architect (Data 360) | Remote, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=144b94b2b27849cf) | 2026-10-16 02:18 |
+| Mayo Clinic | Jobs for you | Rochester, MN, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0635572d7c2a952f) | 2026-10-16 02:18 |
+| TELUS Digital | Senior AWS Application Engineer | Durham, NC, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=7548e960636fc13c) | 2026-10-16 02:18 |
+| Deloitte | AWS MarTech Developer - Delivery Consultant | Lake Mary, FL, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=35f5106dd1d1fe70) | 2026-10-16 02:18 |
+| Clear Capital | Senior Data Infrastructure Engineer | Reno, NV, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=c9401910d281a0d3) | 2026-10-16 02:18 |
+| State of Oklahoma | Business Intelligence Engineer | OK, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=316ab24eebea3950) | 2026-10-16 02:18 |
+| CapCenter | AI Software Engineer | Glen Allen, VA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=8d1e91f59b7cddbc) | 2026-10-16 02:18 |
+| Salesforce | Software Engineering - MTS, Trust Intelligence Platform | San Francisco, CA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d3c899c503e1ea64) | 2026-10-16 02:18 |
+| CVS Health | Data Engineer - People Analytics | Jackson, MS, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=11ebe194a1359236) | 2026-10-16 02:18 |
+| CVS Health | Data Engineer - People Analytics | Charleston, WV, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6af5eb4b93d62c15) | 2026-10-16 02:18 |
+| CVS Health | Data Engineer - People Analytics | Jackson, MS, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a742b56a01106583) | 2026-10-16 02:18 |
+| GM Financial | Machine Learning Operations-Engineer II | Irving, TX, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=98106ef012e89694) | 2026-10-16 02:18 |
+| Cisco | Site Reliability Engineer (Remote) | Dallas, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=b05d9edb91b34040) | 2026-10-16 02:18 |
+| Deloitte | Palantir Application Engineer | Houston, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3fc1fa95303fa132) | 2026-10-16 02:18 |
+| yasmin@assemblyworksco.com | Backend Engineer | Louisville, KY, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f9cb4df5534720f9) | 2026-10-16 02:18 |
+| Z&E MANAGEMENT SERVICES CORP | Senior Software Engineer (FIV) | Houston, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60dce8a7b936d462) | 2026-10-16 02:18 |
+| CVS Health | Senior Software Development Engineer | TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6ab782b271a73002) | 2026-10-16 02:18 |
 | Monumental Sports & Entertainment | Senior Infrastructure & Platform Engineer | Washington, DC, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=c83099662b4f529b) | 2026-10-15 23:26 |
 | Lennar | Sr. Software Engineer | Miami, FL, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ee54c8bb60a99024) | 2026-10-15 23:26 |
 | The University of Chicago | Senior DevOps Engineer | Chicago, IL, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=8aa405c41bf04634) | 2026-10-15 23:26 |
