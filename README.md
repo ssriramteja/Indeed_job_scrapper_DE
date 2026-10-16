@@ -1,11 +1,19 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-16 20:16
+Last updated: 2026-10-16 23:08
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Prolaio | Sr. Data Engineer | Chicago, IL, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=f1e6c438a9913e4f) | 2026-10-16 23:08 |
+| Visa | Software Development Engineer- Product Reliability Engineering | Highlands Ranch, CO, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=19bb11d6bd744f5f) | 2026-10-16 23:08 |
+| Advantage Investigations | Solution Architect, AI & Cloud | Thomasville, NC, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=34a6901254580e05) | 2026-10-16 23:08 |
+| Keck Medicine of USC | Data Scientist (ITS) | Los Angeles, CA, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=697b06d38d4865a9) | 2026-10-16 23:08 |
+| Berkshire Hathaway GUARD Insurance Companies | Data Engineer | Plano, TX, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2747e0e5fd2a07d7) | 2026-10-16 23:08 |
+| Snowflake | Senior Solution Engineer (Expansion) | Menlo Park, CA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=02e9257f6a31076a) | 2026-10-16 23:08 |
+| Patterson Companies | Cloud Architect | CA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=52f903c2e0d09915) | 2026-10-16 23:08 |
+| Amalgamated Bank | Senior AI Engineer | New York, NY, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=45ccb440c099e479) | 2026-10-16 23:08 |
 | Techniche Software Solutions | Senior Database Engineer / Data Platform Engineer - Contract | Remote, USA USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=c608dc1a7f91a8fd) | 2026-10-16 20:16 |
 | Lowenstein Sandler | Data Engineer | Roseland, NJ, USA USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=a132c337eb72501b) | 2026-10-16 20:16 |
 | EY | AID&E - AI Governance & Responsible AI - Senior - Consulting | New York, NY, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=7623ac8c1f35092b) | 2026-10-16 20:16 |
