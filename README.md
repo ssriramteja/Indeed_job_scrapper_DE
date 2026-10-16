@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-16 07:41
+Last updated: 2026-10-16 12:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Eccalon | Database Engineer Detroit | Detroit, MI, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=21edb2bdecbf61b1) | 2026-10-16 12:51 |
+| CME Group | Platform Engineer I | Chicago, IL, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=832f3f53a36aa70e) | 2026-10-16 12:51 |
+| TRC | IT-Engineer | Clifton Park, NY, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=aca652d2e35ef7a6) | 2026-10-16 12:51 |
+| CVS Health | Data Engineer - People Analytics | Montgomery, AL, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2a34d2988258872a) | 2026-10-16 12:51 |
+| Snowflake | Enterprise Account Executive (Telco) | Bellevue, WA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=65e1984b6c60dff9) | 2026-10-16 12:51 |
 | Cognizant | Java Full Stack Engineer | Sunnyvale, CA, USA USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=96ed61fbb4cf30f4) | 2026-10-16 07:41 |
 | Deloitte | AWS MarTech Developer - Delivery Consultant | Mechanicsburg, PA, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0340e7637c307ecd) | 2026-10-16 07:41 |
 | Aptean | Data Engineer | Alpharetta, GA, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=56720452d0029ef6) | 2026-10-16 07:41 |
