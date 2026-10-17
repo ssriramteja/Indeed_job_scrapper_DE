@@ -1,11 +1,18 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-17 07:19
+Last updated: 2026-10-17 11:51
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Capital One | Data Engineer 4, Real-time Data Platform | Plano, TX, USA USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=84b8331b9f96dda9) | 2026-10-17 11:51 |
+| Deloitte | Data Engineer II | Detroit, MI, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ec30982bb4277ab) | 2026-10-17 11:51 |
+| Micron Technology | Sr Engineer, ML, SMAI | Boise, ID, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9675119b3c7180b) | 2026-10-17 11:51 |
+| Disney Experiences | Sr Data Engineer | Anaheim, CA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=768f1a90f51d2256) | 2026-10-17 11:51 |
+| Deloitte | AI Engineer II | Jacksonville, FL, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=feed41e065eee097) | 2026-10-17 11:51 |
+| Deloitte | AI Engineer III | Atlanta, GA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=38b6d459902ead32) | 2026-10-17 11:51 |
+| Vibhutechinc | Databricks Platform Administrator – Azure & AWS | USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=3f4871c167266512) | 2026-10-17 11:51 |
 | Builders | Data Engineer | Atlanta, GA, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=1ea8c47e2b4c9527) | 2026-10-17 07:19 |
 | GM Financial | Data Engineer | Arlington, TX, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=e76753920938549c) | 2026-10-17 07:19 |
 | SEGULA Technologies | Data analyst/Data Engineer | Auburn Hills, MI, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=126acea1cfb07345) | 2026-10-17 07:19 |
