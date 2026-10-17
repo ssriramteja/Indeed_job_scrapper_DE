@@ -1,11 +1,16 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-17 14:40
+Last updated: 2026-10-17 17:38
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| EchoStar | Senior Data Warehouse Engineer | Englewood, CO, USA USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=50267e1f88400770) | 2026-10-17 17:38 |
+| HealthEdge Software, Inc. | DevOps Engineer | Remote, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e0648fe794d2cbb5) | 2026-10-17 17:38 |
+| Medallia | Senior Platform Engineer | McLean, VA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=0c77d94e427a3c49) | 2026-10-17 17:38 |
+| CVS Health | Senior Software Development Engineer | AL, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=42f767cc0538bac7) | 2026-10-17 17:38 |
+| HealthEdge Software, Inc. | Senior Software Engineer | Remote, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=8d11a19f488c0ecd) | 2026-10-17 17:38 |
 | Deloitte | AI Engineer II | St. Louis, MO, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=839f9dfae4453b23) | 2026-10-17 14:40 |
 | Capital One | Data Engineer 4, Real-time Data Platform | Plano, TX, USA USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=84b8331b9f96dda9) | 2026-10-17 11:51 |
 | Deloitte | Data Engineer II | Detroit, MI, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ec30982bb4277ab) | 2026-10-17 11:51 |
