@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-17 21:52
+Last updated: 2026-10-17 23:38
 
 ### 🚀 Daily Job Matches
 
@@ -280,42 +280,6 @@ Last updated: 2026-10-17 21:52
 | Curana Health | Data Engineer | Remote, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=60fb6c37a0a7b7f8) | 2026-10-14 02:45 |
 | Providence | Senior Data Engineer IS - Remote | Lubbock, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dd883687922931bc) | 2026-10-14 02:45 |
 | City of Charlotte, NC | I&T Data Services Analyst | Charlotte, NC, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=db0e9d7d87a6771b) | 2026-10-14 02:45 |
-| Leading Path Consulting | Systems Architect - TS/SCI w/ Poly required | Warrenton, VA, USA USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=51b2560066a45e46) | 2026-10-13 23:31 |
-| RCR Technology | Enterprise Data Warehouse (EDW) ETL/Data Engineer | Remote, USA USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=8800b92970b28dfb) | 2026-10-13 23:31 |
-| Natoli Engineering | Full-Stack Senior Developers | Saint Charles, MO, USA USA | 16.7% | [Apply](https://www.indeed.com/viewjob?jk=a9e928d074bdf699) | 2026-10-13 23:31 |
-| University of Maryland Global Campus | Analytics Engineer | Adelphi, MD, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=705ae459e19365e9) | 2026-10-13 23:31 |
-| Allstate Insurance | Software Engineer Senior Consultant I | Remote, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=e045cc6a43c6b4be) | 2026-10-13 23:31 |
-| Checkr | Senior Software Engineer, Data | San Francisco, CA, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d106c1338953198c) | 2026-10-13 23:31 |
-| Alchemy Cloud | DevOps / Infrastructure Engineer | Remote, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=5fb1e7413def7791) | 2026-10-13 23:31 |
-| University of Maryland Global Campus | Senior Analytics Engineer | Adelphi, MD, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=c1eb27537b9273b0) | 2026-10-13 23:31 |
-| RCR Technology | Senior Health Data Modeler | Remote, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=339b2689dab59d45) | 2026-10-13 23:31 |
-| Allstate Insurance | Senior AI Software Engineer | Remote, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=faf7d5b09dec217c) | 2026-10-13 23:31 |
-| McGuireWoods LLP | Data Architect | Atlanta, GA, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=166247ae6ba80226) | 2026-10-13 23:31 |
-| McGuireWoods LLP | Data Architect | Los Angeles, CA, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=493059cbcfb9f04e) | 2026-10-13 23:31 |
-| McKesson | Data Engineer | Irving, TX, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=954d7871d42f0836) | 2026-10-13 23:31 |
-| IHG Hotels & Resorts | Senior Database Engineer | Atlanta, GA, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a595a72e3d3f9968) | 2026-10-13 23:31 |
-| Fiserv | Sr. Support & Post-Release Quality Engineer | Berkeley Heights, NJ, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=5898f422bfe5208e) | 2026-10-13 23:31 |
-| IGT | Engineer Data II | Las Vegas, NV, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=0da8f75cf9c2b540) | 2026-10-13 23:31 |
-| DoorDash | Software Engineer, Data Engineering | San Francisco, CA, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=9d247a00ef97cfce) | 2026-10-13 23:31 |
-| Fannie Mae | Jr. Cloud Automation Engineer | Reston, VA, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5c700c5ee304c350) | 2026-10-13 23:31 |
-| o3 Solutions | Senior Cloud Engineer | Remote, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2ea8f0126c1468fe) | 2026-10-13 23:31 |
-| Living Spaces | Marketing Data Engineer | La Mirada, CA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=91f01e86c7eb2733) | 2026-10-13 23:31 |
-| Shift4 | Data Platform Engineer | Center Valley, PA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=41844b46aff0cb0b) | 2026-10-13 23:31 |
-| SDG Group | Senior Databrick Data Engineering Consultant | Chicago, IL, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=3e85cb5ceb58b2cf) | 2026-10-13 23:31 |
-| Autodesk | Senior Software Applications Engineer | San Francisco, CA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=9b2b4867303bf280) | 2026-10-13 23:31 |
-| Rockwell Automation | Senior Software Engineer - DevOps (Plex) | Mayfield Heights, OH, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ad8cadc6544ff917) | 2026-10-13 23:31 |
-| Surescripts | Software Engineer | USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=e4483784feda6d19) | 2026-10-13 23:31 |
-| SpyCloud | Data Engineer II | Austin, TX, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a034f20a9a1e8675) | 2026-10-13 23:31 |
-| bp | Senior Development Systems Engineer | Houston, TX, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=671aed3088e72832) | 2026-10-13 23:31 |
-| General Motors (GM) | Senior Data Engineer - Vehicle Quality Engineering | Warren, MI, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=744a3cb2d6fb585e) | 2026-10-13 23:31 |
-| Providence | Senior Data Engineer IS - Remote | WA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=077367514f0c7f89) | 2026-10-13 23:31 |
-| AnewHealth | Data Engineer | Cleveland, OH, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9b077b090cd4d1ef) | 2026-10-13 23:31 |
-| CSAA Insurance Group, a AAA Insurer | Software Engineer III, Data Platform Operations - Remote | Phoenix, AZ, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=dbdb7a9bff45af0a) | 2026-10-13 23:31 |
-| EAPPS TECH LLC dba Magicforce | Databricks Platform Engineer / AI-MLOps Engineer | Chicago, IL, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=bbf9bfd089ca9e4c) | 2026-10-13 23:31 |
-| Providence | Senior Data Engineer IS - Remote | Plainview, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=0361db4f39d8edb9) | 2026-10-13 23:31 |
-| U.S. Bank | Software Engineer 2 – Java, Generative AI, RAG & Cloud Engineering | Hopkins, MN, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fdfcf5a045e444da) | 2026-10-13 23:31 |
-| Localize | Senior Devops Engineer | Remote, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=64a275f552b9e37f) | 2026-10-13 23:31 |
-| Siemens Healthineers | Enterprise Imaging Solutions Engineer – Healthcare IT-Remote within the US | Malvern, PA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4ef875202e4d9683) | 2026-10-13 23:31 |
 
 
 ---
