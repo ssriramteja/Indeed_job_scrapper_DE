@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-17 11:51
+Last updated: 2026-10-17 14:40
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Deloitte | AI Engineer II | St. Louis, MO, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=839f9dfae4453b23) | 2026-10-17 14:40 |
 | Capital One | Data Engineer 4, Real-time Data Platform | Plano, TX, USA USA | 18.8% | [Apply](https://www.indeed.com/viewjob?jk=84b8331b9f96dda9) | 2026-10-17 11:51 |
 | Deloitte | Data Engineer II | Detroit, MI, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=4ec30982bb4277ab) | 2026-10-17 11:51 |
 | Micron Technology | Sr Engineer, ML, SMAI | Boise, ID, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=d9675119b3c7180b) | 2026-10-17 11:51 |
@@ -323,17 +324,6 @@ Last updated: 2026-10-17 11:51
 | Siemens Healthineers | Enterprise Imaging Solutions Engineer – Healthcare-Remote within the US | Malvern, PA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=41d006ba3e7f262a) | 2026-10-13 19:39 |
 | Arizona State University | Senior Web Site Developer Engineer | Tempe, AZ, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=86b7bf97bf3d08af) | 2026-10-13 19:39 |
 | Equiniti | Sr Site Reliability Engineer | Woburn, MA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4c4b84101d3572ca) | 2026-10-13 19:39 |
-| BV Teck | Big Data Engineer | Remote, USA USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=e3693c9cd5da878e) | 2026-10-13 12:20 |
-| Visibol | Software Engineer | Los Angeles, CA, USA USA | 17.4% | [Apply](https://www.indeed.com/viewjob?jk=d87fe4de2e714f22) | 2026-10-13 12:20 |
-| McGuireWoods LLP | Data Architect | Richmond, VA, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=d9ef5abedca53bda) | 2026-10-13 12:20 |
-| MoneyGram | US- Java Engineer - Pricing | Remote, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=2c9eb4c3615ab029) | 2026-10-13 12:20 |
-| CVS Health | Senior Data Engineer - PostgreSQL and MongoDB | NY, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=2b4a15665a910f8e) | 2026-10-13 12:20 |
-| JPMorganChase | Python- AI Software Engineer III | Wilmington, DE, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c5aa4a9fbcd4b6c3) | 2026-10-13 12:20 |
-| Young Living Essential Oils | Software Engineer I / II — AWS & .NET | Lehi, UT, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=527fb8088c169f3f) | 2026-10-13 12:20 |
-| Origami Risk LLC | DevOps Engineer, Platform | Remote, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=9968e46f0d946d92) | 2026-10-13 12:20 |
-| Shield Healthcare | Data Integration Engineer | Valencia, CA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=fcb7ae63ee72e66e) | 2026-10-13 12:20 |
-| OneKey MLS | Data Engineer | Farmingdale, NY, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=75651bec84129cee) | 2026-10-13 12:20 |
-| United Nations | Data Engineer (Two Positions), P3 | New York, NY, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=94213dc00fbf6a3a) | 2026-10-13 12:20 |
 
 
 ---
