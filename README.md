@@ -1,11 +1,15 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-17 19:51
+Last updated: 2026-10-17 21:52
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Retail Insight Ltd | Senior Data Engineer | Chicago, IL, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=af18011016b66924) | 2026-10-17 21:52 |
+| College Board | Senior Engineer, Agentic Engineering Governance, Open Source | Remote, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c8aaa98c8c3416fe) | 2026-10-17 21:52 |
+| Deloitte | Data Engineer II | San Antonio, TX, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=3095e1cfea593b51) | 2026-10-17 21:52 |
+| Deloitte | AI Engineer III | Philadelphia, PA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=bfa5d49c34da51a2) | 2026-10-17 21:52 |
 | Slalom Consulting | Google Data Architect | Atlanta, GA, USA USA | 20.1% | [Apply](https://www.indeed.com/viewjob?jk=22dabb7901b93b25) | 2026-10-17 19:51 |
 | Humana | Senior Cloud Services Engineer | FL, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=a751147483648c6e) | 2026-10-17 19:51 |
 | Deloitte | Data Engineer II | Baltimore, MD, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=243ef26306c7b85a) | 2026-10-17 19:51 |
