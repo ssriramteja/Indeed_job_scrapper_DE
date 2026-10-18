@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-18 12:17
+Last updated: 2026-10-18 16:14
 
 ### 🚀 Daily Job Matches
 
@@ -244,10 +244,6 @@ Last updated: 2026-10-18 12:17
 | ScanSource | BI Specialist II | Greenville, SC, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=654d639496cd0389) | 2026-10-14 19:04 |
 | BV Teck | Data Infrastructure Architect | Remote, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=2afaeff725cfa829) | 2026-10-14 19:04 |
 | Realign | Java Developer with React | Chicago, IL, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=e1346e9fc73ad3d4) | 2026-10-14 19:04 |
-| VTG Defense | Systems Architect, SME | Tysons Corner, VA, USA USA | 23.6% | [Apply](https://www.indeed.com/viewjob?jk=74acab416de0ee2f) | 2026-10-14 14:11 |
-| Pennant Solutions Group | Data Architect | Richmond, VA, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9c84e90f22435c1) | 2026-10-14 14:11 |
-| UL Research Institutes | Data Engineer - Materials Discovery Research Institute | Skokie, IL, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f01d33f572b2baf0) | 2026-10-14 14:11 |
-| First Citizens Bank | Data Engineer I - Data Platform | Phoenix, AZ, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cedacf7246745512) | 2026-10-14 14:11 |
 
 
 ---
