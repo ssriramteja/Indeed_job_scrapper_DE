@@ -1,11 +1,12 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-18 19:05
+Last updated: 2026-10-18 22:03
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| The Walt Disney Studios | Senior Site Reliability Engineer | Burbank, CA, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a305eedaa5ea3e71) | 2026-10-18 22:03 |
 | Westley Resource | Forward Deployed Engineer | Remote, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=203d1d5d70a09d61) | 2026-10-18 07:33 |
 | Retail Insight Ltd | Senior Data Engineer | Chicago, IL, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=af18011016b66924) | 2026-10-17 21:52 |
 | College Board | Senior Engineer, Agentic Engineering Governance, Open Source | Remote, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=c8aaa98c8c3416fe) | 2026-10-17 21:52 |
