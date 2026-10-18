@@ -1,6 +1,6 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-18 07:33
+Last updated: 2026-10-18 12:17
 
 ### 🚀 Daily Job Matches
 
@@ -248,17 +248,6 @@ Last updated: 2026-10-18 07:33
 | Pennant Solutions Group | Data Architect | Richmond, VA, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=b9c84e90f22435c1) | 2026-10-14 14:11 |
 | UL Research Institutes | Data Engineer - Materials Discovery Research Institute | Skokie, IL, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=f01d33f572b2baf0) | 2026-10-14 14:11 |
 | First Citizens Bank | Data Engineer I - Data Platform | Phoenix, AZ, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cedacf7246745512) | 2026-10-14 14:11 |
-| Capgemini | Full Stack Developer - Node/ React/ AWS | Dallas, TX, USA USA | 20.8% | [Apply](https://www.indeed.com/viewjob?jk=9f52c644d636f81c) | 2026-10-14 08:12 |
-| Mutual of Omaha Mortgage | Senior Business Intelligence Engineer | Irvine, CA, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=d76024005e194d69) | 2026-10-14 08:12 |
-| Humana | Software Engineer 2 | Dallas, TX, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=25ed6474978b921d) | 2026-10-14 08:12 |
-| Mastercard | Senior Software Engineer - Java Full Stack & AI | O'Fallon, MO, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7e59f1d190af6811) | 2026-10-14 08:12 |
-| Intuit | Senior Software Engineer - Data Platform | Mountain View, CA, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=fc0f0441157327ec) | 2026-10-14 08:12 |
-| Citi | Senior Full Stack .NET Software Engineer | Irving, TX, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=324384e3bfc85ae8) | 2026-10-14 08:12 |
-| HCLTech | Technical Architect | USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=957d4afb6a9b1121) | 2026-10-14 08:12 |
-| Truist | Sr. Infrastructure Solutions Engineer | Charlotte, NC, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d224d690c8e329fc) | 2026-10-14 08:12 |
-| Truist | Infrastructure Solutions Engineer | Atlanta, GA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=ad7f4e300e647e15) | 2026-10-14 08:12 |
-| Humana | Software Engineer | Dallas, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=02e9aac59a0c85c9) | 2026-10-14 08:12 |
-| FUKU | Site Reliability Engineer SRE - Internationalisation | San Francisco, CA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=fc4d0d149bc3cb1a) | 2026-10-14 08:12 |
 
 
 ---

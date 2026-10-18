@@ -1,22 +1,11 @@
 # 🎯 Daily Job Matches — 2026-10-18
 
-**Total Jobs Found:** 10
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer 4, Real-time Data Platform @ Capital One
-**Match Score:** 18.8%
-
-📍 **Location:** Plano, TX, USA USA
-
-🔑 **Keywords:** AWS, Glue, EMR, Redshift, RDS, Azure, Databricks, Spark, Scala, Spark Streaming
-
-[Apply Here](https://www.indeed.com/viewjob?jk=84b8331b9f96dda9)
-
----
-
-## 2. Senior Data Warehouse Engineer @ EchoStar
+## 1. Senior Data Warehouse Engineer @ EchoStar
 **Match Score:** 17.4%
 
 📍 **Location:** Englewood, CO, USA USA
@@ -27,7 +16,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. DevOps Engineer @ HealthEdge Software, Inc.
+## 2. DevOps Engineer @ HealthEdge Software, Inc.
 **Match Score:** 16.0%
 
 📍 **Location:** Remote, USA USA
@@ -38,7 +27,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 4. Forward Deployed Engineer @ Westley Resource
+## 3. Forward Deployed Engineer @ Westley Resource
 **Match Score:** 15.3%
 
 📍 **Location:** Remote, USA USA
@@ -49,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 5. Senior Data Engineer @ Retail Insight Ltd
+## 4. Senior Data Engineer @ Retail Insight Ltd
 **Match Score:** 13.9%
 
 📍 **Location:** Chicago, IL, USA USA
@@ -60,7 +49,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 6. Senior Engineer, Agentic Engineering Governance, Open Source @ College Board
+## 5. Senior Engineer, Agentic Engineering Governance, Open Source @ College Board
 **Match Score:** 12.5%
 
 📍 **Location:** Remote, USA USA
@@ -71,7 +60,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 7. Senior Platform Engineer @ Medallia
+## 6. Senior Platform Engineer @ Medallia
 **Match Score:** 12.5%
 
 📍 **Location:** McLean, VA, USA USA
@@ -82,18 +71,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 8. Sr Engineer, ML, SMAI @ Micron Technology
-**Match Score:** 11.8%
-
-📍 **Location:** Boise, ID, USA USA
-
-🔑 **Keywords:** AWS, RDS, Azure, GCP, Dataflow, Scala, Kafka, Snowflake, ETL, ELT
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d9675119b3c7180b)
-
----
-
-## 9. Senior Software Engineer @ HealthEdge Software, Inc.
+## 7. Senior Software Engineer @ HealthEdge Software, Inc.
 **Match Score:** 10.4%
 
 📍 **Location:** Remote, USA USA
@@ -101,17 +79,6 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 🔑 **Keywords:** AWS, Azure, Scala, CI/CD, Jenkins, Maven, Docker, Kubernetes, Jenkins, Git
 
 [Apply Here](https://www.indeed.com/viewjob?jk=8d11a19f488c0ecd)
-
----
-
-## 10. Databricks Platform Administrator – Azure & AWS @ Vibhutechinc
-**Match Score:** 10.4%
-
-📍 **Location:** USA USA
-
-🔑 **Keywords:** AWS, S3, IAM, Azure, Databricks, Data Lake Storage, Unity Catalog, Spark, CI/CD, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3f4871c167266512)
 
 ---
 
