@@ -1,16 +1,32 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-19 11:35
+Last updated: 2026-10-19 17:58
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Revstar | Databricks Forward Deployed Engineer | TX, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=9487189cf1ce078a) | 2026-10-19 17:58 |
+| BV Teck | Java Application Architect | Remote, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=66bbf18d8af2a6ff) | 2026-10-19 17:58 |
+| Revstar | Databricks Forward Deployed Engineer | FL, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=0b06c504c630d06c) | 2026-10-19 17:58 |
+| Revstar | Data & AI Engineer | VA, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=93a8b56d1860b57b) | 2026-10-19 17:58 |
+| Revstar | Data & AI Engineer | GA, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=7238ddca48d3e867) | 2026-10-19 17:58 |
+| BV Teck | OCI Solutions Architect | Remote, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=af6af62a6d02e79a) | 2026-10-19 17:58 |
+| Integrity Express Logistics | Analytics Engineer, Associate | Cincinnati, OH, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=67b743d65f4b7d93) | 2026-10-19 17:58 |
+| Techsur Solutions | Full Stack Java Developer | Reston, VA, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=62a75c0bc2ea3dff) | 2026-10-19 17:58 |
+| Healthix | Data Analyst | New York, NY, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=e4f218e26bf82748) | 2026-10-19 17:58 |
+| Southern Company | Data Engineer – Azure Databricks and Cloud Data Solutions (Safety) | Birmingham, AL, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7758a0009c0207a2) | 2026-10-19 17:58 |
+| Syntiant Corp | DevOps Machine Learning Infrastructure | Redwood City, CA, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=f9b6d2e723c537f7) | 2026-10-19 17:58 |
+| JMARK Business Solutions, Inc. | Cloud Systems Administrator and Developer II | Springfield, MO, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=93db17295ea8644d) | 2026-10-19 17:58 |
+| Firehouse Subs | Analyst, Data Engineer, Firehouse Subs | Jacksonville, FL, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=a48e0afee3045f50) | 2026-10-19 17:58 |
+| McKesson | Data Analytics Engineer | Irving, TX, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=c7e9a2aa1706c94b) | 2026-10-19 17:58 |
+| Revstar | DevOps Forward Deployed Engineer | FL, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=663a25b79e0b53be) | 2026-10-19 17:58 |
+| Revstar | DevOps Forward Deployed Engineer | TX, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=56016491aa37bf6c) | 2026-10-19 17:58 |
+| Princess | Marketing Enablement Platform Engineer | Miami, FL, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=26ba939799dd2e43) | 2026-10-19 17:58 |
 | Revstar | Data & AI Engineer | IL, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=6f7b2d8efc3f839d) | 2026-10-19 11:35 |
 | Revstar | Data & AI Engineer | NJ, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a719323347467085) | 2026-10-19 11:35 |
 | Revstar | Data & AI Engineer | ME, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=75edeac96c9cb9a0) | 2026-10-19 11:35 |
 | Cisco | Software Engineer | Research Triangle Park, NC, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=1f3d89fb837011e9) | 2026-10-19 11:35 |
-| Southern Company | Data Engineer – Azure Databricks and Cloud Data Solutions (Safety) | Birmingham, AL, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7758a0009c0207a2) | 2026-10-19 11:35 |
 | Trading Technologies | Data Engineer | New York, NY, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=ba95ea6670a9b3d3) | 2026-10-19 11:35 |
 | SANTEE COOPER | Solution Architect - Data | Moncks Corner, SC, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=d0dc4750fd2d1381) | 2026-10-19 11:35 |
 | Optum | Senior Data Engineer - Remote | Eden Prairie, MN, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=92800e8ae0ec90fd) | 2026-10-19 05:29 |
@@ -171,31 +187,6 @@ Last updated: 2026-10-19 11:35
 | LakeFusion | Senior Backend Engineer | Remote, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=685fcc351210ac8f) | 2026-10-15 20:43 |
 | Children's Healthcare of Atlanta | AI/ML Engineer | Brookhaven, GA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=2dab3ac5d3446af2) | 2026-10-15 20:43 |
 | Luxoft | Senior Java Developer | Remote, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=190647565eda87d9) | 2026-10-15 20:43 |
-| Aptean | Data Engineer | Atlanta, GA, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=1da230961b3d2ebf) | 2026-10-15 17:30 |
-| University of Colorado | Senior Application & Infrastructure Engineer | Aurora, CO, USA USA | 13.9% | [Apply](https://www.indeed.com/viewjob?jk=05aa475e334c5f53) | 2026-10-15 17:30 |
-| New York City Department of Sanitation | Data Engineer | New York, NY, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=864cc22c0d12e7cf) | 2026-10-15 17:30 |
-| Performance Contracting | Senior DevSecOps Engineer | Lenexa, KS, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7ea913bc89d514a1) | 2026-10-15 17:30 |
-| HCLTech | Group Technical Architect | USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=7178fdfcf91f2406) | 2026-10-15 17:30 |
-| Symetri | Enterprise GIS Solutions Architect | USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=12b11aead05177eb) | 2026-10-15 17:30 |
-| Grainger | Senior Data Engineer | Lake Forest, IL, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=cac6d9c5d5ce170c) | 2026-10-15 17:30 |
-| Naval Nuclear Laboratory | Data & AI Engineer, Advanced | Niskayuna, NY, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=7a1ff9a7450560f5) | 2026-10-15 17:30 |
-| Intellibee Inc | Senior Data Engineer | Seattle, WA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=dc48d60affb891da) | 2026-10-15 17:30 |
-| GeoVisual Analytics | Part time Sr. Software Engineer | USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=e946bc71de41def8) | 2026-10-15 17:30 |
-| Luxoft | Senior BI Platform Operations Engineer | New York, NY, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=cce3223e9c173979) | 2026-10-15 17:30 |
-| Proper Hospitality | Analytics Engineer, Data Platform | Santa Monica, CA, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=9155639e76e6a19f) | 2026-10-15 17:30 |
-| U.S. Bank | Software Engineer 1 – Full-stack, Generative AI, Cloud | Irving, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=15607638a498d15d) | 2026-10-15 17:30 |
-| McKesson | Senior Software Engineer | Irving, TX, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=4a185408c7e15aee) | 2026-10-15 17:30 |
-| BNY | Senior Associate, Full-Stack Engineer | Jersey City, NJ, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=d9e726e5fe8044bc) | 2026-10-15 17:30 |
-| Steampunk | Data Engineer - Databricks | McLean, VA, USA USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=e85753248df0ad36) | 2026-10-15 12:18 |
-| Capgemini | Associate Data Engineer | Nashville, TN, USA USA | 16.0% | [Apply](https://www.indeed.com/viewjob?jk=b6a8059421c16401) | 2026-10-15 12:18 |
-| ALTEN | Data Engineer | Dallas, TX, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=5ff7263397b593ad) | 2026-10-15 12:18 |
-| Capgemini | SRE - DevOps Engineer | Atlanta, GA, USA USA | 13.2% | [Apply](https://www.indeed.com/viewjob?jk=ed982ec7d62db1ac) | 2026-10-15 12:18 |
-| JPMorganChase | Software and Data Engineer - Software Engineer III- Agentic Pricing | Jersey City, NJ, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=2b363a6b62d7ea4b) | 2026-10-15 12:18 |
-| Capgemini | Senior Data Engineer - Databricks | New York, NY, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=d0cd3bb4e3adcf71) | 2026-10-15 12:18 |
-| MORRISON & FOERSTER | Senior Cloud Systems Engineer | San Francisco, CA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=990ad175fc5efc37) | 2026-10-15 12:18 |
-| Caloptima | Clinical Data & Reporting Analyst (Data Warehouse Reporting Analyst Sr) | Orange, CA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=7fcabb0ebbce5f77) | 2026-10-15 12:18 |
-| Information Technology Senior Management Forum | Sr. Infrastructure Solutions Engineer | Charlotte, NC, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=6c3e35556ad89ece) | 2026-10-15 12:18 |
-| U.S. Bank | Software Engineer 1 – Full-stack, Generative AI, Cloud | Brookfield, WI, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=30ea3ac63f50ac91) | 2026-10-15 12:18 |
 
 
 ---
