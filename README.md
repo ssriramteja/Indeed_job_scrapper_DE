@@ -1,11 +1,13 @@
 # 🎯 Job Search Alert System
 
-Last updated: 2026-10-19 00:36
+Last updated: 2026-10-19 05:29
 
 ### 🚀 Daily Job Matches
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Optum | Senior Data Engineer - Remote | Eden Prairie, MN, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=92800e8ae0ec90fd) | 2026-10-19 05:29 |
+| Mindos | Collaboration Engineer | New York, NY, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=12f39cbbefa0dc98) | 2026-10-19 05:29 |
 | Triade Flevoland | Data Pipeline Engineer — Apache Airflow (Astronomer) & Python | Remote, USA USA | 11.8% | [Apply](https://www.indeed.com/viewjob?jk=41823bf35722426c) | 2026-10-19 00:36 |
 | The Walt Disney Studios | Senior Site Reliability Engineer | Burbank, CA, USA USA | 14.6% | [Apply](https://www.indeed.com/viewjob?jk=a305eedaa5ea3e71) | 2026-10-18 22:03 |
 | Westley Resource | Forward Deployed Engineer | Remote, USA USA | 15.3% | [Apply](https://www.indeed.com/viewjob?jk=203d1d5d70a09d61) | 2026-10-18 07:33 |
@@ -201,9 +203,6 @@ Last updated: 2026-10-19 00:36
 | U.S. Bank | Software Engineer 1 – Full-stack, Generative AI, Cloud | Charlotte, NC, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=f805338655922417) | 2026-10-15 06:44 |
 | Capgemini | Java Full Stack Software Engineer | Chicago, IL, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=6899e4e4be880d8d) | 2026-10-15 06:44 |
 | Honeywell | Advanced AI Software Engineer | Phoenix, AZ, USA USA | 10.4% | [Apply](https://www.indeed.com/viewjob?jk=878b0744411a1f9f) | 2026-10-15 06:44 |
-| American Express | Sr Software Engineer II - Enterprise Architecture | New York, NY, USA USA | 18.1% | [Apply](https://www.indeed.com/viewjob?jk=2c8166ffe447c83c) | 2026-10-15 01:06 |
-| Scotts Miracle-Gro | Senior Analyst, Cloud Computing Engineering | Marysville, OH, USA USA | 12.5% | [Apply](https://www.indeed.com/viewjob?jk=6bea707502768347) | 2026-10-15 01:06 |
-| Goodwin Procter LLP | Data Engineer | Boston, MA, USA USA | 11.1% | [Apply](https://www.indeed.com/viewjob?jk=f385f431c05e95eb) | 2026-10-15 01:06 |
 
 
 ---

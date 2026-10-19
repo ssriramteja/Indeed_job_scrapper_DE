@@ -1,22 +1,33 @@
 # 🎯 Daily Job Matches — 2026-10-19
 
-**Total Jobs Found:** 3
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Forward Deployed Engineer @ Westley Resource
+## 1. Senior Data Engineer - Remote @ Optum
 **Match Score:** 15.3%
 
-📍 **Location:** Remote, USA USA
+📍 **Location:** Eden Prairie, MN, USA USA
 
-🔑 **Keywords:** AWS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, NoSQL, Data Modeling
+🔑 **Keywords:** AWS, Azure, Data Factory, Databricks, Unity Catalog, GCP, Spark, PySpark, Scala, Data Modeling
 
-[Apply Here](https://www.indeed.com/viewjob?jk=203d1d5d70a09d61)
+[Apply Here](https://www.indeed.com/viewjob?jk=92800e8ae0ec90fd)
 
 ---
 
-## 2. Senior Site Reliability Engineer @ The Walt Disney Studios
+## 2. Collaboration Engineer @ Mindos
+**Match Score:** 15.3%
+
+📍 **Location:** New York, NY, USA USA
+
+🔑 **Keywords:** AWS, RDS, Azure, Scala, Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, Cassandra
+
+[Apply Here](https://www.indeed.com/viewjob?jk=12f39cbbefa0dc98)
+
+---
+
+## 3. Senior Site Reliability Engineer @ The Walt Disney Studios
 **Match Score:** 14.6%
 
 📍 **Location:** Burbank, CA, USA USA
@@ -27,7 +38,7 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 3. Data Pipeline Engineer — Apache Airflow (Astronomer) & Python @ Triade Flevoland
+## 4. Data Pipeline Engineer — Apache Airflow (Astronomer) & Python @ Triade Flevoland
 **Match Score:** 11.8%
 
 📍 **Location:** Remote, USA USA
